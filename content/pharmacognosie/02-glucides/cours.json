@@ -1,0 +1,13 @@
+{
+  "id": "pharmacognosie/02-glucides",
+  "module": "pharmacognosie",
+  "ordre": 2,
+  "titre": "Les glucides",
+  "type": "cours",
+  "source": {
+    "driveId": "1ba6BSIxUgTHbX4DWRC4yIgk8WSRsDk21",
+    "fichier": "2. Les Glucides.pdf",
+    "modifiedTime": "2026-10-29T11:23:40Z"
+  },
+  "resume": "Généralités sur les glucides (classification, propriétés, analyse) puis oses, polyols, vitamine C, saccharose, cyclodextrines et polysaccharides (dextranes, alginates, carraghénanes, agar, amidon, cellulose, gommes, mucilages, pectines) utilisés en pharmacie."
+}

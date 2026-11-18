@@ -1,0 +1,2022 @@
+[
+  {
+    "id": "pharmacologie/10-bioequivalence/qcm-001",
+    "type": "multiple",
+    "enonce": "Le développement d'un médicament comporte :",
+    "options": [
+      "L'évaluation du dossier en vue de l'AMM",
+      "Les essais cliniques",
+      "Les études précliniques",
+      "La surveillance après commercialisation par la pharmacovigilance",
+      "La découverte ou la synthèse du principe actif"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Le cours cite toutes ces étapes, dont les données établissent la qualité, l'efficacité et la sécurité du médicament de référence.",
+    "source": {
+      "page": 1,
+      "extrait": "découverte ou synthèse du principe actif (PA), études précliniques, essais cliniques, évaluation du dossier"
+    },
+    "difficulte": 1,
+    "tags": [
+      "développement"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/qcm-002",
+    "type": "multiple",
+    "enonce": "Concernant le médicament générique :",
+    "options": [
+      "Il présente la même composition qualitative et quantitative en PA que la référence",
+      "Il doit avoir obligatoirement les mêmes excipients que le princeps",
+      "Il présente la même forme pharmaceutique que la référence",
+      "Son interchangeabilité repose sur la démonstration de l'équivalence thérapeutique",
+      "Il est commercialisé sur la base d'un dossier adapté, sans répéter l'intégralité du développement clinique"
+    ],
+    "correctes": [
+      0,
+      2,
+      3,
+      4
+    ],
+    "explication": "Le générique a la même composition en PA et la même forme pharmaceutique ; son interchangeabilité repose sur l'équivalence thérapeutique. Les excipients peuvent différer.",
+    "source": {
+      "page": 1,
+      "extrait": "Un générique présente la même composition qualitative et quantitative en PA et la même forme pharmaceutique que le médicament de référence."
+    },
+    "difficulte": 1,
+    "tags": [
+      "générique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/qcm-003",
+    "type": "multiple",
+    "enonce": "Entre un générique et son princeps, peuvent différer :",
+    "options": [
+      "Le prix",
+      "Les excipients",
+      "La composition quantitative en PA",
+      "Les procédés de fabrication",
+      "L'aspect et le conditionnement"
+    ],
+    "correctes": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "explication": "Excipients, procédés de fabrication, aspect, conditionnement et prix peuvent différer, sans compromettre qualité et performance. La composition en PA est identique.",
+    "source": {
+      "page": 1,
+      "extrait": "Les excipients, les procédés de fabrication, l'aspect, le conditionnement et le prix peuvent différer."
+    },
+    "difficulte": 1,
+    "tags": [
+      "générique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/qcm-004",
+    "type": "multiple",
+    "enonce": "Cochez les propositions justes :",
+    "options": [
+      "La bioéquivalence constitue, lorsqu'elle est applicable, un moyen de démontrer l'équivalence thérapeutique",
+      "La question centrale est de savoir si deux formulations délivrent une exposition suffisamment comparable",
+      "Le générique doit répéter l'intégralité du développement clinique du princeps",
+      "La seule présence du même PA à la même dose ne garantit pas une exposition identique",
+      "Le princeps peut bénéficier d'une protection par brevet"
+    ],
+    "correctes": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "explication": "Le même PA à la même dose ne garantit pas une exposition identique ; la bioéquivalence est un moyen de démontrer l'équivalence thérapeutique ; le générique ne répète pas tout le développement clinique.",
+    "source": {
+      "page": 1,
+      "extrait": "La seule présence du même PA à la même dose ne garantit pas une exposition identique."
+    },
+    "difficulte": 1,
+    "tags": [
+      "générique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/qcm-005",
+    "type": "unique",
+    "enonce": "Deux produits sont des équivalents chimiques s'ils :",
+    "options": [
+      "Renferment une quantité identique du même PA sous la même forme chimique",
+      "Contiennent la même quantité molaire du même PA dans la même forme pharmaceutique",
+      "Ont une efficacité et une sécurité similaires",
+      "Ont des biodisponibilités non significativement différentes",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Équivalents chimiques : quantité identique du même PA sous la même forme chimique. La proposition b correspond aux équivalents pharmaceutiques.",
+    "source": {
+      "page": 1,
+      "extrait": "Deux produits sont des équivalents chimiques, s'ils renferment une quantité identique du même PA sous la même forme chimique."
+    },
+    "difficulte": 1,
+    "tags": [
+      "équivalence chimique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/qcm-006",
+    "type": "multiple",
+    "enonce": "Deux produits sont des équivalents pharmaceutiques s'ils :",
+    "options": [
+      "Ont démontré une efficacité clinique identique",
+      "Sont présentés dans la même forme pharmaceutique",
+      "Sont destinés à être administrés par la même voie",
+      "Contiennent la même quantité molaire du même PA",
+      "Ont obligatoirement des excipients identiques"
+    ],
+    "correctes": [
+      1,
+      2,
+      3
+    ],
+    "explication": "Équivalence pharmaceutique : même quantité molaire du même PA, même forme pharmaceutique, même voie ; l'identité des excipients n'est pas obligatoire.",
+    "source": {
+      "page": 2,
+      "extrait": "l'identité des excipients n'est pas obligatoire."
+    },
+    "difficulte": 1,
+    "tags": [
+      "équivalence pharmaceutique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/qcm-007",
+    "type": "multiple",
+    "enonce": "Deux médicaments sont thérapeutiquement équivalents lorsque :",
+    "options": [
+      "Ils sont pharmaceutiquement équivalents",
+      "Ce qui permet leur interchangeabilité",
+      "Ils présentent une efficacité et une sécurité d'emploi essentiellement similaires",
+      "Administrés à la même dose molaire, par la même voie et dans les mêmes conditions",
+      "Toutes les propositions sont justes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Équivalence thérapeutique : équivalents pharmaceutiques qui, à même dose molaire, même voie, mêmes conditions, ont une efficacité et une sécurité essentiellement similaires, permettant l'interchangeabilité.",
+    "source": {
+      "page": 2,
+      "extrait": "ils présentent une efficacité et une sécurité d'emploi essentiellement similaires, ce qui permet leur interchangeabilité."
+    },
+    "difficulte": 1,
+    "tags": [
+      "équivalence thérapeutique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/qcm-008",
+    "type": "multiple",
+    "enonce": "Parmi les méthodes de démonstration de l'équivalence thérapeutique :",
+    "options": [
+      "Étude pharmacocinétique in vivo (bioéquivalence)",
+      "Étude de toxicité chronique chez l'animal",
+      "Essais in vitro : profils de dissolution comparative",
+      "Étude pharmacodynamique in vivo",
+      "Étude clinique comparative in vivo"
+    ],
+    "correctes": [
+      0,
+      2,
+      3,
+      4
+    ],
+    "explication": "Quatre approches : pharmacocinétique (bioéquivalence), pharmacodynamique, clinique comparative (in vivo) et essais in vitro de dissolution comparative.",
+    "source": {
+      "page": 2,
+      "extrait": "Essais in vitro : profils de dissolution comparative"
+    },
+    "difficulte": 1,
+    "tags": [
+      "méthodes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/qcm-009",
+    "type": "multiple",
+    "enonce": "Concernant les méthodes de démonstration de l'équivalence thérapeutique :",
+    "options": [
+      "L'étude pharmacodynamique compare un effet pharmacologique mesurable et sensible aux différences entre formulations",
+      "L'étude pharmacocinétique compare les concentrations du PA dans le temps après administration du test et de la référence",
+      "L'étude clinique comparative compare des critères d'efficacité et/ou de sécurité chez des patients lorsque les autres méthodes ne suffisent pas",
+      "Le choix de la méthode dépend des caractéristiques du médicament, de sa forme, de son site d'action",
+      "L'étude clinique comparative est toujours la première méthode utilisée"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Les études cliniques comparatives sont utilisées lorsque les autres méthodes ne suffisent pas. Le choix dépend du médicament, de sa forme, de son site d'action et de la possibilité de mesurer la biodisponibilité ou l'effet.",
+    "source": {
+      "page": 2,
+      "extrait": "Comparer des critères d'efficacité et/ou de sécurité chez des patients lorsque les autres méthodes ne suffisent pas."
+    },
+    "difficulte": 2,
+    "tags": [
+      "méthodes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/qcm-010",
+    "type": "multiple",
+    "enonce": "Deux médicaments (générique et princeps) sont bioéquivalents lorsque :",
+    "options": [
+      "Ils sont administrés à la même dose molaire, par la même voie, dans des conditions comparables",
+      "Leurs prix sont identiques",
+      "Ils sont des équivalents pharmaceutiques",
+      "Leurs biodisponibilités en termes de vitesse et d'étendue de l'absorption ne présentent pas de différence significative",
+      "Leurs excipients sont identiques"
+    ],
+    "correctes": [
+      0,
+      2,
+      3
+    ],
+    "explication": "Bioéquivalence : équivalents pharmaceutiques, même dose molaire, même voie, conditions comparables, sans différence significative de biodisponibilité (vitesse et étendue).",
+    "source": {
+      "page": 2,
+      "extrait": "leurs biodisponibilités, appréciées en termes de vitesse et d'étendue de l'absorption, ne présentent pas de différence significative."
+    },
+    "difficulte": 1,
+    "tags": [
+      "définition"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/qcm-011",
+    "type": "multiple",
+    "enonce": "Pour les médicaments à action systémique, concernant les paramètres d'exposition :",
+    "options": [
+      "Le Tmax indique le temps nécessaire pour atteindre le pic",
+      "L'exposition est évaluée à partir des concentrations plasmatiques en fonction du temps",
+      "La Cmax renseigne sur le pic d'exposition et notamment sur la vitesse d'absorption",
+      "L'AUC renseigne sur l'étendue de l'exposition",
+      "L'AUC renseigne principalement sur la vitesse d'absorption"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "AUC = étendue de l'exposition ; Cmax = pic d'exposition, notamment vitesse d'absorption ; Tmax = temps d'atteinte du pic.",
+    "source": {
+      "page": 2,
+      "extrait": "L'aire sous la courbe (AUC ou ASC) renseigne sur l'étendue de l'exposition ; la concentration maximale (Cmax) renseigne sur le pic"
+    },
+    "difficulte": 1,
+    "tags": [
+      "AUC",
+      "Cmax"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/qcm-012",
+    "type": "multiple",
+    "enonce": "Associez la notion à ce que l'on compare :",
+    "options": [
+      "Bioéquivalence : efficacité clinique chez des patients",
+      "Équivalence pharmaceutique : composition en PA, dosage, forme, voie et qualité pharmaceutique",
+      "Équivalence pharmaceutique : efficacité et sécurité",
+      "Équivalence thérapeutique : efficacité et sécurité dans les conditions d'utilisation",
+      "Bioéquivalence : vitesse et étendue de l'exposition au PA"
+    ],
+    "correctes": [
+      1,
+      3,
+      4
+    ],
+    "explication": "Tableau du cours : pharmaceutique = composition, dosage, forme, voie, qualité ; bioéquivalence = vitesse et étendue de l'exposition ; thérapeutique = efficacité et sécurité.",
+    "source": {
+      "page": 3,
+      "extrait": "Bioéquivalence Vitesse et étendue de l'exposition au PA."
+    },
+    "difficulte": 1,
+    "tags": [
+      "notions"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/qcm-013",
+    "type": "multiple",
+    "enonce": "À retenir selon le cours :",
+    "options": [
+      "La bioéquivalence est la seule méthode possible pour démontrer l'équivalence thérapeutique",
+      "La bioéquivalence est un moyen de démontrer l'équivalence thérapeutique",
+      "L'équivalence pharmaceutique suffit à établir l'équivalence thérapeutique",
+      "La bioéquivalence garantit une efficacité et une sécurité comparables",
+      "L'équivalence pharmaceutique ne suffit pas à établir l'équivalence thérapeutique"
+    ],
+    "correctes": [
+      1,
+      3,
+      4
+    ],
+    "explication": "L'équivalence pharmaceutique ne suffit pas ; la bioéquivalence est UN moyen (parmi d'autres méthodes) de démontrer l'équivalence thérapeutique, garantissant efficacité et sécurité comparables.",
+    "source": {
+      "page": 3,
+      "extrait": "l'équivalence pharmaceutique ne suffit pas à établir l'équivalence thérapeutique. La bioéquivalence est un moyen de démontrer cette dernière."
+    },
+    "difficulte": 2,
+    "tags": [
+      "notions"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/qcm-014",
+    "type": "multiple",
+    "enonce": "Le but de la bioéquivalence et les facteurs de performance d'un médicament :",
+    "options": [
+      "La performance dépend de la qualité des matières premières et des propriétés physicochimiques du PA",
+      "Le but est de démontrer que le générique ne modifie pas significativement la biodisponibilité du PA par rapport au princeps",
+      "Une modification de la formulation ne peut jamais influencer l'absorption",
+      "La stabilité pendant la conservation peut influencer la performance",
+      "La performance dépend du choix des excipients, de la formulation et du procédé de fabrication"
+    ],
+    "correctes": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "explication": "La performance dépend des matières premières, propriétés du PA, excipients, formulation, procédé et stabilité ; une modification peut influencer la libération ou l'absorption.",
+    "source": {
+      "page": 3,
+      "extrait": "Une modification de ces éléments peut influencer la libération ou l'absorption du PA."
+    },
+    "difficulte": 1,
+    "tags": [
+      "but"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/qcm-015",
+    "type": "multiple",
+    "enonce": "En Algérie, le cadre réglementaire de la bioéquivalence repose sur :",
+    "options": [
+      "Le code de la santé publique français",
+      "Des critères tenant compte du PA et de la forme pharmaceutique",
+      "L'arrêté du 4 octobre 2021",
+      "La ligne directrice ANPP du 5 février 2026",
+      "Uniquement les lignes directrices européennes"
+    ],
+    "correctes": [
+      1,
+      2,
+      3
+    ],
+    "explication": "Cadre algérien : arrêté du 4 octobre 2021 et ligne directrice ANPP du 5 février 2026 ; critères selon le PA et la forme pharmaceutique.",
+    "source": {
+      "page": 3,
+      "extrait": "le cadre réglementaire repose sur l'arrêté du 4 octobre 2021 et la ligne directrice ANPP du 5 février 2026."
+    },
+    "difficulte": 1,
+    "tags": [
+      "réglementation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/qcm-016",
+    "type": "multiple",
+    "enonce": "Une étude de bioéquivalence est exigée pour :",
+    "options": [
+      "Les formes à libération modifiée à action systémique",
+      "Les gaz médicaux",
+      "Les médicaments à pharmacocinétique complexe (absorption variable, non-linéarité, premier passage élevé)",
+      "Les patchs transdermiques et suppositoires à action systémique",
+      "Les formes orales à libération immédiate à action systémique ne remplissant pas les critères d'exonération"
+    ],
+    "correctes": [
+      0,
+      2,
+      3,
+      4
+    ],
+    "explication": "Exigence : LI orales systémiques non exonérées (notamment index étroit, pronostic vital), PK complexe, libération modifiée et autres voies systémiques (patchs, suppositoires), associations fixes, modifications majeures. Les gaz médicaux sont exonérés.",
+    "source": {
+      "page": 3,
+      "extrait": "Formes à libération modifiée à action systémique et autres voies systémiques (patchs transdermiques, suppositoires)."
+    },
+    "difficulte": 1,
+    "tags": [
+      "exigence"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/qcm-017",
+    "type": "unique",
+    "enonce": "Selon le cours, un effet de premier passage est considéré comme élevé (justifiant une étude de bioéquivalence) lorsqu'il est :",
+    "options": [
+      "≥ 90 %",
+      "≥ 50 %",
+      "≥ 80 %",
+      "≥ 30 %",
+      "≥ 70 %"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Pharmacocinétique complexe : élimination présystémique ou effet de premier passage élevé (≥ 70 %).",
+    "source": {
+      "page": 3,
+      "extrait": "élimination présystémique ou effet de premier passage élevé (≥ 70 %)."
+    },
+    "difficulte": 2,
+    "tags": [
+      "exigence"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/qcm-018",
+    "type": "multiple",
+    "enonce": "Les critères de pharmacocinétique complexe justifiant une étude de bioéquivalence sont :",
+    "options": [
+      "Absorption variable ou incomplète",
+      "Élimination présystémique",
+      "Solubilité aqueuse élevée",
+      "Non-linéarité",
+      "Effet de premier passage élevé (≥ 70 %)"
+    ],
+    "correctes": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "explication": "PK complexe : absorption variable ou incomplète, non-linéarité, élimination présystémique ou EPP ≥ 70 %.",
+    "source": {
+      "page": 3,
+      "extrait": "Pharmacocinétique complexe: absorption variable ou incomplète, non-linéarité, élimination présystémique"
+    },
+    "difficulte": 1,
+    "tags": [
+      "exigence"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/qcm-019",
+    "type": "multiple",
+    "enonce": "Une étude de bioéquivalence est aussi exigée :",
+    "options": [
+      "Pour les modifications majeures d'un médicament enregistré susceptibles d'affecter la pharmacocinétique",
+      "Pour les médicaments indiqués dans des pathologies à pronostic vital",
+      "Pour les médicaments à index thérapeutique étroit en forme orale à libération immédiate",
+      "Pour les associations à doses fixes lorsque l'un des PA requiert une étude de bioéquivalence",
+      "Toutes les propositions sont justes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes ces situations figurent dans les cas d'exigence.",
+    "source": {
+      "page": 3,
+      "extrait": "notamment en cas d'index thérapeutique étroit ou d'indication dans des pathologies à pronostic vital."
+    },
+    "difficulte": 2,
+    "tags": [
+      "exigence"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/qcm-020",
+    "type": "multiple",
+    "enonce": "Sont exonérés de l'étude de bioéquivalence sur la base de la forme pharmaceutique :",
+    "options": [
+      "Les poudres destinées à être reconstituées en solution",
+      "Les solutions orales contenant le même PA et des excipients fonctionnellement similaires",
+      "Les solutions aqueuses parentérales contenant le même PA à la même concentration molaire",
+      "Les gaz médicaux",
+      "Les suppositoires à action systémique"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Les suppositoires à action systémique font partie des cas d'exigence. Les autres propositions sont des exonérations selon la forme.",
+    "source": {
+      "page": 4,
+      "extrait": "les médicaments en poudre destinés à être reconstitués en solution ; les gaz médicaux"
+    },
+    "difficulte": 1,
+    "tags": [
+      "exonération"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/qcm-021",
+    "type": "multiple",
+    "enonce": "Sont également exonérés selon la forme pharmaceutique :",
+    "options": [
+      "Les médicaments pour nébulisation ou gouttes nasales en solution aqueuse",
+      "Les formes effervescentes destinées à être solubilisées avant l'absorption (même PA, excipients fonctionnellement similaires)",
+      "Les patchs transdermiques",
+      "Les médicaments auriculaires ou ophtalmiques en solution aqueuse",
+      "Les médicaments à usage topique sans action systémique"
+    ],
+    "correctes": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "explication": "Les patchs transdermiques à action systémique nécessitent une étude. Les autres formes sont exonérées.",
+    "source": {
+      "page": 4,
+      "extrait": "les médicaments à usage topique sans action systémique ; les médicaments pour nébulisation ou gouttes nasales en solution aqueuse."
+    },
+    "difficulte": 1,
+    "tags": [
+      "exonération"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/qcm-022",
+    "type": "multiple",
+    "enonce": "Parmi les médicaments suivants, lesquels nécessitent une étude de bioéquivalence ?",
+    "options": [
+      "Suppositoire à action systémique",
+      "Crème topique sans action systémique",
+      "Collyre en solution aqueuse",
+      "Gaz médical",
+      "Comprimé à libération prolongée à action systémique"
+    ],
+    "correctes": [
+      0,
+      4
+    ],
+    "explication": "Libération modifiée et suppositoires systémiques : étude exigée. Collyre en solution aqueuse, gaz médicaux et topiques sans action systémique : exonérés.",
+    "source": {
+      "page": 4,
+      "extrait": "Formes à libération modifiée à action systémique et autres voies systémiques (patchs transdermiques, suppositoires)."
+    },
+    "difficulte": 2,
+    "tags": [
+      "exigence",
+      "exonération"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/qcm-023",
+    "type": "multiple",
+    "enonce": "Concernant l'exonération fondée sur le système de classification biopharmaceutique (BCS) :",
+    "options": [
+      "Elle concerne les formes solides orales à libération immédiate et à action systémique",
+      "Elle n'est pas applicable aux médicaments à index thérapeutique étroit",
+      "Elle n'est pas applicable aux formes à libération prolongée",
+      "Elle s'applique à toutes les formes pharmaceutiques",
+      "Elle n'est pas applicable aux médicaments absorbés par voie buccale ou sublinguale"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explication": "L'exonération BCS concerne les formes solides orales LI systémiques de même forme ; elle exclut index étroit, libération prolongée et absorption buccale/sublinguale.",
+    "source": {
+      "page": 4,
+      "extrait": "L'exonération n'est pas applicable pour les médicaments à index thérapeutique étroit, les formes à libération prolongée"
+    },
+    "difficulte": 2,
+    "tags": [
+      "BCS"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/qcm-024",
+    "type": "multiple",
+    "enonce": "Le BCS classe les principes actifs selon :",
+    "options": [
+      "Leur liaison aux protéines",
+      "Leur volume de distribution",
+      "Leur perméabilité intestinale",
+      "Leur solubilité dans l'eau",
+      "Leur demi-vie"
+    ],
+    "correctes": [
+      2,
+      3
+    ],
+    "explication": "Le BCS classe les PA en quatre catégories selon la solubilité dans l'eau et la perméabilité intestinale.",
+    "source": {
+      "page": 4,
+      "extrait": "en quatre grandes catégories, en fonction de leur solubilité dans l'eau et de leur perméabilité intestinale"
+    },
+    "difficulte": 1,
+    "tags": [
+      "BCS"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/qcm-025",
+    "type": "multiple",
+    "enonce": "Classification BCS :",
+    "options": [
+      "Classe IV : solubilité faible, perméabilité faible",
+      "Classe II : solubilité faible, perméabilité élevée",
+      "Classe I : solubilité élevée, perméabilité élevée",
+      "Classe III : solubilité élevée, perméabilité faible",
+      "Toutes les propositions sont justes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "I : S+ P+ ; II : S− P+ ; III : S+ P− ; IV : S− P−.",
+    "source": {
+      "page": 4,
+      "extrait": "I Élevée Élevée ; II Faible Élevée ; III Élevée Faible ; IV Faible Faible"
+    },
+    "difficulte": 1,
+    "tags": [
+      "BCS"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/qcm-026",
+    "type": "multiple",
+    "enonce": "Le biowaiver BCS (exonération) peut être envisagé pour les PA de classe :",
+    "options": [
+      "III",
+      "IV",
+      "II et IV uniquement",
+      "I",
+      "II"
+    ],
+    "correctes": [
+      0,
+      3
+    ],
+    "explication": "Exonération possible pour les classes I et III (solubilité élevée) ; classes II et IV non éligibles.",
+    "source": {
+      "page": 4,
+      "extrait": "peut être envisagée si le PA est de la classe I ou de la classe III."
+    },
+    "difficulte": 1,
+    "tags": [
+      "BCS"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/qcm-027",
+    "type": "unique",
+    "enonce": "Un PA de solubilité faible et de perméabilité élevée :",
+    "options": [
+      "Est de classe I, éligible au biowaiver",
+      "Est de classe II, éligible au biowaiver",
+      "Est de classe II, non éligible au biowaiver",
+      "Est de classe III, éligible au biowaiver",
+      "Est de classe IV, éligible au biowaiver"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Solubilité faible + perméabilité élevée = classe II, non éligible au biowaiver BCS.",
+    "source": {
+      "page": 4,
+      "extrait": "II Faible Élevée Non éligible"
+    },
+    "difficulte": 2,
+    "tags": [
+      "BCS"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/qcm-028",
+    "type": "multiple",
+    "enonce": "Pour une exonération BCS, le cours précise que :",
+    "options": [
+      "Les excipients ne doivent pas affecter le transit gastro-intestinal ou l'absorption du PA",
+      "La similarité des profils de dissolution in vitro avec la référence doit être démontrée",
+      "Les excipients peuvent modifier librement l'absorption",
+      "Les excipients du générique doivent être fonctionnellement similaires ou identiques à des concentrations similaires",
+      "Aucune donnée in vitro n'est nécessaire"
+    ],
+    "correctes": [
+      0,
+      1,
+      3
+    ],
+    "explication": "Excipients fonctionnellement similaires/identiques, sans effet sur le transit ou l'absorption, et similarité des profils de dissolution démontrée.",
+    "source": {
+      "page": 4,
+      "extrait": "La similarité des profils de dissolution (essai in vitro) du médicament générique avec la spécialité de référence doit être démontrée."
+    },
+    "difficulte": 2,
+    "tags": [
+      "BCS"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/qcm-029",
+    "type": "multiple",
+    "enonce": "Un comprimé générique à libération immédiate contient un PA de classe I à index thérapeutique étroit. Cochez les propositions correctes :",
+    "options": [
+      "Il est automatiquement exonéré car de classe I",
+      "Une étude de bioéquivalence est exigée",
+      "L'index thérapeutique étroit exclut le biowaiver BCS",
+      "Il ne peut pas bénéficier de l'exonération BCS",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      1,
+      2,
+      3
+    ],
+    "explication": "L'exonération BCS n'est pas applicable aux médicaments à index thérapeutique étroit, même de classe I ; l'index étroit fait partie des cas d'exigence.",
+    "source": {
+      "page": 4,
+      "extrait": "L'exonération n'est pas applicable pour les médicaments à index thérapeutique étroit"
+    },
+    "difficulte": 3,
+    "tags": [
+      "BCS",
+      "raisonnement"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/qcm-030",
+    "type": "multiple",
+    "enonce": "L'exonération des dosages supplémentaires d'une même formulation :",
+    "options": [
+      "Exige un rapport PA/excipients identique pour tous les dosages",
+      "Exige le même procédé de fabrication",
+      "En cas de PK linéaire, l'étude sur le dosage le plus faible peut être extrapolée aux autres",
+      "Exige une composition qualitative identique des différents dosages",
+      "En cas de PK linéaire, l'étude sur le dosage le plus élevé peut être extrapolée aux autres"
+    ],
+    "correctes": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "explication": "Conditions : même procédé, composition qualitative identique, même rapport PA/excipients ; en PK linéaire, extrapolation à partir du dosage le plus élevé.",
+    "source": {
+      "page": 5,
+      "extrait": "En cas de pharmacocinétique linéaire, l'étude de bioequivalence réalisée sur le dosage le plus élevé peut être extrapolée aux autres dosages."
+    },
+    "difficulte": 2,
+    "tags": [
+      "dosages supplémentaires"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/qcm-031",
+    "type": "multiple",
+    "enonce": "Concernant la détermination de la bioéquivalence :",
+    "options": [
+      "F relative (%) = 100 × AUC référence / AUC test",
+      "Le test est généralement le générique",
+      "À doses identiques, F relative (%) = 100 × AUC test / AUC référence",
+      "Les concentrations du PA sont mesurées à différents temps après administration",
+      "La méthode pharmacocinétique compare le produit test (T) au produit de référence (R)"
+    ],
+    "correctes": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "T (générique) vs R (princeps) ; à doses identiques, F relative = 100 × AUC test/AUC référence.",
+    "source": {
+      "page": 5,
+      "extrait": "À doses identiques : F relative (%) = 100 × AUC test / AUC référence."
+    },
+    "difficulte": 1,
+    "tags": [
+      "biodisponibilité relative"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/qcm-032",
+    "type": "unique",
+    "enonce": "Lors d'une étude de bioéquivalence, à dose identique, AUC test = 90 mg.h/L et AUC référence = 100 mg.h/L. La F relative est :",
+    "options": [
+      "90 %",
+      "111 %",
+      "0,9 %",
+      "10 %",
+      "190 %"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "F relative = 100 × 90/100 = 90 %.",
+    "source": {
+      "page": 5,
+      "extrait": "F relative (%) = 100 × AUC test / AUC référence."
+    },
+    "difficulte": 1,
+    "tags": [
+      "calcul"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/qcm-033",
+    "type": "multiple",
+    "enonce": "Une étude de bioéquivalence :",
+    "options": [
+      "Est un essai clinique de phase 1",
+      "Doit respecter les exigences réglementaires, éthiques et les bonnes pratiques cliniques",
+      "Implique plusieurs compétences",
+      "Est un essai de phase 3",
+      "Ne nécessite pas d'avis éthique"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Essai clinique de phase 1 impliquant plusieurs compétences, respectant exigences réglementaires, éthiques et BPC.",
+    "source": {
+      "page": 5,
+      "extrait": "Une étude de bioéquivalence est un essai clinique de phase 1 impliquant plusieurs compétences."
+    },
+    "difficulte": 1,
+    "tags": [
+      "conception"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/qcm-034",
+    "type": "multiple",
+    "enonce": "Associez l'acteur à sa responsabilité :",
+    "options": [
+      "Promoteur : organisation, financement, qualité de l'étude, rapport final",
+      "Comité d'éthique : protection des participants, avis préalable",
+      "Autorité compétente : évaluation réglementaire du dossier et inspection",
+      "Équipe biostatistique : inclusion et prélèvements des sujets",
+      "Laboratoire bioanalytique : dosage des échantillons avec une méthode validée"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explication": "L'inclusion, l'administration et les prélèvements relèvent du centre de bioéquivalence et de l'investigateur principal ; l'équipe PK/biostatistique calcule les paramètres, randomise et analyse.",
+    "source": {
+      "page": 5,
+      "extrait": "Comité d'éthique Protection des participants ; examen et avis préalable sur le projet."
+    },
+    "difficulte": 2,
+    "tags": [
+      "acteurs"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/qcm-035",
+    "type": "multiple",
+    "enonce": "Concernant le promoteur d'une étude de bioéquivalence :",
+    "options": [
+      "Sa responsabilité est maintenue en cas de sous-traitance",
+      "C'est le fabricant ou l'organisme responsable",
+      "Il assure l'organisation et le financement",
+      "Il est déchargé de sa responsabilité en cas de sous-traitance",
+      "Il soumet le dossier à l'autorité compétente avant le début de l'essai"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explication": "Le promoteur (fabricant ou organisme responsable) organise, finance, assure la qualité et le rapport final ; sa responsabilité est maintenue en cas de sous-traitance ; il soumet le dossier à l'autorité.",
+    "source": {
+      "page": 5,
+      "extrait": "responsabilité maintenue en cas de sous-traitance."
+    },
+    "difficulte": 1,
+    "tags": [
+      "acteurs"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/qcm-036",
+    "type": "unique",
+    "enonce": "Le respect du protocole, l'inclusion, l'administration, les prélèvements, la surveillance et la traçabilité relèvent :",
+    "options": [
+      "Du comité d'éthique",
+      "Du centre de bioéquivalence et de l'investigateur principal",
+      "De l'autorité compétente",
+      "Du promoteur",
+      "Du laboratoire bioanalytique"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Ces missions relèvent du centre de bioéquivalence et de l'investigateur principal.",
+    "source": {
+      "page": 5,
+      "extrait": "Centre de bioequivalence et Investigateur principal Respect du protocole, inclusion, administration, prélèvements"
+    },
+    "difficulte": 1,
+    "tags": [
+      "acteurs"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/qcm-037",
+    "type": "unique",
+    "enonce": "Le calcul des paramètres pharmacocinétiques, la randomisation et l'analyse statistique relèvent :",
+    "options": [
+      "De l'autorité compétente",
+      "Du laboratoire bioanalytique",
+      "De l'équipe d'analyse pharmacocinétique et biostatistique",
+      "Du promoteur seul",
+      "Du comité d'éthique"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Équipe PK et biostatistique : calcul des paramètres, randomisation et analyse statistique.",
+    "source": {
+      "page": 5,
+      "extrait": "Calcul des paramètres pharmacocinétique, randomisation et analyse statistique."
+    },
+    "difficulte": 1,
+    "tags": [
+      "acteurs"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/qcm-038",
+    "type": "multiple",
+    "enonce": "Concernant la partie réglementaire de l'étude :",
+    "options": [
+      "Un avis favorable du comité d'éthique doit être obtenu avant l'inclusion",
+      "Le promoteur soumet le dossier à l'autorité compétente avant le début de l'essai",
+      "Le protocole précise objectifs, comparateur, plan, critères de sélection, prélèvements, méthodes bioanalytiques et statistiques",
+      "Le consentement peut être recueilli après l'administration",
+      "Chaque participant donne un consentement libre et éclairé"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explication": "Dossier soumis avant l'essai, protocole détaillé, avis favorable du comité d'éthique avant inclusion, consentement libre et éclairé de chaque participant (préalable).",
+    "source": {
+      "page": 6,
+      "extrait": "Un avis favorable du comité d'éthique doit être obtenu avant l'inclusion."
+    },
+    "difficulte": 1,
+    "tags": [
+      "réglementaire"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/qcm-039",
+    "type": "multiple",
+    "enonce": "Le plan standard d'une étude de bioéquivalence est :",
+    "options": [
+      "En groupes parallèles",
+      "Un essai croisé randomisé",
+      "À doses multiples",
+      "À deux périodes et deux séquences",
+      "À dose unique"
+    ],
+    "correctes": [
+      1,
+      3,
+      4
+    ],
+    "explication": "Plan standard : essai croisé randomisé, à dose unique, deux périodes, deux séquences (TR et RT).",
+    "source": {
+      "page": 6,
+      "extrait": "Le plan standard est un essai croisé randomisé à dose unique, à deux périodes et deux séquences."
+    },
+    "difficulte": 1,
+    "tags": [
+      "plan croisé"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/qcm-040",
+    "type": "multiple",
+    "enonce": "Dans l'essai croisé standard :",
+    "options": [
+      "Chaque sujet est son propre témoin",
+      "Les participants reçoivent les deux formulations dans un ordre aléatoire",
+      "Les séquences sont TR et RT",
+      "Chaque sujet ne reçoit qu'une seule formulation",
+      "La variabilité interindividuelle est limitée"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explication": "Chaque sujet reçoit T et R dans un ordre aléatoire (séquences TR ou RT) et sert de propre témoin, ce qui limite la variabilité interindividuelle.",
+    "source": {
+      "page": 6,
+      "extrait": "chaque sujet est son propre témoin, ce qui limite la variabilité interindividuelle."
+    },
+    "difficulte": 1,
+    "tags": [
+      "plan croisé"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/qcm-041",
+    "type": "multiple",
+    "enonce": "Concernant le wash-out :",
+    "options": [
+      "Il doit durer au moins une demi-vie d'élimination",
+      "Un wash-out trop long peut justifier un plan en groupes parallèles",
+      "Il vise à éviter un effet résiduel du premier traitement",
+      "C'est une période sans administration",
+      "Il doit durer au moins cinq demi-vies d'élimination"
+    ],
+    "correctes": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Wash-out : période sans administration, au moins 5 demi-vies, pour éviter l'effet résiduel. Si la demi-vie est longue (wash-out trop prolongé), on choisit un plan parallèle.",
+    "source": {
+      "page": 6,
+      "extrait": "il doit être suffisamment long, d'au moins cinq demi-vies d'élimination."
+    },
+    "difficulte": 1,
+    "tags": [
+      "wash-out"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/qcm-042",
+    "type": "unique",
+    "enonce": "Un PA a une demi-vie d'élimination de 8 h. Dans un essai croisé, le wash-out minimal est de :",
+    "options": [
+      "24 h",
+      "80 h",
+      "8 h",
+      "40 h",
+      "16 h"
+    ],
+    "correctes": [
+      3
+    ],
+    "explication": "Wash-out ≥ 5 demi-vies = 5 × 8 = 40 h.",
+    "source": {
+      "page": 6,
+      "extrait": "d'au moins cinq demi-vies d'élimination."
+    },
+    "difficulte": 1,
+    "tags": [
+      "wash-out",
+      "calcul"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/qcm-043",
+    "type": "multiple",
+    "enonce": "Le plan en groupes parallèles :",
+    "options": [
+      "Chaque sujet est son propre témoin",
+      "Répartit les sujets aléatoirement en deux groupes indépendants",
+      "Chaque sujet reçoit une seule des deux formulations",
+      "Est indiqué lorsque le médicament a une longue demi-vie d'élimination",
+      "Est indiqué en cas de forte variabilité intra-individuelle"
+    ],
+    "correctes": [
+      1,
+      2,
+      3
+    ],
+    "explication": "Plan parallèle : longue demi-vie (wash-out trop long), deux groupes indépendants, une seule formulation par sujet. La forte variabilité intra-individuelle relève du plan croisé répliqué.",
+    "source": {
+      "page": 6,
+      "extrait": "Plan en groupes parallèles : lorsque le médicament présente une longue demi-vie d'élimination"
+    },
+    "difficulte": 1,
+    "tags": [
+      "plan parallèle"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/qcm-044",
+    "type": "multiple",
+    "enonce": "Le plan croisé répliqué :",
+    "options": [
+      "Est indiqué lorsque le médicament présente une forte variabilité intra-individuelle",
+      "Comporte plusieurs périodes séparées par un wash-out",
+      "Est indiqué pour les médicaments à longue demi-vie",
+      "Chaque sujet reçoit plus d'une fois T et/ou R",
+      "Peut comporter des séquences TRTR et RTRT"
+    ],
+    "correctes": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "explication": "Plan répliqué : forte variabilité intra-individuelle ; chaque sujet reçoit plusieurs fois T et/ou R sur plusieurs périodes (ex. TRTR, RTRT) séparées par un wash-out.",
+    "source": {
+      "page": 7,
+      "extrait": "Plan croisé répliqué : lorsque le medicament présente une forte variabilité intra-individuelle"
+    },
+    "difficulte": 1,
+    "tags": [
+      "plan répliqué"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/qcm-045",
+    "type": "multiple",
+    "enonce": "L'étude à doses multiples :",
+    "options": [
+      "Est le plan standard de la bioéquivalence",
+      "Peut être justifiée pour les formes à libération modifiée",
+      "Est réalisée lorsque la dose unique n'est pas réalisable pour des raisons de sécurité ou d'éthique",
+      "Nécessite d'atteindre l'état d'équilibre",
+      "Utilise comme paramètres primaires usuels l'AUC(0–τ) et la Cmax,ss"
+    ],
+    "correctes": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Doses multiples : quand la dose unique n'est pas réalisable (sécurité, éthique) ou situations justifiées (libération modifiée) ; état d'équilibre nécessaire ; paramètres primaires AUC(0–τ) et Cmax,ss. Le plan standard est à dose unique.",
+    "source": {
+      "page": 7,
+      "extrait": "Une étude à doses multiples nécessite d'atteindre l'état d'équilibre."
+    },
+    "difficulte": 2,
+    "tags": [
+      "doses multiples"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/qcm-046",
+    "type": "multiple",
+    "enonce": "Associez la situation au plan alternatif approprié :",
+    "options": [
+      "Forte variabilité intra-individuelle : croisé répliqué",
+      "Longue demi-vie : croisé répliqué",
+      "Dose unique non réalisable pour raison de sécurité : doses multiples",
+      "Forte variabilité intra-individuelle : groupes parallèles",
+      "Longue demi-vie d'élimination : groupes parallèles"
+    ],
+    "correctes": [
+      0,
+      2,
+      4
+    ],
+    "explication": "Longue T1/2 → parallèle ; forte variabilité intra-individuelle → répliqué ; dose unique impossible (sécurité/éthique) ou libération modifiée → doses multiples.",
+    "source": {
+      "page": 7,
+      "extrait": "Plan croisé répliqué : lorsque le medicament présente une forte variabilité intra-individuelle"
+    },
+    "difficulte": 2,
+    "tags": [
+      "plans"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/qcm-047",
+    "type": "multiple",
+    "enonce": "Concernant le choix des sujets :",
+    "options": [
+      "Les volontaires adultes sains sont privilégiés",
+      "Les enfants sont la population de choix",
+      "Les critères de sélection portent sur l'âge, le sexe, le poids ou l'IMC, l'état de santé, les antécédents et traitements",
+      "Cela réduit les variations non liées aux formulations",
+      "L'étude peut être menée chez des patients si l'administration à des volontaires sains présente des risques inacceptables"
+    ],
+    "correctes": [
+      0,
+      2,
+      3,
+      4
+    ],
+    "explication": "Volontaires adultes sains privilégiés (moins de variations non liées aux formulations) ; patients si risque inacceptable ; critères : âge, sexe, poids/IMC, santé, antécédents, traitements, facteurs influençant la PK.",
+    "source": {
+      "page": 7,
+      "extrait": "Les volontaires adultes sains sont privilégiés afin de réduire les variations non liées aux formulations."
+    },
+    "difficulte": 1,
+    "tags": [
+      "sujets"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/qcm-048",
+    "type": "multiple",
+    "enonce": "Concernant l'effectif d'une étude de bioéquivalence :",
+    "options": [
+      "6 sujets évaluables suffisent en plan croisé",
+      "Il faut recruter un nombre suffisant pour tenir compte des perdus de vue ou sorties d'essai",
+      "Le nombre de sujets évaluables ne doit pas être inférieur à 12 pour une conception croisée",
+      "Il faut au moins 12 sujets par groupe de traitement en conception parallèle",
+      "Il doit être basé sur un calcul approprié de la taille échantillonnale"
+    ],
+    "correctes": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Calcul de taille échantillonnale, marge pour les perdus de vue ; au moins 12 sujets évaluables en croisé et 12 par groupe en parallèle.",
+    "source": {
+      "page": 7,
+      "extrait": "ne doit pas être inférieur à 12 pour une conception croisée ou à 12 par groupe de traitement pour une conception parallèle."
+    },
+    "difficulte": 1,
+    "tags": [
+      "effectif"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/qcm-049",
+    "type": "unique",
+    "enonce": "Dans une étude en groupes parallèles, le nombre minimal de sujets évaluables est :",
+    "options": [
+      "6 au total",
+      "Aucun minimum",
+      "24 par groupe",
+      "12 par groupe, soit 24 au total",
+      "12 au total"
+    ],
+    "correctes": [
+      3
+    ],
+    "explication": "Au moins 12 par groupe de traitement en conception parallèle (deux groupes T et R, soit au moins 24 sujets évaluables).",
+    "source": {
+      "page": 7,
+      "extrait": "à 12 par groupe de traitement pour une conception parallèle."
+    },
+    "difficulte": 2,
+    "tags": [
+      "effectif"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/qcm-050",
+    "type": "multiple",
+    "enonce": "Concernant la standardisation et le déroulement de l'étude :",
+    "options": [
+      "La randomisation répartit aléatoirement les sujets entre les séquences",
+      "La durée du jeûne avant administration est d'environ 12 heures",
+      "Les conditions sont identiques entre T et R",
+      "Le choix à jeun ou après repas dépend des propriétés du médicament",
+      "L'administration est standardisée (horaires, volume de liquide, posture, activité)"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Toutes les propositions figurent dans le cours (jeûne fixé au protocole, environ 12 heures).",
+    "source": {
+      "page": 7,
+      "extrait": "la durée du jeûne avant administration est fixée au protocole (environ 12 heures)."
+    },
+    "difficulte": 1,
+    "tags": [
+      "standardisation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/qcm-051",
+    "type": "multiple",
+    "enonce": "Concernant les modalités de prélèvement :",
+    "options": [
+      "Les prélèvements sont rapprochés autour du Tmax attendu pour déterminer la Cmax de façon fiable",
+      "Les concentrations sont généralement mesurées dans le plasma ou le sang total",
+      "L'utilisation des urines est possible lorsqu'elle est justifiée",
+      "Les prélèvements doivent permettre à l'AUC(0–t) de couvrir au moins 50 % de l'AUC(0–∞)",
+      "Un prélèvement avant administration (t0) documente la concentration initiale"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explication": "Plasma ou sang total (urines si justifié) ; t0 ; prélèvements rapprochés autour du Tmax ; prélèvements assez tardifs pour que l'AUC(0–t) couvre au moins 80 % de l'AUC(0–∞).",
+    "source": {
+      "page": 8,
+      "extrait": "Prélèvements suffisamment tardifs pour que l'AUC(0-t) couvre au moins 80 % de l'AUC(0-∞)."
+    },
+    "difficulte": 2,
+    "tags": [
+      "prélèvements"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/qcm-052",
+    "type": "unique",
+    "enonce": "L'AUC(0–t) doit couvrir au moins quel pourcentage de l'AUC(0–∞) ?",
+    "options": [
+      "70 %",
+      "50 %",
+      "80 %",
+      "90 %",
+      "100 %"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Les prélèvements doivent être suffisamment tardifs pour que l'AUC(0–t) couvre au moins 80 % de l'AUC(0–∞).",
+    "source": {
+      "page": 8,
+      "extrait": "pour que l'AUC(0-t) couvre au moins 80 % de l'AUC(0-∞)."
+    },
+    "difficulte": 1,
+    "tags": [
+      "prélèvements"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/qcm-053",
+    "type": "multiple",
+    "enonce": "Concernant les durées d'échantillonnage :",
+    "options": [
+      "Exemple : 4 prélèvements avant, 5 autour et 8 après le pic",
+      "Pour les formes LI à longue demi-vie (24 h ou plus), l'AUC tronquée à 72 h peut être utilisée",
+      "L'AUC tronquée à 24 h est utilisée pour les demi-vies de 24 h ou plus",
+      "Le nombre de prélèvements dépend de la molécule",
+      "À doses multiples, l'échantillonnage couvre l'intervalle d'administration à l'état d'équilibre"
+    ],
+    "correctes": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "explication": "AUC tronquée à 72 h (et non 24 h) pour les LI à demi-vie ≥ 24 h ; à doses multiples, couverture de l'intervalle à l'équilibre ; exemple de 4 / 5 / 8 prélèvements.",
+    "source": {
+      "page": 8,
+      "extrait": "Pour les formes à libération immédiate à longue demi-vie (24 h ou plus), l'AUC tronquée à 72 h peut être utilisée."
+    },
+    "difficulte": 2,
+    "tags": [
+      "prélèvements"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/qcm-054",
+    "type": "unique",
+    "enonce": "Une surveillance médicale des sujets est assurée :",
+    "options": [
+      "Pendant l'administration seulement",
+      "Uniquement en cas d'effet indésirable",
+      "Uniquement après la fin de l'étude",
+      "Avant, pendant et après l'administration",
+      "Avant l'administration seulement"
+    ],
+    "correctes": [
+      3
+    ],
+    "explication": "Une surveillance médicale est assurée avant, pendant et après l'administration.",
+    "source": {
+      "page": 8,
+      "extrait": "Une surveillance médicale est assurée avant, pendant et après l'administration."
+    },
+    "difficulte": 1,
+    "tags": [
+      "surveillance"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/qcm-055",
+    "type": "multiple",
+    "enonce": "Concernant la partie bioanalytique :",
+    "options": [
+      "Le dosage porte toujours sur le métabolite principal",
+      "La méthode de dosage doit être sensible, sélective et validée",
+      "Le dosage concerne généralement le composé parent",
+      "Le recours à un métabolite est justifié lorsque le composé parent est rapidement éliminé et difficile à mesurer",
+      "La chromatographie liquide couplée à la spectrométrie de masse (HPLC-MS) est fréquemment utilisée"
+    ],
+    "correctes": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Méthode sensible, sélective, validée (souvent HPLC-MS) ; dosage du composé parent en général ; métabolite si le parent (ex. prodrogue) est rapidement éliminé et difficile à mesurer.",
+    "source": {
+      "page": 8,
+      "extrait": "Le recours à un métabolite est justifié lorsque le composé parent est rapidement éliminé et difficile à mesurer."
+    },
+    "difficulte": 1,
+    "tags": [
+      "bioanalyse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/qcm-056",
+    "type": "multiple",
+    "enonce": "Concernant les paramètres pharmacocinétiques de l'étude de bioéquivalence :",
+    "options": [
+      "Le Tmax est un paramètre primaire",
+      "L'AUC(0–∞) caractérise l'exposition totale",
+      "La Cmax est un paramètre primaire",
+      "L'AUC(0–t) est un paramètre primaire",
+      "t1/2, λz (ou Ke), Ka et temps de latence sont des paramètres complémentaires"
+    ],
+    "correctes": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Paramètres primaires : AUC(0–t) et Cmax. AUC(0–∞) = exposition totale ; Tmax, t1/2, λz, Ka, temps de latence complètent la description.",
+    "source": {
+      "page": 8,
+      "extrait": "AUC(0–t) ... paramètre primaire ; Cmax Concentration maximale observée ; paramètre primaire."
+    },
+    "difficulte": 1,
+    "tags": [
+      "paramètres primaires"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/qcm-057",
+    "type": "unique",
+    "enonce": "L'AUC(0–t) est définie comme :",
+    "options": [
+      "L'aire jusqu'à 72 h",
+      "L'aire extrapolée jusqu'à l'infini",
+      "L'aire sous la courbe depuis l'administration jusqu'à la dernière concentration quantifiable",
+      "L'aire sur un intervalle d'administration τ",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "AUC(0–t) : de l'administration jusqu'à la dernière concentration quantifiable ; paramètre primaire.",
+    "source": {
+      "page": 8,
+      "extrait": "Aire sous la courbe depuis l'administration jusqu'à la dernière concentration quantifiable; paramètre primaire."
+    },
+    "difficulte": 1,
+    "tags": [
+      "AUC"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/qcm-058",
+    "type": "multiple",
+    "enonce": "À l'état d'équilibre (études à doses multiples), on peut déterminer :",
+    "options": [
+      "La Cmin,ss",
+      "L'AUC(0–τ) sur un intervalle d'administration τ",
+      "La concentration moyenne à l'état d'équilibre (Css moyenne)",
+      "La Cmax,ss",
+      "Uniquement l'AUC(0–∞)"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "À l'équilibre : AUC(0–τ), Cmax,ss, Cmin,ss et Css moyenne ; AUC(0–τ) et Cmax,ss sont les paramètres primaires usuels.",
+    "source": {
+      "page": 8,
+      "extrait": "on peut déterminer l'AUC(0-τ) sur un intervalle d'administration τ, la Cmax,ss, la Cmin,ss"
+    },
+    "difficulte": 2,
+    "tags": [
+      "doses multiples"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/qcm-059",
+    "type": "multiple",
+    "enonce": "Concernant la partie statistique :",
+    "options": [
+      "On calcule le rapport des moyennes arithmétiques T/R et son IC à 95 %",
+      "L'apparente superposition des courbes ne suffit pas",
+      "La comparaison des moyennes arithmétiques ne suffit pas",
+      "Les paramètres primaires AUC et Cmax sont transformés en logarithmes",
+      "L'objectif est de démontrer statistiquement une équivalence dans des limites prédéfinies"
+    ],
+    "correctes": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "On transforme AUC et Cmax en log, on applique un modèle adapté au plan, puis on calcule le rapport des moyennes GÉOMÉTRIQUES T/R et son IC à 90 % après retransformation.",
+    "source": {
+      "page": 9,
+      "extrait": "Calculer le rapport des moyennes géométriques Test/Référence et son intervalle de confiance (IC) à 90 %, après retransformation."
+    },
+    "difficulte": 2,
+    "tags": [
+      "statistique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/qcm-060",
+    "type": "unique",
+    "enonce": "Le critère statistique de la bioéquivalence repose sur :",
+    "options": [
+      "La différence des Tmax",
+      "Le test t de Student sur les Cmax brutes",
+      "Le rapport des moyennes géométriques T/R et son IC à 90 %",
+      "La superposition visuelle des courbes",
+      "Le rapport des moyennes arithmétiques et son IC à 95 %"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "On calcule le rapport des moyennes géométriques T/R (après transformation logarithmique) et son IC à 90 %.",
+    "source": {
+      "page": 9,
+      "extrait": "Calculer le rapport des moyennes géométriques Test/Référence et son intervalle de confiance (IC) à 90 %"
+    },
+    "difficulte": 1,
+    "tags": [
+      "statistique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/qcm-061",
+    "type": "multiple",
+    "enonce": "Les étapes de l'analyse statistique comprennent :",
+    "options": [
+      "Calculer le rapport des moyennes géométriques T/R et son IC à 90 % après retransformation",
+      "Présenter les données individuelles et les statistiques descriptives pour chaque formulation",
+      "Transformer AUC et Cmax en logarithmes",
+      "Appliquer un modèle statistique adapté au plan d'étude",
+      "Toutes les propositions sont justes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Ce sont les quatre étapes de la partie statistique.",
+    "source": {
+      "page": 9,
+      "extrait": "Transformer les paramètres primaires AUC et Cmax en logarithmes."
+    },
+    "difficulte": 1,
+    "tags": [
+      "statistique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/qcm-062",
+    "type": "multiple",
+    "enonce": "Pour une étude à dose unique, la bioéquivalence est démontrée si l'IC à 90 % du rapport des moyennes géométriques T/R est entièrement compris entre :",
+    "options": [
+      "80,00 % et 125,00 % pour l'AUC(0–t) (ou AUC(0–72 h))",
+      "80,00 % et 125,00 % pour la Cmax",
+      "80 % et 120 % pour l'AUC",
+      "70 % et 130 % pour la Cmax",
+      "90,00 % et 111,11 % pour tous les médicaments"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "L'IC à 90 % doit être entièrement compris dans 80,00–125,00 % pour l'AUC(0–t) (ou AUC(0–72 h)) ET pour la Cmax. 90,00–111,11 % concerne l'index thérapeutique étroit.",
+    "source": {
+      "page": 9,
+      "extrait": "doit être entièrement compris entre 80,00 % et 125,00 % pour l'AUC(0–t), ou l'AUC(0–72 h), ainsi que pour la Cmax."
+    },
+    "difficulte": 1,
+    "tags": [
+      "décision"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/qcm-063",
+    "type": "unique",
+    "enonce": "Pour un médicament à index thérapeutique étroit, l'IC à 90 % pour l'AUC et la Cmax est resserré à :",
+    "options": [
+      "90,00 – 111,11 %",
+      "85,00 – 115,00 %",
+      "75,00 – 133,33 %",
+      "80,00 – 125,00 %",
+      "95,00 – 105,00 %"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Index thérapeutique étroit : IC à 90 % resserré à 90,00–111,11 %.",
+    "source": {
+      "page": 9,
+      "extrait": "Index thérapeutique étroit : l'IC à 90 % pour l'AUC et la Cmax est resserré à 90,00–111,11 %."
+    },
+    "difficulte": 1,
+    "tags": [
+      "index thérapeutique étroit"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/qcm-064",
+    "type": "unique",
+    "enonce": "Résultats d'une étude à dose unique (médicament standard) : AUC(0–t) T/R = 95 %, IC 90 % = 82–110 % ; Cmax T/R = 98 %, IC 90 % = 88–109 %. Conclusion :",
+    "options": [
+      "Bioéquivalence non démontrée car le rapport AUC n'est pas égal à 100 %",
+      "Impossible de conclure sans le Tmax",
+      "Bioéquivalence non démontrée pour l'AUC",
+      "Bioéquivalence démontrée",
+      "Bioéquivalence non démontrée pour la Cmax"
+    ],
+    "correctes": [
+      3
+    ],
+    "explication": "Les deux IC sont entièrement compris dans 80–125 % : la bioéquivalence est démontrée sur le plan statistique (exemple du cours).",
+    "source": {
+      "page": 9,
+      "extrait": "les deux intervalles se situent entièrement dans les limites de 80–125 %. La bioéquivalence est donc démontrée"
+    },
+    "difficulte": 1,
+    "tags": [
+      "décision",
+      "exemple"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/qcm-065",
+    "type": "unique",
+    "enonce": "Médicament standard, dose unique : AUC T/R = 102 %, IC 90 % = 85–118 % ; Cmax T/R = 110 %, IC 90 % = 92–131 %. Conclusion :",
+    "options": [
+      "Bioéquivalence démontrée car le rapport moyen de Cmax (110 %) est dans 80–125 %",
+      "Bioéquivalence démontrée",
+      "Bioéquivalence non démontrée car l'IC de la Cmax dépasse 125 %",
+      "Bioéquivalence non démontrée pour l'AUC",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "L'IC à 90 % doit être ENTIÈREMENT compris dans 80–125 % pour l'AUC et la Cmax ; l'IC de la Cmax (92–131 %) dépasse 125 % : non démontrée. Le rapport moyen seul ne suffit pas.",
+    "source": {
+      "page": 9,
+      "extrait": "doit être entièrement compris entre 80,00 % et 125,00 %"
+    },
+    "difficulte": 2,
+    "tags": [
+      "décision"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/qcm-066",
+    "type": "unique",
+    "enonce": "Médicament à index thérapeutique étroit : AUC T/R = 99 %, IC 90 % = 92–107 % ; Cmax T/R = 97 %, IC 90 % = 88–106 %. Conclusion :",
+    "options": [
+      "Bioéquivalence non démontrée car l'IC de la Cmax descend sous 90 %",
+      "Bioéquivalence non démontrée pour l'AUC",
+      "Bioéquivalence démontrée car tout est dans 80–125 %",
+      "Bioéquivalence démontrée",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Pour un index étroit, les bornes sont 90,00–111,11 % : l'IC de la Cmax (88–106 %) n'est pas entièrement compris dans ces limites.",
+    "source": {
+      "page": 9,
+      "extrait": "l'IC à 90 % pour l'AUC et la Cmax est resserré à 90,00–111,11 %."
+    },
+    "difficulte": 3,
+    "tags": [
+      "décision",
+      "index thérapeutique étroit"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/qcm-067",
+    "type": "multiple",
+    "enonce": "Concernant la décision finale de bioéquivalence :",
+    "options": [
+      "Elle tient compte de la qualité du dossier et du respect du protocole",
+      "Elle tient compte des données de sécurité",
+      "Elle tient compte de la validité bioanalytique et statistique",
+      "Elle revient à l'autorité compétente",
+      "Elle revient exclusivement au promoteur"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "La décision finale revient à l'autorité compétente après examen de la qualité du dossier, du respect du protocole, de la validité bioanalytique et statistique et des données de sécurité.",
+    "source": {
+      "page": 9,
+      "extrait": "La décision finale revient à l'autorité compétente après examen de la qualité du dossier, du respect du protocole"
+    },
+    "difficulte": 1,
+    "tags": [
+      "décision"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/qcm-068",
+    "type": "multiple",
+    "enonce": "Selon la conclusion du cours, la bioéquivalence :",
+    "options": [
+      "Établit une comparabilité de l'exposition entre deux formulations",
+      "Soutient l'interchangeabilité des génériques",
+      "Constitue un outil majeur de l'évaluation des génériques",
+      "Doit être adaptée au produit et au référentiel réglementaire applicable",
+      "Toutes les propositions sont justes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "La conclusion reprend ces quatre idées.",
+    "source": {
+      "page": 9,
+      "extrait": "La bioéquivalence établit une comparabilité de l'exposition entre deux formulations."
+    },
+    "difficulte": 1,
+    "tags": [
+      "conclusion"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/qcm-069",
+    "type": "multiple",
+    "enonce": "Cochez les propositions fausses :",
+    "options": [
+      "Le wash-out doit durer au moins 3 demi-vies",
+      "Le plan parallèle est indiqué pour les forts variabilités intra-individuelles",
+      "Le Tmax est un paramètre primaire de bioéquivalence",
+      "Les classes BCS I et III peuvent bénéficier d'un biowaiver",
+      "Au moins 12 sujets évaluables sont nécessaires en plan croisé"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Faux : wash-out ≥ 5 demi-vies (a) ; forte variabilité intra-individuelle → plan répliqué (b) ; paramètres primaires = AUC(0–t) et Cmax (c).",
+    "source": {
+      "page": 6,
+      "extrait": "il doit être suffisamment long, d'au moins cinq demi-vies d'élimination."
+    },
+    "difficulte": 2,
+    "tags": [
+      "synthèse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/qcm-070",
+    "type": "multiple",
+    "enonce": "Un générique en solution aqueuse injectable IV contient le même PA à la même concentration molaire que la référence. Cochez les propositions correctes :",
+    "options": [
+      "Il est exonéré d'étude de bioéquivalence sur la base de la forme",
+      "Une étude de bioéquivalence croisée est obligatoire",
+      "Il doit être de classe BCS I pour être exonéré",
+      "Il relève des formes parentérales en solution aqueuse",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      3
+    ],
+    "explication": "Les solutions aqueuses parentérales contenant le même PA à la même concentration molaire sont exonérées sur la base de la forme pharmaceutique ; le BCS ne concerne que les formes solides orales LI.",
+    "source": {
+      "page": 3,
+      "extrait": "les médicaments destinés à être administrés par voie parentérale sous la forme de solution aqueuse contenant le même PA à la même concentration molaire"
+    },
+    "difficulte": 2,
+    "tags": [
+      "exonération"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/qcm-071",
+    "type": "multiple",
+    "enonce": "Un essai croisé TR/RT est mené pour un PA de demi-vie 72 h. Cochez les propositions correctes :",
+    "options": [
+      "Le wash-out minimal serait de 15 jours",
+      "Ce wash-out serait trop prolongé : un plan en groupes parallèles peut être choisi",
+      "L'AUC tronquée à 72 h peut être utilisée pour une forme LI",
+      "Le plan répliqué est le plus adapté à cette situation",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "5 × 72 h = 360 h = 15 jours : wash-out trop long → plan parallèle. Demi-vie ≥ 24 h, forme LI : AUC tronquée à 72 h possible. Le plan répliqué concerne la variabilité intra-individuelle.",
+    "source": {
+      "page": 6,
+      "extrait": "Plan en groupes parallèles : lorsque le médicament présente une longue demi-vie d'élimination"
+    },
+    "difficulte": 3,
+    "tags": [
+      "plans",
+      "raisonnement"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/qcm-072",
+    "type": "multiple",
+    "enonce": "Concernant la comparaison équivalence pharmaceutique / bioéquivalence :",
+    "options": [
+      "La bioéquivalence suppose l'équivalence pharmaceutique",
+      "L'équivalence pharmaceutique exige des excipients identiques",
+      "L'équivalence pharmaceutique compare l'efficacité clinique",
+      "Deux équivalents pharmaceutiques peuvent ne pas être bioéquivalents",
+      "La bioéquivalence compare vitesse et étendue de l'exposition"
+    ],
+    "correctes": [
+      0,
+      3,
+      4
+    ],
+    "explication": "Bioéquivalents = équivalents pharmaceutiques + biodisponibilités comparables ; des équivalents pharmaceutiques peuvent donc ne pas être bioéquivalents. Excipients non obligatoirement identiques ; l'efficacité relève de l'équivalence thérapeutique.",
+    "source": {
+      "page": 3,
+      "extrait": "l'équivalence pharmaceutique ne suffit pas à établir l'équivalence thérapeutique."
+    },
+    "difficulte": 2,
+    "tags": [
+      "notions"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/qcm-073",
+    "type": "multiple",
+    "enonce": "Pour un générique oral à libération immédiate d'un PA de classe III, l'exonération BCS nécessite :",
+    "options": [
+      "L'absence d'effet des excipients sur le transit et l'absorption",
+      "Une absorption buccale ou sublinguale",
+      "Que le médicament ne soit pas à index thérapeutique étroit",
+      "La démonstration de la similarité des profils de dissolution",
+      "Des excipients fonctionnellement similaires ou identiques à des concentrations similaires"
+    ],
+    "correctes": [
+      0,
+      2,
+      3,
+      4
+    ],
+    "explication": "Conditions du biowaiver BCS : excipients similaires sans effet sur transit/absorption, profils de dissolution similaires, et absence des exclusions (index étroit, LP, absorption buccale/sublinguale).",
+    "source": {
+      "page": 4,
+      "extrait": "Les excipients de générique doivent être fonctionnellement similaires ou identiques à des concentrations similaires"
+    },
+    "difficulte": 3,
+    "tags": [
+      "BCS"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/qcm-074",
+    "type": "multiple",
+    "enonce": "Concernant les paramètres pharmacocinétiques et leur rôle dans l'étude :",
+    "options": [
+      "Cmax : pic d'exposition et vitesse d'absorption",
+      "AUC(0–∞) : aire extrapolée jusqu'à l'infini",
+      "Tmax : temps d'atteinte du pic",
+      "Ka et temps de latence : paramètres primaires",
+      "AUC : étendue de l'exposition"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explication": "Ka et temps de latence sont des paramètres complémentaires de l'absorption, selon le protocole.",
+    "source": {
+      "page": 8,
+      "extrait": "Ka, temps de latence Paramètres complémentaires de l'absorption, selon le protocole."
+    },
+    "difficulte": 1,
+    "tags": [
+      "paramètres"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/qcm-075",
+    "type": "multiple",
+    "enonce": "Un laboratoire produit un générique en comprimés à 250 mg et 500 mg (même procédé, même composition qualitative, même rapport PA/excipients ; PK linéaire). Cochez les propositions correctes :",
+    "options": [
+      "L'étude doit obligatoirement être faite sur le dosage le plus faible",
+      "Le résultat peut être extrapolé au dosage 250 mg",
+      "L'étude de bioéquivalence peut être réalisée sur le dosage 500 mg",
+      "Une étude est nécessaire pour chaque dosage",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      1,
+      2
+    ],
+    "explication": "En PK linéaire et sous ces conditions, l'étude sur le dosage le plus élevé (500 mg) peut être extrapolée aux autres dosages.",
+    "source": {
+      "page": 5,
+      "extrait": "l'étude de bioequivalence réalisée sur le dosage le plus élevé peut être extrapolée aux autres dosages."
+    },
+    "difficulte": 2,
+    "tags": [
+      "dosages supplémentaires"
+    ],
+    "origine": "genere"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/mnemo-001",
+    "titre": "Les 5 critères de Delay et Deniker",
+    "moyen": "« I.A.R.E.S. » : Indifférence psychomotrice, Agressivité diminuée, Réduction des psychoses, Effets neurologiques et végétatifs, Sous-cortical",
+    "explication": "Les cinq points de la définition de 1957 des neuroleptiques."
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/mnemo-002",
+    "titre": "Activité des phénothiazines",
+    "moyen": "« A < Pipéridine < Pipérazine »",
+    "explication": "L'activité neuroleptique croît des aliphatiques aux pipéridiniques puis aux pipéraziniques."
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/mnemo-003",
+    "titre": "Longueur des chaînes",
+    "moyen": "« 3 pour les phénoTHIAZINES, 4 pour les buTYROphénones »",
+    "explication": "Chaîne à 3 carbones pour les phénothiazines, à 4 carbones pour les butyrophénones."
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/mnemo-004",
+    "titre": "Voies dopaminergiques",
+    "moyen": "« MÉSOLIMBIQUE = bénéfice, MÉSOCORTICALE = négatifs, NIGROSTRIÉE = extrapyramidal, TUBÉRO = prolactine »",
+    "explication": "Les quatre voies dopaminergiques et les conséquences de leur blocage."
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/mnemo-005",
+    "titre": "Butyrophénones",
+    "moyen": "« F en para, toujours »",
+    "explication": "Toutes les butyrophénones doivent porter un atome de fluor en para."
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/mnemo-006",
+    "titre": "Benzamides neuroleptiques",
+    "moyen": "« S.A.S.T. » : Sulpiride, Amisulpride, Sultopride, Tiapride",
+    "explication": "Les quatre benzamides utilisés comme neuroleptiques."
+  }
+]

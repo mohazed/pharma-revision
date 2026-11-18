@@ -1,0 +1,57 @@
+[
+  {
+    "id": "chimie-analytique/01-methodes-de-separation/calcul-001",
+    "titre": "Force centrifuge",
+    "enonce": "Une masse de {m} kg tourne sur un rayon de {R} m à {n} tours par seconde. Calculer la force centrifuge F.",
+    "variables": {
+      "m": {
+        "min": 0.001,
+        "max": 0.01,
+        "pas": 0.001,
+        "unite": "kg"
+      },
+      "R": {
+        "min": 0.1,
+        "max": 0.3,
+        "pas": 0.05,
+        "unite": "m"
+      },
+      "n": {
+        "min": 50,
+        "max": 500,
+        "pas": 50,
+        "unite": "tr/s"
+      }
+    },
+    "formule": "4*Math.PI*Math.PI*R*n*n*m",
+    "unite": "N",
+    "decimales": 2,
+    "etapes": [
+      "Étape 1 : F = m·γ avec γ = V²/R et V = 2πRn",
+      "Étape 2 : F = 4π²·R·n²·m",
+      "Étape 3 : application numérique (n en tours par seconde, R en m, m en kg)"
+    ],
+    "rappel": "F = 4π²Rn²m : l'efficacité dépend surtout de n (au carré)."
+  },
+  {
+    "id": "chimie-analytique/01-methodes-de-separation/calcul-002",
+    "titre": "Effet du nombre de tours sur la force centrifuge",
+    "enonce": "On multiplie la vitesse de rotation d'une centrifugeuse par {k} (R et m constants). Par combien la force centrifuge est-elle multipliée ?",
+    "variables": {
+      "k": {
+        "min": 2,
+        "max": 10,
+        "pas": 1,
+        "unite": ""
+      }
+    },
+    "formule": "k*k",
+    "unite": "",
+    "decimales": 0,
+    "etapes": [
+      "Étape 1 : F = 4π²Rn²m",
+      "Étape 2 : F'/F = (k·n)²/n² = k²"
+    ],
+    "rappel": "n intervient à la puissance 2."
+  }
+]

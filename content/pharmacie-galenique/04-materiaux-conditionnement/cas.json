@@ -1,0 +1,187 @@
+[
+  {
+    "id": "pharmacie-galenique/04-materiaux-conditionnement/cas-001",
+    "titre": "Choix du verre pour un injectable",
+    "enonce": "Un laboratoire doit conditionner trois produits : une solution injectable aqueuse basique, une poudre stérile pour reconstitution et un sirop non stérile.",
+    "questions": [
+      {
+        "id": "pharmacie-galenique/04-materiaux-conditionnement/cas-001-q-001",
+        "type": "unique",
+        "enonce": "Pour la solution injectable aqueuse basique :",
+        "options": [
+          "Verre de type II",
+          "Verre de type IV",
+          "Verre de type III",
+          "Verre de type I",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          3
+        ],
+        "explication": "Le type II exclut les préparations basiques ; III et IV ne conviennent pas aux préparations aqueuses injectables. Le type I convient à toutes les préparations.",
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacie-galenique/04-materiaux-conditionnement/cas-001-q-002",
+        "type": "unique",
+        "enonce": "Pour la poudre stérile, le verre recommandé dans le tableau est :",
+        "options": [
+          "Type III",
+          "Type IV",
+          "Aucun verre",
+          "Uniquement un verre teinté",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Le type III est indiqué pour les poudres stériles (on pourrait utiliser un type supérieur).",
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacie-galenique/04-materiaux-conditionnement/cas-001-q-003",
+        "type": "multiple",
+        "enonce": "Pour le sirop non stérile, peuvent convenir :",
+        "options": [
+          "Type III",
+          "Type II",
+          "Type IV",
+          "Type I",
+          "Toutes les propositions sont correctes"
+        ],
+        "correctes": [
+          4
+        ],
+        "explication": "Les préparations non stériles sont acceptées par les types III et IV, et une résistance hydrolytique supérieure est toujours possible.",
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacie-galenique/04-materiaux-conditionnement/cas-001-q-004",
+        "type": "unique",
+        "enonce": "Si le PA de la solution injectable est photosensible :",
+        "options": [
+          "On utilise un verre teinté",
+          "Il faut un verre au plomb",
+          "Le verre incolore suffit",
+          "Il faut utiliser du PEBD transparent",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Le verre est transparent aux rayons visibles ; pour un PA photosensible, on utilise un verre teinté.",
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacie-galenique/04-materiaux-conditionnement/cas-001-q-005",
+        "type": "multiple",
+        "enonce": "Lors de l'autoclavage de la solution dans un verre inadapté, on peut observer :",
+        "options": [
+          "Un changement de pH",
+          "Une inactivation du PA",
+          "Une hydrolyse du verre",
+          "Une alcalinisation de la solution",
+          "Toutes les propositions sont correctes"
+        ],
+        "correctes": [
+          4
+        ],
+        "explication": "La réaction d'hydrolyse du verre est accélérée par la température (stérilisation) avec alcalinisation et risque d'inactivation.",
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "pharmacie-galenique/04-materiaux-conditionnement/cas-002",
+    "titre": "Choix d'un plastique",
+    "enonce": "Un service de production cherche un matériau plastique pour trois usages : une poche de perfusion, un flacon rigide pour comprimés et du matériel médico-chirurgical devant être stérilisé à la vapeur.",
+    "questions": [
+      {
+        "id": "pharmacie-galenique/04-materiaux-conditionnement/cas-002-q-001",
+        "type": "unique",
+        "enonce": "Pour le matériel devant être stérilisé à la vapeur, le meilleur choix d'après le tableau est :",
+        "options": [
+          "PEBD",
+          "Polypropylène",
+          "PEHD",
+          "PET",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          1
+        ],
+        "explication": "Seul le polypropylène est noté « + » pour la stérilisation par la vapeur.",
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacie-galenique/04-materiaux-conditionnement/cas-002-q-002",
+        "type": "unique",
+        "enonce": "Pour le flacon rigide :",
+        "options": [
+          "PEHD",
+          "PVDC seul",
+          "PEBD",
+          "Latex d'hévéa",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "PEHD : récipient rigide ; PEBD : récipient souple.",
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacie-galenique/04-materiaux-conditionnement/cas-002-q-003",
+        "type": "unique",
+        "enonce": "Pour la poche de perfusion, le cours cite :",
+        "options": [
+          "Le polyuréthanne",
+          "Le PET",
+          "Le PVC",
+          "Le PTFE",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          2
+        ],
+        "explication": "Poche de perfusion en PVC (usage du PVC : blister, poche perfusion, sachet).",
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacie-galenique/04-materiaux-conditionnement/cas-002-q-004",
+        "type": "unique",
+        "enonce": "Pour améliorer l'étanchéité aux gaz d'un blister en PVC, on ajoute :",
+        "options": [
+          "Du PVDC (Saran)",
+          "Une charge",
+          "Un colorant",
+          "Un plastifiant",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Le PVDC est un revêtement imperméable aux gaz ; l'étanchéité du PVC passe de +/- à ++.",
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      }
+    ]
+  }
+]

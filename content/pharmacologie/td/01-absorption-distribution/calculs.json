@@ -1,0 +1,225 @@
+[
+  {
+    "id": "pharmacologie/td/01-absorption-distribution/calc-001",
+    "titre": "Rapport forme ionisée / non ionisée d'un acide",
+    "enonce": "Un médicament acide de pKa = {pka} se trouve dans un milieu de pH = {ph}. Calculer le rapport [I]/[NI].",
+    "variables": {
+      "pka": {
+        "min": 2.5,
+        "max": 7.5,
+        "pas": 0.5,
+        "unite": ""
+      },
+      "ph": {
+        "min": 1,
+        "max": 8,
+        "pas": 0.5,
+        "unite": ""
+      }
+    },
+    "formule": "Math.pow(10, ph - pka)",
+    "unite": "",
+    "decimales": 4,
+    "etapes": [
+      "Acide : pH = pKa + log [I]/[NI]",
+      "log [I]/[NI] = pH − pKa = {ph} − {pka}",
+      "[I]/[NI] = 10^(pH − pKa)"
+    ],
+    "rappel": "Henderson-Hasselbalch pour un acide : pH = pKa + log [forme ionisée]/[forme non ionisée]"
+  },
+  {
+    "id": "pharmacologie/td/01-absorption-distribution/calc-002",
+    "titre": "Pourcentage non ionisé d'un acide",
+    "enonce": "Un acide faible de pKa = {pka} est dans un milieu de pH = {ph}. Calculer le pourcentage de forme non ionisée.",
+    "variables": {
+      "pka": {
+        "min": 2.5,
+        "max": 7.5,
+        "pas": 0.5,
+        "unite": ""
+      },
+      "ph": {
+        "min": 1,
+        "max": 8,
+        "pas": 0.5,
+        "unite": ""
+      }
+    },
+    "formule": "100 / (1 + Math.pow(10, ph - pka))",
+    "unite": "%",
+    "decimales": 2,
+    "etapes": [
+      "[I]/[NI] = 10^(pH − pKa)",
+      "% NI = 100 / (1 + [I]/[NI])"
+    ],
+    "rappel": "Seule la fraction non ionisée traverse les membranes par diffusion passive."
+  },
+  {
+    "id": "pharmacologie/td/01-absorption-distribution/calc-003",
+    "titre": "Rapport forme ionisée / non ionisée d'une base",
+    "enonce": "Une base faible de pKa = {pka} se trouve dans un milieu de pH = {ph}. Calculer le rapport [I]/[NI].",
+    "variables": {
+      "pka": {
+        "min": 5,
+        "max": 11,
+        "pas": 0.5,
+        "unite": ""
+      },
+      "ph": {
+        "min": 1,
+        "max": 8,
+        "pas": 0.5,
+        "unite": ""
+      }
+    },
+    "formule": "Math.pow(10, pka - ph)",
+    "unite": "",
+    "decimales": 4,
+    "etapes": [
+      "Base : pH = pKa + log [NI]/[I]",
+      "log [I]/[NI] = pKa − pH = {pka} − {ph}",
+      "[I]/[NI] = 10^(pKa − pH)"
+    ],
+    "rappel": "Henderson-Hasselbalch pour une base : pH = pKa + log [forme non ionisée]/[forme ionisée]"
+  },
+  {
+    "id": "pharmacologie/td/01-absorption-distribution/calc-004",
+    "titre": "Biodisponibilité avec premiers passages multiples",
+    "enonce": "Un médicament administré par voie orale a f = {f}, E intestinal = {ei}, E hépatique = {eh}, E pulmonaire = {ep}. Calculer F (%).",
+    "variables": {
+      "f": {
+        "min": 0.5,
+        "max": 1,
+        "pas": 0.05,
+        "unite": ""
+      },
+      "ei": {
+        "min": 0,
+        "max": 0.3,
+        "pas": 0.05,
+        "unite": ""
+      },
+      "eh": {
+        "min": 0,
+        "max": 0.8,
+        "pas": 0.05,
+        "unite": ""
+      },
+      "ep": {
+        "min": 0,
+        "max": 0.3,
+        "pas": 0.05,
+        "unite": ""
+      }
+    },
+    "formule": "f * (1 - ei) * (1 - eh) * (1 - ep) * 100",
+    "unite": "%",
+    "decimales": 2,
+    "etapes": [
+      "Voie orale : EPP intestinal, hépatique et pulmonaire",
+      "F = f × (1 − Ei) × (1 − Eh) × (1 − Ep)",
+      "F = {f} × (1 − {ei}) × (1 − {eh}) × (1 − {ep})"
+    ],
+    "rappel": "F = f(1 − E), appliqué successivement à chaque organe de premier passage"
+  },
+  {
+    "id": "pharmacologie/td/01-absorption-distribution/calc-005",
+    "titre": "Quantité atteignant la circulation (premiers passages)",
+    "enonce": "Une dose de {d} mg est administrée par voie orale ; f = {f}, E intestinal = 0,1, E hépatique = {eh}, E pulmonaire = 0,1. Calculer la quantité atteignant la circulation générale.",
+    "variables": {
+      "d": {
+        "min": 50,
+        "max": 500,
+        "pas": 50,
+        "unite": "mg"
+      },
+      "f": {
+        "min": 0.5,
+        "max": 1,
+        "pas": 0.05,
+        "unite": ""
+      },
+      "eh": {
+        "min": 0,
+        "max": 0.8,
+        "pas": 0.05,
+        "unite": ""
+      }
+    },
+    "formule": "d * f * 0.9 * (1 - eh) * 0.9",
+    "unite": "mg",
+    "decimales": 1,
+    "etapes": [
+      "F = f × 0,9 × (1 − Eh) × 0,9",
+      "Q = dose × F"
+    ],
+    "rappel": "Q = dose × F"
+  },
+  {
+    "id": "pharmacologie/td/01-absorption-distribution/calc-006",
+    "titre": "Dose à administrer pour une concentration cible",
+    "enonce": "On veut obtenir une Cp de {cp} mg/L chez un patient de {p} kg ; le Vd est de {vd} L/kg. Quelle dose administrer ?",
+    "variables": {
+      "cp": {
+        "min": 0.5,
+        "max": 10,
+        "pas": 0.5,
+        "unite": "mg/L"
+      },
+      "p": {
+        "min": 40,
+        "max": 100,
+        "pas": 5,
+        "unite": "kg"
+      },
+      "vd": {
+        "min": 0.1,
+        "max": 20,
+        "pas": 0.1,
+        "unite": "L/kg"
+      }
+    },
+    "formule": "cp * vd * p",
+    "unite": "mg",
+    "decimales": 0,
+    "etapes": [
+      "Vd total = {vd} × {p} L",
+      "Vd = Q / Cp → Q = Cp × Vd",
+      "Q = {cp} × {vd} × {p}"
+    ],
+    "rappel": "Vd = Q / Cp"
+  },
+  {
+    "id": "pharmacologie/td/01-absorption-distribution/calc-007",
+    "titre": "Volume de distribution en L/kg",
+    "enonce": "Un patient de {p} kg reçoit {d} mg IV ; la concentration initiale est de {c0} mg/L. Calculer le Vd en L/kg.",
+    "variables": {
+      "p": {
+        "min": 40,
+        "max": 100,
+        "pas": 5,
+        "unite": "kg"
+      },
+      "d": {
+        "min": 100,
+        "max": 1000,
+        "pas": 50,
+        "unite": "mg"
+      },
+      "c0": {
+        "min": 0.5,
+        "max": 20,
+        "pas": 0.5,
+        "unite": "mg/L"
+      }
+    },
+    "formule": "d / c0 / p",
+    "unite": "L/kg",
+    "decimales": 2,
+    "etapes": [
+      "Vd = Q / C0 = {d} / {c0} (en L)",
+      "Vd (L/kg) = Vd / {p}"
+    ],
+    "rappel": "Vd = Q / Cp0"
+  }
+]

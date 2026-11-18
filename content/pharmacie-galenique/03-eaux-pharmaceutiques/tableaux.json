@@ -1,0 +1,199 @@
+[
+  {
+    "id": "pharmacie-galenique/03-eaux-pharmaceutiques/tableau-001",
+    "titre": "Efficacité des méthodes de purification",
+    "colonnes": [
+      "Contaminant",
+      "Échangeurs d'ions",
+      "Osmose inverse",
+      "Ultrafiltration",
+      "Distillation"
+    ],
+    "lignes": [
+      [
+        "Sels minéraux",
+        "+++",
+        "++",
+        "0",
+        "+++"
+      ],
+      [
+        "Molécules organiques",
+        "+",
+        "+++",
+        "++",
+        "+++"
+      ],
+      [
+        "Colloïdes",
+        "0",
+        "+++",
+        "+++",
+        "+++"
+      ],
+      [
+        "Particules non dissoutes",
+        "0",
+        "+++",
+        "+++",
+        "+++"
+      ],
+      [
+        "Micro-organismes et virus",
+        "0",
+        "+++",
+        "+++",
+        "+++"
+      ],
+      [
+        "Pyrogènes",
+        "0",
+        "+++",
+        "+++",
+        "+++"
+      ]
+    ]
+  },
+  {
+    "id": "pharmacie-galenique/03-eaux-pharmaceutiques/tableau-002",
+    "titre": "Essais de l'eau (Ph. Eur.)",
+    "colonnes": [
+      "Essai",
+      "EP",
+      "EHP",
+      "EPPI vrac",
+      "EPPI stérilisée"
+    ],
+    "lignes": [
+      [
+        "Carbone organique total",
+        "< 0,5 mg/l",
+        "< 0,5 mg/l",
+        "< 0,5 mg/l",
+        "< 0,5 mg/l"
+      ],
+      [
+        "Acidité ou alcalinité",
+        "NON",
+        "NON",
+        "NON",
+        "OUI"
+      ],
+      [
+        "Conductivité (20 °C) µS/cm",
+        "< 4,3",
+        "1,1",
+        "1,1",
+        "25 (≤ 10 ml) ; 5 (> 10 ml)"
+      ],
+      [
+        "Substances oxydables",
+        "OUI",
+        "NON",
+        "NON",
+        "OUI"
+      ],
+      [
+        "Nitrates < 0,2 ppm",
+        "OUI",
+        "OUI",
+        "OUI",
+        "OUI"
+      ],
+      [
+        "Sulfates",
+        "NON",
+        "NON",
+        "NON",
+        "OUI"
+      ],
+      [
+        "Aluminium",
+        "OUI",
+        "OUI",
+        "OUI",
+        "OUI"
+      ],
+      [
+        "Ammonium < 0,2 ppm",
+        "OUI",
+        "OUI",
+        "OUI",
+        "OUI"
+      ],
+      [
+        "Ca & Mg",
+        "NON",
+        "NON",
+        "NON",
+        "OUI"
+      ],
+      [
+        "Métaux lourds < 0,1 ppm",
+        "OUI",
+        "OUI",
+        "OUI",
+        "OUI"
+      ],
+      [
+        "Contamination particulaire",
+        "NON",
+        "NON",
+        "NON",
+        "Particules non visibles"
+      ],
+      [
+        "Stérilité",
+        "NON",
+        "NON",
+        "NON",
+        "OUI"
+      ],
+      [
+        "Endotoxines",
+        "< 0,25 UI/ml",
+        "< 0,25 UI/ml",
+        "< 0,25 UI/ml",
+        "< 0,25 UI/ml"
+      ],
+      [
+        "Germes aérobies viables totaux",
+        "100 UFC/ml",
+        "10 UFC/ml",
+        "10 UFC/ml",
+        "Stérile"
+      ]
+    ]
+  },
+  {
+    "id": "pharmacie-galenique/03-eaux-pharmaceutiques/tableau-003",
+    "titre": "Qualités d'eaux et usages",
+    "colonnes": [
+      "Qualité",
+      "Définition / exigence",
+      "Usages"
+    ],
+    "lignes": [
+      [
+        "Eau purifiée",
+        "Médicaments non stériles et non apyrogènes",
+        "Granulés, comprimés, enrobage, lyophilisation non stérile ; voies orale, nasale, otique, cutanée, rectale, vaginale"
+      ],
+      [
+        "Eau hautement purifiée",
+        "Qualité biologique élevée",
+        "Ex : hémodialyse (sans aluminium)"
+      ],
+      [
+        "EPPI",
+        "Vrac ou stérilisée en récipients",
+        "Lyophilisation stérile, parentérales, hémodialyse, nébulisation"
+      ],
+      [
+        "Eau pour irrigation",
+        "Stérile, < 0,5 UI/ml endotoxines",
+        "Irrigation des cavités, lésions, surfaces corporelles"
+      ]
+    ]
+  }
+]

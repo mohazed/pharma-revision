@@ -1,0 +1,39 @@
+{
+  "name": "pharma-revision",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "PharmaRévision : révisions gratuites pour la 3e année de pharmacie (Alger).",
+  "scripts": {
+    "dev": "astro dev",
+    "validate": "node scripts/validate-content.mjs",
+    "build": "node scripts/validate-content.mjs && astro build",
+    "preview": "astro preview",
+    "test": "vitest run",
+    "icons": "node scripts/generate-icons.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "@astrojs/react": "^4.4.2",
+    "@fontsource-variable/inter": "^5.3.0",
+    "@fontsource-variable/nunito": "^5.3.0",
+    "@tailwindcss/vite": "^4.3.5",
+    "@vercel/analytics": "^2.0.1",
+    "astro": "^5.18.2",
+    "framer-motion": "^12.43.0",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "smiles-drawer": "^2.4.2",
+    "tailwindcss": "^4.3.5"
+  },
+  "devDependencies": {
+    "@types/node": "^22.20.5",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "sharp": "^0.35.5",
+    "typescript": "^5.9.3",
+    "vitest": "^3.2.7"
+  }
+}

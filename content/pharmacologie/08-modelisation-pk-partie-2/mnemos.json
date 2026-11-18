@@ -1,0 +1,26 @@
+[
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/mnemo-001",
+    "titre": "Plateau en 5 demi-vies",
+    "moyen": "« 50 – 75 – 87,5 – 94 – 97 »",
+    "explication": "Pourcentage de Css atteint après 1, 2, 3, 4 puis 5 T1/2 (1 − (1/2)^n) ; le cours retient 5 T1/2 ≈ 97 %."
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/mnemo-002",
+    "titre": "Cmoy en réitérée",
+    "moyen": "« FD sur Tau-Cl »",
+    "explication": "Cmoy = F·D/(τ·Cl) : F et D au numérateur (proportionnalité), τ et Cl au dénominateur (proportionnalité inverse)."
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/mnemo-003",
+    "titre": "Dose de charge",
+    "moyen": "« Vd fois la cible »",
+    "explication": "DC = Vd × Css (perfusion) ou Cmax × Vd/F (réitérée orale) : on remplit le volume de distribution jusqu'à la concentration cible."
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/mnemo-004",
+    "titre": "Équation bi oral",
+    "moyen": "« E-D-A : plus, plus, moins »",
+    "explication": "C = +E·e^(−ke·t) + D·e^(−kd·t) − A·e^(−ka·t) ; même signe pour l'AUC : E/ke + D/kd − A/ka."
+  }
+]

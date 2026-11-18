@@ -1,0 +1,218 @@
+[
+  {
+    "id": "chimie-therapeutique/04-antidepresseurs-partie-1/structure-001",
+    "nom": "Imipramine (Tofranil®)",
+    "smiles": "CN(C)CCCN1c2ccccc2CCc2ccccc21",
+    "classe": "Antidépresseur tricyclique, dibenzazépine",
+    "question": "Identifiez cette molécule :",
+    "options": [
+      "Imipramine",
+      "Désipramine",
+      "Clomipramine",
+      "Amitriptyline",
+      "Nortriptyline"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Dibenzazépine portant une chaîne –CH2CH2CH2–N(CH3)2 sur l'azote : imipramine, chef de file des tricycliques."
+  },
+  {
+    "id": "chimie-therapeutique/04-antidepresseurs-partie-1/structure-002",
+    "nom": "Désipramine (Pertofran®)",
+    "smiles": "CNCCCN1c2ccccc2CCc2ccccc21",
+    "classe": "Antidépresseur tricyclique, dibenzazépine",
+    "question": "Quelle est la particularité de la chaîne latérale de cette molécule ?",
+    "options": [
+      "Amine terminale secondaire",
+      "Amine terminale tertiaire",
+      "Fonction acide",
+      "Double liaison exocyclique",
+      "Groupe chloré"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Désipramine : chaîne –CH2CH2CH2–NHCH3, amine secondaire ; elle se situe au pôle psychotonique."
+  },
+  {
+    "id": "chimie-therapeutique/04-antidepresseurs-partie-1/structure-003",
+    "nom": "Clomipramine (Anafranil®)",
+    "smiles": "CN(C)CCCN1c2ccccc2CCc2ccc(Cl)cc21",
+    "classe": "Antidépresseur tricyclique, dibenzazépine chlorée",
+    "question": "Identifiez cette molécule :",
+    "options": [
+      "Clomipramine",
+      "Imipramine",
+      "Trimipramine",
+      "Amitriptyline",
+      "Amoxapine"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Imipramine portant un chlore sur un noyau benzénique : clomipramine (Anafranil®)."
+  },
+  {
+    "id": "chimie-therapeutique/04-antidepresseurs-partie-1/structure-004",
+    "nom": "Trimipramine (Surmontil®)",
+    "smiles": "CC(CN(C)C)CN1c2ccccc2CCc2ccccc21",
+    "classe": "Antidépresseur tricyclique, dibenzazépine",
+    "question": "À quelle série appartient cette molécule ?",
+    "options": [
+      "Série de l'imipramine",
+      "Série de l'amitriptyline",
+      "Tétracycliques",
+      "IMAO",
+      "ISRS"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Trimipramine (Surmontil®) : dibenzazépine à chaîne ramifiée, série de l'imipramine, située au pôle sédatif."
+  },
+  {
+    "id": "chimie-therapeutique/04-antidepresseurs-partie-1/structure-005",
+    "nom": "Amitriptyline (Laroxyl®)",
+    "smiles": "CN(C)CCC=C1c2ccccc2CCc2ccccc21",
+    "classe": "Antidépresseur tricyclique, dibenzocycloheptadiène",
+    "question": "Quelle particularité structurale caractérise cette série ?",
+    "options": [
+      "Une double liaison carbone-carbone exocyclique",
+      "Un azote dans le cycle central",
+      "Un atome de soufre",
+      "Un quatrième cycle",
+      "Un chlore sur le noyau"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "La série de l'amitriptyline est caractérisée par une double liaison C=C exocyclique."
+  },
+  {
+    "id": "chimie-therapeutique/04-antidepresseurs-partie-1/structure-006",
+    "nom": "Nortriptyline (Altilev)",
+    "smiles": "CNCCC=C1c2ccccc2CCc2ccccc21",
+    "classe": "Antidépresseur tricyclique, dibenzocycloheptadiène",
+    "question": "Cette molécule diffère de l'amitriptyline par :",
+    "options": [
+      "Une amine terminale secondaire",
+      "Une amine terminale tertiaire",
+      "L'absence de double liaison exocyclique",
+      "Un noyau azoté",
+      "Un chlore"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Nortriptyline : =CHCH2CH2NHCH3, amine secondaire."
+  },
+  {
+    "id": "chimie-therapeutique/04-antidepresseurs-partie-1/structure-007",
+    "nom": "Dibenzosubérone",
+    "smiles": "O=C1c2ccccc2CCc2ccccc21",
+    "classe": "Matière première de synthèse",
+    "question": "Quel médicament est synthétisé à partir de cette cétone ?",
+    "options": [
+      "Amitriptyline",
+      "Imipramine",
+      "Fluoxétine",
+      "Moclobémide",
+      "Mirtazapine"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "La dibenzosubérone est le point de départ de la synthèse de l'amitriptyline (Grignard cyclopropylique)."
+  },
+  {
+    "id": "chimie-therapeutique/04-antidepresseurs-partie-1/structure-008",
+    "nom": "Dibenzazépine (iminodibenzyle)",
+    "smiles": "C1Cc2ccccc2Nc2ccccc21",
+    "classe": "Noyau de base de la série de l'imipramine",
+    "question": "Quel est ce noyau ?",
+    "options": [
+      "Dibenzazépine",
+      "Dibenzocycloheptadiène",
+      "Dibenzothiépine",
+      "Dibenzoxazépine",
+      "Phénothiazine"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Noyau tricyclique à cycle central heptagonal azoté : dibenzazépine, base des « -pramines »."
+  },
+  {
+    "id": "chimie-therapeutique/04-antidepresseurs-partie-1/structure-009",
+    "nom": "Maprotiline (Ludiomil®)",
+    "smiles": "CNCCCC12CCC(c3ccccc31)c1ccccc12",
+    "classe": "Antidépresseur tétracyclique",
+    "question": "À quelle classe appartient cette molécule ?",
+    "options": [
+      "Tétracycliques apparentés aux tricycliques",
+      "Dibenzazépines",
+      "IMAO",
+      "ISRS",
+      "IRSNA"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "La maprotiline (Ludiomil®) est un antidépresseur tétracyclique apparenté aux tricycliques, situé au pôle sédatif."
+  },
+  {
+    "id": "chimie-therapeutique/04-antidepresseurs-partie-1/structure-010",
+    "nom": "Fluoxétine (Prozac®)",
+    "smiles": "CNCCC(Oc1ccc(C(F)(F)F)cc1)c1ccccc1",
+    "classe": "ISRS",
+    "question": "À quelle classe appartient cette molécule ?",
+    "options": [
+      "Inhibiteur spécifique de la recapture de la sérotonine",
+      "Antidépresseur tricyclique",
+      "IMAO",
+      "IRSNA",
+      "NASSA"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "La fluoxétine (Prozac®) est un ISRS, antidépresseur de 2e génération ni tricyclique ni IMAO."
+  },
+  {
+    "id": "chimie-therapeutique/04-antidepresseurs-partie-1/structure-011",
+    "nom": "Venlafaxine (Effexor®)",
+    "smiles": "COc1ccc(C(CN(C)C)C2(O)CCCCC2)cc1",
+    "classe": "IRSNA",
+    "question": "À quelle classe appartient cette molécule ?",
+    "options": [
+      "Inhibiteur de la recapture de la sérotonine et de la noradrénaline",
+      "ISRS",
+      "IMAO",
+      "Tricyclique",
+      "Tétracyclique"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "La venlafaxine (Effexor®) est un IRSNA."
+  },
+  {
+    "id": "chimie-therapeutique/04-antidepresseurs-partie-1/structure-012",
+    "nom": "Mirtazapine (Norset®)",
+    "smiles": "CN1CCN2c3ncccc3Cc3ccccc3C2C1",
+    "classe": "NASSA (antidépresseur atypique)",
+    "question": "À quelle classe appartient cette molécule ?",
+    "options": [
+      "NASSA, antidépresseur atypique",
+      "ISRS",
+      "IMAO irréversible",
+      "Tricyclique",
+      "Carbamate"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "La mirtazapine (Norset®) est un antidépresseur noradrénergique et sérotoninergique spécifique (NASSA), classé parmi les ATD atypiques."
+  }
+]

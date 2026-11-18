@@ -1,0 +1,52 @@
+{
+  "id": "pharmacologie/td/02-metabolisme-elimination/fiche-001",
+  "titre": "TD 2 – Métabolisme et élimination",
+  "sections": [
+    {
+      "titre": "Exercice 1 – IH et propranolol",
+      "points": [
+        "IH : ↓ activité enzymatique, ↓ EPPH → ↑ Cp → surdosage (hypotension, syncope).",
+        "Sujet âgé : ↓ masse, flux et pouvoir métabolique hépatiques.",
+        "CAT : signaler l'IH, ajuster la posologie, suivi thérapeutique."
+      ]
+    },
+    {
+      "titre": "Exercice 2 – Induction enzymatique",
+      "points": [
+        "Phénobarbital = inducteur → métabolisme du contraceptif accéléré → inefficacité.",
+        "CAT : connaître l'interaction, éviter l'association ou adapter."
+      ]
+    },
+    {
+      "titre": "Exercice 3 – Demi-vie",
+      "points": [
+        "25 ans : t1/2 = 20 min ; 60 ans : t1/2 = 30 min.",
+        "A non métabolisé, éliminé par le rein → baisse de la fonction rénale → accumulation."
+      ]
+    },
+    {
+      "titre": "Exercice 4 – Clairance",
+      "points": [
+        "Cl = U × V / P = 80 × 100/2 = 4000 ml/h ≈ 66,7 ml/min."
+      ]
+    },
+    {
+      "titre": "Exercice 5 – Bicarbonate",
+      "points": [
+        "Alcalinisation urinaire → phénobarbital ionisé → ↓ réabsorption tubulaire passive → ↑ élimination."
+      ]
+    }
+  ],
+  "aRetenir": [
+    "IH → ↑ Cp",
+    "Inducteur → ↓ effet du médicament associé",
+    "t1/2 ↑ si fonction rénale ↓",
+    "Cl = U·V/P",
+    "Acide faible : alcaliniser l'urine"
+  ],
+  "pieges": [
+    "La cimétidine est un inhibiteur, pas un inducteur.",
+    "Convertir la clairance de ml/h en ml/min (÷ 60).",
+    "Lire la demi-vie sur le passage de C0 à C0/2 (0,12 → 0,06), pas sur un intervalle fixe."
+  ]
+}

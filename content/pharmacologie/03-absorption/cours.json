@@ -1,0 +1,13 @@
+{
+  "id": "pharmacologie/03-absorption",
+  "module": "pharmacologie",
+  "ordre": 3,
+  "titre": "Pharmacocinétique – Absorption",
+  "type": "cours",
+  "source": {
+    "driveId": "1vknCzzZUsEEVYToM5Ns-eDJsu8pVeTmA",
+    "fichier": "3. Pharmacocinétique - Absorption.pdf",
+    "modifiedTime": "2026-10-13T21:38:27.922Z"
+  },
+  "resume": "Absorption des médicaments : mécanismes de passage transmembranaire, facteurs physico-chimiques et membranaires (pH/pKa, Henderson-Hasselbalch), effet de premier passage, biodisponibilité, glycoprotéine P et absorption selon les voies d'administration."
+}

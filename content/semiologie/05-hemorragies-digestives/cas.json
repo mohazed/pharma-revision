@@ -1,0 +1,449 @@
+[
+  {
+    "id": "semiologie/05-hemorragies-digestives/cas-001",
+    "titre": "« Je voudrais un fortifiant »",
+    "enonce": "M. B., 72 ans, traité par aspirine 100 mg/j (antécédent d'infarctus) et bisoprolol, prend depuis 10 jours de l'ibuprofène acheté sans ordonnance pour des douleurs de genou. Il demande un fortifiant : il est fatigué, a fait un malaise ce matin, et ses selles sont noires et collantes depuis 2 jours. Pouls à 78/min.",
+    "questions": [
+      {
+        "id": "semiologie/05-hemorragies-digestives/cas-001-q1",
+        "type": "unique",
+        "enonce": "Le signe digestif présenté est :",
+        "options": [
+          "Un méléna",
+          "Une fausse méléna",
+          "Une rectorragie",
+          "Une hématémèse",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Selles noires et collantes avec malaise : méléna (hémorragie haute probable).",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/05-hemorragies-digestives/cas-001-q2",
+        "type": "multiple",
+        "enonce": "Les médicaments ayant favorisé le saignement sont :",
+        "options": [
+          "Ibuprofène",
+          "Aspirine",
+          "Bisoprolol",
+          "L'association AINS + aspirine en automédication",
+          "Toutes les propositions sont fausses"
+        ],
+        "correctes": [
+          0,
+          1,
+          3
+        ],
+        "explication": "Ibuprofène + aspirine : association à risque d'ulcère ; le bisoprolol ne favorise pas le saignement mais masque la tachycardie.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/05-hemorragies-digestives/cas-001-q3",
+        "type": "multiple",
+        "enonce": "Le pouls à 78/min :",
+        "options": [
+          "Ne rassure pas",
+          "S'explique par le bisoprolol qui empêche l'accélération du pouls",
+          "Élimine une hémorragie grave",
+          "Prouve l'absence de choc",
+          "Toutes les propositions sont fausses"
+        ],
+        "correctes": [
+          0,
+          1
+        ],
+        "explication": "Les bêtabloquants empêchent l'accélération du pouls : un pouls normal ne rassure pas.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/05-hemorragies-digestives/cas-001-q4",
+        "type": "multiple",
+        "enonce": "Les facteurs de risque d'ulcère compliqué chez ce patient sont :",
+        "options": [
+          "Âge > 65 ans",
+          "Association AINS + antiagrégant",
+          "Prise d'un bêtabloquant",
+          "Association de deux AINS (ibuprofène + aspirine)",
+          "Toutes les propositions sont fausses"
+        ],
+        "correctes": [
+          0,
+          1,
+          3
+        ],
+        "explication": "Âge > 65 ans, association à un antiagrégant, aspirine + AINS sont des facteurs de risque ; le bêtabloquant n'en est pas un.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/05-hemorragies-digestives/cas-001-q5",
+        "type": "multiple",
+        "enonce": "La conduite à tenir du pharmacien :",
+        "options": [
+          "Orientation immédiate aux urgences",
+          "Ne pas délivrer de fer ni d'AINS",
+          "Ne pas arrêter l'aspirine de sa propre initiative",
+          "Transmettre la liste des médicaments",
+          "Toutes les propositions sont correctes"
+        ],
+        "correctes": [
+          4
+        ],
+        "explication": "C'est la réponse du cas pratique du cours.",
+        "difficulte": 2,
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/cas-002",
+    "titre": "Selles noires sous traitement martial",
+    "enonce": "Une femme de 35 ans, traitée depuis une semaine par sulfate ferreux pour une anémie après un accouchement, s'inquiète de selles noires. Elle n'a ni malaise, ni pâleur inhabituelle, ni sueurs ; elle ne prend ni anticoagulant ni AINS. Les selles sont moulées, mates, sans odeur particulière.",
+    "questions": [
+      {
+        "id": "semiologie/05-hemorragies-digestives/cas-002-q1",
+        "type": "multiple",
+        "enonce": "Ces selles évoquent :",
+        "options": [
+          "Une coloration due au fer",
+          "Un méléna",
+          "Une fausse méléna",
+          "Une rectorragie",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0,
+          2
+        ],
+        "explication": "Fer oral : selles noires ou vert foncé, moulées, non fétides = fausse méléna.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/05-hemorragies-digestives/cas-002-q2",
+        "type": "multiple",
+        "enonce": "La question clé pour différencier méléna et coloration porte sur :",
+        "options": [
+          "Le caractère collant, luisant et fétide",
+          "Le caractère mat et moulé",
+          "La couleur de la langue",
+          "La présence de glaires",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0,
+          1
+        ],
+        "explication": "Collantes, luisantes, fétides = méléna ; mates et moulées = coloration.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/05-hemorragies-digestives/cas-002-q3",
+        "type": "multiple",
+        "enonce": "La conduite à tenir est :",
+        "options": [
+          "Rassurer et surveiller",
+          "Appeler les secours",
+          "Arrêter le fer sans avis",
+          "Expliquer les signes devant faire consulter",
+          "Toutes les propositions sont fausses"
+        ],
+        "correctes": [
+          0,
+          3
+        ],
+        "explication": "Prise de fer + selles moulées non collantes non fétides sans signe de gravité : coloration probable, rassurer et surveiller, en expliquant les signes d'alerte.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/05-hemorragies-digestives/cas-002-q4",
+        "type": "multiple",
+        "enonce": "Quels éléments imposeraient un avis médical urgent ?",
+        "options": [
+          "Un malaise",
+          "Une pâleur",
+          "Des selles devenues collantes",
+          "Un patient sous fer peut aussi saigner",
+          "Toutes les propositions sont correctes"
+        ],
+        "correctes": [
+          4
+        ],
+        "explication": "Un malaise, une pâleur ou des selles collantes imposent un avis médical urgent ; un patient sous fer peut aussi saigner.",
+        "difficulte": 2,
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/cas-003",
+    "titre": "Hématémèse chez un cirrhotique",
+    "enonce": "Un homme de 55 ans, alcoolique, suivi pour cirrhose avec ascite et ictère, vomit brutalement une grande quantité de sang rouge. Il est pâle, en sueurs, ses extrémités sont froides, son pouls est à 120/min et sa tension basse.",
+    "questions": [
+      {
+        "id": "semiologie/05-hemorragies-digestives/cas-003-q1",
+        "type": "unique",
+        "enonce": "La cause la plus probable est :",
+        "options": [
+          "Une rupture de varices œsophagiennes",
+          "Un syndrome de Mallory-Weiss",
+          "Des diverticules",
+          "Une fissure anale",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Cirrhose, alcool, ascite, jaunisse → varices œsophagiennes ; hémorragie massive avec choc.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/05-hemorragies-digestives/cas-003-q2",
+        "type": "multiple",
+        "enonce": "Les signes de choc présents sont :",
+        "options": [
+          "Pâleur, sueurs",
+          "Extrémités froides",
+          "Pouls > 100/min",
+          "Tension basse",
+          "Toutes les propositions sont correctes"
+        ],
+        "correctes": [
+          4
+        ],
+        "explication": "Tous ces signes appartiennent au choc hémorragique.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/05-hemorragies-digestives/cas-003-q3",
+        "type": "multiple",
+        "enonce": "La conduite immédiate en dehors de l'hôpital est :",
+        "options": [
+          "Appel immédiat des secours",
+          "Patient allongé",
+          "Patient à jeun",
+          "Faire boire le patient",
+          "Toutes les propositions sont fausses"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "Appel des secours, patient allongé et à jeun.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/05-hemorragies-digestives/cas-003-q4",
+        "type": "multiple",
+        "enonce": "Le traitement hospitalier comprend :",
+        "options": [
+          "Un médicament vasoactif (terlipressine)",
+          "Un antibiotique préventif",
+          "Une ligature des varices par endoscopie",
+          "Puis un bêtabloquant en prévention",
+          "Toutes les propositions sont correctes"
+        ],
+        "correctes": [
+          4
+        ],
+        "explication": "C'est le traitement des varices rompues décrit dans le cours.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/05-hemorragies-digestives/cas-003-q5",
+        "type": "unique",
+        "enonce": "Pour ce patient, le pharmacien retiendra qu'il ne doit pas recevoir :",
+        "options": [
+          "D'AINS",
+          "De bêtabloquant en prévention",
+          "D'antibiotique",
+          "De perfusion",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Le cirrhotique ne doit pas recevoir d'AINS (saignement, insuffisance rénale).",
+        "difficulte": 2,
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/cas-004",
+    "titre": "Rectorragie chez un sujet âgé",
+    "enonce": "Une femme de 80 ans, porteuse de diverticules du côlon connus, présente une rectorragie abondante sans douleur. Elle prend un AINS pour son arthrose et un AOD (apixaban) pour une arythmie.",
+    "questions": [
+      {
+        "id": "semiologie/05-hemorragies-digestives/cas-004-q1",
+        "type": "unique",
+        "enonce": "La cause la plus probable est :",
+        "options": [
+          "Des diverticules du côlon",
+          "Une fissure anale",
+          "Un ulcère duodénal",
+          "Un Mallory-Weiss",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Sujet âgé, rectorragie abondante et indolore = diverticules.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/05-hemorragies-digestives/cas-004-q2",
+        "type": "multiple",
+        "enonce": "Concernant ses médicaments :",
+        "options": [
+          "L'association AOD + AINS est à éviter",
+          "Il faut préférer le paracétamol",
+          "L'AOD révèle la lésion sans la créer",
+          "Elle doit arrêter seule son AOD",
+          "Toutes les propositions sont fausses"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "AOD + AINS : à éviter, préférer le paracétamol ; l'antithrombotique révèle la lésion ; jamais d'arrêt sans avis médical.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/05-hemorragies-digestives/cas-004-q3",
+        "type": "unique",
+        "enonce": "Chez le sujet âgé porteur de diverticules, le cours recommande :",
+        "options": [
+          "D'éviter les AINS",
+          "D'associer deux AINS",
+          "D'augmenter la dose d'AOD",
+          "De ne pas signaler la rectorragie",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Chez le sujet âgé porteur de diverticules, éviter les AINS.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/05-hemorragies-digestives/cas-004-q4",
+        "type": "multiple",
+        "enonce": "Concernant l'évaluation de la gravité chez elle :",
+        "options": [
+          "Le sujet âgé s'aggrave vite",
+          "L'hémoglobine peut être normale au début",
+          "Un malaise imposerait l'appel des secours",
+          "Une hémoglobine normale à l'admission élimine une perte importante",
+          "Toutes les propositions sont fausses"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "Hémoglobine initialement normale = piège ; le sujet âgé s'aggrave vite.",
+        "difficulte": 2,
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/cas-005",
+    "titre": "Fatigue et anémie chez un homme de 60 ans",
+    "enonce": "Un homme de 60 ans se plaint d'une fatigue et d'un essoufflement à l'effort depuis 3 mois. Il est pâle. Le bilan montre une hémoglobine et une ferritine basses. Il n'a vu aucun saignement. Il a perdu du poids.",
+    "questions": [
+      {
+        "id": "semiologie/05-hemorragies-digestives/cas-005-q1",
+        "type": "multiple",
+        "enonce": "Ce tableau correspond à :",
+        "options": [
+          "Une anémie ferriprive",
+          "Un saignement occulte possible",
+          "Une hémorragie aiguë massive",
+          "Une fausse méléna",
+          "Toutes les propositions sont fausses"
+        ],
+        "correctes": [
+          0,
+          1
+        ],
+        "explication": "Pâleur, fatigue, essoufflement, Hb et ferritine basses = anémie ferriprive, révélant possiblement un saignement occulte.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/05-hemorragies-digestives/cas-005-q2",
+        "type": "multiple",
+        "enonce": "La conduite correcte est :",
+        "options": [
+          "Exploration digestive",
+          "Délivrer du fer sans autre démarche",
+          "Ignorer car aucun saignement n'est visible",
+          "Recherche de sang dans les selles",
+          "Toutes les propositions sont fausses"
+        ],
+        "correctes": [
+          0,
+          3
+        ],
+        "explication": "Une anémie ferriprive inexpliquée chez l'homme impose une exploration digestive ; le test de recherche de sang dans les selles détecte un saignement occulte.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/05-hemorragies-digestives/cas-005-q3",
+        "type": "unique",
+        "enonce": "Parmi les causes basses saignant de façon minime ou invisible, le cours cite :",
+        "options": [
+          "Cancer et polypes colorectaux",
+          "Diverticules (rectorragie abondante)",
+          "Fissure anale",
+          "Mallory-Weiss",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Cancer, polypes colorectaux : saignement souvent minime ou invisible, anémie.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/05-hemorragies-digestives/cas-005-q4",
+        "type": "unique",
+        "enonce": "L'amaigrissement associé à une anémie et une difficulté à avaler évoquerait :",
+        "options": [
+          "Un cancer",
+          "Une fissure",
+          "Des diverticules",
+          "Un Mallory-Weiss",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Amaigrissement, anémie, difficulté à avaler → cancer.",
+        "difficulte": 2,
+        "origine": "genere"
+      }
+    ]
+  }
+]

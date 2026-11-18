@@ -1,0 +1,13 @@
+{
+  "id": "pharmacologie/08-modelisation-pk-partie-2",
+  "module": "pharmacologie",
+  "ordre": 8,
+  "titre": "Modélisation et paramètres pharmacocinétiques – Partie 2",
+  "type": "cours",
+  "source": {
+    "driveId": "1pxuCUlGp04Yos2LYdpaBA--fh2O3WoQK",
+    "fichier": "7.2 Modélisation et paramètres pharmacocinétiques - Partie 2.pdf",
+    "modifiedTime": "2026-11-13T14:39:10.176Z"
+  },
+  "resume": "Modèle bicompartimental (IV et orale), administration répétée continue (perfusion) et réitérée, établissement d'un schéma posologique (intervalle posologique, dose d'entretien, dose de charge)."
+}

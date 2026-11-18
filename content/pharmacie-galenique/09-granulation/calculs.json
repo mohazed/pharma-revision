@@ -1,0 +1,179 @@
+[
+  {
+    "id": "pharmacie-galenique/09-granulation/calcul-001",
+    "titre": "Indice de Hausner",
+    "enonce": "Un granulé a une masse volumique apparente de {ra} g/mL et une masse volumique tassée de {rt} g/mL. Calculez l'indice de Hausner.",
+    "variables": {
+      "ra": {
+        "min": 0.3,
+        "max": 0.6,
+        "pas": 0.01,
+        "unite": "g/mL"
+      },
+      "rt": {
+        "min": 0.61,
+        "max": 0.9,
+        "pas": 0.01,
+        "unite": "g/mL"
+      }
+    },
+    "formule": "rt / ra",
+    "unite": "",
+    "decimales": 2,
+    "etapes": [
+      "H = ρtassée / ρapparente",
+      "Diviser la masse volumique tassée par la masse volumique apparente",
+      "Interpréter : > 1,25 = écoulement généralement difficile"
+    ],
+    "rappel": "H = ρtassée / ρapparente (1,00–1,11 excellent ; > 1,25 difficile)."
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/calcul-002",
+    "titre": "Indice de Carr",
+    "enonce": "Un granulé a une masse volumique apparente de {ra} g/mL et une masse volumique tassée de {rt} g/mL. Calculez l'indice de Carr.",
+    "variables": {
+      "ra": {
+        "min": 0.3,
+        "max": 0.6,
+        "pas": 0.01,
+        "unite": "g/mL"
+      },
+      "rt": {
+        "min": 0.61,
+        "max": 0.9,
+        "pas": 0.01,
+        "unite": "g/mL"
+      }
+    },
+    "formule": "100 * (rt - ra) / rt",
+    "unite": "%",
+    "decimales": 1,
+    "etapes": [
+      "IC = 100 × (ρtassée − ρapparente) / ρtassée",
+      "Calculer la différence ρt − ρa",
+      "Diviser par ρt et multiplier par 100"
+    ],
+    "rappel": "IC ≤ 10 % excellent ; 11–15 bon ; 16–20 assez bon ; 21–25 passable ; 26–31 médiocre ; ≥ 32 très médiocre."
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/calcul-003",
+    "titre": "Angle de repos",
+    "enonce": "Un tas de poudre a une hauteur h = {h} cm et un rayon r = {r} cm. Calculez l'angle de repos α (en degrés).",
+    "variables": {
+      "h": {
+        "min": 2,
+        "max": 6,
+        "pas": 0.5,
+        "unite": "cm"
+      },
+      "r": {
+        "min": 5,
+        "max": 10,
+        "pas": 0.5,
+        "unite": "cm"
+      }
+    },
+    "formule": "Math.atan(h / r) * 180 / Math.PI",
+    "unite": "°",
+    "decimales": 1,
+    "etapes": [
+      "tg α = h / r",
+      "α = arctg (h / r)",
+      "Convertir en degrés ; plus α est petit, meilleur est l'écoulement"
+    ],
+    "rappel": "tg α = h / r ; 25–30° excellent, ≥ 56° très médiocre."
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/calcul-004",
+    "titre": "Masse de liant (PVP)",
+    "enonce": "On granule {m} g de mélange sec avec de la PVP à {p} % (m/m du mélange sec). Calculez la masse de PVP.",
+    "variables": {
+      "m": {
+        "min": 500,
+        "max": 5000,
+        "pas": 500,
+        "unite": "g"
+      },
+      "p": {
+        "min": 0.5,
+        "max": 5,
+        "pas": 0.5,
+        "unite": "%"
+      }
+    },
+    "formule": "m * p / 100",
+    "unite": "g",
+    "decimales": 1,
+    "etapes": [
+      "Masse de PVP = (p/100) × masse du mélange sec"
+    ],
+    "rappel": "La PVP est utilisée à environ 0,5 à 5 %."
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/calcul-005",
+    "titre": "Masse de solution liante",
+    "enonce": "On granule {m} g de mélange sec avec de la PVP à {p} % (m/m), en solution aqueuse à {c} % (m/m). Calculez la masse de solution de liant.",
+    "variables": {
+      "m": {
+        "min": 500,
+        "max": 5000,
+        "pas": 500,
+        "unite": "g"
+      },
+      "p": {
+        "min": 0.5,
+        "max": 5,
+        "pas": 0.5,
+        "unite": "%"
+      },
+      "c": {
+        "min": 5,
+        "max": 20,
+        "pas": 5,
+        "unite": "%"
+      }
+    },
+    "formule": "(m * p / 100) / (c / 100)",
+    "unite": "g",
+    "decimales": 1,
+    "etapes": [
+      "Masse de PVP = (p/100) × m",
+      "Masse de solution = masse de PVP / (c/100)"
+    ],
+    "rappel": "Exemple du cours : 40 g de PVP à 10 % → 400 g de solution."
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/calcul-006",
+    "titre": "Masse d'eau de la solution liante",
+    "enonce": "On granule {m} g de mélange sec avec de la PVP à {p} % (m/m), en solution aqueuse à {c} % (m/m). Calculez la masse d'eau.",
+    "variables": {
+      "m": {
+        "min": 500,
+        "max": 5000,
+        "pas": 500,
+        "unite": "g"
+      },
+      "p": {
+        "min": 0.5,
+        "max": 5,
+        "pas": 0.5,
+        "unite": "%"
+      },
+      "c": {
+        "min": 5,
+        "max": 20,
+        "pas": 5,
+        "unite": "%"
+      }
+    },
+    "formule": "(m * p / 100) / (c / 100) - (m * p / 100)",
+    "unite": "g",
+    "decimales": 1,
+    "etapes": [
+      "Masse de PVP = (p/100) × m",
+      "Masse de solution = PVP / (c/100)",
+      "Masse d'eau = solution − PVP"
+    ],
+    "rappel": "Exemple du cours : 400 − 40 = 360 g d'eau, soit 20 % de la masse du mélange sec."
+  }
+]

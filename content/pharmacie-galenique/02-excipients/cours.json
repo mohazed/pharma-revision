@@ -1,0 +1,13 @@
+{
+  "id": "pharmacie-galenique/02-excipients",
+  "module": "pharmacie-galenique",
+  "ordre": 2,
+  "titre": "Les excipients pharmaceutiques",
+  "type": "cours",
+  "source": {
+    "driveId": "1sdg8I8m9VaUi44LxyvUFeXvRAeXWbhB2",
+    "fichier": "2. Les Excipients Pharmaceutiques.pdf",
+    "modifiedTime": "2026-10-14T08:57:04.975Z"
+  },
+  "resume": "Définition, qualités et rôles des excipients, grandes classes (liquides, cires, hydrocarbures et silicones, sucres et macromolécules, minéraux, glycérides, surfactifs et HLB) et critères de caractérisation."
+}

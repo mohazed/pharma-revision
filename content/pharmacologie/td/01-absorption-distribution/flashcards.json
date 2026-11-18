@@ -1,0 +1,80 @@
+[
+  {
+    "id": "pharmacologie/td/01-absorption-distribution/flash-001",
+    "recto": "Henderson-Hasselbalch (acide)",
+    "verso": "pH = pKa + log [I]/[NI]",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/td/01-absorption-distribution/flash-002",
+    "recto": "Henderson-Hasselbalch (base)",
+    "verso": "pH = pKa + log [NI]/[I]",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/td/01-absorption-distribution/flash-003",
+    "recto": "Acide pKa 3 à pH 2 : rapport I/NI",
+    "verso": "10⁻¹ = 0,1 → forme non ionisée majoritaire (≈ 91 %) → absorption gastrique.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/td/01-absorption-distribution/flash-004",
+    "recto": "Acide pKa 3 à pH 6 : rapport I/NI",
+    "verso": "10³ = 1000 → fortement ionisé.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/td/01-absorption-distribution/flash-005",
+    "recto": "Effet d'un antiacide sur un acide faible",
+    "verso": "pH gastrique ↑ → ionisation ↑ → absorption gastrique ↓.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/td/01-absorption-distribution/flash-006",
+    "recto": "F avec plusieurs effets de premier passage",
+    "verso": "F = f × (1 − Ei) × (1 − Eh) × (1 − Ep)",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/td/01-absorption-distribution/flash-007",
+    "recto": "Résultat de l'exercice 2 (TD1)",
+    "verso": "F = 0,9 × 0,9 × 0,7 × 0,9 = 0,5103 → 51 mg sur 100 mg.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/td/01-absorption-distribution/flash-008",
+    "recto": "EPP par voie intra-artérielle",
+    "verso": "Absent → F = 100 %.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/td/01-absorption-distribution/flash-009",
+    "recto": "EPP par voie IV, IM, SC",
+    "verso": "Pulmonaire.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/td/01-absorption-distribution/flash-010",
+    "recto": "Courbe à pics multiples après dose orale unique",
+    "verso": "Cycle entéro-hépatique (réabsorption des dérivés déconjugués).",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/td/01-absorption-distribution/flash-011",
+    "recto": "Dose pour une Cp cible",
+    "verso": "Q = Cp × Vd (Vd en L = Vd en L/kg × poids).",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/td/01-absorption-distribution/flash-012",
+    "recto": "Exercice 4 (TD1)",
+    "verso": "Q = 1 × 15 × 80 = 1200 mg.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/td/01-absorption-distribution/flash-013",
+    "recto": "Exercice 5 (TD1)",
+    "verso": "Vd = 500/2 = 250 L = 3,57 L/kg → distribution élevée (classe 200–1000 l).",
+    "tags": []
+  }
+]

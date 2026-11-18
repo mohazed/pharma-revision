@@ -1,0 +1,125 @@
+[
+  {
+    "id": "chimie-analytique/01-methodes-de-separation/tableau-001",
+    "titre": "Matières filtrantes",
+    "colonnes": [
+      "Matière",
+      "Nature",
+      "Avantage",
+      "Inconvénient"
+    ],
+    "lignes": [
+      [
+        "Papier filtre, pâte de cellulose",
+        "Organique",
+        "Pouvoir adsorbant exploité en chromatographie",
+        "Attaqués par solutions très acides ou très alcalines (alcali-cellulose solubles) ; pouvoir adsorbant gênant en filtration"
+      ],
+      [
+        "Polymères organiques (disques)",
+        "Organique",
+        "Porosité parfaitement définie, filtration jusqu'aux bactéries",
+        "Solubles dans certains solvants organiques"
+      ],
+      [
+        "Verre fritté",
+        "Minérale (dérivé de la silice)",
+        "Porosité 0 (≈200 µ) à 5 (≈1 µ)",
+        "Fragile vis-à-vis des solutions fortement alcalines (silicates)"
+      ]
+    ]
+  },
+  {
+    "id": "chimie-analytique/01-methodes-de-separation/tableau-002",
+    "titre": "Choix de la méthode selon le mélange",
+    "colonnes": [
+      "Type de mélange",
+      "Méthodes"
+    ],
+    "lignes": [
+      [
+        "Solide + liquide",
+        "Filtration, centrifugation"
+      ],
+      [
+        "Deux liquides non miscibles",
+        "Décantation (ampoule à décanter)"
+      ],
+      [
+        "Phases solides",
+        "Tri manuel (Pasteur), lévigation, tamisage"
+      ],
+      [
+        "Solution liquide homogène",
+        "Rupture de phase : élimination du solvant, précipitation, relargage ; transfert de phase (extraction)"
+      ]
+    ]
+  },
+  {
+    "id": "chimie-analytique/01-methodes-de-separation/carte-003",
+    "type": "carte",
+    "titre": "Méthodes de séparation",
+    "racine": {
+      "label": "Analyse immédiate",
+      "enfants": [
+        {
+          "label": "Mélange hétérogène",
+          "enfants": [
+            {
+              "label": "Solide/liquide",
+              "enfants": [
+                {
+                  "label": "Filtration",
+                  "enfants": []
+                },
+                {
+                  "label": "Centrifugation",
+                  "enfants": []
+                }
+              ]
+            },
+            {
+              "label": "Liquide/liquide",
+              "enfants": [
+                {
+                  "label": "Décantation",
+                  "enfants": []
+                }
+              ]
+            },
+            {
+              "label": "Solide/solide",
+              "enfants": [
+                {
+                  "label": "Lévigation",
+                  "enfants": []
+                },
+                {
+                  "label": "Tamisage",
+                  "enfants": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Phase homogène (rupture de phase)",
+          "enfants": [
+            {
+              "label": "Élimination du solvant",
+              "enfants": []
+            },
+            {
+              "label": "Précipitation",
+              "enfants": []
+            },
+            {
+              "label": "Relargage",
+              "enfants": []
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

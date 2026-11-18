@@ -1,0 +1,1363 @@
+[
+  {
+    "id": "pharmacologie/09-biodisponibilite/qcm-001",
+    "type": "multiple",
+    "enonce": "Concernant l'introduction à la biodisponibilité :",
+    "options": [
+      "La concentration dans la biophase est en relation directe avec les concentrations sanguines",
+      "Pour les médicaments à action systémique, le principe actif est véhiculé par le sang jusqu'à son site d'action",
+      "La biophase est l'environnement où agit le principe actif",
+      "L'intensité de l'effet est proportionnelle à la concentration du principe actif dans la biophase",
+      "Toutes les propositions sont justes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le cours énonce ces quatre notions : transport sanguin jusqu'au site d'action, effet proportionnel à la concentration dans la biophase (environnement où agit le PA), elle-même en relation directe avec les concentrations sanguines.",
+    "source": {
+      "page": 1,
+      "extrait": "L'intensité de cet effet est proportionnelle à la concentration de la substance active dans la biophase"
+    },
+    "difficulte": 1,
+    "tags": [
+      "biophase"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/09-biodisponibilite/qcm-002",
+    "type": "multiple",
+    "enonce": "La biodisponibilité s'applique :",
+    "options": [
+      "À tous les médicaments à action systémique",
+      "Aux voies indirectes d'administration",
+      "Aux médicaments dont le mode d'administration implique une étape d'absorption préalable",
+      "Uniquement à la voie intraveineuse",
+      "Uniquement aux médicaments à action locale"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "La biodisponibilité s'applique aux médicaments à action systémique dont le mode d'administration implique une absorption préalable à l'arrivée dans le sang (voies indirectes).",
+    "source": {
+      "page": 1,
+      "extrait": "s'applique à tous les médicaments à action systémiques et dont le mode d'administration implique une étape d'absorption préalable"
+    },
+    "difficulte": 1,
+    "tags": [
+      "champ d'application"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/09-biodisponibilite/qcm-003",
+    "type": "unique",
+    "enonce": "La notion de biodisponibilité a été introduite suite à :",
+    "options": [
+      "L'observation d'accidents toxiques dus à des surdosages ou d'inefficacité due à des sous-dosages",
+      "La classification biopharmaceutique",
+      "La découverte des génériques",
+      "La mise au point de l'HPLC",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "C'est l'observation d'accidents toxiques (surdosages) ou d'inefficacité (sous-dosages) qui a introduit la notion de biodisponibilité.",
+    "source": {
+      "page": 1,
+      "extrait": "C'est l'observation d'accidents toxiques dus à des surdosages ou d'inefficacité dus à des sous dosages"
+    },
+    "difficulte": 1,
+    "tags": [
+      "historique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/09-biodisponibilite/qcm-004",
+    "type": "multiple",
+    "enonce": "La biodisponibilité :",
+    "options": [
+      "Est un paramètre pharmacodynamique",
+      "Est aussi appelée disponibilité biologique",
+      "Rend compte de la manière dont le principe actif est mis à disposition de l'organisme",
+      "Est un paramètre pharmacocinétique",
+      "Est spécifique d'une forme pharmaceutique"
+    ],
+    "correctes": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "La biodisponibilité (ou disponibilité biologique) est un paramètre pharmacocinétique spécifique d'une forme pharmaceutique, rendant compte de la mise à disposition du PA pour produire son action.",
+    "source": {
+      "page": 1,
+      "extrait": "C'est un paramètre pharmacocinétique, spécifique d'une forme pharmaceutique"
+    },
+    "difficulte": 1,
+    "tags": [
+      "définition"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/09-biodisponibilite/qcm-005",
+    "type": "unique",
+    "enonce": "Selon la définition du cours, la biodisponibilité est :",
+    "options": [
+      "La quantité relative de principe actif absorbé à partir d'une forme pharmaceutique qui atteint la circulation systémique et la vitesse à laquelle se produit ce phénomène",
+      "La quantité totale de principe actif administrée",
+      "La vitesse d'élimination du principe actif",
+      "La concentration maximale atteinte dans le plasma",
+      "La fraction de principe actif liée aux protéines plasmatiques"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Définition : quantité relative de PA absorbé à partir d'une forme pharmaceutique qui atteint la circulation systémique ET vitesse à laquelle se produit ce phénomène.",
+    "source": {
+      "page": 1,
+      "extrait": "La quantité relative de principe actif absorbé à partir d'une forme pharmaceutique qui atteint la circulation systémique et la vitesse"
+    },
+    "difficulte": 1,
+    "tags": [
+      "définition"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/09-biodisponibilite/qcm-006",
+    "type": "multiple",
+    "enonce": "La biodisponibilité se définit par deux paramètres :",
+    "options": [
+      "La vitesse d'absorption",
+      "La quantité absorbée conditionne l'atteinte de la concentration efficace et la durée de l'effet",
+      "La quantité absorbée, exprimée en pourcentage de la dose administrée",
+      "La clairance rénale",
+      "Le volume de distribution"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Deux paramètres : quantité absorbée (% de la dose ; conditionne l'atteinte de la concentration thérapeutique et la durée de l'effet) et vitesse d'absorption (significative pour le délai d'action).",
+    "source": {
+      "page": 1,
+      "extrait": "Quantité absorbée: exprimé en pourcentage de la dose administrée ; Vitesse d'absorption : paramètre significatif pour le délai d'action."
+    },
+    "difficulte": 1,
+    "tags": [
+      "définition"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/09-biodisponibilite/qcm-007",
+    "type": "unique",
+    "enonce": "La vitesse d'absorption est un paramètre significatif pour :",
+    "options": [
+      "Le volume de distribution",
+      "La durée de l'effet",
+      "La clairance",
+      "Le délai d'action",
+      "La liaison protéique"
+    ],
+    "correctes": [
+      3
+    ],
+    "explication": "La vitesse d'absorption est significative pour le délai d'action ; la quantité absorbée conditionne la durée de l'effet.",
+    "source": {
+      "page": 1,
+      "extrait": "Vitesse d'absorption : paramètre significatif pour le délai d'action."
+    },
+    "difficulte": 1,
+    "tags": [
+      "vitesse d'absorption"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/09-biodisponibilite/qcm-008",
+    "type": "multiple",
+    "enonce": "Pour une même dose, la vitesse d'arrivée du principe actif dans la circulation générale peut entraîner, lorsqu'elle est :",
+    "options": [
+      "Lente : une inefficacité ou un retard pour atteindre une concentration thérapeutique",
+      "Rapide : une inefficacité",
+      "Lente : des effets toxiques",
+      "Rapide : des effets secondaires, voire toxiques",
+      "Normale : une réponse pharmacologique"
+    ],
+    "correctes": [
+      0,
+      3,
+      4
+    ],
+    "explication": "Normale → réponse pharmacologique ; rapide → effets secondaires voire toxiques ; lente → inefficacité ou retard à atteindre la concentration thérapeutique.",
+    "source": {
+      "page": 2,
+      "extrait": "Rapide → Effets secondaires voir toxiques ; Lente → Inefficacité ou retard"
+    },
+    "difficulte": 1,
+    "tags": [
+      "vitesse d'absorption"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/09-biodisponibilite/qcm-009",
+    "type": "multiple",
+    "enonce": "Parmi les raisons justifiant des études de biodisponibilité, on cite :",
+    "options": [
+      "La modification de la formule du médicament",
+      "Le changement de voie d'administration",
+      "La sélection de la meilleure forme pharmaceutique pour un nouveau principe actif",
+      "La modification de la posologie",
+      "La modification de la quantité de principe actif dans le médicament"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Toutes ces situations sont citées, de même que l'étude des facteurs physiologiques et pathologiques, des rythmes circadiens, des interactions entre PA et l'évaluation de la bioéquivalence.",
+    "source": {
+      "page": 2,
+      "extrait": "Modification de la quantité de principe actif dans le médicament ; Modification de la formule du médicament ; Changement de voie"
+    },
+    "difficulte": 1,
+    "tags": [
+      "raisons"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/09-biodisponibilite/qcm-010",
+    "type": "multiple",
+    "enonce": "Les études de biodisponibilité permettent d'étudier l'influence :",
+    "options": [
+      "Des rythmes circadiens",
+      "Des facteurs pathologiques (hépatiques et rénaux)",
+      "Des facteurs physiologiques (âge, sexe, alimentation)",
+      "De l'interaction entre 2 ou plusieurs principes actifs",
+      "Toutes les propositions sont justes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le cours cite l'étude de l'influence des facteurs physiologiques (âge, sexe, alimentation), pathologiques (hépatiques, rénaux), des rythmes circadiens et des interactions entre PA.",
+    "source": {
+      "page": 2,
+      "extrait": "Etudes de l'influence des facteurs physiologiques (âge, sexe, alimentation) et pathologiques (hépatiques et rénales)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "raisons"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/09-biodisponibilite/qcm-011",
+    "type": "unique",
+    "enonce": "L'étude de biodisponibilité vise avant tout à :",
+    "options": [
+      "Réduire le prix du médicament",
+      "Breveter la molécule",
+      "Mesurer l'effet pharmacodynamique",
+      "Garantir l'efficacité thérapeutique d'un médicament",
+      "Déterminer la dose létale"
+    ],
+    "correctes": [
+      3
+    ],
+    "explication": "L'étude de biodisponibilité vise à garantir l'efficacité thérapeutique d'un médicament.",
+    "source": {
+      "page": 2,
+      "extrait": "L'étude de biodisponibilité vise à garantir l'efficacité thérapeutique d'un médicament."
+    },
+    "difficulte": 1,
+    "tags": [
+      "raisons"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/09-biodisponibilite/qcm-012",
+    "type": "multiple",
+    "enonce": "L'évaluation de la bioéquivalence de deux formes pharmaceutiques, citée comme raison d'étude de biodisponibilité, concerne des formes :",
+    "options": [
+      "Semblables",
+      "À des doses différentes",
+      "Contenant le même principe actif",
+      "Contenant des principes actifs différents",
+      "À la même dose"
+    ],
+    "correctes": [
+      0,
+      2,
+      4
+    ],
+    "explication": "Bioéquivalence de deux formes pharmaceutiques semblables contenant le même principe actif à la même dose.",
+    "source": {
+      "page": 2,
+      "extrait": "Evaluation de la bioéquivalence de deux formes pharmaceutiques semblables contenant le même principe actif à la même dose."
+    },
+    "difficulte": 1,
+    "tags": [
+      "bioéquivalence"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/09-biodisponibilite/qcm-013",
+    "type": "multiple",
+    "enonce": "Concernant les modalités de détermination de la biodisponibilité :",
+    "options": [
+      "Elle est étudiée en phase I du développement clinique",
+      "Elle est réalisée sur des volontaires sains",
+      "C'est une mesure in vivo",
+      "C'est une mesure in vitro",
+      "Elle est étudiée en phase III chez les malades"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "La biodisponibilité est une mesure in vivo, étudiée en phase I sur des volontaires sains.",
+    "source": {
+      "page": 2,
+      "extrait": "La biodisponibilité est une mesure in vivo; étudiée au cours du développement clinique d'un médicament en phase I sur des volontaires sains."
+    },
+    "difficulte": 1,
+    "tags": [
+      "modalités"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/09-biodisponibilite/qcm-014",
+    "type": "multiple",
+    "enonce": "La biodisponibilité est déterminée par le dosage du principe actif :",
+    "options": [
+      "Dans tout liquide biologique où le PA peut être dosé avec précision",
+      "Dans la salive ou les urines",
+      "Uniquement dans le liquide céphalorachidien",
+      "Dans le sang total d'un individu sain",
+      "Dans le plasma"
+    ],
+    "correctes": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "explication": "Dosage dans le sang total ; on peut aussi utiliser le plasma, la salive, les urines ou tout autre liquide biologique où le PA est dosé avec précision.",
+    "source": {
+      "page": 2,
+      "extrait": "On peut également utiliser : le plasma, salive, urines ou tout autre liquide biologique"
+    },
+    "difficulte": 1,
+    "tags": [
+      "modalités"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/09-biodisponibilite/qcm-015",
+    "type": "multiple",
+    "enonce": "La méthode la plus simple et la plus employée pour déterminer la biodisponibilité :",
+    "options": [
+      "Recourt à une administration unique de chaque forme pharmaceutique",
+      "Suit la concentration plasmatique pendant au moins 3 à 5 T1/2",
+      "Suit la concentration pendant au moins 10 T1/2",
+      "Recourt à des administrations répétées jusqu'à l'équilibre",
+      "Aboutit à une courbe des concentrations en fonction du temps"
+    ],
+    "correctes": [
+      0,
+      1,
+      4
+    ],
+    "explication": "Administration unique de chaque forme et suivi de la concentration plasmatique pendant au moins 3 à 5 T1/2, aboutissant à une courbe concentration–temps.",
+    "source": {
+      "page": 2,
+      "extrait": "la concentration plasmatique doit être suivie pendant au moins 3 à 5 T ½."
+    },
+    "difficulte": 1,
+    "tags": [
+      "modalités"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/09-biodisponibilite/qcm-016",
+    "type": "unique",
+    "enonce": "Un principe actif a une T1/2 de 6 h. Selon le cours, la concentration plasmatique doit être suivie pendant au moins :",
+    "options": [
+      "3 à 5 h",
+      "6 à 12 h",
+      "6 h",
+      "18 à 30 h",
+      "60 h"
+    ],
+    "correctes": [
+      3
+    ],
+    "explication": "Suivi pendant au moins 3 à 5 T1/2 : 3 × 6 = 18 h à 5 × 6 = 30 h.",
+    "source": {
+      "page": 2,
+      "extrait": "la concentration plasmatique doit être suivie pendant au moins 3 à 5 T ½."
+    },
+    "difficulte": 2,
+    "tags": [
+      "modalités",
+      "calcul"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/09-biodisponibilite/qcm-017",
+    "type": "multiple",
+    "enonce": "Parmi les paramètres reflétant l'aspect quantitatif de la biodisponibilité :",
+    "options": [
+      "La clairance",
+      "La concentration maximale Cmax",
+      "La constante Ka",
+      "L'aire sous la courbe (AUC ou SSC)",
+      "Le Tmax"
+    ],
+    "correctes": [
+      1,
+      3
+    ],
+    "explication": "Aspect quantitatif : AUC et Cmax. Aspect cinétique (vitesse) : Ka, Tmax et Cmax.",
+    "source": {
+      "page": 2,
+      "extrait": "Paramètres reflétant l'aspect quantitatif : Aire sous la courbe SSC ou AUC ; Concentration maximale « C max »."
+    },
+    "difficulte": 1,
+    "tags": [
+      "paramètres"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/09-biodisponibilite/qcm-018",
+    "type": "multiple",
+    "enonce": "Concernant l'aire sous la courbe (AUC) :",
+    "options": [
+      "Elle est proportionnelle à la quantité de principe actif dans la circulation générale",
+      "Elle est inversement proportionnelle à la vitesse d'absorption",
+      "On la note aussi SSC",
+      "Elle reflète l'aspect quantitatif",
+      "C'est le plus important des paramètres de biodisponibilité"
+    ],
+    "correctes": [
+      0,
+      2,
+      3,
+      4
+    ],
+    "explication": "L'AUC (ou SSC) est le plus important des paramètres ; elle est proportionnelle à la quantité de PA dans la circulation générale (aspect quantitatif). C'est le Tmax qui est inversement proportionnel à la vitesse.",
+    "source": {
+      "page": 2,
+      "extrait": "le plus important des paramètres de biodisponibilité qui est proportionnel à la quantité de principe actif dans la circulation générale."
+    },
+    "difficulte": 1,
+    "tags": [
+      "AUC"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/09-biodisponibilite/qcm-019",
+    "type": "multiple",
+    "enonce": "Parmi les paramètres reflétant l'aspect cinétique (vitesse d'absorption) :",
+    "options": [
+      "L'AUC",
+      "Le Tmax",
+      "La Cmax",
+      "Le volume de distribution",
+      "La constante de vitesse d'absorption Ka"
+    ],
+    "correctes": [
+      1,
+      2,
+      4
+    ],
+    "explication": "Aspect cinétique : Ka, Tmax et Cmax (Cmax est influencée à la fois par la quantité absorbée et par la vitesse).",
+    "source": {
+      "page": 3,
+      "extrait": "Constante de vitesse d'absorption « Ka » ; Temps maximal « T max » ; C max"
+    },
+    "difficulte": 1,
+    "tags": [
+      "paramètres"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/09-biodisponibilite/qcm-020",
+    "type": "multiple",
+    "enonce": "Concernant le Tmax :",
+    "options": [
+      "C'est le temps nécessaire pour l'obtention de la Cmax",
+      "Il est proportionnel à la vitesse d'absorption",
+      "C'est le paramètre le plus important de la biodisponibilité",
+      "Il est inversement proportionnel à la vitesse d'absorption",
+      "Il reflète l'aspect cinétique de la biodisponibilité"
+    ],
+    "correctes": [
+      0,
+      3,
+      4
+    ],
+    "explication": "Tmax = temps d'obtention de Cmax, inversement proportionnel à la vitesse d'absorption, paramètre cinétique. Le plus important est l'AUC.",
+    "source": {
+      "page": 3,
+      "extrait": "Temps maximal « T max »: temps nécessaire pour l'obtention de C max (inversement proportionnel à la vitesse)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "Tmax"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/09-biodisponibilite/qcm-021",
+    "type": "unique",
+    "enonce": "Quel paramètre est influencé à la fois par la quantité absorbée et par la vitesse d'absorption ?",
+    "options": [
+      "Cmax",
+      "AUC",
+      "T1/2",
+      "Ka",
+      "Tmax"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "La Cmax est influencée aussi bien par la quantité absorbée que par la vitesse ; elle figure dans les deux groupes de paramètres.",
+    "source": {
+      "page": 3,
+      "extrait": "C max qui est influencée aussi bien par la quantité absorbée que par la vitesse."
+    },
+    "difficulte": 2,
+    "tags": [
+      "Cmax"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/09-biodisponibilite/qcm-022",
+    "type": "multiple",
+    "enonce": "Les paramètres de biodisponibilité :",
+    "options": [
+      "Caractérisent un médicament",
+      "Peuvent être différents pour un même PA contenu dans différentes formes galéniques",
+      "Caractérisent une voie d'administration",
+      "Sont identiques pour toutes les formes d'un même PA",
+      "Caractérisent une forme pharmaceutique"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explication": "Ils caractérisent un médicament, une forme pharmaceutique et une voie d'administration et peuvent différer pour un même PA dans des formes galéniques différentes.",
+    "source": {
+      "page": 3,
+      "extrait": "peuvent être différent pour un même principe actif contenu dans différentes formes galéniques."
+    },
+    "difficulte": 1,
+    "tags": [
+      "paramètres"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/09-biodisponibilite/qcm-023",
+    "type": "multiple",
+    "enonce": "Un médicament A a un Tmax de 1 h et un médicament B (même PA, autre forme) un Tmax de 3 h. On peut dire que :",
+    "options": [
+      "Le délai d'action de A est probablement plus court",
+      "Le Tmax est inversement proportionnel à la vitesse d'absorption",
+      "La vitesse d'absorption de A est plus grande que celle de B",
+      "Les AUC de A et B sont forcément différentes",
+      "B est absorbé plus rapidement que A"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Tmax inversement proportionnel à la vitesse : A (Tmax plus court) est absorbé plus vite, d'où un délai d'action plus court. Le Tmax ne renseigne pas sur la quantité absorbée (AUC).",
+    "source": {
+      "page": 3,
+      "extrait": "temps nécessaire pour l'obtention de C max (inversement proportionnel à la vitesse)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "Tmax",
+      "raisonnement"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/09-biodisponibilite/qcm-024",
+    "type": "multiple",
+    "enonce": "Concernant la classification de la biodisponibilité :",
+    "options": [
+      "Elle repose sur la comparaison du médicament à une forme de référence",
+      "Par rapport à une solution pour injection IV, on parle de biodisponibilité absolue",
+      "Il existe deux grands types",
+      "Par rapport à une solution IV, on parle de biodisponibilité relative",
+      "Par rapport à une forme pharmaceutique de référence, on parle de biodisponibilité relative"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explication": "Deux grands types, selon la référence : solution IV → biodisponibilité absolue ; forme pharmaceutique de référence → biodisponibilité relative.",
+    "source": {
+      "page": 3,
+      "extrait": "Par rapport à une solution pour injection intraveineuse → Biodisponibilité absolue"
+    },
+    "difficulte": 1,
+    "tags": [
+      "classification"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/09-biodisponibilite/qcm-025",
+    "type": "multiple",
+    "enonce": "La biodisponibilité absolue :",
+    "options": [
+      "Se compare à la voie intravasculaire où le PA est déposé directement dans la circulation générale",
+      "Se compare à une forme pharmaceutique de référence orale",
+      "Est aussi appelée rendement absolu de l'absorption",
+      "Est la fraction F du PA absorbé par voie extravasculaire qui atteint la circulation générale, et la vitesse de ce phénomène",
+      "Vaut F = 1 pour la voie intraveineuse"
+    ],
+    "correctes": [
+      0,
+      2,
+      3,
+      4
+    ],
+    "explication": "Rendement absolu de l'absorption : fraction F (et vitesse) d'un PA administré par voie extravasculaire atteignant la circulation générale, par rapport à la voie IV (biodisponibilité totale et immédiate, F = 1).",
+    "source": {
+      "page": 3,
+      "extrait": "biodisponibilité totale et immédiate ; F = 1"
+    },
+    "difficulte": 1,
+    "tags": [
+      "biodisponibilité absolue"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/09-biodisponibilite/qcm-026",
+    "type": "multiple",
+    "enonce": "La détermination de la biodisponibilité absolue :",
+    "options": [
+      "Exige l'administration au même sujet, par les deux voies étudiées",
+      "Est le rapport de l'AUC après administration par la voie choisie sur l'AUC après administration IV",
+      "Exige l'administration de la même dose du même principe actif",
+      "Considère la voie IV comme voie de référence",
+      "Utilise des sujets différents pour chaque voie"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "F = AUC voie choisie / AUC IV ; elle exige l'administration au même sujet, par les deux voies, de la même dose du même PA, la voie IV étant la référence.",
+    "source": {
+      "page": 3,
+      "extrait": "Elle exige l'administration au même sujet, par les deux voix étudiées, de la même dose du même principe actif."
+    },
+    "difficulte": 1,
+    "tags": [
+      "biodisponibilité absolue"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/09-biodisponibilite/qcm-027",
+    "type": "multiple",
+    "enonce": "Concernant les formules de la biodisponibilité absolue :",
+    "options": [
+      "F = (ASC orale × dose orale) / (ASC IV × dose IV)",
+      "Q = dose × F donne la quantité de PA atteignant la circulation générale",
+      "F = (ASC orale × dose IV) / (ASC IV × dose orale) si les doses diffèrent et la pharmacocinétique est linéaire",
+      "F = ASC IV / ASC orale",
+      "F = ASC orale / ASC IV si la clairance totale est la même pour les deux voies"
+    ],
+    "correctes": [
+      1,
+      2,
+      4
+    ],
+    "explication": "F = ASC orale/ASC IV (clairance identique) ; correction si doses différentes et PK linéaire : F = ASC orale × dose IV / (ASC IV × dose orale) ; Q = dose × F.",
+    "source": {
+      "page": 3,
+      "extrait": "F = ASC orale x dose IV / ASC IV x dose orale"
+    },
+    "difficulte": 2,
+    "tags": [
+      "biodisponibilité absolue",
+      "formule"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/09-biodisponibilite/qcm-028",
+    "type": "unique",
+    "enonce": "La correction de la formule de F par le rapport des doses n'est possible que si :",
+    "options": [
+      "Le médicament est un générique",
+      "Le PA est de classe BCS I",
+      "La pharmacocinétique est linéaire",
+      "La T1/2 est très longue",
+      "La forme est à libération prolongée"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Lorsque l'administration d'une même dose est impossible et que la pharmacocinétique est linéaire, on corrige l'équation par le rapport des doses.",
+    "source": {
+      "page": 3,
+      "extrait": "Lorsque l'administration d'une même dose de principe actif est impossible et que la pharmacocinétique est linéaire"
+    },
+    "difficulte": 2,
+    "tags": [
+      "biodisponibilité absolue"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/09-biodisponibilite/qcm-029",
+    "type": "unique",
+    "enonce": "Après administration de la même dose par voie orale et IV, ASC orale = 40 mg.h/L et ASC IV = 50 mg.h/L. La biodisponibilité absolue est :",
+    "options": [
+      "0,8",
+      "1,25",
+      "0,9",
+      "0,5",
+      "0,4"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "F = ASC orale/ASC IV = 40/50 = 0,8.",
+    "source": {
+      "page": 3,
+      "extrait": "F = ASC orale / ASC IV"
+    },
+    "difficulte": 1,
+    "tags": [
+      "calcul"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/09-biodisponibilite/qcm-030",
+    "type": "unique",
+    "enonce": "On administre 200 mg par voie orale (ASC = 30 mg.h/L) et 100 mg par voie IV (ASC = 25 mg.h/L), pharmacocinétique linéaire. F vaut :",
+    "options": [
+      "1,2",
+      "2,4",
+      "0,3",
+      "0,6",
+      "0,83"
+    ],
+    "correctes": [
+      3
+    ],
+    "explication": "F = (ASC orale × dose IV)/(ASC IV × dose orale) = (30 × 100)/(25 × 200) = 3000/5000 = 0,6.",
+    "source": {
+      "page": 3,
+      "extrait": "F = ASC orale x dose IV / ASC IV x dose orale"
+    },
+    "difficulte": 2,
+    "tags": [
+      "calcul"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/09-biodisponibilite/qcm-031",
+    "type": "unique",
+    "enonce": "Un médicament de F = 0,7 est administré par voie orale à la dose de 500 mg. La quantité atteignant la circulation générale est :",
+    "options": [
+      "350 mg",
+      "714 mg",
+      "70 mg",
+      "150 mg",
+      "500 mg"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Q = dose × F = 500 × 0,7 = 350 mg.",
+    "source": {
+      "page": 3,
+      "extrait": "Q = dose x F"
+    },
+    "difficulte": 1,
+    "tags": [
+      "calcul"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/09-biodisponibilite/qcm-032",
+    "type": "multiple",
+    "enonce": "Concernant l'évaluation de la biodisponibilité absolue :",
+    "options": [
+      "Si F est proche de 0, la voie étudiée ne convient pas à l'administration",
+      "Une valeur proche de 1 indique une bonne absorption à partir de la voie choisie",
+      "La valeur limite inférieure acceptable est de 0,75",
+      "La valeur du rapport devrait être la plus proche de 1",
+      "Cette limite dépend de l'index thérapeutique du PA"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Toutes les propositions sont dans le cours : F proche de 1 = bonne biodisponibilité ; limite inférieure 0,75 (selon l'index thérapeutique) ; F proche de 0 = voie inadaptée.",
+    "source": {
+      "page": 4,
+      "extrait": "La valeur limite inférieure acceptable est de 0.75 bien que cela dépende de l'index thérapeutique du PA."
+    },
+    "difficulte": 1,
+    "tags": [
+      "évaluation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/09-biodisponibilite/qcm-033",
+    "type": "unique",
+    "enonce": "Selon le cours, la valeur limite inférieure acceptable de la biodisponibilité absolue est de :",
+    "options": [
+      "0,75",
+      "0,50",
+      "0,80",
+      "1,25",
+      "0,90"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "La valeur limite inférieure acceptable est de 0,75, bien que cela dépende de l'index thérapeutique du PA.",
+    "source": {
+      "page": 4,
+      "extrait": "La valeur limite inférieure acceptable est de 0.75"
+    },
+    "difficulte": 1,
+    "tags": [
+      "évaluation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/09-biodisponibilite/qcm-034",
+    "type": "multiple",
+    "enonce": "Un médicament a F = 0,05 par voie orale. On en conclut que :",
+    "options": [
+      "Sa biodisponibilité absolue est inférieure à la limite acceptable de 0,75",
+      "La voie orale ne convient pas à son administration",
+      "95 % de la dose atteint la circulation générale",
+      "Il présente une excellente absorption orale",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "F proche de 0 : la voie étudiée ne convient pas ; 0,05 < 0,75. Seuls 5 % de la dose atteignent la circulation générale.",
+    "source": {
+      "page": 4,
+      "extrait": "Si F est proche de 0, la voie étudiée ne convient pas à l'administration."
+    },
+    "difficulte": 2,
+    "tags": [
+      "évaluation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/09-biodisponibilite/qcm-035",
+    "type": "multiple",
+    "enonce": "Concernant l'intérêt de la biodisponibilité absolue :",
+    "options": [
+      "Elle permet d'évaluer l'intérêt d'une voie d'administration par rapport à la voie IV",
+      "Elle est toujours possible, quel que soit le principe actif",
+      "Elle permet de sélectionner la meilleure forme pharmaceutique par rapport à une solution IV",
+      "Elle permet de connaître le rendement absolu de l'absorption (AUC, Cmax, Tmax)",
+      "Elle est déterminée lors de l'étude d'un nouveau médicament"
+    ],
+    "correctes": [
+      0,
+      2,
+      3,
+      4
+    ],
+    "explication": "La biodisponibilité absolue est déterminée pour un nouveau médicament ; elle n'est pas possible si le PA n'autorise pas la préparation d'une solution IV (on détermine alors la relative).",
+    "source": {
+      "page": 4,
+      "extrait": "Lorsque le principe actif n'autorise pas la préparation d'une solution pour la voie IV, la détermination de la biodisponibilité absolue ne sera pas possible"
+    },
+    "difficulte": 2,
+    "tags": [
+      "intérêt"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/09-biodisponibilite/qcm-036",
+    "type": "unique",
+    "enonce": "Lorsque le principe actif n'autorise pas la préparation d'une solution pour la voie IV :",
+    "options": [
+      "On ne peut déterminer aucune biodisponibilité",
+      "On détermine la biodisponibilité relative",
+      "On utilise F = 1 par convention",
+      "On détermine la biodisponibilité absolue par voie IM",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Dans ce cas, la biodisponibilité absolue n'est pas possible et on détermine la biodisponibilité relative.",
+    "source": {
+      "page": 4,
+      "extrait": "la détermination de la biodisponibilité absolue ne sera pas possible, on détermine alors la biodisponibilité relative."
+    },
+    "difficulte": 1,
+    "tags": [
+      "biodisponibilité relative"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/09-biodisponibilite/qcm-037",
+    "type": "multiple",
+    "enonce": "La biodisponibilité relative :",
+    "options": [
+      "Est la quantité et la vitesse d'absorption du PA à partir d'une forme galénique comparativement à une autre voie, en cas de défaut d'administration IV",
+      "Sert à comparer les performances de formes galéniques identiques (deux comprimés)",
+      "Permet d'apprécier la bioéquivalence par l'égalité des biodisponibilités",
+      "Utilise obligatoirement la voie IV comme référence",
+      "Sert à comparer des formes galéniques différentes (comprimé et suppositoire)"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explication": "La biodisponibilité relative compare une forme à une autre (identique ou différente) en l'absence de référence IV ; elle permet d'apprécier la bioéquivalence.",
+    "source": {
+      "page": 4,
+      "extrait": "Pour un même PA ; elle est utiliser pour comparer les performances des formes galéniques identiques (deux comprimés par exemple) ; ou différentes"
+    },
+    "difficulte": 1,
+    "tags": [
+      "biodisponibilité relative"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/09-biodisponibilite/qcm-038",
+    "type": "multiple",
+    "enonce": "La biodisponibilité relative est obligatoire lors :",
+    "options": [
+      "Avant la commercialisation d'un médicament générique",
+      "D'un changement de formulation (excipient, mode de fabrication, mode de conservation)",
+      "D'une simple modification de l'emballage extérieur",
+      "D'une nouvelle forme galénique du PA (passage de comprimé à gélule)",
+      "De l'étude d'un nouveau principe actif par rapport à une solution IV"
+    ],
+    "correctes": [
+      0,
+      1,
+      3
+    ],
+    "explication": "Indications obligatoires : changement de formulation, nouvelle forme galénique, avant la commercialisation d'un générique. La comparaison avec une solution IV relève de la biodisponibilité absolue.",
+    "source": {
+      "page": 4,
+      "extrait": "Elle est obligatoire lors de : Changement de formulation ; Nouvelle forme galénique ; Avant la commercialisation d'un médicament « générique »."
+    },
+    "difficulte": 1,
+    "tags": [
+      "indications"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/09-biodisponibilite/qcm-039",
+    "type": "unique",
+    "enonce": "La biodisponibilité relative (BR) est calculée par :",
+    "options": [
+      "BR = ASC forme 1 / ASC forme réf × 100",
+      "BR = dose × F",
+      "BR = ASC forme réf / ASC forme 1 × 100",
+      "BR = ASC orale / ASC IV",
+      "BR = Cmax forme 1 − Cmax forme réf"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "BR = ASC forme 1 / ASC forme de référence × 100 (exprimée en %).",
+    "source": {
+      "page": 4,
+      "extrait": "BR = ASC forme 1 / ASC forme réf x 100"
+    },
+    "difficulte": 1,
+    "tags": [
+      "biodisponibilité relative",
+      "formule"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/09-biodisponibilite/qcm-040",
+    "type": "unique",
+    "enonce": "Un comprimé générique donne une ASC de 76 mg.h/L ; le princeps donne 80 mg.h/L à la même dose. La biodisponibilité relative est :",
+    "options": [
+      "95 %",
+      "105 %",
+      "0,95 %",
+      "76 %",
+      "4 %"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "BR = 76/80 × 100 = 95 %.",
+    "source": {
+      "page": 4,
+      "extrait": "BR = ASC forme 1 / ASC forme réf x 100"
+    },
+    "difficulte": 1,
+    "tags": [
+      "calcul"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/09-biodisponibilite/qcm-041",
+    "type": "multiple",
+    "enonce": "La comparaison des seules aires sous la courbe n'est pas suffisante pour évaluer la biodisponibilité relative car :",
+    "options": [
+      "Une des courbes peut se situer dans la zone toxique",
+      "L'AUC ne s'exprime pas en unités de concentration × temps",
+      "L'AUC n'est pas proportionnelle à la quantité absorbée",
+      "Une des courbes peut se situer au-dessous de la concentration minimale efficace",
+      "Deux AUC peuvent être égales mais non superposables"
+    ],
+    "correctes": [
+      0,
+      3,
+      4
+    ],
+    "explication": "Deux AUC égales peuvent être non superposables, au-dessous de la concentration minimale efficace ou dans la zone toxique. L'AUC reste proportionnelle à la quantité absorbée.",
+    "source": {
+      "page": 4,
+      "extrait": "deux aires sous la courbe peuvent être égales mais non superposables et même au dessous de la concentration minimale efficace ou dans la zone toxique."
+    },
+    "difficulte": 2,
+    "tags": [
+      "évaluation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/09-biodisponibilite/qcm-042",
+    "type": "multiple",
+    "enonce": "Contrairement à la biodisponibilité absolue, l'évaluation de la biodisponibilité relative repose sur :",
+    "options": [
+      "La seule valeur de F par rapport à la voie IV",
+      "Le calcul du temps de latence",
+      "L'égalité des Tmax",
+      "La comparaison des aires sous la courbe",
+      "L'égalité des Cmax"
+    ],
+    "correctes": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Évaluation de la BR : comparaison des AUC, égalité des Cmax et des Tmax ; il est important de calculer aussi le temps de latence.",
+    "source": {
+      "page": 5,
+      "extrait": "Il est important de calculer le temps de latence"
+    },
+    "difficulte": 2,
+    "tags": [
+      "évaluation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/09-biodisponibilite/qcm-043",
+    "type": "unique",
+    "enonce": "Le temps de latence est défini comme :",
+    "options": [
+      "Le temps nécessaire pour atteindre la Cmax",
+      "Le temps d'apparition du principe actif dans le sang à concentration thérapeutique",
+      "Le temps de wash-out",
+      "Le temps nécessaire pour éliminer la moitié du PA",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Temps de latence : temps d'apparition du principe actif dans le sang à concentration thérapeutique.",
+    "source": {
+      "page": 5,
+      "extrait": "le temps d'apparition du principe actif dans le sang à concentration thérapeutique."
+    },
+    "difficulte": 1,
+    "tags": [
+      "temps de latence"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/09-biodisponibilite/qcm-044",
+    "type": "multiple",
+    "enonce": "Concernant l'intérêt de la biodisponibilité relative :",
+    "options": [
+      "Comparaison des performances de deux voies d'administration",
+      "Bioéquivalence de deux formes galéniques (générique / princeps)",
+      "Détermination du rendement absolu de l'absorption",
+      "Sélection de la meilleure forme par rapport à une solution IV",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Intérêts de la BR : comparer deux voies d'administration et établir la bioéquivalence générique/princeps. Les propositions c et d relèvent de la biodisponibilité absolue.",
+    "source": {
+      "page": 5,
+      "extrait": "Comparaison des performances de deux voies d'administration ; Bioéquivalence de deux formes galéniques (générique/princeps)."
+    },
+    "difficulte": 1,
+    "tags": [
+      "intérêt"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/09-biodisponibilite/qcm-045",
+    "type": "multiple",
+    "enonce": "Cochez les propositions qui distinguent correctement biodisponibilité absolue et relative :",
+    "options": [
+      "Absolue : référence = solution IV ; relative : référence = forme pharmaceutique",
+      "Absolue : exprimée par une fraction F ; relative : exprimée en %",
+      "Absolue : déterminée lors de l'étude d'un nouveau médicament ; relative : obligatoire avant commercialisation d'un générique",
+      "Absolue : évaluée sur Cmax, Tmax et temps de latence obligatoirement ; relative : sur la seule AUC",
+      "Absolue et relative : mesures in vivo"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explication": "L'évaluation de la relative repose sur AUC + Cmax + Tmax (+ temps de latence), contrairement à l'absolue qui repose sur le rapport des AUC : la proposition d inverse les rôles.",
+    "source": {
+      "page": 4,
+      "extrait": "Contrairement à la biodisponibilité absolue, l'évaluation de la biodisponibilité relative repose sur"
+    },
+    "difficulte": 2,
+    "tags": [
+      "synthèse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/09-biodisponibilite/qcm-046",
+    "type": "multiple",
+    "enonce": "Pour la voie intraveineuse, on peut affirmer que :",
+    "options": [
+      "Elle comporte une étape d'absorption",
+      "F = 1",
+      "La biodisponibilité est totale et immédiate",
+      "Elle sert de référence pour la biodisponibilité absolue",
+      "Le PA est déposé directement dans la circulation générale"
+    ],
+    "correctes": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Par voie intravasculaire, le PA est déposé directement dans la circulation générale : biodisponibilité totale et immédiate, F = 1 ; c'est la référence de la biodisponibilité absolue. Pas d'absorption.",
+    "source": {
+      "page": 3,
+      "extrait": "la voie intra vasculaire ou le principe actif est déposé directement dans la circulation générale (biodisponibilité totale et immédiate ; F = 1)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "voie IV"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/09-biodisponibilite/qcm-047",
+    "type": "multiple",
+    "enonce": "Cochez les propositions fausses :",
+    "options": [
+      "La biodisponibilité est une mesure in vitro",
+      "Le Tmax est proportionnel à la vitesse d'absorption",
+      "La biodisponibilité absolue utilise une forme orale de référence",
+      "L'AUC est le paramètre le plus important de la biodisponibilité",
+      "Une vitesse d'arrivée rapide peut entraîner des effets toxiques"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Faux : la biodisponibilité est in vivo (a) ; Tmax est inversement proportionnel à la vitesse (b) ; la référence de l'absolue est la solution IV (c).",
+    "source": {
+      "page": 3,
+      "extrait": "inversement proportionnel à la vitesse"
+    },
+    "difficulte": 2,
+    "tags": [
+      "synthèse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/09-biodisponibilite/qcm-048",
+    "type": "multiple",
+    "enonce": "Deux formulations d'un même PA ont des AUC identiques. Cochez les propositions correctes :",
+    "options": [
+      "Elles sont obligatoirement interchangeables",
+      "Leurs courbes peuvent être non superposables",
+      "Il faut aussi comparer leurs Cmax et Tmax",
+      "Elles ne sont pas forcément bioéquivalentes",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      1,
+      2,
+      3
+    ],
+    "explication": "Deux AUC égales peuvent être non superposables (Cmax, Tmax différents) : l'égalité des AUC ne suffit pas.",
+    "source": {
+      "page": 4,
+      "extrait": "deux aires sous la courbe peuvent être égales mais non superposables"
+    },
+    "difficulte": 2,
+    "tags": [
+      "évaluation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/09-biodisponibilite/qcm-049",
+    "type": "multiple",
+    "enonce": "Concernant la quantité absorbée (paramètre de définition de la biodisponibilité) :",
+    "options": [
+      "Elle est reflétée par l'AUC",
+      "Elle conditionne la durée de l'effet",
+      "Elle conditionne surtout le délai d'action",
+      "Elle s'exprime en pourcentage de la dose administrée",
+      "Elle conditionne l'atteinte de la concentration donnant un effet thérapeutique"
+    ],
+    "correctes": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "explication": "La quantité absorbée (% de la dose) conditionne l'atteinte de la concentration thérapeutique et la durée de l'effet ; elle est reflétée par l'AUC. Le délai d'action dépend de la vitesse.",
+    "source": {
+      "page": 1,
+      "extrait": "dont va dépendre l'atteinte de la concentration donnant un effet thérapeutique et la durée de l'effet."
+    },
+    "difficulte": 2,
+    "tags": [
+      "quantité absorbée"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/09-biodisponibilite/qcm-050",
+    "type": "multiple",
+    "enonce": "Un laboratoire remplace un excipient dans un comprimé déjà commercialisé. Selon le cours :",
+    "options": [
+      "Une étude de biodisponibilité relative est obligatoire",
+      "Aucune étude n'est nécessaire car le PA est le même",
+      "Il s'agit d'un changement de formulation",
+      "La biodisponibilité absolue doit obligatoirement être refaite",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      2
+    ],
+    "explication": "Le changement d'excipient est un changement de formulation, indication obligatoire de la biodisponibilité relative.",
+    "source": {
+      "page": 4,
+      "extrait": "Changement de formulation (changement d'excipient; mode de fabrication, mode de conservation)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "indications"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/09-biodisponibilite/qcm-051",
+    "type": "multiple",
+    "enonce": "Un médicament administré par voie orale a une F de 0,6. Cochez les propositions correctes :",
+    "options": [
+      "La voie orale est totalement inadaptée car F n'est pas proche de 1",
+      "Sa biodisponibilité est inférieure à la valeur limite de 0,75 citée dans le cours",
+      "Pour 1000 mg administrés, 600 mg atteignent la circulation générale",
+      "60 % de la dose administrée atteint la circulation générale",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      1,
+      2,
+      3
+    ],
+    "explication": "F = 0,6 : 60 % de la dose atteint la circulation (Q = 1000 × 0,6 = 600 mg) ; c'est inférieur à 0,75, mais F n'est pas proche de 0, donc on ne peut conclure que la voie est totalement inadaptée (l'acceptabilité dépend de l'index thérapeutique).",
+    "source": {
+      "page": 4,
+      "extrait": "La valeur limite inférieure acceptable est de 0.75 bien que cela dépende de l'index thérapeutique du PA."
+    },
+    "difficulte": 3,
+    "tags": [
+      "évaluation",
+      "calcul"
+    ],
+    "origine": "genere"
+  }
+]

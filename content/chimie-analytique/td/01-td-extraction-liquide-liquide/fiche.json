@@ -1,0 +1,32 @@
+{
+  "id": "chimie-analytique/td/01-td-extraction-liquide-liquide/fiche-001",
+  "titre": "TD 1 – Méthode de résolution",
+  "sections": [
+    {
+      "titre": "Démarche",
+      "points": [
+        "Convertir toutes les concentrations dans la même unité.",
+        "Calculer QA0 = CA0·VA puis α = λ·VB/VA.",
+        "Simple : QA1 = QA0/(1+α), ρ = α/(1+α). Répétée : QAn = QA0/(1+α)ⁿ.",
+        "Volume limité : α = λ·VB/(n·VA)."
+      ]
+    },
+    {
+      "titre": "Acides et bases",
+      "points": [
+        "Acide : D = λ/(1 + Ka/[H₃O⁺]) ; base : D = λ/(1 + [H₃O⁺]/Ka).",
+        "À pH = pKa : D = λ/2 ; à pKa ± 2 : D ≈ λ côté forme neutre.",
+        "Remplacer λ par D dans ρ = 1 − 1/(1 + D·VB/VA)."
+      ]
+    }
+  ],
+  "aRetenir": [
+    "Plusieurs petites extractions > une grosse à volume égal.",
+    "Acide : pH bas ; base : pH élevé."
+  ],
+  "pieges": [
+    "Unités (mg/100 mL, g/L).",
+    "Le rendement n'est pas proportionnel au volume.",
+    "Ex. 7 : l'énoncé donne λ « entre eau et solvant organique » ; on l'utilise comme λ(organique/eau) = 25."
+  ]
+}

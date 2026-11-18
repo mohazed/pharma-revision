@@ -1,0 +1,206 @@
+[
+  {
+    "id": "pharmacie-galenique/08-dissolution-filtration/flashcard-001",
+    "recto": "Dissolution (définition)",
+    "verso": "Division à l'état moléculaire d'une substance (solide, liquide, gaz) dans un liquide → préparation homogène (solution ou soluté).",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/08-dissolution-filtration/flashcard-002",
+    "recto": "Soluté médicamenteux",
+    "verso": "Préparation liquide homogène et limpide obtenue par dissolution d'une ou plusieurs substances médicamenteuses dans un solvant approprié.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/08-dissolution-filtration/flashcard-003",
+    "recto": "Solvants des solutés",
+    "verso": "Eau, mélanges hydroalcooliques, solvants organiques, choisis selon le soluté.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/08-dissolution-filtration/flashcard-004",
+    "recto": "Voies des solutés aqueux / non aqueux",
+    "verso": "Aqueux : toutes les voies. Non aqueux : certaines voies exclues (ex : IV).",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/08-dissolution-filtration/flashcard-005",
+    "recto": "Dissolution simple vs extractive",
+    "verso": "Simple (complète) : totale, sans résidu. Extractive (partielle) : incomplète, laisse un résidu.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/08-dissolution-filtration/flashcard-006",
+    "recto": "Solubilité (définition)",
+    "verso": "Volume de solvant nécessaire pour dissoudre une quantité donnée de soluté dans des conditions fixées ; jamais un paramètre isolé.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/08-dissolution-filtration/flashcard-007",
+    "recto": "Facteurs de la solubilité",
+    "verso": "Nature du solvant, ionisation et polarité, état physique, température, pH, adjuvants.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/08-dissolution-filtration/flashcard-008",
+    "recto": "Solubilité par ionisation",
+    "verso": "Dissociation en ions (ex : sels minéraux) ; la forte constante diélectrique de l'eau libère les ions.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/08-dissolution-filtration/flashcard-009",
+    "recto": "Amorphe vs cristallin",
+    "verso": "La forme amorphe est plus soluble que la forme cristalline.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/08-dissolution-filtration/flashcard-010",
+    "recto": "Polymorphe : forme la plus stable",
+    "verso": "La forme la moins soluble est la plus stable chimiquement.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/08-dissolution-filtration/flashcard-011",
+    "recto": "Exceptions à l'augmentation de solubilité avec la T°",
+    "verso": "Méthylcellulose, citrate de calcium, dissolution exothermique, gaz (plus solubles à froid).",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/08-dissolution-filtration/flashcard-012",
+    "recto": "pH et ionisation",
+    "verso": "Acide faible : ↑pH favorise l'ionisation. Base faible : ↓pH favorise l'ionisation.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/08-dissolution-filtration/flashcard-013",
+    "recto": "Adjuvants favorisant la dissolution",
+    "verso": "Salicylate et benzoate de sodium (caféine) ; cyclodextrines (inclusion de substances hydrophobes).",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/08-dissolution-filtration/flashcard-014",
+    "recto": "Adjuvant diminuant la solubilité (exemple)",
+    "verso": "Le sucre diminue la solubilité de l'éther dans l'eau.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/08-dissolution-filtration/flashcard-015",
+    "recto": "Équation de la vitesse de dissolution",
+    "verso": "dC/dt = K·S·(Cs − Ct) avec K = D/hV.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/08-dissolution-filtration/flashcard-016",
+    "recto": "Signification de D, h, V",
+    "verso": "D : coefficient de diffusion (∝ T, inversement ∝ viscosité) ; h : épaisseur de la couche de diffusion (fonction de l'agitation) ; V : volume du liquide.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/08-dissolution-filtration/flashcard-017",
+    "recto": "Trois leviers favorables à la dissolution",
+    "verso": "↑ Surface (broyage, micronisation), ↓ couche limite h (agitation), ↑ température.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/08-dissolution-filtration/flashcard-018",
+    "recto": "Facteur défavorable à la dissolution",
+    "verso": "Augmentation de la viscosité (↓D, ↑h, ↓dC/dt).",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/08-dissolution-filtration/flashcard-019",
+    "recto": "Étapes de la dissolution simple",
+    "verso": "Pesée → mélange + agitation → filtration.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/08-dissolution-filtration/flashcard-020",
+    "recto": "Macération",
+    "verso": "Eau potable, T° ambiante, 30 min–4 h ; PA thermolabiles → macéré.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/08-dissolution-filtration/flashcard-021",
+    "recto": "Digestion",
+    "verso": "Eau à T° < ébullition (60 °C), 1 h–15 h ; PA se détruisant à l'ébullition → digesté.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/08-dissolution-filtration/flashcard-022",
+    "recto": "Décoction",
+    "verso": "Eau à ébullition, 15–30 min ; drogues très compactes thermostables → décocté.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/08-dissolution-filtration/flashcard-023",
+    "recto": "Infusion",
+    "verso": "Verser l'eau bouillante sur la drogue et laisser refroidir ; tissus délicats → infusé.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/08-dissolution-filtration/flashcard-024",
+    "recto": "Percolation (lixiviation)",
+    "verso": "Solvant traversant lentement, de haut en bas, à froid, la drogue pulvérisée dans un percolateur → percolat.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/08-dissolution-filtration/flashcard-025",
+    "recto": "Filtration (définition)",
+    "verso": "Séparer les constituants particulaires solides d'un liquide ou d'un gaz à l'aide d'un milieu filtrant poreux ; fluide filtré = filtrat.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/08-dissolution-filtration/flashcard-026",
+    "recto": "Spectre de filtration",
+    "verso": "Clarifiante > 10 µm ; microfiltration 0,1–10 µm ; ultrafiltration 0,001–0,1 µm ; osmose inverse < 0,001 µm.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/08-dissolution-filtration/flashcard-027",
+    "recto": "Filtration frontale vs tangentielle",
+    "verso": "Frontale : flux perpendiculaire, gâteau, colmatage, petits volumes. Tangentielle : flux parallèle, balayage empêchant le gâteau, grands volumes.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/08-dissolution-filtration/flashcard-028",
+    "recto": "Criblage",
+    "verso": "Effet de surface : arrêt mécanique des particules > taille du pore ; caractérise les membranes absolues.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/08-dissolution-filtration/flashcard-029",
+    "recto": "Rétention en profondeur",
+    "verso": "Effet de volume : piégeage dans un trajet tortueux, adsorption électrostatique et Van der Waals ; grande capacité avant colmatage.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/08-dissolution-filtration/flashcard-030",
+    "recto": "Filtres rigides",
+    "verso": "Bougies, verre fritté.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/08-dissolution-filtration/flashcard-031",
+    "recto": "Adjuvants de filtration",
+    "verso": "Poudres filtrantes (charbon, kaolin) et préfiltres : retardent le colmatage.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/08-dissolution-filtration/flashcard-032",
+    "recto": "Contrôles de la filtration",
+    "verso": "Avant : point de bulle. Pendant : débit, pression. Après : nouveau point de bulle, examen du filtrat, dosage du PA.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/08-dissolution-filtration/flashcard-033",
+    "recto": "Formule du point de bulle",
+    "verso": "d = K·4α/p (α : tension superficielle ; K : constante expérimentale).",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/08-dissolution-filtration/flashcard-034",
+    "recto": "Interprétation du point de bulle",
+    "verso": "1re pression : plus larges pores (sélectivité) ; 2e pression (bulles sur toute la surface) : porosité moyenne (débit) ; valeurs aussi rapprochées que possible.",
+    "tags": []
+  }
+]

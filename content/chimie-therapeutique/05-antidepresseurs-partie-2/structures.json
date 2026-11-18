@@ -1,0 +1,254 @@
+[
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/structure-001",
+    "nom": "Iproniazide (Marsilid®)",
+    "smiles": "CC(C)NNC(=O)c1ccncc1",
+    "classe": "IMAO non sélectif irréversible",
+    "question": "Identifiez cette molécule et son mécanisme :",
+    "options": [
+      "Iproniazide, IMAO irréversible non sélectif",
+      "Moclobémide, IMAO-A réversible",
+      "Imipramine, inhibiteur de recapture",
+      "Fluoxétine, ISRS",
+      "Mirtazapine, NASSA"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Dérivé de l'acide isonicotinique dont le carboxyle porte un enchaînement hydrazinique alkylé par un isopropyle : iproniazide, inhibiteur suicide de la MAO."
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/structure-002",
+    "nom": "Acide isonicotinique",
+    "smiles": "OC(=O)c1ccncc1",
+    "classe": "Précurseur structural de l'iproniazide",
+    "question": "De quel antidépresseur cette structure est-elle le squelette de départ ?",
+    "options": [
+      "Iproniazide",
+      "Moclobémide",
+      "Fluoxétine",
+      "Venlafaxine",
+      "Amitriptyline"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "L'iproniazide est un dérivé de l'acide isonicotinique."
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/structure-003",
+    "nom": "Moclobémide (Moclamine®)",
+    "smiles": "O=C(NCCN1CCOCC1)c1ccc(Cl)cc1",
+    "classe": "IMAO-A réversible (benzamide)",
+    "question": "Identifiez cette molécule :",
+    "options": [
+      "Moclobémide, benzamide dérivé de l'aminoéthylmorpholine",
+      "Iproniazide",
+      "Milnacipran",
+      "Paroxétine",
+      "Miansérine"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Benzamide chloré portant une chaîne aminoéthylmorpholine : moclobémide, inhibiteur compétitif réversible sélectif de la MAO-A."
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/structure-004",
+    "nom": "Fluoxétine (Prozac®)",
+    "smiles": "CNCCC(Oc1ccc(C(F)(F)F)cc1)c1ccccc1",
+    "classe": "ISRS",
+    "question": "Quel est le mécanisme d'action de cette molécule ?",
+    "options": [
+      "Inhibition sélective de la recapture de la sérotonine",
+      "Inhibition de la MAO-A",
+      "Blocage des récepteurs α2",
+      "Inhibition de la recapture de la noradrénaline seule",
+      "Blocage des récepteurs H1"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "La fluoxétine est un ISRS : inhibition sélective du recaptage de la sérotonine sans altérer celui de la noradrénaline."
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/structure-005",
+    "nom": "Paroxétine (Deroxat®)",
+    "smiles": "Fc1ccc(C2CCNCC2COc2ccc3OCOc3c2)cc1",
+    "classe": "ISRS",
+    "question": "À quelle classe appartient cette molécule ?",
+    "options": [
+      "ISRS",
+      "IRSNA",
+      "IMAO",
+      "Tricyclique",
+      "NASSA"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "La paroxétine (Deroxat®) est un inhibiteur spécifique de la recapture de la sérotonine."
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/structure-006",
+    "nom": "Sertraline (Zoloft®)",
+    "smiles": "CNC1CCC(c2ccc(Cl)c(Cl)c2)c2ccccc21",
+    "classe": "ISRS",
+    "question": "Identifiez cette molécule :",
+    "options": [
+      "Sertraline (Zoloft®)",
+      "Fluoxétine (Prozac®)",
+      "Citalopram (Seropram®)",
+      "Milnacipran (Ixel®)",
+      "Miansérine (Athymil®)"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Naphtalénamine dichlorée : sertraline (Zoloft®), ISRS."
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/structure-007",
+    "nom": "Citalopram (Seropram®)",
+    "smiles": "CN(C)CCCC1(c2ccc(F)cc2)OCc2cc(C#N)ccc21",
+    "classe": "ISRS",
+    "question": "À quelle classe appartient cette molécule ?",
+    "options": [
+      "ISRS",
+      "IRSNA",
+      "IMAO-A",
+      "Tricyclique",
+      "Tétracyclique"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Le citalopram (Seropram®) est un ISRS ; son énantiomère actif est l'escitalopram (Seroplex®)."
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/structure-008",
+    "nom": "Fluvoxamine (Floxyfral®)",
+    "smiles": "COCCCCC(=NOCCN)c1ccc(C(F)(F)F)cc1",
+    "classe": "ISRS",
+    "question": "Identifiez cette molécule :",
+    "options": [
+      "Fluvoxamine (Floxyfral®)",
+      "Fluoxétine (Prozac®)",
+      "Venlafaxine (Effexor®)",
+      "Moclobémide",
+      "Mirtazapine"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Oxime éther trifluorométhylée : fluvoxamine (Floxyfral®), ISRS."
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/structure-009",
+    "nom": "Venlafaxine (Effexor®)",
+    "smiles": "COc1ccc(C(CN(C)C)C2(O)CCCCC2)cc1",
+    "classe": "IRSNA",
+    "question": "Quel est le mécanisme d'action de cette molécule ?",
+    "options": [
+      "Action duale : inhibition de la recapture de la sérotonine et de la noradrénaline",
+      "Inhibition sélective de la sérotonine",
+      "Inhibition de la MAO",
+      "Blocage α2",
+      "Blocage H1"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "La venlafaxine (Effexor®) est un IRSNA, composé à action duale sérotoninergique et noradrénergique."
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/structure-010",
+    "nom": "Milnacipran (Ixel®)",
+    "smiles": "CCN(CC)C(=O)C1(c2ccccc2)CC1CN",
+    "classe": "IRSNA",
+    "question": "À quelle classe appartient cette molécule ?",
+    "options": [
+      "IRSNA",
+      "ISRS",
+      "IMAO",
+      "Tricyclique",
+      "NASSA"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Le milnacipran (Ixel®) est un inhibiteur de la recapture de la sérotonine et de la noradrénaline."
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/structure-011",
+    "nom": "Miansérine (Athymil®)",
+    "smiles": "CN1CCN2c3ccccc3Cc3ccccc3C2C1",
+    "classe": "Tétracyclique",
+    "question": "Quel est le mécanisme d'action de cette molécule ?",
+    "options": [
+      "Blocage des récepteurs α2 présynaptiques noradrénergiques",
+      "Inhibition de la MAO-B",
+      "Inhibition sélective de la recapture de la sérotonine",
+      "Blocage des récepteurs muscariniques",
+      "Inhibition de la recapture de la dopamine"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "La miansérine (Athymil®), tétracyclique, bloque les récepteurs α2 présynaptiques noradrénergiques."
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/structure-012",
+    "nom": "Mirtazapine (Norset®)",
+    "smiles": "CN1CCN2c3ncccc3Cc3ccccc3C2C1",
+    "classe": "Tétracyclique NASSA",
+    "question": "Quel est le mécanisme d'action de cette molécule ?",
+    "options": [
+      "Blocage des α2 présynaptiques noradrénergiques et des 5-HT1A présynaptiques",
+      "Inhibition sélective de la recapture de la sérotonine",
+      "Inhibition irréversible de la MAO",
+      "Inhibition de la recapture de la noradrénaline seule",
+      "Blocage des récepteurs D2"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "La mirtazapine (Norset®), NASSA, bloque les récepteurs α2 présynaptiques noradrénergiques et les 5-HT1A présynaptiques sérotoninergiques."
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/structure-013",
+    "nom": "Nortriptyline",
+    "smiles": "CNCCC=C1c2ccccc2CCc2ccccc21",
+    "classe": "Tricyclique à amine secondaire",
+    "question": "Quelle recapture cette molécule inhibe-t-elle préférentiellement ?",
+    "options": [
+      "Celle de la noradrénaline",
+      "Celle de la sérotonine",
+      "Celle de la dopamine",
+      "Celle du GABA",
+      "Aucune"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Les amines secondaires (nortriptyline) inhibent préférentiellement la recapture de la noradrénaline."
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/structure-014",
+    "nom": "Imipramine (Tofranil®)",
+    "smiles": "CN(C)CCCN1c2ccccc2CCc2ccccc21",
+    "classe": "Tricyclique à amine tertiaire",
+    "question": "Quelles recaptures cette molécule inhibe-t-elle ?",
+    "options": [
+      "Celles de la sérotonine et de la noradrénaline",
+      "Celle de la noradrénaline seule",
+      "Celle de la dopamine seule",
+      "Aucune : elle inhibe la MAO",
+      "Celle du GABA"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Les amines tertiaires comme l'imipramine inhibent davantage la recapture de la sérotonine et de la noradrénaline."
+  }
+]

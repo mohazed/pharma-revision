@@ -1,0 +1,432 @@
+[
+  {
+    "id": "pharmacologie/05-metabolisme/cas-01",
+    "titre": "Surdosage en paracétamol",
+    "enonce": "Un patient est admis après la prise d'une dose massive de paracétamol. Le bilan hépatique est perturbé et on évoque une atteinte hépatique d'origine médicamenteuse.",
+    "questions": [
+      {
+        "id": "pharmacologie/05-metabolisme/cas-01-q1",
+        "type": "unique",
+        "enonce": "Quel métabolite est responsable de la toxicité hépatique du paracétamol ?",
+        "options": [
+          "La N-acétyl-p-benzoquinone imine (NAPQI)",
+          "L'acide salicylique",
+          "L'hydroxyphénobarbital",
+          "L'époxycarbamazépine",
+          "La canrénone"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Le cours désigne la NAPQI comme le métabolite toxique (réactif) du paracétamol. Les autres molécules citées sont des métabolites d'autres médicaments (aspirine, phénobarbital, carbamazépine, spironolactone).",
+        "source": {
+          "extrait": "Paracétamol N-acétyl p-benzoquinone imine (NAPQI)"
+        },
+        "difficulte": 1,
+        "tags": [
+          "paracétamol",
+          "métabolites réactifs"
+        ],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacologie/05-metabolisme/cas-01-q2",
+        "type": "multiple",
+        "enonce": "Concernant le mécanisme de cette hépatotoxicité :",
+        "options": [
+          "La NAPQI se fixe par des liaisons covalentes aux protéines tissulaires du foie",
+          "Elle est responsable d'une hépatite cytotoxique",
+          "Aux doses thérapeutiques, elle est neutralisée par le glutathion",
+          "En cas de surdosage, le système de détoxication glutathionique est saturé et dépassé",
+          "Toutes les propositions sont correctes"
+        ],
+        "correctes": [
+          4
+        ],
+        "explication": "Toutes ces affirmations figurent dans le cours : fixation covalente aux protéines hépatiques, hépatite cytotoxique, neutralisation par le glutathion aux doses thérapeutiques et saturation du système glutathionique en surdosage, d'où la nécrose hépatique.",
+        "source": {
+          "extrait": "responsable de l'hépatite cytotoxique suite à sa fixation par des liaisons covalentes aux protéines tissulaires du foie"
+        },
+        "difficulte": 2,
+        "tags": [
+          "paracétamol",
+          "glutathion"
+        ],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacologie/05-metabolisme/cas-01-q3",
+        "type": "multiple",
+        "enonce": "La voie de conjugaison du paracétamol au glutathion :",
+        "options": [
+          "Est une réaction de phase II",
+          "Est catalysée par la glutathion-S-transférase",
+          "Est une réaction de fonctionnalisation",
+          "Peut être saturée en cas de dose élevée",
+          "Est catalysée par l'UDP-glucuronyl-transférase"
+        ],
+        "correctes": [
+          0,
+          1,
+          3
+        ],
+        "explication": "a) et b) Justes : la conjugaison au glutathion est une réaction de phase II catalysée par la glutathion-S-transférase. c) Fausse : la fonctionnalisation est la phase I. d) Juste : une dose élevée peut saturer certaines voies métaboliques. e) Fausse : cette enzyme catalyse la glucuroconjugaison.",
+        "source": {
+          "extrait": "Conjugaison avec le glutathion L'enzyme: Glutathion-S-transférase. Exp: Paracétamol"
+        },
+        "difficulte": 2,
+        "tags": [
+          "phase II",
+          "glutathion",
+          "saturation"
+        ],
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/cas-02",
+    "titre": "Greffé rénal sous cyclosporine prenant du millepertuis",
+    "enonce": "Un patient transplanté rénal, traité par cyclosporine, prend sans avis médical une préparation à base de millepertuis. Les concentrations plasmatiques de cyclosporine chutent et un épisode de rejet est redouté.",
+    "questions": [
+      {
+        "id": "pharmacologie/05-metabolisme/cas-02-q1",
+        "type": "unique",
+        "enonce": "Quel mécanisme explique cette chute des concentrations de cyclosporine ?",
+        "options": [
+          "Une induction enzymatique du CYP3A4 par le millepertuis",
+          "Une inhibition enzymatique du CYP3A4 par le millepertuis",
+          "Une hydrolyse plasmatique de la cyclosporine",
+          "Une saturation de la glucuroconjugaison",
+          "Une diminution de l'effet de premier passage pulmonaire"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Le cours donne le millepertuis et la rifampicine comme inducteurs du CYP450 3A4 : l'élimination de la cyclosporine est accélérée. Une inhibition aurait l'effet inverse ; les autres mécanismes ne sont pas évoqués pour cette interaction.",
+        "source": {
+          "extrait": "Millepertuis ++ rifampicine ++ CYP 450 3A4 élimination de cyclosporine accélérée"
+        },
+        "difficulte": 2,
+        "tags": [
+          "cyclosporine",
+          "induction enzymatique"
+        ],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacologie/05-metabolisme/cas-02-q2",
+        "type": "multiple",
+        "enonce": "Concernant la conduite à tenir et les conséquences :",
+        "options": [
+          "L'élimination de la cyclosporine est accélérée",
+          "Il faut augmenter la dose de cyclosporine pour éviter le rejet",
+          "Il faut diminuer la dose de cyclosporine",
+          "Un suivi thérapeutique par mesure des concentrations plasmatiques est utile",
+          "L'interaction est sans conséquence clinique"
+        ],
+        "correctes": [
+          0,
+          1,
+          3
+        ],
+        "explication": "a) et b) Justes : l'induction accélère l'élimination de la cyclosporine, d'où la nécessité d'augmenter la dose pour éviter le rejet. c) Fausse. d) Juste : la conclusion du cours recommande le recours aux ajustements de posologie et au suivi thérapeutique (mesure des Cp). e) Fausse.",
+        "source": {
+          "extrait": "élimination de cyclosporine accélérée augmenter la dose pour éviter rejet"
+        },
+        "difficulte": 2,
+        "tags": [
+          "cyclosporine",
+          "suivi thérapeutique"
+        ],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacologie/05-metabolisme/cas-02-q3",
+        "type": "multiple",
+        "enonce": "Parmi les médicaments suivants, lesquels exposeraient au même type d'interaction (induction enzymatique) ?",
+        "options": [
+          "La rifampicine",
+          "Le phénobarbital",
+          "La carbamazépine",
+          "La cimétidine",
+          "Les macrolides"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "La rifampicine, le phénobarbital et la carbamazépine figurent dans le tableau des inducteurs enzymatiques. La cimétidine et les macrolides sont des inhibiteurs enzymatiques.",
+        "source": {
+          "extrait": "Barbituriques: PhénobarbitalPhénytoinePrimidoneRifampicine CarbamazépineGriséofulvine"
+        },
+        "difficulte": 2,
+        "tags": [
+          "inducteurs enzymatiques"
+        ],
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/cas-03",
+    "titre": "Douleurs musculaires sous simvastatine",
+    "enonce": "Une patiente traitée par simvastatine reçoit de l'érythromycine pour une infection respiratoire et consomme régulièrement du jus de pamplemousse. Elle présente des douleurs musculaires intenses.",
+    "questions": [
+      {
+        "id": "pharmacologie/05-metabolisme/cas-03-q1",
+        "type": "unique",
+        "enonce": "Quel mécanisme est en cause ?",
+        "options": [
+          "Une inhibition du CYP3A4 augmentant le taux plasmatique de la statine",
+          "Une induction du CYP3A4 diminuant le taux plasmatique de la statine",
+          "Une saturation de la sulfoconjugaison",
+          "Un effet de premier passage intestinal accru",
+          "Un déficit en G6PD"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Le cours présente l'érythromycine et le pamplemousse comme inhibiteurs du CYP450 3A4, augmentant le taux plasmatique de statines. Une induction aurait l'effet inverse ; les autres mécanismes ne correspondent pas à cet exemple.",
+        "source": {
+          "extrait": "erythromycine diltiazem pamplemousse CYP 450 3A4 Taux plasmatique de statines"
+        },
+        "difficulte": 2,
+        "tags": [
+          "statines",
+          "inhibition enzymatique"
+        ],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacologie/05-metabolisme/cas-03-q2",
+        "type": "unique",
+        "enonce": "Quelle complication est redoutée dans cette situation ?",
+        "options": [
+          "Une rhabdomyolyse",
+          "Une nécrose hépatique",
+          "Une hémolyse",
+          "Un rejet de greffe",
+          "Une crise convulsive"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Le cours relie l'augmentation du taux plasmatique de statines par inhibition du CYP3A4 au risque de rhabdomyolyse. La nécrose hépatique correspond au surdosage en paracétamol, l'hémolyse au déficit en G6PD et le rejet à l'induction du métabolisme de la cyclosporine.",
+        "source": {
+          "extrait": "Taux plasmatique de statines Rhabdomyolyse"
+        },
+        "difficulte": 1,
+        "tags": [
+          "statines",
+          "rhabdomyolyse"
+        ],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacologie/05-metabolisme/cas-03-q3",
+        "type": "multiple",
+        "enonce": "Parmi les substances suivantes, lesquelles sont citées comme inhibiteurs du CYP3A4 dans cet exemple du cours ?",
+        "options": [
+          "Le kétoconazole",
+          "L'itraconazole",
+          "Le diltiazem",
+          "Le pamplemousse",
+          "Toutes les propositions sont correctes"
+        ],
+        "correctes": [
+          4
+        ],
+        "explication": "Le schéma du cours cite kétoconazole, itraconazole, érythromycine, diltiazem et pamplemousse comme inhibiteurs du CYP3A4 augmentant le taux plasmatique des statines : toutes les propositions sont correctes.",
+        "source": {
+          "extrait": "Ketoconazole itraconazole erythromycine diltiazem pamplemousse"
+        },
+        "difficulte": 2,
+        "tags": [
+          "inhibiteurs enzymatiques",
+          "CYP3A4"
+        ],
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/cas-04",
+    "titre": "Traitement antituberculeux et polymorphisme d'acétylation",
+    "enonce": "Deux patients d'origines différentes reçoivent un traitement par isoniazide (RIMIFON®). L'un est identifié comme acétyleur rapide, l'autre comme acétyleur lent.",
+    "questions": [
+      {
+        "id": "pharmacologie/05-metabolisme/cas-04-q1",
+        "type": "multiple",
+        "enonce": "Concernant la réaction métabolique concernée :",
+        "options": [
+          "Il s'agit d'une acétylation",
+          "Elle est catalysée par la N-acétyl-transférase",
+          "C'est une réaction de phase II",
+          "C'est une réaction d'oxydation à CYP450",
+          "C'est une réaction d'hydrolyse"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "L'isoniazide est l'exemple d'acétylation du cours, catalysée par la N-acétyl-transférase ; l'acétylation est une réaction de conjugaison (phase II). Les propositions d et e correspondent à des réactions de phase I.",
+        "source": {
+          "extrait": "L'acétylation L'enzyme: N-acétyle-transférase Exp: Isoniazide"
+        },
+        "difficulte": 1,
+        "tags": [
+          "acétylation",
+          "isoniazide"
+        ],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacologie/05-metabolisme/cas-04-q2",
+        "type": "multiple",
+        "enonce": "Concernant l'acétyleur rapide :",
+        "options": [
+          "Son taux d'acétyl-transférase est élevé",
+          "Il faut augmenter la posologie",
+          "Ce phénotype est cité chez les asiatiques",
+          "Il faut diminuer la posologie",
+          "Son taux d'acétyl-transférase est bas"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "Les acétyleurs rapides, cités chez les asiatiques, ont un taux élevé d'acétyl-transférase : il faut augmenter la posologie. Les propositions d et e caractérisent les acétyleurs lents (européens).",
+        "source": {
+          "extrait": "acétyleurs rapides (taux élevé d'acétyl transférase donc il faut augmenter la posologie)"
+        },
+        "difficulte": 2,
+        "tags": [
+          "acétyleurs rapides",
+          "génétique"
+        ],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacologie/05-metabolisme/cas-04-q3",
+        "type": "multiple",
+        "enonce": "Ce polymorphisme illustre :",
+        "options": [
+          "Un facteur intrinsèque physiologique",
+          "Le contrôle génétique de certaines voies métaboliques",
+          "Une variabilité interindividuelle de l'efficacité du métabolisme",
+          "Un facteur extrinsèque biochimique",
+          "Une interaction médicamenteuse"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "La constitution génétique fait partie des facteurs intrinsèques physiologiques ; le cours indique que l'activité de certaines voies métaboliques est contrôlée génétiquement, d'où une variabilité interindividuelle. Il ne s'agit pas d'un facteur extrinsèque ni d'une interaction médicamenteuse.",
+        "source": {
+          "extrait": "L'activité de certaines voies métaboliques est contrôlée génétiquement"
+        },
+        "difficulte": 2,
+        "tags": [
+          "génétique",
+          "facteurs de variation"
+        ],
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/cas-05",
+    "titre": "Sujet âgé insuffisant hépatique",
+    "enonce": "Un patient de 78 ans, porteur d'une insuffisance hépatique, reçoit un médicament à fort effet de premier passage hépatique par voie orale. On observe des signes de surdosage.",
+    "questions": [
+      {
+        "id": "pharmacologie/05-metabolisme/cas-05-q1",
+        "type": "multiple",
+        "enonce": "Concernant les modifications liées à l'âge :",
+        "options": [
+          "La masse hépatique diminue",
+          "Le flux sanguin hépatique diminue",
+          "Le pouvoir métabolique hépatique diminue de plus de 30 % après 70 ans",
+          "L'activité métabolique augmente chez le sujet âgé",
+          "Le flux sanguin hépatique diminue de 0,3 à 1,5 % par an après 25 ans"
+        ],
+        "correctes": [
+          0,
+          1,
+          2,
+          4
+        ],
+        "explication": "Le cours décrit chez le sujet âgé une diminution de la masse hépatique, du flux sanguin hépatique (0,3 à 1,5 % par an après 25 ans) et du pouvoir métabolique hépatique (plus de 30 % après 70 ans). La proposition d est fausse : l'activité métabolique diminue.",
+        "source": {
+          "extrait": "Diminution du pouvoir métabolique hépatique (diminution de plus de 30% après 70 ans)"
+        },
+        "difficulte": 2,
+        "tags": [
+          "sujet âgé",
+          "âge"
+        ],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacologie/05-metabolisme/cas-05-q2",
+        "type": "multiple",
+        "enonce": "Concernant l'insuffisance hépatique chez ce patient :",
+        "options": [
+          "L'activité enzymatique du foie est diminuée",
+          "L'effet de premier passage hépatique est diminué",
+          "La concentration plasmatique du médicament augmente",
+          "Le risque est un sous-dosage",
+          "L'activité hépatocytaire est fortement modifiée"
+        ],
+        "correctes": [
+          0,
+          1,
+          2,
+          4
+        ],
+        "explication": "En cas d'IH, l'activité hépatocytaire est fortement modifiée, l'activité enzymatique et l'EPPH diminuent, d'où une augmentation des concentrations plasmatiques. La proposition d est fausse : le risque est un surdosage.",
+        "source": {
+          "extrait": "diminution de l'activité enzymatique du foie, diminution de l'EPPH"
+        },
+        "difficulte": 2,
+        "tags": [
+          "insuffisance hépatique",
+          "EPP"
+        ],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacologie/05-metabolisme/cas-05-q3",
+        "type": "multiple",
+        "enonce": "Quelle(s) mesure(s) le cours évoque-t-il face à de telles variations du métabolisme ?",
+        "options": [
+          "Des ajustements de posologie",
+          "Un suivi thérapeutique par mesure des concentrations plasmatiques",
+          "La connaissance des inducteurs et inhibiteurs enzymatiques",
+          "L'arrêt définitif de tout traitement médicamenteux",
+          "Toutes les propositions sont fausses"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "La conclusion du cours recommande de connaître les inducteurs et inhibiteurs enzymatiques et de recourir, dans certains cas, à des ajustements de posologie et à un suivi thérapeutique (mesure des Cp). L'arrêt de tout traitement n'est pas évoqué.",
+        "source": {
+          "extrait": "des ajustements de posologie et si nécessaire au suivi thérapeutique (mesure des Cp)"
+        },
+        "difficulte": 1,
+        "tags": [
+          "conclusion",
+          "suivi thérapeutique"
+        ],
+        "origine": "genere"
+      }
+    ]
+  }
+]

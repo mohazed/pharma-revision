@@ -1,0 +1,26 @@
+[
+  {
+    "id": "semiologie/01-semiologie-generale/mnemo-001",
+    "titre": "Les 4 temps de l'examen physique",
+    "moyen": "« Il Pleut, Pas d'Averse » : Inspection, Palpation, Percussion, Auscultation",
+    "explication": "I = Inspection (vue), P = Palpation (toucher), P = Percussion (toucher + ouïe), A = Auscultation (ouïe)."
+  },
+  {
+    "id": "semiologie/01-semiologie-generale/mnemo-002",
+    "titre": "L'AEG : les 3 A",
+    "moyen": "« 3 A » : Asthénie, Anorexie, Amaigrissement",
+    "explication": "Les trois signes de l'altération de l'état général ; + fièvre = altération fébrile de l'état général."
+  },
+  {
+    "id": "semiologie/01-semiologie-generale/mnemo-003",
+    "titre": "Matité vs tympanisme",
+    "moyen": "« Mat comme la cuisse pleine, Tympan comme le tambour d'air »",
+    "explication": "Matité = son sourd = liquide ou organe plein ; tympanisme = son creux = air."
+  },
+  {
+    "id": "semiologie/01-semiologie-generale/mnemo-004",
+    "titre": "Décrire une douleur",
+    "moyen": "« Si Des Tigres Imaginent Fuir, Raté ! » : Siège, Début, Type-intensité, Irradiation, Facteurs modifiants, Retentissement",
+    "explication": "Les six caractéristiques à préciser pour tout symptôme, en particulier la douleur."
+  }
+]

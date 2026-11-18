@@ -1,0 +1,38 @@
+[
+  {
+    "id": "chimie-analytique/td/02-td-applications-extraction-ll/flash-001",
+    "recto": "TD2 Ex.1 : rendement à pH 1 et pH 3",
+    "verso": "≈ 0,44 % (D ≈ 0,044) et ≈ 97,8 % (D ≈ 435).",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/td/02-td-applications-extraction-ll/flash-002",
+    "recto": "TD2 Ex.1 : terme βC²Ka²",
+    "verso": "2,5·10¹⁶ × (10⁻⁴)² × (5·10⁻⁵)² = 0,625.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/td/02-td-applications-extraction-ll/flash-003",
+    "recto": "TD2 Ex.2 : type d'extraction",
+    "verso": "Extraction de paires d'ions (lidocaïne protonée + DOSS) ; dosage volumétrique.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/td/02-td-applications-extraction-ll/flash-004",
+    "recto": "TD2 Ex.2 : rôle du tampon pH 2,8",
+    "verso": "Maintenir la lidocaïne sous forme cationique pour former la paire d'ions.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/td/02-td-applications-extraction-ll/flash-005",
+    "recto": "TD2 Ex.2 : correspondance",
+    "verso": "1 mL DOSS 0,01 M = 10⁻⁵ mol = 2,708 mg de chlorhydrate anhydre.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/td/02-td-applications-extraction-ll/flash-006",
+    "recto": "TD2 Ex.2 : pureté",
+    "verso": "0,0184 × 5,95 = 0,1095 mmol × 288,82 = 31,6 mg / 33,3 mg ≈ 95,0 % → non conforme (99–101 %).",
+    "tags": []
+  }
+]

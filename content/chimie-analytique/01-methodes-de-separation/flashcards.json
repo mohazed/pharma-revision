@@ -1,0 +1,182 @@
+[
+  {
+    "id": "chimie-analytique/01-methodes-de-separation/flash-001",
+    "recto": "Ancien nom des méthodes de séparation",
+    "verso": "Analyse immédiate.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/01-methodes-de-separation/flash-002",
+    "recto": "Mélange homogène",
+    "verso": "Mélange se présentant sous une seule phase à l'œil nu.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/01-methodes-de-separation/flash-003",
+    "recto": "Mélange hétérogène",
+    "verso": "Mélange dans lequel on distingue au moins deux phases à l'œil nu.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/01-methodes-de-separation/flash-004",
+    "recto": "Deux moyens classiques de séparation solide/liquide",
+    "verso": "Filtration et centrifugation.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/01-methodes-de-separation/flash-005",
+    "recto": "Définition de la filtration",
+    "verso": "Passage à travers une membrane poreuse perméable aux liquides et imperméable aux solides en suspension.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/01-methodes-de-separation/flash-006",
+    "recto": "Trois qualités d'une matière filtrante",
+    "verso": "Résistance mécanique, efficacité, rapidité.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/01-methodes-de-separation/flash-007",
+    "recto": "Inconvénients du papier filtre",
+    "verso": "Attaqué par les solutions très acides ou très alcalines (alcali-cellulose solubles) ; pouvoir adsorbant non négligeable.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/01-methodes-de-separation/flash-008",
+    "recto": "Inconvénient des disques en polymères organiques",
+    "verso": "Solubles dans un certain nombre de solvants organiques.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/01-methodes-de-separation/flash-009",
+    "recto": "Préparation du verre fritté",
+    "verso": "Chauffage léger d'une poudre de verre de granulation définie : soudure des particules en laissant des lacunes.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/01-methodes-de-separation/flash-010",
+    "recto": "Porosité du verre fritté",
+    "verso": "Notée de 0 (pores ≈ 200 µ) à 5 (pores ≈ 1 µ) ; l'efficacité augmente avec le numéro, la rapidité décroît.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/01-methodes-de-separation/flash-011",
+    "recto": "Inconvénient du verre fritté",
+    "verso": "Fragile vis-à-vis des solutions fortement alcalines (dissolution sous forme de silicates).",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/01-methodes-de-separation/flash-012",
+    "recto": "Fiole de Kitasato",
+    "verso": "Fiole conique à ajustage latéral reliée à une trompe à vide (filtration sous vide).",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/01-methodes-de-separation/flash-013",
+    "recto": "Entonnoir de Buchner",
+    "verso": "Disque en matériau poreux placé sur un support en porcelaine (filtration sous vide).",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/01-methodes-de-separation/flash-014",
+    "recto": "Formule de la force centrifuge",
+    "verso": "F = 4π²·R·n²·m (n en tours par seconde).",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/01-methodes-de-separation/flash-015",
+    "recto": "Facteur principal d'efficacité de la centrifugation",
+    "verso": "Le nombre de tours n, qui intervient à la puissance 2 (R entre 10 et 30 cm).",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/01-methodes-de-separation/flash-016",
+    "recto": "Nombre de g d'une centrifugeuse simple / d'une ultracentrifugeuse",
+    "verso": "1500 g / 250 000 à 1 000 000 g.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/01-methodes-de-separation/flash-017",
+    "recto": "Plasma ou sérum ?",
+    "verso": "Plasma : sang anticoagulé ; sérum : sang coagulé naturellement.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/01-methodes-de-separation/flash-018",
+    "recto": "Moyens de destruction d'une émulsion",
+    "verso": "Chauffage, modification du pH, addition d'un tensioactif, centrifugation.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/01-methodes-de-separation/flash-019",
+    "recto": "Milieu de stabilité des émulsions",
+    "verso": "Milieu alcalin.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/01-methodes-de-separation/flash-020",
+    "recto": "Lévigation",
+    "verso": "Séparation selon la densité par entraînement des fractions les moins denses par un courant de liquide non solvant (industrie minière).",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/01-methodes-de-separation/flash-021",
+    "recto": "Tamisage",
+    "verso": "Isolement d'un constituant solide d'une dimension déterminée.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/01-methodes-de-separation/flash-022",
+    "recto": "Avantages de l'élimination du solvant sous pression réduite",
+    "verso": "Distillation à l'abri de l'air et à température plus basse (évaporateur rotatif).",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/01-methodes-de-separation/flash-023",
+    "recto": "Non solvant",
+    "verso": "Liquide miscible au premier, sans pouvoir de dissolution pour la substance, provoquant sa précipitation.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/01-methodes-de-separation/flash-024",
+    "recto": "Inconvénient de la précipitation par non solvant",
+    "verso": "Méthode brutale, risque d'entraîner des impuretés.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/01-methodes-de-separation/flash-025",
+    "recto": "Relargage",
+    "verso": "Ajout d'un nouveau soluté (sel minéral) entraînant la séparation d'un solide ou d'un liquide, le plus souvent organique.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/01-methodes-de-separation/flash-026",
+    "recto": "Agents relargants les plus utilisés",
+    "verso": "Sulfate d'ammonium et chlorure de sodium.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/01-methodes-de-separation/flash-027",
+    "recto": "Série de Hofmeister des anions",
+    "verso": "F⁻ > SO₄²⁻ > citrate > tartrate > Cl⁻ > Br⁻.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/01-methodes-de-separation/flash-028",
+    "recto": "Série de Hofmeister des cations",
+    "verso": "Li⁺ > Na⁺ > K⁺ > NH₄⁺ > Mg²⁺.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/01-methodes-de-separation/flash-029",
+    "recto": "Avantages du relargage",
+    "verso": "Méthode très douce, sans élévation de température, intérêt en biochimie (protéines).",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/01-methodes-de-separation/flash-030",
+    "recto": "Exemple de Pasteur (1860)",
+    "verso": "Séparation manuelle, à la pince et à la loupe, de cristaux d'acide tartrique énantiomères.",
+    "tags": []
+  }
+]

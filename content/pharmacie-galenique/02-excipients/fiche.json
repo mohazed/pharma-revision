@@ -1,0 +1,71 @@
+{
+  "id": "pharmacie-galenique/02-excipients/fiche",
+  "titre": "Les excipients pharmaceutiques",
+  "sections": [
+    {
+      "titre": "Généralités",
+      "points": [
+        "Excipients = véhicules/adjuvants ; **inactifs**, facilitent administration et conservation ; influencent la **biodisponibilité**, pas l'activité.",
+        "Qualité principale : **inertie** (PA, conditionnement, organisme).",
+        "4 rôles : préparation, conservation, administration, modification de l'action.",
+        "**Effet notoire** : mal tolérés chez les patients sensibles → précautions d'emploi."
+      ]
+    },
+    {
+      "titre": "Liquides, cires, hydrocarbures",
+      "points": [
+        "Eau : excipient le plus utilisé. Alcool officinal = éthanol 95° (solvant, antiseptique, conservateur).",
+        "Propylène glycol : PA insolubles ou instables dans l'eau. Glycérine : solvant, conservateur, capsules molles, anti-dessiccation.",
+        "Cires : animales (cire blanche, lanoline), végétales (carnauba), minérales (paraffine, microcristalline), synthétiques.",
+        "Hydrocarbures : inertie et stabilité ; huiles de vaseline ↓ consistance ; paraffine ↑ consistance ; silicones : pommades hydrophobes, conditionnement."
+      ]
+    },
+    {
+      "titre": "Sucres et macromolécules",
+      "points": [
+        "Saccharose (hygroscopique), lactose (diluant, poudres pour plaies), glucose liquide (pâtes molles), fructose et sorbitol (diabétiques ; sorbitol laxatif).",
+        "Amidons : poudre → diluant, lubrifiant, délitant ; empois (> 80 °C) → pommades, liant.",
+        "Gommes officinales : arabique, adragante, Sterculia. Gélatine : hydrolyse du collagène.",
+        "Cellulose microcristalline ; CMC-Na, MC, HEC (épaississants) ; HPMC (matrice LP) ; EC (insoluble) ; CAP (gastro-résistant).",
+        "PVP (liant) ; PEG (200-400 liquides, 4000-6000 solides) ; carbomères (gélifiants après neutralisation)."
+      ]
+    },
+    {
+      "titre": "Minéraux et glycérides",
+      "points": [
+        "Silice : absorbant, agent d'écoulement. Talc : silicate de Mg. Kaolin : silicate d'Al. Bentonites : montmorillonite. TiO₂ : opacifiant.",
+        "Glycérides naturels : amande douce, olive (injectables), beurre de cacao.",
+        "Huiles hydrogénées (hydrophobes) → glycérolyse → glycérides semi-synthétiques (hydrodispersibles).",
+        "Macrogolglycérides insaturés (huiles) et saturés (solides cireux, PM 200-2000)."
+      ]
+    },
+    {
+      "titre": "Surfactifs et HLB",
+      "points": [
+        "Amphiphiles, se placent à l'interface.",
+        "Anioniques (laurylsulfate, stéarate de TEA → L/H), cationiques (sels d'ammonium/amines), amphotères (bétaïne, pH 5-8), non ioniques (ester, éther, amide).",
+        "Spans lipophiles (H/L) ; Tween hydrophiles (L/H). Naturels : cholestérol, lécithine, caséine.",
+        "HLB (Griffin) : ↑ avec l'hydrophilie ; 10 = équilibre ; additif. H/L 3-6 ; mouillants 7-9 ; antimoussants < 8 ; L/H 8-18."
+      ]
+    },
+    {
+      "titre": "Caractérisation",
+      "points": [
+        "Chimiques, physiques/physicochimiques, technologiques, rhéologiques.",
+        "Risque **nitrosamines** : nitrites des excipients."
+      ]
+    }
+  ],
+  "aRetenir": [
+    "HLB élevé = hydrophile = émulsions L/H.",
+    "Huiles hydrogénées hydrophobes ; semi-synthétiques hydrodispersibles.",
+    "PEG : la consistance passe du liquide au solide quand la masse moléculaire augmente."
+  ],
+  "pieges": [
+    "Talc = silicate de magnésium ; kaolin = silicate d'aluminium.",
+    "Amidon en poudre = délitant/lubrifiant/diluant ; en empois = liant.",
+    "Spans lipophiles (H/L) ≠ Tween hydrophiles (L/H).",
+    "La carnauba est végétale, la lanoline animale, la paraffine minérale.",
+    "L'excipient influence la biodisponibilité, jamais l'activité ; c'est l'adjuvant qui renforce l'activité."
+  ]
+}

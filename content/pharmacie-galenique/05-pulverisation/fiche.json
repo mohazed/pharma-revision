@@ -1,0 +1,57 @@
+{
+  "id": "pharmacie-galenique/05-pulverisation/fiche",
+  "titre": "Pulvérisation des solides",
+  "sections": [
+    {
+      "titre": "Définitions et intérêts",
+      "points": [
+        "Pulvérisation = division de solides en particules de granulométrie déterminée (≠ pulvérisation de liquides).",
+        "Poudre (Ph. Eur.) : particules solides sèches, libres, plus ou moins fines ; résidu ≤ 5 % sur tamis 1250 µm.",
+        "Intérêts : formes galéniques, mélanges homogènes, ↑ surface spécifique → ↑ dissolution/biodisponibilité, ↓ sédimentation des suspensions."
+      ]
+    },
+    {
+      "titre": "Opérations annexes",
+      "points": [
+        "Préliminaires : **mondation**, division grossière, dessiccation.",
+        "Secondaire : **tamisage**."
+      ]
+    },
+    {
+      "titre": "Mécanismes",
+      "points": [
+        "Percussion et compression : substances **dures**.",
+        "Cisaillement : **friables**.",
+        "Attrition : **molles et friables** (contact permanent)."
+      ]
+    },
+    {
+      "titre": "Appareils",
+      "points": [
+        "Choix : propriétés (humidité, dureté, élasticité, friabilité, thermosensibilité), tailles, forme, quantité.",
+        "Laboratoire : mortier/pilon (porcelaine, verre), tamis/cribles (friables), porphyre (pommades ophtalmiques), broyeur à hélice.",
+        "Industriels : concasseur à mâchoires (très durs), cylindres, meules, pointes/dents, billes (pas de dissémination), planétaire, marteaux, **microniseur** (n'échauffe pas, ↑ biodisponibilité, mais coûteux)."
+      ]
+    },
+    {
+      "titre": "Tamisage et granulométrie",
+      "points": [
+        "Rôles : sécurité, sélection, démottage. Numéro du tamis = côté de maille en µm ; crible = plaque percée.",
+        "Directes : tamis superposés (7 tamis, 100 g, 10 min, refus M2 − M1, histogramme, cloche étroite si homogène), microscope.",
+        "Indirectes : compteur électronique (0,5-300 µm), granulomètre laser (≥ 0,05 µm).",
+        "Dénominations : grossière 1400/355, modérément fine 355/180, fine 180/125, très fine 125/90."
+      ]
+    }
+  ],
+  "aRetenir": [
+    "Dures → percussion/compression ; friables → cisaillement ; molles → attrition.",
+    "Microniseur : n'échauffe pas.",
+    "Poudre homogène = cloche étroite."
+  ],
+  "pieges": [
+    "Le tamisage est une opération SECONDAIRE, la dessiccation une opération PRÉLIMINAIRE.",
+    "Méthode directe = diamètre moyen ; indirecte = paramètre physique.",
+    "Résidu ≤ 5 % sur le premier tamis, passage ≤ 40 % sur le second.",
+    "Le numéro de tamis est en µm, pas un nombre de mailles."
+  ]
+}

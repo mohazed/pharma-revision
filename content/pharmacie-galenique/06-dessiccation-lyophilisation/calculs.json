@@ -1,0 +1,29 @@
+[
+  {
+    "id": "pharmacie-galenique/06-dessiccation-lyophilisation/calcul-001",
+    "titre": "Humidité résiduelle par perte de poids",
+    "enonce": "Un échantillon de granulés pesant {m1} g avant passage à l'étuve (30 min à 105 °C) présente une perte de poids de {dm} g. Calculez la perte de poids en pourcentage (humidité résiduelle).",
+    "variables": {
+      "m1": {
+        "min": 5,
+        "max": 10,
+        "pas": 0.5,
+        "unite": "g"
+      },
+      "dm": {
+        "min": 0.1,
+        "max": 0.8,
+        "pas": 0.1,
+        "unite": "g"
+      }
+    },
+    "formule": "dm / m1 * 100",
+    "unite": "%",
+    "decimales": 1,
+    "etapes": [
+      "Perte de poids = masse avant − masse après = Δm",
+      "Humidité résiduelle (%) = Δm / masse initiale × 100"
+    ],
+    "rappel": "On dose le taux d'humidité résiduelle au dessiccateur à infrarouge (15 min à 85 °C) ou à l'étuve (30 min à 105 °C) en mesurant la perte en poids."
+  }
+]

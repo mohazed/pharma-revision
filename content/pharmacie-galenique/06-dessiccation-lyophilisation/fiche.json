@@ -1,0 +1,64 @@
+{
+  "id": "pharmacie-galenique/06-dessiccation-lyophilisation/fiche",
+  "titre": "Dessiccation – Lyophilisation",
+  "sections": [
+    {
+      "titre": "Définitions",
+      "points": [
+        "**Dessiccation** : élimination par vaporisation d'un liquide volatil (eau) d'un solide ou semi-solide.",
+        "États de l'eau : **constitution** (non éliminée), **adsorption** (« liée », plus ou moins éliminée), **mouillage** (libre, éliminée).",
+        "**Lyophilisation** : dessiccation par sublimation de la glace, pour substances thermosensibles."
+      ]
+    },
+    {
+      "titre": "Intérêts",
+      "points": [
+        "Synthèse, préparation (granulation, lyophilisation), prévention hydrolyse, agglomération, désagrégation, moisissures ; écoulement ; distribution des PA ; réduction de taille (nébulisation)."
+      ]
+    },
+    {
+      "titre": "Principe et facteurs",
+      "points": [
+        "Phases : I mise en régime, II évaporation constante (T constante), III évaporation décroissante ; arrêt à l'équilibre d'humidité.",
+        "Humidité optimale : granulé trop sec friable, humide collant.",
+        "**Ve > Vm → croûte** ; Ve ≤ Vm → séchage en profondeur (recommandé).",
+        "Humidité relative, renouvellement d'air, surface (division), pression basse → basse T, calories."
+      ]
+    },
+    {
+      "titre": "Procédés",
+      "points": [
+        "**Convection** : étuve à plateaux, lit d'air fluidisé (discontinus) ; tunnel (continu, sans croûtage).",
+        "**Conduction** : cylindres (140-150 °C, solutions et suspensions) ; sous vide : armoire à vide, séchoir rotatif.",
+        "**Rayonnement** : IR (tungstène à 30 cm, peu pénétrant) ; micro-ondes (2500 MHz, rapide, granulés).",
+        "**Nébulisation** : air 150 °C, contact très court ; lactose Fast-Flow, extraits, antibiotiques, lait."
+      ]
+    },
+    {
+      "titre": "Lyophilisation",
+      "points": [
+        "Sous 4,58 mmHg pas d'eau liquide.",
+        "Enceinte A (sublimation) → B plus froide (condensation) ; vide.",
+        "Congélation −20 à −80 °C (neige carbonique, azote liquide −196 °C).",
+        "Très onéreuse : vaccins, enzymes, anticorps, hormones, lyophilisats, greffons."
+      ]
+    },
+    {
+      "titre": "Contrôles",
+      "points": [
+        "Dosage PA et produits de dégradation ; humidité résiduelle : IR 15 min à 85 °C, étuve 30 min à 105 °C."
+      ]
+    }
+  ],
+  "aRetenir": [
+    "Eau de constitution jamais éliminée.",
+    "Ve > Vm = croûte.",
+    "Lyophilisation : sublimation en A, condensation en B (Tb < Ta)."
+  ],
+  "pieges": [
+    "Le séchoir tunnel est continu, l'étuve et le lit fluidisé sont discontinus.",
+    "Le séchoir à cylindres est peu utilisé et réservé aux solutions et suspensions.",
+    "L'IR est peu pénétrant ; les micro-ondes chauffent la masse.",
+    "Nébulisation : air TRÈS chaud (150 °C) mais contact très court."
+  ]
+}

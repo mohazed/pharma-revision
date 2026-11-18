@@ -1,0 +1,32 @@
+[
+  {
+    "id": "semiologie/07-troubles-du-transit/mnemo-001",
+    "titre": "Diarrhée osmotique vs sécrétoire",
+    "moyen": "« L'Osmotique s'Obstine pas : elle cède au jeûne ; la Sécrétoire Subsiste »",
+    "explication": "Osmotique : cède au jeûne. Sécrétoire : persiste après un jeûne."
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/mnemo-002",
+    "titre": "Syndrome dysentérique",
+    "moyen": "« GPS : Glaires, Pus, Sang + Épreinte et Ténesme »",
+    "explication": "Selles afécales glairo-purulo-sanglantes avec épreintes et ténesme."
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/mnemo-003",
+    "titre": "Signes de gravité d'une diarrhée aiguë",
+    "moyen": "« TDSP » : Terrain, Déshydratation, Sepsis, Paludisme",
+    "explication": "Terrain fragile, déshydratation, syndrome septicémique/collapsus, fièvre au retour de zone palustre."
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/mnemo-004",
+    "titre": "Médicaments constipants",
+    "moyen": "« OACN » : Opiacés, Anticholinergiques, anti-Convulsivants, Neuroleptiques",
+    "explication": "Médicaments constipants cités dans le cours."
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/mnemo-005",
+    "titre": "Durées",
+    "moyen": "« Aiguë < 2 semaines, chronique > 1 mois ; Rome : 3 mois sur 6 »",
+    "explication": "Définitions temporelles des diarrhées et critères de Rome IV."
+  }
+]

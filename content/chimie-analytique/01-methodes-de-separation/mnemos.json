@@ -1,0 +1,26 @@
+[
+  {
+    "id": "chimie-analytique/01-methodes-de-separation/mnemo-001",
+    "titre": "Série de Hofmeister des anions",
+    "moyen": "« Fais Sortir Ces Trois Claires Bulles »",
+    "explication": "F⁻ > SO₄²⁻ > Citrate > Tartrate > Cl⁻ > Br⁻ (ordre décroissant du pouvoir relargant)."
+  },
+  {
+    "id": "chimie-analytique/01-methodes-de-separation/mnemo-002",
+    "titre": "Série de Hofmeister des cations",
+    "moyen": "« Lili Nage, Kévin Nage, Maman pas »",
+    "explication": "Li⁺ > Na⁺ > K⁺ > NH₄⁺ > Mg²⁺."
+  },
+  {
+    "id": "chimie-analytique/01-methodes-de-separation/mnemo-003",
+    "titre": "Destruction des émulsions",
+    "moyen": "« CPTC » : Chauffe, pH, Tensioactif, Centrifuge",
+    "explication": "Chauffage, modification du pH, tensioactif, centrifugation."
+  },
+  {
+    "id": "chimie-analytique/01-methodes-de-separation/mnemo-004",
+    "titre": "Verre fritté",
+    "moyen": "« Zéro = Zone large, Cinq = Crible fin »",
+    "explication": "N° 0 : pores ≈ 200 µ ; n° 5 : pores ≈ 1 µ ; efficacité ↑ et rapidité ↓ avec le numéro."
+  }
+]

@@ -1,0 +1,77 @@
+{
+  "id": "pharmacie-galenique/08-dissolution-filtration/fiche",
+  "titre": "Dissolution et filtration",
+  "sections": [
+    {
+      "titre": "Dissolution : définitions",
+      "points": [
+        "Division à l'état **moléculaire** d'un solide, liquide ou gaz dans un liquide → solution/soluté homogène.",
+        "**Soluté médicamenteux** : liquide homogène et limpide.",
+        "Solvants : eau, hydroalcooliques, organiques (choisis selon le soluté).",
+        "Aqueux : toutes voies ; non aqueux : certaines voies exclues (IV).",
+        "**Simple** (totale) vs **extractive** (laisse un résidu)."
+      ]
+    },
+    {
+      "titre": "Facteurs de solubilité",
+      "points": [
+        "Ionisation (sels minéraux, forte constante diélectrique de l'eau) / polarité (hydrophile ↔ polaire, hydrophobe ↔ apolaire).",
+        "**Amorphe > cristallin** ; polymorphe : la moins soluble est la plus stable.",
+        "T° : ↑ solubilité sauf méthylcellulose, citrate de calcium, exothermique, gaz ; chauffage contre-indiqué si thermolabile/volatil.",
+        "pH : acide faible ↑pH ; base faible ↓pH → ionisation.",
+        "Adjuvants : salicylate/benzoate de Na (caféine), cyclodextrines (inclusion) ; sucre ↓ solubilité de l'éther."
+      ]
+    },
+    {
+      "titre": "Vitesse de dissolution",
+      "points": [
+        "**dC/dt = K·S·(Cs − Ct)**, **K = D/hV**.",
+        "Favorables : ↑S (micronisation), ↓h (agitation), ↑T (↑Cs, ↑D, ↓viscosité).",
+        "Défavorable : **↑ viscosité**."
+      ]
+    },
+    {
+      "titre": "Dissolution simple et extractive",
+      "points": [
+        "Simple : pesée → mélange + agitation → filtration ; labo (mortier, bécher, agitateur électromagnétique, ultrasons) ; industrie (cuves inox double paroi + hélices, palettes, turbines).",
+        "Macération (T° ambiante, 30 min–4 h, thermolabiles) ; digestion (60 °C, 1–15 h) ; décoction (ébullition, 15–30 min, compactes thermostables) ; infusion (eau bouillante puis refroidissement, tissus délicats) ; percolation (froid, haut → bas).",
+        "Toujours suivie d'une **filtration**."
+      ]
+    },
+    {
+      "titre": "Filtration",
+      "points": [
+        "Séparer les particules solides d'un liquide ou d'un gaz via un milieu poreux ; filtrat / résidu.",
+        "Pores : clarifiante > 10 µm, micro 0,1–10 µm, ultra 0,001–0,1 µm, osmose inverse < 0,001 µm.",
+        "Passage : **frontale** (gâteau, colmatage) / **tangentielle** (balayage, grands volumes).",
+        "Pression : gravité, pression, vide.",
+        "Mécanismes : **criblage** (surface, membranes absolues) / **profondeur-adsorption** (volume).",
+        "Matériaux : non rigides (cellulose, laine, métal, plastique, membranes) ; rigides (bougies, verre fritté).",
+        "Adjuvants : poudres filtrantes (charbon, kaolin), préfiltres.",
+        "Labo : gravité, vide (plus rapide) ; industrie : filtres presses, filtres rotatifs."
+      ]
+    },
+    {
+      "titre": "Contrôles",
+      "points": [
+        "Avant : **point de bulle** (intégrité).",
+        "Pendant : débit (Φ = V/t), pression.",
+        "Après : nouveau point de bulle, examen du filtrat, dosage du PA (non-adsorption).",
+        "**d = K·4α/p** : 1re bulle = plus larges pores (sélectivité) ; bulles sur toute la surface = porosité moyenne (débit)."
+      ]
+    }
+  ],
+  "aRetenir": [
+    "dC/dt = K·S·(Cs − Ct) ; K = D/hV.",
+    "La viscosité est le seul facteur défavorable cité.",
+    "Décoction : 15–30 min à ébullition ; digestion : 60 °C, 1–15 h ; macération : 30 min–4 h à T° ambiante.",
+    "Point de bulle : d inversement proportionnel à p."
+  ],
+  "pieges": [
+    "Polymorphe : la forme la MOINS soluble est la PLUS stable.",
+    "Base faible : c'est la DIMINUTION du pH qui favorise l'ionisation.",
+    "Percolation : à FROID, de HAUT en BAS.",
+    "Les deux pressions du point de bulle doivent être RAPPROCHÉES.",
+    "Frontale = gâteau/colmatage ; tangentielle = balayage."
+  ]
+}

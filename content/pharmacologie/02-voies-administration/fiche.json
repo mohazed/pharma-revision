@@ -1,0 +1,69 @@
+{
+  "id": "pharmacologie/02-voies-administration/fiche",
+  "titre": "Les voies d'administration",
+  "sections": [
+    {
+      "titre": "Classification",
+      "points": [
+        "**Avec effraction** (parentérales) : vasculaires (IV, IA, IC) ; extravasculaires systémiques (IM, SC) ; extravasculaires locales (intradermique, intra-rachidienne, intra-articulaire, intra-séreuses).",
+        "**Sans effraction** : systémiques (buccale, orale, rectale, pulmonaire, percutanée) ; locales (cutanée, oculaire, auriculaire, nasale, vaginale)."
+      ]
+    },
+    {
+      "titre": "Voies vasculaires",
+      "points": [
+        "**IV** : solutions stériles, limpides, apyrogènes, neutres, isotoniques ; **jamais** solutions huileuses ni suspensions. IV directe (urgence, 5–20 mL), perfusion (continue/discontinue, grands volumes).",
+        "IV : biodisponibilité *presque* absolue, évite EPPH et EPPI ; risques techniques, infectieux, toxiques, anaphylaxie.",
+        "**IA** : peu utilisée, difficile, biodisponibilité *absolue* ; artères radiale, axillaire, fémorale ; thrombolytique, produit de contraste.",
+        "**IC** : exceptionnelle (adrénaline, arrêt cardiaque)."
+      ]
+    },
+    {
+      "titre": "IM et SC",
+      "points": [
+        "**IM** : fessier (quadrant supéro-externe), deltoïde ; 90° ; 2–5 mL ; solutions **et suspensions** ; résorption **plus rapide qu'en SC** ; lésions nerveuses.",
+        "**SC** : bras, abdomen, cuisse, deltoïde ; 45°–90° ; 0,5–2 mL ; action lente ; vaccin, insuline, héparine ; auto-administration ; douloureuse, lipodystrophie, nécrose ; CI brûlés."
+      ]
+    },
+    {
+      "titre": "Voies locales avec effraction",
+      "points": [
+        "Intradermique : BCG, tests d'allergie.",
+        "Intra-thécale (LCR) : rachianesthésie, douleurs du cancer, ATB méningite tuberculeuse ; péridurale (espace épidural) : analgésie obstétricale.",
+        "Intra-articulaire : infiltration de corticoïdes ; intra-péritonéale : chimiothérapie ; intra-pleurale : infections."
+      ]
+    },
+    {
+      "titre": "Voies entérales, pulmonaire, percutanée",
+      "points": [
+        "**Buccale** (sublinguale/perlinguale) : rapide, pas d'EPPH ; surface 200 cm² ; trinitrine.",
+        "**Orale** : la plus utilisée, résorption surtout intestinale ; pratique, réversible, économique ; EPPI/EPPH/EPPP, latence, pas pour l'urgence.",
+        "**Rectale** : effet local ou systémique ; EPPH **réduit mais non évité** ; résorption incomplète ; **inutile en cas de diarrhée**.",
+        "**Pulmonaire** : volatils et gazeux ; rapide ; dosage imprécis.",
+        "**Percutanée** : patchs, libération prolongée, évite l'EPPH ; lente, pas pour l'urgence, coûteuse."
+      ]
+    },
+    {
+      "titre": "Voies locales sans effraction et choix",
+      "points": [
+        "Cutanée : effet réservoir de la couche cornée ; risque systémique chez le nouveau-né.",
+        "Oculaire (collyres, pommades), auriculaire (gouttes), nasale (gouttes, aérosols), vaginale (ovules, comprimés, capsules, crèmes).",
+        "Choix : critères liés au médicament (PK, toxicité, présentations, interactions, coût) et au malade (localisation, urgence, observance, psychisme)."
+      ]
+    }
+  ],
+  "aRetenir": [
+    "Solutions huileuses et suspensions interdites en IV, IA et IC, mais suspensions possibles en IM.",
+    "IM plus rapide que SC.",
+    "Voie rectale : EPPH réduit, jamais totalement évité.",
+    "Urgence : IV directe ; voies orale et percutanée non adaptées.",
+    "Voie percutanée = systémique ; voie cutanée = locale."
+  ],
+  "pieges": [
+    "Biodisponibilité IV « presque absolue » vs IA « absolue ».",
+    "Volumes : SC 0,5–2 mL, IM 2–5 mL, IV directe 5–20 mL.",
+    "La voie rectale est pratique chez l'enfant mais inutile en cas de diarrhée.",
+    "La voie intra-thécale correspond à l'espace sous-arachnoïdien, la péridurale à l'espace épidural.",
+    "Voie orale : résorption surtout intestinale, pas exclusivement gastrique."
+  ]
+}

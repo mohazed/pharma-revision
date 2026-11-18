@@ -1,0 +1,13 @@
+{
+  "id": "pharmacie-galenique/01-generalites",
+  "module": "pharmacie-galenique",
+  "ordre": 1,
+  "titre": "Généralités sur la pharmacie galénique",
+  "type": "cours",
+  "source": {
+    "driveId": "1-dbF_Tkv0Ggs7sa1zojm7YOzI_tn6gNY",
+    "fichier": "1. Généralités Sur La Pharmacie Galénique.pdf",
+    "modifiedTime": "2026-10-10T05:56:09.453Z"
+  },
+  "resume": "Définitions de base (pharmacie galénique, matière première, médicament, excipient à effet notoire), étapes du développement galénique, AMM, BPF, Pharmacopée et préparations officinales et magistrales."
+}

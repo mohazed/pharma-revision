@@ -1,0 +1,243 @@
+[
+  {
+    "id": "pharmacologie/01-introduction/tableau-01",
+    "titre": "Branches de la pharmacologie",
+    "colonnes": [
+      "Branche",
+      "Définition"
+    ],
+    "lignes": [
+      [
+        "Pharmacologie expérimentale",
+        "Effet des médicaments sur cultures cellulaires ou organes entiers (in vitro) ou modèles animaux (in vivo)"
+      ],
+      [
+        "Pharmacologie clinique",
+        "Effets des médicaments chez l'Homme (= essais cliniques)"
+      ],
+      [
+        "Pharmacovigilance",
+        "Surveillance des effets indésirables"
+      ],
+      [
+        "Pharmacogénétique",
+        "Influence du génotype sur la variabilité de la réponse au traitement"
+      ],
+      [
+        "Pharmacoéconomie",
+        "Étude du prix des médicaments"
+      ]
+    ]
+  },
+  {
+    "id": "pharmacologie/01-introduction/tableau-02",
+    "titre": "Origines des médicaments",
+    "colonnes": [
+      "Origine",
+      "Principe",
+      "Exemples du cours"
+    ],
+    "lignes": [
+      [
+        "Végétale",
+        "Extraction de plantes",
+        "Morphine (Papaver somniferum)"
+      ],
+      [
+        "Animale",
+        "Extraction (hormones, enzymes)",
+        "Héparine (poumon de bœuf)"
+      ],
+      [
+        "Minérale",
+        "Produits minéraux naturels (PA ou excipients)",
+        "Eau, talc, argile (Smecta*), bicarbonate de sodium, sulfate de magnésium"
+      ],
+      [
+        "Microbiologique",
+        "Bactéries ou virus atténués ou tués",
+        "Vaccin BCG"
+      ],
+      [
+        "Semi-synthétique",
+        "Groupements chimiques ajoutés à une substance naturelle",
+        "Codéine"
+      ],
+      [
+        "Synthétique",
+        "Synthèse chimique totale",
+        "AINS"
+      ],
+      [
+        "Biotechnologique",
+        "Génie génétique",
+        "Insuline, facteurs de croissance hématopoïétiques, IL2, INF"
+      ]
+    ]
+  },
+  {
+    "id": "pharmacologie/01-introduction/tableau-03",
+    "titre": "RCP et notice",
+    "colonnes": [
+      "Critère",
+      "RCP",
+      "Notice"
+    ],
+    "lignes": [
+      [
+        "Destinataire",
+        "Professionnels de santé",
+        "Patient / utilisateur"
+      ],
+      [
+        "Contenu",
+        "Très détaillé et technique",
+        "Plus simple et vulgarisé"
+      ],
+      [
+        "Posologie",
+        "Détaillée, avec adaptations",
+        "Compréhensible pour le patient"
+      ],
+      [
+        "Effets indésirables",
+        "Liste détaillée avec fréquence",
+        "Langage accessible"
+      ],
+      [
+        "Interactions",
+        "Détaillées pour le prescripteur",
+        "Informations pratiques"
+      ],
+      [
+        "Caractéristiques pharmacologiques",
+        "Présentes (PD, PK, précliniques)",
+        "Généralement absentes ou très limitées"
+      ]
+    ]
+  },
+  {
+    "id": "pharmacologie/01-introduction/carte-01",
+    "type": "carte",
+    "titre": "Introduction à la pharmacologie",
+    "racine": {
+      "label": "Pharmacologie",
+      "enfants": [
+        {
+          "label": "Branches",
+          "enfants": [
+            {
+              "label": "Expérimentale",
+              "enfants": []
+            },
+            {
+              "label": "Clinique",
+              "enfants": []
+            },
+            {
+              "label": "Pharmacovigilance",
+              "enfants": []
+            },
+            {
+              "label": "Pharmacogénétique",
+              "enfants": []
+            },
+            {
+              "label": "Pharmacoéconomie",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Médicament",
+          "enfants": [
+            {
+              "label": "Fonctions : thérapeutique, diagnostique",
+              "enfants": []
+            },
+            {
+              "label": "Effets : thérapeutique, indésirables",
+              "enfants": []
+            },
+            {
+              "label": "Composition : PA + excipients",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Phases",
+          "enfants": [
+            {
+              "label": "Biopharmaceutique",
+              "enfants": []
+            },
+            {
+              "label": "Pharmacocinétique (ADME)",
+              "enfants": []
+            },
+            {
+              "label": "Pharmacodynamique",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Origines",
+          "enfants": [
+            {
+              "label": "Naturelle",
+              "enfants": []
+            },
+            {
+              "label": "Semi-synthétique",
+              "enfants": []
+            },
+            {
+              "label": "Synthétique",
+              "enfants": []
+            },
+            {
+              "label": "Biotechnologique",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Catégories",
+          "enfants": [
+            {
+              "label": "Magistrale",
+              "enfants": []
+            },
+            {
+              "label": "Officinale",
+              "enfants": []
+            },
+            {
+              "label": "Hospitalière",
+              "enfants": []
+            },
+            {
+              "label": "Spécialité",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Information",
+          "enfants": [
+            {
+              "label": "RCP",
+              "enfants": []
+            },
+            {
+              "label": "Notice",
+              "enfants": []
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

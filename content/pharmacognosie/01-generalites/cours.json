@@ -1,0 +1,13 @@
+{
+  "id": "pharmacognosie/01-generalites",
+  "module": "pharmacognosie",
+  "ordre": 1,
+  "titre": "Généralités sur la pharmacognosie",
+  "type": "cours",
+  "source": {
+    "driveId": "1qtBEpIbyu5N0lu5b-HH9HGkCMnnz7hTH",
+    "fichier": "1. Généralités sur la Pharmacognosie.pdf",
+    "modifiedTime": "2026-10-21T18:28:50.519Z"
+  },
+  "resume": "Définition, historique, buts et méthodes de recherche de la pharmacognosie ; production, récolte, conservation (dessiccation, stabilisation) et essais des drogues végétales."
+}

@@ -1,0 +1,68 @@
+{
+  "id": "chimie-analytique/01-methodes-de-separation/fiche-001",
+  "titre": "Méthodes de séparation",
+  "sections": [
+    {
+      "titre": "Généralités",
+      "points": [
+        "Partie la plus ancienne de la chimie analytique, autrefois appelée **analyse immédiate**.",
+        "Produit de départ : solution **homogène** (une seule phase à l'œil nu) ou mélange **hétérogène** (au moins deux phases)."
+      ]
+    },
+    {
+      "titre": "Solide + liquide : filtration",
+      "points": [
+        "Membrane poreuse perméable aux liquides, imperméable aux solides.",
+        "Qualités : résistance mécanique, efficacité, rapidité.",
+        "Cellulose : attaquée par acides/bases forts, pouvoir adsorbant (utile en chromatographie).",
+        "Polymères : porosité parfaitement définie (jusqu'aux bactéries), solubles dans certains solvants organiques.",
+        "Verre fritté : porosité **0 (≈200 µ) à 5 (≈1 µ)** ; efficacité ↑ et rapidité ↓ avec le numéro ; fragile en milieu fortement alcalin (silicates).",
+        "Techniques : pression normale, surpression (filtre presse), dépression (fiole de **Kitasato**, entonnoir de **Buchner**)."
+      ]
+    },
+    {
+      "titre": "Solide + liquide : centrifugation",
+      "points": [
+        "Séparation selon la **densité** par une force centrifuge : **F = 4π²Rn²m**.",
+        "R = 10–30 cm ; surtout **n** (au carré) : 3000 tr/min (simple) à 50 000 tr/min et plus (ultracentrifugeuse).",
+        "Nombre de g = γ/g : 1500 g (simple), 250 000 à 1 000 000 g (ultracentrifugeuse).",
+        "Applications : plasma (sang anticoagulé) / sérum (sang coagulé), sédiment urinaire ; destruction des émulsions ; protéines selon la masse moléculaire."
+      ]
+    },
+    {
+      "titre": "Deux liquides non miscibles",
+      "points": [
+        "Décantation en ampoule à décanter.",
+        "Émulsions (stables en milieu alcalin) détruites par chauffage, modification du pH, tensioactif, centrifugation."
+      ]
+    },
+    {
+      "titre": "Mélange de solides",
+      "points": [
+        "Pasteur (1860) : cristaux d'acide tartrique énantiomères à la pince et à la loupe.",
+        "Lévigation : densité, courant de liquide non solvant entraînant les fractions les moins denses (industrie minière).",
+        "Tamisage : selon la dimension. Le plus souvent : homogénéisation mécanique."
+      ]
+    },
+    {
+      "titre": "Phase homogène : rupture de phase",
+      "points": [
+        "Élimination du solvant : à pression atmosphérique (chauffage fort, oxydation, thermolabiles) ou **sous pression réduite** (évaporateur rotatif : à l'abri de l'air, température plus basse).",
+        "Précipitation : refroidissement (cristallisation) ou **addition d'un non solvant** miscible (acide salicylique/alcool + eau ; digitaline/chloroforme + éther de pétrole ; alcaloïde/méthanol + éther éthylique) : méthode brutale.",
+        "**Relargage** : ajout d'un sel minéral (sulfate d'ammonium, NaCl) ; plus le pôle hydrophobe est important, plus c'est facile ; méthode très douce, sans chauffage (protéines)."
+      ]
+    }
+  ],
+  "aRetenir": [
+    "F = 4π²Rn²m : n intervient au carré.",
+    "Verre fritté : n° élevé = pores fins = plus efficace mais plus lent.",
+    "Hofmeister : F⁻ > SO₄²⁻ > citrate > tartrate > Cl⁻ > Br⁻ et Li⁺ > Na⁺ > K⁺ > NH₄⁺ > Mg²⁺."
+  ],
+  "pieges": [
+    "Le n° 0 du verre fritté correspond aux pores les plus LARGES.",
+    "Les émulsions sont stables en milieu ALCALIN.",
+    "Non solvant = liquide MISCIBLE au premier (sinon on aurait une extraction).",
+    "Relargage : pôle HYDROPHOBE important = relargage plus facile.",
+    "Le verre fritté craint les solutions ALCALINES, la cellulose les acides ET les alcalins forts."
+  ]
+}

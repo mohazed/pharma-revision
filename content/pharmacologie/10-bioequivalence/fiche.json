@@ -1,0 +1,68 @@
+{
+  "id": "pharmacologie/10-bioequivalence/fiche-001",
+  "titre": "La bioéquivalence",
+  "sections": [
+    {
+      "titre": "Générique et équivalences",
+      "points": [
+        "Générique : même composition qualitative et quantitative en PA, même forme ; excipients, procédé, aspect, prix peuvent différer.",
+        "Même PA à même dose ≠ exposition identique.",
+        "Équivalence chimique → pharmaceutique (même quantité molaire, forme, voie) → thérapeutique (efficacité/sécurité, interchangeabilité).",
+        "Méthodes : PK (bioéquivalence), PD, clinique comparative, dissolution in vitro."
+      ]
+    },
+    {
+      "titre": "Bioéquivalence",
+      "points": [
+        "Équivalents pharmaceutiques sans différence significative de biodisponibilité (vitesse et étendue).",
+        "AUC = étendue ; Cmax = pic et vitesse ; Tmax = temps du pic.",
+        "L'équivalence pharmaceutique ne suffit pas ; la bioéquivalence est un moyen de démontrer l'équivalence thérapeutique."
+      ]
+    },
+    {
+      "titre": "Exigence et exonération",
+      "points": [
+        "Algérie : arrêté du 4/10/2021 et ligne directrice ANPP du 5/02/2026.",
+        "Exigée : LI orales non exonérées (index étroit, pronostic vital), PK complexe (EPP ≥ 70 %), libération modifiée, patchs, suppositoires, associations fixes, modifications majeures.",
+        "Exonérée selon la forme : solutions aqueuses parentérales, solutions orales, poudres à reconstituer, gaz médicaux, solutions oculaires/auriculaires, topiques non systémiques, nébulisation/gouttes nasales.",
+        "BCS : classes **I et III** éligibles ; exclut index étroit, LP, buccal/sublingual ; excipients similaires + dissolution similaire.",
+        "Dosages supplémentaires : même procédé, composition, rapport PA/excipients ; PK linéaire → dosage le plus élevé."
+      ]
+    },
+    {
+      "titre": "Conception",
+      "points": [
+        "Essai de **phase 1** ; promoteur, autorité, investigateur, comité d'éthique, laboratoire, biostatistique.",
+        "Plan standard : **croisé randomisé 2×2 dose unique** ; wash-out ≥ **5 T1/2**.",
+        "Alternatives : parallèle (longue T1/2), répliqué (variabilité intra-individuelle), doses multiples.",
+        "Volontaires adultes sains ; ≥ **12** sujets évaluables (12/groupe en parallèle) ; jeûne ≈ 12 h.",
+        "Prélèvements : t0, rapprochés autour du Tmax, AUC(0–t) ≥ **80 %** de l'AUC(0–∞) ; AUC tronquée à 72 h si T1/2 ≥ 24 h.",
+        "Bioanalyse : méthode sensible, sélective, validée (HPLC-MS) ; composé parent (métabolite si justifié)."
+      ]
+    },
+    {
+      "titre": "Analyse et décision",
+      "points": [
+        "Paramètres primaires : AUC(0–t) et Cmax (doses multiples : AUC(0–τ) et Cmax,ss).",
+        "Log-transformation, modèle adapté, rapport des **moyennes géométriques** T/R et **IC 90 %**.",
+        "Acceptation : IC entièrement dans **80,00–125,00 %** ; index étroit : **90,00–111,11 %**.",
+        "Décision finale : autorité compétente."
+      ]
+    }
+  ],
+  "aRetenir": [
+    "Classes BCS I et III → biowaiver possible",
+    "Wash-out ≥ 5 T1/2",
+    "≥ 12 sujets évaluables",
+    "IC 90 % dans 80–125 % (90–111,11 % si index étroit)",
+    "Paramètres primaires : AUC(0–t) et Cmax"
+  ],
+  "pieges": [
+    "IC à 90 % (et non 95 %) ; moyennes géométriques (et non arithmétiques).",
+    "C'est l'IC entier, pas seulement le rapport moyen, qui doit être dans les bornes.",
+    "Le Tmax n'est pas un paramètre primaire.",
+    "Plan parallèle = longue T1/2 ; répliqué = variabilité intra-individuelle.",
+    "Une forme LP ou un suppositoire systémique n'est jamais exonéré par la forme.",
+    "Identité des excipients non obligatoire pour l'équivalence pharmaceutique."
+  ]
+}

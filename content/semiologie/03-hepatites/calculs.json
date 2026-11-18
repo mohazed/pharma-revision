@@ -1,0 +1,50 @@
+[
+  {
+    "id": "semiologie/03-hepatites/calcul-001",
+    "titre": "Rapport R d'une hépatite médicamenteuse",
+    "enonce": "Un patient sous traitement présente une ALAT à {alat} fois la normale et des PAL à {pal} fois la normale. Calculez le rapport R.",
+    "variables": {
+      "alat": {
+        "min": 2,
+        "max": 40,
+        "pas": 1,
+        "unite": "N"
+      },
+      "pal": {
+        "min": 1,
+        "max": 6,
+        "pas": 0.5,
+        "unite": "N"
+      }
+    },
+    "formule": "alat / pal",
+    "unite": "",
+    "decimales": 2,
+    "etapes": [
+      "R = (ALAT/N) / (PAL/N)",
+      "R ≥ 5 : cytolytique ; 2 < R < 5 : mixte ; R ≤ 2 : cholestatique"
+    ],
+    "rappel": "R = (ALAT/N)/(PAL/N) ; R ≥ 5 cytolytique, 2 < R < 5 mixte, R ≤ 2 cholestatique."
+  },
+  {
+    "id": "semiologie/03-hepatites/calcul-002",
+    "titre": "Seuil toxique du paracétamol",
+    "enonce": "Un adulte pèse {poids} kg. Quelle quantité de paracétamol (en g) en prise unique atteint le seuil toxique ?",
+    "variables": {
+      "poids": {
+        "min": 40,
+        "max": 110,
+        "pas": 5,
+        "unite": "kg"
+      }
+    },
+    "formule": "poids * 150 / 1000",
+    "unite": "g",
+    "decimales": 1,
+    "etapes": [
+      "Seuil toxique = 150 mg/kg",
+      "Quantité = poids × 150 mg, puis conversion en g (÷ 1000)"
+    ],
+    "rappel": "Seuil toxique en prise unique : 150 mg/kg ; dose maximale adulte 4 g/j (3 g si facteur de risque)."
+  }
+]

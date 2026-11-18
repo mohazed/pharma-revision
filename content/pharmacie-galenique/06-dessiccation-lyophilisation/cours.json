@@ -1,0 +1,13 @@
+{
+  "id": "pharmacie-galenique/06-dessiccation-lyophilisation",
+  "module": "pharmacie-galenique",
+  "ordre": 6,
+  "titre": "Dessiccation – Lyophilisation",
+  "type": "cours",
+  "source": {
+    "driveId": "1saKKhAjrIxJZvuTlVRtDK_nJ7aIHB11q",
+    "fichier": "6. Déssication - Lyophilisation.pdf",
+    "modifiedTime": "2026-10-22T08:23:06.251Z"
+  },
+  "resume": "Définition et intérêts de la dessiccation, états de l'eau, phases et facteurs du séchage, procédés (convection, conduction, rayonnement, nébulisation, lyophilisation) et contrôles."
+}

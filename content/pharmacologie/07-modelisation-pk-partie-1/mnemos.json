@@ -1,0 +1,26 @@
+[
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/mnemo-001",
+    "titre": "Classes de T1/2",
+    "moyen": "« 2-6-12-30 »",
+    "explication": "Bornes en heures : < 2 très courte, 2–6 courte, 6–12 intermédiaire, 12–30 longue, > 30 très longue (borne haute incluse dans chaque classe)."
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/mnemo-002",
+    "titre": "Vd croissant",
+    "moyen": "« Wa-Am-Di-Dig-Chlorp-Chloro »",
+    "explication": "Warfarine (< 10 l) → Amoxicilline (10–50) → Digitaline (50–200) → Digoxine (200–1000) → Chlorpromazine (1000–5000) → Chloroquine (> 5000)."
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/mnemo-003",
+    "titre": "Pente et ke",
+    "moyen": "« Moins deux-trois-zéro-trois fois la pente »",
+    "explication": "ke = −2,303 × a : la pente est négative, le signe moins rend ke positive."
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/mnemo-004",
+    "titre": "Méthode des résidus",
+    "moyen": "« Extrapole, soustrais, trace »",
+    "explication": "Extrapoler la droite d'élimination (C'p), soustraire les concentrations observées (A = |C'p − C|), tracer les résidus en log pour obtenir ka."
+  }
+]

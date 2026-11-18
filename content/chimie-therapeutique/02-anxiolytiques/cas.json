@@ -1,0 +1,185 @@
+[
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/cas-001",
+    "titre": "Anxiété chez une patiente active",
+    "enonce": "Mme K., 35 ans, consulte pour une anxiété généralisée gênant son activité professionnelle. Elle souhaite éviter une somnolence diurne. Aucun antécédent d'insuffisance respiratoire ni hépatique.",
+    "questions": [
+      {
+        "id": "chimie-therapeutique/02-anxiolytiques/cas-001-q1",
+        "type": "multiple",
+        "enonce": "Quelles benzodiazépines le cours présente-t-il comme adaptées à la vie active ?",
+        "options": [
+          "Oxazépam (Seresta®)",
+          "Lorazépam (Temesta®)",
+          "Clorazépate (Tranxène®), anxiolytique pur non hypnogène",
+          "Témazépam (Normison®)",
+          "Nitrazépam"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "Oxazépam et lorazépam sont décrits comme anxiolytiques adaptés à la vie active ; le clorazépate est un anxiolytique pur non hypnogène. Témazépam et nitrazépam sont des hypnotiques.",
+        "origine": "genere"
+      },
+      {
+        "id": "chimie-therapeutique/02-anxiolytiques/cas-001-q2",
+        "type": "multiple",
+        "enonce": "Quelles règles de maniement doivent être respectées ?",
+        "options": [
+          "Débuter par la dose la plus faible",
+          "Durée de prescription la plus courte possible (12 semaines)",
+          "Arrêt progressif du traitement",
+          "Prévenir du risque d'interaction avec l'alcool",
+          "Toutes les propositions sont correctes"
+        ],
+        "correctes": [
+          4
+        ],
+        "explication": "Toutes ces règles figurent dans le maniement des benzodiazépines.",
+        "origine": "genere"
+      },
+      {
+        "id": "chimie-therapeutique/02-anxiolytiques/cas-001-q3",
+        "type": "multiple",
+        "enonce": "Si l'on souhaite un anxiolytique sans sédation, sans myorelaxation et sans dépendance, on peut proposer :",
+        "options": [
+          "La buspirone",
+          "Le diazépam",
+          "Le méprobamate",
+          "Le triazolam",
+          "Le flumazénil"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "La buspirone n'a ni effet sédatif, ni myorelaxant, ni anticonvulsivant, et n'entraîne pas de dépendance ; son délai d'action est de 1 à 3 semaines.",
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/cas-002",
+    "titre": "Contracture musculaire et choix de benzodiazépine",
+    "enonce": "Un homme de 48 ans présente une contracture musculaire douloureuse d'origine rhumatologique. Le dossier mentionne une benzodiazépine autrefois utilisée dans cette indication, dont l'AMM a été suspendue.",
+    "questions": [
+      {
+        "id": "chimie-therapeutique/02-anxiolytiques/cas-002-q1",
+        "type": "multiple",
+        "enonce": "De quelle molécule s'agit-il et quelle est sa particularité structurale ?",
+        "options": [
+          "Tétrazépam, dont le phényle en 5 est remplacé par un cyclohexényle",
+          "Tétrazépam, dérivé 7-nitré",
+          "Diazépam, dérivé 7-nitré",
+          "Clobazam, 1,5-benzodiazépine",
+          "Clotiazépam, thiéno-1,4-diazépine"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Le tétrazépam (Myolastan®) se distingue par le remplacement du noyau benzénique en 5 par un cyclohexène, d'où ses propriétés myorelaxantes.",
+        "origine": "genere"
+      },
+      {
+        "id": "chimie-therapeutique/02-anxiolytiques/cas-002-q2",
+        "type": "multiple",
+        "enonce": "Quelles activités lui sont attribuées dans le cours ?",
+        "options": [
+          "Action sédative sur la contracture musculaire",
+          "Pouvoir myorelaxant élevé",
+          "Activité analgésique contre les douleurs articulaires",
+          "Activité antagoniste des benzodiazépines",
+          "Activité antidépressive"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "Tétrazépam : action sédative sur la contracture musculaire, myorelaxant élevé, analgésique sur les douleurs articulaires.",
+        "origine": "genere"
+      },
+      {
+        "id": "chimie-therapeutique/02-anxiolytiques/cas-002-q3",
+        "type": "multiple",
+        "enonce": "Depuis quelle date son AMM est-elle suspendue ?",
+        "options": [
+          "8 juillet 2013",
+          "8 juillet 2003",
+          "1er janvier 2013",
+          "8 juin 2013",
+          "La date n'est pas précisée"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Suspension des AMM du tétrazépam (Myolastan® et génériques) à partir du 8 juillet 2013.",
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/cas-003",
+    "titre": "Intoxication aiguë et antidote",
+    "enonce": "Deux patients sont admis aux urgences : le premier après ingestion massive de comprimés de diazépam, le second après ingestion de méprobamate, avec un coma prolongé.",
+    "questions": [
+      {
+        "id": "chimie-therapeutique/02-anxiolytiques/cas-003-q1",
+        "type": "multiple",
+        "enonce": "Quel médicament peut antagoniser les effets du diazépam ?",
+        "options": [
+          "Le flumazénil (Anexate®)",
+          "Le propranolol",
+          "La buspirone",
+          "La clonidine",
+          "L'hydroxyzine"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Le flumazénil, imidazobenzodiazépine, est un antagoniste pur et spécifique inhibant de façon compétitive les effets des benzodiazépines.",
+        "origine": "genere"
+      },
+      {
+        "id": "chimie-therapeutique/02-anxiolytiques/cas-003-q2",
+        "type": "multiple",
+        "enonce": "Concernant l'intoxication par le méprobamate :",
+        "options": [
+          "Les surdosages donnent des intoxications graves",
+          "Le coma peut être prolongé",
+          "On ne dispose pas d'antidote",
+          "Le flumazénil est l'antidote",
+          "Le méprobamate est inducteur enzymatique"
+        ],
+        "correctes": [
+          0,
+          1,
+          2,
+          4
+        ],
+        "explication": "Le méprobamate est inducteur enzymatique ; ses surdosages donnent des intoxications graves avec coma prolongé contre lesquelles on ne dispose pas d'antidote.",
+        "origine": "genere"
+      },
+      {
+        "id": "chimie-therapeutique/02-anxiolytiques/cas-003-q3",
+        "type": "multiple",
+        "enonce": "Quelle est la particularité structurale du flumazénil ?",
+        "options": [
+          "C'est une imidazobenzodiazépine",
+          "Il est dépourvu du cycle benzénique en position 5",
+          "Il possède une forte affinité pour les récepteurs des benzodiazépines",
+          "C'est une 1,5-benzodiazépine",
+          "C'est un carbamate"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "Flumazénil : imidazobenzodiazépine dépourvue du cycle benzénique en 5, de grande affinité pour les récepteurs des BZD.",
+        "origine": "genere"
+      }
+    ]
+  }
+]

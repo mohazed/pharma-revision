@@ -1,0 +1,382 @@
+[
+  {
+    "terme": "Pharmacie galénique",
+    "definition": "Science pharmaceutique qui étudie la mise en forme des principes actifs en médicaments administrables et efficaces, en associant des excipients adaptés.",
+    "cours": "pharmacie-galenique/01-generalites"
+  },
+  {
+    "terme": "Matière première",
+    "definition": "Toute substance entrant dans la composition d'un médicament et n'ayant pas encore subi toutes les étapes de fabrication galénique (PA ou excipient).",
+    "cours": "pharmacie-galenique/01-generalites"
+  },
+  {
+    "terme": "Principe actif (API)",
+    "definition": "Substance naturelle ou synthétique responsable de l'activité pharmacologique du médicament.",
+    "cours": "pharmacie-galenique/01-generalites"
+  },
+  {
+    "terme": "Excipient à effet notoire",
+    "definition": "Excipient dont la présence peut nécessiter des précautions d'emploi chez certaines catégories de patients (ex : lactose).",
+    "cours": "pharmacie-galenique/01-generalites"
+  },
+  {
+    "terme": "Forme à libération modifiée",
+    "definition": "Forme résultant d'une formulation particulière et d'un procédé de fabrication spécial.",
+    "cours": "pharmacie-galenique/01-generalites"
+  },
+  {
+    "terme": "Prototype",
+    "definition": "Lot clinique ou lot pilote obtenu par optimisation du procédé à l'échelle pilote.",
+    "cours": "pharmacie-galenique/01-generalites"
+  },
+  {
+    "terme": "AMM",
+    "definition": "Autorisation de mise sur le marché, accordée au médicament répondant aux critères de qualité, sécurité et efficacité.",
+    "cours": "pharmacie-galenique/01-generalites"
+  },
+  {
+    "terme": "BPF",
+    "definition": "Bonnes pratiques de fabrication : élément de l'assurance qualité garantissant une fabrication et un contrôle cohérents selon des normes de qualité adaptées.",
+    "cours": "pharmacie-galenique/01-generalites"
+  },
+  {
+    "terme": "Pharmacopée",
+    "definition": "Formulaire officiel rédigé par une commission de médecins et de pharmaciens (matières premières, préparations classiques, méthodes d'analyse).",
+    "cours": "pharmacie-galenique/01-generalites"
+  },
+  {
+    "terme": "Préparation officinale",
+    "definition": "Médicament préparé en pharmacie selon les prescriptions d'un formulaire officiel (Pharmacopée, Codex).",
+    "cours": "pharmacie-galenique/01-generalites"
+  },
+  {
+    "terme": "Préparation magistrale",
+    "definition": "Médicament préparé de façon extemporanée en pharmacie selon une prescription médicale destinée à un patient déterminé.",
+    "cours": "pharmacie-galenique/01-generalites"
+  },
+  {
+    "terme": "Ordonnancier",
+    "definition": "Registre sur lequel le pharmacien inscrit les préparations magistrales (date, médecin, malade, formule, nombre d'unités, numéro d'ordre).",
+    "cours": "pharmacie-galenique/01-generalites"
+  },
+  {
+    "terme": "Excipient",
+    "definition": "Substance inactive par elle-même qui facilite l'administration et la conservation du principe actif ; peut influencer la biodisponibilité mais pas l'activité.",
+    "cours": "pharmacie-galenique/02-excipients"
+  },
+  {
+    "terme": "Adjuvant",
+    "definition": "Substance qui renforce l'activité d'un principe actif (adjuvare : aider, seconder).",
+    "cours": "pharmacie-galenique/02-excipients"
+  },
+  {
+    "terme": "Véhicule",
+    "definition": "Substance qui assure le transport du principe actif dans l'organisme.",
+    "cours": "pharmacie-galenique/02-excipients"
+  },
+  {
+    "terme": "Empois d'amidon",
+    "definition": "Gelée obtenue lorsque l'amidon gonfle dans l'eau au-dessus de 80 °C sans se dissoudre totalement.",
+    "cours": "pharmacie-galenique/02-excipients"
+  },
+  {
+    "terme": "Gomme",
+    "definition": "Exsudat de plante se solidifiant par dessiccation (arabique, adragante, Sterculia).",
+    "cours": "pharmacie-galenique/02-excipients"
+  },
+  {
+    "terme": "Carbomère",
+    "definition": "Polymère synthétique réticulé de l'acide acrylique, gélifiant après neutralisation par une base.",
+    "cours": "pharmacie-galenique/02-excipients"
+  },
+  {
+    "terme": "Macrogol (PEG)",
+    "definition": "Polyéthylèneglycol, polymère synthétique liquide ou solide selon sa masse moléculaire.",
+    "cours": "pharmacie-galenique/02-excipients"
+  },
+  {
+    "terme": "Glycérides semi-synthétiques",
+    "definition": "Solides cireux obtenus par glycérolyse des huiles hydrogénées, hydrodispersibles, excipients pour suppositoires.",
+    "cours": "pharmacie-galenique/02-excipients"
+  },
+  {
+    "terme": "Surfactif (tensioactif)",
+    "definition": "Molécule amphiphile possédant une partie hydrophile et une partie hydrophobe, se plaçant à l'interface de deux phases non miscibles.",
+    "cours": "pharmacie-galenique/02-excipients"
+  },
+  {
+    "terme": "HLB",
+    "definition": "Balance hydrophile-lipophile (Griffin) : valeur d'autant plus élevée que le surfactif est hydrophile ; ≈ 10 = équilibre.",
+    "cours": "pharmacie-galenique/02-excipients"
+  },
+  {
+    "terme": "Tensioactif amphotère",
+    "definition": "Tensioactif dont la partie hydrophile porte une charge négative et une positive, variant avec le pH.",
+    "cours": "pharmacie-galenique/02-excipients"
+  },
+  {
+    "terme": "Polysorbate (Tween®)",
+    "definition": "Ester de sorbitan polyhydroxyéthylé, surfactif hydrophile émulsionnant L/H.",
+    "cours": "pharmacie-galenique/02-excipients"
+  },
+  {
+    "terme": "Nitrosamines",
+    "definition": "Impuretés potentiellement cancérogènes formées par réaction d'amines avec des agents nitrosants (nitrites).",
+    "cours": "pharmacie-galenique/02-excipients"
+  },
+  {
+    "terme": "Eau de process",
+    "definition": "Eau obtenue à partir d'eau potable par les techniques de purification, utilisée dans les procédés de production.",
+    "cours": "pharmacie-galenique/03-eaux-pharmaceutiques"
+  },
+  {
+    "terme": "Pyrogènes",
+    "definition": "Substances provenant du métabolisme bactérien et provoquant une brusque augmentation de la température.",
+    "cours": "pharmacie-galenique/03-eaux-pharmaceutiques"
+  },
+  {
+    "terme": "Dureté de l'eau",
+    "definition": "Teneur de l'eau en ions Ca²⁺ et Mg²⁺.",
+    "cours": "pharmacie-galenique/03-eaux-pharmaceutiques"
+  },
+  {
+    "terme": "Eau purifiée",
+    "definition": "Eau destinée à la préparation de médicaments autres que ceux devant être stériles et apyrogènes.",
+    "cours": "pharmacie-galenique/03-eaux-pharmaceutiques"
+  },
+  {
+    "terme": "Eau hautement purifiée",
+    "definition": "Eau utilisée lorsqu'une qualité biologique élevée est nécessaire (ex : hémodialyse).",
+    "cours": "pharmacie-galenique/03-eaux-pharmaceutiques"
+  },
+  {
+    "terme": "Eau pour préparations injectables",
+    "definition": "Eau destinée aux préparations parentérales à véhicule aqueux (vrac) ou à leur dissolution/dilution extemporanée (stérilisée).",
+    "cours": "pharmacie-galenique/03-eaux-pharmaceutiques"
+  },
+  {
+    "terme": "Eau pour irrigation",
+    "definition": "Préparation aqueuse stérile de grand volume destinée à l'irrigation des cavités, lésions et surfaces corporelles.",
+    "cours": "pharmacie-galenique/03-eaux-pharmaceutiques"
+  },
+  {
+    "terme": "Désionisation",
+    "definition": "Déminéralisation de l'eau par résines échangeuses d'ions remplaçant les ions par H⁺ et OH⁻.",
+    "cours": "pharmacie-galenique/03-eaux-pharmaceutiques"
+  },
+  {
+    "terme": "Osmose inverse",
+    "definition": "Procédé physique de déminéralisation par membrane semi-perméable sous pression supérieure à la pression osmotique.",
+    "cours": "pharmacie-galenique/03-eaux-pharmaceutiques"
+  },
+  {
+    "terme": "Primage",
+    "definition": "Risque de la distillation, prévenu par un déflecteur.",
+    "cours": "pharmacie-galenique/03-eaux-pharmaceutiques"
+  },
+  {
+    "terme": "Thermocompression",
+    "definition": "Distillation sous pression légèrement réduite où la vapeur comprimée se condense sans eau de réfrigération.",
+    "cours": "pharmacie-galenique/03-eaux-pharmaceutiques"
+  },
+  {
+    "terme": "Filtration en profondeur",
+    "definition": "Rétention des particules au sein d'un milieu fibreux à pores irréguliers, par phénomènes physiques et électriques (adsorption).",
+    "cours": "pharmacie-galenique/03-eaux-pharmaceutiques"
+  },
+  {
+    "terme": "Filtre écran",
+    "definition": "Filtre de surface polymérique à pores calibrés retenant par tamisage les particules plus grosses que les pores.",
+    "cours": "pharmacie-galenique/03-eaux-pharmaceutiques"
+  },
+  {
+    "terme": "Conditionnement primaire",
+    "definition": "Enveloppe protectrice du médicament qui vient directement en contact avec lui.",
+    "cours": "pharmacie-galenique/04-materiaux-conditionnement"
+  },
+  {
+    "terme": "Conditionnement secondaire",
+    "definition": "Support d'identification et de marketing du médicament (étiquetage, étui, notice, vignette).",
+    "cours": "pharmacie-galenique/04-materiaux-conditionnement"
+  },
+  {
+    "terme": "Conditionnement tertiaire",
+    "definition": "Dernières étapes d'emballage avant envoi aux clients (fardeau, caisse, palette).",
+    "cours": "pharmacie-galenique/04-materiaux-conditionnement"
+  },
+  {
+    "terme": "Sorption",
+    "definition": "Interaction inverse de la migration : passage de constituants du médicament vers le matériau de conditionnement.",
+    "cours": "pharmacie-galenique/04-materiaux-conditionnement"
+  },
+  {
+    "terme": "Résistance hydrolytique",
+    "definition": "Résistance du verre à céder ses éléments minéraux solubles dans l'eau après autoclavage à 121 °C.",
+    "cours": "pharmacie-galenique/04-materiaux-conditionnement"
+  },
+  {
+    "terme": "Verre borosilicate",
+    "definition": "Verre de type I, neutre dans la masse, de haute résistance hydrolytique.",
+    "cours": "pharmacie-galenique/04-materiaux-conditionnement"
+  },
+  {
+    "terme": "Dévitrification",
+    "definition": "Phénomène du verre retardé par l'ajout d'alumine.",
+    "cours": "pharmacie-galenique/04-materiaux-conditionnement"
+  },
+  {
+    "terme": "Plasticité",
+    "definition": "Aptitude d'un matériau aux déformations permanentes.",
+    "cours": "pharmacie-galenique/04-materiaux-conditionnement"
+  },
+  {
+    "terme": "Élasticité",
+    "definition": "Aptitude d'un matériau aux déformations réversibles.",
+    "cours": "pharmacie-galenique/04-materiaux-conditionnement"
+  },
+  {
+    "terme": "Thermodurcissable",
+    "definition": "Matière plastique insoluble et infusible obtenue par polycondensation dans le moule.",
+    "cours": "pharmacie-galenique/04-materiaux-conditionnement"
+  },
+  {
+    "terme": "Thermoplastique",
+    "definition": "Matière plastique issue de la polymérisation, mise en forme à chaud à partir d'une poudre à mouler.",
+    "cours": "pharmacie-galenique/04-materiaux-conditionnement"
+  },
+  {
+    "terme": "PVDC (Saran)",
+    "definition": "Polychlorure de vinylidène, revêtement imperméable aux gaz.",
+    "cours": "pharmacie-galenique/04-materiaux-conditionnement"
+  },
+  {
+    "terme": "Élastomère",
+    "definition": "Caoutchouc naturel, synthétique ou de silicone utilisé pour les bouchons et joints.",
+    "cours": "pharmacie-galenique/04-materiaux-conditionnement"
+  },
+  {
+    "terme": "Complexe",
+    "definition": "Association de plusieurs films de natures différentes se complétant (ex : Alu-PE).",
+    "cours": "pharmacie-galenique/04-materiaux-conditionnement"
+  },
+  {
+    "terme": "Pulvérisation",
+    "definition": "Opération consistant à diviser des solides en particules de tailles réduites et de granulométrie déterminée.",
+    "cours": "pharmacie-galenique/05-pulverisation"
+  },
+  {
+    "terme": "Mondation",
+    "definition": "Opération préliminaire consistant à débarrasser la matière première de ses parties inutiles.",
+    "cours": "pharmacie-galenique/05-pulverisation"
+  },
+  {
+    "terme": "Percussion",
+    "definition": "Mécanisme de pulvérisation par chocs très violents, adapté aux substances dures.",
+    "cours": "pharmacie-galenique/05-pulverisation"
+  },
+  {
+    "terme": "Attrition",
+    "definition": "Mécanisme de pulvérisation par frottement contre une surface rugueuse avec contact permanent du mobile.",
+    "cours": "pharmacie-galenique/05-pulverisation"
+  },
+  {
+    "terme": "Porphyre",
+    "definition": "Plaque en silice très dure et molette en verre permettant d'obtenir des poudres très fines en petites quantités.",
+    "cours": "pharmacie-galenique/05-pulverisation"
+  },
+  {
+    "terme": "Microniseur",
+    "definition": "Broyeur à jet d'air provoquant des chocs entre particules, n'échauffant pas la substance.",
+    "cours": "pharmacie-galenique/05-pulverisation"
+  },
+  {
+    "terme": "Maille",
+    "definition": "Intervalle carré laissé entre les fils d'un tamis ; son côté en µm donne le numéro du tamis.",
+    "cours": "pharmacie-galenique/05-pulverisation"
+  },
+  {
+    "terme": "Crible",
+    "definition": "Surface plane percée de nombreux petits trous.",
+    "cours": "pharmacie-galenique/05-pulverisation"
+  },
+  {
+    "terme": "Démottage",
+    "definition": "Tamisage divisant les amas de poudre apparus lors du stockage.",
+    "cours": "pharmacie-galenique/05-pulverisation"
+  },
+  {
+    "terme": "Ténuité",
+    "definition": "Finesse d'une poudre, déterminée par l'analyse granulométrique.",
+    "cours": "pharmacie-galenique/05-pulverisation"
+  },
+  {
+    "terme": "Refus fractionné",
+    "definition": "Fraction de poudre retenue sur un tamis, rapportée à la totalité de la poudre.",
+    "cours": "pharmacie-galenique/05-pulverisation"
+  },
+  {
+    "terme": "Granulomètre laser",
+    "definition": "Appareil mesurant la taille des particules d'après la déviation d'un faisceau laser (≥ 0,05 µm).",
+    "cours": "pharmacie-galenique/05-pulverisation"
+  },
+  {
+    "terme": "Dessiccation",
+    "definition": "Opération éliminant totalement ou partiellement par vaporisation un liquide volatil contenu dans un solide ou semi-solide.",
+    "cours": "pharmacie-galenique/06-dessiccation-lyophilisation"
+  },
+  {
+    "terme": "Eau de constitution",
+    "definition": "Eau de cristallisation liée chimiquement à la molécule, non éliminée par la dessiccation.",
+    "cours": "pharmacie-galenique/06-dessiccation-lyophilisation"
+  },
+  {
+    "terme": "Eau d'adsorption",
+    "definition": "Eau liée acquise à partir de l'humidité relative de l'air ambiant.",
+    "cours": "pharmacie-galenique/06-dessiccation-lyophilisation"
+  },
+  {
+    "terme": "Eau de mouillage",
+    "definition": "Eau libre et capillaire ajoutée lors de la fabrication de formes sèches.",
+    "cours": "pharmacie-galenique/06-dessiccation-lyophilisation"
+  },
+  {
+    "terme": "Croûtage",
+    "definition": "Formation d'une croûte en surface quand la vitesse d'évaporation dépasse la vitesse de migration de l'eau.",
+    "cours": "pharmacie-galenique/06-dessiccation-lyophilisation"
+  },
+  {
+    "terme": "Lit d'air fluidisé",
+    "definition": "Séchoir où l'air chaud traverse de bas en haut un fond perforé et brasse la masse humide.",
+    "cours": "pharmacie-galenique/06-dessiccation-lyophilisation"
+  },
+  {
+    "terme": "Armoire à vide",
+    "definition": "Séchoir sous vide à plateaux chauffés, avec condenseur entre l'enceinte et la pompe.",
+    "cours": "pharmacie-galenique/06-dessiccation-lyophilisation"
+  },
+  {
+    "terme": "Nébulisation",
+    "definition": "Séchage par dispersion d'un liquide en fines gouttelettes dans un courant d'air très chaud.",
+    "cours": "pharmacie-galenique/06-dessiccation-lyophilisation"
+  },
+  {
+    "terme": "Lyophilisation",
+    "definition": "Dessiccation par sublimation de la glace d'un produit préalablement congelé.",
+    "cours": "pharmacie-galenique/06-dessiccation-lyophilisation"
+  },
+  {
+    "terme": "Sublimation",
+    "definition": "Passage direct de l'état solide (glace) à l'état gazeux sans passage par l'état liquide.",
+    "cours": "pharmacie-galenique/06-dessiccation-lyophilisation"
+  },
+  {
+    "terme": "Lyophilisat",
+    "definition": "Produit sec et poreux obtenu par lyophilisation, de reconstitution rapide et intégrale.",
+    "cours": "pharmacie-galenique/06-dessiccation-lyophilisation"
+  },
+  {
+    "terme": "Humidité résiduelle",
+    "definition": "Eau restant après séchage, mesurée par la perte de poids (dessiccateur IR ou étuve).",
+    "cours": "pharmacie-galenique/06-dessiccation-lyophilisation"
+  }
+]

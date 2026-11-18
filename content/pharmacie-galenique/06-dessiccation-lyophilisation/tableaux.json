@@ -1,0 +1,98 @@
+[
+  {
+    "id": "pharmacie-galenique/06-dessiccation-lyophilisation/tableau-001",
+    "titre": "Procédés de dessiccation",
+    "colonnes": [
+      "Procédé",
+      "Mode",
+      "Avantages",
+      "Inconvénients / remarques"
+    ],
+    "lignes": [
+      [
+        "Étuve à plateaux",
+        "Convection, discontinu",
+        "Simple, peu coûteuse",
+        "Long, non homogène, contamination croisée, pas pour thermolabiles"
+      ],
+      [
+        "Lit d'air fluidisé",
+        "Convection, discontinu",
+        "Rapide, homogène",
+        "Coûteux, encombrant, mise au point délicate"
+      ],
+      [
+        "Séchoir tunnel",
+        "Convection, continu",
+        "Progressif, pas de croûtage",
+        "Air chaud à contre-courant"
+      ],
+      [
+        "Séchoir à cylindres",
+        "Conduction",
+        "—",
+        "Peu utilisé ; solutions et suspensions uniquement"
+      ],
+      [
+        "Armoire à vide",
+        "Conduction sous vide",
+        "Basse température",
+        "Produits pulvérulents et pâteux"
+      ],
+      [
+        "Infrarouge",
+        "Rayonnement",
+        "—",
+        "Peu pénétrant, coûteux à grande échelle"
+      ],
+      [
+        "Micro-ondes",
+        "Rayonnement",
+        "Rapide, bon pour granulés, peu encombrant",
+        "Coûteux"
+      ],
+      [
+        "Nébulisation",
+        "Air à 150 °C",
+        "Contact très court (PA sensibles)",
+        "—"
+      ],
+      [
+        "Lyophilisation",
+        "Froid, sublimation",
+        "Basse T, à l'abri de l'air, reconstitution rapide",
+        "Très onéreuse"
+      ]
+    ]
+  },
+  {
+    "id": "pharmacie-galenique/06-dessiccation-lyophilisation/tableau-002",
+    "titre": "États de l'eau dans la matière",
+    "colonnes": [
+      "État",
+      "Autre nom",
+      "Origine",
+      "Dessiccation"
+    ],
+    "lignes": [
+      [
+        "Eau de constitution",
+        "Eau de cristallisation",
+        "Liée chimiquement à la molécule",
+        "Non éliminée"
+      ],
+      [
+        "Eau d'adsorption",
+        "Eau liée",
+        "Humidité relative de l'air",
+        "Plus ou moins éliminée"
+      ],
+      [
+        "Eau de mouillage",
+        "Eau libre et capillaire",
+        "Ajoutée lors de la fabrication",
+        "Éliminée"
+      ]
+    ]
+  }
+]

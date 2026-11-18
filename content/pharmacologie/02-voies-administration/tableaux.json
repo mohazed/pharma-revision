@@ -1,0 +1,138 @@
+[
+  {
+    "id": "pharmacologie/02-voies-administration/tableau-01",
+    "titre": "Voies parentérales : caractéristiques",
+    "colonnes": [
+      "Voie",
+      "Sites",
+      "Formes / volume",
+      "Points clés"
+    ],
+    "lignes": [
+      [
+        "Intraveineuse",
+        "Pli du coude, jugulaire externe, sous-clavière, saphène externe, dos de la main, fémorale",
+        "Solutions stériles, limpides, apyrogènes, neutres, isotoniques ; IV directe 5–20 mL",
+        "Biodisponibilité presque absolue, évite EPPH/EPPI"
+      ],
+      [
+        "Intra-artérielle",
+        "Radiale, axillaire, fémorale",
+        "Solutions (pas d'huileuses ni suspensions)",
+        "Biodisponibilité absolue ; thrombolytique, angiographie"
+      ],
+      [
+        "Intracardiaque",
+        "—",
+        "Solutions (pas d'huileuses ni suspensions)",
+        "Exceptionnelle : adrénaline, arrêt cardiaque"
+      ],
+      [
+        "Intramusculaire",
+        "Fessier (quadrant supéro-externe), deltoïde",
+        "Solutions et suspensions ; 90° ; 2–5 mL",
+        "Plus rapide que SC ; lésions nerveuses"
+      ],
+      [
+        "Sous-cutanée",
+        "Bras, abdomen, cuisse, deltoïde",
+        "45°–90° ; 0,5–2 mL",
+        "Action lente ; auto-administration ; douloureuse"
+      ]
+    ]
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/tableau-02",
+    "titre": "Voies sans effraction : avantages et inconvénients",
+    "colonnes": [
+      "Voie",
+      "Avantages",
+      "Inconvénients"
+    ],
+    "lignes": [
+      [
+        "Buccale",
+        "Rapide, pas de destruction digestive, pas d'EPPH",
+        "Surface 200 cm², peu de molécules, coopérativité"
+      ],
+      [
+        "Orale",
+        "Pratique, réversible, économique",
+        "Coopérativité, EPPI/EPPH/EPPP, biodisponibilité imprécise, latence, pas d'urgence"
+      ],
+      [
+        "Rectale",
+        "Bonne résorption, pratique (enfant, vomissements), goût désagréable, EPPH réduit",
+        "Résorption incomplète, EPPH non évité, muqueuse fragile, inutile si diarrhée"
+      ],
+      [
+        "Pulmonaire",
+        "Accès rapide, peu d'effets indésirables",
+        "Emploi difficile, dosage imprécis, irritation, infection"
+      ],
+      [
+        "Percutanée",
+        "Simple, libération prolongée, évite EPPH, réversible",
+        "Résorption lente, pas d'urgence, coût élevé"
+      ],
+      [
+        "Cutanée",
+        "Effet réservoir, persistance des effets superficiels",
+        "Frottement, irritation, effets systémiques (nouveau-né)"
+      ]
+    ]
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/carte-01",
+    "type": "carte",
+    "titre": "Voies d'administration",
+    "racine": {
+      "label": "Voies d'administration",
+      "enfants": [
+        {
+          "label": "Avec effraction (parentérales)",
+          "enfants": [
+            {
+              "label": "Vasculaires : IV, IA, IC",
+              "enfants": []
+            },
+            {
+              "label": "Extravasculaires systémiques : IM, SC",
+              "enfants": []
+            },
+            {
+              "label": "Extravasculaires locales : ID, intra-rachidienne, intra-articulaire, intra-séreuses",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Sans effraction",
+          "enfants": [
+            {
+              "label": "Systémiques : buccale, orale, rectale, pulmonaire, percutanée",
+              "enfants": []
+            },
+            {
+              "label": "Locales : cutanée, oculaire, auriculaire, nasale, vaginale",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Critères de choix",
+          "enfants": [
+            {
+              "label": "Liés au médicament",
+              "enfants": []
+            },
+            {
+              "label": "Liés au malade",
+              "enfants": []
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

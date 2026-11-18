@@ -1,0 +1,32 @@
+[
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/mnemo-001",
+    "titre": "Étapes du raffinage",
+    "moyen": "« Des Nouilles Dorées, Dites Délicieuses »",
+    "explication": "Démucilagination, Neutralisation, Décoloration, Décirage, Désodorisation."
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/mnemo-002",
+    "titre": "Lipides simples",
+    "moyen": "« GSC : Glycérides, Stérides, Cérides »",
+    "explication": "Les trois lipides simples (vrais)."
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/mnemo-003",
+    "titre": "Indice d'iode et siccativité",
+    "moyen": "« 75-100-150-190 : Non, Demi, Sicca »",
+    "explication": "Non siccatives 75–100 ; demi-siccatives 100–150 ; siccatives 150–190."
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/mnemo-004",
+    "titre": "HBP végétale",
+    "moyen": "« TA-PRU, PER-SER »",
+    "explication": "TAdenan = PRUnus africana ; PERmixon = SERenoa repens."
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/mnemo-005",
+    "titre": "Tocophérols",
+    "moyen": "« Arachide Alpha, Soja Gamma »",
+    "explication": "α-tocophérol = 65 % de l'insaponifiable d'arachide ; γ-tocophérol majoritaire dans le soja."
+  }
+]

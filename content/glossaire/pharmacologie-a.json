@@ -1,0 +1,677 @@
+[
+  {
+    "terme": "Pharmacologie",
+    "definition": "Science du médicament : étude des effets des produits biologiquement actifs sur l'organisme et de la réaction de ce dernier ; du grec Pharmakon (remède mais aussi drogue).",
+    "cours": "pharmacologie/01-introduction"
+  },
+  {
+    "terme": "Pharmacologie expérimentale",
+    "definition": "Étude de l'effet des médicaments sur cultures cellulaires ou organes entiers in vitro, ou sur modèles animaux in vivo.",
+    "cours": "pharmacologie/01-introduction"
+  },
+  {
+    "terme": "Pharmacologie clinique",
+    "definition": "Étude des effets des médicaments chez l'Homme ; synonyme d'essais cliniques.",
+    "cours": "pharmacologie/01-introduction"
+  },
+  {
+    "terme": "Pharmacovigilance",
+    "definition": "Surveillance des effets indésirables des médicaments.",
+    "cours": "pharmacologie/01-introduction"
+  },
+  {
+    "terme": "Pharmacogénétique",
+    "definition": "Étude de l'influence du génotype sur la variabilité de la réponse à un traitement médicamenteux.",
+    "cours": "pharmacologie/01-introduction"
+  },
+  {
+    "terme": "Pharmacoéconomie",
+    "definition": "Étude du prix des médicaments.",
+    "cours": "pharmacologie/01-introduction"
+  },
+  {
+    "terme": "Médicament",
+    "definition": "Selon l'OMS : substance ou composition à propriétés curatives ou préventives (maladies humaines ou animales), ou produit administré pour un diagnostic ou pour restaurer, corriger, modifier les fonctions physiologiques.",
+    "cours": "pharmacologie/01-introduction"
+  },
+  {
+    "terme": "Pharmacodynamie",
+    "definition": "Action du médicament sur l'organisme.",
+    "cours": "pharmacologie/01-introduction"
+  },
+  {
+    "terme": "Pharmacocinétique",
+    "definition": "Action de l'organisme sur le médicament : absorption, distribution, métabolisme, élimination.",
+    "cours": "pharmacologie/01-introduction"
+  },
+  {
+    "terme": "Phase biopharmaceutique",
+    "definition": "Phase comprenant la forme pharmaceutique et le passage du principe actif en solution.",
+    "cours": "pharmacologie/01-introduction"
+  },
+  {
+    "terme": "Principe actif",
+    "definition": "Partie du médicament responsable de ses effets.",
+    "cours": "pharmacologie/01-introduction"
+  },
+  {
+    "terme": "Excipient",
+    "definition": "Partie inactive du médicament.",
+    "cours": "pharmacologie/01-introduction"
+  },
+  {
+    "terme": "Préparation magistrale",
+    "definition": "Médicament préparé extemporanément sur prescription précisant la formule, destiné à un malade particulier.",
+    "cours": "pharmacologie/01-introduction"
+  },
+  {
+    "terme": "Préparation officinale",
+    "definition": "Médicament préparé en pharmacie à l'avance (ex. soluté de Dakin).",
+    "cours": "pharmacologie/01-introduction"
+  },
+  {
+    "terme": "Préparation hospitalière",
+    "definition": "Préparation réalisée sous prescription hospitalière, à l'avance ou extemporanément, faute de spécialité disponible ou adaptée.",
+    "cours": "pharmacologie/01-introduction"
+  },
+  {
+    "terme": "Spécialité pharmaceutique",
+    "definition": "Médicament préparé à l'avance, sous conditionnement particulier et dénomination spéciale.",
+    "cours": "pharmacologie/01-introduction"
+  },
+  {
+    "terme": "DCI",
+    "definition": "Dénomination Commune Internationale du principe actif.",
+    "cours": "pharmacologie/01-introduction"
+  },
+  {
+    "terme": "Médicament générique",
+    "definition": "Produit essentiellement similaire à l'original : même composition qualitative et quantitative en PA, même forme, bioéquivalence démontrée si nécessaire.",
+    "cours": "pharmacologie/01-introduction"
+  },
+  {
+    "terme": "RCP",
+    "definition": "Résumé des caractéristiques du produit : document technique destiné aux professionnels de santé.",
+    "cours": "pharmacologie/01-introduction"
+  },
+  {
+    "terme": "Notice",
+    "definition": "Document destiné au patient expliquant comment utiliser le médicament correctement et en toute sécurité.",
+    "cours": "pharmacologie/01-introduction"
+  },
+  {
+    "terme": "Origine semi-synthétique",
+    "definition": "Adjonction de groupements chimiques sur des substances naturelles pour améliorer PK/PD et/ou réduire la toxicité (ex. codéine).",
+    "cours": "pharmacologie/01-introduction"
+  },
+  {
+    "terme": "Origine biotechnologique",
+    "definition": "Fabrication par génie génétique de substances polypeptidiques identiques à leur modèle humain (ex. insuline).",
+    "cours": "pharmacologie/01-introduction"
+  },
+  {
+    "terme": "Voie d'administration",
+    "definition": "Endroit précis du corps par lequel le médicament est introduit dans l'organisme pour donner des effets thérapeutiques.",
+    "cours": "pharmacologie/02-voies-administration"
+  },
+  {
+    "terme": "Voie parentérale",
+    "definition": "Voie avec effraction cutanée et/ou muqueuse (vasculaire ou extravasculaire).",
+    "cours": "pharmacologie/02-voies-administration"
+  },
+  {
+    "terme": "Voie entérale",
+    "definition": "Voie digestive sans effraction : buccale, orale, rectale.",
+    "cours": "pharmacologie/02-voies-administration"
+  },
+  {
+    "terme": "Perfusion intraveineuse",
+    "definition": "Administration IV continue ou discontinue permettant l'injection de grands volumes.",
+    "cours": "pharmacologie/02-voies-administration"
+  },
+  {
+    "terme": "Apyrogène",
+    "definition": "Qualité exigée des préparations injectables (absence de substances pyrogènes).",
+    "cours": "pharmacologie/02-voies-administration"
+  },
+  {
+    "terme": "Voie intra-thécale",
+    "definition": "Injection dans l'espace sous-arachnoïdien (LCR) : rachianesthésie, douleurs chroniques du cancer, ATB des méningites tuberculeuses.",
+    "cours": "pharmacologie/02-voies-administration"
+  },
+  {
+    "terme": "Voie péridurale",
+    "definition": "Injection dans l'espace épidural : anesthésie péridurale, analgésie obstétricale.",
+    "cours": "pharmacologie/02-voies-administration"
+  },
+  {
+    "terme": "Infiltration",
+    "definition": "Injection intra-articulaire dans les bourses séreuses des articulations (ex. corticoïdes).",
+    "cours": "pharmacologie/02-voies-administration"
+  },
+  {
+    "terme": "Voie sublinguale",
+    "definition": "Administration du PA sous la langue, région richement vascularisée.",
+    "cours": "pharmacologie/02-voies-administration"
+  },
+  {
+    "terme": "Voie perlinguale",
+    "definition": "Absorption du PA par la muqueuse de la langue et l'intérieur des joues.",
+    "cours": "pharmacologie/02-voies-administration"
+  },
+  {
+    "terme": "Effet de premier passage hépatique (EPPH)",
+    "definition": "Altération du PA lors de son premier passage par le foie, évitée par les voies IV, IM, SC, buccale, percutanée et réduite par voie rectale.",
+    "cours": "pharmacologie/02-voies-administration"
+  },
+  {
+    "terme": "Lipodystrophie",
+    "definition": "Risque lié aux injections sous-cutanées répétées.",
+    "cours": "pharmacologie/02-voies-administration"
+  },
+  {
+    "terme": "Dispositif transdermique",
+    "definition": "Patch appliqué sur la peau pour une diffusion générale du PA (voie percutanée).",
+    "cours": "pharmacologie/02-voies-administration"
+  },
+  {
+    "terme": "Effet réservoir",
+    "definition": "Stockage du PA dans la couche cornée de la peau, prolongeant les effets superficiels.",
+    "cours": "pharmacologie/02-voies-administration"
+  },
+  {
+    "terme": "Collyre",
+    "definition": "Forme pharmaceutique oculaire appliquée dans le sac conjonctival ou sur la cornée.",
+    "cours": "pharmacologie/02-voies-administration"
+  },
+  {
+    "terme": "Ovule",
+    "definition": "Forme pharmaceutique vaginale.",
+    "cours": "pharmacologie/02-voies-administration"
+  },
+  {
+    "terme": "Absorption",
+    "definition": "Transfert des médicaments de leur site d'administration vers la circulation générale ; 1re étape de l'ADME.",
+    "cours": "pharmacologie/03-absorption"
+  },
+  {
+    "terme": "Libération",
+    "definition": "Mise à disposition du principe actif après administration extravasculaire d'une forme pharmaceutique solide.",
+    "cours": "pharmacologie/03-absorption"
+  },
+  {
+    "terme": "Dissolution",
+    "definition": "Passage du principe actif en solution, nécessaire pour traverser les membranes.",
+    "cours": "pharmacologie/03-absorption"
+  },
+  {
+    "terme": "Diffusion passive",
+    "definition": "Passage par dissolution dans la membrane, dans le sens du gradient de concentration, sans énergie ni transporteur, concernant la fraction liposoluble non ionisée.",
+    "cours": "pharmacologie/03-absorption"
+  },
+  {
+    "terme": "Diffusion facilitée",
+    "definition": "Passage dans le sens du gradient grâce à un transporteur, sans énergie, saturable, spécifique et soumis à compétition.",
+    "cours": "pharmacologie/03-absorption"
+  },
+  {
+    "terme": "Transport actif",
+    "definition": "Passage contre le gradient de concentration grâce à un transporteur spécifique et à l'énergie (hydrolyse de l'ATP).",
+    "cours": "pharmacologie/03-absorption"
+  },
+  {
+    "terme": "Filtration",
+    "definition": "Passage de l'eau et de petites molécules à travers les pores membranaires selon la pression osmotique (hydrostatique).",
+    "cours": "pharmacologie/03-absorption"
+  },
+  {
+    "terme": "Endocytose",
+    "definition": "Passage de particules : phagocytose pour les grosses molécules, pinocytose pour les liquides.",
+    "cours": "pharmacologie/03-absorption"
+  },
+  {
+    "terme": "Pinocytose",
+    "definition": "Forme d'endocytose concernant les liquides ; mécanisme d'absorption des solutions huileuses par voie sous-cutanée.",
+    "cours": "pharmacologie/03-absorption"
+  },
+  {
+    "terme": "Phagocytose",
+    "definition": "Forme d'endocytose concernant les grosses molécules.",
+    "cours": "pharmacologie/03-absorption"
+  },
+  {
+    "terme": "Coefficient de partage (Ks)",
+    "definition": "Paramètre renseignant sur la liposolubilité d'un médicament : plus il est élevé, plus le principe actif traverse une membrane lipidique.",
+    "cours": "pharmacologie/03-absorption"
+  },
+  {
+    "terme": "pKa",
+    "definition": "Constante caractérisant un acide faible ou une base faible, qui conditionne avec le pH son état d'ionisation.",
+    "cours": "pharmacologie/03-absorption"
+  },
+  {
+    "terme": "Équation de Henderson-Hasselbalch",
+    "definition": "Relation entre pH, pKa et rapport des formes ionisée et non ionisée : acide pH = pKa + log [I]/[NI] ; base pH = pKa + log [NI]/[I].",
+    "cours": "pharmacologie/03-absorption"
+  },
+  {
+    "terme": "Théorie de diffusion par le pH",
+    "definition": "Classement des médicaments selon leur pKa indiquant si leur absorption est limitée, dépendante ou indépendante du pH.",
+    "cours": "pharmacologie/03-absorption"
+  },
+  {
+    "terme": "Effet de premier passage (EPP)",
+    "definition": "Perte de médicament par métabolisme avant son arrivée dans la circulation générale, dès son premier contact avec l'organe de biotransformation.",
+    "cours": "pharmacologie/03-absorption"
+  },
+  {
+    "terme": "Biodisponibilité",
+    "definition": "Pourcentage de la dose administrée qui atteint la circulation générale et vitesse avec laquelle elle l'atteint.",
+    "cours": "pharmacologie/03-absorption"
+  },
+  {
+    "terme": "Glycoprotéine P (P-gp)",
+    "definition": "Pompe membranaire d'efflux expulsant hors de la cellule divers substrats dont des médicaments ; équipement variable selon les individus.",
+    "cours": "pharmacologie/03-absorption"
+  },
+  {
+    "terme": "Efflux",
+    "definition": "Expulsion de substances hors de la cellule, notamment par la glycoprotéine P.",
+    "cours": "pharmacologie/03-absorption"
+  },
+  {
+    "terme": "Vmax",
+    "definition": "Vitesse maximale de transport atteinte lors de la saturation d'un transporteur (diffusion facilitée).",
+    "cours": "pharmacologie/03-absorption"
+  },
+  {
+    "terme": "Km",
+    "definition": "Concentration de la molécule transportée pour laquelle la vitesse de transport vaut Vmax/2.",
+    "cours": "pharmacologie/03-absorption"
+  },
+  {
+    "terme": "Veines hémorroïdales",
+    "definition": "Veines rectales : les supérieures conduisent au foie, les inférieures et moyennes au système cave.",
+    "cours": "pharmacologie/03-absorption"
+  },
+  {
+    "terme": "Topique intestinal",
+    "definition": "Médicament agissant localement dans l'intestin sans nécessiter d'absorption.",
+    "cours": "pharmacologie/03-absorption"
+  },
+  {
+    "terme": "Forme retard",
+    "definition": "Forme pharmaceutique ralentissant la résorption, par exemple par voie intramusculaire.",
+    "cours": "pharmacologie/03-absorption"
+  },
+  {
+    "terme": "Distribution",
+    "definition": "Processus de répartition du médicament dans l’ensemble des tissus et organes ; comprend une phase plasmatique et une phase tissulaire.",
+    "cours": "pharmacologie/04-distribution"
+  },
+  {
+    "terme": "Phase plasmatique",
+    "definition": "Étape de transport sanguin du médicament, incluant sa fixation aux protéines plasmatiques et aux éléments figurés du sang.",
+    "cours": "pharmacologie/04-distribution"
+  },
+  {
+    "terme": "Phase tissulaire",
+    "definition": "Étape de diffusion du médicament des vaisseaux vers les tissus.",
+    "cours": "pharmacologie/04-distribution"
+  },
+  {
+    "terme": "Fraction libre",
+    "definition": "Partie non liée du médicament, seule diffusible, active pharmacologiquement et éliminable.",
+    "cours": "pharmacologie/04-distribution"
+  },
+  {
+    "terme": "Fraction liée",
+    "definition": "Partie du médicament fixée aux protéines plasmatiques : forme de transport et de réserve transitoire, inactive.",
+    "cours": "pharmacologie/04-distribution"
+  },
+  {
+    "terme": "Loi d’action de masse",
+    "definition": "Loi régissant l’équilibre réversible entre médicament libre, protéine et complexe protéine-médicament.",
+    "cours": "pharmacologie/04-distribution"
+  },
+  {
+    "terme": "Constante d’affinité (Ka)",
+    "definition": "Constante d’association exprimant l’affinité d’un médicament pour une protéine ; plus Ka est élevé, plus la liaison est stable.",
+    "cours": "pharmacologie/04-distribution"
+  },
+  {
+    "terme": "Albumine",
+    "definition": "Protéine plasmatique, l’une des deux principales protéines de fixation des médicaments ; possède des sites spécifiques (diazépam, warfarine, digitoxine).",
+    "cours": "pharmacologie/04-distribution"
+  },
+  {
+    "terme": "α1 glycoprotéine acide",
+    "definition": "Protéine plasmatique, l’une des deux principales protéines de fixation des médicaments avec l’albumine.",
+    "cours": "pharmacologie/04-distribution"
+  },
+  {
+    "terme": "Lipoprotéines",
+    "definition": "Protéines plasmatiques (HDL, LDL, VLDL) pouvant fixer des médicaments.",
+    "cours": "pharmacologie/04-distribution"
+  },
+  {
+    "terme": "Saturation des sites de fixation",
+    "definition": "Phénomène observé lorsque les sites sont restreints et que la concentration molaire de la protéine liante égale celle du médicament.",
+    "cours": "pharmacologie/04-distribution"
+  },
+  {
+    "terme": "Déplacement (interaction par)",
+    "definition": "Libération d’un médicament lié à l’albumine par un autre ; risque majoré si fixation > 90 %, Vd < 0,14 l/kg et index thérapeutique étroit.",
+    "cours": "pharmacologie/04-distribution"
+  },
+  {
+    "terme": "Hypoalbuminémie",
+    "definition": "Diminution de l’albumine plasmatique, observée chez la personne âgée et (par dilution) au cours de la grossesse.",
+    "cours": "pharmacologie/04-distribution"
+  },
+  {
+    "terme": "Volume de distribution (Vd)",
+    "definition": "Paramètre pharmacocinétique modifié par toute variation de la fixation protéique ; un Vd faible (< 0,14 l/kg) majore le risque d’interaction.",
+    "cours": "pharmacologie/04-distribution"
+  },
+  {
+    "terme": "Index thérapeutique étroit",
+    "definition": "Caractéristique d’un médicament rendant son effet sensible aux variations de fixation protéique.",
+    "cours": "pharmacologie/04-distribution"
+  },
+  {
+    "terme": "Éléments figurés du sang",
+    "definition": "Cellules sanguines ; les hématies (et non les leucocytes) participent au transport des médicaments.",
+    "cours": "pharmacologie/04-distribution"
+  },
+  {
+    "terme": "Diffusion tissulaire",
+    "definition": "Passage du médicament des vaisseaux dans les tissus, réversible (lieux d’action, de stockage) ou irréversible (transformation, élimination).",
+    "cours": "pharmacologie/04-distribution"
+  },
+  {
+    "terme": "Irrigation tissulaire",
+    "definition": "Débit sanguin d’un tissu, facteur limitant de la distribution ; corrélée à la vitesse de distribution vers ce tissu.",
+    "cours": "pharmacologie/04-distribution"
+  },
+  {
+    "terme": "Tropisme",
+    "definition": "Fixation préférentielle d’un médicament dans la région où il est censé agir (ex. anti-inflammatoires et siège de l’inflammation).",
+    "cours": "pharmacologie/04-distribution"
+  },
+  {
+    "terme": "Barrière tissulaire",
+    "definition": "Structure propre à certains organes limitant la diffusion des médicaments (barrière hémato-encéphalique, fœto-placentaire).",
+    "cours": "pharmacologie/04-distribution"
+  },
+  {
+    "terme": "Barrière hémato-encéphalique",
+    "definition": "Barrière isolant le SNC de la circulation, formée de cellules endothéliales très serrées ; seuls les PA liposolubles non ionisés la traversent.",
+    "cours": "pharmacologie/04-distribution"
+  },
+  {
+    "terme": "P-glycoprotéine (PGP)",
+    "definition": "Pompe rejetant dans les capillaires des substances (notamment anticancéreux) ayant pénétré dans la cellule, limitant le passage vers le SNC.",
+    "cours": "pharmacologie/04-distribution"
+  },
+  {
+    "terme": "Ictère nucléaire",
+    "definition": "Atteinte du nouveau-né due au passage de bilirubine à travers une barrière hémato-méningée physiologiquement plus perméable à la naissance.",
+    "cours": "pharmacologie/04-distribution"
+  },
+  {
+    "terme": "Effet tératogène",
+    "definition": "Risque de malformation congénitale lié au passage transplacentaire d’un médicament.",
+    "cours": "pharmacologie/04-distribution"
+  },
+  {
+    "terme": "Redistribution",
+    "definition": "Retour vers le plasma de médicaments liposolubles après inversion du gradient de concentration dans des organes à fort débit sanguin.",
+    "cours": "pharmacologie/04-distribution"
+  },
+  {
+    "terme": "Gradient de concentration",
+    "definition": "Différence de concentration plasma/tissu, facteur essentiel de la répartition du médicament.",
+    "cours": "pharmacologie/04-distribution"
+  },
+  {
+    "terme": "Métabolisme (biotransformation)",
+    "definition": "Transformation enzymatique d'un médicament en un ou plusieurs composés appelés métabolites, pouvant être actifs, inactifs ou parfois toxiques.",
+    "cours": "pharmacologie/05-metabolisme"
+  },
+  {
+    "terme": "Métabolite",
+    "definition": "Composé issu de la transformation enzymatique d'un médicament ; il peut être actif, inactif ou toxique.",
+    "cours": "pharmacologie/05-metabolisme"
+  },
+  {
+    "terme": "Métabolite réactif",
+    "definition": "Dérivé toxique formé par le métabolisme de certains médicaments, comme la N-acétyl-p-benzoquinone imine (NAPQI) issue du paracétamol.",
+    "cours": "pharmacologie/05-metabolisme"
+  },
+  {
+    "terme": "NAPQI",
+    "definition": "N-acétyl-p-benzoquinone imine, métabolite toxique du paracétamol responsable d'une hépatite cytotoxique par fixation covalente aux protéines hépatiques ; neutralisée par le glutathion aux doses thérapeutiques.",
+    "cours": "pharmacologie/05-metabolisme"
+  },
+  {
+    "terme": "Enzymes microsomales",
+    "definition": "Enzymes du métabolisme localisées dans le réticulum endoplasmique, abondantes dans le foie (ex. CYP450, UDP-glucuronyl-transférase).",
+    "cours": "pharmacologie/05-metabolisme"
+  },
+  {
+    "terme": "Enzymes cytosoliques",
+    "definition": "Enzymes du métabolisme localisées dans le cytosol de la cellule.",
+    "cours": "pharmacologie/05-metabolisme"
+  },
+  {
+    "terme": "Réactions de phase I",
+    "definition": "Réactions de fonctionnalisation qui introduisent ou démasquent des groupes fonctionnels, modifient la structure primaire du médicament et créent des sites de conjugaison : oxydation, réduction, hydrolyse.",
+    "cours": "pharmacologie/05-metabolisme"
+  },
+  {
+    "terme": "Réactions de phase II",
+    "definition": "Réactions de conjugaison rattachant de petites molécules polaires endogènes au médicament ou aux métabolites de phase I ; catalysées par des transférases et nécessitant de l'ATP.",
+    "cours": "pharmacologie/05-metabolisme"
+  },
+  {
+    "terme": "Cytochrome P450 (CYP450)",
+    "definition": "Hémoprotéine membranaire de localisation microsomale formant une superfamille d'isoenzymes qui catalysent l'oxydation par l'oxygène moléculaire ; familles CYP1, CYP2 et CYP3 pour les médicaments.",
+    "cours": "pharmacologie/05-metabolisme"
+  },
+  {
+    "terme": "Mono-oxygénase",
+    "definition": "Enzyme catalysant les réactions d'oxydation de la phase I, principalement répartie dans le réticulum endoplasmique du foie.",
+    "cours": "pharmacologie/05-metabolisme"
+  },
+  {
+    "terme": "Glucuroconjugaison",
+    "definition": "Réaction de phase II la plus importante, fixant l'acide glucuronique sous l'action de l'UDP-glucuronyl-transférase (enzyme microsomale) ; exemples : oxazépam, aspirine.",
+    "cours": "pharmacologie/05-metabolisme"
+  },
+  {
+    "terme": "Sulfoconjugaison",
+    "definition": "Réaction de phase II fixant un ion sulfate sous l'action d'une sulfotransférase ; exemple : stéroïdes.",
+    "cours": "pharmacologie/05-metabolisme"
+  },
+  {
+    "terme": "Acétylation",
+    "definition": "Réaction de phase II catalysée par la N-acétyl-transférase ; exemple : isoniazide, dont la vitesse d'acétylation dépend du phénotype (acétyleurs lents, rapides, intermédiaires).",
+    "cours": "pharmacologie/05-metabolisme"
+  },
+  {
+    "terme": "N-transméthylation",
+    "definition": "Réaction de conjugaison de phase II catalysée par une méthyltransférase ; exemple : morphine.",
+    "cours": "pharmacologie/05-metabolisme"
+  },
+  {
+    "terme": "Conjugaison au glutathion",
+    "definition": "Réaction de phase II catalysée par la glutathion-S-transférase ; elle permet notamment la neutralisation de la NAPQI du paracétamol.",
+    "cours": "pharmacologie/05-metabolisme"
+  },
+  {
+    "terme": "Acétyleur lent / rapide",
+    "definition": "Phénotype génétique d'acétylation : les acétyleurs rapides (asiatiques) ont un taux élevé d'acétyl-transférase (augmenter la posologie), les acétyleurs lents (européens) un taux bas (diminuer la posologie).",
+    "cours": "pharmacologie/05-metabolisme"
+  },
+  {
+    "terme": "Déficit en G6PD",
+    "definition": "Déficit enzymatique en glucose-6-phosphate déshydrogénase pouvant entraîner des hémolyses favorisées par les antimalariques, l'aspirine et les sulfamides ; fréquence variable selon la race.",
+    "cours": "pharmacologie/05-metabolisme"
+  },
+  {
+    "terme": "Effet de premier passage intestinal (EPPI)",
+    "definition": "Métabolisation d'une partie du médicament au niveau intestinal lors de son premier passage, après administration orale.",
+    "cours": "pharmacologie/05-metabolisme"
+  },
+  {
+    "terme": "Effet de premier passage pulmonaire (EPPP)",
+    "definition": "Métabolisation d'une partie du médicament lors de son passage pulmonaire ; il concerne aussi les voies IV, IM et SC.",
+    "cours": "pharmacologie/05-metabolisme"
+  },
+  {
+    "terme": "Induction enzymatique",
+    "definition": "Accélération du métabolisme des médicaments par stimulation des systèmes enzymatiques par un médicament inducteur (ex. phénobarbital, rifampicine, carbamazépine).",
+    "cours": "pharmacologie/05-metabolisme"
+  },
+  {
+    "terme": "Inhibition enzymatique",
+    "definition": "Ralentissement du métabolisme des médicaments par inhibition des systèmes enzymatiques par un médicament inhibiteur (ex. cimétidine, macrolides, antifongiques azolés) ; augmente concentration et demi-vie plasmatiques.",
+    "cours": "pharmacologie/05-metabolisme"
+  },
+  {
+    "terme": "Inducteur enzymatique",
+    "definition": "Substance ou médicament augmentant l'activité des enzymes de biotransformation ; exemple du cours : phénobarbital (anticonvulsivant).",
+    "cours": "pharmacologie/05-metabolisme"
+  },
+  {
+    "terme": "Inhibiteur enzymatique",
+    "definition": "Substance ou médicament diminuant l'activité des enzymes de biotransformation ; exemple du cours : cimétidine (antihistaminique H2).",
+    "cours": "pharmacologie/05-metabolisme"
+  },
+  {
+    "terme": "Interaction médicamenteuse (IAM)",
+    "definition": "Modification du métabolisme hépatique d'un médicament par un autre médicament administré simultanément, entraînant une augmentation ou une diminution d'activité.",
+    "cours": "pharmacologie/05-metabolisme"
+  },
+  {
+    "terme": "Rhabdomyolyse",
+    "definition": "Complication redoutée lorsque le taux plasmatique des statines est augmenté par un inhibiteur du CYP3A4 (kétoconazole, itraconazole, érythromycine, diltiazem, pamplemousse).",
+    "cours": "pharmacologie/05-metabolisme"
+  },
+  {
+    "terme": "Suivi thérapeutique",
+    "definition": "Mesure des concentrations plasmatiques (Cp) permettant d'adapter la posologie lorsque le métabolisme est sujet à des variations.",
+    "cours": "pharmacologie/05-metabolisme"
+  },
+  {
+    "terme": "Élimination",
+    "definition": "Ensemble des processus par lesquels le PA disparaît de l'organisme, sous forme inchangée, de métabolites ou des deux.",
+    "cours": "pharmacologie/06-elimination"
+  },
+  {
+    "terme": "Néphron",
+    "definition": "Unité fonctionnelle du rein, siège de la filtration glomérulaire, de la sécrétion et de la réabsorption tubulaires.",
+    "cours": "pharmacologie/06-elimination"
+  },
+  {
+    "terme": "Filtration glomérulaire",
+    "definition": "Passage passif de la fraction libre des médicaments de PM < 68 000 Da à travers le glomérule.",
+    "cours": "pharmacologie/06-elimination"
+  },
+  {
+    "terme": "Sécrétion tubulaire",
+    "definition": "Transport actif (transporteurs sélectifs, saturation, compétition) des substances du liquide péritubulaire vers le liquide tubulaire, au TCP, concernant la fraction hydrosoluble ionisée.",
+    "cours": "pharmacologie/06-elimination"
+  },
+  {
+    "terme": "Réabsorption tubulaire",
+    "definition": "Passage d'une molécule de la lumière tubulaire du néphron vers le sang, par mécanisme actif (TCP) ou passif (TCD et tube collecteur).",
+    "cours": "pharmacologie/06-elimination"
+  },
+  {
+    "terme": "TCP (tube contourné proximal)",
+    "definition": "Segment du néphron siège de la sécrétion tubulaire et de la réabsorption active.",
+    "cours": "pharmacologie/06-elimination"
+  },
+  {
+    "terme": "TCD (tube contourné distal)",
+    "definition": "Segment du néphron siège, avec le tube collecteur, de la réabsorption passive.",
+    "cours": "pharmacologie/06-elimination"
+  },
+  {
+    "terme": "Probénécide",
+    "definition": "Médicament qui retarde l'élimination de la pénicilline G par compétition au niveau de la sécrétion tubulaire.",
+    "cours": "pharmacologie/06-elimination"
+  },
+  {
+    "terme": "α-méthyldopa",
+    "definition": "Médicament de structure proche des acides aminés, réabsorbé activement au niveau du TCP.",
+    "cours": "pharmacologie/06-elimination"
+  },
+  {
+    "terme": "Élimination biliaire",
+    "definition": "Excrétion du médicament par la bile dans l'intestin puis élimination définitive dans les fèces ; favorisée par PM > 300 D, grande polarité, fractions ionisables.",
+    "cours": "pharmacologie/06-elimination"
+  },
+  {
+    "terme": "Ictère médicamenteux",
+    "definition": "Complication liée à la compétition entre l'excrétion biliaire active d'un médicament et le transport actif de la bilirubine.",
+    "cours": "pharmacologie/06-elimination"
+  },
+  {
+    "terme": "Glucuronide",
+    "definition": "Dérivé conjugué d'un médicament ; excrété dans les urines si PM < 300 Da et dans la bile si PM > 300 Da.",
+    "cours": "pharmacologie/06-elimination"
+  },
+  {
+    "terme": "Cycle entéro-hépatique",
+    "definition": "Excrétion biliaire de glucuronides, déconjugaison par les bactéries du côlon puis réabsorption des dérivés liposolubles ; augmente le Vd et la durée de séjour du PA.",
+    "cours": "pharmacologie/06-elimination"
+  },
+  {
+    "terme": "Cholestyramine",
+    "definition": "Résine échangeuse d'ions qui fixe certains PA dans l'intestin et met fin au cycle entéro-hépatique.",
+    "cours": "pharmacologie/06-elimination"
+  },
+  {
+    "terme": "Élimination pulmonaire",
+    "definition": "Élimination des produits volatils dans l'air expiré (anesthésiques généraux comme l'halotane, eucalyptol).",
+    "cours": "pharmacologie/06-elimination"
+  },
+  {
+    "terme": "Élimination lactée",
+    "definition": "Voie accessoire d'élimination chez la femme ; en général moins de 1 % de la dose en 24 h, pouvant constituer un danger pour le nouveau-né.",
+    "cours": "pharmacologie/06-elimination"
+  },
+  {
+    "terme": "Élimination sudorale",
+    "definition": "Voie accessoire d'élimination de substances à l'état de traces (I, Br, éthanol, acide salicylique, sulfamides).",
+    "cours": "pharmacologie/06-elimination"
+  },
+  {
+    "terme": "Élimination lacrymale",
+    "definition": "Voie très accessoire d'élimination de substances en très petites quantités (I, Br, atropine, rifampicine, sulfamides).",
+    "cours": "pharmacologie/06-elimination"
+  },
+  {
+    "terme": "Demi-vie d'élimination",
+    "definition": "Temps nécessaire pour éliminer la moitié de la quantité de PA de l'organisme ; s'exprime en unité de temps.",
+    "cours": "pharmacologie/06-elimination"
+  },
+  {
+    "terme": "Clairance",
+    "definition": "Volume de liquide complètement épuré du PA dans un temps donné ; s'applique à tous les organes d'élimination.",
+    "cours": "pharmacologie/06-elimination"
+  },
+  {
+    "terme": "Clairance totale",
+    "definition": "Somme des clairances partielles (rénale, hépatique, pulmonaire, intestinale).",
+    "cours": "pharmacologie/06-elimination"
+  },
+  {
+    "terme": "Anticholinergiques",
+    "definition": "Médicaments qui inhibent la sécrétion salivaire et perturbent l'élimination des substances par cette voie.",
+    "cours": "pharmacologie/06-elimination"
+  }
+]

@@ -1,0 +1,58 @@
+{
+  "id": "semiologie/01-semiologie-generale/fiche",
+  "titre": "Sémiologie générale : signes et critères de gravité",
+  "sections": [
+    {
+      "titre": "Définitions",
+      "points": [
+        "**Sémiologie** : étude des signes traduisant une lésion ou un trouble d'une fonction.",
+        "**Signe** (signum) ; **symptôme** = subjectif ; **prodrome** = avant-coureur ; **syndrome** = groupe de signes, causes multiples (sundromê) ; **clinique** = au lit du malade, sans appareil (klinikos).",
+        "4 objectifs : identifier, interpréter, poser un diagnostic, suivre l'évolution."
+      ]
+    },
+    {
+      "titre": "Trois familles de signes",
+      "points": [
+        "**Fonctionnels** : exprimés par le patient, subjectifs (douleur, dyspnée, palpitations, prurit).",
+        "**Physiques** : constatés par le médecin, objectifs (œdème, gros foie, souffle, matité).",
+        "**Généraux** : retentissement sur l'organisme (fièvre, fatigue, perte d'appétit, amaigrissement)."
+      ]
+    },
+    {
+      "titre": "Interrogatoire",
+      "points": [
+        "Double but : relation de confiance + renseignements utiles.",
+        "Rubriques : histoire de la maladie, antécédents personnels, familiaux, médicaments et habitudes.",
+        "Beaucoup de symptômes sont des effets indésirables (toux sous IEC, saignement sous AINS/anticoagulant).",
+        "Fièvre > 38 °C ; **AEG = asthénie + anorexie + amaigrissement** ; AEG + fièvre = altération fébrile."
+      ]
+    },
+    {
+      "titre": "Examen physique",
+      "points": [
+        "Inspection (vue), palpation (toucher), percussion (toucher + ouïe), auscultation (ouïe).",
+        "Matité = son sourd = liquide/organe plein ; tympanisme = son creux = air.",
+        "Examens complémentaires après la clinique ; sans hypothèse, souvent inutiles."
+      ]
+    },
+    {
+      "titre": "Critères de gravité",
+      "points": [
+        "Urgence : détresse respiratoire, circulatoire, douleur thoracique en serrement durable, signes neurologiques, saignements, allergie grave.",
+        "Consultation : AEG, fièvre > 3 j ou terrain fragile, toux > 2–3 semaines, symptôme persistant, femme enceinte/nourrisson/sujet âgé, effet indésirable possible."
+      ]
+    }
+  ],
+  "aRetenir": [
+    "Le pharmacien repère, oriente et explique ; il ne pose pas le diagnostic.",
+    "En cas de doute, toujours orienter vers un médecin.",
+    "Une AEG impose toujours une orientation médicale."
+  ],
+  "pieges": [
+    "Matité = liquide (et non air) ; tympanisme = air.",
+    "Le syndrome peut avoir PLUSIEURS causes.",
+    "La clinique se fait SANS appareil ni laboratoire.",
+    "La colique néphrétique est classée dans l'appareil urinaire, pas digestif.",
+    "Arthralgies = douleurs articulaires (et non musculaires)."
+  ]
+}

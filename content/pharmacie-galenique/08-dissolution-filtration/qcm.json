@@ -1,0 +1,1521 @@
+[
+  {
+    "id": "pharmacie-galenique/08-dissolution-filtration/qcm-001",
+    "type": "multiple",
+    "enonce": "Concernant la dissolution :",
+    "options": [
+      "C'est la division à l'état moléculaire d'une substance solide, liquide ou gazeuse dans un liquide",
+      "Elle conduit à une préparation homogène appelée solution ou soluté",
+      "Elle peut concerner un gaz",
+      "Elle conduit à une dispersion hétérogène de particules solides",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "La dissolution est la division à l'état moléculaire d'un solide, liquide ou gaz dans un liquide, donnant une préparation homogène (solution ou soluté). Elle ne donne pas une dispersion hétérogène.",
+    "source": {
+      "page": 4,
+      "extrait": "Division à l'état moléculaire d'une substance (solide, liquide, gaz) dans un liquide."
+    },
+    "difficulte": 1,
+    "tags": [
+      "définition"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/08-dissolution-filtration/qcm-002",
+    "type": "multiple",
+    "enonce": "Le soluté médicamenteux est :",
+    "options": [
+      "Une préparation liquide homogène et limpide",
+      "Obtenu par dissolution d'une ou de plusieurs substances médicamenteuses",
+      "Préparé dans un solvant approprié",
+      "Une préparation obligatoirement trouble",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Le soluté médicamenteux est une préparation liquide homogène et limpide obtenue par dissolution d'une ou plusieurs substances médicamenteuses dans un solvant approprié.",
+    "source": {
+      "page": 5,
+      "extrait": "Préparation liquide homogène et limpide obtenue par dissolution d'une ou de plusieurs substances médicamenteuses dans un solvant approprié."
+    },
+    "difficulte": 1,
+    "tags": [
+      "soluté médicamenteux"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/08-dissolution-filtration/qcm-003",
+    "type": "multiple",
+    "enonce": "Concernant les solvants et les applications des solutés :",
+    "options": [
+      "Les solvants utilisés sont l'eau, les mélanges hydroalcooliques ou les solvants organiques",
+      "Le solvant est choisi selon le soluté",
+      "Les solutés aqueux peuvent être administrés par toutes les voies",
+      "Les solutés non aqueux peuvent être administrés par toutes les voies, y compris la voie IV",
+      "Les solutés offrent une biodisponibilité rapide"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explication": "Les solutés aqueux conviennent à toutes les voies alors que pour les solutés non aqueux certaines voies sont exclues (ex : IV). Les solutés permettent de nombreuses voies et une biodisponibilité rapide.",
+    "source": {
+      "page": 5,
+      "extrait": "Solutés aqueux (toutes les voies) Solutés non aqueux (certaines voies exclues ex : IV)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "solvants",
+      "applications"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/08-dissolution-filtration/qcm-004",
+    "type": "unique",
+    "enonce": "Un soluté non aqueux est exclu, d'après le cours, de la voie :",
+    "options": [
+      "Intraveineuse",
+      "Orale",
+      "Cutanée",
+      "Toutes les voies",
+      "Aucune voie"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Pour les solutés non aqueux, certaines voies sont exclues, l'exemple cité étant la voie IV.",
+    "source": {
+      "page": 5,
+      "extrait": "Solutés non aqueux (certaines voies exclues ex : IV)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "applications"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/08-dissolution-filtration/qcm-005",
+    "type": "multiple",
+    "enonce": "On distingue deux types de dissolution :",
+    "options": [
+      "La dissolution simple ou complète, qui est totale (pas de résidu)",
+      "La dissolution extractive ou partielle, incomplète, qui laisse un résidu",
+      "La dissolution simple laisse toujours un résidu",
+      "La dissolution extractive est totale",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "La dissolution simple (complète) est totale, sans résidu ; la dissolution extractive (partielle) est incomplète et laisse un résidu.",
+    "source": {
+      "page": 6,
+      "extrait": "Simple ou complète : dissolution totale (pas de résidus) ; Extractive ou partielle : dissolution incomplète qui laisse un résidu"
+    },
+    "difficulte": 1,
+    "tags": [
+      "types de dissolution"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/08-dissolution-filtration/qcm-006",
+    "type": "multiple",
+    "enonce": "Concernant la solubilité :",
+    "options": [
+      "Elle correspond au volume de solvant nécessaire pour dissoudre une quantité donnée de soluté dans des conditions fixées",
+      "Elle n'est jamais un paramètre isolé",
+      "Elle dépend de la nature du solvant, de l'ionisation et de la polarité",
+      "Elle dépend de l'état physique, de la température, du pH et des adjuvants",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes les propositions reprennent le cours : définition de la solubilité, paramètre jamais isolé, influencé par la nature du solvant, l'ionisation/polarité, l'état physique, la température, le pH et les adjuvants.",
+    "source": {
+      "page": 8,
+      "extrait": "La solubilité n'est jamais un paramètre isolé."
+    },
+    "difficulte": 1,
+    "tags": [
+      "solubilité"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/08-dissolution-filtration/qcm-007",
+    "type": "multiple",
+    "enonce": "Concernant l'influence de la nature du solvant sur la solubilité :",
+    "options": [
+      "Une substance qui peut se dissocier en ions se dissout plus facilement dans un solvant polaire tel que l'eau",
+      "Une substance peu polaire se dissout mieux dans un solvant peu polaire",
+      "L'acétone et l'alcool anhydre sont cités comme solvants peu polaires",
+      "Une substance ionisable se dissout mieux dans l'alcool anhydre que dans l'eau",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Les substances dissociables en ions se dissolvent mieux dans un solvant polaire (eau) ; les substances peu polaires dans un solvant peu polaire (acétone, alcool anhydre).",
+    "source": {
+      "page": 9,
+      "extrait": "Une substance peu polaire se dissoudra mieux dans un solvant peu polaire (acétone, alcool anhydre)."
+    },
+    "difficulte": 1,
+    "tags": [
+      "nature du solvant"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/08-dissolution-filtration/qcm-008",
+    "type": "multiple",
+    "enonce": "Concernant la solubilité par ionisation :",
+    "options": [
+      "Elle correspond à une dissociation en ions",
+      "Les sels minéraux en sont un exemple",
+      "La forte constante diélectrique de l'eau permet d'annuler les forces électrostatiques rassemblant les ions en réseaux",
+      "Elle s'effectue par affinité entre groupements fonctionnels",
+      "La faible constante diélectrique de l'eau favorise la libération des ions"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "La solubilité par ionisation (ex : sels minéraux) repose sur la FORTE constante diélectrique de l'eau. L'affinité entre groupements fonctionnels définit la solubilité par polarité.",
+    "source": {
+      "page": 10,
+      "extrait": "La forte constante diélectrique de l'eau permet d'annuler les forces électrostatiques rassemblant les ions en réseaux"
+    },
+    "difficulte": 2,
+    "tags": [
+      "structure chimique",
+      "ionisation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/08-dissolution-filtration/qcm-009",
+    "type": "multiple",
+    "enonce": "Concernant la solubilité par polarité :",
+    "options": [
+      "Elle s'effectue par affinité entre groupements fonctionnels",
+      "Les substances riches en groupements hydrophiles se dissolvent surtout dans les solvants polaires",
+      "Les substances hydrophobes se dissolvent surtout dans les solvants apolaires",
+      "Les substances hydrophobes se dissolvent surtout dans les solvants polaires",
+      "Elle correspond à une dissociation en ions"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "La solubilité par polarité repose sur l'affinité entre groupements fonctionnels : hydrophiles → solvants polaires ; hydrophobes → solvants apolaires.",
+    "source": {
+      "page": 10,
+      "extrait": "Les substances riches en groupements hydrophiles se dissolvent surtout dans les solvants polaires et les substances hydrophobes dans les solvants apolaires."
+    },
+    "difficulte": 1,
+    "tags": [
+      "structure chimique",
+      "polarité"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/08-dissolution-filtration/qcm-010",
+    "type": "multiple",
+    "enonce": "Concernant l'influence de l'état physique du soluté :",
+    "options": [
+      "La forme amorphe (non organisée) est plus soluble que la forme cristalline",
+      "La forme cristalline (organisée) est plus soluble que la forme amorphe",
+      "Pour un produit polymorphe, la forme la moins soluble est la plus stable chimiquement",
+      "Pour un produit polymorphe, la forme la plus soluble est la plus stable chimiquement",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      2
+    ],
+    "explication": "La forme amorphe est plus soluble que la forme cristalline ; pour un polymorphe, c'est la forme la MOINS soluble qui est la plus stable chimiquement.",
+    "source": {
+      "page": 11,
+      "extrait": "Pour un produit polymorphe c'est la forme la moins soluble qui est la plus stable chimiquement."
+    },
+    "difficulte": 2,
+    "tags": [
+      "état physique",
+      "polymorphisme"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/08-dissolution-filtration/qcm-011",
+    "type": "multiple",
+    "enonce": "Concernant l'influence de la température sur la solubilité :",
+    "options": [
+      "Dans la plupart des cas, la solubilité d'un solide ou d'un liquide dans un liquide augmente avec la température",
+      "La méthylcellulose et le citrate de calcium font exception",
+      "Les gaz sont plus solubles à froid",
+      "L'élévation de température est contre-indiquée pour les produits thermolabiles ou volatils",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes les propositions sont dans le cours : la solubilité augmente généralement avec la température sauf méthylcellulose, citrate de calcium, dissolution exothermique et gaz (plus solubles à froid) ; le chauffage est contre-indiqué pour les produits thermolabiles ou volatils.",
+    "source": {
+      "page": 12,
+      "extrait": "Gaz plus soluble à froid ; L'élévation de la T° est contre indiquée pour les produits thermolabiles ou volatils."
+    },
+    "difficulte": 2,
+    "tags": [
+      "température"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/08-dissolution-filtration/qcm-012",
+    "type": "multiple",
+    "enonce": "Parmi les cas suivants, lesquels constituent des exceptions à l'augmentation de la solubilité avec la température ?",
+    "options": [
+      "La méthylcellulose",
+      "Le citrate de calcium",
+      "Une dissolution exothermique",
+      "Les gaz",
+      "Le salicylate de sodium"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Le cours cite comme exceptions la méthylcellulose, le citrate de calcium, la dissolution exothermique et les gaz (plus solubles à froid). Le salicylate de sodium est cité comme adjuvant favorisant la dissolution de la caféine.",
+    "source": {
+      "page": 12,
+      "extrait": "La méthylcellulose, citrate de calcium... Dissolution exothermique. Gaz plus soluble à froid"
+    },
+    "difficulte": 2,
+    "tags": [
+      "température"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/08-dissolution-filtration/qcm-013",
+    "type": "multiple",
+    "enonce": "Concernant l'influence du pH sur la solubilité :",
+    "options": [
+      "Le pH intervient dans la solubilité par ionisation",
+      "Pour un acide faible, l'augmentation du pH favorise l'ionisation",
+      "Pour une base faible, la diminution du pH favorise l'ionisation",
+      "Pour un acide faible, la diminution du pH favorise l'ionisation",
+      "Pour une base faible, l'augmentation du pH favorise l'ionisation"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Acide faible : ↑pH → ionisation ; base faible : ↓pH → ionisation. d et e inversent ces relations.",
+    "source": {
+      "page": 13,
+      "extrait": "Acide faible l'augmentation du PH favorise l'ionisation • Base faible la diminution du PH favorise l'ionisation"
+    },
+    "difficulte": 2,
+    "tags": [
+      "pH"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/08-dissolution-filtration/qcm-014",
+    "type": "unique",
+    "enonce": "Pour favoriser l'ionisation (et donc la dissolution) d'un principe actif base faible, il faut :",
+    "options": [
+      "Diminuer le pH",
+      "Augmenter le pH",
+      "Augmenter la viscosité",
+      "Diminuer la température",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Pour une base faible, c'est la diminution du pH qui favorise l'ionisation.",
+    "source": {
+      "page": 13,
+      "extrait": "Base faible la diminution du PH favorise l'ionisation"
+    },
+    "difficulte": 2,
+    "tags": [
+      "pH"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/08-dissolution-filtration/qcm-015",
+    "type": "multiple",
+    "enonce": "Concernant l'influence des adjuvants sur la solubilité :",
+    "options": [
+      "Le salicylate de sodium et le benzoate de sodium facilitent la dissolution de la caféine",
+      "Les cyclodextrines permettent de solubiliser des substances hydrophobes par inclusion",
+      "Le sucre diminue la solubilité de l'éther dans l'eau",
+      "Les adjuvants ne peuvent qu'augmenter la solubilité",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Certains adjuvants favorisent la dissolution (salicylate et benzoate de sodium pour la caféine, cyclodextrines par inclusion), d'autres la diminuent (sucre vis-à-vis de l'éther). d est donc fausse.",
+    "source": {
+      "page": 14,
+      "extrait": "le salicylate de sodium et le benzoate de sodium facilitent la dissolution de la caféine."
+    },
+    "difficulte": 2,
+    "tags": [
+      "adjuvants"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/08-dissolution-filtration/qcm-016",
+    "type": "unique",
+    "enonce": "Les cyclodextrines solubilisent les substances hydrophobes par :",
+    "options": [
+      "Inclusion",
+      "Ionisation",
+      "Hydrolyse",
+      "Chauffage",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Les cyclodextrines permettent de solubiliser des substances hydrophobes par inclusion.",
+    "source": {
+      "page": 14,
+      "extrait": "Les cyclodextrines permettent de solubiliser des substances hydrophobes par inclusion"
+    },
+    "difficulte": 1,
+    "tags": [
+      "adjuvants",
+      "cyclodextrines"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/08-dissolution-filtration/qcm-017",
+    "type": "multiple",
+    "enonce": "Dans l'équation de la vitesse de dissolution dC/dt = K·S·(Cs − Ct) avec K = D/hV :",
+    "options": [
+      "V est le volume du liquide",
+      "D est le coefficient de diffusion, proportionnel à la température",
+      "D est inversement proportionnel à la viscosité",
+      "h est l'épaisseur de la couche de diffusion, fonction de l'agitation",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes les définitions sont celles du cours : V volume du liquide, D coefficient de diffusion (∝ température, inversement ∝ viscosité), h épaisseur de la couche de diffusion dépendant de l'agitation.",
+    "source": {
+      "page": 15,
+      "extrait": "D : coefficient de diffusion proportionnel à la température et inversement proportionnel à la viscosité h : épaisseur de la couche de diffusion"
+    },
+    "difficulte": 2,
+    "tags": [
+      "vitesse de dissolution",
+      "Noyes-Whitney"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/08-dissolution-filtration/qcm-018",
+    "type": "multiple",
+    "enonce": "D'après l'équation dC/dt = K·S·(Cs − Ct), la vitesse de dissolution augmente lorsque :",
+    "options": [
+      "La surface S augmente",
+      "L'épaisseur h de la couche de diffusion diminue",
+      "La température augmente",
+      "La viscosité augmente",
+      "Le volume V du liquide augmente"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "↑S, ↓h et ↑T (↑Cs, ↑D, ↓viscosité) accélèrent la dissolution. La viscosité est défavorable ; V est au dénominateur de K donc son augmentation diminue K.",
+    "source": {
+      "page": 16,
+      "extrait": "Trois leviers de procédé qui accélèrent la vitesse de dissolution"
+    },
+    "difficulte": 2,
+    "tags": [
+      "vitesse de dissolution"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/08-dissolution-filtration/qcm-019",
+    "type": "multiple",
+    "enonce": "Le broyage et la micronisation accélèrent la dissolution car ils :",
+    "options": [
+      "Augmentent la surface spécifique disponible pour l'échange solide-liquide",
+      "Réduisent la taille moyenne des particules",
+      "Augmentent le degré de division, la vitesse de dissolution croissant avec celui-ci",
+      "Augmentent la viscosité du solvant",
+      "Augmentent l'épaisseur de la couche de diffusion"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Levier 01 : maximiser la surface S par broyage/micronisation ; la vitesse de dissolution croît avec le degré de division.",
+    "source": {
+      "page": 16,
+      "extrait": "La vitesse de dissolution croît avec le degré de division"
+    },
+    "difficulte": 1,
+    "tags": [
+      "surface",
+      "micronisation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/08-dissolution-filtration/qcm-020",
+    "type": "multiple",
+    "enonce": "L'agitation mécanique accélère la dissolution car elle :",
+    "options": [
+      "Renouvelle la couche de fluide stagnant entourant la particule",
+      "Réduit l'épaisseur h de la couche limite",
+      "Augmente le coefficient global K = D/hV",
+      "Augmente la solubilité à saturation Cs",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Levier 02 : l'agitation réduit h en renouvelant la couche stagnante, ce qui augmente K. C'est la température qui augmente Cs.",
+    "source": {
+      "page": 16,
+      "extrait": "renouveler la couche de fluide stagnant entourant la particule. • Augmenter le coefficient global K = D/hV."
+    },
+    "difficulte": 2,
+    "tags": [
+      "agitation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/08-dissolution-filtration/qcm-021",
+    "type": "multiple",
+    "enonce": "L'augmentation de la température accélère la dissolution car elle :",
+    "options": [
+      "Augmente la solubilité à saturation (Cs)",
+      "Favorise l'agitation thermique et le coefficient D",
+      "Réduit la viscosité du solvant",
+      "Augmente l'épaisseur de la couche limite",
+      "Diminue le coefficient de diffusion D"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Levier 03 : chauffer augmente Cs, favorise l'agitation thermique et D, et réduit la viscosité.",
+    "source": {
+      "page": 16,
+      "extrait": "Augmenter la solubilité à saturation (Cs). • Favoriser l'agitation thermique et le coefficient D. • Réduire naturellement la viscosité"
+    },
+    "difficulte": 2,
+    "tags": [
+      "température"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/08-dissolution-filtration/qcm-022",
+    "type": "multiple",
+    "enonce": "L'augmentation de la viscosité du milieu :",
+    "options": [
+      "Est un facteur défavorable à la dissolution",
+      "Freine la diffusion, D étant inversement proportionnel à la viscosité",
+      "Épaissit la couche limite stagnante h",
+      "Ralentit la vitesse globale de dissolution",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le cours présente la viscosité comme le facteur défavorable : elle freine D, épaissit h et ralentit dC/dt en créant une résistance hydrodynamique au transfert de masse.",
+    "source": {
+      "page": 17,
+      "extrait": "L'augmentation de la viscosité est un facteur défavorable"
+    },
+    "difficulte": 2,
+    "tags": [
+      "viscosité"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/08-dissolution-filtration/qcm-023",
+    "type": "unique",
+    "enonce": "Parmi les facteurs suivants, lequel est DÉFAVORABLE à la vitesse de dissolution ?",
+    "options": [
+      "L'augmentation de la viscosité",
+      "La micronisation",
+      "L'agitation mécanique",
+      "Le chauffage du milieu",
+      "L'augmentation de la surface spécifique"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Le seul facteur défavorable cité est l'augmentation de la viscosité ; les autres sont les trois leviers favorables.",
+    "source": {
+      "page": 17,
+      "extrait": "✗ FACTEUR DÉFAVORABLE Augmenter la Viscosité (η ↑)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "viscosité"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/08-dissolution-filtration/qcm-024",
+    "type": "unique",
+    "enonce": "Les étapes de la dissolution simple sont, dans l'ordre :",
+    "options": [
+      "Pesée → mélange + agitation → filtration",
+      "Filtration → pesée → mélange",
+      "Mélange → pesée → filtration",
+      "Pesée → filtration → mélange + agitation",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "La dissolution simple comprend : 1 pesée, 2 mélange + agitation, 3 filtration.",
+    "source": {
+      "page": 18,
+      "extrait": "1 Pesée 2 Mélange + agitation 3 Filtration"
+    },
+    "difficulte": 1,
+    "tags": [
+      "dissolution simple"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/08-dissolution-filtration/qcm-025",
+    "type": "multiple",
+    "enonce": "Le matériel de dissolution simple au laboratoire comprend :",
+    "options": [
+      "Mortier et pilon",
+      "Bécher et agitateur en verre",
+      "Agitateur électromagnétique",
+      "Agitateur à ultrasons",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Au laboratoire, le cours cite mortier et pilon, bécher et agitateur en verre, agitateur électromagnétique et agitateur à ultrasons.",
+    "source": {
+      "page": 18,
+      "extrait": "Mortier et pilon • Bécher et agitateur en verre • Agitateur électromagnétique • Agitateur à ultrasons"
+    },
+    "difficulte": 1,
+    "tags": [
+      "dissolution simple",
+      "matériel"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/08-dissolution-filtration/qcm-026",
+    "type": "multiple",
+    "enonce": "À l'échelle industrielle, la dissolution simple utilise :",
+    "options": [
+      "Des cuves en acier inox à double paroi permettant le chauffage",
+      "Un système d'agitation pour faciliter la dissolution",
+      "Des agitateurs à hélices, palettes, turbines ou électromagnétiques",
+      "Uniquement des mortiers de grande taille",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "En industrie : cuves inox à double paroi (chauffage) avec système d'agitation (hélices, palettes, turbines, électromagnétique).",
+    "source": {
+      "page": 18,
+      "extrait": "Cuves en acier inox à double paroi (chauffage) + Système d'agitation (faciliter la dissolution)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "dissolution simple",
+      "industrie"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/08-dissolution-filtration/qcm-027",
+    "type": "multiple",
+    "enonce": "Concernant la dissolution extractive :",
+    "options": [
+      "Elle est appliquée aux drogues d'origine végétale ou animale",
+      "Elle vise à extraire les PA grâce à un solvant approprié",
+      "Ses procédés varient surtout en fonction de la température de l'opération",
+      "Elle est toujours suivie d'une filtration",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Tout est conforme au cours : drogues végétales ou animales, extraction des PA par un solvant approprié, procédés différenciés par la température, toujours suivie d'une filtration.",
+    "source": {
+      "page": 20,
+      "extrait": "Il existe différents procédés de dissolution extractive qui varient surtout en fonction de la température"
+    },
+    "difficulte": 1,
+    "tags": [
+      "dissolution extractive"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/08-dissolution-filtration/qcm-028",
+    "type": "multiple",
+    "enonce": "Concernant la macération :",
+    "options": [
+      "La drogue est mise en contact avec l'eau potable à température ambiante",
+      "La durée est de 30 min à 4 h",
+      "Elle convient aux PA thermolabiles",
+      "Le produit obtenu est un macéré",
+      "Elle se fait à l'eau potable à ébullition"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "La macération se fait à température ambiante (30 min–4 h), pour les PA thermolabiles, et donne un macéré. L'ébullition caractérise la décoction.",
+    "source": {
+      "page": 20,
+      "extrait": "Drogue en contact avec l'eau potable 30 min–4 h T° ambiante •PA thermolabiles → macéré"
+    },
+    "difficulte": 1,
+    "tags": [
+      "macération"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/08-dissolution-filtration/qcm-029",
+    "type": "multiple",
+    "enonce": "Concernant la digestion :",
+    "options": [
+      "La drogue est en contact avec l'eau potable à une température inférieure à l'ébullition (60 °C)",
+      "La durée est de 1 h à 15 h",
+      "Elle convient aux PA se détruisant à l'ébullition",
+      "Le produit obtenu est un digesté",
+      "Elle dure 15 à 30 min à ébullition"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Digestion : eau à T° < ébullition (60 °C), 1 h à 15 h, pour les PA se détruisant à l'ébullition → digesté. 15–30 min à ébullition = décoction.",
+    "source": {
+      "page": 20,
+      "extrait": "Drogue en contact avec l'eau potable à T° < T° ébullition (60 °C) 1h à 15h"
+    },
+    "difficulte": 2,
+    "tags": [
+      "digestion"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/08-dissolution-filtration/qcm-030",
+    "type": "multiple",
+    "enonce": "Concernant la décoction :",
+    "options": [
+      "La drogue est en contact avec l'eau potable à ébullition",
+      "La durée est de 15 à 30 min",
+      "Elle est réservée aux drogues très compactes thermostables",
+      "Le produit obtenu est un décocté",
+      "Elle convient aux PA thermolabiles"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Décoction : eau à ébullition, 15–30 min, drogues très compactes thermostables → décocté. Les PA thermolabiles relèvent de la macération.",
+    "source": {
+      "page": 20,
+      "extrait": "Drogue en contact avec l'eau potable à ébullition · 15 –30 min • Drogues très compactes thermostables"
+    },
+    "difficulte": 1,
+    "tags": [
+      "décoction"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/08-dissolution-filtration/qcm-031",
+    "type": "multiple",
+    "enonce": "Concernant l'infusion :",
+    "options": [
+      "On verse sur la drogue de l'eau potable bouillante et on laisse refroidir",
+      "Elle convient aux produits à tissus délicats",
+      "Le produit obtenu est un infusé",
+      "La drogue est maintenue à ébullition pendant 15 à 30 min",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Infusion : verser l'eau bouillante sur la drogue et laisser refroidir ; produits à tissus délicats → infusé. Le maintien à ébullition est la décoction.",
+    "source": {
+      "page": 20,
+      "extrait": "verser sur la drogue de l'eau potable bouillante et laisser refroidir. • Produits à tissus délicats"
+    },
+    "difficulte": 1,
+    "tags": [
+      "infusion"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/08-dissolution-filtration/qcm-032",
+    "type": "multiple",
+    "enonce": "La percolation (ou lixiviation) :",
+    "options": [
+      "Est l'action dissolvante d'un solvant qui traverse lentement la drogue pulvérisée",
+      "Se fait de haut en bas",
+      "Se fait à froid",
+      "Se fait dans un percolateur ou lixiviateur et donne un percolat",
+      "Se fait de bas en haut à chaud"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "La percolation : solvant traversant lentement, de haut en bas, à froid, la drogue pulvérisée dans un percolateur (lixiviateur) → percolat.",
+    "source": {
+      "page": 20,
+      "extrait": "Action dissolvante d'un solvant qui traverse lentement, de haut en bas, à froid, la drogue pulvérisée"
+    },
+    "difficulte": 1,
+    "tags": [
+      "percolation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/08-dissolution-filtration/qcm-033",
+    "type": "unique",
+    "enonce": "Le procédé de dissolution extractive adapté à une drogue très compacte et thermostable est :",
+    "options": [
+      "La décoction",
+      "La macération",
+      "L'infusion",
+      "La digestion",
+      "La percolation"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "La décoction (eau à ébullition, 15–30 min) est indiquée pour les drogues très compactes thermostables.",
+    "source": {
+      "page": 20,
+      "extrait": "Drogues très compactes thermostables → décocté"
+    },
+    "difficulte": 1,
+    "tags": [
+      "décoction"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/08-dissolution-filtration/qcm-034",
+    "type": "unique",
+    "enonce": "Pour un PA thermolabile, le procédé de dissolution extractive à l'eau indiqué est :",
+    "options": [
+      "La macération",
+      "La décoction",
+      "La digestion à 60 °C",
+      "L'infusion à l'eau bouillante",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "La macération à température ambiante est indiquée pour les PA thermolabiles.",
+    "source": {
+      "page": 20,
+      "extrait": "T° ambiante •PA thermolabiles → macéré"
+    },
+    "difficulte": 1,
+    "tags": [
+      "macération"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/08-dissolution-filtration/qcm-035",
+    "type": "multiple",
+    "enonce": "Associez correctement le procédé à son produit :",
+    "options": [
+      "Macération → macéré",
+      "Digestion → digesté",
+      "Infusion → infusé",
+      "Percolation → percolat",
+      "Décoction → infusé"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "La décoction donne un décocté, non un infusé.",
+    "source": {
+      "page": 20,
+      "extrait": "→ macéré … → digesté … → décocté … → infusé … → percolat"
+    },
+    "difficulte": 1,
+    "tags": [
+      "dissolution extractive"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/08-dissolution-filtration/qcm-036",
+    "type": "multiple",
+    "enonce": "Concernant la filtration :",
+    "options": [
+      "Elle a pour but de séparer les constituants particulaires solides d'un liquide ou d'un gaz",
+      "Elle utilise un milieu filtrant poreux",
+      "Le fluide filtré est appelé filtrat",
+      "Le solide qui reste dans le filtre peut être appelé résidu solide",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes les propositions correspondent aux généralités sur la filtration.",
+    "source": {
+      "page": 22,
+      "extrait": "La filtration est une opération qui a pour but de séparer les constituants particulaires solides d'un liquide ou d'un gaz"
+    },
+    "difficulte": 1,
+    "tags": [
+      "filtration",
+      "définition"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/08-dissolution-filtration/qcm-037",
+    "type": "multiple",
+    "enonce": "Selon la classification en fonction de la taille des pores :",
+    "options": [
+      "La filtration clarifiante concerne des tailles supérieures à 10 µm",
+      "La microfiltration concerne des tailles de 0,1 à 10 µm",
+      "L'ultrafiltration concerne des tailles de 0,001 à 0,1 µm",
+      "L'osmose inverse concerne des tailles inférieures à 0,001 µm",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le spectre de filtration du cours : clarifiante > 10 µm ; microfiltration 0,1–10 µm ; ultrafiltration 0,001–0,1 µm ; osmose inverse < 0,001 µm.",
+    "source": {
+      "page": 23,
+      "extrait": "Filtration clarifiante (> 10 µm) Microfiltration (0.1 - 10 µm) Ultrafiltration (0.001 - 0.1 µm) Osmose Inverse (< 0.001 µm)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "classification",
+      "taille des pores"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/08-dissolution-filtration/qcm-038",
+    "type": "unique",
+    "enonce": "La valeur de 0,22 µm, mise en évidence sur le spectre de filtration, se situe dans le domaine de :",
+    "options": [
+      "La microfiltration",
+      "La filtration clarifiante",
+      "L'ultrafiltration",
+      "L'osmose inverse",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "0,22 µm se trouve dans l'intervalle 0,1–10 µm, c'est-à-dire la microfiltration (domaine représenté avec les bactéries).",
+    "source": {
+      "page": 23,
+      "extrait": "Microfiltration (0.1 - 10 µm) … 0.22 µm"
+    },
+    "difficulte": 2,
+    "tags": [
+      "taille des pores",
+      "microfiltration"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/08-dissolution-filtration/qcm-039",
+    "type": "multiple",
+    "enonce": "Concernant la filtration frontale :",
+    "options": [
+      "Le fluide est poussé perpendiculairement au filtre",
+      "Les particules s'accumulent rapidement en formant un « gâteau de filtration »",
+      "Le risque de colmatage est élevé",
+      "Elle est utilisée pour les petits volumes et la clarification d'étape",
+      "Le fluide circule parallèlement à la membrane"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Filtration frontale : flux perpendiculaire, formation rapide d'un gâteau, risque de colmatage élevé, petits volumes. Le flux parallèle caractérise la filtration tangentielle.",
+    "source": {
+      "page": 24,
+      "extrait": "Contrainte : Accumulation rapide des particules formant un 'gâteau de filtration'. Risque de colmatage élevé."
+    },
+    "difficulte": 2,
+    "tags": [
+      "filtration frontale"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/08-dissolution-filtration/qcm-040",
+    "type": "multiple",
+    "enonce": "Concernant la filtration tangentielle :",
+    "options": [
+      "Le fluide circule parallèlement à la membrane",
+      "Seule une fraction du fluide traverse grâce au gradient de pression transmembranaire",
+      "Le balayage continu de la surface empêche la formation du gâteau",
+      "Elle est utilisée dans les processus industriels continus et pour les grands volumes",
+      "Elle présente un risque de colmatage plus élevé que la filtration frontale"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "La filtration tangentielle (flux parallèle) empêche la formation du gâteau par balayage continu ; elle sert aux grands volumes industriels. Le risque élevé de colmatage est une contrainte de la filtration frontale.",
+    "source": {
+      "page": 24,
+      "extrait": "Avantage : Balayage continu de la surface empêchant la formation du gâteau."
+    },
+    "difficulte": 2,
+    "tags": [
+      "filtration tangentielle"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/08-dissolution-filtration/qcm-041",
+    "type": "multiple",
+    "enonce": "En fonction du gradient de pression, on distingue :",
+    "options": [
+      "La filtration par gravité",
+      "La filtration sous pression",
+      "La filtration sous vide",
+      "La filtration tangentielle",
+      "La filtration clarifiante"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Classification selon le gradient de pression : gravité, pression, vide. Tangentielle relève du mode de passage, clarifiante de la taille des pores.",
+    "source": {
+      "page": 25,
+      "extrait": "Filtration par gravité Filtration sous pression Filtration sous vide"
+    },
+    "difficulte": 1,
+    "tags": [
+      "classification",
+      "gradient de pression"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/08-dissolution-filtration/qcm-042",
+    "type": "multiple",
+    "enonce": "Concernant la rétention par criblage :",
+    "options": [
+      "C'est un effet de surface",
+      "Elle correspond à l'arrêt mécanique des particules dont le diamètre est strictement supérieur à la taille du pore",
+      "Elle caractérise les membranes absolues",
+      "Elle repose sur le piégeage des particules dans l'épaisseur du matériau",
+      "Elle retient des particules plus petites que les pores par adsorption"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Le criblage (effet de surface) arrête mécaniquement les particules plus grandes que le pore, à la surface ; il caractérise les membranes absolues. d et e décrivent la rétention en profondeur.",
+    "source": {
+      "page": 26,
+      "extrait": "Arrêt mécanique des particules dont le diamètre est strictement supérieur à la taille du pore."
+    },
+    "difficulte": 2,
+    "tags": [
+      "mécanismes",
+      "criblage"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/08-dissolution-filtration/qcm-043",
+    "type": "multiple",
+    "enonce": "Concernant la rétention par profondeur et adsorption :",
+    "options": [
+      "C'est un effet de volume",
+      "Les particules sont piégées dans l'épaisseur du matériau via un trajet tortueux",
+      "Elle fait intervenir l'adsorption électrostatique et les forces de Van der Waals",
+      "Elle permet la rétention de particules plus petites que les pores",
+      "Elle offre une grande capacité de rétention avant colmatage"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Toutes les propositions décrivent la rétention en profondeur (effet de volume) telle que présentée dans le cours.",
+    "source": {
+      "page": 26,
+      "extrait": "Adsorption électrostatique et forces de Van der Waals (rétention de particules plus petites que les pores)."
+    },
+    "difficulte": 2,
+    "tags": [
+      "mécanismes",
+      "profondeur"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/08-dissolution-filtration/qcm-044",
+    "type": "unique",
+    "enonce": "Le mécanisme de rétention qui caractérise les membranes absolues est :",
+    "options": [
+      "Le criblage (effet de surface)",
+      "La rétention en profondeur (effet de volume)",
+      "L'adsorption électrostatique",
+      "Les forces de Van der Waals",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Le criblage se déroule à la surface du filtre et caractérise les membranes absolues.",
+    "source": {
+      "page": 26,
+      "extrait": "Se déroule à la surface du filtre. Caractérise les membranes absolues."
+    },
+    "difficulte": 2,
+    "tags": [
+      "criblage"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/08-dissolution-filtration/qcm-045",
+    "type": "multiple",
+    "enonce": "Les filtres non rigides peuvent être à base de :",
+    "options": [
+      "Fibres de cellulose",
+      "Fibres de laine",
+      "Fibres métalliques",
+      "Fibres de matières plastiques ou membranes organiques",
+      "Verre fritté"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Les filtres non rigides, de nature très variée, comprennent fibres de cellulose, laine, métalliques, plastiques et membranes organiques. Le verre fritté est un filtre rigide.",
+    "source": {
+      "page": 28,
+      "extrait": "peuvent être à base de fibres de cellulose, fibres de laine, fibres métalliques, Fibres de matières plastiques, Membranes organiques."
+    },
+    "difficulte": 1,
+    "tags": [
+      "matériaux filtrants"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/08-dissolution-filtration/qcm-046",
+    "type": "multiple",
+    "enonce": "Les filtres rigides cités dans le cours sont :",
+    "options": [
+      "Les bougies",
+      "Les filtres en verre fritté",
+      "Les membranes organiques",
+      "Les fibres de cellulose",
+      "Les fibres de laine"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Les filtres rigides sont les bougies et les filtres en verre fritté ; les autres sont des filtres non rigides.",
+    "source": {
+      "page": 29,
+      "extrait": "Filtres rigides Bougies Filtre en verre fritté"
+    },
+    "difficulte": 1,
+    "tags": [
+      "matériaux filtrants"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/08-dissolution-filtration/qcm-047",
+    "type": "multiple",
+    "enonce": "Concernant les adjuvants de la filtration :",
+    "options": [
+      "Les poudres filtrantes forment une couche poreuse surmontant le filtre pour éviter le colmatage",
+      "Le charbon et le kaolin sont des exemples de poudres filtrantes",
+      "Les préfiltres arrêtent les grosses particules et retardent le colmatage",
+      "Les poudres filtrantes retiennent par adsorption des impuretés diverses",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Poudres filtrantes (charbon, kaolin) : couche poreuse évitant le colmatage, facilitant le dépôt et retenant par adsorption ; préfiltres : arrêtent les grosses particules et retardent le colmatage.",
+    "source": {
+      "page": 30,
+      "extrait": "arrête les grosses particules et donc retarde le colmatage des filtres."
+    },
+    "difficulte": 2,
+    "tags": [
+      "adjuvants de filtration"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/08-dissolution-filtration/qcm-048",
+    "type": "multiple",
+    "enonce": "Concernant la conduite de la filtration au laboratoire :",
+    "options": [
+      "Dans la filtration par gravité, le liquide s'écoule librement à travers le filtre",
+      "La filtration sous vide est beaucoup plus rapide que la filtration par gravité",
+      "Dans la filtration sous vide, c'est la pression atmosphérique qui force le liquide à traverser le filtre",
+      "La filtration sous vide est plus lente que la filtration par gravité",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Gravité : écoulement libre ; sous vide : beaucoup plus rapide, la pression atmosphérique force le liquide à travers le filtre.",
+    "source": {
+      "page": 32,
+      "extrait": "beaucoup plus rapide que la filtration par gravité, la pression atmosphérique force le liquide à traverser le filtre."
+    },
+    "difficulte": 1,
+    "tags": [
+      "conduite de la filtration"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/08-dissolution-filtration/qcm-049",
+    "type": "multiple",
+    "enonce": "Le montage de filtration sous vide au laboratoire comporte :",
+    "options": [
+      "Un filtre Büchner",
+      "Une fiole à vide",
+      "Une trompe à eau",
+      "Un filtre en papier",
+      "Un filtre-presse"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Le schéma du cours montre un filtre Büchner avec filtre en papier, joint conique, fiole à vide et trompe à eau. Le filtre-presse est un équipement industriel.",
+    "source": {
+      "page": 25,
+      "extrait": "filtre en papier, filtre Büchner, joint conique, fiole à vide, trompe à eau"
+    },
+    "difficulte": 2,
+    "tags": [
+      "filtration sous vide"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/08-dissolution-filtration/qcm-050",
+    "type": "multiple",
+    "enonce": "À l'échelle industrielle, la filtration peut être conduite à l'aide de :",
+    "options": [
+      "Filtres presses",
+      "Filtres rotatifs",
+      "Entonnoirs à filtration par gravité uniquement",
+      "Mortiers",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Le cours cite les filtres presses et les filtres rotatifs à l'échelle industrielle.",
+    "source": {
+      "page": 33,
+      "extrait": "6.2. A l'échelle industrielle Filtres presses … Filtres rotatifs"
+    },
+    "difficulte": 1,
+    "tags": [
+      "industrie"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/08-dissolution-filtration/qcm-051",
+    "type": "multiple",
+    "enonce": "Concernant les contrôles de la filtration :",
+    "options": [
+      "Avant : test du point de bulle (intégrité du filtre)",
+      "Pendant : mesure du débit et de la pression",
+      "Après : nouveau point de bulle et examen du filtrat",
+      "Après : dosage du PA pour vérifier sa non-adsorption par le filtre",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Avant : point de bulle ; pendant : débit et pression ; après : nouveau point de bulle, examen du filtrat (absence de particules) et dosage du PA (non-adsorption).",
+    "source": {
+      "page": 35,
+      "extrait": "AVANT Test du point de bulle … PENDANT Mesure du Débit … APRÈS Nouveau point de bulle Examen du filtrat"
+    },
+    "difficulte": 2,
+    "tags": [
+      "contrôles"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/08-dissolution-filtration/qcm-052",
+    "type": "unique",
+    "enonce": "Le dosage du PA dans le filtrat après filtration permet de vérifier :",
+    "options": [
+      "La non-adsorption du PA par le filtre",
+      "L'intégrité du filtre avant usage",
+      "Le débit de filtration",
+      "La taille moyenne des pores",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Le dosage du PA après filtration sert à vérifier la non-adsorption du PA par le filtre.",
+    "source": {
+      "page": 35,
+      "extrait": "Dosage du PA vérification de la non adsorption du PA par le filtre"
+    },
+    "difficulte": 1,
+    "tags": [
+      "contrôles"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/08-dissolution-filtration/qcm-053",
+    "type": "multiple",
+    "enonce": "Concernant le test du point de bulle :",
+    "options": [
+      "Le filtre est placé sur une enceinte hermétiquement close où l'on fait varier la pression par arrivée d'air comprimé",
+      "Le filtre est d'abord humecté avec un liquide tel que l'eau sur toute son épaisseur",
+      "La pression de gaz est augmentée jusqu'à vaincre les forces de capillarité",
+      "La pression d'apparition des premières bulles permet de déduire le diamètre des plus larges pores",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes les étapes décrites sont conformes : enceinte close, filtre humecté, augmentation progressive de la pression jusqu'à vaincre la capillarité, la première pression donnant le diamètre des plus larges pores.",
+    "source": {
+      "page": 36,
+      "extrait": "De la première valeur de la pression, on déduit le diamètre des plus larges pores"
+    },
+    "difficulte": 2,
+    "tags": [
+      "point de bulle"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/08-dissolution-filtration/qcm-054",
+    "type": "multiple",
+    "enonce": "Dans le test du point de bulle :",
+    "options": [
+      "La pression d'apparition des premières bulles renseigne sur les plus larges pores, points faibles du réseau",
+      "Les plus larges pores conditionnent la sélectivité du filtre",
+      "La pression à laquelle les bulles apparaissent sur toute la surface donne la porosité moyenne, dont dépend le débit",
+      "Les deux valeurs de pression doivent être aussi éloignées que possible",
+      "La première pression donne directement le débit du filtre"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "La première pression → plus larges pores (sélectivité) ; la seconde → porosité moyenne (débit). Les deux valeurs doivent être aussi RAPPROCHÉES que possible.",
+    "source": {
+      "page": 36,
+      "extrait": "Les deux valeurs doivent être évidemment aussi rapprochées que possible."
+    },
+    "difficulte": 3,
+    "tags": [
+      "point de bulle"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/08-dissolution-filtration/qcm-055",
+    "type": "multiple",
+    "enonce": "Dans la relation du point de bulle d = K·4α/p :",
+    "options": [
+      "K est une constante dépendant des conditions de l'expérience",
+      "α est la tension superficielle du liquide à la température de l'expérience",
+      "Le diamètre d est inversement proportionnel à la pression p",
+      "Plus la pression d'apparition des bulles est élevée, plus le diamètre des pores est grand",
+      "d est proportionnel à la tension superficielle α"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explication": "Dans d = K·4α/p, d est proportionnel à α et inversement proportionnel à p : une pression élevée correspond à des pores plus PETITS.",
+    "source": {
+      "page": 35,
+      "extrait": "d = K 4α/p K : constante dépendant des conditions de l'expérience, α: tension superficielle du liquide"
+    },
+    "difficulte": 3,
+    "tags": [
+      "point de bulle",
+      "formule"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/08-dissolution-filtration/qcm-056",
+    "type": "unique",
+    "enonce": "Le débit de filtration se calcule par :",
+    "options": [
+      "Volume filtré / temps",
+      "Temps / volume filtré",
+      "Pression × surface",
+      "Volume filtré × temps",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Le débit Φ (ml/min) = volume filtré / temps.",
+    "source": {
+      "page": 35,
+      "extrait": "Mesure du Débit Ф ml/mn = volume filtré / temps"
+    },
+    "difficulte": 1,
+    "tags": [
+      "débit"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/08-dissolution-filtration/qcm-057",
+    "type": "multiple",
+    "enonce": "Parmi les illustrations de milieux filtrants présentées dans le cours figurent :",
+    "options": [
+      "La toile filtrante (maillage)",
+      "La membrane filtrante",
+      "La cartouche filtrante",
+      "Le filtre en profondeur",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le cours illustre la toile filtrante, la membrane filtrante, la cartouche filtrante et le filtre en profondeur.",
+    "source": {
+      "page": 27,
+      "extrait": "Toile filtrante (maillage) Membrane filtrante Cartouche filtrante Filtre en profondeur (coupe)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "mécanismes"
+    ],
+    "origine": "genere"
+  }
+]

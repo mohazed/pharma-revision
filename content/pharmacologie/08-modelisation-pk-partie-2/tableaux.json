@@ -1,0 +1,196 @@
+[
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/tab-001",
+    "titre": "Équations des modèles compartimentaux",
+    "colonnes": [
+      "Modèle",
+      "Équation",
+      "AUC0→∞",
+      "Constantes"
+    ],
+    "lignes": [
+      [
+        "Mono IV",
+        "C = C0·e^(−ke·t)",
+        "Cp0/ke",
+        "ke"
+      ],
+      [
+        "Mono oral",
+        "Cp = E·e^(−ke·t) − A·e^(−ka·t)",
+        "E/ke − A/ka",
+        "ka, ke"
+      ],
+      [
+        "Bi IV",
+        "Cp = D·e^(−kd·t) + E·e^(−ke·t)",
+        "D/kd + E/ke",
+        "kd, ke"
+      ],
+      [
+        "Bi oral",
+        "C = E·e^(−ke·t) + D·e^(−kd·t) − A·e^(−ka·t)",
+        "E/ke + D/kd − A/ka",
+        "ka, kd, ke"
+      ]
+    ]
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/tab-002",
+    "titre": "Administration répétée : formules clés",
+    "colonnes": [
+      "Situation",
+      "Paramètre",
+      "Formule"
+    ],
+    "lignes": [
+      [
+        "Perfusion",
+        "Équation",
+        "Vd × dC/dt = R0 − Cl × Cp"
+      ],
+      [
+        "Perfusion",
+        "Css",
+        "R0 / Cl"
+      ],
+      [
+        "Perfusion",
+        "Clairance",
+        "R0 / Css"
+      ],
+      [
+        "Perfusion",
+        "Montée vers le plateau",
+        "Css(1 − e^(−ke·T)) = Css[1 − (1/2)^n]"
+      ],
+      [
+        "Perfusion",
+        "Dose de charge",
+        "Vd × Css = R0/Ke"
+      ],
+      [
+        "Perfusion",
+        "Vd",
+        "T1/2 × Cl / 0,693"
+      ],
+      [
+        "Réitérée",
+        "Cmoy",
+        "F·D/(τ·Cl)"
+      ],
+      [
+        "Schéma posologique",
+        "Intervalle τ",
+        "ln(Cmax/Cmin)/ke"
+      ],
+      [
+        "Schéma posologique",
+        "DE max",
+        "(Cmax − Cmin) × Vd / F"
+      ],
+      [
+        "Schéma posologique",
+        "C̄",
+        "(Cmax − Cmin)/ln(Cmax/Cmin)"
+      ],
+      [
+        "Schéma posologique",
+        "DE",
+        "Cl × C̄ × τ / F"
+      ],
+      [
+        "Schéma posologique",
+        "Dose de charge",
+        "Cmax × Vd / F"
+      ]
+    ]
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/carte-003",
+    "type": "carte",
+    "titre": "Modélisation pharmacocinétique (partie 2)",
+    "racine": {
+      "label": "Modélisation PK – partie 2",
+      "enfants": [
+        {
+          "label": "Bicompartimental IV",
+          "enfants": [
+            {
+              "label": "Cp = D·e^(−kd·t) + E·e^(−ke·t)",
+              "enfants": []
+            },
+            {
+              "label": "Résidus D → kd",
+              "enfants": []
+            },
+            {
+              "label": "AUC = D/kd + E/ke",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Bicompartimental oral",
+          "enfants": [
+            {
+              "label": "Ka, Kd, Ke",
+              "enfants": []
+            },
+            {
+              "label": "AUC = E/ke + D/kd − A/ka",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Perfusion",
+          "enfants": [
+            {
+              "label": "Css = R0/Cl",
+              "enfants": []
+            },
+            {
+              "label": "Plateau ≈ 5 T1/2",
+              "enfants": []
+            },
+            {
+              "label": "DC = Vd·Css",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Réitérée",
+          "enfants": [
+            {
+              "label": "Cmoy = F·D/(τ·Cl)",
+              "enfants": []
+            },
+            {
+              "label": "Intervalle ≈ 1 T1/2",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Schéma posologique",
+          "enfants": [
+            {
+              "label": "τ = ln(Cmax/Cmin)/ke",
+              "enfants": []
+            },
+            {
+              "label": "DE = (Cmax − Cmin)·Vd/F",
+              "enfants": []
+            },
+            {
+              "label": "DC = Cmax·Vd/F",
+              "enfants": []
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "chimie-analytique/02-extraction-liquide-liquide/mnemo-001",
+    "titre": "Rendement de l'extraction simple",
+    "moyen": "« Alpha sur un-plus-alpha »",
+    "explication": "ρ = α/(1+α) ; la fraction restante est 1/(1+α)."
+  },
+  {
+    "id": "chimie-analytique/02-extraction-liquide-liquide/mnemo-002",
+    "titre": "Conditions de Berthelot-Jungfleisch",
+    "moyen": "« Mi-État-Temp » : Miscibilité nulle, même État, Température constante",
+    "explication": "Non miscibilité des solvants, même état physique, température constante."
+  },
+  {
+    "id": "chimie-analytique/02-extraction-liquide-liquide/mnemo-003",
+    "titre": "Raffiné / Extrait",
+    "moyen": "« A comme Appauvri, B comme Bonifié »",
+    "explication": "La phase A devient le raffiné (appauvri), la phase B l'extrait (enrichi)."
+  },
+  {
+    "id": "chimie-analytique/02-extraction-liquide-liquide/mnemo-004",
+    "titre": "Choix du solvant",
+    "moyen": "« Pouvoir, Polarité, Volatilité, Toxicité, Coût » = « 2P-VTC »",
+    "explication": "Grand pouvoir dissolvant, polarité adaptée, volatil, peu toxique, peu coûteux."
+  }
+]

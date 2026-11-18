@@ -1,0 +1,1377 @@
+[
+  {
+    "id": "pharmacie-galenique/01-generalites/qcm-001",
+    "type": "multiple",
+    "enonce": "La pharmacie galénique : Cochez la ou les proposition(s) correcte(s).",
+    "options": [
+      "Vise à obtenir des médicaments efficaces en associant des excipients adaptés",
+      "Est la science pharmaceutique qui étudie la mise en forme des principes actifs en médicaments administrables",
+      "Étudie exclusivement la synthèse chimique des principes actifs",
+      "Doit son nom à Claude Galien, médecin grec",
+      "Doit son nom à Hippocrate, considéré comme le père de la galénique"
+    ],
+    "correctes": [
+      0,
+      1,
+      3
+    ],
+    "explication": "La pharmacie galénique étudie la mise en forme des PA en médicaments administrables et efficaces, en associant des excipients adaptés. Elle ne se limite pas à la synthèse des PA. Le qualificatif « galénique » vient de Claudius Galenus (Claude Galien), médecin grec, père de la galénique ; Hippocrate n'est pas cité.",
+    "source": {
+      "page": 2,
+      "extrait": "Science pharmaceutique qui étudie la mise en forme des principes actifs (PA) en médicaments administrables et efficaces"
+    },
+    "difficulte": 1,
+    "tags": [
+      "définition"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/01-generalites/qcm-002",
+    "type": "multiple",
+    "enonce": "Claude Galien (Claudius Galenus) :",
+    "options": [
+      "Était un médecin grec",
+      "Est considéré comme le père de la galénique",
+      "Était un pharmacien romain",
+      "S'est beaucoup intéressé à la formulation du médicament",
+      "A donné son nom au qualificatif « galénique »"
+    ],
+    "correctes": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "explication": "Le qualificatif « galénique » vient du nom de Claude Galien, médecin grec qui s'est beaucoup intéressé à la formulation du médicament : père de la galénique. Il n'est pas décrit comme pharmacien romain.",
+    "source": {
+      "page": 3,
+      "extrait": "Médecin grec qui s'est beaucoup intéressé à la formulation du médicament: Père de la galénique"
+    },
+    "difficulte": 1,
+    "tags": [
+      "Galien"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/01-generalites/qcm-003",
+    "type": "multiple",
+    "enonce": "Une matière première (MP) en pharmacie :",
+    "options": [
+      "Est exclusivement d'origine synthétique",
+      "N'a pas encore subi toutes les étapes de fabrication galénique",
+      "Peut être d'origine chimique, végétale, animale, minérale ou biotechnologique",
+      "Comprend deux grandes catégories : principes actifs et excipients",
+      "Est toute substance qui entre dans la composition d'un médicament"
+    ],
+    "correctes": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "La MP est toute substance d'origine chimique, végétale, animale, minérale ou biotechnologique entrant dans la composition d'un médicament et n'ayant pas encore subi toutes les étapes de fabrication galénique. Deux grandes catégories : PA et excipients. Elle n'est pas exclusivement synthétique.",
+    "source": {
+      "page": 4,
+      "extrait": "Toute substance d'origine chimique, végétale, animale, minérale ou biotechnologique qui entre dans la composition d'un médicament"
+    },
+    "difficulte": 1,
+    "tags": [
+      "matière première"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/01-generalites/qcm-004",
+    "type": "multiple",
+    "enonce": "Le principe actif (API) :",
+    "options": [
+      "Est pharmacologiquement inactif",
+      "Peut être une substance naturelle ou synthétique",
+      "Assure à lui seul la stabilité et la conservation du médicament",
+      "Est responsable de l'activité pharmacologique du médicament",
+      "API signifie Active Pharmaceutical Ingredient"
+    ],
+    "correctes": [
+      1,
+      3,
+      4
+    ],
+    "explication": "Le PA (API, Active Pharmaceutical Ingredient) est une substance naturelle ou synthétique responsable de l'activité pharmacologique. Ce sont les excipients qui sont inactifs pharmacologiquement et assurent forme, stabilité, conservation et biodisponibilité.",
+    "source": {
+      "page": 4,
+      "extrait": "Substance naturelle ou synthétique, responsable de l'activité pharmacologique du médicament"
+    },
+    "difficulte": 1,
+    "tags": [
+      "principe actif"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/01-generalites/qcm-005",
+    "type": "multiple",
+    "enonce": "Selon le cours de généralités, les excipients sont utilisés pour assurer :",
+    "options": [
+      "La forme galénique",
+      "La stabilité",
+      "La biodisponibilité du médicament",
+      "La conservation",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Les excipients sont des substances naturelles ou synthétiques, inactives pharmacologiquement, utilisées pour assurer la forme galénique, la stabilité, la conservation et la biodisponibilité du médicament. Toutes les propositions sont donc justes.",
+    "source": {
+      "page": 4,
+      "extrait": "utilisées pour assurer la forme galénique, la stabilité, la conservation et la biodisponibilité du médicament"
+    },
+    "difficulte": 1,
+    "tags": [
+      "excipients"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/01-generalites/qcm-006",
+    "type": "unique",
+    "enonce": "Parmi les principes actifs suivants, lequel est cité comme exemple de PA d'origine minérale ?",
+    "options": [
+      "Digoxine",
+      "Trastuzumab",
+      "Carbonate de lithium",
+      "Morphine",
+      "Héparine"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Les exemples de PA minéraux sont le carbonate de calcium et le carbonate de lithium (troubles bipolaires). L'héparine est animale, la digoxine et la morphine végétales, le trastuzumab biotechnologique.",
+    "source": {
+      "page": 5,
+      "extrait": "Lithium carbonate → traitement des troubles bipolaires"
+    },
+    "difficulte": 1,
+    "tags": [
+      "origine des PA"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/01-generalites/qcm-007",
+    "type": "multiple",
+    "enonce": "Concernant les PA d'origine minérale cités dans le cours :",
+    "options": [
+      "Le carbonate de lithium est un anticoagulant",
+      "Le carbonate de calcium est utilisé comme antiacide",
+      "Le carbonate de calcium est utilisé en supplémentation calcique",
+      "L'héparine est un PA d'origine minérale",
+      "Le carbonate de lithium est utilisé dans les troubles bipolaires"
+    ],
+    "correctes": [
+      1,
+      2,
+      4
+    ],
+    "explication": "Carbonate de calcium : supplémentation en calcium, antiacide. Carbonate de lithium : troubles bipolaires. L'héparine est un anticoagulant d'origine animale.",
+    "source": {
+      "page": 5,
+      "extrait": "Carbonate de calcium → supplémentation en calcium, antiacide"
+    },
+    "difficulte": 1,
+    "tags": [
+      "origine des PA"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/01-generalites/qcm-008",
+    "type": "multiple",
+    "enonce": "Concernant les PA d'origine animale :",
+    "options": [
+      "La digoxine est extraite du foie de bœuf",
+      "L'héparine est extraite du pavot",
+      "L'héparine est un anticoagulant extrait d'intestin de porc",
+      "L'insuline est aujourd'hui majoritairement recombinante",
+      "L'insuline porcine ou bovine est un exemple de PA d'origine animale"
+    ],
+    "correctes": [
+      2,
+      3,
+      4
+    ],
+    "explication": "Exemples de PA animaux : insuline porcine ou bovine (aujourd'hui majoritairement recombinante) et héparine, anticoagulant extrait d'intestin de porc. La morphine provient du pavot et la digoxine de la digitale.",
+    "source": {
+      "page": 6,
+      "extrait": "Héparine → anticoagulant extrait d'intestin de porc"
+    },
+    "difficulte": 1,
+    "tags": [
+      "origine des PA"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/01-generalites/qcm-009",
+    "type": "multiple",
+    "enonce": "Concernant les PA d'origine végétale :",
+    "options": [
+      "La digoxine est produite par E. coli génétiquement modifiée",
+      "La digoxine est extraite de la digitale (Digitalis lanata)",
+      "La morphine est extraite de la digitale",
+      "L'héparine est un PA d'origine végétale",
+      "La morphine est extraite du pavot (Papaver somniferum)"
+    ],
+    "correctes": [
+      1,
+      4
+    ],
+    "explication": "Morphine : pavot (Papaver somniferum) ; digoxine : digitale (Digitalis lanata). L'héparine est d'origine animale.",
+    "source": {
+      "page": 7,
+      "extrait": "Digoxine → extraite de la digitale (Digitalis lanata)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "origine des PA"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/01-generalites/qcm-010",
+    "type": "multiple",
+    "enonce": "Sont cités comme PA d'origine biotechnologique :",
+    "options": [
+      "Le carbonate de calcium",
+      "Les anticorps monoclonaux (trastuzumab, adalimumab)",
+      "L'héparine",
+      "Le vaccin recombinant anti-hépatite B",
+      "L'insuline recombinante humaine"
+    ],
+    "correctes": [
+      1,
+      3,
+      4
+    ],
+    "explication": "PA biotechnologiques : insuline recombinante humaine (produite par E. coli ou levures génétiquement modifiées), anticorps monoclonaux (trastuzumab, adalimumab), vaccins recombinants (anti-hépatite B). L'héparine est animale, le carbonate de calcium minéral.",
+    "source": {
+      "page": 8,
+      "extrait": "Anticorps monoclonaux (ex. trastuzumab, adalimumab)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "origine des PA"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/01-generalites/qcm-011",
+    "type": "multiple",
+    "enonce": "L'insuline recombinante humaine est produite par :",
+    "options": [
+      "E. coli génétiquement modifiée",
+      "Extraction du pancréas bovin uniquement",
+      "Extraction d'intestin de porc",
+      "Des levures génétiquement modifiées",
+      "Synthèse chimique totale"
+    ],
+    "correctes": [
+      0,
+      3
+    ],
+    "explication": "L'insuline recombinante humaine est produite par E. coli ou des levures génétiquement modifiées (origine biotechnologique). L'intestin de porc est la source de l'héparine.",
+    "source": {
+      "page": 8,
+      "extrait": "Insuline recombinante humaine (produite par E. coli ou levures génétiquement modifiées)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "biotechnologie"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/01-generalites/qcm-012",
+    "type": "multiple",
+    "enonce": "Associez correctement le PA à son origine :",
+    "options": [
+      "Carbonate de lithium : minéral",
+      "Héparine : animale",
+      "Adalimumab : biotechnologique",
+      "Digoxine : végétale",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Adalimumab (anticorps monoclonal) est biotechnologique, la digoxine végétale (digitale), le carbonate de lithium minéral, l'héparine animale (intestin de porc). Toutes les associations sont justes.",
+    "source": {
+      "page": 5,
+      "extrait": "Exemple de PA d'origine minérale"
+    },
+    "difficulte": 2,
+    "tags": [
+      "origine des PA"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/01-generalites/qcm-013",
+    "type": "multiple",
+    "enonce": "Selon la définition du médicament, est considéré comme médicament :",
+    "options": [
+      "Tout produit administré en vue de restaurer, corriger ou modifier les fonctions organiques",
+      "Toute substance présentée comme possédant des propriétés préventives",
+      "Tout produit administré à l'homme ou à l'animal en vue d'établir un diagnostic médical",
+      "Toute substance présentée comme possédant des propriétés curatives à l'égard des maladies humaines ou animales",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "La définition englobe les propriétés curatives ou préventives, l'établissement d'un diagnostic médical et la restauration, correction ou modification des fonctions organiques, chez l'homme ou l'animal.",
+    "source": {
+      "page": 9,
+      "extrait": "en vue d'établir un diagnostic médical ou de restaurer, corriger, modifier leurs fonctions organiques"
+    },
+    "difficulte": 1,
+    "tags": [
+      "médicament"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/01-generalites/qcm-014",
+    "type": "multiple",
+    "enonce": "Concernant les exemples illustrant la définition du médicament :",
+    "options": [
+      "Les antalgiques sont des médicaments à titre diagnostique",
+      "Les vaccins sont des médicaments à titre préventif",
+      "Le test à la tuberculine est un exemple de produit servant à établir un diagnostic",
+      "Les vaccins sont des médicaments à titre curatif",
+      "Les antalgiques sont des médicaments à titre curatif"
+    ],
+    "correctes": [
+      1,
+      2,
+      4
+    ],
+    "explication": "Le cours cite : vaccins (titre préventif), antalgiques (titre curatif), et pour le diagnostic : test tuberculine (tuberculose), fonction rénale, tumeurs.",
+    "source": {
+      "page": 9,
+      "extrait": "Les vaccins Titre préventif Antalgiques Titre curatif"
+    },
+    "difficulte": 1,
+    "tags": [
+      "médicament"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/01-generalites/qcm-015",
+    "type": "multiple",
+    "enonce": "Le schéma « UN MÉDICAMENT » du cours associe :",
+    "options": [
+      "Les contrôles à la forme galénique et à ses conditionnements",
+      "Les conditionnements primaire et secondaire à la conservation",
+      "La vitesse d'action à la voie d'administration",
+      "Le mélange à l'association principe actif + excipients",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Sur le schéma : Mélange → PA + excipients ; Contrôles → forme galénique (avec conditionnement primaire et secondaire, liés à la conservation) ; Vitesse d'action → voie d'administration.",
+    "source": {
+      "page": 10,
+      "extrait": "Principe actif + Excipients"
+    },
+    "difficulte": 2,
+    "tags": [
+      "médicament"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/01-generalites/qcm-016",
+    "type": "multiple",
+    "enonce": "Un excipient à effet notoire :",
+    "options": [
+      "Est un excipient doté d'une activité pharmacologique principale",
+      "A pour exemple cité le lactose",
+      "Ne nécessite aucune précaution d'emploi",
+      "Peut être à l'origine d'allergies ou de réactions d'intolérance chez certains patients",
+      "Est un excipient dont la présence peut nécessiter des précautions d'emploi pour certaines catégories particulières de patients"
+    ],
+    "correctes": [
+      1,
+      3,
+      4
+    ],
+    "explication": "L'excipient à effet notoire est un excipient dont la présence peut nécessiter des précautions d'emploi chez certaines catégories de patients ; il peut provoquer allergies ou intolérances (ex : lactose). Il n'a pas d'activité pharmacologique principale.",
+    "source": {
+      "page": 11,
+      "extrait": "Peuvent être à l'origine d'allergies ou de réactions d'intolérance chez certains patients (Ex: Lactose)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "excipient à effet notoire"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/01-generalites/qcm-017",
+    "type": "multiple",
+    "enonce": "Concernant l'utilisation de certains excipients comme principes actifs :",
+    "options": [
+      "Gélopectose® est une poudre orale anti-reflux œsophagien",
+      "Le macrogol 4000 est à la base un excipient",
+      "Dans Gélopectose®, la silice colloïdale devient PA",
+      "Le Forlax® contient du macrogol 4000 comme PA",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Remarque du cours : certains excipients sont utilisés comme PA. Forlax® contient du macrogol 4000 comme PA (à la base un excipient). Gélopectose® (poudre orale anti-reflux œsophagien) : la silice colloïdale, excipient, devient PA avec la cellulose et la pectine.",
+    "source": {
+      "page": 11,
+      "extrait": "Contient du Macrogol 4000 comme PA, qui est à la base un excipient"
+    },
+    "difficulte": 2,
+    "tags": [
+      "excipient utilisé comme PA"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/01-generalites/qcm-018",
+    "type": "multiple",
+    "enonce": "Dans la spécialité Gélopectose®, la silice colloïdale devient principe actif en association avec :",
+    "options": [
+      "Le lactose",
+      "Le stéarate de magnésium",
+      "La pectine",
+      "Le macrogol 4000",
+      "La cellulose"
+    ],
+    "correctes": [
+      2,
+      4
+    ],
+    "explication": "La silice colloïdale est un excipient qui devient PA (avec la cellulose et la pectine) dans Gélopectose®. Le macrogol 4000 est le PA de Forlax®.",
+    "source": {
+      "page": 11,
+      "extrait": "la silice colloïdale est un excipient qui devient P.A (avec la cellulose et la pectine)"
+    },
+    "difficulte": 3,
+    "tags": [
+      "excipient utilisé comme PA"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/01-generalites/qcm-019",
+    "type": "multiple",
+    "enonce": "Parmi les formes suivantes, lesquelles sont classées parmi les formes solides dans le cours ?",
+    "options": [
+      "Comprimés pelliculés",
+      "Comprimés nus",
+      "Comprimés effervescents",
+      "Gélules",
+      "Sachets"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Les formes solides illustrées sont : comprimés nus, sachets, comprimés pelliculés, comprimés effervescents et gélules.",
+    "source": {
+      "page": 12,
+      "extrait": "Comprimés nus Sachets Comprimés pelliculés Comprimés effervescents Gélules"
+    },
+    "difficulte": 1,
+    "tags": [
+      "formes galéniques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/01-generalites/qcm-020",
+    "type": "unique",
+    "enonce": "Les aérosols et inhalateurs sont classés dans le cours parmi :",
+    "options": [
+      "Les formes pâteuses et semi-solides",
+      "Les formes gazeuses",
+      "Les formes liquides",
+      "Les formes solides",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Le cours distingue formes solides, liquides, pâteuses et semi-solides, et formes gazeuses : aérosols et inhalateurs.",
+    "source": {
+      "page": 12,
+      "extrait": "Formes gazeuses: aérosols et inhalateurs"
+    },
+    "difficulte": 1,
+    "tags": [
+      "formes galéniques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/01-generalites/qcm-021",
+    "type": "multiple",
+    "enonce": "Concernant la notion de vitesse d'action des médicaments :",
+    "options": [
+      "La forme à libération conventionnelle correspond à une forme à libération immédiate",
+      "Le comprimé nu (non enrobé) de paracétamol 500 mg est un exemple de forme à libération immédiate",
+      "Les formes à libération modifiée résultent d'une formulation particulière et d'un procédé de fabrication spécial",
+      "Le comprimé nu de paracétamol est une forme à libération modifiée",
+      "Les formes à libération modifiée sont obtenues sans procédé de fabrication particulier"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Forme conventionnelle = libération immédiate (ex : comprimé nu de paracétamol 500 mg). Formes à libération modifiée = formulation particulière + procédé de fabrication spécial.",
+    "source": {
+      "page": 13,
+      "extrait": "Formes résultant d'une formulation particulière et d'un procédé de fabrication spécial"
+    },
+    "difficulte": 1,
+    "tags": [
+      "vitesse d'action"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/01-generalites/qcm-022",
+    "type": "multiple",
+    "enonce": "Le conditionnement primaire :",
+    "options": [
+      "A pour seul rôle l'information du malade",
+      "Correspond à la boîte en carton dans l'exemple du Doliprane®",
+      "A un rôle de protection",
+      "Joue un rôle primordial dans la conservation",
+      "A un rôle fonctionnel (facilite l'utilisation du médicament)"
+    ],
+    "correctes": [
+      2,
+      3,
+      4
+    ],
+    "explication": "Le conditionnement a un rôle primordial dans la conservation. Le primaire a un rôle de protection et un rôle fonctionnel. L'information du malade relève du secondaire ; la boîte en carton est le conditionnement secondaire (le blister est le primaire).",
+    "source": {
+      "page": 14,
+      "extrait": "Rôle de protection - Rôle fonctionnel (facilite l'utilisation du médicament)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "conditionnement"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/01-generalites/qcm-023",
+    "type": "multiple",
+    "enonce": "Le conditionnement secondaire assure :",
+    "options": [
+      "La manipulation",
+      "L'identification du médicament",
+      "L'information du malade",
+      "Le transport",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Rôles du conditionnement secondaire : manipulation, transport, identification du médicament, information du malade.",
+    "source": {
+      "page": 14,
+      "extrait": "Manipulation - Transport - Identification du médicament - Information du malade"
+    },
+    "difficulte": 1,
+    "tags": [
+      "conditionnement"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/01-generalites/qcm-024",
+    "type": "multiple",
+    "enonce": "Pour le comprimé de paracétamol 500 mg (Doliprane®) pris en exemple :",
+    "options": [
+      "Doliprane® est le nom de spécialité (nom commercial)",
+      "La forme galénique est un comprimé nu",
+      "Le conditionnement secondaire est une boîte en carton",
+      "Le conditionnement primaire est un blister",
+      "Paracétamol est la DCI du PA"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Exemple du cours : forme = comprimé nu ; DCI = paracétamol ; excipients : lactose, amidon de blé, stéarate de magnésium, talc ; primaire = blister ; secondaire = boîte en carton ; voie orale ; nom commercial = Doliprane®.",
+    "source": {
+      "page": 15,
+      "extrait": "Conditionnement primaire ? Blister Conditionnement secondaire ? Boite en carton"
+    },
+    "difficulte": 1,
+    "tags": [
+      "exemple Doliprane"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/01-generalites/qcm-025",
+    "type": "multiple",
+    "enonce": "Parmi les excipients cités dans l'exemple du comprimé de paracétamol 500 mg :",
+    "options": [
+      "Talc",
+      "Macrogol 4000",
+      "Stéarate de magnésium",
+      "Lactose",
+      "Amidon de blé"
+    ],
+    "correctes": [
+      0,
+      2,
+      3,
+      4
+    ],
+    "explication": "Excipients cités : lactose, amidon de blé, stéarate de magnésium, talc… Le macrogol 4000 est cité comme PA du Forlax®.",
+    "source": {
+      "page": 15,
+      "extrait": "Excipients : Lactose, Amidon de blé, stéarate de magnésium, Talc"
+    },
+    "difficulte": 2,
+    "tags": [
+      "exemple Doliprane"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/01-generalites/qcm-026",
+    "type": "multiple",
+    "enonce": "Dans l'industrie pharmaceutique, les étapes de développement des médicaments sont réparties en quatre phases :",
+    "options": [
+      "Phase de développement ou conception (préformulation et formulation)",
+      "Phase de recherche",
+      "Phase clinique",
+      "Phase de mise sur le marché",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Les quatre phases : recherche, développement ou conception (préformulation, formulation…), phase clinique, mise sur le marché.",
+    "source": {
+      "page": 16,
+      "extrait": "Phase de développement ou conception (Preformulation et formulation…)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "développement"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/01-generalites/qcm-027",
+    "type": "multiple",
+    "enonce": "Dans le schéma des étapes de développement galénique, l'élaboration comprend :",
+    "options": [
+      "La préformulation",
+      "L'étude du procédé à l'échelle du laboratoire",
+      "La formulation",
+      "La transposition à l'échelle industrielle",
+      "La production industrielle de routine"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Élaboration : préformulation → formulation → étude du procédé à l'échelle du laboratoire (lots d'essais). Expérimentation : optimisation à l'échelle pilote. Réalisation : transposition industrielle et production industrielle de routine.",
+    "source": {
+      "page": 17,
+      "extrait": "PREFORMULATION FORMULATION ETUDE DU PROCEDE A L'ECHELLE DU LABORATOIRE"
+    },
+    "difficulte": 2,
+    "tags": [
+      "développement galénique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/01-generalites/qcm-028",
+    "type": "multiple",
+    "enonce": "Concernant les lots du développement galénique :",
+    "options": [
+      "Les lots pilotes servent aux essais cliniques",
+      "Lot clinique = lot pilote = prototype",
+      "La transposition à l'échelle industrielle produit les lots industriels",
+      "L'étude du procédé à l'échelle du laboratoire produit les lots d'essais",
+      "L'optimisation du procédé à l'échelle pilote produit les lots pilotes cliniques"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Laboratoire → lots d'essais ; pilote → lots pilotes cliniques (essais cliniques) ; transposition industrielle → lots industriels. Remarque : lot clinique = lot pilote = prototype.",
+    "source": {
+      "page": 17,
+      "extrait": "Remarque: Lot clinique= Lot pilote = Prototype"
+    },
+    "difficulte": 2,
+    "tags": [
+      "développement galénique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/01-generalites/qcm-029",
+    "type": "unique",
+    "enonce": "Dans le schéma des étapes de développement galénique, l'étape d'« expérimentation » correspond à :",
+    "options": [
+      "La production industrielle de routine",
+      "La préformulation",
+      "L'étude du procédé à l'échelle du laboratoire",
+      "La transposition à l'échelle industrielle",
+      "L'optimisation du procédé à l'échelle pilote"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Élaboration : préformulation, formulation, étude au laboratoire. Expérimentation : optimisation du procédé à l'échelle pilote (lots pilotes cliniques). Réalisation : transposition et production industrielles.",
+    "source": {
+      "page": 17,
+      "extrait": "EXPERIMENTATION OPTIMISATION DU PROCEDE A L'ECHELLE PILOTE"
+    },
+    "difficulte": 2,
+    "tags": [
+      "développement galénique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/01-generalites/qcm-030",
+    "type": "multiple",
+    "enonce": "Pour obtenir l'AMM, le médicament doit répondre aux critères suivants :",
+    "options": [
+      "Rentabilité",
+      "Faible coût de production",
+      "Sécurité",
+      "Efficacité",
+      "Qualité"
+    ],
+    "correctes": [
+      2,
+      3,
+      4
+    ],
+    "explication": "Le médicament doit répondre à 3 critères : qualité, sécurité, efficacité, avec évaluation du rapport bénéfice/risque avant l'AMM.",
+    "source": {
+      "page": 18,
+      "extrait": "le médicament doit répondre à 3 critères"
+    },
+    "difficulte": 1,
+    "tags": [
+      "AMM"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/01-generalites/qcm-031",
+    "type": "unique",
+    "enonce": "Avant l'octroi de l'AMM, l'évaluation des trois critères aboutit à :",
+    "options": [
+      "L'auto-inspection",
+      "L'évaluation du rapport bénéfice/risque",
+      "La mise en place directe de la phase IV",
+      "La reproduction du prototype à l'échelle industrielle",
+      "La rédaction de la Pharmacopée"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Le schéma montre qualité, sécurité et efficacité menant à l'évaluation du rapport B/R puis à l'AMM. La reproduction industrielle du prototype a lieu après l'AMM.",
+    "source": {
+      "page": 18,
+      "extrait": "EVALUATION DU RAPPORT B/R"
+    },
+    "difficulte": 2,
+    "tags": [
+      "AMM"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/01-generalites/qcm-032",
+    "type": "multiple",
+    "enonce": "L'évaluation de la qualité repose sur des méthodes de contrôle fiables comprenant :",
+    "options": [
+      "Les essais de stabilité dans différentes conditions de température et d'humidité",
+      "Le dosage du principe actif",
+      "Les essais physico-chimiques : identification du ou des PA et des excipients",
+      "Les contrôles de pharmacotechnie",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Évaluation de la qualité : identification des PA et excipients, dosage du PA, contrôles de pharmacotechnie, essais de stabilité (T°, H°…).",
+    "source": {
+      "page": 19,
+      "extrait": "Essais de stabilité dans différentes conditions de T°, H°"
+    },
+    "difficulte": 1,
+    "tags": [
+      "qualité"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/01-generalites/qcm-033",
+    "type": "multiple",
+    "enonce": "Le but des essais de stabilité est de :",
+    "options": [
+      "Trouver la bonne dose",
+      "Préciser les conditions de conservation",
+      "Préciser les limites d'utilisation du médicament",
+      "Évaluer la toxicité chez l'homme",
+      "Identifier les excipients"
+    ],
+    "correctes": [
+      1,
+      2
+    ],
+    "explication": "But des essais de stabilité : préciser les conditions de conservation et les limites d'utilisation du médicament. La toxicité et la bonne dose relèvent de la phase clinique.",
+    "source": {
+      "page": 19,
+      "extrait": "Préciser les conditions de conservation + Limites d'utilisation du médicament"
+    },
+    "difficulte": 2,
+    "tags": [
+      "stabilité"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/01-generalites/qcm-034",
+    "type": "multiple",
+    "enonce": "Concernant la phase clinique :",
+    "options": [
+      "La phase I vise à évaluer la toxicité du médicament",
+      "Elle comprend une phase IV après la mise sur le marché",
+      "La phase III vise à trouver la bonne dose",
+      "Elle comprend trois phases (I, II, III) avant la mise sur le marché",
+      "Elle évalue la sécurité et l'efficacité"
+    ],
+    "correctes": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "explication": "Phase clinique : sécurité et efficacité ; phases I, II, III avant la mise sur le marché, phase IV après. Phase I : toxicité ; phase II : bonne dose et effets indésirables ; phase III : efficacité comparée.",
+    "source": {
+      "page": 20,
+      "extrait": "Essais structurés en trois phases (I, II, III) avant la mise sur le marché et une phase IV"
+    },
+    "difficulte": 1,
+    "tags": [
+      "phase clinique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/01-generalites/qcm-035",
+    "type": "multiple",
+    "enonce": "La phase II des essais cliniques a pour objectif de :",
+    "options": [
+      "Évaluer les effets indésirables",
+      "Évaluer la toxicité du médicament",
+      "Trouver la bonne dose",
+      "Comparer l'efficacité aux traitements existants ou à un placebo",
+      "Surveiller le médicament après sa commercialisation"
+    ],
+    "correctes": [
+      0,
+      2
+    ],
+    "explication": "Phase I : évaluer la toxicité. Phase II : trouver la bonne dose et évaluer les effets indésirables. Phase III : évaluer l'efficacité et la comparer à celle des traitements existants (ou d'un placebo). Phase IV : après la mise sur le marché.",
+    "source": {
+      "page": 20,
+      "extrait": "Trouver la bonne dose et évaluer les effets indésirables"
+    },
+    "difficulte": 2,
+    "tags": [
+      "phase clinique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/01-generalites/qcm-036",
+    "type": "unique",
+    "enonce": "La phase III des essais cliniques consiste à :",
+    "options": [
+      "Trouver la bonne dose",
+      "Évaluer l'efficacité du médicament et la comparer à celle des traitements existants ou d'un placebo",
+      "Se dérouler après la mise sur le marché",
+      "Évaluer la toxicité du médicament",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Phase III : évaluer l'efficacité du médicament et la comparer à celle des traitements existants (ou à celle d'un placebo). La phase IV a lieu après la mise sur le marché.",
+    "source": {
+      "page": 20,
+      "extrait": "Evaluer l'efficacité du médicament et la comparer à celle des traitements existants"
+    },
+    "difficulte": 2,
+    "tags": [
+      "phase clinique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/01-generalites/qcm-037",
+    "type": "multiple",
+    "enonce": "Concernant la phase de mise sur le marché :",
+    "options": [
+      "Le dossier d'AMM comporte une description détaillée et précise du médicament",
+      "Elle précède la phase clinique",
+      "Le dossier d'AMM est adressé à l'autorité réglementaire",
+      "Elle correspond à l'enregistrement ou demande d'AMM",
+      "Le dossier d'AMM est adressé au fabricant du conditionnement"
+    ],
+    "correctes": [
+      0,
+      2,
+      3
+    ],
+    "explication": "Phase de mise sur le marché : enregistrement ou demande d'AMM ; le dossier est adressé à l'autorité réglementaire et comporte une description détaillée et précise du médicament. Elle suit la phase clinique.",
+    "source": {
+      "page": 21,
+      "extrait": "Le dossier d'AMM est adressé à l'autorité reglementaire"
+    },
+    "difficulte": 1,
+    "tags": [
+      "AMM"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/01-generalites/qcm-038",
+    "type": "multiple",
+    "enonce": "Après l'obtention de l'AMM :",
+    "options": [
+      "L'entreprise doit reproduire à l'échelle industrielle le prototype",
+      "La phase I des essais cliniques débute",
+      "Le prototype n'a plus besoin d'être reproduit",
+      "Un système d'assurance qualité doit être mis en place",
+      "La préformulation commence"
+    ],
+    "correctes": [
+      0,
+      3
+    ],
+    "explication": "Production – commercialisation : lorsque l'AMM est accordée, l'entreprise doit reproduire à l'échelle industrielle le prototype et mettre en place un système d'assurance qualité.",
+    "source": {
+      "page": 22,
+      "extrait": "l'entreprise pharmaceutique doit reproduire à l'échelle industrielle le prototype"
+    },
+    "difficulte": 1,
+    "tags": [
+      "production"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/01-generalites/qcm-039",
+    "type": "multiple",
+    "enonce": "Les Bonnes Pratiques de Fabrication (BPF) :",
+    "options": [
+      "Garantissent que les produits sont fabriqués et contrôlés de façon cohérente",
+      "Constituent un des éléments de l'assurance de la qualité des médicaments",
+      "Remplacent le dossier d'AMM",
+      "Constituent un guide de gestion de la qualité",
+      "Garantissent une fabrication selon les normes de qualité adaptées à leur emploi"
+    ],
+    "correctes": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "explication": "Les BPF sont un des éléments de l'assurance qualité, garantissant une fabrication et un contrôle cohérents selon des normes de qualité adaptées à l'emploi ; le guide BPF est un guide de gestion de la qualité. Elles ne remplacent pas l'AMM.",
+    "source": {
+      "page": 23,
+      "extrait": "garantit que les produits sont fabriqués et contrôlés de façon cohérente et selon les normes de qualité adaptés à leur emploi"
+    },
+    "difficulte": 1,
+    "tags": [
+      "BPF"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/01-generalites/qcm-040",
+    "type": "unique",
+    "enonce": "Dans le guide BPF, le chapitre 1 est consacré :",
+    "options": [
+      "À l'auto-inspection",
+      "À la documentation",
+      "Au personnel",
+      "Au système qualité pharmaceutique",
+      "À la production"
+    ],
+    "correctes": [
+      3
+    ],
+    "explication": "Chapitre 1 : système qualité pharmaceutique ; 2 : personnel ; 3 : locaux et matériel ; 4 : documentation ; 5 : production ; 6 : contrôle de la qualité ; 7 : activités externalisées ; 8 : réclamations, défauts qualité et rappels ; 9 : auto-inspection.",
+    "source": {
+      "page": 24,
+      "extrait": "CHAPITRE 1 : SYSTEME QUALITE PHARMACEUTIQUE"
+    },
+    "difficulte": 2,
+    "tags": [
+      "BPF"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/01-generalites/qcm-041",
+    "type": "multiple",
+    "enonce": "Concernant les chapitres du guide BPF :",
+    "options": [
+      "Chapitre 3 : réclamations et rappels de médicaments",
+      "Chapitre 9 : auto-inspection",
+      "Chapitre 4 : documentation (« écrire ce qu'il faut faire »)",
+      "Chapitre 6 : contrôle de la qualité",
+      "Chapitre 2 : personnel qualifié et en nombre suffisant, bonne répartition des tâches"
+    ],
+    "correctes": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Le chapitre 3 concerne les locaux et le matériel ; réclamations, défauts qualité et rappels de médicaments relèvent du chapitre 8.",
+    "source": {
+      "page": 24,
+      "extrait": "CHAPITRE 4 : DOCUMENTATION! Ecrire ce qu'il faut faire"
+    },
+    "difficulte": 2,
+    "tags": [
+      "BPF"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/01-generalites/qcm-042",
+    "type": "multiple",
+    "enonce": "Le chapitre 7 du guide BPF « activités externalisées » concerne :",
+    "options": [
+      "Les locaux et le matériel",
+      "L'auto-inspection",
+      "La fabrication en sous-traitance",
+      "Les réclamations",
+      "Les analyses en sous-traitance"
+    ],
+    "correctes": [
+      2,
+      4
+    ],
+    "explication": "Chapitre 7 : activités externalisées (fabrication et analyses en sous-traitance).",
+    "source": {
+      "page": 24,
+      "extrait": "CHAPITRE 7 : ACTIVITES EXTERNALISEES (fabrication et analyses en sous traitance)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "BPF"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/01-generalites/qcm-043",
+    "type": "unique",
+    "enonce": "Selon le guide BPF, le chapitre consacré aux précautions à prendre avant, pendant et après chaque fabrication et conditionnement est :",
+    "options": [
+      "Le chapitre 6 : contrôle de la qualité",
+      "Le chapitre 1 : système qualité",
+      "Le chapitre 3 : locaux et matériel",
+      "Le chapitre 5 : production",
+      "Le chapitre 9 : auto-inspection"
+    ],
+    "correctes": [
+      3
+    ],
+    "explication": "Le chapitre 5 (production) porte sur les précautions à prendre avant, pendant et après chaque fabrication et conditionnement.",
+    "source": {
+      "page": 24,
+      "extrait": "CHAPITRE 5 : PRODUCTION (précautions à prendre avant, pendant et après chaque fabrication et conditionnement)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "BPF"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/01-generalites/qcm-044",
+    "type": "multiple",
+    "enonce": "Dans le guide BPF, les locaux et le matériel (chapitre 3) doivent être :",
+    "options": [
+      "Conçus de façon à garantir la qualité des opérations",
+      "Adaptés aux opérations effectuées",
+      "Entretenus",
+      "Situés de façon à garantir la qualité des opérations",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Chapitre 3 : locaux et matériel situés, conçus, adaptés et entretenus de façon à garantir la qualité des opérations effectuées.",
+    "source": {
+      "page": 24,
+      "extrait": "situés, conçus, adaptés et entretenus de façon à garantir la qualité des opérations effectuées"
+    },
+    "difficulte": 2,
+    "tags": [
+      "BPF"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/01-generalites/qcm-045",
+    "type": "multiple",
+    "enonce": "La Pharmacopée :",
+    "options": [
+      "Est rédigée par les industriels pour chaque spécialité",
+      "Est rédigée par un groupe de médecins et de pharmaciens (commission de rédaction)",
+      "Comprend un chapitre sur les matières premières et leurs propriétés",
+      "Comprend les méthodes d'analyses des MP et des médicaments",
+      "Est un formulaire officiel"
+    ],
+    "correctes": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "La Pharmacopée est un formulaire officiel rédigé par une commission de médecins et de pharmaciens ; chapitres : MP et propriétés, préparations pharmaceutiques classiques (Dakin…), méthodes d'analyses des MP et médicaments.",
+    "source": {
+      "page": 25,
+      "extrait": "Formulaire officiel rédigé par un groupe de médecins et de pharmaciens (commission de rédaction)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "Pharmacopée"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/01-generalites/qcm-046",
+    "type": "multiple",
+    "enonce": "Une préparation officinale :",
+    "options": [
+      "Est préparée de façon extemporanée pour un patient déterminé",
+      "Est préparée selon une prescription médicale destinée à un patient déterminé",
+      "A pour exemples le soluté de Dakin et l'alcool chirurgical",
+      "Est fabriquée exclusivement à l'échelle industrielle",
+      "Est préparée en pharmacie selon les prescriptions de formulaires officiels (Pharmacopée ou Codex)"
+    ],
+    "correctes": [
+      2,
+      4
+    ],
+    "explication": "Préparation officinale : préparée en pharmacie selon les formulaires officiels (Pharmacopée, Codex) ; ex : soluté de Dakin, alcool chirurgical. La préparation extemporanée selon une prescription pour un patient déterminé est la préparation magistrale.",
+    "source": {
+      "page": 26,
+      "extrait": "Tout médicament préparé en pharmacie selon les prescriptions de formulaires officiels tel que la Pharmacopée ou Codex"
+    },
+    "difficulte": 1,
+    "tags": [
+      "préparation officinale"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/01-generalites/qcm-047",
+    "type": "multiple",
+    "enonce": "Une préparation magistrale :",
+    "options": [
+      "A pour exemple le soluté de Dakin",
+      "Est préparée selon une prescription médicale",
+      "Est préparée de façon extemporanée en pharmacie",
+      "Est préparée selon les formulaires officiels sans prescription",
+      "Est destinée à un patient déterminé"
+    ],
+    "correctes": [
+      1,
+      2,
+      4
+    ],
+    "explication": "Préparation magistrale : médicament préparé de façon extemporanée en pharmacie selon une prescription médicale destinée à un patient déterminé. Le Dakin est une préparation officinale.",
+    "source": {
+      "page": 27,
+      "extrait": "Tout médicament préparé de façon extemporanée en pharmacie selon une prescription médicale destinée à un patient déterminé"
+    },
+    "difficulte": 1,
+    "tags": [
+      "préparation magistrale"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/01-generalites/qcm-048",
+    "type": "multiple",
+    "enonce": "Sur l'ordonnancier (registre) des préparations magistrales, le pharmacien doit inscrire :",
+    "options": [
+      "Le nom du médecin",
+      "Le nom et l'adresse du malade",
+      "Le nombre d'unités préparées",
+      "La formule détaillée de la préparation",
+      "La date"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Le registre doit comporter : date, nom du médecin, nom et adresse du malade, formule détaillée, nombre d'unités préparées.",
+    "source": {
+      "page": 28,
+      "extrait": "Date - Nom du médecin - Nom et adresse du malade. - Formule détaillée de la préparation. - Nombre d'unités préparées"
+    },
+    "difficulte": 1,
+    "tags": [
+      "ordonnancier"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/01-generalites/qcm-049",
+    "type": "multiple",
+    "enonce": "Le numéro d'ordre attribué à une préparation magistrale doit être porté sur :",
+    "options": [
+      "La Pharmacopée",
+      "L'étiquette du conditionnement",
+      "Le dossier d'AMM",
+      "Le registre",
+      "L'ordonnance"
+    ],
+    "correctes": [
+      1,
+      3,
+      4
+    ],
+    "explication": "Le pharmacien attribue un numéro d'ordre à la préparation et le porte sur le registre, l'ordonnance et l'étiquette du conditionnement.",
+    "source": {
+      "page": 28,
+      "extrait": "Le registre, - L'ordonnance, - L'étiquette du conditionnement"
+    },
+    "difficulte": 2,
+    "tags": [
+      "ordonnancier"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/01-generalites/qcm-050",
+    "type": "multiple",
+    "enonce": "Concernant l'ordonnance d'exemple (acide lactique 1 g, acide salicylique 2,25 g, collodion 15 g, application 3 fois/j sur verrue) :",
+    "options": [
+      "Elle ne nécessite pas de numéro d'ordre",
+      "Elle doit être inscrite à l'ordonnancier",
+      "Elle est destinée à un patient déterminé",
+      "Il s'agit d'une préparation officinale inscrite à la Pharmacopée",
+      "Il s'agit d'une préparation magistrale"
+    ],
+    "correctes": [
+      1,
+      2,
+      4
+    ],
+    "explication": "L'exemple illustre la préparation magistrale : prescription médicale, patient déterminé, inscription au registre avec numéro d'ordre porté sur registre, ordonnance et étiquette.",
+    "source": {
+      "page": 27,
+      "extrait": "Préparer : Acide lactique 1g Acide salicylique 2.25g Collodion 15g"
+    },
+    "difficulte": 2,
+    "tags": [
+      "préparation magistrale"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/01-generalites/qcm-051",
+    "type": "multiple",
+    "enonce": "Parmi les propositions suivantes concernant les définitions générales :",
+    "options": [
+      "Les excipients sont pharmacologiquement actifs",
+      "Le conditionnement secondaire est en contact direct avec le médicament",
+      "Le PA assure la forme galénique",
+      "Une préparation officinale est destinée à un patient déterminé",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Les excipients sont inactifs pharmacologiquement ; ce sont eux (et non le PA) qui assurent la forme galénique ; c'est la préparation magistrale qui est destinée à un patient déterminé ; le blister (primaire) est en contact avec le comprimé, pas la boîte (secondaire).",
+    "source": {
+      "page": 4,
+      "extrait": "inactives pharmacologiquement, utilisées pour assurer la forme galénique"
+    },
+    "difficulte": 2,
+    "tags": [
+      "synthèse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/01-generalites/qcm-052",
+    "type": "multiple",
+    "enonce": "Concernant le développement et l'enregistrement des médicaments :",
+    "options": [
+      "Le dossier d'AMM est adressé à l'autorité réglementaire",
+      "Le prototype est reproduit à l'échelle industrielle après l'AMM",
+      "Les lots d'essais sont obtenus à l'échelle du laboratoire",
+      "La phase IV a lieu après la mise sur le marché",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes les propositions découlent du cours : phase IV après commercialisation, reproduction industrielle du prototype après AMM, dossier adressé à l'autorité réglementaire, lots d'essais à l'échelle du laboratoire.",
+    "source": {
+      "page": 22,
+      "extrait": "Lorsque l'AMM est accordée, l'entreprise pharmaceutique doit reproduire à l'échelle industrielle le prototype"
+    },
+    "difficulte": 2,
+    "tags": [
+      "synthèse"
+    ],
+    "origine": "genere"
+  }
+]

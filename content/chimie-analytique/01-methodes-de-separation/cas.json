@@ -1,0 +1,126 @@
+[
+  {
+    "id": "chimie-analytique/01-methodes-de-separation/cas-001",
+    "titre": "Préparation d'un sérum au laboratoire",
+    "enonce": "Un technicien reçoit deux tubes de sang : l'un prélevé sur anticoagulant, l'autre sans anticoagulant (sang laissé coaguler). Il dispose d'une centrifugeuse simple.",
+    "questions": [
+      {
+        "type": "unique",
+        "enonce": "Après centrifugation du tube sur anticoagulant, le surnageant est :",
+        "options": [
+          "Du sérum",
+          "Du plasma",
+          "Un sédiment",
+          "Une émulsion",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          1
+        ],
+        "explication": "Sang anticoagulé → plasma.",
+        "difficulte": 1,
+        "origine": "genere",
+        "id": "chimie-analytique/01-methodes-de-separation/cas-001-q1"
+      },
+      {
+        "type": "multiple",
+        "enonce": "Concernant la centrifugation réalisée :",
+        "options": [
+          "Les composants les plus lourds vont au fond du tube",
+          "Elle accélère une sédimentation naturelle",
+          "Une centrifugeuse simple atteint environ 1500 g",
+          "Son efficacité dépend surtout du nombre de tours",
+          "Toutes les propositions sont correctes"
+        ],
+        "correctes": [
+          4
+        ],
+        "explication": "Toutes ces données figurent dans le cours.",
+        "difficulte": 2,
+        "origine": "genere",
+        "id": "chimie-analytique/01-methodes-de-separation/cas-001-q2"
+      },
+      {
+        "type": "unique",
+        "enonce": "Si le technicien doit séparer des protéines selon leur masse moléculaire, il utilisera :",
+        "options": [
+          "Une ultracentrifugeuse",
+          "Un filtre en verre fritté n° 0",
+          "Une ampoule à décanter",
+          "Un évaporateur rotatif",
+          "Une lévigation"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "L'ultracentrifugation sépare des molécules de même nature (protéines) selon leur masse moléculaire.",
+        "difficulte": 2,
+        "origine": "genere",
+        "id": "chimie-analytique/01-methodes-de-separation/cas-001-q3"
+      }
+    ]
+  },
+  {
+    "id": "chimie-analytique/01-methodes-de-separation/cas-002",
+    "titre": "Isolement d'un principe actif thermolabile",
+    "enonce": "Après une synthèse, un composé thermolabile et oxydable se trouve dissous dans un solvant organique. On veut l'isoler sans l'altérer.",
+    "questions": [
+      {
+        "type": "unique",
+        "enonce": "Méthode d'élimination du solvant la plus adaptée :",
+        "options": [
+          "Évaporation à pression atmosphérique",
+          "Évaporateur rotatif sous pression réduite",
+          "Lévigation",
+          "Filtration sur papier",
+          "Tamisage"
+        ],
+        "correctes": [
+          1
+        ],
+        "explication": "Sous pression réduite : à l'abri de l'air et à plus basse température.",
+        "difficulte": 1,
+        "origine": "genere",
+        "id": "chimie-analytique/01-methodes-de-separation/cas-002-q1"
+      },
+      {
+        "type": "multiple",
+        "enonce": "Avantages de cette méthode :",
+        "options": [
+          "Distillation à l'abri de l'air",
+          "Température d'ébullition abaissée",
+          "Chauffage homogène grâce à la rotation du ballon",
+          "Augmentation de la température d'ébullition",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "Pression réduite → ébullition plus basse ; rotation → surface de contact accrue et chauffage homogène.",
+        "difficulte": 2,
+        "origine": "genere",
+        "id": "chimie-analytique/01-methodes-de-separation/cas-002-q2"
+      },
+      {
+        "type": "unique",
+        "enonce": "Si l'on préfère le faire précipiter en douceur à partir d'une solution aqueuse, sans chauffage, on choisira :",
+        "options": [
+          "Le relargage par un sel minéral",
+          "L'addition brutale d'un non solvant",
+          "L'évaporation à pression atmosphérique",
+          "La décantation",
+          "La lévigation"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Le relargage est une méthode très douce, sans élévation de température.",
+        "difficulte": 2,
+        "origine": "genere",
+        "id": "chimie-analytique/01-methodes-de-separation/cas-002-q3"
+      }
+    ]
+  }
+]

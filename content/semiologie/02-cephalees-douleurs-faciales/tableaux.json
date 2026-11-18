@@ -1,0 +1,204 @@
+[
+  {
+    "id": "semiologie/02-cephalees-douleurs-faciales/tableau-001",
+    "titre": "Céphalées secondaires : signe / cause / orientation diagnostique",
+    "colonnes": [
+      "Signes évocateurs",
+      "Étiologie",
+      "Examen d'orientation"
+    ],
+    "lignes": [
+      [
+        "Céphalée inhabituelle à début brutal",
+        "Hémorragie sous-arachnoïdienne",
+        "Scanner sans injection en urgence, puis PL si normal"
+      ],
+      [
+        "Signes focaux au premier plan ; céphalée intense + vomissements (sous-tentoriel)",
+        "Hématome ou infarctus cérébral (AVC)",
+        "Scanner cérébral"
+      ],
+      [
+        "Céphalée cervicale ou rétroauriculaire ± Claude-Bernard-Horner",
+        "Dissection carotidienne ou vertébrale",
+        "Échodoppler cervical + angio-IRM"
+      ],
+      [
+        "Céphalée brutale, PA > 240/120 mmHg, troubles visuels bilatéraux, crises comitiales",
+        "Encéphalopathie hypertensive",
+        "Fond d'œil : rétinopathie hypertensive"
+      ],
+      [
+        "Céphalée progressive aggravée par la toux, vomissements, œdème papillaire, diplopie (VI)",
+        "Hypertension intracrânienne",
+        "Scanner, IRM"
+      ],
+      [
+        "Céphalée fébrile + syndrome méningé",
+        "Méningite / méningo-encéphalite",
+        "Ponction lombaire"
+      ],
+      [
+        "Céphalée récente > 60 ans, AEG, fièvre, claudication de la mâchoire, douleurs des ceintures",
+        "Artérite temporale de Horton",
+        "VS, CRP, biopsie de l'artère temporale"
+      ]
+    ]
+  },
+  {
+    "id": "semiologie/02-cephalees-douleurs-faciales/tableau-002",
+    "titre": "Névralgie du trijumeau : essentielle vs symptomatique",
+    "colonnes": [
+      "Critère",
+      "Essentielle",
+      "Symptomatique (secondaire)"
+    ],
+    "lignes": [
+      [
+        "Intensité",
+        "Fulgurante (décharges électriques)",
+        "Moins intense"
+      ],
+      [
+        "Territoire",
+        "V2 (40 %), V3 (20 %), V1 exceptionnel",
+        "Territoire du V1"
+      ],
+      [
+        "Entre les accès",
+        "Intervalles libres",
+        "Fond douloureux persistant"
+      ],
+      [
+        "Examen clinique",
+        "Normal (réflexe cornéen normal)",
+        "Hypoesthésie, déficit V3 moteur, autres nerfs crâniens"
+      ],
+      [
+        "Investigations",
+        "Diagnostic purement clinique",
+        "Nécessaires"
+      ]
+    ]
+  },
+  {
+    "id": "semiologie/02-cephalees-douleurs-faciales/tableau-003",
+    "titre": "Antécédent / étiologie suggérée",
+    "colonnes": [
+      "Antécédent",
+      "Étiologie suggérée"
+    ],
+    "lignes": [
+      [
+        "Affections cardiovasculaires, HTA",
+        "AVC"
+      ],
+      [
+        "Post-partum",
+        "Thrombose veineuse cérébrale"
+      ],
+      [
+        "Néoplasme",
+        "Métastases"
+      ],
+      [
+        "Infection par le VIH",
+        "Toxoplasmose"
+      ]
+    ]
+  },
+  {
+    "id": "semiologie/02-cephalees-douleurs-faciales/carte-001",
+    "type": "carte",
+    "titre": "Céphalées et douleurs faciales",
+    "racine": {
+      "label": "Céphalées",
+      "enfants": [
+        {
+          "label": "Primaires",
+          "enfants": [
+            {
+              "label": "Migraine (sans/avec aura)",
+              "enfants": []
+            },
+            {
+              "label": "Céphalées de tension",
+              "enfants": []
+            },
+            {
+              "label": "Algie vasculaire de la face",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Secondaires graves",
+          "enfants": [
+            {
+              "label": "Hémorragie sous-arachnoïdienne",
+              "enfants": []
+            },
+            {
+              "label": "AVC",
+              "enfants": []
+            },
+            {
+              "label": "Dissection",
+              "enfants": []
+            },
+            {
+              "label": "Encéphalopathie hypertensive",
+              "enfants": []
+            },
+            {
+              "label": "HTIC",
+              "enfants": []
+            },
+            {
+              "label": "Méningite",
+              "enfants": []
+            },
+            {
+              "label": "Horton",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Démarche",
+          "enfants": [
+            {
+              "label": "Interrogatoire",
+              "enfants": []
+            },
+            {
+              "label": "Examen clinique",
+              "enfants": []
+            },
+            {
+              "label": "Scanner sans injection",
+              "enfants": []
+            },
+            {
+              "label": "Ponction lombaire",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Névralgie du V",
+          "enfants": [
+            {
+              "label": "Essentielle",
+              "enfants": []
+            },
+            {
+              "label": "Symptomatique",
+              "enfants": []
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,1844 @@
+[
+  {
+    "id": "pharmacie-galenique/09-granulation/qcm-001",
+    "type": "multiple",
+    "enonce": "Concernant la définition de la granulation :",
+    "options": [
+      "Elle transforme des particules de poudre fines en agrégats solides, denses, résistants et poreux",
+      "Les agrégats obtenus sont appelés granulés ou grains",
+      "Les granulés sont plus faciles à manipuler, doser et comprimer que la poudre de départ",
+      "Le granulé est toujours un produit intermédiaire, jamais une forme finale",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Le granulé peut être un intermédiaire (comprimés, gélules) mais aussi la forme finale (granulés en sachets, poudre pour suspension buvable). d est donc fausse.",
+    "source": {
+      "page": 4,
+      "extrait": "La granulation est une opération qui transforme des particules de poudre fines en agrégats solides, denses, résistants et poreux"
+    },
+    "difficulte": 1,
+    "tags": [
+      "définition"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/qcm-002",
+    "type": "multiple",
+    "enonce": "Le granulé peut constituer la forme finale sous forme de :",
+    "options": [
+      "Granulés présentés en sachets",
+      "Poudre pour suspension buvable",
+      "Comprimés",
+      "Gélules",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Comme forme finale, le cours cite les granulés en sachets et la poudre pour suspension buvable. Pour les comprimés et gélules, le granulé est un intermédiaire.",
+    "source": {
+      "page": 4,
+      "extrait": "Il peut aussi constituer la forme finale : granulés présentés en sachets ou poudre pour suspension buvable."
+    },
+    "difficulte": 2,
+    "tags": [
+      "définition"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/qcm-003",
+    "type": "multiple",
+    "enonce": "Parmi les intérêts de la granulation :",
+    "options": [
+      "Améliorer l'écoulement : les grains sont plus sphériques et de taille plus homogène",
+      "Assurer l'homogénéité : plus de ségrégation",
+      "Faciliter la compression",
+      "Densifier le matériau : la densité apparente augmente",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Tous ces intérêts sont cités, ainsi que la limitation des risques (poussières) et l'amélioration de la mouillabilité.",
+    "source": {
+      "page": 4,
+      "extrait": "Améliorer l'écoulement. Les grains sont plus sphérique, plus arrondis et de taille plus homogène que la poudre fine"
+    },
+    "difficulte": 1,
+    "tags": [
+      "intérêts"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/qcm-004",
+    "type": "multiple",
+    "enonce": "Concernant les intérêts de la granulation :",
+    "options": [
+      "La densité apparente augmente et le volume diminue",
+      "Elle réduit les poussières, améliorant la sécurité des opérateurs",
+      "Elle limite la contamination croisée",
+      "Elle rend les surfaces hydrophobes plus hydrophiles",
+      "La dissolution ne dépend plus du liant ni de la densité des grains"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Le cours précise que la dissolution dépend ensuite du liant et de la densité des grains, donc e est fausse.",
+    "source": {
+      "page": 4,
+      "extrait": "Il faut toutefois souligner que la dissolution dépend ensuite du liant et de la densité des grains."
+    },
+    "difficulte": 2,
+    "tags": [
+      "intérêts",
+      "mouillabilité"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/qcm-005",
+    "type": "multiple",
+    "enonce": "Concernant la poudre fine comparée aux grains :",
+    "options": [
+      "La poudre fine est anguleuse et cohésive",
+      "Les grains sont plus arrondis que la poudre fine",
+      "Dans un granulé, les constituants sont liés dans un même grain",
+      "La poudre fine s'écoule mieux que le granulé",
+      "Le granulé diminue la précision du dosage par unité de prise"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "La poudre fine est anguleuse et cohésive ; les grains sont arrondis, homogènes et lient les constituants, ce qui rend le dosage précis.",
+    "source": {
+      "page": 4,
+      "extrait": "que la poudre fine, qui est anguleuse et cohésive."
+    },
+    "difficulte": 1,
+    "tags": [
+      "intérêts"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/qcm-006",
+    "type": "multiple",
+    "enonce": "Les quatre grandes familles de procédés de granulation sont :",
+    "options": [
+      "La voie humide",
+      "La voie sèche",
+      "La granulation par fusion",
+      "L'atomisation",
+      "La compression directe"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Les quatre familles sont la voie humide, la voie sèche, la fusion et l'atomisation. La compression directe n'est pas une granulation.",
+    "source": {
+      "page": 5,
+      "extrait": "Il existe quatre grandes familles de procédés de granulation."
+    },
+    "difficulte": 1,
+    "tags": [
+      "procédés"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/qcm-007",
+    "type": "multiple",
+    "enonce": "Concernant les familles de procédés :",
+    "options": [
+      "La voie humide est le procédé le plus utilisé",
+      "La voie sèche ne fait appel ni à un liquide ni à la chaleur",
+      "La granulation par fusion utilise un liant fondu (PEG, cires) ensuite refroidi",
+      "L'atomisation donne des grains sphériques avec un séchage quasi instantané",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes les caractéristiques sont exactes selon le cours.",
+    "source": {
+      "page": 5,
+      "extrait": "La voie humide (GVH) : les poudres sont mélangées à un liquide liant, puis séchées. C'est le procédé le plus utilisé."
+    },
+    "difficulte": 1,
+    "tags": [
+      "procédés"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/qcm-008",
+    "type": "unique",
+    "enonce": "La granulation par fusion convient particulièrement aux actifs :",
+    "options": [
+      "Trop solubles dans les liquides de mouillage",
+      "Sensibles à la chaleur",
+      "Insolubles dans tous les solvants",
+      "Gazeux",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "La fusion ne nécessite aucun solvant, ce qui convient aux actifs trop solubles dans les liquides de mouillage.",
+    "source": {
+      "page": 5,
+      "extrait": "Aucun solvant n'est nécessaire, ce qui convient aux actifs trop solubles dans les liquides de mouillage."
+    },
+    "difficulte": 2,
+    "tags": [
+      "fusion"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/qcm-009",
+    "type": "unique",
+    "enonce": "Le choix du procédé de granulation dépend principalement :",
+    "options": [
+      "De la stabilité du PA, des propriétés des poudres et de la forme finale recherchée",
+      "Uniquement du coût de l'appareil",
+      "Uniquement de la couleur du PA",
+      "De la taille du lot exclusivement",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Le choix du procédé dépend de la stabilité du principe actif, des propriétés des poudres et de la forme finale.",
+    "source": {
+      "page": 5,
+      "extrait": "le choix du procédé dépend de la stabilité du principe actif, des propriétés des poudres et de la forme finale recherchée."
+    },
+    "difficulte": 1,
+    "tags": [
+      "procédés"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/qcm-010",
+    "type": "multiple",
+    "enonce": "Concernant les ponts liquides :",
+    "options": [
+      "Un film de liquide entre les particules crée une cohésion par tension superficielle et succion capillaire",
+      "Ils assurent la cohésion du granulé humide",
+      "Ils sont propres à la voie humide, pendant la phase de mouillage",
+      "Ils assurent la résistance du granulé sec",
+      "Ils interviennent surtout en voie sèche"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Les ponts liquides assurent la cohésion du granulé humide (voie humide). La résistance du granulé sec est assurée par les ponts solides.",
+    "source": {
+      "page": 6,
+      "extrait": "Ces ponts assurent la cohésion du granulé humide ; ils sont donc propres à la voie humide, pendant la phase de mouillage."
+    },
+    "difficulte": 1,
+    "tags": [
+      "cohésion",
+      "ponts liquides"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/qcm-011",
+    "type": "multiple",
+    "enonce": "Les ponts solides ont pour origine :",
+    "options": [
+      "Le séchage d'un liant",
+      "La recristallisation d'un soluté",
+      "La fusion d'un liant (PEG, cires) suivie d'un refroidissement",
+      "L'emboîtement de particules fibreuses",
+      "Les forces de Van der Waals"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Les ponts solides ont trois origines : séchage d'un liant, recristallisation d'un soluté, fusion d'un liant puis refroidissement. L'emboîtement et Van der Waals sont d'autres mécanismes.",
+    "source": {
+      "page": 6,
+      "extrait": "qui ont trois origines : le séchage d'un liant, la recristallisation d'un soluté, ou la fusion d'un liant (PEG, cires)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "cohésion",
+      "ponts solides"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/qcm-012",
+    "type": "multiple",
+    "enonce": "Concernant les forces intermoléculaires et l'emboîtement mécanique :",
+    "options": [
+      "Les forces de Van der Waals et électrostatiques sont faibles mais deviennent sensibles pour des particules très fines et très proches",
+      "Elles expliquent en grande partie la cohésion des poudres fines",
+      "L'emboîtement mécanique concerne des particules fibreuses ou irrégulières qui s'enchevêtrent",
+      "L'emboîtement mécanique intervient surtout en voie sèche, lors du compactage",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes les propositions sont exactes selon le paragraphe sur les forces de cohésion.",
+    "source": {
+      "page": 6,
+      "extrait": "Ce mécanisme intervient surtout lors du compactage, c'est-à-dire en voie sèche."
+    },
+    "difficulte": 2,
+    "tags": [
+      "cohésion"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/qcm-013",
+    "type": "multiple",
+    "enonce": "En voie sèche, la cohésion du granulé repose surtout sur :",
+    "options": [
+      "Les forces intermoléculaires",
+      "L'emboîtement mécanique",
+      "La pression du compactage qui renforce ces mécanismes",
+      "Les ponts liquides",
+      "La recristallisation d'un soluté au séchage"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "En l'absence de liquide, la cohésion en voie sèche repose sur les forces intermoléculaires et l'emboîtement mécanique, renforcés par la pression du compactage.",
+    "source": {
+      "page": 6,
+      "extrait": "En voie sèche, en l'absence de liquide, elle repose surtout sur les forces intermoléculaires et l'emboîtement mécanique"
+    },
+    "difficulte": 2,
+    "tags": [
+      "cohésion",
+      "voie sèche"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/qcm-014",
+    "type": "unique",
+    "enonce": "Les quatre états de répartition du liquide, par teneur en liquide croissante, sont :",
+    "options": [
+      "Pendulaire → funiculaire → capillaire → goutte",
+      "Funiculaire → pendulaire → capillaire → goutte",
+      "Capillaire → pendulaire → funiculaire → goutte",
+      "Goutte → capillaire → funiculaire → pendulaire",
+      "Pendulaire → capillaire → funiculaire → goutte"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Lorsque la teneur en liquide augmente : pendulaire, funiculaire, capillaire puis goutte.",
+    "source": {
+      "page": 7,
+      "extrait": "Pendulaire, funiculaire, capillaire, goutte."
+    },
+    "difficulte": 2,
+    "tags": [
+      "états du liquide"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/qcm-015",
+    "type": "multiple",
+    "enonce": "Concernant les états de répartition du liquide :",
+    "options": [
+      "À l'état pendulaire, des ponts liquides isolés existent aux points de contact ; la cohésion est faible",
+      "À l'état funiculaire, la granulation devient possible",
+      "À l'état capillaire, les pores sont saturés et la cohésion est maximale",
+      "À l'état goutte, la cohésion est maximale",
+      "À l'état funiculaire, les pores ne contiennent que du liquide"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "À l'état goutte (surmouillage) la cohésion chute. À l'état funiculaire, les pores contiennent à la fois du liquide et de l'air.",
+    "source": {
+      "page": 7,
+      "extrait": "Forces de cohésion (tension superficielle, succion capillaire) maximales : c'est l'état recherché en voie humide."
+    },
+    "difficulte": 2,
+    "tags": [
+      "états du liquide"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/qcm-016",
+    "type": "unique",
+    "enonce": "L'état de répartition du liquide recherché en granulation humide est :",
+    "options": [
+      "L'état capillaire",
+      "L'état pendulaire",
+      "L'état funiculaire",
+      "L'état goutte",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "L'objectif est d'atteindre l'état capillaire, où la cohésion est maximale, en évitant le surmouillage (état goutte).",
+    "source": {
+      "page": 7,
+      "extrait": "Objectif : atteindre l'état capillaire, où la cohésion est maximale, en évitant le surmouillage (état goutte)."
+    },
+    "difficulte": 1,
+    "tags": [
+      "états du liquide"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/qcm-017",
+    "type": "multiple",
+    "enonce": "Le surmouillage (état goutte) se caractérise par :",
+    "options": [
+      "Un liquide en excès entourant les particules",
+      "Une chute de la cohésion",
+      "Une masse pâteuse et collante",
+      "Un granulé inexploitable",
+      "Une cohésion maximale"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "À l'état goutte, les particules sont noyées, la cohésion chute, la masse devient pâteuse et collante et le granulé n'est plus exploitable.",
+    "source": {
+      "page": 7,
+      "extrait": "Surmouillage : la cohésion chute, la masse devient pâteuse et collante, le granulé n'est plus exploitable."
+    },
+    "difficulte": 1,
+    "tags": [
+      "surmouillage"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/qcm-018",
+    "type": "unique",
+    "enonce": "Les trois phases de formation du granulé en voie humide sont, dans l'ordre :",
+    "options": [
+      "Nucléation → transition → grossissement",
+      "Transition → nucléation → grossissement",
+      "Grossissement → nucléation → transition",
+      "Nucléation → grossissement → transition",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Les trois phases successives sont la nucléation (mouillage), la transition et le grossissement (ball growth).",
+    "source": {
+      "page": 7,
+      "extrait": "trois phases successives : la nucléation, la transition et le grossissement."
+    },
+    "difficulte": 1,
+    "tags": [
+      "formation du granulé"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/qcm-019",
+    "type": "multiple",
+    "enonce": "Concernant les phases de formation du granulé :",
+    "options": [
+      "Pendant la nucléation, des ponts liquides se forment sous l'effet des forces capillaires et donnent les premiers noyaux",
+      "Pendant la transition, les noyaux croissent par incorporation de particules individuelles ou coalescence de noyaux",
+      "La transition se caractérise par de nombreux petits granulés",
+      "Pendant le grossissement, les granulés croissent par coalescence et deviennent plus sphériques",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes les propositions décrivent correctement les trois phases.",
+    "source": {
+      "page": 8,
+      "extrait": "Lorsque la granulation se poursuit, les granulés continuent à croître par coalescence"
+    },
+    "difficulte": 2,
+    "tags": [
+      "formation du granulé"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/qcm-020",
+    "type": "multiple",
+    "enonce": "La sur-granulation :",
+    "options": [
+      "Peut être provoquée par un excès de liquide liant",
+      "Peut être provoquée par une prolongation excessive de la granulation",
+      "Conduit à la formation de gros agglomérats",
+      "Correspond à une croissance incontrôlée des granulés",
+      "Est provoquée par un manque de liant"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "La sur-granulation résulte d'un excès de liant ou d'une granulation trop longue : croissance incontrôlée et gros agglomérats.",
+    "source": {
+      "page": 8,
+      "extrait": "un excès de liquide liant ou une prolongation excessive de la granulation peut provoquer une croissance incontrôlée des granulés."
+    },
+    "difficulte": 2,
+    "tags": [
+      "sur-granulation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/qcm-021",
+    "type": "unique",
+    "enonce": "La taille finale des granulés résulte de l'équilibre entre :",
+    "options": [
+      "Croissance, consolidation et rupture",
+      "Mouillage et séchage uniquement",
+      "Lubrification et compression",
+      "Nucléation et dissolution",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "La taille finale résulte de l'équilibre entre croissance, consolidation et rupture (Iveson et coll., 2001).",
+    "source": {
+      "page": 8,
+      "extrait": "La taille finale des granulés résulte de l'équilibre entre les phénomènes de croissance, de consolidation et de rupture"
+    },
+    "difficulte": 2,
+    "tags": [
+      "formation du granulé"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/qcm-022",
+    "type": "multiple",
+    "enonce": "La fabrication d'un comprimé par voie humide comporte, selon le cours, les opérations suivantes :",
+    "options": [
+      "Mélange du PA et des adjuvants, puis mouillage",
+      "Granulation puis séchage",
+      "Calibrage puis ajout du lubrifiant et du désintégrant",
+      "Compression en dernier",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Les sept opérations sont : mélange, mouillage, granulation, séchage, calibrage, ajout du lubrifiant et du désintégrant, compression.",
+    "source": {
+      "page": 9,
+      "extrait": "mélange du principe actif et des adjuvants, mouillage, granulation, séchage, calibrage, ajout du lubrifiant et du désintégrant, puis compression."
+    },
+    "difficulte": 1,
+    "tags": [
+      "voie humide",
+      "étapes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/qcm-023",
+    "type": "multiple",
+    "enonce": "Dans le procédé classique de granulation humide (un appareil par étape) :",
+    "options": [
+      "La granulation se fait au granulateur oscillant ou rotatif",
+      "Le séchage se fait à l'étuve ou au séchoir à plateaux",
+      "Le calibrage se fait au calibreur oscillant (tamis)",
+      "L'ajout du lubrifiant et du désintégrant se fait dans un mélangeur (cuve, cubique)",
+      "Le mouillage se fait dans une presse à comprimer"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Le mouillage se fait dans un malaxeur (ajout du liant) ; la presse sert à la compression.",
+    "source": {
+      "page": 9,
+      "extrait": "Granulation Granulateur oscillant ou rotatif … Séchage Étuve / séchoir à plateaux"
+    },
+    "difficulte": 2,
+    "tags": [
+      "procédé classique",
+      "appareils"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/qcm-024",
+    "type": "multiple",
+    "enonce": "Concernant les procédés regroupant plusieurs étapes :",
+    "options": [
+      "Le mono-pot réalise mélange, mouillage, granulation et séchage dans la même cuve",
+      "Le lit d'air fluidisé réalise mélange, pulvérisation du liant, granulation et séchage dans un seul appareil",
+      "Après ces procédés, il reste le calibrage, le mélange final et la compression",
+      "Plus les étapes sont regroupées, plus il y a de transferts de produit",
+      "Le mono-pot réalise aussi la compression"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Plus les étapes sont regroupées, MOINS il y a de transferts. Le mono-pot ne comprime pas.",
+    "source": {
+      "page": 9,
+      "extrait": "plus les étapes sont regroupées dans un seul appareil, moins il y a de transferts de produit."
+    },
+    "difficulte": 2,
+    "tags": [
+      "mono-pot",
+      "lit fluidisé"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/qcm-025",
+    "type": "multiple",
+    "enonce": "Concernant le mouillage en granulation humide :",
+    "options": [
+      "Il transforme le mélange pulvérulent en une masse plastique humide",
+      "Il peut se faire avec un solvant seul (alcool, acétone), le liant étant déjà mélangé au PA",
+      "Il peut se faire avec un liquide agglutinant (solution de liant dans un solvant)",
+      "Avec un solvant seul, le solvant dissout légèrement la poudre et les particules s'accolent",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes les propositions sont dans le paragraphe 3.2 : objectif du mouillage et deux possibilités (solvant seul ou liquide agglutinant).",
+    "source": {
+      "page": 10,
+      "extrait": "Le mouillage a pour objectif de transformer le mélange pulvérulent en une masse plastique humide."
+    },
+    "difficulte": 1,
+    "tags": [
+      "mouillage"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/qcm-026",
+    "type": "multiple",
+    "enonce": "Les paramètres du mouillage à optimiser, souvent par tâtonnement, sont :",
+    "options": [
+      "La quantité de liquide de mouillage et de liant",
+      "Le temps de mouillage",
+      "Le débit et la vitesse d'ajout du liquide",
+      "La couleur du liant",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Trois paramètres : quantité de liquide et de liant, temps de mouillage, débit et vitesse d'ajout du liquide.",
+    "source": {
+      "page": 10,
+      "extrait": "la quantité de liquide de mouillage et de liant, le temps de mouillage, ainsi que le débit et la vitesse d'ajout du liquide."
+    },
+    "difficulte": 1,
+    "tags": [
+      "mouillage"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/qcm-027",
+    "type": "multiple",
+    "enonce": "Concernant les liants de granulation humide :",
+    "options": [
+      "L'amidon est utilisé sous forme d'empois préparé à chaud dans l'eau ; il est économique",
+      "La povidone (PVP) est très utilisée, à environ 0,5 à 5 %",
+      "HPMC, HPC et méthylcellulose donnent des granulés peu friables",
+      "La gélatine donne une liaison forte et des granulés durs",
+      "Saccharose et gomme arabique présentent un risque de désagrégation rapide"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Saccharose et gomme arabique (sirop, mucilage) présentent un risque de désagrégation LENTE.",
+    "source": {
+      "page": 10,
+      "extrait": "Saccharose, gomme arabique Sirop ; mucilage Risque de désagrégation lente"
+    },
+    "difficulte": 2,
+    "tags": [
+      "liants"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/qcm-028",
+    "type": "unique",
+    "enonce": "Le liant donnant une liaison forte et des granulés durs, utilisé en solution aqueuse chaude, est :",
+    "options": [
+      "La gélatine",
+      "L'amidon",
+      "La povidone",
+      "L'HPMC",
+      "Le saccharose"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "La gélatine (solution aqueuse chaude) donne une liaison forte et des granulés durs.",
+    "source": {
+      "page": 10,
+      "extrait": "Gélatine Solution aqueuse chaude Liaison forte, granulés durs"
+    },
+    "difficulte": 1,
+    "tags": [
+      "liants"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/qcm-029",
+    "type": "multiple",
+    "enonce": "Parmi les liants suivants, lesquels peuvent être ajoutés à sec puis activés par l'eau ?",
+    "options": [
+      "L'amidon prégélatinisé",
+      "La PVP",
+      "L'HPMC",
+      "La gélatine en solution chaude",
+      "Le sirop de saccharose"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Le cours cite l'amidon prégélatinisé, la PVP et l'HPMC comme liants pouvant être ajoutés à sec puis activés par l'eau.",
+    "source": {
+      "page": 10,
+      "extrait": "Certains liants peuvent aussi être ajoutés à sec (amidon prégélatinisé, PVP, HPMC), puis activés par l'eau."
+    },
+    "difficulte": 2,
+    "tags": [
+      "liants"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/qcm-030",
+    "type": "unique",
+    "enonce": "Un liant trop fort :",
+    "options": [
+      "Ralentit la désagrégation",
+      "Accélère la désagrégation",
+      "Diminue la dureté des granulés",
+      "Supprime le besoin de séchage",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Compromis à retenir : un liant trop fort ralentit la désagrégation.",
+    "source": {
+      "page": 10,
+      "extrait": "Compromis à retenir : un liant trop fort ralentit la désagrégation."
+    },
+    "difficulte": 1,
+    "tags": [
+      "liants"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/qcm-031",
+    "type": "multiple",
+    "enonce": "Concernant le granulateur oscillant :",
+    "options": [
+      "Des barres métalliques parallèles animées d'un mouvement de va-et-vient forcent la masse humide à travers une grille",
+      "La grille est semi-cylindrique d'axe horizontal",
+      "C'est l'appareil le plus utilisé",
+      "Les grains obtenus sont poreux et sèchent rapidement",
+      "Les grains ont la forme de vermicelles"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Les grains en forme de vermicelles, moins poreux, sont obtenus avec le granulateur rotatif.",
+    "source": {
+      "page": 11,
+      "extrait": "C'est l'appareil le plus utilisé ; les grains obtenus sont poreux et sèchent rapidement."
+    },
+    "difficulte": 2,
+    "tags": [
+      "granulateur oscillant"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/qcm-032",
+    "type": "multiple",
+    "enonce": "Concernant le granulateur rotatif :",
+    "options": [
+      "Une vis sans fin ou un rotor à pales pousse le mélange humide à travers une grille perforée",
+      "La grille peut être une paroi cylindrique ou une extrémité plane",
+      "Les grains sont moins poreux que ceux du granulateur oscillant",
+      "Les grains ont la forme de vermicelles",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes les caractéristiques du granulateur rotatif sont conformes au cours.",
+    "source": {
+      "page": 11,
+      "extrait": "Les grains sont moins poreux et ont la forme de vermicelles."
+    },
+    "difficulte": 2,
+    "tags": [
+      "granulateur rotatif"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/qcm-033",
+    "type": "multiple",
+    "enonce": "Concernant le granulateur à haut taux de cisaillement :",
+    "options": [
+      "Il fonctionne en cuve fermée, le liant étant ajouté par le couvercle",
+      "La pale (impeller) assure le brassage et la densification",
+      "Le couteau (chopper) fragmente les amas",
+      "La granulation se fait en quelques minutes et donne des granulés denses",
+      "Sa limite principale est le risque de sur-granulation"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Toutes les propositions sont exactes : cuve fermée, pale et couteau, rapidité, granulés denses, faible besoin en liant, risque de sur-granulation.",
+    "source": {
+      "page": 11,
+      "extrait": "la pale (impeller), qui assure le brassage et la densification, et le couteau (chopper), qui fragmente les amas."
+    },
+    "difficulte": 2,
+    "tags": [
+      "haut cisaillement"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/qcm-034",
+    "type": "unique",
+    "enonce": "Dans un granulateur à haut taux de cisaillement, l'organe qui fragmente les amas est :",
+    "options": [
+      "Le couteau (chopper)",
+      "La pale (impeller)",
+      "La grille semi-cylindrique",
+      "La vis sans fin",
+      "La double enveloppe"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Le couteau (chopper) fragmente les amas ; la pale (impeller) assure brassage et densification.",
+    "source": {
+      "page": 11,
+      "extrait": "le couteau (chopper), qui fragmente les amas."
+    },
+    "difficulte": 1,
+    "tags": [
+      "haut cisaillement"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/qcm-035",
+    "type": "multiple",
+    "enonce": "Les atouts du granulateur à haut taux de cisaillement sont :",
+    "options": [
+      "La rapidité",
+      "L'obtention de granulés denses",
+      "Le faible besoin en liant",
+      "L'absence totale de risque de sur-granulation",
+      "Des granulés très poreux séchant rapidement"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Rapidité, granulés denses et faible besoin en liant sont ses atouts ; le risque de sur-granulation est sa limite.",
+    "source": {
+      "page": 11,
+      "extrait": "Les atouts de l'appareil sont sa rapidité, l'obtention de granulés denses et le faible besoin en liant"
+    },
+    "difficulte": 2,
+    "tags": [
+      "haut cisaillement"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/qcm-036",
+    "type": "multiple",
+    "enonce": "Concernant le granulateur mono-pot (single pot) :",
+    "options": [
+      "Il réalise mélange, mouillage, granulation et séchage dans la même cuve",
+      "Il comporte une pale, un couteau, une arrivée de liant, un raccord au vide et une double enveloppe de chauffage",
+      "Le séchage se fait sous vide avec chauffage",
+      "Il limite les transferts et les poussières",
+      "Son équipement est peu coûteux"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Le mono-pot est coûteux, c'est sa contrepartie.",
+    "source": {
+      "page": 12,
+      "extrait": "Cet appareil présente l'avantage de limiter les transferts et les poussières … En contrepartie, l'équipement est coûteux."
+    },
+    "difficulte": 2,
+    "tags": [
+      "mono-pot"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/qcm-037",
+    "type": "multiple",
+    "enonce": "Concernant le lit d'air fluidisé et l'extrusion :",
+    "options": [
+      "La poudre est mise en suspension par un courant d'air chaud et le liant est pulvérisé sur le lit",
+      "Granulation et séchage s'effectuent dans le même appareil",
+      "Le séchage en lit fluidisé est plus rapide et plus homogène qu'à l'étuve",
+      "L'extrusion force la masse humide à travers une grille et donne des granulés cylindriques ou des pellets après sphéronisation",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes les propositions sont conformes aux paragraphes 3.4.4 et 3.4.5.",
+    "source": {
+      "page": 12,
+      "extrait": "Le lit fluidisé permet un séchage plus rapide et plus homogène qu'une étuve."
+    },
+    "difficulte": 2,
+    "tags": [
+      "lit fluidisé",
+      "extrusion"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/qcm-038",
+    "type": "multiple",
+    "enonce": "Parmi les éléments suivants, lesquels sont des paramètres critiques du procédé (CPP) ?",
+    "options": [
+      "La quantité de liant",
+      "Le débit d'addition du liquide",
+      "La vitesse de la pale et du couteau",
+      "La friabilité",
+      "La granulométrie"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Les CPP sont ce que l'opérateur règle (liant, débit, vitesses, temps, température et débit d'air). Friabilité et granulométrie sont des attributs qualité critiques (CQA).",
+    "source": {
+      "page": 13,
+      "extrait": "Les paramètres critiques du procédé (CPP) sont ce que l'opérateur règle ; les attributs qualité critiques (CQA) sont ce que l'on veut obtenir."
+    },
+    "difficulte": 2,
+    "tags": [
+      "CPP",
+      "CQA"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/qcm-039",
+    "type": "multiple",
+    "enonce": "Parmi les éléments suivants, lesquels sont des attributs qualité critiques (CQA) du granulé ?",
+    "options": [
+      "La granulométrie",
+      "La densité apparente",
+      "L'humidité résiduelle",
+      "L'écoulement et la compressibilité",
+      "Le temps de granulation"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Granulométrie, densité apparente, friabilité, humidité résiduelle, écoulement et compressibilité sont des CQA. Le temps de granulation est un CPP.",
+    "source": {
+      "page": 13,
+      "extrait": "Granulométrie Densité apparente Friabilité Humidité résiduelle Écoulement et compressibilité"
+    },
+    "difficulte": 2,
+    "tags": [
+      "CQA"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/qcm-040",
+    "type": "multiple",
+    "enonce": "Concernant la détermination du point final de la granulation :",
+    "options": [
+      "On utilise le test de la boule",
+      "Une poignée de masse humide serrée dans la main doit former une boule qui se tient",
+      "La boule doit ensuite se briser sous une légère pression",
+      "On peut aussi suivre le couple ou la puissance du moteur",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le test de la boule et le suivi du couple ou de la puissance du moteur servent à déterminer le point final.",
+    "source": {
+      "page": 13,
+      "extrait": "une poignée de masse humide serrée dans la main doit former une boule qui se tient, puis se brise sous une légère pression."
+    },
+    "difficulte": 1,
+    "tags": [
+      "point final"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/qcm-041",
+    "type": "multiple",
+    "enonce": "Concernant le séchage du granulé humide :",
+    "options": [
+      "Il fige les ponts solides entre les particules",
+      "Il peut se faire en étuve ventilée à plateaux ou en lit d'air fluidisé",
+      "La température est adaptée à la stabilité du PA",
+      "L'humidité résiduelle cible est souvent de l'ordre de 1 à 3 %",
+      "L'humidité résiduelle est mesurée par la friabilité"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "L'humidité résiduelle est mesurée par la perte à la dessiccation (thermobalance ou étuve), non par la friabilité.",
+    "source": {
+      "page": 13,
+      "extrait": "atteindre une humidité résiduelle cible, mesurée par la perte à la dessiccation, souvent de l'ordre de 1 à 3 %"
+    },
+    "difficulte": 2,
+    "tags": [
+      "séchage"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/qcm-042",
+    "type": "unique",
+    "enonce": "L'humidité résiduelle cible d'un granulé sec est souvent de l'ordre de :",
+    "options": [
+      "1 à 3 %",
+      "5 à 10 %",
+      "10 à 20 %",
+      "0 % strictement",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "L'humidité résiduelle cible est souvent de l'ordre de 1 à 3 % selon la formule.",
+    "source": {
+      "page": 13,
+      "extrait": "souvent de l'ordre de 1 à 3 % selon la formule"
+    },
+    "difficulte": 1,
+    "tags": [
+      "séchage"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/qcm-043",
+    "type": "multiple",
+    "enonce": "Les risques du séchage du granulé humide sont :",
+    "options": [
+      "La migration des solutés vers la surface",
+      "Le sur-séchage qui rend les granulés friables",
+      "La dégradation thermique du PA",
+      "L'augmentation de la porosité qui améliore la dissolution",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Les trois risques cités sont la migration des solutés, le sur-séchage (granulés friables) et la dégradation thermique du PA.",
+    "source": {
+      "page": 13,
+      "extrait": "Risques : migration des solutés vers la surface, sur-séchage qui rend les granulés friables, et dégradation thermique du principe actif."
+    },
+    "difficulte": 2,
+    "tags": [
+      "séchage"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/qcm-044",
+    "type": "multiple",
+    "enonce": "Concernant la migration des solutés au séchage :",
+    "options": [
+      "En séchant, le liquide remonte vers la surface et entraîne les substances dissoutes",
+      "Elle concerne par exemple les colorants",
+      "Elle concerne un PA hydrosoluble faiblement dosé",
+      "Elle entraîne une hétérogénéité de teneur",
+      "Elle concerne surtout la voie sèche"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "La migration des solutés est le défaut typique de la voie humide, non de la voie sèche.",
+    "source": {
+      "page": 13,
+      "extrait": "le liquide remonte vers la surface et entraîne les substances dissoutes (colorants, principe actif hydrosoluble faiblement dosé)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "migration des solutés"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/qcm-045",
+    "type": "multiple",
+    "enonce": "Concernant le calibrage et le mélange final :",
+    "options": [
+      "Après séchage, le granulé passe sur une grille plus fine (granulateur oscillant)",
+      "Le mélange final consiste à ajouter la phase externe",
+      "La phase externe comprend lubrifiant (stéarate de magnésium), glissant et désintégrant extragranulaire",
+      "Le lubrifiant s'ajoute en dernier et le mélange doit être court",
+      "Le lubrifiant s'ajoute en premier et le mélange doit être long"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Le lubrifiant s'ajoute en dernier avec un mélange court ; sinon la dureté diminue et la dissolution est ralentie.",
+    "source": {
+      "page": 13,
+      "extrait": "On ajoute alors la phase externe : lubrifiant (stéarate de magnésium), glissant et désintégrant extragranulaire."
+    },
+    "difficulte": 2,
+    "tags": [
+      "calibrage",
+      "mélange final"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/qcm-046",
+    "type": "multiple",
+    "enonce": "Un mélange trop long après ajout du lubrifiant entraîne :",
+    "options": [
+      "Une diminution de la dureté des comprimés",
+      "Un ralentissement de la dissolution",
+      "Une augmentation de la dureté des comprimés",
+      "Une accélération de la dissolution",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Le lubrifiant s'ajoute en dernier et le mélange doit être court ; sinon la dureté diminue et la dissolution est ralentie.",
+    "source": {
+      "page": 14,
+      "extrait": "le lubrifiant s'ajoute en dernier et le mélange doit être court. Sinon, la dureté des comprimés diminue et la dissolution est ralentie."
+    },
+    "difficulte": 2,
+    "tags": [
+      "lubrifiant"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/qcm-047",
+    "type": "multiple",
+    "enonce": "Concernant la granulation par voie sèche :",
+    "options": [
+      "Elle comporte mélange, compactage, obtention d'un ruban ou de briquettes, puis broyage et calibrage",
+      "Les fines sont recyclées",
+      "Elle est indiquée pour les PA sensibles à l'eau ou à la chaleur",
+      "Ses limites sont les poussières, les fines à recycler et une poudre moins compressible après compactage",
+      "Elle utilise un liquide liant puis un séchage"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "La voie sèche n'utilise ni liquide ni chaleur.",
+    "source": {
+      "page": 15,
+      "extrait": "La voie sèche est principalement indiquée pour les principes actifs sensibles à l'eau ou à la chaleur."
+    },
+    "difficulte": 1,
+    "tags": [
+      "voie sèche"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/qcm-048",
+    "type": "multiple",
+    "enonce": "Les deux techniques de granulation par voie sèche sont :",
+    "options": [
+      "Le compactage à rouleaux (cylindres), donnant un ruban continu",
+      "La double compression (briquetage, slugging), donnant des briquettes",
+      "L'atomisation-séchage",
+      "La granulation en lit fluidisé",
+      "L'extrusion-sphéronisation"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "La voie sèche utilise le compactage à rouleaux et la double compression (briquetage/slugging).",
+    "source": {
+      "page": 15,
+      "extrait": "Le compactage à rouleaux (cylindres) … La double compression (briquetage, slugging)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "voie sèche"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/qcm-049",
+    "type": "unique",
+    "enonce": "Pour un principe actif hydrolysable, le procédé de granulation de choix est :",
+    "options": [
+      "La voie sèche",
+      "La voie humide aqueuse",
+      "L'atomisation d'une solution aqueuse",
+      "La granulation en lit d'air fluidisé avec liant aqueux",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "La voie sèche évite l'eau et la chaleur, elle est indiquée pour les PA hydrolysables ou thermosensibles.",
+    "source": {
+      "page": 22,
+      "extrait": "Le PA est hydrolysable ou thermosensible : la voie sèche évite l'eau et la chaleur."
+    },
+    "difficulte": 1,
+    "tags": [
+      "voie sèche"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/qcm-050",
+    "type": "multiple",
+    "enonce": "Concernant la compression directe :",
+    "options": [
+      "Ce n'est pas une granulation",
+      "C'est l'alternative lorsque le mélange s'écoule et se comprime correctement",
+      "Elle comprime les poudres telles quelles",
+      "Elle présente un risque de ségrégation",
+      "Elle est déconseillée pour les PA sensibles à l'eau"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "La compression directe est adaptée aux PA sensibles à l'eau ou à la chaleur ; c'est la voie humide qui est déconseillée dans ce cas.",
+    "source": {
+      "page": 15,
+      "extrait": "la compression directe n'est pas une granulation : c'est l'alternative lorsque le mélange s'écoule et se comprime correctement."
+    },
+    "difficulte": 2,
+    "tags": [
+      "compression directe"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/qcm-051",
+    "type": "multiple",
+    "enonce": "Selon le tableau comparatif des trois voies :",
+    "options": [
+      "La voie humide comporte un nombre d'étapes élevé, procédé coûteux",
+      "La compression directe a un nombre d'étapes réduit, elle est économique",
+      "L'uniformité à faible dose est bonne en voie humide si le PA est dissous dans la solution liante",
+      "Le défaut typique de la voie sèche est la migration des solutés",
+      "L'écoulement et la compressibilité sont très bons en voie humide"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explication": "Le défaut typique de la voie sèche est la production de poussières et de fines ; la migration des solutés est celui de la voie humide.",
+    "source": {
+      "page": 15,
+      "extrait": "Défaut typique Migration des solutés Poussières, fines Ségrégation"
+    },
+    "difficulte": 3,
+    "tags": [
+      "comparaison des voies"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/qcm-052",
+    "type": "multiple",
+    "enonce": "Concernant les autres procédés de granulation :",
+    "options": [
+      "L'extrusion-sphéronisation donne des pellets calibrés utiles pour la libération modifiée",
+      "La granulation en continu est réalisée avec une extrudeuse bi-vis",
+      "La granulation par fusion se fait sans eau ni solvant",
+      "L'atomisation-séchage donne des grains sphériques",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes les propositions sont conformes au paragraphe 4.3.",
+    "source": {
+      "page": 16,
+      "extrait": "on obtient des pellets calibrés, utiles pour la libération modifiée."
+    },
+    "difficulte": 2,
+    "tags": [
+      "autres procédés"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/qcm-053",
+    "type": "multiple",
+    "enonce": "Les contrôles d'un granulé comprennent :",
+    "options": [
+      "La granulométrie par tamisage analytique (Ph. Eur. 2.9.38)",
+      "Les masses volumiques apparente et après tassement (Ph. Eur. 2.9.34)",
+      "L'écoulement : temps d'écoulement et angle de repos",
+      "La friabilité : résistance aux chocs et à l'abrasion (Ph. Eur. 2.9.41)",
+      "La teneur en eau par perte à la dessiccation (Ph. Eur. 2.2.32)"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Les six contrôles sont : granulométrie, masses volumiques, écoulement, friabilité, teneur en eau, dosage (uniformité de teneur, dissolution).",
+    "source": {
+      "page": 17,
+      "extrait": "Six contrôles sont à connaître pour caractériser un granulé"
+    },
+    "difficulte": 2,
+    "tags": [
+      "contrôles"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/qcm-054",
+    "type": "multiple",
+    "enonce": "Concernant l'essai d'écoulement :",
+    "options": [
+      "Il mesure l'aptitude d'une poudre à s'écouler verticalement",
+      "On chronomètre le passage de 100 g de poudre non tassée à travers un entonnoir normalisé",
+      "L'essai est réalisé trois fois",
+      "Le temps d'écoulement doit être inférieur à 10 s",
+      "Si t > 10 s, on ajoute un liant supplémentaire"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Si t > 10 s, on ajoute un lubrifiant d'écoulement (et non un liant) pour améliorer l'écoulement et la fluidité.",
+    "source": {
+      "page": 17,
+      "extrait": "le temps d'écoulement doit être inférieur à 10 s. Si t est supérieur à 10 s, on ajoute un lubrifiant d'écoulement"
+    },
+    "difficulte": 2,
+    "tags": [
+      "essai d'écoulement"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/qcm-055",
+    "type": "unique",
+    "enonce": "Lors de l'essai d'écoulement, une poudre met 14 s à s'écouler. La conduite à tenir est :",
+    "options": [
+      "Ajouter un lubrifiant d'écoulement",
+      "Accepter la poudre, le critère étant < 20 s",
+      "Ajouter de l'eau",
+      "Augmenter la quantité de liant",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Le critère est t < 10 s ; au-delà, on ajoute un lubrifiant d'écoulement.",
+    "source": {
+      "page": 17,
+      "extrait": "Si t est supérieur à 10 s, on ajoute un lubrifiant d'écoulement afin d'améliorer l'écoulement et la fluidité."
+    },
+    "difficulte": 2,
+    "tags": [
+      "essai d'écoulement"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/qcm-056",
+    "type": "multiple",
+    "enonce": "Concernant l'essai de tassement :",
+    "options": [
+      "Il permet de prévoir l'aptitude de la poudre à se réorganiser dans les matrices de compression",
+      "On utilise une éprouvette de 250 mL contenant 100 g de poudre",
+      "L'appareil est un voluménomètre de tassement",
+      "On note notamment les volumes V0, V10, V500 et V1250",
+      "L'essai est réalisé une seule fois"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "L'essai de tassement est réalisé trois fois.",
+    "source": {
+      "page": 18,
+      "extrait": "On utilise une éprouvette de 250 mL contenant 100 g de poudre, placée sur le voluménomètre de tassement ; l'essai est réalisé trois fois."
+    },
+    "difficulte": 2,
+    "tags": [
+      "tassement"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/qcm-057",
+    "type": "multiple",
+    "enonce": "Concernant l'angle de repos :",
+    "options": [
+      "C'est l'angle formé par un tas de poudre dans des conditions d'écoulement données",
+      "Il vérifie tg α = h / r",
+      "Plus l'angle est petit, meilleur est l'écoulement",
+      "Un angle de 25 à 30° correspond à un écoulement excellent",
+      "Plus l'angle est grand, meilleur est l'écoulement"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Plus l'angle de repos est petit, meilleur est l'écoulement ; 25–30° = excellent.",
+    "source": {
+      "page": 19,
+      "extrait": "Plus l'angle est petit, meilleur est l'écoulement."
+    },
+    "difficulte": 2,
+    "tags": [
+      "angle de repos"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/qcm-058",
+    "type": "multiple",
+    "enonce": "Concernant les indices d'écoulement :",
+    "options": [
+      "L'indice de Hausner H = ρtassée / ρapparente",
+      "L'indice de Carr IC = 100 × (ρtassée − ρapparente) / ρtassée",
+      "Un indice de Hausner supérieur à 1,25 annonce généralement un écoulement difficile",
+      "Un IC ≤ 10 % correspond à un écoulement excellent",
+      "IC = 100 × (ρtassée − ρapparente) / ρapparente"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Dans l'indice de Carr, le dénominateur est ρtassée, non ρapparente.",
+    "source": {
+      "page": 19,
+      "extrait": "IC = 100 × (ρtassée − ρapparente) / ρtassée"
+    },
+    "difficulte": 2,
+    "tags": [
+      "Hausner",
+      "Carr"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/qcm-059",
+    "type": "unique",
+    "enonce": "Un indice de Hausner de 1,40 correspond à un écoulement :",
+    "options": [
+      "Médiocre",
+      "Excellent",
+      "Bon",
+      "Assez bon",
+      "Passable"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "H = 1,35 à 1,45 correspond à un écoulement médiocre.",
+    "source": {
+      "page": 19,
+      "extrait": "Médiocre 26 à 31 1,35 à 1,45 46 à 55"
+    },
+    "difficulte": 2,
+    "tags": [
+      "Hausner"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/qcm-060",
+    "type": "unique",
+    "enonce": "Un granulé a une masse volumique apparente de 0,45 g/mL et tassée de 0,56 g/mL. Son indice de Carr vaut environ :",
+    "options": [
+      "19,6 %",
+      "24,4 %",
+      "1,24 %",
+      "11 %",
+      "80,4 %"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "IC = (0,56 − 0,45) / 0,56 × 100 = 19,6 % (écoulement assez bon, en limite de passable). 24,4 % serait obtenu en divisant à tort par 0,45.",
+    "source": {
+      "page": 20,
+      "extrait": "IC = (0,56 − 0,45) / 0,56 × 100 = 19,6 %."
+    },
+    "difficulte": 3,
+    "tags": [
+      "Carr",
+      "calcul"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/qcm-061",
+    "type": "multiple",
+    "enonce": "Pour ce même granulé (ρapp = 0,45 g/mL ; ρtassée = 0,56 g/mL) :",
+    "options": [
+      "H = 1,24",
+      "L'écoulement est assez bon, en limite de passable",
+      "H = 0,80",
+      "L'écoulement est excellent",
+      "H > 1,25 donc écoulement difficile"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "H = 0,56 / 0,45 = 1,24 (classe 1,19–1,25 : assez bon) ; IC = 19,6 %. Les deux valeurs conduisent à un écoulement assez bon, en limite de passable.",
+    "source": {
+      "page": 20,
+      "extrait": "H = 0,56 / 0,45 = 1,24 … Les deux valeurs conduisent à un écoulement assez bon, en limite de passable."
+    },
+    "difficulte": 3,
+    "tags": [
+      "Hausner",
+      "calcul"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/qcm-062",
+    "type": "unique",
+    "enonce": "On granule 2 kg de mélange avec de la PVP à 2 % (m/m du mélange sec) en solution aqueuse à 10 % (m/m). La masse d'eau nécessaire est :",
+    "options": [
+      "360 g",
+      "400 g",
+      "40 g",
+      "200 g",
+      "1 800 g"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "PVP = 2 % × 2 000 = 40 g ; solution = 40 / 0,10 = 400 g ; eau = 400 − 40 = 360 g.",
+    "source": {
+      "page": 21,
+      "extrait": "Masse de solution : 40 / 0,10 = 400 g. Masse d'eau : 400 − 40 = 360 g"
+    },
+    "difficulte": 3,
+    "tags": [
+      "liant",
+      "calcul"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/qcm-063",
+    "type": "multiple",
+    "enonce": "Défauts de granulation, causes et actions correctives :",
+    "options": [
+      "Granulés durs et dissolution lente : excès de liant ou malaxage trop long → réduire le liant ou le temps",
+      "Trop de fines, écoulement médiocre : liant insuffisant → augmenter le liant ou le temps",
+      "Hétérogénéité de teneur : migration des solutés → calibrer avant séchage ou utiliser un lit fluidisé",
+      "Dégradation du PA : eau ou chaleur → choisir la voie sèche, réduire la température",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes les associations reprennent le tableau 8 des défauts fréquents.",
+    "source": {
+      "page": 20,
+      "extrait": "Chaque défaut est lié à un paramètre : quantité de liant, temps, séchage ou lubrification."
+    },
+    "difficulte": 2,
+    "tags": [
+      "défauts"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/qcm-064",
+    "type": "unique",
+    "enonce": "Un granulé donne trop de fines et un écoulement médiocre. La cause probable est :",
+    "options": [
+      "Un liant insuffisant",
+      "Un excès de liant",
+      "Un malaxage trop long",
+      "Une migration des solutés",
+      "Une température de séchage trop basse"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Trop de fines et écoulement médiocre → liant insuffisant ; action : augmenter le liant ou le temps.",
+    "source": {
+      "page": 20,
+      "extrait": "Trop de fines, écoulement médiocre Liant insuffisant Augmenter le liant ou le temps"
+    },
+    "difficulte": 2,
+    "tags": [
+      "défauts"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/qcm-065",
+    "type": "multiple",
+    "enonce": "Les formes obtenues par granulation comprennent :",
+    "options": [
+      "Les comprimés, forme orale solide la plus courante",
+      "Les gélules, remplies de granulés ou de pellets",
+      "Les granulés, qui peuvent être enrobés, effervescents, gastro-résistants ou à libération modifiée",
+      "La poudre pour suspension buvable, reconstituée à l'eau extemporanément",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes ces formes sont citées dans le paragraphe 5.7.",
+    "source": {
+      "page": 20,
+      "extrait": "Poudre pour suspension buvable : granulés reconstitués à l'eau avant emploi (extemporanément), par exemple pour des antibiotiques."
+    },
+    "difficulte": 1,
+    "tags": [
+      "formes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/qcm-066",
+    "type": "multiple",
+    "enonce": "Selon la synthèse du cours :",
+    "options": [
+      "Granuler, c'est agglomérer pour améliorer l'écoulement, l'homogénéité et la compressibilité",
+      "La cohésion repose sur des ponts liquides à l'état humide et des ponts solides après séchage",
+      "On choisit la voie sèche lorsque le PA est sensible",
+      "Un granulé se contrôle par la granulométrie, les densités, l'humidité et la friabilité",
+      "Le choix du procédé est indépendant de la stabilité du PA"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Le choix du procédé dépend de la stabilité du principe actif.",
+    "source": {
+      "page": 22,
+      "extrait": "Le choix du procédé dépend de la stabilité du principe actif."
+    },
+    "difficulte": 1,
+    "tags": [
+      "synthèse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/qcm-067",
+    "type": "multiple",
+    "enonce": "Dans le tableau de classification de l'écoulement (USP <1174>) :",
+    "options": [
+      "IC de 11 à 15 % : bon",
+      "H de 1,26 à 1,34 : passable",
+      "Angle de repos de 36 à 40° : assez bon",
+      "IC ≥ 32 % : très médiocre ou pire",
+      "Angle de repos ≥ 56° : excellent"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Un angle de repos ≥ 56° correspond à un écoulement très médiocre ou pire. Ces classes sont indicatives.",
+    "source": {
+      "page": 19,
+      "extrait": "Très médiocre ou pire ≥ 32 ≥ 1,46 ≥ 56"
+    },
+    "difficulte": 3,
+    "tags": [
+      "classification de l'écoulement"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/qcm-068",
+    "type": "multiple",
+    "enonce": "Concernant le mélangeur planétaire ou à socs dans le procédé classique :",
+    "options": [
+      "Le malaxage est plus long",
+      "La masse humide obtenue doit ensuite être calibrée puis séchée",
+      "Il réalise aussi la compression",
+      "Il donne directement des pellets sphériques",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Avec le mélangeur planétaire ou à socs, le malaxage est plus long et la masse humide doit être calibrée puis séchée.",
+    "source": {
+      "page": 11,
+      "extrait": "Mélangeur planétaire ou à socs. Le malaxage est plus long ; la masse humide obtenue doit ensuite être calibrée, puis séchée."
+    },
+    "difficulte": 2,
+    "tags": [
+      "appareils"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/qcm-069",
+    "type": "multiple",
+    "enonce": "La granulation par voie humide :",
+    "options": [
+      "Repose sur un liquide de mouillage, solvant pur ou solution liante",
+      "Crée des ponts liquides entre les particules",
+      "Après séchage, les ponts se solidifient et assurent la cohésion",
+      "Est déconseillée pour un PA sensible à l'eau ou à la chaleur",
+      "Ne fait appel à aucun liquide"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "La voie humide utilise un liquide (solvant ou solution liante) ; elle est déconseillée pour les PA sensibles à l'eau ou à la chaleur.",
+    "source": {
+      "page": 9,
+      "extrait": "La granulation par voie humide repose sur l'utilisation d'un liquide de mouillage, solvant pur ou solution liante"
+    },
+    "difficulte": 1,
+    "tags": [
+      "voie humide"
+    ],
+    "origine": "genere"
+  }
+]

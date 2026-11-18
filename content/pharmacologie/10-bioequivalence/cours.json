@@ -1,0 +1,13 @@
+{
+  "id": "pharmacologie/10-bioequivalence",
+  "module": "pharmacologie",
+  "ordre": 10,
+  "titre": "La bioéquivalence",
+  "type": "cours",
+  "source": {
+    "driveId": "1jnJ1VKwgVEQ8baoimdR72ZJsLBEe-z3z",
+    "fichier": "9. Bioequivalence.pdf",
+    "modifiedTime": "2026-11-16T18:34:45.095Z"
+  },
+  "resume": "Générique et notions d'équivalence, bioéquivalence, exigence et exonération (forme, BCS, dosages), conception de l'étude (plans, sujets, prélèvements, bioanalyse, pharmacocinétique, statistique) et critères de décision 80–125 %."
+}

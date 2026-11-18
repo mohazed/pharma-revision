@@ -1,0 +1,490 @@
+[
+  {
+    "id": "pharmacologie/05-metabolisme/flashcard-001",
+    "recto": "Définition du métabolisme (biotransformation)",
+    "verso": "Transformation enzymatique d'un médicament en un ou plusieurs métabolites, qui peuvent être actifs, inactifs ou parfois toxiques.",
+    "tags": [
+      "définition"
+    ]
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/flashcard-002",
+    "recto": "Quel est le principal organe du métabolisme ?",
+    "verso": "Le foie (+++), en raison de sa localisation anatomique, de son débit sanguin, de sa vascularisation et de sa richesse en enzymes microsomales.",
+    "tags": [
+      "foie"
+    ]
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/flashcard-003",
+    "recto": "Quels autres organes participent au métabolisme ?",
+    "verso": "Reins, poumons, estomac, intestin, plasma, peau, glandes surrénales, cerveau.",
+    "tags": [
+      "lieu du métabolisme"
+    ]
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/flashcard-004",
+    "recto": "Débit sanguin hépatique : veine porte et artère hépatique",
+    "verso": "Veine porte ≈ 1,5 L/min ; artère hépatique ≈ 350 mL/min.",
+    "tags": [
+      "foie",
+      "chiffres"
+    ]
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/flashcard-005",
+    "recto": "Pourquoi le foie joue-t-il le rôle de « douane » ?",
+    "verso": "Placé entre le tube digestif et le reste de l'organisme, il contrôle lors de leur premier passage toutes les molécules absorbées.",
+    "tags": [
+      "foie",
+      "EPP"
+    ]
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/flashcard-006",
+    "recto": "Localisations cellulaires du métabolisme",
+    "verso": "Réticulum endoplasmique (enzymes microsomales), cytosol (enzymes cytosoliques), et à moindre degré mitochondries, membrane nucléaire et membrane cytoplasmique.",
+    "tags": [
+      "cellule"
+    ]
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/flashcard-007",
+    "recto": "Intérêt du métabolisme",
+    "verso": "Diminuer la liposolubilité et augmenter l'hydrosolubilité : substances plus polaires, plus facilement éliminées.",
+    "tags": [
+      "intérêt du métabolisme"
+    ]
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/flashcard-008",
+    "recto": "Métabolite actif issu d'une molécule inactive : exemple",
+    "verso": "Spironolactone → canrénone.",
+    "tags": [
+      "conséquences du métabolisme"
+    ]
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/flashcard-009",
+    "recto": "Métabolite actif issu d'une molécule active : exemple",
+    "verso": "Carbamazépine → époxycarbamazépine.",
+    "tags": [
+      "conséquences du métabolisme"
+    ]
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/flashcard-010",
+    "recto": "Métabolite inactif issu d'une molécule active : exemple",
+    "verso": "Phénobarbital → hydroxyphénobarbital.",
+    "tags": [
+      "conséquences du métabolisme"
+    ]
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/flashcard-011",
+    "recto": "Métabolite toxique (réactif) : exemple",
+    "verso": "Paracétamol → N-acétyl-p-benzoquinone imine (NAPQI).",
+    "tags": [
+      "paracétamol"
+    ]
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/flashcard-012",
+    "recto": "Pourquoi la NAPQI est-elle toxique ?",
+    "verso": "Elle se fixe par liaisons covalentes aux protéines tissulaires du foie et provoque une hépatite cytotoxique.",
+    "tags": [
+      "paracétamol"
+    ]
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/flashcard-013",
+    "recto": "Comment la NAPQI est-elle neutralisée aux doses thérapeutiques ?",
+    "verso": "Par le glutathion ; en cas de surdosage, le système glutathionique est saturé et dépassé, d'où une nécrose hépatique.",
+    "tags": [
+      "paracétamol",
+      "glutathion"
+    ]
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/flashcard-014",
+    "recto": "Les deux grandes phases du métabolisme",
+    "verso": "Phase I : réactions de fonctionnalisation. Phase II : réactions de conjugaison.",
+    "tags": [
+      "voies métaboliques"
+    ]
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/flashcard-015",
+    "recto": "La phase I est-elle obligatoire ?",
+    "verso": "Non : certains médicaments peuvent subir directement la phase II.",
+    "tags": [
+      "phase I",
+      "phase II"
+    ]
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/flashcard-016",
+    "recto": "Rôle des réactions de phase I",
+    "verso": "Introduire ou démasquer des groupes fonctionnels, modifier la structure primaire, créer des sites de conjugaison ; métabolites actifs, inactifs ou toxiques.",
+    "tags": [
+      "phase I"
+    ]
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/flashcard-017",
+    "recto": "Les trois réactions de phase I",
+    "verso": "Oxydation, réduction, hydrolyse.",
+    "tags": [
+      "phase I"
+    ]
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/flashcard-018",
+    "recto": "Quelle est la réaction la plus importante de la phase I ?",
+    "verso": "L'oxydation, catalysée par des mono-oxygénases (CYP450) principalement du RE hépatique.",
+    "tags": [
+      "oxydation"
+    ]
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/flashcard-019",
+    "recto": "Qu'est-ce qu'un cytochrome P450 ?",
+    "verso": "Une hémoprotéine membranaire de localisation microsomale, formant une superfamille d'isoenzymes catalysant l'oxydation par l'oxygène moléculaire.",
+    "tags": [
+      "CYP450"
+    ]
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/flashcard-020",
+    "recto": "Sur quoi repose la classification des CYP en familles et sous-familles ?",
+    "verso": "Sur l'homologie des séquences d'acides aminés.",
+    "tags": [
+      "CYP450"
+    ]
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/flashcard-021",
+    "recto": "Quelles familles de CYP métabolisent principalement les médicaments ?",
+    "verso": "CYP1, CYP2 et CYP3 ; les autres participent à la synthèse ou au métabolisme des stéroïdes et des acides gras.",
+    "tags": [
+      "CYP450"
+    ]
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/flashcard-022",
+    "recto": "Lecture de « CYP3A4 »",
+    "verso": "CYP = P450, 3 = famille, A = sous-famille, 4 = gène.",
+    "tags": [
+      "CYP450",
+      "nomenclature"
+    ]
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/flashcard-023",
+    "recto": "Isoenzymes CYP citées par le cours",
+    "verso": "CYP3A4, CYP2D6, CYP2C9, CYP2C19, CYP1A2.",
+    "tags": [
+      "CYP450"
+    ]
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/flashcard-024",
+    "recto": "Réaction de réduction : caractéristiques",
+    "verso": "Peu courante ; concerne aldéhydes, cétones, composés nitrés et azotés ; enzymes = réductases ; exemple : prednisone → prednisolone.",
+    "tags": [
+      "réduction"
+    ]
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/flashcard-025",
+    "recto": "Réaction d'hydrolyse : substrats et enzymes",
+    "verso": "Esters, amides, composés phosphorés ; estérases non spécifiques et amidases, présentes dans les tissus et le plasma.",
+    "tags": [
+      "hydrolyse"
+    ]
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/flashcard-026",
+    "recto": "Hydrolyse de l'aspirine",
+    "verso": "Aspirine → acide salicylique + acide acétique.",
+    "tags": [
+      "hydrolyse"
+    ]
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/flashcard-027",
+    "recto": "Groupes fonctionnels portés par les métabolites de phase I",
+    "verso": "Hydroxyles (OH), amines (NH2) ou carboxyles (COOH).",
+    "tags": [
+      "phase I"
+    ]
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/flashcard-028",
+    "recto": "Principe des réactions de phase II",
+    "verso": "Rattachement de petites molécules polaires endogènes (acide glucuronique, sulfate, acides aminés) au médicament ou aux métabolites de phase I.",
+    "tags": [
+      "phase II"
+    ]
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/flashcard-029",
+    "recto": "Caractéristiques des réactions de phase II",
+    "verso": "Catalysées par des transférases spécifiques, nécessitent de l'ATP ; métabolites très souvent inactifs, plus hydrosolubles et rapidement excrétés.",
+    "tags": [
+      "phase II"
+    ]
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/flashcard-030",
+    "recto": "Glucuroconjugaison : enzyme et exemples",
+    "verso": "UDP-glucuronyl-transférase (enzyme microsomale) ; exemples : oxazépam, aspirine. C'est la conjugaison la plus importante (+++).",
+    "tags": [
+      "glucuroconjugaison"
+    ]
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/flashcard-031",
+    "recto": "Sulfoconjugaison : enzyme et exemple",
+    "verso": "Sulfotransférase ; exemple : stéroïdes.",
+    "tags": [
+      "sulfoconjugaison"
+    ]
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/flashcard-032",
+    "recto": "Acétylation : enzyme et exemple",
+    "verso": "N-acétyl-transférase ; exemple : isoniazide.",
+    "tags": [
+      "acétylation"
+    ]
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/flashcard-033",
+    "recto": "Conjugaison aux acides aminés : acides aminés, enzymes et exemple",
+    "verso": "Glycine et glutamine ; glycine N-acétyltransférase et glutamine N-acétyltransférase ; exemple : salicylates.",
+    "tags": [
+      "conjugaison aux acides aminés"
+    ]
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/flashcard-034",
+    "recto": "N-transméthylation : enzyme et exemple",
+    "verso": "Méthyltransférase ; exemple : morphine.",
+    "tags": [
+      "N-transméthylation"
+    ]
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/flashcard-035",
+    "recto": "Conjugaison au glutathion : enzyme et exemple",
+    "verso": "Glutathion-S-transférase ; exemple : paracétamol.",
+    "tags": [
+      "glutathion"
+    ]
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/flashcard-036",
+    "recto": "Définition de l'effet de premier passage (EPP)",
+    "verso": "Perte de médicament par métabolisme avant son arrivée dans la circulation générale, dès son premier contact avec l'organe responsable de sa biotransformation.",
+    "tags": [
+      "EPP"
+    ]
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/flashcard-037",
+    "recto": "Les trois types d'EPP",
+    "verso": "Intestinal (EPPI), hépatique (EPPH), pulmonaire (EPPP).",
+    "tags": [
+      "EPP"
+    ]
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/flashcard-038",
+    "recto": "EPP de la voie orale",
+    "verso": "Intestinal, hépatique et pulmonaire.",
+    "tags": [
+      "EPP",
+      "voie orale"
+    ]
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/flashcard-039",
+    "recto": "EPP de la voie rectale",
+    "verso": "Veines hémorroïdales inférieures et moyennes → pulmonaire ; veines hémorroïdales supérieures → hépatique et pulmonaire.",
+    "tags": [
+      "EPP",
+      "voie rectale"
+    ]
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/flashcard-040",
+    "recto": "EPP des voies IV, IM et SC",
+    "verso": "Pulmonaire uniquement.",
+    "tags": [
+      "EPP"
+    ]
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/flashcard-041",
+    "recto": "Voies sans EPP",
+    "verso": "Voie locale et voie intra-artérielle.",
+    "tags": [
+      "EPP"
+    ]
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/flashcard-042",
+    "recto": "Classification des facteurs modifiant le métabolisme",
+    "verso": "Intrinsèques (physiologiques : âge, sexe, constitution génétique ; pathologiques : IH, IC) et extrinsèques (pharmacodynamiques : voie d'administration, posologie ; biochimiques/IAM : induction, inhibition).",
+    "tags": [
+      "facteurs de variation"
+    ]
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/flashcard-043",
+    "recto": "Métabolisme chez le nouveau-né",
+    "verso": "Immaturité de l'équipement enzymatique → ralentissement de l'activité métabolique.",
+    "tags": [
+      "âge"
+    ]
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/flashcard-044",
+    "recto": "Métabolisme chez le sujet âgé",
+    "verso": "Diminution de l'activité métabolique : baisse de la masse hépatique, du flux sanguin hépatique (0,3 à 1,5 %/an après 25 ans) et du pouvoir métabolique (> 30 % après 70 ans).",
+    "tags": [
+      "sujet âgé"
+    ]
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/flashcard-045",
+    "recto": "Influence du sexe sur le métabolisme",
+    "verso": "La femme présente généralement un métabolisme plus faible que celui de l'homme.",
+    "tags": [
+      "sexe"
+    ]
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/flashcard-046",
+    "recto": "Acétyleurs rapides vs lents (isoniazide)",
+    "verso": "Asiatiques : acétyleurs rapides (taux élevé d'acétyl-transférase, augmenter la posologie). Européens : acétyleurs lents (taux bas, diminuer la posologie).",
+    "tags": [
+      "isoniazide",
+      "génétique"
+    ]
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/flashcard-047",
+    "recto": "Déficit en G6PD",
+    "verso": "Peut entraîner des hémolyses favorisées par les antimalariques, l'aspirine, les sulfamides ; fréquence variable : Esquimaux 0 %, Noirs 2–30 %, Kurdes 50 %.",
+    "tags": [
+      "G6PD"
+    ]
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/flashcard-048",
+    "recto": "Conséquences de l'insuffisance hépatique sur le métabolisme",
+    "verso": "Diminution de l'activité enzymatique du foie et de l'EPPH → augmentation de la concentration plasmatique (risque de surdosage).",
+    "tags": [
+      "insuffisance hépatique"
+    ]
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/flashcard-049",
+    "recto": "Conséquence de l'insuffisance cardiaque sur le métabolisme",
+    "verso": "Limitation du flux sanguin arrivant au foie → altération des capacités métaboliques.",
+    "tags": [
+      "insuffisance cardiaque"
+    ]
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/flashcard-050",
+    "recto": "Influence de la voie d'administration sur la quantité de métabolites",
+    "verso": "Plus de métabolites par voie orale que par voie intraveineuse, du fait de l'effet de premier passage.",
+    "tags": [
+      "voie d'administration"
+    ]
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/flashcard-051",
+    "recto": "Influence de la posologie sur le métabolisme",
+    "verso": "Elle conditionne la quantité métabolisée ; une dose élevée peut saturer certaines voies métaboliques.",
+    "tags": [
+      "posologie"
+    ]
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/flashcard-052",
+    "recto": "Définition de l'induction enzymatique",
+    "verso": "Accélération du métabolisme des médicaments suite à la stimulation des systèmes enzymatiques par un médicament inducteur. Exemple : phénobarbital.",
+    "tags": [
+      "induction enzymatique"
+    ]
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/flashcard-053",
+    "recto": "Définition de l'inhibition enzymatique",
+    "verso": "Ralentissement du métabolisme des médicaments suite à l'inhibition des systèmes enzymatiques par un médicament inhibiteur. Exemple : cimétidine.",
+    "tags": [
+      "inhibition enzymatique"
+    ]
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/flashcard-054",
+    "recto": "Conséquences de l'induction selon la nature des métabolites",
+    "verso": "Métabolites inactifs → durée de l'effet thérapeutique raccourcie ; actifs → durée accrue ; toxiques → effets indésirables.",
+    "tags": [
+      "induction enzymatique"
+    ]
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/flashcard-055",
+    "recto": "Conséquences de l'inhibition enzymatique",
+    "verso": "Augmentation de la concentration et de la demi-vie plasmatique ; métabolites inactifs → effet thérapeutique accru et toxicité ; métabolites actifs → diminution de l'effet.",
+    "tags": [
+      "inhibition enzymatique"
+    ]
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/flashcard-056",
+    "recto": "Exemple d'induction : cyclosporine",
+    "verso": "Millepertuis et rifampicine induisent le CYP3A4 → élimination de la cyclosporine accélérée → augmenter la dose pour éviter le rejet.",
+    "tags": [
+      "cyclosporine"
+    ]
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/flashcard-057",
+    "recto": "Exemple d'inhibition : statines",
+    "verso": "Kétoconazole, itraconazole, érythromycine, diltiazem, pamplemousse inhibent le CYP3A4 → taux plasmatique de simvastatine augmenté → rhabdomyolyse.",
+    "tags": [
+      "statines"
+    ]
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/flashcard-058",
+    "recto": "Médicaments inducteurs enzymatiques (liste du cours)",
+    "verso": "Phénobarbital (barbituriques), phénytoïne, primidone, rifampicine, carbamazépine, griséofulvine, phénylbutazone.",
+    "tags": [
+      "inducteurs enzymatiques"
+    ]
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/flashcard-059",
+    "recto": "Médicaments inhibiteurs enzymatiques (liste du cours)",
+    "verso": "Cimétidine, chloramphénicol, disulfirame, isoniazide, macrolides, antifongiques azolés.",
+    "tags": [
+      "inhibiteurs enzymatiques"
+    ]
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/flashcard-060",
+    "recto": "Pourquoi connaître inducteurs et inhibiteurs ?",
+    "verso": "Parce que le métabolisme peut varier : ajustements de posologie et suivi thérapeutique (mesure des concentrations plasmatiques) peuvent être nécessaires.",
+    "tags": [
+      "conclusion"
+    ]
+  }
+]

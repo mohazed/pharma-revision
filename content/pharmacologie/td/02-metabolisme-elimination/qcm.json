@@ -1,0 +1,638 @@
+[
+  {
+    "id": "pharmacologie/td/02-metabolisme-elimination/qcm-001",
+    "type": "multiple",
+    "enonce": "Exercice 1 – Un sujet âgé insuffisant hépatique reçoit du propranolol et présente une hypotension avec syncope. Cette observation s'explique par :",
+    "options": [
+      "Une diminution de l'effet de premier passage hépatique",
+      "Une induction enzymatique",
+      "Une augmentation de l'effet de premier passage hépatique",
+      "Une diminution de l'activité enzymatique du foie",
+      "Une augmentation de la concentration plasmatique du médicament (surdosage)"
+    ],
+    "correctes": [
+      0,
+      3,
+      4
+    ],
+    "explication": "Au cours de l'IH, l'activité enzymatique hépatique diminue, l'EPPH diminue et la concentration plasmatique augmente (risque de surdosage), d'où l'hypotension et la syncope.",
+    "source": {
+      "page": 1,
+      "extrait": "Un sujet âgé avec insuffisance hépatique souffre d'hypertension artérielle (HTA)."
+    },
+    "difficulte": 2,
+    "tags": [
+      "insuffisance hépatique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/02-metabolisme-elimination/qcm-002",
+    "type": "multiple",
+    "enonce": "Exercice 1 – Le sujet âgé est un facteur aggravant car, au cours du vieillissement :",
+    "options": [
+      "L'activité métabolique augmente",
+      "La masse hépatique diminue",
+      "Le flux sanguin hépatique diminue",
+      "Le pouvoir métabolique hépatique diminue (plus de 30 % après 70 ans)",
+      "Le flux sanguin hépatique diminue de 0,3 % à 1,5 % par an après 25 ans"
+    ],
+    "correctes": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Le cours décrit chez le sujet âgé une diminution de la masse hépatique, du flux sanguin hépatique (0,3 à 1,5 %/an après 25 ans) et du pouvoir métabolique (> 30 % après 70 ans).",
+    "source": {
+      "page": 1,
+      "extrait": "Un sujet âgé avec insuffisance hépatique"
+    },
+    "difficulte": 2,
+    "tags": [
+      "sujet âgé"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/02-metabolisme-elimination/qcm-003",
+    "type": "multiple",
+    "enonce": "Exercice 1 – La conduite à tenir comprend :",
+    "options": [
+      "Informer le médecin de l'insuffisance hépatique",
+      "Augmenter la dose pour corriger l'hypotension",
+      "Associer un inducteur enzymatique systématiquement",
+      "Assurer un suivi thérapeutique (mesure des Cp) si nécessaire",
+      "Adapter (diminuer) la posologie"
+    ],
+    "correctes": [
+      0,
+      3,
+      4
+    ],
+    "explication": "L'IH augmente les concentrations : il faut en tenir compte, ajuster la posologie et, si nécessaire, recourir au suivi thérapeutique (mesure des Cp).",
+    "source": {
+      "page": 1,
+      "extrait": "Expliquer ce fait observé. Quelle serait la conduite à tenir ?"
+    },
+    "difficulte": 2,
+    "tags": [
+      "conduite à tenir"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/02-metabolisme-elimination/qcm-004",
+    "type": "multiple",
+    "enonce": "Concernant l'effet de premier passage hépatique (EPPH) :",
+    "options": [
+      "Il est absent par voie intra-artérielle",
+      "Le foie joue le rôle de « douane » entre le tube digestif et le reste de l'organisme",
+      "Il augmente en cas d'insuffisance hépatique",
+      "Le foie reçoit environ 1,5 L/min de sang par la veine porte",
+      "Il concerne surtout la voie orale"
+    ],
+    "correctes": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "explication": "L'EPPH (voie orale) diminue au cours de l'IH. Le foie, placé entre tube digestif et organisme, reçoit ≈ 1,5 L/min par la veine porte et ≈ 350 ml/min par l'artère hépatique.",
+    "source": {
+      "page": 1,
+      "extrait": "Après administration du médicament, le sujet présente subitement une hypotension accompagnée de syncope."
+    },
+    "difficulte": 2,
+    "tags": [
+      "effet de premier passage"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/02-metabolisme-elimination/qcm-005",
+    "type": "multiple",
+    "enonce": "Exercice 2 – Une femme sous contraceptif oral reçoit du phénobarbital et tombe enceinte. Cela s'explique par :",
+    "options": [
+      "La durée de l'effet thérapeutique du contraceptif est raccourcie",
+      "Le phénobarbital est un inducteur enzymatique",
+      "Le phénobarbital est un inhibiteur enzymatique",
+      "Le contraceptif s'accumule dans l'organisme",
+      "Le métabolisme du contraceptif est accéléré"
+    ],
+    "correctes": [
+      0,
+      1,
+      4
+    ],
+    "explication": "Le phénobarbital, inducteur enzymatique, accélère le métabolisme du contraceptif (métabolites inactifs) : l'effet est raccourci et la contraception devient inefficace.",
+    "source": {
+      "page": 1,
+      "extrait": "On prescrit à une dame sous contraceptif oral du phénobarbital pour ses crises d'épilepsie."
+    },
+    "difficulte": 2,
+    "tags": [
+      "induction enzymatique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/02-metabolisme-elimination/qcm-006",
+    "type": "multiple",
+    "enonce": "Parmi les médicaments suivants, lesquels sont cités dans le cours comme inducteurs enzymatiques ?",
+    "options": [
+      "Phénobarbital",
+      "Phénytoïne",
+      "Carbamazépine",
+      "Cimétidine",
+      "Rifampicine"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explication": "Inducteurs : phénobarbital, phénytoïne, primidone, rifampicine, carbamazépine, griséofulvine, phénylbutazone. La cimétidine est un inhibiteur enzymatique.",
+    "source": {
+      "page": 1,
+      "extrait": "du phénobarbital pour ses crises d'épilepsie"
+    },
+    "difficulte": 1,
+    "tags": [
+      "inducteurs"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/02-metabolisme-elimination/qcm-007",
+    "type": "multiple",
+    "enonce": "Parmi les médicaments suivants, lesquels sont des inhibiteurs enzymatiques selon le cours ?",
+    "options": [
+      "Cimétidine",
+      "Antifongiques azolés",
+      "Chloramphénicol",
+      "Macrolides",
+      "Griséofulvine"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Inhibiteurs : cimétidine, chloramphénicol, disulfirame, isoniazide, macrolides, antifongiques azolés. La griséofulvine est un inducteur.",
+    "source": {
+      "page": 1,
+      "extrait": "Expliquer ce qui s'est passé."
+    },
+    "difficulte": 1,
+    "tags": [
+      "inhibiteurs"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/02-metabolisme-elimination/qcm-008",
+    "type": "multiple",
+    "enonce": "Concernant l'induction enzymatique :",
+    "options": [
+      "Si les métabolites sont toxiques, les effets indésirables augmentent",
+      "Si les métabolites sont inactifs, la durée de l'effet thérapeutique est raccourcie",
+      "Exemple : la rifampicine accélère l'élimination de la ciclosporine (CYP3A4)",
+      "C'est une accélération du métabolisme suite à la stimulation des systèmes enzymatiques",
+      "Elle augmente toujours l'efficacité du médicament associé"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "L'induction accélère le métabolisme : effet raccourci (métabolites inactifs), effets indésirables (métabolites toxiques), effet prolongé (métabolites actifs). Exemple : millepertuis/rifampicine et ciclosporine → augmenter la dose pour éviter le rejet.",
+    "source": {
+      "page": 1,
+      "extrait": "Malgré ses précautions, elle tombe enceinte."
+    },
+    "difficulte": 2,
+    "tags": [
+      "induction enzymatique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/02-metabolisme-elimination/qcm-009",
+    "type": "multiple",
+    "enonce": "Exercice 2 – La conduite à tenir aurait dû être :",
+    "options": [
+      "Éviter l'association ou adapter la stratégie contraceptive",
+      "Ne rien changer car il n'y a pas d'interaction",
+      "Ajouter un second inducteur enzymatique",
+      "Connaître l'interaction entre un inducteur enzymatique et le contraceptif oral",
+      "Recourir à un ajustement thérapeutique tenant compte de l'interaction"
+    ],
+    "correctes": [
+      0,
+      3,
+      4
+    ],
+    "explication": "Le cours souligne l'importance de connaître inducteurs et inhibiteurs enzymatiques et le recours à des ajustements ; l'interaction phénobarbital–contraceptif doit être anticipée.",
+    "source": {
+      "page": 1,
+      "extrait": "Quelle devait être la conduite à tenir ?"
+    },
+    "difficulte": 2,
+    "tags": [
+      "conduite à tenir"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/02-metabolisme-elimination/qcm-010",
+    "type": "unique",
+    "enonce": "Exercice 3a – Patiente de 25 ans, médicament A IV : Cp = 0,12 mg/L à t0 ; 0,06 mg/L à 20 min ; 0,05 à 30 min ; 0,03 à 40 min. Le temps de demi-vie est :",
+    "options": [
+      "40 min",
+      "10 min",
+      "30 min",
+      "60 min",
+      "20 min"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "La concentration passe de 0,12 à 0,06 mg/L (moitié) en 20 min : t1/2 = 20 min.",
+    "source": {
+      "page": 1,
+      "extrait": "0,12 0,06 0,05 0,03"
+    },
+    "difficulte": 1,
+    "tags": [
+      "demi-vie",
+      "calcul"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/02-metabolisme-elimination/qcm-011",
+    "type": "unique",
+    "enonce": "Exercice 3b – Dame de 60 ans, même médicament : Cp = 0,12 mg/L à t0 ; 0,09 à 20 min ; 0,06 à 30 min ; 0,05 à 40 min. Le temps de demi-vie est :",
+    "options": [
+      "60 min",
+      "30 min",
+      "40 min",
+      "10 min",
+      "20 min"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "0,12 → 0,06 mg/L en 30 min : t1/2 = 30 min.",
+    "source": {
+      "page": 2,
+      "extrait": "0,12 0,09 0,06 0,05"
+    },
+    "difficulte": 1,
+    "tags": [
+      "demi-vie",
+      "calcul"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/02-metabolisme-elimination/qcm-012",
+    "type": "multiple",
+    "enonce": "Exercice 3b – Sachant que A n'est pas métabolisé et est éliminé par voie rénale, l'allongement de la demi-vie (20 → 30 min) oriente vers :",
+    "options": [
+      "Un ralentissement de l'élimination",
+      "Un risque d'accumulation et d'effets toxiques",
+      "Une diminution de la fonction rénale",
+      "Une accélération de l'élimination",
+      "Une insuffisance hépatique"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "A étant exclusivement éliminé par le rein sans métabolisme, l'allongement de t1/2 traduit une baisse de la fonction rénale ; toute insuffisance de l'organe d'élimination ralentit l'élimination et expose à l'accumulation et à la toxicité.",
+    "source": {
+      "page": 2,
+      "extrait": "Sachant que la molécule A ne subit pas de métabolisation et est éliminée par voie rénale."
+    },
+    "difficulte": 2,
+    "tags": [
+      "fonction rénale"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/02-metabolisme-elimination/qcm-013",
+    "type": "multiple",
+    "enonce": "Exercice 3 – Calcul des constantes d'élimination :",
+    "options": [
+      "La ke augmente chez la dame de 60 ans",
+      "ke = t1/2 / ln2",
+      "La ke diminue quand la t1/2 augmente",
+      "Dame de 60 ans : ke ≈ 0,0231 min⁻¹",
+      "Patiente de 25 ans : ke ≈ 0,0347 min⁻¹"
+    ],
+    "correctes": [
+      2,
+      3,
+      4
+    ],
+    "explication": "ke = ln2/t1/2 : 0,693/20 ≈ 0,0347 min⁻¹ et 0,693/30 ≈ 0,0231 min⁻¹ ; ke et t1/2 varient en sens inverse.",
+    "source": {
+      "page": 2,
+      "extrait": "Quelle serait la valeur du temps de demi vie du médicament A ?"
+    },
+    "difficulte": 2,
+    "tags": [
+      "Ke",
+      "calcul"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/02-metabolisme-elimination/qcm-014",
+    "type": "multiple",
+    "enonce": "Concernant la demi-vie d'élimination (cours d'élimination) :",
+    "options": [
+      "Elle représente le temps nécessaire pour éliminer la moitié de la quantité de PA de l'organisme",
+      "Elle s'exprime en unité de temps",
+      "Plus elle est courte, plus le nombre de prises par jour sera important",
+      "Plus elle est longue, plus les prises doivent être rapprochées",
+      "En cas d'insuffisance rénale, elle peut s'allonger pour un médicament éliminé par le rein"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explication": "Plus la demi-vie est courte, plus la fréquence d'administration est rapprochée (d faux). L'IR ralentit l'élimination des médicaments éliminés par le rein.",
+    "source": {
+      "page": 2,
+      "extrait": "Vers quoi nous orientent ces données par rapport aux fonctions physiologiques de la dame ?"
+    },
+    "difficulte": 1,
+    "tags": [
+      "demi-vie"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/02-metabolisme-elimination/qcm-015",
+    "type": "unique",
+    "enonce": "Exercice 4 – Un patient sous digoxine émet 100 ml d'urine en 1 h, de concentration urinaire 80 µg/ml ; la Cp est de 2 µg/ml. La clairance rénale est :",
+    "options": [
+      "8000 ml/h",
+      "40 ml/h",
+      "4000 ml/h (≈ 66,7 ml/min)",
+      "1,6 ml/min",
+      "16 000 ml/h"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Cl = U × V / P = 80 × 100 / 2 = 4000 ml/h, soit ≈ 66,7 ml/min.",
+    "source": {
+      "page": 2,
+      "extrait": "urine en une heure 100 ml d'urine présentant une concentration urinaire de 80 μg/ml"
+    },
+    "difficulte": 2,
+    "tags": [
+      "clairance rénale",
+      "calcul"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/02-metabolisme-elimination/qcm-016",
+    "type": "multiple",
+    "enonce": "Concernant la clairance :",
+    "options": [
+      "La clairance totale est la somme des clairances partielles (rénale, hépatique, pulmonaire, intestinale)",
+      "Cl rénale = U × V / P",
+      "Elle s'exprime en mg/ml",
+      "C'est le volume de liquide complètement épuré du PA dans un temps donné",
+      "Elle s'applique à tous les organes d'élimination"
+    ],
+    "correctes": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "explication": "Clairance : volume complètement épuré par unité de temps (ml/min) ; somme des clairances partielles ; Cl rénale = U·V/P.",
+    "source": {
+      "page": 2,
+      "extrait": "Calculer la clairance de la digoxine."
+    },
+    "difficulte": 1,
+    "tags": [
+      "clairance"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/02-metabolisme-elimination/qcm-017",
+    "type": "multiple",
+    "enonce": "Concernant l'élimination digestive de la digoxine et l'élimination rénale :",
+    "options": [
+      "La filtration glomérulaire est un mécanisme actif",
+      "Seule la fraction libre est filtrée par le glomérule",
+      "La digoxine est retrouvée dans les sécrétions intestinales",
+      "Le débit sanguin rénal est d'environ 1400 ml/min",
+      "Le rein est la principale voie d'excrétion des médicaments"
+    ],
+    "correctes": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "La filtration glomérulaire est passive (PM < 68 000 Da, fraction libre). La sécrétion tubulaire est active. La digoxine est citée dans l'élimination gastro-intestinale.",
+    "source": {
+      "page": 2,
+      "extrait": "Un patient traité par la digoxine"
+    },
+    "difficulte": 2,
+    "tags": [
+      "élimination rénale"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/02-metabolisme-elimination/qcm-018",
+    "type": "multiple",
+    "enonce": "Exercice 5 – Un enfant intoxiqué par le phénobarbital (acide faible) reçoit une perfusion de bicarbonate. Cette mesure :",
+    "options": [
+      "Diminue la réabsorption tubulaire passive",
+      "Augmente l'élimination urinaire du phénobarbital",
+      "Augmente l'ionisation du phénobarbital dans l'urine",
+      "Alcalinise les urines",
+      "Augmente la réabsorption tubulaire"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Le bicarbonate élève le pH urinaire : l'acide faible s'ionise, devient moins réabsorbable (seules les molécules liposolubles non ionisées sont réabsorbées passivement) et son élimination urinaire augmente.",
+    "source": {
+      "page": 2,
+      "extrait": "il reçoit une perfusion de bicarbonate. Justifier l'utilisation du bicarbonate."
+    },
+    "difficulte": 2,
+    "tags": [
+      "alcalinisation",
+      "intoxication"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/02-metabolisme-elimination/qcm-019",
+    "type": "multiple",
+    "enonce": "Concernant la réabsorption tubulaire passive des acides :",
+    "options": [
+      "Elle concerne les molécules liposolubles non ionisées",
+      "Elle dépend du pH urinaire et du pKa de la molécule",
+      "Acides forts (pKa < 2,5) : ionisés en totalité, jamais réabsorbés",
+      "Pour 2,5 ≤ pKa ≤ 7,5 : influence importante du pH sur la réabsorption",
+      "Acides très faibles (pKa > 7,5) : jamais réabsorbés"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Les acides très faibles (pKa > 7,5) sont non ionisés au pH urinaire : réabsorption intense et permanente (e faux).",
+    "source": {
+      "page": 2,
+      "extrait": "Un jeune enfant souffrant d'épilepsie est traité par le phénobarbital (acide faible)."
+    },
+    "difficulte": 2,
+    "tags": [
+      "réabsorption tubulaire"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/02-metabolisme-elimination/qcm-020",
+    "type": "multiple",
+    "enonce": "Concernant la réabsorption tubulaire passive des bases :",
+    "options": [
+      "Bases très faibles (pKa < 6) : réabsorption intense et permanente",
+      "Bases fortes (pKa > 12) : ionisées en totalité, jamais réabsorbées",
+      "L'alcalinisation des urines favoriserait l'élimination d'une base faible",
+      "6 ≤ pKa ≤ 12 : influence importante du pH sur la réabsorption",
+      "L'acidification des urines favoriserait l'élimination d'une base faible"
+    ],
+    "correctes": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "explication": "Une base faible s'ionise en milieu acide : acidifier l'urine diminue sa réabsorption et augmente son élimination ; l'alcalinisation aurait l'effet inverse.",
+    "source": {
+      "page": 2,
+      "extrait": "Justifier l'utilisation du bicarbonate."
+    },
+    "difficulte": 3,
+    "tags": [
+      "réabsorption tubulaire"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/02-metabolisme-elimination/qcm-021",
+    "type": "multiple",
+    "enonce": "Concernant la sécrétion tubulaire :",
+    "options": [
+      "Elle concerne la fraction hydrosoluble ionisée",
+      "Elle transporte les substances du liquide péritubulaire vers le liquide tubulaire",
+      "C'est un mécanisme actif (saturation, compétition)",
+      "Le probénécide retarde l'élimination de la pénicilline G par compétition",
+      "Elle a lieu au niveau du TCP"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Toutes ces propositions figurent dans le cours d'élimination.",
+    "source": {
+      "page": 2,
+      "extrait": "Un jeune enfant souffrant d'épilepsie"
+    },
+    "difficulte": 2,
+    "tags": [
+      "sécrétion tubulaire"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/02-metabolisme-elimination/qcm-022",
+    "type": "multiple",
+    "enonce": "Le phénobarbital intervient dans plusieurs exercices de ce TD. Cochez les propositions correctes :",
+    "options": [
+      "C'est un acide faible",
+      "Son élimination urinaire est augmentée par l'alcalinisation des urines",
+      "C'est un inhibiteur enzymatique",
+      "Son métabolite hydroxyphénobarbital est inactif",
+      "C'est un inducteur enzymatique"
+    ],
+    "correctes": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "explication": "Phénobarbital : inducteur enzymatique (exercice 2), acide faible dont l'élimination augmente par alcalinisation (exercice 5) ; le cours cite l'hydroxyphénobarbital comme métabolite inactif.",
+    "source": {
+      "page": 2,
+      "extrait": "phénobarbital (acide faible)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "phénobarbital"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/02-metabolisme-elimination/qcm-023",
+    "type": "multiple",
+    "enonce": "Concernant les facteurs modifiant le métabolisme :",
+    "options": [
+      "L'insuffisance cardiaque limite le flux sanguin hépatique",
+      "Le nouveau-né a un équipement enzymatique immature",
+      "Les européens sont des acétyleurs lents de l'isoniazide",
+      "Le sujet âgé a une activité métabolique diminuée",
+      "La femme présente généralement un métabolisme plus faible que l'homme"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Toutes ces propositions figurent parmi les facteurs intrinsèques (physiologiques, génétiques, pathologiques) du cours de métabolisme.",
+    "source": {
+      "page": 1,
+      "extrait": "Un sujet âgé avec insuffisance hépatique"
+    },
+    "difficulte": 2,
+    "tags": [
+      "facteurs du métabolisme"
+    ],
+    "origine": "genere"
+  }
+]

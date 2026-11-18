@@ -1,0 +1,14 @@
+---
+import Base from "../layouts/Base.astro";
+import EnTete from "../components/EnTete.astro";
+import Annales from "../islands/Annales";
+import { getIndex } from "../lib/content";
+const index = getIndex();
+---
+<Base titre="Annales" description="Les anciens sujets d'EMD de la Faculté de Pharmacie d'Alger, à passer en conditions réelles et chronométrées.">
+  <EnTete surtitre="Sujets d'EMD" titre="Annales" sousTitre="Les anciens examens, transcrits et corrigés à partir des cours. Chaque question est aussi intégrée au cours correspondant (badge « Annale »)." />
+  <Annales client:only="react" annales={index.annales}>
+    <p slot="fallback" class="text-ink-muted">Chargement…</p>
+  </Annales>
+  <p class="mt-6 text-sm text-ink-muted">Les réponses ont été vérifiées sur le cours ; une question marquée « Réponse non vérifiée » n'a pas pu l'être. Signalez toute erreur avec « ⚑ Signaler ».</p>
+</Base>

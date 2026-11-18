@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chimie-therapeutique/04-antidepresseurs-partie-1/mnemo-001",
+    "titre": "Monoamines et fonctions",
+    "moyen": "« NA = Attention, 5-HT = Humeur/Sommeil, DA = Mouvement/Motivation »",
+    "explication": "Les trois monoamines dont le taux synaptique est diminué dans la dépression et leurs fonctions."
+  },
+  {
+    "id": "chimie-therapeutique/04-antidepresseurs-partie-1/mnemo-002",
+    "titre": "Les deux séries de tricycliques",
+    "moyen": "« -PRAMINE = azote ; -PTYLINE = double liaison »",
+    "explication": "La série de l'imipramine porte la chaîne sur l'azote, celle de l'amitriptyline sur un carbone à double liaison exocyclique."
+  },
+  {
+    "id": "chimie-therapeutique/04-antidepresseurs-partie-1/mnemo-003",
+    "titre": "Amines secondaires des tricycliques",
+    "moyen": "« DÉS- et NOR- : il manque un méthyle »",
+    "explication": "Désipramine et nortriptyline sont les déméthylés (amines secondaires) de l'imipramine et de l'amitriptyline."
+  },
+  {
+    "id": "chimie-therapeutique/04-antidepresseurs-partie-1/mnemo-004",
+    "titre": "Synthèse de l'amitriptyline",
+    "moyen": "« Subérone + Grignard cyclopropyle → carbinol → bromé → amine »",
+    "explication": "Les quatre étapes : addition, hydrolyse, ouverture du cyclopropane par HBr, amination par la diméthylamine."
+  },
+  {
+    "id": "chimie-therapeutique/04-antidepresseurs-partie-1/mnemo-005",
+    "titre": "Pôles thérapeutiques",
+    "moyen": "« Du tonique IMAO au sédatif Amitriptyline »",
+    "explication": "Classification thérapeutique : IMAO et désipramine (psychotoniques) → intermédiaires → maprotiline, amitriptyline, trimipramine, miansérine (sédatifs)."
+  }
+]

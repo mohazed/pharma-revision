@@ -1,0 +1,13 @@
+{
+  "id": "pharmacie-galenique/08-dissolution-filtration",
+  "module": "pharmacie-galenique",
+  "ordre": 8,
+  "titre": "Dissolution et filtration",
+  "source": {
+    "driveId": "13EXIQfSmp6k14I9BY_2NT0JluzAZCE-F",
+    "fichier": "8.Dissolution_et_filtration_reorganise (1).pdf",
+    "modifiedTime": "2026-11-12T16:48:40.488Z"
+  },
+  "resume": "Dissolution (définitions, facteurs de solubilité, vitesse de dissolution selon Noyes-Whitney, dissolution simple et extractive) et filtration (classification, mécanismes, matériaux, adjuvants, conduite et contrôles dont le test du point de bulle).",
+  "type": "cours"
+}

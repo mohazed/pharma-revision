@@ -1,0 +1,65 @@
+{
+  "id": "chimie-analytique/02-extraction-liquide-liquide/fiche-001",
+  "titre": "Extraction liquide-liquide et extraction simple",
+  "sections": [
+    {
+      "titre": "Principe",
+      "points": [
+        "Transfert d'un soluté d'une phase liquide vers un solvant **non miscible**, selon sa solubilité dans chacun.",
+        "Avantages : simple, rapide, peu de matériel, nombreuses substances, quantités importantes ou traces.",
+        "Sélectivité : solvant, **pH**, **chélates**, **paires d'ions**."
+      ]
+    },
+    {
+      "titre": "Coefficient de partage",
+      "points": [
+        "Distribution régulière : **CB = λ·CA** (droite).",
+        "λ : constante thermodynamique, varie avec T ; **λ = SB/SA**.",
+        "Loi de **Berthelot-Jungfleisch** : non miscibilité, même état physique, T constante."
+      ]
+    },
+    {
+      "titre": "Taux de distribution",
+      "points": [
+        "**D = CB totale/CA totale** (toutes formes) ; D = λ si forme unique.",
+        "Phénol + base forte : D = [ArOH]org/([ArOH]aq + [ArO⁻]aq) < λ.",
+        "D constant → distribution régulière ; sinon irrégulière (tamponner !)."
+      ]
+    },
+    {
+      "titre": "Quantités et rendement",
+      "points": [
+        "Q = C·V ; **α = QB/QA = λ·VB/VA** (non constant).",
+        "**ρ = QB/QA0** ; QA0 = QA + QB (Lavoisier)."
+      ]
+    },
+    {
+      "titre": "Extraction simple",
+      "points": [
+        "Raffiné (A appauvrie) / extrait (B enrichie) ; étage = agitation + décantation.",
+        "QA1 = QA0/(1+α) ; QB1 = αQA0/(1+α) ; CB1 = λCA0/(1+α).",
+        "**ρ = α/(1+α) = 1 − VA/(VA + λVB)** : jamais 100 %, ↑ avec VB et λ.",
+        "Irrégulière : méthode graphique, droite de pente −VA/VB, intersection M (CA1, CB1)."
+      ]
+    },
+    {
+      "titre": "Exemple pénicilline",
+      "points": [
+        "Acétate d'amyle, pH 2,3, λ = 15, VB/VA = 1/5 → α = 3, ρ = 75 %.",
+        "VB/VA = 3/5 → α = 9, ρ = 90 % : volume ×3 pour +15 % → préférer l'extraction répétée."
+      ]
+    }
+  ],
+  "aRetenir": [
+    "ρ = α/(1+α) avec α = λVB/VA.",
+    "Fraction restante = 1/(1+α).",
+    "λ = SB/SA."
+  ],
+  "pieges": [
+    "λ est indépendant des volumes ; α et ρ en dépendent.",
+    "Le rendement est un rapport de QUANTITÉS, pas de concentrations.",
+    "Raffiné = phase A (initiale), extrait = phase B (solvant).",
+    "Multiplier VB par k ne multiplie pas ρ par k.",
+    "Pente de la droite graphique : −VA/VB (et non −VB/VA)."
+  ]
+}

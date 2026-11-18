@@ -1,0 +1,1258 @@
+[
+  {
+    "id": "pharmacie-galenique/07-melange-des-poudres/qcm-001",
+    "type": "multiple",
+    "enonce": "Concernant la définition du mélange des poudres pharmaceutiques :",
+    "options": [
+      "C'est une opération fondamentale qui consiste à rendre aussi homogène que possible une association de plusieurs produits",
+      "Le résultat de l'opération est une préparation qui porte aussi le nom de mélange",
+      "Son but est d'obtenir une homogénéité de répartition compatible avec l'activité thérapeutique",
+      "C'est une opération qui a pour but principal de réduire la taille des particules",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Le mélange vise à rendre aussi homogène que possible une association de plusieurs produits ; le produit obtenu s'appelle aussi mélange, avec une homogénéité compatible avec l'activité thérapeutique. La réduction de taille n'est pas la définition du mélange, donc e est fausse.",
+    "source": {
+      "page": 6,
+      "extrait": "Le mélange est une opération fondamentale qui consiste à rendre aussi homogène que possible une association de plusieurs produits."
+    },
+    "difficulte": 1,
+    "tags": [
+      "définition"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/07-melange-des-poudres/qcm-002",
+    "type": "multiple",
+    "enonce": "Formuler un produit pharmaceutique, c'est :",
+    "options": [
+      "Associer un certain nombre de composants",
+      "Obtenir une forme pharmaceutique adaptée à la voie d'administration choisie",
+      "Viser le traitement des patients",
+      "Utiliser obligatoirement un seul composant actif sans excipient",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Selon l'introduction, formuler c'est associer un certain nombre de composants pour obtenir une forme adaptée à la voie d'administration choisie pour traiter les patients. La proposition d est inventée.",
+    "source": {
+      "page": 3,
+      "extrait": "Formuler un produit pharmaceutique, c'est associer un certain nombre de composants avec l'objectif d'obtenir une forme pharmaceutique adaptée"
+    },
+    "difficulte": 1,
+    "tags": [
+      "introduction"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/07-melange-des-poudres/qcm-003",
+    "type": "multiple",
+    "enonce": "L'intérêt d'un mélange homogène réside dans :",
+    "options": [
+      "Un dosage précis : distribution uniforme des ingrédients actifs dans chaque dose",
+      "L'efficacité du traitement : absorption et biodisponibilité optimales",
+      "La sécurité du patient : éviter des variations de dosage",
+      "La diminution systématique du coût de fabrication",
+      "La suppression de tout contrôle de dosage du principe actif"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Le cours cite trois intérêts : dosage précis, efficacité du traitement et sécurité du patient. Le coût n'est pas cité et le dosage du PA reste indispensable.",
+    "source": {
+      "page": 7,
+      "extrait": "Un mélange homogène garantit la distribution uniforme des ingrédients actifs dans chaque dose."
+    },
+    "difficulte": 1,
+    "tags": [
+      "intérêt"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/07-melange-des-poudres/qcm-004",
+    "type": "multiple",
+    "enonce": "Des variations de dosage dues à un mélange hétérogène peuvent entraîner :",
+    "options": [
+      "Des effets secondaires indésirables",
+      "Une inefficacité du traitement",
+      "Une amélioration de la biodisponibilité",
+      "Un risque particulier pour les principes actifs à index thérapeutique étroit",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      0,
+      1,
+      3
+    ],
+    "explication": "Les variations de dosage peuvent entraîner des effets indésirables ou une inefficacité ; la conclusion insiste sur les PA à index thérapeutique étroit où une infime variation peut être fatale. Un mélange incorrect n'améliore pas la biodisponibilité.",
+    "source": {
+      "page": 7,
+      "extrait": "Des variations de dosage peuvent entraîner des effets secondaires indésirables ou une inefficacité du traitement."
+    },
+    "difficulte": 1,
+    "tags": [
+      "intérêt",
+      "sécurité"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/07-melange-des-poudres/qcm-005",
+    "type": "multiple",
+    "enonce": "Un mélange de poudres de bonne qualité doit :",
+    "options": [
+      "Être homogène",
+      "Bien s'écouler sans ségrégation pour permettre ultérieurement des répartitions régulières",
+      "Ne pas être contaminé par des substances étrangères",
+      "Conserver son intégralité au cours du temps (stabilité)",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Les quatre critères de qualité d'un mélange cités par le cours sont : homogénéité, bon écoulement sans ségrégation, absence de contamination et stabilité dans le temps. Toutes les propositions sont donc correctes.",
+    "source": {
+      "page": 8,
+      "extrait": "Bien s'écouler sans ségrégation pour permettre ultérieurement des répartitions régulières"
+    },
+    "difficulte": 1,
+    "tags": [
+      "qualité"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/07-melange-des-poudres/qcm-006",
+    "type": "unique",
+    "enonce": "Les différents états de mélange d'un système binaire, classés par uniformité croissante, sont :",
+    "options": [
+      "Non-mélange → ségrégation → mélange réel → mélange idéal",
+      "Ségrégation → non-mélange → mélange réel → mélange idéal",
+      "Non-mélange → mélange réel → ségrégation → mélange idéal",
+      "Mélange idéal → mélange réel → ségrégation → non-mélange",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Le schéma du cours place, selon une uniformité croissante : non-mélange (démélange), ségrégation, mélange réel (imparfait) puis mélange idéal (parfait).",
+    "source": {
+      "page": 9,
+      "extrait": "Non-mélange (démélange), ségrégation, Mélange réel ou imparfait, Mélange idéal ou parfait — uniformité croissante"
+    },
+    "difficulte": 2,
+    "tags": [
+      "états de mélange"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/07-melange-des-poudres/qcm-007",
+    "type": "multiple",
+    "enonce": "Concernant les états de mélange d'un système binaire :",
+    "options": [
+      "Le non-mélange est également appelé démélange",
+      "Le mélange réel est également appelé mélange imparfait",
+      "Le mélange idéal est également appelé mélange parfait",
+      "La ségrégation correspond à l'état d'uniformité la plus élevée",
+      "Le mélange réel présente une uniformité supérieure à celle du mélange idéal"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Synonymes du cours : non-mélange = démélange, mélange réel = imparfait, mélange idéal = parfait. La ségrégation est juste après le non-mélange (faible uniformité) et le mélange idéal est le plus uniforme.",
+    "source": {
+      "page": 9,
+      "extrait": "Non-mélange (démélange) … Mélange réel ou imparfait … Mélange idéal ou parfait"
+    },
+    "difficulte": 1,
+    "tags": [
+      "états de mélange"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/07-melange-des-poudres/qcm-008",
+    "type": "multiple",
+    "enonce": "La ségrégation d'un mélange de poudres entraîne une variabilité de teneur au niveau :",
+    "options": [
+      "Des comprimés",
+      "Des gélules",
+      "Des poudres à usage parentéral",
+      "Elle n'entraîne aucune variabilité de teneur",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Le cours relie la ségrégation à une variabilité de teneur des comprimés, des gélules et des poudres à usage parentéral.",
+    "source": {
+      "page": 10,
+      "extrait": "Variabilité de teneur - comprimés, - gélules, - poudre à usage parentéral"
+    },
+    "difficulte": 1,
+    "tags": [
+      "ségrégation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/07-melange-des-poudres/qcm-009",
+    "type": "multiple",
+    "enonce": "Les grandes catégories de variables influençant la qualité d'un mélange sont :",
+    "options": [
+      "Les propriétés des solides pulvérulents",
+      "Les conditions opératoires",
+      "Les matériels utilisés",
+      "La nature du conditionnement secondaire",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Trois catégories sont décrites : propriétés des solides pulvérulents, conditions opératoires et matériels utilisés. Le conditionnement n'en fait pas partie.",
+    "source": {
+      "page": 11,
+      "extrait": "Variables influençant la Qualité d'un mélange : Propriétés des solides pulvérulents, Conditions opératoires, Matériels utilisés"
+    },
+    "difficulte": 1,
+    "tags": [
+      "variables"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/07-melange-des-poudres/qcm-010",
+    "type": "multiple",
+    "enonce": "Parmi les facteurs suivants, lesquels sont liés au système pulvérulent ?",
+    "options": [
+      "La ténuité des composants",
+      "La densité",
+      "La vitesse de rotation du mélangeur",
+      "La forme des particules",
+      "Le temps de mélange"
+    ],
+    "correctes": [
+      0,
+      1,
+      3
+    ],
+    "explication": "Les facteurs liés au système pulvérulent sont : ténuité, densité, proportions, et autres (forme, état de surface, humidité, écoulement). La vitesse de rotation et le temps de mélange sont des conditions opératoires.",
+    "source": {
+      "page": 12,
+      "extrait": "Ténuité des composants • Densité • Proportions des différents composants • Autres: forme des particules, état de surface"
+    },
+    "difficulte": 2,
+    "tags": [
+      "variables",
+      "système pulvérulent"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/07-melange-des-poudres/qcm-011",
+    "type": "multiple",
+    "enonce": "Concernant la granulométrie (ténuité) des composants d'un mélange :",
+    "options": [
+      "C'est un facteur important pour l'obtention d'un mélange homogène",
+      "Il est préférable de mélanger des particules de mêmes dimensions",
+      "Si les particules n'ont pas des dimensions voisines, il se produit une ségrégation par la taille",
+      "Plus l'écart de taille entre les particules est grand, plus la ségrégation est faible",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "La granulométrie est un facteur important ; il faut des particules de mêmes dimensions, sinon il y a ségrégation par la taille. Plus l'écart de taille est grand, plus la ségrégation est IMPORTANTE (d fausse), donc e est fausse.",
+    "source": {
+      "page": 14,
+      "extrait": "Plus l'écart de taille entre les particules est grand, plus le phénomène de ségrégation est important."
+    },
+    "difficulte": 1,
+    "tags": [
+      "granulométrie",
+      "ségrégation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/07-melange-des-poudres/qcm-012",
+    "type": "unique",
+    "enonce": "Une différence de densité entre les constituants d'un mélange de poudres est :",
+    "options": [
+      "Défavorable au mélange",
+      "Favorable au mélange",
+      "Sans influence sur le mélange",
+      "Favorable uniquement en officine",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Le cours indique clairement qu'une différence de densité entre les constituants est défavorable au mélange.",
+    "source": {
+      "page": 15,
+      "extrait": "Une différence de densité entre les constituants est défavorable au mélange."
+    },
+    "difficulte": 1,
+    "tags": [
+      "densité"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/07-melange-des-poudres/qcm-013",
+    "type": "multiple",
+    "enonce": "Concernant le prémélange :",
+    "options": [
+      "Il est préférable dans les mélanges complexes comportant des constituants en proportions diverses",
+      "Il correspond au mélange des matières présentes en faible quantité, auxquelles on ajoute la même proportion de matières présentes en grande quantité",
+      "Le reste est ensuite ajouté progressivement, fraction par fraction",
+      "On commence par mélanger les matières présentes en grande quantité",
+      "Le reste est ajouté en une seule fois en fin d'opération"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Le prémélange part des matières en faible quantité, on y ajoute la même proportion de matières en grande quantité, puis le reste fraction par fraction. Il est recommandé pour les mélanges complexes à proportions diverses.",
+    "source": {
+      "page": 16,
+      "extrait": "correspond au mélange des matières présentes en faible quantité puis leur ajouter la même proportion en matières présentes en grande quantité."
+    },
+    "difficulte": 2,
+    "tags": [
+      "proportions",
+      "prémélange"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/07-melange-des-poudres/qcm-014",
+    "type": "multiple",
+    "enonce": "Concernant les proportions des différents composants d'un mélange :",
+    "options": [
+      "Elles peuvent rendre difficile le mélange",
+      "Elles constituent un facteur lié au système pulvérulent",
+      "Elles justifient parfois le recours au prémélange",
+      "Elles font partie des variables liées au matériel",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Les proportions sont un facteur lié au système pulvérulent, peuvent rendre le mélange difficile et justifient le prémélange dans les mélanges complexes. Elles ne sont pas liées au matériel (dimension, géométrie, mode de fonctionnement).",
+    "source": {
+      "page": 16,
+      "extrait": "Elles peuvent rendre difficile le mélange"
+    },
+    "difficulte": 1,
+    "tags": [
+      "proportions"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/07-melange-des-poudres/qcm-015",
+    "type": "multiple",
+    "enonce": "Concernant la forme des particules :",
+    "options": [
+      "Elle influe directement sur les caractéristiques d'écoulement des produits",
+      "La vitesse d'écoulement est plus grande pour les particules sphériques que pour les particules irrégulières",
+      "Les particules sphériques ont une forte tendance à ségréger",
+      "La ségrégation des particules sphériques est due à une augmentation des points de contact interparticulaires",
+      "Les particules de formes irrégulières s'écoulent plus vite que les particules sphériques"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "La forme influe sur l'écoulement ; les sphériques s'écoulent plus vite et ségrègent fortement par DIMINUTION des points de contact (glissement). d et e sont donc fausses.",
+    "source": {
+      "page": 17,
+      "extrait": "Les particules sphériques ont une forte tendance à ségréger et ceci par diminution des points de contact interparticulaire (glissement)."
+    },
+    "difficulte": 2,
+    "tags": [
+      "forme des particules",
+      "ségrégation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/07-melange-des-poudres/qcm-016",
+    "type": "unique",
+    "enonce": "La forte tendance des particules sphériques à ségréger s'explique par :",
+    "options": [
+      "Une diminution des points de contact interparticulaires (glissement)",
+      "Une augmentation des points de contact interparticulaires",
+      "Une rugosité de surface élevée",
+      "Une forte teneur en humidité",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Les particules sphériques ségrègent par diminution des points de contact interparticulaires, ce qui favorise le glissement.",
+    "source": {
+      "page": 17,
+      "extrait": "par diminution des points de contact interparticulaire (glissement)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "forme des particules"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/07-melange-des-poudres/qcm-017",
+    "type": "multiple",
+    "enonce": "Concernant l'état de surface et l'humidité des particules :",
+    "options": [
+      "La rugosité favorise l'adhésion des particules",
+      "La rugosité empêche le glissement des particules",
+      "Une forte proportion d'humidité empêche le glissement des particules",
+      "La rugosité favorise le glissement des particules",
+      "Une forte humidité favorise le glissement des particules"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Selon le cours, la rugosité favorise l'adhésion et empêche le glissement ; une forte humidité empêche aussi le glissement.",
+    "source": {
+      "page": 18,
+      "extrait": "la rugosité favorise l'adhésion des particules et empêche leur glissement. • Humidité: forte proportion empêche leur glissement."
+    },
+    "difficulte": 1,
+    "tags": [
+      "état de surface",
+      "humidité"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/07-melange-des-poudres/qcm-018",
+    "type": "multiple",
+    "enonce": "Parmi les facteurs suivants, lesquels empêchent le glissement des particules ?",
+    "options": [
+      "La rugosité de surface",
+      "Une forte proportion d'humidité",
+      "La forme sphérique",
+      "La diminution des points de contact interparticulaires",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "La rugosité et une forte humidité empêchent le glissement. Au contraire, la forme sphérique, par diminution des points de contact, favorise le glissement.",
+    "source": {
+      "page": 18,
+      "extrait": "Etat de surface des particules : la rugosité favorise l'adhésion des particules et empêche leur glissement."
+    },
+    "difficulte": 2,
+    "tags": [
+      "état de surface",
+      "humidité"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/07-melange-des-poudres/qcm-019",
+    "type": "multiple",
+    "enonce": "Concernant la vitesse de rotation du mélangeur :",
+    "options": [
+      "Elle concerne la rotation de la cuve ou du bras mélangeur",
+      "Elle doit être bien réglée",
+      "Une vitesse trop lente provoque une abrasion des particules",
+      "Une vitesse trop rapide crée une force centrifuge qui casse les particules",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes les propositions reprennent le cours : la vitesse de rotation (cuve ou bras) doit être bien réglée ; trop lente → abrasion ; trop rapide → force centrifuge qui casse les particules.",
+    "source": {
+      "page": 19,
+      "extrait": "une vitesse trop lente provoque une abrasion des particules • une vitesse trop rapide crée une force centrifuge qui casse les particules."
+    },
+    "difficulte": 2,
+    "tags": [
+      "conditions opératoires",
+      "vitesse de rotation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/07-melange-des-poudres/qcm-020",
+    "type": "unique",
+    "enonce": "Une vitesse de rotation trop LENTE du mélangeur provoque :",
+    "options": [
+      "Une abrasion des particules",
+      "Une force centrifuge qui casse les particules",
+      "Un mélange parfait plus rapide",
+      "Une contamination du mélange",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Une vitesse trop lente provoque une abrasion ; c'est la vitesse trop rapide qui crée une force centrifuge cassant les particules.",
+    "source": {
+      "page": 19,
+      "extrait": "une vitesse trop lente provoque une abrasion des particules"
+    },
+    "difficulte": 2,
+    "tags": [
+      "vitesse de rotation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/07-melange-des-poudres/qcm-021",
+    "type": "unique",
+    "enonce": "La charge d'un mélangeur doit être de l'ordre de :",
+    "options": [
+      "40 à 60 % de sa capacité totale",
+      "10 à 20 % de sa capacité totale",
+      "70 à 90 % de sa capacité totale",
+      "100 % de sa capacité totale",
+      "20 à 30 % de sa capacité totale"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "La charge du mélangeur doit être de 40 à 60 % de sa capacité totale afin de laisser un espace résiduel.",
+    "source": {
+      "page": 19,
+      "extrait": "La charge de mélangeur doit être de l'ordre de 40 à 60% de sa capacité totale afin de laisser un espace résiduel."
+    },
+    "difficulte": 1,
+    "tags": [
+      "volume de poudre"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/07-melange-des-poudres/qcm-022",
+    "type": "multiple",
+    "enonce": "Concernant les variables liées aux conditions opératoires :",
+    "options": [
+      "Le prolongement de l'opération de mélange peut conduire au démélange",
+      "Le prolongement du temps de mélange améliore toujours l'homogénéité",
+      "La charge du mélangeur doit laisser un espace résiduel",
+      "La température et l'humidité relative font partie de ces variables",
+      "Le volume de poudre n'a aucune influence"
+    ],
+    "correctes": [
+      0,
+      2,
+      3
+    ],
+    "explication": "Un temps trop long peut provoquer un démélange (b fausse). La charge de 40–60 % laisse un espace résiduel ; le volume de poudre est un facteur majeur (+++), donc e est fausse. Température et humidité relative sont citées (+).",
+    "source": {
+      "page": 19,
+      "extrait": "Le temps de mélange +++ le prolongement de l'opération de mélange peut conduire au démélange."
+    },
+    "difficulte": 2,
+    "tags": [
+      "conditions opératoires",
+      "temps de mélange"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/07-melange-des-poudres/qcm-023",
+    "type": "multiple",
+    "enonce": "Parmi les variables opératoires, celles affectées de l'indice d'importance majeure (+++) sont :",
+    "options": [
+      "La vitesse de rotation",
+      "Le volume de poudre",
+      "Le temps de mélange",
+      "La température et l'humidité relative",
+      "La géométrie du mélangeur"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "La vitesse de rotation, le volume de poudre et le temps de mélange sont notés +++. La température et l'humidité relative sont notées + seulement ; la géométrie est une variable liée au matériel.",
+    "source": {
+      "page": 19,
+      "extrait": "la vitesse de rotation +++ … Le volume de poudre +++ … Le temps de mélange +++ … La température et l'humidité relative +"
+    },
+    "difficulte": 3,
+    "tags": [
+      "conditions opératoires"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/07-melange-des-poudres/qcm-024",
+    "type": "multiple",
+    "enonce": "Les variables liées au matériel utilisé pour le mélange sont :",
+    "options": [
+      "La dimension",
+      "La géométrie",
+      "Le mode de fonctionnement",
+      "La densité des poudres",
+      "La ténuité des composants"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Les variables liées au matériel sont la dimension, la géométrie et le mode de fonctionnement. Densité et ténuité sont des propriétés des solides pulvérulents.",
+    "source": {
+      "page": 20,
+      "extrait": "Variables liées au matériel utilisé • Dimension • Géométrie • Mode de fonctionnement"
+    },
+    "difficulte": 1,
+    "tags": [
+      "matériel"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/07-melange-des-poudres/qcm-025",
+    "type": "multiple",
+    "enonce": "En officine, le mélange des poudres :",
+    "options": [
+      "Est réalisé à l'aide d'un mortier",
+      "Peut être réalisé dans un flacon hermétiquement clos, par agitation",
+      "Se fait en imprimant des mouvements circulaires en alternance avec des mouvements en forme de trèfle et de « 8 »",
+      "Se fait obligatoirement dans un mélangeur à fluidisation",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "En officine on utilise un mortier ou un flacon hermétiquement clos agité ; au mortier on alterne mouvements circulaires, en trèfle et en « 8 ». Le mélangeur à fluidisation est un matériel industriel.",
+    "source": {
+      "page": 22,
+      "extrait": "des mouvements circulaires, en alternance avec des mouvements en forme de trèfle et en forme de « 8 »."
+    },
+    "difficulte": 1,
+    "tags": [
+      "officine"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/07-melange-des-poudres/qcm-026",
+    "type": "multiple",
+    "enonce": "Concernant la classification des mélangeurs industriels :",
+    "options": [
+      "Les mélangeurs à chute libre sont des mélangeurs à cuves mobiles",
+      "Les mélangeurs convectifs ou malaxeurs sont des mélangeurs à cuves fixes",
+      "Les mélangeurs statiques fonctionnent par fluidisation",
+      "Les malaxeurs sont des mélangeurs à cuves mobiles",
+      "Les mélangeurs à chute libre sont des mélangeurs à cuves fixes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Chute libre = cuves mobiles ; convectifs/malaxeurs = cuves fixes ; statiques = fluidisation. d et e inversent les définitions.",
+    "source": {
+      "page": 23,
+      "extrait": "Les mélangeurs à chute libre ( mélangeurs à cuves mobiles) ▪ Les mélangeurs convectifs ou malaxeurs (mélangeurs à cuves fixes)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "mélangeurs industriels",
+      "classification"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/07-melange-des-poudres/qcm-027",
+    "type": "multiple",
+    "enonce": "Les mélangeurs à chute libre (ou à retournement) :",
+    "options": [
+      "Sont des enceintes closes dans lesquelles on introduit les substances à mélanger",
+      "Tournent sur eux-mêmes pour assurer le mélange",
+      "Peuvent avoir la forme de cylindres, de V ou de Y",
+      "Malaxent les produits à l'aide de bras ou de raclettes",
+      "Sont destinés à l'homogénéisation des milieux visqueux"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Les mélangeurs à chute libre sont des enceintes closes qui tournent sur elles-mêmes, de formes variées (cylindre, V, Y). Bras/raclettes et milieux visqueux concernent les malaxeurs.",
+    "source": {
+      "page": 24,
+      "extrait": "Mélangeurs à chute libre ou à retournement sont des enceintes closes dans lesquelles sont introduites les substances à mélanger."
+    },
+    "difficulte": 1,
+    "tags": [
+      "chute libre"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/07-melange-des-poudres/qcm-028",
+    "type": "multiple",
+    "enonce": "Concernant le mélangeur en forme de V :",
+    "options": [
+      "C'est une enceinte fermée mise en rotation autour d'un axe",
+      "Il force les particules à rouler les unes par rapport aux autres à la surface du mélange",
+      "Il est couramment utilisé en industrie",
+      "C'est un mélangeur à cuve fixe",
+      "Il est qualifié de peu efficace"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Le mélangeur en V est une enceinte fermée (cuve mobile) tournant autour d'un axe, faisant rouler les particules à la surface ; il est couramment utilisé en industrie. Le mélangeur qualifié de peu efficace est le cylindrique.",
+    "source": {
+      "page": 25,
+      "extrait": "Une enceinte fermée est mise en rotation autour d'un axe forçant les particules à rouler les unes par rapport aux autres à la surface du mélange."
+    },
+    "difficulte": 2,
+    "tags": [
+      "mélangeur en V"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/07-melange-des-poudres/qcm-029",
+    "type": "multiple",
+    "enonce": "Concernant les mélangeurs cubiques et cylindriques :",
+    "options": [
+      "Le mélangeur cubique assure un mélange d'une parfaite homogénéité grâce à sa forme et à son axe de rotation",
+      "Le mélangeur cubique est très répandu",
+      "Le mélangeur cylindrique est peu efficace",
+      "Le mélangeur cylindrique assure une parfaite homogénéité",
+      "Le mélangeur cubique est un malaxeur à cuve fixe"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Le cubique (cuve mobile tournant autour d'un axe) donne une parfaite homogénéité et est très répandu ; le cylindrique est peu efficace.",
+    "source": {
+      "page": 26,
+      "extrait": "ce type de mélangeurs assure un mélange d'une parfaite homogénéité. très répandue"
+    },
+    "difficulte": 2,
+    "tags": [
+      "mélangeur cubique",
+      "mélangeur cylindrique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/07-melange-des-poudres/qcm-030",
+    "type": "unique",
+    "enonce": "Certains tambours mélangeurs sont conçus pour qu'on puisse y faire le vide. Cela est intéressant pour les poudres sensibles :",
+    "options": [
+      "À l'action de l'oxygène",
+      "À la lumière",
+      "À la chaleur",
+      "Aux chocs mécaniques",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Le vide dans certains tambours mélangeurs est intéressant pour les poudres sensibles à l'action de l'oxygène.",
+    "source": {
+      "page": 28,
+      "extrait": "on puisse y faire le vide, ce qui est intéressant pour les poudres sensibles à l'action de l'oxygène."
+    },
+    "difficulte": 1,
+    "tags": [
+      "tambour mélangeur"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/07-melange-des-poudres/qcm-031",
+    "type": "multiple",
+    "enonce": "Concernant les mélangeurs malaxeurs :",
+    "options": [
+      "Les produits y sont malaxés par des bras, des hélices ou des raclettes",
+      "Les mélangeurs planétaires sont destinés à l'homogénéisation des milieux visqueux",
+      "Les mélangeurs planétaires ont un coût élevé et un nettoyage difficile",
+      "Le nettoyage des mélangeurs planétaires est particulièrement facile",
+      "Ce sont des mélangeurs à cuves mobiles"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Les malaxeurs (cuves fixes) utilisent bras, hélices ou raclettes ; les planétaires homogénéisent les milieux visqueux, coûtent cher et se nettoient difficilement.",
+    "source": {
+      "page": 30,
+      "extrait": "Les mouvements planétaires des outils de mélange sont destinés à effectuer l'homogénéisation des milieux visqueux. Leur coût est élevé et le nettoyage est difficile."
+    },
+    "difficulte": 1,
+    "tags": [
+      "malaxeurs",
+      "planétaire"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/07-melange-des-poudres/qcm-032",
+    "type": "unique",
+    "enonce": "Le mélangeur destiné à l'homogénéisation des milieux visqueux, de coût élevé et de nettoyage difficile, est :",
+    "options": [
+      "Le mélangeur planétaire",
+      "Le mélangeur en V",
+      "Le mélangeur cylindrique",
+      "Le silo-mélangeur",
+      "Le mélangeur cubique"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Ce sont les caractéristiques des mélangeurs planétaires.",
+    "source": {
+      "page": 30,
+      "extrait": "Les mouvements planétaires des outils de mélange sont destinés à effectuer l'homogénéisation des milieux visqueux."
+    },
+    "difficulte": 1,
+    "tags": [
+      "planétaire"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/07-melange-des-poudres/qcm-033",
+    "type": "unique",
+    "enonce": "Dans le mélangeur type pétrin :",
+    "options": [
+      "Deux bras de forme complexe tournent en sens inverse autour de leurs axes parallèles et horizontaux",
+      "Deux bras tournent dans le même sens autour d'axes verticaux",
+      "Un seul bras tourne autour d'un axe vertical",
+      "L'enceinte entière tourne sur elle-même",
+      "Le mélange se fait par injection d'air comprimé"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Le pétrin comporte deux bras de forme complexe tournant en sens inverse autour d'axes parallèles et horizontaux.",
+    "source": {
+      "page": 31,
+      "extrait": "Deux bras de forme complexe tournent en sens inverse autour de leurs axes parallèles et horizontaux."
+    },
+    "difficulte": 2,
+    "tags": [
+      "pétrin"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/07-melange-des-poudres/qcm-034",
+    "type": "multiple",
+    "enonce": "Concernant le mélangeur à vis hélicoïdale et le mélangeur à projection et tourbillonnement :",
+    "options": [
+      "L'agitateur du mélangeur à vis est constitué par une vis pleine ou par des rubans hélicoïdaux",
+      "Dans le mélangeur à projection, des pales en forme de socs de charrue sont disposées en spirale sur l'axe d'un cylindre horizontal",
+      "Les socs projettent sans arrêt les poudres de la périphérie vers le centre",
+      "Les pales du mélangeur à projection tournent à faible vitesse",
+      "Le mélangeur à projection est un procédé peu efficace, en voie d'abandon"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Les pales du mélangeur à projection tournent à GRANDE vitesse et c'est un procédé très efficace qui se répand de plus en plus.",
+    "source": {
+      "page": 33,
+      "extrait": "Dans un cylindre horizontal tournent à grande vitesse des pâles en forme de socs de charrues disposées en spirale"
+    },
+    "difficulte": 2,
+    "tags": [
+      "vis hélicoïdale",
+      "projection et tourbillonnement"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/07-melange-des-poudres/qcm-035",
+    "type": "unique",
+    "enonce": "Dans le mélangeur à projection et tourbillonnement, les socs projettent les poudres :",
+    "options": [
+      "De la périphérie vers le centre",
+      "Du centre vers la périphérie",
+      "Du haut vers le bas uniquement",
+      "Vers une trémie interne",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "En tournant, les socs projettent sans arrêt les poudres de la périphérie vers le centre.",
+    "source": {
+      "page": 33,
+      "extrait": "les socs projettent sans arrêt les poudres de la périphérie vers le centre."
+    },
+    "difficulte": 2,
+    "tags": [
+      "projection et tourbillonnement"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/07-melange-des-poudres/qcm-036",
+    "type": "multiple",
+    "enonce": "Concernant les mélangeurs à fluidisation :",
+    "options": [
+      "Ils ont une grande efficacité de mélange en évitant une ségrégation des particules",
+      "La durée de mélange est d'environ 20 minutes",
+      "Le volume traité est faible",
+      "Si le produit est friable, il y a création de fines particules",
+      "Le silo-mélangeur fonctionne par injection d'air comprimé"
+    ],
+    "correctes": [
+      0,
+      3,
+      4
+    ],
+    "explication": "La fluidisation offre une grande efficacité, une durée très courte (2 min) et un volume traité important ; elle crée des fines si le produit est friable. Le silo-mélangeur mélange par injection d'air comprimé.",
+    "source": {
+      "page": 34,
+      "extrait": "Durée de mélange très courte : 2 min. - Volume traité important. - Mais si le produit est friable création de fines particules."
+    },
+    "difficulte": 2,
+    "tags": [
+      "fluidisation",
+      "silo-mélangeur"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/07-melange-des-poudres/qcm-037",
+    "type": "unique",
+    "enonce": "La durée de mélange dans un mélangeur à fluidisation est d'environ :",
+    "options": [
+      "2 minutes",
+      "20 minutes",
+      "1 heure",
+      "2 heures",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "La durée de mélange par fluidisation est très courte : 2 min.",
+    "source": {
+      "page": 34,
+      "extrait": "Durée de mélange très courte : 2 min."
+    },
+    "difficulte": 1,
+    "tags": [
+      "fluidisation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/07-melange-des-poudres/qcm-038",
+    "type": "multiple",
+    "enonce": "Concernant le silo-mélangeur :",
+    "options": [
+      "Le mélange se fait par injection d'air comprimé",
+      "Il peut comporter plusieurs trémies internes",
+      "Il peut comporter une seule trémie interne",
+      "Il fait partie des mélangeurs statiques (fluidisation)",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le silo-mélangeur est présenté dans les mélangeurs à fluidisation (statiques) ; il fonctionne par injection d'air comprimé avec plusieurs trémies internes (a) ou une seule (b).",
+    "source": {
+      "page": 34,
+      "extrait": "Le mélange se fait par injection d'air comprimé (a) : plusieurs trémies internes (b) : une seule trémie interne"
+    },
+    "difficulte": 2,
+    "tags": [
+      "silo-mélangeur"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/07-melange-des-poudres/qcm-039",
+    "type": "multiple",
+    "enonce": "Parmi les mélangeurs suivants, lesquels sont des mélangeurs à cuve mobile (chute libre) ?",
+    "options": [
+      "Le mélangeur en V",
+      "Le mélangeur cubique",
+      "Le mélangeur cylindrique",
+      "Le mélangeur type pétrin",
+      "Le mélangeur planétaire"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Les mélangeurs à chute libre peuvent être cylindriques, en V ou en Y ; le cubique tourne également autour de son axe. Le pétrin et le planétaire sont des malaxeurs (cuves fixes).",
+    "source": {
+      "page": 24,
+      "extrait": "Ils tournent sur eux-mêmes pour assurer le mélange. Ils peuvent être de formes très diverses : cylindres, mélangeurs en forme de V ou en Y"
+    },
+    "difficulte": 2,
+    "tags": [
+      "classification"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/07-melange-des-poudres/qcm-040",
+    "type": "multiple",
+    "enonce": "Concernant le contrôle de l'homogénéité d'un mélange :",
+    "options": [
+      "On dose le principe actif après avoir prélevé un nombre suffisant d'échantillons à différents niveaux du mélange",
+      "Le dosage du PA est indispensable et reste le moyen le plus sûr",
+      "À l'officine, pour des poudres de couleurs différentes, un simple examen visuel donne une idée du degré d'homogénéité",
+      "Un seul échantillon prélevé en surface suffit",
+      "L'examen visuel remplace le dosage du principe actif"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Il faut un nombre suffisant d'échantillons à différents niveaux ; le dosage est indispensable et le plus sûr. L'examen visuel ne donne qu'une idée de l'homogénéité pour des poudres colorées différemment.",
+    "source": {
+      "page": 35,
+      "extrait": "Le dosage du PA est indispensable et reste le moyen le plus sûr."
+    },
+    "difficulte": 1,
+    "tags": [
+      "contrôle"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/07-melange-des-poudres/qcm-041",
+    "type": "unique",
+    "enonce": "Le moyen le plus sûr de contrôler l'homogénéité d'un mélange de poudres est :",
+    "options": [
+      "Le dosage du principe actif sur des échantillons prélevés à différents niveaux",
+      "L'examen visuel du mélange",
+      "La mesure de la vitesse d'écoulement",
+      "La pesée du mélange final",
+      "La mesure de la densité"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Le dosage du PA, sur un nombre suffisant d'échantillons prélevés à différents niveaux, est indispensable et reste le moyen le plus sûr.",
+    "source": {
+      "page": 35,
+      "extrait": "Dosage du principe actif après avoir prélevé un nombre suffisant d'échantillons à différents niveaux du mélange."
+    },
+    "difficulte": 1,
+    "tags": [
+      "contrôle"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/07-melange-des-poudres/qcm-042",
+    "type": "multiple",
+    "enonce": "Selon la conclusion du cours, dans la formulation des préparations solides :",
+    "options": [
+      "Il faut trouver un équilibre entre un bon écoulement de la poudre et une stabilité satisfaisante du mélange",
+      "Le but est d'assurer une uniformité de dosage du PA dans l'ensemble des unités pharmaceutiques",
+      "Cet équilibre est particulièrement important pour les PA à index thérapeutique étroit",
+      "Cet équilibre n'a d'importance que pour les PA à index thérapeutique large",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "La conclusion souligne l'équilibre écoulement/stabilité pour l'uniformité de dosage, notamment pour les PA à index thérapeutique ÉTROIT.",
+    "source": {
+      "page": 37,
+      "extrait": "il faut trouver un équilibre entre un bon écoulement de la poudre et une stabilité satisfaisante du mélange"
+    },
+    "difficulte": 1,
+    "tags": [
+      "conclusion"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/07-melange-des-poudres/qcm-043",
+    "type": "multiple",
+    "enonce": "Concernant le démélange :",
+    "options": [
+      "C'est un synonyme du non-mélange",
+      "Il peut résulter d'un prolongement excessif de l'opération de mélange",
+      "Il correspond à l'état d'uniformité la plus faible",
+      "Il correspond au mélange parfait",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Le non-mélange (démélange) est l'état le moins uniforme ; un temps de mélange trop long peut conduire au démélange.",
+    "source": {
+      "page": 19,
+      "extrait": "le prolongement de l'opération de mélange peut conduire au démélange."
+    },
+    "difficulte": 2,
+    "tags": [
+      "démélange",
+      "temps de mélange"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/07-melange-des-poudres/qcm-044",
+    "type": "multiple",
+    "enonce": "Un lot de gélules présente une variabilité de teneur en principe actif. Parmi les causes suivantes, lesquelles sont compatibles avec le cours ?",
+    "options": [
+      "Un écart de taille important entre les particules",
+      "Une différence de densité entre les constituants",
+      "Un temps de mélange excessivement prolongé",
+      "Des particules sphériques à forte tendance à ségréger",
+      "Une charge du mélangeur à 50 % de sa capacité"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "La ségrégation (variabilité de teneur) est favorisée par les écarts de taille, les différences de densité, les particules sphériques, et le démélange par un temps trop long. Une charge à 50 % est dans la plage recommandée (40–60 %).",
+    "source": {
+      "page": 14,
+      "extrait": "Plus l'écart de taille entre les particules est grand, plus le phénomène de ségrégation est important."
+    },
+    "difficulte": 3,
+    "tags": [
+      "ségrégation",
+      "synthèse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/07-melange-des-poudres/qcm-045",
+    "type": "multiple",
+    "enonce": "Parmi les mélangeurs suivants, lesquels sont des mélangeurs convectifs (malaxeurs, cuves fixes) ?",
+    "options": [
+      "Le mélangeur planétaire",
+      "Le mélangeur type pétrin",
+      "Le mélangeur à vis hélicoïdale",
+      "Le mélangeur en Y",
+      "Le silo-mélangeur"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Planétaire, pétrin et vis hélicoïdale sont présentés parmi les malaxeurs (outils : bras, hélices, raclettes). Le mélangeur en Y est à chute libre et le silo-mélangeur à fluidisation.",
+    "source": {
+      "page": 29,
+      "extrait": "Dans ces mélangeurs, les produits sont malaxés par des bras, des hélices ou des raclettes de formes diverses."
+    },
+    "difficulte": 2,
+    "tags": [
+      "malaxeurs",
+      "classification"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/07-melange-des-poudres/qcm-046",
+    "type": "unique",
+    "enonce": "Le mélangeur qualifié de « peu efficace » dans le cours est :",
+    "options": [
+      "Le mélangeur cylindrique",
+      "Le mélangeur cubique",
+      "Le mélangeur à projection et tourbillonnement",
+      "Le mélangeur à fluidisation",
+      "Le mélangeur en V"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Le cours qualifie le mélangeur cylindrique de peu efficace ; le cubique donne une parfaite homogénéité, la projection et la fluidisation sont très efficaces.",
+    "source": {
+      "page": 27,
+      "extrait": "Mélangeurs cylindriques Peu efficace"
+    },
+    "difficulte": 1,
+    "tags": [
+      "mélangeur cylindrique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/07-melange-des-poudres/qcm-047",
+    "type": "multiple",
+    "enonce": "Concernant l'écoulement des poudres lors du mélange :",
+    "options": [
+      "Le mélange doit bien s'écouler sans ségrégation pour permettre ultérieurement des répartitions régulières",
+      "L'écoulement fait partie des facteurs liés au système pulvérulent",
+      "La forme des particules influe directement sur l'écoulement",
+      "Un bon écoulement est toujours suffisant, la stabilité du mélange étant secondaire",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "L'écoulement est un critère de qualité et un facteur lié au système pulvérulent, influencé par la forme. La conclusion rappelle qu'il faut un équilibre avec la stabilité du mélange, donc d est fausse.",
+    "source": {
+      "page": 17,
+      "extrait": "Elle influe directement sur les caractéristiques d'écoulement des produits."
+    },
+    "difficulte": 2,
+    "tags": [
+      "écoulement"
+    ],
+    "origine": "genere"
+  }
+]

@@ -1,0 +1,249 @@
+[
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/tableau-001",
+    "titre": "Classification chimique des antiépileptiques",
+    "colonnes": [
+      "Famille chimique",
+      "Exemple"
+    ],
+    "lignes": [
+      [
+        "Hydantoïnes",
+        "Phénytoïne"
+      ],
+      [
+        "Barbituriques",
+        "Phénobarbital"
+      ],
+      [
+        "Désoxybarbituriques",
+        "Primidone"
+      ],
+      [
+        "Iminostilbènes",
+        "Carbamazépine"
+      ],
+      [
+        "Succinimides",
+        "Éthosuximide"
+      ],
+      [
+        "Acide carboxylique",
+        "Acide valproïque"
+      ],
+      [
+        "Benzodiazépines",
+        "Clonazépam"
+      ]
+    ]
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/tableau-002",
+    "titre": "Classification chronologique",
+    "colonnes": [
+      "Génération",
+      "Molécules"
+    ],
+    "lignes": [
+      [
+        "1re",
+        "Phénobarbital, primidone (barbituriques) ; phénytoïne, valproate, carbamazépine, éthosuximide (non barbituriques) ; clonazépam, diazépam (BZD)"
+      ],
+      [
+        "2e",
+        "Lamotrigine, gabapentine, vigabatrine, tiagabine, topiramate, felbamate, oxcarbazépine"
+      ],
+      [
+        "3e (après 2000)",
+        "Lévétiracétam, prégabaline, zonisamide, stiripentol, rufinamide, rétigabine, valrocémide"
+      ]
+    ]
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/tableau-003",
+    "titre": "Mécanismes d'action et molécules",
+    "colonnes": [
+      "Mécanisme",
+      "Molécules"
+    ],
+    "lignes": [
+      [
+        "Blocage des canaux Na+ (phase d'inactivation)",
+        "Carbamazépine, lamotrigine, phénytoïne, acide valproïque"
+      ],
+      [
+        "Inhibition du courant Ca++ de type T (thalamus)",
+        "Éthosuximide, valproate, triméthadione (et lamotrigine, prégabaline)"
+      ],
+      [
+        "Récepteurs GABA(A) post-synaptiques",
+        "Benzodiazépines, barbituriques"
+      ],
+      [
+        "Métabolisme / recapture du GABA",
+        "Vigabatrine (GABA-transaminase), tiagabine (recapture), valproate (GABA-transaminase)"
+      ],
+      [
+        "Diminution de la neurotransmission glutamatergique",
+        "Felbamate (antagoniste NMDA), lamotrigine"
+      ]
+    ]
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/tableau-004",
+    "titre": "Structure commune des anticonvulsivants de 1re génération",
+    "colonnes": [
+      "Dérivé",
+      "Groupe R",
+      "Exemple"
+    ],
+    "lignes": [
+      [
+        "Barbiturique",
+        "–CO–NH–",
+        "Phénobarbital"
+      ],
+      [
+        "Hydantoïne",
+        "–NH–",
+        "Phénytoïne"
+      ],
+      [
+        "Oxazolidine-dione",
+        "–O–",
+        "Triméthadione"
+      ],
+      [
+        "Succinimide",
+        "–CH2–",
+        "Éthosuximide"
+      ]
+    ]
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/tableau-005",
+    "titre": "Indications selon le type de crises",
+    "colonnes": [
+      "Médicament",
+      "Crises partielles",
+      "Tonico-cloniques",
+      "Absences"
+    ],
+    "lignes": [
+      [
+        "Phénobarbital",
+        "Oui",
+        "Oui",
+        "Non"
+      ],
+      [
+        "Primidone",
+        "Oui",
+        "Oui",
+        "Non"
+      ],
+      [
+        "Phénytoïne",
+        "Oui",
+        "Oui",
+        "Non"
+      ],
+      [
+        "Carbamazépine",
+        "Oui",
+        "Oui",
+        "Non"
+      ],
+      [
+        "Éthosuximide",
+        "—",
+        "—",
+        "Premier choix"
+      ],
+      [
+        "Valproate",
+        "Oui",
+        "Oui",
+        "Oui"
+      ],
+      [
+        "Lamotrigine",
+        "Oui (résistantes)",
+        "—",
+        "Oui"
+      ],
+      [
+        "Prégabaline",
+        "Oui",
+        "—",
+        "Oui"
+      ]
+    ]
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/carte-006",
+    "type": "carte",
+    "titre": "Les antiépileptiques",
+    "racine": {
+      "label": "Antiépileptiques",
+      "enfants": [
+        {
+          "label": "Canaux ioniques",
+          "enfants": [
+            {
+              "label": "Canaux Na+ (phénytoïne, carbamazépine, lamotrigine, valproate)",
+              "enfants": []
+            },
+            {
+              "label": "Canaux Ca++ type T (éthosuximide, valproate, triméthadione)",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Neurotransmission GABA",
+          "enfants": [
+            {
+              "label": "Récepteurs GABA-A (BZD, barbituriques)",
+              "enfants": []
+            },
+            {
+              "label": "Métabolisme (vigabatrine, tiagabine)",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Neurotransmission glutamate",
+          "enfants": [
+            {
+              "label": "Felbamate (NMDA)",
+              "enfants": []
+            },
+            {
+              "label": "Lamotrigine",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Générations",
+          "enfants": [
+            {
+              "label": "1re",
+              "enfants": []
+            },
+            {
+              "label": "2e",
+              "enfants": []
+            },
+            {
+              "label": "3e (après 2000)",
+              "enfants": []
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

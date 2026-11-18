@@ -1,0 +1,94 @@
+{
+  "id": "pharmacologie/05-metabolisme/fiche",
+  "titre": "Métabolisme des médicaments — fiche de synthèse",
+  "sections": [
+    {
+      "titre": "Définition et intérêt",
+      "points": [
+        "**Métabolisme (biotransformation)** : transformation **enzymatique** d'un médicament en un ou plusieurs **métabolites**, qui peuvent être **actifs**, **inactifs** ou parfois **toxiques**.",
+        "Certains médicaments ne subissent **aucune** biotransformation et sont éliminés tels quels, mais **la plupart** en subissent.",
+        "Intérêt : passer de la **liposolubilité** à l'**hydrosolubilité** → substances plus **polaires**, plus facilement **éliminées**."
+      ]
+    },
+    {
+      "titre": "Lieu du métabolisme",
+      "points": [
+        "**Foie +++** : localisation anatomique (rôle de « douane » entre tube digestif et organisme), **débit sanguin** (veine porte ≈ **1,5 L/min**, artère hépatique ≈ **350 mL/min**), vascularisation, richesse en **enzymes microsomales**.",
+        "Autres organes : reins, poumons, estomac, intestin, **plasma**, peau, glandes surrénales, cerveau.",
+        "Au niveau cellulaire : **réticulum endoplasmique** (enzymes microsomales) et **cytosol** (enzymes cytosoliques) ; à moindre degré mitochondries, membrane nucléaire et membrane cytoplasmique."
+      ]
+    },
+    {
+      "titre": "Conséquences du métabolisme",
+      "points": [
+        "Métabolite **actif** à partir d'une molécule **inactive** : spironolactone → **canrénone**.",
+        "Métabolite **actif** à partir d'une molécule **active** : carbamazépine → **époxycarbamazépine**.",
+        "Métabolite **inactif** à partir d'une molécule active : phénobarbital → **hydroxyphénobarbital**.",
+        "Métabolite **toxique (réactif)** : paracétamol → **NAPQI** ; hépatite cytotoxique par liaisons covalentes aux protéines hépatiques ; neutralisée par le **glutathion** aux doses thérapeutiques, système **saturé** en surdosage → nécrose hépatique."
+      ]
+    },
+    {
+      "titre": "Phase I — réactions de fonctionnalisation",
+      "points": [
+        "Introduisent ou **démasquent** des groupes fonctionnels, modifient la structure primaire, créent des **sites de conjugaison** ; métabolites actifs, inactifs ou toxiques.",
+        "**La phase I n'est pas obligatoire** : certains médicaments subissent directement la phase II.",
+        "**Oxydation** : la plus importante ; **mono-oxygénases à CYP450**, hémoprotéine membranaire microsomale, superfamille d'isoenzymes classées selon l'**homologie des séquences d'acides aminés** ; familles **CYP1, CYP2, CYP3** pour les médicaments ; CYP3A4, CYP2D6, CYP2C9, CYP2C19, CYP1A2. Nomenclature : 3 = famille, A = sous-famille, 4 = gène.",
+        "**Réduction** : *peu courante* ; aldéhydes, cétones, composés nitrés et azotés ; **réductases** ; prednisone → prednisolone.",
+        "**Hydrolyse** : esters, amides, composés phosphorés ; **estérases non spécifiques** et **amidases** (y compris plasmatiques) ; aspirine → acide salicylique + acide acétique.",
+        "Métabolites de phase I porteurs de groupes **OH, NH2, COOH** ; s'ils ne sont pas éliminés dans l'urine, ils sont conjugués (phase II)."
+      ]
+    },
+    {
+      "titre": "Phase II — réactions de conjugaison",
+      "points": [
+        "Rattachement de petites molécules **polaires endogènes** (acide glucuronique, sulfate, acides aminés, glutathion) au médicament ou aux métabolites de phase I.",
+        "Catalysées par des **transférases spécifiques**, nécessitent un apport d'**ATP** ; métabolites **très souvent inactifs**, plus hydrosolubles, rapidement excrétés.",
+        "**Glucuroconjugaison +++** : UDP-glucuronyl-transférase (microsomale) ; oxazépam, aspirine.",
+        "**Sulfoconjugaison** : sulfotransférase ; stéroïdes.",
+        "**Acétylation** : N-acétyl-transférase ; isoniazide.",
+        "**Acides aminés** (glycine, glutamine) : glycine et glutamine N-acétyltransférases ; salicylates.",
+        "**N-transméthylation** : méthyltransférase ; morphine. **Glutathion** : glutathion-S-transférase ; paracétamol."
+      ]
+    },
+    {
+      "titre": "Effet de premier passage (EPP)",
+      "points": [
+        "Perte de médicament par **métabolisme** avant son arrivée dans la **circulation générale**, dès le premier contact avec l'organe de biotransformation.",
+        "Trois types : **intestinal (EPPI)**, **hépatique (EPPH)**, **pulmonaire (EPPP)**.",
+        "Voie **orale** : intestinal + hépatique + pulmonaire. Voie **rectale** : veines hémorroïdales inférieures et moyennes → pulmonaire ; supérieures → hépatique et pulmonaire.",
+        "**IV / IM / SC** : pulmonaire. **Locale / intra-artérielle** : absence d'EPP."
+      ]
+    },
+    {
+      "titre": "Facteurs modifiant le métabolisme",
+      "points": [
+        "**Intrinsèques — physiologiques** : âge (nouveau-né : immaturité enzymatique ; sujet âgé : ↓ masse et flux hépatiques — 0,3 à 1,5 %/an après 25 ans — et ↓ pouvoir métabolique > 30 % après 70 ans) ; sexe (métabolisme généralement **plus faible** chez la femme) ; constitution génétique (acétyleurs **rapides** = asiatiques, **lents** = européens ; déficit en **G6PD** : hémolyses avec antimalariques, aspirine, sulfamides — Esquimaux 0 %, Noirs 2–30 %, Kurdes 50 %).",
+        "**Intrinsèques — pathologiques** : **IH** (↓ activité enzymatique et ↓ EPPH → ↑ concentration plasmatique, risque de surdosage) ; **IC** (↓ flux sanguin hépatique → altération des capacités métaboliques).",
+        "**Extrinsèques — pharmacodynamiques** : voie d'administration (plus de métabolites par voie orale que IV, du fait de l'EPP) ; posologie (dose élevée → **saturation** possible de certaines voies).",
+        "**Extrinsèques — biochimiques (IAM)** : **induction** (accélération du métabolisme ; phénobarbital, phénytoïne, primidone, rifampicine, carbamazépine, griséofulvine, phénylbutazone) et **inhibition** (ralentissement ; cimétidine, chloramphénicol, disulfirame, isoniazide, macrolides, antifongiques azolés).",
+        "Exemples : millepertuis/rifampicine + **cyclosporine** → élimination accélérée, augmenter la dose pour éviter le rejet ; kétoconazole, itraconazole, érythromycine, diltiazem, **pamplemousse** + **simvastatine** → ↑ taux plasmatique → **rhabdomyolyse**."
+      ]
+    }
+  ],
+  "aRetenir": [
+    "Métabolisme = transformation enzymatique → métabolites actifs, inactifs ou toxiques.",
+    "Foie = organe n°1 ; RE (microsomales) et cytosol au niveau cellulaire.",
+    "Phase I = fonctionnalisation (oxydation +++, réduction, hydrolyse) ; phase II = conjugaison (glucuroconjugaison +++).",
+    "La phase I n'est pas obligatoire : la phase II peut survenir directement.",
+    "L'oxydation repose sur les CYP450 : hémoprotéines microsomales, familles CYP1, CYP2, CYP3.",
+    "EPP : orale = intestinal + hépatique + pulmonaire ; IV/IM/SC = pulmonaire ; locale et I.A = absence.",
+    "Inducteur → accélère le métabolisme (phénobarbital) ; inhibiteur → le ralentit (cimétidine).",
+    "Insuffisance hépatique : ↓ EPPH et ↓ activité enzymatique → risque de surdosage."
+  ],
+  "pieges": [
+    "La biotransformation n'est **pas exclusivement** hépatique, mais elle est **généralement** hépatique : attention aux mots « exclusivement » et « uniquement ».",
+    "Les enzymes du métabolisme ne sont **pas** localisées principalement au niveau du noyau : RE et cytosol (membrane nucléaire seulement à moindre degré).",
+    "La **réduction** est *peu courante* ; c'est l'**oxydation** qui est la réaction la plus importante de la phase I.",
+    "La phase II **ne suit pas toujours** la phase I.",
+    "Veine porte 1,5 L/min et artère hépatique 350 mL/min : ne pas inverser les deux valeurs.",
+    "Voie rectale : veines hémorroïdales **inférieures et moyennes** → pulmonaire ; **supérieures** → hépatique et pulmonaire.",
+    "Acétyleurs **rapides** = asiatiques (augmenter la posologie) ; **lents** = européens (diminuer la posologie).",
+    "Carbamazépine, phénytoïne, rifampicine, griséofulvine, phénylbutazone, primidone = **inducteurs** ; isoniazide, macrolides, azolés, cimétidine, chloramphénicol, disulfirame = **inhibiteurs**.",
+    "Les métabolites ne sont pas tous inactifs : « ne génèrent jamais de métabolites réactifs » est faux (NAPQI du paracétamol)."
+  ]
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "pharmacologie/05-metabolisme/mnemo-01",
+    "titre": "Les réactions de phase I",
+    "moyen": "« O-R-H » : Oxydation, Réduction, Hydrolyse",
+    "explication": "O = Oxydation (la plus importante, CYP450), R = Réduction (peu courante, réductases), H = Hydrolyse (estérases et amidases). Les trois réactions de fonctionnalisation de la phase I."
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/mnemo-02",
+    "titre": "Les conjugaisons de la phase II",
+    "moyen": "« GSA-MAG » : Glucurono, Sulfo, Acétylation — Méthylation, Acides aminés, Glutathion",
+    "explication": "Glucuroconjugaison (+++, UDP-glucuronyl-transférase), Sulfoconjugaison (sulfotransférase), Acétylation (N-acétyl-transférase), puis N-transméthylation (méthyltransférase), conjugaison aux Acides aminés (glycine, glutamine) et conjugaison au Glutathion (glutathion-S-transférase)."
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/mnemo-03",
+    "titre": "Inducteurs enzymatiques",
+    "moyen": "« PPP-RC-GP » : Phénobarbital, Phénytoïne, Primidone, Rifampicine, Carbamazépine, Griséofulvine, Phénylbutazone",
+    "explication": "Les sept médicaments inducteurs du tableau du cours. Ils accélèrent le métabolisme (induction enzymatique), ce qui peut raccourcir l'effet thérapeutique des médicaments associés."
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/mnemo-04",
+    "titre": "Inhibiteurs enzymatiques",
+    "moyen": "« CCD-IMA » : Cimétidine, Chloramphénicol, Disulfirame, Isoniazide, Macrolides, Antifongiques azolés",
+    "explication": "Les six inhibiteurs cités par le cours. Ils ralentissent le métabolisme, augmentent la concentration et la demi-vie plasmatique du médicament associé, avec risque de toxicité."
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/mnemo-05",
+    "titre": "Lecture de la nomenclature CYP3A4",
+    "moyen": "« Famille – Sous-famille – Gène » : le chiffre, la lettre, le chiffre",
+    "explication": "Dans CYP3A4 : CYP = P450, 3 = famille, A = sous-famille, 4 = gène. Les familles CYP1, CYP2 et CYP3 métabolisent les médicaments."
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/mnemo-06",
+    "titre": "Les trois effets de premier passage",
+    "moyen": "« I-H-P » : Intestinal, Hépatique, Pulmonaire",
+    "explication": "La voie orale cumule les trois (I + H + P) ; les voies IV, IM et SC n'exposent qu'au P (pulmonaire) ; les voies locale et intra-artérielle sont dépourvues d'EPP."
+  }
+]

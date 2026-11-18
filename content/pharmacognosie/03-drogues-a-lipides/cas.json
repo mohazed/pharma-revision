@@ -1,0 +1,242 @@
+[
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/cas-001",
+    "titre": "Homme de 65 ans avec troubles mictionnels",
+    "enonce": "Un homme de 65 ans présente des troubles mictionnels modérés liés à une hypertrophie bénigne de la prostate. Il souhaite un traitement d'origine végétale.",
+    "questions": [
+      {
+        "id": "pharmacognosie/03-drogues-a-lipides/cas-001-q1",
+        "type": "multiple",
+        "enonce": "Les spécialités d'origine végétale citées dans le cours pour cette indication sont :",
+        "options": [
+          "Tadenan",
+          "Permixon",
+          "Intralipide",
+          "Coalgan",
+          "Levovist"
+        ],
+        "correctes": [
+          0,
+          1
+        ],
+        "explication": "Tadenan (Prunus africana) et Permixon (Serenoa repens) sont indiqués dans les troubles mictionnels modérés de l'HBP.",
+        "source": {
+          "page": 52,
+          "extrait": "Il est commercialisé sous le nom de TADENAN"
+        },
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacognosie/03-drogues-a-lipides/cas-001-q2",
+        "type": "multiple",
+        "enonce": "Concernant le Prunier d'Afrique :",
+        "options": [
+          "La drogue est l'écorce",
+          "On utilise un complexe lipido-stérolique",
+          "L'extrait inhibe la 5-lipoxygénase des polynucléaires infiltrant la prostate",
+          "C'est une Arecaceae",
+          "L'extrait est anti-inflammatoire"
+        ],
+        "correctes": [
+          0,
+          1,
+          2,
+          4
+        ],
+        "explication": "Prunus africana est une Rosaceae ; écorce, complexe lipido-stérolique, inhibition de la 5-lipoxygénase (anti-inflammatoire).",
+        "source": {
+          "page": 52,
+          "extrait": "l'extrait est anti-inflammatoire"
+        },
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacognosie/03-drogues-a-lipides/cas-001-q3",
+        "type": "multiple",
+        "enonce": "Concernant le Palmier de Floride :",
+        "options": [
+          "C'est Serenoa repens",
+          "La drogue est le fruit",
+          "L'extrait commercial est hexanique",
+          "La drogue est l'écorce rouge",
+          "Il est spontané dans le sud des États-Unis"
+        ],
+        "correctes": [
+          0,
+          1,
+          2,
+          4
+        ],
+        "explication": "Serenoa repens : fruit globuleux monoséminé, extrait hexanique lipido-stérolique (Permixon).",
+        "source": {
+          "page": 55,
+          "extrait": "L'extrait hexanique lipido-stérolique commercial (PERMIXON)"
+        },
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/cas-002",
+    "titre": "Nutrition parentérale d'un patient dénutri",
+    "enonce": "Un patient de réanimation, dénutri, ne peut être alimenté par voie orale. Une nutrition parentérale comportant un apport lipidique est prescrite.",
+    "questions": [
+      {
+        "id": "pharmacognosie/03-drogues-a-lipides/cas-002-q1",
+        "type": "unique",
+        "enonce": "L'huile utilisée pour l'apport lipidique parentéral est :",
+        "options": [
+          "Huile de soja",
+          "Huile de ricin",
+          "Huile d'olive vierge",
+          "Beurre de cacao",
+          "Huile de coco"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "L'huile de soja est utilisée en alimentation parentérale (apport calorique et en AG essentiels).",
+        "source": {
+          "page": 42,
+          "extrait": "L'alimentation parentérale : apport calorique et apport en acides gras essentiels."
+        },
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacognosie/03-drogues-a-lipides/cas-002-q2",
+        "type": "unique",
+        "enonce": "La forme d'emploi est :",
+        "options": [
+          "Une émulsion H/E à 10 ou 20 %",
+          "Une émulsion E/H à 50 %",
+          "Une solution huileuse pure",
+          "Un soluté glucosé à 5 %",
+          "Une suspension"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Émulsion H/E à 10 ou 20 % (Intralipide).",
+        "source": {
+          "page": 42,
+          "extrait": "La forme d'emploi est une émulsion H/E à 10 ou 20%"
+        },
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacognosie/03-drogues-a-lipides/cas-002-q3",
+        "type": "multiple",
+        "enonce": "Le soja est aussi :",
+        "options": [
+          "La principale source de lécithines (liposomes)",
+          "Une source importante de protéines",
+          "Riche en γ-tocophérol",
+          "Une Euphorbiaceae",
+          "Un purgatif drastique"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "Le soja (Fabaceae) est la principale source de lécithines, riche en protéines ; le γ-tocophérol domine son insaponifiable.",
+        "source": {
+          "page": 42,
+          "extrait": "Principale source de lécithines (liposomes)"
+        },
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/cas-003",
+    "titre": "Contrôle qualité d'un lot d'huile",
+    "enonce": "Un laboratoire reçoit un lot d'huile végétale. Le pharmacien contrôle son altération, son insaturation et ses caractéristiques.",
+    "questions": [
+      {
+        "id": "pharmacognosie/03-drogues-a-lipides/cas-003-q1",
+        "type": "unique",
+        "enonce": "Pour déceler très tôt un rancissement, il détermine :",
+        "options": [
+          "L'indice de peroxyde",
+          "L'indice de saponification",
+          "L'indice d'iode",
+          "La densité",
+          "L'insaponifiable"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "L'indice de peroxyde décèle très tôt le rancissement.",
+        "source": {
+          "page": 24,
+          "extrait": "Décele très tôt le rancissement du corps gras."
+        },
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacognosie/03-drogues-a-lipides/cas-003-q2",
+        "type": "unique",
+        "enonce": "L'indice d'iode trouvé est de 170 ; l'huile est :",
+        "options": [
+          "Siccative",
+          "Demi-siccative",
+          "Non siccative",
+          "Riche en AG saturés",
+          "Peu insaturée"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Siccatives : 150–190, donc fortement insaturée.",
+        "source": {
+          "page": 23,
+          "extrait": "huiles siccatives (indice d'iode compris entre 150 et 190)"
+        },
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacognosie/03-drogues-a-lipides/cas-003-q3",
+        "type": "multiple",
+        "enonce": "Concernant l'indice d'acide :",
+        "options": [
+          "Il s'exprime en mg de KOH par g",
+          "Il mesure l'acidité libre",
+          "Le titrage se fait en présence de phénolphtaléine",
+          "Il s'exprime en g d'iode par 100 g",
+          "On utilise une solution alcaline alcoolique"
+        ],
+        "correctes": [
+          0,
+          1,
+          2,
+          4
+        ],
+        "explication": "Indice d'acide : mg KOH pour neutraliser l'acidité libre de 1 g, titrage alcalin alcoolique avec phénolphtaléine.",
+        "source": {
+          "page": 21,
+          "extrait": "Titrer l'acidité de produit dissous par une solution alcaline alcoolique en présence de phénolphtaléine."
+        },
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      }
+    ]
+  }
+]

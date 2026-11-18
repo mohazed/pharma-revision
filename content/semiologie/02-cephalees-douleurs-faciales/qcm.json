@@ -1,0 +1,1581 @@
+[
+  {
+    "id": "semiologie/02-cephalees-douleurs-faciales/qcm-001",
+    "type": "multiple",
+    "enonce": "Concernant la céphalée, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "C'est une plainte douloureuse centrée sur la région crânienne",
+      "C'est un motif fréquent de consultation",
+      "Ses causes sont multiples, souvent bénignes",
+      "Elle est parfois liée à des affections intracrâniennes évolutives",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le cours définit la céphalée comme une plainte douloureuse centrée sur la région crânienne, motif fréquent de consultation, de causes multiples, souvent bénignes, parfois liées à des affections intracrâniennes évolutives.",
+    "source": {
+      "page": 1,
+      "extrait": "Ses causes sont multiples, souvent bénignes, parfois liées à des affections intracrâniennes évolutives."
+    },
+    "difficulte": 1,
+    "tags": [
+      "introduction"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/02-cephalees-douleurs-faciales/qcm-002",
+    "type": "multiple",
+    "enonce": "Les céphalées primaires :",
+    "options": [
+      "Sont sans lésion causale sous-jacente",
+      "Sont très fréquentes",
+      "Évoluent de façon récurrente et chronique",
+      "Ont un diagnostic uniquement clinique",
+      "Nécessitent toujours des examens complémentaires"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Les céphalées primaires sont sans lésion causale, très fréquentes, récurrentes et chroniques, de diagnostic UNIQUEMENT clinique. Ce sont les céphalées secondaires qui nécessitent des examens complémentaires.",
+    "source": {
+      "page": 1,
+      "extrait": "Les céphalées primaires (sans lésion causale sous-jacente): très fréquentes, évoluant de façon récurrente et chronique"
+    },
+    "difficulte": 2,
+    "tags": [
+      "classification"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/02-cephalees-douleurs-faciales/qcm-003",
+    "type": "multiple",
+    "enonce": "Les céphalées secondaires :",
+    "options": [
+      "Sont associées à une lésion sous-jacente",
+      "Sont responsables de céphalées récentes et inhabituelles",
+      "Nécessitent la réalisation d'examens complémentaires",
+      "Ont un diagnostic uniquement clinique",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Les céphalées secondaires sont associées à une lésion sous-jacente, récentes et inhabituelles, et nécessitent des examens complémentaires. Le diagnostic uniquement clinique caractérise les céphalées primaires.",
+    "source": {
+      "page": 1,
+      "extrait": "Les céphalées secondaires (associées à une lésion sous-jacente): responsables de céphalées récentes et inhabituelles"
+    },
+    "difficulte": 2,
+    "tags": [
+      "classification"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/02-cephalees-douleurs-faciales/qcm-004",
+    "type": "multiple",
+    "enonce": "Parmi les céphalées suivantes, lesquelles sont classées comme primaires ?",
+    "options": [
+      "Migraine",
+      "Céphalées dites de tension",
+      "Algie vasculaire de la face",
+      "Céphalée liée à une infection",
+      "Céphalée liée à un traumatisme crânien"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Les céphalées primaires comprennent la migraine, les céphalées de tension, l'algie vasculaire de la face et autres céphalées trigémino-autonomiques. Infection et traumatisme crânien sont des causes de céphalées secondaires.",
+    "source": {
+      "page": 1,
+      "extrait": "Migraine ; Céphalées dites de tension ; Algie vasculaire de la face et autres céphalées trigémino-autonomiques"
+    },
+    "difficulte": 2,
+    "tags": [
+      "classification"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/02-cephalees-douleurs-faciales/qcm-005",
+    "type": "multiple",
+    "enonce": "Parmi les causes suivantes, lesquelles figurent dans la classification des céphalées secondaires ?",
+    "options": [
+      "Prise ou retrait d'une substance",
+      "Anomalie de l'homéostasie",
+      "Affection psychiatrique",
+      "Affection vasculaire crânienne ou cervicale",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le tableau des céphalées secondaires cite notamment : traumatisme, affection vasculaire, affection intracrânienne non vasculaire, prise ou retrait d'une substance, infection, anomalie de l'homéostasie, anomalies cranio-faciales, affection psychiatrique, névralgies crâniennes.",
+    "source": {
+      "page": 1,
+      "extrait": "Prise ou retrait d'une substance ; Infection ; Anomalie de l'homéostasie"
+    },
+    "difficulte": 2,
+    "tags": [
+      "classification"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/02-cephalees-douleurs-faciales/qcm-006",
+    "type": "unique",
+    "enonce": "L'algie vasculaire de la face appartient, selon la classification du cours, aux :",
+    "options": [
+      "Céphalées secondaires vasculaires",
+      "Céphalées primaires (céphalées trigémino-autonomiques)",
+      "Névralgies crâniennes",
+      "Céphalées par anomalie de l'homéostasie",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "L'algie vasculaire de la face est classée parmi les céphalées primaires, avec les autres céphalées trigémino-autonomiques.",
+    "source": {
+      "page": 1,
+      "extrait": "Algie vasculaire de la face et autres céphalées trigémino-autonomiques"
+    },
+    "difficulte": 2,
+    "tags": [
+      "classification"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/02-cephalees-douleurs-faciales/qcm-007",
+    "type": "multiple",
+    "enonce": "Devant un céphalalgique, l'objectif principal est de trancher entre :",
+    "options": [
+      "Une céphalée primaire ne nécessitant qu'un traitement antalgique et un suivi en consultation externe",
+      "Une céphalée secondaire bénigne avec explorations si nécessaire et traitement symptomatique",
+      "Une céphalée secondaire due à une affection grave nécessitant explorations et traitement en urgence",
+      "Une céphalée primaire nécessitant systématiquement une hospitalisation",
+      "Une céphalée psychogène exclusive"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Le cours décrit trois situations : primaire (antalgique + suivi externe), secondaire bénigne (explorations si nécessaire), secondaire grave (explorations et traitement en urgence).",
+    "source": {
+      "page": 2,
+      "extrait": "établir un diagnostic étiologique précis et de trancher entre"
+    },
+    "difficulte": 2,
+    "tags": [
+      "démarche"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/02-cephalees-douleurs-faciales/qcm-008",
+    "type": "multiple",
+    "enonce": "Associez l'exemple à la situation correspondante, selon le cours :",
+    "options": [
+      "Migraine — céphalée primaire",
+      "Syndrome grippal — céphalée secondaire bénigne",
+      "Hémorragie méningée — céphalée secondaire grave",
+      "Méningite — céphalée secondaire bénigne",
+      "Hypertension intracrânienne — céphalée primaire"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Le cours cite la migraine (primaire), le syndrome grippal (secondaire bénigne), et l'hémorragie méningée, la méningite, l'hypertension intracrânienne (secondaires graves).",
+    "source": {
+      "page": 2,
+      "extrait": "Ex : hémorragie méningée, méningite, hypertension intracrânienne."
+    },
+    "difficulte": 2,
+    "tags": [
+      "démarche"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/02-cephalees-douleurs-faciales/qcm-009",
+    "type": "unique",
+    "enonce": "Les deux outils incontournables qui déterminent la prise en charge d'une céphalée sont :",
+    "options": [
+      "Le scanner et la ponction lombaire",
+      "L'interrogatoire complété par l'examen clinique",
+      "L'IRM et l'échodoppler",
+      "La VS et la CRP",
+      "Le fond d'œil et l'EEG"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Le cours précise : « Deux outils incontournables détermineront la prise en charge, l'interrogatoire complété par l'examen clinique ».",
+    "source": {
+      "page": 2,
+      "extrait": "Deux outils incontournables détermineront la prise en charge, l'interrogatoire complété par l'examen clinique."
+    },
+    "difficulte": 1,
+    "tags": [
+      "démarche"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/02-cephalees-douleurs-faciales/qcm-010",
+    "type": "multiple",
+    "enonce": "Selon le cours, l'argument principal pour entreprendre des explorations devant une céphalée est :",
+    "options": [
+      "Son caractère récent",
+      "Son installation rapide ou brusque",
+      "Une céphalée chez un sujet migraineux, immédiatement reconnue comme complètement différente de ses céphalées habituelles",
+      "Son caractère pulsatile",
+      "Sa localisation unilatérale"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "L'argument principal est le caractère récent, l'installation rapide ou brusque, de novo ou chez un sujet ayant un passé de céphalées primaires mais reconnue comme complètement différente. Le type pulsatile n'est pas spécifique.",
+    "source": {
+      "page": 2,
+      "extrait": "L'argument principal pour entreprendre des explorations est le caractère récent de la céphalée, son installation rapide ou brusque"
+    },
+    "difficulte": 2,
+    "tags": [
+      "démarche",
+      "signes d'alerte"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/02-cephalees-douleurs-faciales/qcm-011",
+    "type": "multiple",
+    "enonce": "Concernant les caractéristiques de la douleur céphalalgique :",
+    "options": [
+      "L'intensité permet de trancher entre céphalée primaire et secondaire",
+      "Une céphalée soudaine et sévère doit être explorée",
+      "Le type de douleur (pulsatile, broiement…) est spécifique d'une étiologie particulière",
+      "La topographie peut être un argument d'orientation mais n'est pas aussi spécifique",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      1,
+      3
+    ],
+    "explication": "L'intensité ne peut PAS trancher entre primaire et secondaire, mais une céphalée soudaine et sévère doit être explorée. Le type n'est pas spécifique. La topographie oriente sans être aussi spécifique.",
+    "source": {
+      "page": 2,
+      "extrait": "L'intensité de la douleur ne peut trancher entre céphalée primaire et secondaire."
+    },
+    "difficulte": 3,
+    "tags": [
+      "démarche"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/02-cephalees-douleurs-faciales/qcm-012",
+    "type": "multiple",
+    "enonce": "Parmi les circonstances d'apparition pouvant orienter le diagnostic d'une céphalée, on cite :",
+    "options": [
+      "Traumatisme crânien",
+      "Prise de toxique",
+      "Ponction lombaire",
+      "Maladie générale fébrile",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le cours cite : traumatisme crânien, prise de toxique, ponction lombaire, maladie générale fébrile.",
+    "source": {
+      "page": 2,
+      "extrait": "traumatisme crânien, prise de toxique, ponction lombaire, maladie générale fébrile."
+    },
+    "difficulte": 1,
+    "tags": [
+      "démarche"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/02-cephalees-douleurs-faciales/qcm-013",
+    "type": "multiple",
+    "enonce": "Associez l'antécédent à l'étiologie qu'il suggère, selon le cours :",
+    "options": [
+      "Affections cardiovasculaires et HTA — AVC",
+      "Post-partum — thrombose veineuse cérébrale",
+      "Néoplasme — métastases",
+      "Infection par le VIH — toxoplasmose",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Les quatre associations sont exactement celles du cours.",
+    "source": {
+      "page": 2,
+      "extrait": "post-partum (thrombose veineuse cérébrale), néoplasme (métastases), infection par le VIH (toxoplasmose)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "démarche"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/02-cephalees-douleurs-faciales/qcm-014",
+    "type": "unique",
+    "enonce": "Chez une femme en post-partum présentant une céphalée récente, l'antécédent suggère selon le cours :",
+    "options": [
+      "Une migraine cataméniale",
+      "Une thrombose veineuse cérébrale",
+      "Une toxoplasmose",
+      "Une artérite de Horton",
+      "Une dissection vertébrale"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Le post-partum suggère une thrombose veineuse cérébrale.",
+    "source": {
+      "page": 2,
+      "extrait": "post-partum (thrombose veineuse cérébrale)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "démarche"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/02-cephalees-douleurs-faciales/qcm-015",
+    "type": "multiple",
+    "enonce": "Concernant les symptômes associés à une céphalée :",
+    "options": [
+      "Une céphalée récente associée à un signe focal doit être considérée comme secondaire",
+      "Une céphalée récente associée à une crise d'épilepsie doit être considérée comme secondaire",
+      "Une céphalée récente avec altération de la conscience doit être considérée comme secondaire",
+      "L'absence de tout symptôme associé élimine une céphalée secondaire",
+      "Une céphalée isolée est toujours primaire"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Toute céphalée récente ou inhabituelle associée à un symptôme neurologique (signe focal, crise d'épilepsie, altération de la conscience) est secondaire. L'absence de symptôme associé n'élimine EN AUCUN CAS une céphalée secondaire.",
+    "source": {
+      "page": 2,
+      "extrait": "l'absence de tout symptôme associé n'élimine en aucun cas une céphalée secondaire."
+    },
+    "difficulte": 3,
+    "tags": [
+      "signes d'alerte"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/02-cephalees-douleurs-faciales/qcm-016",
+    "type": "multiple",
+    "enonce": "L'examen neurologique d'un céphalalgique comprend :",
+    "options": [
+      "L'appréciation de l'état de conscience",
+      "La recherche d'un syndrome méningé",
+      "L'examen du fond d'œil",
+      "La recherche d'un signe de focalisation (paralysie faciale, ataxie)",
+      "L'examen des pupilles et des oculomoteurs"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "L'examen neurologique comprend tous ces éléments selon le cours.",
+    "source": {
+      "page": 2,
+      "extrait": "Apprécie l'état de conscience et recherche un syndrome méningé. Examen du fond œil."
+    },
+    "difficulte": 2,
+    "tags": [
+      "examen clinique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/02-cephalees-douleurs-faciales/qcm-017",
+    "type": "multiple",
+    "enonce": "L'examen locorégional d'une céphalée comprend :",
+    "options": [
+      "La palpation des artères temporales",
+      "La palpation des muscles cervicaux",
+      "La pression des sinus",
+      "La recherche d'une rougeur oculaire ou d'une exophtalmie",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "L'examen locorégional comprend la palpation des artères temporales et des muscles cervicaux, la pression des sinus et la recherche d'une rougeur oculaire ou exophtalmie.",
+    "source": {
+      "page": 2,
+      "extrait": "Palpation des artères temporales, des muscles cervicaux ; Pression des sinus"
+    },
+    "difficulte": 1,
+    "tags": [
+      "examen clinique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/02-cephalees-douleurs-faciales/qcm-018",
+    "type": "unique",
+    "enonce": "L'examen général d'un céphalalgique comporte essentiellement :",
+    "options": [
+      "La mesure de la TA et de la température",
+      "La palpation des sinus",
+      "L'examen du fond d'œil",
+      "La ponction lombaire",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "L'examen général comprend la mesure de la TA et de la température.",
+    "source": {
+      "page": 2,
+      "extrait": "Examen général : mesure de la TA, de la température"
+    },
+    "difficulte": 1,
+    "tags": [
+      "examen clinique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/02-cephalees-douleurs-faciales/qcm-019",
+    "type": "multiple",
+    "enonce": "Devant toute céphalée récente, inhabituelle et persistante, les deux examens de base sont :",
+    "options": [
+      "Le scanner cérébral sans injection",
+      "La ponction lombaire",
+      "L'électroencéphalogramme",
+      "La biopsie de l'artère temporale",
+      "L'échodoppler cervical"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Les deux examens de base sont le scanner cérébral sans injection et la ponction lombaire.",
+    "source": {
+      "page": 3,
+      "extrait": "deux examens de base doivent être réalisés, le scanner cérébral sans injection et la ponction lombaire."
+    },
+    "difficulte": 1,
+    "tags": [
+      "examens complémentaires"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/02-cephalees-douleurs-faciales/qcm-020",
+    "type": "multiple",
+    "enonce": "Le scanner cérébral réalisé devant une céphalée recherche :",
+    "options": [
+      "Une hyperdensité spontanée témoin de sang frais",
+      "Une hydrocéphalie",
+      "Un effet de masse",
+      "Un œdème témoin d'une tumeur ou d'un abcès",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le scanner recherche une hyperdensité spontanée (sang frais sous-arachnoïdien ou parenchymateux), une hydrocéphalie, un effet de masse ou un œdème (tumeur, abcès).",
+    "source": {
+      "page": 3,
+      "extrait": "recherche une hyperdensité spontanée témoin du sang frais dans les espaces sous-arachnoïdiens"
+    },
+    "difficulte": 2,
+    "tags": [
+      "examens complémentaires"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/02-cephalees-douleurs-faciales/qcm-021",
+    "type": "multiple",
+    "enonce": "Concernant la ponction lombaire devant une céphalée :",
+    "options": [
+      "Elle est effectuée après le scanner",
+      "Elle recherche du sang",
+      "Elle recherche une méningite",
+      "Elle est toujours réalisée avant le scanner",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "La ponction lombaire est effectuée APRÈS le scanner, à la recherche de sang ou de méningite.",
+    "source": {
+      "page": 3,
+      "extrait": "Ponction lombaire : effectuée après le scanner à la recherche de sang ou de méningite."
+    },
+    "difficulte": 2,
+    "tags": [
+      "examens complémentaires"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/02-cephalees-douleurs-faciales/qcm-022",
+    "type": "unique",
+    "enonce": "Le sang frais apparaît au scanner cérébral sans injection sous forme :",
+    "options": [
+      "D'une hypodensité",
+      "D'une hyperdensité spontanée",
+      "D'un effet de masse isolé",
+      "D'une hydrocéphalie",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Le scanner recherche une hyperdensité spontanée témoin du sang frais.",
+    "source": {
+      "page": 3,
+      "extrait": "hyperdensité spontanée témoin du sang frais"
+    },
+    "difficulte": 1,
+    "tags": [
+      "examens complémentaires"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/02-cephalees-douleurs-faciales/qcm-023",
+    "type": "multiple",
+    "enonce": "Concernant l'hémorragie sous-arachnoïdienne :",
+    "options": [
+      "C'est le premier diagnostic à envisager devant une céphalée inhabituelle à début brutal",
+      "Elle impose en urgence un scanner cérébral sans injection",
+      "Si le scanner est normal, une ponction lombaire est réalisée",
+      "Un scanner normal l'élimine définitivement",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "L'hémorragie sous-arachnoïdienne est le premier diagnostic devant une céphalée inhabituelle à début brutal : scanner sans injection en urgence et, s'il est normal, ponction lombaire. Un scanner normal ne suffit donc pas à l'éliminer.",
+    "source": {
+      "page": 3,
+      "extrait": "Hémorragie sous-arachnoïdienne : est le premier diagnostic à envisager devant une céphalée inhabituelle à début brutal."
+    },
+    "difficulte": 2,
+    "tags": [
+      "hémorragie méningée"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/02-cephalees-douleurs-faciales/qcm-024",
+    "type": "multiple",
+    "enonce": "Concernant la céphalée des accidents vasculaires cérébraux (hématomes et infarctus) :",
+    "options": [
+      "Elle est souvent au deuxième plan",
+      "Le tableau est dominé par les signes focaux",
+      "Les AVC œdémateux sous-tentoriels peuvent donner une céphalée aiguë intense avec vomissements abondants",
+      "Elle domine toujours le tableau clinique",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "La céphalée des AVC est souvent au deuxième plan, le tableau étant dominé par les signes focaux ; les AVC œdémateux sous-tentoriels peuvent donner une céphalée aiguë intense avec vomissements abondants.",
+    "source": {
+      "page": 3,
+      "extrait": "La céphalée des AVC est souvent au deuxième plan du tableau clinique dominé par les signes focaux."
+    },
+    "difficulte": 2,
+    "tags": [
+      "AVC"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/02-cephalees-douleurs-faciales/qcm-025",
+    "type": "multiple",
+    "enonce": "Concernant les dissections artérielles :",
+    "options": [
+      "La céphalée est fréquente",
+      "Elle est cervicale dans la dissection carotidienne",
+      "Elle est rétroauriculaire dans la dissection vertébrale",
+      "Elle peut être associée à un signe de Claude-Bernard-Horner",
+      "Le diagnostic repose sur l'échodoppler cervical complété d'une angio-IRM"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Toutes les propositions reprennent le cours sur les dissections artérielles.",
+    "source": {
+      "page": 3,
+      "extrait": "peut être cervicale (dissection carotidienne) ou rétroauriculaire (dissection vertébrale)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "dissection"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/02-cephalees-douleurs-faciales/qcm-026",
+    "type": "unique",
+    "enonce": "Une céphalée rétroauriculaire oriente, dans le cadre d'une dissection artérielle, vers une dissection :",
+    "options": [
+      "Carotidienne",
+      "Vertébrale",
+      "Temporale",
+      "Basilaire",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Céphalée cervicale = dissection carotidienne ; rétroauriculaire = dissection vertébrale.",
+    "source": {
+      "page": 3,
+      "extrait": "rétroauriculaire (dissection vertébrale)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "dissection"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/02-cephalees-douleurs-faciales/qcm-027",
+    "type": "multiple",
+    "enonce": "Concernant l'encéphalopathie hypertensive :",
+    "options": [
+      "Elle donne une céphalée aiguë brutale ou rapidement progressive",
+      "Elle s'accompagne d'une élévation majeure de la pression artérielle (plus de 240/120 mmHg)",
+      "Elle comporte des troubles visuels bilatéraux et des crises comitiales",
+      "Le fond d'œil montre des signes de rétinopathie hypertensive",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes ces caractéristiques sont citées pour l'encéphalopathie hypertensive.",
+    "source": {
+      "page": 3,
+      "extrait": "élévation majeure de la pression artérielle (plus de 240/120 mmHg)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "encéphalopathie hypertensive"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/02-cephalees-douleurs-faciales/qcm-028",
+    "type": "unique",
+    "enonce": "Le seuil de pression artérielle cité dans le cours pour l'encéphalopathie hypertensive est :",
+    "options": [
+      "Plus de 140/90 mmHg",
+      "Plus de 180/110 mmHg",
+      "Plus de 200/100 mmHg",
+      "Plus de 240/120 mmHg",
+      "Plus de 260/140 mmHg"
+    ],
+    "correctes": [
+      3
+    ],
+    "explication": "Le cours mentionne une élévation majeure de la pression artérielle, plus de 240/120 mmHg.",
+    "source": {
+      "page": 3,
+      "extrait": "plus de 240/120 mmHg"
+    },
+    "difficulte": 2,
+    "tags": [
+      "encéphalopathie hypertensive"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/02-cephalees-douleurs-faciales/qcm-029",
+    "type": "multiple",
+    "enonce": "Les céphalées de l'hypertension intracrânienne :",
+    "options": [
+      "Sont progressives",
+      "Sont augmentées par la toux et la poussée abdominale",
+      "S'associent à des nausées et des vomissements",
+      "S'associent à un œdème papillaire bilatéral",
+      "Sont toujours de début brutal"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Les céphalées d'HTIC sont progressives (et non brutales), augmentées par la toux et la poussée abdominale, avec nausées, vomissements, œdème papillaire bilatéral.",
+    "source": {
+      "page": 3,
+      "extrait": "Les céphalées sont progressives, augmentées par la toux et la poussée abdominale"
+    },
+    "difficulte": 2,
+    "tags": [
+      "HTIC"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/02-cephalees-douleurs-faciales/qcm-030",
+    "type": "unique",
+    "enonce": "Dans l'hypertension intracrânienne, la diplopie horizontale est due à une paralysie du nerf :",
+    "options": [
+      "III",
+      "IV",
+      "V",
+      "VI",
+      "VII"
+    ],
+    "correctes": [
+      3
+    ],
+    "explication": "Le cours cite « parfois une diplopie horizontale par paralysie du VI ».",
+    "source": {
+      "page": 3,
+      "extrait": "parfois une diplopie horizontale par paralysie du VI"
+    },
+    "difficulte": 2,
+    "tags": [
+      "HTIC"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/02-cephalees-douleurs-faciales/qcm-031",
+    "type": "multiple",
+    "enonce": "Concernant l'hypertension intracrânienne dite « bénigne » :",
+    "options": [
+      "Elle n'est retenue qu'après avoir éliminé les masses par une IRM",
+      "Elle peut être secondaire à une prise toxicomédicamenteuse",
+      "Elle est le plus souvent idiopathique chez la jeune femme obèse",
+      "Le scanner cérébral montre une tumeur",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "L'HTIC « bénigne » est retenue après élimination des masses (tumeurs, abcès, hématome sous-dural) par IRM ; elle est soit secondaire à une prise toxicomédicamenteuse, soit idiopathique, le plus souvent chez la jeune femme obèse.",
+    "source": {
+      "page": 3,
+      "extrait": "soit idiopathique le plus souvent chez la jeune femme obèse"
+    },
+    "difficulte": 3,
+    "tags": [
+      "HTIC"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/02-cephalees-douleurs-faciales/qcm-032",
+    "type": "multiple",
+    "enonce": "Parmi les signes suivants, lesquels sont cités dans le tableau d'hypertension intracrânienne ?",
+    "options": [
+      "Éclipses visuelles",
+      "Œdème papillaire bilatéral",
+      "Claudication de la mâchoire",
+      "Signe de Claude-Bernard-Horner",
+      "Diplopie horizontale"
+    ],
+    "correctes": [
+      0,
+      1,
+      4
+    ],
+    "explication": "Éclipses visuelles, œdème papillaire bilatéral et diplopie horizontale (VI) appartiennent à l'HTIC. La claudication de la mâchoire évoque la maladie de Horton ; le Claude-Bernard-Horner, une dissection.",
+    "source": {
+      "page": 3,
+      "extrait": "un œdème papillaire bilatéral, parfois une diplopie horizontale par paralysie du VI, parfois des éclipses visuelles"
+    },
+    "difficulte": 2,
+    "tags": [
+      "HTIC"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/02-cephalees-douleurs-faciales/qcm-033",
+    "type": "multiple",
+    "enonce": "Concernant les méningites et méningo-encéphalites :",
+    "options": [
+      "Une céphalée fébrile avec syndrome méningé oriente d'emblée vers une méningite infectieuse",
+      "La ponction lombaire confirme le diagnostic",
+      "Le diagnostic repose sur la biopsie de l'artère temporale",
+      "Elles sont des céphalées primaires",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Céphalée fébrile + syndrome méningé = méningite infectieuse jusqu'à preuve du contraire ; la ponction lombaire confirme le diagnostic.",
+    "source": {
+      "page": 3,
+      "extrait": "Une céphalée fébrile avec un syndrome méningé oriente d'emblée vers une méningite infectieuse"
+    },
+    "difficulte": 1,
+    "tags": [
+      "méningite"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/02-cephalees-douleurs-faciales/qcm-034",
+    "type": "multiple",
+    "enonce": "L'artérite temporale de Horton :",
+    "options": [
+      "Est évoquée devant une céphalée récente et inhabituelle",
+      "Survient chez un sujet de plus de 60 ans",
+      "Peut s'accompagner d'une claudication de la mâchoire",
+      "Peut s'accompagner de douleurs articulaires des ceintures",
+      "Survient surtout chez la jeune femme obèse"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Horton : céphalée récente et inhabituelle chez un sujet de plus de 60 ans, avec AEG, fièvre, claudication de la mâchoire, signes inflammatoires temporaux, douleurs des ceintures, troubles visuels. La jeune femme obèse est le terrain de l'HTIC idiopathique.",
+    "source": {
+      "page": 3,
+      "extrait": "est évoquée devant une céphalée récente et inhabituelle, survenant chez un sujet de plus de 60 ans"
+    },
+    "difficulte": 2,
+    "tags": [
+      "Horton"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/02-cephalees-douleurs-faciales/qcm-035",
+    "type": "multiple",
+    "enonce": "Le diagnostic et le traitement de l'artérite temporale de Horton reposent sur :",
+    "options": [
+      "La mesure de la VS",
+      "La mesure de la CRP",
+      "La biopsie de l'artère temporale",
+      "La corticothérapie",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le diagnostic repose sur la VS, la CRP et la biopsie de l'artère temporale ; le traitement est la corticothérapie.",
+    "source": {
+      "page": 3,
+      "extrait": "Le diagnostic repose sur la mesure de la VS, de la CRP et la réalisation d'une biopsie de l'artère temporale."
+    },
+    "difficulte": 2,
+    "tags": [
+      "Horton"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/02-cephalees-douleurs-faciales/qcm-036",
+    "type": "multiple",
+    "enonce": "Parmi les signes associés à l'artérite temporale de Horton, le cours cite :",
+    "options": [
+      "Altération de l'état général",
+      "Fièvre",
+      "Signes inflammatoires au niveau des artères temporales",
+      "Troubles visuels",
+      "Œdème papillaire bilatéral par HTIC"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "AEG, fièvre, signes inflammatoires temporaux, troubles visuels, claudication de la mâchoire et douleurs des ceintures sont cités pour Horton. L'œdème papillaire bilatéral relève de l'HTIC.",
+    "source": {
+      "page": 3,
+      "extrait": "altération de l'état général, fièvre, claudication de la mâchoire, signes inflammatoires au niveau des artères temporales"
+    },
+    "difficulte": 2,
+    "tags": [
+      "Horton"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/02-cephalees-douleurs-faciales/qcm-037",
+    "type": "unique",
+    "enonce": "Le diagnostic de dissection artérielle repose sur :",
+    "options": [
+      "Le scanner sans injection seul",
+      "La ponction lombaire",
+      "L'échodoppler cervical complété d'une angio-IRM",
+      "La biopsie artérielle",
+      "Le fond d'œil"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Le diagnostic de dissection repose sur l'échodoppler cervical complété d'une angio-IRM.",
+    "source": {
+      "page": 3,
+      "extrait": "Le diagnostic repose sur l'échodoppler cervicale complété d'une angio-IRM."
+    },
+    "difficulte": 2,
+    "tags": [
+      "dissection"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/02-cephalees-douleurs-faciales/qcm-038",
+    "type": "multiple",
+    "enonce": "Concernant l'épidémiologie de la migraine selon le cours :",
+    "options": [
+      "Sa prévalence est de 10–15 % de la population générale",
+      "Elle touche surtout les femmes",
+      "Elle survient surtout vers l'âge de 30 ans",
+      "Elle touche surtout l'homme de plus de 60 ans",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "La migraine a une prévalence de 10–15 %, touche surtout les femmes, vers 30 ans.",
+    "source": {
+      "page": 3,
+      "extrait": "Sa prévalence est de 10-15 % de la population générale. Elle touche surtout les femmes, vers l'âge de 30 ans."
+    },
+    "difficulte": 1,
+    "tags": [
+      "migraine"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/02-cephalees-douleurs-faciales/qcm-039",
+    "type": "multiple",
+    "enonce": "Concernant le diagnostic de migraine :",
+    "options": [
+      "Il repose sur l'interrogatoire",
+      "Il nécessite un examen neurologique normal",
+      "Aucune investigation complémentaire n'est nécessaire lorsque la sémiologie est typique",
+      "Il nécessite systématiquement un scanner cérébral",
+      "Il nécessite une ponction lombaire"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Le diagnostic de migraine repose sur l'interrogatoire et un examen neurologique normal ; aucune investigation n'est nécessaire si la sémiologie est typique.",
+    "source": {
+      "page": 3,
+      "extrait": "Son diagnostic repose sur l'interrogatoire et un examen neurologique normal."
+    },
+    "difficulte": 2,
+    "tags": [
+      "migraine"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/02-cephalees-douleurs-faciales/qcm-040",
+    "type": "multiple",
+    "enonce": "La migraine :",
+    "options": [
+      "Est une affection handicapante",
+      "Diminue la qualité de vie",
+      "Comporte deux variétés principales : sans aura et avec aura",
+      "Est une céphalée secondaire",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "La migraine est une céphalée primaire handicapante, diminuant la qualité de vie, avec deux variétés : sans aura et avec aura.",
+    "source": {
+      "page": 3,
+      "extrait": "Elle comporte deux variétés principales : la migraine sans aura et la migraine avec aura."
+    },
+    "difficulte": 1,
+    "tags": [
+      "migraine"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/02-cephalees-douleurs-faciales/qcm-041",
+    "type": "multiple",
+    "enonce": "La phase prodromale de la migraine :",
+    "options": [
+      "Précède souvent la céphalée",
+      "Dure quelques heures",
+      "Peut comporter irritabilité, asthénie, somnolence",
+      "Peut comporter une tendance dépressive ou euphorique",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "La céphalée est souvent précédée d'une phase prodromale de quelques heures : trouble de l'humeur, irritabilité, asthénie, somnolence, tendance dépressive ou euphorique.",
+    "source": {
+      "page": 3,
+      "extrait": "La céphalée est souvent précédée d'une phase prodromale durant quelques heures"
+    },
+    "difficulte": 2,
+    "tags": [
+      "migraine"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/02-cephalees-douleurs-faciales/qcm-042",
+    "type": "unique",
+    "enonce": "Selon les critères IHS de la migraine sans aura, la durée de la crise (sans traitement) est de :",
+    "options": [
+      "30 minutes à 7 jours",
+      "1 à 24 heures",
+      "4 à 72 heures",
+      "Quelques secondes",
+      "2 à 4 heures"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Critère B : durée entre 4 et 72 heures sans traitement.",
+    "source": {
+      "page": 4,
+      "extrait": "B. Durée entre 4 et 72 heures (sans traitement)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "migraine",
+      "critères IHS"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/02-cephalees-douleurs-faciales/qcm-043",
+    "type": "unique",
+    "enonce": "Selon les critères IHS de la migraine sans aura, le nombre minimal de crises est de :",
+    "options": [
+      "Deux",
+      "Trois",
+      "Cinq",
+      "Dix",
+      "Quinze"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Critère A : au moins cinq crises répondant aux critères B à D.",
+    "source": {
+      "page": 4,
+      "extrait": "A. Au moins cinq crises répondant aux critères B à D"
+    },
+    "difficulte": 2,
+    "tags": [
+      "migraine",
+      "critères IHS"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/02-cephalees-douleurs-faciales/qcm-044",
+    "type": "multiple",
+    "enonce": "Selon les critères IHS de la migraine sans aura, la céphalée doit avoir au moins deux des caractéristiques suivantes :",
+    "options": [
+      "Unilatérale",
+      "Pulsatile",
+      "Modérée ou sévère",
+      "Aggravation par les efforts physiques de routine",
+      "Bilatérale en étau"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Le critère C liste : unilatérale, pulsatile, modérée ou sévère, aggravation par les efforts physiques de routine.",
+    "source": {
+      "page": 4,
+      "extrait": "unilatérale ; pulsatile ; modérée ou sévère ; aggravation par les efforts physiques de routine"
+    },
+    "difficulte": 2,
+    "tags": [
+      "migraine",
+      "critères IHS"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/02-cephalees-douleurs-faciales/qcm-045",
+    "type": "multiple",
+    "enonce": "Durant la crise de migraine sans aura (critère D), on retrouve au moins un des caractères suivants :",
+    "options": [
+      "Nausées et/ou vomissements",
+      "Photophobie et phonophobie",
+      "Fièvre",
+      "Signe focal",
+      "Raideur de nuque"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Critère D : nausées et/ou vomissements, ou photophobie et phonophobie.",
+    "source": {
+      "page": 4,
+      "extrait": "nausées et/ou vomissements ; photophobie et phonophobie"
+    },
+    "difficulte": 2,
+    "tags": [
+      "migraine",
+      "critères IHS"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/02-cephalees-douleurs-faciales/qcm-046",
+    "type": "multiple",
+    "enonce": "Parmi les facteurs favorisant la crise de migraine, le cours cite :",
+    "options": [
+      "La contrariété ou le stress",
+      "Une détente brutale (migraine de week-end)",
+      "Les règles (migraines cataméniales)",
+      "Le chocolat et l'alcool",
+      "Le bruit et les odeurs"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Les facteurs favorisants sont psychologiques (stress ou détente brutale), hormonaux (règles), alimentaires (chocolat, alcool) et sensoriels (bruit, odeurs).",
+    "source": {
+      "page": 3,
+      "extrait": "Contrariété, situation de stress ou à l'inverse situation de détente brutale: migraine de week-end."
+    },
+    "difficulte": 2,
+    "tags": [
+      "migraine",
+      "facteurs déclenchants"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/02-cephalees-douleurs-faciales/qcm-047",
+    "type": "unique",
+    "enonce": "Une migraine survenant au moment des règles est dite :",
+    "options": [
+      "De week-end",
+      "Cataméniale",
+      "Avec aura",
+      "Symptomatique",
+      "Prodromale"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Facteurs hormonaux : règles : migraines cataméniales.",
+    "source": {
+      "page": 3,
+      "extrait": "Facteurs hormonaux : règles : migraines cataméniales."
+    },
+    "difficulte": 1,
+    "tags": [
+      "migraine"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/02-cephalees-douleurs-faciales/qcm-048",
+    "type": "unique",
+    "enonce": "La « migraine de week-end » est liée à :",
+    "options": [
+      "Un facteur alimentaire",
+      "Un facteur hormonal",
+      "Une situation de détente brutale",
+      "Un facteur sensoriel",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "La migraine de week-end est déclenchée par une situation de détente brutale, à l'inverse du stress.",
+    "source": {
+      "page": 3,
+      "extrait": "à l'inverse situation de détente brutale: migraine de week-end"
+    },
+    "difficulte": 2,
+    "tags": [
+      "migraine"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/02-cephalees-douleurs-faciales/qcm-049",
+    "type": "multiple",
+    "enonce": "Concernant les névralgies du trijumeau :",
+    "options": [
+      "Ce sont des algies de la face fréquentes",
+      "Elles ont des causes variées",
+      "Leur diagnostic est purement clinique",
+      "Des investigations sont nécessaires si une névralgie symptomatique est suspectée",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Les névralgies du trijumeau sont des algies faciales fréquentes, de causes variées, de diagnostic purement clinique ; une forme symptomatique suspectée impose des investigations.",
+    "source": {
+      "page": 4,
+      "extrait": "Il s'agit d'algies de la face fréquentes, de causes variées, dont le diagnostic est purement clinique."
+    },
+    "difficulte": 1,
+    "tags": [
+      "névralgie du trijumeau"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/02-cephalees-douleurs-faciales/qcm-050",
+    "type": "multiple",
+    "enonce": "Concernant la névralgie essentielle du trijumeau :",
+    "options": [
+      "Son terrain est la femme après 50 ans",
+      "Elle correspond souvent à une compression de la racine du nerf par une artère naissant de l'artère basilaire",
+      "L'artère en cause est en général la cérébelleuse supérieure",
+      "Elle touche le nerf V",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Terrain : femme après 50 ans ; compression de la racine du trijumeau (nerf V) par une artère issue de la basilaire, en général la cérébelleuse supérieure.",
+    "source": {
+      "page": 4,
+      "extrait": "compression de la racine du nerf trijumeau par une artère naissant de l'artère basilaire (cérébelleuse supérieure en général)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "névralgie essentielle"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/02-cephalees-douleurs-faciales/qcm-051",
+    "type": "multiple",
+    "enonce": "Le siège de la douleur dans la névralgie essentielle du trijumeau :",
+    "options": [
+      "Est toujours unilatéral",
+      "Touche le plus souvent la branche V2 (40 %)",
+      "Touche V3 dans 20 % des cas",
+      "Touche exceptionnellement V1 (10 %)",
+      "Peut toucher les trois branches simultanément"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Siège toujours unilatéral : V2 (40 %), V3 (20 %), exceptionnellement V1 (10 %), parfois deux branches (dont V2), JAMAIS les trois.",
+    "source": {
+      "page": 4,
+      "extrait": "Siège: toujours unilatéral, touchant la branche V2 (40 %), V3 (20 %), exceptionnellement V1 (10 %)"
+    },
+    "difficulte": 3,
+    "tags": [
+      "névralgie essentielle"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/02-cephalees-douleurs-faciales/qcm-052",
+    "type": "unique",
+    "enonce": "Dans la névralgie essentielle du trijumeau, la branche la plus fréquemment atteinte est :",
+    "options": [
+      "V1",
+      "V2",
+      "V3",
+      "Les trois branches",
+      "V1 et V3 sans V2"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "La branche V2 est atteinte dans 40 % des cas ; lorsque deux branches sont touchées, la V2 en fait partie.",
+    "source": {
+      "page": 4,
+      "extrait": "touchant la branche V2 (40 %)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "névralgie essentielle"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/02-cephalees-douleurs-faciales/qcm-053",
+    "type": "multiple",
+    "enonce": "Le type et l'évolution de la douleur de la névralgie essentielle du trijumeau :",
+    "options": [
+      "Décharges électriques fulgurantes",
+      "Durée très brève (quelques secondes)",
+      "Responsable d'un « tic douloureux »",
+      "Survenue en salves séparées par des intervalles libres",
+      "Fond douloureux permanent entre les accès"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "La douleur essentielle est faite de décharges électriques fulgurantes de quelques secondes (tic douloureux), en salves séparées par des intervalles LIBRES. Un fond douloureux persistant oriente vers une forme secondaire.",
+    "source": {
+      "page": 4,
+      "extrait": "douleur névralgique à type de décharges électriques fulgurantes, de durée très brève (quelques secondes)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "névralgie essentielle"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/02-cephalees-douleurs-faciales/qcm-054",
+    "type": "multiple",
+    "enonce": "Concernant les modes de déclenchement de la névralgie essentielle du trijumeau :",
+    "options": [
+      "Elle peut être spontanée",
+      "Elle peut être déclenchée par l'ouverture de la bouche ou la mastication",
+      "Elle peut être déclenchée par l'effleurement d'une « zone gâchette »",
+      "La zone gâchette entraîne des comportements d'évitement (ne mange plus, ne se rase plus)",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Déclenchement spontané, par des activités répétées (ouverture de bouche, mastication) ou par l'effleurement d'une zone gâchette, à l'origine de comportements d'évitement.",
+    "source": {
+      "page": 4,
+      "extrait": "par simple effleurement d'une zone cutanée ou muqueuse limitée (dite « zone gâchette »)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "névralgie essentielle"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/02-cephalees-douleurs-faciales/qcm-055",
+    "type": "multiple",
+    "enonce": "Dans la névralgie essentielle du trijumeau, l'examen clinique retrouve :",
+    "options": [
+      "Un examen normal",
+      "L'absence d'hypoesthésie dans la zone douloureuse",
+      "L'absence de déficit moteur du V3",
+      "Un réflexe cornéen normal",
+      "Une atteinte d'autres nerfs crâniens"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "L'examen est normal dans la forme essentielle : pas d'hypoesthésie, pas de déficit moteur du V3, réflexe cornéen normal. L'atteinte d'autres nerfs crâniens oriente vers une forme secondaire.",
+    "source": {
+      "page": 4,
+      "extrait": "L'examen clinique est normal: absence d'hypoesthésie dans la zone douloureuse"
+    },
+    "difficulte": 2,
+    "tags": [
+      "névralgie essentielle"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/02-cephalees-douleurs-faciales/qcm-056",
+    "type": "multiple",
+    "enonce": "Les névralgies trijéminales secondaires (symptomatiques) se caractérisent par :",
+    "options": [
+      "Une douleur moins intense",
+      "Une douleur dans le territoire du V1",
+      "La persistance d'un fond douloureux entre les accès",
+      "Une hypoesthésie ou un déficit du V3 moteur",
+      "Un examen clinique strictement normal"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Les formes secondaires associent douleur moins intense, territoire du V1, fond douloureux persistant et anomalies d'examen (hypoesthésie, déficit V3 moteur, atteinte d'autres nerfs crâniens).",
+    "source": {
+      "page": 4,
+      "extrait": "douleur mons intense • douleur dans le territoire du V1 • persistance d'un fond douloureux entre les accès"
+    },
+    "difficulte": 2,
+    "tags": [
+      "névralgie secondaire"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/02-cephalees-douleurs-faciales/qcm-057",
+    "type": "unique",
+    "enonce": "Un déficit du V3 moteur dans une névralgie trijéminale symptomatique porte sur les muscles :",
+    "options": [
+      "Orbiculaires",
+      "Masséters et ptérygoïdiens",
+      "Sterno-cléido-mastoïdiens",
+      "Temporaux superficiels uniquement",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Le cours précise : déficit du V3 moteur (masséters, ptérygoïdiens).",
+    "source": {
+      "page": 4,
+      "extrait": "déficit du V3 moteur (masséters, ptérygoïdiens)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "névralgie secondaire"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/02-cephalees-douleurs-faciales/qcm-058",
+    "type": "multiple",
+    "enonce": "Quels éléments distinguent une névralgie du trijumeau essentielle d'une forme secondaire ?",
+    "options": [
+      "Intervalles libres dans la forme essentielle",
+      "Fond douloureux persistant dans la forme secondaire",
+      "Examen normal dans la forme essentielle",
+      "Atteinte préférentielle du V1 dans la forme essentielle",
+      "Douleur plus intense dans la forme secondaire"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Forme essentielle : intervalles libres, examen normal, V1 exceptionnel. Forme secondaire : douleur moins intense, V1, fond douloureux, anomalies d'examen.",
+    "source": {
+      "page": 4,
+      "extrait": "persistance d'un fond douloureux entre les accès"
+    },
+    "difficulte": 3,
+    "tags": [
+      "névralgie du trijumeau"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/02-cephalees-douleurs-faciales/qcm-059",
+    "type": "multiple",
+    "enonce": "Parmi les situations suivantes, lesquelles orientent vers une céphalée secondaire nécessitant une exploration ?",
+    "options": [
+      "Céphalée soudaine et sévère",
+      "Céphalée récente avec crise d'épilepsie",
+      "Céphalée chez un migraineux connu reconnue comme complètement différente de ses crises habituelles",
+      "Céphalée fébrile avec syndrome méningé",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes ces situations sont des signes d'alerte cités dans la démarche diagnostique.",
+    "source": {
+      "page": 2,
+      "extrait": "Toute céphalée récente ou inhabituelle associée à un symptôme neurologique […] doit être considérée comme secondaire."
+    },
+    "difficulte": 2,
+    "tags": [
+      "signes d'alerte"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/02-cephalees-douleurs-faciales/qcm-060",
+    "type": "multiple",
+    "enonce": "Concernant les céphalées secondaires graves, cochez les associations correctes :",
+    "options": [
+      "Horton — biopsie de l'artère temporale",
+      "Méningite — ponction lombaire",
+      "Hémorragie sous-arachnoïdienne — scanner sans injection en urgence",
+      "Dissection — angio-IRM",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Chaque étiologie est associée à son examen diagnostique selon le cours.",
+    "source": {
+      "page": 3,
+      "extrait": "Elle impose la réalisation en urgence d'un scanner cérébral sans injection"
+    },
+    "difficulte": 2,
+    "tags": [
+      "étiologies"
+    ],
+    "origine": "genere"
+  }
+]

@@ -1,0 +1,506 @@
+[
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/structure-001",
+    "nom": "Pyridine",
+    "smiles": "c1ccncc1",
+    "classe": "Hétérocycle azoté à 6 chaînons",
+    "question": "Identifiez cet hétérocycle :",
+    "options": [
+      "Pyridine",
+      "Pipéridine",
+      "Pyrimidine",
+      "Pyrazine",
+      "Pyrrole"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Cycle aromatique à 6 chaînons contenant un seul azote : pyridine."
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/structure-002",
+    "nom": "Pipéridine",
+    "smiles": "C1CCNCC1",
+    "classe": "Hétérocycle azoté saturé à 6 chaînons",
+    "question": "Identifiez cet hétérocycle :",
+    "options": [
+      "Pyridine",
+      "Pipéridine",
+      "Pipérazine",
+      "Pyrrolidine",
+      "Morpholine"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Cycle saturé à 6 chaînons avec un NH : pipéridine (forme saturée de la pyridine)."
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/structure-003",
+    "nom": "Pipérazine",
+    "smiles": "C1CNCCN1",
+    "classe": "Hétérocycle diazoté saturé à 6 chaînons",
+    "question": "Identifiez cet hétérocycle :",
+    "options": [
+      "Pipéridine",
+      "Pyrazine",
+      "Pipérazine",
+      "Pyrimidine",
+      "Imidazole"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Cycle saturé à 6 chaînons avec deux NH en 1,4 : pipérazine."
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/structure-004",
+    "nom": "Pyrrole",
+    "smiles": "c1cc[nH]c1",
+    "classe": "Hétérocycle azoté à 5 chaînons",
+    "question": "Quel est le nom de Widman-Hantzsch de cet hétérocycle ?",
+    "options": [
+      "Azole",
+      "Oxole",
+      "Thiole",
+      "Azolidine",
+      "Azétidine"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Le pyrrole correspond à l'azole (aza + ole)."
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/structure-005",
+    "nom": "Furane",
+    "smiles": "c1ccoc1",
+    "classe": "Hétérocycle oxygéné à 5 chaînons",
+    "question": "Identifiez cet hétérocycle :",
+    "options": [
+      "Thiophène",
+      "Furane",
+      "Pyrrole",
+      "Oxolane",
+      "Oxazole"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Cycle aromatique à 5 chaînons contenant un oxygène : furane (oxole)."
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/structure-006",
+    "nom": "Thiophène",
+    "smiles": "c1ccsc1",
+    "classe": "Hétérocycle soufré à 5 chaînons",
+    "question": "Identifiez cet hétérocycle :",
+    "options": [
+      "Thiazole",
+      "Thiolane",
+      "Thiophène",
+      "Furane",
+      "Thiirane"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Cycle aromatique à 5 chaînons contenant un soufre : thiophène (thiole)."
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/structure-007",
+    "nom": "Pyrrolidine",
+    "smiles": "C1CCNC1",
+    "classe": "Hétérocycle azoté saturé à 5 chaînons",
+    "question": "Quel est le nom de Widman-Hantzsch de cet hétérocycle ?",
+    "options": [
+      "Azole",
+      "Azolidine",
+      "Azétidine",
+      "Aziridine",
+      "Oxolane"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Cycle azoté saturé à 5 chaînons : azolidine (pyrrolidine)."
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/structure-008",
+    "nom": "Imidazole",
+    "smiles": "c1cnc[nH]1",
+    "classe": "Diazole",
+    "question": "Identifiez cet hétérocycle :",
+    "options": [
+      "Pyrazole",
+      "Imidazole",
+      "Pyrimidine",
+      "Thiazole",
+      "Oxazole"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Cycle à 5 chaînons avec deux azotes en 1,3 : imidazole (1,3-diazole)."
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/structure-009",
+    "nom": "Pyrazole",
+    "smiles": "c1cn[nH]c1",
+    "classe": "Diazole",
+    "question": "Identifiez cet hétérocycle :",
+    "options": [
+      "Pyrazole",
+      "Imidazole",
+      "Pyrazine",
+      "Pyridazine",
+      "Pyrrole"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Deux azotes adjacents (1,2) dans un cycle à 5 chaînons : pyrazole (1,2-diazole)."
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/structure-010",
+    "nom": "Pyrimidine",
+    "smiles": "c1cncnc1",
+    "classe": "Diazine",
+    "question": "Quel est le nom systématique de cet hétérocycle ?",
+    "options": [
+      "1,2-diazine",
+      "1,3-diazine",
+      "1,4-diazine",
+      "1,3-diazole",
+      "1,2-diazole"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Pyrimidine = 1,3-diazine."
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/structure-011",
+    "nom": "Pyrazine",
+    "smiles": "c1cnccn1",
+    "classe": "Diazine",
+    "question": "Quel est le nom systématique de cet hétérocycle ?",
+    "options": [
+      "1,2-diazine",
+      "1,3-diazine",
+      "1,4-diazine",
+      "1,4-diazole",
+      "1,4-thiazine"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Pyrazine = 1,4-diazine (azotes opposés)."
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/structure-012",
+    "nom": "Pyridazine",
+    "smiles": "c1ccnnc1",
+    "classe": "Diazine",
+    "question": "Quel est le nom trivial de cet hétérocycle ?",
+    "options": [
+      "Pyridazine",
+      "Pyrimidine",
+      "Pyrazine",
+      "Pyrazole",
+      "Pipérazine"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Deux azotes adjacents dans un cycle à 6 chaînons : pyridazine (1,2-diazine)."
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/structure-013",
+    "nom": "1,3-Thiazole",
+    "smiles": "c1cscn1",
+    "classe": "Hétérocycle à hétéroatomes différents",
+    "question": "Identifiez cet hétérocycle :",
+    "options": [
+      "1,3-thiazole",
+      "1,2-oxazole",
+      "Imidazole",
+      "1,4-thiazine",
+      "Thiophène"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Cycle à 5 chaînons, S en 1 et N en 3 : 1,3-thiazole."
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/structure-014",
+    "nom": "1,2-Oxazole",
+    "smiles": "c1cnoc1",
+    "classe": "Hétérocycle à hétéroatomes différents",
+    "question": "Identifiez cet hétérocycle :",
+    "options": [
+      "1,3-thiazole",
+      "1,2-oxazole",
+      "Pyrazole",
+      "Furane",
+      "1,3-oxazolidine"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "O en 1 et N en 2 dans un cycle insaturé à 5 chaînons : 1,2-oxazole."
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/structure-015",
+    "nom": "Aziridine",
+    "smiles": "C1CN1",
+    "classe": "Cycle azoté à 3 chaînons",
+    "question": "Identifiez cet hétérocycle et son intérêt :",
+    "options": [
+      "Aziridine : dérivés agents alkylants de l'ADN",
+      "Oxirane : antibactérien",
+      "Azétidine : anxiolytique",
+      "Thiirane : hypnotique",
+      "Aziridine : anxiolytique"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Aza + iridine = aziridine ; ses dérivés (mitomycine C) sont des agents alkylants de l'ADN."
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/structure-016",
+    "nom": "Oxirane",
+    "smiles": "C1CO1",
+    "classe": "Cycle oxygéné à 3 chaînons",
+    "question": "Identifiez cet hétérocycle :",
+    "options": [
+      "Oxétane",
+      "Oxirane",
+      "Oxolane",
+      "Aziridine",
+      "Thiirane"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Oxa + irane = oxirane."
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/structure-017",
+    "nom": "Oxétane",
+    "smiles": "C1COC1",
+    "classe": "Cycle oxygéné à 4 chaînons",
+    "question": "Identifiez cet hétérocycle :",
+    "options": [
+      "Oxirane",
+      "Oxolane",
+      "Oxétane",
+      "Azétidine",
+      "Thiétane"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Oxa + étane = oxétane (4 chaînons)."
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/structure-018",
+    "nom": "Oxolane",
+    "smiles": "C1CCOC1",
+    "classe": "Cycle oxygéné saturé à 5 chaînons",
+    "question": "Identifiez cet hétérocycle :",
+    "options": [
+      "Oxole",
+      "Oxolane",
+      "Oxétane",
+      "Azolidine",
+      "Thiolane"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Oxa + olane = oxolane (cycle oxygéné saturé à 5 chaînons)."
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/structure-019",
+    "nom": "Indole",
+    "smiles": "c1ccc2[nH]ccc2c1",
+    "classe": "Bicycle azoté",
+    "question": "Identifiez ce bicycle :",
+    "options": [
+      "Indole (benzopyrrole)",
+      "Benzimidazole",
+      "Quinoléine",
+      "Benzofurane",
+      "Purine"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Benzène accolé à un pyrrole : 1H-indole ou benzopyrrole."
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/structure-020",
+    "nom": "Benzimidazole",
+    "smiles": "c1ccc2[nH]cnc2c1",
+    "classe": "Bicycle diazoté",
+    "question": "Identifiez ce bicycle :",
+    "options": [
+      "Indole",
+      "1H-benzimidazole",
+      "Purine",
+      "Quinoléine",
+      "Isoquinoléine"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Benzène accolé à un imidazole : 1H-benzimidazole (N1, N3)."
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/structure-021",
+    "nom": "Quinoléine",
+    "smiles": "c1ccc2ncccc2c1",
+    "classe": "Bicycle azoté",
+    "question": "Identifiez ce bicycle :",
+    "options": [
+      "Quinoléine (benzo(b)pyridine)",
+      "Isoquinoléine (benzo(c)pyridine)",
+      "Indole",
+      "Naphtalène",
+      "Quinazoline"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Azote en position 1, adjacent à la jonction : quinoléine = benzo(b)pyridine."
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/structure-022",
+    "nom": "Isoquinoléine",
+    "smiles": "c1ccc2cnccc2c1",
+    "classe": "Bicycle azoté",
+    "question": "Identifiez ce bicycle :",
+    "options": [
+      "Quinoléine",
+      "Isoquinoléine (benzo(c)pyridine)",
+      "Indole",
+      "Benzimidazole",
+      "Pyridine"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Azote en position 2 : isoquinoléine = benzo(c)pyridine."
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/structure-023",
+    "nom": "Purine",
+    "smiles": "c1ncc2[nH]cnc2n1",
+    "classe": "Bicycle azoté",
+    "question": "Identifiez ce bicycle :",
+    "options": [
+      "Purine",
+      "Benzimidazole",
+      "Pyrimidine",
+      "Imidazole",
+      "Quinoléine"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Pyrimidine accolée à un imidazole (4 N) : purine, à numérotation triviale."
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/structure-024",
+    "nom": "Benzofurane",
+    "smiles": "c1ccc2occc2c1",
+    "classe": "Bicycle oxygéné",
+    "question": "Identifiez ce bicycle :",
+    "options": [
+      "Benzofurane",
+      "Benzothiophène",
+      "Indole",
+      "Benzo[c]furane",
+      "Coumarine"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Benzène accolé à un furane, O adjacent à la jonction : benzofurane (benzo[b]furanne)."
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/structure-025",
+    "nom": "Benzothiophène",
+    "smiles": "c1ccc2sccc2c1",
+    "classe": "Bicycle soufré",
+    "question": "Identifiez ce bicycle :",
+    "options": [
+      "Benzofurane",
+      "Benzothiophène",
+      "Indole",
+      "Thiazole",
+      "Benzothiazole"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Benzène accolé à un thiophène : benzothiophène."
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/structure-026",
+    "nom": "Dibenzoazépine (iminostilbène)",
+    "smiles": "C1=Cc2ccccc2Nc2ccccc12",
+    "classe": "Tricycle azoté à 7 chaînons",
+    "question": "Identifiez ce noyau :",
+    "options": [
+      "Dibenzoazépine",
+      "Benzodiazépine",
+      "Carbazole",
+      "Acridine",
+      "Phénothiazine"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Deux benzènes accolés à un cycle azépine (7 chaînons, un N) : dibenzoazépine."
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/structure-027",
+    "nom": "Nitrofurantoïne (furadantine)",
+    "smiles": "O=C1CN(/N=C/c2ccc([N+](=O)[O-])o2)C(=O)N1",
+    "classe": "Dérivé du furane",
+    "question": "Quelle est l'indication de cette molécule selon le cours ?",
+    "options": [
+      "Infections urinaires (antibactérien)",
+      "Anxiété",
+      "Alkylation de l'ADN (anticancéreux)",
+      "Épilepsie",
+      "Carence en vitamine C"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Furadantine : antibactérien utilisé contre les infections urinaires."
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/structure-028",
+    "nom": "Acide ascorbique (vitamine C)",
+    "smiles": "OC[C@H](O)[C@H]1OC(=O)C(O)=C1O",
+    "classe": "Cycle à cinq chaînons (lactone)",
+    "question": "Identifiez cette molécule :",
+    "options": [
+      "Acide ascorbique",
+      "Furadantine",
+      "Mitomycine C",
+      "Oxolane",
+      "Furane"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Lactone à cinq chaînons portant un ènediol : acide ascorbique (vitamine C)."
+  }
+]

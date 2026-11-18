@@ -1,0 +1,26 @@
+[
+  {
+    "id": "pharmacie-galenique/05-pulverisation/mnemo-001",
+    "titre": "Mécanismes et substances",
+    "moyen": "« Dur Percuté-Compressé, Friable Cisaillé, Mou Attrité »",
+    "explication": "Substances dures : percussion, compression ; friables : cisaillement (et attrition) ; molles : attrition."
+  },
+  {
+    "id": "pharmacie-galenique/05-pulverisation/mnemo-002",
+    "titre": "Opérations préliminaires",
+    "moyen": "« MDD » : Mondation, Division grossière, Dessiccation",
+    "explication": "Les trois opérations préliminaires avant pulvérisation ; le tamisage vient ensuite (secondaire)."
+  },
+  {
+    "id": "pharmacie-galenique/05-pulverisation/mnemo-003",
+    "titre": "Rôles du tamisage",
+    "moyen": "« SSD » : Sécurité, Sélection, Démottage",
+    "explication": "Corps étrangers, particules trop grosses, mottes du stockage."
+  },
+  {
+    "id": "pharmacie-galenique/05-pulverisation/mnemo-004",
+    "titre": "Dénomination des poudres",
+    "moyen": "« 1400-355-180-125-90 » : chaque catégorie prend le tamis de passage de la précédente comme tamis de résidu",
+    "explication": "Grossière 1400/355, modérément fine 355/180, fine 180/125, très fine 125/90."
+  }
+]

@@ -1,0 +1,258 @@
+[
+  {
+    "id": "pharmacognosie/02-glucides/tableau-001",
+    "titre": "Polysaccharides : origine, structure, emplois",
+    "colonnes": [
+      "Polysaccharide",
+      "Origine",
+      "Structure",
+      "Emplois"
+    ],
+    "lignes": [
+      [
+        "Dextranes",
+        "Leuconostoc mesenteroides",
+        "α-D-glucose α(1→6), ramifié",
+        "Dextran 70 : succédané du plasma ; Dextran 40 : microcirculation ; sulfate : anticoagulant"
+      ],
+      [
+        "Alginates",
+        "Algues brunes : Fucus, Laminaria, Macrocystis",
+        "Acides β-D-mannuronique + α-L-guluronique",
+        "Anti-reflux, hémostatique (Coalgan), excipient"
+      ],
+      [
+        "Carraghénanes",
+        "Algues rouges : Chondrus crispus, Gigartina, Eucheuma",
+        "Galactose + 3,6-anhydrogalactose sulfatés",
+        "Épaississant, gélifiant, ancien laxatif de lest"
+      ],
+      [
+        "Agar-agar",
+        "Algues rouges : Gelidium, Gracilaria",
+        "Agarose (neutre) + agaropectine (sulfatée)",
+        "Laxatif de lest, milieux de culture"
+      ],
+      [
+        "Amidon",
+        "Céréales, organes souterrains",
+        "Amylose α(1→4) + amylopectine α(1→6)",
+        "Excipient, glycérolé d'amidon, dextrines, cyclodextrines"
+      ],
+      [
+        "Cellulose",
+        "Coton, Valonia, kapok, jute",
+        "~300 β-D-glucose liés en 1→4",
+        "Coton, gazes, laxatif de lest, dérivés (CMC, oxycellulose)"
+      ],
+      [
+        "Pectines",
+        "Déchets de pommes et de citrons",
+        "Polygalacturonanes, coudes rhamnose, esters méthyliques",
+        "Antidiarrhéiques, régurgitations, hémostatique, gélifiant"
+      ]
+    ]
+  },
+  {
+    "id": "pharmacognosie/02-glucides/tableau-002",
+    "titre": "Drogues à gommes et mucilages",
+    "colonnes": [
+      "Drogue",
+      "Origine botanique",
+      "Partie utilisée",
+      "Constituants",
+      "Emplois"
+    ],
+    "lignes": [
+      [
+        "Gomme karaya (Sterculia)",
+        "Sterculia urens (Malvacées, ex-Sterculiacées)",
+        "Exsudat",
+        "Polysaccharide acide acétylé (rhamnose, ac. galacturonique, galactose)",
+        "Régulateur du transit, pansement digestif, prothèses dentaires, colostomies"
+      ],
+      [
+        "Gomme arabique",
+        "Acacia senegal, A. verek (Légumineuses-Mimosacées)",
+        "Exsudat durci (larmes)",
+        "Acide arabique (L-arabinose, L-rhamnose, D-galactose, ac. D-glucuronique)",
+        "Émollient, béchique, sirops, stabilisant d'émulsions"
+      ],
+      [
+        "Gomme adragante",
+        "Astragalus gummifer (Légumineuses)",
+        "Exsudat provoqué par incision",
+        "Tragacanthine 30 %, acide bassorique 60 %",
+        "Idem gomme arabique"
+      ],
+      [
+        "Caroube",
+        "Ceratonia siliqua",
+        "Albumen des graines ; pulpe",
+        "Galactomannane (90 %)",
+        "Antiémétique du nourrisson"
+      ],
+      [
+        "Gomme guar",
+        "Cyamopsis tetragonolobus",
+        "Graines",
+        "Galactomannane pur",
+        "Remplace la caroube dans l'industrie"
+      ],
+      [
+        "Psyllium",
+        "Plantago psyllium, P. arenaria (Plantaginacées)",
+        "Graines",
+        "Mucilages acides",
+        "Laxatif de lest"
+      ],
+      [
+        "Ispaghul",
+        "Plantago ovata (Plantaginacées)",
+        "Graines",
+        "Mucilages acides",
+        "Laxatif de lest"
+      ],
+      [
+        "Lin",
+        "Linum usitatissimum (Linacées)",
+        "Graines",
+        "Mucilages acides",
+        "Laxatif de lest"
+      ],
+      [
+        "Guimauve",
+        "Althaea officinalis (Malvacées)",
+        "Fleur, feuille, racine",
+        "Mucilages acides",
+        "Émollient, modulateur du transit"
+      ],
+      [
+        "Mauve",
+        "Malva sylvestris (Malvacées)",
+        "Fleur",
+        "Mucilages acides",
+        "Émollient"
+      ],
+      [
+        "Tilleul",
+        "Tilia cordata, T. platyphyllos (Tiliacées)",
+        "—",
+        "Mucilages acides",
+        "Émollient"
+      ]
+    ]
+  },
+  {
+    "id": "pharmacognosie/02-glucides/tableau-003",
+    "titre": "Oses, polyols et vitamine C",
+    "colonnes": [
+      "Molécule",
+      "Source / obtention",
+      "Emplois"
+    ],
+    "lignes": [
+      [
+        "D-glucose (dextrose)",
+        "Fruits ; hydrolyse de l'amidon (α-amylase puis amyloglucosidase)",
+        "Perfusion (5 %…) ; matière première du sorbitol et de la vitamine C"
+      ],
+      [
+        "Galactose",
+        "Algues, gommes, mucilages",
+        "Levovist® (contraste échographique)"
+      ],
+      [
+        "D-fructose (lévulose)",
+        "Fruits, miel ; hydrolyse du saccharose ou de l'inuline",
+        "Excipient (usage parentéral abandonné)"
+      ],
+      [
+        "Mannitol (E421)",
+        "Manne de Fraxinus ornus (Oleaceae)",
+        "Diurétique osmotique IV, excipient ; manne laxative douce"
+      ],
+      [
+        "Sorbitol (E420)",
+        "Fruits (Sorbus aucuparia) ; hydrogénation du D-glucose",
+        "Excipient, humectant, laxatif osmotique, vitamine C"
+      ],
+      [
+        "Xylitol (E967)",
+        "Xylanes (écorce de bouleau)",
+        "Édulcorant, anticarieux"
+      ],
+      [
+        "Acide ascorbique",
+        "Acérola, cynorhodon, argousier ; D-glucose",
+        "Antioxydant, scorbut, absorption du fer, méthémoglobinémies"
+      ]
+    ]
+  },
+  {
+    "id": "pharmacognosie/02-glucides/tableau-004",
+    "type": "carte",
+    "titre": "Classification des glucides",
+    "racine": {
+      "label": "Glucides",
+      "enfants": [
+        {
+          "label": "Oses (non hydrolysables)",
+          "enfants": [
+            {
+              "label": "Aldoses",
+              "enfants": []
+            },
+            {
+              "label": "Cétoses",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Osides (hydrolysables)",
+          "enfants": [
+            {
+              "label": "Holosides",
+              "enfants": [
+                {
+                  "label": "Diholosides (saccharose)",
+                  "enfants": []
+                },
+                {
+                  "label": "Oligosides (gentianose, cyclodextrines)",
+                  "enfants": []
+                },
+                {
+                  "label": "Polyosides (amidon, cellulose, gommes…)",
+                  "enfants": []
+                }
+              ]
+            },
+            {
+              "label": "Hétérosides",
+              "enfants": [
+                {
+                  "label": "O-",
+                  "enfants": []
+                },
+                {
+                  "label": "S-",
+                  "enfants": []
+                },
+                {
+                  "label": "N-",
+                  "enfants": []
+                },
+                {
+                  "label": "C-",
+                  "enfants": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

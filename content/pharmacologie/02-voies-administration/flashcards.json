@@ -1,0 +1,272 @@
+[
+  {
+    "id": "pharmacologie/02-voies-administration/flashcard-001",
+    "recto": "Définition d'une voie d'administration",
+    "verso": "Endroit précis du corps par lequel le médicament est introduit dans l'organisme pour donner des effets thérapeutiques.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/flashcard-002",
+    "recto": "Les deux groupes de voies d'administration",
+    "verso": "1er : avec effraction cutanée et/ou muqueuse (parentérales) ; 2e : sans effraction.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/flashcard-003",
+    "recto": "Voies vasculaires",
+    "verso": "Intraveineuse, intra-artérielle, intracardiaque.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/flashcard-004",
+    "recto": "Voies extravasculaires à action systémique",
+    "verso": "Intramusculaire, sous-cutanée.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/flashcard-005",
+    "recto": "Voies extravasculaires à action locale",
+    "verso": "Intradermique, intra-rachidienne, intra-articulaire, intra-séreuses.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/flashcard-006",
+    "recto": "Voies sans effraction à visée systémique",
+    "verso": "Entérales (buccale, orale, rectale), pulmonaire, percutanée.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/flashcard-007",
+    "recto": "Voies sans effraction à visée locale",
+    "verso": "Cutanée, oculaire, auriculaire, nasale, vaginale.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/flashcard-008",
+    "recto": "Exigences des formes IV",
+    "verso": "Solutions stériles, limpides, apyrogènes, neutres, isotoniques, peu irritantes ; ni solutions huileuses ni suspensions.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/flashcard-009",
+    "recto": "IV directe vs perfusion IV",
+    "verso": "IV directe : urgence, 5 à 20 mL ; perfusion : continue ou discontinue, grands volumes.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/flashcard-010",
+    "recto": "Biodisponibilité IV / IA",
+    "verso": "IV : presque absolue ; IA : absolue (évite tout EPP).",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/flashcard-011",
+    "recto": "Avantages de l'IV",
+    "verso": "Rapidité (urgence), biodisponibilité presque absolue, évite EPPH et EPPI, pas d'interaction avec le tube digestif, patient inconscient, vomissements, obstruction GI.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/flashcard-012",
+    "recto": "Inconvénients de l'IV",
+    "verso": "Traumatisante, personnel qualifié, difficultés, risques techniques, infectieux, toxiques, réactions anaphylactiques.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/flashcard-013",
+    "recto": "Exemples d'utilisation de la voie intra-artérielle",
+    "verso": "Thrombolytique pour dissoudre un caillot ; produit de contraste pour angiographie.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/flashcard-014",
+    "recto": "Sites intra-artériels",
+    "verso": "Artères radiale, axillaire, fémorale.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/flashcard-015",
+    "recto": "Voie intracardiaque",
+    "verso": "Exceptionnelle, cas désespérés : adrénaline pour arrêt cardiaque.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/flashcard-016",
+    "recto": "IM : sites, angle, volume",
+    "verso": "Fessier (quadrant supéro-externe), deltoïde ; 90° ; 2 à 5 mL.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/flashcard-017",
+    "recto": "IM : formes admises",
+    "verso": "Solutions et suspensions stériles et apyrogènes (ATB, anti-inflammatoires, hormones).",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/flashcard-018",
+    "recto": "IM : avantages",
+    "verso": "Résorption plus rapide qu'en SC, pas de destruction digestive, pas d'EPPH.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/flashcard-019",
+    "recto": "IM : inconvénients",
+    "verso": "Technique, lésions nerveuses, risque infectieux, choc anaphylactique.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/flashcard-020",
+    "recto": "SC : angle et volume",
+    "verso": "45° à 90° ; 0,5 à 2 mL ; action lente.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/flashcard-021",
+    "recto": "SC : exemples",
+    "verso": "Vaccin, insuline, anticoagulants (héparine).",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/flashcard-022",
+    "recto": "SC : inconvénients",
+    "verso": "Douloureuse, volume limité, lipodystrophie, nécrose (substances irritantes), CI si mauvais état cutané (brûlés).",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/flashcard-023",
+    "recto": "Voie intradermique : utilisations",
+    "verso": "Vaccins (BCG), tests d'allergie.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/flashcard-024",
+    "recto": "Voie intra-thécale",
+    "verso": "Espace sous-arachnoïdien (LCR) : rachianesthésie, douleurs chroniques du cancer, ATB des méningites tuberculeuses.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/flashcard-025",
+    "recto": "Voie péridurale",
+    "verso": "Espace épidural : anesthésie péridurale, analgésie obstétricale.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/flashcard-026",
+    "recto": "Voie intra-articulaire",
+    "verso": "Exceptionnelle, infiltration des bourses séreuses (épaule, genou) : corticoïdes en rhumatologie.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/flashcard-027",
+    "recto": "Voies intra-séreuses",
+    "verso": "Intra-péritonéale (chimiothérapie), intra-pleurale (infections, effet ATB local).",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/flashcard-028",
+    "recto": "Sublinguale vs perlinguale",
+    "verso": "Sublinguale : sous la langue (richement vascularisée) ; perlinguale : muqueuse de la langue et intérieur des joues.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/flashcard-029",
+    "recto": "Exemple de médicament par voie buccale",
+    "verso": "Dérivés nitrés (trinitrine) dans l'angine de poitrine.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/flashcard-030",
+    "recto": "Voie buccale : inconvénients",
+    "verso": "Surface limitée (200 cm²), nombre limité de molécules, coopérativité du patient (enfant).",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/flashcard-031",
+    "recto": "Voie orale : avantages",
+    "verso": "Pratique (répétable), réversible (lavage gastrique), économique.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/flashcard-032",
+    "recto": "Voie orale : inconvénients",
+    "verso": "Coopérativité, altération du PA (enzymes, EPPI, EPPH, EPPP), biodisponibilité imprécise, latence, non adaptée à l'urgence.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/flashcard-033",
+    "recto": "Voie rectale : effets",
+    "verso": "Local (constipation, hémorroïdes) ; systémique via l'ampoule rectale richement vascularisée (fièvre).",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/flashcard-034",
+    "recto": "Voie rectale : inconvénients",
+    "verso": "Résorption souvent incomplète et variable, EPPH non complètement évité, muqueuse fragile, inutile en cas de diarrhée.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/flashcard-035",
+    "recto": "Voie broncho-pulmonaire",
+    "verso": "Produits volatils et gazeux ; action rapide locale (asthme) ou générale (anesthésie).",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/flashcard-036",
+    "recto": "Voie pulmonaire : inconvénients",
+    "verso": "Emploi difficile, dosage imprécis, irritation bronches/trachée, risque d'infection.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/flashcard-037",
+    "recto": "Voie percutanée : avantages",
+    "verso": "Simple, libération prolongée, évite EPPH et métabolisme digestif, réversible.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/flashcard-038",
+    "recto": "Voie percutanée : inconvénients",
+    "verso": "Résorption lente (débit sanguin réduit), non indiquée dans l'urgence, coût élevé.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/flashcard-039",
+    "recto": "Voie cutanée : effet réservoir",
+    "verso": "La couche cornée est un site de stockage : persistance des effets superficiels (corticoïdes, ATB).",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/flashcard-040",
+    "recto": "Voie cutanée : inconvénients",
+    "verso": "Frottement des habits, irritation locale, effets systémiques sur peau fine (nouveau-né).",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/flashcard-041",
+    "recto": "Voie oculaire : formes",
+    "verso": "Collyres, pommades ophtalmiques (diffusion lente, sac conjonctival ou cornée).",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/flashcard-042",
+    "recto": "Voie nasale : visées",
+    "verso": "Décongestionnante, anti-inflammatoire, anti-infectieuse, antiseptique, anti-allergique, hémostatique.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/flashcard-043",
+    "recto": "Voie vaginale : formes",
+    "verso": "Capsules et comprimés vaginaux, ovules, crèmes et gels vaginaux.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/flashcard-044",
+    "recto": "Critères de choix liés au médicament",
+    "verso": "Propriétés pharmacocinétiques, effets secondaires/toxicité, présentations disponibles, interactions, coût.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/flashcard-045",
+    "recto": "Critères de choix liés au malade",
+    "verso": "Localisation de la maladie, action locale/générale, observance, urgence ou traitement quotidien, psychisme, particularités.",
+    "tags": []
+  }
+]

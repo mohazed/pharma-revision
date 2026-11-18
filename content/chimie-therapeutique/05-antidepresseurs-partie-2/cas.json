@@ -1,0 +1,184 @@
+[
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/cas-001",
+    "titre": "Dépression chez un patient coronarien",
+    "enonce": "M. L., 62 ans, coronarien avec troubles de conduction connus, présente un épisode dépressif majeur. Un antidépresseur tricyclique est initialement envisagé.",
+    "questions": [
+      {
+        "id": "chimie-therapeutique/05-antidepresseurs-partie-2/cas-001-q1",
+        "type": "multiple",
+        "enonce": "Quels risques fait courir un tricyclique chez ce patient ?",
+        "options": [
+          "Hypotension orthostatique",
+          "Arythmies et troubles de conduction",
+          "Risque de mort subite",
+          "Effet stabilisant de membrane lié au caractère amphiphile",
+          "Absence de tout risque cardiaque"
+        ],
+        "correctes": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explication": "Les effets cardiovasculaires des tricycliques comprennent hypotension orthostatique, arythmies et troubles de conduction avec risque de mort subite ; le caractère amphiphile explique l'effet stabilisant de membrane.",
+        "origine": "genere"
+      },
+      {
+        "id": "chimie-therapeutique/05-antidepresseurs-partie-2/cas-001-q2",
+        "type": "multiple",
+        "enonce": "Quelle classe est préférable selon le cours ?",
+        "options": [
+          "Les ISRS, dépourvus de toxicité cardiaque",
+          "Les tricycliques à amine secondaire",
+          "Les IMAO irréversibles",
+          "Les tricycliques à amine tertiaire",
+          "Aucun antidépresseur n'est possible"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Les ISRS sont dépourvus de toxicité cardiaque, ce qui permet de les administrer chez un cardiaque.",
+        "origine": "genere"
+      },
+      {
+        "id": "chimie-therapeutique/05-antidepresseurs-partie-2/cas-001-q3",
+        "type": "multiple",
+        "enonce": "Quels autres avantages ont les ISRS sur les imipraminiques ?",
+        "options": [
+          "Absence d'effets anticholinergiques",
+          "Meilleure tolérance",
+          "Efficacité comparable",
+          "Action plutôt psychotonique",
+          "Toutes les propositions sont correctes"
+        ],
+        "correctes": [
+          4
+        ],
+        "explication": "Les ISRS, sérotoninergiques purs et plutôt psychotoniques, sont d'efficacité comparable aux imipraminiques, sans effets anticholinergiques et donc mieux tolérés.",
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/cas-002",
+    "titre": "Relais d'un IMAO irréversible",
+    "enonce": "Une patiente traitée par iproniazide (Marsilid®) doit changer de traitement antidépresseur. Le prescripteur s'interroge sur le délai à respecter.",
+    "questions": [
+      {
+        "id": "chimie-therapeutique/05-antidepresseurs-partie-2/cas-002-q1",
+        "type": "multiple",
+        "enonce": "Pourquoi l'effet de l'iproniazide persiste-t-il après l'arrêt ?",
+        "options": [
+          "Parce qu'il se fixe de façon covalente sur la MAO",
+          "Parce que l'enzyme est détruite",
+          "Parce que la disparition de l'effet nécessite la synthèse d'une nouvelle enzyme",
+          "Parce qu'il est éliminé très lentement par le rein",
+          "Parce qu'il est un inhibiteur compétitif"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "L'iproniazide est un inhibiteur suicide : fixation covalente, destruction de la MAO ; la disparition de l'effet nécessite la synthèse d'une nouvelle enzyme.",
+        "origine": "genere"
+      },
+      {
+        "id": "chimie-therapeutique/05-antidepresseurs-partie-2/cas-002-q2",
+        "type": "multiple",
+        "enonce": "Quel délai le cours indique-t-il pour restaurer l'effet de la MAO ?",
+        "options": [
+          "24 heures",
+          "3 jours",
+          "1 semaine",
+          "2 semaines",
+          "2 mois"
+        ],
+        "correctes": [
+          3
+        ],
+        "explication": "Le cours mentionne un délai de 2 semaines pour restaurer l'effet de la MAO.",
+        "origine": "genere"
+      },
+      {
+        "id": "chimie-therapeutique/05-antidepresseurs-partie-2/cas-002-q3",
+        "type": "multiple",
+        "enonce": "Quel IMAO aurait un blocage rapidement réversible à l'arrêt ?",
+        "options": [
+          "Le moclobémide (Moclamine®)",
+          "L'iproniazide (Marsilid®)",
+          "La fluoxétine",
+          "La mirtazapine",
+          "L'imipramine"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Le moclobémide, IMAO-A réversible et compétitif, n'entraîne pas de destruction de l'enzyme : son blocage est rapidement réversible.",
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/cas-003",
+    "titre": "Profil d'effets indésirables d'un tricyclique",
+    "enonce": "Un patient sous amitriptyline se plaint de bouche sèche, de constipation, de vision trouble et de vertiges au lever ; il est également très somnolent.",
+    "questions": [
+      {
+        "id": "chimie-therapeutique/05-antidepresseurs-partie-2/cas-003-q1",
+        "type": "multiple",
+        "enonce": "À quel mécanisme rattacher la sécheresse buccale, la constipation et la vision trouble ?",
+        "options": [
+          "Effets anticholinergiques",
+          "Blocage H1",
+          "Blocage α1",
+          "Inhibition de la MAO",
+          "Blocage des récepteurs 5-HT1A"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Sécheresse buccale, constipation, douleurs épigastriques, tachycardie, vision trouble et rétention urinaire sont des effets anticholinergiques.",
+        "origine": "genere"
+      },
+      {
+        "id": "chimie-therapeutique/05-antidepresseurs-partie-2/cas-003-q2",
+        "type": "multiple",
+        "enonce": "À quoi rattacher les vertiges au lever et la somnolence ?",
+        "options": [
+          "Hypotension orthostatique par blocage α1",
+          "Sédation par blocage H1",
+          "Effet anticholinergique",
+          "Inhibition de la MAO",
+          "Blocage des canaux chlorure"
+        ],
+        "correctes": [
+          0,
+          1
+        ],
+        "explication": "Les effets α1 adrénergiques sont responsables de l'effet hypotenseur et les effets H1 de la sédation.",
+        "origine": "genere"
+      },
+      {
+        "id": "chimie-therapeutique/05-antidepresseurs-partie-2/cas-003-q3",
+        "type": "multiple",
+        "enonce": "Quels effets neuropsychiques faut-il également surveiller ?",
+        "options": [
+          "Réactivations anxieuses ou délirantes",
+          "Inversion trop rapide de l'humeur",
+          "Risque suicidaire",
+          "Rétention urinaire",
+          "Arythmies"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "Les effets neuropsychiques comprennent réactivations anxieuses ou délirantes, inversion trop rapide de l'humeur et risque suicidaire.",
+        "origine": "genere"
+      }
+    ]
+  }
+]

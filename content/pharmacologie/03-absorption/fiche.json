@@ -1,0 +1,88 @@
+{
+  "id": "pharmacologie/03-absorption/fiche",
+  "titre": "Pharmacocinétique – Absorption",
+  "sections": [
+    {
+      "titre": "Introduction et définition",
+      "points": [
+        "Phase biopharmaceutique : **libération** du PA (forme solide extravasculaire) puis **dissolution** — le PA doit être en solution pour traverser les membranes.",
+        "Phase pharmacocinétique : **ADME** (Absorption, Distribution, Métabolisme, Élimination) ; puis phase pharmacodynamique.",
+        "**Absorption** : transfert du médicament de son site d'administration vers la circulation générale.",
+        "L'absorption n'est **pas** une condition nécessaire à l'effet thérapeutique (ex. topiques intestinaux)."
+      ]
+    },
+    {
+      "titre": "Mécanismes de passage transmembranaire",
+      "points": [
+        "**Diffusion passive** : par dissolution, sens du gradient, fraction liposoluble non ionisée, sans énergie ni transporteur → pas de saturation, compétition, spécificité.",
+        "**Diffusion facilitée** : sens du gradient, transporteur, sans énergie, saturable/spécifique/compétition (ex. Ca++ duodénal).",
+        "**Transport actif** : contre le gradient, transporteur spécifique, énergie (ATP), saturable/spécifique/compétition (ex. méthyldopa, vitamine B12).",
+        "Cinétique : la diffusion facilitée tend vers une **Vmax** (Km = concentration pour Vmax/2) ; la diffusion simple n'est pas saturable.",
+        "**Filtration** : eau et petites molécules à travers les pores, selon la pression osmotique (hydrostatique).",
+        "**Endocytose** : phagocytose (grosses molécules), pinocytose (liquides)."
+      ]
+    },
+    {
+      "titre": "Facteurs physico-chimiques du médicament",
+      "points": [
+        "Solubilité : être en solution (hydrosolubilité) + traverser la membrane lipidique (liposolubilité) → **équilibre** nécessaire.",
+        "**Ks** élevé = plus liposoluble = meilleur passage (liposolubilité portée par la fraction non ionisée).",
+        "Taille (PM) ↑ → absorption ↓.",
+        "Ionisation : acides/bases faibles, caractérisés par leur pKa ; seule la fraction **non ionisée** traverse.",
+        "Henderson-Hasselbalch : acide pH = pKa + log [I]/[NI] ; base pH = pKa + log [NI]/[I].",
+        "Théorie du pH : acide fort (pKa < 2,5) et base forte (pKa > 11) → abs limitée ; acide faible (2,5–7,5) et base faible (5–11) → dépend du pH ; acide très faible (> 7,5) et base très faible (< 5) → indépendante du pH.",
+        "Acide faible : non ionisé en milieu acide → **estomac** ; base faible : non ionisée en milieu alcalin → **intestin**."
+      ]
+    },
+    {
+      "titre": "Anatomie digestive et facteurs membranaires",
+      "points": [
+        "Estomac : membrane épaisse, 1 m², 0,2 l/min, pH 1–3 ; vidange rapide → rôle modeste.",
+        "Duodénum : surface importante, bile favorisant la dissolution, pH 4–5, vascularisation importante.",
+        "Intestin grêle : membrane fine, 200 m² (microvillosités), 1 l/min, pH 5–8 → **site le plus important**.",
+        "Surface de contact ↑ → absorption ↑ ; épaisseur presque constante, sa diminution ↑ l'absorption."
+      ]
+    },
+    {
+      "titre": "Effet de premier passage et biodisponibilité",
+      "points": [
+        "**EPP** : perte par métabolisme avant la circulation générale, dès le 1er contact avec l'organe de biotransformation (intestinal, hépatique, pulmonaire).",
+        "Orale : intestinal + hépatique + pulmonaire ; IV, IM, S/C, sublinguale : pulmonaire ; locale et IA : absence.",
+        "Rectale : veines hémorroïdales inférieures/moyennes → pulmonaire ; supérieures → hépatique + pulmonaire.",
+        "**Biodisponibilité** : % de la dose atteignant la circulation générale + vitesse ; caractéristique d'un médicament ; dépend de la résorption, des EPP et de la P-gp.",
+        "**Glycoprotéine P** : pompe d'efflux (intestins, BHM, voies biliaires, tubules rénaux), équipement variable d'un individu à l'autre."
+      ]
+    },
+    {
+      "titre": "Absorption selon les voies",
+      "points": [
+        "Orale : bouche (diffusion passive, faible surface, contact court), œsophage (transit), estomac (peu favorable sauf acides faibles ; dégrade la péni G), intestin grêle (très favorable), côlon (faible surface, plus lent).",
+        "Facteurs oraux : médicament (solubilité, pKa, PM, substrat P-gp, formulation) et individu (pH, vidange/transit, aliments, médicaments associés, débit sanguin, pathologies).",
+        "Perlinguale : pH faiblement acide, très vascularisée, diffusion passive, rapide, surface limitée ; évite acidité, enzymes, flore et 1er passage hépatique.",
+        "Rectale : diffusion passive, irrégulière, pas d'enzymes digestives, EPP hépatique réduit.",
+        "Pulmonaire : grande surface, débit intense, épithélium fin, évite le foie ; 0,2–2 µm → sang, > 3 µm → action locale.",
+        "Percutanée : peau peu perméable, diffusion passive ; vitesse selon épaisseur, vascularisation, état ; ↑ par hydratation et lésions.",
+        "S/C : irrégulière, plus lente que l'IM ; aqueuse = diffusion passive, huileuse = pinocytose. IM : diffusion passive rapide, ralentie par forme retard ; fesse (deltoïde pour vaccins). Accélération par vasodilatation chimique ou friction.",
+        "Autres : vaginale (locale, résorption rare et faible), nasale et oculaire (locale, effets généraux possibles), auriculaire (locale), intrapéritonéale (≈ IV)."
+      ]
+    }
+  ],
+  "aRetenir": [
+    "Seule la fraction **non ionisée** (liposoluble) traverse les membranes par diffusion passive.",
+    "Transporteur ⇒ saturation, spécificité, compétition (diffusion facilitée et transport actif) ; énergie et contre-gradient ⇒ transport actif uniquement.",
+    "L'intestin grêle est le site majeur d'absorption digestive (200 m², 1 l/min, pH 5–8).",
+    "Voie perlinguale et voie pulmonaire évitent le foie ; voies locale et intra-artérielle n'ont pas d'EPP.",
+    "Biodisponibilité = quantité ET vitesse ; dépend de la résorption, des EPP et de la P-gp."
+  ],
+  "pieges": [
+    "Diffusion facilitée ≠ transport actif : elle se fait **dans le sens** du gradient et **sans énergie**.",
+    "Henderson-Hasselbalch : pour un acide [I]/[NI], pour une base [NI]/[I] — ne pas inverser.",
+    "Un acide faible s'ionise **en milieu alcalin** ; une base faible **en milieu acide**.",
+    "Base très faible = pKa < 5 (indépendante du pH) ; base forte = pKa > 11 (absorption limitée).",
+    "Voie rectale : premier passage hépatique **réduit**, pas supprimé (veines hémorroïdales supérieures).",
+    "IV, IM, S/C et sublinguale : EPP **pulmonaire** (pas « aucun EPP »).",
+    "S/C plus **lente** que l'IM ; solutions huileuses S/C absorbées par **pinocytose**.",
+    "Aérosols > 3 µm : action locale, ne passent pas dans le sang.",
+    "L'équipement en P-gp **varie** d'un individu à l'autre."
+  ]
+}

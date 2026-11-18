@@ -1,0 +1,314 @@
+[
+  {
+    "id": "pharmacognosie/02-glucides/flashcard-001",
+    "recto": "Autres noms des glucides",
+    "verso": "Saccharides ; anciennement hydrates de carbone / carbohydrates (formule Cn(H2O)n).",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/02-glucides/flashcard-002",
+    "recto": "Teneur en glucides : animaux vs végétaux",
+    "verso": "≈ 5 % du poids sec chez les animaux ; jusqu'à 70 % chez les végétaux.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/02-glucides/flashcard-003",
+    "recto": "Origine principale des glucides",
+    "verso": "La photosynthèse (assimilation du CO2).",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/02-glucides/flashcard-004",
+    "recto": "Trois rôles des glucides chez les végétaux",
+    "verso": "Énergétique (glucose, amidon), biosynthétique (précurseurs obligés), structural (cellulose).",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/02-glucides/flashcard-005",
+    "recto": "Formule et taille des oses",
+    "verso": "Cn(H2O)n avec n = 3 à 9 ; non hydrolysables.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/02-glucides/flashcard-006",
+    "recto": "Holoside vs hétéroside",
+    "verso": "Holoside : hydrolyse → uniquement des oses ; hétéroside : oses + génine (aglycone).",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/02-glucides/flashcard-007",
+    "recto": "Diholoside / oligoside / polyoside",
+    "verso": "2 oses (saccharose) / 3 à 10 oses (gentianose) / plus de 10 oses (cellulose).",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/02-glucides/flashcard-008",
+    "recto": "Maltose",
+    "verso": "Holoside homogène : glucose (α1→4) glucose.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/02-glucides/flashcard-009",
+    "recto": "Exemples d'O-, S-, N-, C-hétérosides",
+    "verso": "O : saponosides, flavonoïdes glycosylés ; S : glucosinolates ; N : nucléosides ; C : aloïne.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/02-glucides/flashcard-010",
+    "recto": "Série D ou L : critère",
+    "verso": "Position de l'OH du carbone asymétrique le plus éloigné du carbonyle.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/02-glucides/flashcard-011",
+    "recto": "Pouvoir rotatoire du D-glucose et du D-fructose",
+    "verso": "D-glucose (+), D-fructose (−) : le sens est indépendant de la série.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/02-glucides/flashcard-012",
+    "recto": "Oxydation de l'alcool terminal d'un ose",
+    "verso": "Acides uroniques (ex. acide glycuronique).",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/02-glucides/flashcard-013",
+    "recto": "Exemple de désoxy-sucre",
+    "verso": "Rhamnose.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/02-glucides/flashcard-014",
+    "recto": "Liqueur de Fehling : principe",
+    "verso": "Cu2+ bleu en milieu basique ; à chaud avec un réducteur → précipité rouge brique de Cu2O.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/02-glucides/flashcard-015",
+    "recto": "Réduction du glucose",
+    "verso": "Sorbitol (itol).",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/02-glucides/flashcard-016",
+    "recto": "Réaction de Sélivanoff",
+    "verso": "Caractérise les cétoses (via furfural).",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/02-glucides/flashcard-017",
+    "recto": "Réaction à l'orcinol",
+    "verso": "Caractérise les pentoses.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/02-glucides/flashcard-018",
+    "recto": "Réaction de Keller-Kiliani",
+    "verso": "Spécifique des 2-désoxyoses.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/02-glucides/flashcard-019",
+    "recto": "Tollens au naphtorésorcinol",
+    "verso": "Caractérise les acides uroniques.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/02-glucides/flashcard-020",
+    "recto": "Identification des gommes et mucilages",
+    "verso": "Indice de gonflement.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/02-glucides/flashcard-021",
+    "recto": "Notatine",
+    "verso": "Glucose-oxydase spécifique du glucose : oxyde le glucose en présence d'O2 → H2O2.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/02-glucides/flashcard-022",
+    "recto": "Obtention industrielle du glucose",
+    "verso": "Hydrolyse enzymatique de l'amidon : α-amylase puis amyloglucosidase.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/02-glucides/flashcard-023",
+    "recto": "Levovist®",
+    "verso": "Ancien produit de contraste échographique : galactose + acide palmitique.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/02-glucides/flashcard-024",
+    "recto": "Sources du fructose",
+    "verso": "Fruits, miel ; hydrolyse du saccharose ou de l'inuline (Inula helenium, Asteraceae).",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/02-glucides/flashcard-025",
+    "recto": "Mannitol : source et emploi",
+    "verso": "Manne de Fraxinus ornus (Oleaceae) ; E421 ; diurétique osmotique IV (pression intracrânienne/intraoculaire).",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/02-glucides/flashcard-026",
+    "recto": "Sorbitol : obtention et emplois",
+    "verso": "Hydrogénation catalytique du D-glucose ; E420 ; excipient, humectant, laxatif osmotique, matière première de la vitamine C.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/02-glucides/flashcard-027",
+    "recto": "Xylitol",
+    "verso": "E967, issu des xylanes (écorce de bouleau) ; pouvoir sucrant ≈ saccharose, moins calorique, anticarieux.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/02-glucides/flashcard-028",
+    "recto": "Sources de vitamine C",
+    "verso": "Acérola, cynorhodon, argousier, kiwi, poivron.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/02-glucides/flashcard-029",
+    "recto": "Structure du saccharose",
+    "verso": "α-D-glucopyranosyl-(1→2)-β-D-fructofuranoside.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/02-glucides/flashcard-030",
+    "recto": "Nombre d'unités des cyclodextrines",
+    "verso": "α : 6 ; β : 7 ; γ : 8 unités de glucose liées en α(1→4).",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/02-glucides/flashcard-031",
+    "recto": "Structure des cyclodextrines",
+    "verso": "Tronc de cône : cavité interne hydrophobe, surface externe hydrophile → complexes d'inclusion.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/02-glucides/flashcard-032",
+    "recto": "Dextranes",
+    "verso": "Glucanes α(1→6) produits par Leuconostoc mesenteroides.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/02-glucides/flashcard-033",
+    "recto": "Dextran 70 vs Dextran 40",
+    "verso": "Dextran 70 (6 %) : succédané du plasma ; Dextran 40 : améliore la microcirculation.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/02-glucides/flashcard-034",
+    "recto": "Constituants de l'acide alginique",
+    "verso": "Acide β-D-mannuronique (M) et acide α-L-guluronique (G).",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/02-glucides/flashcard-035",
+    "recto": "Gel « egg-box »",
+    "verso": "Gel élastique non thermoréversible d'alginate formé par les cations divalents.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/02-glucides/flashcard-036",
+    "recto": "Coalgan",
+    "verso": "Pansement hémostatique à base d'alginate de calcium.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/02-glucides/flashcard-037",
+    "recto": "Carraghénanes",
+    "verso": "Polysaccharides sulfatés d'algues rouges (Chondrus crispus…) : galactose + 3,6-anhydrogalactose.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/02-glucides/flashcard-038",
+    "recto": "Agar-agar : sources et fractions",
+    "verso": "Gelidium, Gracilaria ; agarose (neutre, gélifiant) et agaropectine (sulfatée).",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/02-glucides/flashcard-039",
+    "recto": "Amylose / amylopectine",
+    "verso": "Amylose 15–30 %, linéaire α(1→4) ; amylopectine 70–85 %, ramifiée α(1→6).",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/02-glucides/flashcard-040",
+    "recto": "Gélatinisation vs empesage",
+    "verso": "Gélatinisation : gonflement et perte de cristallinité ; empesage : libération d'amylose, pâte visqueuse.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/02-glucides/flashcard-041",
+    "recto": "Structure de la cellulose",
+    "verso": "≈ 300 unités de β-D-glucose liées en 1→4, chaînes linéaires rubanées.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/02-glucides/flashcard-042",
+    "recto": "Cellulose pure dans la nature",
+    "verso": "Algue Valonia ; constituant unique des poils des graines de cotonnier.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/02-glucides/flashcard-043",
+    "recto": "Dérivés de la cellulose et emplois",
+    "verso": "Méthyl- et carboxyméthylcellulose (galénique), oxycellulose (hémostatique), phtalate d'HPMC (microencapsulation), hypromellose (lentilles).",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/02-glucides/flashcard-044",
+    "recto": "Gomme vs résine",
+    "verso": "Les gommes sont insolubles dans les solvants organiques, contrairement aux résines.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/02-glucides/flashcard-045",
+    "recto": "Gomme karaya",
+    "verso": "Sterculia urens ; polysaccharide acide acétylé ; laxatif hydrogel, pansement digestif, fixation des prothèses dentaires.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/02-glucides/flashcard-046",
+    "recto": "Gomme arabique : origine",
+    "verso": "Exsudat durci d'Acacia senegal (Légumineuses-Mimosacées), larmes de 1 à 3 cm.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/02-glucides/flashcard-047",
+    "recto": "Incompatibilité de la gomme arabique",
+    "verso": "Avec les composés phénoliques (présence d'oxydase).",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/02-glucides/flashcard-048",
+    "recto": "Gomme adragante",
+    "verso": "Astragalus gummifer ; tragacanthine (30 %) + acide bassorique (60 %).",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/02-glucides/flashcard-049",
+    "recto": "Mucilages neutres",
+    "verso": "Galactomannanes des légumineuses : caroube (Ceratonia siliqua), guar (Cyamopsis tetragonolobus).",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/02-glucides/flashcard-050",
+    "recto": "Drogues à mucilages acides",
+    "verso": "Psyllium, ispaghul, lin, guimauve, mauve, tilleul.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/02-glucides/flashcard-051",
+    "recto": "Structure des pectines",
+    "verso": "Polygalacturonanes avec coudes pectiques (rhamnose), chaînes d'oses neutres, esters méthyliques.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/02-glucides/flashcard-052",
+    "recto": "Hydrosolubilité des pectines",
+    "verso": "Augmente avec le degré de méthylation ; l'acide pectique est insoluble.",
+    "tags": []
+  }
+]

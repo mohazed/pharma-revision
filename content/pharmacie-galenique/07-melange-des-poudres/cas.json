@@ -1,0 +1,139 @@
+[
+  {
+    "id": "pharmacie-galenique/07-melange-des-poudres/cas-001",
+    "titre": "Cas pratique : variabilité de teneur d'un lot de gélules",
+    "enonce": "Un atelier de production prépare un mélange de poudres pour gélules contenant un principe actif en faible proportion. Au contrôle, les gélules présentent une teneur très variable. L'enquête révèle : PA micronisé mélangé à un diluant à grosses particules sphériques, mélangeur rempli à 90 % de sa capacité, temps de mélange doublé « pour être sûr ».",
+    "questions": [
+      {
+        "id": "pharmacie-galenique/07-melange-des-poudres/cas-001-q1",
+        "type": "multiple",
+        "enonce": "Quels facteurs relevés peuvent expliquer la variabilité de teneur ?",
+        "options": [
+          "L'écart de taille important entre le PA et le diluant",
+          "La forme sphérique des particules du diluant",
+          "Le remplissage du mélangeur à 90 %",
+          "Le doublement du temps de mélange",
+          "Toutes les propositions sont fausses"
+        ],
+        "correctes": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explication": "Écart de taille → ségrégation par la taille ; particules sphériques → forte tendance à ségréger ; charge hors de la plage 40–60 % (pas d'espace résiduel) ; temps prolongé → démélange.",
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacie-galenique/07-melange-des-poudres/cas-001-q2",
+        "type": "multiple",
+        "enonce": "Quelles mesures correctives sont conformes au cours ?",
+        "options": [
+          "Procéder à un prémélange du PA avec une quantité équivalente de diluant puis ajouter le reste fraction par fraction",
+          "Ramener la charge du mélangeur à 40–60 % de sa capacité",
+          "Utiliser des particules de dimensions voisines",
+          "Allonger encore le temps de mélange",
+          "Remplacer le dosage du PA par un examen visuel"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "Le prémélange est recommandé pour les constituants en proportions diverses ; la charge doit être de 40–60 % ; des particules de mêmes dimensions limitent la ségrégation. Allonger le temps risque le démélange et le dosage du PA reste indispensable.",
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacie-galenique/07-melange-des-poudres/cas-001-q3",
+        "type": "unique",
+        "enonce": "Pour vérifier l'efficacité des corrections, le contrôle le plus sûr est :",
+        "options": [
+          "Le dosage du PA sur un nombre suffisant d'échantillons prélevés à différents niveaux du mélange",
+          "Un examen visuel du mélange",
+          "Le dosage d'un seul échantillon en surface",
+          "La mesure de la densité du mélange",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Le dosage du PA sur des échantillons prélevés à différents niveaux est indispensable et reste le moyen le plus sûr.",
+        "difficulte": 1,
+        "tags": [],
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "pharmacie-galenique/07-melange-des-poudres/cas-002",
+    "titre": "Cas pratique : choix d'un mélangeur",
+    "enonce": "Un laboratoire doit choisir un mélangeur pour trois produits : (1) une poudre sensible à l'oxygène ; (2) une préparation visqueuse ; (3) un grand volume de poudre non friable à mélanger très rapidement sans ségrégation.",
+    "questions": [
+      {
+        "id": "pharmacie-galenique/07-melange-des-poudres/cas-002-q1",
+        "type": "unique",
+        "enonce": "Pour la poudre sensible à l'oxygène (1), le choix le plus adapté est :",
+        "options": [
+          "Un tambour mélangeur permettant de faire le vide",
+          "Un mélangeur cylindrique ouvert",
+          "Un mortier à l'air libre",
+          "Un mélangeur à fluidisation à air comprimé",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Certains tambours mélangeurs permettent de faire le vide, ce qui est intéressant pour les poudres sensibles à l'oxygène.",
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacie-galenique/07-melange-des-poudres/cas-002-q2",
+        "type": "multiple",
+        "enonce": "Pour la préparation visqueuse (2) :",
+        "options": [
+          "Un mélangeur planétaire est adapté",
+          "Il faut prévoir un coût élevé",
+          "Le nettoyage sera difficile",
+          "Un mélangeur en V est le plus adapté aux milieux visqueux",
+          "Toutes les propositions sont correctes"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "Les mouvements planétaires sont destinés à l'homogénéisation des milieux visqueux ; coût élevé et nettoyage difficile.",
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacie-galenique/07-melange-des-poudres/cas-002-q3",
+        "type": "multiple",
+        "enonce": "Pour le grand volume de poudre non friable (3), le mélangeur à fluidisation :",
+        "options": [
+          "Offre une grande efficacité en évitant la ségrégation",
+          "Permet une durée de mélange d'environ 2 minutes",
+          "Traite un volume important",
+          "Est déconseillé car le produit n'est pas friable",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "La fluidisation est très efficace, rapide (2 min) et traite un volume important ; son inconvénient (création de fines) concerne les produits friables.",
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      }
+    ]
+  }
+]

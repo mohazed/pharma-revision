@@ -1,0 +1,266 @@
+[
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/flashcard-001",
+    "recto": "Étymologie de « lipide »",
+    "verso": "Du grec « lipos » : graisse.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/flashcard-002",
+    "recto": "Définition chimique des lipides vrais",
+    "verso": "Esters d'acides gras et d'un alcool ou polyol ; hydrophobes, parfois amphiphiles, non volatils.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/flashcard-003",
+    "recto": "Lipides simples",
+    "verso": "Glycérides, stérides, cérides.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/flashcard-004",
+    "recto": "Lipides complexes",
+    "verso": "Hétérolipides à groupes phosphate, sulfate ou glucidique : phospholipides, glycolipides (membranes).",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/flashcard-005",
+    "recto": "Composés à caractère lipidique",
+    "verso": "Sans acides gras mais avec la solubilité des lipides : icosanoïdes (acide arachidonique), isoprénoïdes (terpènes, stérols).",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/flashcard-006",
+    "recto": "TAG simple vs mixte",
+    "verso": "Simple : 3 AG identiques (tristéarine) ; mixte : AG différents.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/flashcard-007",
+    "recto": "Acide oléique",
+    "verso": "C18:1, cis-Δ9 ; PF 13 °C.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/flashcard-008",
+    "recto": "Acide linoléique / linolénique",
+    "verso": "C18:2 (Δ9,12) / C18:3 (Δ9,12,15).",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/flashcard-009",
+    "recto": "Acide arachidonique",
+    "verso": "C20:4 (Δ5,8,11,14), précurseur des icosanoïdes ; PF −49 °C.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/flashcard-010",
+    "recto": "Acide ricinoléique",
+    "verso": "AG hydroxylé (alcool secondaire), 90 % des AG de l'huile de ricin.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/flashcard-011",
+    "recto": "AG cycliques cyclopenténiques",
+    "verso": "Acides hydnocarpique et chaulmoogrique.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/flashcard-012",
+    "recto": "Cérides",
+    "verso": "Monoesters d'AG et d'alcools aliphatiques primaires à longue chaîne (pairs, saturés, non ramifiés) : cires.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/flashcard-013",
+    "recto": "Stérides",
+    "verso": "Esters d'AG et de stérols ; très rares chez les végétaux (ergostérol).",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/flashcard-014",
+    "recto": "Lécithines",
+    "verso": "Phosphatidylcholines ; abondantes dans les légumineuses (1–2 % dans le soja).",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/flashcard-015",
+    "recto": "Céphalines",
+    "verso": "Choline remplacée par l'éthanolamine ; moins répandues que les lécithines chez les plantes.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/flashcard-016",
+    "recto": "Oléosomes",
+    "verso": "Inclusions huileuses issues du réticulum endoplasmique, forme de stockage des lipides.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/flashcard-017",
+    "recto": "Longueur des AG les plus communs",
+    "verso": "14 à 20 C, surtout 16 ou 18 ; C < 12 : lait et beurre ; C > 24 : cires.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/flashcard-018",
+    "recto": "État physique des AG à température ordinaire",
+    "verso": "C < 10 : liquides ; C > 10 : solides.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/flashcard-019",
+    "recto": "Conséquences de l'auto-oxydation",
+    "verso": "Rancissement (peroxydes, aldéhydes, mauvaise odeur) et siccativation.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/flashcard-020",
+    "recto": "Produits de l'extraction par solvant",
+    "verso": "Miscella et farine déshuilée.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/flashcard-021",
+    "recto": "Étapes du raffinage",
+    "verso": "Démucilagination, neutralisation, décoloration, décirage, désodorisation.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/flashcard-022",
+    "recto": "Désodorisation",
+    "verso": "Injection de vapeur d'eau dans l'huile à 200 °C (élimine aldéhydes et cétones).",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/flashcard-023",
+    "recto": "Contrôle d'une drogue à huile",
+    "verso": "Tache grasse résistant à 105 °C, coupes au rouge Soudan III, dosage gravimétrique.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/flashcard-024",
+    "recto": "Indice d'acide",
+    "verso": "mg de KOH pour neutraliser l'acidité libre de 1 g de matière grasse (phénolphtaléine).",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/flashcard-025",
+    "recto": "Indice de saponification",
+    "verso": "mg de KOH pour saponifier 1 g de corps gras ; AG totaux et longueur des chaînes.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/flashcard-026",
+    "recto": "Indice d'iode",
+    "verso": "g d'iode fixés par 100 g ; insaturation. Siccatives 150–190, demi 100–150, non siccatives 75–100.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/flashcard-027",
+    "recto": "Indice de peroxyde",
+    "verso": "Oxygène fixé par 1 g de corps gras ; décèle très tôt le rancissement.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/flashcard-028",
+    "recto": "Insaponifiable",
+    "verso": "Substances non volatiles à 100–105 °C extraites par solvant après saponification.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/flashcard-029",
+    "recto": "Huile d'olive : origine et AG majeur",
+    "verso": "Drupes mûres d'Olea europaea (Oleaceae) ; acide oléique 56–85 %.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/flashcard-030",
+    "recto": "Emplois de l'huile d'olive",
+    "verso": "Cholérétique, cholagogue, émollient, cardiovasculaire ; raffinée : solvant injectable.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/flashcard-031",
+    "recto": "Huile d'arachide",
+    "verso": "Graines décortiquées d'Arachis hypogaea (Fabaceae) ; insaponifiable à 65 % d'α-tocophérol ; excipient (mébévérine, allopurinol).",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/flashcard-032",
+    "recto": "Huile de ricin",
+    "verso": "Ricinus communis (Euphorbiaceae), pression à froid ; 90 % d'acide ricinoléique ; purgatif drastique proscrit ; dérivés polyoxyéthylénés.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/flashcard-033",
+    "recto": "Huile de soja en parentéral",
+    "verso": "Émulsion H/E à 10 ou 20 % (Intralipide) : calories et AG essentiels.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/flashcard-034",
+    "recto": "Tocophérol majoritaire du soja",
+    "verso": "γ-tocophérol (44–60 %).",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/flashcard-035",
+    "recto": "Onagre",
+    "verso": "Oenothera biennis (Onagraceae) ; graines riches en AGI, se conservent mal ; cosmétique antirides.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/flashcard-036",
+    "recto": "Bourrache",
+    "verso": "Borago officinalis (Boraginaceae) ; huile riche en acide γ-linolénique (18–25 %) ; eczéma atopique.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/flashcard-037",
+    "recto": "Insaponifiable d'avocat",
+    "verso": "Persea americana (Lauraceae) ; parodontopathies, douleurs arthrosiques.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/flashcard-038",
+    "recto": "α-tocophérol",
+    "verso": "Antioxydant liposoluble naturel, protège les AGI du rancissement.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/flashcard-039",
+    "recto": "Tadenan",
+    "verso": "Extrait lipido-stérolique d'écorce de Prunus africana (Rosaceae) ; HBP ; inhibe la 5-lipoxygénase.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/flashcard-040",
+    "recto": "Permixon",
+    "verso": "Extrait hexanique lipido-stérolique de fruit de Serenoa repens ; HBP.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/flashcard-041",
+    "recto": "Beurre de cacao",
+    "verso": "Graines de Theobroma cacao (Sterculiaceae) ; excipient de suppositoires, remplacé par les glycérides semi-synthétiques.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/flashcard-042",
+    "recto": "Coprah",
+    "verso": "Albumen solide du cocotier (Cocos nucifera, Arecaceae) ; 65 % de lipides ; glycérides semi-synthétiques.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/flashcard-043",
+    "recto": "Amygdaloside",
+    "verso": "Hétéroside cyanogène de l'amande amère : gentiobioside du mandélonitrile → 2 glucose + benzaldéhyde + HCN.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/flashcard-044",
+    "recto": "Huile d'argan",
+    "verso": "Graine d'Argania spinosa (sud-ouest marocain) ; oléique 45 %, linoléique 35 % ; peau, cheveux, vergetures.",
+    "tags": []
+  }
+]

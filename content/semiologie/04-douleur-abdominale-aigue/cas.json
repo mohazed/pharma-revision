@@ -1,0 +1,439 @@
+[
+  {
+    "id": "semiologie/04-douleur-abdominale-aigue/cas-001",
+    "titre": "Douleur de la fosse iliaque droite chez une jeune femme",
+    "enonce": "Une femme de 24 ans consulte pour une douleur de la fosse iliaque droite depuis 12 heures, avec nausées et fièvre à 38,3 °C. Ses dernières règles datent de 7 semaines. À la palpation, il existe une résistance tonique de la paroi en fosse iliaque droite, que la main vainc en palpant doucement.",
+    "questions": [
+      {
+        "id": "semiologie/04-douleur-abdominale-aigue/cas-001-q1",
+        "type": "unique",
+        "enonce": "La résistance retrouvée correspond à :",
+        "options": [
+          "Une défense",
+          "Une contracture",
+          "Un « ventre de bois »",
+          "Un signe de Murphy",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Résistance tonique que la main peut vaincre avec douceur = défense.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/04-douleur-abdominale-aigue/cas-001-q2",
+        "type": "unique",
+        "enonce": "Chez cette femme en âge de procréer avec retard de règles, il faut penser en priorité à :",
+        "options": [
+          "Une grossesse extra-utérine",
+          "Une gastro-entérite",
+          "Une constipation",
+          "Un reflux",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Femme en âge de procréer : penser à la grossesse extra-utérine.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/04-douleur-abdominale-aigue/cas-001-q3",
+        "type": "multiple",
+        "enonce": "Parmi les causes de douleur de la fosse iliaque droite citées par le cours, on retrouve :",
+        "options": [
+          "Appendicite",
+          "Kyste de l'ovaire",
+          "Salpingite",
+          "Grossesse extra-utérine",
+          "Toutes les propositions sont correctes"
+        ],
+        "correctes": [
+          4
+        ],
+        "explication": "Toutes figurent dans les causes de douleur de la FID.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/04-douleur-abdominale-aigue/cas-001-q4",
+        "type": "unique",
+        "enonce": "L'examen biologique indispensable ici est :",
+        "options": [
+          "β-hCG",
+          "Lipase isolée",
+          "ECG",
+          "Endoscopie",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "La β-hCG fait partie de la biologie citée et s'impose devant un retard de règles.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/04-douleur-abdominale-aigue/cas-001-q5",
+        "type": "multiple",
+        "enonce": "Les signes d'alerte présents chez cette patiente sont :",
+        "options": [
+          "Défense",
+          "Fièvre",
+          "Arrêt des matières et des gaz",
+          "Hématémèse",
+          "Toutes les propositions sont fausses"
+        ],
+        "correctes": [
+          0,
+          1
+        ],
+        "explication": "Défense (examen) et fièvre (interrogatoire) sont des signes d'alerte ; les autres ne sont pas décrits.",
+        "difficulte": 2,
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "semiologie/04-douleur-abdominale-aigue/cas-002",
+    "titre": "Douleur épigastrique brutale chez un patient sous AINS",
+    "enonce": "Un homme de 50 ans, fumeur, traité par AINS pour une lombalgie, présente des douleurs épigastriques à type de crampe, survenant à distance des repas et calmées par l'alimentation depuis plusieurs semaines. Ce matin, il ressent une douleur brutale « en coup de poignard ». L'abdomen est dur, la paroi résiste de façon invincible.",
+    "questions": [
+      {
+        "id": "semiologie/04-douleur-abdominale-aigue/cas-002-q1",
+        "type": "unique",
+        "enonce": "Les douleurs des semaines précédentes évoquent :",
+        "options": [
+          "Un ulcère gastro-duodénal",
+          "Une colique hépatique",
+          "Une pancréatite",
+          "Une colique néphrétique",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Douleur épigastrique, crampe, à distance des repas, calmée par l'alimentation = ulcère.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/04-douleur-abdominale-aigue/cas-002-q2",
+        "type": "multiple",
+        "enonce": "Le tableau actuel évoque :",
+        "options": [
+          "Une perforation d'ulcère",
+          "Une contracture abdominale",
+          "Une péritonite",
+          "Une simple gastrite",
+          "Toutes les propositions sont fausses"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "Douleur brutale en coup de poignard + contracture (ventre de bois) = perforation, péritonite.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/04-douleur-abdominale-aigue/cas-002-q3",
+        "type": "multiple",
+        "enonce": "Les éléments du terrain recherchés à l'interrogatoire chez ce patient :",
+        "options": [
+          "Prise d'AINS",
+          "Tabagisme",
+          "Antécédent d'ulcère",
+          "Interventions abdominales antérieures",
+          "Toutes les propositions sont correctes"
+        ],
+        "correctes": [
+          4
+        ],
+        "explication": "Tous font partie du terrain à rechercher.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/04-douleur-abdominale-aigue/cas-002-q4",
+        "type": "unique",
+        "enonce": "Un ECG doit aussi être réalisé car :",
+        "options": [
+          "Une douleur épigastrique peut révéler un infarctus du myocarde",
+          "L'ECG est systématique chez tous les patients",
+          "Il confirme l'ulcère",
+          "Il remplace l'endoscopie",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Le cours recommande l'ECG en cas de douleur épigastrique ; l'infarctus du myocarde est une cause épigastrique.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/04-douleur-abdominale-aigue/cas-002-q5",
+        "type": "unique",
+        "enonce": "À l'auscultation, un silence abdominal évoquerait :",
+        "options": [
+          "Un iléus ou une péritonite",
+          "Un anévrisme aortique",
+          "Un globe vésical",
+          "Une ascite",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Silence abdominal : iléus ou péritonite.",
+        "difficulte": 2,
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "semiologie/04-douleur-abdominale-aigue/cas-003",
+    "titre": "Douleur de l'hypochondre droit après un repas de fête",
+    "enonce": "Une femme de 45 ans se présente le soir avec une douleur très intense de l'hypochondre droit, apparue en quelques minutes après un repas gras, à type de broiement, lui bloquant la respiration et irradiant en arrière « en bretelle ». Elle est apyrétique.",
+    "questions": [
+      {
+        "id": "semiologie/04-douleur-abdominale-aigue/cas-003-q1",
+        "type": "unique",
+        "enonce": "Ce tableau évoque :",
+        "options": [
+          "Une colique hépatique",
+          "Un ulcère",
+          "Un reflux gastro-œsophagien",
+          "Une pancréatite",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Douleur HCD rapide, broiement, respiration bloquée, irradiation postérieure en bretelle, après un repas gras = colique hépatique.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/04-douleur-abdominale-aigue/cas-003-q2",
+        "type": "unique",
+        "enonce": "Le mécanisme est :",
+        "options": [
+          "Un petit calcul bloqué temporairement dans le canal cystique",
+          "Une perte de substance muqueuse",
+          "Une inflammation du pancréas",
+          "Une ischémie mésentérique",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "La colique hépatique est due à un petit calcul bloqué temporairement dans le canal cystique.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/04-douleur-abdominale-aigue/cas-003-q3",
+        "type": "unique",
+        "enonce": "La douleur est calmée par :",
+        "options": [
+          "Les antispasmodiques",
+          "L'alimentation",
+          "La position penchée en avant",
+          "Les AINS selon le cours",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Calmant : antispasmodiques.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/04-douleur-abdominale-aigue/cas-003-q4",
+        "type": "unique",
+        "enonce": "L'apparition d'une fièvre avec arrêt de l'inspiration à la palpation sous le rebord costal droit ferait évoquer :",
+        "options": [
+          "Une cholécystite (signe de Murphy)",
+          "Une appendicite",
+          "Une colique néphrétique",
+          "Un globe vésical",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Le signe de Murphy évoque une cholécystite.",
+        "difficulte": 2,
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "semiologie/04-douleur-abdominale-aigue/cas-004",
+    "titre": "Douleur abdominale transfixiante",
+    "enonce": "Un homme de 48 ans, éthylique chronique, consulte pour une douleur épigastrique intense apparue peu après un repas, transfixiante, irradiant dans le dos. Il se tient penché en avant, recroquevillé, ce qui le soulage. Il vomit.",
+    "questions": [
+      {
+        "id": "semiologie/04-douleur-abdominale-aigue/cas-004-q1",
+        "type": "unique",
+        "enonce": "Ce tableau correspond à :",
+        "options": [
+          "Un syndrome solaire évocateur de pancréatite",
+          "Un pyrosis",
+          "Une colique hépatique",
+          "Une douleur ulcéreuse typique",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Douleur intense, transfixiante, postprandiale précoce, calmée penché en avant (chien de fusil) = pancréatite.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/04-douleur-abdominale-aigue/cas-004-q2",
+        "type": "unique",
+        "enonce": "L'examen biologique d'orientation cité par le cours est :",
+        "options": [
+          "La lipase",
+          "La β-hCG",
+          "La bandelette urinaire",
+          "La CRP seule",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "La lipase fait partie de la biologie citée ; elle oriente vers la pancréatite.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/04-douleur-abdominale-aigue/cas-004-q3",
+        "type": "multiple",
+        "enonce": "Concernant la position antalgique :",
+        "options": [
+          "La position en chien de fusil calme la douleur pancréatique",
+          "Elle aggraverait un pyrosis",
+          "Elle est sans valeur",
+          "Elle oriente vers un ulcère",
+          "Toutes les propositions sont fausses"
+        ],
+        "correctes": [
+          0,
+          1
+        ],
+        "explication": "Chien de fusil : calme la pancréatite ; le pyrosis est augmenté penché en avant.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/04-douleur-abdominale-aigue/cas-004-q4",
+        "type": "multiple",
+        "enonce": "Une douleur épigastrique impose aussi d'éliminer :",
+        "options": [
+          "Un infarctus du myocarde (ECG)",
+          "Une dissection de l'aorte",
+          "Une péricardite",
+          "Une gastrite",
+          "Toutes les propositions sont correctes"
+        ],
+        "correctes": [
+          4
+        ],
+        "explication": "Toutes ces causes figurent dans les douleurs épigastriques.",
+        "difficulte": 2,
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "semiologie/04-douleur-abdominale-aigue/cas-005",
+    "titre": "Douleur diffuse chez un sujet âgé",
+    "enonce": "Un homme de 78 ans, aux antécédents cardiovasculaires, présente une douleur abdominale diffuse intense d'apparition brutale, avec pâleur, tachycardie et hypotension. L'examen abdominal est peu parlant. On entend un souffle systolique abdominal.",
+    "questions": [
+      {
+        "id": "semiologie/04-douleur-abdominale-aigue/cas-005-q1",
+        "type": "multiple",
+        "enonce": "Les signes d'alerte présents sont :",
+        "options": [
+          "Douleur brutale",
+          "Pâleur",
+          "Tachycardie",
+          "Hypotension",
+          "Toutes les propositions sont correctes"
+        ],
+        "correctes": [
+          4
+        ],
+        "explication": "Tous ces signes font partie des signes d'alerte.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/04-douleur-abdominale-aigue/cas-005-q2",
+        "type": "unique",
+        "enonce": "Le souffle systolique abdominal évoque :",
+        "options": [
+          "Une sténose ou un anévrisme de l'aorte abdominale",
+          "Un iléus",
+          "Une ascite",
+          "Une péritonite",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Souffle systolique : sténose ou anévrisme de l'aorte abdominale.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/04-douleur-abdominale-aigue/cas-005-q3",
+        "type": "multiple",
+        "enonce": "Les causes vasculaires à évoquer sont :",
+        "options": [
+          "Rupture d'anévrisme de l'aorte abdominale",
+          "Infarctus mésentérique",
+          "Infarctus du myocarde",
+          "Gastro-entérite aiguë",
+          "Constipation"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "Causes vasculaires : infarctus mésentérique, rupture d'anévrisme, infarctus du myocarde.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/04-douleur-abdominale-aigue/cas-005-q4",
+        "type": "unique",
+        "enonce": "L'examen abdominal peu parlant s'explique par :",
+        "options": [
+          "Les signes peuvent être discrets chez le sujet âgé",
+          "L'absence de gravité",
+          "Une douleur fonctionnelle",
+          "Une constipation",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Chez le sujet âgé ou immunodéprimé, les signes peuvent être discrets.",
+        "difficulte": 2,
+        "origine": "genere"
+      }
+    ]
+  }
+]

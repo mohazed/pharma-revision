@@ -1,0 +1,186 @@
+[
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/cas-001",
+    "titre": "Cas pratique : validation d'un cycle d'autoclave",
+    "enonce": "Un service de production stérilise des flacons de solution aqueuse dans un autoclave industriel. La charge initiale est estimée à 10⁴ spores de G. stearothermophilus par unité (D121 = 2 min). Un indicateur biologique et des indicateurs chimiques sont placés dans la zone froide.",
+    "questions": [
+      {
+        "id": "pharmacie-galenique/11-sterilisation-partie-1/cas-001-q1",
+        "type": "unique",
+        "enonce": "Pour atteindre un NAS de 10⁻⁶, la durée minimale à 121 °C est :",
+        "options": [
+          "20 min",
+          "12 min",
+          "8 min",
+          "10 min",
+          "40 min"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "De 10⁴ à 10⁻⁶ : 10 réductions décimales × 2 min = 20 min.",
+        "difficulte": 3,
+        "tags": [],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacie-galenique/11-sterilisation-partie-1/cas-001-q2",
+        "type": "multiple",
+        "enonce": "Concernant les contrôles de ce cycle :",
+        "options": [
+          "L'indicateur biologique contient des spores de G. stearothermophilus",
+          "Un virage au mauve après incubation indique une stérilisation réussie",
+          "Les indicateurs chimiques donnent une preuve visuelle immédiate",
+          "La zone froide est le point le plus difficile à chauffer",
+          "Toutes les propositions sont fausses"
+        ],
+        "correctes": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explication": "IB à G. stearothermophilus (mauve = succès), IC = preuve visuelle immédiate, capteurs placés notamment dans la zone froide.",
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacie-galenique/11-sterilisation-partie-1/cas-001-q3",
+        "type": "multiple",
+        "enonce": "Si des poches d'air persistent dans la chambre :",
+        "options": [
+          "La chaleur humide y pénètre plus lentement",
+          "La stérilisation peut être inadéquate",
+          "Il faut améliorer la purge (cycles de vide répétés)",
+          "La stérilisation est plus efficace",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "L'air non éliminé forme des poches où la vapeur pénètre lentement ; la purge par vide répété est indispensable.",
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/cas-002",
+    "titre": "Cas pratique : choix de la méthode thermique",
+    "enonce": "Une pharmacie hospitalière doit stériliser : (1) des instruments chirurgicaux ayant pu être en contact avec des prions ; (2) une huile de coton pour préparation injectable ; (3) des flacons en verre destinés à une fabrication aseptique, devant être apyrogènes.",
+    "questions": [
+      {
+        "id": "pharmacie-galenique/11-sterilisation-partie-1/cas-002-q1",
+        "type": "unique",
+        "enonce": "Pour les instruments (1), le barème adapté est :",
+        "options": [
+          "Chaleur humide à 134 °C pendant 18 min",
+          "Chaleur sèche à 160 °C pendant 2 h",
+          "Chaleur humide à 121 °C pendant 15 min",
+          "UV pendant 30 min",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Le risque ATNC impose 134 °C, 18 min en chaleur humide ; les fours à chaleur sèche ne sont plus utilisés à l'hôpital du fait de leur faible efficacité sur les ATNC.",
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacie-galenique/11-sterilisation-partie-1/cas-002-q2",
+        "type": "multiple",
+        "enonce": "Pour l'huile de coton (2) :",
+        "options": [
+          "La chaleur sèche est indiquée",
+          "La vapeur d'eau ne peut pas pénétrer les huiles",
+          "Un barème de 160 °C pendant 120 à 180 min est possible",
+          "La chaleur humide est la méthode de choix",
+          "Toutes les propositions sont correctes"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "Les huiles relèvent de la chaleur sèche (160 °C 2–3 h ou 170 °C 1,5–2 h) car la vapeur ne les pénètre pas.",
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacie-galenique/11-sterilisation-partie-1/cas-002-q3",
+        "type": "multiple",
+        "enonce": "Pour les flacons en verre (3) :",
+        "options": [
+          "La dépyrogénation par chaleur sèche à plus de 220 °C est indiquée",
+          "Un cycle de 250 °C pendant 30 à 60 min est possible",
+          "L'efficacité se contrôle par le dosage des endotoxines (test BET)",
+          "L'autoclavage à 121 °C suffit à éliminer les endotoxines",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "La chaleur humide n'élimine pas les endotoxines ; la dépyrogénation par chaleur sèche (> 220 °C) avec réduction ≥ 3 log₁₀ est nécessaire.",
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/cas-003",
+    "titre": "Cas pratique : interprétation d'un barème",
+    "enonce": "Lors d'une panne, un lot n'a été chauffé que 12 min à 115 °C (z = 10 °C) au lieu de 20 min à 121 °C.",
+    "questions": [
+      {
+        "id": "pharmacie-galenique/11-sterilisation-partie-1/cas-003-q1",
+        "type": "unique",
+        "enonce": "La valeur stérilisatrice F de ce traitement est environ :",
+        "options": [
+          "3 min",
+          "12 min",
+          "1,2 min",
+          "30 min",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "F = 12 × 10^((115 − 121)/10) = 12 × 10⁻⁰·⁶ ≈ 12 × 0,25 ≈ 3 min.",
+        "difficulte": 3,
+        "tags": [],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacie-galenique/11-sterilisation-partie-1/cas-003-q2",
+        "type": "multiple",
+        "enonce": "Conclusion :",
+        "options": [
+          "Le traitement est insuffisant car F < F0 = 8 min",
+          "Le barème enregistré du lot permet de détecter cet écart",
+          "Le lot peut être libéré sans autre vérification",
+          "F0 = 8 min est le minimum acceptable à la validation",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0,
+          1,
+          3
+        ],
+        "explication": "F ≈ 3 min < 8 min : traitement insuffisant ; le barème T = f(t), conservé dans le dossier de lot, sert justement à vérifier le respect des conditions.",
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      }
+    ]
+  }
+]

@@ -1,0 +1,186 @@
+[
+  {
+    "id": "pharmacie-galenique/09-granulation/cas-001",
+    "titre": "Cas pratique : choix du procédé selon le PA",
+    "enonce": "Un laboratoire développe trois comprimés : (A) un PA hydrolysable et thermosensible ; (B) un PA très faiblement dosé, hydrosoluble, stable à l'eau et à la chaleur ; (C) un PA trop soluble dans les liquides de mouillage usuels.",
+    "questions": [
+      {
+        "id": "pharmacie-galenique/09-granulation/cas-001-q1",
+        "type": "unique",
+        "enonce": "Pour le PA (A), le procédé le plus adapté est :",
+        "options": [
+          "La granulation par voie sèche",
+          "La granulation humide aqueuse",
+          "L'atomisation d'une solution aqueuse",
+          "Le lit d'air fluidisé avec liant aqueux",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "La voie sèche évite l'eau et la chaleur ; elle est indiquée pour les PA hydrolysables ou thermosensibles.",
+        "difficulte": 1,
+        "tags": [],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacie-galenique/09-granulation/cas-001-q2",
+        "type": "multiple",
+        "enonce": "Pour le PA (B) en voie humide :",
+        "options": [
+          "L'uniformité à faible dose est bonne si le PA est dissous dans la solution liante",
+          "Il existe un risque de migration des solutés au séchage",
+          "Le calibrage avant séchage ou le lit fluidisé limitent l'hétérogénéité de teneur",
+          "La compression directe présente un risque de ségrégation",
+          "Toutes les propositions sont fausses"
+        ],
+        "correctes": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explication": "La voie humide donne une bonne uniformité à faible dose si le PA est dissous dans la solution liante, mais le PA hydrosoluble faiblement dosé peut migrer au séchage ; actions : calibrer avant séchage ou lit fluidisé.",
+        "difficulte": 3,
+        "tags": [],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacie-galenique/09-granulation/cas-001-q3",
+        "type": "unique",
+        "enonce": "Pour le PA (C), le procédé adapté est :",
+        "options": [
+          "La granulation par fusion",
+          "La granulation humide avec ce liquide de mouillage",
+          "La dissolution extractive",
+          "Le test de la boule",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "La fusion n'utilise aucun solvant, ce qui convient aux actifs trop solubles dans les liquides de mouillage.",
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/cas-002",
+    "titre": "Cas pratique : granulé défectueux en haut taux de cisaillement",
+    "enonce": "Un lot granulé au granulateur à haut taux de cisaillement donne de gros agglomérats durs ; les comprimés obtenus ont une dissolution lente. Le dossier de lot montre une quantité de liant supérieure à la formule et un temps de malaxage doublé.",
+    "questions": [
+      {
+        "id": "pharmacie-galenique/09-granulation/cas-002-q1",
+        "type": "multiple",
+        "enonce": "Quels phénomènes expliquent ces observations ?",
+        "options": [
+          "Une sur-granulation par excès de liant",
+          "Une prolongation excessive de la granulation",
+          "Un état goutte (surmouillage) possible",
+          "Un liant insuffisant",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "Excès de liant et temps prolongé provoquent une croissance incontrôlée (sur-granulation) ; l'excès de liquide peut mener au surmouillage.",
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacie-galenique/09-granulation/cas-002-q2",
+        "type": "multiple",
+        "enonce": "Actions correctives conformes au cours :",
+        "options": [
+          "Réduire la quantité de liant",
+          "Réduire le temps de malaxage",
+          "Déterminer le point final par le test de la boule ou le suivi du couple moteur",
+          "Augmenter encore la vitesse et le temps",
+          "Toutes les propositions sont correctes"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "Granulés durs/dissolution lente → réduire le liant ou le temps ; le point final se détermine par le test de la boule ou le couple/puissance moteur.",
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacie-galenique/09-granulation/cas-002-q3",
+        "type": "multiple",
+        "enonce": "Au mélange final, pour éviter de ralentir encore la dissolution :",
+        "options": [
+          "Ajouter le lubrifiant en dernier",
+          "Limiter la durée du mélange avec le lubrifiant",
+          "Prolonger le mélange avec le stéarate de magnésium",
+          "Ajouter le lubrifiant avant le mouillage",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0,
+          1
+        ],
+        "explication": "Le lubrifiant s'ajoute en dernier avec un mélange court ; sinon la dureté diminue et la dissolution est ralentie.",
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/cas-003",
+    "titre": "Cas pratique : contrôle d'écoulement d'un granulé",
+    "enonce": "Un granulé sec présente une masse volumique apparente de 0,50 g/mL et une masse volumique tassée de 0,70 g/mL. L'essai d'écoulement donne t = 12 s.",
+    "questions": [
+      {
+        "id": "pharmacie-galenique/09-granulation/cas-003-q1",
+        "type": "unique",
+        "enonce": "L'indice de Hausner vaut :",
+        "options": [
+          "1,40",
+          "0,71",
+          "1,20",
+          "28,6",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "H = ρtassée / ρapparente = 0,70 / 0,50 = 1,40.",
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacie-galenique/09-granulation/cas-003-q2",
+        "type": "multiple",
+        "enonce": "Interprétation :",
+        "options": [
+          "H = 1,40 correspond à un écoulement médiocre",
+          "IC = 100 × (0,70 − 0,50) / 0,70 ≈ 28,6 %, écoulement médiocre",
+          "Le temps d'écoulement est non conforme (> 10 s)",
+          "Il faut ajouter un lubrifiant d'écoulement",
+          "L'écoulement est excellent"
+        ],
+        "correctes": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explication": "H = 1,40 (1,35–1,45) et IC ≈ 28,6 % (26–31) : écoulement médiocre ; t > 10 s impose l'ajout d'un lubrifiant d'écoulement.",
+        "difficulte": 3,
+        "tags": [],
+        "origine": "genere"
+      }
+    ]
+  }
+]

@@ -1,0 +1,103 @@
+{
+  "id": "chimie-therapeutique/02-anxiolytiques/fiche",
+  "titre": "Les anxiolytiques : l'essentiel",
+  "sections": [
+    {
+      "titre": "Psychotropes",
+      "points": [
+        "Substances naturelles ou synthétiques modifiant l'activité mentale ou le comportement en agissant sur le cerveau",
+        "Delay et Deniker modifiée par Loo : **psycholeptiques** (abaissent), **psychoanaleptiques** (stimulent), **psycho-isoleptiques** (régulent : lithium), **psychodysleptiques** (dévient : hallucinogènes)",
+        "Anxiolytiques et neuroleptiques = thymoleptiques ; hypnotiques = nooleptiques"
+      ]
+    },
+    {
+      "titre": "Anxiété",
+      "points": [
+        "État émotionnel : appréhension, tension, malaise, terreur face à un péril indéterminé, avec manifestations somatiques polymorphes",
+        "Théories biologiques : **GABAergique**, **sérotoninergique**, **noradrénergique**",
+        "Récepteur GABAA post-synaptique : canal Cl⁻ avec site GABA et site BZD"
+      ]
+    },
+    {
+      "titre": "Classification des anxiolytiques",
+      "points": [
+        "Benzodiazépines",
+        "Carbamates (méprobamate)",
+        "Hydroxyzine",
+        "Buspirone",
+        "Antidépresseurs",
+        "Bêtabloquants et agonistes α2 adrénergiques"
+      ]
+    },
+    {
+      "titre": "Benzodiazépines : noyau et classes chimiques",
+      "points": [
+        "Noyau : **3H-benzo(e)diazépine-1,4** + phényle en C5 (1'-6')",
+        "1. Diazépines : chlordiazépoxyde (Librium®)",
+        "2. Diazépinones 7-halogénées : diazépam, prazépam, bromazépam, tétrazépam, nordazépam ; 7-nitrées : hypnotiques/antiépileptiques",
+        "3. Diazépinolone (OH en 3) : témazépam, oxazépam, lorazépam, lormétazépam",
+        "4. Diazépinone carboxylique : clorazépate, loflazépate",
+        "5. Triazolo/imidazo : estazolam, alprazolam, triazolam ; flumazénil (antagoniste)",
+        "6. Autres : clobazam (1,5-BZD), clotiazépam (thiéno-1,4-diazépine)"
+      ]
+    },
+    {
+      "titre": "Synthèse du diazépam",
+      "points": [
+        "Départ : **2-amino-5-chlorobenzophénone**",
+        "Acylation par le bromure de bromoacétyle (–HCl)",
+        "Amination (–HBr)",
+        "Cyclisation (–H2O)",
+        "Méthylation de N1 par CH3–I"
+      ]
+    },
+    {
+      "titre": "Mécanisme d'action",
+      "points": [
+        "Facilitation de la neurotransmission GABAergique (récepteurs GABAA post-synaptiques)",
+        "Ouverture du canal → entrée massive de Cl⁻ → **hyperpolarisation** → sédation"
+      ]
+    },
+    {
+      "titre": "Relations structure-activité",
+      "points": [
+        "Cycle A : aromaticité nécessaire (phényle ou thiophène)",
+        "Position 7 : groupe **électroattracteur** indispensable ; autres positions (C6, C8, C9) → activité diminuée",
+        "7-nitrés : hypnotiques/antiépileptiques ; 7-halogénés : anxiolytiques",
+        "N1 : méthyle augmente l'activité",
+        "C2 : carbonyle (électroattracteur)",
+        "C3 : CH2, OH ou COOH (sels hydrosolubles, prodrogue)",
+        "N4 : imine ou N-oxyde ; déplacement possible (clobazam)",
+        "Cycle C : lipophilie ; ortho-halogène F > Cl > H ; cyclohexène → myorelaxant"
+      ]
+    },
+    {
+      "titre": "Propriétés, CI et maniement",
+      "points": [
+        "Propriétés : anxiolytique, sédative/hypnotique, anesthésique, anticonvulsivante, myorelaxante",
+        "CI : myasthénie, insuffisance respiratoire, apnée du sommeil, hypersensibilité, insuffisance hépatique et rénale",
+        "Maniement : dose minimale, durée courte (12 semaines), arrêt progressif, prudence chez l'alcoolique ou toxicomane, risque d'interaction avec l'alcool"
+      ]
+    },
+    {
+      "titre": "Autres anxiolytiques",
+      "points": [
+        "Méprobamate : carbamate peu utilisé, inducteur enzymatique, surdosage sans antidote",
+        "Hydroxyzine (Atarax®) : antihistaminique anticholinergique, anxiétés mineures",
+        "Buspirone : azaspirodécanedione, agoniste 5-HT1A présynaptique, délai 1-3 semaines, sans dépendance",
+        "Clonidine (agoniste α2) et propranolol (bêtabloquant) : troubles paniques, sevrage nicotine/opiacés"
+      ]
+    }
+  ],
+  "aRetenir": [
+    "Groupe électroattracteur en 7 = activité ; nitré → hypnotique/antiépileptique, halogéné → anxiolytique",
+    "Synthèse du diazépam : 2-amino-5-chlorobenzophénone → acylation → amination → cyclisation → méthylation",
+    "Flumazénil = antagoniste pur et spécifique ; pas d'antidote pour le méprobamate"
+  ],
+  "pieges": [
+    "Ne pas confondre lorazépam (Temesta®) et clorazépate (Tranxène®)",
+    "Le cycle C est obligatoire pour la lipophilie, pas pour l'activité",
+    "Le clobazam est une 1,5-benzodiazépine, pas une 1,4",
+    "La buspirone n'agit pas sur le récepteur GABAA"
+  ]
+}

@@ -1,0 +1,5 @@
+[
+  { "terme": "Volume de distribution", "definition": "Volume fictif dans lequel le médicament devrait se répartir pour avoir la même concentration que dans le plasma.", "cours": "_exemple/01-cours-exemple" },
+  { "terme": "Biodisponibilité", "definition": "Fraction de la dose administrée qui atteint la circulation générale, et vitesse à laquelle elle l'atteint.", "cours": "_exemple/01-cours-exemple" },
+  { "terme": "Effet de premier passage", "definition": "Perte de médicament lors de son premier passage par le foie avant d'atteindre la circulation générale.", "cours": null }
+]

@@ -1,0 +1,60 @@
+{
+  "id": "semiologie/02-cephalees-douleurs-faciales/fiche",
+  "titre": "Céphalées et douleurs faciales",
+  "sections": [
+    {
+      "titre": "Classification",
+      "points": [
+        "**Primaires** : sans lésion, fréquentes, récurrentes, diagnostic clinique (migraine, tension, algie vasculaire de la face).",
+        "**Secondaires** : lésion sous-jacente, récentes et inhabituelles, examens complémentaires."
+      ]
+    },
+    {
+      "titre": "Démarche",
+      "points": [
+        "Interrogatoire + examen clinique = outils incontournables.",
+        "Alerte : céphalée récente, brusque, différente des habituelles, soudaine et sévère, symptôme neurologique associé.",
+        "L'intensité, le type et la topographie ne tranchent pas.",
+        "Examens : **scanner sans injection** puis **ponction lombaire**."
+      ]
+    },
+    {
+      "titre": "Céphalées secondaires",
+      "points": [
+        "HSA : 1er diagnostic devant céphalée brutale inhabituelle.",
+        "Dissection : cervicale (carotide) / rétroauriculaire (vertébrale), CBH, échodoppler + angio-IRM.",
+        "Encéphalopathie hypertensive : PA > 240/120 mmHg.",
+        "HTIC : progressive, toux, vomissements, œdème papillaire, VI ; bénigne chez la jeune femme obèse.",
+        "Méningite : fébrile + syndrome méningé → PL.",
+        "Horton : > 60 ans, VS, CRP, biopsie, corticothérapie."
+      ]
+    },
+    {
+      "titre": "Migraine sans aura",
+      "points": [
+        "10–15 %, femme, 30 ans ; diagnostic clinique, examen normal.",
+        "IHS : ≥ 5 crises, 4–72 h, ≥ 2 de (unilatérale, pulsatile, modérée/sévère, aggravée par l'effort), nausées/vomissements ou photo-phonophobie.",
+        "Facteurs : stress/détente (week-end), règles (cataméniale), chocolat, alcool, bruit, odeurs."
+      ]
+    },
+    {
+      "titre": "Névralgie du trijumeau",
+      "points": [
+        "Essentielle : femme > 50 ans, compression vasculaire (cérébelleuse supérieure), unilatérale, V2 > V3 > V1, décharges brèves, zone gâchette, examen normal.",
+        "Symptomatique : moins intense, V1, fond douloureux, hypoesthésie, déficit V3 moteur."
+      ]
+    }
+  ],
+  "aRetenir": [
+    "L'absence de symptôme associé n'élimine pas une céphalée secondaire.",
+    "Scanner normal devant une céphalée brutale → ponction lombaire.",
+    "Névralgie essentielle : jamais les trois branches."
+  ],
+  "pieges": [
+    "L'intensité ne distingue PAS primaire et secondaire.",
+    "La PL se fait APRÈS le scanner.",
+    "HTIC : céphalées progressives (non brutales).",
+    "V1 = exceptionnel dans la forme essentielle mais évocateur de la forme symptomatique.",
+    "Dans le support, la liste des critères IHS (A à E) de la page 4 est intitulée « céphalées de tension épisodiques » mais correspond à la migraine sans aura annoncée page 3."
+  ]
+}

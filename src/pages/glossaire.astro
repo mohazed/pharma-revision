@@ -1,0 +1,16 @@
+---
+import Base from "../layouts/Base.astro";
+import EnTete from "../components/EnTete.astro";
+import Glossaire from "../islands/Glossaire";
+import { getGlossaire, getTousLesCours } from "../lib/content";
+const termes = getGlossaire();
+const cours = Object.fromEntries(getTousLesCours().map((c) => [c.id, { titre: c.titre, path: c.path }]));
+---
+<Base titre="Glossaire" description="Glossaire de pharmacie : définitions des termes des cours de 3e année, avec un lien vers le cours.">
+  <EnTete surtitre="Définitions" titre="Glossaire" sousTitre="Les termes clés des cours, avec leur définition." />
+  {termes.length === 0 ? (
+    <p class="carte p-6 text-center text-ink-muted">Le glossaire est en cours de préparation.</p>
+  ) : (
+    <Glossaire client:load termes={termes} cours={cours} />
+  )}
+</Base>

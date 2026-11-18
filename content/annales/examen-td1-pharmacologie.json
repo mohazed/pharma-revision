@@ -1,0 +1,71 @@
+{
+  "id": "examen-td1-pharmacologie",
+  "titre": "Examen 01 de TD de Pharmacologie (page 1/2)",
+  "date": null,
+  "duree": null,
+  "faculte": "Faculté de Pharmacie – Université d'Alger 1",
+  "questions": [
+    {
+      "id": "annales/examen-td1-pharmacologie/q01",
+      "type": "multiple",
+      "enonce": "Une dose unique de 200 mg d'un médicament acide faible est administrée par voie intraveineuse (bolus). Au temps T0 (fin de perfusion), on le retrouve dans le sang à Cmax = 40 mg/L. Son temps de demi-vie d'élimination est T1/2 = 8 h. 16 h après la fin du bolus :",
+      "options": [
+        "La concentration Cmax sera réduite de moitié",
+        "Est le temps nécessaire pour l'élimination de la totalité de la dose de médicament administrée",
+        "Est le temps nécessaire pour que la Cmax soit réduite de 75 %",
+        "Est le temps nécessaire pour la distribution de 75 % de la dose administrée en médicament",
+        "La concentration sanguine sera approximativement C = 10 mg/L"
+      ],
+      "correctes": [
+        2,
+        4
+      ],
+      "explication": "Bolus IV, modèle monocompartimental : C = C0·e^(−ke·t) avec ke = ln2/T1/2. 16 h = 2 × T1/2 (8 h), donc C = 40 × (1/2)² = 10 mg/L. a) Faux : la Cmax est réduite de moitié après une seule demi-vie (8 h), pas 16 h. b) Faux : après 2 demi-vies il reste 25 % du médicament ; l'élimination n'est pas totale. c) Juste : Cmax réduite de 75 % (il reste 25 %). d) Faux : la demi-vie d'élimination renseigne sur l'élimination, pas sur la distribution de la dose. e) Juste : C ≈ 10 mg/L.",
+      "difficulte": 1,
+      "tags": [
+        "calcul",
+        "demi-vie",
+        "bolus IV",
+        "modèle monocompartimental"
+      ],
+      "origine": "annale",
+      "annale": "Examen 01 de TD Pharmacologie",
+      "cours": "pharmacologie/07-modelisation-pk-partie-1",
+      "verifie": true,
+      "source": {
+        "page": 27,
+        "extrait": "C=C0 e–ke t"
+      }
+    },
+    {
+      "id": "annales/examen-td1-pharmacologie/q02",
+      "type": "multiple",
+      "enonce": "Une dose unique de 200 mg d'un médicament acide faible est administrée par voie intraveineuse (bolus). Au temps T0 (fin de perfusion), on le retrouve dans le sang à Cmax = 40 mg/L. Son temps de demi-vie d'élimination est T1/2 = 8 h. Ce médicament présente un coefficient d'extraction rénale Er = 0,9 et un coefficient d'extraction hépatique = 0,1. Ceci vous indique que :",
+      "options": [
+        "Ce médicament est principalement excrété au niveau des urines",
+        "Ce médicament est principalement métabolisé au niveau du foie",
+        "Une adaptation posologique devra être envisagée en cas d'insuffisance rénale",
+        "Ce médicament est principalement excrété par le foie au niveau de la bile",
+        "Une adaptation posologique sera nécessaire en cas d'insuffisance hépatique"
+      ],
+      "correctes": [
+        0,
+        2
+      ],
+      "explication": "Er = 0,9 traduit une forte extraction rénale et Eh = 0,1 une faible extraction hépatique. a) Juste : le médicament est principalement excrété dans les urines. b) Fausse : l'extraction hépatique est faible. c) Juste : le cours indique que toute insuffisance de l'organe responsable de l'élimination ralentit l'élimination et expose à l'accumulation et à la toxicité, d'où une adaptation en cas d'IR. d) Fausse : l'élimination biliaire est faible. e) Fausse : le foie contribue peu à l'élimination. Non tranché explicitement par le cours : le coefficient d'extraction n'y est pas défini ; seule la conséquence de l'insuffisance d'organe (c) y figure.",
+      "difficulte": 2,
+      "tags": [
+        "coefficient d'extraction",
+        "insuffisance rénale"
+      ],
+      "origine": "annale",
+      "annale": "Examen 01 de TD Pharmacologie",
+      "cours": "pharmacologie/06-elimination",
+      "verifie": false,
+      "source": {
+        "page": 44,
+        "extrait": "ralentissement de l’élimination → risque d’accumulation du produit → des effets toxiques"
+      }
+    }
+  ]
+}

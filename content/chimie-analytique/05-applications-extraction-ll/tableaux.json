@@ -1,0 +1,162 @@
+[
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/tableau-001",
+    "titre": "Influence du pH sur l'extraction des acides et des bases faibles",
+    "colonnes": [
+      "Espèce",
+      "D",
+      "pH très bas",
+      "pH très élevé",
+      "pH d'extraction"
+    ],
+    "lignes": [
+      [
+        "Acide faible AH",
+        "λ/(1 + Ka/[H₃O⁺])",
+        "log D = log λ",
+        "log D = log λ + pKa − pH",
+        "Bas (≤ pKa − 2)"
+      ],
+      [
+        "Base faible B",
+        "λ/(1 + [H₃O⁺]/Ka)",
+        "log D = log λ − pKa + pH",
+        "log D = log λ",
+        "Élevé (≥ pKa + 2)"
+      ]
+    ]
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/tableau-002",
+    "titre": "Applications colorimétriques des paires d'ions",
+    "colonnes": [
+      "Dosage",
+      "pH",
+      "Colorant",
+      "Solvant",
+      "Lecture"
+    ],
+    "lignes": [
+      [
+        "Méthadone/atropine",
+        "5,5",
+        "Pourpre de bromocrésol",
+        "Toluène",
+        "Après réextraction dans la soude diluée"
+      ],
+      [
+        "Quinine (extraction quantitative)",
+        "7",
+        "Éosine",
+        "Chloroforme",
+        "Directe en phase organique"
+      ],
+      [
+        "Traces d'ammonium quaternaire antiseptiques",
+        "10",
+        "Hélianthine",
+        "Chloroforme",
+        "Après passage en phase aqueuse chlorhydrique"
+      ]
+    ]
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/tableau-003",
+    "titre": "Ions extractibles sous forme de paires d'ions",
+    "colonnes": [
+      "Type",
+      "Exemples"
+    ],
+    "lignes": [
+      [
+        "Anions tensioactifs",
+        "Lauryl sulfate de sodium (SDS/LSS), DOSS (Manoxol)"
+      ],
+      [
+        "Autres anions",
+        "Tétraphénylborate, colorants acides (phtaléines, fluorescéines), hélianthine (ampholyte)"
+      ],
+      [
+        "Ammoniums quaternaires",
+        "Cétyl triméthyl ammonium, benzyl trialkylammonium, cétyl pyridinium"
+      ],
+      [
+        "Amines de MM élevée",
+        "Alcaloïdes, phénothiazine, prométhazine"
+      ],
+      [
+        "Colorants basiques",
+        "Vert de méthyle (triphénylméthane), jaune de méthyle (azoïque)"
+      ]
+    ]
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/carte-004",
+    "type": "carte",
+    "titre": "Applications de l'ELL",
+    "racine": {
+      "label": "Applications de l'ELL",
+      "enfants": [
+        {
+          "label": "Molécules simples",
+          "enfants": [
+            {
+              "label": "Structure",
+              "enfants": []
+            },
+            {
+              "label": "Association (dimères)",
+              "enfants": []
+            },
+            {
+              "label": "Complexe chargé (I₃⁻)",
+              "enfants": []
+            },
+            {
+              "label": "pH (acides, bases)",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Chélates métalliques",
+          "enfants": [
+            {
+              "label": "Oxine, dithizone",
+              "enfants": []
+            },
+            {
+              "label": "KEX, D",
+              "enfants": []
+            },
+            {
+              "label": "Dosages Cu, Fe, Pb",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Paires d'ions",
+          "enfants": [
+            {
+              "label": "ε du solvant",
+              "enfants": []
+            },
+            {
+              "label": "Stabilité (pKd = A + C/ε)",
+              "enfants": []
+            },
+            {
+              "label": "Colorimétrie",
+              "enfants": []
+            },
+            {
+              "label": "Volumétrie (LSS, DOSS)",
+              "enfants": []
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

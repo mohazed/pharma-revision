@@ -1,0 +1,3131 @@
+[
+  {
+    "id": "pharmacognosie/02-glucides/qcm-001",
+    "type": "multiple",
+    "enonce": "Concernant les métabolites végétaux, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Les métabolites primaires sont indispensables à la croissance et au fonctionnement cellulaire",
+      "Les glucides appartiennent principalement aux métabolites primaires",
+      "Les métabolites secondaires participent surtout aux interactions de la plante avec son environnement",
+      "Les alcaloïdes, terpènes et composés phénoliques sont des métabolites primaires",
+      "Les lipides et les acides aminés sont des exemples de métabolites primaires"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explication": "Glucides, lipides, acides aminés, protéines et acides nucléiques sont primaires ; alcaloïdes, terpènes et composés phénoliques sont des métabolites secondaires (défense, protection, communication).",
+    "source": {
+      "page": 3,
+      "extrait": "Les glucides appartiennent principalement aux métabolites primaires."
+    },
+    "difficulte": 1,
+    "tags": [
+      "métabolites"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-002",
+    "type": "multiple",
+    "enonce": "Concernant la définition des glucides, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Ils sont aussi appelés saccharides",
+      "Ils étaient anciennement appelés hydrates de carbone en raison de la formule Cn(H2O)n",
+      "Ce sont des constituants universels des organismes vivants",
+      "Ce sont des composés carbonylés (aldéhydiques ou cétoniques) polyhydroxylés",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes les propositions reprennent la définition du cours : saccharides, anciennement hydrates de carbone (Cn(H2O)n), constituants universels, composés carbonylés polyhydroxylés et leurs dérivés.",
+    "source": {
+      "page": 4,
+      "extrait": "Composés organiques carbonylés ( aldéhydiques ou cétoniques), polyhydroxylés"
+    },
+    "difficulte": 1,
+    "tags": [
+      "définition"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-003",
+    "type": "multiple",
+    "enonce": "Concernant la répartition et l'origine des glucides, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Ils sont présents partout dans la biosphère",
+      "Ils constituent la classe prépondérante parmi les molécules organiques",
+      "Ils représentent environ 5 % du poids sec chez les animaux",
+      "Ils peuvent représenter jusqu'à 70 % du poids sec chez les végétaux",
+      "La plus grande part des glucides provient de la photosynthèse"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Toutes exactes : présents partout, classe prépondérante, ≈ 5 % du poids sec chez les animaux, jusqu'à 70 % chez les végétaux, origine majoritaire photosynthétique (assimilation du CO2).",
+    "source": {
+      "page": 5,
+      "extrait": "La plus grande part des glucides amassés provient de la photosynthèse"
+    },
+    "difficulte": 2,
+    "tags": [
+      "répartition"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-004",
+    "type": "unique",
+    "enonce": "Chez les végétaux, les glucides peuvent représenter jusqu'à :",
+    "options": [
+      "5 % du poids sec",
+      "15 % du poids sec",
+      "30 % du poids sec",
+      "70 % du poids sec",
+      "95 % du poids sec"
+    ],
+    "correctes": [
+      3
+    ],
+    "explication": "Végétaux : jusqu'à 70 % du poids sec ; animaux : environ 5 %.",
+    "source": {
+      "page": 5,
+      "extrait": "Végétaux jusqu'à 70 % du poids sec"
+    },
+    "difficulte": 2,
+    "tags": [
+      "répartition"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-005",
+    "type": "multiple",
+    "enonce": "Concernant les rôles des glucides chez les végétaux, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Le glucose est une source d'énergie",
+      "L'amidon est la réserve glucidique des végétaux",
+      "Les glucides sont des précurseurs obligés de tous les autres composés organiques",
+      "La cellulose est un constituant majeur de la paroi cellulaire végétale",
+      "Les glucides n'entrent pas dans la constitution des acides nucléiques"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Rôles énergétique (glucose, amidon), biosynthétique (précurseurs obligés) et structural (cellulose ; constituants des acides nucléiques, coenzymes, vitamines). La proposition e est fausse.",
+    "source": {
+      "page": 6,
+      "extrait": "Précurseurs obligés de tous les autres composés organiques"
+    },
+    "difficulte": 1,
+    "tags": [
+      "rôles"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-006",
+    "type": "unique",
+    "enonce": "Le rôle structural des glucides chez les végétaux est illustré principalement par :",
+    "options": [
+      "Le glucose",
+      "L'amidon",
+      "La cellulose",
+      "Le saccharose",
+      "Le fructose"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "La cellulose est le constituant majeur de la paroi cellulaire végétale (rôle structural). Glucose et amidon illustrent le rôle énergétique.",
+    "source": {
+      "page": 6,
+      "extrait": "Cellulose : constituant majeur de la paroi cellulaire végétale."
+    },
+    "difficulte": 1,
+    "tags": [
+      "rôles"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-007",
+    "type": "multiple",
+    "enonce": "Concernant la classification des glucides, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Les oses simples sont non hydrolysables",
+      "Les osides sont hydrolysables",
+      "Les holosides ne libèrent par hydrolyse que des oses",
+      "Les hétérosides libèrent par hydrolyse des oses et une génine (aglycone)",
+      "Les hétérosides sont subdivisés en diholosides, oligosides et polyosides"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Ce sont les holosides qui se divisent en diholosides, oligosides et polyosides ; les hétérosides se divisent en O-, S-, N- et C-hétérosides.",
+    "source": {
+      "page": 7,
+      "extrait": "HOLOSIDES Hydrolyse → uniquement des oses HÉTÉROSIDES Hydrolyse → oses + génine (aglycone)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "classification"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-008",
+    "type": "multiple",
+    "enonce": "Concernant les oses, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Leur formule générale est Cn(H2O)n avec n = 3 à 9",
+      "Un ose à 5 carbones est un pentose",
+      "Ils possèdent une fonction carbonylée aldéhydique (aldose) ou cétonique (cétose)",
+      "Ils possèdent plusieurs fonctions alcools",
+      "Ils possèdent au moins un carbone asymétrique"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Toutes exactes : petites molécules non hydrolysables, n = 3 à 9, fonction carbonylée (aldose/cétose), plusieurs alcools, au moins un carbone asymétrique.",
+    "source": {
+      "page": 8,
+      "extrait": "Non hydrolysables, petites molécules de formule générale : Cn(H2O)n, avec n = 3 à 9."
+    },
+    "difficulte": 1,
+    "tags": [
+      "oses"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-009",
+    "type": "multiple",
+    "enonce": "Associez correctement l'ose à sa classe, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Glycéraldéhyde – aldotriose",
+      "Dihydroxyacétone – cétotriose",
+      "Ribose – aldopentose",
+      "Xylulose – cétopentose",
+      "Fructose – aldohexose"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Le fructose est un cétohexose ; le glucose est l'aldohexose. Les autres associations figurent dans le tableau du cours.",
+    "source": {
+      "page": 9,
+      "extrait": "Glucose (aldohexose) Fructose (cétohexose)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "oses"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-010",
+    "type": "unique",
+    "enonce": "L'érythrulose est un :",
+    "options": [
+      "Aldotriose",
+      "Cétotétrose",
+      "Aldotétrose",
+      "Cétopentose",
+      "Aldohexose"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Érythrose = aldotétrose ; érythrulose = cétotétrose.",
+    "source": {
+      "page": 9,
+      "extrait": "Érythrulose (cétotétrose)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "oses"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-011",
+    "type": "multiple",
+    "enonce": "Concernant les osides, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Ils résultent de la liaison du groupement hémi-acétalique d'un ose",
+      "La liaison avec un autre ose donne un holoside",
+      "La liaison avec une molécule non glucidique (génine) donne un hétéroside",
+      "Le type de liaison (O, S, N ou C) détermine la catégorie de l'hétéroside",
+      "Les holosides sont toujours homogènes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Les holosides peuvent être homogènes (même ose) ou hétérogènes (oses différents).",
+    "source": {
+      "page": 10,
+      "extrait": "Le type de liaison (O, S, N ou C) détermine la catégorie de l'hétéroside"
+    },
+    "difficulte": 2,
+    "tags": [
+      "osides"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-012",
+    "type": "multiple",
+    "enonce": "Concernant les holosides homogènes et hétérogènes, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Un holoside homogène est constitué d'une même unité glucidique",
+      "Le maltose est un holoside homogène : glucose (α1→4) glucose",
+      "Le saccharose est un holoside hétérogène : glucose (α1→2) fructose",
+      "Le saccharose est un holoside homogène",
+      "Le maltose est constitué de glucose et de fructose"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Maltose = glucose(α1→4)glucose (homogène) ; saccharose = glucose(α1→2)fructose (hétérogène).",
+    "source": {
+      "page": 11,
+      "extrait": "Constitués d'une même unité glucidique (même ose). Exemple : Maltose"
+    },
+    "difficulte": 2,
+    "tags": [
+      "holosides"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-013",
+    "type": "multiple",
+    "enonce": "Concernant les holosides selon le nombre d'oses, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Les diholosides sont formés de 2 oses (ex. saccharose)",
+      "Les oligosides sont formés de 3 à 10 oses",
+      "Le gentianose est un oligoside formé de 3 oses",
+      "Les polyholosides comportent plus de 10 oses (ex. cellulose)",
+      "La cellulose est un oligoside"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Diholosides : 2 oses ; oligosides : 3 à 10 oses (gentianose, 3 oses) ; polyholosides : plus de 10 oses (cellulose).",
+    "source": {
+      "page": 12,
+      "extrait": "OLIGOSIDES/ OLIGOSACCHARIDES 3 à 10 oses Ex. : gentianose"
+    },
+    "difficulte": 2,
+    "tags": [
+      "holosides"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-014",
+    "type": "unique",
+    "enonce": "Un oligoside est constitué de :",
+    "options": [
+      "1 ose",
+      "2 oses",
+      "3 à 10 oses",
+      "Plus de 10 oses",
+      "Un ose et une génine"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Oligosides = 3 à 10 oses.",
+    "source": {
+      "page": 12,
+      "extrait": "OLIGOSIDES/ OLIGOSACCHARIDES 3 à 10 oses"
+    },
+    "difficulte": 1,
+    "tags": [
+      "holosides"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-015",
+    "type": "multiple",
+    "enonce": "Associez correctement le type d'hétéroside à son exemple, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "O-hétéroside – saponosides",
+      "S-hétéroside – glucosinolates",
+      "N-hétéroside – nucléosides",
+      "C-hétéroside – aloïne",
+      "O-hétéroside – flavonoïdes glycosylés"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Toutes les associations sont celles du cours : O (saponosides, flavonoïdes glycosylés), S (glucosinolates), N (nucléosides), C (aloïne).",
+    "source": {
+      "page": 13,
+      "extrait": "Ex. : glucosinolates Ex. : nucléosides Ex. : aloïne"
+    },
+    "difficulte": 2,
+    "tags": [
+      "hétérosides"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-016",
+    "type": "unique",
+    "enonce": "L'aloïne est un exemple de :",
+    "options": [
+      "O-hétéroside",
+      "S-hétéroside",
+      "N-hétéroside",
+      "C-hétéroside",
+      "Holoside hétérogène"
+    ],
+    "correctes": [
+      3
+    ],
+    "explication": "L'aloïne est un C-hétéroside (liaison directe carbone–carbone).",
+    "source": {
+      "page": 13,
+      "extrait": "C-HÉTÉROSIDES Liaison directe carbone–carbone Ex. : aloïne"
+    },
+    "difficulte": 1,
+    "tags": [
+      "hétérosides"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-017",
+    "type": "unique",
+    "enonce": "Dans un S-hétéroside, l'ose est lié à la génine par :",
+    "options": [
+      "Un atome d'oxygène",
+      "Un atome de soufre",
+      "Un atome d'azote",
+      "Une liaison carbone–carbone",
+      "Un pont phosphate"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "S-hétérosides : liaison via un atome de soufre (ex. glucosinolates).",
+    "source": {
+      "page": 13,
+      "extrait": "S-HÉTÉROSIDES Liaison via un atome de soufre"
+    },
+    "difficulte": 1,
+    "tags": [
+      "hétérosides"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-018",
+    "type": "multiple",
+    "enonce": "Concernant la solubilité des glucides, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Les oses sont solubles dans l'eau",
+      "Les oses sont faiblement solubles dans l'alcool absolu",
+      "Les oligosaccharides sont solubles dans l'alcool à 70–80°",
+      "Les polysaccharides sont généralement précipités par l'alcool",
+      "Les polysaccharides sont tous parfaitement solubles dans l'eau"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Les polysaccharides ont une solubilité variable dans l'eau (certains forment des dispersions colloïdales = pseudo-solubilité) et sont généralement insolubles dans l'alcool.",
+    "source": {
+      "page": 14,
+      "extrait": "Généralement insolubles : précipités par l'alcool"
+    },
+    "difficulte": 2,
+    "tags": [
+      "solubilité"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-019",
+    "type": "unique",
+    "enonce": "Certains polysaccharides forment dans l'eau des dispersions colloïdales, phénomène appelé :",
+    "options": [
+      "Gélatinisation",
+      "Pseudo-solubilité",
+      "Empesage",
+      "Mutarotation",
+      "Saponification"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Le cours parle de dispersions colloïdales (pseudo-solubilité) pour certains polysaccharides.",
+    "source": {
+      "page": 14,
+      "extrait": "certains forment des dispersions colloïdales (pseudo-solubilité)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "solubilité"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-020",
+    "type": "multiple",
+    "enonce": "Concernant les propriétés dues au carbone asymétrique, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "La configuration des oses permet de distinguer les séries D et L",
+      "La série est déterminée par la position de l'OH sur le carbone asymétrique le plus éloigné du carbonyle",
+      "Le sens du pouvoir rotatoire est directement lié à la série D ou L",
+      "Le D-fructose est lévogyre",
+      "La majorité des oses naturels appartiennent à la série D"
+    ],
+    "correctes": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "explication": "Le pouvoir rotatoire (+ ou −) est indépendant de la série : le D-glucose est dextrogyre, le D-fructose lévogyre. La majorité des oses naturels sont de série D.",
+    "source": {
+      "page": 15,
+      "extrait": "La majorité des oses naturels appartiennent à la série D, indépendamment du sens de leur pouvoir rotatoire."
+    },
+    "difficulte": 2,
+    "tags": [
+      "stéréochimie"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-021",
+    "type": "multiple",
+    "enonce": "Concernant le D-glucose et le D-fructose, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Ils appartiennent tous deux à la série D",
+      "Le D-glucose possède un pouvoir rotatoire (+)",
+      "Le D-fructose possède un pouvoir rotatoire (−)",
+      "Le D-fructose appartient à la série L puisqu'il est lévogyre",
+      "Le D-glucose et le L-glucose sont des images miroirs"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explication": "Le sens de la rotation ne dépend pas de la série : le D-fructose est lévogyre tout en étant de série D. D- et L-glucose sont des images miroirs.",
+    "source": {
+      "page": 15,
+      "extrait": "Exemple : D-fructose (série D) Rotation de la lumière vers la gauche Pouvoir rotatoire : (−)"
+    },
+    "difficulte": 3,
+    "tags": [
+      "stéréochimie"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-022",
+    "type": "multiple",
+    "enonce": "Concernant les propriétés dues aux hydroxyles des oses, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Ils peuvent être estérifiés ou éthérifiés",
+      "L'oxydation de la fonction alcoolique terminale conduit aux acides uroniques",
+      "L'acide glycuronique est un exemple d'acide uronique",
+      "La réduction conduit aux désoxy-sucres, par exemple le rhamnose",
+      "L'oxydation de la fonction alcoolique terminale conduit aux itols"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Les itols proviennent de la réduction du groupement carbonylé, pas de l'oxydation de l'alcool terminal (qui donne les acides uroniques).",
+    "source": {
+      "page": 16,
+      "extrait": "Oxydation de la fonction alcoolique terminale conduisant à des acides uronique ex ac glycuronique."
+    },
+    "difficulte": 2,
+    "tags": [
+      "propriétés"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-023",
+    "type": "unique",
+    "enonce": "Le rhamnose est un exemple de :",
+    "options": [
+      "Acide uronique",
+      "Désoxy-sucre",
+      "Polyol",
+      "Cétohexose",
+      "Osazone"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "La réduction (d'un hydroxyle) conduit aux désoxy-sucres, ex. rhamnose.",
+    "source": {
+      "page": 16,
+      "extrait": "Réduction → désoxy-sucres. Ex. Rhamnose"
+    },
+    "difficulte": 1,
+    "tags": [
+      "propriétés"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-024",
+    "type": "multiple",
+    "enonce": "Concernant le caractère réducteur des oses, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Il se manifeste vis-à-vis de la liqueur de Fehling",
+      "Il se manifeste vis-à-vis du nitrate d'argent (« miroir d'argent »)",
+      "La liqueur de Fehling contient des ions Cu2+ de couleur bleue en milieu basique",
+      "À chaud, en présence d'un réducteur, il se forme un précipité rouge brique de Cu2O",
+      "La réaction de Fehling se fait en milieu acide à froid"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Fehling : Cu2+ bleu en milieu basique ; à chaud, le réducteur donne un précipité rouge brique d'oxyde cuivreux Cu2O.",
+    "source": {
+      "page": 17,
+      "extrait": "À chaud, en présence d'une substance réductrice, la liqueur de Fehling donne un précipité rouge brique d'oxyde de cuivre Cu2O"
+    },
+    "difficulte": 2,
+    "tags": [
+      "Fehling"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-025",
+    "type": "unique",
+    "enonce": "Le précipité obtenu avec la liqueur de Fehling en présence d'un sucre réducteur est :",
+    "options": [
+      "Bleu, d'hydroxyde cuivrique",
+      "Rouge brique, d'oxyde cuivreux Cu2O",
+      "Noir, d'argent métallique",
+      "Jaune, d'osazone",
+      "Violet, de furfural"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Précipité rouge brique de Cu2O (cuivre I).",
+    "source": {
+      "page": 17,
+      "extrait": "précipité rouge brique d'oxyde de cuivre Cu2O (cuivre I)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "Fehling"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-026",
+    "type": "multiple",
+    "enonce": "Concernant les propriétés dues aux carbonyles, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "La réduction du carbonyle donne des polyalcools ou « itols »",
+      "La réduction du glucose donne le sorbitol",
+      "La vitamine C est considérée comme un dérivé des itols",
+      "Les oses forment des osazones en présence d'hydrazine",
+      "Les oses forment des hémi-acétals cycliques furanniques ou pyranniques"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Toutes exactes selon le cours.",
+    "source": {
+      "page": 18,
+      "extrait": "Réduction du groupement carbonylé donnant naissance à des polyalcools ou « itols »."
+    },
+    "difficulte": 2,
+    "tags": [
+      "propriétés"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-027",
+    "type": "multiple",
+    "enonce": "Concernant la formation de furfural, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Elle se fait à chaud en présence d'acide",
+      "Elle résulte d'une déshydratation interne des oses suivie d'une cyclisation",
+      "Les produits formés, condensés avec des phénols ou amines cycliques, donnent des substances colorées",
+      "La réaction de Sélivanoff caractérise les cétoses",
+      "La réaction à l'orcinol caractérise les pentoses"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Toutes exactes : furfural à chaud en milieu acide ; réactions de Sélivanoff (cétoses), orcinol (pentoses), Molish, Bertrand.",
+    "source": {
+      "page": 21,
+      "extrait": "La réaction de Sélivanoff (caractérise les cétoses). -La réaction avec l'orcinol (caractérise les pentoses)."
+    },
+    "difficulte": 2,
+    "tags": [
+      "furfural"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-028",
+    "type": "unique",
+    "enonce": "La réaction de Sélivanoff caractérise :",
+    "options": [
+      "Les pentoses",
+      "Les cétoses",
+      "Les acides uroniques",
+      "Les 2-désoxyoses",
+      "L'amidon"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Sélivanoff = cétoses ; orcinol = pentoses ; Tollens au naphtorésorcinol = acides uroniques ; Keller-Kiliani = 2-désoxyoses ; iode = amidon.",
+    "source": {
+      "page": 21,
+      "extrait": "La réaction de Sélivanoff (caractérise les cétoses)."
+    },
+    "difficulte": 2,
+    "tags": [
+      "furfural"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-029",
+    "type": "unique",
+    "enonce": "La réaction à l'orcinol caractérise :",
+    "options": [
+      "Les cétoses",
+      "Les pentoses",
+      "Les hexoses",
+      "Les acides uroniques",
+      "Les dextrines"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "La réaction avec l'orcinol caractérise les pentoses.",
+    "source": {
+      "page": 21,
+      "extrait": "La réaction avec l'orcinol (caractérise les pentoses)."
+    },
+    "difficulte": 2,
+    "tags": [
+      "furfural"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-030",
+    "type": "multiple",
+    "enonce": "Concernant la cyclisation des oses, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Elle résulte de la formation d'un hémi-acétal entre la fonction réductrice et un –OH de la chaîne",
+      "Selon l'–OH engagé, on obtient une forme furannique ou pyrannique",
+      "La forme linéaire du glucose représente moins de 0,02 %",
+      "L'α-D-glucofuranose est une forme instable et rare (< 1 %)",
+      "La forme linéaire du glucose est la forme majoritaire en solution"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "La forme linéaire est très minoritaire (< 0,02 %) ; le glucofuranose est instable et rare ; la forme pyrannique (β-D-glucopyranose) prédomine.",
+    "source": {
+      "page": 23,
+      "extrait": "Formation d'hémi-acétals entre la fonction réductrice des aldoses /cétoses et un –OH de la chaine osidique"
+    },
+    "difficulte": 3,
+    "tags": [
+      "cyclisation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-031",
+    "type": "multiple",
+    "enonce": "Concernant l'extraction des glucides, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Elle repose sur la solubilité des oses dans l'eau",
+      "Cette solubilité s'explique par les nombreux groupements OH polaires",
+      "Elle met à profit le fait qu'ils sont précipitables par l'alcool absolu",
+      "Elle repose sur leur solubilité dans les solvants apolaires",
+      "Elle se fait obligatoirement par entraînement à la vapeur"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "L'extraction repose sur la solubilité dans l'eau (OH polaires) et la précipitation par l'alcool absolu.",
+    "source": {
+      "page": 24,
+      "extrait": "solubilité dans l'eau (plusieurs groupements OH polaires), et en jouant sur le fait qu'ils sont précipitables par l'alcool absolu"
+    },
+    "difficulte": 1,
+    "tags": [
+      "extraction"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-032",
+    "type": "multiple",
+    "enonce": "Concernant les méthodes de caractérisation des glucides, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Les osazones ont une forme cristalline, un point de fusion et une solubilité caractéristiques",
+      "La réaction de Keller-Kiliani est spécifique des 2-désoxyoses",
+      "La réaction de Tollens au naphtorésorcinol chlorhydrique caractérise les acides uroniques",
+      "La coloration par l'iode caractérise l'amidon et les dextrines",
+      "La réaction de Keller-Kiliani caractérise les acides uroniques"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Keller-Kiliani = 2-désoxyoses ; Tollens au naphtorésorcinol = acides uroniques.",
+    "source": {
+      "page": 25,
+      "extrait": "réactions plus spécifiques pour les 2-desoxyoses ex réaction de Keller kiliani"
+    },
+    "difficulte": 2,
+    "tags": [
+      "caractérisation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-033",
+    "type": "unique",
+    "enonce": "La réaction de Tollens au naphtorésorcinol chlorhydrique caractérise :",
+    "options": [
+      "Les cétoses",
+      "Les 2-désoxyoses",
+      "Les acides uroniques",
+      "Les pentoses",
+      "L'amidon"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Elle caractérise les acides uroniques.",
+    "source": {
+      "page": 25,
+      "extrait": "réaction de Tollens au naphto-résorcinol chlorhydrique caractérise les acides uroniques."
+    },
+    "difficulte": 2,
+    "tags": [
+      "caractérisation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-034",
+    "type": "multiple",
+    "enonce": "Concernant la caractérisation des polysaccharides, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Les gommes et mucilages sont identifiés par l'indice de gonflement",
+      "L'acide alginique est dosé par acidimétrie",
+      "Le carraghénane est caractérisé par un dosage du soufre",
+      "L'amidon est caractérisé au microscope après coloration par l'iode",
+      "Les mucilages sont identifiés par la réaction de Keller-Kiliani"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Indice de gonflement pour gommes et mucilages ; dosage acidimétrique (acide alginique) et du soufre (carraghénane) ; iode pour amidon et dextrines. Keller-Kiliani concerne les 2-désoxyoses.",
+    "source": {
+      "page": 28,
+      "extrait": "dosage acidimétrique pour l'acide alginique et dosage du soufre pour le carraghénane"
+    },
+    "difficulte": 2,
+    "tags": [
+      "caractérisation",
+      "algues"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-035",
+    "type": "multiple",
+    "enonce": "Parmi les mesures physiques et chromatographiques utilisées pour les glucides, on cite, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Le pouvoir rotatoire",
+      "L'indice de réfraction",
+      "La CCM sur papier ou sur silice",
+      "La révélation par l'anisaldéhyde, H2SO4 ou AgNO3/NH4OH",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le cours cite pouvoir rotatoire, indice de réfraction, CCM sur papier ou SiO2 avec révélateurs anisaldéhyde, H2SO4, AgNO3/NH4OH.",
+    "source": {
+      "page": 29,
+      "extrait": "Pouvoir rotatoire, indice de réfraction, CCM: sur papier ou SiO2 : révélateur anisaldéhyde, H2SO4, AgNO3/NH4OH."
+    },
+    "difficulte": 2,
+    "tags": [
+      "caractérisation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-036",
+    "type": "multiple",
+    "enonce": "Concernant le dosage des glucides, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Les sucres réducteurs peuvent être dosés par la liqueur de Fehling, le Cu2O précipité étant pesé",
+      "La notatine est spécifique du glucose",
+      "La notatine oxyde le glucose en présence d'O2 avec formation de peroxyde d'hydrogène",
+      "La glucose-oxydase est utilisée pour le dépistage du glucose dans les urines",
+      "La notatine est spécifique du fructose"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "La notatine (glucose-oxydase) est spécifique du glucose, qu'elle oxyde en présence d'O2 avec formation de H2O2.",
+    "source": {
+      "page": 31,
+      "extrait": "la notatine est spécifique du glucose qu'elle oxyde en présence d'O2 → formation de peroxyde d'hydrogène"
+    },
+    "difficulte": 2,
+    "tags": [
+      "dosage"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-037",
+    "type": "multiple",
+    "enonce": "Concernant l'intérêt pharmaceutique des glucides, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Le psyllium et les graines de lin sont des laxatifs de lest",
+      "Le fucus est utilisé comme adjuvant d'un régime hypocalorique chez l'adulte en surpoids",
+      "Le mannitol est un diurétique osmotique",
+      "L'amidon et la cellulose sont utilisés comme diluants, liants ou désintégrants",
+      "Les pectines et les gommes sont des agents gélifiants, épaississants ou stabilisants"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Toutes exactes : phytothérapie (mucilages, alginates), thérapeutique (glucose, mannitol), excipients (amidon, cellulose, pectines, gommes).",
+    "source": {
+      "page": 32,
+      "extrait": "Comme le fucus utilisé comme adjuvant d'un régime hypocalorique chez l'adulte en surpoids."
+    },
+    "difficulte": 2,
+    "tags": [
+      "emplois"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-038",
+    "type": "multiple",
+    "enonce": "Concernant le D-glucose (dextrose), cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Il est présent naturellement dans de nombreux fruits",
+      "Il est obtenu industriellement par hydrolyse enzymatique de l'amidon",
+      "L'hydrolyse fait intervenir l'α-amylase puis l'amyloglucosidase",
+      "Il est administré par voie intraveineuse, notamment en solution à 5 %",
+      "Il est une matière première pour la production du sorbitol et de la vitamine C"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Toutes exactes selon la monographie du D-glucose.",
+    "source": {
+      "page": 34,
+      "extrait": "Obtenu industriellement par hydrolyse enzymatique de l'amidon : α-amylase, puis amyloglucosidase."
+    },
+    "difficulte": 2,
+    "tags": [
+      "glucose"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-039",
+    "type": "unique",
+    "enonce": "L'obtention industrielle du glucose par hydrolyse enzymatique de l'amidon fait intervenir successivement :",
+    "options": [
+      "L'amyloglucosidase puis l'α-amylase",
+      "L'α-amylase puis l'amyloglucosidase",
+      "La notatine puis l'α-amylase",
+      "L'invertase seule",
+      "La glucose-oxydase puis l'amylase"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "α-amylase, puis amyloglucosidase.",
+    "source": {
+      "page": 34,
+      "extrait": "α-amylase, puis amyloglucosidase."
+    },
+    "difficulte": 2,
+    "tags": [
+      "glucose"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-040",
+    "type": "multiple",
+    "enonce": "Concernant le galactose, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Ses principales sources sont les algues, les gommes et les mucilages",
+      "Il entrait dans la composition du Levovist®",
+      "Le Levovist® était un ancien produit de contraste échographique",
+      "Le Levovist® associait galactose et acide palmitique",
+      "Le Levovist® était un produit de contraste radiologique iodé"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Le Levovist® (galactose + acide palmitique) était un produit de contraste échographique : les microbulles amélioraient l'opacification des cavités cardiaques et les signaux Doppler.",
+    "source": {
+      "page": 35,
+      "extrait": "Levovist®, ancien produit de contraste échographique contenant du galactose et de l'acide palmitique"
+    },
+    "difficulte": 2,
+    "tags": [
+      "galactose"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-041",
+    "type": "multiple",
+    "enonce": "Concernant le D-fructose (lévulose), cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Il est présent à l'état libre dans de nombreux fruits et dans le miel",
+      "Il est un constituant du saccharose",
+      "Il peut être obtenu par hydrolyse de l'inuline",
+      "Il est utilisé comme excipient dans certaines formulations",
+      "Il est aujourd'hui la source énergétique de référence en nutrition parentérale du diabétique"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "L'ancienne utilisation du fructose comme source énergétique en nutrition parentérale chez le diabétique est aujourd'hui abandonnée.",
+    "source": {
+      "page": 36,
+      "extrait": "Son ancienne utilisation comme source énergétique en nutrition parentérale, notamment chez les patients diabétiques, est aujourd'hui abandonnée."
+    },
+    "difficulte": 2,
+    "tags": [
+      "fructose"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-042",
+    "type": "unique",
+    "enonce": "L'inuline, source de fructose, est un polysaccharide de réserve présent notamment dans les racines de :",
+    "options": [
+      "Fraxinus ornus",
+      "Inula helenium",
+      "Sorbus aucuparia",
+      "Beta vulgaris",
+      "Plantago ovata"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "L'inuline est présente notamment dans les racines d'Inula helenium L. (Asteraceae).",
+    "source": {
+      "page": 36,
+      "extrait": "l'inuline, polysaccharide de réserve présent notamment dans les racines d'Inula helenium L. (Asteraceae)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "fructose"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-043",
+    "type": "multiple",
+    "enonce": "Concernant le D-mannitol, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Il est présent dans la manne, exsudat séché du frêne à manne",
+      "Le frêne à manne est Fraxinus ornus (Oleaceae)",
+      "La manne est obtenue par incision de l'écorce et des rameaux",
+      "Il est utilisé comme diurétique osmotique par perfusion intraveineuse",
+      "Son code additif est E420"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Le mannitol est E421 ; E420 correspond au sorbitol (glucitol).",
+    "source": {
+      "page": 38,
+      "extrait": "Présent dans la manne, exsudat séché obtenu par incision de l'écorce et des rameaux du frêne à manne, Fraxinus ornus L. (Oleaceae)."
+    },
+    "difficulte": 2,
+    "tags": [
+      "mannitol"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-044",
+    "type": "unique",
+    "enonce": "Le mannitol est administré par perfusion intraveineuse pour :",
+    "options": [
+      "Apporter de l'énergie",
+      "Réduire la pression intracrânienne et intraoculaire",
+      "Corriger un scorbut",
+      "Expanser le volume plasmatique",
+      "Traiter un reflux gastro-œsophagien"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Diurétique osmotique IV pour réduire la pression intracrânienne et intraoculaire dans certaines situations aiguës.",
+    "source": {
+      "page": 38,
+      "extrait": "administré par perfusion intraveineuse pour réduire la pression intracrânienne et la pression intraoculaire"
+    },
+    "difficulte": 2,
+    "tags": [
+      "mannitol"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-045",
+    "type": "multiple",
+    "enonce": "Concernant le D-sorbitol (glucitol), cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "C'est un polyol linéaire présent dans les pommes, les poires et les prunes",
+      "Il a été historiquement isolé des fruits du sorbier des oiseleurs",
+      "Il est préparé industriellement par hydrogénation catalytique du D-glucose",
+      "Il est utilisé comme laxatif osmotique par voie orale",
+      "Il est une matière première pour la production industrielle de vitamine C"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Toutes exactes : sorbitol (E420), Sorbus aucuparia (Rosaceae), hydrogénation du glucose, excipient/édulcorant/humectant, laxatif osmotique, matière première de la vitamine C.",
+    "source": {
+      "page": 39,
+      "extrait": "Préparé industriellement par hydrogénation catalytique du D-glucose."
+    },
+    "difficulte": 2,
+    "tags": [
+      "sorbitol"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-046",
+    "type": "unique",
+    "enonce": "Le sorbitol est préparé industriellement par :",
+    "options": [
+      "Hydrolyse de l'inuline",
+      "Hydrogénation catalytique du D-glucose",
+      "Incision du frêne à manne",
+      "Extraction de l'écorce de bouleau",
+      "Fermentation par Leuconostoc"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Le sorbitol est obtenu par hydrogénation catalytique du D-glucose.",
+    "source": {
+      "page": 39,
+      "extrait": "Préparé industriellement par hydrogénation catalytique du D-glucose."
+    },
+    "difficulte": 1,
+    "tags": [
+      "sorbitol"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-047",
+    "type": "multiple",
+    "enonce": "Concernant le xylitol, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Son code additif est E967",
+      "Il est produit à partir de matières végétales riches en xylanes, notamment l'écorce de bouleau",
+      "Son pouvoir sucrant est proche de celui du saccharose",
+      "Son apport énergétique est supérieur à celui du saccharose",
+      "Il peut contribuer à réduire le risque carieux"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explication": "Le xylitol a un pouvoir sucrant proche du saccharose mais un apport énergétique INFÉRIEUR.",
+    "source": {
+      "page": 40,
+      "extrait": "Polyol au pouvoir sucrant proche de celui du saccharose, avec un apport énergétique inférieur."
+    },
+    "difficulte": 2,
+    "tags": [
+      "xylitol"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-048",
+    "type": "unique",
+    "enonce": "Associez le polyol à son code additif : le sorbitol correspond à :",
+    "options": [
+      "E421",
+      "E420",
+      "E967",
+      "E415",
+      "E400"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Mannitol E421 ; sorbitol (glucitol) E420 ; xylitol E967.",
+    "source": {
+      "page": 37,
+      "extrait": "Sorbitol ( Glucitol = E420)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "polyols"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-049",
+    "type": "multiple",
+    "enonce": "Concernant l'acide ascorbique (vitamine C), cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "C'est une vitamine hydrosoluble",
+      "Elle n'est pas synthétisée par l'être humain",
+      "Elle est présente dans l'acérola, le cynorhodon et l'argousier",
+      "Elle est produite industriellement à partir du D-glucose",
+      "C'est une vitamine liposoluble synthétisée par le foie humain"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Vitamine hydrosoluble essentielle, non synthétisée par l'homme, présente dans l'acérola, le cynorhodon, l'argousier, le kiwi, le poivron ; produite à partir du D-glucose (procédés chimiques et microbiologiques).",
+    "source": {
+      "page": 41,
+      "extrait": "Vitamine hydrosoluble essentielle, non synthétisée par l'être humain."
+    },
+    "difficulte": 1,
+    "tags": [
+      "vitamine C"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-050",
+    "type": "multiple",
+    "enonce": "Parmi les sources de vitamine C citées dans le cours, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Acérola (Malpighia emarginata)",
+      "Cynorhodon (Rosa canina)",
+      "Argousier (Hippophae rhamnoides)",
+      "Kiwi et poivron",
+      "Frêne à manne (Fraxinus ornus)"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Le frêne à manne est la source du mannitol, pas de la vitamine C.",
+    "source": {
+      "page": 41,
+      "extrait": "Présente notamment dans l'acérola (Malpighia emarginata DC.), le cynorhodon (Rosa canina L.)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "vitamine C"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-051",
+    "type": "multiple",
+    "enonce": "Concernant les rôles et la toxicité de la vitamine C, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "C'est un antioxydant physiologique",
+      "Elle est indispensable à la synthèse du collagène et à la cicatrisation",
+      "Elle favorise l'absorption intestinale du fer non héminique",
+      "Elle est utilisée comme traitement complémentaire de certaines méthémoglobinémies",
+      "À doses élevées, elle impose la prudence chez les personnes prédisposées aux calculs rénaux"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Toutes exactes : antioxydant, collagène, fer non héminique, scorbut, méthémoglobinémies ; à forte dose, troubles digestifs et prudence en cas de lithiase rénale.",
+    "source": {
+      "page": 42,
+      "extrait": "Favorise l'absorption intestinale du fer non héminique."
+    },
+    "difficulte": 2,
+    "tags": [
+      "vitamine C"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-052",
+    "type": "multiple",
+    "enonce": "Concernant le saccharose, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Sa structure est α-D-glucopyranosyl-(1→2)-β-D-fructofuranoside",
+      "Il est extrait de la canne à sucre (Saccharum officinarum, Poaceae)",
+      "Il est extrait de la betterave sucrière (Beta vulgaris, Amaranthaceae)",
+      "Il sert à la préparation de sirops et au masquage de l'amertume",
+      "Sa structure est β-D-glucopyranosyl-(1→4)-β-D-glucopyranose"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Le saccharose est α-D-glucopyranosyl-(1→2)-β-D-fructofuranoside. La liaison β(1→4) entre glucoses est celle de la cellulose.",
+    "source": {
+      "page": 44,
+      "extrait": "Structure : α-D-glucopyranosyl-(1→2)-β-D-fructofuranoside."
+    },
+    "difficulte": 2,
+    "tags": [
+      "saccharose"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-053",
+    "type": "multiple",
+    "enonce": "Concernant l'obtention du saccharose, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "La canne à sucre est une grande graminée des régions tropicales et subtropicales",
+      "Pour la canne, le jus est extrait par broyage ou pressage des tiges",
+      "La betterave sucrière est une plante bisannuelle des régions tempérées",
+      "Pour la betterave, le sucre est extrait des cossettes par diffusion dans l'eau chaude",
+      "Pour la betterave, le sucre est extrait par pressage des tiges"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Le pressage des tiges concerne la canne ; pour la betterave, les racines sont découpées en cossettes et le sucre extrait par diffusion dans l'eau chaude.",
+    "source": {
+      "page": 45,
+      "extrait": "lavage et découpage des racines en cossettes, extraction du sucre par diffusion dans l'eau chaude"
+    },
+    "difficulte": 2,
+    "tags": [
+      "saccharose"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-054",
+    "type": "multiple",
+    "enonce": "Concernant les cyclodextrines, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Ce sont des oligosaccharides cycliques d'unités D-glucopyranose liées en α-(1→4)",
+      "Elles sont obtenues par dégradation enzymatique de l'amidon",
+      "Les α-cyclodextrines comportent 6 unités glucosidiques",
+      "Les β-cyclodextrines comportent 7 unités glucosidiques",
+      "Les γ-cyclodextrines comportent 10 unités glucosidiques"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "α = 6, β = 7, γ = 8 unités (et non 10).",
+    "source": {
+      "page": 46,
+      "extrait": "γ-cyclodextrines, formées de 8 sous-unités."
+    },
+    "difficulte": 2,
+    "tags": [
+      "cyclodextrines"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-055",
+    "type": "unique",
+    "enonce": "Une β-cyclodextrine est formée de :",
+    "options": [
+      "5 unités de glucose",
+      "6 unités de glucose",
+      "7 unités de glucose",
+      "8 unités de glucose",
+      "9 unités de glucose"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "α : 6 ; β : 7 ; γ : 8.",
+    "source": {
+      "page": 46,
+      "extrait": "β- cyclodextrines, formées de 7 sous-unités"
+    },
+    "difficulte": 2,
+    "tags": [
+      "cyclodextrines"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-056",
+    "type": "multiple",
+    "enonce": "Concernant la structure et les emplois des cyclodextrines, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Elles ont une structure en tronc de cône délimitant une cavité centrale",
+      "Leur cavité interne est relativement hydrophobe",
+      "Leur surface externe est hydrophile, riche en hydroxyles",
+      "Elles forment des complexes d'inclusion",
+      "Elles améliorent la solubilité apparente des principes actifs peu hydrosolubles"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Toutes exactes : cavité hydrophobe, surface hydrophile → complexes d'inclusion ; emplois : solubilité, stabilité, masquage des goûts et odeurs, modulation de la libération.",
+    "source": {
+      "page": 47,
+      "extrait": "Cavité interne relativement hydrophobe : elle peut accueillir certaines molécules"
+    },
+    "difficulte": 2,
+    "tags": [
+      "cyclodextrines"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-057",
+    "type": "multiple",
+    "enonce": "Concernant les cyclodextrines, quelles propositions sont fausses ?",
+    "options": [
+      "Leur cavité interne est hydrophile",
+      "Leur surface externe est hydrophobe",
+      "Elles peuvent masquer les goûts et odeurs désagréables",
+      "Elles peuvent protéger des molécules sensibles à la lumière ou à l'oxydation",
+      "Elles sont obtenues par dégradation enzymatique de l'amidon"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Inversion classique : cavité interne hydrophobe et surface externe hydrophile. Les propositions c, d, e sont exactes.",
+    "source": {
+      "page": 47,
+      "extrait": "Surface externe hydrophile, riche en groupements hydroxyles."
+    },
+    "difficulte": 3,
+    "tags": [
+      "cyclodextrines"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-058",
+    "type": "multiple",
+    "enonce": "Concernant les dextranes, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Ce sont des polymères de glucose d'origine microbiologique",
+      "Ils sont produits notamment par Leuconostoc mesenteroides",
+      "Ils sont constitués principalement d'unités α-D-glucose liées en α-(1→6)",
+      "Ils présentent des ramifications variables",
+      "Ils sont extraits des algues brunes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Dextranes : origine microbienne (Leuconostoc mesenteroides), liaisons α-(1→6), ramifications variables. Les algues brunes fournissent les alginates.",
+    "source": {
+      "page": 50,
+      "extrait": "produits notamment par Leuconostoc mesenteroides"
+    },
+    "difficulte": 2,
+    "tags": [
+      "dextranes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-059",
+    "type": "unique",
+    "enonce": "La liaison principale des dextranes est de type :",
+    "options": [
+      "α-(1→4)",
+      "β-(1→4)",
+      "α-(1→6)",
+      "α-(1→2)",
+      "β-(1→3)"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Unités d'α-D-glucose reliées par des liaisons α-(1→6).",
+    "source": {
+      "page": 50,
+      "extrait": "unités d'α-D-glucose reliées par des liaisons α-(1→6)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "dextranes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-060",
+    "type": "multiple",
+    "enonce": "Concernant les emplois des dextranes, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Le Dextran 70 en solution à 6 % dans du sérum physiologique est un succédané du plasma",
+      "Le Dextran 40 améliore la microcirculation",
+      "Le sulfate de dextran possède des propriétés anticoagulantes",
+      "Les dextrans injectables sont peu utilisés en raison de réactions anaphylactiques, de troubles de la coagulation et d'atteinte rénale",
+      "Le Dextran 40 est utilisé comme succédané du plasma à 6 %"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "C'est le Dextran 70 (6 %) qui est succédané du plasma ; le Dextran 40 améliore la microcirculation (baisse de la viscosité et de l'agrégation).",
+    "source": {
+      "page": 51,
+      "extrait": "Dextran 70 000 (Dextran 70) : en solution à 6 % dans du sérum physiologique, utilisé comme succédané du plasma"
+    },
+    "difficulte": 3,
+    "tags": [
+      "dextranes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-061",
+    "type": "multiple",
+    "enonce": "Concernant l'origine de l'acide alginique, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "C'est un constituant majeur de la paroi cellulaire des algues brunes (Phéophycées)",
+      "Fucus serratus et Fucus vesiculosus en contiennent environ 18 à 30 % du poids sec",
+      "Laminaria digitata et L. hyperborea en contiennent environ 15 à 40 % du poids sec",
+      "Macrocystis pyrifera est une source citée",
+      "Il est extrait des algues rouges (Rhodophycées)"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Les alginates proviennent des algues brunes ; les algues rouges fournissent carraghénanes et agar-agar.",
+    "source": {
+      "page": 52,
+      "extrait": "L'acide alginique est un constituant majeur de la paroi cellulaire des algues brunes (Phéophycées)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "alginates"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-062",
+    "type": "multiple",
+    "enonce": "Concernant la structure de l'acide alginique, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Il est constitué de deux acides uroniques",
+      "Il contient de l'acide β-D-mannuronique (M)",
+      "Il contient de l'acide α-L-guluronique (G)",
+      "Ses chaînes comportent des séquences M, G ou alternées MG",
+      "Il est constitué de galactose et de 3,6-anhydrogalactose"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Galactose + 3,6-anhydrogalactose caractérisent les carraghénanes, pas l'acide alginique.",
+    "source": {
+      "page": 53,
+      "extrait": "Polysaccharide constitué de deux acides uroniques : l'acide β-D-mannuronique (M) et l'acide α-L-guluronique (G)."
+    },
+    "difficulte": 2,
+    "tags": [
+      "alginates"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-063",
+    "type": "multiple",
+    "enonce": "Concernant les propriétés des alginates, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "L'acide alginique est insoluble dans l'eau",
+      "L'alginate de calcium est insoluble dans l'eau",
+      "L'alginate de sodium est hydrosoluble",
+      "L'ajout de cations divalents à une solution d'alginate de sodium donne des gels élastiques non thermoréversibles",
+      "L'acide alginique peut absorber plus de 100 fois son volume d'eau"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Toutes exactes : sels monovalents solubles (solutions colloïdales pseudoplastiques), cations divalents → gels « egg-box » non thermoréversibles ; forte capacité de gonflement.",
+    "source": {
+      "page": 54,
+      "extrait": "par addition progressive de cations divalents → gels élastiques non thermoréversibles (« egg-box »)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "alginates"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-064",
+    "type": "unique",
+    "enonce": "Le modèle « egg-box » décrit :",
+    "options": [
+      "La gélification des alginates par les cations divalents",
+      "La gélatinisation de l'amidon",
+      "La formation des complexes d'inclusion des cyclodextrines",
+      "La cristallisation du saccharose",
+      "La structure de la cellulose"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "La gélification des alginates en présence de cations divalents crée un réseau tridimensionnel « egg-box ».",
+    "source": {
+      "page": 54,
+      "extrait": "gels élastiques non thermoréversibles (« egg-box »)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "alginates"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-065",
+    "type": "multiple",
+    "enonce": "Concernant l'extraction de l'acide alginique, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Les algues sont séchées, broyées puis lavées, généralement en milieu acide",
+      "L'acide alginique est solubilisé sous forme d'alginate par traitement alcalin",
+      "Après séparation des résidus insolubles, il est récupéré par acidification ou précipitation",
+      "Il est extrait par l'eau bouillante puis filtré à chaud",
+      "Il est solubilisé par traitement acide"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Lavage acide, solubilisation ALCALINE en alginate, puis récupération par acidification/précipitation. L'extraction à l'eau bouillante filtrée à chaud concerne l'agar-agar.",
+    "source": {
+      "page": 56,
+      "extrait": "L'acide alginique est ensuite solubilisé sous forme d'alginate par traitement alcalin."
+    },
+    "difficulte": 3,
+    "tags": [
+      "alginates"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-066",
+    "type": "multiple",
+    "enonce": "Concernant les utilisations des alginates, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Certaines formulations forment une barrière flottante au-dessus du contenu gastrique (anti-reflux)",
+      "Les pansements à base d'alginate de calcium sont hémostatiques locaux (ex. Coalgan)",
+      "Ils sont utilisés comme excipients épaississants, stabilisants et gélifiants",
+      "Ils sont utilisés dans l'industrie alimentaire",
+      "Ils sont utilisés comme succédanés du plasma"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Le succédané du plasma est le Dextran 70, pas les alginates.",
+    "source": {
+      "page": 57,
+      "extrait": "les pansements à base d'alginate de calcium absorbent l'exsudat et favorisent l'hémostase (ex. : Coalgan)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "alginates"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-067",
+    "type": "multiple",
+    "enonce": "Concernant les carraghénanes, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Ce sont des polysaccharides sulfatés",
+      "Ils sont extraits de certaines algues rouges (Rhodophycées)",
+      "Chondrus crispus (mousse d'Irlande) en est une source",
+      "Ils sont constitués de galactose et de 3,6-anhydrogalactose",
+      "Ils sont neutres, dépourvus de groupements sulfate"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Les carraghénanes sont riches en groupements sulfate ester, responsables de leur caractère anionique.",
+    "source": {
+      "page": 58,
+      "extrait": "Riches en groupements sulfate ester, responsables de leur caractère anionique"
+    },
+    "difficulte": 2,
+    "tags": [
+      "carraghénanes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-068",
+    "type": "multiple",
+    "enonce": "Les sources de carraghénanes citées dans le cours sont, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Chondrus crispus",
+      "Gigartina spp.",
+      "Eucheuma spp.",
+      "Laminaria digitata",
+      "Gelidium"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Carraghénanes : Chondrus crispus, Gigartina, Eucheuma. Laminaria → alginates ; Gelidium → agar-agar.",
+    "source": {
+      "page": 58,
+      "extrait": "Principales sources : Chondrus crispus (mousse d'Irlande), Gigartina spp., Eucheuma spp."
+    },
+    "difficulte": 2,
+    "tags": [
+      "carraghénanes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-069",
+    "type": "unique",
+    "enonce": "Dans les carraghénanes, les unités sont reliées par des liaisons glycosidiques alternées :",
+    "options": [
+      "α(1→4) et α(1→6)",
+      "α(1→3) et β(1→4)",
+      "β(1→4) uniquement",
+      "α(1→2) et β(1→2)",
+      "α(1→6) uniquement"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Galactose et 3,6-anhydrogalactose reliés par des liaisons alternées α(1→3) et β(1→4).",
+    "source": {
+      "page": 58,
+      "extrait": "reliés par des liaisons glycosidiques alternées α(1→3) et β(1→4)"
+    },
+    "difficulte": 3,
+    "tags": [
+      "carraghénanes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-070",
+    "type": "multiple",
+    "enonce": "Concernant les emplois des carraghénanes, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Agents épaississants, gélifiants, stabilisants et suspensifs en galénique",
+      "Utilisations historiques comme laxatifs de lest",
+      "Épaississants et gélifiants en industrie alimentaire",
+      "Fibres peu ou non digestibles en produits diététiques",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes ces utilisations figurent dans le cours.",
+    "source": {
+      "page": 59,
+      "extrait": "Produits diététiques : fibres peu ou non digestibles."
+    },
+    "difficulte": 1,
+    "tags": [
+      "carraghénanes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-071",
+    "type": "multiple",
+    "enonce": "Concernant l'agar-agar (gélose), cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Il est extrait d'algues rouges, principalement des genres Gelidium et Gracilaria",
+      "L'agarose est la fraction neutre, peu sulfatée, au fort pouvoir gélifiant",
+      "L'agaropectine est une fraction plus hétérogène contenant des groupements sulfate",
+      "Il gonfle dans l'eau chaude",
+      "Il est métabolisé et possède une forte valeur nutritive"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "L'agar-agar est non toxique, non métabolisé et sans valeur nutritive.",
+    "source": {
+      "page": 61,
+      "extrait": "gonfle dans l'eau chaude, non toxique, non métabolisé et sans valeur nutritive"
+    },
+    "difficulte": 2,
+    "tags": [
+      "agar-agar"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-072",
+    "type": "unique",
+    "enonce": "La fraction de l'agar-agar responsable du fort pouvoir gélifiant est :",
+    "options": [
+      "L'agaropectine",
+      "L'agarose",
+      "L'amylose",
+      "L'acide bassorique",
+      "La tragacanthine"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "L'agarose, fraction neutre peu sulfatée, est responsable du fort pouvoir gélifiant.",
+    "source": {
+      "page": 60,
+      "extrait": "Agarose : fraction neutre, peu sulfatée, responsable du fort pouvoir gélifiant."
+    },
+    "difficulte": 2,
+    "tags": [
+      "agar-agar"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-073",
+    "type": "multiple",
+    "enonce": "Concernant l'extraction et les emplois de l'agar-agar, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Il est extrait par traitement des algues à l'eau bouillante",
+      "L'extrait est filtré à chaud puis concentré et desséché",
+      "Il est utilisé comme laxatif de lest",
+      "Il sert d'agent gélifiant des milieux de culture solides en microbiologie",
+      "Il est solubilisé par traitement alcalin puis récupéré par acidification"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "La solubilisation alcaline puis l'acidification décrivent l'extraction de l'acide alginique.",
+    "source": {
+      "page": 62,
+      "extrait": "Microbiologie : agent gélifiant des milieux de culture solides."
+    },
+    "difficulte": 2,
+    "tags": [
+      "agar-agar"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-074",
+    "type": "multiple",
+    "enonce": "Associez chaque polysaccharide d'algue à son origine, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Alginates – algues brunes",
+      "Carraghénanes – algues rouges",
+      "Agar-agar – algues rouges",
+      "Alginates – algues rouges",
+      "Agar-agar – algues brunes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Alginates : Phéophycées (brunes) ; carraghénanes et agar-agar : Rhodophycées (rouges).",
+    "source": {
+      "page": 60,
+      "extrait": "Substance colloïdale extraite de certaines algues rouges (Rhodophycées)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "algues"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-075",
+    "type": "multiple",
+    "enonce": "Concernant l'amidon, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "C'est la principale substance de réserve glucidique des végétaux",
+      "Il est extrait principalement des grains de céréales et des organes de réserve souterrains",
+      "Le maïs, le blé et le riz appartiennent aux Poaceae",
+      "La pomme de terre (Solanum tuberosum) appartient aux Solanaceae",
+      "Le manioc (Manihot esculenta) appartient aux Convolvulaceae"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Le manioc appartient aux Euphorbiaceae ; c'est la patate douce (Ipomoea batatas) qui appartient aux Convolvulaceae.",
+    "source": {
+      "page": 63,
+      "extrait": "Manioc : Manihot esculenta (Euphorbiaceae)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "amidon"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-076",
+    "type": "multiple",
+    "enonce": "Associez la source d'amidon à sa famille botanique, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Igname (Dioscorea spp.) – Dioscoreaceae",
+      "Patate douce (Ipomoea batatas) – Convolvulaceae",
+      "Manioc (Manihot esculenta) – Euphorbiaceae",
+      "Blé (Triticum spp.) – Poaceae",
+      "Pomme de terre (Solanum tuberosum) – Euphorbiaceae"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "La pomme de terre appartient aux Solanaceae.",
+    "source": {
+      "page": 63,
+      "extrait": "Pomme de terre : Solanum tuberosum (Solanaceae)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "amidon"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-077",
+    "type": "multiple",
+    "enonce": "Concernant la structure de l'amidon, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Les grains d'amidon présentent une structure semi-cristalline",
+      "La forme, la taille et la position du hile varient selon l'espèce, permettant l'identification microscopique",
+      "L'amylose représente environ 15–30 % et est essentiellement linéaire α(1→4)",
+      "L'amylopectine représente environ 70–85 % et est ramifiée en α(1→6)",
+      "L'amidon est formé d'unités de β-D-glucose"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "L'amidon est formé d'unités d'α-D-glucose ; le β-D-glucose est l'unité de la cellulose.",
+    "source": {
+      "page": 65,
+      "extrait": "L'amidon est constitué de deux polyholosides homogènes formés d'unités d'α-D-glucose"
+    },
+    "difficulte": 2,
+    "tags": [
+      "amidon"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-078",
+    "type": "unique",
+    "enonce": "L'amylopectine représente environ, dans l'amidon :",
+    "options": [
+      "5–10 %",
+      "15–30 %",
+      "40–50 %",
+      "70–85 %",
+      "95–100 %"
+    ],
+    "correctes": [
+      3
+    ],
+    "explication": "Amylose ≈ 15–30 % ; amylopectine ≈ 70–85 %.",
+    "source": {
+      "page": 65,
+      "extrait": "Amylopectine (environ 70–85 %) : molécule ramifiée"
+    },
+    "difficulte": 2,
+    "tags": [
+      "amidon"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-079",
+    "type": "multiple",
+    "enonce": "Concernant l'amylose et l'amylopectine, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "L'amylose peut adopter une conformation hélicoïdale",
+      "L'amylose forme des complexes hélicoïdaux avec l'iode, les acides gras et certains émulsifiants",
+      "L'amylopectine possède des points de ramification en α(1→6)",
+      "La masse moléculaire de l'amylopectine peut atteindre plusieurs millions de daltons",
+      "L'organisation cristalline dépend principalement de la structure de l'amylose"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "L'organisation cristalline dépend principalement de la structure de l'AMYLOPECTINE (ainsi que de l'origine botanique et de l'hydratation).",
+    "source": {
+      "page": 67,
+      "extrait": "L'organisation cristalline dépend principalement de la structure de l'amylopectine"
+    },
+    "difficulte": 3,
+    "tags": [
+      "amidon"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-080",
+    "type": "multiple",
+    "enonce": "Concernant les propriétés de l'amidon, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Le grain d'amidon est insoluble dans l'eau froide",
+      "Au chauffage en présence d'eau, les grains gonflent et perdent leur organisation cristalline : c'est la gélatinisation",
+      "La température de gélatinisation dépend de l'origine botanique",
+      "En poursuivant le chauffage, les grains libèrent une partie de l'amylose et forment une pâte visqueuse : c'est l'empesage",
+      "L'empesage précède la gélatinisation"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "La gélatinisation (gonflement, perte de l'organisation cristalline) précède l'empesage (désorganisation, libération d'amylose, pâte visqueuse).",
+    "source": {
+      "page": 66,
+      "extrait": "En poursuivant le chauffage, les grains peuvent se désorganiser et libérer une partie de l'amylose, formant une pâte visqueuse : c'est l'empesage."
+    },
+    "difficulte": 2,
+    "tags": [
+      "amidon"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-081",
+    "type": "unique",
+    "enonce": "La formation d'une pâte visqueuse par libération d'une partie de l'amylose lors d'un chauffage prolongé est appelée :",
+    "options": [
+      "Gélatinisation",
+      "Empesage",
+      "Rétrogradation",
+      "Gélification egg-box",
+      "Mutarotation"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "C'est l'empesage ; la gélatinisation correspond au gonflement et à la perte de l'organisation cristalline.",
+    "source": {
+      "page": 66,
+      "extrait": "formant une pâte visqueuse : c'est l'empesage."
+    },
+    "difficulte": 2,
+    "tags": [
+      "amidon"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-082",
+    "type": "multiple",
+    "enonce": "Concernant les emplois de l'amidon, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Excipient des comprimés : diluant, liant ou désintégrant",
+      "L'amidon de blé entre dans la préparation du glycérolé d'amidon",
+      "Matière première pour la production de dextrines, de cyclodextrines, de sirops de glucose et de polyols",
+      "Substrat carboné pour des procédés de fermentation",
+      "Hémostatique local sous forme d'oxycellulose"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "L'oxycellulose (Oxycel, Surgicel) est un dérivé de la cellulose, pas de l'amidon.",
+    "source": {
+      "page": 68,
+      "extrait": "l'amidon de blé entre notamment dans la préparation du glycérolé d'amidon"
+    },
+    "difficulte": 2,
+    "tags": [
+      "amidon"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-083",
+    "type": "multiple",
+    "enonce": "Concernant la structure de la cellulose, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "C'est l'un des principaux constituants de la paroi cellulaire des végétaux",
+      "Elle est formée de chaînes linéaires de type rubané",
+      "Elle comporte environ 300 unités de β-D-glucose",
+      "Les unités sont reliées par des liaisons 1→4",
+      "Les unités sont des α-D-glucoses liés en 1→6"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Cellulose : environ 300 unités de β-D-glucose liées en 1→4, chaînes linéaires rubanées.",
+    "source": {
+      "page": 69,
+      "extrait": "chaînes linéaires de type rubane, de 300 unités environ de ß-D-glucose reliées entre elles par des liaisons 1→4"
+    },
+    "difficulte": 2,
+    "tags": [
+      "cellulose"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-084",
+    "type": "multiple",
+    "enonce": "Concernant l'obtention de la cellulose, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Elle est rencontrée à l'état pur dans certaines algues, ex. Valonia",
+      "Elle est le constituant majoritaire du kapok, du jute, du chanvre et de la ramie",
+      "Elle est le constituant unique des poils des graines de cotonnier",
+      "Le cotonnier appartient aux Malvacées",
+      "Elle est extraite principalement des algues brunes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "La cellulose est pure chez Valonia, majoritaire dans kapok, jute, chanvre, ramie, et unique constituant des poils des graines de cotonnier (Malvacées).",
+    "source": {
+      "page": 70,
+      "extrait": "comme constituant unique des poils des graines de Cotonnier"
+    },
+    "difficulte": 2,
+    "tags": [
+      "cellulose",
+      "cotonnier"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-085",
+    "type": "multiple",
+    "enonce": "Concernant les cotonniers cultivés, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Gossypium arboreum et G. herbaceum sont deux diploïdes asiatiques",
+      "Les diploïdes asiatiques ont des fibres épaisses et courtes",
+      "G. hirsutum est un tétraploïde américain à fibres intermédiaires",
+      "G. barbadense est un tétraploïde américain à fibres longues",
+      "G. barbadense est un diploïde asiatique à fibres courtes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "G. barbadense est un tétraploïde américain à fibres longues.",
+    "source": {
+      "page": 70,
+      "extrait": "Deux tétraploides américains : G.hirsutum (à fibres intermédiaire) G.barbadense (à fibres longues)."
+    },
+    "difficulte": 3,
+    "tags": [
+      "cotonnier"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-086",
+    "type": "multiple",
+    "enonce": "Concernant la composition chimique du cotonnier, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "La fibre de coton brut contient près de 90 % de cellulose",
+      "La graine renferme 15 % d'une huile semi-siccative",
+      "Les tourteaux sont riches en protides et en pigments flavoniques",
+      "La récolte se fait au moment où les capsules commencent à s'ouvrir",
+      "La graine renferme 90 % d'une huile siccative"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "La graine renferme 15 % d'huile semi-siccative ; c'est la fibre qui contient près de 90 % de cellulose.",
+    "source": {
+      "page": 71,
+      "extrait": "La graine renferme 15% d'une huile semi-siccative."
+    },
+    "difficulte": 2,
+    "tags": [
+      "cotonnier"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-087",
+    "type": "multiple",
+    "enonce": "Concernant les emplois de la cellulose et des fibres, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Le coton cardé écru est utilisé en traumatologie",
+      "Le coton hydrophile sert à préparer les gazes de cellulose",
+      "Les fibres favorisent le transit en augmentant le volume des selles (laxatif mécanique ou « de lest »)",
+      "Elles augmentent la sensation de satiété et peuvent être utilisées dans le traitement de l'obésité",
+      "Elles diminuent le pouvoir d'absorption d'eau des selles"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Les fibres ont un fort pouvoir d'absorption d'eau, d'où leur effet laxatif mécanique.",
+    "source": {
+      "page": 72,
+      "extrait": "on parle de « laxatif mécanique » ou de « lest »"
+    },
+    "difficulte": 2,
+    "tags": [
+      "cellulose"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-088",
+    "type": "multiple",
+    "enonce": "Concernant les dérivés hémisynthétiques de la cellulose, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "La méthylcellulose et la carboxyméthylcellulose sont utilisées en galénique",
+      "L'oxycellulose est un hémostatique local (Oxycel, Surgicel)",
+      "Le phtalate d'hydroxypropylméthylcellulose sert à la microencapsulation pour des microgranules à libération prolongée",
+      "L'hydroxypropylcellulose (hypromellose) améliore le port des lentilles cornéennes",
+      "L'oxycellulose est un succédané du plasma"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "L'oxycellulose est un hémostatique local ; le succédané du plasma est le Dextran 70.",
+    "source": {
+      "page": 73,
+      "extrait": "oxycellulose employé comme hémostatique local « Oxycel », « Surgicel »."
+    },
+    "difficulte": 2,
+    "tags": [
+      "cellulose"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-089",
+    "type": "unique",
+    "enonce": "« Oxycel » et « Surgicel » sont des spécialités à base de :",
+    "options": [
+      "Alginate de calcium",
+      "Oxycellulose",
+      "Dextran 40",
+      "Pectine",
+      "Gomme karaya"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "L'oxycellulose est employée comme hémostatique local (Oxycel, Surgicel). Coalgan est à base d'alginate de calcium.",
+    "source": {
+      "page": 73,
+      "extrait": "oxycellulose employé comme hémostatique local « Oxycel », « Surgicel »."
+    },
+    "difficulte": 2,
+    "tags": [
+      "cellulose"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-090",
+    "type": "multiple",
+    "enonce": "Comparaison amidon / cellulose, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "L'amidon est formé d'α-D-glucose, la cellulose de β-D-glucose",
+      "Les deux sont des holosides homogènes",
+      "L'amidon a un rôle de réserve, la cellulose un rôle structural",
+      "L'amylopectine est ramifiée alors que la cellulose est linéaire",
+      "La cellulose est la principale réserve glucidique des végétaux"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "L'amidon est la principale réserve glucidique ; la cellulose est structurale.",
+    "source": {
+      "page": 69,
+      "extrait": "C'est l'un des principaux constituants de la paroi cellulaire des végétaux"
+    },
+    "difficulte": 3,
+    "tags": [
+      "amidon",
+      "cellulose"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-091",
+    "type": "multiple",
+    "enonce": "Concernant les gommes, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Elles gonflent au contact de l'eau en donnant des masses gélatineuses",
+      "Elles résultent de l'exsudat des organes végétaux après un traumatisme",
+      "Elles sont insolubles dans les solvants organiques",
+      "Leur insolubilité dans les solvants organiques les différencie des résines",
+      "Ce sont des holosides homogènes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Les gommes font partie des polysaccharides hétérogènes.",
+    "source": {
+      "page": 74,
+      "extrait": "insolubles dans les solvants organiques ce qui les différencie des résines"
+    },
+    "difficulte": 2,
+    "tags": [
+      "gommes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-092",
+    "type": "multiple",
+    "enonce": "Concernant la gomme Sterculia, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Elle provient d'arbres tropicaux de la famille des Malvacées (ex-Sterculiacées)",
+      "La gomme karaya provient de Sterculia urens",
+      "La gomme m'bep provient de S. tomentosa et S. tragacantha d'Afrique occidentale",
+      "C'est un polysaccharide acide fortement acétylé (15 % d'acide acétique)",
+      "Elle est toxique et présente de nombreuses incompatibilités"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "La gomme Sterculia est atoxique, très adhésive à forte concentration et ne présente que peu d'incompatibilités.",
+    "source": {
+      "page": 76,
+      "extrait": "La gomme est atoxique, très adhésive à forte concentration et ne présente que peu d'incompatibilité."
+    },
+    "difficulte": 2,
+    "tags": [
+      "gomme Sterculia"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-093",
+    "type": "multiple",
+    "enonce": "L'hydrolyse partielle de la gomme Sterculia libère, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Du rhamnose",
+      "De l'acide galacturonique",
+      "Du galactose",
+      "De l'acide mannuronique",
+      "Du 3,6-anhydrogalactose"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Rhamnose, acide galacturonique, galactose. L'acide mannuronique appartient aux alginates, le 3,6-anhydrogalactose aux carraghénanes.",
+    "source": {
+      "page": 76,
+      "extrait": "par hydrolyse partielle on isole : Rhamnose Acide galacturonique Galactose"
+    },
+    "difficulte": 2,
+    "tags": [
+      "gomme Sterculia"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-094",
+    "type": "multiple",
+    "enonce": "Concernant les emplois de la gomme Sterculia (surtout karaya), cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Régulateur du transit intestinal sous forme d'hydrogel",
+      "Pansement du tube digestif dans les colites chroniques et gastro-entérites",
+      "Fixation des prothèses dentaires grâce à son adhésivité",
+      "Appareillage des colostomies",
+      "Hémostatique local en chirurgie"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "L'adhésivité explique la fixation des prothèses dentaires et l'appareillage des colostomies ; l'usage hémostatique n'est pas cité pour la gomme Sterculia.",
+    "source": {
+      "page": 77,
+      "extrait": "Son adhésivité explique son utilisation pour la fixation des prothèses dentaires, pour l'appareillage des colostomies"
+    },
+    "difficulte": 2,
+    "tags": [
+      "gomme Sterculia"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-095",
+    "type": "multiple",
+    "enonce": "Concernant la gomme arabique, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "C'est le produit durci à l'air de l'exsudat du tronc et des branches d'Acacia senegal",
+      "Les Acacia appartiennent aux Légumineuses-Mimosacées",
+      "Elle se présente en larmes arrondies de 1 à 3 cm de diamètre",
+      "C'est un polysaccharide acide ramifié de poids moléculaire élevé",
+      "Elle provient d'Astragalus gummifer"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Astragalus gummifer fournit la gomme adragante.",
+    "source": {
+      "page": 78,
+      "extrait": "exsudat visqueux naturel ou provoqué du tronc et des branches d'Acacia senegal"
+    },
+    "difficulte": 2,
+    "tags": [
+      "gomme arabique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-096",
+    "type": "multiple",
+    "enonce": "L'hydrolyse acide de l'acide arabique (gomme arabique) libère, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "L-arabinose",
+      "L-rhamnose",
+      "D-galactose",
+      "Acide D-glucuronique",
+      "Acide L-guluronique"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "L-arabinose, L-rhamnose, D-galactose, acide D-glucuronique. L'acide L-guluronique est un constituant de l'acide alginique.",
+    "source": {
+      "page": 79,
+      "extrait": "L-arabinose L-rhamnose D-galactose D-glucoronique"
+    },
+    "difficulte": 2,
+    "tags": [
+      "gomme arabique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-097",
+    "type": "multiple",
+    "enonce": "Concernant les emplois de la gomme arabique, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Elle a des propriétés émollientes et béchiques",
+      "Elle est utilisée dans les sirops et tablettes",
+      "Elle sert de stabilisant des émulsions et suspensions",
+      "Elle est incompatible avec les composés phénoliques en raison de la présence d'oxydase",
+      "Elle est compatible avec tous les composés phénoliques"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "La gomme arabique est incompatible avec les composés phénoliques (présence d'oxydase).",
+    "source": {
+      "page": 80,
+      "extrait": "Elle est incompatible avec les composés phénoliques, dues à la présence d'oxydase."
+    },
+    "difficulte": 2,
+    "tags": [
+      "gomme arabique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-098",
+    "type": "unique",
+    "enonce": "L'incompatibilité de la gomme arabique avec les composés phénoliques est due à :",
+    "options": [
+      "Sa forte acidité",
+      "La présence d'oxydase",
+      "Sa teneur en acide acétique",
+      "Sa teneur en calcium",
+      "Sa richesse en sulfate"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Elle est due à la présence d'oxydase.",
+    "source": {
+      "page": 80,
+      "extrait": "dues à la présence d'oxydase"
+    },
+    "difficulte": 2,
+    "tags": [
+      "gomme arabique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-099",
+    "type": "multiple",
+    "enonce": "Concernant la gomme adragante, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Elle provient d'Astragalus gummifer (Légumineuses) et espèces voisines d'Asie occidentale",
+      "Elle est obtenue par incision du tronc et des branches",
+      "Elle contient de la tragacanthine (30 %), un galactane",
+      "Elle contient de l'acide bassorique (60 %)",
+      "Ses deux polysaccharides sont séparables par l'éthanol"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Toutes exactes ; ses emplois sont identiques à ceux de la gomme arabique et elle est de plus en plus remplacée par les gommes guar et de caroube.",
+    "source": {
+      "page": 82,
+      "extrait": "Tragacanthine (30%) galactane Ac. Bassorique (60%)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "gomme adragante"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-100",
+    "type": "unique",
+    "enonce": "L'acide bassorique est un constituant de :",
+    "options": [
+      "La gomme arabique",
+      "La gomme adragante",
+      "La gomme karaya",
+      "La gomme guar",
+      "L'agar-agar"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Gomme adragante : tragacanthine (30 %) et acide bassorique (60 %).",
+    "source": {
+      "page": 82,
+      "extrait": "Ac. Bassorique (60%) polymère complexe d'ac. Galacturonique"
+    },
+    "difficulte": 2,
+    "tags": [
+      "gomme adragante"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-101",
+    "type": "multiple",
+    "enonce": "Concernant les mucilages, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Ce sont des constituants normaux des plantes",
+      "Ils sont localisés le plus souvent dans les graines",
+      "Ils préviennent la déshydratation des graines et conservent leurs facultés germinatives",
+      "Il en existe deux sortes : acides (acides uroniques) et neutres",
+      "Ils résultent toujours d'un traumatisme de la plante"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Ce sont les gommes qui résultent d'un traumatisme ; les mucilages sont des constituants normaux.",
+    "source": {
+      "page": 83,
+      "extrait": "constituants normaux des plantes. Sont localisés dans les graines le plus souvent."
+    },
+    "difficulte": 2,
+    "tags": [
+      "mucilages"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-102",
+    "type": "unique",
+    "enonce": "Différence essentielle entre gommes et mucilages selon le cours :",
+    "options": [
+      "Les gommes sont des constituants normaux, les mucilages des exsudats",
+      "Les gommes sont des exsudats après traumatisme, les mucilages des constituants normaux",
+      "Les deux sont des holosides homogènes",
+      "Les mucilages sont solubles dans les solvants organiques",
+      "Les gommes sont localisées dans les graines"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Gommes : exsudats après traumatisme ; mucilages : constituants normaux, surtout dans les graines.",
+    "source": {
+      "page": 83,
+      "extrait": "constituants normaux des plantes"
+    },
+    "difficulte": 2,
+    "tags": [
+      "mucilages",
+      "gommes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-103",
+    "type": "multiple",
+    "enonce": "Concernant les mucilages neutres (galactomannanes des légumineuses), cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "La gomme de caroube est obtenue des graines de Ceratonia siliqua par broyage de l'albumen",
+      "Elle contient 90 % d'un galactomannane de haut poids moléculaire",
+      "La gomme et la farine de caroube sont prescrites comme antiémétiques chez le nourrisson",
+      "La gomme guar est obtenue par broyage des graines de Cyamopsis tetragonolobus",
+      "La gomme guar tend à remplacer l'albumen de caroubier dans l'industrie"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Toutes exactes.",
+    "source": {
+      "page": 84,
+      "extrait": "sont prescrites comme antiémétique pour les nourrissons"
+    },
+    "difficulte": 2,
+    "tags": [
+      "mucilages",
+      "caroube",
+      "guar"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-104",
+    "type": "unique",
+    "enonce": "La gomme et la farine de caroube sont prescrites chez le nourrisson comme :",
+    "options": [
+      "Laxatifs",
+      "Antiémétiques",
+      "Hémostatiques",
+      "Diurétiques",
+      "Antiseptiques"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Elles sont prescrites comme antiémétiques chez le nourrisson.",
+    "source": {
+      "page": 84,
+      "extrait": "sont prescrites comme antiémétique pour les nourrissons"
+    },
+    "difficulte": 1,
+    "tags": [
+      "caroube"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-105",
+    "type": "multiple",
+    "enonce": "Associez la drogue à mucilages acides à son origine, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Ispaghul – graines de Plantago ovata",
+      "Psyllium – graines de Plantago psyllium et P. arenaria",
+      "Lin – graines de Linum usitatissimum (Linacées)",
+      "Guimauve – Althaea officinalis (Malvacées)",
+      "Tilleul – Malva sylvestris"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Le tilleul correspond à Tilia cordata et T. platyphyllos (Tiliacées) ; Malva sylvestris est la mauve.",
+    "source": {
+      "page": 86,
+      "extrait": "Ispaghul (graines), Plantago ovata, Plantaginacées."
+    },
+    "difficulte": 2,
+    "tags": [
+      "mucilages"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-106",
+    "type": "multiple",
+    "enonce": "Concernant la guimauve et la mauve, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "La guimauve est Althaea officinalis",
+      "Pour la guimauve, la fleur, la feuille et la racine sont utilisées",
+      "La mauve est Malva sylvestris (fleur)",
+      "Guimauve et mauve appartiennent aux Malvacées",
+      "Ce sont des drogues à mucilages neutres (galactomannanes)"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Guimauve et mauve sont classées parmi les drogues à mucilages acides ; les galactomannanes (neutres) sont la caroube et le guar.",
+    "source": {
+      "page": 86,
+      "extrait": "Guimauve (fleur, feuille, racine), Althea officinalis, malvacées. Mauve (fleur), Malva sylvestris"
+    },
+    "difficulte": 3,
+    "tags": [
+      "mucilages"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-107",
+    "type": "multiple",
+    "enonce": "Concernant les emplois des mucilages, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Ce sont des modulateurs du transit intestinal grâce à leur propriété de gonfler dans l'eau",
+      "Le gonflement du bol fécal provoque le réflexe d'élimination (action laxative mécanique)",
+      "Ils peuvent avoir un pouvoir antidiarrhéique par absorption d'eau",
+      "Ce sont de bons émollients et adoucissants des tissus",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes exactes : modulateurs du transit (laxatif mécanique ou antidiarrhéique) et émollients.",
+    "source": {
+      "page": 87,
+      "extrait": "Ce sont des modulateurs du transit intestinal grâce à la propriété de gonfler dans l'eau"
+    },
+    "difficulte": 2,
+    "tags": [
+      "mucilages"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-108",
+    "type": "multiple",
+    "enonce": "Concernant la structure des pectines, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Ce sont des polygalacturonanes",
+      "Des intercalations de rhamnose forment des « coudes pectiques »",
+      "Elles présentent des chaînes d'oses neutres (galactose, arabinose, xylose)",
+      "Leurs fonctions carboxyliques peuvent être estérifiées par le méthanol",
+      "Elles sont constituées d'acide mannuronique et guluronique"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Acides mannuronique et guluronique = alginates.",
+    "source": {
+      "page": 88,
+      "extrait": "intercalations de rhamnose formant des « coudes pectiques »"
+    },
+    "difficulte": 2,
+    "tags": [
+      "pectines"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-109",
+    "type": "multiple",
+    "enonce": "Concernant l'obtention et les propriétés des pectines, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Elles sont obtenues industriellement à partir des déchets de pommes et de citrons",
+      "L'acide pectique est insoluble dans l'eau",
+      "L'hydrosolubilité augmente avec le degré de méthylation",
+      "Les solutions pectiques sont très visqueuses et peuvent former des gels",
+      "L'hydrosolubilité diminue avec le degré de méthylation"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "L'hydrosolubilité AUGMENTE avec le degré de méthylation.",
+    "source": {
+      "page": 90,
+      "extrait": "l'hydro solubilité augmente avec le degré de méthylation"
+    },
+    "difficulte": 2,
+    "tags": [
+      "pectines"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-110",
+    "type": "multiple",
+    "enonce": "Concernant les emplois des pectines, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Traitement des affections gastro-intestinales (antidiarrhéiques)",
+      "Traitement symptomatique des régurgitations du nourrisson",
+      "Protection de la muqueuse digestive en absorbant les toxines",
+      "Agent retard freinant l'élimination des principes actifs",
+      "Propriétés hémostatiques, émulsifiantes et gélifiantes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Toutes exactes selon le cours.",
+    "source": {
+      "page": 91,
+      "extrait": "La pectine est un agent retard freinant l'élimination des principes actifs médicamenteux"
+    },
+    "difficulte": 2,
+    "tags": [
+      "pectines"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-111",
+    "type": "multiple",
+    "enonce": "Parmi les polysaccharides suivants, lesquels sont des holosides hétérogènes ?",
+    "options": [
+      "Gommes",
+      "Mucilages",
+      "Pectines",
+      "Amidon",
+      "Cellulose"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Végétaux supérieurs : holosides homogènes = amidon, cellulose ; hétérogènes = gommes, mucilages, pectines.",
+    "source": {
+      "page": 43,
+      "extrait": "Holosides homogènes : Amidon Cellulose - Holosides hétérogènes : Gommes Mucilages Pectines"
+    },
+    "difficulte": 2,
+    "tags": [
+      "classification"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-112",
+    "type": "multiple",
+    "enonce": "Parmi les substances suivantes, lesquelles sont utilisées comme laxatifs de lest ?",
+    "options": [
+      "Psyllium (ispaghul)",
+      "Graines de lin",
+      "Agar-agar",
+      "Cellulose et fibres",
+      "Mannitol en perfusion intraveineuse"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Le mannitol IV est un diurétique osmotique ; la manne (mannitol) est un laxatif osmotique doux, mais pas un laxatif de lest.",
+    "source": {
+      "page": 32,
+      "extrait": "Comme le psyllium (ispaghul), les graines de lin : laxatifs de lest"
+    },
+    "difficulte": 3,
+    "tags": [
+      "emplois"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-113",
+    "type": "multiple",
+    "enonce": "Parmi les associations « produit – usage hémostatique » suivantes, lesquelles sont citées ?",
+    "options": [
+      "Alginate de calcium (Coalgan)",
+      "Oxycellulose (Oxycel, Surgicel)",
+      "Pectines",
+      "Dextran 70",
+      "Xylitol"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Hémostatiques cités : alginate de calcium, oxycellulose, pectines (propriétés hémostatiques). Le Dextran 70 est un succédané du plasma ; le xylitol un édulcorant.",
+    "source": {
+      "page": 57,
+      "extrait": "Hémostatique local : les pansements à base d'alginate de calcium"
+    },
+    "difficulte": 3,
+    "tags": [
+      "emplois"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-114",
+    "type": "multiple",
+    "enonce": "Parmi les substances suivantes, lesquelles sont des matières premières de la vitamine C selon le cours ?",
+    "options": [
+      "D-glucose",
+      "D-sorbitol",
+      "Saccharose",
+      "Xylitol",
+      "Mannitol"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Le D-glucose (matière première du sorbitol et de la vitamine C) et le sorbitol sont cités comme matières premières de l'acide ascorbique.",
+    "source": {
+      "page": 39,
+      "extrait": "Matière première pour la production industrielle de l'acide ascorbique (vitamine C)."
+    },
+    "difficulte": 3,
+    "tags": [
+      "vitamine C"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/02-glucides/qcm-115",
+    "type": "multiple",
+    "enonce": "Concernant les liaisons glycosidiques des holosides étudiés, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Maltose : α(1→4)",
+      "Saccharose : α(1→2)",
+      "Cyclodextrines : α(1→4)",
+      "Dextranes : α(1→6)",
+      "Cellulose : α(1→4)"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "La cellulose est formée de β-D-glucose liés en 1→4 (β1→4), pas α.",
+    "source": {
+      "page": 69,
+      "extrait": "300 unités environ de ß-D-glucose reliées entre elles par des liaisons 1→4"
+    },
+    "difficulte": 3,
+    "tags": [
+      "liaisons"
+    ],
+    "origine": "genere"
+  }
+]

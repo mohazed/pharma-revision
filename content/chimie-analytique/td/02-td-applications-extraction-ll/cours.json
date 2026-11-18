@@ -1,0 +1,13 @@
+{
+  "id": "chimie-analytique/td/02-td-applications-extraction-ll",
+  "module": "chimie-analytique",
+  "ordre": 2,
+  "titre": "TD 2 – Applications de l'extraction liquide-liquide",
+  "type": "td",
+  "source": {
+    "driveId": "19lyTJq5yPQmJyoTQB73kmkW1Ez30wZkZ",
+    "fichier": "2. TD 2 Applications de l'Extraction Liquide Liquide.pdf",
+    "modifiedTime": "2026-11-12T19:27:10.133Z"
+  },
+  "resume": "Exercices : extraction d'un ion M²⁺ sous forme de chélate selon le pH, et dosage du chlorhydrate de lidocaïne par extraction de paires d'ions avec le DOSS."
+}

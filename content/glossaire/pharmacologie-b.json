@@ -1,0 +1,222 @@
+[
+  {
+    "terme": "Pharmacocinétique",
+    "definition": "Étude du devenir d'un médicament dans l'organisme en fonction du temps (action de l'organisme sur le médicament).",
+    "cours": "pharmacologie/07-modelisation-pk-partie-1"
+  },
+  {
+    "terme": "Modèle pharmacocinétique",
+    "definition": "Représentation mathématique du comportement d'un médicament dans l'organisme.",
+    "cours": "pharmacologie/07-modelisation-pk-partie-1"
+  },
+  {
+    "terme": "Compartiment",
+    "definition": "Ensemble de molécules ayant la même probabilité d'être affectées au même moment par le même événement.",
+    "cours": "pharmacologie/07-modelisation-pk-partie-1"
+  },
+  {
+    "terme": "Approche non compartimentale",
+    "definition": "Déduction des paramètres pharmacocinétiques à partir de points expérimentaux (Cmax, Tmax) et de formules simples, sans modèle.",
+    "cours": "pharmacologie/07-modelisation-pk-partie-1"
+  },
+  {
+    "terme": "Coefficient de résorption (f)",
+    "definition": "Fraction ou pourcentage de la dose administrée ayant été résorbée.",
+    "cours": "pharmacologie/07-modelisation-pk-partie-1"
+  },
+  {
+    "terme": "Constante de vitesse d'absorption (Ka)",
+    "definition": "Constante de vitesse (1/h) du transfert du médicament de l'extérieur vers l'intérieur de l'organisme.",
+    "cours": "pharmacologie/07-modelisation-pk-partie-1"
+  },
+  {
+    "terme": "Coefficient d'extraction (E)",
+    "definition": "Fraction du médicament extraite par un organe à chaque passage et soustraite à la circulation générale.",
+    "cours": "pharmacologie/07-modelisation-pk-partie-1"
+  },
+  {
+    "terme": "Volume apparent de distribution (Vd)",
+    "definition": "Volume fictif ; rapport de la quantité de médicament dans l'organisme à sa concentration plasmatique à l'équilibre.",
+    "cours": "pharmacologie/07-modelisation-pk-partie-1"
+  },
+  {
+    "terme": "Constante de vitesse de distribution (Kd)",
+    "definition": "Constante de vitesse du passage du médicament du compartiment central vers les autres compartiments.",
+    "cours": "pharmacologie/07-modelisation-pk-partie-1"
+  },
+  {
+    "terme": "Clairance totale",
+    "definition": "Volume sanguin totalement débarrassé d'une substance par unité de temps ; capacité de l'organisme à épurer le médicament.",
+    "cours": "pharmacologie/07-modelisation-pk-partie-1"
+  },
+  {
+    "terme": "Temps de demi-vie d'élimination",
+    "definition": "Intervalle de temps au bout duquel la moitié du médicament est éliminée ; t1/2 = ln2/ke.",
+    "cours": "pharmacologie/07-modelisation-pk-partie-1"
+  },
+  {
+    "terme": "Constante de vitesse d'élimination (Ke)",
+    "definition": "Constante de vitesse (1/h) du ou des processus d'élimination du médicament.",
+    "cours": "pharmacologie/07-modelisation-pk-partie-1"
+  },
+  {
+    "terme": "Méthode des trapèzes",
+    "definition": "Méthode graphique de calcul de l'AUC par sommation des aires (C1 + C2)/2 × (t2 − t1).",
+    "cours": "pharmacologie/07-modelisation-pk-partie-1"
+  },
+  {
+    "terme": "Méthode des résidus",
+    "definition": "Méthode graphique de séparation des phases : différence entre concentrations extrapolées et observées, permettant de calculer ka (ou kd).",
+    "cours": "pharmacologie/07-modelisation-pk-partie-1"
+  },
+  {
+    "terme": "Modèle bicompartimental",
+    "definition": "Modèle assimilant l'organisme à un compartiment central et des compartiments périphériques, avec une phase de distribution et une phase d'élimination.",
+    "cours": "pharmacologie/08-modelisation-pk-partie-2"
+  },
+  {
+    "terme": "Perfusion IV",
+    "definition": "Administration répétée continue par voie intraveineuse à vitesse d'apport constante R0.",
+    "cours": "pharmacologie/08-modelisation-pk-partie-2"
+  },
+  {
+    "terme": "Concentration à l'état d'équilibre (Css)",
+    "definition": "Concentration stable atteinte quand la vitesse d'apport égale la vitesse d'élimination ; Css = R0/Cl.",
+    "cours": "pharmacologie/08-modelisation-pk-partie-2"
+  },
+  {
+    "terme": "Dose de charge",
+    "definition": "Dose initiale permettant d'atteindre rapidement le plateau (DC = Vd × Css ; ou Cmax × Vd/F en administration réitérée).",
+    "cours": "pharmacologie/08-modelisation-pk-partie-2"
+  },
+  {
+    "terme": "Dose d'entretien",
+    "definition": "Dose fixe administrée à intervalles réguliers pour maintenir les Cmoy au niveau du plateau ; DE max = (Cmax − Cmin) × Vd/F.",
+    "cours": "pharmacologie/08-modelisation-pk-partie-2"
+  },
+  {
+    "terme": "Intervalle thérapeutique",
+    "definition": "Zone de concentration pour laquelle le plus grand nombre de malades est traité efficacement avec le minimum d'effets indésirables.",
+    "cours": "pharmacologie/08-modelisation-pk-partie-2"
+  },
+  {
+    "terme": "Index thérapeutique",
+    "definition": "Rapport entre les concentrations limites de l'intervalle thérapeutique.",
+    "cours": "pharmacologie/08-modelisation-pk-partie-2"
+  },
+  {
+    "terme": "Intervalle posologique",
+    "definition": "Temps maximal entre deux administrations permettant de rester dans l'intervalle thérapeutique ; τ = ln(Cmax/Cmin)/ke.",
+    "cours": "pharmacologie/08-modelisation-pk-partie-2"
+  },
+  {
+    "terme": "Administration réitérée",
+    "definition": "Administration répétée de doses à intervalles réguliers (IV ou orale).",
+    "cours": "pharmacologie/08-modelisation-pk-partie-2"
+  },
+  {
+    "terme": "Schéma posologique",
+    "definition": "Ensemble dose, intervalle et éventuelle dose de charge établi à partir de l'intervalle thérapeutique et des paramètres pharmacocinétiques.",
+    "cours": "pharmacologie/08-modelisation-pk-partie-2"
+  },
+  {
+    "terme": "Biodisponibilité",
+    "definition": "Quantité relative de principe actif absorbé à partir d'une forme pharmaceutique qui atteint la circulation systémique et vitesse à laquelle se produit ce phénomène.",
+    "cours": "pharmacologie/09-biodisponibilite"
+  },
+  {
+    "terme": "Biophase",
+    "definition": "Environnement où agit un principe actif.",
+    "cours": "pharmacologie/09-biodisponibilite"
+  },
+  {
+    "terme": "Biodisponibilité absolue",
+    "definition": "Fraction F du PA administré par voie extravasculaire atteignant la circulation générale, par rapport à la voie IV (rendement absolu de l'absorption).",
+    "cours": "pharmacologie/09-biodisponibilite"
+  },
+  {
+    "terme": "Biodisponibilité relative",
+    "definition": "Quantité et vitesse d'absorption d'un PA à partir d'une forme comparativement à une forme de référence, en l'absence de référence IV.",
+    "cours": "pharmacologie/09-biodisponibilite"
+  },
+  {
+    "terme": "Aire sous la courbe (AUC, SSC)",
+    "definition": "Paramètre le plus important de la biodisponibilité, proportionnel à la quantité de PA dans la circulation générale.",
+    "cours": "pharmacologie/09-biodisponibilite"
+  },
+  {
+    "terme": "Cmax",
+    "definition": "Concentration maximale ; influencée par la quantité absorbée et par la vitesse d'absorption.",
+    "cours": "pharmacologie/09-biodisponibilite"
+  },
+  {
+    "terme": "Tmax",
+    "definition": "Temps nécessaire pour obtenir la Cmax ; inversement proportionnel à la vitesse d'absorption.",
+    "cours": "pharmacologie/09-biodisponibilite"
+  },
+  {
+    "terme": "Temps de latence",
+    "definition": "Temps d'apparition du principe actif dans le sang à concentration thérapeutique.",
+    "cours": "pharmacologie/09-biodisponibilite"
+  },
+  {
+    "terme": "Médicament générique",
+    "definition": "Médicament de même composition qualitative et quantitative en PA et de même forme pharmaceutique que la référence, dont l'interchangeabilité repose sur l'équivalence thérapeutique.",
+    "cours": "pharmacologie/10-bioequivalence"
+  },
+  {
+    "terme": "Équivalents chimiques",
+    "definition": "Produits renfermant une quantité identique du même PA sous la même forme chimique.",
+    "cours": "pharmacologie/10-bioequivalence"
+  },
+  {
+    "terme": "Équivalents pharmaceutiques",
+    "definition": "Produits contenant la même quantité molaire du même PA dans la même forme pharmaceutique, destinés à la même voie.",
+    "cours": "pharmacologie/10-bioequivalence"
+  },
+  {
+    "terme": "Équivalence thérapeutique",
+    "definition": "Équivalence pharmaceutique avec efficacité et sécurité essentiellement similaires, permettant l'interchangeabilité.",
+    "cours": "pharmacologie/10-bioequivalence"
+  },
+  {
+    "terme": "Bioéquivalence",
+    "definition": "Absence de différence significative de biodisponibilité (vitesse et étendue de l'absorption) entre deux équivalents pharmaceutiques à même dose molaire et même voie.",
+    "cours": "pharmacologie/10-bioequivalence"
+  },
+  {
+    "terme": "BCS (système de classification biopharmaceutique)",
+    "definition": "Classement des PA en 4 classes selon la solubilité dans l'eau et la perméabilité intestinale.",
+    "cours": "pharmacologie/10-bioequivalence"
+  },
+  {
+    "terme": "Biowaiver",
+    "definition": "Exonération d'étude de bioéquivalence (ex. fondée sur le BCS pour les classes I et III).",
+    "cours": "pharmacologie/10-bioequivalence"
+  },
+  {
+    "terme": "Wash-out",
+    "definition": "Période sans administration entre deux périodes d'un essai croisé, d'au moins cinq demi-vies d'élimination.",
+    "cours": "pharmacologie/10-bioequivalence"
+  },
+  {
+    "terme": "Essai croisé",
+    "definition": "Plan où chaque sujet reçoit successivement le test et la référence dans un ordre aléatoire et sert de propre témoin.",
+    "cours": "pharmacologie/10-bioequivalence"
+  },
+  {
+    "terme": "Plan croisé répliqué",
+    "definition": "Plan où chaque sujet reçoit plus d'une fois le test et/ou la référence, indiqué en cas de forte variabilité intra-individuelle.",
+    "cours": "pharmacologie/10-bioequivalence"
+  },
+  {
+    "terme": "Intervalle de confiance à 90 %",
+    "definition": "Intervalle du rapport des moyennes géométriques T/R devant être compris entre 80,00 et 125,00 % (90,00–111,11 % pour un index étroit).",
+    "cours": "pharmacologie/10-bioequivalence"
+  },
+  {
+    "terme": "Promoteur",
+    "definition": "Fabricant ou organisme responsable de l'organisation, du financement, de la qualité et du rapport final d'une étude.",
+    "cours": "pharmacologie/10-bioequivalence"
+  }
+]

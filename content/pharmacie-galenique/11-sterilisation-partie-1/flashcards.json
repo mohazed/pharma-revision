@@ -1,0 +1,212 @@
+[
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/flashcard-001",
+    "recto": "Stérilisation (définition)",
+    "verso": "Opération pharmaceutique visant à priver un objet ou un produit des micro-organismes viables qui le souillent, quelles que soient leur nature ou forme.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/flashcard-002",
+    "recto": "Stérilité",
+    "verso": "Absence de micro-organismes viables.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/flashcard-003",
+    "recto": "Détruire / inactiver / éliminer",
+    "verso": "Détruire : tuer ; inactiver : rendre non viable de façon permanente ; éliminer : retirer physiquement (filtration) sans nécessairement détruire.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/flashcard-004",
+    "recto": "NAS (SAL)",
+    "verso": "Probabilité de présence d'un micro-organisme viable après traitement ; 10⁻⁶ en stérilisation terminale.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/flashcard-005",
+    "recto": "Micro-organismes visés",
+    "verso": "Bactéries (y compris spores), levures, moisissures, virus, ATNC (prions).",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/flashcard-006",
+    "recto": "Classification par mécanisme",
+    "verso": "Inactivation : chaleur, gaz, radiations ; élimination physique : filtration.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/flashcard-007",
+    "recto": "UV",
+    "verso": "Ne stérilisent pas ; désinfection uniquement (surfaces, air).",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/flashcard-008",
+    "recto": "Ordre de choix selon le moment",
+    "verso": "Stérilisation terminale > filtration stérilisante > préparation aseptique.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/flashcard-009",
+    "recto": "Cinq facteurs de sensibilité à la chaleur",
+    "verso": "Espèce et forme, N0, durée, température, nature du milieu.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/flashcard-010",
+    "recto": "Germes de référence",
+    "verso": "Chaleur humide : Geobacillus stearothermophilus ; chaleur sèche : Bacillus subtilis.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/flashcard-011",
+    "recto": "Courbe N = f(t)",
+    "verso": "Tend vers zéro sans jamais l'atteindre.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/flashcard-012",
+    "recto": "Loi de destruction",
+    "verso": "log N = log N0 − t/D.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/flashcard-013",
+    "recto": "Définition de D",
+    "verso": "Temps (min) pour réduire la population d'un facteur 10 (détruire 90 %) à T constante.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/flashcard-014",
+    "recto": "D121 de G. stearothermophilus",
+    "verso": "1,5 à 2,5 min.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/flashcard-015",
+    "recto": "Définition de z",
+    "verso": "Élévation de température qui divise D par 10 ; z = 10 °C pour G. stearothermophilus.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/flashcard-016",
+    "recto": "Valeur stérilisatrice FT",
+    "verso": "FT = t × 10^((T − 121)/z), en minutes équivalentes à 121 °C.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/flashcard-017",
+    "recto": "F0 minimal",
+    "verso": "8 min (équivalent 8 min à 121 °C) à la validation.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/flashcard-018",
+    "recto": "Exercice type NAS",
+    "verso": "10⁶ → 10⁻⁶ = 12 réductions ; D = 1,5 min → 18 min à 121 °C.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/flashcard-019",
+    "recto": "10 min à 111 °C",
+    "verso": "F = 1 min : inefficace.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/flashcard-020",
+    "recto": "2 min à 131 °C",
+    "verso": "F = 20 min : efficace.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/flashcard-021",
+    "recto": "Mécanisme de la chaleur humide",
+    "verso": "Dénaturation, hydrolyse, coagulation des protéines par la vapeur saturée.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/flashcard-022",
+    "recto": "Barèmes chaleur humide",
+    "verso": "121 °C, 15–20 min ; ATNC : 134 °C, 18 min.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/flashcard-023",
+    "recto": "Éléments d'un autoclave classique",
+    "verso": "Soupape de sûreté, robinet d'évacuation (purge), manomètre, panier perforé.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/flashcard-024",
+    "recto": "Pourquoi purger l'air ?",
+    "verso": "L'air, mauvais conducteur, forme des poches où la vapeur pénètre plus lentement.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/flashcard-025",
+    "recto": "Ouverture de l'autoclave",
+    "verso": "Après refroidissement jusqu'à manomètre « 0 » (100 °C), sinon ébullition et éclatement du verre.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/flashcard-026",
+    "recto": "Trois moyens de contrôle d'un cycle",
+    "verso": "Capteurs physiques, indicateurs biologiques, indicateurs chimiques (zone froide).",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/flashcard-027",
+    "recto": "Indicateur biologique vapeur",
+    "verso": "Spores de G. stearothermophilus + milieu au violet de bromocrésol ; incubation ≈ 56 °C ; mauve = succès, jaune = échec.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/flashcard-028",
+    "recto": "Indicateur chimique",
+    "verso": "Changement de couleur/modification physique ; preuve visuelle immédiate de l'atteinte du paramètre critique.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/flashcard-029",
+    "recto": "Limite majeure de la chaleur humide",
+    "verso": "Inefficace contre les pyrogènes (endotoxines).",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/flashcard-030",
+    "recto": "Mécanisme de la chaleur sèche",
+    "verso": "Déshydratation puis oxydation des constituants cellulaires.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/flashcard-031",
+    "recto": "Barèmes chaleur sèche",
+    "verso": "160 °C, 120–180 min ; 170 °C, 90–120 min.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/flashcard-032",
+    "recto": "Étuve vs four tunnel",
+    "verso": "Étuve : discontinue, simple, peu coûteuse. Four tunnel : continu, tapis roulant, flux laminaire, évite les confusions.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/flashcard-033",
+    "recto": "Indications de la chaleur sèche",
+    "verso": "Métal, verre, poudres thermostables (oxyde de zinc, talc), huiles.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/flashcard-034",
+    "recto": "Endotoxines",
+    "verso": "LPS de la membrane externe des bactéries à Gram négatif ; thermorésistantes.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/flashcard-035",
+    "recto": "Dépyrogénation",
+    "verso": "Chaleur sèche > 220 °C (250 °C 30 min indicatif) ; réduction ≥ 3 log₁₀ ; contrôle par test BET.",
+    "tags": []
+  }
+]

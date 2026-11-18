@@ -1,0 +1,13 @@
+{
+  "id": "pharmacie-galenique/05-pulverisation",
+  "module": "pharmacie-galenique",
+  "ordre": 5,
+  "titre": "Pulvérisation des solides",
+  "type": "cours",
+  "source": {
+    "driveId": "1k4POOCuo7nE2RNZ4OcgIigqSHLIiejSh",
+    "fichier": "5. Pulvérisation des solides.pdf",
+    "modifiedTime": "2026-10-17T15:54:59.921Z"
+  },
+  "resume": "Pulvérisation et broyage (définition, intérêts, opérations préliminaires, mécanismes, choix et appareils de laboratoire et industriels), tamisage et analyse granulométrique des poudres."
+}

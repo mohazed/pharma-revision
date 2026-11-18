@@ -1,0 +1,221 @@
+[
+  {
+    "id": "pharmacognosie/01-generalites/tableau-001",
+    "titre": "Période de récolte selon l'organe",
+    "colonnes": [
+      "Organe",
+      "Période de récolte",
+      "Mode de récolte"
+    ],
+    "lignes": [
+      [
+        "Parties souterraines",
+        "Hors pleine végétation (printemps ou automne) ; plusieurs années pour les vivaces",
+        "Manuelle"
+      ],
+      [
+        "Écorces",
+        "Printemps (montée de la sève) ou automne (début du repos)",
+        "Manuelle"
+      ],
+      [
+        "Tiges herbacées et feuilles",
+        "Début de la floraison",
+        "Mécanisée (parties aériennes)"
+      ],
+      [
+        "Fleurs et sommités fleuries",
+        "Avant leur complet épanouissement",
+        "Manuelle (fleurs nombreuses) / mécanisée (sommités)"
+      ],
+      [
+        "Fruits charnus ou secs",
+        "À maturité",
+        "Mécanisée"
+      ],
+      [
+        "Graines",
+        "Mûres",
+        "Mécanisée"
+      ]
+    ]
+  },
+  {
+    "id": "pharmacognosie/01-generalites/tableau-002",
+    "titre": "Procédés de conservation",
+    "colonnes": [
+      "Procédé",
+      "Principe",
+      "Remarque"
+    ],
+    "lignes": [
+      [
+        "Séchage au soleil",
+        "Air libre, climat chaud et sec",
+        "Économique ; UV altèrent certains PA"
+      ],
+      [
+        "Séchage à l'ombre / sous abri",
+        "Claies ou bouquets suspendus",
+        "Long, artisanal"
+      ],
+      [
+        "Séchage par l'air chaud",
+        "Séchoirs-tunnels",
+        "Le plus répandu, rapide"
+      ],
+      [
+        "Séchage sous vide",
+        "À chaud",
+        "Autre procédé"
+      ],
+      [
+        "Lyophilisation (cryodessiccation)",
+        "À froid",
+        "Autre procédé"
+      ],
+      [
+        "Bourquelot",
+        "Alcool bouillant",
+        "Stabilisation ; extraits alcooliques stabilisés"
+      ],
+      [
+        "Perrot-Goris",
+        "Vapeurs d'alcool à 95° en autoclave",
+        "Stabilisation (chaleur + alcool)"
+      ],
+      [
+        "Goris-Arnould",
+        "Vapeurs d'eau",
+        "Stabilisation"
+      ],
+      [
+        "Chaleur sèche",
+        "Quelques minutes",
+        "Le plus intéressant des autres procédés"
+      ]
+    ]
+  },
+  {
+    "id": "pharmacognosie/01-generalites/tableau-003",
+    "titre": "Essais d'une drogue végétale",
+    "colonnes": [
+      "Essai",
+      "Contenu",
+      "Renseigne sur"
+    ],
+    "lignes": [
+      [
+        "Botanique",
+        "Morphologie, caractères organoleptiques, microscopie (coupe transversale, poudres)",
+        "Premier contrôle d'identité et de pureté"
+      ],
+      [
+        "Physicochimique qualitatif",
+        "UV, solubilité, colorations, précipitations, CCM, CPG, HPLC",
+        "Mise en évidence des PA"
+      ],
+      [
+        "Physicochimique quantitatif",
+        "Dosage de l'eau (< 10 %), des cendres, des PA",
+        "Activité / qualité"
+      ],
+      [
+        "Physiologique",
+        "Toxicité aiguë (DMM, DL50), chronique ; contrôle d'activité",
+        "Activité réelle"
+      ]
+    ]
+  },
+  {
+    "id": "pharmacognosie/01-generalites/tableau-004",
+    "type": "carte",
+    "titre": "Généralités sur la pharmacognosie",
+    "racine": {
+      "label": "Pharmacognosie",
+      "enfants": [
+        {
+          "label": "Historique",
+          "enfants": [
+            {
+              "label": "Sumériens, Égyptiens",
+              "enfants": []
+            },
+            {
+              "label": "Dioscoride (500 drogues)",
+              "enfants": []
+            },
+            {
+              "label": "Razès, Avicenne",
+              "enfants": []
+            },
+            {
+              "label": "Paracelse (signatures)",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Sources",
+          "enfants": [
+            {
+              "label": "Cueillette",
+              "enfants": []
+            },
+            {
+              "label": "Culture",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Récolte",
+          "enfants": [
+            {
+              "label": "Époque selon l'organe",
+              "enfants": []
+            },
+            {
+              "label": "Manuelle / mécanisée",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Conservation",
+          "enfants": [
+            {
+              "label": "Dessiccation",
+              "enfants": []
+            },
+            {
+              "label": "Stabilisation",
+              "enfants": []
+            },
+            {
+              "label": "Stockage",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Essais",
+          "enfants": [
+            {
+              "label": "Botanique",
+              "enfants": []
+            },
+            {
+              "label": "Physicochimique",
+              "enfants": []
+            },
+            {
+              "label": "Physiologique",
+              "enfants": []
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

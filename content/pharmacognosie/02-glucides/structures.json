@@ -1,0 +1,128 @@
+[
+  {
+    "id": "pharmacognosie/02-glucides/structure-001",
+    "nom": "Glycéraldéhyde",
+    "smiles": "OCC(O)C=O",
+    "classe": "Aldotriose",
+    "question": "Cet ose à 3 carbones porteur d'une fonction aldéhyde est :",
+    "options": [
+      "Un aldotriose",
+      "Un cétotriose",
+      "Un aldopentose",
+      "Un cétohexose",
+      "Un polyol"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Le glycéraldéhyde (3 C, fonction aldéhyde) est l'aldotriose cité dans le cours (stéréochimie non représentée)."
+  },
+  {
+    "id": "pharmacognosie/02-glucides/structure-002",
+    "nom": "Dihydroxyacétone",
+    "smiles": "OCC(=O)CO",
+    "classe": "Cétotriose",
+    "question": "Cette molécule à 3 carbones porteuse d'une fonction cétone est :",
+    "options": [
+      "Un aldotriose",
+      "Un cétotriose",
+      "Un cétotétrose",
+      "Un désoxy-sucre",
+      "Un acide uronique"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "La dihydroxyacétone est le cétotriose du cours ; elle ne possède pas de carbone asymétrique."
+  },
+  {
+    "id": "pharmacognosie/02-glucides/structure-003",
+    "nom": "Glucose (forme linéaire)",
+    "smiles": "OCC(O)C(O)C(O)C(O)C=O",
+    "classe": "Aldohexose",
+    "question": "Cet ose à 6 carbones porteur d'une fonction aldéhyde terminale est :",
+    "options": [
+      "Un aldohexose",
+      "Un cétohexose",
+      "Un aldopentose",
+      "Un polyol",
+      "Un diholoside"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "6 carbones + aldéhyde = aldohexose (glucose ; stéréochimie non représentée)."
+  },
+  {
+    "id": "pharmacognosie/02-glucides/structure-004",
+    "nom": "Fructose (forme linéaire)",
+    "smiles": "OCC(O)C(O)C(O)C(=O)CO",
+    "classe": "Cétohexose",
+    "question": "Cet ose à 6 carbones porteur d'une cétone en C2 est :",
+    "options": [
+      "Un aldohexose",
+      "Un cétohexose",
+      "Un cétopentose",
+      "Un itol",
+      "Un acide uronique"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "6 carbones + cétone = cétohexose (fructose ; stéréochimie non représentée)."
+  },
+  {
+    "id": "pharmacognosie/02-glucides/structure-005",
+    "nom": "Xylitol",
+    "smiles": "OCC(O)C(O)C(O)CO",
+    "classe": "Polyol (itol)",
+    "question": "Cette molécule à 5 carbones ne portant que des fonctions alcool appartient à la classe des :",
+    "options": [
+      "Polyols (itols)",
+      "Aldopentoses",
+      "Cétopentoses",
+      "Acides uroniques",
+      "Désoxy-sucres"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Le xylitol (E967) est un polyol : aucune fonction carbonyle, uniquement des hydroxyles."
+  },
+  {
+    "id": "pharmacognosie/02-glucides/structure-006",
+    "nom": "Sorbitol (glucitol)",
+    "smiles": "OCC(O)C(O)C(O)C(O)CO",
+    "classe": "Polyol (itol)",
+    "question": "Ce polyol à 6 carbones est obtenu industriellement par :",
+    "options": [
+      "Hydrogénation catalytique du D-glucose",
+      "Hydrolyse de l'inuline",
+      "Oxydation de l'alcool terminal du glucose",
+      "Hydrolyse de l'amidon par l'α-amylase",
+      "Fermentation par Leuconostoc"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "La réduction du carbonyle du glucose donne le sorbitol (stéréochimie non représentée ; le mannitol a la même formule plane)."
+  },
+  {
+    "id": "pharmacognosie/02-glucides/structure-007",
+    "nom": "Acide ascorbique (vitamine C)",
+    "smiles": "OCC(O)C1OC(=O)C(O)=C1O",
+    "classe": "Dérivé des itols (vitamine hydrosoluble)",
+    "question": "Cette molécule, dérivée des itols, est :",
+    "options": [
+      "La vitamine C",
+      "Le rhamnose",
+      "Le sorbitol",
+      "L'acide glycuronique",
+      "Le galactose"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "L'acide ascorbique (lactone ène-diol) est présenté dans le cours comme un dérivé des itols (stéréochimie non représentée)."
+  }
+]

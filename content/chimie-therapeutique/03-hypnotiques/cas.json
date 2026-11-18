@@ -1,0 +1,124 @@
+[
+  {
+    "id": "chimie-therapeutique/03-hypnotiques/cas-001",
+    "titre": "Insomnie chronique chez une patiente âgée",
+    "enonce": "Mme B., 68 ans, se plaint de difficultés d'endormissement et de réveils multiples, plus de 4 nuits par semaine depuis 6 mois. Elle redoute une perte de mémoire sous traitement.",
+    "questions": [
+      {
+        "id": "chimie-therapeutique/03-hypnotiques/cas-001-q1",
+        "type": "multiple",
+        "enonce": "Comment qualifier cette insomnie ?",
+        "options": [
+          "Aiguë",
+          "Chronique",
+          "Transitoire",
+          "Paradoxale",
+          "Physiologique"
+        ],
+        "correctes": [
+          1
+        ],
+        "explication": "L'insomnie est dite chronique si les troubles surviennent plus de 3 fois par semaine depuis plus de 3 mois.",
+        "origine": "genere"
+      },
+      {
+        "id": "chimie-therapeutique/03-hypnotiques/cas-001-q2",
+        "type": "multiple",
+        "enonce": "Quels risques des benzodiazépines hypnotiques à long terme faut-il lui expliquer ?",
+        "options": [
+          "Dépendance",
+          "Altération progressive des capacités de mémorisation",
+          "Altération des capacités d'apprentissage",
+          "Hypertension artérielle définitive",
+          "Risque de cécité"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "Les effets à plus long terme sont la dépendance et l'altération progressive de la mémorisation et de l'apprentissage.",
+        "origine": "genere"
+      },
+      {
+        "id": "chimie-therapeutique/03-hypnotiques/cas-001-q3",
+        "type": "multiple",
+        "enonce": "Quelles alternatives disponibles à l'officine le cours mentionne-t-il ?",
+        "options": [
+          "Doxylamine",
+          "Prométhazine",
+          "Valériane, passiflore, aubépine",
+          "Flunitrazépam",
+          "Nitrazépam"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "À l'officine : anti-H1 sans ordonnance (doxylamine, prométhazine) et plantes sédatives (valériane, passiflore, aubépine).",
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "chimie-therapeutique/03-hypnotiques/cas-002",
+    "titre": "Choix d'un hypnotique et structure",
+    "enonce": "Un étudiant compare deux benzodiazépines : la première porte un groupe NO2 en position 7, la seconde un atome de chlore en position 7.",
+    "questions": [
+      {
+        "id": "chimie-therapeutique/03-hypnotiques/cas-002-q1",
+        "type": "multiple",
+        "enonce": "Quelle orientation d'activité attend-on pour chacune ?",
+        "options": [
+          "NO2 en 7 : activité hypnotique",
+          "Cl en 7 : activité anxiolytique",
+          "NO2 en 7 : activité anxiolytique",
+          "Cl en 7 : activité hypnotique",
+          "Les deux ont la même activité"
+        ],
+        "correctes": [
+          0,
+          1
+        ],
+        "explication": "Selon la RSA : NO2 → hypnotique ; Cl → activité anxiolytique.",
+        "origine": "genere"
+      },
+      {
+        "id": "chimie-therapeutique/03-hypnotiques/cas-002-q2",
+        "type": "multiple",
+        "enonce": "Que se passerait-il si le substituant électroattracteur était déplacé en position 6, 8 ou 9 ?",
+        "options": [
+          "L'activité diminuerait",
+          "L'activité augmenterait",
+          "L'activité serait inchangée",
+          "La molécule deviendrait antagoniste",
+          "La molécule deviendrait myorelaxante"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "La fixation du substituant X sur une autre position que la 7 diminue l'activité.",
+        "origine": "genere"
+      },
+      {
+        "id": "chimie-therapeutique/03-hypnotiques/cas-002-q3",
+        "type": "multiple",
+        "enonce": "Quel est l'intérêt d'ajouter un cycle triazolé ou imidazolé fusionné ?",
+        "options": [
+          "Protection vis-à-vis de l'oxydation",
+          "Augmentation de l'activité",
+          "Perte de l'affinité pour le récepteur GABAA",
+          "Transformation en antagoniste",
+          "Diminution de la lipophilie"
+        ],
+        "correctes": [
+          0,
+          1
+        ],
+        "explication": "La fusion d'un cycle triazolé ou imidazolé protège de l'oxydation et augmente l'activité.",
+        "origine": "genere"
+      }
+    ]
+  }
+]

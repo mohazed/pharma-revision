@@ -1,0 +1,382 @@
+[
+  {
+    "terme": "Pharmacognosie",
+    "definition": "Étude des matières premières d'origine naturelle (végétale ou animale) ayant un intérêt médical ; du grec « pharmacon » et « gnosis ».",
+    "cours": "pharmacognosie/01-generalites"
+  },
+  {
+    "terme": "Drogue végétale",
+    "definition": "Tout matériel végétal utilisé en thérapeutique et n'ayant subi aucune préparation pharmaceutique (plante entière, partie de plante, suc).",
+    "cours": "pharmacognosie/01-generalites"
+  },
+  {
+    "terme": "Théorie des signatures",
+    "definition": "Doctrine attribuée à Paracelse selon laquelle l'aspect et la couleur d'une plante indiquent ses propriétés médicinales.",
+    "cours": "pharmacognosie/01-generalites"
+  },
+  {
+    "terme": "Plante de cueillette",
+    "definition": "Plante spontanée récoltée dans la nature ; dispersion géographique, croissance irrégulière, qualité inégale.",
+    "cours": "pharmacognosie/01-generalites"
+  },
+  {
+    "terme": "Criblage (screening)",
+    "definition": "Recherche systématique de plantes ou de substances d'intérêt thérapeutique.",
+    "cours": "pharmacognosie/01-generalites"
+  },
+  {
+    "terme": "Dessiccation",
+    "definition": "Abaissement de la teneur en eau d'une drogue pour empêcher les réactions enzymatiques et la prolifération microbienne, sans détruire les enzymes.",
+    "cours": "pharmacognosie/01-generalites"
+  },
+  {
+    "terme": "Stabilisation",
+    "definition": "Procédé de conservation qui dénature les enzymes (alcool ou chaleur) : Bourquelot, Perrot-Goris, Goris-Arnould.",
+    "cours": "pharmacognosie/01-generalites"
+  },
+  {
+    "terme": "Lyophilisation",
+    "definition": "Cryodessiccation : procédé de dessiccation à froid.",
+    "cours": "pharmacognosie/01-generalites"
+  },
+  {
+    "terme": "Essai botanique",
+    "definition": "Contrôle morphologique, organoleptique et microscopique d'une drogue ; premier contrôle d'identité et de pureté.",
+    "cours": "pharmacognosie/01-generalites"
+  },
+  {
+    "terme": "Dosage des cendres",
+    "definition": "Évaluation de la teneur en éléments minéraux d'une drogue végétale.",
+    "cours": "pharmacognosie/01-generalites"
+  },
+  {
+    "terme": "DL50",
+    "definition": "Dose létale 50 %, paramètre de toxicité aiguë déterminé lors de l'essai physiologique.",
+    "cours": "pharmacognosie/01-generalites"
+  },
+  {
+    "terme": "Glucides",
+    "definition": "Composés carbonylés polyhydroxylés (saccharides, hydrates de carbone) et leurs dérivés ; métabolites primaires universels.",
+    "cours": "pharmacognosie/02-glucides"
+  },
+  {
+    "terme": "Ose",
+    "definition": "Glucide simple non hydrolysable de formule Cn(H2O)n (n = 3 à 9), aldose ou cétose.",
+    "cours": "pharmacognosie/02-glucides"
+  },
+  {
+    "terme": "Holoside",
+    "definition": "Oside dont l'hydrolyse ne libère que des oses (homogène ou hétérogène).",
+    "cours": "pharmacognosie/02-glucides"
+  },
+  {
+    "terme": "Hétéroside",
+    "definition": "Oside formé d'un ose lié à une génine (aglycone) par un atome O, S, N ou C.",
+    "cours": "pharmacognosie/02-glucides"
+  },
+  {
+    "terme": "Génine (aglycone)",
+    "definition": "Partie non glucidique d'un hétéroside.",
+    "cours": "pharmacognosie/02-glucides"
+  },
+  {
+    "terme": "Acide uronique",
+    "definition": "Produit d'oxydation de la fonction alcool terminale d'un ose (ex. acide glycuronique).",
+    "cours": "pharmacognosie/02-glucides"
+  },
+  {
+    "terme": "Désoxy-sucre",
+    "definition": "Ose ayant perdu un oxygène par réduction (ex. rhamnose).",
+    "cours": "pharmacognosie/02-glucides"
+  },
+  {
+    "terme": "Itol (polyol)",
+    "definition": "Polyalcool issu de la réduction du carbonyle d'un ose (ex. sorbitol).",
+    "cours": "pharmacognosie/02-glucides"
+  },
+  {
+    "terme": "Liqueur de Fehling",
+    "definition": "Réactif cuivrique (Cu2+) bleu donnant à chaud un précipité rouge brique de Cu2O avec les sucres réducteurs.",
+    "cours": "pharmacognosie/02-glucides"
+  },
+  {
+    "terme": "Notatine",
+    "definition": "Glucose-oxydase spécifique du glucose, utilisée pour son dosage enzymatique.",
+    "cours": "pharmacognosie/02-glucides"
+  },
+  {
+    "terme": "Cyclodextrine",
+    "definition": "Oligosaccharide cyclique de glucoses α(1→4) (α 6, β 7, γ 8) formant des complexes d'inclusion.",
+    "cours": "pharmacognosie/02-glucides"
+  },
+  {
+    "terme": "Dextrane",
+    "definition": "Glucane α(1→6) d'origine bactérienne (Leuconostoc mesenteroides).",
+    "cours": "pharmacognosie/02-glucides"
+  },
+  {
+    "terme": "Egg-box",
+    "definition": "Modèle de gel d'alginate réticulé par des cations divalents, non thermoréversible.",
+    "cours": "pharmacognosie/02-glucides"
+  },
+  {
+    "terme": "Carraghénane",
+    "definition": "Polysaccharide sulfaté anionique d'algues rouges (galactose + 3,6-anhydrogalactose).",
+    "cours": "pharmacognosie/02-glucides"
+  },
+  {
+    "terme": "Agarose",
+    "definition": "Fraction neutre peu sulfatée de l'agar-agar responsable du pouvoir gélifiant.",
+    "cours": "pharmacognosie/02-glucides"
+  },
+  {
+    "terme": "Gélatinisation",
+    "definition": "Gonflement des grains d'amidon chauffés dans l'eau avec perte de l'organisation cristalline.",
+    "cours": "pharmacognosie/02-glucides"
+  },
+  {
+    "terme": "Empesage",
+    "definition": "Désorganisation des grains d'amidon avec libération d'amylose et formation d'une pâte visqueuse.",
+    "cours": "pharmacognosie/02-glucides"
+  },
+  {
+    "terme": "Gomme",
+    "definition": "Polysaccharide hétérogène exsudé après traumatisme, gonflant dans l'eau, insoluble dans les solvants organiques.",
+    "cours": "pharmacognosie/02-glucides"
+  },
+  {
+    "terme": "Mucilage",
+    "definition": "Polysaccharide hétérogène, constituant normal des plantes (surtout des graines), acide ou neutre.",
+    "cours": "pharmacognosie/02-glucides"
+  },
+  {
+    "terme": "Galactomannane",
+    "definition": "Mucilage neutre des légumineuses (caroube, guar).",
+    "cours": "pharmacognosie/02-glucides"
+  },
+  {
+    "terme": "Pectine",
+    "definition": "Polygalacturonane partiellement méthylé à coudes rhamnose, gélifiant.",
+    "cours": "pharmacognosie/02-glucides"
+  },
+  {
+    "terme": "Indice de gonflement",
+    "definition": "Mesure du volume occupé par une drogue gonflée dans l'eau, servant à identifier gommes et mucilages.",
+    "cours": "pharmacognosie/02-glucides"
+  },
+  {
+    "terme": "Lipide",
+    "definition": "Ester d'acide gras et d'un alcool ou polyol, hydrophobe, non volatil.",
+    "cours": "pharmacognosie/03-drogues-a-lipides"
+  },
+  {
+    "terme": "Triacylglycérol (TAG)",
+    "definition": "Glycéride formé par l'estérification des trois fonctions alcool du glycérol par des acides gras.",
+    "cours": "pharmacognosie/03-drogues-a-lipides"
+  },
+  {
+    "terme": "Céride",
+    "definition": "Monoester d'acide gras et d'alcool aliphatique primaire à longue chaîne, constituant des cires.",
+    "cours": "pharmacognosie/03-drogues-a-lipides"
+  },
+  {
+    "terme": "Stéride",
+    "definition": "Ester d'acide gras et de stérol, très rare chez les végétaux (ergostérol).",
+    "cours": "pharmacognosie/03-drogues-a-lipides"
+  },
+  {
+    "terme": "Lécithine",
+    "definition": "Phospholipide dont l'acide phosphorique estérifie la choline (phosphatidylcholine).",
+    "cours": "pharmacognosie/03-drogues-a-lipides"
+  },
+  {
+    "terme": "Céphaline",
+    "definition": "Phospholipide voisin des lécithines où la choline est remplacée par l'éthanolamine.",
+    "cours": "pharmacognosie/03-drogues-a-lipides"
+  },
+  {
+    "terme": "Oléosome",
+    "definition": "Inclusion huileuse de stockage des lipides, issue du réticulum endoplasmique.",
+    "cours": "pharmacognosie/03-drogues-a-lipides"
+  },
+  {
+    "terme": "Icosanoïdes",
+    "definition": "Composés à caractère lipidique dérivés de l'acide arachidonique.",
+    "cours": "pharmacognosie/03-drogues-a-lipides"
+  },
+  {
+    "terme": "Rancissement",
+    "definition": "Altération oxydative des corps gras donnant peroxydes, aldéhydes et mauvaise odeur.",
+    "cours": "pharmacognosie/03-drogues-a-lipides"
+  },
+  {
+    "terme": "Siccativation",
+    "definition": "Durcissement des huiles insaturées par oxydation à l'air.",
+    "cours": "pharmacognosie/03-drogues-a-lipides"
+  },
+  {
+    "terme": "Miscella",
+    "definition": "Solution d'huile dans le solvant obtenue lors de l'extraction par solvant.",
+    "cours": "pharmacognosie/03-drogues-a-lipides"
+  },
+  {
+    "terme": "Démucilagination",
+    "definition": "Dégommage : élimination des lécithines, protéines et constituants colloïdaux de l'huile brute.",
+    "cours": "pharmacognosie/03-drogues-a-lipides"
+  },
+  {
+    "terme": "Indice d'acide",
+    "definition": "mg de KOH nécessaires pour neutraliser l'acidité libre d'1 g de matière grasse.",
+    "cours": "pharmacognosie/03-drogues-a-lipides"
+  },
+  {
+    "terme": "Indice de saponification",
+    "definition": "mg de KOH nécessaires pour saponifier 1 g de corps gras.",
+    "cours": "pharmacognosie/03-drogues-a-lipides"
+  },
+  {
+    "terme": "Indice d'iode",
+    "definition": "g d'iode fixés par 100 g de corps gras ; mesure de l'insaturation.",
+    "cours": "pharmacognosie/03-drogues-a-lipides"
+  },
+  {
+    "terme": "Indice de peroxyde",
+    "definition": "Quantité d'oxygène fixée par 1 g de corps gras ; marqueur précoce du rancissement.",
+    "cours": "pharmacognosie/03-drogues-a-lipides"
+  },
+  {
+    "terme": "Insaponifiable",
+    "definition": "Fraction non volatile à 100–105 °C extraite par solvant organique après saponification.",
+    "cours": "pharmacognosie/03-drogues-a-lipides"
+  },
+  {
+    "terme": "Amygdaloside",
+    "definition": "Hétéroside cyanogène (gentiobioside du mandélonitrile) de l'amande amère.",
+    "cours": "pharmacognosie/03-drogues-a-lipides"
+  },
+  {
+    "terme": "Coprah",
+    "definition": "Partie solide de l'albumen de la noix de coco, riche en lipides (65 %).",
+    "cours": "pharmacognosie/03-drogues-a-lipides"
+  },
+  {
+    "terme": "Aromagénèse",
+    "definition": "Ensemble des voies de biosynthèse des noyaux aromatiques (shikimate, acétate, voie mixte).",
+    "cours": "pharmacognosie/04-composes-phenoliques"
+  },
+  {
+    "terme": "Composé phénolique",
+    "definition": "Molécule possédant au moins un noyau aromatique porteur d'une fonction hydroxyle.",
+    "cours": "pharmacognosie/04-composes-phenoliques"
+  },
+  {
+    "terme": "Polyphénol",
+    "definition": "Composé phénolique comportant plusieurs fonctions phénoliques.",
+    "cours": "pharmacognosie/04-composes-phenoliques"
+  },
+  {
+    "terme": "Voie du shikimate",
+    "definition": "Voie de biosynthèse partant du PEP et de l'érythrose 4-phosphate, aboutissant aux acides aminés aromatiques et aux phénylpropanoïdes.",
+    "cours": "pharmacognosie/04-composes-phenoliques"
+  },
+  {
+    "terme": "PAL",
+    "definition": "Phénylalanine ammonia-lyase : enzyme transformant la phénylalanine en acide cinnamique.",
+    "cours": "pharmacognosie/04-composes-phenoliques"
+  },
+  {
+    "terme": "Phénylpropanoïde",
+    "definition": "Unité C6–C3 dérivée de la voie du shikimate (acides hydroxycinnamiques, monolignols).",
+    "cours": "pharmacognosie/04-composes-phenoliques"
+  },
+  {
+    "terme": "Coumarine",
+    "definition": "Composé phénolique à squelette benzopyrone (benzène fusionné à une lactone α-pyrone).",
+    "cours": "pharmacognosie/04-composes-phenoliques"
+  },
+  {
+    "terme": "Lignane",
+    "definition": "Dimère (C6–C3)2 de deux unités phénylpropanoïdes.",
+    "cours": "pharmacognosie/04-composes-phenoliques"
+  },
+  {
+    "terme": "Lignine",
+    "definition": "Polymère phénolique (C6–C3)n de la paroi secondaire, formé par polymérisation oxydative des monolignols.",
+    "cours": "pharmacognosie/04-composes-phenoliques"
+  },
+  {
+    "terme": "Stilbène",
+    "definition": "Composé C6–C2–C6 à deux noyaux reliés par une chaîne de deux carbones (ex. resvératrol).",
+    "cours": "pharmacognosie/04-composes-phenoliques"
+  },
+  {
+    "terme": "Flavonoïde",
+    "definition": "Composé C6–C3–C6 à deux noyaux A et B reliés par un hétérocycle oxygéné C.",
+    "cours": "pharmacognosie/04-composes-phenoliques"
+  },
+  {
+    "terme": "Tanin",
+    "definition": "Composé phénolique capable de précipiter les protéines ; hydrolysable ou condensé.",
+    "cours": "pharmacognosie/04-composes-phenoliques"
+  },
+  {
+    "terme": "Proanthocyanidine",
+    "definition": "Tanin condensé (catéchique), oligomère ou polymère de flavanols.",
+    "cours": "pharmacognosie/04-composes-phenoliques"
+  },
+  {
+    "terme": "Phénolate",
+    "definition": "Ion Ar–O⁻ formé par déprotonation d'un phénol en présence d'une base forte.",
+    "cours": "pharmacognosie/04-composes-phenoliques"
+  },
+  {
+    "terme": "Folin-Ciocalteu",
+    "definition": "Méthode spectrophotométrique de dosage des polyphénols totaux.",
+    "cours": "pharmacognosie/04-composes-phenoliques"
+  },
+  {
+    "terme": "Arbutoside (arbutine)",
+    "definition": "Hétéroside phénolique de la busserole, métabolisé en hydroquinone antibactérienne urinaire.",
+    "cours": "pharmacognosie/04-composes-phenoliques"
+  },
+  {
+    "terme": "Ochronose exogène",
+    "definition": "Pigmentation cutanée pouvant survenir lors d'une utilisation prolongée d'hydroquinone.",
+    "cours": "pharmacognosie/04-composes-phenoliques"
+  },
+  {
+    "terme": "Salicine (salicoside)",
+    "definition": "Hétéroside salicylé de l'écorce de saule servant à exprimer sa teneur en dérivés salicylés.",
+    "cours": "pharmacognosie/04-composes-phenoliques"
+  },
+  {
+    "terme": "Cynarine",
+    "definition": "Acide dicaféoylquinique de la feuille d'artichaut.",
+    "cours": "pharmacognosie/04-composes-phenoliques"
+  },
+  {
+    "terme": "Alcoolature",
+    "definition": "Préparation liquide obtenue par macération de plantes fraîches dans l'alcool.",
+    "cours": "pharmacognosie/td/01-introduction-extraction"
+  },
+  {
+    "terme": "Teinture alcoolique",
+    "definition": "Préparation obtenue par macération de plantes sèches dans un solvant approprié, notamment l'alcool.",
+    "cours": "pharmacognosie/td/01-introduction-extraction"
+  },
+  {
+    "terme": "Suc végétal",
+    "definition": "Produit liquide obtenu par expression ou extraction des tissus végétaux frais.",
+    "cours": "pharmacognosie/td/01-introduction-extraction"
+  },
+  {
+    "terme": "Approche ethnopharmacologique",
+    "definition": "Stratégie de découverte fondée sur les usages traditionnels des plantes.",
+    "cours": "pharmacognosie/td/01-introduction-extraction"
+  },
+  {
+    "terme": "Approche chimiotaxonomique",
+    "definition": "Stratégie de découverte fondée sur la recherche de constituants communs chez des espèces apparentées.",
+    "cours": "pharmacognosie/td/01-introduction-extraction"
+  }
+]

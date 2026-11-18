@@ -1,0 +1,13 @@
+---
+import Base from "../layouts/Base.astro";
+import EnTete from "../components/EnTete.astro";
+import CarnetErreurs from "../islands/CarnetErreurs";
+import { getIndex } from "../lib/content";
+const index = getIndex();
+---
+<Base titre="Carnet d'erreurs" description="Toutes les questions ratées, regroupées par cours, à refaire jusqu'à les réussir." etroit>
+  <EnTete surtitre="Mes erreurs" titre="Carnet d'erreurs" sousTitre="Les questions ratées ou incomplètes. Une question quitte le carnet dès que vous la réussissez parfaitement." />
+  <CarnetErreurs client:only="react" index={index}>
+    <p slot="fallback" class="text-ink-muted">Chargement…</p>
+  </CarnetErreurs>
+</Base>

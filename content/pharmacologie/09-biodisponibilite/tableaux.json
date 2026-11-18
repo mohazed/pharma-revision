@@ -1,0 +1,140 @@
+[
+  {
+    "id": "pharmacologie/09-biodisponibilite/tab-001",
+    "titre": "Biodisponibilité absolue vs relative",
+    "colonnes": [
+      "Critère",
+      "Absolue",
+      "Relative"
+    ],
+    "lignes": [
+      [
+        "Référence",
+        "Solution injectable IV (F = 1)",
+        "Forme pharmaceutique de référence"
+      ],
+      [
+        "Formule",
+        "F = ASC orale/ASC IV (× dose IV/dose orale)",
+        "BR = ASC forme 1/ASC réf × 100"
+      ],
+      [
+        "Expression",
+        "Fraction F (ou %)",
+        "%"
+      ],
+      [
+        "Évaluation",
+        "F proche de 1 ; limite inférieure 0,75",
+        "AUC + égalité Cmax et Tmax + temps de latence"
+      ],
+      [
+        "Indications / intérêt",
+        "Nouveau médicament : intérêt d'une voie, choix de la forme, rendement absolu",
+        "Changement de formulation, nouvelle forme, générique ; comparaison de voies, bioéquivalence"
+      ],
+      [
+        "Limite",
+        "Impossible si pas de solution IV possible",
+        "—"
+      ]
+    ]
+  },
+  {
+    "id": "pharmacologie/09-biodisponibilite/tab-002",
+    "titre": "Paramètres de biodisponibilité",
+    "colonnes": [
+      "Paramètre",
+      "Aspect",
+      "Remarque"
+    ],
+    "lignes": [
+      [
+        "AUC (SSC)",
+        "Quantitatif",
+        "Le plus important ; proportionnel à la quantité dans la circulation générale"
+      ],
+      [
+        "Cmax",
+        "Quantitatif et cinétique",
+        "Influencée par la quantité absorbée et la vitesse"
+      ],
+      [
+        "Tmax",
+        "Cinétique",
+        "Inversement proportionnel à la vitesse"
+      ],
+      [
+        "Ka",
+        "Cinétique",
+        "Constante de vitesse d'absorption"
+      ]
+    ]
+  },
+  {
+    "id": "pharmacologie/09-biodisponibilite/carte-003",
+    "type": "carte",
+    "titre": "La biodisponibilité",
+    "racine": {
+      "label": "Biodisponibilité",
+      "enfants": [
+        {
+          "label": "Définition",
+          "enfants": [
+            {
+              "label": "Quantité absorbée (%)",
+              "enfants": []
+            },
+            {
+              "label": "Vitesse d'absorption",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Détermination",
+          "enfants": [
+            {
+              "label": "In vivo, phase I, volontaires sains",
+              "enfants": []
+            },
+            {
+              "label": "Dose unique, suivi 3–5 T1/2",
+              "enfants": []
+            },
+            {
+              "label": "AUC, Cmax / Ka, Tmax, Cmax",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Absolue",
+          "enfants": [
+            {
+              "label": "Réf. IV ; F = ASC orale/ASC IV",
+              "enfants": []
+            },
+            {
+              "label": "Limite 0,75",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Relative",
+          "enfants": [
+            {
+              "label": "Réf. forme ; BR = ASC1/ASCréf × 100",
+              "enfants": []
+            },
+            {
+              "label": "Générique, nouvelle forme, formulation",
+              "enfants": []
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

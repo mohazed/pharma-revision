@@ -1,0 +1,69 @@
+{
+  "id": "pharmacie-galenique/09-granulation/fiche",
+  "titre": "La granulation",
+  "sections": [
+    {
+      "titre": "Généralités",
+      "points": [
+        "Fines particules → **agrégats solides, denses, résistants et poreux**.",
+        "Intermédiaire (comprimés, gélules) ou forme finale (sachets, poudre pour suspension buvable).",
+        "Intérêts : écoulement, homogénéité, compression, densification, moins de poussières, mouillabilité.",
+        "4 familles : **voie humide** (la plus utilisée), **voie sèche** (ni liquide ni chaleur), **fusion** (PEG, cires), **atomisation** (grains sphériques)."
+      ]
+    },
+    {
+      "titre": "Cohésion et formation",
+      "points": [
+        "Ponts **liquides** (granulé humide) → ponts **solides** (granulé sec : séchage d'un liant, recristallisation, fusion).",
+        "Van der Waals/électrostatiques : poudres fines ; emboîtement mécanique : voie sèche.",
+        "États du liquide : pendulaire → funiculaire → **capillaire (recherché)** → goutte (surmouillage).",
+        "Phases : nucléation → transition → grossissement ; excès de liant/temps = **sur-granulation**."
+      ]
+    },
+    {
+      "titre": "Voie humide",
+      "points": [
+        "7 étapes : mélange, mouillage, granulation, séchage, calibrage, phase externe, compression.",
+        "Mouillage : solvant seul ou liquide agglutinant ; optimiser quantité, temps, débit.",
+        "Liants : amidon (empois), **PVP 0,5–5 %**, HPMC/HPC (peu friables), gélatine (durs), saccharose/gomme (désagrégation lente). Liant trop fort = désagrégation ralentie.",
+        "Appareils : oscillant (le plus utilisé, grains poreux), rotatif (vermicelles), **haut cisaillement** (pale + couteau, rapide, dense, sur-granulation), **mono-pot** (4 étapes, coûteux), **lit fluidisé**, extrusion.",
+        "Point final : **test de la boule**, couple/puissance moteur.",
+        "Séchage : humidité **1–3 %** (perte à la dessiccation) ; risques : migration des solutés, sur-séchage, dégradation.",
+        "Lubrifiant (stéarate de Mg) **en dernier, mélange court**."
+      ]
+    },
+    {
+      "titre": "Voie sèche et autres",
+      "points": [
+        "Compactage à rouleaux (ruban) ou double compression (briquettes/slugging) ; fines recyclées.",
+        "Indiquée pour PA sensibles à l'eau ou à la chaleur.",
+        "Compression directe : pas une granulation, risque de ségrégation.",
+        "Extrusion-sphéronisation (pellets, libération modifiée) ; granulation en continu (extrudeuse bi-vis)."
+      ]
+    },
+    {
+      "titre": "Contrôles",
+      "points": [
+        "Granulométrie (2.9.38), masses volumiques (2.9.34), écoulement (2.9.16, 2.9.36), friabilité (2.9.41), teneur en eau (2.2.32), dosage.",
+        "Écoulement : 100 g, **t < 10 s**.",
+        "Tassement : 250 mL, 100 g, V0–V1250.",
+        "**tg α = h/r** ; **H = ρt/ρa** ; **IC = 100(ρt − ρa)/ρt** ; H > 1,25 = difficile."
+      ]
+    }
+  ],
+  "aRetenir": [
+    "État capillaire = cohésion maximale.",
+    "PVP : 0,5 à 5 %.",
+    "Humidité résiduelle : 1 à 3 %.",
+    "Écoulement : t < 10 s ; H > 1,25 = difficile ; IC ≤ 10 % = excellent.",
+    "Exercice type : PVP 2 % de 2 kg = 40 g ; solution 10 % = 400 g ; eau = 360 g."
+  ],
+  "pieges": [
+    "Carr : on divise par ρ TASSÉE.",
+    "Saccharose/gomme arabique : désagrégation LENTE.",
+    "Oscillant = grains POREUX ; rotatif = MOINS poreux (vermicelles).",
+    "Plus d'étapes regroupées = MOINS de transferts.",
+    "Si t > 10 s : ajouter un LUBRIFIANT d'écoulement (pas un liant).",
+    "La compression directe n'est PAS une granulation."
+  ]
+}

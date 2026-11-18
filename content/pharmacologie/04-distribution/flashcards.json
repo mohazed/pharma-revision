@@ -1,0 +1,356 @@
+[
+  {
+    "id": "pharmacologie/04-distribution/flashcard-001",
+    "recto": "Définition de la distribution",
+    "verso": "Processus de répartition du médicament dans l'ensemble des tissus et organes.",
+    "tags": [
+      "définition"
+    ]
+  },
+  {
+    "id": "pharmacologie/04-distribution/flashcard-002",
+    "recto": "Quelles sont les deux phases de la distribution ?",
+    "verso": "Phase plasmatique (transport sanguin) et phase tissulaire (diffusion tissulaire).",
+    "tags": [
+      "phases"
+    ]
+  },
+  {
+    "id": "pharmacologie/04-distribution/flashcard-003",
+    "recto": "Nature de la fixation des médicaments aux protéines plasmatiques ?",
+    "verso": "Phénomène réversible répondant à la loi d'action de masse.",
+    "tags": [
+      "fixation protéique"
+    ]
+  },
+  {
+    "id": "pharmacologie/04-distribution/flashcard-004",
+    "recto": "De quoi dépend la fixation aux protéines plasmatiques ?",
+    "verso": "De la concentration de la protéine liante et de l'affinité du médicament pour cette protéine (et des caractéristiques acido-basiques du médicament).",
+    "tags": [
+      "fixation protéique"
+    ]
+  },
+  {
+    "id": "pharmacologie/04-distribution/flashcard-005",
+    "recto": "Quelle fraction est diffusible, active et éliminable ?",
+    "verso": "Seule la fraction libre.",
+    "tags": [
+      "fraction libre"
+    ]
+  },
+  {
+    "id": "pharmacologie/04-distribution/flashcard-006",
+    "recto": "Rôle de la forme liée ?",
+    "verso": "Forme de transport et de réserve transitoire, inactive pharmacologiquement, ne diffusant pas.",
+    "tags": [
+      "fraction liée"
+    ]
+  },
+  {
+    "id": "pharmacologie/04-distribution/flashcard-007",
+    "recto": "Pourquoi l'inactivité de la forme liée n'est-elle que temporaire ?",
+    "verso": "Formes liée et libre sont en équilibre réversible : quand la forme libre disparaît (diffusion ou élimination), la forme liée passe vers la forme libre.",
+    "tags": [
+      "équilibre"
+    ]
+  },
+  {
+    "id": "pharmacologie/04-distribution/flashcard-008",
+    "recto": "Types de liaisons médicament-protéine plasmatique ?",
+    "verso": "Van Der Waals, ioniques, hydrogènes ; covalentes (en général irréversibles) : rares.",
+    "tags": [
+      "liaisons"
+    ]
+  },
+  {
+    "id": "pharmacologie/04-distribution/flashcard-009",
+    "recto": "Comment s'exprime l'affinité d'un médicament pour une protéine ?",
+    "verso": "Par la constante d'affinité ou d'association Ka : plus Ka est élevé, plus la liaison est stable.",
+    "tags": [
+      "Ka"
+    ]
+  },
+  {
+    "id": "pharmacologie/04-distribution/flashcard-010",
+    "recto": "Sites spécifiques sur l'albumine cités dans le cours ?",
+    "verso": "Site pour le diazépam, site pour la warfarine, site pour la digitoxine.",
+    "tags": [
+      "albumine"
+    ]
+  },
+  {
+    "id": "pharmacologie/04-distribution/flashcard-011",
+    "recto": "Classement des médicaments selon le pourcentage de fixation ?",
+    "verso": "Fortement fixés, moyennement fixés, faiblement fixés.",
+    "tags": [
+      "pourcentage de fixation"
+    ]
+  },
+  {
+    "id": "pharmacologie/04-distribution/flashcard-012",
+    "recto": "Protéines plasmatiques fixant les médicaments ?",
+    "verso": "Albumine, α1 glycoprotéine acide, globulines (α, β, γ), lipoprotéines (HDL, LDL, VLDL).",
+    "tags": [
+      "protéines"
+    ]
+  },
+  {
+    "id": "pharmacologie/04-distribution/flashcard-013",
+    "recto": "Les deux principales protéines de fixation des médicaments ?",
+    "verso": "L'albumine et l'α1 glycoprotéine acide.",
+    "tags": [
+      "albumine",
+      "AGP"
+    ]
+  },
+  {
+    "id": "pharmacologie/04-distribution/flashcard-014",
+    "recto": "Facteurs influençant la fixation protéique ?",
+    "verso": "pH sanguin, concentration/saturation, nature du médicament, substances endogènes, interactions médicamenteuses, facteurs pathologiques et physiologiques.",
+    "tags": [
+      "facteurs"
+    ]
+  },
+  {
+    "id": "pharmacologie/04-distribution/flashcard-015",
+    "recto": "Effet de l'acidose métabolique sur la fixation ?",
+    "verso": "Altération possible de l'affinité médicament-protéine par modification de conformation de la protéine (fixation des protons).",
+    "tags": [
+      "pH"
+    ]
+  },
+  {
+    "id": "pharmacologie/04-distribution/flashcard-016",
+    "recto": "Conditions de saturation des sites de fixation ?",
+    "verso": "Nombre de sites restreint et concentration molaire de la protéine liante égale à celle du médicament.",
+    "tags": [
+      "saturation"
+    ]
+  },
+  {
+    "id": "pharmacologie/04-distribution/flashcard-017",
+    "recto": "Substances endogènes diminuant la fixation protéique des médicaments ?",
+    "verso": "Acides gras libres et bilirubine.",
+    "tags": [
+      "substances endogènes"
+    ]
+  },
+  {
+    "id": "pharmacologie/04-distribution/flashcard-018",
+    "recto": "Le déplacement d'un médicament lié à l'albumine a-t-il toujours des conséquences cliniques ?",
+    "verso": "Non, seulement dans quelques cas particuliers.",
+    "tags": [
+      "interactions"
+    ]
+  },
+  {
+    "id": "pharmacologie/04-distribution/flashcard-019",
+    "recto": "Trois conditions majorant le risque d'interaction par déplacement protéique ?",
+    "verso": "Fixation > 90 %, volume de distribution faible (< 0,14 l/kg), index thérapeutique étroit.",
+    "tags": [
+      "interactions"
+    ]
+  },
+  {
+    "id": "pharmacologie/04-distribution/flashcard-020",
+    "recto": "Seuil de Vd « faible » cité dans le cours ?",
+    "verso": "< 0,14 l/kg.",
+    "tags": [
+      "Vd"
+    ]
+  },
+  {
+    "id": "pharmacologie/04-distribution/flashcard-021",
+    "recto": "Modifications de la fixation chez le nouveau-né ?",
+    "verso": "Modification structurale de l'albumine + augmentation de la bilirubine et des acides gras.",
+    "tags": [
+      "nouveau-né"
+    ]
+  },
+  {
+    "id": "pharmacologie/04-distribution/flashcard-022",
+    "recto": "Personne âgée et fixation protéique ?",
+    "verso": "Hypoalbuminémie.",
+    "tags": [
+      "sujet âgé"
+    ]
+  },
+  {
+    "id": "pharmacologie/04-distribution/flashcard-023",
+    "recto": "Grossesse et fixation protéique ?",
+    "verso": "Hypoalbuminémie de dilution.",
+    "tags": [
+      "grossesse"
+    ]
+  },
+  {
+    "id": "pharmacologie/04-distribution/flashcard-024",
+    "recto": "Paramètres pharmacocinétiques modifiés par une variation de fixation protéique ?",
+    "verso": "Volume de distribution (Vd) et temps de demi-vie d'élimination (T1/2).",
+    "tags": [
+      "pharmacocinétique"
+    ]
+  },
+  {
+    "id": "pharmacologie/04-distribution/flashcard-025",
+    "recto": "Médicaments dont l'effet thérapeutique est sensible aux variations de fixation ?",
+    "verso": "Forte liaison aux protéines plasmatiques, Vd faible, index thérapeutique étroit.",
+    "tags": [
+      "thérapeutique"
+    ]
+  },
+  {
+    "id": "pharmacologie/04-distribution/flashcard-026",
+    "recto": "Éléments figurés du sang impliqués dans le transport des médicaments ?",
+    "verso": "Les hématies ; les leucocytes n'interviennent pas.",
+    "tags": [
+      "éléments figurés"
+    ]
+  },
+  {
+    "id": "pharmacologie/04-distribution/flashcard-027",
+    "recto": "Pourquoi la cyclosporine est-elle dosée sur le sang total ?",
+    "verso": "Elle se fixe sur les éléments figurés : ses paramètres doivent être exprimés en données sanguines et non plasmatiques.",
+    "tags": [
+      "cyclosporine"
+    ]
+  },
+  {
+    "id": "pharmacologie/04-distribution/flashcard-028",
+    "recto": "Passages réversibles vs irréversibles de la diffusion tissulaire ?",
+    "verso": "Réversibles : lieux d'action et de stockage. Irréversibles : lieux de transformation et d'élimination.",
+    "tags": [
+      "diffusion tissulaire"
+    ]
+  },
+  {
+    "id": "pharmacologie/04-distribution/flashcard-029",
+    "recto": "Mode de passage des molécules liposolubles non ionisées à travers les membranes ?",
+    "verso": "Diffusion passive.",
+    "tags": [
+      "diffusion passive"
+    ]
+  },
+  {
+    "id": "pharmacologie/04-distribution/flashcard-030",
+    "recto": "Mode de passage des molécules hydrophiles ?",
+    "verso": "Transporteurs spécifiques (si affinité élevée) : transport actif ou diffusion facilitée.",
+    "tags": [
+      "transporteurs"
+    ]
+  },
+  {
+    "id": "pharmacologie/04-distribution/flashcard-031",
+    "recto": "Relation entre irrigation et distribution tissulaire ?",
+    "verso": "Corrélation entre vitesse d'irrigation et vitesse de distribution ; l'irrigation est un facteur limitant.",
+    "tags": [
+      "irrigation"
+    ]
+  },
+  {
+    "id": "pharmacologie/04-distribution/flashcard-032",
+    "recto": "Tissus richement vascularisés ?",
+    "verso": "Cœur, poumons, foie, reins, cerveau, glandes endocrines.",
+    "tags": [
+      "vascularisation"
+    ]
+  },
+  {
+    "id": "pharmacologie/04-distribution/flashcard-033",
+    "recto": "Tissus moyennement vascularisés ?",
+    "verso": "Peau, muscles.",
+    "tags": [
+      "vascularisation"
+    ]
+  },
+  {
+    "id": "pharmacologie/04-distribution/flashcard-034",
+    "recto": "Tissus peu vascularisés ?",
+    "verso": "Moelle, tissu adipeux.",
+    "tags": [
+      "vascularisation"
+    ]
+  },
+  {
+    "id": "pharmacologie/04-distribution/flashcard-035",
+    "recto": "Tissus très peu vascularisés ?",
+    "verso": "Os, dents, tendons, ligaments, cartilages, phanères.",
+    "tags": [
+      "vascularisation"
+    ]
+  },
+  {
+    "id": "pharmacologie/04-distribution/flashcard-036",
+    "recto": "Influence du volume d'un tissu ?",
+    "verso": "Plus un tissu est volumineux, plus la quantité totale de médicament qu'il contient est élevée.",
+    "tags": [
+      "volume tissulaire"
+    ]
+  },
+  {
+    "id": "pharmacologie/04-distribution/flashcard-037",
+    "recto": "Deux explications de l'affinité particulière des organes ?",
+    "verso": "Tropisme vers le site d'action (ex. anti-inflammatoires vers l'inflammation) ; activité métabolique (foie) et excrétrice (rein).",
+    "tags": [
+      "affinité tissulaire"
+    ]
+  },
+  {
+    "id": "pharmacologie/04-distribution/flashcard-038",
+    "recto": "Quatre conditions d'une bonne distribution ?",
+    "verso": "Faible fixation plasmatique, forte affinité tissulaire, liposolubilité importante, bonne irrigation.",
+    "tags": [
+      "résumé"
+    ]
+  },
+  {
+    "id": "pharmacologie/04-distribution/flashcard-039",
+    "recto": "Structure des capillaires de la barrière hémato-encéphalique ?",
+    "verso": "Cellules endothéliales très serrées ; seuls les PA liposolubles non ionisés passent.",
+    "tags": [
+      "BHE"
+    ]
+  },
+  {
+    "id": "pharmacologie/04-distribution/flashcard-040",
+    "recto": "Deux phénomènes limitant le passage à travers la BHE ?",
+    "verso": "Phénomènes enzymatiques dégradant certaines substances ; système de la P-glycoprotéine (pompe rejetant notamment les anticancéreux dans les capillaires).",
+    "tags": [
+      "BHE",
+      "PGP"
+    ]
+  },
+  {
+    "id": "pharmacologie/04-distribution/flashcard-041",
+    "recto": "Situations où la perméabilité de la barrière hémato-méningée est accrue ?",
+    "verso": "Physiologiquement à la naissance (ictère nucléaire par passage de bilirubine) ; pathologiquement en cas de méningite.",
+    "tags": [
+      "BHE"
+    ]
+  },
+  {
+    "id": "pharmacologie/04-distribution/flashcard-042",
+    "recto": "Mécanismes du passage transplacentaire ?",
+    "verso": "Diffusion passive (molécules lipophiles de faible poids moléculaire) ; transport actif (acides aminés, électrolytes).",
+    "tags": [
+      "placenta"
+    ]
+  },
+  {
+    "id": "pharmacologie/04-distribution/flashcard-043",
+    "recto": "Conséquences du passage transplacentaire ?",
+    "verso": "Risque de malformation congénitale (effet tératogène) et risque d'intoxication du nouveau-né à la naissance.",
+    "tags": [
+      "placenta"
+    ]
+  },
+  {
+    "id": "pharmacologie/04-distribution/flashcard-044",
+    "recto": "Phénomène de redistribution ?",
+    "verso": "Pour certains médicaments liposolubles, distribution rapide et intense dans des organes à fort débit → inversion du gradient (tissu > plasma) → retour vers le plasma.",
+    "tags": [
+      "redistribution"
+    ]
+  }
+]

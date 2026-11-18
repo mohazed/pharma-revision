@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/mnemo-001",
+    "titre": "Classification de Delay et Deniker",
+    "moyen": "« LEPTIQUES abaissent, ANALEPTIQUES stimulent, ISOLEPTIQUES régulent, DYSLEPTIQUES dévient »",
+    "explication": "Les quatre groupes de psychotropes selon leur effet sur le tonus psychologique."
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/mnemo-002",
+    "titre": "Substituant en position 7",
+    "moyen": "« Nitré → Nuit (hypnotique) ; Halogéné → Humeur (anxiolytique) »",
+    "explication": "Les 7-nitrés (nitrazépam, flunitrazépam) sont hypnotiques, le clonazépam antiépileptique ; les 7-halogénés sont anxiolytiques."
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/mnemo-003",
+    "titre": "Effets des benzodiazépines",
+    "moyen": "« A-S-A-A-M » : Anxiolytique, Sédatif/hypnotique, Anesthésique, Anticonvulsivant, Myorelaxant",
+    "explication": "Les cinq propriétés pharmacologiques communes des BZD."
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/mnemo-004",
+    "titre": "Halogène en ortho du cycle C",
+    "moyen": "« F avant Cl avant H »",
+    "explication": "La substitution en ortho du cycle C améliore l'activité dans l'ordre F > Cl > H."
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/mnemo-005",
+    "titre": "Étapes de la synthèse du diazépam",
+    "moyen": "« HCl, HBr, H2O, CH3I »",
+    "explication": "Acylation (–HCl), amination (–HBr), cyclisation (–H2O) puis méthylation par l'iodure de méthyle."
+  }
+]

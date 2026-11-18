@@ -1,0 +1,182 @@
+[
+  {
+    "id": "pharmacie-galenique/01-generalites/flashcard-001",
+    "recto": "Définition de la pharmacie galénique",
+    "verso": "Science pharmaceutique qui étudie la mise en forme des principes actifs en médicaments administrables et efficaces, en associant des excipients adaptés.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/01-generalites/flashcard-002",
+    "recto": "Origine du qualificatif « galénique »",
+    "verso": "Claudius Galenus (Claude Galien), médecin grec qui s'est intéressé à la formulation du médicament : père de la galénique.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/01-generalites/flashcard-003",
+    "recto": "Définition d'une matière première (MP)",
+    "verso": "Toute substance (chimique, végétale, animale, minérale ou biotechnologique) entrant dans la composition d'un médicament et n'ayant pas encore subi toutes les étapes de fabrication galénique.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/01-generalites/flashcard-004",
+    "recto": "Deux grandes catégories de MP",
+    "verso": "Principes actifs (API) et excipients.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/01-generalites/flashcard-005",
+    "recto": "Rôles des excipients (généralités)",
+    "verso": "Assurer la forme galénique, la stabilité, la conservation et la biodisponibilité ; ils sont inactifs pharmacologiquement.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/01-generalites/flashcard-006",
+    "recto": "PA d'origine minérale (exemples)",
+    "verso": "Carbonate de calcium (supplémentation calcique, antiacide) ; carbonate de lithium (troubles bipolaires).",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/01-generalites/flashcard-007",
+    "recto": "PA d'origine animale (exemples)",
+    "verso": "Insuline porcine ou bovine (aujourd'hui majoritairement recombinante) ; héparine (intestin de porc).",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/01-generalites/flashcard-008",
+    "recto": "PA d'origine végétale (exemples)",
+    "verso": "Morphine (pavot, Papaver somniferum) ; digoxine (digitale, Digitalis lanata).",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/01-generalites/flashcard-009",
+    "recto": "PA d'origine biotechnologique (exemples)",
+    "verso": "Insuline recombinante humaine (E. coli ou levures), anticorps monoclonaux (trastuzumab, adalimumab), vaccin recombinant anti-hépatite B.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/01-generalites/flashcard-010",
+    "recto": "Définition du médicament",
+    "verso": "Toute substance ou composition présentée comme possédant des propriétés curatives ou préventives à l'égard des maladies humaines ou animales, ou administrée pour établir un diagnostic ou restaurer, corriger, modifier les fonctions organiques.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/01-generalites/flashcard-011",
+    "recto": "Excipient à effet notoire",
+    "verso": "Excipient dont la présence peut nécessiter des précautions d'emploi chez certains patients (allergies, intolérances) ; ex : lactose.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/01-generalites/flashcard-012",
+    "recto": "Forlax® : particularité",
+    "verso": "Contient du macrogol 4000 comme PA, alors qu'il est à la base un excipient.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/01-generalites/flashcard-013",
+    "recto": "Gélopectose® : particularité",
+    "verso": "La silice colloïdale, excipient, devient PA (avec la cellulose et la pectine) dans cette poudre orale anti-reflux.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/01-generalites/flashcard-014",
+    "recto": "Forme à libération conventionnelle",
+    "verso": "Forme à libération immédiate ; ex : comprimé nu de paracétamol 500 mg.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/01-generalites/flashcard-015",
+    "recto": "Forme à libération modifiée",
+    "verso": "Forme résultant d'une formulation particulière et d'un procédé de fabrication spécial.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/01-generalites/flashcard-016",
+    "recto": "Rôles du conditionnement primaire",
+    "verso": "Protection et rôle fonctionnel (facilite l'utilisation).",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/01-generalites/flashcard-017",
+    "recto": "Rôles du conditionnement secondaire",
+    "verso": "Manipulation, transport, identification du médicament, information du malade.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/01-generalites/flashcard-018",
+    "recto": "4 phases du développement d'un médicament",
+    "verso": "Recherche, développement (préformulation, formulation), phase clinique, mise sur le marché.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/01-generalites/flashcard-019",
+    "recto": "Lot clinique = ?",
+    "verso": "Lot pilote = prototype.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/01-generalites/flashcard-020",
+    "recto": "3 critères pour l'AMM",
+    "verso": "Qualité, sécurité, efficacité (évaluation du rapport bénéfice/risque).",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/01-generalites/flashcard-021",
+    "recto": "But des essais de stabilité",
+    "verso": "Préciser les conditions de conservation et les limites d'utilisation du médicament.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/01-generalites/flashcard-022",
+    "recto": "Objectifs des phases cliniques I, II, III",
+    "verso": "I : toxicité ; II : bonne dose et effets indésirables ; III : efficacité comparée aux traitements existants ou au placebo. Phase IV : après la mise sur le marché.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/01-generalites/flashcard-023",
+    "recto": "Que fait l'entreprise après l'AMM ?",
+    "verso": "Elle reproduit le prototype à l'échelle industrielle et met en place un système d'assurance qualité.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/01-generalites/flashcard-024",
+    "recto": "Définition des BPF",
+    "verso": "Élément de l'assurance de la qualité garantissant que les produits sont fabriqués et contrôlés de façon cohérente selon des normes de qualité adaptées à leur emploi.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/01-generalites/flashcard-025",
+    "recto": "Les 9 chapitres du guide BPF",
+    "verso": "1 système qualité ; 2 personnel ; 3 locaux et matériel ; 4 documentation ; 5 production ; 6 contrôle qualité ; 7 activités externalisées ; 8 réclamations, défauts qualité, rappels ; 9 auto-inspection.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/01-generalites/flashcard-026",
+    "recto": "Pharmacopée",
+    "verso": "Formulaire officiel rédigé par une commission de médecins et de pharmaciens : MP, préparations classiques (Dakin…), méthodes d'analyse.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/01-generalites/flashcard-027",
+    "recto": "Préparation officinale",
+    "verso": "Médicament préparé en pharmacie selon un formulaire officiel (Pharmacopée, Codex) ; ex : soluté de Dakin, alcool chirurgical.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/01-generalites/flashcard-028",
+    "recto": "Préparation magistrale",
+    "verso": "Médicament préparé de façon extemporanée en pharmacie selon une prescription médicale destinée à un patient déterminé.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/01-generalites/flashcard-029",
+    "recto": "Mentions de l'ordonnancier",
+    "verso": "Date, nom du médecin, nom et adresse du malade, formule détaillée, nombre d'unités préparées.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/01-generalites/flashcard-030",
+    "recto": "Où porter le numéro d'ordre d'une préparation magistrale ?",
+    "verso": "Sur le registre, l'ordonnance et l'étiquette du conditionnement.",
+    "tags": []
+  }
+]

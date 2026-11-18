@@ -1,0 +1,220 @@
+[
+  {
+    "id": "pharmacognosie/02-glucides/cas-001",
+    "titre": "Patient en surpoids avec constipation",
+    "enonce": "Un homme de 45 ans en surpoids se plaint de constipation chronique. Il demande au pharmacien un produit « naturel » pour le transit et pour l'aider dans son régime hypocalorique.",
+    "questions": [
+      {
+        "id": "pharmacognosie/02-glucides/cas-001-q1",
+        "type": "multiple",
+        "enonce": "Pour la constipation, les laxatifs de lest cités dans le cours sont :",
+        "options": [
+          "Psyllium (ispaghul)",
+          "Graines de lin",
+          "Agar-agar",
+          "Mannitol injectable",
+          "Dextran 40"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "Psyllium, lin et agar-agar augmentent le volume des selles par hydratation ; le mannitol IV est un diurétique osmotique et le Dextran 40 agit sur la microcirculation.",
+        "source": {
+          "page": 32,
+          "extrait": "laxatifs de lest qui augmentent le volume des selles par hydratation"
+        },
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacognosie/02-glucides/cas-001-q2",
+        "type": "unique",
+        "enonce": "Comme adjuvant d'un régime hypocalorique chez l'adulte en surpoids, le cours cite :",
+        "options": [
+          "Le fucus",
+          "Le saccharose",
+          "Le fructose",
+          "Le glucose à 5 %",
+          "Le galactose"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Le fucus (drogue à alginates) est utilisé comme adjuvant d'un régime hypocalorique chez l'adulte en surpoids.",
+        "source": {
+          "page": 32,
+          "extrait": "Comme le fucus utilisé comme adjuvant d'un régime hypocalorique"
+        },
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacognosie/02-glucides/cas-001-q3",
+        "type": "multiple",
+        "enonce": "Concernant le mode d'action des mucilages sur le transit :",
+        "options": [
+          "Ils gonflent dans l'eau",
+          "Le gonflement du bol fécal déclenche le réflexe d'élimination",
+          "Ils peuvent aussi être antidiarrhéiques par absorption d'eau",
+          "Ils sont irritants pour la muqueuse",
+          "Ils sont émollients"
+        ],
+        "correctes": [
+          0,
+          1,
+          2,
+          4
+        ],
+        "explication": "Les mucilages modulent le transit par gonflement et sont émollients et adoucissants, non irritants.",
+        "source": {
+          "page": 87,
+          "extrait": "ce sont de bons émollient et adoucissants des tissus"
+        },
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "pharmacognosie/02-glucides/cas-002",
+    "titre": "Reflux gastro-œsophagien et plaie hémorragique",
+    "enonce": "Une femme de 60 ans souffre de reflux gastro-œsophagien. Quelques jours plus tard, elle se présente avec une plaie superficielle qui saigne.",
+    "questions": [
+      {
+        "id": "pharmacognosie/02-glucides/cas-002-q1",
+        "type": "multiple",
+        "enonce": "Contre le reflux, certaines formulations à base d'alginate :",
+        "options": [
+          "Forment une barrière flottante au-dessus du contenu gastrique",
+          "Limitent les reflux",
+          "Sont extraites d'algues brunes",
+          "Sont extraites d'algues rouges",
+          "Agissent comme succédané du plasma"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "Les alginates (algues brunes) forment une barrière flottante limitant les reflux.",
+        "source": {
+          "page": 57,
+          "extrait": "forment une barrière flottante au-dessus du contenu gastrique, limitant les reflux"
+        },
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacognosie/02-glucides/cas-002-q2",
+        "type": "multiple",
+        "enonce": "Pour la plaie hémorragique, les hémostatiques locaux cités dans le cours sont :",
+        "options": [
+          "Pansement d'alginate de calcium (Coalgan)",
+          "Oxycellulose (Oxycel, Surgicel)",
+          "Xylitol",
+          "Gomme guar",
+          "Dextran 70"
+        ],
+        "correctes": [
+          0,
+          1
+        ],
+        "explication": "L'alginate de calcium (Coalgan) et l'oxycellulose sont des hémostatiques locaux.",
+        "source": {
+          "page": 73,
+          "extrait": "oxycellulose employé comme hémostatique local"
+        },
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacognosie/02-glucides/cas-002-q3",
+        "type": "multiple",
+        "enonce": "Concernant l'alginate de calcium :",
+        "options": [
+          "Il est insoluble dans l'eau",
+          "Il absorbe l'exsudat",
+          "Il favorise l'hémostase",
+          "Il est très soluble dans l'eau",
+          "Il forme des gels thermoréversibles"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "L'alginate de calcium est insoluble ; les gels d'alginate formés par les cations divalents sont non thermoréversibles.",
+        "source": {
+          "page": 54,
+          "extrait": "L`acide alginique et l`alginate de Ca++ sont insolubles dans l'eau."
+        },
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "pharmacognosie/02-glucides/cas-003",
+    "titre": "Hypertension intracrânienne aiguë",
+    "enonce": "Un patient de 30 ans est hospitalisé pour traumatisme crânien avec élévation aiguë de la pression intracrânienne. Le médecin prescrit une perfusion d'un polyol.",
+    "questions": [
+      {
+        "id": "pharmacognosie/02-glucides/cas-003-q1",
+        "type": "unique",
+        "enonce": "Le polyol prescrit est :",
+        "options": [
+          "Le mannitol",
+          "Le sorbitol",
+          "Le xylitol",
+          "Le glucose",
+          "Le saccharose"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Le mannitol est un diurétique osmotique administré en perfusion IV pour réduire la pression intracrânienne et intraoculaire.",
+        "source": {
+          "page": 38,
+          "extrait": "Diurétique osmotique : administré par perfusion intraveineuse pour réduire la pression intracrânienne"
+        },
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacognosie/02-glucides/cas-003-q2",
+        "type": "multiple",
+        "enonce": "Concernant ce polyol :",
+        "options": [
+          "Il est présent dans la manne de Fraxinus ornus",
+          "Son code additif est E421",
+          "Il est aussi excipient et édulcorant",
+          "La manne est un laxatif osmotique doux",
+          "Il est obtenu par hydrogénation du xylose"
+        ],
+        "correctes": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explication": "Mannitol : manne du frêne (Oleaceae), E421, excipient/édulcorant, manne laxative douce.",
+        "source": {
+          "page": 38,
+          "extrait": "Manne : traditionnellement utilisée comme laxatif osmotique doux."
+        },
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      }
+    ]
+  }
+]

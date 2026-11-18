@@ -1,0 +1,188 @@
+[
+  {
+    "id": "pharmacie-galenique/12-sterilisation-partie-2/cas-001",
+    "titre": "Cas pratique : stérilisation de matériel à usage unique",
+    "enonce": "Un fabricant doit stériliser des cathéters en PVC et des compresses de gaze qui ne supportent pas l'autoclave. Il hésite entre l'oxyde d'éthylène et la radiostérilisation.",
+    "questions": [
+      {
+        "id": "pharmacie-galenique/12-sterilisation-partie-2/cas-001-q1",
+        "type": "multiple",
+        "enonce": "Avec l'oxyde d'éthylène :",
+        "options": [
+          "Un mélange dilué dans le CO2 est utilisé car l'OE est explosif",
+          "Une humidification par injection de vapeur favorise la réaction",
+          "Une désorption est indispensable jusqu'à un OE résiduel < 2 ppm",
+          "L'exposition des opérateurs doit être limitée à 1 ppm sur 8 h",
+          "Aucune désorption n'est nécessaire"
+        ],
+        "correctes": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explication": "OE : mélanges dilués dans le CO2, humidification, désorption obligatoire (< 2 ppm), limite d'exposition 1 ppm/8 h.",
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacie-galenique/12-sterilisation-partie-2/cas-001-q2",
+        "type": "multiple",
+        "enonce": "Avec la radiostérilisation γ :",
+        "options": [
+          "La dose de référence est 25 kGy",
+          "L'indicateur biologique est Bacillus pumilus",
+          "Le traitement peut se faire dans l'emballage final",
+          "Le matériel devient radioactif et doit être stocké",
+          "Aucun résidu chimique ne persiste"
+        ],
+        "correctes": [
+          0,
+          1,
+          2,
+          4
+        ],
+        "explication": "25 kGy, B. pumilus, forte pénétration (emballage final), aucun résidu ; pas de radioactivité induite.",
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacie-galenique/12-sterilisation-partie-2/cas-001-q3",
+        "type": "unique",
+        "enonce": "Le PVC est-il compatible avec l'irradiation γ ?",
+        "options": [
+          "Oui, le PVC supporte les doses γ sans fondre ni se déformer",
+          "Non, il fond systématiquement",
+          "Non, il devient radioactif",
+          "Oui, mais uniquement avec les UV",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Polypropylène, PVC et copolymères supportent les doses γ sans fondre ni se déformer.",
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "pharmacie-galenique/12-sterilisation-partie-2/cas-002",
+    "titre": "Cas pratique : préparation d'un collyre thermosensible",
+    "enonce": "Une unité hospitalière prépare un collyre contenant un PA thermosensible. La solution sera filtrée puis répartie dans des flacons stériles.",
+    "questions": [
+      {
+        "id": "pharmacie-galenique/12-sterilisation-partie-2/cas-002-q1",
+        "type": "multiple",
+        "enonce": "Concernant la filtration :",
+        "options": [
+          "La membrane doit avoir une porosité ≤ 0,22 µm",
+          "Un préfiltre améliore la rétention",
+          "La validation utilise Pseudomonas diminuta",
+          "La filtration détruit les micro-organismes",
+          "Toutes les propositions sont correctes"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "La filtration élimine physiquement les germes sans les détruire.",
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacie-galenique/12-sterilisation-partie-2/cas-002-q2",
+        "type": "multiple",
+        "enonce": "Concernant l'environnement de travail :",
+        "options": [
+          "La répartition se fait en classe A (flux laminaire ou isolateur)",
+          "La salle environnante est de classe B",
+          "Le personnel porte une tenue stérile",
+          "Une classe D suffit pour la répartition",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "La répartition aseptique se fait en classe A dans une salle de classe B, avec un personnel formé en tenue stérile.",
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacie-galenique/12-sterilisation-partie-2/cas-002-q3",
+        "type": "multiple",
+        "enonce": "Pour l'essai de stérilité du lot :",
+        "options": [
+          "Il est réalisé par filtration sur membrane, le produit étant liquide",
+          "On utilise un milieu au thioglycolate (30–35 °C) et un milieu aux peptones de caséine de soja (20–25 °C)",
+          "L'incubation dure 14 jours",
+          "Un trouble signifie que le lot est non stérile",
+          "Toutes les propositions sont correctes"
+        ],
+        "correctes": [
+          4
+        ],
+        "explication": "Liquide → filtration sur membrane ; deux milieux ; 14 jours ; trouble ou filaments = non stérile.",
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "pharmacie-galenique/12-sterilisation-partie-2/cas-003",
+    "titre": "Cas pratique : stérilisation d'endoscopes",
+    "enonce": "Un hôpital doit stériliser rapidement des endoscopes fragiles, thermosensibles et hygrosensibles, et souhaite éviter un temps d'aération avant réutilisation.",
+    "questions": [
+      {
+        "id": "pharmacie-galenique/12-sterilisation-partie-2/cas-003-q1",
+        "type": "unique",
+        "enonce": "Le procédé le plus adapté est :",
+        "options": [
+          "Le gaz plasma (H2O2)",
+          "L'oxyde d'éthylène",
+          "L'autoclave à 134 °C",
+          "La chaleur sèche",
+          "Les UV"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Le gaz plasma convient au matériel fragile, thermo- et hygrosensible, à basse température, sans désorption.",
+        "difficulte": 1,
+        "tags": [],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacie-galenique/12-sterilisation-partie-2/cas-003-q2",
+        "type": "multiple",
+        "enonce": "Concernant ce procédé :",
+        "options": [
+          "Le cycle dure moins d'une heure",
+          "L'emballage doit être en Tyvek®, SMS® ou gaines Ultra®",
+          "La cellulose est contre-indiquée",
+          "Seuls des matériels de faible volume peuvent être traités",
+          "Une désorption de 12 à 72 h est nécessaire"
+        ],
+        "correctes": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explication": "Le H2O2 n'est pas adsorbé : pas de désorption (celle-ci concerne l'OE).",
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      }
+    ]
+  }
+]

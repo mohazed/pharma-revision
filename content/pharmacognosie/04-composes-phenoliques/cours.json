@@ -1,0 +1,13 @@
+{
+  "id": "pharmacognosie/04-composes-phenoliques",
+  "module": "pharmacognosie",
+  "ordre": 4,
+  "titre": "Généralités sur les composés phénoliques / Drogues à dérivés phénoliques simples",
+  "type": "cours",
+  "source": {
+    "driveId": "1Cyp4Qf0_gC9f2aJNVdeEKF-5lyLsi5VF",
+    "fichier": "4. Généralités les composés phénoliques.pdf",
+    "modifiedTime": "2026-11-13T09:53:12.276Z"
+  },
+  "resume": "Définition, biosynthèse, classification, propriétés et analyse des composés phénoliques, puis monographies des drogues à phénols simples, à dérivés salicylés et à acides phénols cinnamiques."
+}

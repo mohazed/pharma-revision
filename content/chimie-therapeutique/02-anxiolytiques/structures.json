@@ -1,0 +1,362 @@
+[
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/structure-001",
+    "nom": "Diazépam (Valium®)",
+    "smiles": "CN1c2ccc(Cl)cc2C(=NCC1=O)c1ccccc1",
+    "classe": "1,4-benzodiazépine, dérivé 7-halogéné de la diazépinone",
+    "question": "Identifiez cette molécule :",
+    "options": [
+      "Diazépam",
+      "Oxazépam",
+      "Nordazépam",
+      "Clobazam",
+      "Alprazolam"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "7-chloro-1-méthyl-5-phényl-1,4-benzodiazépin-2-one : diazépam (Valium®), anxiolytique, anticonvulsivant, hypnotique et myorelaxant."
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/structure-002",
+    "nom": "Nordazépam (Nordaz®)",
+    "smiles": "O=C1CN=C(c2ccccc2)c2cc(Cl)ccc2N1",
+    "classe": "1,4-benzodiazépine 7-halogénée, N1 non substitué",
+    "question": "Cette molécule diffère du diazépam par :",
+    "options": [
+      "L'absence de méthyle sur N1",
+      "Un brome en 7",
+      "Un hydroxyle en 3",
+      "Un cycle triazolé",
+      "Un cyclohexényle en 5"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Nordazépam : X = Cl, R1 = H, R2 = C6H5 ; c'est l'intermédiaire cyclisé de la synthèse du diazépam avant méthylation."
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/structure-003",
+    "nom": "Oxazépam (Seresta®)",
+    "smiles": "OC1N=C(c2ccccc2)c2cc(Cl)ccc2NC1=O",
+    "classe": "Dérivé de la diazépinolone",
+    "question": "Quel groupement caractérise cette molécule en position 3 ?",
+    "options": [
+      "Un hydroxyle",
+      "Un carboxyle",
+      "Un méthyle",
+      "Un nitro",
+      "Un chlore"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "L'hydroxyle en 3 caractérise les dérivés de la diazépinolone (oxazépam) et permet la formation de sels hydrosolubles."
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/structure-004",
+    "nom": "Lorazépam (Temesta®)",
+    "smiles": "OC1N=C(c2ccccc2Cl)c2cc(Cl)ccc2NC1=O",
+    "classe": "Dérivé de la diazépinolone",
+    "question": "Par quoi cette molécule diffère-t-elle de l'oxazépam ?",
+    "options": [
+      "Un chlore en ortho du phényle en 5",
+      "Un méthyle sur N1",
+      "Un brome en 7",
+      "Un carboxyle en 3",
+      "Un cycle triazolé"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Lorazépam : R1 = H et X = Cl (chlore en 2' du cycle C)."
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/structure-005",
+    "nom": "Témazépam (Normison®)",
+    "smiles": "CN1c2ccc(Cl)cc2C(c2ccccc2)=NC(O)C1=O",
+    "classe": "Dérivé de la diazépinolone",
+    "question": "Quel est l'emploi de cette molécule selon le cours ?",
+    "options": [
+      "Hypnotique",
+      "Antagoniste des BZD",
+      "Myorelaxant pur",
+      "Antiépileptique",
+      "Antidépresseur"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Le témazépam (R1 = CH3, X = H) est utilisé comme hypnotique."
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/structure-006",
+    "nom": "Bromazépam (Lexomil®)",
+    "smiles": "O=C1CN=C(c2ccccn2)c2cc(Br)ccc2N1",
+    "classe": "1,4-benzodiazépine 7-bromée",
+    "question": "Identifiez les particularités de cette molécule :",
+    "options": [
+      "Brome en 7 et pyridyl-2 en 5",
+      "Chlore en 7 et phényle en 5",
+      "Nitro en 7",
+      "Hydroxyle en 3",
+      "Cycle triazolé fusionné"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Bromazépam : X = Br, R1 = H, R2 = pyridyl-2."
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/structure-007",
+    "nom": "Clobazam (Urbanyl®)",
+    "smiles": "CN1c2ccc(Cl)cc2N(c2ccccc2)C(=O)CC1=O",
+    "classe": "1,5-benzodiazépine",
+    "question": "À quelle classe appartient cette molécule ?",
+    "options": [
+      "1,5-benzodiazépine",
+      "1,4-benzodiazépine",
+      "Thiéno-1,4-diazépine",
+      "Imidazobenzodiazépine",
+      "Carbamate"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Le clobazam est une 1,5-benzodiazépine : le déplacement de l'azote ne nuit pas à l'activité anxiolytique."
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/structure-008",
+    "nom": "Alprazolam (Xanax®)",
+    "smiles": "Cc1nnc2n1-c1ccc(Cl)cc1C(c1ccccc1)=NC2",
+    "classe": "Triazolo-1,4-benzodiazépine",
+    "question": "Quel est l'intérêt du cycle fusionné de cette molécule ?",
+    "options": [
+      "Protection de l'oxydation et augmentation de l'activité",
+      "Diminution de la lipophilie",
+      "Transformation en antagoniste",
+      "Augmentation de la sédation",
+      "Perte de l'activité anxiolytique"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "La fusion d'un cycle triazolé protège de l'oxydation et augmente l'activité ; l'alprazolam est moins sédatif que le diazépam."
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/structure-009",
+    "nom": "Triazolam (Halcion®)",
+    "smiles": "Cc1nnc2n1-c1ccc(Cl)cc1C(c1ccccc1Cl)=NC2",
+    "classe": "Triazolo-1,4-benzodiazépine",
+    "question": "Cette molécule diffère de l'alprazolam par :",
+    "options": [
+      "Un chlore en ortho du phényle en 5",
+      "Un méthyle sur le triazole",
+      "Un brome en 7",
+      "Un hydroxyle en 3",
+      "L'absence de cycle triazolé"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Triazolam : R1 = CH3 et X = Cl ; alprazolam : R1 = CH3 et X = H."
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/structure-010",
+    "nom": "Estazolam (Nuctalon®)",
+    "smiles": "c1nnc2n1-c1ccc(Cl)cc1C(c1ccccc1)=NC2",
+    "classe": "Triazolo-1,4-benzodiazépine",
+    "question": "Cette molécule illustre quelle particularité de la position 2 ?",
+    "options": [
+      "Un cycle coiffant la molécule entre les positions 1 et 2",
+      "Un carbonyle en 2",
+      "Un hydroxyle en 3",
+      "Un N-oxyde en 4",
+      "Un cyclohexényle en 5"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "L'estazolam illustre le cas d'un cycle coiffant la molécule entre les positions 1 et 2 (R1 = H, X = H)."
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/structure-011",
+    "nom": "Clorazépate",
+    "smiles": "OC(=O)C1N=C(c2ccccc2)c2cc(Cl)ccc2NC1=O",
+    "classe": "Dérivé de la diazépinone carboxylique",
+    "question": "Quelle conséquence a le groupement en position 3 de cette molécule ?",
+    "options": [
+      "Prodrogue donnant un métabolite actif, sels hydrosolubles",
+      "Perte de l'activité",
+      "Transformation en antagoniste",
+      "Activité myorelaxante exclusive",
+      "Diminution du métabolisme"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Le carboxyle en 3 augmente le métabolisme : le clorazépate (Tranxène®) est une prodrogue, et le groupe permet des sels hydrosolubles."
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/structure-012",
+    "nom": "Clonazépam",
+    "smiles": "O=C1CN=C(c2ccccc2Cl)c2cc([N+](=O)[O-])ccc2N1",
+    "classe": "1,4-benzodiazépine 7-nitrée",
+    "question": "Quelle est l'activité principale de ce dérivé 7-nitré selon le cours ?",
+    "options": [
+      "Antiépileptique",
+      "Anxiolytique pur",
+      "Antagoniste des BZD",
+      "Myorelaxant pur",
+      "Antidépresseur"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Les dérivés 7-nitrés sont hypnotiques (nitrazépam, flunitrazépam) ou antiépileptiques (clonazépam)."
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/structure-013",
+    "nom": "Nitrazépam",
+    "smiles": "O=C1CN=C(c2ccccc2)c2cc([N+](=O)[O-])ccc2N1",
+    "classe": "1,4-benzodiazépine 7-nitrée",
+    "question": "À quelle activité le groupe nitré en 7 est-il associé ?",
+    "options": [
+      "Hypnotique",
+      "Myorelaxant exclusif",
+      "Antagoniste",
+      "Anxiolytique pur",
+      "Antidépresseur"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Le nitrazépam, dérivé 7-nitré, est un hypnotique."
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/structure-014",
+    "nom": "Flumazénil (Anexate®)",
+    "smiles": "CCOC(=O)c1ncn2c1CN(C)C(=O)c1cc(F)ccc12",
+    "classe": "Imidazobenzodiazépine",
+    "question": "Quel est le rôle pharmacologique de cette molécule ?",
+    "options": [
+      "Antagoniste pur et spécifique des benzodiazépines",
+      "Agoniste des récepteurs GABAA",
+      "Agoniste 5-HT1A",
+      "Bêtabloquant",
+      "Inducteur enzymatique"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Le flumazénil, imidazobenzodiazépine dépourvue du cycle benzénique en 5, inhibe de façon compétitive les effets des BZD."
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/structure-015",
+    "nom": "Méprobamate",
+    "smiles": "CCCC(C)(COC(N)=O)COC(N)=O",
+    "classe": "Carbamate",
+    "question": "À quelle classe d'anxiolytiques appartient cette molécule ?",
+    "options": [
+      "Carbamates",
+      "Benzodiazépines",
+      "Azaspirodécanediones",
+      "Antihistaminiques",
+      "Bêtabloquants"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Méprobamate : dicarbamate de méthyl-2 propyl-2 propanediol-1,3, inducteur enzymatique, surdosage sans antidote."
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/structure-016",
+    "nom": "Buspirone",
+    "smiles": "O=C1CC2(CCCC2)CC(=O)N1CCCCN1CCN(c2ncccn2)CC1",
+    "classe": "Azaspirodécanedione",
+    "question": "Quel est le mécanisme d'action de cette molécule ?",
+    "options": [
+      "Agoniste 5-HT1A présynaptique",
+      "Agoniste du site BZD du récepteur GABAA",
+      "Antagoniste dopaminergique",
+      "Bêtabloquant",
+      "Antihistaminique"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "La buspirone, dérivé de l'azaspirodécanedione, est un agoniste 5-HT1A présynaptique diminuant la libération de sérotonine."
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/structure-017",
+    "nom": "Hydroxyzine (Atarax®)",
+    "smiles": "OCCOCCN1CCN(C(c2ccccc2)c2ccc(Cl)cc2)CC1",
+    "classe": "Antihistaminique",
+    "question": "Quelle est la classe pharmacologique de cette molécule ?",
+    "options": [
+      "Antihistaminique anticholinergique",
+      "Benzodiazépine",
+      "Carbamate",
+      "Agoniste 5-HT1A",
+      "Agoniste α2 adrénergique"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "L'hydroxyzine est un antihistaminique anticholinergique utilisé pour les anxiétés mineures."
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/structure-018",
+    "nom": "Clonidine",
+    "smiles": "Clc1cccc(Cl)c1NC1=NCCN1",
+    "classe": "Agoniste α2 adrénergique",
+    "question": "Quel est le mécanisme de cette molécule dans l'anxiété ?",
+    "options": [
+      "Agoniste des autorécepteurs α2 inhibant la libération de noradrénaline",
+      "Blocage des récepteurs β",
+      "Agoniste 5-HT1A",
+      "Agoniste GABAA",
+      "Antihistaminique"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "La clonidine agit sur le rétrocontrôle présynaptique α2 et inhibe la libération de noradrénaline."
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/structure-019",
+    "nom": "Propranolol",
+    "smiles": "CC(C)NCC(O)COc1cccc2ccccc12",
+    "classe": "Bêtabloquant",
+    "question": "Dans l'anxiété, cette molécule agit par :",
+    "options": [
+      "Blocage des récepteurs β-adrénergiques",
+      "Agonisme α2",
+      "Agonisme 5-HT1A",
+      "Facilitation GABAergique",
+      "Inhibition de la recapture de la sérotonine"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Le propranolol bloque les récepteurs β-adrénergiques, réduisant les symptômes neurovégétatifs de l'anxiété."
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/structure-020",
+    "nom": "Noyau 1,4-benzodiazépin-2-one",
+    "smiles": "O=C1CN=Cc2ccccc2N1",
+    "classe": "Noyau de base",
+    "question": "Quel est ce noyau ?",
+    "options": [
+      "1,4-benzodiazépin-2-one",
+      "1,5-benzodiazépine",
+      "Thiéno-1,4-diazépine",
+      "Imidazobenzodiazépine",
+      "Phénothiazine"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Noyau de base des benzodiazépines anxiolytiques : benzène fusionné à une diazépine-1,4 portant un carbonyle en 2."
+  }
+]

@@ -1,0 +1,1611 @@
+[
+  {
+    "id": "pharmacie-galenique/06-dessiccation-lyophilisation/qcm-001",
+    "type": "multiple",
+    "enonce": "La dessiccation (séchage) :",
+    "options": [
+      "En pharmacie, le liquide volatil est généralement l'eau",
+      "Élimine ce liquide par vaporisation",
+      "Concerne un liquide contenu dans un corps solide ou semi-solide",
+      "Consiste à réduire un solide en poudre",
+      "A pour but d'éliminer totalement ou partiellement un liquide volatil"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explication": "La dessiccation élimine totalement ou partiellement, par vaporisation, un liquide volatil (généralement l'eau) contenu dans un solide ou semi-solide. La réduction en poudre est la pulvérisation.",
+    "source": {
+      "page": 2,
+      "extrait": "éliminer totalement ou partiellement par vaporisation un corps liquide volatil contenu dans un autre corps solide ou semi-solide"
+    },
+    "difficulte": 1,
+    "tags": [
+      "définition"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/06-dessiccation-lyophilisation/qcm-002",
+    "type": "multiple",
+    "enonce": "La dessiccation intervient dans l'industrie pharmaceutique au niveau :",
+    "options": [
+      "Des formes galéniques (poudres, granulés, comprimés)",
+      "Des excipients",
+      "Des principes actifs",
+      "Exclusivement des solutions injectables",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "La dessiccation intervient à plusieurs étapes : PA, excipients, formes galéniques (poudres, granulés, comprimés…).",
+    "source": {
+      "page": 2,
+      "extrait": "que ce soit pour les principes actifs pharmaceutiques, les excipients, ou les formes galéniques"
+    },
+    "difficulte": 1,
+    "tags": [
+      "introduction"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/06-dessiccation-lyophilisation/qcm-003",
+    "type": "multiple",
+    "enonce": "La lyophilisation :",
+    "options": [
+      "Est utilisée notamment pour les substances thermosensibles",
+      "Est considérée comme l'une des méthodes les plus efficaces pour éliminer l'eau en préservant le produit",
+      "Est un séchage par air très chaud à 150 °C",
+      "Est réservée aux substances thermostables",
+      "Est une technique particulière de dessiccation"
+    ],
+    "correctes": [
+      0,
+      1,
+      4
+    ],
+    "explication": "La lyophilisation est une technique particulière de dessiccation, utilisée pour les substances thermosensibles, parmi les plus efficaces pour éliminer l'eau tout en préservant l'intégrité du produit.",
+    "source": {
+      "page": 2,
+      "extrait": "notamment pour les substances thermosensibles"
+    },
+    "difficulte": 1,
+    "tags": [
+      "introduction"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/06-dessiccation-lyophilisation/qcm-004",
+    "type": "multiple",
+    "enonce": "L'eau de constitution (eau de cristallisation) :",
+    "options": [
+      "Est liée chimiquement à la molécule",
+      "Est acquise à partir de l'humidité relative de l'air",
+      "Est ajoutée lors de la fabrication des granulés",
+      "N'est pas éliminée au cours d'une dessiccation",
+      "Est difficile à éliminer sans dénaturer le produit"
+    ],
+    "correctes": [
+      0,
+      3,
+      4
+    ],
+    "explication": "L'eau de constitution est liée chimiquement, difficile à éliminer sans dénaturer le produit, et n'est pas éliminée par la dessiccation. L'eau acquise de l'air est l'eau d'adsorption ; l'eau ajoutée en fabrication est l'eau de mouillage.",
+    "source": {
+      "page": 2,
+      "extrait": "Eau de constitution ou « eau de cristallisation » liée chimiquement à la molécule et difficile à éliminer sans dénaturer le produit"
+    },
+    "difficulte": 1,
+    "tags": [
+      "états de l'eau"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/06-dessiccation-lyophilisation/qcm-005",
+    "type": "multiple",
+    "enonce": "L'eau d'adsorption :",
+    "options": [
+      "Est appelée « eau capillaire »",
+      "Est appelée « eau liée »",
+      "Est plus ou moins éliminée lors de la dessiccation",
+      "Est acquise à partir de l'humidité relative de l'air ambiant",
+      "Est liée chimiquement à la molécule"
+    ],
+    "correctes": [
+      1,
+      2,
+      3
+    ],
+    "explication": "Eau d'adsorption (« eau liée ») : acquise à partir de l'humidité relative de l'air ; plus ou moins éliminée par la dessiccation.",
+    "source": {
+      "page": 2,
+      "extrait": "Eau d'adsorption « eau liée » acquise à partir de l'humidité relative de l'air ambiant"
+    },
+    "difficulte": 2,
+    "tags": [
+      "états de l'eau"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/06-dessiccation-lyophilisation/qcm-006",
+    "type": "multiple",
+    "enonce": "L'eau de mouillage :",
+    "options": [
+      "Est la cible principale de la dessiccation",
+      "Est l'eau de cristallisation",
+      "Est ajoutée lors de la fabrication de certaines formes sèches (comprimés, granulés)",
+      "Correspond à l'« eau libre et eau capillaire »",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      2,
+      3
+    ],
+    "explication": "Eau de mouillage (eau libre et capillaire) : ajoutée en fabrication (comprimés, granulés…) ; la dessiccation cherche à éliminer l'eau libre.",
+    "source": {
+      "page": 2,
+      "extrait": "Eau mouillage ou « eau libre et eau capillaire », ajoutée lors de la fabrication de certaines formes sèches"
+    },
+    "difficulte": 2,
+    "tags": [
+      "états de l'eau"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/06-dessiccation-lyophilisation/qcm-007",
+    "type": "unique",
+    "enonce": "Au cours d'une dessiccation, on cherche à éliminer :",
+    "options": [
+      "Uniquement l'eau libre et plus ou moins l'eau d'adsorption",
+      "Toute l'eau, y compris l'eau de constitution",
+      "Uniquement l'eau de constitution",
+      "L'eau de cristallisation en priorité",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "On cherche à éliminer uniquement l'eau libre et plus ou moins l'eau d'adsorption ; l'eau de constitution n'est pas éliminée.",
+    "source": {
+      "page": 2,
+      "extrait": "on cherche à éliminer uniquement l'eau libre et plus ou moins l'eau d'adsorption"
+    },
+    "difficulte": 1,
+    "tags": [
+      "états de l'eau"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/06-dessiccation-lyophilisation/qcm-008",
+    "type": "multiple",
+    "enonce": "Parmi les raisons de réaliser une opération de séchage :",
+    "options": [
+      "Réduire la taille des particules (nébulisation)",
+      "Synthétiser une substance (déshydratation)",
+      "Prévenir une dégradation chimique (hydrolyse)",
+      "Prévenir une attaque fongique (moisissures)",
+      "Améliorer les propriétés d'écoulement d'une poudre"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Intérêts : synthèse, préparation d'excipients ou médicaments, prévention de l'hydrolyse, de la dénaturation physique, des moisissures, amélioration de l'écoulement et de la distribution des PA, réduction de taille (nébulisation).",
+    "source": {
+      "page": 2,
+      "extrait": "Prévenir une dégradation chimique (hydrolyse)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "intérêts"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/06-dessiccation-lyophilisation/qcm-009",
+    "type": "multiple",
+    "enonce": "Le séchage permet de prévenir une dénaturation physique telle que :",
+    "options": [
+      "Le développement de moisissures",
+      "L'hydrolyse",
+      "La désagrégation des comprimés",
+      "L'agglomération des poudres",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      2,
+      3
+    ],
+    "explication": "Dénaturation physique : agglomération des poudres, désagrégation des comprimés. L'hydrolyse est une dégradation chimique ; les moisissures une attaque fongique.",
+    "source": {
+      "page": 2,
+      "extrait": "Prévenir une dénaturation physique (agglomération des poudres, désagrégation des comprimés)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "intérêts"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/06-dessiccation-lyophilisation/qcm-010",
+    "type": "unique",
+    "enonce": "Le séchage améliore la distribution des principes actifs dans une forme solide lorsqu'ils sont incorporés :",
+    "options": [
+      "Par compression directe",
+      "Sous forme de cristaux secs",
+      "Sous forme de solution",
+      "Par lyophilisation obligatoirement",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Améliorer la distribution des PA dans une forme solide (incorporation sous forme de solution).",
+    "source": {
+      "page": 2,
+      "extrait": "Améliorer la distribution des principes actifs dans une forme solide (incorporation sous forme de solution)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "intérêts"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/06-dessiccation-lyophilisation/qcm-011",
+    "type": "multiple",
+    "enonce": "Le séchage se décompose en trois phases :",
+    "options": [
+      "Phase I : mise en régime (montée en température de l'air de séchage)",
+      "Phase III : évaporation décroissante",
+      "Phase I : évaporation constante",
+      "Phase II : évaporation décroissante",
+      "Phase II : évaporation constante"
+    ],
+    "correctes": [
+      0,
+      1,
+      4
+    ],
+    "explication": "Phase I : mise en régime ; phase II : évaporation constante (équilibre évaporation/migration, température constante) ; phase III : évaporation décroissante.",
+    "source": {
+      "page": 3,
+      "extrait": "Phase II : Évaporation constante, équilibre entre évaporation et migration, la température est constante"
+    },
+    "difficulte": 1,
+    "tags": [
+      "phases"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/06-dessiccation-lyophilisation/qcm-012",
+    "type": "multiple",
+    "enonce": "Pendant la phase II du séchage :",
+    "options": [
+      "La température est constante",
+      "La température de l'air monte",
+      "Il y a équilibre entre évaporation et migration",
+      "L'évaporation est constante",
+      "L'évaporation est décroissante"
+    ],
+    "correctes": [
+      0,
+      2,
+      3
+    ],
+    "explication": "Phase II : évaporation constante, équilibre entre évaporation et migration, température constante.",
+    "source": {
+      "page": 3,
+      "extrait": "équilibre entre évaporation et migration, la température est constante"
+    },
+    "difficulte": 2,
+    "tags": [
+      "phases"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/06-dessiccation-lyophilisation/qcm-013",
+    "type": "unique",
+    "enonce": "La vitesse de séchage s'annule lorsque :",
+    "options": [
+      "L'équilibre d'humidité est atteint",
+      "La phase I commence",
+      "La température de l'air diminue",
+      "L'eau de constitution est éliminée",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "La vitesse de séchage s'annule lorsque l'équilibre d'humidité est atteint.",
+    "source": {
+      "page": 3,
+      "extrait": "La vitesse de séchage s'annule lorsque l'équilibre d'humidité est atteint"
+    },
+    "difficulte": 1,
+    "tags": [
+      "phases"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/06-dessiccation-lyophilisation/qcm-014",
+    "type": "multiple",
+    "enonce": "Concernant la teneur en humidité d'un granulé :",
+    "options": [
+      "Trop sec, le granulé est trop friable",
+      "Plus il est sec, meilleur il est",
+      "Un granulé humide est friable",
+      "Encore humide, le granulé est collant",
+      "Il existe toujours une teneur en humidité optimale"
+    ],
+    "correctes": [
+      0,
+      3,
+      4
+    ],
+    "explication": "Il existe une teneur optimale : trop sec → friable ; encore humide → collant.",
+    "source": {
+      "page": 3,
+      "extrait": "un granulé sera généralement trop friable s'il est trop sec et sera collant s'il est encore humide"
+    },
+    "difficulte": 1,
+    "tags": [
+      "humidité optimale"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/06-dessiccation-lyophilisation/qcm-015",
+    "type": "unique",
+    "enonce": "Si la vitesse d'évaporation en surface (Ve) est supérieure à la vitesse de migration de l'eau vers l'extérieur (Vm) :",
+    "options": [
+      "Le séchage est accéléré en profondeur",
+      "Il se forme une croûte qui gêne l'évaporation",
+      "La dessiccation se fait en profondeur",
+      "C'est la situation recommandée",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Ve > Vm : formation de croûte gênant l'évaporation. Ve ≤ Vm : dessiccation en profondeur (recommandée).",
+    "source": {
+      "page": 3,
+      "extrait": "Si Ve > Vm => Formation de croûte qui gênera l'évaporation"
+    },
+    "difficulte": 2,
+    "tags": [
+      "facteurs"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/06-dessiccation-lyophilisation/qcm-016",
+    "type": "unique",
+    "enonce": "La situation recommandée pour une dessiccation en profondeur est :",
+    "options": [
+      "Vm = 0",
+      "Ve ≤ Vm",
+      "Ve > Vm",
+      "Ve = 0",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Si Ve ≤ Vm : dessiccation en profondeur (recommandée).",
+    "source": {
+      "page": 3,
+      "extrait": "Si Ve ≤ Vm=> Dessiccation en profondeur (recommandée)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "facteurs"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/06-dessiccation-lyophilisation/qcm-017",
+    "type": "multiple",
+    "enonce": "Les facteurs intervenant sur la vitesse de séchage sont :",
+    "options": [
+      "Le renouvellement d'air à la surface du solide",
+      "La surface du solide",
+      "La pression et la quantité de calories fournies",
+      "L'humidité relative de l'air ambiant",
+      "Les vitesses d'évaporation en surface et de migration interne de l'eau"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Facteurs : Ve et Vm, humidité relative de l'air, renouvellement d'air, surface (la plus grande possible, d'où l'intérêt de la division), pression, quantité de calories.",
+    "source": {
+      "page": 3,
+      "extrait": "Humidité relative de l'air ambiant o Renouvellement d'air à la surface du solide"
+    },
+    "difficulte": 1,
+    "tags": [
+      "facteurs"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/06-dessiccation-lyophilisation/qcm-018",
+    "type": "multiple",
+    "enonce": "Concernant l'influence de la pression et de la surface sur le séchage :",
+    "options": [
+      "Une petite surface accélère le séchage",
+      "La division du solide est intéressante pour le séchage",
+      "Plus la pression est basse, plus on peut opérer à basse température",
+      "La surface du solide doit être aussi grande que possible",
+      "Plus la pression est haute, plus la température de séchage peut être basse"
+    ],
+    "correctes": [
+      1,
+      2,
+      3
+    ],
+    "explication": "Pression basse → séchage possible à basse température ; surface aussi grande que possible, d'où l'intérêt de la division.",
+    "source": {
+      "page": 3,
+      "extrait": "Pression : plus elle est basse plus on peut opérer à basse température"
+    },
+    "difficulte": 2,
+    "tags": [
+      "facteurs"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/06-dessiccation-lyophilisation/qcm-019",
+    "type": "multiple",
+    "enonce": "Selon le mode de transfert des calories, on distingue :",
+    "options": [
+      "Le rayonnement : irradiation",
+      "Le froid : cryodessiccation ou lyophilisation",
+      "La conduction : contact direct",
+      "La convection : circulation d'air chaud et sec",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Convection (air chaud), conduction (contact direct), rayonnement (irradiation), froid (lyophilisation).",
+    "source": {
+      "page": 4,
+      "extrait": "Convection : par la circulation d'air chaud et sec. Conduction : par contact direct"
+    },
+    "difficulte": 1,
+    "tags": [
+      "procédés"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/06-dessiccation-lyophilisation/qcm-020",
+    "type": "multiple",
+    "enonce": "Le séchage par convection :",
+    "options": [
+      "Le gaz entraîne la vapeur formée",
+      "Le gaz fournit la chaleur nécessaire à l'évaporation",
+      "Se fait par contact direct avec une surface chaude",
+      "Utilise des rayonnements infrarouges",
+      "Envoie sur la matière un courant gazeux chaud le plus sec possible"
+    ],
+    "correctes": [
+      0,
+      1,
+      4
+    ],
+    "explication": "Convection : courant gazeux chaud et sec qui fournit la chaleur d'évaporation et entraîne la vapeur.",
+    "source": {
+      "page": 4,
+      "extrait": "envoyer sur la matière à sécher un courant gazeux chaud (le plus sec possible) qui fournit la chaleur nécessaire"
+    },
+    "difficulte": 1,
+    "tags": [
+      "convection"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/06-dessiccation-lyophilisation/qcm-021",
+    "type": "multiple",
+    "enonce": "L'étuve à plateaux :",
+    "options": [
+      "Fait circuler de l'air sec et chaud entre les plateaux",
+      "Est un séchoir discontinu",
+      "Présente un risque de contamination croisée",
+      "Est un équipement simple et relativement peu coûteux",
+      "Convient aux produits thermolabiles"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Étuve à plateaux (discontinu, convection) : simple, peu coûteuse ; inconvénients : séchage long, non homogène, contamination croisée, ne convient pas aux thermolabiles.",
+    "source": {
+      "page": 4,
+      "extrait": "Ne convient pas aux produits thermolabiles"
+    },
+    "difficulte": 1,
+    "tags": [
+      "étuve à plateaux"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/06-dessiccation-lyophilisation/qcm-022",
+    "type": "multiple",
+    "enonce": "Les inconvénients de l'étuve à plateaux sont :",
+    "options": [
+      "Séchage long",
+      "Ne convient pas aux produits thermolabiles",
+      "Risque de contamination croisée",
+      "Séchage non homogène",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Tous ces inconvénients sont cités pour l'étuve à plateaux.",
+    "source": {
+      "page": 4,
+      "extrait": "Séchage long ; non homogène. - Risque de contamination croisée"
+    },
+    "difficulte": 1,
+    "tags": [
+      "étuve à plateaux"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/06-dessiccation-lyophilisation/qcm-023",
+    "type": "multiple",
+    "enonce": "Le lit d'air fluidisé :",
+    "options": [
+      "Est coûteux et encombrant avec une mise au point délicate",
+      "Place le produit humide dans un récipient clos à fond perforé",
+      "Assure un séchage rapide et homogène",
+      "Est un séchoir par conduction",
+      "Est traversé de bas en haut par de l'air chaud"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explication": "Lit d'air fluidisé (convection) : récipient clos à fond perforé traversé de bas en haut par de l'air chaud qui brasse la masse ; rapide, homogène ; coûteux, encombrant, mise au point délicate.",
+    "source": {
+      "page": 4,
+      "extrait": "Le courant d'air provoque un brassage de la masse humide jusqu'à dessiccation"
+    },
+    "difficulte": 1,
+    "tags": [
+      "lit d'air fluidisé"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/06-dessiccation-lyophilisation/qcm-024",
+    "type": "multiple",
+    "enonce": "Le séchoir tunnel :",
+    "options": [
+      "Transporte la substance sur des wagonnets à plateaux ou une bande sans fin",
+      "Fait circuler l'air chaud en sens inverse de la substance",
+      "Est un séchoir à infrarouge",
+      "Assure une dessiccation progressive sans croûtage",
+      "Est un séchoir continu"
+    ],
+    "correctes": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "explication": "Séchoir tunnel (continu) : substance entrant humide d'un côté, sortant sèche de l'autre, air chaud en sens inverse ; wagonnets ou bande sans fin ; dessiccation progressive (pas de croûtage).",
+    "source": {
+      "page": 5,
+      "extrait": "Avantages : dessiccation progressive (pas de croûtage)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "séchoir tunnel"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/06-dessiccation-lyophilisation/qcm-025",
+    "type": "unique",
+    "enonce": "Parmi les séchoirs par convection suivants, lequel est continu ?",
+    "options": [
+      "Le lit d'air fluidisé",
+      "L'étuve à plateaux",
+      "Le séchoir tunnel",
+      "L'armoire à vide",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Les séchoirs discontinus sont l'étuve à plateaux et le lit d'air fluidisé ; le séchoir tunnel est continu. L'armoire à vide relève de la conduction.",
+    "source": {
+      "page": 5,
+      "extrait": "Les séchoirs continus -Séchoirs tunnels"
+    },
+    "difficulte": 2,
+    "tags": [
+      "convection"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/06-dessiccation-lyophilisation/qcm-026",
+    "type": "multiple",
+    "enonce": "Le séchoir à cylindres :",
+    "options": [
+      "Sert exclusivement au séchage des solutions et suspensions",
+      "Est très utilisé en industrie pharmaceutique",
+      "Laisse une pellicule de matière sèche détachée par un racloir puis pulvérisée",
+      "Est chauffé intérieurement par de la vapeur d'eau entre 140 et 150 °C",
+      "Est un séchoir par conduction"
+    ],
+    "correctes": [
+      0,
+      2,
+      3,
+      4
+    ],
+    "explication": "Séchoir à cylindres (conduction) : mono ou multicylindrique chauffé par vapeur à 140-150 °C ; pellicule raclée puis pulvérisée ; peu utilisé, exclusivement pour solutions et suspensions.",
+    "source": {
+      "page": 5,
+      "extrait": "Ce type de séchoir est peu utilisé en industrie pharmaceutique. Il sert exclusivement au séchage des solutions et des suspensions"
+    },
+    "difficulte": 2,
+    "tags": [
+      "conduction"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/06-dessiccation-lyophilisation/qcm-027",
+    "type": "unique",
+    "enonce": "Le séchoir à cylindres est chauffé intérieurement par de la vapeur d'eau à :",
+    "options": [
+      "100 °C exactement",
+      "200 – 250 °C",
+      "140 – 150 °C",
+      "70 – 80 °C",
+      "−20 à −80 °C"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Chauffage intérieur par vapeur d'eau chauffée entre 140 et 150 °C.",
+    "source": {
+      "page": 5,
+      "extrait": "chauffé intérieurement par la vapeur d'eau chauffée entre 140 et 150°C"
+    },
+    "difficulte": 2,
+    "tags": [
+      "conduction"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/06-dessiccation-lyophilisation/qcm-028",
+    "type": "multiple",
+    "enonce": "Les séchoirs sous vide :",
+    "options": [
+      "Opèrent à haute pression",
+      "Permettent d'opérer à plus basse température grâce à l'abaissement de la pression",
+      "Sont intéressants pour les substances sensibles au contact de l'air",
+      "Sont intéressants pour les substances sensibles à la chaleur",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      1,
+      2,
+      3
+    ],
+    "explication": "L'abaissement de la pression permet d'opérer à plus basse température, utile pour les substances sensibles à la chaleur et au contact de l'air.",
+    "source": {
+      "page": 5,
+      "extrait": "L'abaissement de la pression permet d'opérer à plus basse température"
+    },
+    "difficulte": 1,
+    "tags": [
+      "séchage sous vide"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/06-dessiccation-lyophilisation/qcm-029",
+    "type": "multiple",
+    "enonce": "L'armoire à vide :",
+    "options": [
+      "Est l'appareil sous vide le plus courant",
+      "Contient des plateaux superposés avec le produit en faible épaisseur",
+      "Élimine la vapeur d'eau par un condenseur placé entre l'enceinte et la pompe à vide",
+      "Est chauffée par les étagères (résistances électriques ou tubes à fluide chaud)",
+      "Est appliquée aux produits pulvérulents et pâteux"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Toutes ces caractéristiques décrivent l'armoire à vide.",
+    "source": {
+      "page": 5,
+      "extrait": "La vapeur d'eau est éliminée par un condenseur placé entre l'enceinte et la pompe à vide"
+    },
+    "difficulte": 2,
+    "tags": [
+      "armoire à vide"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/06-dessiccation-lyophilisation/qcm-030",
+    "type": "unique",
+    "enonce": "Dans l'armoire à vide, le condenseur est placé :",
+    "options": [
+      "Entre l'enceinte et la pompe à vide",
+      "Sous la trémie d'alimentation",
+      "À l'intérieur des plateaux",
+      "Après la pompe à vide",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "La vapeur d'eau est éliminée par un condenseur placé entre l'enceinte et la pompe à vide.",
+    "source": {
+      "page": 5,
+      "extrait": "un condenseur placé entre l'enceinte et la pompe à vide"
+    },
+    "difficulte": 2,
+    "tags": [
+      "armoire à vide"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/06-dessiccation-lyophilisation/qcm-031",
+    "type": "multiple",
+    "enonce": "Le séchoir rotatif (cylindre rotatif incliné) :",
+    "options": [
+      "Fonctionne sous vide à l'intérieur du cylindre",
+      "Utilise des lampes au tungstène",
+      "Remue sans cesse la substance humide pendant la dessiccation",
+      "Disperse le produit dans de l'air à 150 °C",
+      "Est chauffé par circulation d'un fluide chaud dans la double paroi"
+    ],
+    "correctes": [
+      0,
+      2,
+      4
+    ],
+    "explication": "Séchoir rotatif : cylindre rotatif incliné chauffé par un fluide dans la double paroi ; la substance est sans cesse remuée dans le vide.",
+    "source": {
+      "page": 6,
+      "extrait": "La substance humide est sans cesse remuée dans le vide à l'intérieur du cylindre en rotation"
+    },
+    "difficulte": 2,
+    "tags": [
+      "séchoir rotatif"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/06-dessiccation-lyophilisation/qcm-032",
+    "type": "multiple",
+    "enonce": "Les séchoirs à infrarouge :",
+    "options": [
+      "Utilisent des lampes de tungstène placées à environ 30 cm du produit",
+      "Sont peu utilisés à grande échelle car l'IR est peu pénétrant et coûteux",
+      "Traitent le produit en couche très mince",
+      "Sont les plus utilisés à grande échelle",
+      "Utilisent l'effet calorifique des rayonnements IR"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explication": "IR : effet calorifique, couche très mince, lampes de tungstène à ≈ 30 cm ; peu utilisé à grande échelle (peu pénétrant, coût élevé).",
+    "source": {
+      "page": 5,
+      "extrait": "L'infrarouge est peu utilisé pour le séchage à grande échelle car il est peu pénétrant et le coût des séchoirs industriels est élevé"
+    },
+    "difficulte": 2,
+    "tags": [
+      "infrarouge"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/06-dessiccation-lyophilisation/qcm-033",
+    "type": "unique",
+    "enonce": "Dans un séchoir à infrarouge, les lampes de tungstène sont placées à environ :",
+    "options": [
+      "30 cm du produit",
+      "1 cm du produit",
+      "3 m du produit",
+      "3 cm du produit",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Les rayonnements sont transmis par des lampes de tungstène placées à ≈ 30 cm du produit.",
+    "source": {
+      "page": 5,
+      "extrait": "lampes de tungstène placées à ≈30 cm du produit"
+    },
+    "difficulte": 2,
+    "tags": [
+      "infrarouge"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/06-dessiccation-lyophilisation/qcm-034",
+    "type": "multiple",
+    "enonce": "Les séchoirs à micro-ondes :",
+    "options": [
+      "Chauffent par rotation à très grande vitesse des molécules sur elles-mêmes et frottement",
+      "La substance cesse de s'échauffer lorsque l'eau est éliminée",
+      "Produisent les calories dans les corps eux-mêmes",
+      "Utilisent des ondes électromagnétiques à hyperfréquence",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Micro-ondes : hyperfréquences ; calories produites dans les corps par rotation des molécules et frottement ; l'échauffement cesse quand l'eau est éliminée.",
+    "source": {
+      "page": 7,
+      "extrait": "La substance cesse de s'échauffer lorsque l'eau est éliminée"
+    },
+    "difficulte": 2,
+    "tags": [
+      "micro-ondes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/06-dessiccation-lyophilisation/qcm-035",
+    "type": "unique",
+    "enonce": "La fréquence généralement retenue pour le séchage par micro-ondes est :",
+    "options": [
+      "25 MHz",
+      "25 000 MHz",
+      "4,58 MHz",
+      "2500 MHz",
+      "250 MHz"
+    ],
+    "correctes": [
+      3
+    ],
+    "explication": "La valeur retenue est généralement 2500 MHz.",
+    "source": {
+      "page": 7,
+      "extrait": "La longueur d'onde retenue est généralement 2500 MHz"
+    },
+    "difficulte": 2,
+    "tags": [
+      "micro-ondes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/06-dessiccation-lyophilisation/qcm-036",
+    "type": "multiple",
+    "enonce": "Les avantages du séchage par micro-ondes sont :",
+    "options": [
+      "Bons résultats pour le séchage des granulés",
+      "Installation peu coûteuse",
+      "Rayonnement peu pénétrant",
+      "Dessiccation rapide",
+      "Installation peu encombrante"
+    ],
+    "correctes": [
+      0,
+      3,
+      4
+    ],
+    "explication": "Micro-ondes : dessiccation rapide, bons résultats pour les granulés, installation peu encombrante mais coûteuse.",
+    "source": {
+      "page": 7,
+      "extrait": "Installation peu encombrante mais coûteuse"
+    },
+    "difficulte": 2,
+    "tags": [
+      "micro-ondes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/06-dessiccation-lyophilisation/qcm-037",
+    "type": "multiple",
+    "enonce": "Le séchage par nébulisation :",
+    "options": [
+      "Convient aux solutions, suspensions ou liquides pâteux",
+      "Transforme instantanément les gouttelettes en petits grains de poudre",
+      "Convient aux PA sensibles à la chaleur grâce au temps de contact très court",
+      "Disperse le produit en fines gouttelettes dans un courant d'air très chaud (150 °C)",
+      "Nécessite une congélation préalable"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Nébulisation : dispersion en gouttelettes dans de l'air à 150 °C, poudre instantanée ; convient aux PA sensibles à la chaleur, à l'oxydation, à l'hydrolyse (temps de contact très court).",
+    "source": {
+      "page": 7,
+      "extrait": "dispersé en fines gouttelettes dans un courant d'air très chaud (150°C) qui les transforme instantanément en petits grains de poudres"
+    },
+    "difficulte": 1,
+    "tags": [
+      "nébulisation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/06-dessiccation-lyophilisation/qcm-038",
+    "type": "unique",
+    "enonce": "La nébulisation convient aux principes actifs sensibles à la chaleur car :",
+    "options": [
+      "L'air utilisé est froid",
+      "Elle s'opère sous vide poussé",
+      "Le produit est préalablement congelé",
+      "Le temps de contact est très court",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      3
+    ],
+    "explication": "Le procédé convient aux PA sensibles à la chaleur, à l'oxydation et à l'hydrolyse grâce à un temps de contact très court.",
+    "source": {
+      "page": 7,
+      "extrait": "temps de contact très court"
+    },
+    "difficulte": 2,
+    "tags": [
+      "nébulisation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/06-dessiccation-lyophilisation/qcm-039",
+    "type": "multiple",
+    "enonce": "Les applications de la nébulisation citées sont :",
+    "options": [
+      "Café soluble et lait en poudre",
+      "Fabrication d'excipients pour compression directe (lactose Fast-Flow)",
+      "Fabrication du lait pour nourrissons",
+      "Fabrication d'extraits végétaux secs",
+      "Fabrication de PA : antibiotiques, vitamines, enzymes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Toutes ces applications sont citées.",
+    "source": {
+      "page": 7,
+      "extrait": "Fabrication d'excipients pour compression directe Ex : lactose Fast- Flow"
+    },
+    "difficulte": 1,
+    "tags": [
+      "nébulisation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/06-dessiccation-lyophilisation/qcm-040",
+    "type": "unique",
+    "enonce": "Le lactose Fast-Flow, excipient pour compression directe, est obtenu par :",
+    "options": [
+      "Nébulisation",
+      "Séchage à cylindres",
+      "Séchage à infrarouge",
+      "Étuve à plateaux",
+      "Lyophilisation"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "La nébulisation sert à fabriquer des excipients pour compression directe, ex : lactose Fast-Flow.",
+    "source": {
+      "page": 7,
+      "extrait": "Ex : lactose Fast- Flow"
+    },
+    "difficulte": 2,
+    "tags": [
+      "nébulisation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/06-dessiccation-lyophilisation/qcm-041",
+    "type": "unique",
+    "enonce": "Parmi les procédés suivants, lesquels sont cités comme permettant de réduire la taille des particules au cours du séchage ?",
+    "options": [
+      "Le séchoir tunnel",
+      "La nébulisation",
+      "L'armoire à vide",
+      "L'étuve à plateaux",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Parmi les intérêts du séchage : réduire la taille des particules (nébulisation).",
+    "source": {
+      "page": 2,
+      "extrait": "Réduire la taille des particules (nébulisation)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "nébulisation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/06-dessiccation-lyophilisation/qcm-042",
+    "type": "multiple",
+    "enonce": "La lyophilisation :",
+    "options": [
+      "Est une dessiccation par vaporisation de l'eau liquide à 150 °C",
+      "Est une dessiccation par sublimation de la glace",
+      "Peut concerner des solutions, suspensions, émulsions, tissus animaux ou végétaux",
+      "Porte sur des produits préalablement congelés",
+      "Donne un produit sec, poreux, de reconstitution rapide et intégrale (lyophile)"
+    ],
+    "correctes": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Lyophilisation : sublimation de la glace de produits préalablement congelés (solutions, suspensions, émulsions, tissus) ; produit sec, poreux, de reconstitution rapide et intégrale.",
+    "source": {
+      "page": 8,
+      "extrait": "La lyophilisation est une technique de dessiccation par sublimation de la glace"
+    },
+    "difficulte": 1,
+    "tags": [
+      "lyophilisation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/06-dessiccation-lyophilisation/qcm-043",
+    "type": "multiple",
+    "enonce": "La lyophilisation permet une excellente conservation des substances fragiles car :",
+    "options": [
+      "Elle est réalisée à l'abri de l'action oxydante de l'air",
+      "La dessiccation est réalisée à basse température",
+      "Elle conserve l'eau de mouillage",
+      "Elle utilise de l'air très chaud",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "La dessiccation est réalisée à basse température et à l'abri de l'action oxydante de l'air.",
+    "source": {
+      "page": 8,
+      "extrait": "la dessiccation est réalisée à basse température et à l'abri de l'action oxydante de l'air"
+    },
+    "difficulte": 1,
+    "tags": [
+      "lyophilisation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/06-dessiccation-lyophilisation/qcm-044",
+    "type": "multiple",
+    "enonce": "Le principe de la lyophilisation repose sur :",
+    "options": [
+      "La vaporisation directe de la glace sans passage par l'état liquide",
+      "La transformation de l'eau en glace par congélation",
+      "L'élimination de la vapeur par condensation",
+      "Le fait qu'en dessous de 4,58 mmHg l'état liquide de l'eau n'existe pas",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "L'eau congelée est vaporisée directement (sublimation), la vapeur éliminée par condensation ; sous 4,58 mmHg l'état liquide n'existe pas (phases solide et gazeuse seulement).",
+    "source": {
+      "page": 8,
+      "extrait": "en dessous d'une certaine pression 4,58 mm Hg pour l'eau l'état liquide n'existe pas"
+    },
+    "difficulte": 1,
+    "tags": [
+      "lyophilisation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/06-dessiccation-lyophilisation/qcm-045",
+    "type": "unique",
+    "enonce": "Pour l'eau, la pression en dessous de laquelle l'état liquide n'existe pas est :",
+    "options": [
+      "45,8 mmHg",
+      "0,458 mmHg",
+      "760 mmHg",
+      "4,58 mmHg",
+      "458 mmHg"
+    ],
+    "correctes": [
+      3
+    ],
+    "explication": "En dessous de 4,58 mmHg pour l'eau, l'état liquide n'existe pas.",
+    "source": {
+      "page": 8,
+      "extrait": "4,58 mm Hg pour l'eau"
+    },
+    "difficulte": 2,
+    "tags": [
+      "lyophilisation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/06-dessiccation-lyophilisation/qcm-046",
+    "type": "multiple",
+    "enonce": "Dans un lyophilisateur :",
+    "options": [
+      "L'enceinte B est refroidie à une température Tb < Ta",
+      "La tension de vapeur en B est inférieure à celle en A",
+      "Deux enceintes A et B sont reliées par une large tubulure",
+      "La vapeur se déplace de B vers A",
+      "L'enceinte A, à la température Ta, assure la congélation du produit"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explication": "Tb < Ta → Pb < Pa → la vapeur se déplace de A vers B où elle se transforme en glace.",
+    "source": {
+      "page": 8,
+      "extrait": "Tb<Ta => Pb< Pa => déplacement de la vapeur de A vers B où elle se transforme en glace"
+    },
+    "difficulte": 2,
+    "tags": [
+      "lyophilisateur"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/06-dessiccation-lyophilisation/qcm-047",
+    "type": "unique",
+    "enonce": "Dans un lyophilisateur, la sublimation de la glace a lieu :",
+    "options": [
+      "Dans l'enceinte A (produit)",
+      "Dans l'enceinte B (condenseur)",
+      "Dans la tubulure",
+      "Dans la pompe à vide",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "En A il y a sublimation de la glace ; en B, condensation de la vapeur en glace.",
+    "source": {
+      "page": 8,
+      "extrait": "En A il y'a sublimation de la glace"
+    },
+    "difficulte": 2,
+    "tags": [
+      "lyophilisateur"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/06-dessiccation-lyophilisation/qcm-048",
+    "type": "unique",
+    "enonce": "Dans un lyophilisateur, la mise sous vide de l'ensemble :",
+    "options": [
+      "Fait fondre la glace en A",
+      "Accélère le déplacement de la vapeur",
+      "Permet la congélation du produit",
+      "Empêche la condensation en B",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "L'ensemble est mis sous vide pour accélérer le déplacement de la vapeur.",
+    "source": {
+      "page": 8,
+      "extrait": "L'ensemble est mis sous vide pour accélérer le déplacement de la vapeur"
+    },
+    "difficulte": 2,
+    "tags": [
+      "lyophilisateur"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/06-dessiccation-lyophilisation/qcm-049",
+    "type": "unique",
+    "enonce": "Concernant les températures du lyophilisateur, la vapeur se déplace de A vers B parce que :",
+    "options": [
+      "Tb > Ta, donc Pb > Pa",
+      "La pression est plus élevée en B",
+      "Ta = Tb",
+      "Tb < Ta, donc Pb < Pa",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      3
+    ],
+    "explication": "Du fait que Tb < Ta, la tension de vapeur en B est inférieure à celle en A : la vapeur migre de A vers B.",
+    "source": {
+      "page": 8,
+      "extrait": "Du fait que Tb < Ta, la tension de vapeur en B est inférieure à la tension de vapeur en A"
+    },
+    "difficulte": 2,
+    "tags": [
+      "lyophilisateur"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/06-dessiccation-lyophilisation/qcm-050",
+    "type": "multiple",
+    "enonce": "La congélation préalable à la lyophilisation :",
+    "options": [
+      "Peut utiliser la neige carbonique",
+      "Peut porter sur un produit en vrac, en flacons ou en blister",
+      "Peut utiliser l'azote liquide (−196 °C)",
+      "Diminue la température du produit entre −20 °C et −80 °C",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Congélation entre −20 et −80 °C par neige carbonique ou azote liquide (−196 °C) ; produit en vrac (bacs), flacons ou blister.",
+    "source": {
+      "page": 8,
+      "extrait": "La congélation consiste à diminuer la température du produit à une valeur comprise entre - 20 °C et -80 °C"
+    },
+    "difficulte": 1,
+    "tags": [
+      "congélation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/06-dessiccation-lyophilisation/qcm-051",
+    "type": "unique",
+    "enonce": "La température de l'azote liquide citée dans le cours est :",
+    "options": [
+      "−196 °C",
+      "−20 °C",
+      "−273 °C",
+      "−80 °C",
+      "−78 °C"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Azote liquide : −196 °C.",
+    "source": {
+      "page": 8,
+      "extrait": "l'azote liquide (- 196°C)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "congélation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/06-dessiccation-lyophilisation/qcm-052",
+    "type": "multiple",
+    "enonce": "Concernant les applications de la lyophilisation :",
+    "options": [
+      "Il est peu coûteux et utilisé pour tous les comprimés",
+      "Il peut conserver des greffons (os, fragment de peau, cornée)",
+      "Il sert à fabriquer des lyophilisats injectables (thermolabiles, instables en solution) et oraux",
+      "Le procédé est très onéreux (appareils coûteux, forte consommation d'énergie)",
+      "Il est employé pour des produits biologiques altérables (vaccins, enzymes, anticorps, hormones)"
+    ],
+    "correctes": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "La lyophilisation, très onéreuse, est réservée aux produits biologiques altérables, aux lyophilisats injectables et oraux et à la conservation des greffons.",
+    "source": {
+      "page": 9,
+      "extrait": "on l'emploi pour les produits biologiques altérables tels que les vaccins , les enzymes et en particulier les anticorps, les hormones"
+    },
+    "difficulte": 1,
+    "tags": [
+      "applications"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/06-dessiccation-lyophilisation/qcm-053",
+    "type": "multiple",
+    "enonce": "Les greffons dont la conservation par lyophilisation est citée sont :",
+    "options": [
+      "Os",
+      "Cœur entier",
+      "Cornée",
+      "Rein",
+      "Fragment de peau"
+    ],
+    "correctes": [
+      0,
+      2,
+      4
+    ],
+    "explication": "Conservation des greffons d'origine humaine ou animale : os, fragment de peau, cornée…",
+    "source": {
+      "page": 9,
+      "extrait": "os, fragment de peau, cornée"
+    },
+    "difficulte": 2,
+    "tags": [
+      "applications"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/06-dessiccation-lyophilisation/qcm-054",
+    "type": "multiple",
+    "enonce": "Les lyophilisats injectables sont indiqués pour des PA :",
+    "options": [
+      "Instables en solution",
+      "Thermolabiles",
+      "Insensibles à la chaleur",
+      "Très stables en solution aqueuse",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Fabrication de lyophilisats injectables (thermolabiles et instables en solution) et oraux.",
+    "source": {
+      "page": 9,
+      "extrait": "lyophilisats injectables (thermolabiles et instables en solution) et oraux"
+    },
+    "difficulte": 2,
+    "tags": [
+      "applications"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/06-dessiccation-lyophilisation/qcm-055",
+    "type": "multiple",
+    "enonce": "Les contrôles après dessiccation comprennent :",
+    "options": [
+      "La mesure de la perte de poids",
+      "Le dosage des éventuels produits de dégradation",
+      "La recherche de l'eau de constitution par sublimation",
+      "La mesure du taux d'humidité résiduelle",
+      "Le dosage du principe actif"
+    ],
+    "correctes": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "explication": "Contrôles : dosage du PA et des produits de dégradation ; humidité résiduelle (dessiccateur IR ou étuve) par mesure de la perte de poids.",
+    "source": {
+      "page": 9,
+      "extrait": "Dosage du principe actif et des éventuels produits de dégradation"
+    },
+    "difficulte": 1,
+    "tags": [
+      "contrôles"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/06-dessiccation-lyophilisation/qcm-056",
+    "type": "multiple",
+    "enonce": "Pour mesurer le taux d'humidité résiduelle, le cours cite :",
+    "options": [
+      "Le dessiccateur à infrarouge : 15 min à 85 °C",
+      "L'étuve : 30 min à 105 °C",
+      "L'étuve : 15 min à 85 °C",
+      "Le dessiccateur à infrarouge : 30 min à 105 °C",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Dessiccateur à infrarouge (15 min à 85 °C) ou étuve (30 min à 105 °C) ; on mesure la perte en poids.",
+    "source": {
+      "page": 9,
+      "extrait": "dessiccateur à infrarouge (15mn à 85°C) ou l'étuve (30mn 105°C)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "contrôles"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/06-dessiccation-lyophilisation/qcm-057",
+    "type": "multiple",
+    "enonce": "Un séchage inadéquat :",
+    "options": [
+      "Peut conduire à des produits mal desséchés",
+      "Peut affecter la sécurité du produit",
+      "Peut affecter l'efficacité du produit",
+      "Impose d'utiliser des équipements fiables et des protocoles rigoureux",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Conclusion : un séchage inadéquat peut affecter efficacité et sécurité ; d'où des équipements fiables et des protocoles rigoureux.",
+    "source": {
+      "page": 9,
+      "extrait": "Un séchage inadéquat peut conduire à des produits mal desséchés, ce qui peut affecter leur efficacité et leur sécurité"
+    },
+    "difficulte": 1,
+    "tags": [
+      "conclusion"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/06-dessiccation-lyophilisation/qcm-058",
+    "type": "multiple",
+    "enonce": "Associez chaque séchoir à son mode de transfert de calories :",
+    "options": [
+      "Lyophilisateur : froid",
+      "Séchoir à cylindres : conduction",
+      "Séchoir à infrarouge : rayonnement",
+      "Lit d'air fluidisé : convection",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Convection (étuve, lit fluidisé, tunnel), conduction (cylindres, sous vide), rayonnement (IR, micro-ondes), froid (lyophilisation).",
+    "source": {
+      "page": 4,
+      "extrait": "Rayonnement : par irradiation Froid : cryodessiccation ou lyophilisation"
+    },
+    "difficulte": 2,
+    "tags": [
+      "synthèse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/06-dessiccation-lyophilisation/qcm-059",
+    "type": "multiple",
+    "enonce": "Cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "L'étuve à plateaux convient aux thermolabiles",
+      "La nébulisation utilise de l'air froid",
+      "Le séchoir à infrarouge est très pénétrant",
+      "L'eau de constitution est éliminée par dessiccation",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "L'eau de constitution n'est pas éliminée ; l'étuve ne convient pas aux thermolabiles ; la nébulisation utilise de l'air à 150 °C ; l'IR est peu pénétrant.",
+    "source": {
+      "page": 3,
+      "extrait": "Au cours d'une dessiccation, on cherche à éliminer uniquement l'eau libre"
+    },
+    "difficulte": 2,
+    "tags": [
+      "synthèse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/06-dessiccation-lyophilisation/qcm-060",
+    "type": "multiple",
+    "enonce": "Pour une substance thermosensible, les procédés de séchage adaptés selon le cours sont :",
+    "options": [
+      "La nébulisation (temps de contact très court)",
+      "Le séchage sous vide (armoire à vide)",
+      "La lyophilisation",
+      "L'étuve à plateaux",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Lyophilisation (thermosensibles), nébulisation (temps de contact très court) et séchoirs sous vide (basse température). L'étuve à plateaux ne convient pas aux thermolabiles.",
+    "source": {
+      "page": 5,
+      "extrait": "ce qui est intéressant pour les substances sensibles à la chaleur et au contact de l'air"
+    },
+    "difficulte": 3,
+    "tags": [
+      "synthèse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/06-dessiccation-lyophilisation/qcm-061",
+    "type": "multiple",
+    "enonce": "Parmi les séchoirs suivants, lesquels sont décrits comme rapides ?",
+    "options": [
+      "Le séchoir tunnel (progressif)",
+      "Le séchoir à micro-ondes",
+      "Le lit d'air fluidisé",
+      "L'étuve à plateaux",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      1,
+      2
+    ],
+    "explication": "Lit d'air fluidisé : séchage rapide et homogène ; micro-ondes : dessiccation rapide. L'étuve est longue ; le tunnel est progressif.",
+    "source": {
+      "page": 4,
+      "extrait": "Mode de séchage rapide"
+    },
+    "difficulte": 2,
+    "tags": [
+      "synthèse"
+    ],
+    "origine": "genere"
+  }
+]

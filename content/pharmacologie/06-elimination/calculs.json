@@ -1,0 +1,98 @@
+[
+  {
+    "id": "pharmacologie/06-elimination/calcul-01",
+    "titre": "Clairance totale",
+    "enonce": "Un médicament est épuré par le rein (clairance rénale {clr} ml/min), par le foie (clairance hépatique {clh} ml/min) et par le poumon (clairance pulmonaire {clp} ml/min). Calculer sa clairance totale.",
+    "variables": {
+      "clr": {
+        "min": 20,
+        "max": 120,
+        "pas": 5,
+        "unite": "ml/min"
+      },
+      "clh": {
+        "min": 10,
+        "max": 80,
+        "pas": 5,
+        "unite": "ml/min"
+      },
+      "clp": {
+        "min": 0,
+        "max": 20,
+        "pas": 1,
+        "unite": "ml/min"
+      }
+    },
+    "formule": "clr + clh + clp",
+    "unite": "ml/min",
+    "decimales": 0,
+    "etapes": [
+      "Étape 1 : la clairance totale résulte de plusieurs processus d'épuration.",
+      "Étape 2 : Cl totale = Cl rénale + Cl hépatique + Cl pulmonaire (+ Cl intestinale).",
+      "Étape 3 : additionner les valeurs."
+    ],
+    "rappel": "Clairance totale = ∑ des clairances partielles (rénale, hépatique, pulmonaire, intestinale)."
+  },
+  {
+    "id": "pharmacologie/06-elimination/calcul-02",
+    "titre": "Concentration restante après n demi-vies",
+    "enonce": "Un médicament atteint une concentration plasmatique de {c0} mg/L au temps T0. Sa demi-vie d'élimination est de {t12} h. Quelle sera la concentration après {n} demi-vies (soit {n} × {t12} h) ?",
+    "variables": {
+      "c0": {
+        "min": 20,
+        "max": 160,
+        "pas": 10,
+        "unite": "mg/L"
+      },
+      "t12": {
+        "min": 2,
+        "max": 12,
+        "pas": 1,
+        "unite": "h"
+      },
+      "n": {
+        "min": 1,
+        "max": 5,
+        "pas": 1,
+        "unite": "demi-vies"
+      }
+    },
+    "formule": "c0 / Math.pow(2, n)",
+    "unite": "mg/L",
+    "decimales": 2,
+    "etapes": [
+      "Étape 1 : à chaque demi-vie, la moitié de la quantité de PA présente est éliminée.",
+      "Étape 2 : après n demi-vies, il reste C0 / 2^n.",
+      "Étape 3 : appliquer avec la valeur de C0 (la valeur de t½ sert à convertir le temps en nombre de demi-vies)."
+    ],
+    "rappel": "Demi-vie : temps nécessaire pour éliminer la moitié de la quantité de PA de l'organisme."
+  },
+  {
+    "id": "pharmacologie/06-elimination/calcul-03",
+    "titre": "Pourcentage de PA éliminé après un temps donné",
+    "enonce": "Un médicament a une demi-vie d'élimination de {t12} h. Quel pourcentage de la quantité initiale de PA a été éliminé après {n} demi-vies ?",
+    "variables": {
+      "t12": {
+        "min": 2,
+        "max": 24,
+        "pas": 1,
+        "unite": "h"
+      },
+      "n": {
+        "min": 1,
+        "max": 7,
+        "pas": 1,
+        "unite": "demi-vies"
+      }
+    },
+    "formule": "100 * (1 - 1 / Math.pow(2, n))",
+    "unite": "%",
+    "decimales": 1,
+    "etapes": [
+      "Étape 1 : fraction restante après n demi-vies = 1 / 2^n.",
+      "Étape 2 : fraction éliminée = 1 − 1 / 2^n.",
+      "Étape 3 : multiplier par 100 pour obtenir un pourcentage."
+    ],
+    "rappel": "Après chaque demi-vie, la moitié du PA restant est éliminée (50 %, 75 %, 87,5 %…)."
+  }
+]

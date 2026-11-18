@@ -1,0 +1,13 @@
+{
+  "id": "pharmacologie/06-elimination",
+  "module": "pharmacologie",
+  "ordre": 6,
+  "titre": "Élimination des médicaments",
+  "type": "cours",
+  "source": {
+    "driveId": "1K5Axd25_JD65_aL0JOwhZc8C9xlwZjS6",
+    "fichier": "6. Elimination Des Médicaments.pdf",
+    "modifiedTime": "2026-10-25T18:57:42.791Z"
+  },
+  "resume": "Voies d'élimination des médicaments (rénale : filtration, sécrétion, réabsorption et influence du pH/pKa ; digestive dont biliaire et cycle entéro-hépatique ; pulmonaire, lactée, sudorale, lacrymale, autres) et paramètres d'élimination (demi-vie, clairance)."
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/mnemo-001",
+    "titre": "Voie du shikimate",
+    "moyen": "« Phil Achète Cinq Livres Lourds »",
+    "explication": "Phénols simples, Acides phénols, Coumarines, Lignanes, Lignines."
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/mnemo-002",
+    "titre": "Classes de flavonoïdes",
+    "moyen": "« Quand Le Navire Glisse, Cap Cyan »",
+    "explication": "Quercétine (flavonol), Lutéoline (flavone), Naringénine (flavanone), Génistéine (isoflavone), Catéchine (flavanol), Cyanidine (anthocyanidine)."
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/mnemo-003",
+    "titre": "Nombre de carbones",
+    "moyen": "« 6-7-9-14-15-18 : Phénol, Benzoïque, Cinnamique, Stilbène, Flavonoïde, Lignane »",
+    "explication": "C6 = 6 ; C6–C1 = 7 ; C6–C3 = 9 ; C6–C2–C6 = 14 ; C6–C3–C6 = 15 ; (C6–C3)2 = 18."
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/mnemo-004",
+    "titre": "Busserole",
+    "moyen": "« Busserole = Bactéries urinaires en 7 jours »",
+    "explication": "Arbutoside → hydroquinone urinaire ; infection urinaire basse de la femme ; 7 jours maximum."
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/mnemo-005",
+    "titre": "Dosages",
+    "moyen": "« Folin pour Tous, Alu pour Flavo »",
+    "explication": "Folin-Ciocalteu = polyphénols totaux ; AlCl3 = flavonoïdes totaux."
+  }
+]

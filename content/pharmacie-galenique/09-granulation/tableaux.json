@@ -1,0 +1,160 @@
+[
+  {
+    "id": "pharmacie-galenique/09-granulation/tableau-001",
+    "titre": "Les quatre états de répartition du liquide",
+    "colonnes": [
+      "État",
+      "Répartition du liquide",
+      "Conséquence"
+    ],
+    "lignes": [
+      [
+        "Pendulaire",
+        "Ponts liquides isolés aux points de contact",
+        "Cohésion faible, pas encore utile"
+      ],
+      [
+        "Funiculaire",
+        "Réseau continu ; pores avec liquide et air",
+        "Granulation possible"
+      ],
+      [
+        "Capillaire",
+        "Pores saturés ; ménisques en surface",
+        "Cohésion maximale : état recherché"
+      ],
+      [
+        "Goutte",
+        "Liquide en excès, particules noyées",
+        "Surmouillage : masse pâteuse, inexploitable"
+      ]
+    ]
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/tableau-002",
+    "titre": "Comparaison voie humide / voie sèche / compression directe",
+    "colonnes": [
+      "Critère",
+      "Voie humide",
+      "Voie sèche",
+      "Compression directe"
+    ],
+    "lignes": [
+      [
+        "Principe",
+        "Liquide liant puis séchage",
+        "Compactage mécanique",
+        "Poudres comprimées telles quelles"
+      ],
+      [
+        "Nombre d'étapes",
+        "Élevé, coûteux",
+        "Intermédiaire",
+        "Réduit, économique"
+      ],
+      [
+        "PA sensible à l'eau/chaleur",
+        "Déconseillée",
+        "Adaptée",
+        "Adaptée"
+      ],
+      [
+        "Uniformité (faible dose)",
+        "Bonne si PA dissous dans le liant",
+        "Moyenne",
+        "Risque de ségrégation"
+      ],
+      [
+        "Écoulement/compressibilité",
+        "Très bons",
+        "Bons",
+        "Dépend des poudres"
+      ],
+      [
+        "Défaut typique",
+        "Migration des solutés",
+        "Poussières, fines",
+        "Ségrégation"
+      ]
+    ]
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/tableau-003",
+    "titre": "Classification de l'écoulement (USP <1174>, indicative)",
+    "colonnes": [
+      "Écoulement",
+      "IC (%)",
+      "H",
+      "Angle de repos (°)"
+    ],
+    "lignes": [
+      [
+        "Excellent",
+        "≤ 10",
+        "1,00–1,11",
+        "25–30"
+      ],
+      [
+        "Bon",
+        "11–15",
+        "1,12–1,18",
+        "31–35"
+      ],
+      [
+        "Assez bon",
+        "16–20",
+        "1,19–1,25",
+        "36–40"
+      ],
+      [
+        "Passable",
+        "21–25",
+        "1,26–1,34",
+        "41–45"
+      ],
+      [
+        "Médiocre",
+        "26–31",
+        "1,35–1,45",
+        "46–55"
+      ],
+      [
+        "Très médiocre ou pire",
+        "≥ 32",
+        "≥ 1,46",
+        "≥ 56"
+      ]
+    ]
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/tableau-004",
+    "titre": "Défauts fréquents de granulation",
+    "colonnes": [
+      "Défaut",
+      "Cause probable",
+      "Action corrective"
+    ],
+    "lignes": [
+      [
+        "Granulés durs, dissolution lente",
+        "Excès de liant ou malaxage trop long",
+        "Réduire le liant ou le temps"
+      ],
+      [
+        "Trop de fines, écoulement médiocre",
+        "Liant insuffisant",
+        "Augmenter le liant ou le temps"
+      ],
+      [
+        "Hétérogénéité de teneur",
+        "Migration des solutés au séchage",
+        "Calibrer avant séchage ou lit fluidisé"
+      ],
+      [
+        "Dégradation du PA",
+        "Eau ou chaleur",
+        "Voie sèche ; réduire la température"
+      ]
+    ]
+  }
+]

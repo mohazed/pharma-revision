@@ -1,0 +1,252 @@
+[
+  {
+    "terme": "Analyse immédiate",
+    "definition": "Ancien nom des méthodes de séparation, partie la plus anciennement connue de la chimie analytique.",
+    "cours": "chimie-analytique/01-methodes-de-separation"
+  },
+  {
+    "terme": "Mélange homogène",
+    "definition": "Mélange se présentant sous une seule phase à l'œil nu.",
+    "cours": "chimie-analytique/01-methodes-de-separation"
+  },
+  {
+    "terme": "Mélange hétérogène",
+    "definition": "Mélange dans lequel on distingue au moins deux phases à l'œil nu.",
+    "cours": "chimie-analytique/01-methodes-de-separation"
+  },
+  {
+    "terme": "Filtration",
+    "definition": "Passage d'un mélange à travers une membrane poreuse perméable aux liquides et imperméable aux solides en suspension.",
+    "cours": "chimie-analytique/01-methodes-de-separation"
+  },
+  {
+    "terme": "Verre fritté",
+    "definition": "Matière filtrante minérale obtenue en chauffant légèrement une poudre de verre ; porosité notée de 0 (pores larges) à 5 (pores fins).",
+    "cours": "chimie-analytique/01-methodes-de-separation"
+  },
+  {
+    "terme": "Fiole de Kitasato",
+    "definition": "Fiole conique à ajustage latéral reliée à une trompe à vide, utilisée en filtration sous vide.",
+    "cours": "chimie-analytique/01-methodes-de-separation"
+  },
+  {
+    "terme": "Entonnoir de Buchner",
+    "definition": "Support en porcelaine portant un disque poreux, utilisé en filtration sous vide.",
+    "cours": "chimie-analytique/01-methodes-de-separation"
+  },
+  {
+    "terme": "Centrifugation",
+    "definition": "Séparation des composants d'un mélange selon leur densité sous l'effet d'une force centrifuge F = 4π²Rn²m.",
+    "cours": "chimie-analytique/01-methodes-de-separation"
+  },
+  {
+    "terme": "Ultracentrifugation",
+    "definition": "Centrifugation à très grande vitesse (≥ 50 000 tr/min, 250 000 à 1 000 000 g) séparant notamment les protéines selon leur masse moléculaire.",
+    "cours": "chimie-analytique/01-methodes-de-separation"
+  },
+  {
+    "terme": "Décantation",
+    "definition": "Séparation de deux liquides non miscibles par repos dans une ampoule à décanter.",
+    "cours": "chimie-analytique/01-methodes-de-separation"
+  },
+  {
+    "terme": "Lévigation",
+    "definition": "Séparation de solides selon leur densité par entraînement des fractions les moins denses par un courant de liquide non solvant.",
+    "cours": "chimie-analytique/01-methodes-de-separation"
+  },
+  {
+    "terme": "Tamisage",
+    "definition": "Isolement d'un constituant solide d'une dimension déterminée.",
+    "cours": "chimie-analytique/01-methodes-de-separation"
+  },
+  {
+    "terme": "Évaporateur rotatif",
+    "definition": "Appareil d'élimination du solvant par distillation sous pression réduite, avec rotation du ballon.",
+    "cours": "chimie-analytique/01-methodes-de-separation"
+  },
+  {
+    "terme": "Non solvant",
+    "definition": "Liquide miscible au solvant initial mais sans pouvoir de dissolution pour la substance, dont l'ajout provoque la précipitation.",
+    "cours": "chimie-analytique/01-methodes-de-separation"
+  },
+  {
+    "terme": "Relargage",
+    "definition": "Séparation d'un composé (souvent organique) par addition d'un soluté, généralement un sel minéral, à une solution aqueuse.",
+    "cours": "chimie-analytique/01-methodes-de-separation"
+  },
+  {
+    "terme": "Séries de Hofmeister",
+    "definition": "Classement décroissant des ions selon leur pouvoir relargant (F⁻ > SO₄²⁻ > citrate > tartrate > Cl⁻ > Br⁻ ; Li⁺ > Na⁺ > K⁺ > NH₄⁺ > Mg²⁺).",
+    "cours": "chimie-analytique/01-methodes-de-separation"
+  },
+  {
+    "terme": "Osmose",
+    "definition": "Transfert d'un soluté vers un solvant miscible au premier à travers une membrane poreuse.",
+    "cours": "chimie-analytique/02-extraction-liquide-liquide"
+  },
+  {
+    "terme": "Extraction liquide-liquide",
+    "definition": "Transfert d'un soluté d'une phase liquide vers un solvant non miscible selon sa solubilité dans chacun.",
+    "cours": "chimie-analytique/02-extraction-liquide-liquide"
+  },
+  {
+    "terme": "Coefficient de partage (λ ou K)",
+    "definition": "Constante thermodynamique égale au rapport CB/CA des concentrations d'une même forme à l'équilibre ; égale à SB/SA ; varie avec la température.",
+    "cours": "chimie-analytique/02-extraction-liquide-liquide"
+  },
+  {
+    "terme": "Loi de Berthelot-Jungfleisch",
+    "definition": "À l'équilibre, les concentrations d'un corps partagé entre deux solvants non miscibles sont dans un rapport constant, quels que soient solubilité et volumes.",
+    "cours": "chimie-analytique/02-extraction-liquide-liquide"
+  },
+  {
+    "terme": "Distribution régulière",
+    "definition": "Distribution pour laquelle CB = f(CA) est une droite (λ ou D constant).",
+    "cours": "chimie-analytique/02-extraction-liquide-liquide"
+  },
+  {
+    "terme": "Distribution irrégulière (quelconque)",
+    "definition": "Distribution non linéaire due à des formes différentes du soluté (association, dissociation, variation de pH).",
+    "cours": "chimie-analytique/02-extraction-liquide-liquide"
+  },
+  {
+    "terme": "Taux de distribution (D)",
+    "definition": "Rapport des concentrations totales du soluté dans B et A, toutes formes confondues.",
+    "cours": "chimie-analytique/02-extraction-liquide-liquide"
+  },
+  {
+    "terme": "Rapport de quantité (α)",
+    "definition": "α = QB/QA = λ·VB/VA ; coefficient de partage corrigé ou apparent, non constant.",
+    "cours": "chimie-analytique/02-extraction-liquide-liquide"
+  },
+  {
+    "terme": "Rendement d'extraction (ρ)",
+    "definition": "Rapport de la quantité extraite à la quantité initiale ; extraction simple : ρ = α/(1+α).",
+    "cours": "chimie-analytique/02-extraction-liquide-liquide"
+  },
+  {
+    "terme": "Raffiné",
+    "definition": "Phase initiale A appauvrie en soluté après extraction.",
+    "cours": "chimie-analytique/02-extraction-liquide-liquide"
+  },
+  {
+    "terme": "Extrait",
+    "definition": "Phase B (solvant extractif) enrichie en soluté après extraction.",
+    "cours": "chimie-analytique/02-extraction-liquide-liquide"
+  },
+  {
+    "terme": "Étage",
+    "definition": "Ensemble agitation + décantation ; théorique si l'équilibre de partage est parfait.",
+    "cours": "chimie-analytique/02-extraction-liquide-liquide"
+  },
+  {
+    "terme": "Extraction répétée (multiple)",
+    "definition": "Extraction du raffiné par des volumes successifs de solvant pur, jusqu'à rendement satisfaisant ; extraction à n étages.",
+    "cours": "chimie-analytique/03-extractions-repetees"
+  },
+  {
+    "terme": "ΣQB",
+    "definition": "Quantité totale extraite au cours d'une extraction répétée (somme des extraits réunis) = QA0 − QAn.",
+    "cours": "chimie-analytique/03-extractions-repetees"
+  },
+  {
+    "terme": "QAn",
+    "definition": "Quantité de soluté restant dans le dernier raffiné après n étages.",
+    "cours": "chimie-analytique/03-extractions-repetees"
+  },
+  {
+    "terme": "Extraction continue",
+    "definition": "Mode d'extraction répétée avec apport continuel de solvant neuf, distillé puis renvoyé dans la solution à extraire.",
+    "cours": "chimie-analytique/03-extractions-repetees"
+  },
+  {
+    "terme": "Perforateur de Jalade",
+    "definition": "Appareil classique d'extraction continue, existant en deux types selon que le solvant est plus lourd ou plus léger que la solution.",
+    "cours": "chimie-analytique/03-extractions-repetees"
+  },
+  {
+    "terme": "Extraction à contre-courant",
+    "definition": "Extraction continue en colonne où la phase à extraire et le solvant extractif circulent en sens inverse.",
+    "cours": "chimie-analytique/04-extraction-contre-courant"
+  },
+  {
+    "terme": "Hauteur équivalente à un étage théorique (HEET)",
+    "definition": "HEET = L/n : longueur de colonne correspondant à un étage théorique, reflet de l'efficacité.",
+    "cours": "chimie-analytique/04-extraction-contre-courant"
+  },
+  {
+    "terme": "Étage théorique (colonne)",
+    "definition": "Portion de colonne de longueur h telle que raffiné et extrait qui la quittent sont en équilibre de partage.",
+    "cours": "chimie-analytique/04-extraction-contre-courant"
+  },
+  {
+    "terme": "Masquage de charges",
+    "definition": "Élimination du caractère ionique d'une espèce (chélation, paire d'ions, modification du pH) pour la rendre extractible.",
+    "cours": "chimie-analytique/05-applications-extraction-ll"
+  },
+  {
+    "terme": "Dimérisation",
+    "definition": "Association de deux molécules (ex. acides carboxyliques par liaisons hydrogène en phase organique) ; augmente D si elle a lieu en phase organique.",
+    "cours": "chimie-analytique/05-applications-extraction-ll"
+  },
+  {
+    "terme": "Constante d'association K₂",
+    "definition": "K₂ = [(AH)₂]org/[AH]²org ; D = λ(1 + 2K₂[AH]org).",
+    "cours": "chimie-analytique/05-applications-extraction-ll"
+  },
+  {
+    "terme": "Chélate",
+    "definition": "Complexe cyclique formé lorsqu'un cation est lié par au moins deux groupements donneurs portés par un seul ligand.",
+    "cours": "chimie-analytique/05-applications-extraction-ll"
+  },
+  {
+    "terme": "Oxine",
+    "definition": "Hydroxy-8-quinoléine (XOH), chélateur ; moléculaire en solvant organique, XOH₂⁺ (pH < 5) ou XO⁻ (pH > 5) dans l'eau.",
+    "cours": "chimie-analytique/05-applications-extraction-ll"
+  },
+  {
+    "terme": "Dithizone",
+    "definition": "Diphénylthiocarbazone (H₂Dz), chélateur se comportant comme un diacide dans l'eau ; dosage du plomb.",
+    "cours": "chimie-analytique/05-applications-extraction-ll"
+  },
+  {
+    "terme": "Constante d'extraction KEX",
+    "definition": "Constante de l'équilibre n HLorg + Mⁿ⁺ ⇌ [MLn]org + nH⁺ ; KEX = λM·Kaⁿ·Ks/λHⁿ.",
+    "cours": "chimie-analytique/05-applications-extraction-ll"
+  },
+  {
+    "terme": "Paire d'ions",
+    "definition": "Association ionique globalement neutre mais ionisée entre un anion et un cation organiques, extractible en solvant peu dissociant.",
+    "cours": "chimie-analytique/05-applications-extraction-ll"
+  },
+  {
+    "terme": "Constante diélectrique (ε)",
+    "definition": "Grandeur caractérisant le caractère dissociant d'un solvant : εr < 15 paires non dissociées, > 40 dissociation totale.",
+    "cours": "chimie-analytique/05-applications-extraction-ll"
+  },
+  {
+    "terme": "Relation de Bjerrum",
+    "definition": "pKd = −log Kd = A + C/ε, simplifiée par Denison et Ramsay : une paire d'ions est plus stable en solvant peu dissociant.",
+    "cours": "chimie-analytique/05-applications-extraction-ll"
+  },
+  {
+    "terme": "DOSS",
+    "definition": "Dioctyl sulfosuccinate de sodium (Manoxol), tensioactif anionique plus hydrophobe que le lauryl sulfate, titrant 0,01 M en volumétrie de paires d'ions.",
+    "cours": "chimie-analytique/05-applications-extraction-ll"
+  },
+  {
+    "terme": "Lauryl sulfate de sodium (LSS, SDS)",
+    "definition": "Tensioactif anionique (dodécylsulfate) utilisé comme titrant 0,01 M des cations organiques.",
+    "cours": "chimie-analytique/05-applications-extraction-ll"
+  },
+  {
+    "terme": "Bleu Oracet B",
+    "definition": "Aminoanthraquinone associée au jaune de méthyle pour sensibiliser le virage en volumétrie de paires d'ions.",
+    "cours": "chimie-analytique/05-applications-extraction-ll"
+  },
+  {
+    "terme": "Déplacement mutuel",
+    "definition": "Remplacement d'un ion dans une paire par un ion capable de former une paire plus stable ; base de la séparation chromatographique.",
+    "cours": "chimie-analytique/05-applications-extraction-ll"
+  }
+]

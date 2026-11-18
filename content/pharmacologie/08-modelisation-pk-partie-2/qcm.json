@@ -1,0 +1,1705 @@
+[
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/qcm-001",
+    "type": "multiple",
+    "enonce": "Concernant le devenir du médicament administré par voie orale (système ADME) :",
+    "options": [
+      "La 2e étape est la distribution",
+      "La phase biopharmaceutique précède la résorption",
+      "La distribution précède la résorption",
+      "La 3e étape est l'élimination (métabolisation + excrétion rénale et biliaire)",
+      "La 1re étape est la résorption à partir de l'appareil digestif vers la circulation générale"
+    ],
+    "correctes": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "explication": "Le schéma du cours : administration orale → phase biopharmaceutique → résorption (1re étape) → circulation générale → distribution (2e étape) → élimination par métabolisation et excrétion rénale/biliaire (3e étape).",
+    "source": {
+      "page": 3,
+      "extrait": "RESORPTION 1er ETAPE ; DISTRIBUTION 2ème ETAPE ; ELIMINATION 3ème ETAPE"
+    },
+    "difficulte": 1,
+    "tags": [
+      "ADME"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/qcm-002",
+    "type": "multiple",
+    "enonce": "Concernant les représentations des modèles compartimentaux :",
+    "options": [
+      "Le modèle monocompartimental est caractérisé par un Vd unique",
+      "Le modèle bicompartimental ne comporte pas de compartiment central",
+      "Dans le modèle bicompartimental, la courbe présente une phase de distribution puis une phase d'élimination",
+      "Dans le modèle monocompartimental, la quantité dans le sang décroît selon une seule phase",
+      "Le modèle bicompartimental comporte un compartiment central et des compartiments périphériques"
+    ],
+    "correctes": [
+      0,
+      2,
+      3,
+      4
+    ],
+    "explication": "Le monocompartimental (un seul Vd) présente une décroissance monophasique ; le bicompartimental comporte un compartiment central et des compartiments périphériques, avec une phase de distribution puis une phase d'élimination.",
+    "source": {
+      "page": 9,
+      "extrait": "Bicompartimental : Quantité dans le sang ; distribution ; élimination"
+    },
+    "difficulte": 1,
+    "tags": [
+      "bicompartimental"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/qcm-003",
+    "type": "multiple",
+    "enonce": "Le modèle monocompartimental après administration orale est décrit par :",
+    "options": [
+      "Cp = E·e^(−ke·t) − A·e^(−ka·t)",
+      "Cp = D·e^(−kd·t) + E·e^(−ke·t)",
+      "Une droite d'élimination d'ordonnée à l'origine E",
+      "Une droite d'absorption obtenue par les résidus A = |C'p − Cexp|",
+      "Une droite unique en coordonnées semi-logarithmiques dès t0"
+    ],
+    "correctes": [
+      0,
+      2,
+      3
+    ],
+    "explication": "Voie orale monocompartimentale : Cp = E·e^(−ke·t) − A·e^(−ka·t) ; la droite d'élimination (ordonnée E) est extrapolée et les résidus donnent la droite d'absorption. L'équation b est celle du bicompartimental IV.",
+    "source": {
+      "page": 17,
+      "extrait": "Cp = E. e-Ke.t - A. e-Ka.t"
+    },
+    "difficulte": 1,
+    "tags": [
+      "monocompartimental oral"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/qcm-004",
+    "type": "multiple",
+    "enonce": "Dans le modèle bicompartimental après injection IV :",
+    "options": [
+      "Le médicament passe du compartiment central vers les compartiments périphériques avec la constante Kd",
+      "L'élimination se fait à partir du compartiment central avec la constante Ke",
+      "Le médicament est injecté dans le compartiment central",
+      "L'élimination se fait à partir des compartiments périphériques",
+      "Il existe une constante d'absorption Ka"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Après injection IV dans le compartiment central, le médicament se distribue vers les compartiments périphériques (Kd) et est éliminé à partir du compartiment central (Ke). Pas d'absorption par voie IV.",
+    "source": {
+      "page": 24,
+      "extrait": "Compartiments périphériques Kd Compartiment central Ke Elimination"
+    },
+    "difficulte": 1,
+    "tags": [
+      "bicompartimental IV"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/qcm-005",
+    "type": "multiple",
+    "enonce": "L'équation de la courbe du modèle bicompartimental IV est :",
+    "options": [
+      "Cp = D·e^(−kd·t) − E·e^(−ke·t)",
+      "Cp = C0·e^(−ke·t)",
+      "Cp = E·e^(−ke·t) − A·e^(−ka·t)",
+      "Cp = D·e^(−kd·t) + E·e^(−ke·t)",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      3
+    ],
+    "explication": "Bicompartimental IV : Cp = D·e^(−kd·t) + E·e^(−ke·t), somme de deux exponentielles (distribution et élimination).",
+    "source": {
+      "page": 25,
+      "extrait": "Cp = D. e-kd.t + E. e-ke.t"
+    },
+    "difficulte": 1,
+    "tags": [
+      "bicompartimental IV"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/qcm-006",
+    "type": "multiple",
+    "enonce": "Sur la courbe log C = f(t) du modèle bicompartimental IV :",
+    "options": [
+      "La phase initiale correspond à élimination + distribution",
+      "La droite de distribution a pour ordonnée à l'origine D",
+      "La droite d'élimination extrapolée a pour ordonnée à l'origine E",
+      "La phase terminale correspond à l'élimination",
+      "La phase initiale correspond à l'absorption"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Phase initiale rapide = élimination + distribution ; phase terminale = élimination (ordonnée E par extrapolation). La droite des résidus (distribution) a pour ordonnée D. Pas d'absorption par voie IV.",
+    "source": {
+      "page": 26,
+      "extrait": "Elimination + distribution ; Distribution ; Elimination"
+    },
+    "difficulte": 2,
+    "tags": [
+      "bicompartimental IV"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/qcm-007",
+    "type": "multiple",
+    "enonce": "La méthode des résidus (lissage) dans le modèle bicompartimental IV :",
+    "options": [
+      "Calcule les résidus D = |C'p − Cexp| aux temps de distribution",
+      "Permet de tracer la droite de distribution",
+      "Permet de calculer ka",
+      "Permet de calculer kd",
+      "Consiste à extrapoler la droite d'élimination pour obtenir C'p"
+    ],
+    "correctes": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "explication": "On extrapole la phase terminale (C'p) ; les différences D1 = |C'1 − C1|, D2, D3… donnent la droite de distribution, d'où kd. Il n'y a pas de ka par voie IV.",
+    "source": {
+      "page": 27,
+      "extrait": "D1=|C'1-C1| ; D2=|C'2-C2| ; D3=|C'3-C3| ; Méthode des résidus (lissage)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "méthode des résidus",
+      "Kd"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/qcm-008",
+    "type": "multiple",
+    "enonce": "Dans le modèle bicompartimental IV, les constantes se calculent ainsi :",
+    "options": [
+      "ke = −2,303 × (log C'2 − log C'1)/(t2 − t1)",
+      "kd = −2,303 × (log D2 − log D1)/(t2 − t1)",
+      "ke se calcule sur la droite des résidus",
+      "t1/2 de distribution = ln2/kd",
+      "kd se calcule sur la droite d'élimination"
+    ],
+    "correctes": [
+      0,
+      1,
+      3
+    ],
+    "explication": "kd se calcule sur la droite de distribution (résidus D) et ke sur la droite d'élimination (C'). t1/2 de distribution = ln2/kd.",
+    "source": {
+      "page": 28,
+      "extrait": "kD = −2,303 (log D2 − log D1)/(t2 − t1)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "Kd",
+      "Ke"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/qcm-009",
+    "type": "multiple",
+    "enonce": "Concernant les temps de demi-vie dans le modèle bicompartimental IV :",
+    "options": [
+      "t1/2 d'élimination = ln2 / ke",
+      "t1/2 d'élimination = ke / ln2",
+      "Ils peuvent être déterminés graphiquement : T1/2 = t2 − t1 quand C passe à C/2",
+      "t1/2 de distribution = ln2 / kd",
+      "t1/2 de distribution = ln2 / ka"
+    ],
+    "correctes": [
+      0,
+      2,
+      3
+    ],
+    "explication": "t1/2 distribution = ln2/kd ; t1/2 élimination = ln2/ke ; ou graphiquement T1/2 = t2 − t1 pour une concentration passant de C à C/2.",
+    "source": {
+      "page": 30,
+      "extrait": "t1/2 = ln2/kD ; Ou graphiquement ; t1/2 = ln2/ke"
+    },
+    "difficulte": 1,
+    "tags": [
+      "demi-vie"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/qcm-010",
+    "type": "unique",
+    "enonce": "Dans le modèle bicompartimental IV, l'AUC0→+∞ par la méthode mathématique est égale à :",
+    "options": [
+      "E/ke − A/ka",
+      "D × kd + E × ke",
+      "Cp0/ke",
+      "D/kd − E/ke",
+      "D/kd + E/ke"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "AUC0→+∞ = D/kd + E/ke (somme des aires des deux exponentielles).",
+    "source": {
+      "page": 32,
+      "extrait": "AUC0→+∞ = D/kD + E/ke"
+    },
+    "difficulte": 1,
+    "tags": [
+      "AUC"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/qcm-011",
+    "type": "unique",
+    "enonce": "Pour un médicament suivant un modèle bicompartimental IV : D = 20 mg/L, kd = 2 h⁻¹, E = 10 mg/L, ke = 0,2 h⁻¹. L'AUC0→∞ vaut :",
+    "options": [
+      "60 mg.h/L",
+      "10 mg.h/L",
+      "40 mg.h/L",
+      "30 mg.h/L",
+      "50 mg.h/L"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "AUC = D/kd + E/ke = 20/2 + 10/0,2 = 10 + 50 = 60 mg.h/L.",
+    "source": {
+      "page": 32,
+      "extrait": "AUC0→+∞ = D/kD + E/ke"
+    },
+    "difficulte": 2,
+    "tags": [
+      "AUC",
+      "calcul"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/qcm-012",
+    "type": "multiple",
+    "enonce": "Concernant l'AUC dans le modèle bicompartimental IV :",
+    "options": [
+      "Elle s'exprime en µg.h/ml",
+      "Elle ne peut pas être calculée par voie IV",
+      "La méthode mathématique utilise D, kd, E et ke",
+      "Elle peut être calculée graphiquement par la méthode des trapèzes",
+      "Elle peut être calculée par la méthode mathématique"
+    ],
+    "correctes": [
+      0,
+      2,
+      3,
+      4
+    ],
+    "explication": "L'AUC se calcule mathématiquement (D/kd + E/ke) ou graphiquement par les trapèzes (courbe en µg/ml en fonction du temps → µg.h/ml).",
+    "source": {
+      "page": 33,
+      "extrait": "Calcul de l'aire sous la courbe des concentrations plasmatiques (voie intraveineuse) par la méthode des trapèzes."
+    },
+    "difficulte": 1,
+    "tags": [
+      "AUC"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/qcm-013",
+    "type": "multiple",
+    "enonce": "Dans le modèle bicompartimental IV :",
+    "options": [
+      "Vd = Cl / ke",
+      "Vd = Cl × ke",
+      "Cl = AUC / Q",
+      "La clairance se calcule à partir de la dose injectée et de l'AUC",
+      "Cl = Q(dose IV) / AUC"
+    ],
+    "correctes": [
+      0,
+      3,
+      4
+    ],
+    "explication": "Cl = Q(dose IV)/AUC et Vd = Cl/ke.",
+    "source": {
+      "page": 34,
+      "extrait": "Cl = Q(doseIV)/AUC ; Vd = Cl/ke"
+    },
+    "difficulte": 1,
+    "tags": [
+      "clairance",
+      "volume de distribution"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/qcm-014",
+    "type": "unique",
+    "enonce": "Un médicament bicompartimental est injecté par voie IV à la dose de 300 mg ; l'AUC est de 60 mg.h/L et ke = 0,25 h⁻¹. Le Vd vaut :",
+    "options": [
+      "1,25 L",
+      "20 L",
+      "0,05 L",
+      "5 L",
+      "75 L"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Cl = Q/AUC = 300/60 = 5 L/h ; Vd = Cl/ke = 5/0,25 = 20 L.",
+    "source": {
+      "page": 34,
+      "extrait": "Cl = Q(doseIV)/AUC ; Vd = Cl/ke"
+    },
+    "difficulte": 2,
+    "tags": [
+      "volume de distribution",
+      "calcul"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/qcm-015",
+    "type": "multiple",
+    "enonce": "Dans le modèle bicompartimental après administration orale :",
+    "options": [
+      "Il est éliminé à partir du compartiment central avec la constante Ke",
+      "Il n'y a pas de phase de distribution",
+      "Le médicament est absorbé vers le compartiment central avec la constante Ka",
+      "Trois constantes de vitesse interviennent : Ka, Kd et Ke",
+      "Il se distribue vers les compartiments périphériques avec la constante Kd"
+    ],
+    "correctes": [
+      0,
+      2,
+      3,
+      4
+    ],
+    "explication": "Voie orale bicompartimentale : absorption (Ka) vers le compartiment central, distribution vers les périphériques (Kd), élimination (Ke) à partir du central.",
+    "source": {
+      "page": 36,
+      "extrait": "Ka Absorption Compartiment central Ke Elimination Kd Compartiments péripheriques"
+    },
+    "difficulte": 1,
+    "tags": [
+      "bicompartimental oral"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/qcm-016",
+    "type": "unique",
+    "enonce": "L'équation du modèle bicompartimental après administration orale est :",
+    "options": [
+      "C = D·e^(−kd·t) + E·e^(−ke·t)",
+      "C = E·e^(−ke·t) + D·e^(−kd·t) − A·e^(−ka·t)",
+      "C = E·e^(−ke·t) − D·e^(−kd·t) + A·e^(−ka·t)",
+      "C = C0·e^(−ke·t)",
+      "C = E·e^(−ke·t) − A·e^(−ka·t)"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Bicompartimental oral : C = E·e^(−ke·t) + D·e^(−kd·t) − A·e^(−ka·t) (trois exponentielles).",
+    "source": {
+      "page": 39,
+      "extrait": "C = Ee−ket + De−kDt − Ae−kat"
+    },
+    "difficulte": 2,
+    "tags": [
+      "bicompartimental oral"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/qcm-017",
+    "type": "unique",
+    "enonce": "Dans le modèle bicompartimental oral, l'AUC0→+∞ est égale à :",
+    "options": [
+      "E/ke − A/ka",
+      "A/ka − E/ke − D/kd",
+      "E/ke + D/kd + A/ka",
+      "D/kd + E/ke",
+      "E/ke + D/kd − A/ka"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "AUC0→+∞ = E/ke + D/kd − A/ka.",
+    "source": {
+      "page": 40,
+      "extrait": "AUC0→+∞ = E/ke + D/kD − A/ka"
+    },
+    "difficulte": 2,
+    "tags": [
+      "AUC"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/qcm-018",
+    "type": "multiple",
+    "enonce": "Comparaison des équations des modèles :",
+    "options": [
+      "Bi oral : trois exponentielles (ke, kd et ka)",
+      "Bi IV : deux exponentielles (kd et ke)",
+      "Mono IV : une seule exponentielle",
+      "Mono oral : deux exponentielles (ke et ka)",
+      "Toutes les propositions sont justes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Mono IV : C0·e^(−ke·t) ; mono oral : E·e^(−ke·t) − A·e^(−ka·t) ; bi IV : D·e^(−kd·t) + E·e^(−ke·t) ; bi oral : E·e^(−ke·t) + D·e^(−kd·t) − A·e^(−ka·t).",
+    "source": {
+      "page": 39,
+      "extrait": "C = Ee−ket + De−kDt − Ae−kat"
+    },
+    "difficulte": 2,
+    "tags": [
+      "synthèse modèles"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/qcm-019",
+    "type": "multiple",
+    "enonce": "L'administration répétée peut être :",
+    "options": [
+      "Uniquement intramusculaire",
+      "Continue, par perfusion IV",
+      "Réitérée, par voie IV",
+      "Continue par voie orale",
+      "Réitérée, par voie orale"
+    ],
+    "correctes": [
+      1,
+      2,
+      4
+    ],
+    "explication": "Le cours distingue l'administration répétée continue (perfusion IV) et réitérée (voie IV ou voie orale).",
+    "source": {
+      "page": 42,
+      "extrait": "CONTINUE: PERFUSION IV ; RÉITÉRÉE"
+    },
+    "difficulte": 1,
+    "tags": [
+      "administration répétée"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/qcm-020",
+    "type": "multiple",
+    "enonce": "Concernant la courbe des concentrations lors d'une perfusion IV :",
+    "options": [
+      "Le plateau est atteint en pratique après 5 t1/2",
+      "La concentration croît indéfiniment pendant toute la perfusion",
+      "Après la fin de perfusion, la concentration décroît de façon exponentielle",
+      "Elle présente une phase de croissance exponentielle",
+      "Elle atteint une concentration stable (Css)"
+    ],
+    "correctes": [
+      0,
+      2,
+      3,
+      4
+    ],
+    "explication": "Pendant la perfusion, croissance exponentielle jusqu'au plateau (Css), atteint en pratique après 5 t1/2 ; à la fin de la perfusion, décroissance exponentielle.",
+    "source": {
+      "page": 43,
+      "extrait": "Concentration stable (Css) ; Croissance exponentielle ; Décroissance exponentielle ; Fin de perfusion"
+    },
+    "difficulte": 1,
+    "tags": [
+      "perfusion"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/qcm-021",
+    "type": "multiple",
+    "enonce": "Lors d'une perfusion IV, l'équation différentielle régissant la concentration est Vd × dC/dt = R0 − (Cl × Cp), où :",
+    "options": [
+      "Vd est le volume de distribution",
+      "Cl est la clairance d'élimination",
+      "R0 est la vitesse d'apport",
+      "Cp est la concentration plasmatique",
+      "Toutes les propositions sont justes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Vd = volume de distribution ; Cl = clairance d'élimination ; Cp = concentration plasmatique ; R0 = vitesse d'apport.",
+    "source": {
+      "page": 44,
+      "extrait": "Vd = Volume de distribution Cl= Clairance d'élimination Cp= Concentration plasmatique Ro= Vitesse d'apport"
+    },
+    "difficulte": 1,
+    "tags": [
+      "perfusion"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/qcm-022",
+    "type": "multiple",
+    "enonce": "À l'état d'équilibre (steady state) lors d'une perfusion IV :",
+    "options": [
+      "Cl = R0 / Css",
+      "Css = R0 × Cl",
+      "La vitesse d'apport est égale à la vitesse d'élimination",
+      "Css = R0 / Cl",
+      "R0 = Cl × Css"
+    ],
+    "correctes": [
+      0,
+      2,
+      3,
+      4
+    ],
+    "explication": "À l'équilibre, vitesse d'apport = vitesse d'élimination : R0 = Cl × Cp, d'où Css = R0/Cl et Cl = R0/Css.",
+    "source": {
+      "page": 45,
+      "extrait": "A l'état d'équilibre : vitesse d'apport = vitesse d'élimination ; Ro= Cl xCp ; Cp= Css= Ro / Cl"
+    },
+    "difficulte": 1,
+    "tags": [
+      "Css"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/qcm-023",
+    "type": "unique",
+    "enonce": "Un médicament est perfusé à la vitesse de 20 mg/h ; sa clairance est de 4 L/h. La concentration à l'état d'équilibre vaut :",
+    "options": [
+      "5 mg/L",
+      "80 mg/L",
+      "16 mg/L",
+      "0,2 mg/L",
+      "24 mg/L"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Css = R0/Cl = 20/4 = 5 mg/L.",
+    "source": {
+      "page": 45,
+      "extrait": "Cp= Css= Ro / Cl"
+    },
+    "difficulte": 1,
+    "tags": [
+      "Css",
+      "calcul"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/qcm-024",
+    "type": "multiple",
+    "enonce": "Concernant le temps d'obtention du steady state lors d'une perfusion :",
+    "options": [
+      "Cperf = Css (1 − e^(−ke·T))",
+      "En pratique, le plateau est atteint après 5 T1/2",
+      "Cperf = Css [1 − (1/2)^n] avec n = T / T1/2",
+      "Le temps d'obtention du plateau dépend de la vitesse de perfusion",
+      "Après 1 T1/2 de perfusion, on atteint 50 % de Css"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explication": "Cperf = Css(1 − e^(−ke·T)) = Css[1 − (1/2)^n] ; après n = 1 T1/2, Cperf = Css/2 ; plateau pratique après 5 T1/2. Le temps d'atteinte du plateau dépend de la T1/2, pas de la vitesse de perfusion (qui détermine le niveau du plateau).",
+    "source": {
+      "page": 46,
+      "extrait": "En exprimant le temps T par le nombre de temps de demi-vie, la relation devient : Cperf = Css [1-(1/2)n]"
+    },
+    "difficulte": 3,
+    "tags": [
+      "steady state"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/qcm-025",
+    "type": "unique",
+    "enonce": "Après 3 demi-vies de perfusion à vitesse constante, la concentration atteinte représente quelle fraction de Css ?",
+    "options": [
+      "50 %",
+      "93,75 %",
+      "87,5 %",
+      "75 %",
+      "97 %"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Cperf = Css[1 − (1/2)^3] = Css × (1 − 0,125) = 87,5 % de Css.",
+    "source": {
+      "page": 46,
+      "extrait": "Cperf = Css [1-(1/2)n] avec : n = T / T1/2"
+    },
+    "difficulte": 2,
+    "tags": [
+      "steady state",
+      "calcul"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/qcm-026",
+    "type": "multiple",
+    "enonce": "Concernant la dose de charge (DC) lors d'une perfusion IV :",
+    "options": [
+      "DC = R0 × Ke",
+      "Elle permet d'atteindre rapidement le plateau",
+      "Elle est nécessaire lorsque la t1/2 est longue",
+      "DC = R0 / Ke",
+      "DC = Vd × Css"
+    ],
+    "correctes": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Lorsque t1/2 est long, une dose de charge permet d'atteindre rapidement le plateau : DC = Vd × Css = R0/Ke (car Css = R0/Cl et Cl = Ke × Vd).",
+    "source": {
+      "page": 47,
+      "extrait": "Lorsque t1/2 est long, il est nécessaire d'administrer une dose de charge afin d'atteindre rapidement le plateau : DC = Vd.Css"
+    },
+    "difficulte": 2,
+    "tags": [
+      "dose de charge",
+      "perfusion"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/qcm-027",
+    "type": "unique",
+    "enonce": "Un médicament (Vd = 50 L) doit atteindre immédiatement une Css de 8 mg/L lors d'une perfusion. La dose de charge est :",
+    "options": [
+      "800 mg",
+      "58 mg",
+      "0,16 mg",
+      "6,25 mg",
+      "400 mg"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "DC = Vd × Css = 50 × 8 = 400 mg.",
+    "source": {
+      "page": 47,
+      "extrait": "DC = Vd.Css"
+    },
+    "difficulte": 1,
+    "tags": [
+      "dose de charge",
+      "calcul"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/qcm-028",
+    "type": "multiple",
+    "enonce": "Concernant les paramètres déduits d'une perfusion IV :",
+    "options": [
+      "La t1/2 se lit pendant la phase de croissance de la courbe",
+      "Vd = 0,693 / (T1/2 × Cl)",
+      "Vd = T1/2 × Cl / 0,693",
+      "Graphiquement, la t1/2 est le temps pour lequel la concentration à l'état d'équilibre diminue de moitié",
+      "Cl = R0 / Css"
+    ],
+    "correctes": [
+      2,
+      3,
+      4
+    ],
+    "explication": "La t1/2 se lit graphiquement après la fin de la perfusion : temps pour lequel la concentration à l'équilibre diminue de moitié. Vd = T1/2 × Cl/0,693 ; Cl = R0/Css.",
+    "source": {
+      "page": 47,
+      "extrait": "Volume de distribution Vd = T1/2 × Cl / 0,693"
+    },
+    "difficulte": 2,
+    "tags": [
+      "perfusion",
+      "volume de distribution"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/qcm-029",
+    "type": "unique",
+    "enonce": "Un médicament perfusé a une clairance de 6,93 L/h et une T1/2 de 10 h. Son Vd est :",
+    "options": [
+      "0,69 L",
+      "100 L",
+      "10 L",
+      "48 L",
+      "69,3 L"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Vd = T1/2 × Cl/0,693 = 10 × 6,93/0,693 = 100 L.",
+    "source": {
+      "page": 47,
+      "extrait": "Vd = T1/2 × Cl / 0,693"
+    },
+    "difficulte": 2,
+    "tags": [
+      "volume de distribution",
+      "calcul"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/qcm-030",
+    "type": "multiple",
+    "enonce": "On double la vitesse de perfusion R0 d'un médicament (cinétique linéaire, Cl constante). Cochez les propositions correctes :",
+    "options": [
+      "Le temps nécessaire pour atteindre le plateau est divisé par 2",
+      "La Css double",
+      "Le temps nécessaire pour atteindre le plateau reste le même",
+      "La t1/2 est modifiée",
+      "La clairance double"
+    ],
+    "correctes": [
+      1,
+      2
+    ],
+    "explication": "Css = R0/Cl : doubler R0 double Css. Le temps d'atteinte du plateau (≈ 5 T1/2) ne dépend que de la t1/2, qui ne change pas ; la clairance est une constante du médicament.",
+    "source": {
+      "page": 46,
+      "extrait": "En pratique plateau atteint après 5 t1/2"
+    },
+    "difficulte": 3,
+    "tags": [
+      "perfusion",
+      "raisonnement"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/qcm-031",
+    "type": "multiple",
+    "enonce": "Concernant l'intervalle thérapeutique et l'index thérapeutique :",
+    "options": [
+      "L'intervalle thérapeutique est défini par une Cp min et une Cp max",
+      "Dans l'intervalle thérapeutique, les malades présentent le minimum d'effets indésirables",
+      "L'index thérapeutique est le rapport entre les concentrations limites de l'intervalle thérapeutique",
+      "L'index thérapeutique est la différence entre la dose toxique et la dose efficace",
+      "L'intervalle thérapeutique est la zone de concentration pour laquelle le plus grand nombre de malades est traité efficacement"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explication": "Intervalle thérapeutique : zone de concentration où le plus grand nombre de malades est traité efficacement avec un minimum d'EI (entre Cp min et Cp max). Index thérapeutique : rapport entre ces concentrations limites.",
+    "source": {
+      "page": 51,
+      "extrait": "Zone de concentration pour laquelle le plus grand nombre de malades est traité efficacement et présente le minimum d'effets indésirables."
+    },
+    "difficulte": 1,
+    "tags": [
+      "intervalle thérapeutique",
+      "index thérapeutique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/qcm-032",
+    "type": "multiple",
+    "enonce": "En administration réitérée, à l'équilibre :",
+    "options": [
+      "Cmoy est inversement proportionnelle à la clairance",
+      "Cmoy = F × D / (τ × Cl)",
+      "Le débit d'entrée est égal à la vitesse d'élimination",
+      "Cmoy = τ × Cl / (F × D)",
+      "Cmoy est proportionnelle à la dose administrée"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explication": "À l'équilibre, débit d'entrée = vitesse d'élimination et Cmoy = F·D/(τ·Cl) : proportionnelle à D et F, inversement proportionnelle à τ et Cl.",
+    "source": {
+      "page": 51,
+      "extrait": "A l'équilibre : débit d'entrée = vitesse d'élimination ; Cmoy = FD/τ × 1/Cl"
+    },
+    "difficulte": 2,
+    "tags": [
+      "Cmoy",
+      "administration réitérée"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/qcm-033",
+    "type": "unique",
+    "enonce": "Un médicament (F = 0,8 ; Cl = 4 L/h) est administré à la dose de 200 mg toutes les 8 h. La concentration moyenne à l'équilibre est :",
+    "options": [
+      "5 mg/L",
+      "0,2 mg/L",
+      "6,25 mg/L",
+      "40 mg/L",
+      "2 mg/L"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Cmoy = F·D/(τ·Cl) = 0,8 × 200/(8 × 4) = 160/32 = 5 mg/L.",
+    "source": {
+      "page": 51,
+      "extrait": "Cmoy = FD/τ × 1/Cl"
+    },
+    "difficulte": 2,
+    "tags": [
+      "Cmoy",
+      "calcul"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/qcm-034",
+    "type": "multiple",
+    "enonce": "Selon le cours, les concentrations au plateau en administration réitérée sont :",
+    "options": [
+      "Proportionnelles à la dose administrée",
+      "Proportionnelles à la biodisponibilité",
+      "Inversement proportionnelles à l'intervalle d'administration",
+      "Inversement proportionnelles à la clairance",
+      "Toutes les propositions sont justes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Les concentrations au plateau sont proportionnelles à la dose et à la biodisponibilité, inversement proportionnelles à l'intervalle et à la clairance.",
+    "source": {
+      "page": 52,
+      "extrait": "proportionnelles à la dose administrée et à la biodisponibilité. inversement proportionnelles à l'intervalle et à la clairance."
+    },
+    "difficulte": 1,
+    "tags": [
+      "plateau"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/qcm-035",
+    "type": "multiple",
+    "enonce": "En administration réitérée, cochez les propositions correctes :",
+    "options": [
+      "L'équilibre est atteint après 5 T1/2 (soit 97 %)",
+      "L'intervalle entre deux administrations est en règle d'une demi-vie",
+      "Le temps mis pour atteindre l'équilibre ne dépend que de la demi-vie",
+      "Plus la demi-vie est longue par rapport à l'intervalle, plus la concentration au plateau est élevée",
+      "Le temps pour atteindre l'équilibre dépend de la dose administrée"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Le temps d'équilibre ne dépend que de la demi-vie (5 T1/2, soit 97 %) et non de la dose ; l'intervalle est en règle d'une demi-vie ; plus la demi-vie est longue par rapport à l'intervalle, plus le plateau est élevé.",
+    "source": {
+      "page": 52,
+      "extrait": "Le temps mis pour atteindre l'équilibre ne dépend que de la demi vie; il est de 5T1/2 (soit 97%)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "plateau",
+      "steady state"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/qcm-036",
+    "type": "unique",
+    "enonce": "Un médicament de T1/2 = 6 h est administré en doses réitérées. Le délai pour atteindre l'état d'équilibre est d'environ :",
+    "options": [
+      "18 h",
+      "12 h",
+      "6 h",
+      "30 h",
+      "60 h"
+    ],
+    "correctes": [
+      3
+    ],
+    "explication": "L'équilibre est atteint après 5 T1/2 = 5 × 6 = 30 h, quelle que soit la dose.",
+    "source": {
+      "page": 52,
+      "extrait": "il est de 5T1/2 (soit 97%)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "steady state",
+      "calcul"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/qcm-037",
+    "type": "multiple",
+    "enonce": "Si l'on raccourcit l'intervalle d'administration τ d'un médicament à dose constante :",
+    "options": [
+      "La concentration moyenne au plateau augmente",
+      "Le temps pour atteindre l'équilibre reste lié à la demi-vie",
+      "La clairance augmente",
+      "La concentration moyenne au plateau diminue",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Cmoy = F·D/(τ·Cl) est inversement proportionnelle à τ : diminuer τ augmente Cmoy. Le temps d'équilibre ne dépend que de la demi-vie ; la clairance n'est pas modifiée.",
+    "source": {
+      "page": 52,
+      "extrait": "inversement proportionnelles à l'intervalle et à la clairance."
+    },
+    "difficulte": 2,
+    "tags": [
+      "Cmoy",
+      "raisonnement"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/qcm-038",
+    "type": "multiple",
+    "enonce": "Les étapes de l'établissement d'un schéma posologique comprennent :",
+    "options": [
+      "Le calcul de la dose d'entretien",
+      "Le calcul de la dose de charge le cas échéant",
+      "La détermination de l'intervalle thérapeutique (Cp min et Cp max)",
+      "La détermination des principaux paramètres pharmacocinétiques (Clt, Vd, T1/2, F, Ke, Ka)",
+      "Le calcul de l'intervalle posologique"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Le cours présente : intervalle thérapeutique, paramètres PK, intervalle posologique, dose d'entretien maximale, vitesse d'administration moyenne et dose de charge.",
+    "source": {
+      "page": 53,
+      "extrait": "Détermination de l'intervalle thérapeutique: Préciser Cp min et Cp max."
+    },
+    "difficulte": 1,
+    "tags": [
+      "schéma posologique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/qcm-039",
+    "type": "multiple",
+    "enonce": "Concernant l'intervalle posologique τ :",
+    "options": [
+      "τ = ln(Cmin/Cmax) / ke",
+      "τ = ke × ln(Cmax/Cmin)",
+      "τ = ln(Cmax/Cmin) / ke",
+      "C'est le temps d'administration maximal qui permet au médicament de se maintenir dans l'intervalle thérapeutique choisi",
+      "Il découle de Cmin = Cmax × e^(−ke·τ)"
+    ],
+    "correctes": [
+      2,
+      3,
+      4
+    ],
+    "explication": "Intervalle posologique = temps maximal permettant de rester dans l'intervalle thérapeutique ; de Cmin = Cmax·e^(−ke·τ) on tire τ = ln(Cmax/Cmin)/ke.",
+    "source": {
+      "page": 53,
+      "extrait": "On a : Cmin = Cmax.e-ke.t ; D'où : T = ln(Cmax/Cmin) / ke"
+    },
+    "difficulte": 2,
+    "tags": [
+      "intervalle posologique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/qcm-040",
+    "type": "unique",
+    "enonce": "Pour un médicament de ke = 0,1733 h⁻¹, avec Cmax = 20 mg/L et Cmin = 5 mg/L, l'intervalle posologique maximal est :",
+    "options": [
+      "8 h",
+      "4 h",
+      "12 h",
+      "2 h",
+      "16 h"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "τ = ln(Cmax/Cmin)/ke = ln4/0,1733 = 1,386/0,1733 = 8 h.",
+    "source": {
+      "page": 53,
+      "extrait": "T = ln(Cmax/Cmin) / ke"
+    },
+    "difficulte": 2,
+    "tags": [
+      "intervalle posologique",
+      "calcul"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/qcm-041",
+    "type": "multiple",
+    "enonce": "Concernant la dose d'entretien maximale (DE max) :",
+    "options": [
+      "DE max = (Cmax + Cmin) × Vd × F",
+      "Elle permet de maintenir les Cmoy au niveau du plateau",
+      "DE max = (Cmax − Cmin) × Vd / F",
+      "C'est la dose fixe administrée à intervalles posologiques réguliers",
+      "Elle est indépendante de la biodisponibilité"
+    ],
+    "correctes": [
+      1,
+      2,
+      3
+    ],
+    "explication": "DE max = (Cmax − Cmin) × Vd/F : dose fixe administrée à intervalles réguliers afin de maintenir les Cmoy au plateau ; elle dépend de F.",
+    "source": {
+      "page": 54,
+      "extrait": "C'est la dose fixe administrée à intervalles posologiques réguliers afin de maintenir les Cmoy au niveau du plateau."
+    },
+    "difficulte": 2,
+    "tags": [
+      "dose d'entretien"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/qcm-042",
+    "type": "unique",
+    "enonce": "Un médicament a Vd = 40 L et F = 0,8 ; l'intervalle thérapeutique est de 4 à 12 mg/L. La dose d'entretien maximale est :",
+    "options": [
+      "320 mg",
+      "256 mg",
+      "800 mg",
+      "600 mg",
+      "400 mg"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "DE max = (Cmax − Cmin) × Vd/F = (12 − 4) × 40/0,8 = 8 × 50 = 400 mg.",
+    "source": {
+      "page": 54,
+      "extrait": "DE max = (Cmax – Cmin) X Vd / F"
+    },
+    "difficulte": 2,
+    "tags": [
+      "dose d'entretien",
+      "calcul"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/qcm-043",
+    "type": "multiple",
+    "enonce": "Concernant la concentration moyenne à l'équilibre et la vitesse d'administration :",
+    "options": [
+      "C̄ est la concentration moyenne à l'équilibre",
+      "La vitesse d'administration moyenne Va = DE / τ",
+      "La concentration moyenne C̄ = (Cmax − Cmin) / ln(Cmax/Cmin)",
+      "DE = Cl × C̄ × τ / F",
+      "DE = F / (Cl × C̄ × τ)"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Va = DE/τ ; en posant C̄ = (Cmax − Cmin)/ln(Cmax/Cmin) (concentration moyenne à l'équilibre), on obtient DE = Cl × C̄ × τ/F.",
+    "source": {
+      "page": 54,
+      "extrait": "C : Concentration moyenne à l'équilibre"
+    },
+    "difficulte": 3,
+    "tags": [
+      "Cmoy",
+      "dose d'entretien"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/qcm-044",
+    "type": "multiple",
+    "enonce": "Concernant la dose de charge en administration réitérée :",
+    "options": [
+      "DC = Cmax × F / Vd",
+      "DC = Cmax × Vd / F",
+      "Elle est indiquée surtout pour les médicaments à T1/2 très courte",
+      "Elle est indiquée pour les médicaments à T1/2 intermédiaire, longue ou très longue",
+      "Elle permet d'obtenir un effet thérapeutique rapide"
+    ],
+    "correctes": [
+      1,
+      3,
+      4
+    ],
+    "explication": "DC = Cmax × Vd/F, pour les médicaments à T1/2 intermédiaire, longue ou très longue, afin d'obtenir un effet thérapeutique rapide.",
+    "source": {
+      "page": 55,
+      "extrait": "Pour les médicaments à T1/2 intermédiaire, longue ou très longue, pour obtenir un effet thérapeutique rapide."
+    },
+    "difficulte": 2,
+    "tags": [
+      "dose de charge"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/qcm-045",
+    "type": "unique",
+    "enonce": "Un médicament (Vd = 200 L ; F = 0,5) doit atteindre rapidement une Cmax de 2 mg/L. La dose de charge orale est :",
+    "options": [
+      "50 mg",
+      "800 mg",
+      "100 mg",
+      "400 mg",
+      "200 mg"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "DC = Cmax × Vd/F = 2 × 200/0,5 = 800 mg.",
+    "source": {
+      "page": 55,
+      "extrait": "DC = Cmax x Vd / F"
+    },
+    "difficulte": 2,
+    "tags": [
+      "dose de charge",
+      "calcul"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/qcm-046",
+    "type": "multiple",
+    "enonce": "Pour lequel (lesquels) des médicaments suivants une dose de charge est-elle justifiée selon le cours ?",
+    "options": [
+      "Médicament de T1/2 = 4 h",
+      "Médicament de T1/2 = 20 h",
+      "Médicament de T1/2 = 8 h",
+      "Médicament de T1/2 = 48 h",
+      "Médicament de T1/2 = 1 h"
+    ],
+    "correctes": [
+      1,
+      2,
+      3
+    ],
+    "explication": "La DC est indiquée pour les T1/2 intermédiaires (6–12 h), longues (12–30 h) ou très longues (> 30 h). 1 h (très courte) et 4 h (courte) ne sont pas concernés.",
+    "source": {
+      "page": 55,
+      "extrait": "Pour les médicaments à T1/2 intermédiaire, longue ou très longue"
+    },
+    "difficulte": 3,
+    "tags": [
+      "dose de charge",
+      "demi-vie"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/qcm-047",
+    "type": "multiple",
+    "enonce": "L'étude des paramètres pharmacocinétiques présente comme intérêts :",
+    "options": [
+      "Le choix de la voie d'administration",
+      "L'établissement du schéma posologique",
+      "Le suivi thérapeutique des médicaments à index thérapeutique étroit (ajustement posologique)",
+      "L'orientation thérapeutique : conditions d'utilisation, précautions, incidences des associations",
+      "Les études de biodisponibilité et de bioéquivalence (générique vs référence)"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "La conclusion cite ces cinq intérêts.",
+    "source": {
+      "page": 56,
+      "extrait": "Suivi thérapeutique des médicaments à index thérapeutique étroit : ajustement posologique."
+    },
+    "difficulte": 1,
+    "tags": [
+      "intérêt"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/qcm-048",
+    "type": "unique",
+    "enonce": "Le suivi thérapeutique avec ajustement posologique concerne surtout, selon le cours :",
+    "options": [
+      "Les médicaments à index thérapeutique large",
+      "Les médicaments à index thérapeutique étroit",
+      "Les médicaments à T1/2 très courte uniquement",
+      "Les médicaments administrés par voie IV uniquement",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Le suivi thérapeutique (ajustement posologique) concerne les médicaments à index thérapeutique étroit.",
+    "source": {
+      "page": 56,
+      "extrait": "Suivi thérapeutique des médicaments à index thérapeutique étroit : ajustement posologique."
+    },
+    "difficulte": 1,
+    "tags": [
+      "suivi thérapeutique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/qcm-049",
+    "type": "multiple",
+    "enonce": "Cochez les formules correctes :",
+    "options": [
+      "Css = R0 / Cl",
+      "DC (perfusion) = Vd × Css",
+      "τ = ln(Cmax/Cmin) / ke",
+      "DE max = (Cmax − Cmin) × Vd / F",
+      "DC (réitérée) = Cmax × F / Vd"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "DC en administration réitérée = Cmax × Vd/F (e faux : F et Vd inversés).",
+    "source": {
+      "page": 55,
+      "extrait": "DC = Cmax x Vd / F"
+    },
+    "difficulte": 2,
+    "tags": [
+      "formules"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/qcm-050",
+    "type": "multiple",
+    "enonce": "Concernant la phase de distribution dans le modèle bicompartimental IV :",
+    "options": [
+      "Elle apparaît en fin de courbe",
+      "Elle correspond au passage du médicament vers les compartiments périphériques",
+      "kd est en général plus grande que ke dans ce schéma",
+      "Elle est plus rapide que la phase d'élimination",
+      "Elle se superpose à l'élimination au début de la courbe"
+    ],
+    "correctes": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Sur la courbe, la phase initiale (élimination + distribution) est plus pentue que la phase terminale (élimination seule) : la distribution est rapide, kd > ke ; elle correspond au passage vers les compartiments périphériques.",
+    "source": {
+      "page": 26,
+      "extrait": "Elimination + distribution ; Distribution ; Elimination"
+    },
+    "difficulte": 3,
+    "tags": [
+      "bicompartimental IV"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/qcm-051",
+    "type": "multiple",
+    "enonce": "Un médicament à T1/2 = 24 h est administré en perfusion continue sans dose de charge. Cochez les propositions correctes :",
+    "options": [
+      "Le plateau est atteint après 24 h",
+      "Une dose de charge permettrait d'atteindre rapidement le plateau",
+      "Le plateau sera atteint en pratique après environ 5 jours",
+      "La dose de charge serait DC = Vd × Css",
+      "La t1/2 est classée longue"
+    ],
+    "correctes": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "5 × 24 h = 120 h ≈ 5 jours ; t1/2 longue (12–30 h) → DC = Vd × Css permet d'atteindre rapidement le plateau.",
+    "source": {
+      "page": 47,
+      "extrait": "Lorsque t1/2 est long, il est nécessaire d'administrer une dose de charge"
+    },
+    "difficulte": 2,
+    "tags": [
+      "perfusion",
+      "dose de charge"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/qcm-052",
+    "type": "multiple",
+    "enonce": "Lors d'une perfusion IV d'un médicament, la clairance peut être calculée par :",
+    "options": [
+      "Cl = Vd / ke",
+      "Cl = Css / R0",
+      "Cl = 0,693 × Vd / T1/2",
+      "Cl = R0 / Css",
+      "Cl = ke × Vd"
+    ],
+    "correctes": [
+      2,
+      3,
+      4
+    ],
+    "explication": "À l'équilibre Cl = R0/Css ; plus généralement Cl = ke × Vd = 0,693 × Vd/T1/2 (dérivé de Vd = T1/2 × Cl/0,693).",
+    "source": {
+      "page": 46,
+      "extrait": "A l'équilibre : Cl = RO / Css"
+    },
+    "difficulte": 2,
+    "tags": [
+      "clairance",
+      "perfusion"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/qcm-053",
+    "type": "multiple",
+    "enonce": "Concernant l'administration réitérée par voie IV et par voie orale :",
+    "options": [
+      "La concentration moyenne au plateau est Cmoy = F·D/(τ·Cl)",
+      "Le plateau ne dépend que de la dose et pas de l'intervalle",
+      "Le plateau est atteint en environ 5 T1/2",
+      "Les concentrations oscillent entre un minimum et un maximum à chaque administration",
+      "Les concentrations s'accumulent jusqu'à un plateau"
+    ],
+    "correctes": [
+      0,
+      2,
+      3,
+      4
+    ],
+    "explication": "En doses réitérées, les concentrations oscillent et s'accumulent jusqu'à un plateau atteint en ≈ 5 T1/2 ; Cmoy dépend de D, F, τ et Cl.",
+    "source": {
+      "page": 52,
+      "extrait": "Le temps mis pour atteindre l'équilibre ne dépend que de la demi vie"
+    },
+    "difficulte": 2,
+    "tags": [
+      "administration réitérée"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/qcm-054",
+    "type": "unique",
+    "enonce": "Combien de temps faut-il pour atteindre 97 % de la concentration d'équilibre ?",
+    "options": [
+      "10 T1/2",
+      "2 T1/2",
+      "5 T1/2",
+      "3 T1/2",
+      "1 T1/2"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Le cours indique que l'équilibre est atteint après 5 T1/2, soit 97 %.",
+    "source": {
+      "page": 52,
+      "extrait": "il est de 5T1/2 (soit 97%)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "steady state"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/qcm-055",
+    "type": "multiple",
+    "enonce": "Concernant la pharmacocinétique quantitative (rappels du cours partie 2) :",
+    "options": [
+      "Elle quantifie les processus pharmacocinétiques",
+      "Elle sert au suivi (monitoring) thérapeutique et à l'adaptation des posologies",
+      "Elle sert à l'évaluation de la bioéquivalence",
+      "Elle sert à l'établissement du schéma posologique",
+      "Toutes les propositions sont justes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Rappel des intérêts de la pharmacocinétique quantitative, identiques à la partie 1.",
+    "source": {
+      "page": 5,
+      "extrait": "Etablissement du schéma posologique. Suivi (monitoring) thérapeutique. adaptation posologies. Évaluation bioéquivalence"
+    },
+    "difficulte": 1,
+    "tags": [
+      "intérêt"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/qcm-056",
+    "type": "multiple",
+    "enonce": "Pour un médicament dont Cmax/Cmin = 2 (marge thérapeutique étroite), cochez les propositions correctes :",
+    "options": [
+      "τ = 2 × ke",
+      "L'intervalle posologique maximal est égal à deux demi-vies",
+      "L'intervalle posologique maximal est égal à une demi-vie",
+      "τ = ln2/ke = T1/2",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      2,
+      3
+    ],
+    "explication": "τ = ln(Cmax/Cmin)/ke = ln2/ke = T1/2 : l'intervalle maximal est d'une demi-vie (ce qui rejoint la règle « l'intervalle est en règle d'une demi-vie »).",
+    "source": {
+      "page": 53,
+      "extrait": "T = ln(Cmax/Cmin) / ke"
+    },
+    "difficulte": 3,
+    "tags": [
+      "intervalle posologique",
+      "raisonnement"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/qcm-057",
+    "type": "multiple",
+    "enonce": "Dans la méthode des résidus du modèle bicompartimental IV, les concentrations C'p :",
+    "options": [
+      "Sont obtenues par extrapolation de la droite d'élimination",
+      "Servent à calculer ke",
+      "Servent au calcul des différences D",
+      "Sont des concentrations mesurées expérimentalement",
+      "Sont toujours inférieures aux concentrations expérimentales pendant la phase de distribution"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "C'p sont extrapolées (non mesurées) sur la droite d'élimination ; elles donnent ke et, par différence avec Cexp, les résidus D. Pendant la distribution, les concentrations expérimentales sont supérieures aux C'p extrapolées.",
+    "source": {
+      "page": 27,
+      "extrait": "C'p extrapolée ; Différence ; Cexper"
+    },
+    "difficulte": 3,
+    "tags": [
+      "méthode des résidus"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/qcm-058",
+    "type": "multiple",
+    "enonce": "Après une dose de charge DC = Vd × Css suivie d'une perfusion à la vitesse R0 = Cl × Css :",
+    "options": [
+      "La concentration est maintenue au plateau par la perfusion",
+      "Il faut attendre 5 T1/2 pour atteindre le plateau",
+      "La concentration Css est obtenue d'emblée",
+      "DC peut aussi s'écrire R0/Ke",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      2,
+      3
+    ],
+    "explication": "La DC (= Vd × Css = R0/Ke) amène d'emblée au plateau, puis la perfusion (R0 = Cl × Css) compense exactement l'élimination.",
+    "source": {
+      "page": 47,
+      "extrait": "DC = Vd.Css donc: DC = Ro/Ke"
+    },
+    "difficulte": 3,
+    "tags": [
+      "dose de charge",
+      "perfusion"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/qcm-059",
+    "type": "multiple",
+    "enonce": "Cochez les propositions fausses :",
+    "options": [
+      "Css = R0 × Cl",
+      "Le temps d'atteinte du plateau dépend de la dose",
+      "La DC est indiquée pour les médicaments à T1/2 très courte",
+      "τ = ln(Cmax/Cmin)/ke",
+      "Cmoy est inversement proportionnelle à la clairance"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Fausses : Css = R0/Cl (a) ; le temps d'équilibre ne dépend que de la demi-vie (b) ; la DC concerne les T1/2 intermédiaires, longues ou très longues (c).",
+    "source": {
+      "page": 52,
+      "extrait": "Le temps mis pour atteindre l'équilibre ne dépend que de la demi vie"
+    },
+    "difficulte": 2,
+    "tags": [
+      "synthèse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/qcm-060",
+    "type": "unique",
+    "enonce": "Lors d'une perfusion à 30 mg/h, la Css mesurée est de 6 mg/L. La clairance totale est :",
+    "options": [
+      "36 L/h",
+      "180 L/h",
+      "5 L/h",
+      "24 L/h",
+      "0,2 L/h"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Cl = R0/Css = 30/6 = 5 L/h.",
+    "source": {
+      "page": 46,
+      "extrait": "Cl = RO / Css"
+    },
+    "difficulte": 1,
+    "tags": [
+      "clairance",
+      "calcul"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/qcm-061",
+    "type": "unique",
+    "enonce": "Pour un médicament de Vd = 30 L et ke = 0,1 h⁻¹ perfusé à R0 = 15 mg/h, la Css vaut :",
+    "options": [
+      "45 mg/L",
+      "0,5 mg/L",
+      "3 mg/L",
+      "50 mg/L",
+      "5 mg/L"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Cl = ke × Vd = 0,1 × 30 = 3 L/h ; Css = R0/Cl = 15/3 = 5 mg/L.",
+    "source": {
+      "page": 45,
+      "extrait": "Cp= Css= Ro / Cl"
+    },
+    "difficulte": 2,
+    "tags": [
+      "Css",
+      "calcul"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/qcm-062",
+    "type": "multiple",
+    "enonce": "Concernant la concentration moyenne C̄ = (Cmax − Cmin)/ln(Cmax/Cmin) :",
+    "options": [
+      "Elle permet de calculer DE = Cl × C̄ × τ / F",
+      "Elle est comprise entre Cmin et Cmax",
+      "Elle est égale à la moyenne arithmétique (Cmax + Cmin)/2",
+      "Elle représente la concentration moyenne à l'équilibre",
+      "Elle est indépendante de Cmax"
+    ],
+    "correctes": [
+      0,
+      1,
+      3
+    ],
+    "explication": "C̄ est la concentration moyenne à l'équilibre, comprise entre Cmin et Cmax ; elle sert au calcul de DE. Ce n'est pas la moyenne arithmétique.",
+    "source": {
+      "page": 54,
+      "extrait": "C : Concentration moyenne à l'équilibre"
+    },
+    "difficulte": 3,
+    "tags": [
+      "Cmoy"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/qcm-063",
+    "type": "multiple",
+    "enonce": "Un médicament à index thérapeutique étroit nécessite :",
+    "options": [
+      "Aucune adaptation posologique",
+      "Un ajustement posologique",
+      "Un suivi thérapeutique",
+      "La connaissance de son intervalle thérapeutique",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      1,
+      2,
+      3
+    ],
+    "explication": "La conclusion insiste sur le suivi thérapeutique avec ajustement posologique des médicaments à index thérapeutique étroit ; le schéma posologique repose sur l'intervalle thérapeutique.",
+    "source": {
+      "page": 56,
+      "extrait": "Suivi thérapeutique des médicaments à index thérapeutique étroit : ajustement posologique."
+    },
+    "difficulte": 1,
+    "tags": [
+      "index thérapeutique"
+    ],
+    "origine": "genere"
+  }
+]

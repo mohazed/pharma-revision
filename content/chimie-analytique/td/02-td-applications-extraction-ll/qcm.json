@@ -1,0 +1,264 @@
+[
+  {
+    "id": "chimie-analytique/td/02-td-applications-extraction-ll/qcm-001",
+    "type": "multiple",
+    "enonce": "Exercice 1 – Extraction d'un ion M²⁺ par un chélateur HL : influence qualitative du pH :",
+    "options": [
+      "Quand le pH augmente, [H⁺] diminue et D augmente",
+      "Le rendement augmente avec le pH",
+      "Le rendement diminue quand le pH augmente",
+      "Le pH est sans influence",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "D = λM/(1 + λH²[H⁺]²/(Ks·C²·Ka²)) : D et donc ρ augmentent quand [H⁺] diminue (pH ↑).",
+    "source": {
+      "page": 1,
+      "extrait": "Expliquer qualitativement l'influence du pH de la phase aqueuse sur le rendement d'extraction"
+    },
+    "difficulte": 1,
+    "tags": [
+      "chélate",
+      "pH"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/td/02-td-applications-extraction-ll/qcm-002",
+    "type": "unique",
+    "enonce": "Exercice 1 – λH = 10⁴, λM = 7·10⁴, Ka = 5·10⁻⁵, β = 2,5·10¹⁶, C = 10⁻⁴ M, VA = 100 mL, VB = 10 mL, pH = 1. Le rendement est d'environ :",
+    "options": [
+      "0,44 %",
+      "4,4 %",
+      "44 %",
+      "97,8 %",
+      "99,9 %"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "λH²[H⁺]² = 10⁸ × 10⁻² = 10⁶ ; β·C²·Ka² = 2,5·10¹⁶ × 10⁻⁸ × 2,5·10⁻⁹ = 0,625 ; rapport 1,6·10⁶ ; D ≈ 0,0438 ; D·VB/VA ≈ 0,0044 ; ρ ≈ 0,44 %.",
+    "source": {
+      "page": 1,
+      "extrait": "tamponnée à pH 1 par 10 ml d'une solution chloroformique saturées de (HL) 0,1 mM"
+    },
+    "difficulte": 3,
+    "tags": [
+      "chélate",
+      "calcul"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/td/02-td-applications-extraction-ll/qcm-003",
+    "type": "unique",
+    "enonce": "Exercice 1 – Mêmes données à pH = 3. Le rendement est d'environ :",
+    "options": [
+      "0,44 %",
+      "30 %",
+      "81 %",
+      "97,8 %",
+      "100 %"
+    ],
+    "correctes": [
+      3
+    ],
+    "explication": "λH²[H⁺]² = 10⁸ × 10⁻⁶ = 100 ; rapport = 100/0,625 = 160 ; D = 7·10⁴/161 ≈ 435 ; D·VB/VA ≈ 43,5 ; ρ = 1 − 1/44,5 ≈ 97,8 %.",
+    "source": {
+      "page": 1,
+      "extrait": "Même question avec pH =3"
+    },
+    "difficulte": 3,
+    "tags": [
+      "chélate",
+      "calcul"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/td/02-td-applications-extraction-ll/qcm-004",
+    "type": "multiple",
+    "enonce": "Exercice 1 – Comparaison pH 1 / pH 3 :",
+    "options": [
+      "Le passage de pH 1 à 3 divise [H⁺]² par 10⁴",
+      "D passe d'environ 0,044 à environ 435",
+      "Le rendement passe de ≈ 0,4 % à ≈ 98 %",
+      "Le pH n'a pas d'effet sur D",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Avec n = 2, le terme en [H⁺]² est divisé par 10⁴ : D est multiplié par ≈ 10⁴ et l'extraction devient quasi quantitative.",
+    "source": {
+      "page": 1,
+      "extrait": "On Donne : ρ = 1 − 1/(1 + D·VB/VA)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "chélate"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/td/02-td-applications-extraction-ll/qcm-005",
+    "type": "unique",
+    "enonce": "Exercice 2 – Le dosage du chlorhydrate de lidocaïne par le DOSS en présence de dichlorométhane et d'un indicateur coloré est une extraction liquide-liquide :",
+    "options": [
+      "De chélate métallique",
+      "De paires d'ions",
+      "D'une molécule neutre par modification du pH",
+      "À contre-courant",
+      "Par dimérisation"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "La lidocaïne protonée (cation) forme avec l'anion DOSS une paire d'ions extraite par le dichlorométhane : volumétrie par extraction de paires d'ions.",
+    "source": {
+      "page": 1,
+      "extrait": "De quel type d'extraction liquide –liquide s'agit-il, donner le principe du dosage"
+    },
+    "difficulte": 1,
+    "tags": [
+      "paires d'ions",
+      "lidocaïne"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/td/02-td-applications-extraction-ll/qcm-006",
+    "type": "multiple",
+    "enonce": "Exercice 2 – Justification des réactifs du dosage de la lidocaïne :",
+    "options": [
+      "Le tampon pH 2,8 maintient la lidocaïne sous forme protonée (cationique)",
+      "Le DOSS est l'anion titrant qui forme la paire d'ions",
+      "Le dichlorométhane est la phase organique qui extrait la paire d'ions",
+      "L'indicateur vire (vert → mauve) quand un excès de DOSS se combine à lui",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le pH acide garde la base sous forme cationique (sinon pas de paire d'ions, cf. alcaloïdes à pH élevé) ; le DOSS titre ; le solvant organique extrait la paire ; au point équivalent, une goutte de DOSS en excès se combine à l'indicateur (virage au mauve).",
+    "source": {
+      "page": 1,
+      "extrait": "Au point équivalent, une goutte de DOSS supplémentaire se combine à l'indicateur coloré ; virage au mauve"
+    },
+    "difficulte": 2,
+    "tags": [
+      "lidocaïne"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/td/02-td-applications-extraction-ll/qcm-007",
+    "type": "unique",
+    "enonce": "Exercice 2 – « 1 mL de DOSS 0,01 mol/L correspond à 2,71 mg de chlorhydrate de lidocaïne anhydre » (M = 270,80 g/mol, stœchiométrie 1:1). Cette correspondance s'obtient par :",
+    "options": [
+      "10⁻⁵ mol × 270,80 g/mol ≈ 2,71 mg",
+      "10⁻² mol × 270,80 g/mol",
+      "0,01 × 288,82 mg",
+      "1 mL × 0,0184 M × 270,80",
+      "10⁻⁵ mol × 288,82 g/mol"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "1 mL × 0,01 mol/L = 10⁻⁵ mol de DOSS ↔ 10⁻⁵ mol de lidocaïne (1:1) ; 10⁻⁵ × 270,80 = 2,708·10⁻³ g ≈ 2,71 mg.",
+    "source": {
+      "page": 1,
+      "extrait": "1 mL de DOSS 0,01 mol/L correspond à 2,71 mg de chlorhydrate de lidocaïne anhydre"
+    },
+    "difficulte": 2,
+    "tags": [
+      "lidocaïne",
+      "calcul"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/td/02-td-applications-extraction-ll/qcm-008",
+    "type": "unique",
+    "enonce": "Exercice 2 – Prise d'essai 33,3 mg ; chute de burette 5,95 mL de DOSS 0,0184 M. La pureté exprimée en chlorhydrate de lidocaïne monohydraté (M = 288,82 g/mol) est d'environ :",
+    "options": [
+      "89,0 %",
+      "95,0 %",
+      "99,5 %",
+      "101,2 %",
+      "83,7 %"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "n = 0,0184 × 5,95·10⁻³ ≈ 1,095·10⁻⁴ mol ; m = 1,095·10⁻⁴ × 288,82 ≈ 31,6 mg ; pureté = 31,6/33,3 ≈ 95,0 %.",
+    "source": {
+      "page": 1,
+      "extrait": "La chute de burette expérimentale est de : 5,95 mL"
+    },
+    "difficulte": 3,
+    "tags": [
+      "lidocaïne",
+      "calcul"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/td/02-td-applications-extraction-ll/qcm-009",
+    "type": "multiple",
+    "enonce": "Exercice 2 – Interprétation du résultat (pureté ≈ 95 %) avec une teneur exigée de 99,0 à 101,0 % :",
+    "options": [
+      "Le résultat est inférieur à la limite basse",
+      "La matière première n'est pas conforme sur ce critère",
+      "La matière première est conforme",
+      "Le résultat dépasse la limite haute",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "95 % < 99,0 % : non conforme à la teneur exigée.",
+    "source": {
+      "page": 1,
+      "extrait": "Teneur : 99,0 et 101,0% (substance desséchée)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "lidocaïne"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/td/02-td-applications-extraction-ll/qcm-010",
+    "type": "multiple",
+    "enonce": "Exercice 2 – Au cours du dosage de la lidocaïne :",
+    "options": [
+      "Après chaque addition de DOSS, on agite énergiquement pour extraire la paire d'ions",
+      "Avant l'équivalence, le colorant reste vert",
+      "Le virage au mauve marque le point équivalent",
+      "La lidocaïne doit être sous forme de base neutre",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Protocole : agitation énergique après chaque ajout, colorant vert jusqu'à l'équivalence puis virage au mauve. La lidocaïne doit être protonée (pH 2,8) pour former la paire d'ions.",
+    "source": {
+      "page": 1,
+      "extrait": "après chaque addition agiter énergiquement pour extraire la paire d'ions ; Le colorant reste vert"
+    },
+    "difficulte": 2,
+    "tags": [
+      "lidocaïne"
+    ],
+    "origine": "genere"
+  }
+]

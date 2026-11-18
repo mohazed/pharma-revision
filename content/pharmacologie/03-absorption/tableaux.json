@@ -1,0 +1,250 @@
+[
+  {
+    "id": "pharmacologie/03-absorption/tableau-01",
+    "titre": "Mécanismes de passage transmembranaire",
+    "colonnes": [
+      "Mécanisme",
+      "Gradient",
+      "Transporteur",
+      "Énergie",
+      "Saturation / spécificité / compétition",
+      "Exemple"
+    ],
+    "lignes": [
+      [
+        "Diffusion passive",
+        "Dans le sens",
+        "Non",
+        "Non",
+        "Non",
+        "Fraction liposoluble non ionisée"
+      ],
+      [
+        "Diffusion facilitée",
+        "Dans le sens",
+        "Oui",
+        "Non",
+        "Oui",
+        "Ca++ (duodénum)"
+      ],
+      [
+        "Transport actif",
+        "Contre",
+        "Oui (spécifique)",
+        "Oui (ATP)",
+        "Oui",
+        "Méthyldopa, vitamine B12"
+      ],
+      [
+        "Filtration",
+        "Pression osmotique (hydrostatique)",
+        "Pores",
+        "—",
+        "—",
+        "Eau, petites molécules"
+      ],
+      [
+        "Endocytose",
+        "—",
+        "—",
+        "—",
+        "—",
+        "Phagocytose (grosses molécules), pinocytose (liquides)"
+      ]
+    ]
+  },
+  {
+    "id": "pharmacologie/03-absorption/tableau-02",
+    "titre": "Théorie de diffusion par le pH",
+    "colonnes": [
+      "Classe",
+      "pKa",
+      "Absorption"
+    ],
+    "lignes": [
+      [
+        "Acide fort",
+        "< 2,5",
+        "Limitée"
+      ],
+      [
+        "Acide faible",
+        "2,5 – 7,5",
+        "Dépend du pH"
+      ],
+      [
+        "Acide très faible",
+        "> 7,5",
+        "Indépendante du pH"
+      ],
+      [
+        "Base très faible",
+        "< 5",
+        "Indépendante du pH"
+      ],
+      [
+        "Base faible",
+        "5 – 11",
+        "Dépend du pH"
+      ],
+      [
+        "Base forte",
+        "> 11",
+        "Limitée"
+      ]
+    ]
+  },
+  {
+    "id": "pharmacologie/03-absorption/tableau-03",
+    "titre": "Effet de premier passage selon la voie d'administration",
+    "colonnes": [
+      "Voie",
+      "Nature de l'EPP"
+    ],
+    "lignes": [
+      [
+        "Orale",
+        "Intestinal, hépatique, pulmonaire"
+      ],
+      [
+        "Rectale (veines hémorroïdales inférieures et moyennes)",
+        "Pulmonaire"
+      ],
+      [
+        "Rectale (veines hémorroïdales supérieures)",
+        "Hépatique et pulmonaire"
+      ],
+      [
+        "IV, IM, S/C, sublinguale",
+        "Pulmonaire"
+      ],
+      [
+        "Locale, intra-artérielle",
+        "Absence"
+      ]
+    ]
+  },
+  {
+    "id": "pharmacologie/03-absorption/carte-01",
+    "type": "carte",
+    "titre": "Absorption des médicaments",
+    "racine": {
+      "label": "Absorption",
+      "enfants": [
+        {
+          "label": "Mécanismes",
+          "enfants": [
+            {
+              "label": "Diffusion passive",
+              "enfants": []
+            },
+            {
+              "label": "Diffusion facilitée",
+              "enfants": []
+            },
+            {
+              "label": "Transport actif",
+              "enfants": []
+            },
+            {
+              "label": "Filtration",
+              "enfants": []
+            },
+            {
+              "label": "Endocytose",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Facteurs",
+          "enfants": [
+            {
+              "label": "Solubilité (Ks)",
+              "enfants": []
+            },
+            {
+              "label": "Taille (PM)",
+              "enfants": []
+            },
+            {
+              "label": "Ionisation (pH/pKa)",
+              "enfants": []
+            },
+            {
+              "label": "Surface et épaisseur membranaires",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Effet de premier passage",
+          "enfants": [
+            {
+              "label": "Intestinal",
+              "enfants": []
+            },
+            {
+              "label": "Hépatique",
+              "enfants": []
+            },
+            {
+              "label": "Pulmonaire",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Biodisponibilité",
+          "enfants": [
+            {
+              "label": "Résorption",
+              "enfants": []
+            },
+            {
+              "label": "EPP",
+              "enfants": []
+            },
+            {
+              "label": "Glycoprotéine P",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Voies",
+          "enfants": [
+            {
+              "label": "Orale",
+              "enfants": []
+            },
+            {
+              "label": "Perlinguale",
+              "enfants": []
+            },
+            {
+              "label": "Rectale",
+              "enfants": []
+            },
+            {
+              "label": "Pulmonaire",
+              "enfants": []
+            },
+            {
+              "label": "Percutanée",
+              "enfants": []
+            },
+            {
+              "label": "S/C et IM",
+              "enfants": []
+            },
+            {
+              "label": "Autres muqueuses",
+              "enfants": []
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/flashcard-001",
+    "recto": "Place des neuroleptiques dans les psychotropes",
+    "verso": "Psycholeptiques thymoleptiques.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/flashcard-002",
+    "recto": "Caractères de la psychose",
+    "verso": "Affection mentale, perte de contact avec la réalité, troubles de la personnalité et de la pensée, patient inconscient de ses troubles.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/flashcard-003",
+    "recto": "Triade de la schizophrénie",
+    "verso": "Dissociation mentale, hallucinations, délire.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/flashcard-004",
+    "recto": "Symptômes positifs",
+    "verso": "Hallucinations, délires, transformation de la réalité, agitation.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/flashcard-005",
+    "recto": "Symptômes négatifs",
+    "verso": "Appauvrissement affectif, retrait social, déficit émotionnel.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/flashcard-006",
+    "recto": "Symptômes cognitifs",
+    "verso": "Troubles de la pensée et troubles d'apprentissage.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/flashcard-007",
+    "recto": "Théorie dopaminergique",
+    "verso": "Hyperdopaminergie mésolimbique (symptômes positifs) et hypodopaminergie mésocorticale (symptômes négatifs).",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/flashcard-008",
+    "recto": "Théorie sérotoninergique",
+    "verso": "Déséquilibre sous-cortical avec hyperactivité sérotoninergique nigrostriée et mésocorticale.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/flashcard-009",
+    "recto": "Définition de Delay et Deniker (1957)",
+    "verso": "Indifférence psychomotrice, diminution de l'agressivité et de l'agitation, action réductrice des psychoses, effets neurologiques et végétatifs, action sous-corticale prédominante.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/flashcard-010",
+    "recto": "Neuroleptiques de 1re génération",
+    "verso": "Phénothiazines, thioxanthènes, butyrophénones, benzamides.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/flashcard-011",
+    "recto": "Neuroleptiques de 2e génération",
+    "verso": "Dibenzodiazépines (clozapine, olanzapine, quétiapine) et benzisoxazoles (rispéridone, sertindole).",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/flashcard-012",
+    "recto": "Noyau des phénothiazines",
+    "verso": "Tricyclique : thiazine-1,4 fusionnée à deux benzènes (10H-phénothiazine ou dibenzoparathiazine).",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/flashcard-013",
+    "recto": "Exigences structurales des phénothiazines",
+    "verso": "Électroattracteur peu encombré en position 2 (Cl, CN, CF3) et chaîne alkylamine à 3 carbones avec amine tertiaire sur N10.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/flashcard-014",
+    "recto": "Les trois groupes de phénothiazines",
+    "verso": "Chaîne ouverte (aliphatique), chaîne pipéridinique, chaîne pipérazinique.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/flashcard-015",
+    "recto": "Ordre d'activité des phénothiazines",
+    "verso": "Aliphatiques < pipéridiniques < pipéraziniques.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/flashcard-016",
+    "recto": "Chlorpromazine",
+    "verso": "Largactil : 3-(2-chloro-10H-phénothiazin-10-yl)-N,N-diméthylpropan-1-amine, phénothiazine aliphatique.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/flashcard-017",
+    "recto": "Lévomépromazine",
+    "verso": "Nozinan : phénothiazine aliphatique, méthoxy en 2, chaîne méthylée.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/flashcard-018",
+    "recto": "Pipotiazine",
+    "verso": "Piportil : phénothiazine pipéridinique à sulfonamide en 2.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/flashcard-019",
+    "recto": "Fluphénazine",
+    "verso": "Moditen : phénothiazine pipérazinique à CF3 en 2 et hydroxyéthyl-pipérazine.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/flashcard-020",
+    "recto": "Les 3 phases de la synthèse d'une phénothiazine",
+    "verso": "Synthèse du noyau, synthèse de la chaîne latérale, fixation de la chaîne sur le noyau.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/flashcard-021",
+    "recto": "Obtention de la diphénylamine",
+    "verso": "Chlorure d'anilinium + aniline, ou bromobenzène + aniline avec cuivre à 180 °C.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/flashcard-022",
+    "recto": "Thionation de la diphénylamine",
+    "verso": "Soufre, chauffage à 170-180 °C, libération de H2S, formation de la phénothiazine.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/flashcard-023",
+    "recto": "Fixation de la chaîne latérale",
+    "verso": "Aminoalcool → chloroamine par SOCl2 ; déprotonation de N10 par NaNH2 puis alkylation.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/flashcard-024",
+    "recto": "Synthèse de la chlorpromazine",
+    "verso": "3-chlorodiphénylamine, thionation (S/I2), puis alkylation par la 3-chloro-N,N-diméthylpropan-1-amine avec NaNH2.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/flashcard-025",
+    "recto": "RSA phénothiazines : position 2",
+    "verso": "Groupement électroattracteur (Cl, COCH3, CF3, SO2N(CH3)2) ; autre position ou OH réduisent l'activité.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/flashcard-026",
+    "recto": "Chlorpromazine vs prométhazine",
+    "verso": "Même noyau : chlorpromazine neuroleptique, prométhazine antihistaminique.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/flashcard-027",
+    "recto": "RSA phénothiazines : chaîne et azote",
+    "verso": "H sur la chaîne (bonne activité), méthyle (centre chiral, L > D), encombrement délétère ; amine tertiaire, pipéridine ou pipérazine améliorant l'activité.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/flashcard-028",
+    "recto": "Thioxanthènes",
+    "verso": "Analogues des phénothiazines : azote remplacé par un carbone sp2 ; squelette 9H-thioxanthène.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/flashcard-029",
+    "recto": "Thioxanthènes principaux",
+    "verso": "Zuclopenthixol (Clopixol), flupentixol (Fluanxol) ; chlorprothixène n'est plus au Vidal.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/flashcard-030",
+    "recto": "Butyrophénones : structure",
+    "verso": "Dérivés de l'amino-4-fluorobutyrophénone, cétones α-aromatiques à chaîne de 4 carbones, azote tertiaire dans une pipéridine ou pipérazine.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/flashcard-031",
+    "recto": "Chef de file des butyrophénones",
+    "verso": "Halopéridol (Haldol), butyrophénone pipéridinée.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/flashcard-032",
+    "recto": "Fluanisone",
+    "verso": "Sédalande : butyrophénone pipérazinée.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/flashcard-033",
+    "recto": "Pimozide",
+    "verso": "Orap : dérivé apparenté, carbonyle remplacé par un second noyau p-fluorophényle.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/flashcard-034",
+    "recto": "RSA butyrophénones",
+    "verso": "Pipéridine/pipérazine et chaîne à 4 carbones essentielles, carbonyle essentiel (remplaçable par p-fluorophényle), fluor en para obligatoire.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/flashcard-035",
+    "recto": "Benzamides : structure",
+    "verso": "Noyau benzénique amide + alkylamine tertiaire cyclique, méthoxy en ortho, carbone asymétrique (racémiques).",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/flashcard-036",
+    "recto": "Benzamides : propriétés",
+    "verso": "Peu sédatifs, très lipophiles (action rapide), peu d'effets secondaires, tous antiémétiques à des degrés variables.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/flashcard-037",
+    "recto": "Benzamides neuroleptiques",
+    "verso": "Sulpiride, amisulpride, sultopride, tiapride ; le métoclopramide n'est qu'antiémétique.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/flashcard-038",
+    "recto": "Mécanisme des neuroleptiques typiques",
+    "verso": "Blocage des récepteurs D2 post-synaptiques, non sélectif entre les voies dopaminergiques.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/flashcard-039",
+    "recto": "Conséquences du blocage des voies dopaminergiques",
+    "verso": "Mésocorticale : symptômes négatifs ; nigrostriée : syndrome extrapyramidal ; tubéro-infundibulaire : aménorrhée-galactorrhée.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/flashcard-040",
+    "recto": "Limites des antipsychotiques typiques",
+    "verso": "Résistances, syndromes extrapyramidaux, difficulté de traitement des signes négatifs.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/flashcard-041",
+    "recto": "Dibenzodiazépines",
+    "verso": "Tricycliques : diazépine substituée fusionnée à deux benzènes (clozapine, olanzapine).",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/flashcard-042",
+    "recto": "Rispéridone",
+    "verso": "Risperdal : benzisoxazole, neuroleptique de seconde génération.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/flashcard-043",
+    "recto": "Mécanisme des atypiques",
+    "verso": "Antagonistes mixtes 5-HT2A et D2 : blocage D2 dominant en mésolimbique (symptômes positifs), effet 5-HT2A dominant ailleurs (symptômes négatifs).",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/flashcard-044",
+    "recto": "Indications psychiatriques des neuroleptiques",
+    "verso": "Psychoses aiguës et chroniques, épisode dépressif majeur délirant avec risque suicidaire, agitation/agressivité alcoolique, anxiété résistante.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/flashcard-045",
+    "recto": "Indications non neuropsychiatriques",
+    "verso": "Vomissements des traitements antimitotiques, stimulation de la lactation.",
+    "tags": []
+  }
+]

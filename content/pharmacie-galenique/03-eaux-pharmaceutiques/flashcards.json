@@ -1,0 +1,194 @@
+[
+  {
+    "id": "pharmacie-galenique/03-eaux-pharmaceutiques/flashcard-001",
+    "recto": "Utilisations de l'eau dans l'industrie",
+    "verso": "Excipient, reconstitution, synthèse du PA, formulation, nettoyage des cuves/équipements/emballages primaires.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/03-eaux-pharmaceutiques/flashcard-002",
+    "recto": "Ce qui distingue les qualités d'eau",
+    "verso": "Leur pureté chimique et microbiologique.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/03-eaux-pharmaceutiques/flashcard-003",
+    "recto": "5 types de contaminants de l'eau",
+    "verso": "Solutés minéraux, matières organiques, gaz dissous, micro-organismes (et pyrogènes), particules.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/03-eaux-pharmaceutiques/flashcard-004",
+    "recto": "Ions de la dureté de l'eau",
+    "verso": "Ca²⁺ et Mg²⁺.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/03-eaux-pharmaceutiques/flashcard-005",
+    "recto": "Pyrogènes",
+    "verso": "Substances issues du métabolisme bactérien provoquant une brusque augmentation de la température.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/03-eaux-pharmaceutiques/flashcard-006",
+    "recto": "Lien particules / bactéries",
+    "verso": "La bactérie doit se fixer sur des particules pour survivre.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/03-eaux-pharmaceutiques/flashcard-007",
+    "recto": "Eau de process",
+    "verso": "Eau obtenue à partir d'eau potable par purification (élimination des contaminants).",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/03-eaux-pharmaceutiques/flashcard-008",
+    "recto": "Eau purifiée",
+    "verso": "Pour médicaments non stériles et non apyrogènes ; ex : eau distillée, eau déminéralisée.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/03-eaux-pharmaceutiques/flashcard-009",
+    "recto": "Eau hautement purifiée",
+    "verso": "Qualité biologique élevée ; ex : hémodialyse (eau totalement exempte d'aluminium).",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/03-eaux-pharmaceutiques/flashcard-010",
+    "recto": "EPPI en vrac vs stérilisée",
+    "verso": "Vrac : préparation des parentérales ; stérilisée : répartie en ampoules/flacons, stérilisée à la chaleur, pour dissolution/dilution extemporanée. Contrôles différents.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/03-eaux-pharmaceutiques/flashcard-011",
+    "recto": "Eau pour irrigation",
+    "verso": "Stérile, grands volumes, flacon versable unidose non adaptable à la perfusion, < 0,5 UI/ml d'endotoxines ; ne pas injecter.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/03-eaux-pharmaceutiques/flashcard-012",
+    "recto": "4 méthodes de purification",
+    "verso": "Échangeurs d'ions, osmose inverse, distillation, ultrafiltration.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/03-eaux-pharmaceutiques/flashcard-013",
+    "recto": "Principe de la désionisation",
+    "verso": "Résines échangeant les ions de l'eau contre H⁺ et OH⁻ qui forment de l'eau.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/03-eaux-pharmaceutiques/flashcard-014",
+    "recto": "Lits séparés / lits mélangés",
+    "verso": "Séparés : résines individualisées ; mélangés : deux résines dans un même dispositif.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/03-eaux-pharmaceutiques/flashcard-015",
+    "recto": "Limites des échangeurs d'ions",
+    "verso": "N'enlèvent ni particules, ni bactéries, ni matières organiques.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/03-eaux-pharmaceutiques/flashcard-016",
+    "recto": "Principe de l'osmose inverse",
+    "verso": "Membrane semi-perméable ; pression > pression osmotique → l'eau passe vers le compartiment le moins concentré.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/03-eaux-pharmaceutiques/flashcard-017",
+    "recto": "Inconvénient de l'osmose inverse",
+    "verso": "Efficacité de 90 % pour les ions monovalents.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/03-eaux-pharmaceutiques/flashcard-018",
+    "recto": "Durée de stérilité de l'eau distillée",
+    "verso": "Apyrogène et stérile pendant 3 heures après obtention.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/03-eaux-pharmaceutiques/flashcard-019",
+    "recto": "Contaminants non éliminés par distillation",
+    "verso": "Les matières volatiles (CO₂, ammoniac) : éliminer les premières fractions ou dégazer.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/03-eaux-pharmaceutiques/flashcard-020",
+    "recto": "Éliminer l'oxygène de l'eau distillée",
+    "verso": "Barbotage d'azote.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/03-eaux-pharmaceutiques/flashcard-021",
+    "recto": "Inconvénients de la distillation et parades",
+    "verso": "Coût énergétique (appareil), primage (déflecteur), contamination (qualité du matériel).",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/03-eaux-pharmaceutiques/flashcard-022",
+    "recto": "Distillation à simple effet",
+    "verso": "Évaporateur alimenté à niveau constant en eau déminéralisée ; plusieurs centaines de L/h.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/03-eaux-pharmaceutiques/flashcard-023",
+    "recto": "Distillation à effets multiples",
+    "verso": "L'eau déminéralisée d'alimentation traverse le condenseur : récupération importante de calories.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/03-eaux-pharmaceutiques/flashcard-024",
+    "recto": "Thermocompression",
+    "verso": "Distillation sous pression légèrement réduite, condensation après compression sans eau de réfrigération ; chauffage électrique, calorifugé.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/03-eaux-pharmaceutiques/flashcard-025",
+    "recto": "Ordre d'efficacité des filtrations",
+    "verso": "Microfiltration < ultrafiltration < nanofiltration.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/03-eaux-pharmaceutiques/flashcard-026",
+    "recto": "Filtration en profondeur vs en surface",
+    "verso": "Profondeur : fibreux, pores irréguliers > particules, adsorption ; surface : polymère à pores calibrés, tamisage (filtres écrans).",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/03-eaux-pharmaceutiques/flashcard-027",
+    "recto": "Méthode inefficace sur les sels minéraux",
+    "verso": "Ultrafiltration (0).",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/03-eaux-pharmaceutiques/flashcard-028",
+    "recto": "Usages de l'eau purifiée",
+    "verso": "Granulés, comprimés, enrobage, lyophilisation non stérile ; préparations orales, nasales, otiques, dermatologiques, rectales, vaginales.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/03-eaux-pharmaceutiques/flashcard-029",
+    "recto": "Usages de l'EPPI",
+    "verso": "Lyophilisation stérile ; parentérales, hémodialyse, nébulisation (cas spéciaux).",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/03-eaux-pharmaceutiques/flashcard-030",
+    "recto": "Conductivité limite EP / EHP / EPPI vrac",
+    "verso": "4,3 / 1,1 / 1,1 µS/cm (20 °C).",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/03-eaux-pharmaceutiques/flashcard-031",
+    "recto": "Germes aérobies totaux EP / EHP / EPPI vrac / EPPI stérilisée",
+    "verso": "100 / 10 / 10 UFC/ml / stérile.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/03-eaux-pharmaceutiques/flashcard-032",
+    "recto": "Stockage de l'EPPI",
+    "verso": "Système clos, > 70 °C, lampes UV en surface, acier inoxydable.",
+    "tags": []
+  }
+]

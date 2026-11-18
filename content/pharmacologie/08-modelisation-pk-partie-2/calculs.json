@@ -1,0 +1,464 @@
+[
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/calc-001",
+    "titre": "Concentration à l'équilibre en perfusion",
+    "enonce": "Un médicament est perfusé à la vitesse de {r0} mg/h. Sa clairance totale est de {cl} L/h. Calculer la Css.",
+    "variables": {
+      "r0": {
+        "min": 5,
+        "max": 100,
+        "pas": 5,
+        "unite": "mg/h"
+      },
+      "cl": {
+        "min": 1,
+        "max": 20,
+        "pas": 0.5,
+        "unite": "L/h"
+      }
+    },
+    "formule": "r0 / cl",
+    "unite": "mg/L",
+    "decimales": 2,
+    "etapes": [
+      "À l'équilibre : R0 = Cl × Css",
+      "Css = R0 / Cl = {r0} / {cl}"
+    ],
+    "rappel": "Css = R0 / Cl"
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/calc-002",
+    "titre": "Vitesse de perfusion pour une Css cible",
+    "enonce": "On souhaite obtenir une Css de {css} mg/L pour un médicament de clairance {cl} L/h. Calculer la vitesse de perfusion R0.",
+    "variables": {
+      "css": {
+        "min": 1,
+        "max": 30,
+        "pas": 1,
+        "unite": "mg/L"
+      },
+      "cl": {
+        "min": 1,
+        "max": 20,
+        "pas": 0.5,
+        "unite": "L/h"
+      }
+    },
+    "formule": "css * cl",
+    "unite": "mg/h",
+    "decimales": 1,
+    "etapes": [
+      "R0 = Cl × Css",
+      "R0 = {cl} × {css}"
+    ],
+    "rappel": "R0 = Cl × Css"
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/calc-003",
+    "titre": "Clairance à partir d'une perfusion",
+    "enonce": "Une perfusion à {r0} mg/h donne une Css de {css} mg/L. Calculer la clairance.",
+    "variables": {
+      "r0": {
+        "min": 10,
+        "max": 200,
+        "pas": 10,
+        "unite": "mg/h"
+      },
+      "css": {
+        "min": 1,
+        "max": 25,
+        "pas": 1,
+        "unite": "mg/L"
+      }
+    },
+    "formule": "r0 / css",
+    "unite": "L/h",
+    "decimales": 2,
+    "etapes": [
+      "Cl = R0 / Css",
+      "Cl = {r0} / {css}"
+    ],
+    "rappel": "Cl = R0 / Css"
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/calc-004",
+    "titre": "Fraction du plateau atteinte en perfusion",
+    "enonce": "Un médicament de T1/2 = {th} h est perfusé depuis {t} h à vitesse constante. Quel pourcentage de la Css est atteint ?",
+    "variables": {
+      "th": {
+        "min": 2,
+        "max": 12,
+        "pas": 1,
+        "unite": "h"
+      },
+      "t": {
+        "min": 2,
+        "max": 48,
+        "pas": 2,
+        "unite": "h"
+      }
+    },
+    "formule": "(1 - Math.pow(0.5, t / th)) * 100",
+    "unite": "%",
+    "decimales": 1,
+    "etapes": [
+      "n = T / T1/2 = {t} / {th}",
+      "Cperf = Css [1 − (1/2)^n]",
+      "% = [1 − (1/2)^n] × 100"
+    ],
+    "rappel": "Cperf = Css [1 − (1/2)^n], n = T/T1/2"
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/calc-005",
+    "titre": "Dose de charge en perfusion",
+    "enonce": "On veut atteindre immédiatement une Css de {css} mg/L pour un médicament de Vd = {vd} L. Calculer la dose de charge.",
+    "variables": {
+      "css": {
+        "min": 1,
+        "max": 20,
+        "pas": 1,
+        "unite": "mg/L"
+      },
+      "vd": {
+        "min": 10,
+        "max": 500,
+        "pas": 10,
+        "unite": "L"
+      }
+    },
+    "formule": "vd * css",
+    "unite": "mg",
+    "decimales": 0,
+    "etapes": [
+      "DC = Vd × Css",
+      "DC = {vd} × {css}"
+    ],
+    "rappel": "DC = Vd × Css = R0 / Ke"
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/calc-006",
+    "titre": "Dose de charge à partir de R0 et ke",
+    "enonce": "Un médicament est perfusé à {r0} mg/h ; sa ke est de {ke} h⁻¹. Calculer la dose de charge permettant d'atteindre d'emblée le plateau.",
+    "variables": {
+      "r0": {
+        "min": 5,
+        "max": 100,
+        "pas": 5,
+        "unite": "mg/h"
+      },
+      "ke": {
+        "min": 0.02,
+        "max": 0.3,
+        "pas": 0.01,
+        "unite": "h⁻¹"
+      }
+    },
+    "formule": "r0 / ke",
+    "unite": "mg",
+    "decimales": 0,
+    "etapes": [
+      "DC = Vd × Css = R0 / Ke",
+      "DC = {r0} / {ke}"
+    ],
+    "rappel": "DC = R0 / Ke"
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/calc-007",
+    "titre": "Volume de distribution à partir de T1/2 et Cl",
+    "enonce": "Un médicament a une T1/2 de {th} h et une clairance de {cl} L/h. Calculer son Vd.",
+    "variables": {
+      "th": {
+        "min": 1,
+        "max": 48,
+        "pas": 1,
+        "unite": "h"
+      },
+      "cl": {
+        "min": 0.5,
+        "max": 20,
+        "pas": 0.5,
+        "unite": "L/h"
+      }
+    },
+    "formule": "th * cl / 0.693",
+    "unite": "L",
+    "decimales": 1,
+    "etapes": [
+      "Vd = T1/2 × Cl / 0,693",
+      "Vd = {th} × {cl} / 0,693"
+    ],
+    "rappel": "Vd = T1/2 × Cl / 0,693"
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/calc-008",
+    "titre": "Concentration moyenne en administration réitérée",
+    "enonce": "Un médicament (F = {F}, Cl = {cl} L/h) est administré à la dose de {d} mg toutes les {tau} h. Calculer Cmoy à l'équilibre.",
+    "variables": {
+      "F": {
+        "min": 0.3,
+        "max": 1,
+        "pas": 0.05,
+        "unite": ""
+      },
+      "cl": {
+        "min": 1,
+        "max": 20,
+        "pas": 1,
+        "unite": "L/h"
+      },
+      "d": {
+        "min": 50,
+        "max": 1000,
+        "pas": 50,
+        "unite": "mg"
+      },
+      "tau": {
+        "min": 4,
+        "max": 24,
+        "pas": 2,
+        "unite": "h"
+      }
+    },
+    "formule": "F * d / (tau * cl)",
+    "unite": "mg/L",
+    "decimales": 2,
+    "etapes": [
+      "Cmoy = F × D / (τ × Cl)",
+      "Cmoy = {F} × {d} / ({tau} × {cl})"
+    ],
+    "rappel": "Cmoy = F·D/(τ·Cl)"
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/calc-009",
+    "titre": "Intervalle posologique maximal",
+    "enonce": "L'intervalle thérapeutique d'un médicament est de {cmin} à {cmax} mg/L ; sa ke est de {ke} h⁻¹. Calculer l'intervalle posologique maximal τ.",
+    "variables": {
+      "cmin": {
+        "min": 1,
+        "max": 5,
+        "pas": 0.5,
+        "unite": "mg/L"
+      },
+      "cmax": {
+        "min": 6,
+        "max": 30,
+        "pas": 1,
+        "unite": "mg/L"
+      },
+      "ke": {
+        "min": 0.05,
+        "max": 0.5,
+        "pas": 0.01,
+        "unite": "h⁻¹"
+      }
+    },
+    "formule": "Math.log(cmax / cmin) / ke",
+    "unite": "h",
+    "decimales": 2,
+    "etapes": [
+      "Cmin = Cmax × e^(−ke·τ)",
+      "τ = ln(Cmax/Cmin) / ke",
+      "τ = ln({cmax}/{cmin}) / {ke}"
+    ],
+    "rappel": "τ = ln(Cmax/Cmin) / ke"
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/calc-010",
+    "titre": "Dose d'entretien maximale",
+    "enonce": "Pour un médicament de Vd = {vd} L et F = {F}, l'intervalle thérapeutique est de {cmin} à {cmax} mg/L. Calculer DE max.",
+    "variables": {
+      "vd": {
+        "min": 10,
+        "max": 300,
+        "pas": 10,
+        "unite": "L"
+      },
+      "F": {
+        "min": 0.3,
+        "max": 1,
+        "pas": 0.05,
+        "unite": ""
+      },
+      "cmin": {
+        "min": 1,
+        "max": 5,
+        "pas": 0.5,
+        "unite": "mg/L"
+      },
+      "cmax": {
+        "min": 6,
+        "max": 30,
+        "pas": 1,
+        "unite": "mg/L"
+      }
+    },
+    "formule": "(cmax - cmin) * vd / F",
+    "unite": "mg",
+    "decimales": 0,
+    "etapes": [
+      "DE max = (Cmax − Cmin) × Vd / F",
+      "DE max = ({cmax} − {cmin}) × {vd} / {F}"
+    ],
+    "rappel": "DE max = (Cmax − Cmin) × Vd / F"
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/calc-011",
+    "titre": "Dose de charge en administration réitérée",
+    "enonce": "Pour obtenir rapidement une Cmax de {cmax} mg/L avec un médicament de Vd = {vd} L et F = {F}, calculer la dose de charge.",
+    "variables": {
+      "cmax": {
+        "min": 1,
+        "max": 30,
+        "pas": 1,
+        "unite": "mg/L"
+      },
+      "vd": {
+        "min": 10,
+        "max": 500,
+        "pas": 10,
+        "unite": "L"
+      },
+      "F": {
+        "min": 0.3,
+        "max": 1,
+        "pas": 0.05,
+        "unite": ""
+      }
+    },
+    "formule": "cmax * vd / F",
+    "unite": "mg",
+    "decimales": 0,
+    "etapes": [
+      "DC = Cmax × Vd / F",
+      "DC = {cmax} × {vd} / {F}"
+    ],
+    "rappel": "DC = Cmax × Vd / F"
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/calc-012",
+    "titre": "Concentration moyenne à l'équilibre (logarithmique)",
+    "enonce": "Les concentrations à l'équilibre oscillent entre Cmin = {cmin} mg/L et Cmax = {cmax} mg/L. Calculer C̄.",
+    "variables": {
+      "cmin": {
+        "min": 1,
+        "max": 5,
+        "pas": 0.5,
+        "unite": "mg/L"
+      },
+      "cmax": {
+        "min": 6,
+        "max": 30,
+        "pas": 1,
+        "unite": "mg/L"
+      }
+    },
+    "formule": "(cmax - cmin) / Math.log(cmax / cmin)",
+    "unite": "mg/L",
+    "decimales": 2,
+    "etapes": [
+      "C̄ = (Cmax − Cmin) / ln(Cmax/Cmin)",
+      "C̄ = ({cmax} − {cmin}) / ln({cmax}/{cmin})"
+    ],
+    "rappel": "C̄ = (Cmax − Cmin)/ln(Cmax/Cmin)"
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/calc-013",
+    "titre": "AUC du modèle bicompartimental IV",
+    "enonce": "Pour un médicament bicompartimental injecté par voie IV : D = {d} mg/L, kd = {kd} h⁻¹, E = {e} mg/L, ke = {ke} h⁻¹. Calculer l'AUC0→∞.",
+    "variables": {
+      "d": {
+        "min": 5,
+        "max": 50,
+        "pas": 5,
+        "unite": "mg/L"
+      },
+      "kd": {
+        "min": 1,
+        "max": 5,
+        "pas": 0.5,
+        "unite": "h⁻¹"
+      },
+      "e": {
+        "min": 2,
+        "max": 20,
+        "pas": 1,
+        "unite": "mg/L"
+      },
+      "ke": {
+        "min": 0.05,
+        "max": 0.5,
+        "pas": 0.05,
+        "unite": "h⁻¹"
+      }
+    },
+    "formule": "d / kd + e / ke",
+    "unite": "mg.h/L",
+    "decimales": 2,
+    "etapes": [
+      "AUC = D/kd + E/ke",
+      "AUC = {d}/{kd} + {e}/{ke}"
+    ],
+    "rappel": "AUC0→∞ = D/kd + E/ke"
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/calc-014",
+    "titre": "Clairance et Vd d'un modèle bicompartimental IV",
+    "enonce": "Un médicament bicompartimental est injecté par voie IV à la dose de {q} mg ; l'AUC vaut {auc} mg.h/L et ke = {ke} h⁻¹. Calculer le Vd.",
+    "variables": {
+      "q": {
+        "min": 100,
+        "max": 1000,
+        "pas": 50,
+        "unite": "mg"
+      },
+      "auc": {
+        "min": 10,
+        "max": 200,
+        "pas": 10,
+        "unite": "mg.h/L"
+      },
+      "ke": {
+        "min": 0.05,
+        "max": 0.5,
+        "pas": 0.05,
+        "unite": "h⁻¹"
+      }
+    },
+    "formule": "(q / auc) / ke",
+    "unite": "L",
+    "decimales": 1,
+    "etapes": [
+      "Cl = Q / AUC = {q} / {auc}",
+      "Vd = Cl / ke"
+    ],
+    "rappel": "Cl = Q(dose IV)/AUC ; Vd = Cl/ke"
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/calc-015",
+    "titre": "Constante de distribution (méthode des résidus)",
+    "enonce": "Les résidus de la phase de distribution valent D1 = {d1} mg/L à t1 = 0,25 h et D2 = {d2} mg/L à t2 = 0,75 h. Calculer kd.",
+    "variables": {
+      "d1": {
+        "min": 20,
+        "max": 50,
+        "pas": 2,
+        "unite": "mg/L"
+      },
+      "d2": {
+        "min": 2,
+        "max": 18,
+        "pas": 1,
+        "unite": "mg/L"
+      }
+    },
+    "formule": "-2.303 * (Math.log10(d2) - Math.log10(d1)) / 0.5",
+    "unite": "h⁻¹",
+    "decimales": 3,
+    "etapes": [
+      "kd = −2,303 × (log D2 − log D1)/(t2 − t1)",
+      "t2 − t1 = 0,5 h",
+      "kd = −2,303 × (log {d2} − log {d1}) / 0,5"
+    ],
+    "rappel": "kd = −2,303 × (log D2 − log D1)/(t2 − t1)"
+  }
+]

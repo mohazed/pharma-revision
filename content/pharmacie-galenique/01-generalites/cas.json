@@ -1,0 +1,243 @@
+[
+  {
+    "id": "pharmacie-galenique/01-generalites/cas-001",
+    "titre": "Préparation magistrale à l'officine",
+    "enonce": "Une patiente se présente à l'officine avec une ordonnance du Dr X demandant de préparer : acide lactique 1 g, acide salicylique 2,25 g, collodion 15 g, en application 3 fois par jour sur une verrue.",
+    "questions": [
+      {
+        "id": "pharmacie-galenique/01-generalites/cas-001-q-001",
+        "type": "unique",
+        "enonce": "Cette préparation est :",
+        "options": [
+          "Une préparation inscrite à la Pharmacopée",
+          "Une préparation magistrale",
+          "Une préparation officinale",
+          "Une spécialité pharmaceutique",
+          "Un lot pilote"
+        ],
+        "correctes": [
+          1
+        ],
+        "explication": "Préparée de façon extemporanée selon une prescription médicale pour un patient déterminé : c'est une préparation magistrale.",
+        "source": {
+          "extrait": "préparé de façon extemporanée en pharmacie selon une prescription médicale destinée à un patient déterminé"
+        },
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacie-galenique/01-generalites/cas-001-q-002",
+        "type": "multiple",
+        "enonce": "Le pharmacien doit inscrire sur l'ordonnancier :",
+        "options": [
+          "Le nombre d'unités préparées",
+          "La date",
+          "La formule détaillée",
+          "Le nom et l'adresse de la patiente",
+          "Le nom du médecin"
+        ],
+        "correctes": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "explication": "Toutes ces mentions sont obligatoires sur le registre.",
+        "source": {
+          "extrait": "Date - Nom du médecin - Nom et adresse du malade"
+        },
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacie-galenique/01-generalites/cas-001-q-003",
+        "type": "multiple",
+        "enonce": "Le numéro d'ordre attribué doit figurer sur :",
+        "options": [
+          "Le registre",
+          "L'étiquette du conditionnement",
+          "L'ordonnance",
+          "Le dossier d'AMM",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "Le numéro d'ordre est porté sur le registre, l'ordonnance et l'étiquette.",
+        "source": {
+          "extrait": "Le registre, - L'ordonnance, - L'étiquette du conditionnement"
+        },
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "pharmacie-galenique/01-generalites/cas-002",
+    "titre": "Analyse d'une spécialité : Doliprane® 500 mg",
+    "enonce": "Un étudiant stagiaire analyse une boîte de Doliprane® comprimés à 500 mg : comprimés nus sous blister, dans une boîte en carton, contenant lactose, amidon de blé, stéarate de magnésium et talc.",
+    "questions": [
+      {
+        "id": "pharmacie-galenique/01-generalites/cas-002-q-001",
+        "type": "unique",
+        "enonce": "Le conditionnement primaire est :",
+        "options": [
+          "Le blister",
+          "La palette",
+          "La notice",
+          "La boîte en carton",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Le blister est en contact direct avec le comprimé (primaire) ; la boîte est le secondaire.",
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacie-galenique/01-generalites/cas-002-q-002",
+        "type": "multiple",
+        "enonce": "Le lactose présent dans ce comprimé :",
+        "options": [
+          "Est responsable de l'effet antalgique",
+          "Est cité comme exemple d'excipient à effet notoire",
+          "Est un excipient",
+          "Est le principe actif",
+          "Peut provoquer des intolérances chez certains patients"
+        ],
+        "correctes": [
+          1,
+          2,
+          4
+        ],
+        "explication": "Le lactose est un excipient, cité comme exemple d'excipient à effet notoire (intolérances). Le PA est le paracétamol.",
+        "source": {
+          "extrait": "Peuvent être à l'origine d'allergies ou de réactions d'intolérance chez certains patients (Ex: Lactose)"
+        },
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacie-galenique/01-generalites/cas-002-q-003",
+        "type": "multiple",
+        "enonce": "Concernant la vitesse d'action de ce médicament :",
+        "options": [
+          "C'est une forme à libération modifiée",
+          "C'est une forme gazeuse",
+          "Sa fabrication nécessite un procédé spécial de libération modifiée",
+          "C'est une forme à libération immédiate",
+          "C'est une forme à libération conventionnelle"
+        ],
+        "correctes": [
+          3,
+          4
+        ],
+        "explication": "Le comprimé nu de paracétamol 500 mg est l'exemple type de la forme conventionnelle à libération immédiate.",
+        "source": {
+          "extrait": "Comprimé nu (non enrobé), ex: paracétamol 500 mg"
+        },
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacie-galenique/01-generalites/cas-002-q-004",
+        "type": "multiple",
+        "enonce": "Avant sa commercialisation, ce médicament a dû obtenir une AMM fondée sur :",
+        "options": [
+          "Le prix",
+          "La sécurité",
+          "L'efficacité",
+          "La qualité",
+          "Le nom commercial"
+        ],
+        "correctes": [
+          1,
+          2,
+          3
+        ],
+        "explication": "Trois critères : qualité, sécurité, efficacité.",
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "pharmacie-galenique/01-generalites/cas-003",
+    "titre": "Développement d'un nouveau comprimé en industrie",
+    "enonce": "Un laboratoire développe un nouveau comprimé. L'équipe de développement galénique a terminé la formulation et prépare les premiers lots.",
+    "questions": [
+      {
+        "id": "pharmacie-galenique/01-generalites/cas-003-q-001",
+        "type": "unique",
+        "enonce": "Les lots fabriqués à l'échelle du laboratoire sont :",
+        "options": [
+          "Des lots industriels",
+          "Des lots d'essais",
+          "Des lots pilotes cliniques",
+          "Des prototypes destinés aux essais cliniques",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          1
+        ],
+        "explication": "Étude du procédé à l'échelle du laboratoire → lots d'essais.",
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacie-galenique/01-generalites/cas-003-q-002",
+        "type": "multiple",
+        "enonce": "Les lots destinés aux essais cliniques :",
+        "options": [
+          "Sont fabriqués après l'AMM",
+          "Sont les lots industriels de routine",
+          "Sont aussi appelés prototypes",
+          "Sont des lots pilotes",
+          "Sont obtenus à l'échelle pilote"
+        ],
+        "correctes": [
+          2,
+          3,
+          4
+        ],
+        "explication": "Lot clinique = lot pilote = prototype, obtenu par optimisation à l'échelle pilote.",
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacie-galenique/01-generalites/cas-003-q-003",
+        "type": "multiple",
+        "enonce": "Une fois l'AMM obtenue, le laboratoire doit :",
+        "options": [
+          "Recommencer la phase I",
+          "Mettre en place un système d'assurance qualité",
+          "Appliquer les BPF",
+          "Supprimer les contrôles qualité",
+          "Reproduire le prototype à l'échelle industrielle"
+        ],
+        "correctes": [
+          1,
+          2,
+          4
+        ],
+        "explication": "Après l'AMM : reproduction industrielle du prototype et assurance qualité, dont les BPF sont un élément.",
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      }
+    ]
+  }
+]

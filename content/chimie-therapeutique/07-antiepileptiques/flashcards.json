@@ -1,0 +1,296 @@
+[
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/flashcard-001",
+    "recto": "Définition de l'épilepsie",
+    "verso": "Affection neurologique chronique due à une anomalie de la fonction électrique cérébrale, avec crises convulsives périodiques et imprévisibles.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/flashcard-002",
+    "recto": "Définition de Jackson",
+    "verso": "Décharge paroxystique excessive hypersynchrone d'une population neuronique plus ou moins étendue.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/flashcard-003",
+    "recto": "Classification des crises",
+    "verso": "Crises focales/partielles (simples ou complexes) et crises généralisées (absences, tonico-cloniques, myocloniques, toniques, atoniques).",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/flashcard-004",
+    "recto": "Petit mal / grand mal",
+    "verso": "Absences généralisées / crises tonico-cloniques.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/flashcard-005",
+    "recto": "Physiopathologie de l'épilepsie",
+    "verso": "Instabilité membranaire (hypothèse neuronale), déséquilibre GABA/glutamate (hypothèse synaptique), modifications des récepteurs GABA(A).",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/flashcard-006",
+    "recto": "Définition des antiépileptiques",
+    "verso": "Médicaments symptomatiques diminuant la fréquence et/ou la sévérité des crises, sans propriétés curatives.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/flashcard-007",
+    "recto": "Classification chimique des AE",
+    "verso": "Hydantoïnes, barbituriques, désoxybarbituriques, iminostilbènes, succinimides, acide carboxylique, benzodiazépines, autres.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/flashcard-008",
+    "recto": "AE de 1re génération",
+    "verso": "Phénobarbital, primidone, phénytoïne, valproate, carbamazépine, éthosuximide, clonazépam, diazépam.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/flashcard-009",
+    "recto": "AE de 2e génération",
+    "verso": "Lamotrigine, gabapentine, vigabatrine, tiagabine, topiramate, felbamate, oxcarbazépine.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/flashcard-010",
+    "recto": "AE de 3e génération (après 2000)",
+    "verso": "Lévétiracétam, prégabaline, zonisamide, stiripentol, rufinamide, rétigabine, valrocémide.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/flashcard-011",
+    "recto": "Les deux grandes catégories de mécanismes",
+    "verso": "Action sur la neurotransmission (GABA, glutamate) et inhibition des canaux ioniques voltage-dépendants (Na+, Ca++).",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/flashcard-012",
+    "recto": "Bloqueurs des canaux sodiques",
+    "verso": "Carbamazépine, lamotrigine, phénytoïne, acide valproïque : blocage pendant la phase d'inactivation, ralentissement de la récupération.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/flashcard-013",
+    "recto": "Courant calcique T",
+    "verso": "Courant de faible seuil des neurones thalamiques impliqué dans les absences ; inhibé par éthosuximide, valproate, triméthadione.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/flashcard-014",
+    "recto": "Médicaments agissant sur les récepteurs GABAA",
+    "verso": "Benzodiazépines et barbituriques.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/flashcard-015",
+    "recto": "Vigabatrine et tiagabine",
+    "verso": "Vigabatrine : inhibition irréversible de la GABA-transaminase ; tiagabine : inhibition de la recapture pré-synaptique du GABA.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/flashcard-016",
+    "recto": "Médicaments antiglutamatergiques",
+    "verso": "Felbamate et lamotrigine.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/flashcard-017",
+    "recto": "Structure commune des anticonvulsivants de 1re génération",
+    "verso": "R1 et R2 sur un même carbone ; R = CO–NH (barbiturique), NH (hydantoïne), O (oxazolidine-dione), CH2 (succinimide).",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/flashcard-018",
+    "recto": "Formule générale des barbituriques",
+    "verso": "X = O ou S ; R = alkyle ; R1 et R2 = radicaux alkyles saturés ou insaturés, cyclaniques ou aromatiques.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/flashcard-019",
+    "recto": "Phénobarbital",
+    "verso": "Gardénal® : 5-éthyl-5-phényl-1,3-diazinane-2,4,6-trione ; activité maximale avec un phényle en 5.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/flashcard-020",
+    "recto": "Synthèse du phénobarbital",
+    "verso": "Friedel-Crafts → toluène → chloration → KCN + hydrolyse → acide phénylacétique → double ester → condensation avec l'urée.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/flashcard-021",
+    "recto": "Mécanisme du phénobarbital",
+    "verso": "Fixation sur les récepteurs GABA-A et augmentation du courant chlorure.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/flashcard-022",
+    "recto": "Usage du phénobarbital",
+    "verso": "Crises partielles et généralisées tonico-cloniques, sauf absences ; usage limité par l'effet sédatif et les troubles du comportement chez l'enfant.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/flashcard-023",
+    "recto": "Primidone",
+    "verso": "Mysoline® : 2-désoxyphénobarbital, prodrogue du phénobarbital, action sur le récepteur GABA-A ; sans effet sur les absences.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/flashcard-024",
+    "recto": "Phénytoïne",
+    "verso": "Di-hydan® : 5,5-diphénylimidazolidine-2,4-dione, hydantoïne.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/flashcard-025",
+    "recto": "Mécanisme de la phénytoïne",
+    "verso": "Action sur la partie intracellulaire des canaux sodiques : diminution de l'entrée de Na+ et de l'excitabilité.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/flashcard-026",
+    "recto": "RSA de la phénytoïne",
+    "verso": "Substituant 5-phényle (aromatique) essentiel ; les alkyles en 5 donnent un effet sédatif absent chez la phénytoïne.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/flashcard-027",
+    "recto": "Indications de la phénytoïne",
+    "verso": "Crises partielles et tonico-cloniques ; inactive sur les absences.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/flashcard-028",
+    "recto": "Triméthadione",
+    "verso": "Epidione® : 3,5,5-triméthyloxazolidine-2,4-dione, retirée du marché en Europe (tératogénicité).",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/flashcard-029",
+    "recto": "Éthosuximide",
+    "verso": "Zarontin® : 3-éthyl-3-méthylpyrrolidine-2,5-dione, succinimide, premier choix des absences.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/flashcard-030",
+    "recto": "Mécanisme de l'éthosuximide",
+    "verso": "Diminution des courants Ca++ de type T des neurones thalamiques.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/flashcard-031",
+    "recto": "Carbamazépine",
+    "verso": "Tégrétol® : 5H-dibenzo[b,f]azépine-5-carboxamide, dérivé de l'iminostilbène.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/flashcard-032",
+    "recto": "Synthèse de la carbamazépine",
+    "verso": "5H-dibenzo[b,f]azépine + phosgène → 5-chlorcarboxy-dibenzazépine, puis ammoniac.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/flashcard-033",
+    "recto": "RSA de la carbamazépine",
+    "verso": "Groupement carbamyl en position 5 essentiel à l'activité anticonvulsivante.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/flashcard-034",
+    "recto": "Mécanisme de la carbamazépine",
+    "verso": "Prolongation de l'état d'inactivation des canaux sodiques, augmentation de la période réfractaire.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/flashcard-035",
+    "recto": "Usage de la carbamazépine",
+    "verso": "Crises partielles simples ou complexes et crises généralisées tonico-cloniques ; inactive sur le petit mal.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/flashcard-036",
+    "recto": "Benzodiazépines antiépileptiques",
+    "verso": "Clobazam (Urbanyl, le plus utilisé en chronique), clonazépam (Rivotril, commercialisé comme anticonvulsivant), diazépam (Valium).",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/flashcard-037",
+    "recto": "Valproate de sodium",
+    "verso": "Dépakine® : acide 2-propylpentanoïque, découverte fortuite comme solvant d'autres antiépileptiques.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/flashcard-038",
+    "recto": "RSA de l'acide valproïque",
+    "verso": "La ramification conditionne l'activité ; jusqu'à 9 carbones les propriétés sédatives augmentent ; l'amide est 2 fois plus actif.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/flashcard-039",
+    "recto": "Mécanismes du valproate",
+    "verso": "Inhibition des canaux Na+, inhibition de la GABA-transaminase, diminution du courant Ca++ T, antagonisme du glutamate.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/flashcard-040",
+    "recto": "Usage du valproate",
+    "verso": "Crises tonico-cloniques, myocloniques, atoniques, absences et crises partielles.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/flashcard-041",
+    "recto": "Limites des AE traditionnels",
+    "verso": "Cinétique non linéaire (phénytoïne), forte liaison protéique, auto-induction enzymatique, interactions nombreuses, cinétique variable selon l'âge.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/flashcard-042",
+    "recto": "Oxcarbazépine",
+    "verso": "Céto-analogue de la carbamazépine (10,11-dihydro-10-oxo-5H-dibenzo[b,f]azépine-5-carboxamide), métabolisée en MHD actif ; moins d'interactions, moins d'hyponatrémies.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/flashcard-043",
+    "recto": "Gabapentine",
+    "verso": "Neurontin® : analogue du GABA, activité modérée, complément des crises partielles mal contrôlées.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/flashcard-044",
+    "recto": "Felbamate",
+    "verso": "Taloxa® : antagoniste NMDA renforçant la transmission GABAergique ; toxicité hépatique et hématologique, 2e ou 3e ligne.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/flashcard-045",
+    "recto": "Lamotrigine",
+    "verso": "Lamictal® : phényltriazine (3,5-diamino-6-[2,3-dichlorophényl]-1,2,4-triazine) ; canaux Na+, courant Ca++ thalamique, libération de glutamate.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/flashcard-046",
+    "recto": "Tiagabine",
+    "verso": "Gabitril® : inhibition de la recapture présynaptique du GABA ; adjuvant des crises partielles.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/flashcard-047",
+    "recto": "Lévétiracétam",
+    "verso": "Keppra : pyrrolidone, équivalent du GABA cyclisé, 2001 ; crises partielles, très peu d'effets indésirables et pas d'interactions.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/flashcard-048",
+    "recto": "Prégabaline",
+    "verso": "Lyrica® : facilitation GABAergique et inhibition des courants Ca++ de type T ; crises partielles et absences.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/flashcard-049",
+    "recto": "Résumé des nouveaux AE",
+    "verso": "Mécanismes multiples, efficacité large en association, moins d'effets indésirables (SNC), tératogénicité peu investiguée.",
+    "tags": []
+  }
+]

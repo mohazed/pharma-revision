@@ -1,0 +1,2295 @@
+[
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/qcm-001",
+    "type": "multiple",
+    "enonce": "Concernant les psychotropes, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Ce sont des substances naturelles ou synthétiques",
+      "Ils sont capables de modifier l'activité mentale ou le comportement",
+      "Ils agissent sur le cerveau",
+      "Ils sont exclusivement d'origine synthétique",
+      "Ils n'agissent que sur le système nerveux périphérique"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Psychotropes : substances naturelles ou synthétiques capables de modifier l'activité mentale ou le comportement en agissant sur le cerveau.",
+    "source": {
+      "page": 2,
+      "extrait": "substances naturelles ou synthétiques capables de modifier l'activité mentale ou le comportement"
+    },
+    "difficulte": 1,
+    "tags": [
+      "psychotropes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/qcm-002",
+    "type": "multiple",
+    "enonce": "Selon la classification de Delay et Deniker modifiée par Loo, les psycholeptiques :",
+    "options": [
+      "Abaissent le tonus psychologique",
+      "Comprennent les thymoleptiques et les nooleptiques",
+      "Comprennent les neuroleptiques, les anxiolytiques et les hypnotiques",
+      "Stimulent l'humeur et la vigilance",
+      "Comprennent les antidépresseurs"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Les psycholeptiques abaissent l'humeur (thymoleptiques : neuroleptiques + anxiolytiques) et la vigilance (nooleptiques : hypnotiques). Les antidépresseurs sont des psychoanaleptiques.",
+    "source": {
+      "page": 3,
+      "extrait": "1. Psycholeptiques Abaissent Humeur Vigilance"
+    },
+    "difficulte": 2,
+    "tags": [
+      "classification psychotropes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/qcm-003",
+    "type": "unique",
+    "enonce": "Dans la classification de Delay et Deniker modifiée par Loo, les anxiolytiques appartiennent aux :",
+    "options": [
+      "Psychoanaleptiques",
+      "Psycholeptiques",
+      "Psycho-isoleptiques",
+      "Psychodysleptiques",
+      "Nooanaleptiques"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Les anxiolytiques, avec les neuroleptiques, sont des psycholeptiques (thymoleptiques).",
+    "source": {
+      "page": 3,
+      "extrait": "Neuroleptiques + Anxiolytiques"
+    },
+    "difficulte": 1,
+    "tags": [
+      "classification psychotropes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/qcm-004",
+    "type": "multiple",
+    "enonce": "Associez correctement groupe de psychotropes et exemple :",
+    "options": [
+      "Psychoanaleptiques thymoanaleptiques : antidépresseurs",
+      "Psychoanaleptiques nooanaleptiques : psychostimulants (amphétamines)",
+      "Psycho-isoleptiques : sels de lithium",
+      "Psychodysleptiques : hallucinogènes (cocaïne)",
+      "Psycho-isoleptiques : hallucinogènes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Les psycho-isoleptiques (régulateurs de l'humeur) correspondent aux sels de lithium ; les hallucinogènes sont des psychodysleptiques (dévient).",
+    "source": {
+      "page": 3,
+      "extrait": "3. Psycho-isoleptiques Sels de Lithium 4. Psychodysleptiques Hallucinogènes"
+    },
+    "difficulte": 2,
+    "tags": [
+      "classification psychotropes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/qcm-005",
+    "type": "unique",
+    "enonce": "Les hypnotiques sont classés parmi les :",
+    "options": [
+      "Thymoleptiques",
+      "Nooleptiques",
+      "Thymoanaleptiques",
+      "Nooanaleptiques",
+      "Psychodysleptiques"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Les hypnotiques abaissent la vigilance : ce sont des psycholeptiques nooleptiques.",
+    "source": {
+      "page": 3,
+      "extrait": "Vigilance Nooleptiques Hypnotiques"
+    },
+    "difficulte": 2,
+    "tags": [
+      "classification psychotropes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/qcm-006",
+    "type": "unique",
+    "enonce": "Les psychodysleptiques :",
+    "options": [
+      "Abaissent l'humeur",
+      "Stimulent la vigilance",
+      "Dévient le tonus psychologique",
+      "Régulent l'humeur",
+      "Comprennent les sels de lithium"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Les psychodysleptiques dévient le tonus psychologique (hallucinogènes).",
+    "source": {
+      "page": 3,
+      "extrait": "Dévient 4. Psychodysleptiques"
+    },
+    "difficulte": 2,
+    "tags": [
+      "classification psychotropes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/qcm-007",
+    "type": "multiple",
+    "enonce": "Les anxiolytiques :",
+    "options": [
+      "Ont une structure chimique assez variable",
+      "Réduisent ou suppriment l'angoisse",
+      "Provoquent une sédation",
+      "Ont tous une structure benzodiazépinique",
+      "Sont des psychostimulants"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Les anxiolytiques sont de structure chimique assez variable et ont en commun de réduire ou supprimer l'angoisse et de provoquer une sédation.",
+    "source": {
+      "page": 4,
+      "extrait": "réduire ou de supprimer l'angoisse et de provoquer une sédation"
+    },
+    "difficulte": 1,
+    "tags": [
+      "définition"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/qcm-008",
+    "type": "multiple",
+    "enonce": "Concernant l'anxiété :",
+    "options": [
+      "C'est un état émotionnel",
+      "Elle se traduit par un sentiment d'appréhension, de tension, de malaise ou de terreur",
+      "Elle survient face à un péril de nature indéterminée",
+      "Elle s'accompagne de manifestations somatiques polymorphes",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes ces caractéristiques sont citées dans la physiopathologie de l'anxiété.",
+    "source": {
+      "page": 5,
+      "extrait": "face à un péril de nature indéterminée. Manifestations somatiques polymorphes"
+    },
+    "difficulte": 1,
+    "tags": [
+      "anxiété"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/qcm-009",
+    "type": "multiple",
+    "enonce": "Les théories biologiques de l'anxiété citées dans le cours sont :",
+    "options": [
+      "La théorie GABAergique",
+      "La théorie sérotoninergique",
+      "La théorie noradrénergique",
+      "La théorie dopaminergique",
+      "La théorie cholinergique"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Trois théories biologiques : GABAergique, sérotoninergique et noradrénergique.",
+    "source": {
+      "page": 6,
+      "extrait": "Théorie GABAergique, Théorie sérotoninergique, Théorie noradrénergique"
+    },
+    "difficulte": 1,
+    "tags": [
+      "anxiété"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/qcm-010",
+    "type": "multiple",
+    "enonce": "Concernant le récepteur GABA représenté dans le cours :",
+    "options": [
+      "Il est situé sur la membrane post-synaptique",
+      "Il possède un site de liaison du GABA",
+      "Il possède un site de liaison des benzodiazépines",
+      "Il laisse passer les ions chlorure",
+      "Il laisse passer les ions sodium"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Le récepteur GABA post-synaptique est un canal chlorure comportant un site GABA et un site BZD (sous-unités alpha et gamma).",
+    "source": {
+      "page": 7,
+      "extrait": "site de liaison Benzodiazépine (BDZ) site de liaison GABA"
+    },
+    "difficulte": 2,
+    "tags": [
+      "récepteur GABA"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/qcm-011",
+    "type": "multiple",
+    "enonce": "La classification des anxiolytiques comprend :",
+    "options": [
+      "Les benzodiazépines",
+      "Les carbamates",
+      "L'hydroxyzine et la buspirone",
+      "Les antidépresseurs",
+      "Les bêtabloquants et les agonistes α2 adrénergiques"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Les six groupes cités : benzodiazépines, carbamates, hydroxyzine, buspirone, antidépresseurs, bêtabloquants et agonistes α2 adrénergiques.",
+    "source": {
+      "page": 8,
+      "extrait": "benzodiazépines carbamates hydroxyzine buspirone antidépresseurs"
+    },
+    "difficulte": 1,
+    "tags": [
+      "classification"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/qcm-012",
+    "type": "multiple",
+    "enonce": "Le noyau des benzodiazépines anxiolytiques :",
+    "options": [
+      "Dérive de la 3H-benzo(e)diazépine-1,4",
+      "Résulte de la fusion d'un cycle diazépine-1,4 avec un cycle benzénique",
+      "Porte généralement un phényle en C5",
+      "Porte généralement un phényle en C3",
+      "Résulte de la fusion d'une diazépine-1,3 avec un benzène"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Les BZD dérivent de la benz(e) 3H-diazépine-1,4 (diazépine-1,4 + benzène) ; un noyau phényle est généralement fixé en C5 (numéroté 1' à 6').",
+    "source": {
+      "page": 10,
+      "extrait": "Benz(e) 3H-diazépine-1,4 résultant d'un cycle diazépine-1,4 avec un cycle benzénique"
+    },
+    "difficulte": 1,
+    "tags": [
+      "noyau"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/qcm-013",
+    "type": "multiple",
+    "enonce": "Les premières benzodiazépines entrées en thérapeutique sont :",
+    "options": [
+      "Le Librium® (chlordiazépoxyde)",
+      "Le Valium® (diazépam)",
+      "Le Xanax® (alprazolam)",
+      "Le Lexomil® (bromazépam)",
+      "L'Anexate® (flumazénil)"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "L'ensemble hétérocyclique est entré en thérapeutique avec le Librium® et le Valium®.",
+    "source": {
+      "page": 10,
+      "extrait": "entré en thérapeutique avec le: LIBRIUM®(chlordiazépoxyde) et le VALIUM®(diazépam)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "historique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/qcm-014",
+    "type": "unique",
+    "enonce": "Dans la 3H-benzo(e)diazépine-1,4, le côté de la diazépine accolé au benzène est le côté :",
+    "options": [
+      "a",
+      "b",
+      "c",
+      "e",
+      "g"
+    ],
+    "correctes": [
+      3
+    ],
+    "explication": "Le benzène est fusionné sur le côté « e » de la 2H-diazépine-1,4, d'où le nom benzo(e)diazépine.",
+    "source": {
+      "page": 10,
+      "extrait": "3H-Benzo (e) diazépine-1,4"
+    },
+    "difficulte": 3,
+    "tags": [
+      "nomenclature"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/qcm-015",
+    "type": "unique",
+    "enonce": "Les atomes du phényle fixé en C5 des benzodiazépines sont numérotés :",
+    "options": [
+      "1 à 6",
+      "1' à 6'",
+      "a à f",
+      "5a à 5f",
+      "10 à 15"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Le noyau phényle en C5 est numéroté 1', 2', 3', 4', 5', 6'.",
+    "source": {
+      "page": 11,
+      "extrait": "un noyau phényl en C5 qui sera numéroté:1',2',3',4',5',6'"
+    },
+    "difficulte": 2,
+    "tags": [
+      "noyau"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/qcm-016",
+    "type": "multiple",
+    "enonce": "La classification chimique des benzodiazépines comprend :",
+    "options": [
+      "Les dérivés de diazépines",
+      "Les dérivés de diazépinones (halogénés ou nitrés en 7)",
+      "Les dérivés de la diazépinolone",
+      "Les dérivés de diazépinone carboxylique",
+      "Les triazolo et imidazo 1,4-benzodiazépines"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Six groupes : diazépines, diazépinones (halogénés/nitrés en 7), diazépinolone, diazépinone carboxylique, triazolo/imidazo-1,4-BZD, autres BZD.",
+    "source": {
+      "page": 12,
+      "extrait": "1. Dérivés de diazépines 2. Dérivés de diazépinones"
+    },
+    "difficulte": 1,
+    "tags": [
+      "classification chimique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/qcm-017",
+    "type": "multiple",
+    "enonce": "Concernant le chlordiazépoxyde (Librium®) :",
+    "options": [
+      "C'est un dérivé de la diazépine",
+      "Il paraît être le premier dérivé de cette série apparu en thérapeutique",
+      "Il porte un oxyde d'amine en position 4",
+      "C'est un dérivé de la diazépinolone",
+      "Il porte un groupement carboxyle en position 3"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Le chlordiazépoxyde, dérivé de la diazépine, est le premier de la série ; la position 4 porte un oxyde d'amine (N-oxyde).",
+    "source": {
+      "page": 13,
+      "extrait": "Ce produit paraît être le premier dérivé de cette série apparu en thérapeutique"
+    },
+    "difficulte": 2,
+    "tags": [
+      "chlordiazépoxyde"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/qcm-018",
+    "type": "multiple",
+    "enonce": "Emploi du chlordiazépoxyde :",
+    "options": [
+      "Tranquillisant doué d'une activité anxiolytique pure",
+      "Indiqué dans l'anxiété",
+      "Indiqué dans la surcharge émotionnelle",
+      "Hypnotique exclusif",
+      "Antagoniste des benzodiazépines"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Tranquillisant à activité anxiolytique pure, possédant les indications de la psychopathologie courante (anxiété, surcharge émotionnelle).",
+    "source": {
+      "page": 14,
+      "extrait": "Tranquillisant doué d'une activité anxiolytique pure"
+    },
+    "difficulte": 1,
+    "tags": [
+      "chlordiazépoxyde"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/qcm-019",
+    "type": "unique",
+    "enonce": "Les dérivés halogénés en 7 de la diazépinone représentent :",
+    "options": [
+      "Une minorité des 1,4-benzodiazépines",
+      "La majorité des 1,4-benzodiazépines",
+      "Les seuls hypnotiques",
+      "Les 1,5-benzodiazépines",
+      "Les antagonistes des BZD"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Les dérivés halogénés en 7 représentent la majorité des 1,4-benzodiazépines.",
+    "source": {
+      "page": 15,
+      "extrait": "Ils représentent la majorité des :1,4-benzodiazépines"
+    },
+    "difficulte": 1,
+    "tags": [
+      "diazépinones"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/qcm-020",
+    "type": "multiple",
+    "enonce": "Dérivés halogénés en 7 de la diazépinone (X, R1, R2) :",
+    "options": [
+      "Diazépam : Cl, CH3, C6H5",
+      "Nordazépam : Cl, H, C6H5",
+      "Bromazépam : Br, H, pyridyl-2",
+      "Prazépam : Cl, cyclopropylméthyle, C6H5",
+      "Tétrazépam : Cl, H, C6H5"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Le tétrazépam porte X = Cl, R1 = CH3 et un cyclohexényle (et non un phényle) en R2.",
+    "source": {
+      "page": 16,
+      "extrait": "Tétrazépam Myolastan® Cl CH3"
+    },
+    "difficulte": 2,
+    "tags": [
+      "diazépinones"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/qcm-021",
+    "type": "multiple",
+    "enonce": "Associez la DCI à sa spécialité :",
+    "options": [
+      "Diazépam : Valium®",
+      "Prazépam : Lysanxia®",
+      "Bromazépam : Lexomil®",
+      "Tétrazépam : Myolastan®",
+      "Nordazépam : Tranxène®"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Nordazépam = Nordaz® ; Tranxène® = clorazépate.",
+    "source": {
+      "page": 16,
+      "extrait": "Nordazépam Nordaz® Cl H C6H5"
+    },
+    "difficulte": 1,
+    "tags": [
+      "spécialités"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/qcm-022",
+    "type": "unique",
+    "enonce": "Le bromazépam (Lexomil®) se distingue du diazépam par :",
+    "options": [
+      "Un brome en 7, un H en 1 et un pyridyl-2 en 5",
+      "Un brome en 7 et un méthyle en 1",
+      "Un nitro en 7",
+      "Un cyclohexényle en 5",
+      "Un hydroxyle en 3"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Bromazépam : X = Br, R1 = H, R2 = pyridyl-2.",
+    "source": {
+      "page": 16,
+      "extrait": "Bromazépam Lexomil® Br H pyridyl-2"
+    },
+    "difficulte": 2,
+    "tags": [
+      "diazépinones"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/qcm-023",
+    "type": "unique",
+    "enonce": "Le nordazépam diffère du diazépam par :",
+    "options": [
+      "L'absence de méthyle sur N1 (R1 = H)",
+      "La présence d'un brome en 7",
+      "Un hydroxyle en 3",
+      "Un pyridyle en 5",
+      "Un cycle triazolé"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Nordazépam : X = Cl, R1 = H, R2 = C6H5 ; diazépam : R1 = CH3.",
+    "source": {
+      "page": 16,
+      "extrait": "Nordazépam Nordaz® Cl H C6H5"
+    },
+    "difficulte": 2,
+    "tags": [
+      "diazépinones"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/qcm-024",
+    "type": "unique",
+    "enonce": "La synthèse du diazépam part de :",
+    "options": [
+      "La 2-amino-5-chlorobenzophénone",
+      "La 2-amino-5-nitrobenzophénone",
+      "L'acide anthranilique",
+      "Le 2-aminothiophène",
+      "La 4-chloroaniline"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Préparation du diazépam : on part d'une 2-amino-5-chlorobenzophénone.",
+    "source": {
+      "page": 17,
+      "extrait": "On part d'un 2-amino 5-chlorobenzophénone"
+    },
+    "difficulte": 1,
+    "tags": [
+      "synthèse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/qcm-025",
+    "type": "multiple",
+    "enonce": "Étapes de la préparation du diazépam :",
+    "options": [
+      "Acylation de l'amine par le bromure de bromoacétyle avec départ de HCl",
+      "Substitution du brome par l'ammoniac avec départ de HBr",
+      "Cyclisation par condensation de l'amine sur la cétone avec perte d'eau",
+      "Méthylation de N1 par l'iodure de méthyle",
+      "Nitration finale en position 7"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Acylation (–HCl), amination (–HBr), cyclisation (–H2O) donnant le nordazépam, puis méthylation par CH3I. Pas de nitration : le chlore en 7 provient du produit de départ.",
+    "source": {
+      "page": 18,
+      "extrait": "-HCl -HBr -H2O méthylation Diazépam=Valium"
+    },
+    "difficulte": 2,
+    "tags": [
+      "synthèse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/qcm-026",
+    "type": "unique",
+    "enonce": "Dans la synthèse du diazépam, l'étape de cyclisation formant le cycle diazépine s'accompagne de l'élimination de :",
+    "options": [
+      "HCl",
+      "HBr",
+      "H2O",
+      "CH3I",
+      "NH3"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "La condensation intramoléculaire de l'amine primaire sur le carbonyle de la benzophénone forme l'imine C5=N4 avec élimination d'eau.",
+    "source": {
+      "page": 18,
+      "extrait": "-H2O"
+    },
+    "difficulte": 2,
+    "tags": [
+      "synthèse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/qcm-027",
+    "type": "unique",
+    "enonce": "La dernière étape de la synthèse du diazépam est :",
+    "options": [
+      "Une cyclisation",
+      "Une méthylation de l'azote en 1 par CH3–I",
+      "Une chloration en 7",
+      "Une hydroxylation en 3",
+      "Une oxydation en N-oxyde"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Le dérivé N1–H cyclisé est méthylé par l'iodure de méthyle pour donner le diazépam.",
+    "source": {
+      "page": 18,
+      "extrait": "H3C—I méthylation"
+    },
+    "difficulte": 2,
+    "tags": [
+      "synthèse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/qcm-028",
+    "type": "unique",
+    "enonce": "L'intermédiaire cyclisé non méthylé obtenu avant la dernière étape de la synthèse du diazépam correspond (X = Cl, R1 = H, R2 = C6H5) au :",
+    "options": [
+      "Nordazépam",
+      "Oxazépam",
+      "Prazépam",
+      "Bromazépam",
+      "Clobazam"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Le composé 7-chloro, N1–H, 5-phényle correspond au nordazépam du tableau des dérivés halogénés.",
+    "source": {
+      "page": 16,
+      "extrait": "Nordazépam Nordaz® Cl H C6H5"
+    },
+    "difficulte": 3,
+    "tags": [
+      "synthèse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/qcm-029",
+    "type": "multiple",
+    "enonce": "Emploi du diazépam (Valium®) :",
+    "options": [
+      "Anxiolytique",
+      "Anticonvulsivant",
+      "Hypnotique",
+      "Myorelaxant",
+      "Préconisé dans tous les états anxieux"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Le diazépam est anxiolytique, anticonvulsivant, hypnotique et myorelaxant ; il est préconisé dans tous les états anxieux.",
+    "source": {
+      "page": 19,
+      "extrait": "Anxiolytique, anticonvulsivant, hypnotique et myorelaxant"
+    },
+    "difficulte": 1,
+    "tags": [
+      "diazépam"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/qcm-030",
+    "type": "multiple",
+    "enonce": "Concernant le tétrazépam (Myolastan®) :",
+    "options": [
+      "Le noyau benzénique attaché en 5 est remplacé par un cyclohexène",
+      "Il possède un pouvoir myorelaxant élevé",
+      "Il possède une activité analgésique contre les douleurs articulaires",
+      "Son AMM a été suspendue à partir du 8 juillet 2013",
+      "Il porte un brome en position 7"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Tétrazépam : cyclohexényle en 5, action sédative sur la contracture musculaire, myorelaxant, analgésique articulaire ; AMM suspendue le 8 juillet 2013. X = Cl.",
+    "source": {
+      "page": 20,
+      "extrait": "Suspension des autorisations de mise sur le marché du tétrazépam (Myolastan et ses génériques) à partir du 8 juillet 2013"
+    },
+    "difficulte": 2,
+    "tags": [
+      "tétrazépam"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/qcm-031",
+    "type": "unique",
+    "enonce": "Le tétrazépam était indiqué dans :",
+    "options": [
+      "Les contractures musculaires d'origine neurologique, rhumatologique ou traumatique",
+      "L'insomnie",
+      "L'épilepsie",
+      "Le sevrage alcoolique",
+      "L'intoxication aux BZD"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Emploi : contractures musculaires d'origine neurologique, rhumatologique, traumatique.",
+    "source": {
+      "page": 20,
+      "extrait": "Contractures musculaires d'origine neurologique, rhumatologique, traumatique"
+    },
+    "difficulte": 1,
+    "tags": [
+      "tétrazépam"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/qcm-032",
+    "type": "multiple",
+    "enonce": "Dérivés de la diazépinolone (3-hydroxy) :",
+    "options": [
+      "Témazépam : R1 = CH3, X = H",
+      "Oxazépam : R1 = H, X = H",
+      "Lorazépam : R1 = H, X = Cl",
+      "Lormétazépam : R1 = CH3, X = Cl",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Les quatre lignes du tableau de la diazépinolone sont exactes (CHOH en position 3).",
+    "source": {
+      "page": 21,
+      "extrait": "Témazépam CH3 H Oxazépam H H Lorazépam H Cl Lormétazépam CH3 Cl"
+    },
+    "difficulte": 2,
+    "tags": [
+      "diazépinolone"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/qcm-033",
+    "type": "multiple",
+    "enonce": "Associez DCI et spécialité des dérivés de la diazépinolone :",
+    "options": [
+      "Oxazépam : Seresta®",
+      "Lorazépam : Temesta®",
+      "Témazépam : Normison®",
+      "Lormétazépam : Noctamide®",
+      "Lorazépam : Seresta®"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Seresta® = oxazépam ; Temesta® = lorazépam.",
+    "source": {
+      "page": 21,
+      "extrait": "Oxazépam=Seresta® Lorazépam=Temesta®"
+    },
+    "difficulte": 1,
+    "tags": [
+      "spécialités"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/qcm-034",
+    "type": "unique",
+    "enonce": "Parmi les dérivés de la diazépinolone, celui qui est inscrit mais non commercialisé en Algérie est :",
+    "options": [
+      "L'oxazépam",
+      "Le lorazépam",
+      "Le témazépam",
+      "Le lormétazépam",
+      "Le clorazépate"
+    ],
+    "correctes": [
+      3
+    ],
+    "explication": "Le lormétazépam (Noctamide®) est inscrit mais n'est pas commercialisé en Algérie.",
+    "source": {
+      "page": 21,
+      "extrait": "Inscrit mais n'est pas commercialisé en Algérie"
+    },
+    "difficulte": 2,
+    "tags": [
+      "diazépinolone"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/qcm-035",
+    "type": "multiple",
+    "enonce": "Emploi des dérivés de la diazépinolone :",
+    "options": [
+      "Oxazépam et lorazépam : anxiolytiques adaptés à la vie active",
+      "Ils réduisent la tension nerveuse et apaisent l'anxiété",
+      "Le témazépam est utilisé comme hypnotique",
+      "Le témazépam est utilisé comme myorelaxant",
+      "L'oxazépam est un antagoniste des BZD"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Oxazépam/lorazépam : anxiolytiques adaptés à la vie active ; témazépam : hypnotique.",
+    "source": {
+      "page": 22,
+      "extrait": "anxiolytique adapté à la vie active, il réduit la tension nerveuse"
+    },
+    "difficulte": 1,
+    "tags": [
+      "diazépinolone"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/qcm-036",
+    "type": "unique",
+    "enonce": "Le lorazépam diffère de l'oxazépam par :",
+    "options": [
+      "Un chlore en ortho du phényle en 5 (X = Cl)",
+      "Un méthyle en N1",
+      "Un brome en 7",
+      "L'absence d'hydroxyle en 3",
+      "Un cycle triazolé"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Oxazépam : R1 = H, X = H ; lorazépam : R1 = H, X = Cl (en 2').",
+    "source": {
+      "page": 21,
+      "extrait": "Lorazépam=Temesta® H Cl"
+    },
+    "difficulte": 2,
+    "tags": [
+      "diazépinolone"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/qcm-037",
+    "type": "multiple",
+    "enonce": "Dérivés de la diazépinone carboxylique :",
+    "options": [
+      "Clorazépate : Tranxène®, R1 = H, X = H",
+      "Loflazépate : Victan®, R1 = C2H5, X = F",
+      "Ils portent un groupement COOR en position 3",
+      "Le clorazépate est une prodrogue donnant un métabolite actif",
+      "Le loflazépate porte X = Cl"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Tableau : clorazépate (H, H), loflazépate (C2H5, F). La présence du carboxyle en 3 fait du clorazépate une prodrogue.",
+    "source": {
+      "page": 23,
+      "extrait": "Clorazépate: Tranxène® H H Loflazépate= Victan® C2H5 F"
+    },
+    "difficulte": 2,
+    "tags": [
+      "diazépinone carboxylique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/qcm-038",
+    "type": "multiple",
+    "enonce": "Concernant le clorazépate (Tranxène®) :",
+    "options": [
+      "Ses solutions dans l'eau et l'alcool sont instables",
+      "Ses solutions doivent être utilisées immédiatement",
+      "C'est un anxiolytique pur non hypnogène",
+      "Il respecte l'intégrité des réflexes et des fonctions intellectuelles et physiques",
+      "Il est préconisé contre toutes les formes d'anxiété"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Toutes les propositions figurent dans le cours.",
+    "source": {
+      "page": 24,
+      "extrait": "les solutions dans l'eau et l'alcool sont instables et sont à utiliser immédiatement"
+    },
+    "difficulte": 2,
+    "tags": [
+      "clorazépate"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/qcm-039",
+    "type": "unique",
+    "enonce": "Le loflazépate (Victan®) est utilisé comme :",
+    "options": [
+      "Hypnotique",
+      "Anxiolytique",
+      "Antiépileptique",
+      "Antagoniste des BZD",
+      "Myorelaxant"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Loflazépate : anxiolytique.",
+    "source": {
+      "page": 24,
+      "extrait": "Loflazépate:VICTAN Anxiolytique"
+    },
+    "difficulte": 1,
+    "tags": [
+      "loflazépate"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/qcm-040",
+    "type": "multiple",
+    "enonce": "Triazolo-1,4-benzodiazépines :",
+    "options": [
+      "Estazolam : Nuctalon®, R1 = H, X = H",
+      "Alprazolam : Xanax®, R1 = CH3, X = H",
+      "Triazolam : Halcion®, R1 = CH3, X = Cl",
+      "Alprazolam : R1 = CH3, X = Cl",
+      "Triazolam : R1 = H, X = H"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Tableau des triazolés : estazolam (H, H), alprazolam (CH3, H), triazolam (CH3, Cl).",
+    "source": {
+      "page": 25,
+      "extrait": "Estazolam: Nuctalon® H H Alprazolam: Xanax® CH3 H Triazolam: Halcion® CH3 Cl"
+    },
+    "difficulte": 2,
+    "tags": [
+      "triazolés"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/qcm-041",
+    "type": "multiple",
+    "enonce": "La fusion d'un cycle triazolé sur le côté de la benzodiazépine :",
+    "options": [
+      "Protège de l'oxydation",
+      "Augmente l'activité",
+      "Diminue l'activité",
+      "Rend la molécule antagoniste",
+      "Augmente la sensibilité à l'oxydation"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "La fusion d'un triazole permet une protection de l'oxydation et une augmentation de l'activité.",
+    "source": {
+      "page": 25,
+      "extrait": "permet une protection de l'oxydation et une augmentation de l'activité"
+    },
+    "difficulte": 1,
+    "tags": [
+      "triazolés",
+      "RSA"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/qcm-042",
+    "type": "unique",
+    "enonce": "L'alprazolam (Xanax®) est un anxiolytique :",
+    "options": [
+      "Plus sédatif que le diazépam",
+      "Moins sédatif que le diazépam",
+      "Aussi sédatif que le diazépam",
+      "Dépourvu de toute activité anxiolytique",
+      "Antagoniste du diazépam"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Alprazolam : anxiolytique moins sédatif que le diazépam.",
+    "source": {
+      "page": 25,
+      "extrait": "Anxiolytique moins Sédatif que DIAZEPAM"
+    },
+    "difficulte": 1,
+    "tags": [
+      "alprazolam"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/qcm-043",
+    "type": "unique",
+    "enonce": "L'alprazolam diffère du triazolam par :",
+    "options": [
+      "L'absence de chlore en ortho du phényle (X = H)",
+      "L'absence de méthyle sur le triazole",
+      "Un brome en 7",
+      "Un cycle imidazole",
+      "Un oxyde d'amine en 4"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Alprazolam : R1 = CH3, X = H ; triazolam : R1 = CH3, X = Cl.",
+    "source": {
+      "page": 25,
+      "extrait": "Alprazolam: Xanax® CH3 H Triazolam: Halcion® CH3 Cl"
+    },
+    "difficulte": 2,
+    "tags": [
+      "triazolés"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/qcm-044",
+    "type": "multiple",
+    "enonce": "Concernant le clobazam (Urbanyl®) :",
+    "options": [
+      "C'est une 1,5-benzodiazépine",
+      "C'est un anxiolytique d'action rapide et prolongée",
+      "Il est utilisé dans les cures de désintoxication alcoolique et tabagique",
+      "Il montre que le déplacement de l'azote ne nuit pas à l'activité anxiolytique",
+      "C'est une 1,4-benzodiazépine"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Le clobazam est une 1,5-benzodiazépine ; le déplacement de l'azote ne nuit pas à l'activité anxiolytique.",
+    "source": {
+      "page": 26,
+      "extrait": "anxiolytique d'action rapide et prolongée, utilisé dans les états anxieux et les cures de désintoxication"
+    },
+    "difficulte": 2,
+    "tags": [
+      "clobazam"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/qcm-045",
+    "type": "multiple",
+    "enonce": "Concernant le clotiazépam (Veratran®) :",
+    "options": [
+      "C'est une thiéno-1,4-diazépine",
+      "Le benzène est remplacé par un thiophène",
+      "Son affinité aux récepteurs est voisine de celle du lorazépam",
+      "Son affinité est plus forte que celle du bromazépam, de l'oxazépam et du clonazépam",
+      "Son affinité est plus faible que celle de l'oxazépam"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Le remplacement d'un benzène par un thiophène donne une affinité voisine de celle du lorazépam, plus forte que celle du bromazépam, de l'oxazépam et du clonazépam.",
+    "source": {
+      "page": 27,
+      "extrait": "affinité aux récepteurs, voisine de celle de lorazépam mais plus forte que celle du bromazépam"
+    },
+    "difficulte": 2,
+    "tags": [
+      "clotiazépam"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/qcm-046",
+    "type": "multiple",
+    "enonce": "Concernant le flumazénil (Anexate®) :",
+    "options": [
+      "C'est une imidazobenzodiazépine",
+      "Il est dépourvu du cycle benzénique en position 5",
+      "Il n'est pas utilisé en Algérie",
+      "C'est un antagoniste pur et spécifique des benzodiazépines",
+      "C'est un agoniste des récepteurs BZD"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Flumazénil : imidazobenzodiazépine sans phényle en 5, antagoniste compétitif pur et spécifique, non utilisé en Algérie.",
+    "source": {
+      "page": 28,
+      "extrait": "C'est un imidazobenzodiazépine dépourvu du cycle benzénique en position 5"
+    },
+    "difficulte": 2,
+    "tags": [
+      "flumazénil"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/qcm-047",
+    "type": "multiple",
+    "enonce": "Activité du flumazénil :",
+    "options": [
+      "Grande affinité pour les récepteurs des benzodiazépines",
+      "Inhibition compétitive des effets des benzodiazépines",
+      "Blocage de l'action sédative des substances agissant sur les récepteurs BZD",
+      "Effet anxiolytique puissant",
+      "Effet myorelaxant"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Le flumazénil inhibe de façon compétitive les effets des BZD et bloque leur action sédative.",
+    "source": {
+      "page": 29,
+      "extrait": "inhibe de façon compétitive les effets des benzodiazépines (antagoniste pur et spécifique )"
+    },
+    "difficulte": 1,
+    "tags": [
+      "flumazénil"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/qcm-048",
+    "type": "multiple",
+    "enonce": "Mécanisme d'action des benzodiazépines :",
+    "options": [
+      "Elles facilitent la neurotransmission GABAergique",
+      "Elles agissent sur les récepteurs post-synaptiques de type GABAA du SNC",
+      "La fixation du GABA ouvre un canal chlorure",
+      "L'entrée d'ions chlorure provoque une hyperpolarisation",
+      "L'hyperpolarisation conduit à la sédation"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "BZD → facilitation GABAergique (GABAA post-synaptique) → ouverture du canal → entrée massive de Cl⁻ → hyperpolarisation → sédation.",
+    "source": {
+      "page": 30,
+      "extrait": "facilitent la neurotransmission GABAergique au niveau des récepteurs post-synaptiques de type GABAa"
+    },
+    "difficulte": 1,
+    "tags": [
+      "mécanisme"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/qcm-049",
+    "type": "unique",
+    "enonce": "La fixation du GABA sur son site provoque :",
+    "options": [
+      "Une sortie massive de chlorure et une dépolarisation",
+      "Une pénétration massive de chlorure et une hyperpolarisation",
+      "Une entrée de sodium et une dépolarisation",
+      "Une entrée de calcium",
+      "Une fermeture du canal"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Ouverture du canal → pénétration massive de l'ion chlorure → hyperpolarisation → sédation.",
+    "source": {
+      "page": 31,
+      "extrait": "pénétration massive de l'ion chlorure à l'intérieure de la cellule hyperpolarisation"
+    },
+    "difficulte": 1,
+    "tags": [
+      "mécanisme"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/qcm-050",
+    "type": "multiple",
+    "enonce": "RSA des 1,4-benzodiazépines – cycle A :",
+    "options": [
+      "Il s'agit généralement d'un phényle",
+      "Le phényle n'est pas indispensable à l'activité",
+      "C'est l'aromaticité qui est nécessaire à l'activité",
+      "Le remplacement par un thiophène (clotiazépam) augmente l'affinité",
+      "Le phényle A est indispensable à l'activité"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Le cycle A est généralement un phényle non indispensable ; l'aromaticité est nécessaire (le thiophène du clotiazépam augmente l'affinité).",
+    "source": {
+      "page": 33,
+      "extrait": "c'est l'aromaticité qui est nécessaire pour l'activité"
+    },
+    "difficulte": 2,
+    "tags": [
+      "RSA"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/qcm-051",
+    "type": "multiple",
+    "enonce": "RSA – substituant X du cycle A :",
+    "options": [
+      "Un groupe attracteur d'électrons en position 7 est nécessaire à l'activité",
+      "Plus son électronégativité augmente, plus l'activité est grande",
+      "Sa fixation en C6, C8 ou C9 diminue l'activité",
+      "Un groupe donneur d'électrons en 7 augmente l'activité",
+      "La position du substituant est indifférente"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Groupe électroattracteur en 7 nécessaire ; activité croissante avec l'électronégativité ; en C6, C8, C9 l'activité diminue.",
+    "source": {
+      "page": 34,
+      "extrait": "Groupe attracteur d'électrons(électronégatif) en position 7 nécessaire à l'activité"
+    },
+    "difficulte": 2,
+    "tags": [
+      "RSA"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/qcm-052",
+    "type": "multiple",
+    "enonce": "RSA – nature du substituant en 7 et activité :",
+    "options": [
+      "Les dérivés 7-nitrés sont des hypnotiques (nitrazépam, flunitrazépam)",
+      "Le clonazépam, 7-nitré, est antiépileptique",
+      "Les composés halogénés en 7 sont des anxiolytiques",
+      "Les dérivés 7-nitrés sont des anxiolytiques purs",
+      "Les composés halogénés sont tous hypnotiques"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "7-nitrés : hypnotiques (nitrazépam, flunitrazépam) ou antiépileptiques (clonazépam) ; halogénés : anxiolytiques.",
+    "source": {
+      "page": 34,
+      "extrait": "Les dérives 7 nitrés sont des hypnotiques ( Nitrazépam , Flunitrazépam )ou antiépileptiques ( clonazépam)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "RSA"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/qcm-053",
+    "type": "unique",
+    "enonce": "Un dérivé 7-nitré de la 1,4-benzodiazépine utilisé comme antiépileptique est :",
+    "options": [
+      "Le nitrazépam",
+      "Le flunitrazépam",
+      "Le clonazépam",
+      "Le diazépam",
+      "Le bromazépam"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Le clonazépam est un 7-nitré antiépileptique ; nitrazépam et flunitrazépam sont hypnotiques.",
+    "source": {
+      "page": 34,
+      "extrait": "ou antiépileptiques ( clonazépam)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "RSA"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/qcm-054",
+    "type": "multiple",
+    "enonce": "RSA – heptagone B, position 1 :",
+    "options": [
+      "Souvent un azote substitué par un méthyle",
+      "La N-méthylation augmente l'activité",
+      "L'azote peut être non substitué",
+      "La N-méthylation abolit l'activité",
+      "La position 1 porte obligatoirement un carbonyle"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "En position 1 : souvent un azote substitué par CH3 (augmente l'activité), ou non substitué.",
+    "source": {
+      "page": 35,
+      "extrait": "Souvent un AZOTE substitué par groupe méthyle (CH3) qui augmente l'activité, ou non substitué"
+    },
+    "difficulte": 2,
+    "tags": [
+      "RSA"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/qcm-055",
+    "type": "multiple",
+    "enonce": "RSA – heptagone B, position 2 :",
+    "options": [
+      "Nécessite un groupement électroattracteur, généralement un carbonyle",
+      "Peut porter dans certains cas un méthyle",
+      "Peut être incluse dans un cycle coiffant la molécule entre les positions 1 et 2 (estazolam)",
+      "Nécessite un groupement donneur d'électrons",
+      "Porte généralement un hydroxyle"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Position 2 : électroattracteur (carbonyle), parfois méthyle ou cycle coiffant 1-2 (ex. estazolam).",
+    "source": {
+      "page": 35,
+      "extrait": "Nécessite un groupement électroattracteur (généralement un carbonyle)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "RSA"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/qcm-056",
+    "type": "multiple",
+    "enonce": "RSA – heptagone B, position 3 :",
+    "options": [
+      "Souvent un CH2",
+      "Peut porter un hydroxyle (oxazépam)",
+      "Peut porter un carboxyle (clorazépate), ce qui augmente le métabolisme",
+      "OH ou COOH confèrent la possibilité de former des sels hydrosolubles",
+      "Un hydroxyle en 3 abolit l'activité"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Position 3 : CH2, ou OH (oxazépam) ou COOH (clorazépate, prodrogue) ; OH et COOH permettent des sels hydrosolubles.",
+    "source": {
+      "page": 36,
+      "extrait": "Dans les deux cas il confère à la molécule la possibilité de former des sels hydrosolubles"
+    },
+    "difficulte": 2,
+    "tags": [
+      "RSA"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/qcm-057",
+    "type": "multiple",
+    "enonce": "RSA – heptagone B, position 4 :",
+    "options": [
+      "C'est généralement une imine",
+      "C'est parfois un oxyde d'amine (Librium®)",
+      "Le déplacement de l'azote ne nuit pas à l'activité anxiolytique",
+      "Le clobazam illustre le déplacement de l'azote",
+      "Le déplacement de l'azote abolit l'activité anxiolytique"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Position 4 : imine, parfois N-oxyde (chlordiazépoxyde). Le déplacement de l'azote (clobazam, 1,5-BZD) ne nuit pas à l'activité anxiolytique.",
+    "source": {
+      "page": 36,
+      "extrait": "généralement c'est un imine ;parfois un oxyde d'amine (librium)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "RSA"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/qcm-058",
+    "type": "unique",
+    "enonce": "Le clorazépate, qui porte un carboxyle en position 3, est :",
+    "options": [
+      "Un antagoniste",
+      "Une prodrogue donnant un métabolite actif",
+      "Un dérivé inactif",
+      "Un dérivé 7-nitré",
+      "Une 1,5-benzodiazépine"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Le carboxyle en 3 augmente le métabolisme : le clorazépate est une prodrogue qui donne un métabolite actif.",
+    "source": {
+      "page": 36,
+      "extrait": "CLORAZEPATE (pro drogue qui donne un métabolite actif)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "RSA"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/qcm-059",
+    "type": "multiple",
+    "enonce": "RSA – cycle C :",
+    "options": [
+      "Il s'agit souvent d'un phényle",
+      "Son remplacement par un cyclohexène entraîne des propriétés myorelaxantes",
+      "La présence d'un cycle est obligatoire pour la lipophilie et non pour l'activité",
+      "Un halogène en ortho améliore l'activité",
+      "La présence d'un cycle est obligatoire pour l'activité"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Cycle C : phényle ; cyclohexène → myorelaxant (tétrazépam) ; cycle requis pour la lipophilie ; halogène en ortho (2') améliore l'activité : F > Cl > H.",
+    "source": {
+      "page": 37,
+      "extrait": "Obligation de la présence d'un cycle, non pas pour l'activité mais pour la LIPOPHYLIE"
+    },
+    "difficulte": 2,
+    "tags": [
+      "RSA"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/qcm-060",
+    "type": "unique",
+    "enonce": "L'ordre d'amélioration de l'activité par substitution en ortho du cycle C est :",
+    "options": [
+      "H > Cl > F",
+      "Cl > F > H",
+      "F > Cl > H",
+      "F > H > Cl",
+      "Br > Cl > F"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "La substitution d'un H par un halogène en ortho améliore l'activité dans l'ordre F > Cl > H.",
+    "source": {
+      "page": 37,
+      "extrait": "améliore l'activité dans l'ordre: ( F > Cl > H )"
+    },
+    "difficulte": 2,
+    "tags": [
+      "RSA"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/qcm-061",
+    "type": "multiple",
+    "enonce": "D'après les RSA, quelles modifications augmentent l'activité ou l'affinité des BZD ?",
+    "options": [
+      "N-méthylation en position 1",
+      "Groupe électroattracteur en 7",
+      "Halogène en ortho du phényle C",
+      "Fusion d'un cycle triazolé",
+      "Déplacement du substituant X de C7 vers C8"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Le déplacement du substituant de C7 vers C6, C8 ou C9 diminue l'activité.",
+    "source": {
+      "page": 34,
+      "extrait": "Sa fixation sur autres positions ( C6, C8, C9) diminue l'activité"
+    },
+    "difficulte": 3,
+    "tags": [
+      "RSA"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/qcm-062",
+    "type": "multiple",
+    "enonce": "Propriétés pharmacologiques communes des benzodiazépines :",
+    "options": [
+      "Anxiolytiques",
+      "Sédatives ou hypnotiques",
+      "Anesthésiques",
+      "Anticonvulsivantes, antiépileptiques",
+      "Myorelaxantes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Les cinq propriétés sont communes aux BZD.",
+    "source": {
+      "page": 38,
+      "extrait": "Anxiolytiques -Sédatives ou hypnotiques -Anesthésiques -Anticonvulsivantes"
+    },
+    "difficulte": 1,
+    "tags": [
+      "propriétés"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/qcm-063",
+    "type": "multiple",
+    "enonce": "Contre-indications des benzodiazépines :",
+    "options": [
+      "Myasthénie",
+      "Insuffisance respiratoire",
+      "Apnée du sommeil",
+      "Insuffisance hépatique et insuffisance rénale",
+      "Hypersensibilité connue aux BZD"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Toutes sont des contre-indications citées.",
+    "source": {
+      "page": 39,
+      "extrait": "Myasthénie, insuffisance respiratoire - Apnée du sommeil"
+    },
+    "difficulte": 1,
+    "tags": [
+      "contre-indications"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/qcm-064",
+    "type": "multiple",
+    "enonce": "Règles de maniement des benzodiazépines :",
+    "options": [
+      "Débuter par les doses les plus faibles possibles",
+      "Augmenter progressivement",
+      "Prescrire pour la durée la plus courte possible (12 semaines)",
+      "Arrêter progressivement le traitement",
+      "Arrêter brutalement pour éviter la dépendance"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "L'arrêt doit être progressif, en prévenant le patient du risque de réapparition transitoire des symptômes.",
+    "source": {
+      "page": 40,
+      "extrait": "Prescrire pour une durée de temps la plus courte possible (12 semaines)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "maniement"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/qcm-065",
+    "type": "multiple",
+    "enonce": "Précautions de prescription des benzodiazépines :",
+    "options": [
+      "Éviter ou limiter la prescription chez les patients alcooliques ou toxicomanes",
+      "Prévenir le patient du risque d'interaction avec l'alcool",
+      "Prévenir le patient du risque d'interaction avec les autres substances sédatives",
+      "Prévenir le patient du risque de réapparition transitoire des symptômes à l'arrêt",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes ces précautions sont mentionnées dans le maniement.",
+    "source": {
+      "page": 40,
+      "extrait": "Eviter ou limiter autant que possible la prescription chez les patients alcooliques ou toxicomanes"
+    },
+    "difficulte": 1,
+    "tags": [
+      "maniement"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/qcm-066",
+    "type": "unique",
+    "enonce": "La durée maximale de prescription recommandée dans le cours pour une benzodiazépine anxiolytique est de :",
+    "options": [
+      "4 semaines",
+      "8 semaines",
+      "12 semaines",
+      "6 mois",
+      "1 an"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Prescrire pour une durée la plus courte possible (12 semaines).",
+    "source": {
+      "page": 40,
+      "extrait": "la plus courte possible (12 semaines)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "maniement"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/qcm-067",
+    "type": "multiple",
+    "enonce": "Concernant le méprobamate :",
+    "options": [
+      "C'est un carbamate",
+      "Son nom chimique est dicarbamate de méthyl-2 propyl-2 propanediol-1,3",
+      "Il est très peu utilisé",
+      "Il nécessite des doses très élevées (400 mg par comprimé)",
+      "C'est une benzodiazépine"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Méprobamate : dicarbamate de méthyl-2 propyl-2 propanediol-1,3, très peu utilisé car il faut des doses élevées (400 mg/cp).",
+    "source": {
+      "page": 41,
+      "extrait": "dicarbamate de méthyl-2 propyl-2 propanediol-1,3"
+    },
+    "difficulte": 1,
+    "tags": [
+      "méprobamate"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/qcm-068",
+    "type": "multiple",
+    "enonce": "Principaux inconvénients du méprobamate :",
+    "options": [
+      "Il est inducteur enzymatique",
+      "Ses surdosages donnent des intoxications graves avec coma prolongé",
+      "On ne dispose pas d'antidote",
+      "Le flumazénil en est l'antidote",
+      "Il est inhibiteur enzymatique"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Méprobamate : inducteur enzymatique ; surdosage → coma prolongé sans antidote.",
+    "source": {
+      "page": 41,
+      "extrait": "inducteur enzymatique et de donner, lors des surdosages, des intoxications graves avec coma prolongé"
+    },
+    "difficulte": 2,
+    "tags": [
+      "méprobamate"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/qcm-069",
+    "type": "multiple",
+    "enonce": "Concernant l'hydroxyzine (Atarax®) :",
+    "options": [
+      "C'est un antihistaminique",
+      "Elle possède une activité anticholinergique",
+      "Elle est utilisée pour les anxiétés mineures",
+      "C'est un agoniste 5-HT1A",
+      "C'est un carbamate"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Hydroxyzine : antihistaminique anticholinergique utilisé pour les anxiétés mineures.",
+    "source": {
+      "page": 42,
+      "extrait": "Antihistaminique anti-cholinergique. Utilisé pour les anxiétés mineurs"
+    },
+    "difficulte": 1,
+    "tags": [
+      "hydroxyzine"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/qcm-070",
+    "type": "unique",
+    "enonce": "La buspirone est un anxiolytique dérivé de :",
+    "options": [
+      "La benzodiazépine",
+      "L'azaspirodécanedione",
+      "Le carbamate",
+      "La phénothiazine",
+      "La pipéridine-dione"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "La buspirone est un dérivé de l'azaspirodécanedione.",
+    "source": {
+      "page": 43,
+      "extrait": "Anxiolytique dérivé de l'azaspirodécanedione"
+    },
+    "difficulte": 1,
+    "tags": [
+      "buspirone"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/qcm-071",
+    "type": "multiple",
+    "enonce": "Mécanisme d'action de la buspirone :",
+    "options": [
+      "Agoniste des récepteurs 5-HT1A présynaptiques",
+      "Diminution de la libération de sérotonine",
+      "Facilitation de la neurotransmission GABAergique",
+      "Antagoniste des récepteurs 5-HT1A",
+      "Augmentation de la libération de sérotonine"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "La buspirone, agoniste 5-HT1A présynaptique, diminuerait la libération de sérotonine (action anxiogène), d'où ses propriétés anxiolytiques.",
+    "source": {
+      "page": 44,
+      "extrait": "La buspirone est un agoniste 5-HT1A présynaptiques ce qui diminuerait la libération de sérotonine"
+    },
+    "difficulte": 2,
+    "tags": [
+      "buspirone",
+      "mécanisme"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/qcm-072",
+    "type": "multiple",
+    "enonce": "Profil clinique de la buspirone :",
+    "options": [
+      "Effet anxiolytique comparable à celui des benzodiazépines",
+      "Délai d'action de 1 à 3 semaines",
+      "Pas d'effet sédatif, ni myorelaxant, ni anticonvulsivant",
+      "Aucune dépendance ni réaction de sevrage",
+      "Effet anxiolytique immédiat"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Effet comparable aux BZD mais délai de 1 à 3 semaines ; ni sédatif, ni myorelaxant, ni anticonvulsivant ; pas de dépendance ni de sevrage.",
+    "source": {
+      "page": 44,
+      "extrait": "mais avec un délai d'action de 1 à 3 semaines"
+    },
+    "difficulte": 2,
+    "tags": [
+      "buspirone"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/qcm-073",
+    "type": "multiple",
+    "enonce": "Concernant la sérotonine, selon le cours :",
+    "options": [
+      "Elle intervient dans la régulation du sommeil",
+      "Elle a une action anxiogène sur l'humeur",
+      "Elle intervient dans la régulation de la température",
+      "Elle a un effet anorexigène",
+      "Elle a une action anxiolytique directe"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "La sérotonine régule sommeil, humeur (action anxiogène), température et appétit (effet anorexigène).",
+    "source": {
+      "page": 44,
+      "extrait": "La sérotonine intervient dans la régulation du sommeil, de l'humeur (action anxiogène)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "sérotonine"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/qcm-074",
+    "type": "multiple",
+    "enonce": "Agonistes α2 adrénergiques et bêtabloquants dans l'anxiété :",
+    "options": [
+      "L'hyperactivité des neurones noradrénergiques entraîne anxiété et symptômes du SNA",
+      "La clonidine est un agoniste des autorécepteurs α2",
+      "La clonidine inhibe la libération de noradrénaline",
+      "Le propranolol bloque les récepteurs β-adrénergiques",
+      "La clonidine est un antagoniste α2"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Clonidine : agoniste α2 présynaptique (rétrocontrôle) → inhibition de la libération de NA ; alternativement, blocage β par le propranolol.",
+    "source": {
+      "page": 45,
+      "extrait": "Clonidine : agoniste des autorécepteurs adrénergiques (récepteurs adrénergiques α2) inhibition de la libération de NA"
+    },
+    "difficulte": 2,
+    "tags": [
+      "clonidine"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/qcm-075",
+    "type": "multiple",
+    "enonce": "Utilisation de la clonidine et des bêtabloquants mentionnée dans le cours :",
+    "options": [
+      "Traitement des troubles paniques",
+      "Traitement de l'anxiété associée au sevrage à la nicotine",
+      "Traitement de l'anxiété associée au sevrage aux opiacés",
+      "Traitement de l'insomnie",
+      "Traitement de l'épilepsie"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Utilisation : troubles paniques, anxiété du sevrage à la nicotine ou aux opiacés.",
+    "source": {
+      "page": 46,
+      "extrait": "traitement de l'anxiété associée au sevrage à la nicotine ou aux opiacés"
+    },
+    "difficulte": 2,
+    "tags": [
+      "clonidine"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/qcm-076",
+    "type": "unique",
+    "enonce": "Le bêtabloquant cité dans le cours comme alternative dans l'anxiété est :",
+    "options": [
+      "L'aténolol",
+      "Le propranolol",
+      "Le métoprolol",
+      "Le sotalol",
+      "Le labétalol"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Alternativement : bloquer les récepteurs β-adrénergiques (propranolol).",
+    "source": {
+      "page": 45,
+      "extrait": "bloquer les récepteurs ß-adrénergiques (propranolol)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "bêtabloquants"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/qcm-077",
+    "type": "multiple",
+    "enonce": "Parmi les molécules suivantes, lesquelles sont des 1,4-benzodiazépines utilisées comme anxiolytiques ?",
+    "options": [
+      "Diazépam",
+      "Bromazépam",
+      "Lorazépam",
+      "Clobazam",
+      "Flumazénil"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Le clobazam est une 1,5-benzodiazépine ; le flumazénil est un antagoniste (imidazobenzodiazépine).",
+    "source": {
+      "page": 26,
+      "extrait": "1,5-benzodiazépine clobazam :Urbanyl"
+    },
+    "difficulte": 3,
+    "tags": [
+      "transversal"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/qcm-078",
+    "type": "multiple",
+    "enonce": "Parmi les molécules suivantes, lesquelles sont citées comme hypnotiques dans le cours d'anxiolytiques ?",
+    "options": [
+      "Témazépam",
+      "Nitrazépam",
+      "Flunitrazépam",
+      "Oxazépam",
+      "Clorazépate"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Témazépam (diazépinolone) est utilisé comme hypnotique ; nitrazépam et flunitrazépam (7-nitrés) sont hypnotiques. Oxazépam et clorazépate sont anxiolytiques.",
+    "source": {
+      "page": 34,
+      "extrait": "Les dérives 7 nitrés sont des hypnotiques"
+    },
+    "difficulte": 2,
+    "tags": [
+      "transversal"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/qcm-079",
+    "type": "multiple",
+    "enonce": "Parmi les anxiolytiques suivants, lesquels sont dépourvus d'effet sédatif ou hypnogène selon le cours ?",
+    "options": [
+      "Buspirone",
+      "Clorazépate (anxiolytique pur non hypnogène)",
+      "Diazépam",
+      "Témazépam",
+      "Méprobamate à forte dose"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Buspirone : pas d'effet sédatif ; clorazépate : anxiolytique pur non hypnogène. Diazépam est aussi hypnotique, témazépam est un hypnotique.",
+    "source": {
+      "page": 24,
+      "extrait": "Utilisé comme anxiolytique pur non hypnogène"
+    },
+    "difficulte": 3,
+    "tags": [
+      "transversal"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/qcm-080",
+    "type": "multiple",
+    "enonce": "Quelles molécules agissent sans passer par le récepteur GABAA ?",
+    "options": [
+      "Buspirone",
+      "Clonidine",
+      "Propranolol",
+      "Diazépam",
+      "Alprazolam"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Buspirone (5-HT1A), clonidine (α2) et propranolol (β) ; diazépam et alprazolam sont des BZD agissant via le récepteur GABAA.",
+    "source": {
+      "page": 44,
+      "extrait": "agoniste 5-HT1A présynaptiques"
+    },
+    "difficulte": 2,
+    "tags": [
+      "transversal"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/qcm-081",
+    "type": "multiple",
+    "enonce": "Cochez les associations « substituant / benzodiazépine » exactes :",
+    "options": [
+      "Brome en 7 : bromazépam",
+      "Hydroxyle en 3 : oxazépam",
+      "Carboxyle en 3 : clorazépate",
+      "Cyclohexényle en 5 : tétrazépam",
+      "Nitro en 7 : diazépam"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Le diazépam porte un chlore en 7, non un nitro.",
+    "source": {
+      "page": 16,
+      "extrait": "Diazépam Valium® Cl CH3 C6H5"
+    },
+    "difficulte": 2,
+    "tags": [
+      "transversal"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/qcm-082",
+    "type": "multiple",
+    "enonce": "Concernant les dérivés qui peuvent former des sels hydrosolubles :",
+    "options": [
+      "Les dérivés hydroxylés en 3",
+      "Les dérivés carboxylés en 3",
+      "Cela concerne l'oxazépam",
+      "Cela concerne le clorazépate",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "OH (oxazépam) ou COOH (clorazépate) en 3 confèrent la possibilité de former des sels hydrosolubles.",
+    "source": {
+      "page": 36,
+      "extrait": "il confère à la molécule la possibilité de former des sels hydrosolubles"
+    },
+    "difficulte": 2,
+    "tags": [
+      "RSA"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/qcm-083",
+    "type": "unique",
+    "enonce": "Le Tranxène® correspond à :",
+    "options": [
+      "Clorazépate",
+      "Clobazam",
+      "Clotiazépam",
+      "Clonazépam",
+      "Chlordiazépoxyde"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Tranxène® = clorazépate ; Urbanyl® = clobazam ; Veratran® = clotiazépam ; Librium® = chlordiazépoxyde.",
+    "source": {
+      "page": 23,
+      "extrait": "Clorazépate: Tranxène®"
+    },
+    "difficulte": 1,
+    "tags": [
+      "spécialités"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/qcm-084",
+    "type": "unique",
+    "enonce": "L'Urbanyl® correspond à :",
+    "options": [
+      "Clorazépate",
+      "Clobazam",
+      "Clotiazépam",
+      "Clonazépam",
+      "Chlordiazépoxyde"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Urbanyl® = clobazam (1,5-benzodiazépine).",
+    "source": {
+      "page": 26,
+      "extrait": "CLOBAZAM: URBANYL"
+    },
+    "difficulte": 1,
+    "tags": [
+      "spécialités"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/qcm-085",
+    "type": "unique",
+    "enonce": "Le Veratran® correspond à :",
+    "options": [
+      "Clorazépate",
+      "Clobazam",
+      "Clotiazépam",
+      "Loflazépate",
+      "Estazolam"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Veratran® = clotiazépam (thiéno-1,4-diazépine).",
+    "source": {
+      "page": 27,
+      "extrait": "CLOTIAZEPAM: VERATRAN®"
+    },
+    "difficulte": 1,
+    "tags": [
+      "spécialités"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/qcm-086",
+    "type": "unique",
+    "enonce": "Le Nuctalon® correspond à :",
+    "options": [
+      "Alprazolam",
+      "Triazolam",
+      "Estazolam",
+      "Témazépam",
+      "Lormétazépam"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Nuctalon® = estazolam ; Xanax® = alprazolam ; Halcion® = triazolam.",
+    "source": {
+      "page": 25,
+      "extrait": "Estazolam: Nuctalon®"
+    },
+    "difficulte": 1,
+    "tags": [
+      "spécialités"
+    ],
+    "origine": "genere"
+  }
+]

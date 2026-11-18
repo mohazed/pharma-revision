@@ -1,0 +1,84 @@
+[
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/calcul-001",
+    "titre": "Indice d'iode d'une huile",
+    "enonce": "Un échantillon de {m} g de corps gras fixe {i} g d'iode sur ses doubles liaisons. Calculez l'indice d'iode.",
+    "variables": {
+      "m": {
+        "min": 0.2,
+        "max": 1,
+        "pas": 0.1,
+        "unite": "g"
+      },
+      "i": {
+        "min": 0.15,
+        "max": 1.5,
+        "pas": 0.05,
+        "unite": "g"
+      }
+    },
+    "formule": "i * 100 / m",
+    "unite": "g d'iode / 100 g",
+    "decimales": 1,
+    "etapes": [
+      "Indice d'iode = masse d'iode fixée rapportée à 100 g de corps gras",
+      "II = i × 100 / m",
+      "Classer : siccative 150–190, demi-siccative 100–150, non siccative 75–100"
+    ],
+    "rappel": "L'indice d'iode est le nombre de grammes d'iode fixés sur les doubles liaisons de 100 g de corps gras."
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/calcul-002",
+    "titre": "Indice d'acide",
+    "enonce": "La neutralisation de l'acidité libre de {m} g de matière grasse séchée nécessite {k} mg de KOH. Calculez l'indice d'acide.",
+    "variables": {
+      "m": {
+        "min": 1,
+        "max": 10,
+        "pas": 0.5,
+        "unite": "g"
+      },
+      "k": {
+        "min": 1,
+        "max": 40,
+        "pas": 1,
+        "unite": "mg"
+      }
+    },
+    "formule": "k / m",
+    "unite": "mg KOH / g",
+    "decimales": 2,
+    "etapes": [
+      "Indice d'acide = mg de KOH nécessaires pour 1 g de matière grasse",
+      "IA = k / m"
+    ],
+    "rappel": "Indice d'acide : nombre de mg de KOH nécessaires pour neutraliser l'acidité libre d'un gramme de matière grasse."
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/calcul-003",
+    "titre": "Indice de saponification",
+    "enonce": "La saponification complète de {m} g de corps gras consomme {k} mg de KOH. Calculez l'indice de saponification.",
+    "variables": {
+      "m": {
+        "min": 0.5,
+        "max": 3,
+        "pas": 0.25,
+        "unite": "g"
+      },
+      "k": {
+        "min": 90,
+        "max": 600,
+        "pas": 10,
+        "unite": "mg"
+      }
+    },
+    "formule": "k / m",
+    "unite": "mg KOH / g",
+    "decimales": 1,
+    "etapes": [
+      "Indice de saponification = mg de KOH pour saponifier 1 g de corps gras",
+      "IS = k / m"
+    ],
+    "rappel": "L'indice de saponification est le nombre de mg de KOH nécessaires pour transformer en savon les AG et glycérides d'un gramme de corps gras."
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "id": "semiologie/04-douleur-abdominale-aigue/flashcard-001",
+    "recto": "Douleur abdominale aiguë (définition)",
+    "verso": "Douleur évoluant depuis une semaine au maximum.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/04-douleur-abdominale-aigue/flashcard-002",
+    "recto": "Règle de priorité",
+    "verso": "On cherche d'abord la gravité, ensuite le diagnostic ; l'urgence chirurgicale ne doit jamais être manquée.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/04-douleur-abdominale-aigue/flashcard-003",
+    "recto": "Place des examens complémentaires",
+    "verso": "Confirmer l'hypothèse, jamais la remplacer.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/04-douleur-abdominale-aigue/flashcard-004",
+    "recto": "Terrain à rechercher",
+    "verso": "ATCD (ulcère, lithiase), tabac/alcool, AINS/aspirine/anticoagulants, chirurgie, âge, grossesse, DDR.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/04-douleur-abdominale-aigue/flashcard-005",
+    "recto": "Douleur fonctionnelle",
+    "verso": "Classiquement non insomniante.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/04-douleur-abdominale-aigue/flashcard-006",
+    "recto": "Signes d'alerte à l'interrogatoire",
+    "verso": "Douleur brutale en coup de poignard, fièvre/frissons, hématémèse/méléna/rectorragie, vomissements incoercibles, arrêt des matières et des gaz.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/04-douleur-abdominale-aigue/flashcard-007",
+    "recto": "Signes d'alerte à l'examen",
+    "verso": "Défense ou contracture, pâleur, tachycardie, hypotension.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/04-douleur-abdominale-aigue/flashcard-008",
+    "recto": "Femme en âge de procréer + douleur abdominale",
+    "verso": "Penser à la grossesse extra-utérine (β-hCG).",
+    "tags": []
+  },
+  {
+    "id": "semiologie/04-douleur-abdominale-aigue/flashcard-009",
+    "recto": "Sujet âgé ou immunodéprimé",
+    "verso": "Les signes peuvent être discrets.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/04-douleur-abdominale-aigue/flashcard-010",
+    "recto": "Les 9 régions abdominales",
+    "verso": "Hypochondre D, épigastre, hypochondre G / flanc D, périombilical, flanc G / FID, sus-pubien, FIG.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/04-douleur-abdominale-aigue/flashcard-011",
+    "recto": "Installation pour l'examen abdominal",
+    "verso": "Décubitus dorsal, membres inférieurs légèrement fléchis, bras le long du tronc, tête à plat, respiration normale.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/04-douleur-abdominale-aigue/flashcard-012",
+    "recto": "Palpation superficielle",
+    "verso": "Commencer par les régions non douloureuses, mains à plat, avec douceur, approfondir progressivement.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/04-douleur-abdominale-aigue/flashcard-013",
+    "recto": "Défense",
+    "verso": "Résistance tonique de la paroi, que la main peut vaincre avec douceur.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/04-douleur-abdominale-aigue/flashcard-014",
+    "recto": "Contracture",
+    "verso": "Résistance invincible qui se raidit quand la main insiste, « ventre de bois » : péritonite.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/04-douleur-abdominale-aigue/flashcard-015",
+    "recto": "Rebond",
+    "verso": "Douleur vive à la décompression brusque : irritation péritonéale.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/04-douleur-abdominale-aigue/flashcard-016",
+    "recto": "Signe de Murphy",
+    "verso": "Arrêt de l'inspiration à la palpation sous le rebord costal droit : cholécystite.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/04-douleur-abdominale-aigue/flashcard-017",
+    "recto": "Matité déclive / sus-pubienne",
+    "verso": "Ascite / globe vésical.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/04-douleur-abdominale-aigue/flashcard-018",
+    "recto": "Silence abdominal / souffle systolique",
+    "verso": "Iléus ou péritonite / sténose ou anévrisme de l'aorte abdominale.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/04-douleur-abdominale-aigue/flashcard-019",
+    "recto": "Biologie devant une douleur abdominale",
+    "verso": "NFS, CRP, lipase, bilan hépatique, β-hCG ; + bandelette urinaire ; ECG si douleur épigastrique.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/04-douleur-abdominale-aigue/flashcard-020",
+    "recto": "Ulcère gastro-duodénal : définition",
+    "verso": "Perte de substance de la muqueuse n'atteignant pas la musculeuse, de l'estomac ou du bulbe duodénal.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/04-douleur-abdominale-aigue/flashcard-021",
+    "recto": "Douleur ulcéreuse",
+    "verso": "Épigastrique, crampe, à distance des repas, parfois nocturne, jusqu'au repas suivant, calmée par l'alimentation, périodique.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/04-douleur-abdominale-aigue/flashcard-022",
+    "recto": "Perforation d'ulcère",
+    "verso": "Douleur brutale en coup de poignard + contracture.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/04-douleur-abdominale-aigue/flashcard-023",
+    "recto": "Pyrosis",
+    "verso": "Brûlure ascendante rétrosternale, post-prandiale, nocturne, augmentée penché en avant (RGO).",
+    "tags": []
+  },
+  {
+    "id": "semiologie/04-douleur-abdominale-aigue/flashcard-024",
+    "recto": "Syndrome solaire",
+    "verso": "Douleur intense, transfixiante, post-prandiale précoce, calmée en chien de fusil (pancréatite).",
+    "tags": []
+  },
+  {
+    "id": "semiologie/04-douleur-abdominale-aigue/flashcard-025",
+    "recto": "Colique hépatique",
+    "verso": "Calcul bloqué dans le cystique : HCD, rapide, broiement, plusieurs heures le soir, irradiation en bretelle, repas gras, antispasmodiques.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/04-douleur-abdominale-aigue/flashcard-026",
+    "recto": "Causes vasculaires de douleur abdominale",
+    "verso": "Infarctus mésentérique, rupture d'anévrisme de l'aorte abdominale, infarctus du myocarde.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/04-douleur-abdominale-aigue/flashcard-027",
+    "recto": "Diagnostics par excès",
+    "verso": "Gastro-entérite aiguë, constipation prolongée : seulement après avoir écarté une urgence.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/04-douleur-abdominale-aigue/flashcard-028",
+    "recto": "Causes de douleur de la fosse iliaque droite",
+    "verso": "Appendicite, iléite terminale, adénite mésentérique, diverticulite du cæcum, colique néphrétique, GEU, kyste ovarien, salpingite, hématome du psoas, hernie étranglée.",
+    "tags": []
+  }
+]

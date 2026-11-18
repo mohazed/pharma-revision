@@ -1,0 +1,38 @@
+[
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/mnemo-001",
+    "titre": "Structure commune des anticonvulsivants",
+    "moyen": "« NH = hydantoïne, O = oxazolidine, CH2 = succinimide, CO-NH = barbiturique »",
+    "explication": "Le groupe R distingue les quatre familles bâties sur la même structure."
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/mnemo-002",
+    "titre": "Bloqueurs des canaux sodiques",
+    "moyen": "« C.L.P.V. » : Carbamazépine, Lamotrigine, Phénytoïne, Valproate",
+    "explication": "Les quatre bloqueurs des canaux sodiques cités dans le cours."
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/mnemo-003",
+    "titre": "Médicaments des absences",
+    "moyen": "« E.V.T. » : Éthosuximide, Valproate, Triméthadione (courant T)",
+    "explication": "Les trois inhibiteurs du courant calcique T utilisés dans les absences."
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/mnemo-004",
+    "titre": "Vigabatrine vs tiagabine",
+    "moyen": "« VigaBAtrine bloque le BAlayage enzymatique (GABA-transaminase), Tiagabine bloque le Transport (recapture) »",
+    "explication": "Deux façons d'augmenter le GABA synaptique."
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/mnemo-005",
+    "titre": "Carbamazépine",
+    "moyen": "« CARBAmazépine : le CARBAmyl en 5 fait tout »",
+    "explication": "Le groupement carbamyl en position 5 est essentiel à l'activité anticonvulsivante."
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/mnemo-006",
+    "titre": "Valproate",
+    "moyen": "« 4 mécanismes, 4 types de crises »",
+    "explication": "Na+, GABA-transaminase, courant T, glutamate ; actif sur tonico-cloniques, myocloniques/atoniques, absences et partielles."
+  }
+]

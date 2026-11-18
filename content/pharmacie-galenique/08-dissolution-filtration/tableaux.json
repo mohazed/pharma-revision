@@ -1,0 +1,112 @@
+[
+  {
+    "id": "pharmacie-galenique/08-dissolution-filtration/tableau-001",
+    "titre": "Procédés de dissolution extractive",
+    "colonnes": [
+      "Procédé",
+      "Conditions",
+      "Durée",
+      "Indication",
+      "Produit"
+    ],
+    "lignes": [
+      [
+        "Macération",
+        "Eau potable, T° ambiante",
+        "30 min – 4 h",
+        "PA thermolabiles",
+        "Macéré"
+      ],
+      [
+        "Digestion",
+        "Eau potable, T° < ébullition (60 °C)",
+        "1 h – 15 h",
+        "PA se détruisant à l'ébullition",
+        "Digesté"
+      ],
+      [
+        "Décoction",
+        "Eau potable à ébullition",
+        "15 – 30 min",
+        "Drogues très compactes thermostables",
+        "Décocté"
+      ],
+      [
+        "Infusion",
+        "Eau bouillante versée puis refroidissement",
+        "—",
+        "Produits à tissus délicats",
+        "Infusé"
+      ],
+      [
+        "Percolation (lixiviation)",
+        "Solvant à froid, de haut en bas, drogue pulvérisée",
+        "Lente",
+        "—",
+        "Percolat"
+      ]
+    ]
+  },
+  {
+    "id": "pharmacie-galenique/08-dissolution-filtration/tableau-002",
+    "titre": "Classifications de la filtration",
+    "colonnes": [
+      "Critère",
+      "Types",
+      "Caractéristiques"
+    ],
+    "lignes": [
+      [
+        "Taille des pores",
+        "Clarifiante / microfiltration / ultrafiltration / osmose inverse",
+        "> 10 µm / 0,1–10 µm / 0,001–0,1 µm / < 0,001 µm"
+      ],
+      [
+        "Mode de passage",
+        "Frontale / tangentielle",
+        "Perpendiculaire, gâteau, colmatage, petits volumes / parallèle, balayage, grands volumes"
+      ],
+      [
+        "Gradient de pression",
+        "Gravité / pression / vide",
+        "Vide beaucoup plus rapide que gravité"
+      ],
+      [
+        "Mécanisme",
+        "Criblage / profondeur-adsorption",
+        "Surface, membranes absolues / volume, Van der Waals, grande capacité"
+      ]
+    ]
+  },
+  {
+    "id": "pharmacie-galenique/08-dissolution-filtration/tableau-003",
+    "titre": "Facteurs de la vitesse de dissolution",
+    "colonnes": [
+      "Paramètre",
+      "Moyen",
+      "Effet"
+    ],
+    "lignes": [
+      [
+        "Surface S ↑",
+        "Broyage, micronisation",
+        "Favorable"
+      ],
+      [
+        "Couche h ↓",
+        "Agitation mécanique",
+        "Favorable"
+      ],
+      [
+        "Température ↑",
+        "Chauffage",
+        "Favorable (↑Cs, ↑D, ↓viscosité)"
+      ],
+      [
+        "Viscosité ↑",
+        "—",
+        "Défavorable (↓D, ↑h)"
+      ]
+    ]
+  }
+]

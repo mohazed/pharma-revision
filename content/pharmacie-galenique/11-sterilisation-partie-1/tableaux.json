@@ -1,0 +1,110 @@
+[
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/tableau-001",
+    "titre": "Chaleur humide vs chaleur sèche",
+    "colonnes": [
+      "Critère",
+      "Chaleur humide",
+      "Chaleur sèche"
+    ],
+    "lignes": [
+      [
+        "Agent",
+        "Vapeur saturée sous pression",
+        "Air chaud"
+      ],
+      [
+        "Mécanisme",
+        "Dénaturation, hydrolyse, coagulation des protéines",
+        "Déshydratation puis oxydation"
+      ],
+      [
+        "Conditions",
+        "121 °C 15–20 min (134 °C 18 min si ATNC)",
+        "160 °C 2–3 h ; 170 °C 1,5–2 h"
+      ],
+      [
+        "Matériel",
+        "Autoclave",
+        "Étuve, four tunnel"
+      ],
+      [
+        "Indicateur biologique",
+        "G. stearothermophilus",
+        "B. subtilis"
+      ],
+      [
+        "Indications",
+        "Solutions aqueuses, matériel",
+        "Métal, verre, poudres, huiles"
+      ],
+      [
+        "Pyrogènes",
+        "Non détruits",
+        "Détruits à haute température"
+      ]
+    ]
+  },
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/tableau-002",
+    "titre": "Paramètres de la cinétique thermique",
+    "colonnes": [
+      "Paramètre",
+      "Définition",
+      "Valeur de référence"
+    ],
+    "lignes": [
+      [
+        "D",
+        "Temps pour réduire la population de 90 % à T constante",
+        "D121 = 1,5–2,5 min (G. stearothermophilus)"
+      ],
+      [
+        "z",
+        "Élévation de T divisant D par 10",
+        "10 °C (G. stearothermophilus)"
+      ],
+      [
+        "FT",
+        "Durée équivalente à 121 °C : t × 10^((T − 121)/z)",
+        "—"
+      ],
+      [
+        "F0",
+        "Valeur stérilisatrice de référence",
+        "≥ 8 min à la validation"
+      ],
+      [
+        "NAS",
+        "Probabilité de survie d'un micro-organisme",
+        "10⁻⁶"
+      ]
+    ]
+  },
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/tableau-003",
+    "titre": "Contrôles d'un cycle d'autoclave",
+    "colonnes": [
+      "Moyen",
+      "Principe",
+      "Interprétation"
+    ],
+    "lignes": [
+      [
+        "Capteurs physiques",
+        "Capteurs thermoélectriques : T et P en continu",
+        "Enregistrement du cycle"
+      ],
+      [
+        "Indicateurs biologiques",
+        "Spores de G. stearothermophilus + milieu au violet de bromocrésol, incubation ≈ 56 °C",
+        "Mauve = réussite ; jaune = échec"
+      ],
+      [
+        "Indicateurs chimiques",
+        "Changement de couleur / migration d'un produit fondu",
+        "Preuve visuelle immédiate"
+      ]
+    ]
+  }
+]

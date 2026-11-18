@@ -1,0 +1,127 @@
+[
+  {
+    "id": "chimie-analytique/02-extraction-liquide-liquide/cas-001",
+    "titre": "Extraction d'un alcaloïde en contrôle qualité",
+    "enonce": "On dispose de 50 mL d'une solution aqueuse contenant 20 mg d'un alcaloïde. Le coefficient de partage chloroforme/eau est λ = 8. On réalise une seule extraction par 10 mL de chloroforme.",
+    "questions": [
+      {
+        "type": "unique",
+        "enonce": "Le rapport de quantité α vaut :",
+        "options": [
+          "0,2",
+          "1,6",
+          "8",
+          "40",
+          "4"
+        ],
+        "correctes": [
+          1
+        ],
+        "explication": "α = 8 × 10/50 = 1,6.",
+        "difficulte": 1,
+        "origine": "genere",
+        "id": "chimie-analytique/02-extraction-liquide-liquide/cas-001-q1"
+      },
+      {
+        "type": "unique",
+        "enonce": "La quantité extraite QB1 est d'environ :",
+        "options": [
+          "7,7 mg",
+          "12,3 mg",
+          "16 mg",
+          "10 mg",
+          "18,5 mg"
+        ],
+        "correctes": [
+          1
+        ],
+        "explication": "QB1 = α·QA0/(1+α) = 1,6 × 20/2,6 ≈ 12,3 mg.",
+        "difficulte": 2,
+        "origine": "genere",
+        "id": "chimie-analytique/02-extraction-liquide-liquide/cas-001-q2"
+      },
+      {
+        "type": "unique",
+        "enonce": "Le rendement est d'environ :",
+        "options": [
+          "38,5 %",
+          "61,5 %",
+          "80 %",
+          "16 %",
+          "50 %"
+        ],
+        "correctes": [
+          1
+        ],
+        "explication": "ρ = 1,6/2,6 ≈ 0,615.",
+        "difficulte": 2,
+        "origine": "genere",
+        "id": "chimie-analytique/02-extraction-liquide-liquide/cas-001-q3"
+      },
+      {
+        "type": "multiple",
+        "enonce": "Pour améliorer le rendement on peut :",
+        "options": [
+          "Augmenter VB",
+          "Choisir un solvant de λ plus élevé",
+          "Pratiquer des extractions répétées",
+          "Augmenter VA en diluant",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "Le rendement augmente avec VB et λ, et les extractions répétées utilisent mieux le pouvoir solvant ; diluer (VA ↑) diminue α.",
+        "difficulte": 2,
+        "origine": "genere",
+        "id": "chimie-analytique/02-extraction-liquide-liquide/cas-001-q4"
+      }
+    ]
+  },
+  {
+    "id": "chimie-analytique/02-extraction-liquide-liquide/cas-002",
+    "titre": "Extraction du phénol en milieu alcalin",
+    "enonce": "Une solution aqueuse de phénol est extraite par le tétrachlorure de carbone. Dans un second essai, on ajoute de la soude à la phase aqueuse avant extraction.",
+    "questions": [
+      {
+        "type": "multiple",
+        "enonce": "Dans le second essai :",
+        "options": [
+          "Une partie du phénol est transformée en phénate",
+          "Le phénate participe au partage",
+          "Il faut utiliser D au lieu de λ",
+          "La concentration totale de phénol diminue",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0,
+          2
+        ],
+        "explication": "Seules les molécules non ionisées se partagent ; il faut raisonner avec D. La concentration totale ne change pas.",
+        "difficulte": 2,
+        "origine": "genere",
+        "id": "chimie-analytique/02-extraction-liquide-liquide/cas-002-q1"
+      },
+      {
+        "type": "unique",
+        "enonce": "Par rapport au premier essai, le rendement d'extraction du phénol :",
+        "options": [
+          "Augmente",
+          "Diminue",
+          "Reste identique",
+          "Devient 100 %",
+          "Devient nul strictement"
+        ],
+        "correctes": [
+          1
+        ],
+        "explication": "D < λ, donc ρ = 1 − 1/(1 + D·VB/VA) diminue.",
+        "difficulte": 2,
+        "origine": "genere",
+        "id": "chimie-analytique/02-extraction-liquide-liquide/cas-002-q2"
+      }
+    ]
+  }
+]

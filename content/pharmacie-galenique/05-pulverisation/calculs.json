@@ -1,0 +1,56 @@
+[
+  {
+    "id": "pharmacie-galenique/05-pulverisation/calcul-001",
+    "titre": "Refus fractionné en pourcentage",
+    "enonce": "Lors d'une analyse par tamis superposés portant sur un échantillon de {m} g de poudre, un tamis vide pèse {m1} g et, plein, {m2} g. Calculez le refus fractionné en pourcentage.",
+    "variables": {
+      "m": {
+        "min": 100,
+        "max": 100,
+        "pas": 1,
+        "unite": "g"
+      },
+      "m1": {
+        "min": 300,
+        "max": 350,
+        "pas": 1,
+        "unite": "g"
+      },
+      "m2": {
+        "min": 355,
+        "max": 395,
+        "pas": 1,
+        "unite": "g"
+      }
+    },
+    "formule": "(m2 - m1) / m * 100",
+    "unite": "%",
+    "decimales": 1,
+    "etapes": [
+      "Refus fractionné (g) = M2 − M1",
+      "Refus fractionné (%) = (M2 − M1) / masse de l'échantillon × 100"
+    ],
+    "rappel": "Le refus fractionné est la fraction retenue sur un tamis par rapport à la totalité de la poudre ; colonne « M2 − M1 » du tableau des tamis superposés."
+  },
+  {
+    "id": "pharmacie-galenique/05-pulverisation/calcul-002",
+    "titre": "Résidu maximal toléré sur le tamis de 1250 µm",
+    "enonce": "Un lot de {m} g de poudre est contrôlé sur le tamis de 1250 µm. Quelle masse maximale de résidu est tolérée ?",
+    "variables": {
+      "m": {
+        "min": 50,
+        "max": 1000,
+        "pas": 50,
+        "unite": "g"
+      }
+    },
+    "formule": "m * 5 / 100",
+    "unite": "g",
+    "decimales": 1,
+    "etapes": [
+      "Résidu maximal = 5 % de la masse de poudre",
+      "Résidu maximal = m × 5 / 100"
+    ],
+    "rappel": "« Aucune poudre ne doit laisser un résidu supérieur à 5 % sur le tamis de 1250 µm »."
+  }
+]

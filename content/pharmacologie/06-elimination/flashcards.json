@@ -1,0 +1,402 @@
+[
+  {
+    "id": "pharmacologie/06-elimination/flashcard-001",
+    "recto": "Définition de l'élimination",
+    "verso": "Ensemble des processus par lesquels le PA disparaît de l'organisme (PA inchangé, métabolites ou les deux formes).",
+    "tags": [
+      "définition"
+    ]
+  },
+  {
+    "id": "pharmacologie/06-elimination/flashcard-002",
+    "recto": "Principale voie d'excrétion des médicaments ?",
+    "verso": "La voie rénale (apport sanguin important ≈ 1400 ml/min ; unité fonctionnelle : le néphron).",
+    "tags": [
+      "élimination rénale"
+    ]
+  },
+  {
+    "id": "pharmacologie/06-elimination/flashcard-003",
+    "recto": "Débit sanguin rénal cité dans le cours",
+    "verso": "≈ 1400 ml/min.",
+    "tags": [
+      "élimination rénale"
+    ]
+  },
+  {
+    "id": "pharmacologie/06-elimination/flashcard-004",
+    "recto": "Les 3 processus de l'élimination rénale",
+    "verso": "Filtration glomérulaire, sécrétion tubulaire, réabsorption tubulaire.",
+    "tags": [
+      "élimination rénale"
+    ]
+  },
+  {
+    "id": "pharmacologie/06-elimination/flashcard-005",
+    "recto": "Seuil de PM pour la filtration glomérulaire",
+    "verso": "PM des médicaments < 68 000 Da.",
+    "tags": [
+      "filtration glomérulaire"
+    ]
+  },
+  {
+    "id": "pharmacologie/06-elimination/flashcard-006",
+    "recto": "Quelle fraction du médicament est filtrée par le glomérule ?",
+    "verso": "Seule la fraction libre (non liée aux protéines plasmatiques).",
+    "tags": [
+      "filtration glomérulaire"
+    ]
+  },
+  {
+    "id": "pharmacologie/06-elimination/flashcard-007",
+    "recto": "Nature du mécanisme de filtration glomérulaire",
+    "verso": "Mécanisme passif, dépendant de la taille.",
+    "tags": [
+      "filtration glomérulaire"
+    ]
+  },
+  {
+    "id": "pharmacologie/06-elimination/flashcard-008",
+    "recto": "Définition de la sécrétion tubulaire",
+    "verso": "Transport des substances du liquide péritubulaire vers le liquide tubulaire.",
+    "tags": [
+      "sécrétion tubulaire"
+    ]
+  },
+  {
+    "id": "pharmacologie/06-elimination/flashcard-009",
+    "recto": "Site de la sécrétion tubulaire",
+    "verso": "Tube contourné proximal (TCP).",
+    "tags": [
+      "sécrétion tubulaire"
+    ]
+  },
+  {
+    "id": "pharmacologie/06-elimination/flashcard-010",
+    "recto": "Fraction concernée par la sécrétion tubulaire",
+    "verso": "Fraction hydrosoluble ionisée.",
+    "tags": [
+      "sécrétion tubulaire"
+    ]
+  },
+  {
+    "id": "pharmacologie/06-elimination/flashcard-011",
+    "recto": "Caractéristiques du mécanisme de sécrétion tubulaire",
+    "verso": "Mécanisme actif : transporteurs sélectifs, saturation, compétition.",
+    "tags": [
+      "sécrétion tubulaire"
+    ]
+  },
+  {
+    "id": "pharmacologie/06-elimination/flashcard-012",
+    "recto": "Effet du probénécide sur la pénicilline G",
+    "verso": "Il retarde l'élimination de la pénicilline G (compétition au niveau de la sécrétion tubulaire).",
+    "tags": [
+      "sécrétion tubulaire",
+      "interactions"
+    ]
+  },
+  {
+    "id": "pharmacologie/06-elimination/flashcard-013",
+    "recto": "Définition de la réabsorption tubulaire",
+    "verso": "Passage d'une molécule de la lumière tubulaire du néphron vers le sang (mécanismes actif et passif).",
+    "tags": [
+      "réabsorption tubulaire"
+    ]
+  },
+  {
+    "id": "pharmacologie/06-elimination/flashcard-014",
+    "recto": "Réabsorption active : site et substances",
+    "verso": "TCP, consomme de l'énergie ; substances endogènes (Na, K, acide urique, glucose, AA) et médicaments de structure proche des AA (α-méthyldopa).",
+    "tags": [
+      "réabsorption active"
+    ]
+  },
+  {
+    "id": "pharmacologie/06-elimination/flashcard-015",
+    "recto": "Réabsorption passive : site et molécules concernées",
+    "verso": "TCD et tube collecteur ; molécules liposolubles non ionisées ; dépend du pH urinaire et du pKa.",
+    "tags": [
+      "réabsorption passive"
+    ]
+  },
+  {
+    "id": "pharmacologie/06-elimination/flashcard-016",
+    "recto": "Acides forts (pKa < 2,5) et réabsorption",
+    "verso": "Ionisés en totalité → jamais réabsorbés.",
+    "tags": [
+      "pKa",
+      "acides"
+    ]
+  },
+  {
+    "id": "pharmacologie/06-elimination/flashcard-017",
+    "recto": "Zone d'influence du pH pour les acides",
+    "verso": "2,5 ≤ pKa ≤ 7,5.",
+    "tags": [
+      "pKa",
+      "acides"
+    ]
+  },
+  {
+    "id": "pharmacologie/06-elimination/flashcard-018",
+    "recto": "Acides très faibles (pKa > 7,5) et réabsorption",
+    "verso": "Non ionisés au pH urinaire → réabsorption intense et permanente.",
+    "tags": [
+      "pKa",
+      "acides"
+    ]
+  },
+  {
+    "id": "pharmacologie/06-elimination/flashcard-019",
+    "recto": "Bases fortes (pKa > 12) et réabsorption",
+    "verso": "Ionisées en totalité → jamais réabsorbées.",
+    "tags": [
+      "pKa",
+      "bases"
+    ]
+  },
+  {
+    "id": "pharmacologie/06-elimination/flashcard-020",
+    "recto": "Zone d'influence du pH pour les bases",
+    "verso": "6 ≤ pKa ≤ 12.",
+    "tags": [
+      "pKa",
+      "bases"
+    ]
+  },
+  {
+    "id": "pharmacologie/06-elimination/flashcard-021",
+    "recto": "Bases très faibles (pKa < 6) et non polaires",
+    "verso": "Non ionisées au pH urinaire → réabsorption intense et permanente.",
+    "tags": [
+      "pKa",
+      "bases"
+    ]
+  },
+  {
+    "id": "pharmacologie/06-elimination/flashcard-022",
+    "recto": "Les 3 composantes de l'élimination digestive",
+    "verso": "Salivaire, gastro-intestinale, biliaire.",
+    "tags": [
+      "élimination digestive"
+    ]
+  },
+  {
+    "id": "pharmacologie/06-elimination/flashcard-023",
+    "recto": "Élimination salivaire : importance et mécanismes",
+    "verso": "Peu importante quantitativement ; diffusion passive (morphine, sulfamide, pénicilline) ; transport actif pour quelques médicaments (lithium, phénytoïne).",
+    "tags": [
+      "élimination salivaire"
+    ]
+  },
+  {
+    "id": "pharmacologie/06-elimination/flashcard-024",
+    "recto": "Effet des anticholinergiques sur l'élimination salivaire",
+    "verso": "Ils inhibent la sécrétion salivaire et perturbent l'élimination par cette voie.",
+    "tags": [
+      "élimination salivaire"
+    ]
+  },
+  {
+    "id": "pharmacologie/06-elimination/flashcard-025",
+    "recto": "Exemple d'excrétion gastrique d'une base faible",
+    "verso": "La quinine.",
+    "tags": [
+      "élimination gastro-intestinale"
+    ]
+  },
+  {
+    "id": "pharmacologie/06-elimination/flashcard-026",
+    "recto": "Exemple de médicament retrouvé dans les sécrétions intestinales",
+    "verso": "La digoxine.",
+    "tags": [
+      "élimination gastro-intestinale"
+    ]
+  },
+  {
+    "id": "pharmacologie/06-elimination/flashcard-027",
+    "recto": "Caractéristiques favorisant la sécrétion biliaire",
+    "verso": "PM > 300 D, grande polarité, fractions ionisables.",
+    "tags": [
+      "élimination biliaire"
+    ]
+  },
+  {
+    "id": "pharmacologie/06-elimination/flashcard-028",
+    "recto": "Diffusion passive biliaire : rapport de concentrations et exemple",
+    "verso": "[ ]bile ≤ [ ]plasma ; aminosides (streptomycine).",
+    "tags": [
+      "élimination biliaire"
+    ]
+  },
+  {
+    "id": "pharmacologie/06-elimination/flashcard-029",
+    "recto": "Excrétion biliaire active : rapport de concentrations et exemples",
+    "verso": "[ ]bile >>> [ ]plasma ; saturation, compétition ; ATB (érythromycine, spiramycine, ampicilline, rifampicine…), chlorothiazide.",
+    "tags": [
+      "élimination biliaire"
+    ]
+  },
+  {
+    "id": "pharmacologie/06-elimination/flashcard-030",
+    "recto": "Complication possible de l'excrétion biliaire active",
+    "verso": "Ictère, par compétition avec le transport actif de la bilirubine.",
+    "tags": [
+      "élimination biliaire",
+      "ictère"
+    ]
+  },
+  {
+    "id": "pharmacologie/06-elimination/flashcard-031",
+    "recto": "Devenir des glucuronides selon leur PM",
+    "verso": "PM < 300 Da → urines ; PM > 300 Da → bile.",
+    "tags": [
+      "cycle entéro-hépatique"
+    ]
+  },
+  {
+    "id": "pharmacologie/06-elimination/flashcard-032",
+    "recto": "Étapes du cycle entéro-hépatique",
+    "verso": "Glucuronide dans la bile → intestin → déconjugaison par les bactéries du côlon → dérivés liposolubles réabsorbés de nouveau.",
+    "tags": [
+      "cycle entéro-hépatique"
+    ]
+  },
+  {
+    "id": "pharmacologie/06-elimination/flashcard-033",
+    "recto": "Exemples de médicaments à cycle entéro-hépatique",
+    "verso": "Chloramphénicol, rifampicine, tétracycline.",
+    "tags": [
+      "cycle entéro-hépatique"
+    ]
+  },
+  {
+    "id": "pharmacologie/06-elimination/flashcard-034",
+    "recto": "Conséquences du cycle entéro-hépatique",
+    "verso": "Augmentation du Vd → augmentation de la durée de séjour du PA dans l'organisme.",
+    "tags": [
+      "cycle entéro-hépatique"
+    ]
+  },
+  {
+    "id": "pharmacologie/06-elimination/flashcard-035",
+    "recto": "Rôle de la cholestyramine",
+    "verso": "Résine échangeuse d'ions qui fixe certains PA dans l'intestin et met fin au cycle entéro-hépatique.",
+    "tags": [
+      "cholestyramine"
+    ]
+  },
+  {
+    "id": "pharmacologie/06-elimination/flashcard-036",
+    "recto": "Particularités du poumon comme organe épurateur",
+    "verso": "Grande surface d'échange, débit sanguin élevé, équipement enzymatique important.",
+    "tags": [
+      "élimination pulmonaire"
+    ]
+  },
+  {
+    "id": "pharmacologie/06-elimination/flashcard-037",
+    "recto": "Produits éliminés par voie pulmonaire",
+    "verso": "Produits volatils : anesthésiques généraux (halotane, 60 %), antiseptiques pulmonaires (eucalyptol).",
+    "tags": [
+      "élimination pulmonaire"
+    ]
+  },
+  {
+    "id": "pharmacologie/06-elimination/flashcard-038",
+    "recto": "Proportion d'une dose passant dans le lait en 24 h (règle générale)",
+    "verso": "Moins de 1 % (exception : I131 → 5 %).",
+    "tags": [
+      "élimination lactée"
+    ]
+  },
+  {
+    "id": "pharmacologie/06-elimination/flashcard-039",
+    "recto": "Facteurs favorisant le passage dans le lait",
+    "verso": "Médicament lipophile, peu lié aux protéines plasmatiques, de petit PM, gradient sang–lait important.",
+    "tags": [
+      "élimination lactée"
+    ]
+  },
+  {
+    "id": "pharmacologie/06-elimination/flashcard-040",
+    "recto": "Médicaments du lait dangereux pour le nouveau-né",
+    "verso": "AVK, psychotropes, AINS…",
+    "tags": [
+      "élimination lactée"
+    ]
+  },
+  {
+    "id": "pharmacologie/06-elimination/flashcard-041",
+    "recto": "Conseils pour la mère allaitante traitée",
+    "verso": "Éviter les pics de concentration (IV rapides), préférer les formes à libération prolongée, allaiter juste avant la prise.",
+    "tags": [
+      "allaitement"
+    ]
+  },
+  {
+    "id": "pharmacologie/06-elimination/flashcard-042",
+    "recto": "Substances éliminées par la sueur",
+    "verso": "À l'état de traces : I, Br, éthanol, acide salicylique, sulfamides.",
+    "tags": [
+      "élimination sudorale"
+    ]
+  },
+  {
+    "id": "pharmacologie/06-elimination/flashcard-043",
+    "recto": "Substances éliminées par les larmes",
+    "verso": "En très petites quantités : I, Br, atropine, rifampicine, sulfamides.",
+    "tags": [
+      "élimination lacrymale"
+    ]
+  },
+  {
+    "id": "pharmacologie/06-elimination/flashcard-044",
+    "recto": "Autres voies d'élimination et exemples",
+    "verso": "Dents – tétracyclines ; sécrétions bronchiques – iodures ; cheveux – arsenic.",
+    "tags": [
+      "autres voies"
+    ]
+  },
+  {
+    "id": "pharmacologie/06-elimination/flashcard-045",
+    "recto": "Définition de la demi-vie d'élimination",
+    "verso": "Temps nécessaire pour éliminer la moitié de la quantité de PA de l'organisme ; s'exprime en unité de temps.",
+    "tags": [
+      "demi-vie"
+    ]
+  },
+  {
+    "id": "pharmacologie/06-elimination/flashcard-046",
+    "recto": "Demi-vie courte : conséquence sur la posologie",
+    "verso": "Prises quotidiennes plus nombreuses, administration plus rapprochée.",
+    "tags": [
+      "demi-vie"
+    ]
+  },
+  {
+    "id": "pharmacologie/06-elimination/flashcard-047",
+    "recto": "Définition de la clairance",
+    "verso": "Volume de liquide complètement épuré du PA dans un temps donné ; s'applique à tous les organes d'élimination.",
+    "tags": [
+      "clairance"
+    ]
+  },
+  {
+    "id": "pharmacologie/06-elimination/flashcard-048",
+    "recto": "Clairance totale",
+    "verso": "Somme des clairances partielles (rénale, hépatique, pulmonaire, intestinale).",
+    "tags": [
+      "clairance"
+    ]
+  },
+  {
+    "id": "pharmacologie/06-elimination/flashcard-049",
+    "recto": "Conséquence d'une insuffisance rénale ou hépatique",
+    "verso": "Ralentissement de l'élimination → risque d'accumulation → effets toxiques.",
+    "tags": [
+      "conclusion"
+    ]
+  }
+]

@@ -1,0 +1,2229 @@
+[
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/qcm-001",
+    "type": "multiple",
+    "enonce": "Concernant la définition de l'épilepsie :",
+    "options": [
+      "C'est une affection neurologique chronique",
+      "Elle est due à une anomalie de la fonction électrique cérébrale",
+      "Elle est caractérisée par la survenue périodique et imprévisible de crises convulsives",
+      "C'est une affection aiguë et transitoire",
+      "Elle est due à une anomalie de la vascularisation cérébrale"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "L'épilepsie est une affection neurologique chronique due à une anomalie de la fonction électrique cérébrale, caractérisée par des crises convulsives périodiques et imprévisibles.",
+    "source": {
+      "page": 2,
+      "extrait": "affection neurologique chronique, due à une anomalie de la fonction électrique cérébrale"
+    },
+    "difficulte": 1,
+    "tags": [
+      "définition"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/qcm-002",
+    "type": "multiple",
+    "enonce": "Selon la définition de H. Jackson, la crise d'épilepsie correspond à une décharge :",
+    "options": [
+      "Paroxystique",
+      "Excessive",
+      "Hypersynchrone",
+      "D'une population neuronique plus ou moins étendue",
+      "D'un seul neurone isolé"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Définition de Jackson : décharge paroxystique excessive hypersynchrone d'une population neuronique plus ou moins étendue.",
+    "source": {
+      "page": 3,
+      "extrait": "décharge paroxystique excessive hypersynchrone d'une population neuronique plus ou moins étendue"
+    },
+    "difficulte": 1,
+    "tags": [
+      "définition"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/qcm-003",
+    "type": "multiple",
+    "enonce": "Classification des crises d'épilepsie :",
+    "options": [
+      "On distingue les crises focales (partielles) et les crises généralisées",
+      "Les crises partielles peuvent être simples ou complexes",
+      "Les crises généralisées comprennent les absences (« petit mal »)",
+      "Les crises généralisées comprennent les crises tonico-cloniques (« grand mal »)",
+      "Les crises partielles sont toujours bilatérales d'emblée"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Crises focales (simples ou complexes) et crises généralisées (absences « petit mal », tonico-cloniques « grand mal », myocloniques, toniques, atoniques).",
+    "source": {
+      "page": 6,
+      "extrait": "Crises focales ou partielles Simples Complexes Crises généralisées"
+    },
+    "difficulte": 1,
+    "tags": [
+      "classification des crises"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/qcm-004",
+    "type": "multiple",
+    "enonce": "Parmi les crises généralisées, le cours cite :",
+    "options": [
+      "Les absences généralisées (« petit mal »)",
+      "Les crises tonico-cloniques (« grand mal »)",
+      "Les crises myocloniques",
+      "Les crises toniques et atoniques",
+      "Les crises partielles complexes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Crises généralisées : absences, tonico-cloniques, myocloniques, toniques, atoniques. Les crises partielles complexes sont des crises focales.",
+    "source": {
+      "page": 6,
+      "extrait": "Absences Généralisées « Petit mal » Crises Tonico-cloniques « Grand mal » Crises myocloniques Crises toniques Crises atoniques"
+    },
+    "difficulte": 1,
+    "tags": [
+      "classification des crises"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/qcm-005",
+    "type": "unique",
+    "enonce": "Dans les crises généralisées, la décharge épileptique anormale est :",
+    "options": [
+      "Unilatérale et limitée à un lobe",
+      "Bilatérale et se propage dans l'ensemble du cortex cérébral",
+      "Limitée au thalamus",
+      "Limitée au tronc cérébral",
+      "Purement médullaire"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Dans les crises généralisées, la décharge anormale est bilatérale et se propage dans l'ensemble du cortex cérébral.",
+    "source": {
+      "page": 5,
+      "extrait": "La décharge épileptique anormale est bilatérale et se propage dans l'ensemble du cortex cérébral"
+    },
+    "difficulte": 1,
+    "tags": [
+      "classification des crises"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/qcm-006",
+    "type": "multiple",
+    "enonce": "Physiopathologie de l'épilepsie : l'hyperexcitabilité est essentiellement liée à :",
+    "options": [
+      "Une instabilité de la membrane cellulaire des neurones (hypothèse neuronale)",
+      "Un déséquilibre entre neurotransmission inhibitrice (GABA) et excitatrice (glutamate) (hypothèse synaptique)",
+      "Des modifications morphologiques des récepteurs GABA(A)",
+      "Une destruction des neurones dopaminergiques",
+      "Une carence en acétylcholine"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Trois mécanismes : instabilité membranaire (hypothèse neuronale), déséquilibre GABA/glutamate (hypothèse synaptique), modifications morphologiques des récepteurs GABA(A).",
+    "source": {
+      "page": 9,
+      "extrait": "Une instabilité de la membrane cellulaire des neurones (l'hypothèse neuronale)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "physiopathologie"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/qcm-007",
+    "type": "multiple",
+    "enonce": "Concernant l'hyperexcitabilité neuronale intrinsèque :",
+    "options": [
+      "Elle résulte d'anomalies innées ou acquises de la membrane cellulaire",
+      "Elle concerne les canaux ioniques voltage-dépendants",
+      "Elle implique notamment les flux de Na+, K+ et Cl−",
+      "Elle est liée à un excès de GABA",
+      "Elle est due à une inhibition excessive"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "L'hyperexcitabilité neuronale intrinsèque résulte d'anomalies innées ou acquises de la membrane cellulaire et des canaux ioniques voltage-dépendants.",
+    "source": {
+      "page": 8,
+      "extrait": "Anomalies innées ou acquises au niveau de la membrane cellulaire, des canaux ioniques voltage dépendants"
+    },
+    "difficulte": 2,
+    "tags": [
+      "physiopathologie"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/qcm-008",
+    "type": "unique",
+    "enonce": "Dans l'hypothèse synaptique, le déséquilibre se fait entre :",
+    "options": [
+      "GABA (inhibiteur) et glutamate (excitateur)",
+      "Dopamine et sérotonine",
+      "Acétylcholine et noradrénaline",
+      "Glycine et histamine",
+      "Adrénaline et GABA"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Déséquilibre entre la neurotransmission inhibitrice (GABA) et excitatrice (glutamate).",
+    "source": {
+      "page": 7,
+      "extrait": "Un déséquilibre entre la neurotransmission inhibitrice(GABA) et celle excitatrice (Glutamate)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "physiopathologie"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/qcm-009",
+    "type": "multiple",
+    "enonce": "Définition des antiépileptiques :",
+    "options": [
+      "Ce sont des médicaments symptomatiques",
+      "Ils suppriment ou diminuent la fréquence des crises",
+      "Ils diminuent la sévérité des crises",
+      "Ils n'ont pas de propriétés curatives",
+      "Ils guérissent l'épilepsie"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Les antiépileptiques sont des médicaments symptomatiques capables de supprimer ou de diminuer la fréquence et/ou la sévérité des crises ; ils n'ont pas de propriétés curatives.",
+    "source": {
+      "page": 10,
+      "extrait": "Ils n'ont pas de propriétés curatives"
+    },
+    "difficulte": 1,
+    "tags": [
+      "définition"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/qcm-010",
+    "type": "multiple",
+    "enonce": "Les trois classifications des antiépileptiques présentées sont :",
+    "options": [
+      "Chimique",
+      "Chronologique",
+      "Selon le mécanisme d'action",
+      "Selon la voie d'administration",
+      "Selon la durée d'action"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Trois classifications : chimique, chronologique et selon le mécanisme d'action.",
+    "source": {
+      "page": 11,
+      "extrait": "Classification des AE Chimique Chronologique selon le mécanisme d'action"
+    },
+    "difficulte": 1,
+    "tags": [
+      "classification"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/qcm-011",
+    "type": "multiple",
+    "enonce": "Classification chimique des antiépileptiques :",
+    "options": [
+      "Les hydantoïnes : phénytoïne",
+      "Les barbituriques : phénobarbital ; désoxybarbituriques : primidone",
+      "Les iminostilbènes : carbamazépine",
+      "Les succinimides : éthosuximide",
+      "Les acides carboxyliques : acide valproïque"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Classification chimique : hydantoïnes (phénytoïne), barbituriques (phénobarbital), désoxybarbituriques (primidone), iminostilbènes (carbamazépine), succinimides (éthosuximide), acide carboxylique (acide valproïque), benzodiazépines (clonazépam) et autres.",
+    "source": {
+      "page": 12,
+      "extrait": "Les hydantoines : phénytoine Les barbituriques: phénobarbital Désoxybarbituriques:primidone"
+    },
+    "difficulte": 1,
+    "tags": [
+      "classification chimique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/qcm-012",
+    "type": "unique",
+    "enonce": "Dans la classification chimique, le clonazépam appartient aux :",
+    "options": [
+      "Hydantoïnes",
+      "Succinimides",
+      "Benzodiazépines",
+      "Iminostilbènes",
+      "Barbituriques"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Le clonazépam est la benzodiazépine citée dans la classification chimique.",
+    "source": {
+      "page": 12,
+      "extrait": "Benzodiazepines: clonazepam"
+    },
+    "difficulte": 1,
+    "tags": [
+      "classification chimique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/qcm-013",
+    "type": "multiple",
+    "enonce": "Antiépileptiques de 1re génération (classification chronologique) :",
+    "options": [
+      "Barbituriques : phénobarbital et primidone",
+      "Non barbituriques : phénytoïne, valproate de sodium, carbamazépine, éthosuximide",
+      "Benzodiazépines : clonazépam et diazépam",
+      "Lamotrigine et gabapentine",
+      "Lévétiracétam"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "1re génération : barbituriques (phénobarbital, primidone), non barbituriques (phénytoïne, valproate, carbamazépine, éthosuximide) et benzodiazépines (clonazépam, diazépam).",
+    "source": {
+      "page": 13,
+      "extrait": "Antiepileptiques de 1ére génération Barbituriques : Phénobarbital Primidone"
+    },
+    "difficulte": 1,
+    "tags": [
+      "classification chronologique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/qcm-014",
+    "type": "multiple",
+    "enonce": "Antiépileptiques de 2e génération :",
+    "options": [
+      "Lamotrigine",
+      "Gabapentine",
+      "Vigabatrine et tiagabine",
+      "Topiramate, felbamate et oxcarbazépine",
+      "Phénytoïne"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "2e génération : lamotrigine, gabapentine, vigabatrine, tiagabine, topiramate, felbamate, oxcarbazépine. La phénytoïne est de 1re génération.",
+    "source": {
+      "page": 13,
+      "extrait": "Antiepileptiques de 2éme génération Lamotrigine Gabapentine Vigapatrine Tiagabine Topiramate Felbamate Oxacarbazépine"
+    },
+    "difficulte": 1,
+    "tags": [
+      "classification chronologique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/qcm-015",
+    "type": "multiple",
+    "enonce": "Antiépileptiques de 3e génération (après 2000) :",
+    "options": [
+      "Lévétiracétam",
+      "Prégabaline",
+      "Zonisamide et stiripentol",
+      "Rufinamide, rétigabine et valrocémide",
+      "Carbamazépine"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "3e génération (après 2000) : lévétiracétam, prégabaline, zonisamide, stiripentol, rufinamide, rétigabine, valrocémide.",
+    "source": {
+      "page": 14,
+      "extrait": "Antiépileptiques de 3éme génération (Après 2000) Lévétiracétam Prégabaline Zonisamide Stiripentol"
+    },
+    "difficulte": 2,
+    "tags": [
+      "classification chronologique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/qcm-016",
+    "type": "multiple",
+    "enonce": "Classification selon le mécanisme d'action : on retrouve deux grandes catégories :",
+    "options": [
+      "Les médicaments agissant sur la neurotransmission (GABA, glutamate)",
+      "Les inhibiteurs des canaux ioniques voltage-dépendants",
+      "Les bloqueurs des canaux sodiques",
+      "Les inhibiteurs des canaux calciques voltage-dépendants",
+      "Les inhibiteurs de l'anhydrase carbonique exclusivement"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Deux grandes catégories : action sur la neurotransmission (GABAergique, glutamatergique) et inhibition des canaux ioniques voltage-dépendants (Na+ et Ca++).",
+    "source": {
+      "page": 15,
+      "extrait": "Les médicaments agissant sur la neurotransmission Les inhibiteurs des canaux ioniques voltage-dépendants"
+    },
+    "difficulte": 1,
+    "tags": [
+      "mécanisme"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/qcm-017",
+    "type": "multiple",
+    "enonce": "Concernant les bloqueurs des canaux sodiques :",
+    "options": [
+      "Après ouverture, les canaux se ferment spontanément : c'est l'inactivation",
+      "L'inactivation est à l'origine de la période réfractaire",
+      "Pendant la période réfractaire, il est impossible de déclencher un autre potentiel d'action",
+      "Ils bloquent le canal sodique pendant la phase d'inactivation",
+      "Ils bloquent le canal uniquement à l'état ouvert"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "L'inactivation spontanée des canaux crée la période réfractaire ; les antiépileptiques bloquent le canal sodique voltage-dépendant pendant cette phase d'inactivation.",
+    "source": {
+      "page": 16,
+      "extrait": "c'est ce qu'on appelle « inactivation », qui est à l'origine de la période réfractaire"
+    },
+    "difficulte": 2,
+    "tags": [
+      "mécanisme"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/qcm-018",
+    "type": "multiple",
+    "enonce": "Les bloqueurs des canaux sodiques cités dans le cours :",
+    "options": [
+      "La carbamazépine",
+      "La lamotrigine",
+      "La phénytoïne",
+      "L'acide valproïque",
+      "L'éthosuximide"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Bloqueurs des canaux sodiques : carbamazépine, lamotrigine, phénytoïne, acide valproïque. L'éthosuximide agit sur le courant calcique de type T.",
+    "source": {
+      "page": 17,
+      "extrait": "La carbamazépine, La lamotrigine, La phénytoïne L'acide valproïque"
+    },
+    "difficulte": 1,
+    "tags": [
+      "mécanisme"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/qcm-019",
+    "type": "unique",
+    "enonce": "Les bloqueurs des canaux sodiques agissent en :",
+    "options": [
+      "Augmentant la vitesse de récupération des canaux",
+      "Diminuant la vitesse de récupération des canaux",
+      "Empêchant l'ouverture initiale du canal",
+      "Bloquant le canal potassique",
+      "Ouvrant le canal chlorure"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Ils bloquent le canal sodique pendant la phase d'inactivation et diminuent la vitesse de récupération de ces canaux.",
+    "source": {
+      "page": 17,
+      "extrait": "diminue la vitesse de récupération de ces canaux"
+    },
+    "difficulte": 2,
+    "tags": [
+      "mécanisme"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/qcm-020",
+    "type": "multiple",
+    "enonce": "Concernant les inhibiteurs des canaux calciques voltage-dépendants :",
+    "options": [
+      "Les neurones thalamiques peuvent être stimulés par un courant calcique de faible seuil de déclenchement « T »",
+      "Ce courant T est impliqué dans les absences",
+      "La plupart des médicaments des absences inhibent le courant T",
+      "Ils diminuent le flux de calcium",
+      "Exemples : éthosuximide, valproate, triméthadione"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Les absences impliquent le courant calcique T des neurones thalamiques ; l'éthosuximide, le valproate et la triméthadione l'inhibent en diminuant le flux de calcium.",
+    "source": {
+      "page": 18,
+      "extrait": "Le mécanisme principal grâce auquel la plupart des médicaments utilisés dans le traitement des absences semble reposer sur une inhibition du courant T"
+    },
+    "difficulte": 2,
+    "tags": [
+      "mécanisme"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/qcm-021",
+    "type": "multiple",
+    "enonce": "Médicaments agissant sur le système GABAergique :",
+    "options": [
+      "Le but est de potentialiser l'effet inhibiteur de ce système",
+      "Ils agissent sur les récepteurs GABA(A) post-synaptiques",
+      "Ils agissent sur le métabolisme du GABA",
+      "Les BZD et les barbituriques agissent sur les récepteurs GABAA post-synaptiques",
+      "Ils bloquent les récepteurs GABA(A)"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Le but est de potentialiser l'inhibition GABAergique, soit sur les récepteurs GABA(A) post-synaptiques (BZD, barbituriques), soit sur le métabolisme du GABA.",
+    "source": {
+      "page": 19,
+      "extrait": "Le but est de potentialiser l'effet inhibiteur de ce système"
+    },
+    "difficulte": 1,
+    "tags": [
+      "mécanisme"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/qcm-022",
+    "type": "multiple",
+    "enonce": "Médicaments agissant sur le métabolisme du GABA :",
+    "options": [
+      "La vigabatrine inhibe de façon irréversible la GABA-transaminase",
+      "La tiagabine inhibe la recapture pré-synaptique du GABA",
+      "La vigabatrine inhibe la recapture du GABA",
+      "La tiagabine inhibe irréversiblement la GABA-transaminase",
+      "Le phénobarbital inhibe la GABA-transaminase"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Vigabatrine : inhibition irréversible de la GABA-transaminase ; tiagabine : inhibition de la recapture pré-synaptique du GABA.",
+    "source": {
+      "page": 21,
+      "extrait": "Vigabatrine : inhibe de façon irréversible le GABA-transaminase Tiagabine : inhibe la recapture pré-synaptique du GABA"
+    },
+    "difficulte": 1,
+    "tags": [
+      "mécanisme"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/qcm-023",
+    "type": "multiple",
+    "enonce": "Médicaments diminuant la neurotransmission excitatrice glutamatergique :",
+    "options": [
+      "Ils inhibent la libération du glutamate ou les récepteurs glutamatergiques",
+      "Le felbamate en fait partie",
+      "La lamotrigine en fait partie",
+      "L'éthosuximide en fait partie",
+      "La vigabatrine en fait partie"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Felbamate et lamotrigine diminuent la neurotransmission glutamatergique (inhibition de la libération du glutamate ou des récepteurs).",
+    "source": {
+      "page": 22,
+      "extrait": "Inhibition de la libération du glutamate ou inhibition des récepteurs glutamergique: Felbamate , Lamotrigine"
+    },
+    "difficulte": 1,
+    "tags": [
+      "mécanisme"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/qcm-024",
+    "type": "multiple",
+    "enonce": "Concernant la structure commune aux anticonvulsivants de 1re génération :",
+    "options": [
+      "Elle comporte deux carbonyles encadrant un azote",
+      "Les substituants R1 et R2 sont portés par le même carbone",
+      "Le groupe R définit la famille (barbiturique, hydantoïne, oxazolidine-dione, succinimide)",
+      "Le R du dérivé barbiturique est un groupement C(=O)–NH",
+      "Le R de l'hydantoïne est un CH2"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "La structure commune porte R1 et R2 sur un même carbone ; le groupe R distingue les familles : barbiturique (C(=O)NH), hydantoïne (NH), oxazolidine-dione (O), succinimide (CH2).",
+    "source": {
+      "page": 25,
+      "extrait": "Structure commune à tous les anticonvulsivants Dérivé R: Barbiturique hydantoine l'oxazolidine-dione succimide"
+    },
+    "difficulte": 2,
+    "tags": [
+      "structure générale"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/qcm-025",
+    "type": "multiple",
+    "enonce": "Associez le dérivé au groupe R correspondant dans la structure commune des anticonvulsivants :",
+    "options": [
+      "Hydantoïne : –NH–",
+      "Oxazolidine-dione : –O–",
+      "Succinimide : –CH2–",
+      "Barbiturique : chaînon carbonylé supplémentaire (–CO–NH–)",
+      "Hydantoïne : –CH2–"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Hydantoïne : NH ; oxazolidine-dione : O ; succinimide : CH2 ; barbiturique : groupe C(=O)–NH supplémentaire.",
+    "source": {
+      "page": 25,
+      "extrait": "hydantoine NH l'oxazolidine-dione O succimide CH2"
+    },
+    "difficulte": 2,
+    "tags": [
+      "structure générale"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/qcm-026",
+    "type": "multiple",
+    "enonce": "Formule générale des dérivés barbituriques :",
+    "options": [
+      "X peut être l'oxygène ou le soufre",
+      "R est un groupement alkyle",
+      "R1 et R2 sont des radicaux alkyles saturés ou insaturés, cyclaniques ou aromatiques",
+      "X est obligatoirement l'azote",
+      "R1 et R2 sont toujours des hydrogènes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Dans la formule générale des barbituriques : X = O ou S ; R = groupement alkyle ; R1 et R2 = radicaux alkyles saturés ou insaturés, cyclaniques ou aromatiques.",
+    "source": {
+      "page": 26,
+      "extrait": "X:l'oxygéne ou le soufre R: groupement alkyle R1 ,R2 :radicaux alkyles saturés ou insaturés cyclaniques ou aromatiques"
+    },
+    "difficulte": 2,
+    "tags": [
+      "barbituriques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/qcm-027",
+    "type": "multiple",
+    "enonce": "Concernant le phénobarbital :",
+    "options": [
+      "Son nom IUPAC est 5-éthyl-5-phényl-1,3-diazinane-2,4,6-trione",
+      "Son nom déposé est Gardénal®",
+      "C'est un barbiturique",
+      "L'activité antiépileptique maximale est obtenue avec un phényle en position 5",
+      "C'est une hydantoïne"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Phénobarbital (Gardénal®) : 5-éthyl-5-phényl-1,3-diazinane-2,4,6-trione ; l'activité maximale est obtenue avec un substituant phényle en 5.",
+    "source": {
+      "page": 27,
+      "extrait": "IUPAC: 5-éthyl-5-phényl-1,3-diazinane-2,4,6-trione DCI: Phénobarbital ND: Gardénal®"
+    },
+    "difficulte": 1,
+    "tags": [
+      "phénobarbital"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/qcm-028",
+    "type": "multiple",
+    "enonce": "Synthèse du phénobarbital :",
+    "options": [
+      "Elle débute par une alkylation de Friedel-Crafts sur le benzène",
+      "Le toluène obtenu est ensuite chloré",
+      "L'action du cyanure de potassium puis l'hydrolyse acide donne l'acide phénylacétique",
+      "La condensation du malonate d'éthyle disubstitué avec l'urée donne le phénobarbital",
+      "La dernière étape est une méthylation par l'iodure de méthyle"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Synthèse : Friedel-Crafts sur le benzène → toluène → chloration → KCN puis hydrolyse acide → acide phénylacétique → double ester → condensation du malonate disubstitué avec l'urée.",
+    "source": {
+      "page": 28,
+      "extrait": "La condensation du malonate d'éthyle disubstitué avec une molécule d'urée, permet d'obtenir le phénobarbital"
+    },
+    "difficulte": 2,
+    "tags": [
+      "synthèse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/qcm-029",
+    "type": "unique",
+    "enonce": "Dans la synthèse du phénobarbital, le réactif condensé avec le malonate d'éthyle disubstitué est :",
+    "options": [
+      "L'urée",
+      "L'ammoniac",
+      "Le phosgène",
+      "Le cyanure de potassium",
+      "Le chlorure de thionyle"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "La condensation du malonate d'éthyle disubstitué avec une molécule d'urée donne le phénobarbital.",
+    "source": {
+      "page": 28,
+      "extrait": "La condensation du malonate d'éthyle disubstitué avec une molécule d'urée"
+    },
+    "difficulte": 1,
+    "tags": [
+      "synthèse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/qcm-030",
+    "type": "unique",
+    "enonce": "Dans la synthèse du phénobarbital, l'acide phénylacétique est obtenu par :",
+    "options": [
+      "Action du cyanure de potassium sur le chlorure de benzyle puis hydrolyse acide",
+      "Condensation avec l'urée",
+      "Action du phosgène",
+      "Réaction avec l'ammoniac",
+      "Oxydation du benzène"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Après chloration du toluène, l'action du cyanure de potassium puis l'hydrolyse acide donne l'acide phénylacétique.",
+    "source": {
+      "page": 28,
+      "extrait": "L'action du cyanure de potassium puis l'hydrolyse acide donne l'acide phénylacétique"
+    },
+    "difficulte": 2,
+    "tags": [
+      "synthèse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/qcm-031",
+    "type": "multiple",
+    "enonce": "Mécanisme d'action et usage du phénobarbital :",
+    "options": [
+      "Il se fixe sur les récepteurs GABA-A",
+      "Il augmente le courant des chlorures",
+      "Son usage est assez large : crises partielles, crises généralisées tonico-cloniques, sauf absences",
+      "Son effet sédatif a limité son usage en première intention",
+      "Il est le traitement de premier choix des absences"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Phénobarbital : fixation sur les récepteurs GABA-A, augmentation du courant chlorure ; actif sur les crises partielles et tonico-cloniques (sauf absences) ; effet sédatif et troubles du comportement chez l'enfant limitant son usage.",
+    "source": {
+      "page": 29,
+      "extrait": "Se fixe sur les récepteurs GABA-A et augmente le courant des chlorures"
+    },
+    "difficulte": 2,
+    "tags": [
+      "phénobarbital"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/qcm-032",
+    "type": "multiple",
+    "enonce": "Concernant la primidone (Mysoline®) :",
+    "options": [
+      "C'est le 2-désoxyphénobarbital",
+      "C'est une prodrogue du phénobarbital",
+      "Elle renforce l'inhibition synaptique par une action sur les récepteurs GABA-A",
+      "Elle rend le récepteur GABA-A plus accessible à son ligand",
+      "C'est une hydantoïne"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Primidone (Mysoline®) ou 2-désoxyphénobarbital : prodrogue du phénobarbital renforçant l'inhibition synaptique en rendant le récepteur GABA-A plus accessible à son ligand.",
+    "source": {
+      "page": 30,
+      "extrait": "La primidone ou 2-désoxyphénobarbital est une prodrogue du phénobarbital"
+    },
+    "difficulte": 1,
+    "tags": [
+      "primidone"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/qcm-033",
+    "type": "multiple",
+    "enonce": "Usage thérapeutique de la primidone :",
+    "options": [
+      "Crises généralisées tonico-cloniques",
+      "Crises partielles complexes",
+      "Crises partielles simples",
+      "Absences",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "La primidone est active sur les crises généralisées tonico-cloniques et les crises partielles complexes et simples, sans effet sur les absences.",
+    "source": {
+      "page": 30,
+      "extrait": "Active sur les crises généralisées tonico-cloniques et les crises partielles complexes et simples, sans effets sur les absences"
+    },
+    "difficulte": 2,
+    "tags": [
+      "primidone"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/qcm-034",
+    "type": "multiple",
+    "enonce": "Concernant la phénytoïne :",
+    "options": [
+      "Son nom déposé est Di-hydan®",
+      "C'est la 5,5-diphénylimidazolidine-2,4-dione",
+      "C'est une hydantoïne",
+      "Elle agit sur la partie intracellulaire des canaux sodiques",
+      "C'est un barbiturique"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Phénytoïne (Di-hydan®) : 5,5-diphénylimidazolidine-2,4-dione, hydantoïne agissant sur la partie intracellulaire des canaux sodiques.",
+    "source": {
+      "page": 31,
+      "extrait": "Phénytoïne : Di-hydan® 5,5-diphénylimidazolidine-2,4-dione"
+    },
+    "difficulte": 1,
+    "tags": [
+      "phénytoïne"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/qcm-035",
+    "type": "multiple",
+    "enonce": "Mécanisme d'action de la phénytoïne :",
+    "options": [
+      "Elle agit sur la partie intracellulaire des canaux sodiques",
+      "Elle diminue l'entrée de sodium dans le neurone",
+      "Elle diminue l'excitabilité neuronale",
+      "Elle augmente l'entrée de chlorure",
+      "Elle inhibe la GABA-transaminase"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "La phénytoïne, en agissant sur la partie intracellulaire des canaux sodiques, diminue l'entrée de sodium et donc l'excitabilité du neurone.",
+    "source": {
+      "page": 31,
+      "extrait": "diminue l'entrée de sodium dans le neurone et diminue ainsi son excitabilité"
+    },
+    "difficulte": 1,
+    "tags": [
+      "phénytoïne"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/qcm-036",
+    "type": "multiple",
+    "enonce": "Relations structure-activité de la phénytoïne :",
+    "options": [
+      "Un substituant 5-phényle ou aromatique semble essentiel à l'activité antiépileptique",
+      "Des substituants alkyles en 5 contribuent à un effet sédatif",
+      "Cet effet sédatif est absent chez la phénytoïne",
+      "Les substituants alkyles en 5 suppriment l'activité",
+      "Un substituant aromatique en 5 est délétère"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "RSA : substituant 5-phényle (ou aromatique) essentiel ; les substituants alkyles en 5 donnent un effet sédatif, absent chez la phénytoïne.",
+    "source": {
+      "page": 32,
+      "extrait": "Des substituants alkyles en 5 contribuent à un effet sédatif qui est absent chez la phénytoïne"
+    },
+    "difficulte": 2,
+    "tags": [
+      "RSA"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/qcm-037",
+    "type": "multiple",
+    "enonce": "Indications de la phénytoïne :",
+    "options": [
+      "Crises partielles",
+      "Crises tonico-cloniques",
+      "Absences (petit mal)",
+      "Elle est inactive sur le petit mal",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      0,
+      1,
+      3
+    ],
+    "explication": "La phénytoïne est active sur les crises partielles et tonico-cloniques mais pas sur les absences ou petit mal.",
+    "source": {
+      "page": 32,
+      "extrait": "active sur les crises partielles et tonico-clonique mais pas sur les absences ou petit mal"
+    },
+    "difficulte": 1,
+    "tags": [
+      "phénytoïne"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/qcm-038",
+    "type": "multiple",
+    "enonce": "Concernant les dérivés de l'oxazolidine-dione :",
+    "options": [
+      "Ils résultent du remplacement du –NH– de l'hydantoïne par un –O–",
+      "La triméthadione (Epidione®) en est l'exemple",
+      "Elle correspond à la 3,5,5-triméthyloxazolidine-2,4-dione",
+      "Elle a été retirée du marché en Europe",
+      "Son retrait est lié à sa tératogénicité et à ses effets secondaires potentiels"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Oxazolidine-diones : –NH– de l'hydantoïne remplacé par –O– ; la triméthadione (Epidione®), 3,5,5-triméthyloxazolidine-2,4-dione, a été retirée du marché en Europe du fait de sa tératogénicité.",
+    "source": {
+      "page": 33,
+      "extrait": "C'est un médicament antiépileptique qui a été retiré du marché en Europe"
+    },
+    "difficulte": 2,
+    "tags": [
+      "oxazolidine-dione"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/qcm-039",
+    "type": "multiple",
+    "enonce": "Concernant l'éthosuximide :",
+    "options": [
+      "C'est un succinimide : le –NH– de l'hydantoïne est remplacé par un –CH2–",
+      "Son nom déposé est Zarontin®",
+      "C'est la 3-éthyl-3-méthylpyrrolidine-2,5-dione",
+      "Avec ses substituants alkyles, il est plus spécifique du traitement des absences",
+      "Il est moins efficace que la triméthadione"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Éthosuximide (Zarontin®) : 3-éthyl-3-méthylpyrrolidine-2,5-dione, succinimide plus spécifique des absences et plus efficace que la triméthadione.",
+    "source": {
+      "page": 34,
+      "extrait": "L'éthosuximide avec les substituants alkyles est plus spécifique dans le traitement des absences. Il est plus efficace que la triméthadione"
+    },
+    "difficulte": 2,
+    "tags": [
+      "éthosuximide"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/qcm-040",
+    "type": "multiple",
+    "enonce": "Mécanisme et usage de l'éthosuximide :",
+    "options": [
+      "Il diminue les courants Ca++ de bas seuil de type T",
+      "Il agit au niveau des neurones thalamiques",
+      "Ces neurones sont impliqués dans les absences épileptiques",
+      "Il est le premier choix dans les crises généralisées de type absence",
+      "Il bloque les canaux sodiques"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Éthosuximide : diminution du courant calcique de type T des neurones thalamiques impliqués dans les absences ; premier choix dans les absences.",
+    "source": {
+      "page": 34,
+      "extrait": "Crises généralisées de type absence : premier choix!"
+    },
+    "difficulte": 1,
+    "tags": [
+      "éthosuximide"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/qcm-041",
+    "type": "multiple",
+    "enonce": "Concernant la carbamazépine :",
+    "options": [
+      "Son nom déposé est Tégrétol®",
+      "C'est un dérivé de l'iminostilbène",
+      "C'est le 5H-dibenzo[b,f]azépine-5-carboxamide",
+      "C'est une hydantoïne",
+      "C'est un succinimide"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Carbamazépine (Tégrétol®) : 5H-dibenzo[b,f]azépine-5-carboxamide, dérivé de l'iminostilbène.",
+    "source": {
+      "page": 35,
+      "extrait": "Carbamazépine : Tegretol ® 5H-Dibenzo[b,f]azépine-5-carboxamide"
+    },
+    "difficulte": 1,
+    "tags": [
+      "carbamazépine"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/qcm-042",
+    "type": "multiple",
+    "enonce": "Synthèse de la carbamazépine :",
+    "options": [
+      "Elle part de la 5H-dibenzo[b,f]azépine",
+      "On fait réagir le phosgène (dichlorure de carbonyle)",
+      "On obtient la 5-chlorcarboxy-5H-dibenzo[b,f]azépine",
+      "Ce dernier réagit avec l'ammoniac pour donner la carbamazépine",
+      "On utilise l'urée comme dernier réactif"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "5H-dibenzo[b,f]azépine + phosgène → 5-chlorcarboxy-5H-dibenzo[b,f]azépine, puis action de l'ammoniac → carbamazépine.",
+    "source": {
+      "page": 36,
+      "extrait": "la réaction du 5H-dibenzo[b,f]azépine avec le phosgène (dichlorure de carbonyle)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "synthèse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/qcm-043",
+    "type": "unique",
+    "enonce": "Dans la synthèse de la carbamazépine, le phosgène sert à :",
+    "options": [
+      "Former l'intermédiaire 5-chlorcarboxy-5H-dibenzo[b,f]azépine",
+      "Réduire la double liaison",
+      "Introduire l'ammoniac",
+      "Chlorer le noyau aromatique",
+      "Oxyder l'azote"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Le phosgène transforme la dibenzazépine en 5-chlorcarboxy-5H-dibenzo[b,f]azépine, ensuite traitée par l'ammoniac.",
+    "source": {
+      "page": 36,
+      "extrait": "lesquelles forment la 5-chlorcarboxy-5H-dibenzo-[b,f]azépine"
+    },
+    "difficulte": 2,
+    "tags": [
+      "synthèse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/qcm-044",
+    "type": "unique",
+    "enonce": "RSA de la carbamazépine : l'élément essentiel à une activité anticonvulsivante importante est :",
+    "options": [
+      "Un groupement carbamyl en position 5",
+      "Un halogène en position 3",
+      "Une chaîne à 4 carbones",
+      "Un groupement hydroxyle",
+      "Un noyau pipérazinique"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Un groupement carbamyl en position 5 est essentiel pour une activité anticonvulsivante importante.",
+    "source": {
+      "page": 36,
+      "extrait": "un groupement carbamyl en position 5 =>essentiel pour une activité anti-convulsivante importante"
+    },
+    "difficulte": 1,
+    "tags": [
+      "RSA"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/qcm-045",
+    "type": "multiple",
+    "enonce": "Mécanisme d'action de la carbamazépine :",
+    "options": [
+      "Elle agit sur l'excitabilité membranaire",
+      "Elle prolonge l'état d'inactivation des canaux sodiques",
+      "Elle augmente la période réfractaire",
+      "Elle inhibe la GABA-transaminase",
+      "Elle bloque les récepteurs NMDA"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "La carbamazépine agit sur l'excitabilité membranaire en prolongeant l'état d'inactivation des canaux sodiques, augmentant ainsi la période réfractaire.",
+    "source": {
+      "page": 37,
+      "extrait": "La carbamazépine agit en prolongeant l'état d'inactivation des canaux sodiques, augmentant ainsi la période réfractaire"
+    },
+    "difficulte": 1,
+    "tags": [
+      "carbamazépine"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/qcm-046",
+    "type": "multiple",
+    "enonce": "Usage thérapeutique de la carbamazépine :",
+    "options": [
+      "Crises partielles simples ou complexes",
+      "Crises généralisées tonico-cloniques",
+      "Petit mal",
+      "Elle est inactive sur le petit mal",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      0,
+      1,
+      3
+    ],
+    "explication": "La carbamazépine est active dans les crises partielles simples ou complexes et les crises généralisées tonico-cloniques, mais inactive sur le petit mal.",
+    "source": {
+      "page": 37,
+      "extrait": "Dans les crises partielles simples ou complexes Actif dans les crises généralisées tonico-cloniques Inactif sur le petit mal"
+    },
+    "difficulte": 1,
+    "tags": [
+      "carbamazépine"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/qcm-047",
+    "type": "multiple",
+    "enonce": "Concernant les benzodiazépines antiépileptiques :",
+    "options": [
+      "Elles facilitent la transmission GABAergique",
+      "Elles sont actives dans certaines formes d'épilepsie",
+      "Le clobazam (Urbanyl) est le plus utilisé et le plus efficace en traitement chronique",
+      "Le clonazépam (Rivotril) est spécifiquement commercialisé comme anticonvulsivant",
+      "Le diazépam (Valium) est également utilisé"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Les BZD facilitent la transmission GABAergique ; sont utilisés le clobazam (Urbanyl), le clonazépam (Rivotril) et le diazépam (Valium).",
+    "source": {
+      "page": 38,
+      "extrait": "Le clobazam (URBANYL) (le plus utilisé et le plus efficace dans un traitement chronique)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "benzodiazépines"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/qcm-048",
+    "type": "unique",
+    "enonce": "La benzodiazépine spécifiquement commercialisée comme anticonvulsivant est :",
+    "options": [
+      "Le clobazam (Urbanyl)",
+      "Le clonazépam (Rivotril)",
+      "Le diazépam (Valium)",
+      "Le lorazépam (Temesta)",
+      "L'alprazolam (Xanax)"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Le clonazépam (Rivotril) est spécifiquement commercialisé comme anticonvulsivant.",
+    "source": {
+      "page": 38,
+      "extrait": "Le clonazépam (RIVOTRIL), spécifiquement commercialisé comme anticonvulsivant"
+    },
+    "difficulte": 1,
+    "tags": [
+      "benzodiazépines"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/qcm-049",
+    "type": "multiple",
+    "enonce": "Concernant le valproate de sodium :",
+    "options": [
+      "Son nom déposé est Dépakine®",
+      "C'est l'acide 2-propylpentanoïque",
+      "Sa découverte a été fortuite, lors de son utilisation comme solvant pour d'autres antiépileptiques",
+      "C'est un dérivé de l'acide valproïque",
+      "C'est un dérivé de l'hydantoïne"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Valproate de sodium (Dépakine®) : acide 2-propylpentanoïque, découvert fortuitement lors de son utilisation comme solvant pour d'autres antiépileptiques.",
+    "source": {
+      "page": 39,
+      "extrait": "Découverte fortuite lors de son utilisation comme solvant pour d'autres antiépileptiques"
+    },
+    "difficulte": 1,
+    "tags": [
+      "valproate"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/qcm-050",
+    "type": "multiple",
+    "enonce": "Relations structure-activité de l'acide valproïque :",
+    "options": [
+      "La ramification est responsable de l'activité",
+      "Les acides à chaînes non ramifiées n'ont pratiquement pas d'effets",
+      "Quand le nombre de carbones augmente jusqu'à 9, les propriétés sédatives deviennent importantes",
+      "L'amide de l'acide valproïque est 2 fois plus actif que la molécule mère",
+      "Les chaînes linéaires sont les plus actives"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "RSA : la ramification conditionne l'activité (chaînes non ramifiées quasi inactives) ; jusqu'à 9 carbones, les propriétés sédatives augmentent ; l'amide est 2 fois plus actif que la molécule mère.",
+    "source": {
+      "page": 40,
+      "extrait": "La ramification est responsable de l'activité. Les acides à chaînes non ramifiées n'ont pratiquement pas d'effets"
+    },
+    "difficulte": 2,
+    "tags": [
+      "RSA"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/qcm-051",
+    "type": "multiple",
+    "enonce": "Mécanismes d'action du valproate :",
+    "options": [
+      "Inhibition des canaux sodiques",
+      "Augmentation du taux de GABA en inhibant la GABA-transaminase",
+      "Diminution du courant calcique de type T au niveau thalamique",
+      "Effet antagoniste du glutamate",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le valproate associe quatre mécanismes : blocage des canaux Na+, augmentation du GABA (inhibition de la GABA-transaminase), diminution du courant calcique T thalamique et antagonisme du glutamate.",
+    "source": {
+      "page": 41,
+      "extrait": "Inhibition des canaux sodiques. Taux GABA en inhibant GABA transaminase"
+    },
+    "difficulte": 1,
+    "tags": [
+      "valproate",
+      "mécanisme"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/qcm-052",
+    "type": "multiple",
+    "enonce": "Usage thérapeutique du valproate :",
+    "options": [
+      "Crises généralisées tonico-cloniques",
+      "Crises myocloniques et atoniques",
+      "Absences",
+      "Crises partielles",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le valproate est actif dans les crises généralisées tonico-cloniques, myocloniques, atoniques, les absences et les crises partielles : c'est un antiépileptique à large spectre.",
+    "source": {
+      "page": 41,
+      "extrait": "Actif dans les crises généralisées tonico-cloniques Crises myocloniques , atoniques et absences Crises partielles"
+    },
+    "difficulte": 1,
+    "tags": [
+      "valproate"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/qcm-053",
+    "type": "multiple",
+    "enonce": "Difficultés d'usage des antiépileptiques traditionnels :",
+    "options": [
+      "Cinétique non linéaire (ex. phénytoïne)",
+      "Forte liaison protéique",
+      "Auto-induction de leur propre métabolisme hépatique",
+      "Interactions pharmacocinétiques nombreuses",
+      "Cinétique variable selon l'âge"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Les AE traditionnels ont une bonne efficacité mais leur usage est rendu difficile par une cinétique non linéaire, une forte liaison protéique, une auto-induction enzymatique, de nombreuses interactions et une cinétique variable selon l'âge.",
+    "source": {
+      "page": 42,
+      "extrait": "Cinétique non linéaire (ex : phénytoïne) ; Forte liaison protéique ; Auto induction de leur propre métabolisme hépatique"
+    },
+    "difficulte": 2,
+    "tags": [
+      "pharmacocinétique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/qcm-054",
+    "type": "unique",
+    "enonce": "L'antiépileptique cité comme exemple de cinétique non linéaire est :",
+    "options": [
+      "La phénytoïne",
+      "La carbamazépine",
+      "Le valproate",
+      "Le phénobarbital",
+      "L'éthosuximide"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Le cours cite la phénytoïne comme exemple de cinétique non linéaire.",
+    "source": {
+      "page": 42,
+      "extrait": "Cinétique non linéaire (ex : phénytoïne)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "pharmacocinétique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/qcm-055",
+    "type": "multiple",
+    "enonce": "Concernant l'oxcarbazépine :",
+    "options": [
+      "C'est un céto-analogue de la carbamazépine",
+      "C'est le 10,11-dihydro-10-oxo-5H-dibenzo[b,f]azépine-5-carboxamide",
+      "Elle est utile dans le même type de crises que la carbamazépine",
+      "Elle entraîne moins d'interactions médicamenteuses",
+      "Elle est métabolisée en dérivé monohydroxylé (MHD) actif"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Oxcarbazépine : céto-analogue de la carbamazépine (10,11-dihydro-10-oxo-5H-dibenzo[b,f]azépine-5-carboxamide), même indications, moins d'interactions car rapidement métabolisée en MHD actif.",
+    "source": {
+      "page": 44,
+      "extrait": "C'est un céto-analogue de la carbamazépine"
+    },
+    "difficulte": 2,
+    "tags": [
+      "oxcarbazépine"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/qcm-056",
+    "type": "multiple",
+    "enonce": "Pourquoi l'oxcarbazépine est-elle généralement préférable à la carbamazépine ?",
+    "options": [
+      "Meilleure tolérance",
+      "Plus grande rareté des hyponatrémies induites",
+      "Moins d'interactions médicamenteuses",
+      "Elle est plus sédative",
+      "Elle est active sur les absences"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "L'oxcarbazépine est préférable en raison d'une meilleure tolérance, de la rareté des hyponatrémies induites et de moindres interactions.",
+    "source": {
+      "page": 44,
+      "extrait": "l'oxcarbazépine est préférable à la carbamazépine en raison d'une meilleure tolérance et de la plus grande rareté des hyponatrémies induites"
+    },
+    "difficulte": 2,
+    "tags": [
+      "oxcarbazépine"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/qcm-057",
+    "type": "multiple",
+    "enonce": "Concernant la gabapentine (Neurontin®) :",
+    "options": [
+      "Elle possède une analogie structurale avec le GABA",
+      "C'est un analogue du GABA",
+      "Elle a été développée comme agoniste du GABA",
+      "Son activité est modérée",
+      "Elle est utilisée essentiellement en monothérapie de première intention"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Gabapentine : analogue du GABA développé comme agoniste du GABA, d'activité modérée, utilisée essentiellement en complément (polythérapie) des crises partielles mal contrôlées.",
+    "source": {
+      "page": 45,
+      "extrait": "Possèdent une analogie structurelle avec le GABA"
+    },
+    "difficulte": 2,
+    "tags": [
+      "gabapentine"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/qcm-058",
+    "type": "unique",
+    "enonce": "L'usage thérapeutique de la gabapentine est :",
+    "options": [
+      "Complément (polythérapie) des crises partielles simples ou complexes mal contrôlées",
+      "Premier choix des absences",
+      "Monothérapie du grand mal",
+      "Traitement du status epilepticus",
+      "Traitement des crises atoniques en monothérapie"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Gabapentine : activité modérée, donc essentiellement en complément (polythérapie) des crises partielles mal contrôlées.",
+    "source": {
+      "page": 45,
+      "extrait": "essentiellement comme complément (polythérapie) des crises partielles simples ou complexes mal contrôlées"
+    },
+    "difficulte": 2,
+    "tags": [
+      "gabapentine"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/qcm-059",
+    "type": "multiple",
+    "enonce": "Concernant le felbamate (Taloxa®) :",
+    "options": [
+      "Son mécanisme est complexe",
+      "Il est antagoniste du récepteur NMDA",
+      "Il renforce la transmission GABAergique",
+      "Il est efficace sur les crises partielles",
+      "Il est dépourvu de toxicité"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Felbamate : antagoniste du récepteur NMDA (récepteur neuronal du glutamate) et renforçateur de la transmission GABAergique, efficace sur les crises partielles mais fortement toxique.",
+    "source": {
+      "page": 46,
+      "extrait": "Antagonisme du récepteur NMDA (récepteur neuronal du glutamate) Renforce la transmission GABAergique"
+    },
+    "difficulte": 2,
+    "tags": [
+      "felbamate"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/qcm-060",
+    "type": "multiple",
+    "enonce": "Limites d'utilisation du felbamate :",
+    "options": [
+      "Il induit une forte toxicité hépatique",
+      "Il induit une forte toxicité hématologique",
+      "Il est prescrit en 2e ou 3e ligne",
+      "Il est réservé aux cas réfractaires",
+      "Il est le traitement de première intention des absences"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Le felbamate induit une forte toxicité hépatique et hématologique : il est prescrit en 2e ou 3e ligne, pour les cas réfractaires.",
+    "source": {
+      "page": 46,
+      "extrait": "Mais Induit une forte toxicité hépatique et hématologique; prescrit en 2éme ou 3ème ligne pour les cas réfractaires"
+    },
+    "difficulte": 2,
+    "tags": [
+      "felbamate"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/qcm-061",
+    "type": "multiple",
+    "enonce": "Concernant la lamotrigine (Lamictal®) :",
+    "options": [
+      "C'est un dérivé phényltriazine",
+      "C'est la 3,5-diamino-6-[2,3-dichlorophényl]-1,2,4-triazine",
+      "C'est la présence de l'hétérocycle qui semble responsable de l'activité anticonvulsivante",
+      "C'est un antiépileptique de 1re génération",
+      "C'est un barbiturique"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Lamotrigine (Lamictal®) : dérivé phényltriazine, 3,5-diamino-6-[2,3-dichlorophényl]-1,2,4-triazine, antiépileptique récent de 2e génération ; l'hétérocycle semble responsable de l'activité.",
+    "source": {
+      "page": 47,
+      "extrait": "dérivé phényltriazine 3,5-diamino-6-[2,3-dichlorophenyl]-1,2,4-,triazine"
+    },
+    "difficulte": 2,
+    "tags": [
+      "lamotrigine"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/qcm-062",
+    "type": "multiple",
+    "enonce": "Mécanismes d'action de la lamotrigine :",
+    "options": [
+      "Inhibition des canaux Na+",
+      "Diminution du courant Ca++ dans les neurones thalamiques",
+      "Inhibition de la libération de glutamate",
+      "Inhibition irréversible de la GABA-transaminase",
+      "Antagonisme du récepteur NMDA"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Lamotrigine : inhibition des canaux Na+, diminution du courant Ca++ thalamique et inhibition de la libération de glutamate.",
+    "source": {
+      "page": 48,
+      "extrait": "Inhibition des canaux Na+ . Diminution du courant Ca++ dans les neurones thalamiques Inhibition de la libération de glutamate"
+    },
+    "difficulte": 1,
+    "tags": [
+      "lamotrigine"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/qcm-063",
+    "type": "multiple",
+    "enonce": "Usage thérapeutique de la lamotrigine :",
+    "options": [
+      "Alternative en monothérapie dans les épilepsies partielles résistantes",
+      "Complément en polythérapie dans les épilepsies partielles résistantes",
+      "Efficacité dans les crises généralisées avec absence",
+      "Efficacité dans les crises myocloniques",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "La lamotrigine est utilisée en monothérapie alternative ou en polythérapie dans les épilepsies partielles résistantes, avec une efficacité dans les crises généralisées avec absence et les crises myocloniques.",
+    "source": {
+      "page": 48,
+      "extrait": "Alternative (monothérapie) ou complément (polythérapie) dans les cas d'épilepsies partielles résistantes"
+    },
+    "difficulte": 2,
+    "tags": [
+      "lamotrigine"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/qcm-064",
+    "type": "multiple",
+    "enonce": "Concernant la tiagabine (Gabitril®) :",
+    "options": [
+      "Elle agit par inhibition de la recapture présynaptique du GABA",
+      "Elle pourrait aussi inhiber le catabolisme du GABA",
+      "Elle est utilisée comme adjuvant en polythérapie des crises partielles avec ou sans généralisation",
+      "Elle bloque les canaux calciques de type T",
+      "Elle est un antagoniste NMDA"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Tiagabine : inhibition de la recapture présynaptique du GABA (et peut-être de son catabolisme), adjuvant en polythérapie des crises partielles avec ou sans généralisation.",
+    "source": {
+      "page": 49,
+      "extrait": "Agit par inhibition de la recapture présynaptique du GABA mais pourrait aussi inhiber son catabolisme"
+    },
+    "difficulte": 2,
+    "tags": [
+      "tiagabine"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/qcm-065",
+    "type": "multiple",
+    "enonce": "Concernant le lévétiracétam (Keppra) :",
+    "options": [
+      "C'est une pyrrolidone",
+      "C'est l'équivalent du GABA cyclisé",
+      "Il est utilisé dans les crises partielles",
+      "Il a été introduit récemment (2001)",
+      "Il présente de très nombreuses interactions médicamenteuses"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Lévétiracétam (Keppra) : pyrrolidone, équivalent du GABA cyclisé, introduit en 2001, utilisé dans les crises partielles, avec très peu d'effets indésirables et pas d'interactions médicamenteuses.",
+    "source": {
+      "page": 51,
+      "extrait": "Pyrrolidone, équivalent du GABA cyclisé"
+    },
+    "difficulte": 2,
+    "tags": [
+      "lévétiracétam"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/qcm-066",
+    "type": "multiple",
+    "enonce": "Particularités du lévétiracétam :",
+    "options": [
+      "Très peu d'effets indésirables",
+      "Pas d'interactions médicamenteuses",
+      "Il est qualifié de prometteur",
+      "Il est de 3e génération",
+      "Il est de 1re génération"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Le lévétiracétam, antiépileptique de 3e génération, est prometteur : très peu d'effets indésirables et pas d'interactions médicamenteuses.",
+    "source": {
+      "page": 51,
+      "extrait": "Prometteur ! Très peu d'effets indésirables, pas d'interactions médicamenteuses"
+    },
+    "difficulte": 1,
+    "tags": [
+      "lévétiracétam"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/qcm-067",
+    "type": "multiple",
+    "enonce": "Concernant la prégabaline (Lyrica®) :",
+    "options": [
+      "Elle facilite la transmission GABAergique",
+      "Elle inhibe les courants Ca++ de bas seuil de type T",
+      "Elle est utilisée dans les crises partielles",
+      "Elle est utilisée dans les crises généralisées de type absences",
+      "Elle est un antagoniste NMDA"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Prégabaline (Lyrica®) : facilitation GABAergique et inhibition des courants Ca++ de type T ; indications : crises partielles et crises généralisées type absences.",
+    "source": {
+      "page": 52,
+      "extrait": "Facilite la transmission GABAergique Inhibe les courants Ca++ de bas seuil de type T"
+    },
+    "difficulte": 2,
+    "tags": [
+      "prégabaline"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/qcm-068",
+    "type": "multiple",
+    "enonce": "En résumé, les nouveaux antiépileptiques :",
+    "options": [
+      "Agissent par de nombreux mécanismes",
+      "Ont une efficacité large mais en association",
+      "Ont moins d'effets indésirables, souvent neurologiques (somnolence, vertiges)",
+      "Peuvent rarement entraîner une hépato/hématotoxicité",
+      "Ont une tératogénicité parfaitement établie"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Les nouveaux AE agissent par de nombreux mécanismes, ont une efficacité large mais en association, moins d'effets indésirables (SNC : somnolence, vertiges ; rarement hépato/hématotoxicité) ; leur tératogénicité est encore peu investiguée.",
+    "source": {
+      "page": 53,
+      "extrait": "Tératogénicité encore peu investiguée"
+    },
+    "difficulte": 2,
+    "tags": [
+      "nouveaux AE"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/qcm-069",
+    "type": "unique",
+    "enonce": "Les effets indésirables les plus fréquents des nouveaux antiépileptiques sont :",
+    "options": [
+      "Hépatotoxiques",
+      "Hématologiques",
+      "Neurologiques (somnolence, vertiges)",
+      "Cardiaques",
+      "Rénaux"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Les effets indésirables sont souvent SNC : somnolence, vertiges ; l'hépato/hématotoxicité est rare.",
+    "source": {
+      "page": 53,
+      "extrait": "souvent SNC : somnolence, vertiges. Rare: hépato/hématotoxicité"
+    },
+    "difficulte": 1,
+    "tags": [
+      "nouveaux AE"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/qcm-070",
+    "type": "multiple",
+    "enonce": "Quels antiépileptiques sont actifs sur les absences selon le cours ?",
+    "options": [
+      "Éthosuximide",
+      "Valproate",
+      "Lamotrigine",
+      "Prégabaline",
+      "Carbamazépine"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Éthosuximide (premier choix), valproate, lamotrigine et prégabaline sont actifs sur les absences ; la carbamazépine est inactive sur le petit mal.",
+    "source": {
+      "page": 34,
+      "extrait": "Crises généralisées de type absence : premier choix!"
+    },
+    "difficulte": 2,
+    "tags": [
+      "transversal"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/qcm-071",
+    "type": "multiple",
+    "enonce": "Quels antiépileptiques sont inactifs sur les absences (petit mal) ?",
+    "options": [
+      "Phénobarbital",
+      "Primidone",
+      "Phénytoïne",
+      "Carbamazépine",
+      "Éthosuximide"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Phénobarbital, primidone, phénytoïne et carbamazépine n'agissent pas sur les absences ; l'éthosuximide en est le premier choix.",
+    "source": {
+      "page": 37,
+      "extrait": "Inactif sur le petit mal"
+    },
+    "difficulte": 2,
+    "tags": [
+      "transversal"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/qcm-072",
+    "type": "multiple",
+    "enonce": "Quels antiépileptiques agissent en bloquant les canaux sodiques ?",
+    "options": [
+      "Phénytoïne",
+      "Carbamazépine",
+      "Lamotrigine",
+      "Acide valproïque",
+      "Éthosuximide"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Phénytoïne, carbamazépine, lamotrigine et acide valproïque bloquent les canaux sodiques ; l'éthosuximide agit sur le courant calcique T.",
+    "source": {
+      "page": 17,
+      "extrait": "La carbamazépine, La lamotrigine, La phénytoïne L'acide valproïque"
+    },
+    "difficulte": 1,
+    "tags": [
+      "transversal"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/qcm-073",
+    "type": "multiple",
+    "enonce": "Quels antiépileptiques diminuent le courant calcique de type T ?",
+    "options": [
+      "Éthosuximide",
+      "Valproate",
+      "Triméthadione",
+      "Lamotrigine",
+      "Phénytoïne"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Éthosuximide, valproate et triméthadione inhibent le courant T ; la lamotrigine diminue aussi le courant Ca++ dans les neurones thalamiques. La phénytoïne agit sur les canaux sodiques.",
+    "source": {
+      "page": 18,
+      "extrait": "Ethosuximide, Valproate, Triméthadione"
+    },
+    "difficulte": 3,
+    "tags": [
+      "transversal"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/qcm-074",
+    "type": "multiple",
+    "enonce": "Quels antiépileptiques agissent sur le métabolisme ou la recapture du GABA ?",
+    "options": [
+      "Vigabatrine",
+      "Tiagabine",
+      "Valproate (inhibition de la GABA-transaminase)",
+      "Phénytoïne",
+      "Carbamazépine"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Vigabatrine (inhibition irréversible de la GABA-transaminase), tiagabine (inhibition de la recapture) et valproate (inhibition de la GABA-transaminase).",
+    "source": {
+      "page": 21,
+      "extrait": "Vigabatrine : inhibe de façon irréversible le GABA-transaminase"
+    },
+    "difficulte": 2,
+    "tags": [
+      "transversal"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/qcm-075",
+    "type": "multiple",
+    "enonce": "Quels antiépileptiques agissent sur les récepteurs GABA(A) post-synaptiques ?",
+    "options": [
+      "Les benzodiazépines",
+      "Les barbituriques",
+      "Le phénobarbital",
+      "La primidone (via le phénobarbital et une action sur GABA-A)",
+      "L'éthosuximide"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "BZD et barbituriques agissent sur les récepteurs GABAA post-synaptiques ; la primidone renforce l'inhibition synaptique via le récepteur GABA-A.",
+    "source": {
+      "page": 20,
+      "extrait": "Médicaments agissant sur les récepteurs GABAa postsynaptiques: Les BZD et les barbituriques"
+    },
+    "difficulte": 2,
+    "tags": [
+      "transversal"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/qcm-076",
+    "type": "multiple",
+    "enonce": "Associez correctement le médicament à sa famille chimique :",
+    "options": [
+      "Phénytoïne : hydantoïne",
+      "Éthosuximide : succinimide",
+      "Carbamazépine : iminostilbène",
+      "Primidone : désoxybarbiturique",
+      "Lamotrigine : hydantoïne"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "La lamotrigine est un dérivé phényltriazine.",
+    "source": {
+      "page": 47,
+      "extrait": "dérivé phényltriazine"
+    },
+    "difficulte": 1,
+    "tags": [
+      "transversal"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/qcm-077",
+    "type": "multiple",
+    "enonce": "Associez correctement DCI et nom déposé :",
+    "options": [
+      "Phénobarbital : Gardénal®",
+      "Primidone : Mysoline®",
+      "Phénytoïne : Di-hydan®",
+      "Éthosuximide : Zarontin®",
+      "Carbamazépine : Lamictal®"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Carbamazépine = Tégrétol® ; Lamictal® = lamotrigine.",
+    "source": {
+      "page": 35,
+      "extrait": "Carbamazépine : Tegretol ®"
+    },
+    "difficulte": 1,
+    "tags": [
+      "spécialités"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/qcm-078",
+    "type": "multiple",
+    "enonce": "Quelles molécules dérivent du noyau dibenzo[b,f]azépine ?",
+    "options": [
+      "Carbamazépine",
+      "Oxcarbazépine",
+      "Phénytoïne",
+      "Éthosuximide",
+      "Lamotrigine"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Carbamazépine (5H-dibenzo[b,f]azépine-5-carboxamide) et oxcarbazépine (son céto-analogue) dérivent du dibenzo[b,f]azépine (iminostilbène).",
+    "source": {
+      "page": 44,
+      "extrait": "10,11-dihydro-10-oxo-5H-dibenzo[b,f]azépine-5-carboxamide"
+    },
+    "difficulte": 2,
+    "tags": [
+      "transversal"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/qcm-079",
+    "type": "multiple",
+    "enonce": "Quels antiépileptiques sont des prodrogues ou donnent un métabolite actif ?",
+    "options": [
+      "La primidone, prodrogue du phénobarbital",
+      "L'oxcarbazépine, métabolisée en dérivé monohydroxylé actif",
+      "L'éthosuximide",
+      "La phénytoïne",
+      "La tiagabine"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "La primidone est une prodrogue du phénobarbital ; l'oxcarbazépine est rapidement métabolisée en MHD actif.",
+    "source": {
+      "page": 30,
+      "extrait": "La primidone ou 2-désoxyphénobarbital est une prodrogue du phénobarbital"
+    },
+    "difficulte": 2,
+    "tags": [
+      "transversal"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/qcm-080",
+    "type": "multiple",
+    "enonce": "Quel antiépileptique possède le spectre d'activité le plus large selon le cours ?",
+    "options": [
+      "Le valproate (tonico-cloniques, myocloniques, atoniques, absences, partielles)",
+      "L'éthosuximide",
+      "La carbamazépine",
+      "La phénytoïne",
+      "La gabapentine"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Le valproate est actif dans les crises généralisées tonico-cloniques, myocloniques, atoniques, les absences et les crises partielles.",
+    "source": {
+      "page": 41,
+      "extrait": "Actif dans les crises généralisées tonico-cloniques Crises myocloniques , atoniques et absences Crises partielles"
+    },
+    "difficulte": 2,
+    "tags": [
+      "transversal"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/qcm-081",
+    "type": "multiple",
+    "enonce": "Cochez les propositions exactes concernant les hydantoïnes et leurs analogues :",
+    "options": [
+      "Remplacer le –NH– par un –O– donne une oxazolidine-dione",
+      "Remplacer le –NH– par un –CH2– donne un succinimide",
+      "La phénytoïne est le chef de file des hydantoïnes",
+      "La triméthadione est une oxazolidine-dione",
+      "L'éthosuximide est une oxazolidine-dione"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "L'éthosuximide est un succinimide (–CH2–), la triméthadione une oxazolidine-dione (–O–).",
+    "source": {
+      "page": 34,
+      "extrait": "Par le remplacement du -NH- de l'hydantoine par un –CH2-"
+    },
+    "difficulte": 2,
+    "tags": [
+      "structure générale"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/qcm-082",
+    "type": "unique",
+    "enonce": "Le mécanisme d'action du felbamate repose notamment sur :",
+    "options": [
+      "L'antagonisme du récepteur NMDA",
+      "L'inhibition de la GABA-transaminase",
+      "Le blocage des canaux calciques L",
+      "L'inhibition de la recapture du GABA",
+      "L'agonisme des récepteurs 5-HT2A"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Le felbamate est un antagoniste du récepteur NMDA (récepteur neuronal du glutamate) et renforce la transmission GABAergique.",
+    "source": {
+      "page": 46,
+      "extrait": "Antagonisme du récepteur NMDA (récepteur neuronal du glutamate)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "felbamate"
+    ],
+    "origine": "genere"
+  }
+]

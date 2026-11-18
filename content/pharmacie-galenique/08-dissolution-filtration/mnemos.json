@@ -1,0 +1,26 @@
+[
+  {
+    "id": "pharmacie-galenique/08-dissolution-filtration/mnemo-001",
+    "titre": "Procédés extractifs par température croissante",
+    "moyen": "« Ma Digestion Infuse la Décoction » : Macération (ambiante) → Digestion (60 °C) → Infusion (eau bouillante puis refroidissement) → Décoction (ébullition maintenue)",
+    "explication": "Macération à T° ambiante, digestion à 60 °C, infusion à l'eau bouillante qu'on laisse refroidir, décoction à ébullition 15–30 min. La percolation se fait à froid."
+  },
+  {
+    "id": "pharmacie-galenique/08-dissolution-filtration/mnemo-002",
+    "titre": "Leviers de la dissolution",
+    "moyen": "« SAT » : Surface, Agitation, Température",
+    "explication": "↑ Surface (micronisation), Agitation (↓h), Température (↑Cs, ↑D) ; l'ennemi est la viscosité."
+  },
+  {
+    "id": "pharmacie-galenique/08-dissolution-filtration/mnemo-003",
+    "titre": "pH et ionisation",
+    "moyen": "« Acide monte, Base descend »",
+    "explication": "Acide faible : augmenter le pH favorise l'ionisation ; base faible : diminuer le pH favorise l'ionisation."
+  },
+  {
+    "id": "pharmacie-galenique/08-dissolution-filtration/mnemo-004",
+    "titre": "Spectre de filtration",
+    "moyen": "« Clair Micro Ultra Osmose : 10 – 0,1 – 0,001 »",
+    "explication": "Clarifiante > 10 µm ; microfiltration 0,1–10 µm ; ultrafiltration 0,001–0,1 µm ; osmose inverse < 0,001 µm."
+  }
+]

@@ -1,0 +1,212 @@
+[
+  {
+    "id": "pharmacie-galenique/09-granulation/flashcard-001",
+    "recto": "Granulation (définition)",
+    "verso": "Transformation de particules de poudre fines en agrégats solides, denses, résistants et poreux (granulés ou grains).",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/flashcard-002",
+    "recto": "Six intérêts de la granulation",
+    "verso": "Écoulement, homogénéité (pas de ségrégation), compression, densification, limitation des risques (poussières, contamination croisée), mouillabilité.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/flashcard-003",
+    "recto": "Quatre familles de procédés",
+    "verso": "Voie humide (la plus utilisée), voie sèche, fusion, atomisation.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/flashcard-004",
+    "recto": "Granulation par fusion",
+    "verso": "Liant fondu (PEG, cires) refroidi ; sans solvant ; pour actifs trop solubles dans les liquides de mouillage.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/flashcard-005",
+    "recto": "Atomisation",
+    "verso": "Solution ou suspension pulvérisée dans l'air chaud ; séchage quasi instantané ; grains sphériques.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/flashcard-006",
+    "recto": "Quatre mécanismes de cohésion",
+    "verso": "Ponts liquides, ponts solides, forces intermoléculaires, emboîtement mécanique.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/flashcard-007",
+    "recto": "Origines des ponts solides",
+    "verso": "Séchage d'un liant, recristallisation d'un soluté, fusion d'un liant puis refroidissement.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/flashcard-008",
+    "recto": "États du liquide (teneur croissante)",
+    "verso": "Pendulaire → funiculaire → capillaire → goutte.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/flashcard-009",
+    "recto": "État recherché en voie humide",
+    "verso": "État capillaire : pores saturés, cohésion maximale.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/flashcard-010",
+    "recto": "État goutte",
+    "verso": "Surmouillage : cohésion chute, masse pâteuse et collante, granulé inexploitable.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/flashcard-011",
+    "recto": "Trois phases de formation du granulé",
+    "verso": "Nucléation (mouillage), transition, grossissement (ball growth).",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/flashcard-012",
+    "recto": "Sur-granulation",
+    "verso": "Excès de liant ou granulation trop longue → croissance incontrôlée, gros agglomérats.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/flashcard-013",
+    "recto": "Sept opérations de la voie humide",
+    "verso": "Mélange, mouillage, granulation, séchage, calibrage, ajout lubrifiant/désintégrant, compression.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/flashcard-014",
+    "recto": "Mono-pot",
+    "verso": "Mélange, mouillage, granulation, séchage sous vide avec chauffage dans une même cuve ; limite transferts et poussières ; coûteux.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/flashcard-015",
+    "recto": "Paramètres du mouillage",
+    "verso": "Quantité de liquide/liant, temps de mouillage, débit et vitesse d'ajout.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/flashcard-016",
+    "recto": "PVP (povidone)",
+    "verso": "Liant très utilisé, environ 0,5 à 5 %, en solution aqueuse ou hydroalcoolique.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/flashcard-017",
+    "recto": "Gélatine (liant)",
+    "verso": "Solution aqueuse chaude ; liaison forte, granulés durs.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/flashcard-018",
+    "recto": "Liants ajoutables à sec",
+    "verso": "Amidon prégélatinisé, PVP, HPMC (activés par l'eau).",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/flashcard-019",
+    "recto": "Granulateur oscillant",
+    "verso": "Barres en va-et-vient, grille semi-cylindrique horizontale ; le plus utilisé ; grains poreux séchant vite.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/flashcard-020",
+    "recto": "Granulateur rotatif",
+    "verso": "Vis sans fin ou rotor à pales, grille perforée ; grains moins poreux en vermicelles.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/flashcard-021",
+    "recto": "Haut taux de cisaillement",
+    "verso": "Cuve fermée, pale (brassage, densification) + couteau (fragmente) ; rapide, granulés denses, peu de liant ; risque de sur-granulation.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/flashcard-022",
+    "recto": "CPP vs CQA",
+    "verso": "CPP : ce que l'opérateur règle (liant, débit, vitesses, temps, air). CQA : ce qu'on veut obtenir (granulométrie, densité, friabilité, humidité, écoulement).",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/flashcard-023",
+    "recto": "Test de la boule",
+    "verso": "Masse humide serrée dans la main : forme une boule qui se tient puis se brise sous légère pression → point final.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/flashcard-024",
+    "recto": "Humidité résiduelle cible",
+    "verso": "Souvent 1 à 3 %, mesurée par perte à la dessiccation.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/flashcard-025",
+    "recto": "Risques du séchage",
+    "verso": "Migration des solutés, sur-séchage (friabilité), dégradation thermique.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/flashcard-026",
+    "recto": "Phase externe du mélange final",
+    "verso": "Lubrifiant (stéarate de magnésium), glissant, désintégrant extragranulaire ; lubrifiant en dernier, mélange court.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/flashcard-027",
+    "recto": "Deux techniques de voie sèche",
+    "verso": "Compactage à rouleaux (ruban) ; double compression (briquetage, slugging).",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/flashcard-028",
+    "recto": "Indications et limites de la voie sèche",
+    "verso": "PA sensibles à l'eau ou à la chaleur ; poussières, fines à recycler, poudre moins compressible.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/flashcard-029",
+    "recto": "Compression directe",
+    "verso": "Pas une granulation ; poudres comprimées telles quelles ; risque de ségrégation.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/flashcard-030",
+    "recto": "Essai d'écoulement",
+    "verso": "100 g de poudre non tassée, entonnoir normalisé, 3 essais ; critère t < 10 s, sinon lubrifiant d'écoulement.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/flashcard-031",
+    "recto": "Essai de tassement",
+    "verso": "Éprouvette 250 mL, 100 g, voluménomètre ; V0, V10, V500, V1250 ; 3 essais.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/flashcard-032",
+    "recto": "Angle de repos",
+    "verso": "tg α = h/r ; plus il est petit, meilleur est l'écoulement (25–30° = excellent).",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/flashcard-033",
+    "recto": "Indice de Hausner",
+    "verso": "H = ρtassée / ρapparente ; > 1,25 = écoulement généralement difficile.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/flashcard-034",
+    "recto": "Indice de Carr",
+    "verso": "IC = 100 × (ρtassée − ρapparente) / ρtassée ; ≤ 10 % = excellent.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/flashcard-035",
+    "recto": "Granulés durs, dissolution lente",
+    "verso": "Excès de liant ou malaxage trop long → réduire liant ou temps.",
+    "tags": []
+  }
+]

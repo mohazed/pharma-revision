@@ -1,0 +1,127 @@
+[
+  {
+    "id": "chimie-analytique/03-extractions-repetees/cas-001",
+    "titre": "Optimisation de l'extraction d'un principe actif",
+    "enonce": "Un laboratoire dispose de 40 mL de chloroforme pour extraire une substance X (λ = 9) contenue dans 50 mL de solution aqueuse à 0,5 mg/mL.",
+    "questions": [
+      {
+        "type": "unique",
+        "enonce": "La quantité initiale de X est :",
+        "options": [
+          "0,5 mg",
+          "25 mg",
+          "20 mg",
+          "50 mg",
+          "100 mg"
+        ],
+        "correctes": [
+          1
+        ],
+        "explication": "QA0 = 0,5 × 50 = 25 mg.",
+        "difficulte": 1,
+        "origine": "genere",
+        "id": "chimie-analytique/03-extractions-repetees/cas-001-q1"
+      },
+      {
+        "type": "unique",
+        "enonce": "En une seule extraction (40 mL), il reste en phase aqueuse environ :",
+        "options": [
+          "3,05 mg",
+          "1,18 mg",
+          "0,41 mg",
+          "0,15 mg",
+          "12,5 mg"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "α = 7,2 ; QA1 = 25/8,2 ≈ 3,05 mg.",
+        "difficulte": 2,
+        "origine": "genere",
+        "id": "chimie-analytique/03-extractions-repetees/cas-001-q2"
+      },
+      {
+        "type": "multiple",
+        "enonce": "En 4 extractions de 10 mL :",
+        "options": [
+          "α = 1,8 à chaque étage",
+          "Il reste environ 0,41 mg",
+          "Le rendement est d'environ 98,4 %",
+          "Le rendement est inférieur à celui d'une extraction unique",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "α = 9 × 10/50 = 1,8 ; QA4 = 25/2,8⁴ ≈ 0,41 mg ; ρ ≈ 98,4 %.",
+        "difficulte": 2,
+        "origine": "genere",
+        "id": "chimie-analytique/03-extractions-repetees/cas-001-q3"
+      },
+      {
+        "type": "multiple",
+        "enonce": "Pourquoi ne pas fractionner indéfiniment le volume ?",
+        "options": [
+          "Le temps perdu croît avec n",
+          "Le gain de rendement devient de plus en plus faible",
+          "Le rendement diminue au-delà de 4 étages",
+          "λ diminue",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0,
+          1
+        ],
+        "explication": "Le rendement croît toujours avec n mais de moins en moins, alors que le temps perdu augmente : il faut optimiser.",
+        "difficulte": 3,
+        "origine": "genere",
+        "id": "chimie-analytique/03-extractions-repetees/cas-001-q4"
+      }
+    ]
+  },
+  {
+    "id": "chimie-analytique/03-extractions-repetees/cas-002",
+    "titre": "Extraction continue d'une substance fragile",
+    "enonce": "On souhaite extraire en continu une substance thermolabile d'une solution aqueuse par un solvant plus léger que l'eau.",
+    "questions": [
+      {
+        "type": "unique",
+        "enonce": "L'appareil classique utilisé est :",
+        "options": [
+          "Un perforateur de Jalade",
+          "Un entonnoir de Buchner",
+          "Un évaporateur rotatif",
+          "Une colonne à contre-courant uniquement",
+          "Une ultracentrifugeuse"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Les appareils d'extraction continue dérivent des perforateurs de Jalade.",
+        "difficulte": 1,
+        "origine": "genere",
+        "id": "chimie-analytique/03-extractions-repetees/cas-002-q1"
+      },
+      {
+        "type": "unique",
+        "enonce": "Le risque principal pour la substance est :",
+        "options": [
+          "L'altération par le chauffage de l'extrait",
+          "Une consommation excessive de solvant",
+          "L'oxydation par le solvant pur",
+          "La formation de chélates",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "L'extrait est chauffé (distillation du solvant), avec risque d'altération des substances fragiles.",
+        "difficulte": 2,
+        "origine": "genere",
+        "id": "chimie-analytique/03-extractions-repetees/cas-002-q2"
+      }
+    ]
+  }
+]

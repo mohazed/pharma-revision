@@ -1,0 +1,65 @@
+{
+  "id": "pharmacologie/09-biodisponibilite/fiche-001",
+  "titre": "La biodisponibilité",
+  "sections": [
+    {
+      "titre": "Introduction et définition",
+      "points": [
+        "Effet ∝ concentration dans la **biophase**, en relation directe avec les concentrations sanguines.",
+        "S'applique aux médicaments systémiques avec étape d'absorption (voies indirectes).",
+        "Née de l'observation d'accidents toxiques (surdosage) et d'inefficacité (sous-dosage).",
+        "Définition : **quantité relative** de PA absorbé atteignant la circulation systémique **et vitesse** du phénomène.",
+        "Vitesse normale → réponse ; rapide → effets toxiques ; lente → inefficacité/retard."
+      ]
+    },
+    {
+      "titre": "Raisons des études",
+      "points": [
+        "Choix de la meilleure forme (nouveau PA) ; modification de quantité, formule, voie, posologie.",
+        "Influence des facteurs physiologiques, pathologiques, rythmes circadiens, interactions.",
+        "Évaluation de la bioéquivalence."
+      ]
+    },
+    {
+      "titre": "Modalités",
+      "points": [
+        "Mesure **in vivo**, phase I, volontaires sains.",
+        "Sang total, plasma, salive, urines…",
+        "Dose unique, suivi pendant au moins **3 à 5 T1/2**.",
+        "Quantitatif : AUC (le plus important), Cmax ; cinétique : Ka, Tmax (∝ 1/vitesse), Cmax."
+      ]
+    },
+    {
+      "titre": "Biodisponibilité absolue",
+      "points": [
+        "Référence : solution IV (F = 1) ; même sujet, même dose, même PA.",
+        "F = ASC orale/ASC IV ; si doses différentes (PK linéaire) : F = ASC orale × dose IV/(ASC IV × dose orale).",
+        "Q = dose × F ; F proche de 1 = bonne ; limite inférieure **0,75** ; F ≈ 0 → voie inadaptée.",
+        "Impossible si pas de solution IV → biodisponibilité relative."
+      ]
+    },
+    {
+      "titre": "Biodisponibilité relative",
+      "points": [
+        "Comparaison à une forme de référence (identique ou différente).",
+        "Obligatoire : changement de formulation, nouvelle forme galénique, générique.",
+        "BR = ASC forme 1/ASC réf × 100 ; + égalité Cmax, Tmax, temps de latence.",
+        "Intérêt : comparer deux voies ; bioéquivalence générique/princeps."
+      ]
+    }
+  ],
+  "aRetenir": [
+    "AUC = paramètre le plus important",
+    "Tmax inversement proportionnel à la vitesse",
+    "F limite 0,75",
+    "Q = dose × F",
+    "BR = ASC1/ASCréf × 100"
+  ],
+  "pieges": [
+    "Biodisponibilité = quantité ET vitesse (pas seulement quantité).",
+    "Mesure in vivo (pas in vitro).",
+    "La Cmax reflète à la fois la quantité et la vitesse.",
+    "AUC égales ≠ bioéquivalence (courbes non superposables).",
+    "Dans F corrigée, la dose IV est au numérateur et la dose orale au dénominateur."
+  ]
+}

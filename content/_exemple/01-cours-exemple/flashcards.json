@@ -1,0 +1,6 @@
+[
+  { "id": "_exemple/01-cours-exemple/flashcard-001", "recto": "Formule de la demi-vie (ordre un)", "verso": "t½ = 0,693 / ke", "tags": [] },
+  { "id": "_exemple/01-cours-exemple/flashcard-002", "recto": "Volume de distribution après bolus IV", "verso": "Vd = Dose / C0", "tags": [] },
+  { "id": "_exemple/01-cours-exemple/flashcard-003", "recto": "Référence de la biodisponibilité absolue", "verso": "La voie **intraveineuse** (F = 100 %)", "tags": [] },
+  { "id": "_exemple/01-cours-exemple/flashcard-004", "recto": "Loi qui régit la diffusion passive", "verso": "La loi de Fick", "tags": [] }
+]

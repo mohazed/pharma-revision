@@ -1,0 +1,2399 @@
+[
+  {
+    "id": "pharmacologie/06-elimination/qcm-001",
+    "type": "multiple",
+    "enonce": "Concernant la définition de l'élimination des médicaments :",
+    "options": [
+      "Elle correspond à l'ensemble des processus par lesquels le PA disparaît de l'organisme",
+      "Elle peut concerner le PA inchangé",
+      "Elle peut concerner les métabolites du PA",
+      "Elle peut concerner à la fois le PA inchangé et ses métabolites",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "a) Juste : c'est la définition donnée par le cours. b), c) et d) Justes : le cours précise que l'élimination porte sur le PA inchangé, sur ses métabolites ou sur les deux formes. e) Juste, puisque a à d sont toutes correctes.",
+    "source": {
+      "page": 5,
+      "extrait": "l'ensemble des processus par lesquels le PA disparait de l'organisme"
+    },
+    "difficulte": 1,
+    "tags": [
+      "définition",
+      "introduction"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/06-elimination/qcm-002",
+    "type": "unique",
+    "enonce": "Dans le devenir du médicament dans l'organisme, l'élimination correspond à :",
+    "options": [
+      "La première étape, précédant l'absorption",
+      "L'étape intermédiaire entre absorption et distribution",
+      "La dernière étape du séjour du médicament dans l'organisme",
+      "Une étape exclusivement hépatique",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Le cours (conclusion) définit l'élimination comme la dernière étape du séjour du médicament dans l'organisme, après absorption, distribution et métabolisme. a) et b) Fausses : ordre inversé. d) Fausse : l'élimination fait intervenir plusieurs organes (rein, foie/bile, poumon, lait…). e) Fausse car c est juste.",
+    "source": {
+      "page": 44,
+      "extrait": "Elimination: dernière étape du séjour du médicament dans l'organisme."
+    },
+    "difficulte": 1,
+    "tags": [
+      "introduction",
+      "conclusion"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/06-elimination/qcm-003",
+    "type": "multiple",
+    "enonce": "Concernant l'élimination rénale des médicaments :",
+    "options": [
+      "C'est la principale voie d'excrétion des médicaments",
+      "Le rein reçoit un apport sanguin important d'environ 1400 ml/min",
+      "L'unité fonctionnelle du rein est le néphron",
+      "C'est une voie accessoire d'élimination",
+      "L'apport sanguin rénal est d'environ 140 ml/min"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "a) Juste : le rein est la principale voie d'excrétion des médicaments. b) Juste : l'apport sanguin rénal est important, ≈1400 ml/min. c) Juste : l'unité fonctionnelle est le néphron. d) Fausse : c'est la voie principale, non accessoire (les voies lactée et sudorale sont dites accessoires). e) Fausse : le chiffre est ≈1400 ml/min et non 140.",
+    "source": {
+      "page": 7,
+      "extrait": "Principale voie d'excrétion des médicaments"
+    },
+    "difficulte": 1,
+    "tags": [
+      "élimination rénale"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/06-elimination/qcm-004",
+    "type": "multiple",
+    "enonce": "Les trois processus impliqués dans l'élimination rénale des médicaments décrits dans le cours sont :",
+    "options": [
+      "La filtration glomérulaire",
+      "La sécrétion tubulaire",
+      "La réabsorption tubulaire",
+      "La déconjugaison bactérienne",
+      "L'excrétion biliaire"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Le cours décrit A. la filtration glomérulaire, B. la sécrétion tubulaire et C. la réabsorption tubulaire. d) Fausse : la déconjugaison par les bactéries du côlon intervient dans le cycle entéro-hépatique. e) Fausse : l'excrétion biliaire relève de l'élimination digestive.",
+    "source": {
+      "page": 12,
+      "extrait": "A. Filtration glomérulaire"
+    },
+    "difficulte": 1,
+    "tags": [
+      "élimination rénale"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/06-elimination/qcm-005",
+    "type": "multiple",
+    "enonce": "La filtration glomérulaire :",
+    "options": [
+      "Dépend de la taille de la molécule",
+      "Concerne les médicaments de PM < 68 000 Da",
+      "Ne concerne que la fraction libre du médicament",
+      "Est un mécanisme actif",
+      "Concerne les médicaments de PM > 68 000 Da"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "a) et b) Justes : la filtration dépend de la taille, les médicaments filtrés ont un PM < 68 000 Da. c) Juste : seule la fraction libre est filtrée par le glomérule. d) Fausse : c'est un mécanisme passif. e) Fausse : piège sur le sens de l'inégalité (< et non >).",
+    "source": {
+      "page": 12,
+      "extrait": "Dépend de la taille: PMmédicaments < 68000 Da"
+    },
+    "difficulte": 1,
+    "tags": [
+      "filtration glomérulaire"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/06-elimination/qcm-006",
+    "type": "unique",
+    "enonce": "La filtration glomérulaire des médicaments est un mécanisme :",
+    "options": [
+      "Actif, saturable",
+      "Passif",
+      "Par compétition entre médicaments",
+      "Actif, nécessitant des transporteurs sélectifs",
+      "Actif et passif"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Le cours précise que la filtration glomérulaire est un mécanisme passif. Les caractères « transporteurs sélectifs, saturation, compétition » sont ceux de la sécrétion tubulaire (mécanisme actif). La réabsorption tubulaire, elle, fait intervenir des mécanismes actif et passif.",
+    "source": {
+      "page": 12,
+      "extrait": "Mécanisme passif"
+    },
+    "difficulte": 1,
+    "tags": [
+      "filtration glomérulaire"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/06-elimination/qcm-007",
+    "type": "multiple",
+    "enonce": "Concernant la filtration glomérulaire et la liaison aux protéines plasmatiques :",
+    "options": [
+      "Seule la fraction libre est filtrée par le glomérule",
+      "La fraction liée aux protéines plasmatiques est filtrée",
+      "Les deux fractions, libre et liée, sont filtrées de façon identique",
+      "La fixation aux protéines plasmatiques limite la filtration glomérulaire",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      0,
+      3
+    ],
+    "explication": "a) Juste : seule la fraction libre est filtrée. b) et c) Fausses : la fraction liée n'est pas filtrée. d) Juste : puisque seule la fraction libre passe, la fixation aux protéines plasmatiques limite la quantité filtrée. e) Fausse car a et d sont justes.",
+    "source": {
+      "page": 12,
+      "extrait": "Seule la fraction libre est filtrée par le glomérule"
+    },
+    "difficulte": 2,
+    "tags": [
+      "filtration glomérulaire",
+      "liaison protéique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/06-elimination/qcm-008",
+    "type": "multiple",
+    "enonce": "Un médicament de poids moléculaire égal à 80 000 Da :",
+    "options": [
+      "Sera filtré par le glomérule",
+      "Ne sera pas filtré par le glomérule",
+      "Sera filtré uniquement sous forme liée",
+      "Sera filtré car la filtration est un mécanisme passif",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Le cours limite la filtration glomérulaire aux médicaments de PM < 68 000 Da. Un PM de 80 000 Da dépasse ce seuil : la molécule n'est pas filtrée (b). a) et d) Fausses : le caractère passif ne lève pas la limite de taille. c) Fausse : seule la fraction libre est filtrée. e) Fausse car b est juste.",
+    "source": {
+      "page": 12,
+      "extrait": "Dépend de la taille: PMmédicaments < 68000 Da"
+    },
+    "difficulte": 2,
+    "tags": [
+      "filtration glomérulaire"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/06-elimination/qcm-009",
+    "type": "multiple",
+    "enonce": "La sécrétion tubulaire :",
+    "options": [
+      "Correspond au transport des substances du liquide péritubulaire vers le liquide tubulaire",
+      "Se déroule au niveau du tube contourné proximal (TCP)",
+      "Concerne la fraction hydrosoluble ionisée",
+      "Est un mécanisme passif",
+      "Concerne la fraction liposoluble non ionisée"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "a) Juste : définition du cours. b) Juste : elle a lieu au niveau du TCP. c) Juste : elle concerne la fraction hydrosoluble ionisée. d) Fausse : c'est un mécanisme actif (transporteurs sélectifs, saturation, compétition). e) Fausse : la fraction liposoluble non ionisée est celle concernée par la réabsorption passive.",
+    "source": {
+      "page": 15,
+      "extrait": "Transport des substances du liquide péritubulaire vers le liquide tubulaire"
+    },
+    "difficulte": 1,
+    "tags": [
+      "sécrétion tubulaire"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/06-elimination/qcm-010",
+    "type": "multiple",
+    "enonce": "Les caractéristiques du mécanisme de la sécrétion tubulaire sont :",
+    "options": [
+      "Mécanisme actif",
+      "Transporteurs sélectifs",
+      "Phénomène de saturation",
+      "Phénomène de compétition",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le cours décrit la sécrétion tubulaire comme un mécanisme actif faisant intervenir des transporteurs sélectifs, avec possibilité de saturation et de compétition. a, b, c et d sont donc justes, et e) « Toutes les propositions sont correctes » est juste.",
+    "source": {
+      "page": 15,
+      "extrait": "Mécanisme actif (transporteurs sélectifs , saturation , compétition)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "sécrétion tubulaire"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/06-elimination/qcm-011",
+    "type": "unique",
+    "enonce": "La sécrétion tubulaire a lieu principalement au niveau :",
+    "options": [
+      "De l'anse de Henlé",
+      "Du tube contourné proximal (TCP)",
+      "Du glomérule",
+      "Du tube contourné distal (TCD)",
+      "Du tube collecteur"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Le cours situe la sécrétion tubulaire au niveau du TCP (tube contourné proximal). Le glomérule est le siège de la filtration ; le TCD et le tube collecteur sont le siège de la réabsorption passive.",
+    "source": {
+      "page": 15,
+      "extrait": "TCP (Tube Contourné Proximal)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "sécrétion tubulaire"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/06-elimination/qcm-012",
+    "type": "multiple",
+    "enonce": "L'association probénécide – pénicilline G :",
+    "options": [
+      "Illustre la compétition au niveau de la sécrétion tubulaire",
+      "Retarde l'élimination de la pénicilline G",
+      "Accélère l'élimination de la pénicilline G",
+      "Illustre le caractère actif de la sécrétion tubulaire",
+      "Illustre la compétition au niveau de la filtration glomérulaire"
+    ],
+    "correctes": [
+      0,
+      1,
+      3
+    ],
+    "explication": "Le cours illustre la sécrétion tubulaire (mécanisme actif avec transporteurs sélectifs, saturation, compétition) par l'exemple probénécide / pénicilline G : le probénécide retarde l'élimination de la pénicilline G. a, b et d sont justes. c) Fausse : l'élimination est retardée, pas accélérée. e) Fausse : la filtration est passive, sans compétition.",
+    "source": {
+      "page": 16,
+      "extrait": "Probénicide Pénicilline G Retarde l'élimination"
+    },
+    "difficulte": 2,
+    "tags": [
+      "sécrétion tubulaire",
+      "interactions"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/06-elimination/qcm-013",
+    "type": "multiple",
+    "enonce": "Parmi les propositions suivantes, laquelle (lesquelles) caractérise(nt) la sécrétion tubulaire et non la filtration glomérulaire ?",
+    "options": [
+      "Mécanisme actif",
+      "Possibilité de saturation",
+      "Seule la fraction libre est concernée",
+      "Dépend de la taille (PM < 68 000 Da)",
+      "Possibilité de compétition entre médicaments"
+    ],
+    "correctes": [
+      0,
+      1,
+      4
+    ],
+    "explication": "a), b) et e) Justes : actif, saturable et sujet à compétition sont les caractéristiques de la sécrétion tubulaire. c) et d) Fausses : « seule la fraction libre est filtrée » et la dépendance à la taille (PM < 68 000 Da) caractérisent la filtration glomérulaire.",
+    "source": {
+      "page": 15,
+      "extrait": "Mécanisme actif (transporteurs sélectifs , saturation , compétition)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "sécrétion tubulaire",
+      "filtration glomérulaire"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/06-elimination/qcm-014",
+    "type": "multiple",
+    "enonce": "La réabsorption tubulaire :",
+    "options": [
+      "Correspond au passage d'une molécule de la lumière tubulaire du néphron vers le sang",
+      "Fait intervenir des mécanismes actif et passif",
+      "Correspond au passage du sang vers la lumière tubulaire",
+      "Est exclusivement passive",
+      "Est exclusivement active"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "a) Juste : définition du cours. b) Juste : la réabsorption fait intervenir des mécanismes actif et passif. c) Fausse : c'est le sens inverse (le passage vers le liquide tubulaire correspond à la sécrétion). d) et e) Fausses : le mot « exclusivement » est piégeux, les deux mécanismes coexistent.",
+    "source": {
+      "page": 18,
+      "extrait": "Passage d'une molécule de la lumière tubulaire du néphron vers le sang."
+    },
+    "difficulte": 1,
+    "tags": [
+      "réabsorption tubulaire"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/06-elimination/qcm-015",
+    "type": "multiple",
+    "enonce": "La réabsorption tubulaire active :",
+    "options": [
+      "Se déroule au niveau du TCP",
+      "Nécessite de l'énergie",
+      "Concerne des substances endogènes comme le sodium, le potassium, l'acide urique, le glucose et les acides aminés",
+      "Concerne des médicaments dont la structure est proche de celle des acides aminés, comme l'α-méthyldopa",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le cours décrit la réabsorption active au niveau du TCP, consommatrice d'énergie, concernant des substances endogènes (sodium, potassium, acide urique, glucose, acides aminés) et des médicaments de structure proche des AA (α-méthyldopa). Toutes les propositions a–d sont justes, donc e est juste.",
+    "source": {
+      "page": 18,
+      "extrait": "Médicaments dont la structure est proche de celle des AA"
+    },
+    "difficulte": 2,
+    "tags": [
+      "réabsorption tubulaire",
+      "réabsorption active"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/06-elimination/qcm-016",
+    "type": "unique",
+    "enonce": "Un exemple de médicament réabsorbé activement au niveau tubulaire, en raison de sa structure proche de celle des acides aminés, est :",
+    "options": [
+      "L'α-méthyldopa",
+      "La pénicilline G",
+      "La streptomycine",
+      "La quinine",
+      "La digoxine"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Le cours cite l'α-méthyldopa comme médicament de structure proche des acides aminés réabsorbé activement au TCP. La pénicilline G est citée pour la sécrétion tubulaire, la streptomycine pour la diffusion passive dans la bile, la digoxine pour les sécrétions intestinales et la quinine pour l'excrétion gastrique.",
+    "source": {
+      "page": 18,
+      "extrait": "Médicaments dont la structure est proche de celle des AA"
+    },
+    "difficulte": 2,
+    "tags": [
+      "réabsorption active"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/06-elimination/qcm-017",
+    "type": "multiple",
+    "enonce": "La réabsorption tubulaire passive :",
+    "options": [
+      "Se déroule au niveau du TCD et du tube collecteur",
+      "Dépend des propriétés physicochimiques de la molécule",
+      "Concerne les molécules liposolubles non ionisées",
+      "Dépend du pH urinaire et du pKa de la molécule",
+      "Concerne les molécules hydrosolubles ionisées"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "a) à d) Justes : le cours situe la réabsorption passive au TCD et au TC, elle dépend des propriétés physicochimiques de la molécule, concerne les molécules liposolubles non ionisées et dépend du pH urinaire et du pKa. e) Fausse : la fraction hydrosoluble ionisée est celle concernée par la sécrétion tubulaire, elle n'est pas réabsorbée passivement.",
+    "source": {
+      "page": 19,
+      "extrait": "Molécules liposolubles non ionisées"
+    },
+    "difficulte": 1,
+    "tags": [
+      "réabsorption passive"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/06-elimination/qcm-018",
+    "type": "multiple",
+    "enonce": "Les facteurs qui conditionnent la réabsorption tubulaire passive d'un médicament sont :",
+    "options": [
+      "Le pH urinaire",
+      "Le pKa de la molécule",
+      "La liposolubilité de la molécule",
+      "Le degré d'ionisation de la molécule",
+      "Toutes les réponses sont justes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "La réabsorption passive dépend des propriétés physicochimiques de la molécule : seules les molécules liposolubles non ionisées sont réabsorbées, et le degré d'ionisation dépend du pH urinaire et du pKa. Toutes les réponses a–d sont justes, donc e est juste.",
+    "source": {
+      "page": 19,
+      "extrait": "PH urinaire PKa de la molécule"
+    },
+    "difficulte": 2,
+    "tags": [
+      "réabsorption passive",
+      "pH urinaire"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/06-elimination/qcm-019",
+    "type": "multiple",
+    "enonce": "Concernant la réabsorption tubulaire passive des acides :",
+    "options": [
+      "Les acides forts (pKa < 2,5) sont ionisés en totalité et ne sont jamais réabsorbés",
+      "Pour 2,5 ≤ pKa ≤ 7,5, les variations du pH ont une influence importante sur la réabsorption",
+      "Les acides très faibles (pKa > 7,5) sont non ionisés au pH urinaire et subissent une réabsorption intense et permanente",
+      "Les acides forts (pKa < 2,5) subissent une réabsorption intense et permanente",
+      "Les acides très faibles (pKa > 7,5) ne sont jamais réabsorbés"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "a), b) et c) reprennent exactement le cours. d) Fausse : les acides forts, ionisés en totalité, ne sont jamais réabsorbés. e) Fausse : les acides très faibles, non ionisés au pH urinaire, sont réabsorbés de façon intense et permanente (inversion piégeuse).",
+    "source": {
+      "page": 20,
+      "extrait": "Acides forts (pKa < 2,5) ionisés en totalités → jamais réabsorbée"
+    },
+    "difficulte": 2,
+    "tags": [
+      "réabsorption passive",
+      "acides",
+      "pKa"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/06-elimination/qcm-020",
+    "type": "multiple",
+    "enonce": "Concernant la réabsorption tubulaire passive des bases :",
+    "options": [
+      "Les bases fortes (pKa > 12) sont ionisées en totalité et ne sont jamais réabsorbées",
+      "Pour 6 ≤ pKa ≤ 12, les variations du pH ont une influence importante sur la réabsorption",
+      "Les bases très faibles (pKa < 6) et non polaires sont non ionisées au pH urinaire et subissent une réabsorption intense et permanente",
+      "Les bases fortes (pKa > 12) subissent une réabsorption intense et permanente",
+      "Pour les bases, la zone d'influence du pH s'étend de pKa 2,5 à 7,5"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "a), b) et c) reprennent le cours. d) Fausse : les bases fortes, totalement ionisées, ne sont jamais réabsorbées. e) Fausse : 2,5–7,5 est la zone d'influence du pH pour les acides ; pour les bases, elle s'étend de 6 à 12.",
+    "source": {
+      "page": 21,
+      "extrait": "Bases fortes (pKa >12) ionisés en totalités → jamais réabsorbée"
+    },
+    "difficulte": 2,
+    "tags": [
+      "réabsorption passive",
+      "bases",
+      "pKa"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/06-elimination/qcm-021",
+    "type": "unique",
+    "enonce": "Un médicament acide de pKa = 1,5 :",
+    "options": [
+      "Est non ionisé au pH urinaire et intensément réabsorbé",
+      "Est ionisé en totalité et n'est jamais réabsorbé",
+      "Voit sa réabsorption fortement influencée par le pH urinaire",
+      "Est réabsorbé activement au niveau du TCP",
+      "Est réabsorbé passivement au niveau du TCD"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Un acide de pKa 1,5 est un acide fort (pKa < 2,5) : il est ionisé en totalité, quel que soit le pH, et n'est jamais réabsorbé (b). c) Fausse : la zone d'influence du pH concerne les acides de pKa entre 2,5 et 7,5. a) et e) Fausses : il n'est pas réabsorbé. d) Fausse : rien dans le cours ne l'indique.",
+    "source": {
+      "page": 20,
+      "extrait": "Acides forts (pKa < 2,5) ionisés en totalités → jamais réabsorbée"
+    },
+    "difficulte": 2,
+    "tags": [
+      "pKa",
+      "acides"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/06-elimination/qcm-022",
+    "type": "unique",
+    "enonce": "Un médicament acide de pKa = 5 :",
+    "options": [
+      "Est totalement ionisé quel que soit le pH",
+      "N'est jamais réabsorbé",
+      "Voit sa réabsorption tubulaire fortement influencée par les variations du pH urinaire",
+      "Subit une réabsorption intense et permanente quel que soit le pH",
+      "Est un acide très faible"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Un pKa de 5 se situe dans l'intervalle 2,5 ≤ pKa ≤ 7,5 : la réabsorption est fortement influencée par les variations du pH urinaire (c). a) et b) concernent les acides forts (pKa < 2,5). d) et e) concernent les acides très faibles (pKa > 7,5).",
+    "source": {
+      "page": 20,
+      "extrait": "2.5 ≤ pKa ≤ 7.5 influence importante des variation du pH sur la réabsorption"
+    },
+    "difficulte": 2,
+    "tags": [
+      "pKa",
+      "acides",
+      "pH urinaire"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/06-elimination/qcm-023",
+    "type": "unique",
+    "enonce": "Un médicament acide de pKa = 9 :",
+    "options": [
+      "Est un acide fort ionisé en totalité",
+      "Est non ionisé au pH urinaire et subit une réabsorption intense et permanente",
+      "N'est jamais réabsorbé",
+      "Voit sa réabsorption très influencée par le pH urinaire",
+      "Est éliminé uniquement par sécrétion tubulaire"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Avec un pKa > 7,5, c'est un acide très faible : non ionisé au pH urinaire, il subit une réabsorption intense et permanente (b). a) et c) correspondent aux acides forts (pKa < 2,5). d) correspond à 2,5 ≤ pKa ≤ 7,5. e) Fausse : rien ne l'indique dans le cours.",
+    "source": {
+      "page": 20,
+      "extrait": "Acides très faibles (pKa > 7.5) non ionisés au pH urinaire → réabsorption intense et permanente"
+    },
+    "difficulte": 2,
+    "tags": [
+      "pKa",
+      "acides"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/06-elimination/qcm-024",
+    "type": "unique",
+    "enonce": "Un médicament basique de pKa = 13 :",
+    "options": [
+      "Est une base très faible, intensément réabsorbée",
+      "Est une base forte, ionisée en totalité, jamais réabsorbée",
+      "A une réabsorption fortement influencée par le pH",
+      "Est non ionisé au pH urinaire",
+      "Est réabsorbé activement"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Un pKa de 13 est supérieur à 12 : c'est une base forte, ionisée en totalité quel que soit le pH, jamais réabsorbée (b). c) concerne les bases de pKa 6 à 12. a) et d) concernent les bases très faibles (pKa < 6). e) Fausse : non décrit.",
+    "source": {
+      "page": 21,
+      "extrait": "Bases fortes (pKa >12) ionisés en totalités → jamais réabsorbée"
+    },
+    "difficulte": 2,
+    "tags": [
+      "pKa",
+      "bases"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/06-elimination/qcm-025",
+    "type": "unique",
+    "enonce": "Un médicament basique de pKa = 4, non polaire :",
+    "options": [
+      "Est une base forte jamais réabsorbée",
+      "Est ionisé en totalité au pH urinaire",
+      "Est non ionisé au pH urinaire et subit une réabsorption intense et permanente",
+      "A une réabsorption très influencée par le pH urinaire",
+      "N'est pas filtré par le glomérule"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Une base de pKa < 6 et non polaire est une base très faible : non ionisée au pH urinaire, elle subit une réabsorption intense et permanente (c). a) et b) concernent les bases fortes (pKa > 12). d) concerne les bases de pKa 6 à 12. e) Fausse : la filtration dépend de la taille et de la fraction libre, pas du pKa.",
+    "source": {
+      "page": 21,
+      "extrait": "Bases très faibles (pKa < 6) et non polaires non ionisés au pH urinaire"
+    },
+    "difficulte": 3,
+    "tags": [
+      "pKa",
+      "bases"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/06-elimination/qcm-026",
+    "type": "multiple",
+    "enonce": "Parmi les médicaments suivants, lequel (lesquels) a (ont) une réabsorption tubulaire fortement influencée par les variations du pH urinaire ?",
+    "options": [
+      "Un acide de pKa = 4",
+      "Une base de pKa = 8",
+      "Un acide de pKa = 1",
+      "Une base de pKa = 13",
+      "Un acide de pKa = 10"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Zone d'influence du pH : 2,5 ≤ pKa ≤ 7,5 pour les acides, 6 ≤ pKa ≤ 12 pour les bases. a) acide pKa 4 et b) base pKa 8 sont dans ces zones : justes. c) acide fort (pKa < 2,5) et d) base forte (pKa > 12) : ionisés en totalité, jamais réabsorbés. e) acide très faible (pKa > 7,5) : réabsorption intense et permanente quel que soit le pH.",
+    "source": {
+      "page": 23,
+      "extrait": "zone d'influence du pH"
+    },
+    "difficulte": 3,
+    "tags": [
+      "pKa",
+      "pH urinaire"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/06-elimination/qcm-027",
+    "type": "multiple",
+    "enonce": "Concernant les molécules ionisées en totalité quel que soit le pH du milieu :",
+    "options": [
+      "Il s'agit des acides forts de pKa < 2,5",
+      "Il s'agit des bases fortes de pKa > 12",
+      "Leur réabsorption tubulaire passive est nulle",
+      "Leur réabsorption tubulaire passive est intense",
+      "Il s'agit des acides très faibles de pKa > 7,5"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Selon le schéma du cours, la forme ionisée prédomine quel que soit le pH pour les acides forts (pKa < 2,5) et les bases fortes (pKa > 12), d'où une réabsorption nulle. d) Fausse : la réabsorption intense concerne les formes non ionisées. e) Fausse : les acides très faibles sont non ionisés au pH urinaire.",
+    "source": {
+      "page": 23,
+      "extrait": "Forme ionisée + + + quelle que soit le pH du milieu"
+    },
+    "difficulte": 2,
+    "tags": [
+      "pKa",
+      "ionisation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/06-elimination/qcm-028",
+    "type": "multiple",
+    "enonce": "La réabsorption tubulaire est intense et permanente pour :",
+    "options": [
+      "Les acides très faibles (pKa > 7,5)",
+      "Les bases très faibles et non polaires (pKa < 6)",
+      "Les acides forts (pKa < 2,5)",
+      "Les bases fortes (pKa > 12)",
+      "Les substances hydrosolubles ionisées"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "a) et b) Justes : ces molécules sont non ionisées au pH urinaire, d'où une réabsorption intense et permanente. c) et d) Fausses : ionisées en totalité, ils ne sont jamais réabsorbés. e) Fausse : seules les molécules liposolubles non ionisées sont réabsorbées passivement.",
+    "source": {
+      "page": 21,
+      "extrait": "non ionisés au pH urinaire → réabsorption intense et permanente"
+    },
+    "difficulte": 2,
+    "tags": [
+      "réabsorption passive",
+      "pKa"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/06-elimination/qcm-029",
+    "type": "multiple",
+    "enonce": "Parmi les propositions suivantes concernant l'élimination rénale, quelle(s) affirmation(s) est (sont) juste(s) ?",
+    "options": [
+      "La filtration glomérulaire et la sécrétion tubulaire font passer le médicament vers la lumière tubulaire",
+      "La réabsorption tubulaire fait passer le médicament de la lumière tubulaire vers le sang",
+      "La sécrétion tubulaire concerne la fraction liposoluble non ionisée",
+      "La réabsorption passive concerne les molécules liposolubles non ionisées",
+      "La filtration glomérulaire est un mécanisme saturable"
+    ],
+    "correctes": [
+      0,
+      1,
+      3
+    ],
+    "explication": "a) Juste : la filtration fait passer la fraction libre dans l'urine primitive et la sécrétion transporte du liquide péritubulaire vers le liquide tubulaire. b) Juste : définition de la réabsorption. c) Fausse : la sécrétion concerne la fraction hydrosoluble ionisée. d) Juste. e) Fausse : la filtration est passive ; la saturation caractérise la sécrétion tubulaire.",
+    "source": {
+      "page": 15,
+      "extrait": "Transport des substances du liquide péritubulaire vers le liquide tubulaire"
+    },
+    "difficulte": 2,
+    "tags": [
+      "élimination rénale",
+      "synthèse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/06-elimination/qcm-030",
+    "type": "multiple",
+    "enonce": "Concernant les sites anatomiques des processus d'élimination rénale :",
+    "options": [
+      "La filtration a lieu au niveau du glomérule",
+      "La sécrétion tubulaire a lieu au niveau du TCP",
+      "La réabsorption active a lieu au niveau du TCP",
+      "La réabsorption passive a lieu au niveau du TCD et du tube collecteur",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le cours situe : filtration au glomérule, sécrétion au TCP, réabsorption active au TCP, réabsorption passive au TCD et au TC. Toutes les propositions sont donc correctes (e).",
+    "source": {
+      "page": 19,
+      "extrait": "Passif TCD et TC"
+    },
+    "difficulte": 2,
+    "tags": [
+      "élimination rénale",
+      "néphron"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/06-elimination/qcm-031",
+    "type": "multiple",
+    "enonce": "L'élimination digestive des médicaments comprend :",
+    "options": [
+      "L'élimination biliaire",
+      "L'élimination sudorale",
+      "L'élimination gastro-intestinale",
+      "L'élimination salivaire",
+      "L'élimination lacrymale"
+    ],
+    "correctes": [
+      0,
+      2,
+      3
+    ],
+    "explication": "Le cours subdivise l'élimination digestive en A. salivaire, B. gastro-intestinale et C. biliaire. Les éliminations lacrymale et sudorale sont des voies distinctes (6 et 5 dans le plan).",
+    "source": {
+      "page": 24,
+      "extrait": "A . Elimination salivaire B . Elimination gastro-intestinale C . Elimination biliaire"
+    },
+    "difficulte": 1,
+    "tags": [
+      "élimination digestive"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/06-elimination/qcm-032",
+    "type": "multiple",
+    "enonce": "Concernant l'élimination salivaire des médicaments :",
+    "options": [
+      "Elle n'est pas quantitativement importante",
+      "Le passage du plasma vers la salive se fait par diffusion passive pour la morphine, les sulfamides et la pénicilline",
+      "Elle peut se faire par transport actif pour quelques médicaments comme le lithium et la phénytoïne",
+      "Les médicaments à propriétés anticholinergiques inhibent la sécrétion salivaire",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes les propositions reprennent le cours : voie quantitativement peu importante ; diffusion passive (morphine, sulfamide, pénicilline) ; transport actif pour quelques médicaments (lithium, phénytoïne) ; les anticholinergiques inhibent la sécrétion salivaire et perturbent l'élimination par cette voie. e) est donc juste.",
+    "source": {
+      "page": 25,
+      "extrait": "Elle n'est pas quantitativement importante."
+    },
+    "difficulte": 1,
+    "tags": [
+      "élimination salivaire"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/06-elimination/qcm-033",
+    "type": "multiple",
+    "enonce": "L'élimination salivaire :",
+    "options": [
+      "Est quantitativement la voie d'élimination la plus importante",
+      "Se fait exclusivement par transport actif",
+      "Se fait par diffusion passive pour la morphine",
+      "Se fait par transport actif pour le lithium",
+      "Est favorisée par les médicaments anticholinergiques"
+    ],
+    "correctes": [
+      2,
+      3
+    ],
+    "explication": "a) Fausse : elle n'est pas quantitativement importante. b) Fausse : le passage se fait surtout par diffusion passive, le transport actif ne concerne que quelques médicaments. c) Juste (morphine, sulfamide, pénicilline). d) Juste (lithium, phénytoïne). e) Fausse : les anticholinergiques inhibent la sécrétion salivaire et perturbent cette élimination.",
+    "source": {
+      "page": 25,
+      "extrait": "Il peut se faire pour quelques médicaments par un transport actif. Exp: lithium, phenytoine."
+    },
+    "difficulte": 2,
+    "tags": [
+      "élimination salivaire"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/06-elimination/qcm-034",
+    "type": "unique",
+    "enonce": "Parmi les médicaments suivants, lequel passe dans la salive par transport actif selon le cours ?",
+    "options": [
+      "La morphine",
+      "La digoxine",
+      "La phénytoïne",
+      "Les sulfamides",
+      "La pénicilline"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Le cours cite le lithium et la phénytoïne comme exemples de passage salivaire par transport actif. Morphine, sulfamides et pénicilline passent par diffusion passive. La digoxine est citée pour les sécrétions intestinales.",
+    "source": {
+      "page": 25,
+      "extrait": "transport actif. Exp: lithium, phenytoine."
+    },
+    "difficulte": 2,
+    "tags": [
+      "élimination salivaire"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/06-elimination/qcm-035",
+    "type": "unique",
+    "enonce": "Les médicaments à propriétés anticholinergiques, au niveau de l'élimination salivaire :",
+    "options": [
+      "Augmentent la sécrétion salivaire",
+      "Inhibent la sécrétion salivaire et perturbent l'élimination des substances par cette voie",
+      "N'ont aucun effet sur la salive",
+      "Favorisent le transport actif du lithium",
+      "Sont éliminés exclusivement par la salive"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Le cours précise que les médicaments anticholinergiques inhibent la sécrétion salivaire et perturbent l'élimination des substances par cette voie (b). Les autres propositions ne correspondent pas au cours.",
+    "source": {
+      "page": 25,
+      "extrait": "Médicaments à propriétés anticholinergiques: inhibent la sécrétion salivaire"
+    },
+    "difficulte": 1,
+    "tags": [
+      "élimination salivaire",
+      "anticholinergiques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/06-elimination/qcm-036",
+    "type": "multiple",
+    "enonce": "Concernant l'élimination gastro-intestinale :",
+    "options": [
+      "Les médicaments bases faibles passés dans la circulation sanguine peuvent être partiellement excrétés dans l'estomac",
+      "La quinine est un exemple d'excrétion gastrique",
+      "La digoxine est retrouvée au niveau des sécrétions intestinales",
+      "Ce sont les acides faibles qui sont excrétés dans l'estomac",
+      "La quinine est retrouvée dans les sécrétions intestinales"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "a) et b) Justes : les bases faibles peuvent être partiellement excrétées dans l'estomac, exemple la quinine. c) Juste : la digoxine est retrouvée dans les sécrétions intestinales. d) Fausse : le cours parle de bases faibles (piège acide/base). e) Fausse : la quinine est l'exemple d'excrétion gastrique ; c'est la digoxine qui est citée pour les sécrétions intestinales.",
+    "source": {
+      "page": 26,
+      "extrait": "Les médicaments bases faibles passés dans la circulation sanguine peuvent être partiellement excrétés dans l’estomac. Exp: la quinine."
+    },
+    "difficulte": 2,
+    "tags": [
+      "élimination gastro-intestinale"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/06-elimination/qcm-037",
+    "type": "unique",
+    "enonce": "Un exemple de médicament base faible partiellement excrété dans l'estomac est :",
+    "options": [
+      "L'halotane",
+      "L'eucalyptol",
+      "La streptomycine",
+      "La quinine",
+      "La digoxine"
+    ],
+    "correctes": [
+      3
+    ],
+    "explication": "Le cours cite la quinine comme base faible partiellement excrétée dans l'estomac. La digoxine est retrouvée dans les sécrétions intestinales, la streptomycine diffuse passivement dans la bile, l'halotane et l'eucalyptol sont éliminés par voie pulmonaire.",
+    "source": {
+      "page": 26,
+      "extrait": "Exp: la quinine."
+    },
+    "difficulte": 1,
+    "tags": [
+      "élimination gastro-intestinale"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/06-elimination/qcm-038",
+    "type": "multiple",
+    "enonce": "Concernant l'élimination biliaire :",
+    "options": [
+      "Le médicament est excrété par la bile dans l'intestin",
+      "Le médicament est éliminé définitivement dans les matières fécales",
+      "La sécrétion biliaire est plus importante pour les molécules de PM > 300 D",
+      "La sécrétion biliaire est plus importante pour les molécules de grande polarité et à fractions ionisables",
+      "La sécrétion biliaire est plus importante pour les molécules de PM < 300 D, peu polaires"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "a) et b) Justes : le médicament est excrété par la bile dans l'intestin et éliminé définitivement dans les fèces. c) et d) Justes : la sécrétion biliaire est plus importante pour PM > 300 D, grande polarité, fractions ionisables. e) Fausse : inversion du seuil et de la polarité.",
+    "source": {
+      "page": 27,
+      "extrait": "La sécrétion biliaire est plus importante PM >300 D Grande polarité Fractions ionisables"
+    },
+    "difficulte": 2,
+    "tags": [
+      "élimination biliaire"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/06-elimination/qcm-039",
+    "type": "multiple",
+    "enonce": "Les mécanismes de l'élimination biliaire :",
+    "options": [
+      "La diffusion passive aboutit à une concentration biliaire ≤ concentration plasmatique",
+      "L'excrétion active aboutit à une concentration biliaire >>> concentration plasmatique",
+      "Les aminosides (streptomycine) passent dans la bile par diffusion passive",
+      "L'excrétion active est saturable et sujette à compétition",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Selon le cours : diffusion passive → [ ]bile ≤ [ ]plasma (exemple : aminosides, streptomycine) ; excrétion active (saturation, compétition) → [ ]bile >>> [ ]plasma. Toutes les propositions a–d sont justes, donc e est juste.",
+    "source": {
+      "page": 28,
+      "extrait": "Excrétion active (saturation, compétition)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "élimination biliaire"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/06-elimination/qcm-040",
+    "type": "multiple",
+    "enonce": "Concernant l'excrétion biliaire active des médicaments :",
+    "options": [
+      "Elle permet d'atteindre des concentrations biliaires très supérieures aux concentrations plasmatiques",
+      "Elle peut entrer en compétition avec le transport actif de la bilirubine",
+      "Cette compétition avec la bilirubine peut entraîner un ictère",
+      "La streptomycine en est l'exemple type",
+      "Elle concerne des antibiotiques comme l'érythromycine, la spiramycine, l'ampicilline, la rifampicine, ainsi que le chlorothiazide"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explication": "a) Juste : [ ]bile >>> [ ]plasma. b) et c) Justes : compétition avec le transport actif de la bilirubine → ictère. d) Fausse : la streptomycine (aminoside) passe par diffusion passive. e) Juste : exemples cités (éry, spira, amp, rif…, chlorothiazide).",
+    "source": {
+      "page": 28,
+      "extrait": "Compétition avec le transport actif de la bilirubine => ictère"
+    },
+    "difficulte": 3,
+    "tags": [
+      "élimination biliaire",
+      "ictère"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/06-elimination/qcm-041",
+    "type": "unique",
+    "enonce": "Un ictère peut survenir lors de l'excrétion biliaire d'un médicament par :",
+    "options": [
+      "Diffusion passive dans la bile",
+      "Déconjugaison par les bactéries du côlon",
+      "Filtration glomérulaire",
+      "Réabsorption tubulaire active",
+      "Compétition avec le transport actif de la bilirubine"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le cours indique que l'excrétion biliaire active (saturable, avec compétition) peut entrer en compétition avec le transport actif de la bilirubine et provoquer un ictère. Les autres mécanismes ne sont pas liés à l'ictère dans le cours.",
+    "source": {
+      "page": 28,
+      "extrait": "Compétition avec le transport actif de la bilirubine => ictère"
+    },
+    "difficulte": 2,
+    "tags": [
+      "élimination biliaire",
+      "ictère"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/06-elimination/qcm-042",
+    "type": "unique",
+    "enonce": "La streptomycine est excrétée dans la bile :",
+    "options": [
+      "Elle n'est jamais excrétée dans la bile",
+      "Par excrétion active, avec [ ]bile >>> [ ]plasma",
+      "Par transport actif saturable",
+      "Par diffusion passive, avec [ ]bile ≤ [ ]plasma",
+      "Par compétition avec la bilirubine"
+    ],
+    "correctes": [
+      3
+    ],
+    "explication": "Le cours cite les aminosides (streptomycine) comme exemple de diffusion passive dans la bile, ce qui conduit à une concentration biliaire inférieure ou égale à la concentration plasmatique. L'excrétion active (saturation, compétition, bilirubine) concerne d'autres antibiotiques (érythromycine, spiramycine, ampicilline, rifampicine…).",
+    "source": {
+      "page": 28,
+      "extrait": "Diffusion passive dans la bile ATB: aminosides (Streptomycine)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "élimination biliaire",
+      "aminosides"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/06-elimination/qcm-043",
+    "type": "multiple",
+    "enonce": "Concernant le devenir des glucuronides des médicaments :",
+    "options": [
+      "Les glucuronides de PM < 300 Da sont excrétés dans les urines",
+      "Les glucuronides de PM > 300 Da sont excrétés dans la bile",
+      "Les glucuronides de PM > 300 Da sont excrétés dans les urines",
+      "Dans l'intestin, ils subissent une déconjugaison par les bactéries du côlon",
+      "Les dérivés déconjugués sont hydrosolubles et définitivement éliminés"
+    ],
+    "correctes": [
+      0,
+      1,
+      3
+    ],
+    "explication": "a) et b) Justes : PM < 300 Da → urines ; PM > 300 Da → bile. c) Fausse (inversion). d) Juste : déconjugaison par les bactéries du côlon. e) Fausse : les dérivés déconjugués sont liposolubles et réabsorbés de nouveau, c'est le cycle entéro-hépatique.",
+    "source": {
+      "page": 29,
+      "extrait": "PM<300 DA excrétés dans les urines"
+    },
+    "difficulte": 2,
+    "tags": [
+      "cycle entéro-hépatique",
+      "glucuronides"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/06-elimination/qcm-044",
+    "type": "multiple",
+    "enonce": "Le cycle entéro-hépatique :",
+    "options": [
+      "Implique une déconjugaison des glucuronides par les bactéries du côlon",
+      "Aboutit à la réabsorption des dérivés déconjugués liposolubles",
+      "Concerne le chloramphénicol, la rifampicine et la tétracycline",
+      "Augmente la durée de séjour du PA dans l'organisme",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes les propositions sont dans le cours : déconjugaison bactérienne colique, réabsorption des dérivés déconjugués liposolubles, exemples (chloramphénicol, rifampicine, tétracycline), et conséquence : augmentation du Vd et de la durée de séjour du PA. e) est donc juste.",
+    "source": {
+      "page": 29,
+      "extrait": "Le cycle entero-hépatique (chloramphénicol,rifampicine,tétracycline)."
+    },
+    "difficulte": 2,
+    "tags": [
+      "cycle entéro-hépatique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/06-elimination/qcm-045",
+    "type": "multiple",
+    "enonce": "Les conséquences du cycle entéro-hépatique sont :",
+    "options": [
+      "Une augmentation du volume de distribution (Vd) du médicament",
+      "Une augmentation de la durée de séjour du PA dans l'organisme",
+      "Une diminution du Vd du médicament",
+      "Une accélération de l'élimination du PA",
+      "Une diminution de la durée de séjour du PA dans l'organisme"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Le cours indique : augmentation du Vd du médicament → augmentation de la durée de séjour du PA dans l'organisme (a et b). c), d) et e) sont des inversions piégeuses (augmente/diminue).",
+    "source": {
+      "page": 29,
+      "extrait": "Augmentation du Vd du médicament→augmentation de la durée de séjour du PA dans l'organisme."
+    },
+    "difficulte": 1,
+    "tags": [
+      "cycle entéro-hépatique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/06-elimination/qcm-046",
+    "type": "unique",
+    "enonce": "La cholestyramine :",
+    "options": [
+      "Est un inducteur du cycle entéro-hépatique",
+      "Est une résine échangeuse d'ions qui fixe certains PA dans l'intestin et met fin au cycle entéro-hépatique",
+      "Augmente la réabsorption intestinale des dérivés déconjugués",
+      "Augmente la durée de séjour du PA dans l'organisme",
+      "Agit au niveau du tube contourné proximal"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Le cours présente la cholestyramine comme une résine échangeuse d'ions qui fixe certains PA dans l'intestin et met fin au cycle entéro-hépatique (b). Elle diminue donc la réabsorption et la durée de séjour du PA (c et d fausses). a) et e) Fausses.",
+    "source": {
+      "page": 29,
+      "extrait": "la cholestyramine, qui fixe certains PA dans l'intestin, met fin à ce cycle."
+    },
+    "difficulte": 1,
+    "tags": [
+      "cycle entéro-hépatique",
+      "cholestyramine"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/06-elimination/qcm-047",
+    "type": "multiple",
+    "enonce": "Parmi les médicaments suivants, lequel (lesquels) subit (subissent) un cycle entéro-hépatique selon le cours ?",
+    "options": [
+      "L'halotane",
+      "La tétracycline",
+      "La streptomycine",
+      "La rifampicine",
+      "Le chloramphénicol"
+    ],
+    "correctes": [
+      1,
+      3,
+      4
+    ],
+    "explication": "Le cours cite le chloramphénicol, la rifampicine et la tétracycline comme exemples de cycle entéro-hépatique. La streptomycine est citée pour la diffusion passive dans la bile, l'halotane pour l'élimination pulmonaire.",
+    "source": {
+      "page": 29,
+      "extrait": "Le cycle entero-hépatique (chloramphénicol,rifampicine,tétracycline)."
+    },
+    "difficulte": 1,
+    "tags": [
+      "cycle entéro-hépatique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/06-elimination/qcm-048",
+    "type": "multiple",
+    "enonce": "Dans le cycle entéro-hépatique, les dérivés déconjugués :",
+    "options": [
+      "Sont produits par les bactéries du côlon",
+      "Sont liposolubles",
+      "Sont réabsorbés de nouveau",
+      "Sont hydrosolubles et éliminés dans les fèces",
+      "Sont produits au niveau du tube contourné proximal"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "a), b) et c) Justes : dans l'intestin, la déconjugaison par les bactéries du côlon libère des dérivés liposolubles réabsorbés de nouveau. d) Fausse : ils sont liposolubles et réabsorbés. e) Fausse : le TCP est un segment du néphron, sans rapport avec ce cycle.",
+    "source": {
+      "page": 29,
+      "extrait": "déconjugaison par les bactéries du colon dérivés déconjugués liposolubles réabsorbés de nouveau"
+    },
+    "difficulte": 2,
+    "tags": [
+      "cycle entéro-hépatique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/06-elimination/qcm-049",
+    "type": "multiple",
+    "enonce": "Concernant le poumon comme organe d'élimination :",
+    "options": [
+      "Il présente une grande surface d'échange",
+      "Il présente un débit sanguin élevé",
+      "Il possède un équipement enzymatique important",
+      "L'élimination se fait dans l'air expiré",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le cours qualifie le poumon d'organe épurateur particulier : grande surface d'échange, débit sanguin élevé, équipement enzymatique important ; l'élimination se fait dans l'air expiré. Toutes les propositions sont correctes (e).",
+    "source": {
+      "page": 32,
+      "extrait": "Une grande surface d'échange;"
+    },
+    "difficulte": 1,
+    "tags": [
+      "élimination pulmonaire"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/06-elimination/qcm-050",
+    "type": "multiple",
+    "enonce": "L'élimination pulmonaire concerne :",
+    "options": [
+      "Les produits volatils",
+      "Les anesthésiques généraux comme l'halotane",
+      "Les antiseptiques pulmonaires comme l'eucalyptol",
+      "Les glucuronides de PM > 300 Da",
+      "Principalement les aminosides"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Le cours indique que sont éliminés dans l'air expiré les produits volatils : anesthésiques généraux (halotane, 60 % d'élimination pulmonaire) et antiseptiques pulmonaires (eucalyptol). d) Les glucuronides de PM > 300 Da sont excrétés dans la bile. e) Les aminosides sont cités pour la bile.",
+    "source": {
+      "page": 32,
+      "extrait": "Les produits volatils"
+    },
+    "difficulte": 1,
+    "tags": [
+      "élimination pulmonaire"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/06-elimination/qcm-051",
+    "type": "unique",
+    "enonce": "La part d'élimination pulmonaire de l'halotane est d'environ :",
+    "options": [
+      "60 %",
+      "1 %",
+      "30 %",
+      "5 %",
+      "100 %"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Le cours précise que l'halotane, anesthésique général, présente 60 % d'élimination pulmonaire. Les chiffres 1 % et 5 % évoquent le passage dans le lait (moins de 1 % en général, 5 % pour l'iode 131).",
+    "source": {
+      "page": 32,
+      "extrait": "halotane (60% d'élimination pulmonaire)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "élimination pulmonaire",
+      "halotane"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/06-elimination/qcm-052",
+    "type": "unique",
+    "enonce": "L'eucalyptol est éliminé principalement par voie :",
+    "options": [
+      "Biliaire",
+      "Pulmonaire",
+      "Salivaire",
+      "Lacrymale",
+      "Lactée"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Le cours cite l'eucalyptol parmi les antiseptiques pulmonaires éliminés dans l'air expiré (produits volatils).",
+    "source": {
+      "page": 32,
+      "extrait": "Antiseptiques pulmonaires (eucalyptol)."
+    },
+    "difficulte": 1,
+    "tags": [
+      "élimination pulmonaire"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/06-elimination/qcm-053",
+    "type": "multiple",
+    "enonce": "Parmi les associations médicament – voie d'élimination suivantes, laquelle (lesquelles) est (sont) correcte(s) ?",
+    "options": [
+      "Halotane – voie pulmonaire",
+      "Quinine – excrétion gastrique",
+      "Digoxine – sécrétions intestinales",
+      "Lithium – passage salivaire par transport actif",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes les associations sont dans le cours : halotane éliminé à 60 % par voie pulmonaire ; quinine (base faible) partiellement excrétée dans l'estomac ; digoxine retrouvée dans les sécrétions intestinales ; lithium passant dans la salive par transport actif. e) est donc juste.",
+    "source": {
+      "page": 26,
+      "extrait": "Autres médicaments sont retrouvés au niveau des sécrétions intestinales. Exp: digoxine."
+    },
+    "difficulte": 2,
+    "tags": [
+      "synthèse",
+      "voies d'élimination"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/06-elimination/qcm-054",
+    "type": "multiple",
+    "enonce": "Concernant l'élimination biliaire, quelle(s) proposition(s) est (sont) fausse(s) ?",
+    "options": [
+      "Le médicament excrété par la bile est toujours réabsorbé par l'intestin",
+      "La sécrétion biliaire concerne préférentiellement les molécules de petit PM (< 300 D)",
+      "L'excrétion active biliaire n'est jamais saturable",
+      "La diffusion passive aboutit à une concentration biliaire très supérieure à la concentration plasmatique",
+      "Le médicament peut être éliminé définitivement dans les fèces"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "On cherche les propositions fausses. a) Fausse : le médicament peut être éliminé définitivement dans les fèces ; la réabsorption ne concerne que le cycle entéro-hépatique. b) Fausse : la sécrétion biliaire est plus importante pour PM > 300 D. c) Fausse : l'excrétion active est saturable et sujette à compétition. d) Fausse : diffusion passive → [ ]bile ≤ [ ]plasma. e) Juste selon le cours, donc ne doit pas être cochée.",
+    "source": {
+      "page": 27,
+      "extrait": "éliminé définitivement de l’organisme dans les matières fécales ou fèces"
+    },
+    "difficulte": 3,
+    "tags": [
+      "élimination biliaire"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/06-elimination/qcm-055",
+    "type": "multiple",
+    "enonce": "Les antibiotiques suivants sont cités dans le cours comme subissant une excrétion biliaire active :",
+    "options": [
+      "Spiramycine",
+      "Érythromycine",
+      "Streptomycine",
+      "Rifampicine",
+      "Ampicilline"
+    ],
+    "correctes": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "explication": "Le cours cite pour l'excrétion active (saturation, compétition) : ATB (éry, spira, amp, rif…) et le chlorothiazide. La streptomycine (aminoside) est citée pour la diffusion passive dans la bile.",
+    "source": {
+      "page": 28,
+      "extrait": "ATB (ery, spira, amp, rif…); chlorothiazide"
+    },
+    "difficulte": 2,
+    "tags": [
+      "élimination biliaire",
+      "antibiotiques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/06-elimination/qcm-056",
+    "type": "multiple",
+    "enonce": "Concernant l'élimination lactée des médicaments :",
+    "options": [
+      "C'est une voie accessoire d'élimination chez la femme",
+      "En général, moins de 1 % de la dose ingérée passe dans le lait en 24 h",
+      "L'iode 131 fait exception, avec environ 5 % de passage",
+      "Les mécanismes de passage sont complexes : actifs et passifs",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes les propositions reprennent le cours : voie accessoire chez la femme ; en général moins de 1 % de la dose ingérée en 24 h, sauf quelques produits (I131 → 5 %) ; mécanismes complexes, actif et passif. e) est juste.",
+    "source": {
+      "page": 34,
+      "extrait": "En général : moins de 1% de la dose ingérée passe dans le lait dans 24h"
+    },
+    "difficulte": 1,
+    "tags": [
+      "élimination lactée"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/06-elimination/qcm-057",
+    "type": "multiple",
+    "enonce": "Le passage d'un médicament dans le lait maternel sera d'autant plus grand que le médicament est :",
+    "options": [
+      "Lipophile",
+      "Peu lié aux protéines plasmatiques",
+      "De petit poids moléculaire",
+      "Fortement lié aux protéines plasmatiques",
+      "De poids moléculaire élevé"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Le cours : le passage sera d'autant plus grand que le médicament est lipophile, peu lié aux protéines plasmatiques, de petit poids moléculaire, et que le gradient de concentration sang–lait est important. d) et e) sont des inversions piégeuses.",
+    "source": {
+      "page": 34,
+      "extrait": "lipophile, peu lié aux protéines plasmatiques, de petit poids moléculaire"
+    },
+    "difficulte": 1,
+    "tags": [
+      "élimination lactée"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/06-elimination/qcm-058",
+    "type": "multiple",
+    "enonce": "Le passage des médicaments dans le lait maternel est favorisé par :",
+    "options": [
+      "Un gradient de concentration sang – lait maternel important",
+      "Une forte liaison aux protéines plasmatiques",
+      "Une grande lipophilie",
+      "Un petit poids moléculaire",
+      "Un gradient de concentration sang – lait maternel faible"
+    ],
+    "correctes": [
+      0,
+      2,
+      3
+    ],
+    "explication": "a), c) et d) Justes : le passage est d'autant plus grand que le gradient sang–lait est important, que le médicament est lipophile et de petit PM. b) Fausse : il faut au contraire une faible liaison protéique. e) Fausse : c'est un gradient important qui favorise le passage.",
+    "source": {
+      "page": 34,
+      "extrait": "le gradient de concentration (sang- lait maternel) est important."
+    },
+    "difficulte": 2,
+    "tags": [
+      "élimination lactée"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/06-elimination/qcm-059",
+    "type": "unique",
+    "enonce": "En général, la proportion de la dose ingérée qui passe dans le lait maternel en 24 heures est :",
+    "options": [
+      "Environ 5 %",
+      "Environ 60 %",
+      "Plus de 50 %",
+      "Moins de 1 %",
+      "Environ 10 %"
+    ],
+    "correctes": [
+      3
+    ],
+    "explication": "Le cours indique qu'en général moins de 1 % de la dose ingérée passe dans le lait en 24 h. Le chiffre de 5 % concerne une exception (iode 131) et 60 % correspond à l'élimination pulmonaire de l'halotane.",
+    "source": {
+      "page": 34,
+      "extrait": "moins de 1% de la dose ingérée passe dans le lait dans 24h"
+    },
+    "difficulte": 1,
+    "tags": [
+      "élimination lactée"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/06-elimination/qcm-060",
+    "type": "unique",
+    "enonce": "Un exemple de produit passant dans le lait maternel en proportion plus importante que la règle générale (≈ 5 %) est :",
+    "options": [
+      "La digoxine",
+      "L'halotane",
+      "L'eucalyptol",
+      "L'iode 131",
+      "La quinine"
+    ],
+    "correctes": [
+      3
+    ],
+    "explication": "Le cours cite l'iode 131 (I131 → 5 %) comme exception à la règle générale de moins de 1 % de passage dans le lait en 24 h.",
+    "source": {
+      "page": 34,
+      "extrait": "sauf pour quelques produits exp : І131 → 5%"
+    },
+    "difficulte": 1,
+    "tags": [
+      "élimination lactée"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/06-elimination/qcm-061",
+    "type": "multiple",
+    "enonce": "Les accidents chez le nouveau-né liés à l'élimination lactée dépendent :",
+    "options": [
+      "Des modalités d'administration du médicament à la mère (dose et durée)",
+      "De l'âge du nourrisson",
+      "De la maturation des systèmes enzymatiques du nourrisson",
+      "Uniquement de la couleur du lait",
+      "Uniquement du sexe du nourrisson"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Le cours : les accidents chez le nouveau-né dépendent des modalités d'administration du médicament à la mère (dose et durée) et de l'âge du nourrisson (maturation des systèmes enzymatiques). d) et e) sont des distracteurs sans fondement dans le cours.",
+    "source": {
+      "page": 35,
+      "extrait": "âge du nourrisson : maturation des systèmes enzymatiques"
+    },
+    "difficulte": 1,
+    "tags": [
+      "élimination lactée",
+      "nouveau-né"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/06-elimination/qcm-062",
+    "type": "multiple",
+    "enonce": "Parmi les médicaments suivants, excrétés dans le lait maternel, lesquels sont cités comme présentant un danger pour le nouveau-né ?",
+    "options": [
+      "L'halotane",
+      "Les AVK",
+      "Les psychotropes",
+      "L'eucalyptol",
+      "Les AINS"
+    ],
+    "correctes": [
+      1,
+      2,
+      4
+    ],
+    "explication": "Le cours cite comme exemples de médicaments excrétés dans le lait et dangereux pour le nouveau-né : AVK, psychotropes et AINS. L'eucalyptol et l'halotane sont cités pour l'élimination pulmonaire.",
+    "source": {
+      "page": 35,
+      "extrait": "AVK, psychotropes et AINS"
+    },
+    "difficulte": 1,
+    "tags": [
+      "élimination lactée",
+      "nouveau-né"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/06-elimination/qcm-063",
+    "type": "multiple",
+    "enonce": "Pour limiter le risque chez le nourrisson allaité, il est recommandé :",
+    "options": [
+      "D'éviter les pics de concentration trop importants, comme ceux suivant les injections IV rapides",
+      "De préférer les formes galéniques à libération prolongée",
+      "D'allaiter juste avant la prise du médicament",
+      "D'allaiter juste après la prise du médicament",
+      "De préférer les injections IV rapides"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "a), b) et c) Justes : le cours recommande d'éviter les pics de concentration (injections IV rapides), de préférer les formes à libération prolongée et d'allaiter juste avant la prise. d) Fausse : c'est « juste avant ». e) Fausse : les IV rapides sont à éviter.",
+    "source": {
+      "page": 35,
+      "extrait": "Il est préférable d'allaiter juste avant la prise du médicament."
+    },
+    "difficulte": 1,
+    "tags": [
+      "élimination lactée",
+      "allaitement"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/06-elimination/qcm-064",
+    "type": "multiple",
+    "enonce": "Concernant l'élimination lactée, quelle(s) proposition(s) est (sont) juste(s) ?",
+    "options": [
+      "Elle peut constituer un danger pour le nouveau-né",
+      "Elle se fait exclusivement par diffusion passive",
+      "Il faut préférer les formes à libération immédiate",
+      "C'est la principale voie d'élimination chez la femme",
+      "Plus le médicament est lié aux protéines plasmatiques, plus il passe dans le lait"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "a) Juste : l'élimination lactée peut constituer un danger pour le nouveau-né. b) Fausse : les mécanismes sont actifs et passifs. c) Fausse : il faut préférer les formes à libération prolongée. d) Fausse : c'est une voie accessoire. e) Fausse : le passage est d'autant plus grand que le médicament est peu lié.",
+    "source": {
+      "page": 35,
+      "extrait": "Peut constituer un danger pour le nouveau-né."
+    },
+    "difficulte": 2,
+    "tags": [
+      "élimination lactée"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/06-elimination/qcm-065",
+    "type": "multiple",
+    "enonce": "Concernant l'élimination sudorale :",
+    "options": [
+      "C'est une voie accessoire d'élimination",
+      "Les substances y sont retrouvées à l'état de traces",
+      "Elle concerne l'iode, le brome, l'éthanol, l'acide salicylique et les sulfamides",
+      "C'est la principale voie d'élimination de l'éthanol",
+      "Elle concerne principalement les tétracyclines"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "a), b) et c) Justes : voie accessoire, substances à l'état de traces (I, Br, éthanol, acide salicylique, sulfamides). d) Fausse : le cours ne présente pas la sueur comme voie principale, l'éthanol y est à l'état de traces. e) Fausse : les tétracyclines sont citées pour les dents.",
+    "source": {
+      "page": 37,
+      "extrait": "Substances en état de traces"
+    },
+    "difficulte": 1,
+    "tags": [
+      "élimination sudorale"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/06-elimination/qcm-066",
+    "type": "multiple",
+    "enonce": "Concernant l'élimination lacrymale :",
+    "options": [
+      "C'est une voie très accessoire d'élimination",
+      "Les substances y sont éliminées en très petites quantités",
+      "Elle concerne l'iode, le brome, l'atropine, la rifampicine et les sulfamides",
+      "C'est une voie majeure pour la rifampicine",
+      "Elle concerne l'arsenic"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "a), b) et c) Justes selon le cours. d) Fausse : il s'agit de très petites quantités, voie très accessoire. e) Fausse : l'arsenic est cité pour les cheveux (autres voies).",
+    "source": {
+      "page": 39,
+      "extrait": "Voie très accessoire d’élimination."
+    },
+    "difficulte": 1,
+    "tags": [
+      "élimination lacrymale"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/06-elimination/qcm-067",
+    "type": "multiple",
+    "enonce": "Parmi les substances suivantes, lesquelles sont citées à la fois pour l'élimination sudorale et pour l'élimination lacrymale ?",
+    "options": [
+      "L'éthanol",
+      "L'atropine",
+      "Les sulfamides",
+      "L'iode",
+      "Le brome"
+    ],
+    "correctes": [
+      2,
+      3,
+      4
+    ],
+    "explication": "Sudorale : I, Br, éthanol, acide salicylique, sulfamides. Lacrymale : I, Br, atropine, rifampicine, sulfamides. Sont communs : iode, brome et sulfamides. L'atropine n'est citée que pour les larmes, l'éthanol que pour la sueur.",
+    "source": {
+      "page": 39,
+      "extrait": "I, Br"
+    },
+    "difficulte": 3,
+    "tags": [
+      "élimination sudorale",
+      "élimination lacrymale"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/06-elimination/qcm-068",
+    "type": "multiple",
+    "enonce": "Concernant les autres voies d'élimination, quelles associations sont correctes ?",
+    "options": [
+      "Dents – tétracyclines",
+      "Sécrétions bronchiques – iodures",
+      "Cheveux – arsenic",
+      "Cheveux – tétracyclines",
+      "Dents – arsenic"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Le tableau du cours associe : dents – tétracyclines ; sécrétions bronchiques – iodures ; cheveux – arsenic. d) et e) intervertissent les exemples.",
+    "source": {
+      "page": 41,
+      "extrait": "Dents Sécrétions bronchiques Cheveux Tétracyclines Iodures Arsenic"
+    },
+    "difficulte": 1,
+    "tags": [
+      "autres voies"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/06-elimination/qcm-069",
+    "type": "unique",
+    "enonce": "L'arsenic est éliminé, parmi les autres voies d'élimination, au niveau :",
+    "options": [
+      "Des cheveux",
+      "Des dents",
+      "Des larmes",
+      "Du lait",
+      "Des sécrétions bronchiques"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Dans le tableau « Autres voies d'élimination » du cours, l'arsenic est associé aux cheveux ; les tétracyclines aux dents et les iodures aux sécrétions bronchiques.",
+    "source": {
+      "page": 41,
+      "extrait": "Cheveux Tétracyclines Iodures Arsenic"
+    },
+    "difficulte": 1,
+    "tags": [
+      "autres voies"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/06-elimination/qcm-070",
+    "type": "multiple",
+    "enonce": "Parmi les voies d'élimination suivantes, lesquelles sont qualifiées d'accessoires (ou très accessoires) dans le cours ?",
+    "options": [
+      "Lactée",
+      "Sudorale",
+      "Lacrymale",
+      "Rénale",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Le cours qualifie la voie lactée de voie accessoire chez la femme, la voie sudorale de voie accessoire et la voie lacrymale de voie très accessoire. La voie rénale est la principale voie d'excrétion. e) Fausse car a, b, c sont justes.",
+    "source": {
+      "page": 37,
+      "extrait": "Voie accessoire d’élimination"
+    },
+    "difficulte": 1,
+    "tags": [
+      "voies d'élimination",
+      "synthèse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/06-elimination/qcm-071",
+    "type": "unique",
+    "enonce": "Parmi les voies suivantes, laquelle est qualifiée de « très accessoire » ?",
+    "options": [
+      "Rénale",
+      "Sudorale",
+      "Lacrymale",
+      "Lactée",
+      "Biliaire"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Le cours qualifie l'élimination lacrymale de voie très accessoire. Les voies lactée et sudorale sont dites accessoires ; la voie rénale est la principale voie d'excrétion.",
+    "source": {
+      "page": 39,
+      "extrait": "Voie très accessoire d’élimination."
+    },
+    "difficulte": 2,
+    "tags": [
+      "élimination lacrymale"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/06-elimination/qcm-072",
+    "type": "multiple",
+    "enonce": "La rifampicine est citée dans le cours à propos de :",
+    "options": [
+      "L'élimination par les cheveux",
+      "Le cycle entéro-hépatique",
+      "L'excrétion biliaire active",
+      "L'élimination lacrymale",
+      "L'élimination pulmonaire"
+    ],
+    "correctes": [
+      1,
+      2,
+      3
+    ],
+    "explication": "La rifampicine apparaît dans l'excrétion biliaire active (ATB : éry, spira, amp, rif…), dans les exemples de cycle entéro-hépatique et dans l'élimination lacrymale. Elle n'est citée ni pour la voie pulmonaire (halotane, eucalyptol) ni pour les cheveux (arsenic).",
+    "source": {
+      "page": 29,
+      "extrait": "Le cycle entero-hépatique (chloramphénicol,rifampicine,tétracycline)."
+    },
+    "difficulte": 3,
+    "tags": [
+      "rifampicine",
+      "synthèse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/06-elimination/qcm-073",
+    "type": "multiple",
+    "enonce": "Les tétracyclines sont citées dans le cours à propos de :",
+    "options": [
+      "L'élimination sudorale",
+      "Le cycle entéro-hépatique",
+      "L'élimination au niveau des dents",
+      "L'excrétion gastrique des bases faibles",
+      "L'élimination pulmonaire"
+    ],
+    "correctes": [
+      1,
+      2
+    ],
+    "explication": "La tétracycline figure parmi les exemples de cycle entéro-hépatique et les tétracyclines sont associées aux dents dans le tableau des autres voies d'élimination. Elles ne sont citées ni pour la voie pulmonaire, ni pour la sueur, ni pour l'excrétion gastrique (quinine).",
+    "source": {
+      "page": 41,
+      "extrait": "Tétracyclines"
+    },
+    "difficulte": 2,
+    "tags": [
+      "tétracyclines",
+      "synthèse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/06-elimination/qcm-074",
+    "type": "multiple",
+    "enonce": "La période de demi-vie d'élimination :",
+    "options": [
+      "Représente le temps nécessaire pour éliminer la moitié de la quantité de PA de l'organisme",
+      "S'exprime en unité de temps",
+      "S'exprime en ml/min",
+      "Représente le volume de liquide complètement épuré du PA par unité de temps",
+      "Représente le temps nécessaire pour éliminer la totalité du PA"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "a) et b) Justes : définition et unité du cours. c) et d) Fausses : ml/min et « volume complètement épuré » se rapportent à la clairance. e) Fausse : la demi-vie correspond à la moitié, non à la totalité.",
+    "source": {
+      "page": 42,
+      "extrait": "le temps nécessaire pour éliminer la moitié de la quantité de PA de l’organisme."
+    },
+    "difficulte": 1,
+    "tags": [
+      "demi-vie"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/06-elimination/qcm-075",
+    "type": "multiple",
+    "enonce": "Concernant la demi-vie d'élimination et le schéma posologique :",
+    "options": [
+      "Plus la demi-vie est courte, plus le nombre de prises par jour sera important",
+      "Plus la demi-vie est courte, plus la fréquence d'administration sera rapprochée",
+      "Plus la demi-vie est courte, moins le nombre de prises par jour sera important",
+      "Plus la demi-vie est longue, plus les prises doivent être rapprochées",
+      "La demi-vie n'a aucune influence sur le rythme d'administration"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Le cours : plus la demi-vie d'un médicament est courte, plus le nombre de prises par jour sera important et la fréquence d'administration rapprochée (a et b). c) et d) sont des inversions. e) Fausse.",
+    "source": {
+      "page": 42,
+      "extrait": "plus la ½ vie d'un médicament est courte, plus le nombre de prises par jour sera important"
+    },
+    "difficulte": 1,
+    "tags": [
+      "demi-vie",
+      "posologie"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/06-elimination/qcm-076",
+    "type": "unique",
+    "enonce": "Un médicament a une demi-vie de 6 h. Après 12 h, la quantité de PA restant dans l'organisme représente :",
+    "options": [
+      "100 % de la quantité initiale",
+      "75 %",
+      "50 %",
+      "25 %",
+      "0 %"
+    ],
+    "correctes": [
+      3
+    ],
+    "explication": "Par définition, chaque demi-vie élimine la moitié de la quantité de PA présente. 12 h = 2 demi-vies : il reste 50 % après 6 h, puis 25 % après 12 h (d). 75 % correspond à la fraction éliminée, non restante.",
+    "source": {
+      "page": 42,
+      "extrait": "le temps nécessaire pour éliminer la moitié de la quantité de PA de l’organisme."
+    },
+    "difficulte": 2,
+    "tags": [
+      "demi-vie",
+      "calcul"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/06-elimination/qcm-077",
+    "type": "unique",
+    "enonce": "Une concentration plasmatique initiale de 80 mg/L, pour un médicament de demi-vie 4 h, devient au bout de 12 h environ :",
+    "options": [
+      "40 mg/L",
+      "20 mg/L",
+      "10 mg/L",
+      "5 mg/L",
+      "0 mg/L"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "12 h = 3 demi-vies. 80 → 40 (4 h) → 20 (8 h) → 10 mg/L (12 h). La réponse est c. Chaque demi-vie élimine la moitié de la quantité de PA présente.",
+    "source": {
+      "page": 42,
+      "extrait": "Elle représente le temps nécessaire pour éliminer la moitié de la quantité de PA"
+    },
+    "difficulte": 2,
+    "tags": [
+      "demi-vie",
+      "calcul"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/06-elimination/qcm-078",
+    "type": "multiple",
+    "enonce": "Parmi les propositions suivantes concernant la demi-vie, quelle(s) affirmation(s) est (sont) juste(s) ?",
+    "options": [
+      "Après une demi-vie, la moitié de la quantité de PA a été éliminée",
+      "Après deux demi-vies, 75 % de la quantité de PA a été éliminée",
+      "Après deux demi-vies, la totalité du PA a été éliminée",
+      "Elle s'exprime en unité de volume",
+      "Une demi-vie longue impose des prises plus fréquentes"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "a) Juste : définition. b) Juste : la moitié est éliminée pendant la 1re demi-vie, puis la moitié du reste (25 %) pendant la 2e, soit 75 %. c) Fausse : il reste 25 %. d) Fausse : unité de temps. e) Fausse : c'est une demi-vie courte qui impose des prises plus nombreuses et rapprochées.",
+    "source": {
+      "page": 42,
+      "extrait": "Elle s’exprime en unité de temps."
+    },
+    "difficulte": 2,
+    "tags": [
+      "demi-vie"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/06-elimination/qcm-079",
+    "type": "multiple",
+    "enonce": "La clairance :",
+    "options": [
+      "Est le volume de liquide complètement épuré du PA dans un temps donné",
+      "S'applique à tous les organes d'élimination",
+      "S'exprime en unité de temps",
+      "S'applique exclusivement au rein",
+      "Représente le temps nécessaire pour éliminer la moitié du PA"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "a) et b) Justes : définition du cours et application à tous les organes d'élimination. c) Fausse : c'est un volume par unité de temps (la demi-vie s'exprime en unité de temps). d) Fausse : « exclusivement » est faux. e) Fausse : c'est la définition de la demi-vie.",
+    "source": {
+      "page": 43,
+      "extrait": "Volume de liquide complètement épuré du PA dans un temps donné."
+    },
+    "difficulte": 1,
+    "tags": [
+      "clairance"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/06-elimination/qcm-080",
+    "type": "multiple",
+    "enonce": "La clairance totale :",
+    "options": [
+      "Fait intervenir plusieurs processus d'épuration",
+      "Est la somme des clairances partielles",
+      "Inclut les clairances rénale, hépatique, pulmonaire et intestinale",
+      "Est égale à la seule clairance rénale",
+      "Est le produit des clairances partielles"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "a), b) et c) Justes : la clairance totale résulte de plusieurs processus d'épuration et correspond à la somme (∑) des clairances partielles rénale, hépatique, pulmonaire, intestinale. d) Fausse : elle inclut toutes les clairances. e) Fausse : c'est une somme et non un produit.",
+    "source": {
+      "page": 43,
+      "extrait": "Plusieurs processus d’épuration ∑ clairances partielles"
+    },
+    "difficulte": 1,
+    "tags": [
+      "clairance"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/06-elimination/qcm-081",
+    "type": "unique",
+    "enonce": "Un médicament présente une clairance rénale de 60 ml/min, une clairance hépatique de 30 ml/min et une clairance pulmonaire de 10 ml/min. Sa clairance totale est de :",
+    "options": [
+      "18 000 ml/min",
+      "100 ml/min",
+      "60 ml/min",
+      "33 ml/min",
+      "40 ml/min"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Selon le cours, la clairance totale est la somme des clairances partielles : 60 + 30 + 10 = 100 ml/min (b). Il ne s'agit ni d'un produit (a), ni de la seule clairance rénale (c), ni d'une moyenne (d).",
+    "source": {
+      "page": 43,
+      "extrait": "∑ clairances partielles"
+    },
+    "difficulte": 2,
+    "tags": [
+      "clairance",
+      "calcul"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/06-elimination/qcm-082",
+    "type": "multiple",
+    "enonce": "Concernant les paramètres pharmacocinétiques de l'élimination :",
+    "options": [
+      "La demi-vie s'exprime en unité de temps",
+      "La clairance correspond à un volume épuré dans un temps donné",
+      "La clairance totale est la somme des clairances partielles",
+      "La demi-vie correspond au volume épuré du PA par unité de temps",
+      "La clairance s'applique uniquement au foie"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "a), b) et c) Justes : définitions du cours. d) Fausse : c'est la définition de la clairance, pas de la demi-vie. e) Fausse : la clairance s'applique à tous les organes d'élimination.",
+    "source": {
+      "page": 43,
+      "extrait": "S’applique à tous les organes d’élimination."
+    },
+    "difficulte": 1,
+    "tags": [
+      "clairance",
+      "demi-vie"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/06-elimination/qcm-083",
+    "type": "multiple",
+    "enonce": "Une insuffisance de l'organe responsable de l'élimination (rénale ou hépatique) entraîne :",
+    "options": [
+      "Un ralentissement de l'élimination",
+      "Un risque d'accumulation du produit",
+      "Un risque d'effets toxiques",
+      "Une accélération de l'élimination",
+      "Une diminution du risque d'accumulation"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Le cours : toute insuffisance de l'organe responsable de l'élimination → ralentissement de l'élimination → risque d'accumulation → effets toxiques (exemples : IR ou IH). d) et e) sont des inversions.",
+    "source": {
+      "page": 44,
+      "extrait": "ralentissement de l’élimination → risque d’accumulation du produit → des effets toxiques"
+    },
+    "difficulte": 1,
+    "tags": [
+      "conclusion",
+      "insuffisance rénale"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/06-elimination/qcm-084",
+    "type": "multiple",
+    "enonce": "L'étude de la pharmacocinétique est importante pour définir les modalités d'administration d'un médicament en développement, à savoir :",
+    "options": [
+      "La voie d'administration",
+      "La dose",
+      "Le rythme d'administration",
+      "Le prix de vente du médicament",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Le cours précise que l'étude du devenir du médicament (pharmacocinétique) permet de définir les modalités d'administration : voie, dose et rythme d'administration. d) Fausse : sans rapport. e) Fausse car a, b, c sont justes.",
+    "source": {
+      "page": 44,
+      "extrait": "à savoir la voie d’administration, la dose et le rythme d’administration"
+    },
+    "difficulte": 1,
+    "tags": [
+      "conclusion"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/06-elimination/qcm-085",
+    "type": "multiple",
+    "enonce": "Parmi les propositions suivantes, quelle(s) affirmation(s) est (sont) juste(s) ?",
+    "options": [
+      "Le rein est la principale voie d'excrétion des médicaments",
+      "Le poumon élimine les produits volatils dans l'air expiré",
+      "L'élimination biliaire peut aboutir à une élimination définitive dans les fèces",
+      "La sueur et les larmes sont des voies majeures d'élimination",
+      "Le cycle entéro-hépatique diminue la durée de séjour du PA"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "a), b) et c) Justes selon le cours. d) Fausse : ce sont des voies accessoire (sueur) et très accessoire (larmes). e) Fausse : le cycle entéro-hépatique augmente la durée de séjour du PA.",
+    "source": {
+      "page": 7,
+      "extrait": "Principale voie d'excrétion des médicaments"
+    },
+    "difficulte": 2,
+    "tags": [
+      "synthèse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/06-elimination/qcm-086",
+    "type": "multiple",
+    "enonce": "Les sulfamides sont cités dans le cours à propos de :",
+    "options": [
+      "Le cycle entéro-hépatique",
+      "L'élimination sudorale",
+      "L'élimination salivaire par diffusion passive",
+      "L'élimination pulmonaire",
+      "L'élimination lacrymale"
+    ],
+    "correctes": [
+      1,
+      2,
+      4
+    ],
+    "explication": "Les sulfamides apparaissent dans l'élimination salivaire (diffusion passive : morphine, sulfamide, pénicilline), sudorale et lacrymale. Ils ne sont cités ni pour la voie pulmonaire (halotane, eucalyptol), ni pour le cycle entéro-hépatique (chloramphénicol, rifampicine, tétracycline).",
+    "source": {
+      "page": 37,
+      "extrait": "Sulfamides"
+    },
+    "difficulte": 3,
+    "tags": [
+      "sulfamides",
+      "synthèse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/06-elimination/qcm-087",
+    "type": "multiple",
+    "enonce": "Les mécanismes « saturation » et « compétition » sont décrits dans le cours pour :",
+    "options": [
+      "La diffusion passive dans la bile",
+      "L'excrétion biliaire active",
+      "La sécrétion tubulaire rénale",
+      "La filtration glomérulaire",
+      "La réabsorption tubulaire passive"
+    ],
+    "correctes": [
+      1,
+      2
+    ],
+    "explication": "Le cours décrit la sécrétion tubulaire comme mécanisme actif (transporteurs sélectifs, saturation, compétition) et l'excrétion biliaire active (saturation, compétition). La filtration glomérulaire, la diffusion passive biliaire et la réabsorption passive sont des phénomènes passifs, non saturables.",
+    "source": {
+      "page": 28,
+      "extrait": "Excrétion active (saturation, compétition)"
+    },
+    "difficulte": 3,
+    "tags": [
+      "mécanismes actifs",
+      "synthèse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/06-elimination/qcm-088",
+    "type": "multiple",
+    "enonce": "La pénicilline est citée dans le cours à propos de :",
+    "options": [
+      "L'élimination salivaire par diffusion passive",
+      "La réabsorption tubulaire active au TCP",
+      "L'élimination pulmonaire",
+      "La sécrétion tubulaire en compétition avec le probénécide",
+      "L'élimination par les cheveux"
+    ],
+    "correctes": [
+      0,
+      3
+    ],
+    "explication": "La pénicilline est citée pour le passage salivaire par diffusion passive (morphine, sulfamide, pénicilline) et la pénicilline G pour la sécrétion tubulaire, dont l'élimination est retardée par le probénécide. Les autres propositions ne correspondent pas au cours.",
+    "source": {
+      "page": 16,
+      "extrait": "Probénicide Pénicilline G Retarde l'élimination"
+    },
+    "difficulte": 2,
+    "tags": [
+      "pénicilline",
+      "synthèse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/06-elimination/qcm-089",
+    "type": "multiple",
+    "enonce": "Concernant le seuil de poids moléculaire de 300 Da (D) dans le cours :",
+    "options": [
+      "La sécrétion biliaire est plus importante pour les molécules de PM > 300 D",
+      "Les glucuronides de PM < 300 Da sont excrétés dans les urines",
+      "Les glucuronides de PM > 300 Da sont excrétés dans la bile",
+      "C'est le seuil de la filtration glomérulaire",
+      "Les glucuronides de PM > 300 Da sont excrétés dans les urines"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "a), b) et c) Justes selon le cours. d) Fausse : le seuil de filtration glomérulaire est de 68 000 Da. e) Fausse : les glucuronides de PM > 300 Da passent dans la bile.",
+    "source": {
+      "page": 29,
+      "extrait": "PM>300 DA excrétés dans la bile"
+    },
+    "difficulte": 2,
+    "tags": [
+      "élimination biliaire",
+      "poids moléculaire"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/06-elimination/qcm-090",
+    "type": "multiple",
+    "enonce": "Concernant l'élimination rénale, quelle(s) proposition(s) est (sont) fausse(s) ?",
+    "options": [
+      "La filtration glomérulaire concerne la fraction liée aux protéines",
+      "La sécrétion tubulaire est un mécanisme passif",
+      "Les acides forts sont intensément réabsorbés",
+      "La réabsorption passive se fait au niveau du TCP",
+      "Le néphron est l'unité fonctionnelle du rein"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "On cherche les propositions fausses. a) Fausse : seule la fraction libre est filtrée. b) Fausse : la sécrétion est active. c) Fausse : les acides forts, ionisés en totalité, ne sont jamais réabsorbés. d) Fausse : la réabsorption passive se fait au TCD et au TC (le TCP est le site de la réabsorption active et de la sécrétion). e) Juste, donc à ne pas cocher.",
+    "source": {
+      "page": 19,
+      "extrait": "Passif TCD et TC"
+    },
+    "difficulte": 3,
+    "tags": [
+      "élimination rénale"
+    ],
+    "origine": "genere"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "id": "chimie-analytique/04-extraction-contre-courant/cas-001",
+    "titre": "Dimensionnement d'une colonne industrielle",
+    "enonce": "Un atelier de production utilise une colonne d'extraction à contre-courant de 2 m pour extraire un antibiotique. Les conditions opératoires donnent α = 2.",
+    "questions": [
+      {
+        "type": "unique",
+        "enonce": "Avec 3 étages théoriques, le rendement est d'environ :",
+        "options": [
+          "85,7 %",
+          "93,3 %",
+          "96,8 %",
+          "87,5 %",
+          "66,7 %"
+        ],
+        "correctes": [
+          1
+        ],
+        "explication": "ρ = 1 − 1/(2⁴ − 1) = 14/15 ≈ 93,3 %.",
+        "difficulte": 2,
+        "origine": "genere",
+        "id": "chimie-analytique/04-extraction-contre-courant/cas-001-q1"
+      },
+      {
+        "type": "unique",
+        "enonce": "Si la colonne possède 20 étages théoriques, la HEET vaut :",
+        "options": [
+          "10 cm",
+          "1 cm",
+          "40 cm",
+          "20 cm",
+          "0,1 cm"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "HEET = 200 cm/20 = 10 cm.",
+        "difficulte": 1,
+        "origine": "genere",
+        "id": "chimie-analytique/04-extraction-contre-courant/cas-001-q2"
+      },
+      {
+        "type": "multiple",
+        "enonce": "La décantation dans cette colonne :",
+        "options": [
+          "Est souvent délicate à cause des émulsions",
+          "Peut être facilitée par centrifugation",
+          "Se fait après introduction du solvant lourd en haut",
+          "Est toujours immédiate",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "Le solvant lourd est introduit en haut ; les émulsions rendent la décantation délicate, la centrifugation aide à les rompre.",
+        "difficulte": 2,
+        "origine": "genere",
+        "id": "chimie-analytique/04-extraction-contre-courant/cas-001-q3"
+      }
+    ]
+  }
+]

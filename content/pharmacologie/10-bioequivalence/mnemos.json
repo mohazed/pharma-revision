@@ -1,0 +1,32 @@
+[
+  {
+    "id": "pharmacologie/10-bioequivalence/mnemo-001",
+    "titre": "Biowaiver BCS",
+    "moyen": "« Un et Trois, Soluble c'est le choix »",
+    "explication": "Classes I et III (solubilité élevée) éligibles ; II et IV (solubilité faible) non éligibles."
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/mnemo-002",
+    "titre": "Bornes d'acceptation",
+    "moyen": "« 80-125 pour tous, 90-111 pour les étroits »",
+    "explication": "IC 90 % du rapport des moyennes géométriques : 80,00–125,00 % en général ; 90,00–111,11 % pour l'index thérapeutique étroit."
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/mnemo-003",
+    "titre": "Chiffres clés de l'étude",
+    "moyen": "« 5 – 12 – 12 – 80 – 72 »",
+    "explication": "Wash-out ≥ 5 T1/2 ; ≥ 12 sujets ; jeûne ≈ 12 h ; AUC(0–t) ≥ 80 % de l'AUC(0–∞) ; AUC tronquée à 72 h."
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/mnemo-004",
+    "titre": "Plans alternatifs",
+    "moyen": "« Longue → Parallèle, Variable → Répliqué »",
+    "explication": "Longue demi-vie → groupes parallèles ; forte variabilité intra-individuelle → croisé répliqué."
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/mnemo-005",
+    "titre": "Exclusions du biowaiver BCS",
+    "moyen": "« ÉtroIT, LP, Bouche »",
+    "explication": "Index thérapeutique étroit, libération prolongée, absorption buccale/sublinguale."
+  }
+]

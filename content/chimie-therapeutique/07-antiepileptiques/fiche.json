@@ -1,0 +1,90 @@
+{
+  "id": "chimie-therapeutique/07-antiepileptiques/fiche",
+  "titre": "Les antiépileptiques : l'essentiel",
+  "sections": [
+    {
+      "titre": "Épilepsie",
+      "points": [
+        "Affection neurologique **chronique** liée à une anomalie de la fonction électrique cérébrale, crises périodiques et imprévisibles",
+        "Jackson : décharge paroxystique excessive hypersynchrone d'une population neuronique",
+        "Crises **focales** (simples/complexes) et **généralisées** (absences « petit mal », tonico-cloniques « grand mal », myocloniques, toniques, atoniques)",
+        "Physiopathologie : instabilité membranaire, déséquilibre GABA/glutamate, modifications des récepteurs GABA(A)"
+      ]
+    },
+    {
+      "titre": "Classifications",
+      "points": [
+        "Chimique : hydantoïnes, barbituriques, désoxybarbituriques, iminostilbènes, succinimides, acide carboxylique, benzodiazépines",
+        "Chronologique : 1re génération (phénobarbital, primidone, phénytoïne, valproate, carbamazépine, éthosuximide, BZD), 2e (lamotrigine, gabapentine, vigabatrine, tiagabine, topiramate, felbamate, oxcarbazépine), 3e après 2000 (lévétiracétam, prégabaline, zonisamide…)",
+        "Mécanistique : action sur la neurotransmission (GABA, glutamate) ou inhibition des canaux ioniques voltage-dépendants (Na+, Ca++)"
+      ]
+    },
+    {
+      "titre": "Mécanismes",
+      "points": [
+        "Canaux Na+ : blocage pendant l'**inactivation** → carbamazépine, lamotrigine, phénytoïne, acide valproïque",
+        "Canaux Ca++ de type **T** (neurones thalamiques, absences) → éthosuximide, valproate, triméthadione",
+        "GABA : récepteurs GABA(A) post-synaptiques (BZD, barbituriques) ; métabolisme (vigabatrine : GABA-transaminase ; tiagabine : recapture)",
+        "Glutamate : felbamate (antagoniste NMDA), lamotrigine (libération de glutamate)"
+      ]
+    },
+    {
+      "titre": "Structure générale (1re génération)",
+      "points": [
+        "Structure commune : R1 et R2 sur un carbone, groupe R variable",
+        "R = CO–NH : barbiturique ; NH : hydantoïne ; O : oxazolidine-dione ; CH2 : succinimide",
+        "Barbituriques : X = O ou S ; R alkyle ; R1 et R2 alkyles saturés/insaturés, cyclaniques ou aromatiques"
+      ]
+    },
+    {
+      "titre": "Molécules de 1re génération",
+      "points": [
+        "**Phénobarbital** (Gardénal®) : phényle en 5, GABA-A et courant Cl⁻ ; large sauf absences ; sédatif",
+        "**Primidone** (Mysoline®) : 2-désoxyphénobarbital, prodrogue ; tonico-cloniques et partielles, pas d'absences",
+        "**Phénytoïne** (Di-hydan®) : hydantoïne, canaux Na+ intracellulaires ; partielles et tonico-cloniques, pas d'absences",
+        "**Triméthadione** (Epidione®) : oxazolidine-dione retirée (tératogénicité)",
+        "**Éthosuximide** (Zarontin®) : succinimide, courant T thalamique, premier choix des absences",
+        "**Carbamazépine** (Tégrétol®) : iminostilbène, carbamyl en 5 essentiel, inactivation des canaux Na+ ; partielles et tonico-cloniques, inactive sur le petit mal",
+        "**BZD** : clobazam (Urbanyl), clonazépam (Rivotril), diazépam (Valium)",
+        "**Valproate** (Dépakine®) : acide 2-propylpentanoïque, 4 mécanismes, spectre le plus large"
+      ]
+    },
+    {
+      "titre": "Synthèses à connaître",
+      "points": [
+        "Phénobarbital : Friedel-Crafts → chloration du toluène → KCN + hydrolyse → acide phénylacétique → malonate disubstitué + **urée**",
+        "Carbamazépine : 5H-dibenzo[b,f]azépine + **phosgène** → chlorcarboxy-dibenzazépine + **NH3**"
+      ]
+    },
+    {
+      "titre": "2e et 3e générations",
+      "points": [
+        "**Oxcarbazépine** : céto-analogue, MHD actif, moins d'interactions et d'hyponatrémies",
+        "**Gabapentine** (Neurontin®) : analogue du GABA, complément des partielles",
+        "**Felbamate** (Taloxa®) : antagoniste NMDA + GABA ; toxicité hépatique et hématologique, 2e-3e ligne",
+        "**Lamotrigine** (Lamictal®) : phényltriazine ; Na+, Ca++ thalamique, glutamate ; partielles résistantes, absences, myocloniques",
+        "**Tiagabine** (Gabitril®) : recapture du GABA, adjuvant des partielles",
+        "**Lévétiracétam** (Keppra, 2001) : pyrrolidone, GABA cyclisé ; partielles, très peu d'effets indésirables",
+        "**Prégabaline** (Lyrica®) : GABAergique + courant Ca++ T ; partielles et absences"
+      ]
+    },
+    {
+      "titre": "Limites et tolérance",
+      "points": [
+        "AE traditionnels : cinétique non linéaire (phénytoïne), forte liaison protéique, auto-induction, interactions, variabilité selon l'âge",
+        "Nouveaux AE : mécanismes multiples, efficacité large en association, effets indésirables surtout SNC (somnolence, vertiges), rarement hépato/hématotoxicité, tératogénicité peu investiguée"
+      ]
+    }
+  ],
+  "aRetenir": [
+    "Éthosuximide = premier choix des absences ; carbamazépine et phénytoïne y sont inactives",
+    "Carbamazépine : carbamyl en 5 indispensable ; phénobarbital et phénytoïne : phényle en 5",
+    "Valproate : quatre mécanismes et spectre le plus large"
+  ],
+  "pieges": [
+    "Ne pas confondre vigabatrine (GABA-transaminase) et tiagabine (recapture du GABA)",
+    "La primidone est une prodrogue, pas un métabolite",
+    "Les bloqueurs sodiques agissent pendant l'inactivation, pas à l'ouverture",
+    "La triméthadione a été retirée pour tératogénicité ; le felbamate est hépato- et hématotoxique"
+  ]
+}

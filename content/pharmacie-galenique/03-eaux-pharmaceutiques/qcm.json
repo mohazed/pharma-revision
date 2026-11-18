@@ -1,0 +1,1715 @@
+[
+  {
+    "id": "pharmacie-galenique/03-eaux-pharmaceutiques/qcm-001",
+    "type": "multiple",
+    "enonce": "Concernant l'eau dans l'industrie pharmaceutique :",
+    "options": [
+      "Elle est utilisée comme excipient",
+      "Elle est l'élément principal de nettoyage des cuves, équipements ou emballages primaires",
+      "Elle intervient lors de la synthèse du principe actif",
+      "Elle sert à reconstituer un médicament",
+      "C'est l'utilité la plus utilisée dans l'industrie pharmaceutique"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "L'eau est l'utilité la plus utilisée ; elle sert d'excipient, à la reconstitution, à la synthèse du PA, à la formulation et au nettoyage des cuves, équipements et emballages primaires.",
+    "source": {
+      "page": 1,
+      "extrait": "L'eau est l'utilité la plus utilisée dans l'industrie pharmaceutique"
+    },
+    "difficulte": 1,
+    "tags": [
+      "introduction"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/03-eaux-pharmaceutiques/qcm-002",
+    "type": "multiple",
+    "enonce": "Les différentes qualités d'eaux pharmaceutiques se distinguent par :",
+    "options": [
+      "Leur couleur",
+      "Leur température d'ébullition",
+      "Leur saveur",
+      "Leur pureté chimique",
+      "Leur pureté microbiologique"
+    ],
+    "correctes": [
+      3,
+      4
+    ],
+    "explication": "Les différentes qualités d'eau se remarquent par leur pureté chimique et microbiologique.",
+    "source": {
+      "page": 1,
+      "extrait": "Les différentes qualités d'eau se remarquent par leur pureté chimique et microbiologique"
+    },
+    "difficulte": 1,
+    "tags": [
+      "généralités"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/03-eaux-pharmaceutiques/qcm-003",
+    "type": "multiple",
+    "enonce": "Parmi les solutés minéraux contaminant l'eau, les ions responsables de la dureté de l'eau sont :",
+    "options": [
+      "Cl⁻",
+      "Mg²⁺",
+      "Na⁺",
+      "K⁺",
+      "Ca²⁺"
+    ],
+    "correctes": [
+      1,
+      4
+    ],
+    "explication": "Les cations Ca²⁺ et Mg²⁺ sont responsables de la dureté de l'eau.",
+    "source": {
+      "page": 1,
+      "extrait": "Cations: Ca2+ et Mg2+ (dureté de l'eau)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "contaminants"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/03-eaux-pharmaceutiques/qcm-004",
+    "type": "multiple",
+    "enonce": "Les contaminants de l'eau comprennent :",
+    "options": [
+      "Des particules",
+      "Des micro-organismes",
+      "Des solutés minéraux",
+      "Des matières organiques",
+      "Des gaz dissous"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Le cours distingue cinq types de contaminants : solutés minéraux, matières organiques, gaz dissous, micro-organismes et particules.",
+    "source": {
+      "page": 1,
+      "extrait": "Les différents contaminants de l'eau"
+    },
+    "difficulte": 1,
+    "tags": [
+      "contaminants"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/03-eaux-pharmaceutiques/qcm-005",
+    "type": "multiple",
+    "enonce": "Parmi les anions contaminants de l'eau cités, on trouve :",
+    "options": [
+      "SO₄²⁻",
+      "Mg²⁺",
+      "La silice SiO₂ (oxyde de silicium)",
+      "Cl⁻",
+      "Fe³⁺"
+    ],
+    "correctes": [
+      0,
+      2,
+      3
+    ],
+    "explication": "Anions cités : Cl⁻, SO₄, SiO₂ (oxyde de silicium). Fe³⁺ et Mg²⁺ sont des cations.",
+    "source": {
+      "page": 1,
+      "extrait": "Anions : Cl-, SO4-, SiO2: oxyde de silicium"
+    },
+    "difficulte": 2,
+    "tags": [
+      "contaminants"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/03-eaux-pharmaceutiques/qcm-006",
+    "type": "multiple",
+    "enonce": "Les matières organiques contaminant l'eau :",
+    "options": [
+      "Comprennent les tannins",
+      "Comprennent insecticides et fertilisants",
+      "Comprennent des désinfectants (agents chlorés), des détergents et le formol",
+      "Sont représentées par le Ca²⁺ et le Mg²⁺",
+      "Proviennent de la décomposition naturelle de substances des eaux de surface"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explication": "Les matières organiques proviennent de la décomposition naturelle de substances des eaux de surface : tannins, insecticides, fertilisants, agents chlorés, détergents, formol.",
+    "source": {
+      "page": 1,
+      "extrait": "les tannins, des insecticides, des fertilisants, des désinfectants comme les agents chlorés, les détergents et le formol"
+    },
+    "difficulte": 2,
+    "tags": [
+      "contaminants"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/03-eaux-pharmaceutiques/qcm-007",
+    "type": "multiple",
+    "enonce": "Les gaz dissous dans l'eau cités dans le cours sont :",
+    "options": [
+      "Le chlore gazeux",
+      "L'oxygène",
+      "Le CO₂",
+      "L'azote",
+      "L'hélium"
+    ],
+    "correctes": [
+      1,
+      2,
+      3
+    ],
+    "explication": "Gaz dissous : oxygène, CO₂, azote.",
+    "source": {
+      "page": 1,
+      "extrait": "Gaz dissous Oxygène, CO2, azote"
+    },
+    "difficulte": 1,
+    "tags": [
+      "contaminants"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/03-eaux-pharmaceutiques/qcm-008",
+    "type": "multiple",
+    "enonce": "Concernant les micro-organismes et pyrogènes de l'eau :",
+    "options": [
+      "Les micro-organismes de l'eau sont toujours pathogènes",
+      "Les micro-organismes ne sont pas forcément pathogènes",
+      "Ce sont essentiellement des bactéries",
+      "Les pyrogènes proviennent du métabolisme des bactéries",
+      "Les pyrogènes provoquent une brusque augmentation de la température"
+    ],
+    "correctes": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Les micro-organismes, essentiellement des bactéries, ne sont pas forcément pathogènes ; les pyrogènes proviennent du métabolisme bactérien et provoquent une brusque hyperthermie.",
+    "source": {
+      "page": 1,
+      "extrait": "ce sont des substances qui provoquent une brusque augmentation de la température"
+    },
+    "difficulte": 1,
+    "tags": [
+      "pyrogènes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/03-eaux-pharmaceutiques/qcm-009",
+    "type": "unique",
+    "enonce": "La présence de particules dans l'eau peut faciliter la présence de bactéries car :",
+    "options": [
+      "Les particules libèrent des nutriments azotés",
+      "Les particules sont des pyrogènes",
+      "Les particules neutralisent les UV",
+      "La bactérie doit se fixer sur des particules pour survivre",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      3
+    ],
+    "explication": "La bactérie, pour survivre, doit se fixer sur des particules ; leur présence facilite donc celle des bactéries.",
+    "source": {
+      "page": 1,
+      "extrait": "La bactérie pour survivre doit se fixer sur des particules"
+    },
+    "difficulte": 2,
+    "tags": [
+      "particules"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/03-eaux-pharmaceutiques/qcm-010",
+    "type": "multiple",
+    "enonce": "La purification de l'eau :",
+    "options": [
+      "L'eau obtenue est appelée eau de process ou eau de procédé",
+      "Part obligatoirement d'eau de mer",
+      "Consiste à éliminer les contaminants",
+      "Part d'eau potable",
+      "Regroupe l'ensemble des techniques permettant d'obtenir de l'eau de process"
+    ],
+    "correctes": [
+      0,
+      2,
+      3,
+      4
+    ],
+    "explication": "La purification regroupe les techniques permettant d'obtenir de l'eau de process (eau de procédé) à partir d'eau potable, par élimination des contaminants.",
+    "source": {
+      "page": 2,
+      "extrait": "permettant d'obtenir de l'eau de process à partir d'eau potable"
+    },
+    "difficulte": 1,
+    "tags": [
+      "purification"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/03-eaux-pharmaceutiques/qcm-011",
+    "type": "multiple",
+    "enonce": "L'eau purifiée :",
+    "options": [
+      "A pour exemples l'eau distillée et l'eau déminéralisée (désionisée)",
+      "Est issue d'un traitement physique destiné à supprimer les impuretés",
+      "Est obligatoirement stérile et apyrogène",
+      "Est destinée à la préparation de médicaments autres que ceux devant être stériles et exempts de pyrogènes, sauf exception justifiée et autorisée",
+      "Est réservée aux préparations parentérales"
+    ],
+    "correctes": [
+      0,
+      1,
+      3
+    ],
+    "explication": "L'eau purifiée sert aux médicaments non stériles et non apyrogènes (sauf exception justifiée), issue d'un traitement physique ; ex : eau distillée, eau déminéralisée. Elle n'est pas destinée aux parentérales.",
+    "source": {
+      "page": 2,
+      "extrait": "Eau destinée à la préparation de médicaments autres que ceux qui doivent être stériles et exempts de pyrogènes"
+    },
+    "difficulte": 1,
+    "tags": [
+      "eau purifiée"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/03-eaux-pharmaceutiques/qcm-012",
+    "type": "multiple",
+    "enonce": "L'eau hautement purifiée :",
+    "options": [
+      "Est utilisée lorsqu'une eau d'une qualité biologique élevée est nécessaire",
+      "Est illustrée par l'exemple de l'hémodialyse",
+      "En hémodialyse, la Pharmacopée prescrit une eau totalement exempte d'aluminium",
+      "Est l'eau des préparations pour irrigation",
+      "Est obligatoirement conditionnée en ampoules stérilisées"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "L'EHP est utilisée lorsqu'une qualité biologique élevée est nécessaire ; en hémodialyse, la Pharmacopée prescrit une eau totalement exempte d'aluminium.",
+    "source": {
+      "page": 2,
+      "extrait": "en hémodialyse, la pharmacopée prescrit une eau totalement exempte d'aluminium"
+    },
+    "difficulte": 2,
+    "tags": [
+      "eau hautement purifiée"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/03-eaux-pharmaceutiques/qcm-013",
+    "type": "unique",
+    "enonce": "L'eau pour préparations injectables (EPPI) en vrac est destinée :",
+    "options": [
+      "À l'irrigation des cavités",
+      "À la préparation de médicaments pour administration parentérale à véhicule aqueux",
+      "Aux préparations orales uniquement",
+      "À la dissolution extemporanée des préparations parentérales en ampoule stérile",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "L'EPPI en vrac sert à la préparation de médicaments parentéraux à véhicule aqueux. L'eau stérile et apyrogène PPI répartie en récipients sert à la dissolution ou dilution au moment de l'emploi.",
+    "source": {
+      "page": 2,
+      "extrait": "à la préparation de médicaments pour administration parentérale à véhicule aqueux : Eau pour préparations injectables en vrac"
+    },
+    "difficulte": 2,
+    "tags": [
+      "EPPI"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/03-eaux-pharmaceutiques/qcm-014",
+    "type": "multiple",
+    "enonce": "L'eau stérile et apyrogène pour préparations injectables :",
+    "options": [
+      "Est conditionnée en ampoules pour les petits volumes",
+      "Est stérilisée par la chaleur",
+      "Est conditionnée en flacons de verre pour les grands volumes",
+      "Est une EPPI en vrac répartie dans des récipients appropriés puis fermés",
+      "Sert à la dissolution ou dilution des préparations parentérales au moment de l'emploi"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "C'est une EPPI en vrac répartie dans des récipients (ampoules petits volumes, flacons de verre grands volumes), fermés puis stérilisés par la chaleur, utilisée pour dissoudre ou diluer au moment de l'emploi.",
+    "source": {
+      "page": 2,
+      "extrait": "ampoule pour les petits volumes et flacon de verre pour les grands volumes puis stérilisés par la chaleur"
+    },
+    "difficulte": 2,
+    "tags": [
+      "EPPI"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/03-eaux-pharmaceutiques/qcm-015",
+    "type": "multiple",
+    "enonce": "On distingue l'EPPI en vrac de l'EPPI stérilisée car :",
+    "options": [
+      "L'EPPI stérilisée n'est pas apyrogène",
+      "Les contrôles réalisés sur ces deux eaux diffèrent",
+      "L'EPPI en vrac est stérile",
+      "Après stérilisation dans son conditionnement, certaines propriétés de l'eau peuvent changer",
+      "Les deux eaux ont exactement les mêmes contrôles"
+    ],
+    "correctes": [
+      1,
+      3
+    ],
+    "explication": "Après stérilisation dans son conditionnement, certaines propriétés de l'eau peuvent changer : les contrôles de l'EPPI en vrac diffèrent donc de ceux de l'EPPI stérilisée.",
+    "source": {
+      "page": 3,
+      "extrait": "les contrôles effectués sur l'eau ppi en vrac diffèrent de ceux réalisés sur l'eau stérilisée ppi"
+    },
+    "difficulte": 2,
+    "tags": [
+      "EPPI"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/03-eaux-pharmaceutiques/qcm-016",
+    "type": "multiple",
+    "enonce": "L'eau pour irrigation :",
+    "options": [
+      "Est conditionnée en récipients unidoses (flacon versable)",
+      "Est destinée à l'irrigation des cavités, lésions et surfaces corporelles",
+      "Est une préparation aqueuse stérile de grand volume",
+      "Est codifiée par la Pharmacopée européenne (monographie « Préparations pour irrigation »)",
+      "A un orifice adaptable aux dispositifs de perfusion"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Préparations aqueuses stériles de grands volumes pour irrigation (ex : interventions chirurgicales), en flacons versables unidoses dont l'orifice ne doit pas être adaptable aux dispositifs de perfusion.",
+    "source": {
+      "page": 3,
+      "extrait": "leur orifice ne doit pas être adaptable aux dispositifs de perfusion"
+    },
+    "difficulte": 2,
+    "tags": [
+      "eau pour irrigation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/03-eaux-pharmaceutiques/qcm-017",
+    "type": "multiple",
+    "enonce": "L'étiquetage de l'eau pour irrigation doit indiquer que :",
+    "options": [
+      "Elle peut être administrée par perfusion",
+      "Elle doit être utilisée en une seule fois",
+      "Elle peut être réutilisée pendant 24 h",
+      "Les quantités non utilisées doivent être jetées",
+      "L'eau ne doit pas être injectée"
+    ],
+    "correctes": [
+      1,
+      3,
+      4
+    ],
+    "explication": "L'étiquetage indique : ne pas injecter, utiliser en une seule fois, jeter les quantités non utilisées.",
+    "source": {
+      "page": 3,
+      "extrait": "L'étiquetage doit indiquer que l'eau ne doit pas être injectée, qu'elle doit être utilisée en une seule fois"
+    },
+    "difficulte": 1,
+    "tags": [
+      "eau pour irrigation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/03-eaux-pharmaceutiques/qcm-018",
+    "type": "unique",
+    "enonce": "Selon le cours, l'eau pour irrigation doit contenir moins de :",
+    "options": [
+      "0,25 UI/ml d'endotoxines bactériennes",
+      "5 UI/ml d'endotoxines bactériennes",
+      "0,5 UI/ml d'endotoxines bactériennes",
+      "100 UFC/ml de germes",
+      "10 UI/ml d'endotoxines bactériennes"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "L'eau pour irrigation doit être stérile et contenir moins de 0,5 UI/ml d'endotoxines bactériennes.",
+    "source": {
+      "page": 3,
+      "extrait": "L'eau pour irrigation doit être stérile et contenir moins de 0,5 UI/ml d'endotoxines bactériennes"
+    },
+    "difficulte": 2,
+    "tags": [
+      "eau pour irrigation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/03-eaux-pharmaceutiques/qcm-019",
+    "type": "multiple",
+    "enonce": "Parmi les eaux suivantes, lesquelles doivent être stériles ?",
+    "options": [
+      "L'EPPI en vrac",
+      "L'eau pour irrigation",
+      "L'eau purifiée",
+      "L'EPPI stérilisée (eau stérile et apyrogène PPI)",
+      "L'eau hautement purifiée"
+    ],
+    "correctes": [
+      1,
+      3
+    ],
+    "explication": "L'eau pour irrigation et l'EPPI stérilisée sont stériles. Le tableau des contrôles indique « stérilité : NON » pour EP, EHP et EPPI en vrac.",
+    "source": {
+      "page": 9,
+      "extrait": "Stérilité NON NON NON OUI"
+    },
+    "difficulte": 2,
+    "tags": [
+      "qualités d'eaux"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/03-eaux-pharmaceutiques/qcm-020",
+    "type": "multiple",
+    "enonce": "Les méthodes de purification de l'eau citées sont :",
+    "options": [
+      "L'osmose inverse",
+      "La désionisation par échangeurs d'ions",
+      "La distillation",
+      "L'ultrafiltration",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Quatre méthodes : désionisation par échangeurs d'ions, osmose inverse, distillation, ultrafiltration.",
+    "source": {
+      "page": 3,
+      "extrait": "Désionisation par échangeurs d'ions ▪ Osmose inverse ▪ Distillation ▪ Ultrafiltration"
+    },
+    "difficulte": 1,
+    "tags": [
+      "méthodes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/03-eaux-pharmaceutiques/qcm-021",
+    "type": "multiple",
+    "enonce": "Concernant la désionisation par échangeurs d'ions :",
+    "options": [
+      "L'eau est traitée par des résines échangeuses d'anions et de cations",
+      "Elle élimine les bactéries et les pyrogènes",
+      "C'est une étape d'une filière de production d'eau purifiée",
+      "Les ions de l'eau sont échangés avec des ions H⁺ et OH⁻",
+      "Les ions H⁺ et OH⁻ se combinent pour former des molécules d'eau"
+    ],
+    "correctes": [
+      0,
+      2,
+      3,
+      4
+    ],
+    "explication": "Les résines échangent les ions de l'eau contre H⁺ et OH⁻ qui se combinent en eau ; c'est une étape de la production d'eau purifiée, d'eau de dialyse, d'eau d'autoclaves. Elle n'enlève ni particules, ni bactéries, ni matières organiques.",
+    "source": {
+      "page": 3,
+      "extrait": "les ions de l'eau traitée sont échangés avec des ions H+ et OH-"
+    },
+    "difficulte": 1,
+    "tags": [
+      "échangeurs d'ions"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/03-eaux-pharmaceutiques/qcm-022",
+    "type": "unique",
+    "enonce": "Dans un échangeur de cations du type R–SO₃H, le Na⁺ de l'eau est échangé contre :",
+    "options": [
+      "Cl⁻",
+      "H⁺",
+      "NH₄⁺",
+      "OH⁻",
+      "Ca²⁺"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "R–SO₃H + Na⁺ ⇌ R–SO₃Na + H⁺ : la résine cationique libère H⁺. La résine anionique R–NH₃OH libère OH⁻ en fixant Cl⁻.",
+    "source": {
+      "page": 3,
+      "extrait": "R -SO3H + Na+ <- -> R -SO3Na + H+"
+    },
+    "difficulte": 2,
+    "tags": [
+      "échangeurs d'ions"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/03-eaux-pharmaceutiques/qcm-023",
+    "type": "multiple",
+    "enonce": "Concernant la configuration des déminéralisateurs :",
+    "options": [
+      "En lits séparés, les résines anioniques et cationiques sont individualisées",
+      "Les lits mélangés ne contiennent qu'une résine cationique",
+      "En lits mélangés, les deux résines sont contenues dans un dispositif unique",
+      "En lits séparés, les deux résines sont mélangées",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      2
+    ],
+    "explication": "Lits séparés : résines individualisées ; lits mélangés : les deux résines dans un dispositif unique.",
+    "source": {
+      "page": 4,
+      "extrait": "en lits mélangés quand les deux résines sont contenues dans un dispositif unique"
+    },
+    "difficulte": 2,
+    "tags": [
+      "échangeurs d'ions"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/03-eaux-pharmaceutiques/qcm-024",
+    "type": "multiple",
+    "enonce": "Les avantages de la désionisation sont :",
+    "options": [
+      "Elle élimine les matières organiques",
+      "Elle élimine pratiquement tous les ions",
+      "Le procédé n'est pas très coûteux",
+      "Elle élimine les bactéries",
+      "Elle donne une eau très pure (déminéralisée)"
+    ],
+    "correctes": [
+      1,
+      2,
+      4
+    ],
+    "explication": "Avantages : élimination de pratiquement tous les ions, eau très pure, procédé peu coûteux. Inconvénients : n'enlève pas particules, bactéries et matières organiques.",
+    "source": {
+      "page": 4,
+      "extrait": "Permet d'éliminer pratiquement tous les ions, ce traitement de déminéralisation donne une eau très pure"
+    },
+    "difficulte": 1,
+    "tags": [
+      "échangeurs d'ions"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/03-eaux-pharmaceutiques/qcm-025",
+    "type": "multiple",
+    "enonce": "La désionisation par échangeurs d'ions n'élimine pas :",
+    "options": [
+      "Les ions Na⁺",
+      "Les matières organiques",
+      "Les ions Cl⁻",
+      "Les bactéries",
+      "Les particules"
+    ],
+    "correctes": [
+      1,
+      3,
+      4
+    ],
+    "explication": "Inconvénient de la désionisation : elle n'enlève pas les particules, les bactéries et les matières organiques ; elle élimine en revanche pratiquement tous les ions.",
+    "source": {
+      "page": 4,
+      "extrait": "N'enlève pas les particules, les bactéries et les matières organiques"
+    },
+    "difficulte": 1,
+    "tags": [
+      "échangeurs d'ions"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/03-eaux-pharmaceutiques/qcm-026",
+    "type": "multiple",
+    "enonce": "L'osmose inverse :",
+    "options": [
+      "Permet de déminéraliser l'eau potable",
+      "Est un procédé physique",
+      "Est un procédé chimique utilisant des résines",
+      "Produit d'une part une eau pure sans minéraux et d'autre part une eau saline à évacuer",
+      "Repose sur le passage de l'eau sur une membrane semi-perméable"
+    ],
+    "correctes": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "explication": "L'osmose inverse est un procédé physique de déminéralisation de l'eau potable par membrane semi-perméable, produisant une eau pure et une eau saline à évacuer.",
+    "source": {
+      "page": 4,
+      "extrait": "C'est un procédé physique, utilisé pour déminéraliser l'eau potable"
+    },
+    "difficulte": 1,
+    "tags": [
+      "osmose inverse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/03-eaux-pharmaceutiques/qcm-027",
+    "type": "multiple",
+    "enonce": "En osmose inverse, la membrane semi-perméable retient :",
+    "options": [
+      "Les particules et colloïdes",
+      "Les ions",
+      "Les micro-organismes",
+      "Les contaminants organiques, y compris les endotoxines bactériennes",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "La membrane assure la rétention de la majorité des composés : particules, colloïdes, ions, contaminants organiques y compris endotoxines, micro-organismes.",
+    "source": {
+      "page": 4,
+      "extrait": "particules, colloïdes, ions contaminants organiques y compris endotoxines bactériennes et micro-organismes"
+    },
+    "difficulte": 2,
+    "tags": [
+      "osmose inverse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/03-eaux-pharmaceutiques/qcm-028",
+    "type": "unique",
+    "enonce": "En osmose inverse, l'application d'une pression supérieure à la pression osmotique de la solution concentrée entraîne :",
+    "options": [
+      "Un déplacement de l'eau vers le compartiment le moins concentré",
+      "Un déplacement de l'eau vers le compartiment le plus concentré",
+      "Une sublimation",
+      "Une évaporation de l'eau",
+      "Un échange d'ions H⁺ et OH⁻"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Une pression supérieure à la pression osmotique de la solution concentrée déplace l'eau vers le compartiment le moins concentré (inverse de l'osmose).",
+    "source": {
+      "page": 5,
+      "extrait": "entraine un déplacement de l'eau vers le compartiment le moins concentré"
+    },
+    "difficulte": 2,
+    "tags": [
+      "osmose inverse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/03-eaux-pharmaceutiques/qcm-029",
+    "type": "multiple",
+    "enonce": "Concernant les avantages et inconvénients de l'osmose inverse :",
+    "options": [
+      "Elle n'élimine pas les bactéries",
+      "Son efficacité est de 90 % pour les ions monovalents",
+      "Elle n'élimine pas les pyrogènes",
+      "Son efficacité est de 100 % pour les ions monovalents",
+      "Elle élimine toutes les particules, bactéries, pyrogènes et matières organiques"
+    ],
+    "correctes": [
+      1,
+      4
+    ],
+    "explication": "Avantage : élimine particules, bactéries, pyrogènes et matières organiques. Inconvénient : efficacité de 90 % pour les ions monovalents.",
+    "source": {
+      "page": 5,
+      "extrait": "Inconvénients Efficacité de 90% pour les ions monovalents"
+    },
+    "difficulte": 2,
+    "tags": [
+      "osmose inverse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/03-eaux-pharmaceutiques/qcm-030",
+    "type": "multiple",
+    "enonce": "La distillation :",
+    "options": [
+      "Repose sur une membrane semi-perméable",
+      "Pratiquée dans de bonnes conditions, donne une eau exempte d'endotoxines",
+      "Donne une eau apyrogène et stérile pendant les 3 heures suivant son obtention",
+      "Donne une eau stérile indéfiniment",
+      "Produit l'eau par chauffage, évaporation puis condensation de la fraction volatile"
+    ],
+    "correctes": [
+      1,
+      2,
+      4
+    ],
+    "explication": "L'eau distillée est produite par chauffage, évaporation et condensation ; dans de bonnes conditions elle est exempte d'endotoxines, apyrogène et stérile pendant 3 heures.",
+    "source": {
+      "page": 5,
+      "extrait": "L'eau distillée obtenue est apyrogène et stérile pendant les 3 heures qui suivent son obtention"
+    },
+    "difficulte": 1,
+    "tags": [
+      "distillation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/03-eaux-pharmaceutiques/qcm-031",
+    "type": "unique",
+    "enonce": "L'eau distillée obtenue est apyrogène et stérile pendant :",
+    "options": [
+      "3 heures",
+      "1 heure",
+      "7 jours",
+      "30 minutes",
+      "24 heures"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "L'eau distillée est apyrogène et stérile pendant les 3 heures qui suivent son obtention.",
+    "source": {
+      "page": 5,
+      "extrait": "apyrogène et stérile pendant les 3 heures qui suivent son obtention"
+    },
+    "difficulte": 1,
+    "tags": [
+      "distillation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/03-eaux-pharmaceutiques/qcm-032",
+    "type": "unique",
+    "enonce": "La distillation élimine tous les contaminants sauf :",
+    "options": [
+      "Les sels minéraux",
+      "Les colloïdes",
+      "Les matières volatiles",
+      "Les pyrogènes",
+      "Les micro-organismes"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "La distillation élimine tous les contaminants sauf les matières volatiles (gaz dissous comme CO₂ et ammoniac).",
+    "source": {
+      "page": 6,
+      "extrait": "Élimination de tous les contaminants sauf les matières volatiles"
+    },
+    "difficulte": 1,
+    "tags": [
+      "distillation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/03-eaux-pharmaceutiques/qcm-033",
+    "type": "multiple",
+    "enonce": "Pour éviter les impuretés volatiles (CO₂, ammoniac) lors de la distillation, on peut :",
+    "options": [
+      "Supprimer le condenseur",
+      "Ajouter de l'oxygène",
+      "Éliminer les premières fractions de l'eau",
+      "Dégazer l'eau au préalable",
+      "Conserver les premières fractions"
+    ],
+    "correctes": [
+      2,
+      3
+    ],
+    "explication": "Les gaz dissous (CO₂, ammoniac) sont entraînés dans les premières fractions : il faut soit éliminer ces premières fractions, soit dégazer l'eau au préalable.",
+    "source": {
+      "page": 6,
+      "extrait": "il faut soit éliminer les premières fractions de l'eau, soit dégazer l'eau au préalable"
+    },
+    "difficulte": 2,
+    "tags": [
+      "distillation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/03-eaux-pharmaceutiques/qcm-034",
+    "type": "multiple",
+    "enonce": "L'eau distillée peut contenir un peu d'oxygène. Concernant ce point :",
+    "options": [
+      "L'oxygène est éliminé par passage sur résine cationique",
+      "L'oxygène est néfaste pour les solutions très sensibles à l'oxydation",
+      "L'oxygène peut être éliminé par barbotage d'azote",
+      "L'oxygène est sans conséquence pour toutes les solutions",
+      "L'oxygène est éliminé par barbotage d'air"
+    ],
+    "correctes": [
+      1,
+      2
+    ],
+    "explication": "La présence d'oxygène est néfaste pour les solutions sensibles à l'oxydation ; il peut être éliminé par barbotage d'azote.",
+    "source": {
+      "page": 6,
+      "extrait": "L'oxygène peut être éliminé par barbotage d'azote"
+    },
+    "difficulte": 2,
+    "tags": [
+      "distillation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/03-eaux-pharmaceutiques/qcm-035",
+    "type": "multiple",
+    "enonce": "Les inconvénients de la distillation sont :",
+    "options": [
+      "Un risque de primage",
+      "Un coût énergétique important",
+      "L'incapacité à éliminer les pyrogènes",
+      "Un risque de contamination de l'appareil",
+      "L'incapacité à éliminer les sels minéraux"
+    ],
+    "correctes": [
+      0,
+      1,
+      3
+    ],
+    "explication": "Inconvénients : coût énergétique (appareil), risque de primage (déflecteur), risque de contamination de l'appareil (qualité du matériel). La distillation élimine sels et pyrogènes.",
+    "source": {
+      "page": 6,
+      "extrait": "Coût énergétique important Appareil o Risque de primage Déflecteur o Risque de contamination de l'appareil"
+    },
+    "difficulte": 2,
+    "tags": [
+      "distillation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/03-eaux-pharmaceutiques/qcm-036",
+    "type": "unique",
+    "enonce": "Le risque de primage lors de la distillation est maîtrisé par :",
+    "options": [
+      "Un déflecteur",
+      "Le barbotage d'azote",
+      "Une lampe UV",
+      "Une membrane semi-perméable",
+      "Une résine anionique"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "En face de chaque inconvénient, le cours associe une solution : coût énergétique → appareil ; risque de primage → déflecteur ; contamination → qualité du matériel.",
+    "source": {
+      "page": 6,
+      "extrait": "Risque de primage Déflecteur"
+    },
+    "difficulte": 2,
+    "tags": [
+      "distillation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/03-eaux-pharmaceutiques/qcm-037",
+    "type": "multiple",
+    "enonce": "Concernant la distillation à simple effet :",
+    "options": [
+      "L'eau d'alimentation est de l'eau déminéralisée",
+      "Le débit est de plusieurs centaines de litres/heure",
+      "La distillation se fait sous pression inférieure à la pression atmosphérique",
+      "L'évaporateur est alimenté à niveau constant",
+      "Elle fonctionne sans eau de réfrigération"
+    ],
+    "correctes": [
+      0,
+      1,
+      3
+    ],
+    "explication": "Simple effet : évaporateur alimenté à niveau constant avec de l'eau déminéralisée ; débit de plusieurs centaines de L/h. La pression réduite et l'absence d'eau de réfrigération caractérisent la thermocompression.",
+    "source": {
+      "page": 6,
+      "extrait": "L'évaporateur est alimenté à niveau constant avec de l'eau déminéralisée"
+    },
+    "difficulte": 2,
+    "tags": [
+      "appareils de distillation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/03-eaux-pharmaceutiques/qcm-038",
+    "type": "multiple",
+    "enonce": "La distillation par effets multiples :",
+    "options": [
+      "Utilise une eau d'alimentation déminéralisée",
+      "Fonctionne sous pression légèrement inférieure à la pression atmosphérique",
+      "Est chauffée électriquement et parfaitement calorifugée",
+      "Est conçue pour une récupération importante de calories",
+      "Fait traverser le condenseur par l'eau d'alimentation"
+    ],
+    "correctes": [
+      0,
+      3,
+      4
+    ],
+    "explication": "Effets multiples : eau déminéralisée traversant le condenseur → récupération importante de calories. Les deux dernières propositions décrivent la thermocompression.",
+    "source": {
+      "page": 7,
+      "extrait": "L'eau d'alimentation est de l'eau déminéralisée qui traverse le condenseur, donc appareil conçu pour une récupération importante de calories"
+    },
+    "difficulte": 2,
+    "tags": [
+      "appareils de distillation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/03-eaux-pharmaceutiques/qcm-039",
+    "type": "multiple",
+    "enonce": "La distillation à thermocompression :",
+    "options": [
+      "Utilise un appareil chauffé électriquement et parfaitement calorifugé",
+      "Fonctionne sans eau de réfrigération",
+      "Se fait sous pression légèrement inférieure à la pression atmosphérique",
+      "Après compression, la condensation se fait à la même température sous pression légèrement supérieure",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes ces caractéristiques décrivent la thermocompression, dont le principe est totalement différent des autres distillateurs.",
+    "source": {
+      "page": 7,
+      "extrait": "la condensation de la vapeur se fait à la même température, sous pression légèrement supérieure à la pression atmosphérique donc sans eau de réfrigération"
+    },
+    "difficulte": 2,
+    "tags": [
+      "appareils de distillation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/03-eaux-pharmaceutiques/qcm-040",
+    "type": "unique",
+    "enonce": "Quel appareil de distillation fonctionne sans eau de réfrigération ?",
+    "options": [
+      "Le distillateur à effets multiples",
+      "Le déminéralisateur en lits mélangés",
+      "Le distillateur à simple effet",
+      "Le distillateur à thermocompression",
+      "L'osmoseur"
+    ],
+    "correctes": [
+      3
+    ],
+    "explication": "En thermocompression, après compression, la vapeur se condense à la même température sous pression légèrement supérieure, donc sans eau de réfrigération.",
+    "source": {
+      "page": 7,
+      "extrait": "donc sans eau de réfrigération"
+    },
+    "difficulte": 2,
+    "tags": [
+      "appareils de distillation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/03-eaux-pharmaceutiques/qcm-041",
+    "type": "unique",
+    "enonce": "Par ordre croissant d'efficacité, les techniques de filtration sont :",
+    "options": [
+      "Microfiltration < nanofiltration < ultrafiltration",
+      "Nanofiltration < ultrafiltration < microfiltration",
+      "Ultrafiltration < microfiltration < nanofiltration",
+      "Microfiltration < ultrafiltration < nanofiltration",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      3
+    ],
+    "explication": "Le seuil de rétention permet de distinguer par ordre croissant d'efficacité : microfiltration, ultrafiltration et nanofiltration.",
+    "source": {
+      "page": 7,
+      "extrait": "par ordre croissant d'efficacité : microfiltration, ultrafiltration et nanofiltration"
+    },
+    "difficulte": 2,
+    "tags": [
+      "ultrafiltration"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/03-eaux-pharmaceutiques/qcm-042",
+    "type": "multiple",
+    "enonce": "La filtration en profondeur :",
+    "options": [
+      "A des pores de diamètre supérieur à celui des particules à retenir",
+      "A des pores de diamètre irrégulier",
+      "Utilise des pores parfaitement calibrés",
+      "Retient les particules au sein d'un milieu filtrant de type fibreux",
+      "Fait intervenir des phénomènes électriques (adsorption) et physiques"
+    ],
+    "correctes": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "explication": "Filtration en profondeur : milieu fibreux, pores irréguliers et plus grands que les particules, rétention par phénomènes électriques (adsorption) et physiques. Les pores calibrés caractérisent la filtration en surface.",
+    "source": {
+      "page": 7,
+      "extrait": "Le diamètre des pores est irrégulier et supérieur à celui des particules à retenir"
+    },
+    "difficulte": 2,
+    "tags": [
+      "ultrafiltration"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/03-eaux-pharmaceutiques/qcm-043",
+    "type": "multiple",
+    "enonce": "La filtration en surface (filtres écrans) :",
+    "options": [
+      "Utilise un milieu filtrant de type polymérique",
+      "A des pores parfaitement calibrés",
+      "N'utilise que le principe physique de rétention des particules de diamètre supérieur aux pores",
+      "Retient par tamisage (criblage) à la surface",
+      "Utilise l'adsorption comme principal mécanisme"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Filtration en surface : tamisage à la surface d'un milieu polymérique aux pores calibrés, uniquement par principe physique (particules plus grosses que les pores).",
+    "source": {
+      "page": 7,
+      "extrait": "Ce procédé n'utilise que le principe physique de rétention de particules d'un diamètre supérieur à celui des pores"
+    },
+    "difficulte": 2,
+    "tags": [
+      "ultrafiltration"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/03-eaux-pharmaceutiques/qcm-044",
+    "type": "unique",
+    "enonce": "D'après le tableau d'efficacité, la méthode qui n'élimine pas les sels minéraux est :",
+    "options": [
+      "La distillation",
+      "L'ultrafiltration",
+      "L'osmose inverse",
+      "Les échangeurs d'ions",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Sels minéraux : échangeurs d'ions +++, osmose inverse ++, ultrafiltration 0, distillation +++.",
+    "source": {
+      "page": 8,
+      "extrait": "0 : pas d'élimination"
+    },
+    "difficulte": 2,
+    "tags": [
+      "efficacité"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/03-eaux-pharmaceutiques/qcm-045",
+    "type": "multiple",
+    "enonce": "D'après le tableau d'efficacité, les échangeurs d'ions :",
+    "options": [
+      "Éliminent totalement les micro-organismes (+++)",
+      "N'éliminent pas les colloïdes (0)",
+      "Éliminent faiblement les molécules organiques (+)",
+      "Éliminent totalement ou presque les sels minéraux (+++)",
+      "N'éliminent pas les pyrogènes (0)"
+    ],
+    "correctes": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Échangeurs d'ions : sels +++, molécules organiques +, colloïdes 0, particules 0, micro-organismes 0, pyrogènes 0.",
+    "source": {
+      "page": 8,
+      "extrait": "+++ : Élimination totale ou presque totale"
+    },
+    "difficulte": 2,
+    "tags": [
+      "efficacité"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/03-eaux-pharmaceutiques/qcm-046",
+    "type": "unique",
+    "enonce": "D'après le tableau d'efficacité, quelle méthode élimine totalement ou presque tous les contaminants (+++ partout) ?",
+    "options": [
+      "L'ultrafiltration",
+      "Les échangeurs d'ions",
+      "L'osmose inverse",
+      "La distillation",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      3
+    ],
+    "explication": "La distillation est cotée +++ pour toutes les catégories du tableau. L'osmose inverse est ++ pour les sels, l'ultrafiltration 0 pour les sels et ++ pour les organiques.",
+    "source": {
+      "page": 8,
+      "extrait": "Distillation"
+    },
+    "difficulte": 2,
+    "tags": [
+      "efficacité"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/03-eaux-pharmaceutiques/qcm-047",
+    "type": "multiple",
+    "enonce": "D'après le tableau d'efficacité :",
+    "options": [
+      "L'ultrafiltration est cotée ++ pour les molécules organiques",
+      "L'osmose inverse élimine totalement les pyrogènes (+++)",
+      "L'ultrafiltration élimine totalement micro-organismes et virus (+++)",
+      "L'osmose inverse est cotée ++ pour les sels minéraux",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Osmose inverse : sels ++, le reste +++. Ultrafiltration : sels 0, organiques ++, colloïdes, particules, micro-organismes et pyrogènes +++.",
+    "source": {
+      "page": 8,
+      "extrait": "IV. EFFICACITE DES PRINCIPALES METHODES DE PURIFICATION DE L'EAU"
+    },
+    "difficulte": 3,
+    "tags": [
+      "efficacité"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/03-eaux-pharmaceutiques/qcm-048",
+    "type": "multiple",
+    "enonce": "L'eau purifiée est utilisée durant la fabrication, mais absente de la formulation finale, pour :",
+    "options": [
+      "La lyophilisation stérile",
+      "L'enrobage des comprimés",
+      "Les comprimés (granulation par voie humide)",
+      "La lyophilisation non stérile",
+      "Les granulés"
+    ],
+    "correctes": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Eau purifiée (absente du produit fini) : granulés, comprimés, enrobage, lyophilisation non stérile. L'EPPI est utilisée pour la lyophilisation stérile.",
+    "source": {
+      "page": 8,
+      "extrait": "Eau purifiée : granulés, comprimés (G/V/H), enrobage des comprimés, lyophilisation non stérile"
+    },
+    "difficulte": 2,
+    "tags": [
+      "usages"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/03-eaux-pharmaceutiques/qcm-049",
+    "type": "unique",
+    "enonce": "Pour une lyophilisation stérile, on utilise :",
+    "options": [
+      "L'eau potable",
+      "L'eau purifiée",
+      "L'eau pour préparations injectables",
+      "L'eau pour irrigation",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Eau ppi : lyophilisation stérile ; eau purifiée : lyophilisation non stérile.",
+    "source": {
+      "page": 8,
+      "extrait": "Eau ppi : lyophilisation stérile"
+    },
+    "difficulte": 1,
+    "tags": [
+      "usages"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/03-eaux-pharmaceutiques/qcm-050",
+    "type": "multiple",
+    "enonce": "Dans les formes liquides ou pour reconstituer les médicaments, l'eau purifiée est utilisée pour les préparations :",
+    "options": [
+      "Parentérales",
+      "Orales",
+      "Otiques",
+      "Dermatologiques, rectales et vaginales",
+      "Nasales"
+    ],
+    "correctes": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Eau purifiée : préparations orales, nasales, otiques, dermatologiques, rectales, vaginales… L'EPPI est réservée aux parentérales, hémodialyse et, dans des cas spéciaux, nébulisation.",
+    "source": {
+      "page": 8,
+      "extrait": "Eau purifiée : préparations orales, nasales, otiques, dermatologiques, rectales, vaginales"
+    },
+    "difficulte": 1,
+    "tags": [
+      "usages"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/03-eaux-pharmaceutiques/qcm-051",
+    "type": "multiple",
+    "enonce": "L'eau pour préparations injectables est utilisée dans les formes liquides pour :",
+    "options": [
+      "Les préparations otiques",
+      "Les préparations rectales",
+      "Les préparations parentérales",
+      "Les solutions pour hémodialyse",
+      "Les solutions pour nébulisation dans des cas spéciaux"
+    ],
+    "correctes": [
+      2,
+      3,
+      4
+    ],
+    "explication": "Eau ppi : préparations parentérales, solutions pour hémodialyse, et dans des cas spéciaux solutions pour nébulisation.",
+    "source": {
+      "page": 8,
+      "extrait": "Eau ppi : préparations parentérales, solutions pour hémodialyse, dans des cas spéciaux : solutions pour nébulisation"
+    },
+    "difficulte": 2,
+    "tags": [
+      "usages"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/03-eaux-pharmaceutiques/qcm-052",
+    "type": "unique",
+    "enonce": "D'après le tableau des essais de la Ph. Eur., le carbone organique total doit être :",
+    "options": [
+      "< 0,5 mg/l pour les quatre qualités d'eau",
+      "< 5 mg/l pour l'eau purifiée",
+      "Non contrôlé pour l'eau purifiée",
+      "< 0,5 mg/l uniquement pour l'EPPI",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Le carbone organique total est < 0,5 mg/l pour EP, EHP, EPPI vrac et EPPI stérilisée.",
+    "source": {
+      "page": 9,
+      "extrait": "Carbone organique total < 0,5 mg/l < 0,5 mg/l < 0,5 mg/l < 0,5 mg/l"
+    },
+    "difficulte": 2,
+    "tags": [
+      "contrôles"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/03-eaux-pharmaceutiques/qcm-053",
+    "type": "multiple",
+    "enonce": "D'après le tableau des contrôles, la conductivité (20 °C) doit être inférieure à :",
+    "options": [
+      "1,1 µS/cm pour l'eau hautement purifiée",
+      "1,1 µS/cm pour l'EPPI en vrac",
+      "4,3 µS/cm pour l'eau purifiée",
+      "25 µS/cm pour l'EPPI stérilisée en récipients ≤ 10 ml",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Conductivité : EP < 4,3 ; EHP 1,1 ; EPPI vrac 1,1 ; EPPI stérilisée 25 (≤ 10 ml) et 5 (> 10 ml) µS/cm.",
+    "source": {
+      "page": 9,
+      "extrait": "Conductivité (20°C) μS/cm < 4,3 1,1 1,1 25 (≤ 10ml)"
+    },
+    "difficulte": 3,
+    "tags": [
+      "contrôles"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/03-eaux-pharmaceutiques/qcm-054",
+    "type": "multiple",
+    "enonce": "D'après le tableau des contrôles, les germes aérobies viables totaux sont limités à :",
+    "options": [
+      "10 UFC/ml pour l'EPPI en vrac",
+      "100 UFC/ml pour l'eau purifiée",
+      "10 UFC/ml pour l'eau hautement purifiée",
+      "L'EPPI stérilisée doit être stérile",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Germes aérobies viables totaux : EP 100 UFC/ml ; EHP 10 ; EPPI vrac 10 ; EPPI stérilisée : stérile.",
+    "source": {
+      "page": 9,
+      "extrait": "Germes aérobies viables Totaux 100 UFC/ml 10 UFC/ml 10 UFC/ml Stérile"
+    },
+    "difficulte": 2,
+    "tags": [
+      "contrôles"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/03-eaux-pharmaceutiques/qcm-055",
+    "type": "unique",
+    "enonce": "D'après le tableau, la limite en endotoxines bactériennes est de :",
+    "options": [
+      "< 0,25 UI/ml uniquement pour l'EPPI stérilisée",
+      "Non contrôlée pour l'eau hautement purifiée",
+      "< 0,25 UI/ml pour les quatre qualités d'eau (EP, EHP, EPPI vrac, EPPI stérilisée)",
+      "< 10 UI/ml pour l'eau purifiée",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Le tableau indique < 0,25 UI/ml d'endotoxines pour EP, EHP, EPPI vrac et EPPI stérilisée.",
+    "source": {
+      "page": 9,
+      "extrait": "Endotoxines bactériennes <0,25UI/mI <0,25UI/mI <0,25UI/mI <0,25UI/mI"
+    },
+    "difficulte": 3,
+    "tags": [
+      "contrôles"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/03-eaux-pharmaceutiques/qcm-056",
+    "type": "multiple",
+    "enonce": "D'après le tableau des contrôles, les essais réalisés uniquement sur l'EPPI stérilisée (et non sur EP, EHP, EPPI vrac) sont :",
+    "options": [
+      "Ca et Mg",
+      "Sulfates",
+      "Acidité ou alcalinité",
+      "Nitrates",
+      "Stérilité"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explication": "Acidité/alcalinité, sulfates, Ca & Mg, stérilité et essai des particules non visibles sont OUI seulement pour l'EPPI stérilisée. Les nitrates sont recherchés pour les quatre qualités.",
+    "source": {
+      "page": 9,
+      "extrait": "Acidité ou alcalinité NON NON NON OUI"
+    },
+    "difficulte": 3,
+    "tags": [
+      "contrôles"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/03-eaux-pharmaceutiques/qcm-057",
+    "type": "multiple",
+    "enonce": "D'après le tableau, l'essai des substances oxydables est réalisé sur :",
+    "options": [
+      "L'EPPI en vrac",
+      "L'EPPI stérilisée",
+      "L'eau purifiée",
+      "L'eau hautement purifiée",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      1,
+      2
+    ],
+    "explication": "Substances oxydables : OUI pour l'EP et l'EPPI stérilisée ; NON pour l'EHP et l'EPPI vrac.",
+    "source": {
+      "page": 9,
+      "extrait": "Substance oxydables OUI NON NON OUI"
+    },
+    "difficulte": 3,
+    "tags": [
+      "contrôles"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/03-eaux-pharmaceutiques/qcm-058",
+    "type": "multiple",
+    "enonce": "D'après le tableau, sont recherchés dans les quatre qualités d'eau :",
+    "options": [
+      "Les nitrates",
+      "L'aluminium",
+      "Les métaux lourds",
+      "L'ammonium",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Nitrates (< 0,2 ppm), aluminium, ammonium (< 0,2 ppm) et métaux lourds (< 0,1 ppm) sont contrôlés pour EP, EHP, EPPI vrac et EPPI stérilisée.",
+    "source": {
+      "page": 9,
+      "extrait": "Métaux lourds : < 0,1 ppm OUI OUI OUI OUI"
+    },
+    "difficulte": 3,
+    "tags": [
+      "contrôles"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/03-eaux-pharmaceutiques/qcm-059",
+    "type": "unique",
+    "enonce": "Pour l'EPPI stérilisée, la contamination particulaire est contrôlée par :",
+    "options": [
+      "La mesure du carbone organique total",
+      "L'essai de stérilité",
+      "La conductivité",
+      "L'essai des particules non visibles",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      3
+    ],
+    "explication": "Contamination particulaire : NON pour EP, EHP, EPPI vrac ; essai des particules non visibles pour l'EPPI stérilisée.",
+    "source": {
+      "page": 9,
+      "extrait": "Essai des particules non visibles"
+    },
+    "difficulte": 2,
+    "tags": [
+      "contrôles"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/03-eaux-pharmaceutiques/qcm-060",
+    "type": "multiple",
+    "enonce": "Concernant le stockage de l'eau pour préparations injectables :",
+    "options": [
+      "Des lampes UV sont installées à la surface de l'eau pour empêcher sa recontamination",
+      "Les installations de stockage sont en acier inoxydable",
+      "Elle doit être stockée à une température supérieure à 70 °C",
+      "Elle doit être stockée dans un système clos",
+      "Elle doit être stockée à 4 °C"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "EPPI : système clos, > 70 °C, lampes UV à la surface, installations en acier inoxydable.",
+    "source": {
+      "page": 9,
+      "extrait": "elle doit être stockée dans un système clos, à une température supérieure à 70°C"
+    },
+    "difficulte": 1,
+    "tags": [
+      "stockage"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/03-eaux-pharmaceutiques/qcm-061",
+    "type": "unique",
+    "enonce": "Le rôle des lampes UV installées à la surface de l'EPPI stockée est :",
+    "options": [
+      "D'empêcher sa recontamination",
+      "De dégazer l'eau",
+      "De maintenir la température au-dessus de 70 °C",
+      "D'éliminer les ions",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Des lampes UV sont installées à la surface de l'eau pour empêcher sa recontamination.",
+    "source": {
+      "page": 9,
+      "extrait": "Des lampes UV sont installées à la surface de l'eau pour empêcher sa recontamination"
+    },
+    "difficulte": 1,
+    "tags": [
+      "stockage"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/03-eaux-pharmaceutiques/qcm-062",
+    "type": "multiple",
+    "enonce": "Les différentes eaux produites en vrac doivent être conservées :",
+    "options": [
+      "Dans un état de conformité microbiologique adéquat",
+      "Dans des cuves en PVC",
+      "Sans aucune précaution particulière",
+      "Dans un état de conformité physico-chimique adéquat",
+      "À l'air libre"
+    ],
+    "correctes": [
+      0,
+      3
+    ],
+    "explication": "Les eaux en vrac doivent être conservées dans un état de conformité physico-chimique et microbiologique adéquat.",
+    "source": {
+      "page": 9,
+      "extrait": "doivent être conservées dans un état de conformité physico-chimique et micro biologique adéquat"
+    },
+    "difficulte": 1,
+    "tags": [
+      "stockage"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/03-eaux-pharmaceutiques/qcm-063",
+    "type": "multiple",
+    "enonce": "Cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "La distillation élimine les matières volatiles",
+      "Les échangeurs d'ions éliminent les bactéries",
+      "L'eau pour irrigation peut être injectée",
+      "L'osmose inverse est un procédé chimique",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "L'osmose inverse est un procédé physique ; la distillation n'élimine pas les volatils ; les échangeurs d'ions n'éliminent pas les bactéries ; l'eau pour irrigation ne doit pas être injectée.",
+    "source": {
+      "page": 6,
+      "extrait": "Élimination de tous les contaminants sauf les matières volatiles"
+    },
+    "difficulte": 2,
+    "tags": [
+      "synthèse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/03-eaux-pharmaceutiques/qcm-064",
+    "type": "multiple",
+    "enonce": "Parmi les méthodes suivantes, lesquelles éliminent les pyrogènes (+++) d'après le tableau ?",
+    "options": [
+      "L'ultrafiltration",
+      "L'osmose inverse",
+      "La distillation",
+      "Les échangeurs d'ions",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Pyrogènes : échangeurs d'ions 0 ; osmose inverse, ultrafiltration, distillation +++.",
+    "source": {
+      "page": 8,
+      "extrait": "Pyrogènes 0 + + + + + + + + +"
+    },
+    "difficulte": 2,
+    "tags": [
+      "synthèse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/03-eaux-pharmaceutiques/qcm-065",
+    "type": "multiple",
+    "enonce": "Associez la qualité d'eau à sa limite de germes aérobies viables totaux :",
+    "options": [
+      "EPPI stérilisée : 10 UFC/ml",
+      "EPPI en vrac : 100 UFC/ml",
+      "Eau purifiée : 100 UFC/ml",
+      "Eau hautement purifiée : 10 UFC/ml",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      2,
+      3
+    ],
+    "explication": "EP : 100 UFC/ml ; EHP : 10 UFC/ml ; EPPI vrac : 10 UFC/ml (et non 100) ; EPPI stérilisée : stérile.",
+    "source": {
+      "page": 9,
+      "extrait": "Germes aérobies viables Totaux 100 UFC/ml 10 UFC/ml 10 UFC/ml Stérile"
+    },
+    "difficulte": 3,
+    "tags": [
+      "synthèse"
+    ],
+    "origine": "genere"
+  }
+]

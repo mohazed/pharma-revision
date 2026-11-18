@@ -1,0 +1,248 @@
+[
+  {
+    "id": "pharmacie-galenique/02-excipients/flashcard-001",
+    "recto": "Synonymes d'excipient",
+    "verso": "Véhicules ou adjuvants (excipere : recevoir).",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/flashcard-002",
+    "recto": "Excipient vs adjuvant vs véhicule",
+    "verso": "Excipient : inactif, facilite administration/conservation ; adjuvant : renforce l'activité du PA ; véhicule : transporte le PA dans l'organisme.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/flashcard-003",
+    "recto": "L'excipient influence-t-il l'activité du PA ?",
+    "verso": "Non : il peut influencer sa biodisponibilité, mais pas son activité.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/flashcard-004",
+    "recto": "Qualité principale d'un excipient",
+    "verso": "Inertie vis-à-vis du PA, du conditionnement et de l'organisme (innocuité parfaite).",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/flashcard-005",
+    "recto": "4 rôles des excipients",
+    "verso": "Faciliter la préparation, la conservation, l'administration ; modifier l'action du PA.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/flashcard-006",
+    "recto": "Les 7 grandes classes d'excipients",
+    "verso": "Liquides, glycérides, cires, hydrocarbures et silicones, sucres/macromolécules hydrophiles, minéraux, surfactifs.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/flashcard-007",
+    "recto": "Alcool officinal",
+    "verso": "Alcool éthylique à 95° ; solvant, antiseptique (usage externe), conservateur (usage interne).",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/flashcard-008",
+    "recto": "Propylène glycol",
+    "verso": "Solvant des PA insolubles dans l'eau ou instables en solution aqueuse.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/flashcard-009",
+    "recto": "Glycérine : emplois",
+    "verso": "Solvant, agent de conservation, enveloppes de capsules molles, pommades/suppositoires (évite la dessiccation).",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/flashcard-010",
+    "recto": "4 catégories de cires",
+    "verso": "Animales (cire blanche, lanoline), végétales (carnauba), minérales/fossiles (paraffine, cire microcristalline), synthétiques.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/flashcard-011",
+    "recto": "Lanoline",
+    "verso": "Cire de laine de mouton ; émolliente, favorise l'incorporation d'eau dans les préparations grasses.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/flashcard-012",
+    "recto": "Carnauba",
+    "verso": "Cire végétale (feuilles de palmier) : consistance et polissage des comprimés.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/flashcard-013",
+    "recto": "Huiles de vaseline vs paraffine",
+    "verso": "Huiles de vaseline : diminuent la consistance des préparations trop fermes ; paraffine (solide) : ajuste les préparations trop fluides.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/flashcard-014",
+    "recto": "Silicones : emplois",
+    "verso": "Pommades protectrices hydrophobes et matériaux de conditionnement.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/flashcard-015",
+    "recto": "Saccharose : inconvénient",
+    "verso": "Hygroscopique (utilisé comme diluant et édulcorant).",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/flashcard-016",
+    "recto": "Lactose dans les poudres pour plaies",
+    "verso": "Se dissout dans les liquides de la plaie → diffusion rapide de l'antibiotique.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/flashcard-017",
+    "recto": "Sorbitol",
+    "verso": "Édulcorant en solution, remplace le saccharose chez le diabétique ; légèrement laxatif.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/flashcard-018",
+    "recto": "Empois d'amidon",
+    "verso": "Gelée obtenue quand l'amidon gonfle dans l'eau au-dessus de 80 °C ; excipient pour pommades et liant.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/flashcard-019",
+    "recto": "Amidon en poudre (comprimés)",
+    "verso": "Diluant, lubrifiant, délitant.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/flashcard-020",
+    "recto": "3 gommes de la Pharmacopée",
+    "verso": "Arabique, adragante, Sterculia (Karaya).",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/flashcard-021",
+    "recto": "Gélatine : origine et emplois",
+    "verso": "Hydrolyse du collagène (peau, os) ; suppositoires et ovules, enveloppes de gélules/capsules molles, liant.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/flashcard-022",
+    "recto": "Cellulose microcristalline",
+    "verso": "Poudre insoluble, bonne compressibilité : diluant, liant, compression directe, désintégrant, absorbant.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/flashcard-023",
+    "recto": "Éthylcellulose",
+    "verso": "Insoluble dans l'eau : enrobage et contrôle de la libération.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/flashcard-024",
+    "recto": "Acétophtalate de cellulose (CAP)",
+    "verso": "Gastro-résistant : insoluble en milieu acide, soluble au-dessus d'un certain pH.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/flashcard-025",
+    "recto": "HPMC",
+    "verso": "Liant, filmogène, matrice hydrophile à libération prolongée.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/flashcard-026",
+    "recto": "PVP (polyvidone)",
+    "verso": "Polymère synthétique soluble : liant en granulation humide, filmogène, stabilisant.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/flashcard-027",
+    "recto": "PEG liquides vs solides",
+    "verso": "PEG 200-400 liquides (solvants) ; PEG 4000-6000 solides (suppositoires, pommades, liants, lubrifiants).",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/flashcard-028",
+    "recto": "Carbomères",
+    "verso": "Polymères réticulés de l'acide acrylique ; très visqueux après neutralisation ; viscosité dépendant du pH, concentration, électrolytes.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/flashcard-029",
+    "recto": "Talc",
+    "verso": "Silicate de magnésium hydraté : poudres dermatologiques, lubrifiant ou agent d'écoulement.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/flashcard-030",
+    "recto": "Kaolin",
+    "verso": "Silicate hydraté d'aluminium : absorbant, agent de charge, usage externe.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/flashcard-031",
+    "recto": "Bentonites",
+    "verso": "Argiles riches en montmorillonite, gonflent dans l'eau : gélifiants, épaississants, stabilisants.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/flashcard-032",
+    "recto": "Dioxyde de titane",
+    "verso": "Poudre blanche insoluble, fort pouvoir opacifiant : enrobages, gélules, topiques.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/flashcard-033",
+    "recto": "Huiles hydrogénées vs glycérides semi-synthétiques",
+    "verso": "Toutes deux solides cireux pour suppositoires ; hydrogénées = hydrophobes ; semi-synthétiques (glycérolyse) = hydrodispersibles.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/flashcard-034",
+    "recto": "Macrogolglycérides insaturés",
+    "verso": "Huiles dispersibles dans l'eau : véhicules des gouttes nasales huileuses et solutés huileux buvables/injectables.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/flashcard-035",
+    "recto": "Spans® vs Tween®",
+    "verso": "Spans : lipophiles, émulsionnants H/L ; Tween (polysorbates) : hydrophiles, émulsionnants L/H, suspension, solubilisants.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/flashcard-036",
+    "recto": "Tensioactifs anioniques (exemples)",
+    "verso": "Laurylsulfate de sodium, stéarate de triéthanolamine (émulsions L/H).",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/flashcard-037",
+    "recto": "Tensioactifs amphotères",
+    "verso": "Charges + et − selon le pH ; compatibles avec tous les tensioactifs entre pH 5 et 8 ; ex : bétaïne.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/flashcard-038",
+    "recto": "Tensioactifs naturels",
+    "verso": "Cholestérol et lécithine (liposomes), caséine (stabilisateur de dispersions).",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/flashcard-039",
+    "recto": "HLB : définition",
+    "verso": "Classification de Griffin ; fonction directe de la partie hydrophile ; d'autant plus élevé que la molécule est hydrophile (1 à 50).",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/flashcard-040",
+    "recto": "Valeurs de HLB par emploi",
+    "verso": "Émulsionnants H/L 3-6 ; mouillants 7-9 ; antimoussants < 8 (surtout 1,5-3) ; émulsionnants L/H 8-18.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/flashcard-041",
+    "recto": "Nitrosamines",
+    "verso": "Formées par réaction d'amines avec des agents nitrosants (nitrites) ; impuretés potentiellement cancérogènes à maîtriser.",
+    "tags": []
+  }
+]

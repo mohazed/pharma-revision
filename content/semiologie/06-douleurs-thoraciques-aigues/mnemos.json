@@ -1,0 +1,32 @@
+[
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/mnemo-001",
+    "titre": "Urgences cardiovasculaires",
+    "moyen": "P.I.E.D",
+    "explication": "Péricardite aiguë, Insuffisance coronaire, Embolie pulmonaire, Dissection aortique."
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/mnemo-002",
+    "titre": "Conduite à l'officine",
+    "moyen": "« CEMSA » : Calmer, Évaluer, Mesurer, Soulager, Alerter",
+    "explication": "Les 5 devoirs du pharmacien devant une douleur thoracique."
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/mnemo-003",
+    "titre": "Trinitrine",
+    "moyen": "« Angor et Spasme s'effacent, Infarctus et Péricarde résistent »",
+    "explication": "Cède : angor stable, spasme œsophagien ; résiste : IDM, péricardite ; angor instable moins sensible."
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/mnemo-004",
+    "titre": "Facteurs de risque modifiables",
+    "moyen": "« HDTDO » : HTA, Diabète, Tabac, Dyslipidémie, Obésité",
+    "explication": "Non modifiables : âge, sexe masculin, hérédité."
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/mnemo-005",
+    "titre": "Embolie pulmonaire : situations à risque",
+    "moyen": "« Bébé, Bistouri, Lit, Varices, Pilule, Coagulation »",
+    "explication": "Post-partum/post-abortum, chirurgie récente, alitement, varices, contraception œstroprogestative, troubles de la coagulation."
+  }
+]

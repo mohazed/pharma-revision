@@ -1,0 +1,11 @@
+---
+import Base from "../layouts/Base.astro";
+import EnTete from "../components/EnTete.astro";
+import Recherche from "../islands/Recherche";
+---
+<Base titre="Recherche" description="Recherchez dans tous les cours, QCM, flashcards, fiches et dans le glossaire." etroit>
+  <EnTete titre="Recherche" />
+  <Recherche client:only="react">
+    <p slot="fallback" class="text-ink-muted">Chargement…</p>
+  </Recherche>
+</Base>

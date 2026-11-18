@@ -1,0 +1,176 @@
+[
+  {
+    "id": "pharmacie-galenique/12-sterilisation-partie-2/flashcard-001",
+    "recto": "Gaz stérilisants",
+    "verso": "Oxyde d'éthylène, formaldéhyde, acide peracétique, peroxyde d'hydrogène (gaz plasma) ; basse température ; toxiques sauf gaz plasma.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/12-sterilisation-partie-2/flashcard-002",
+    "recto": "Mécanisme de l'oxyde d'éthylène",
+    "verso": "Alkylation des groupements SH et NH2 des protéines et acides nucléiques → lyse ; bactéricide, virucide, fongicide, sporicide.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/12-sterilisation-partie-2/flashcard-003",
+    "recto": "Risque d'explosion de l'OE",
+    "verso": "Explosif avec > 3 % d'air ; mélanges 10 % OE/90 % CO2 ou 15 % OE/85 % CO2.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/12-sterilisation-partie-2/flashcard-004",
+    "recto": "Conditions optimales OE",
+    "verso": "400–800 mg/L, 3–8 h, 50–60 °C, HR 45–75 %.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/12-sterilisation-partie-2/flashcard-005",
+    "recto": "Temps de diffusion-stérilisation OE",
+    "verso": "150–180 min (mélange 10 %) ; 90–120 min (mélange 15 %) ; jusqu'à 24 h possible.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/12-sterilisation-partie-2/flashcard-006",
+    "recto": "Désorption OE",
+    "verso": "12–72 h à 50–60 °C en aérateur (plusieurs jours à T° ordinaire) ; OE résiduel < 2 ppm.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/12-sterilisation-partie-2/flashcard-007",
+    "recto": "Exposition des opérateurs à l'OE",
+    "verso": "≤ 1 ppm (moyenne pondérée sur 8 h) ; OE cancérigène et tératogène.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/12-sterilisation-partie-2/flashcard-008",
+    "recto": "Applications de l'OE",
+    "verso": "Matériel médico-chirurgical à usage unique : fils, cathéters, sondes, seringues, compresses, coton.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/12-sterilisation-partie-2/flashcard-009",
+    "recto": "Acide peracétique",
+    "verso": "Vapeur d'une solution à 3,5 % à 40–47 °C, HR 80 % ; très peu pénétrant, corrosif ; bulles et isolateurs plastiques.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/12-sterilisation-partie-2/flashcard-010",
+    "recto": "Formaldéhyde",
+    "verso": "Alkylation ; peu pénétrant ; désinfection de surface ; sublimation du paraformaldéhyde à ≈ 56 °C ; interdit dans certains pays.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/12-sterilisation-partie-2/flashcard-011",
+    "recto": "Gaz plasma : formation",
+    "verso": "Vapeur de H2O2 activée par champ électromagnétique (onde radio) → radicaux libres + UV, recombinés en O2 et H2O.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/12-sterilisation-partie-2/flashcard-012",
+    "recto": "Gaz plasma : avantages",
+    "verso": "Peu toxique, pas de désorption, 40–60 °C pendant 45–70 min ; cycle < 1 h ; petits volumes.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/12-sterilisation-partie-2/flashcard-013",
+    "recto": "Gaz plasma : emballages",
+    "verso": "Tyvek®, SMS®, gaines Ultra® ; cellulose contre-indiquée.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/12-sterilisation-partie-2/flashcard-014",
+    "recto": "Rayonnements ionisants",
+    "verso": "Rayons X, γ, électrons (β) : cassures de l'ADN ; stérilisation.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/12-sterilisation-partie-2/flashcard-015",
+    "recto": "Rayonnements non ionisants",
+    "verso": "Ondes radio, IR, visible, UV : désinfection uniquement.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/12-sterilisation-partie-2/flashcard-016",
+    "recto": "Mécanisme des UV",
+    "verso": "Formation de dimères de thymine dans l'ADN ; 240–310 nm.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/12-sterilisation-partie-2/flashcard-017",
+    "recto": "Limites des UV",
+    "verso": "Peu pénétrants, absorbés par le verre, dangereux pour l'œil.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/12-sterilisation-partie-2/flashcard-018",
+    "recto": "Sources de radiostérilisation",
+    "verso": "Cobalt 60 et césium 137 (γ) ; accélérateurs d'électrons (β, moins pénétrants).",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/12-sterilisation-partie-2/flashcard-019",
+    "recto": "Dose de référence en radiostérilisation",
+    "verso": "25 kGy (1 Gy = 100 rad) ; < 24 h.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/12-sterilisation-partie-2/flashcard-020",
+    "recto": "Indicateur biologique des radiations",
+    "verso": "Bacillus pumilus.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/12-sterilisation-partie-2/flashcard-021",
+    "recto": "Radioactivité après irradiation",
+    "verso": "Aucune : le matériel peut être utilisé sans risque.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/12-sterilisation-partie-2/flashcard-022",
+    "recto": "Applications de la radiostérilisation",
+    "verso": "Matériel à usage unique (seringues, aiguilles, perfusion, dialyse, pansements), pommades ophtalmiques ; médicaments très limités.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/12-sterilisation-partie-2/flashcard-023",
+    "recto": "Filtration stérilisante des liquides",
+    "verso": "Élimination physique ; membrane ≤ 0,22 µm (ester de cellulose) ; préfiltre ; indicateur Pseudomonas diminuta (0,3 µm).",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/12-sterilisation-partie-2/flashcard-024",
+    "recto": "Filtres HEPA",
+    "verso": "Haute Efficacité pour Particules de l'Air ; fibres de verre plissées ; ≥ 99,97 % des particules de DOP.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/12-sterilisation-partie-2/flashcard-025",
+    "recto": "Classes de ZAC",
+    "verso": "A : flux laminaire, haut risque ; B : environnement de A ; C et D : étapes moins critiques.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/12-sterilisation-partie-2/flashcard-026",
+    "recto": "Préparation aseptique",
+    "verso": "Produits non stérilisables dans leur contenant (poudres injectables, vaccins…) ; composants stérilisés séparément ; classe A en B ; validation par simulation.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/12-sterilisation-partie-2/flashcard-027",
+    "recto": "Milieux de l'essai de stérilité",
+    "verso": "Thioglycolate 30–35 °C (aérobies + anaérobies) ; peptones de caséine de soja 20–25 °C (aérobies + champignons).",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/12-sterilisation-partie-2/flashcard-028",
+    "recto": "Lecture de l'essai de stérilité",
+    "verso": "14 jours ; trouble ou filaments = non stérile ; aucune croissance = conforme.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/12-sterilisation-partie-2/flashcard-029",
+    "recto": "NAS (synthèse)",
+    "verso": "< 10⁻⁶ : au plus une unité non stérile sur un million.",
+    "tags": []
+  }
+]

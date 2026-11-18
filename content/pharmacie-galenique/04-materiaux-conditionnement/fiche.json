@@ -1,0 +1,59 @@
+{
+  "id": "pharmacie-galenique/04-materiaux-conditionnement/fiche",
+  "titre": "Matériaux de conditionnement",
+  "sections": [
+    {
+      "titre": "Définitions et rôles",
+      "points": [
+        "Conditionnement = opérations + articles + annexes.",
+        "**Primaire** (contact direct) : protection, utilisation, marketing ; unidose ou multidose.",
+        "**Secondaire** : identification, information, transport, marketing (étiquetage, étui, notice, vignette).",
+        "**Tertiaire** : transport (fardeau, caisse, palette)."
+      ]
+    },
+    {
+      "titre": "Qualités requises du primaire",
+      "points": [
+        "Résistance, imperméabilité, étanchéité (air, humidité, lumière), **inertie** (pas de migration ni de sorption), innocuité, commodité, transparence et résistance thermique (solutions stériles)."
+      ]
+    },
+    {
+      "titre": "Verre",
+      "points": [
+        "Amorphe : SiO₂ (vitrifiant), oxyde de sodium (fondant), CaO (stabilisant), adjuvants 4 %.",
+        "B₂O₃ → pyrex ; alumine → retarde dévitrification ; KNO₃/As₂O₅ → affinants ; PbO → cristal ; K₂O → soufflage.",
+        "Fragile (forte dilatation, faible conductivité), imperméable, inerte, transparent (verre teinté si photosensible).",
+        "Aqueux/acides → hydrolyse, NaOH, alcalinisation ; bases → destruction.",
+        "Types I (borosilicate, tout), II (sodocalcique traité en surface, sauf basiques), III (+ alumine, non aqueux stérilisables, poudres stériles), IV (non stériles)."
+      ]
+    },
+    {
+      "titre": "Plastiques",
+      "points": [
+        "Haute plasticité, faible élasticité. Polymérisation → thermoplastiques ; polycondensation → thermodurcissables.",
+        "Adjuvants : plastifiants, antioxydants, stabilisants, antifongiques, charges, colorants.",
+        "PEHD rigide ; PEBD souple ; PET flacons/films ; polypropylène stérilisable vapeur ; PVC blisters/poches (++ avec PVDC).",
+        "Thermodurcissables : insolubles, infusibles, peu utilisés."
+      ]
+    },
+    {
+      "titre": "Autres matériaux",
+      "points": [
+        "Élastomères : latex, bromobutyle, chlorobutyle, silicone → bouchons, joints.",
+        "Aluminium : léger, malléable, inerte, étanche, opaque, atoxique.",
+        "Revêtements (vernis, silicones, paraffines) ; complexes (Alu-PE)."
+      ]
+    }
+  ],
+  "aRetenir": [
+    "Type II : tout SAUF basiques.",
+    "Seul le polypropylène est « + » pour la stérilisation vapeur.",
+    "PEHD = PEBP ; PEBD = PEHP."
+  ],
+  "pieges": [
+    "Le fondant est l'oxyde de sodium, le stabilisant le CaO.",
+    "Plasticité = déformation permanente ; élasticité = réversible.",
+    "On peut toujours prendre un verre de résistance hydrolytique supérieure, jamais inférieure.",
+    "Les thermodurcissables sont infusibles et peu utilisés."
+  ]
+}

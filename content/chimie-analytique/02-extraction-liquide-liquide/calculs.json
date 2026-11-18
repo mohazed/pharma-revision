@@ -1,0 +1,203 @@
+[
+  {
+    "id": "chimie-analytique/02-extraction-liquide-liquide/calcul-001",
+    "titre": "Coefficient de partage à partir des solubilités",
+    "enonce": "Une substance a une solubilité de {SB} mg/mL dans le solvant organique B et de {SA} mg/mL dans l'eau (A). Calculer le coefficient de partage λ (B/A).",
+    "variables": {
+      "SB": {
+        "min": 1,
+        "max": 50,
+        "pas": 1,
+        "unite": "mg/mL"
+      },
+      "SA": {
+        "min": 0.1,
+        "max": 2,
+        "pas": 0.1,
+        "unite": "mg/mL"
+      }
+    },
+    "formule": "SB/SA",
+    "unite": "",
+    "decimales": 2,
+    "etapes": [
+      "Étape 1 : λ = SB/SA (rapport des solubilités)",
+      "Étape 2 : application numérique"
+    ],
+    "rappel": "La droite de partage s'arrête au point (SA, SB) : λ = SB/SA."
+  },
+  {
+    "id": "chimie-analytique/02-extraction-liquide-liquide/calcul-002",
+    "titre": "Rapport de quantité α",
+    "enonce": "Coefficient de partage λ = {lam}, volume de phase aqueuse VA = {VA} mL, volume de solvant VB = {VB} mL. Calculer α.",
+    "variables": {
+      "lam": {
+        "min": 2,
+        "max": 30,
+        "pas": 1,
+        "unite": ""
+      },
+      "VA": {
+        "min": 20,
+        "max": 200,
+        "pas": 10,
+        "unite": "mL"
+      },
+      "VB": {
+        "min": 5,
+        "max": 100,
+        "pas": 5,
+        "unite": "mL"
+      }
+    },
+    "formule": "lam*VB/VA",
+    "unite": "",
+    "decimales": 3,
+    "etapes": [
+      "Étape 1 : α = QB/QA = (CB·VB)/(CA·VA)",
+      "Étape 2 : α = λ·VB/VA"
+    ],
+    "rappel": "α = λ·VB/VA (coefficient de partage corrigé ou apparent)."
+  },
+  {
+    "id": "chimie-analytique/02-extraction-liquide-liquide/calcul-003",
+    "titre": "Rendement d'une extraction simple",
+    "enonce": "On extrait {VA} mL de solution aqueuse par {VB} mL de solvant organique (λ = {lam}). Calculer le rendement en %.",
+    "variables": {
+      "VA": {
+        "min": 20,
+        "max": 200,
+        "pas": 10,
+        "unite": "mL"
+      },
+      "VB": {
+        "min": 5,
+        "max": 100,
+        "pas": 5,
+        "unite": "mL"
+      },
+      "lam": {
+        "min": 2,
+        "max": 30,
+        "pas": 1,
+        "unite": ""
+      }
+    },
+    "formule": "100*(lam*VB/VA)/(1+lam*VB/VA)",
+    "unite": "%",
+    "decimales": 2,
+    "etapes": [
+      "Étape 1 : α = λ·VB/VA",
+      "Étape 2 : ρ = α/(1 + α)",
+      "Étape 3 : multiplier par 100"
+    ],
+    "rappel": "ρ = α/(1+α) = 1 − VA/(VA + λVB)."
+  },
+  {
+    "id": "chimie-analytique/02-extraction-liquide-liquide/calcul-004",
+    "titre": "Quantité restant dans le raffiné",
+    "enonce": "{VA} mL d'une solution aqueuse à {C0} mg/mL sont extraits une fois par {VB} mL de solvant (λ = {lam}). Calculer la quantité QA1 restant en phase aqueuse.",
+    "variables": {
+      "VA": {
+        "min": 20,
+        "max": 100,
+        "pas": 10,
+        "unite": "mL"
+      },
+      "C0": {
+        "min": 0.5,
+        "max": 5,
+        "pas": 0.5,
+        "unite": "mg/mL"
+      },
+      "VB": {
+        "min": 5,
+        "max": 50,
+        "pas": 5,
+        "unite": "mL"
+      },
+      "lam": {
+        "min": 2,
+        "max": 20,
+        "pas": 1,
+        "unite": ""
+      }
+    },
+    "formule": "C0*VA/(1+lam*VB/VA)",
+    "unite": "mg",
+    "decimales": 2,
+    "etapes": [
+      "Étape 1 : QA0 = CA0·VA",
+      "Étape 2 : α = λ·VB/VA",
+      "Étape 3 : QA1 = QA0/(1 + α)"
+    ],
+    "rappel": "QA1 = QA0/(1+α)."
+  },
+  {
+    "id": "chimie-analytique/02-extraction-liquide-liquide/calcul-005",
+    "titre": "Concentration de l'extrait",
+    "enonce": "CA0 = {C0} unités/mL, λ = {lam}, rapport VB/VA = 1/{r}. Calculer la concentration CB1 de l'extrait (extraction simple).",
+    "variables": {
+      "C0": {
+        "min": 500,
+        "max": 2000,
+        "pas": 100,
+        "unite": "U/mL"
+      },
+      "lam": {
+        "min": 5,
+        "max": 30,
+        "pas": 1,
+        "unite": ""
+      },
+      "r": {
+        "min": 2,
+        "max": 10,
+        "pas": 1,
+        "unite": ""
+      }
+    },
+    "formule": "lam*C0/(1+lam/r)",
+    "unite": "U/mL",
+    "decimales": 1,
+    "etapes": [
+      "Étape 1 : α = λ·VB/VA = λ/r",
+      "Étape 2 : CA1 = CA0/(1 + α)",
+      "Étape 3 : CB1 = λ·CA1"
+    ],
+    "rappel": "Exemple pénicilline : λ = 15, VB/VA = 1/5 → CB1 = 3750 U/cm³."
+  },
+  {
+    "id": "chimie-analytique/02-extraction-liquide-liquide/calcul-006",
+    "titre": "Volume de solvant pour un rendement visé",
+    "enonce": "On veut extraire en une seule fois {rho} % d'une substance contenue dans {VA} mL d'eau avec un solvant de λ = {lam}. Quel volume VB faut-il ?",
+    "variables": {
+      "rho": {
+        "min": 50,
+        "max": 98,
+        "pas": 1,
+        "unite": "%"
+      },
+      "VA": {
+        "min": 20,
+        "max": 200,
+        "pas": 10,
+        "unite": "mL"
+      },
+      "lam": {
+        "min": 2,
+        "max": 30,
+        "pas": 1,
+        "unite": ""
+      }
+    },
+    "formule": "(rho/100)/(1-rho/100)*VA/lam",
+    "unite": "mL",
+    "decimales": 1,
+    "etapes": [
+      "Étape 1 : ρ = α/(1+α) ⟹ α = ρ/(1 − ρ)",
+      "Étape 2 : α = λ·VB/VA ⟹ VB = α·VA/λ"
+    ],
+    "rappel": "ρ = α/(1+α), α = λVB/VA."
+  }
+]

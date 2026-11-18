@@ -1,0 +1,13 @@
+{
+  "id": "chimie-analytique/01-methodes-de-separation",
+  "module": "chimie-analytique",
+  "ordre": 1,
+  "titre": "Méthodes de séparation",
+  "type": "cours",
+  "source": {
+    "driveId": "1QrLerf48vFf-Ox-TdoZLHXQTZ6m1_ps5",
+    "fichier": "1. Méthodes de séparation.pdf",
+    "modifiedTime": "2026-10-17T11:33:04.528Z"
+  },
+  "resume": "Analyse immédiate : séparation des mélanges hétérogènes (filtration, centrifugation, décantation, lévigation, tamisage) et traitement d'une phase homogène par rupture de phase (élimination du solvant, précipitation, relargage)."
+}

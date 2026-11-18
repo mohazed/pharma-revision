@@ -1,0 +1,13 @@
+{
+  "id": "chimie-analytique/04-extraction-contre-courant",
+  "module": "chimie-analytique",
+  "ordre": 4,
+  "titre": "Extraction à contre-courant",
+  "type": "cours",
+  "source": {
+    "driveId": "1c-Sl3IesofCqAfgoI_JeUQ7ElXMxxyhq",
+    "fichier": "4. Extraction à Contre Courant.pdf",
+    "modifiedTime": "2026-11-11T12:36:34.187Z"
+  },
+  "resume": "Extraction continue en colonne où phase à extraire et solvant circulent en sens inverse : étages théoriques, HEET, bilan par étage, QAn = QA0(α−1)/(αⁿ⁺¹−1), rendement et nombre d'étages."
+}

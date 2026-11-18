@@ -1,0 +1,242 @@
+[
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/flash-001",
+    "recto": "Deux voies d'extraction d'une espèce",
+    "verso": "Directement, ou après création d'une entité extractible plus affine pour le solvant (masquage de charges).",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/flash-002",
+    "recto": "Ions minéraux / ions organiques : quelle stratégie ?",
+    "verso": "Minéraux : chélation ; organiques : transformation en acides/bases neutres ou paires d'ions.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/flash-003",
+    "recto": "Deux indications des extractions répétées",
+    "verso": "Rendement d'extraction simple insuffisant ; extrait insuffisamment purifié.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/flash-004",
+    "recto": "Six critères de choix du solvant",
+    "verso": "Pouvoir dissolvant, polarité, non miscibilité, densité différente, volatilité, non toxicité.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/flash-005",
+    "recto": "Solvant des barbituriques et antibiotiques",
+    "verso": "Acétate d'amyle.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/flash-006",
+    "recto": "Solvant de l'acide benzoïque",
+    "verso": "Diéthyl éther.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/flash-007",
+    "recto": "Effet d'un –CH₂– supplémentaire sur λ",
+    "verso": "Augmente λ d'environ 4 unités (série homologue).",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/flash-008",
+    "recto": "Effets structuraux diminuant λ",
+    "verso": "Ramification, insaturation, phényle (vs cyclohexyle), groupements hydrophiles (C=O, OH, NH).",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/flash-009",
+    "recto": "Effet d'un atome de chlore sur λ",
+    "verso": "Favorise le passage en phase organique : λ augmente.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/flash-010",
+    "recto": "Dimérisation en phase organique / aqueuse",
+    "verso": "Organique : D ↑ ; aqueuse : D ↓.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/flash-011",
+    "recto": "D d'un acide dimérisé en phase organique",
+    "verso": "D = λ(1 + 2K₂[AH]org).",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/flash-012",
+    "recto": "D de l'iode en présence d'iodure",
+    "verso": "D = λ/(1 + Ks[I⁻]) ; bon rendement si [I⁻] minimale.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/flash-013",
+    "recto": "Seules espèces extractibles par un solvant organique",
+    "verso": "Les molécules neutres.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/flash-014",
+    "recto": "D d'un acide faible",
+    "verso": "D = λ/(1 + Ka/[H₃O⁺]) ; log D = log λ (pH bas) ou log λ + pKa − pH (pH élevé).",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/flash-015",
+    "recto": "D d'une base faible",
+    "verso": "D = λ/(1 + [H₃O⁺]/Ka) ; log D = log λ (pH élevé) ou log λ − pKa + pH (pH bas).",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/flash-016",
+    "recto": "Exemples de courbes log D = f(pH)",
+    "verso": "Ibuprofène (acide, pKa 4,6) ; amitriptyline (base, pKa 9,45).",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/flash-017",
+    "recto": "Définition d'un chélate",
+    "verso": "Complexe cyclique : cation lié par au moins deux groupements donneurs d'un seul ligand.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/flash-018",
+    "recto": "Oxine",
+    "verso": "Hydroxy-8-quinoléine (XOH) : moléculaire en solvant organique ; XOH₂⁺ (pH < 5), XO⁻ (pH > 5), XOH (neutre) dans l'eau.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/flash-019",
+    "recto": "Dithizone",
+    "verso": "H₂Dz, diphénylthiocarbazone ; diacide dans l'eau ; dosage du plomb.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/flash-020",
+    "recto": "Équilibre total d'extraction d'un chélate",
+    "verso": "n HLorg + Mⁿ⁺ ⇌ [MLn]org + n H⁺.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/flash-021",
+    "recto": "KEX",
+    "verso": "KEX = λM·Kaⁿ·Ks/λHⁿ ; ↑ si λM, Ks, Ka ↑ ou λH ↓.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/flash-022",
+    "recto": "D d'un ion métallique chélaté",
+    "verso": "D = λM/(1 + λHⁿ[H⁺]ⁿ/(Ks·Cⁿ·Kaⁿ)).",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/flash-023",
+    "recto": "Conditions d'un D élevé (chélates)",
+    "verso": "λH faible, pKa bas, pH ≥ pKa + 2, [ligand] élevée, Ks élevé.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/flash-024",
+    "recto": "Applications des chélates",
+    "verso": "Cu–diéthyldithiocarbamate, Cu–néocuproïne, Fe–8-hydroxyquinoléate, Pb–dithizone, essais limites.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/flash-025",
+    "recto": "Objectif de la formation de paires d'ions",
+    "verso": "Éliminer ou masquer la charge d'un ion organique à pôle hydrophobe.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/flash-026",
+    "recto": "Constante diélectrique et paires d'ions",
+    "verso": "εr < 15 : non dissociées ; 15–40 : partielle ; > 40 : dissociation totale.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/flash-027",
+    "recto": "Relation de Bjerrum (Denison et Ramsay)",
+    "verso": "pKd = −log Kd = A + C/ε.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/flash-028",
+    "recto": "Paire d'ions stable si…",
+    "verso": "Kd faible (pKd élevé) et solvant peu dissociant (ε faible).",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/flash-029",
+    "recto": "Structure favorable des ions d'une paire",
+    "verso": "Volumineux, masse moléculaire élevée, groupements hydrophobes suffisants.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/flash-030",
+    "recto": "Anions extractibles",
+    "verso": "LSS (SDS), DOSS (plus hydrophobe), tétraphénylborate, colorants acides, anions d'ampholytes (hélianthine).",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/flash-031",
+    "recto": "Cations extractibles",
+    "verso": "Ammoniums quaternaires à longue chaîne, amines de MM élevée (alcaloïdes, phénothiazines), colorants basiques (vert de méthyle, jaune de méthyle).",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/flash-032",
+    "recto": "Facteurs d'extraction des paires d'ions",
+    "verso": "Contre-ion, température, solvant, ion commun, agents relargants, pH.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/flash-033",
+    "recto": "pH sans influence sur la paire d'ions quand…",
+    "verso": "Les deux ions sont conjugués de protolytes forts (ammonium quaternaire + sulfate acide d'alcoyle).",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/flash-034",
+    "recto": "Deux conditions de la colorimétrie des paires d'ions",
+    "verso": "Colorant neutre non extractible ; extraction quantitative de la paire.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/flash-035",
+    "recto": "Solutions titrées en volumétrie",
+    "verso": "LSS 0,01 M et DOSS 0,01 M.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/flash-036",
+    "recto": "Étalons en volumétrie",
+    "verso": "Papavérine et ses sels ; phénothiazines (prométhazine, chlorpromazine).",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/flash-037",
+    "recto": "Indicateurs en volumétrie",
+    "verso": "Jaune de méthyle ; jaune de méthyle + bleu Oracet B (sensibilise le virage).",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/flash-038",
+    "recto": "Règle du choix de l'indicateur",
+    "verso": "Paire indicateur–titrant MOINS stable que la paire cation dosé–titrant.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/flash-039",
+    "recto": "Virage du jaune de méthyle",
+    "verso": "Du jaune au rouge en phase chloroformique, phase aqueuse incolore.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/flash-040",
+    "recto": "Inconvénients de l'ELL",
+    "verso": "Volumes de solvants, toxicité, molécules très polaires difficiles, techniques manuelles peu automatisables.",
+    "tags": []
+  }
+]

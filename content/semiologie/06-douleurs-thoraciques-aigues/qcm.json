@@ -1,0 +1,1833 @@
+[
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/qcm-001",
+    "type": "multiple",
+    "enonce": "Concernant les trois familles de signes rappelées dans ce cours :",
+    "options": [
+      "Les signes fonctionnels sont recueillis à l'interrogatoire",
+      "Les signes généraux sont mesurables : poids, taille, température, diurèse, pression artérielle",
+      "Les signes physiques sont découverts à l'examen clinique",
+      "L'analyse des signes fonctionnels dépend du patient et de l'écoute du soignant",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le rappel définit les signes fonctionnels (interrogatoire, analyse délicate), généraux (mesurables, objectifs) et physiques (inspection, palpation, percussion, auscultation).",
+    "source": {
+      "page": 4,
+      "extrait": "Mesurables : poids, taille, température, diurèse, pression artérielle. Éléments objectifs de surveillance."
+    },
+    "difficulte": 1,
+    "tags": [
+      "généralités"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/qcm-002",
+    "type": "multiple",
+    "enonce": "Les 4 grands signes fonctionnels en pathologie cardiovasculaire sont :",
+    "options": [
+      "Douleur",
+      "Dyspnée",
+      "Palpitations",
+      "Perte de connaissance",
+      "Fièvre"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Douleur, dyspnée, palpitations, perte de connaissance.",
+    "source": {
+      "page": 4,
+      "extrait": "Les 4 grands signes fonctionnels en pathologie cardiovasculaire : Douleur Dyspnée Palpitations Perte de connaissance"
+    },
+    "difficulte": 1,
+    "tags": [
+      "généralités"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/qcm-003",
+    "type": "multiple",
+    "enonce": "Concernant l'épidémiologie de la douleur thoracique :",
+    "options": [
+      "Elle représente 30 % des motifs de consultation en cardiologie",
+      "Elle représente 5–10 % des prises en charge aux urgences",
+      "Environ la moitié des douleurs thoraciques évoquent ou simulent une origine cardiovasculaire",
+      "Elle représente 50 % des prises en charge aux urgences",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "30 % des consultations en cardiologie, 5–10 % des prises en charge aux urgences, ≈ 1/2 évoquent ou simulent une origine cardiovasculaire.",
+    "source": {
+      "page": 5,
+      "extrait": "30 % des motifs de consultation en cardiologie ; 5–10 % des prises en charge aux urgences"
+    },
+    "difficulte": 2,
+    "tags": [
+      "épidémiologie"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/qcm-004",
+    "type": "multiple",
+    "enonce": "La douleur thoracique est une urgence diagnostique difficile car :",
+    "options": [
+      "Les causes sont nombreuses",
+      "Les présentations cliniques sont hétérogènes",
+      "Les examens complémentaires sont multiples",
+      "Le contexte est stressant pour le patient comme pour le soignant",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Les quatre raisons sont citées dans le cours.",
+    "source": {
+      "page": 5,
+      "extrait": "causes nombreuses · présentations cliniques hétérogènes · examens complémentaires multiples"
+    },
+    "difficulte": 1,
+    "tags": [
+      "épidémiologie"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/qcm-005",
+    "type": "multiple",
+    "enonce": "Les six origines possibles d'une douleur thoracique sont :",
+    "options": [
+      "Cardiovasculaire",
+      "Pleuro-pulmonaire",
+      "Digestive",
+      "Pariétale",
+      "Neurologique et psychogène"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Six origines : cardiovasculaire, pleuro-pulmonaire, digestive, pariétale, neurologique, psychogène.",
+    "source": {
+      "page": 6,
+      "extrait": "Six origines possibles"
+    },
+    "difficulte": 1,
+    "tags": [
+      "étiologies"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/qcm-006",
+    "type": "multiple",
+    "enonce": "Associez l'origine de la douleur thoracique à ses structures, selon le cours :",
+    "options": [
+      "Cardiovasculaire — coronaires, péricarde, aorte, artère pulmonaire",
+      "Digestive — œsophage, estomac, duodénum, pancréas",
+      "Pariétale — muscles, articulations sternocostales, côtes, peau",
+      "Neurologique — compression radiculaire (hernie discale)",
+      "Psychogène — précordialgies d'angoisse, cœur indemne"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Toutes les associations figurent dans le tableau des six origines.",
+    "source": {
+      "page": 6,
+      "extrait": "Neurologique — Compression radiculaire (hernie discale)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "étiologies"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/qcm-007",
+    "type": "multiple",
+    "enonce": "Les sept caractères de la douleur thoracique à analyser sont :",
+    "options": [
+      "Circonstances et siège",
+      "Irradiations",
+      "Type et intensité",
+      "Durée, évolution",
+      "Signes associés et facteurs modifiants"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Les sept caractères : circonstances, siège, irradiations, type et intensité, durée/évolution, signes associés, facteurs modifiants.",
+    "source": {
+      "page": 7,
+      "extrait": "Les sept caractères de la douleur"
+    },
+    "difficulte": 1,
+    "tags": [
+      "analyse sémiologique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/qcm-008",
+    "type": "multiple",
+    "enonce": "Parmi les facteurs modifiants d'une douleur thoracique recherchés à l'interrogatoire :",
+    "options": [
+      "Calmée par le repos",
+      "Calmée par la trinitrine",
+      "Calmée par l'antéflexion",
+      "Aggravée par la respiration ou la palpation",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Facteurs modifiants : calmée par le repos, la trinitrine, l'antéflexion ; aggravée par la respiration, la palpation.",
+    "source": {
+      "page": 7,
+      "extrait": "Calmée par le repos, la trinitrine, l'antéflexion ? Aggravée par la respiration, la palpation ?"
+    },
+    "difficulte": 1,
+    "tags": [
+      "analyse sémiologique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/qcm-009",
+    "type": "multiple",
+    "enonce": "Associez les mots du patient à l'orientation diagnostique :",
+    "options": [
+      "Constrictive « en étau » — ischémie myocardique",
+      "Brûlure rétrosternale ascendante — reflux gastro-œsophagien",
+      "Déchirure, brutale, migratrice — dissection aortique",
+      "Point de côté majoré à l'inspiration — plèvre, embolie pulmonaire",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Les quatre associations sont exactes.",
+    "source": {
+      "page": 8,
+      "extrait": "Constrictive, « en étau » → Ischémie myocardique"
+    },
+    "difficulte": 2,
+    "tags": [
+      "analyse sémiologique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/qcm-010",
+    "type": "multiple",
+    "enonce": "Une douleur thoracique :",
+    "options": [
+      "En piqûre, coup d'aiguille, oriente vers une précordialgie fonctionnelle",
+      "Reproduite à la palpation oriente vers une douleur pariétale",
+      "En étau oriente vers une douleur pariétale",
+      "Migratrice en déchirure oriente vers un reflux",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Piqûre/coup d'aiguille = précordialgie fonctionnelle ; reproduite à la palpation = pariétale.",
+    "source": {
+      "page": 8,
+      "extrait": "Piqûre, coup d'aiguille → Précordialgie fonctionnelle ; Reproduite à la palpation → Douleur pariétale"
+    },
+    "difficulte": 2,
+    "tags": [
+      "analyse sémiologique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/qcm-011",
+    "type": "multiple",
+    "enonce": "Les signes de gravité d'une douleur thoracique à rechercher en premier sont :",
+    "options": [
+      "Difficulté respiratoire, polypnée",
+      "Malaise, syncope, sueurs, vomissements",
+      "Troubles de la conscience",
+      "Pouls faibles, hypotension (collapsus, choc)",
+      "Douleur prolongée (> 10 min) chez un sujet à risque cardiovasculaire"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Tous sont des signes de gravité ; un seul impose l'appel immédiat des secours.",
+    "source": {
+      "page": 9,
+      "extrait": "Douleur prolongée (> 10 min) chez un sujet à risque cardiovasculaire"
+    },
+    "difficulte": 1,
+    "tags": [
+      "gravité"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/qcm-012",
+    "type": "unique",
+    "enonce": "Combien de signes de gravité faut-il pour justifier l'appel immédiat des secours devant une douleur thoracique ?",
+    "options": [
+      "Un seul",
+      "Deux",
+      "Trois",
+      "Tous",
+      "Aucun, il faut d'abord un ECG"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Un seul de ces signes : appel immédiat des secours.",
+    "source": {
+      "page": 9,
+      "extrait": "Un seul de ces signes : appel immédiat des secours."
+    },
+    "difficulte": 1,
+    "tags": [
+      "gravité"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/qcm-013",
+    "type": "multiple",
+    "enonce": "Le moyen mnémotechnique P.I.E.D désigne les urgences cardiovasculaires suivantes :",
+    "options": [
+      "Péricardite aiguë",
+      "Insuffisance coronaire : angor, infarctus",
+      "Embolie pulmonaire",
+      "Dissection aortique",
+      "Pneumothorax"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "P.I.E.D : Péricardite, Insuffisance coronaire, Embolie pulmonaire, Dissection aortique. Le pneumothorax est une cause pleuro-pulmonaire.",
+    "source": {
+      "page": 10,
+      "extrait": "P Péricardite aiguë I Insuffisance coronaire : angor, infarctus E Embolie pulmonaire D Dissection aortique"
+    },
+    "difficulte": 1,
+    "tags": [
+      "P.I.E.D"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/qcm-014",
+    "type": "multiple",
+    "enonce": "Concernant la physiopathologie de la douleur ischémique :",
+    "options": [
+      "L'athérome ± thrombose coronaire diminue le débit coronaire",
+      "L'apport en O2 devient inférieur aux besoins du myocarde",
+      "Au repos, le débit coronaire reste suffisant : pas de douleur",
+      "À l'effort, la consommation d'O2 augmente et le débit devient insuffisant",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Athérome ± thrombose → baisse du débit → apport < besoins → ischémie → douleur, d'abord à l'effort.",
+    "source": {
+      "page": 11,
+      "extrait": "La consommation d'O2 augmente, le débit devient insuffisant : la douleur apparaît."
+    },
+    "difficulte": 2,
+    "tags": [
+      "insuffisance coronaire"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/qcm-015",
+    "type": "unique",
+    "enonce": "Une douleur angineuse sans lésion coronaire, par exemple sur rétrécissement aortique, relève d'une cause :",
+    "options": [
+      "Athéromateuse",
+      "Fonctionnelle",
+      "Pariétale",
+      "Psychogène",
+      "Pleurale"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Cause fonctionnelle : sans lésion coronaire, cardiopathie (ex. rétrécissement aortique).",
+    "source": {
+      "page": 11,
+      "extrait": "Sans lésion coronaire : cardiopathie, ex. rétrécissement aortique."
+    },
+    "difficulte": 2,
+    "tags": [
+      "insuffisance coronaire"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/qcm-016",
+    "type": "multiple",
+    "enonce": "Parmi les facteurs de risque cardiovasculaire, lesquels sont modifiables ?",
+    "options": [
+      "HTA",
+      "Diabète",
+      "Tabac",
+      "Dyslipidémie et obésité",
+      "Âge"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Modifiables : HTA, diabète, tabac, dyslipidémie, obésité. Non modifiables : âge, sexe masculin, hérédité coronarienne.",
+    "source": {
+      "page": 12,
+      "extrait": "Modifiables HTA Diabète Tabac Dyslipidémie Obésité"
+    },
+    "difficulte": 1,
+    "tags": [
+      "facteurs de risque"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/qcm-017",
+    "type": "multiple",
+    "enonce": "Les facteurs de risque cardiovasculaire non modifiables sont :",
+    "options": [
+      "Âge",
+      "Sexe masculin",
+      "Hérédité coronarienne",
+      "Tabac",
+      "Obésité"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Non modifiables : âge, sexe masculin, hérédité coronarienne.",
+    "source": {
+      "page": 12,
+      "extrait": "Non modifiables … Âge Sexe masculin Hérédité coronarienne"
+    },
+    "difficulte": 1,
+    "tags": [
+      "facteurs de risque"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/qcm-018",
+    "type": "multiple",
+    "enonce": "Selon le cours, l'ordonnance révèle souvent le terrain cardiovasculaire par la présence de :",
+    "options": [
+      "Antihypertenseurs",
+      "Antidiabétiques",
+      "Statines",
+      "Antiagrégants et dérivés nitrés",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "L'ordonnance révèle souvent le terrain : antihypertenseurs, antidiabétiques, statines, antiagrégants, dérivés nitrés.",
+    "source": {
+      "page": 12,
+      "extrait": "L'ordonnance révèle souvent le terrain : antihypertenseurs, antidiabétiques, statines, antiagrégants, dérivés nitrés."
+    },
+    "difficulte": 1,
+    "tags": [
+      "facteurs de risque",
+      "pharmacien"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/qcm-019",
+    "type": "multiple",
+    "enonce": "L'angor d'effort (angor stable) survient lors de :",
+    "options": [
+      "La marche rapide, contre le vent",
+      "Au froid",
+      "Après un repas copieux",
+      "La montée d'escaliers",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Circonstances : à l'effort, marche rapide, contre le vent, au froid, après un repas copieux, montée d'escaliers.",
+    "source": {
+      "page": 13,
+      "extrait": "À l'effort : marche rapide, contre le vent, au froid, après un repas copieux, montée d'escaliers"
+    },
+    "difficulte": 1,
+    "tags": [
+      "angor stable"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/qcm-020",
+    "type": "multiple",
+    "enonce": "La douleur d'angor d'effort est :",
+    "options": [
+      "Rétrosternale, en barre",
+      "Irradiant au bras gauche jusqu'aux derniers doigts et aux mâchoires",
+      "Constrictive (étau), intense, imposant l'arrêt de l'effort",
+      "Brève : quelques secondes à 2 minutes après l'arrêt de l'effort",
+      "Prolongée, plus de 20 minutes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "L'angor d'effort est bref (quelques secondes à 2 min après l'arrêt de l'effort) ; une durée > 20 min évoque l'infarctus.",
+    "source": {
+      "page": 13,
+      "extrait": "Brève : quelques secondes à 2 minutes après l'arrêt de l'effort"
+    },
+    "difficulte": 2,
+    "tags": [
+      "angor stable"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/qcm-021",
+    "type": "multiple",
+    "enonce": "Concernant l'angor d'effort :",
+    "options": [
+      "Il est calmé par le repos",
+      "Il cède à la trinitrine sublinguale en moins d'une minute",
+      "L'ECG est souvent normal au repos",
+      "L'épreuve d'effort reproduit la douleur avec sous-décalage ST",
+      "L'ECG montre un sus-décalage ST de Pardee"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Angor stable : repos, trinitrine < 1 min, ECG souvent normal au repos, sous-décalage ST à l'épreuve d'effort. Le sus-décalage de Pardee caractérise l'infarctus.",
+    "source": {
+      "page": 13,
+      "extrait": "Souvent normal au repos ; l'épreuve d'effort reproduit la douleur (sous-décalage ST)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "angor stable"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/qcm-022",
+    "type": "multiple",
+    "enonce": "Concernant le test à la trinitrine :",
+    "options": [
+      "La trinitrine est croquée et gardée sous la langue",
+      "Elle fait céder l'angor en moins d'une minute",
+      "Le spasme œsophagien cède aussi (piège)",
+      "L'infarctus et la péricardite résistent",
+      "L'angor instable est moins sensible"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Toutes les propositions correspondent au test à la trinitrine décrit.",
+    "source": {
+      "page": 14,
+      "extrait": "Croquée et gardée sous la langue, la trinitrine fait céder la douleur d'angor en moins d'une minute."
+    },
+    "difficulte": 2,
+    "tags": [
+      "trinitrine"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/qcm-023",
+    "type": "unique",
+    "enonce": "Parmi les douleurs suivantes, laquelle cède à la trinitrine et constitue un piège ?",
+    "options": [
+      "Infarctus du myocarde",
+      "Péricardite",
+      "Spasme œsophagien",
+      "Dissection aortique",
+      "Embolie pulmonaire"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Le spasme œsophagien cède aussi à la trinitrine : il simule l'angor.",
+    "source": {
+      "page": 14,
+      "extrait": "Angor stable — mais aussi le spasme œsophagien (piège)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "trinitrine",
+      "pièges"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/qcm-024",
+    "type": "multiple",
+    "enonce": "Les formes d'angor instable sont :",
+    "options": [
+      "Angor de novo : premières crises d'emblée sévères",
+      "Angor crescendo : crises plus fréquentes, plus longues, pour des efforts de plus en plus faibles",
+      "Angor de repos : crises spontanées répétées sans élévation significative de la troponine",
+      "Angor après infarctus ou après revascularisation coronaire",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Les trois formes plus l'angor post-infarctus ou post-revascularisation, aussi préoccupant.",
+    "source": {
+      "page": 15,
+      "extrait": "Crises spontanées, répétées, sans élévation significative de la troponine."
+    },
+    "difficulte": 2,
+    "tags": [
+      "angor instable"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/qcm-025",
+    "type": "multiple",
+    "enonce": "Concernant l'angor instable :",
+    "options": [
+      "Son mécanisme est un caillot intracoronaire plus ou moins occlusif",
+      "Le caillot se forme sur une plaque d'athérome érodée ou fissurée",
+      "Il constitue un « syndrome de menace »",
+      "Il impose une prise en charge urgente",
+      "Il s'accompagne d'une élévation significative de la troponine dans l'angor de repos"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "L'angor de repos s'observe SANS élévation significative de la troponine ; les autres propositions sont exactes.",
+    "source": {
+      "page": 15,
+      "extrait": "Pronostic péjoratif commun : « syndrome de menace » → prise en charge urgente."
+    },
+    "difficulte": 3,
+    "tags": [
+      "angor instable"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/qcm-026",
+    "type": "multiple",
+    "enonce": "Concernant l'infarctus du myocarde :",
+    "options": [
+      "C'est une nécrose du myocarde dans le territoire d'une artère coronaire obstruée",
+      "Il peut être spontané ou survenir après un effort",
+      "La douleur est rétrosternale, souvent diffuse, parfois épigastrique",
+      "La douleur est constrictive, atroce, angoissante",
+      "La douleur dure plus de 20 minutes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Toutes les propositions décrivent l'IDM selon le cours.",
+    "source": {
+      "page": 16,
+      "extrait": "Nécrose du myocarde dans le territoire d'une artère coronaire obstruée"
+    },
+    "difficulte": 1,
+    "tags": [
+      "infarctus"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/qcm-027",
+    "type": "multiple",
+    "enonce": "Les signes associés à l'infarctus du myocarde comprennent :",
+    "options": [
+      "Agitation, angoisse",
+      "Pâleur, sueurs froides",
+      "Nausées, vomissements",
+      "Collapsus, OAP",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Signes associés : agitation, angoisse, pâleur, sueurs froides, nausées, vomissements ; collapsus, OAP.",
+    "source": {
+      "page": 16,
+      "extrait": "Agitation, angoisse, pâleur, sueurs froides, nausées, vomissements ; collapsus, OAP"
+    },
+    "difficulte": 1,
+    "tags": [
+      "infarctus"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/qcm-028",
+    "type": "multiple",
+    "enonce": "Concernant les facteurs sédatifs de la douleur d'infarctus :",
+    "options": [
+      "Elle résiste à la trinitrine",
+      "Elle est soulagée par les opiacés",
+      "Elle cède en moins d'une minute à la trinitrine",
+      "Elle est calmée par l'antéflexion",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "L'IDM résiste à la trinitrine et est soulagé par les opiacés.",
+    "source": {
+      "page": 16,
+      "extrait": "Résiste à la trinitrine ; soulagée par les opiacés"
+    },
+    "difficulte": 1,
+    "tags": [
+      "infarctus"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/qcm-029",
+    "type": "unique",
+    "enonce": "La durée de la douleur d'un infarctus du myocarde est, selon le cours :",
+    "options": [
+      "Quelques secondes",
+      "Moins de 2 minutes",
+      "Entre 2 et 5 minutes",
+      "Plus de 20 minutes",
+      "Moins de 10 minutes"
+    ],
+    "correctes": [
+      3
+    ],
+    "explication": "Durée prolongée : plus de 20 minutes.",
+    "source": {
+      "page": 16,
+      "extrait": "Durée Prolongée (plus de 20 minutes)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "infarctus"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/qcm-030",
+    "type": "multiple",
+    "enonce": "Comparaison angor stable / infarctus du myocarde :",
+    "options": [
+      "L'angor stable est déclenché par l'effort",
+      "L'infarctus résiste à la trinitrine",
+      "L'ECG de l'infarctus montre un sus-décalage ST (Pardee) puis une onde Q",
+      "L'angor stable s'accompagne de sueurs, nausées et choc",
+      "L'ECG de l'angor stable est souvent normal au repos"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explication": "Dans l'angor stable, il n'y a aucun signe associé ; sueurs, nausées, malaise, choc accompagnent l'infarctus.",
+    "source": {
+      "page": 17,
+      "extrait": "Sus-décalage ST (Pardee), puis onde Q"
+    },
+    "difficulte": 2,
+    "tags": [
+      "angor vs infarctus"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/qcm-031",
+    "type": "unique",
+    "enonce": "Le syndrome coronarien aigu (SCA) regroupe :",
+    "options": [
+      "Angor stable + angor instable",
+      "Angor instable + infarctus du myocarde",
+      "Infarctus + péricardite",
+      "Angor stable + infarctus",
+      "Dissection + embolie pulmonaire"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "SCA = angor instable + infarctus du myocarde : même mécanisme, même urgence.",
+    "source": {
+      "page": 17,
+      "extrait": "Syndrome coronarien aigu (SCA) = angor instable + infarctus du myocarde : même mécanisme, même urgence."
+    },
+    "difficulte": 1,
+    "tags": [
+      "SCA"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/qcm-032",
+    "type": "multiple",
+    "enonce": "Concernant la péricardite aiguë :",
+    "options": [
+      "C'est une inflammation des feuillets du péricarde",
+      "Elle est souvent précédée d'un syndrome grippal 1 à 2 semaines avant",
+      "La douleur est rétrosternale, « anginoïde », sans irradiation",
+      "La douleur est majorée par l'inspiration profonde, la toux et le décubitus",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes les propositions décrivent la péricardite aiguë.",
+    "source": {
+      "page": 18,
+      "extrait": "Vive, majorée par l'inspiration profonde, la toux et le décubitus"
+    },
+    "difficulte": 1,
+    "tags": [
+      "péricardite"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/qcm-033",
+    "type": "multiple",
+    "enonce": "La douleur de péricardite aiguë :",
+    "options": [
+      "Est prolongée, « infarctoïde »",
+      "S'accompagne de fièvre et de dyspnée avec polypnée",
+      "Est calmée par la position penchée en avant (antéflexion)",
+      "Résiste à la trinitrine",
+      "Irradie au bras gauche et aux mâchoires"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "La douleur péricardique est SANS irradiation ; les quatre autres propositions sont exactes.",
+    "source": {
+      "page": 18,
+      "extrait": "Calmée par la position penchée en avant (antéflexion) ; résiste à la trinitrine"
+    },
+    "difficulte": 2,
+    "tags": [
+      "péricardite"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/qcm-034",
+    "type": "multiple",
+    "enonce": "Les examens au cours d'une péricardite aiguë peuvent montrer :",
+    "options": [
+      "Un frottement péricardique (péricardite sèche)",
+      "Un assourdissement des bruits du cœur (épanchement)",
+      "Des troubles diffus de la repolarisation à l'ECG",
+      "Un bas voltage si épanchement",
+      "Une silhouette cardiaque « en carafe » en cas d'épanchement"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Toutes ces anomalies sont décrites.",
+    "source": {
+      "page": 19,
+      "extrait": "Silhouette cardiaque augmentée « en carafe » en cas d'épanchement"
+    },
+    "difficulte": 2,
+    "tags": [
+      "péricardite"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/qcm-035",
+    "type": "unique",
+    "enonce": "Un frottement péricardique à l'auscultation évoque :",
+    "options": [
+      "Une péricardite sèche",
+      "Un épanchement péricardique abondant",
+      "Une dissection aortique",
+      "Une embolie pulmonaire",
+      "Un pneumothorax"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Le frottement péricardique traduit une péricardite sèche ; l'épanchement assourdit les bruits du cœur.",
+    "source": {
+      "page": 19,
+      "extrait": "Frottement péricardique (péricardite sèche)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "péricardite"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/qcm-036",
+    "type": "unique",
+    "enonce": "Une silhouette cardiaque « en carafe » à la radiographie évoque :",
+    "options": [
+      "Une dissection aortique",
+      "Un épanchement péricardique",
+      "Un pneumothorax",
+      "Une embolie pulmonaire",
+      "Un infarctus"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Silhouette augmentée en carafe : épanchement péricardique.",
+    "source": {
+      "page": 19,
+      "extrait": "Silhouette cardiaque augmentée « en carafe » en cas d'épanchement"
+    },
+    "difficulte": 1,
+    "tags": [
+      "péricardite"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/qcm-037",
+    "type": "multiple",
+    "enonce": "Concernant la dissection aortique :",
+    "options": [
+      "Elle survient sous l'effet d'une poussée hypertensive",
+      "La paroi interne de l'aorte se rompt",
+      "Le sang s'engouffre dans l'épaisseur de la paroi et la dédouble",
+      "L'étendue du clivage est variable",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Sous l'effet d'une poussée hypertensive, la paroi interne se rompt et le sang dédouble la paroi sur une étendue variable.",
+    "source": {
+      "page": 20,
+      "extrait": "le sang s'engouffre dans l'épaisseur de la paroi et la dédouble sur une étendue variable"
+    },
+    "difficulte": 1,
+    "tags": [
+      "dissection"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/qcm-038",
+    "type": "multiple",
+    "enonce": "La douleur de dissection aortique est :",
+    "options": [
+      "Rétrosternale, violente, brutale",
+      "« En déchirure »",
+      "Irradiant dans le dos puis vers les lombes ou l'abdomen",
+      "Migratrice",
+      "Calmée par la trinitrine"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Douleur rétrosternale, violente, brutale, en déchirure, irradiant dans le dos puis lombes/abdomen : migratrice. Aucun facteur modifiant n'est décrit.",
+    "source": {
+      "page": 21,
+      "extrait": "Rétrosternale, violente, brutale, « en déchirure », irradiant dans le dos puis vers les lombes ou l'abdomen : migratrice."
+    },
+    "difficulte": 1,
+    "tags": [
+      "dissection"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/qcm-039",
+    "type": "multiple",
+    "enonce": "Le terrain et l'examen d'une dissection aortique :",
+    "options": [
+      "HTA +++",
+      "Maladies du tissu élastique (syndrome de Marfan)",
+      "Asymétrie tensionnelle entre les deux bras",
+      "Pouls abolis ou diminués",
+      "Souffle d'insuffisance aortique"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Terrain : HTA, Marfan ; examen : chiffres élevés, asymétrie tensionnelle, pouls abolis/diminués, souffle d'IA, parfois choc.",
+    "source": {
+      "page": 21,
+      "extrait": "Chiffres tensionnels élevés ; asymétrie tensionnelle entre les deux bras ; pouls abolis ou diminués"
+    },
+    "difficulte": 2,
+    "tags": [
+      "dissection"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/qcm-040",
+    "type": "multiple",
+    "enonce": "Concernant les examens et le traitement de la dissection aortique :",
+    "options": [
+      "L'ECG est souvent normal",
+      "La radiographie montre un élargissement du médiastin",
+      "La confirmation se fait par angioscanner, ETO ou IRM",
+      "Le type A (aorte ascendante) relève de la chirurgie",
+      "Le type B relève d'un traitement médical antihypertenseur"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Toutes ces données figurent dans le cours.",
+    "source": {
+      "page": 21,
+      "extrait": "Type A (aorte ascendante) : chirurgie. Type B : traitement médical antihypertenseur."
+    },
+    "difficulte": 2,
+    "tags": [
+      "dissection"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/qcm-041",
+    "type": "unique",
+    "enonce": "La dissection aortique de type A (aorte ascendante) est traitée par :",
+    "options": [
+      "Traitement médical antihypertenseur",
+      "Chirurgie",
+      "Trinitrine",
+      "Antéflexion",
+      "Anticoagulants"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Type A : chirurgie ; type B : traitement médical antihypertenseur.",
+    "source": {
+      "page": 21,
+      "extrait": "Type A (aorte ascendante) : chirurgie."
+    },
+    "difficulte": 1,
+    "tags": [
+      "dissection"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/qcm-042",
+    "type": "unique",
+    "enonce": "Une asymétrie tensionnelle entre les deux bras chez un hypertendu avec douleur thoracique en déchirure évoque :",
+    "options": [
+      "Une péricardite",
+      "Une dissection aortique",
+      "Une embolie pulmonaire",
+      "Un reflux gastro-œsophagien",
+      "Un pneumothorax"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Asymétrie tensionnelle + HTA + douleur en déchirure migratrice = dissection aortique.",
+    "source": {
+      "page": 29,
+      "extrait": "Dissection — Déchirure, migratrice vers le dos — Aucun — HTA, asymétrie tensionnelle"
+    },
+    "difficulte": 1,
+    "tags": [
+      "dissection"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/qcm-043",
+    "type": "multiple",
+    "enonce": "Concernant l'embolie pulmonaire :",
+    "options": [
+      "C'est une occlusion brutale de l'artère pulmonaire ou d'une de ses branches",
+      "Le caillot migre le plus souvent d'une phlébite des membres inférieurs",
+      "Les échanges gazeux ne se font plus",
+      "Le caillot provient le plus souvent du ventricule gauche",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "EP : occlusion brutale par un caillot migrant le plus souvent d'une phlébite des membres inférieurs ; les échanges gazeux ne se font plus.",
+    "source": {
+      "page": 22,
+      "extrait": "Occlusion brutale de l'artère pulmonaire ou d'une de ses branches par un caillot migrant le plus souvent d'une phlébite"
+    },
+    "difficulte": 1,
+    "tags": [
+      "embolie pulmonaire"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/qcm-044",
+    "type": "multiple",
+    "enonce": "Les situations à risque d'embolie pulmonaire sont :",
+    "options": [
+      "Post-partum, post-abortum",
+      "Chirurgie récente",
+      "Alitement prolongé",
+      "Varices des membres inférieurs",
+      "Contraception œstroprogestative et troubles de la coagulation"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Toutes ces situations à risque sont citées.",
+    "source": {
+      "page": 22,
+      "extrait": "Post-partum, post-abortum · chirurgie récente · alitement prolongé · varices des membres inférieurs"
+    },
+    "difficulte": 1,
+    "tags": [
+      "embolie pulmonaire"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/qcm-045",
+    "type": "multiple",
+    "enonce": "La douleur et les signes associés de l'embolie pulmonaire sont :",
+    "options": [
+      "Douleur basithoracique, brutale, en point de côté",
+      "Douleur majorée par les mouvements respiratoires",
+      "Dyspnée avec polypnée, angoisse",
+      "État de choc et perte de connaissance si embolie massive",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes ces caractéristiques sont citées.",
+    "source": {
+      "page": 23,
+      "extrait": "Basithoracique, brutale, en point de côté, majorée par les mouvements respiratoires."
+    },
+    "difficulte": 1,
+    "tags": [
+      "embolie pulmonaire"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/qcm-046",
+    "type": "multiple",
+    "enonce": "Concernant les examens de l'embolie pulmonaire :",
+    "options": [
+      "Les D-dimères ont une valeur prédictive négative",
+      "Normaux, les D-dimères écartent l'EP si la probabilité clinique est faible",
+      "L'angioscanner thoracique est l'examen de référence",
+      "La scintigraphie est moins performante mais plus sensible pour les embolies distales",
+      "L'ECG et la radiographie sont toujours anormaux"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "ECG et radiographie sont SOUVENT NORMAUX (parfois tachycardie, BBD, S1Q3).",
+    "source": {
+      "page": 23,
+      "extrait": "D-dimères — Valeur prédictive négative : normaux, ils écartent l'EP si la probabilité clinique est faible"
+    },
+    "difficulte": 2,
+    "tags": [
+      "embolie pulmonaire"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/qcm-047",
+    "type": "unique",
+    "enonce": "L'examen de référence, le plus performant, pour le diagnostic d'embolie pulmonaire est :",
+    "options": [
+      "Les D-dimères",
+      "L'angioscanner thoracique",
+      "La scintigraphie pulmonaire",
+      "L'ECG",
+      "La radiographie thoracique"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Angioscanner thoracique : examen de référence, le plus performant.",
+    "source": {
+      "page": 23,
+      "extrait": "Angioscanner thoracique — Examen de référence, le plus performant"
+    },
+    "difficulte": 1,
+    "tags": [
+      "embolie pulmonaire"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/qcm-048",
+    "type": "multiple",
+    "enonce": "À l'ECG, une embolie pulmonaire peut montrer :",
+    "options": [
+      "Une tachycardie",
+      "Un bloc de branche droit",
+      "Un aspect S1Q3",
+      "Un ECG normal",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "ECG souvent normal ; tachycardie, bloc de branche droit, aspect S1Q3.",
+    "source": {
+      "page": 23,
+      "extrait": "Souvent normaux ; tachycardie, bloc de branche droit, aspect S1Q3"
+    },
+    "difficulte": 2,
+    "tags": [
+      "embolie pulmonaire"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/qcm-049",
+    "type": "multiple",
+    "enonce": "Les arguments orientant vers une cause extracardiaque sont :",
+    "options": [
+      "Patient jeune",
+      "Femme",
+      "Aucun facteur de risque cardiovasculaire",
+      "Contexte de stress ou d'angoisse",
+      "Douleur ancienne, à type de picotements, sous-mammaire"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Tous ces arguments orientent vers une cause extracardiaque, sans jamais exclure à eux seuls une cause cardiaque.",
+    "source": {
+      "page": 25,
+      "extrait": "Patient jeune ; Femme ++ ; Aucun facteur de risque cardiovasculaire"
+    },
+    "difficulte": 1,
+    "tags": [
+      "extracardiaque"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/qcm-050",
+    "type": "multiple",
+    "enonce": "Concernant les arguments d'origine extracardiaque :",
+    "options": [
+      "Ils orientent",
+      "Ils n'excluent jamais à eux seuls une cause cardiaque",
+      "Une symptomatologie riche ne gênant pas la vie socioprofessionnelle en fait partie",
+      "Ils permettent d'éliminer formellement un infarctus",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Prudence : ces arguments orientent, ils n'excluent jamais à eux seuls une cause cardiaque.",
+    "source": {
+      "page": 25,
+      "extrait": "Prudence : ces arguments orientent, ils n'excluent jamais à eux seuls une cause cardiaque."
+    },
+    "difficulte": 2,
+    "tags": [
+      "extracardiaque"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/qcm-051",
+    "type": "multiple",
+    "enonce": "Concernant l'épanchement pleural liquidien :",
+    "options": [
+      "La douleur est latéralisée",
+      "Elle peut irradier à l'épaule",
+      "Elle est majorée par la respiration et la toux",
+      "L'examen retrouve une matité",
+      "L'examen retrouve un tympanisme"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Épanchement liquidien : abolition du murmure vésiculaire et des vibrations vocales, MATITÉ ; le tympanisme caractérise le pneumothorax.",
+    "source": {
+      "page": 26,
+      "extrait": "Abolition du murmure vésiculaire et des vibrations vocales ; matité"
+    },
+    "difficulte": 2,
+    "tags": [
+      "pleuro-pulmonaire"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/qcm-052",
+    "type": "multiple",
+    "enonce": "Concernant le pneumothorax :",
+    "options": [
+      "La douleur est de même type que l'épanchement pleural",
+      "Le début est brutal",
+      "Le murmure vésiculaire et les vibrations vocales sont abolis",
+      "La percussion retrouve un tympanisme",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Pneumothorax : même type de douleur, début brutal ; abolition du MV et des VV ; tympanisme.",
+    "source": {
+      "page": 26,
+      "extrait": "Pneumothorax — Même type, de début brutal — Abolition du murmure vésiculaire et des vibrations vocales ; tympanisme"
+    },
+    "difficulte": 2,
+    "tags": [
+      "pleuro-pulmonaire"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/qcm-053",
+    "type": "multiple",
+    "enonce": "Concernant la pneumopathie infectieuse :",
+    "options": [
+      "La douleur est d'allure pleurale",
+      "Elle survient dans un contexte infectieux (fièvre, toux)",
+      "L'examen retrouve un foyer de râles crépitants localisé",
+      "L'examen retrouve un tympanisme",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Pneumopathie : douleur d'allure pleurale, contexte infectieux, foyer de râles crépitants.",
+    "source": {
+      "page": 26,
+      "extrait": "Pneumopathie infectieuse — D'allure pleurale, dans un contexte infectieux (fièvre, toux) — Foyer de râles crépitants localisé"
+    },
+    "difficulte": 2,
+    "tags": [
+      "pleuro-pulmonaire"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/qcm-054",
+    "type": "multiple",
+    "enonce": "Le point commun des douleurs pleuro-pulmonaires est une douleur :",
+    "options": [
+      "Latéro-thoracique",
+      "Durable",
+      "Augmentée par l'inspiration profonde",
+      "Atténuée par une respiration superficielle",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Point commun : douleur latéro-thoracique, durable, augmentée par l'inspiration profonde, atténuée par une respiration superficielle.",
+    "source": {
+      "page": 26,
+      "extrait": "douleur latéro-thoracique, durable, augmentée par l'inspiration profonde et atténuée par une respiration superficielle"
+    },
+    "difficulte": 2,
+    "tags": [
+      "pleuro-pulmonaire"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/qcm-055",
+    "type": "multiple",
+    "enonce": "Concernant les douleurs thoraciques d'origine digestive :",
+    "options": [
+      "Le reflux donne une brûlure rétrosternale ascendante, accentuée penché en avant, rythmée par les repas",
+      "Le spasme œsophagien donne une douleur médiothoracique brève déclenchée par la déglutition",
+      "Le spasme œsophagien est sensible à la trinitrine et simule l'angor",
+      "La pancréatite aiguë donne une douleur épigastrique violente, transfixiante, calmée en chien de fusil",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes les propositions sont exactes.",
+    "source": {
+      "page": 27,
+      "extrait": "Douleur médiothoracique brève, déclenchée par la déglutition, sensible à la trinitrine : simule l'angor."
+    },
+    "difficulte": 2,
+    "tags": [
+      "digestives"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/qcm-056",
+    "type": "unique",
+    "enonce": "Une douleur médiothoracique brève déclenchée par la déglutition, sensible à la trinitrine, évoque :",
+    "options": [
+      "Un angor stable",
+      "Un spasme œsophagien",
+      "Une péricardite",
+      "Un ulcère",
+      "Une pancréatite"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Spasme œsophagien : douleur brève à la déglutition, sensible à la trinitrine.",
+    "source": {
+      "page": 27,
+      "extrait": "Spasme œsophagien — Douleur médiothoracique brève, déclenchée par la déglutition"
+    },
+    "difficulte": 2,
+    "tags": [
+      "digestives"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/qcm-057",
+    "type": "multiple",
+    "enonce": "Concernant les autres causes de douleur thoracique :",
+    "options": [
+      "Les douleurs pariétales sont superficielles et reproduites à la palpation",
+      "Les douleurs neurologiques sont liées à une compression radiculaire par hernie discale dorsale ou cervicale",
+      "Les douleurs squelettiques comprennent l'arthrite de l'épaule et les douleurs musculaires intercostales",
+      "Les précordialgies névrotiques sont ponctiformes à l'apex, en coup d'aiguille, chez un sujet anxieux",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes les propositions correspondent au cours.",
+    "source": {
+      "page": 28,
+      "extrait": "Ponctiformes à l'apex, montrées du bout du doigt, en coup d'aiguille ; chez un sujet anxieux."
+    },
+    "difficulte": 2,
+    "tags": [
+      "autres causes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/qcm-058",
+    "type": "multiple",
+    "enonce": "Les précordialgies névrotiques :",
+    "options": [
+      "Surviennent sur un cœur indemne",
+      "Sont ponctiformes à l'apex",
+      "Sont montrées du bout du doigt",
+      "Sont constrictives en barre",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Précordialgies : cœur indemne, ponctiformes à l'apex, montrées du bout du doigt, en coup d'aiguille, sujet anxieux.",
+    "source": {
+      "page": 28,
+      "extrait": "Cœur indemne. Ponctiformes à l'apex, montrées du bout du doigt, en coup d'aiguille"
+    },
+    "difficulte": 1,
+    "tags": [
+      "autres causes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/qcm-059",
+    "type": "multiple",
+    "enonce": "D'après le tableau de synthèse, cochez les associations exactes (cause — facteur modifiant) :",
+    "options": [
+      "Péricardite — antéflexion ↓, inspiration ↑",
+      "Embolie pulmonaire — inspiration ↑",
+      "Reflux — antéflexion ↑, repas",
+      "Pariétale — palpation ↑",
+      "Dissection — antéflexion ↓"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "La dissection n'a aucun facteur modifiant selon le tableau.",
+    "source": {
+      "page": 29,
+      "extrait": "Dissection — Déchirure, migratrice vers le dos — Aucun"
+    },
+    "difficulte": 3,
+    "tags": [
+      "synthèse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/qcm-060",
+    "type": "unique",
+    "enonce": "La position penchée en avant :",
+    "options": [
+      "Calme la péricardite et aggrave le reflux",
+      "Aggrave la péricardite et calme le reflux",
+      "Calme les deux",
+      "Aggrave les deux",
+      "N'a pas de valeur d'orientation"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Péricardite : antéflexion ↓ ; reflux : accentué penché en avant.",
+    "source": {
+      "page": 29,
+      "extrait": "Péricardite … Antéflexion ↓ ; Reflux … Antéflexion ↑, repas"
+    },
+    "difficulte": 3,
+    "tags": [
+      "pièges"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/qcm-061",
+    "type": "multiple",
+    "enonce": "Les devoirs du pharmacien devant une douleur thoracique comprennent :",
+    "options": [
+      "Calmer, installer en position demi-assise",
+      "Position latérale de sécurité si trouble de conscience",
+      "Évaluer les 7 caractères et les signes de gravité",
+      "Mesurer la pression artérielle aux deux bras et le pouls",
+      "Appeler les secours et ne pas laisser le patient repartir seul"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Calmer/installer, évaluer, mesurer, soulager, alerter.",
+    "source": {
+      "page": 30,
+      "extrait": "Appeler les secours ; ne pas laisser le patient repartir seul"
+    },
+    "difficulte": 1,
+    "tags": [
+      "conduite à tenir"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/qcm-062",
+    "type": "multiple",
+    "enonce": "Concernant l'administration d'un dérivé nitré à l'officine :",
+    "options": [
+      "Elle est possible si l'angor est connu et le dérivé nitré prescrit",
+      "Elle se fait en l'absence d'hypotension",
+      "Elle est contre-indiquée après un inhibiteur de la PDE5",
+      "Elle est systématique devant toute douleur thoracique",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Dérivé nitré si angor connu et prescrit, en l'absence d'hypotension ; contre-indiqué après sildénafil ou tadalafil.",
+    "source": {
+      "page": 30,
+      "extrait": "Dérivé nitré si angor connu et prescrit, en l'absence d'hypotension"
+    },
+    "difficulte": 2,
+    "tags": [
+      "conduite à tenir"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/qcm-063",
+    "type": "unique",
+    "enonce": "Toute douleur thoracique suspecte et prolongée chez un sujet à risque cardiovasculaire impose une consultation en urgence à partir de :",
+    "options": [
+      "2 minutes",
+      "5 minutes",
+      "10 minutes",
+      "20 minutes",
+      "1 heure"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Toute douleur thoracique suspecte et prolongée (> 10 min) chez un sujet à risque cardiovasculaire = consultation en urgence.",
+    "source": {
+      "page": 30,
+      "extrait": "Toute douleur thoracique suspecte et prolongée (> 10 min) chez un sujet à risque cardiovasculaire = consultation en urgence."
+    },
+    "difficulte": 1,
+    "tags": [
+      "conduite à tenir"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/qcm-064",
+    "type": "multiple",
+    "enonce": "Les quatre pièges au comptoir sont :",
+    "options": [
+      "Le soulagement par la trinitrine n'élimine pas une cause grave",
+      "Une « brûlure d'estomac » peut révéler un infarctus, surtout chez le diabétique ou le sujet âgé",
+      "Ne pas délivrer antalgique ou antiacide sans avoir évalué la douleur",
+      "Les dérivés nitrés sont contre-indiqués après un inhibiteur de la PDE5",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Les quatre pièges du cours.",
+    "source": {
+      "page": 31,
+      "extrait": "Une douleur épigastrique peut révéler un infarctus, surtout chez le diabétique ou le sujet âgé."
+    },
+    "difficulte": 2,
+    "tags": [
+      "pièges"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/qcm-065",
+    "type": "multiple",
+    "enonce": "L'association dérivés nitrés + inhibiteur de la phosphodiestérase 5 :",
+    "options": [
+      "Est contre-indiquée",
+      "Expose à une hypotension sévère",
+      "Concerne le sildénafil et le tadalafil",
+      "Est sans danger",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Dérivés nitrés contre-indiqués après sildénafil, tadalafil : hypotension sévère.",
+    "source": {
+      "page": 31,
+      "extrait": "Dérivés nitrés contre-indiqués après prise d'un inhibiteur de la phosphodiestérase 5 (sildénafil, tadalafil) : hypotension sévère."
+    },
+    "difficulte": 1,
+    "tags": [
+      "interactions"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/qcm-066",
+    "type": "unique",
+    "enonce": "Selon le cours, chez qui une « brûlure d'estomac » doit-elle particulièrement faire évoquer un infarctus ?",
+    "options": [
+      "L'adolescent sportif",
+      "Le diabétique ou le sujet âgé",
+      "La femme enceinte",
+      "Le sujet anxieux sans facteur de risque",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Une douleur épigastrique peut révéler un infarctus, surtout chez le diabétique ou le sujet âgé.",
+    "source": {
+      "page": 31,
+      "extrait": "surtout chez le diabétique ou le sujet âgé"
+    },
+    "difficulte": 2,
+    "tags": [
+      "pièges"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/qcm-067",
+    "type": "multiple",
+    "enonce": "Concernant les palpitations :",
+    "options": [
+      "C'est un phénomène subjectif",
+      "C'est la perception anormale des battements cardiaques, normalement non perçus",
+      "Elles peuvent être ressenties comme des « coups de bélier » ou un bondissement",
+      "Elles peuvent donner une impression de malaise imminent",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Palpitations : perception anormale, voire désagréable, des battements cardiaques normalement non perçus.",
+    "source": {
+      "page": 32,
+      "extrait": "Phénomène subjectif : perception anormale, voire désagréable, des battements cardiaques, normalement non perçus."
+    },
+    "difficulte": 1,
+    "tags": [
+      "palpitations"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/qcm-068",
+    "type": "multiple",
+    "enonce": "Classification des palpitations :",
+    "options": [
+      "Physiologiques : effort violent inhabituel ou forte émotion",
+      "Pathologiques provoquées : déclenchées par l'effort, accompagnant la dyspnée d'effort",
+      "Pathologiques spontanées : souvent intermittentes, motif de consultation à elles seules",
+      "Physiologiques : toujours pathologiques",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Trois classes : physiologiques, pathologiques provoquées, pathologiques spontanées.",
+    "source": {
+      "page": 32,
+      "extrait": "Souvent intermittentes, elles constituent à elles seules un motif de consultation."
+    },
+    "difficulte": 2,
+    "tags": [
+      "palpitations"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/qcm-069",
+    "type": "multiple",
+    "enonce": "En conclusion du cours :",
+    "options": [
+      "La douleur thoracique peut révéler une urgence vitale",
+      "L'interrogatoire est la clé",
+      "L'examen clinique est souvent pauvre",
+      "Le pharmacien repère les signes de gravité, ne traite pas à l'aveugle et alerte sans délai",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Ce sont les messages de la conclusion.",
+    "source": {
+      "page": 33,
+      "extrait": "Repérer les signes de gravité, ne pas traiter à l'aveugle, alerter sans délai."
+    },
+    "difficulte": 1,
+    "tags": [
+      "conclusion"
+    ],
+    "origine": "genere"
+  }
+]

@@ -1,0 +1,61 @@
+{
+  "id": "pharmacie-galenique/12-sterilisation-partie-2/fiche",
+  "titre": "Stérilisation – Partie 2 : gaz, radiations, filtration, asepsie",
+  "sections": [
+    {
+      "titre": "Gaz",
+      "points": [
+        "Basse température → matériel thermosensible ; toxiques sauf **gaz plasma**.",
+        "**Oxyde d'éthylène** : alkylation (SH, NH2) ; explosif > 3 % d'air (mélanges 10/90 ou 15/85 avec CO2) ; 400–800 mg/L, 3–8 h, 50–60 °C, HR 45–75 % ; cycle : chauffage, vides, test d'étanchéité, humidification, injection, brûleur catalytique, impulsions air/vide.",
+        "Désorption 12–72 h ; **OE résiduel < 2 ppm** ; opérateurs **≤ 1 ppm/8 h** ; cancérigène, tératogène.",
+        "**Acide peracétique** : 3,5 %, 40–47 °C, HR 80 % ; peu pénétrant, corrosif ; isolateurs.",
+        "**Formaldéhyde** : peu pénétrant, désinfection de surface ; paraformaldéhyde ≈ 56 °C.",
+        "**Gaz plasma (H2O2)** : radicaux libres + UV ; 40–60 °C, 45–70 min, < 1 h ; pas de désorption ; petits volumes ; endoscopes ; Tyvek®/SMS® (pas de cellulose)."
+      ]
+    },
+    {
+      "titre": "Radiations",
+      "points": [
+        "Longueur d'onde courte = énergie et pénétration élevées.",
+        "Ionisants (X, γ, β) : stérilisation ; non ionisants (UV…) : désinfection.",
+        "**UV** : dimères de thymine, 240–310 nm ; peu pénétrants, absorbés par le verre ; lésions oculaires ; air, surfaces, eau.",
+        "**γ/β** : ⁶⁰Co, ¹³⁷Cs, accélérateurs ; **25 kGy**, < 24 h ; IB **B. pumilus** ; pas de radioactivité induite.",
+        "Applications : matériel à usage unique, pommades ophtalmiques ; peu adapté aux solutions aqueuses/émulsions ; radiolyse possible."
+      ]
+    },
+    {
+      "titre": "Filtration",
+      "points": [
+        "Élimination physique, **≤ 0,22 µm**, ester de cellulose, préfiltre ; IB **P. diminuta (0,3 µm)**.",
+        "Indications : solutions thermosensibles, gaz ; répartition aseptique.",
+        "Précautions : matériel stérile, N0 faible, débit régulier, durée courte, pas d'adsorption ni de débris.",
+        "Air : **HEPA** (fibres de verre, ≥ 99,97 % DOP).",
+        "ZAC : A (flux laminaire, haut risque), B (environnement de A), C/D (moins critiques)."
+      ]
+    },
+    {
+      "titre": "Asepsie et essai de stérilité",
+      "points": [
+        "Préparation aseptique : pas de stérilisation finale possible ; composants stériles ; classe A en B ; simulation.",
+        "Essai de stérilité : classe A/B ou isolateur ; filtration sur membrane (liquides) ou ensemencement direct (solides).",
+        "Thioglycolate 30–35 °C ; caséine-soja 20–25 °C ; **14 jours** ; trouble = non stérile.",
+        "NAS < 10⁻⁶."
+      ]
+    }
+  ],
+  "aRetenir": [
+    "OE : résiduel < 2 ppm ; exposition ≤ 1 ppm/8 h.",
+    "Gaz plasma : 40–60 °C, 45–70 min, pas de désorption.",
+    "Radiations : 25 kGy, B. pumilus, pas de radioactivité.",
+    "Filtration : 0,22 µm, P. diminuta ; HEPA ≥ 99,97 %.",
+    "Essai de stérilité : 14 jours."
+  ],
+  "pieges": [
+    "2 ppm = OE résiduel ; 1 ppm = exposition des opérateurs.",
+    "Les UV ne stérilisent PAS.",
+    "β moins pénétrant que γ.",
+    "Cellulose CONTRE-INDIQUÉE avec le gaz plasma.",
+    "Thioglycolate = anaérobies (30–35 °C) ; caséine-soja = champignons (20–25 °C).",
+    "La pression décroît de l'INTÉRIEUR vers l'EXTÉRIEUR des salles stériles."
+  ]
+}

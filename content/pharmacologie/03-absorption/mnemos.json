@@ -1,0 +1,32 @@
+[
+  {
+    "id": "pharmacologie/03-absorption/mnemo-01",
+    "titre": "Ce que partagent diffusion facilitée et transport actif",
+    "moyen": "« SCS-T » : Saturation, Compétition, Spécificité… grâce au Transporteur.",
+    "explication": "Dès qu'un transporteur intervient (diffusion facilitée, transport actif), il y a Saturation, Compétition et Spécificité. Seul le transport actif ajoute l'énergie (ATP) et le passage contre le gradient."
+  },
+  {
+    "id": "pharmacologie/03-absorption/mnemo-02",
+    "titre": "Où s'absorbent acides et bases faibles",
+    "moyen": "« L'Acide aime l'Acide, la Base aime la Base » : acide faible → estomac acide ; base faible → intestin alcalin.",
+    "explication": "Un acide faible est non ionisé en milieu acide (estomac) ; une base faible est non ionisée en milieu alcalin (intestin). Seule la fraction non ionisée traverse les membranes."
+  },
+  {
+    "id": "pharmacologie/03-absorption/mnemo-03",
+    "titre": "Henderson-Hasselbalch sans se tromper",
+    "moyen": "« Acide : I sur N ; Base : N sur I ».",
+    "explication": "Pour un acide : pH = pKa + log [Ionisée]/[Non ionisée]. Pour une base : pH = pKa + log [Non ionisée]/[Ionisée]."
+  },
+  {
+    "id": "pharmacologie/03-absorption/mnemo-04",
+    "titre": "Ce qu'évite la voie perlinguale",
+    "moyen": "« AEFF » : Acidité, Enzymes, Flore, Foie.",
+    "explication": "La voie perlinguale évite l'Acidité gastrique, les Enzymes digestives, la Flore bactérienne et le premier passage hépatique (Foie)."
+  },
+  {
+    "id": "pharmacologie/03-absorption/mnemo-05",
+    "titre": "Biodisponibilité",
+    "moyen": "« R-E-P » : Résorption, Effets de premier passage, P-gp.",
+    "explication": "La biodisponibilité résulte de la conjonction de la Résorption, des Effets de premier passage et de la glycoprotéine P."
+  }
+]

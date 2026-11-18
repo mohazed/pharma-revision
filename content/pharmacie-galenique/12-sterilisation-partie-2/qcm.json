@@ -1,0 +1,1680 @@
+[
+  {
+    "id": "pharmacie-galenique/12-sterilisation-partie-2/qcm-001",
+    "type": "multiple",
+    "enonce": "Concernant la stérilisation par les gaz :",
+    "options": [
+      "Elle s'effectue à basse température",
+      "Elle convient au matériel thermosensible",
+      "Son inconvénient majeur est la toxicité des gaz, à l'exception du gaz plasma",
+      "Les gaz stérilisants sont l'oxyde d'éthylène, le formaldéhyde, l'acide peracétique et le peroxyde d'hydrogène (gaz plasma)",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes les propositions reprennent les généralités sur la stérilisation par les gaz.",
+    "source": {
+      "page": 3,
+      "extrait": "Son inconvénient majeur est la toxicité des gaz employés, à l'exception du gaz plasma."
+    },
+    "difficulte": 1,
+    "tags": [
+      "gaz"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/12-sterilisation-partie-2/qcm-002",
+    "type": "multiple",
+    "enonce": "Selon le tableau comparatif des gaz stérilisants :",
+    "options": [
+      "L'oxyde d'éthylène est très pénétrant, cancérigène et explosif",
+      "L'acide peracétique est très faiblement pénétrant, toxique et corrosif",
+      "Le formaldéhyde est faiblement pénétrant, irritant et toxique",
+      "Le gaz plasma (H2O2) a une faible toxicité et ne nécessite pas de désorption",
+      "Le formaldéhyde est le gaz le plus pénétrant"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Le gaz le plus pénétrant est l'oxyde d'éthylène ; le formaldéhyde est peu pénétrant (désinfection de surface).",
+    "source": {
+      "page": 3,
+      "extrait": "Oxyde d'éthylène Très pénétrant Cancérigène, explosif … Gaz plasma (H2O2) Petits volumes Faible Sans désorption, 40–60 °C"
+    },
+    "difficulte": 2,
+    "tags": [
+      "gaz",
+      "comparaison"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/12-sterilisation-partie-2/qcm-003",
+    "type": "multiple",
+    "enonce": "Concernant l'oxyde d'éthylène (OE) :",
+    "options": [
+      "C'est un gaz incolore, inflammable et diffusible",
+      "Sa molécule comporte un cycle à trois chaînons (un oxygène et deux carbones)",
+      "Il agit par alkylation des groupements SH et NH2 des protéines et des acides nucléiques",
+      "Il est bactéricide, virucide, fongicide et sporicide",
+      "Il agit par déshydratation puis oxydation"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "L'OE agit par alkylation ; la déshydratation-oxydation est le mécanisme de la chaleur sèche.",
+    "source": {
+      "page": 3,
+      "extrait": "Il agit par alkylation des groupements fonctionnels (SH, NH2) des protéines et des acides nucléiques (ADN/ARN)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "oxyde d'éthylène"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/12-sterilisation-partie-2/qcm-004",
+    "type": "unique",
+    "enonce": "Le mécanisme d'action de l'oxyde d'éthylène est :",
+    "options": [
+      "L'alkylation des groupements fonctionnels des protéines et des acides nucléiques",
+      "La formation de dimères de thymine",
+      "La déshydratation des cellules",
+      "La coagulation des protéines par la vapeur",
+      "L'élimination physique des germes"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "L'OE alkyle les groupements SH et NH2 des protéines et des acides nucléiques, entraînant la lyse cellulaire.",
+    "source": {
+      "page": 3,
+      "extrait": "Il agit par alkylation des groupements fonctionnels (SH, NH2)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "oxyde d'éthylène"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/12-sterilisation-partie-2/qcm-005",
+    "type": "multiple",
+    "enonce": "Concernant le risque d'explosion de l'oxyde d'éthylène :",
+    "options": [
+      "L'OE est potentiellement explosif en présence de plus de 3 % d'air",
+      "On utilise des mélanges commerciaux dilués dans le CO2",
+      "Mélange possible : 10 % d'OE et 90 % de CO2",
+      "Mélange possible : 15 % d'OE et 85 % de CO2",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes ces données sont citées dans le cours.",
+    "source": {
+      "page": 3,
+      "extrait": "L'OE est potentiellement explosif en présence de plus de 3 % d'air."
+    },
+    "difficulte": 2,
+    "tags": [
+      "oxyde d'éthylène"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/12-sterilisation-partie-2/qcm-006",
+    "type": "multiple",
+    "enonce": "Les conditions optimales de stérilisation à l'oxyde d'éthylène sont :",
+    "options": [
+      "Une concentration de 400 à 800 mg/L",
+      "Une durée de 3 à 8 h",
+      "Une température de 50 à 60 °C",
+      "Une humidité relative de 45 à 75 %",
+      "Une température de 121 °C"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Conditions optimales : 400–800 mg/L, 3–8 h, 50–60 °C, HR 45–75 %. 121 °C est la température de la chaleur humide.",
+    "source": {
+      "page": 4,
+      "extrait": "Concentration de 400 à 800 mg/L, pendant 3 à 8 h, à 50–60 °C, avec une humidité relative de 45 à 75 %."
+    },
+    "difficulte": 2,
+    "tags": [
+      "oxyde d'éthylène",
+      "conditions"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/12-sterilisation-partie-2/qcm-007",
+    "type": "multiple",
+    "enonce": "Concernant la diffusion de l'oxyde d'éthylène :",
+    "options": [
+      "Il pénètre la plupart des emballages en plastique et en papier",
+      "Il doit entrer en contact direct avec les micro-organismes",
+      "Le temps de diffusion-stérilisation est de 150 à 180 min pour un mélange à 10 % d'OE",
+      "Il est de 90 à 120 min pour un mélange à 15 % d'OE",
+      "Les expositions ne peuvent jamais dépasser 2 h"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Des expositions plus longues, jusqu'à 24 h, restent possibles.",
+    "source": {
+      "page": 4,
+      "extrait": "Les temps de diffusion-stérilisation varient de 150 à 180 min pour les mélanges à 10 % d'OE à 90 à 120 min pour les mélanges à 15 %"
+    },
+    "difficulte": 3,
+    "tags": [
+      "oxyde d'éthylène"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/12-sterilisation-partie-2/qcm-008",
+    "type": "multiple",
+    "enonce": "Le cycle de stérilisation à l'oxyde d'éthylène comprend :",
+    "options": [
+      "Le chauffage de l'enceinte, généralement à 40–60 °C",
+      "Des vides répétés pour éliminer l'air, puis un test d'étanchéité sous vide",
+      "Une humidification par injection de vapeur",
+      "L'évacuation de l'OE n'ayant pas réagi vers un brûleur catalytique",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes ces étapes font partie du cycle à l'OE, qui se termine par des impulsions air/vide et le maintien d'un vide pour la diffusion de l'OE résiduel.",
+    "source": {
+      "page": 4,
+      "extrait": "En fin de stérilisation, évacuer l'OE n'ayant pas réagi vers un brûleur catalytique."
+    },
+    "difficulte": 2,
+    "tags": [
+      "oxyde d'éthylène",
+      "cycle"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/12-sterilisation-partie-2/qcm-009",
+    "type": "unique",
+    "enonce": "Dans le cycle à l'oxyde d'éthylène, l'humidification par injection de vapeur a pour but de :",
+    "options": [
+      "Favoriser la réaction de l'OE",
+      "Stériliser par la chaleur humide",
+      "Éliminer l'OE résiduel",
+      "Refroidir la charge",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "L'humidification par injection de vapeur favorise la réaction de l'OE.",
+    "source": {
+      "page": 4,
+      "extrait": "Humidifier par injection de vapeur (pour favoriser la réaction de l'OE)."
+    },
+    "difficulte": 2,
+    "tags": [
+      "oxyde d'éthylène",
+      "cycle"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/12-sterilisation-partie-2/qcm-010",
+    "type": "multiple",
+    "enonce": "Concernant la désorption après stérilisation à l'oxyde d'éthylène :",
+    "options": [
+      "Elle est indispensable car l'OE est très pénétrant mais persistant",
+      "Elle dure de 12 à 72 h à 50–60 °C en aérateur mécanique",
+      "À température ordinaire, elle peut durer plusieurs jours",
+      "L'OE résiduel doit être inférieur à 2 ppm",
+      "Elle est inutile car l'OE n'est pas adsorbé"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "L'OE est persistant : une désorption est indispensable (contrairement au gaz plasma, non adsorbé).",
+    "source": {
+      "page": 4,
+      "extrait": "Elle dure de 12 à 72 h à 50–60 °C en aérateur mécanique … Le dosage de l'OE résiduel doit être inférieur à 2 ppm."
+    },
+    "difficulte": 2,
+    "tags": [
+      "désorption"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/12-sterilisation-partie-2/qcm-011",
+    "type": "unique",
+    "enonce": "Après stérilisation à l'oxyde d'éthylène, la teneur en OE résiduel doit être inférieure à :",
+    "options": [
+      "2 ppm",
+      "1 ppm",
+      "10 ppm",
+      "20 ppm",
+      "0,1 ppm"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "OE résiduel < 2 ppm ; à ne pas confondre avec la limite d'exposition des opérateurs (1 ppm sur 8 h).",
+    "source": {
+      "page": 4,
+      "extrait": "Le dosage de l'OE résiduel doit être inférieur à 2 ppm."
+    },
+    "difficulte": 2,
+    "tags": [
+      "désorption"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/12-sterilisation-partie-2/qcm-012",
+    "type": "multiple",
+    "enonce": "L'oxyde d'éthylène est utilisé pour stériliser :",
+    "options": [
+      "Les fils de suture",
+      "Les cathéters et sondes",
+      "Les seringues (PVC, PE, caoutchouc)",
+      "Les compresses de gaze et le coton",
+      "Les solutions aqueuses injectables"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "L'OE sert au matériel médico-chirurgical à usage unique ne supportant pas l'autoclave.",
+    "source": {
+      "page": 5,
+      "extrait": "fils de suture, cathéters, sondes, seringues (PVC, PE, caoutchouc), compresses de gaze et coton."
+    },
+    "difficulte": 1,
+    "tags": [
+      "oxyde d'éthylène",
+      "applications"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/12-sterilisation-partie-2/qcm-013",
+    "type": "multiple",
+    "enonce": "Risques liés à l'oxyde d'éthylène :",
+    "options": [
+      "Gaz instable, explosif avec de nombreux gaz",
+      "Le matériel manipulé aussitôt après stérilisation peut provoquer des dermites",
+      "L'OE est cancérigène et tératogène",
+      "L'exposition des opérateurs doit être limitée à 1 ppm (moyenne pondérée sur 8 h)",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Tous ces risques sont cités dans l'encadré du cours.",
+    "source": {
+      "page": 5,
+      "extrait": "l'OE est cancérigène et tératogène : l'exposition des opérateurs doit être limitée à 1 ppm (moyenne pondérée sur 8 h)."
+    },
+    "difficulte": 2,
+    "tags": [
+      "oxyde d'éthylène",
+      "risques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/12-sterilisation-partie-2/qcm-014",
+    "type": "multiple",
+    "enonce": "Concernant l'acide peracétique :",
+    "options": [
+      "L'effet stérilisant est obtenu avec la vapeur d'une solution à 3,5 % chauffée entre 40 et 47 °C",
+      "L'effet est maximal à 80 % d'humidité relative",
+      "C'est un puissant agent oxydant des parois cellulaires et du cytoplasme",
+      "Il est réservé à la stérilisation des bulles et isolateurs en plastique et au contrôle microbiologique",
+      "Il est très pénétrant et non corrosif"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "L'acide peracétique est très peu pénétrant et corrosif pour les métaux.",
+    "source": {
+      "page": 5,
+      "extrait": "C'est un gaz toxique, très peu pénétrant et corrosif pour les métaux"
+    },
+    "difficulte": 2,
+    "tags": [
+      "acide peracétique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/12-sterilisation-partie-2/qcm-015",
+    "type": "multiple",
+    "enonce": "Concernant le formaldéhyde :",
+    "options": [
+      "Il agit par alkylation des acides nucléiques et dénaturation des protéines de la paroi",
+      "Son action est entravée par les matières organiques : il ne faut stériliser que du matériel propre",
+      "Il est très efficace en milieu humide mais peu pénétrant",
+      "Il sert surtout de désinfectant de surface pour le matériel et les locaux",
+      "Il est très pénétrant et utilisé pour les emballages épais"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Le formaldéhyde est peu pénétrant ; il sert surtout à la désinfection de surface.",
+    "source": {
+      "page": 5,
+      "extrait": "très efficace en milieu humide mais peu pénétrant : il sert surtout de désinfectant de surface"
+    },
+    "difficulte": 2,
+    "tags": [
+      "formaldéhyde"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/12-sterilisation-partie-2/qcm-016",
+    "type": "multiple",
+    "enonce": "Concernant la mise en œuvre du formaldéhyde :",
+    "options": [
+      "Le gaz est obtenu par sublimation du paraformaldéhyde solide à environ 56 °C",
+      "De fortes teneurs en humidité sont nécessaires",
+      "Un contact de plusieurs heures (une nuit) est nécessaire",
+      "Il est éliminé par ventilation à l'air stérile car irritant et toxique",
+      "Il est autorisé dans tous les pays"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Le formaldéhyde est interdit dans certains pays.",
+    "source": {
+      "page": 5,
+      "extrait": "le gaz est obtenu par sublimation du paraformaldéhyde solide à environ 56 °C dans l'enceinte"
+    },
+    "difficulte": 2,
+    "tags": [
+      "formaldéhyde"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/12-sterilisation-partie-2/qcm-017",
+    "type": "multiple",
+    "enonce": "Concernant le peroxyde d'hydrogène (H2O2) :",
+    "options": [
+      "C'est un liquide bleu pâle, transparent, facilement vaporisable",
+      "Il se décompose en eau et en oxygène naissant hautement réactif",
+      "C'est un puissant agent oxydant, désinfectant et stérilisant",
+      "À faible concentration, le PHV est employé pour isolateurs, lyophilisateurs et lignes de remplissage",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes les propositions décrivent le peroxyde d'hydrogène selon le cours.",
+    "source": {
+      "page": 6,
+      "extrait": "Il se décompose aisément en eau et en oxygène naissant hautement réactif"
+    },
+    "difficulte": 2,
+    "tags": [
+      "gaz plasma",
+      "H2O2"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/12-sterilisation-partie-2/qcm-018",
+    "type": "multiple",
+    "enonce": "Concernant la formation du gaz plasma :",
+    "options": [
+      "La vapeur de H2O2 est activée dans un champ électromagnétique de très haute intensité induit par une onde radio",
+      "Il se forme des radicaux libres hydroxyle, hydroperoxyle et superoxyde",
+      "Il se forme aussi des rayons UV",
+      "Les espèces formées se recombinent rapidement en O2 et H2O inoffensifs",
+      "Les espèces formées persistent dans la charge et imposent une désorption"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Les espèces du plasma sont instables et se recombinent en O2 et H2O : pas de désorption.",
+    "source": {
+      "page": 6,
+      "extrait": "Ces espèces sont instables et se recombinent rapidement en O2 et H2O, inoffensifs, après la stérilisation."
+    },
+    "difficulte": 2,
+    "tags": [
+      "gaz plasma"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/12-sterilisation-partie-2/qcm-019",
+    "type": "multiple",
+    "enonce": "Le cycle de stérilisation au gaz plasma :",
+    "options": [
+      "Commence par la mise sous vide de la chambre",
+      "Comporte l'introduction de H2O2 liquide qui se vaporise et diffuse dans la charge",
+      "Comporte l'application d'un champ électromagnétique puissant formant le plasma",
+      "Dure moins d'une heure à basse température",
+      "Permet de traiter de grands volumes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Seuls des matériels de faible volume peuvent être traités dans ce type d'unité.",
+    "source": {
+      "page": 6,
+      "extrait": "Le cycle complet dure moins d'une heure et se déroule à basse température ; seuls des matériels de faible volume peuvent être traités"
+    },
+    "difficulte": 2,
+    "tags": [
+      "gaz plasma",
+      "cycle"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/12-sterilisation-partie-2/qcm-020",
+    "type": "multiple",
+    "enonce": "Avantages et applications du gaz plasma :",
+    "options": [
+      "Gaz peu toxique par rapport aux autres gaz",
+      "Non adsorbé par la matière : pas de désorption",
+      "Stérilisation à 40–60 °C pendant 45 à 70 min",
+      "Applications : fibroscopes, endoscopes (matériel fragile, thermosensible ou hygrosensible)",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Tous ces avantages et applications sont cités ; son emploi est de plus en plus fréquent à l'hôpital.",
+    "source": {
+      "page": 6,
+      "extrait": "stérilisation à basse température (40–60 °C) pendant 45 à 70 min"
+    },
+    "difficulte": 1,
+    "tags": [
+      "gaz plasma"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/12-sterilisation-partie-2/qcm-021",
+    "type": "multiple",
+    "enonce": "Emballages pour la stérilisation au gaz plasma :",
+    "options": [
+      "Le Tyvek® (polyéthylène haute densité)",
+      "Le SMS® (non tissé de polypropylène)",
+      "Les gaines Ultra®",
+      "La cellulose",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "La cellulose est contre-indiquée avec le gaz plasma.",
+    "source": {
+      "page": 6,
+      "extrait": "Tyvek® (polyéthylène haute densité), SMS® (non tissé de polypropylène) ou gaines Ultra® … La cellulose est contre-indiquée."
+    },
+    "difficulte": 2,
+    "tags": [
+      "gaz plasma",
+      "emballage"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/12-sterilisation-partie-2/qcm-022",
+    "type": "unique",
+    "enonce": "Pour stériliser un endoscope thermosensible et hygrosensible à l'hôpital, le procédé le plus adapté est :",
+    "options": [
+      "Le gaz plasma (peroxyde d'hydrogène)",
+      "L'autoclave à 134 °C",
+      "La chaleur sèche à 170 °C",
+      "Les UV",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Le gaz plasma est indiqué pour le matériel fragile, thermosensible ou hygrosensible (fibroscopes, endoscopes).",
+    "source": {
+      "page": 6,
+      "extrait": "matériel médico-chirurgical fragile, thermosensible ou hygrosensible (fibroscopes, endoscopes)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "gaz plasma"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/12-sterilisation-partie-2/qcm-023",
+    "type": "multiple",
+    "enonce": "Concernant les rayonnements électromagnétiques :",
+    "options": [
+      "Plus la longueur d'onde est courte, plus l'énergie des photons est élevée",
+      "Plus la longueur d'onde est courte, plus le pouvoir de pénétration est élevé",
+      "Les rayons γ (≈ 0,00001 nm) sont ionisants et très pénétrants",
+      "La lumière UV se situe environ entre 10 et 400 nm",
+      "Les UV sont plus pénétrants que les rayons γ"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Les UV, de longueur d'onde plus grande, sont peu pénétrants, contrairement aux rayons γ.",
+    "source": {
+      "page": 7,
+      "extrait": "Plus la longueur d'onde est courte, plus l'énergie de chaque photon et le pouvoir de pénétration sont élevés"
+    },
+    "difficulte": 2,
+    "tags": [
+      "radiations"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/12-sterilisation-partie-2/qcm-024",
+    "type": "multiple",
+    "enonce": "Rayonnements ionisants vs non ionisants :",
+    "options": [
+      "Les rayons X, γ et les faisceaux d'électrons (β) sont ionisants",
+      "Les ondes radio, l'infrarouge, le visible et les UV sont non ionisants",
+      "Les rayonnements ionisants éjectent des électrons (cassures de l'ADN, lésions membranaires)",
+      "Les rayonnements non ionisants servent à la désinfection et au maintien de l'asepsie",
+      "Les rayonnements non ionisants stérilisent"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Les rayonnements non ionisants ne stérilisent pas.",
+    "source": {
+      "page": 7,
+      "extrait": "Désinfection et maintien de l'asepsie : ils ne stérilisent pas"
+    },
+    "difficulte": 2,
+    "tags": [
+      "radiations"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/12-sterilisation-partie-2/qcm-025",
+    "type": "multiple",
+    "enonce": "Concernant les rayonnements ultraviolets :",
+    "options": [
+      "Ils sont non ionisants et de faible pouvoir de pénétration",
+      "Ils agissent par formation de dimères de thymine dans l'ADN",
+      "La gamme utilisée est généralement de 240 à 310 nm",
+      "Ils sont absorbés par le verre des ampoules et flacons",
+      "Ils sont sans danger pour l'œil"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Les UV sont dangereux : lésions oculaires.",
+    "source": {
+      "page": 7,
+      "extrait": "La désinfection résulte de la réaction entre deux molécules de thymine au sein de l'ADN, qui forment des dimères de thymine"
+    },
+    "difficulte": 2,
+    "tags": [
+      "UV"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/12-sterilisation-partie-2/qcm-026",
+    "type": "unique",
+    "enonce": "Le mécanisme d'action désinfectant des UV est :",
+    "options": [
+      "La formation de dimères de thymine dans l'ADN",
+      "L'alkylation des groupements SH et NH2",
+      "L'éjection d'électrons et l'ionisation de l'ADN",
+      "La coagulation des protéines",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Les UV provoquent la formation de dimères de thymine ; si les dommages sont importants, le micro-organisme est inactivé.",
+    "source": {
+      "page": 7,
+      "extrait": "deux molécules de thymine au sein de l'ADN, qui forment des dimères de thymine"
+    },
+    "difficulte": 1,
+    "tags": [
+      "UV"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/12-sterilisation-partie-2/qcm-027",
+    "type": "multiple",
+    "enonce": "Applications des UV :",
+    "options": [
+      "Désinfection de l'atmosphère des enceintes stériles",
+      "Maintien de la stérilité de l'eau distillée dans les cuves de stockage",
+      "Traitement des eaux pharmaceutiques (désinfection > 99,9 %)",
+      "Désinfection de l'air (lampes vers le haut) et des surfaces de travail (lampes vers le bas)",
+      "Stérilisation terminale de solutions injectables en ampoules de verre"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Les UV ne stérilisent pas et sont absorbés par le verre : ils ne conviennent pas à la stérilisation terminale d'ampoules.",
+    "source": {
+      "page": 8,
+      "extrait": "inactivation des micro-organismes dans l'air (lampes orientées vers le haut) et désinfection des surfaces de travail (lampes orientées vers le bas)."
+    },
+    "difficulte": 2,
+    "tags": [
+      "UV",
+      "applications"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/12-sterilisation-partie-2/qcm-028",
+    "type": "multiple",
+    "enonce": "Dans le traitement des eaux pharmaceutiques, les lampes UV sont installées :",
+    "options": [
+      "Après les préfiltres",
+      "Avant l'osmose inverse",
+      "Dans les boucles de recirculation des systèmes de stockage et de distribution d'eau purifiée",
+      "Uniquement après l'osmose inverse",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Les lampes UV sont placées après les préfiltres, avant l'osmose inverse et dans les boucles de recirculation.",
+    "source": {
+      "page": 7,
+      "extrait": "lampes installées après les préfiltres, avant l'osmose inverse et dans les boucles de recirculation"
+    },
+    "difficulte": 3,
+    "tags": [
+      "UV",
+      "eaux pharmaceutiques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/12-sterilisation-partie-2/qcm-029",
+    "type": "multiple",
+    "enonce": "Concernant la radiostérilisation par rayons γ :",
+    "options": [
+      "Les rayons γ sont très pénétrants et permettent une stérilisation terminale",
+      "Elle est réalisée dans des centres spécialisés, strictement réglementés",
+      "Le mécanisme est l'ionisation des protéines et de l'ADN avec formation de radicaux libres",
+      "Elle rend le matériel radioactif",
+      "Elle se déroule à température ambiante"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explication": "La stérilisation par irradiation ne rend pas le matériel radioactif.",
+    "source": {
+      "page": 8,
+      "extrait": "Le mécanisme est l'ionisation des protéines et de l'ADN des bactéries, avec formation de radicaux libres"
+    },
+    "difficulte": 2,
+    "tags": [
+      "radiostérilisation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/12-sterilisation-partie-2/qcm-030",
+    "type": "multiple",
+    "enonce": "Les sources de radiostérilisation sont :",
+    "options": [
+      "Le cobalt 60, émettant des photons γ très bactéricides et très pénétrants",
+      "Le césium 137",
+      "Les accélérateurs d'électrons émettant des rayonnements β",
+      "Les lampes UV",
+      "Le paraformaldéhyde"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Sources : radioéléments (⁶⁰Co, ¹³⁷Cs) et accélérateurs d'électrons (β, moins pénétrants que γ).",
+    "source": {
+      "page": 8,
+      "extrait": "le cobalt 60 (⁶⁰Co) émet des photons γ très bactéricides et très pénétrants ; on trouve aussi le césium 137"
+    },
+    "difficulte": 1,
+    "tags": [
+      "radiostérilisation",
+      "sources"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/12-sterilisation-partie-2/qcm-031",
+    "type": "unique",
+    "enonce": "Comparés aux rayons γ, les rayonnements β issus d'accélérateurs d'électrons sont :",
+    "options": [
+      "Moins pénétrants, stérilisants aux grandes intensités",
+      "Plus pénétrants",
+      "Non stérilisants",
+      "Non ionisants",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Les rayonnements β sont stérilisants aux grandes intensités mais moins pénétrants que les rayons γ.",
+    "source": {
+      "page": 8,
+      "extrait": "rayonnements β, stérilisants aux grandes intensités mais moins pénétrants que les rayons γ."
+    },
+    "difficulte": 2,
+    "tags": [
+      "radiostérilisation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/12-sterilisation-partie-2/qcm-032",
+    "type": "multiple",
+    "enonce": "Concernant la structure d'une source de cobalt 60 :",
+    "options": [
+      "La pastille de cobalt 60 est placée dans une capsule (élément source)",
+      "Deux éléments forment un crayon source",
+      "Un module regroupe jusqu'à 48 crayons",
+      "Plusieurs modules sont assemblés dans un rack",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes les propositions décrivent la structure hiérarchisée de la source.",
+    "source": {
+      "page": 8,
+      "extrait": "deux éléments forment un crayon source ; un module regroupe jusqu'à 48 crayons"
+    },
+    "difficulte": 3,
+    "tags": [
+      "cobalt 60"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/12-sterilisation-partie-2/qcm-033",
+    "type": "multiple",
+    "enonce": "Concernant l'installation d'irradiation :",
+    "options": [
+      "La cellule d'irradiation est placée au centre d'une structure en béton à parois épaisses",
+      "Le matériel en cartons est déplacé lentement par un convoyeur autour de la cellule",
+      "Les cartons contiennent des dosimètres",
+      "À l'arrêt, la source est stockée dans une piscine",
+      "À l'arrêt, la source est stockée à l'air libre"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "La source est stockée dans une piscine à l'arrêt.",
+    "source": {
+      "page": 8,
+      "extrait": "À l'arrêt, la source est stockée dans une piscine."
+    },
+    "difficulte": 2,
+    "tags": [
+      "installation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/12-sterilisation-partie-2/qcm-034",
+    "type": "multiple",
+    "enonce": "Conditions de référence de la radiostérilisation :",
+    "options": [
+      "Dose de référence : 25 kGy",
+      "1 Gy = 100 rad",
+      "Durée de stérilisation inférieure à 24 h",
+      "Indicateur biologique : Bacillus pumilus",
+      "Indicateur biologique : Geobacillus stearothermophilus"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "L'IB de la radiostérilisation est Bacillus pumilus (souche radiorésistante) ; G. stearothermophilus est celui de la vapeur.",
+    "source": {
+      "page": 9,
+      "extrait": "dose de référence : 25 kGy (1 Gy = 100 rad) … indicateur biologique : Bacillus pumilus"
+    },
+    "difficulte": 1,
+    "tags": [
+      "radiostérilisation",
+      "conditions"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/12-sterilisation-partie-2/qcm-035",
+    "type": "unique",
+    "enonce": "L'indicateur biologique de la radiostérilisation est :",
+    "options": [
+      "Bacillus pumilus",
+      "Geobacillus stearothermophilus",
+      "Bacillus subtilis",
+      "Pseudomonas diminuta",
+      "Clostridium botulinum"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "B. pumilus, souche résistante aux rayonnements, est l'IB de la radiostérilisation.",
+    "source": {
+      "page": 9,
+      "extrait": "indicateur biologique : Bacillus pumilus, souche résistante aux rayonnements."
+    },
+    "difficulte": 1,
+    "tags": [
+      "indicateurs biologiques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/12-sterilisation-partie-2/qcm-036",
+    "type": "multiple",
+    "enonce": "Le choix de la dose d'irradiation dépend :",
+    "options": [
+      "De la radiosensibilité des germes",
+      "De la contamination initiale",
+      "De la marge de sécurité recherchée",
+      "De la couleur de l'emballage",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Le choix de la dose dépend de la radiosensibilité des germes, de la contamination initiale et de la marge de sécurité.",
+    "source": {
+      "page": 9,
+      "extrait": "le choix de la dose dépend de la radiosensibilité des germes, de la contamination initiale et de la marge de sécurité recherchée"
+    },
+    "difficulte": 1,
+    "tags": [
+      "radiostérilisation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/12-sterilisation-partie-2/qcm-037",
+    "type": "multiple",
+    "enonce": "La radiostérilisation s'applique :",
+    "options": [
+      "Au matériel médico-chirurgical à usage unique (seringues, aiguilles, nécessaires à perfusion)",
+      "Aux appareils pour dialyse sanguine et articles de pansement",
+      "Aux pommades ophtalmiques",
+      "Largement à la stérilisation des médicaments",
+      "Aux sondes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explication": "La stérilisation des médicaments par irradiation reste très limitée en raison de la grande réactivité des rayonnements.",
+    "source": {
+      "page": 9,
+      "extrait": "La stérilisation des médicaments reste très limitée, en raison de la grande réactivité des rayonnements."
+    },
+    "difficulte": 2,
+    "tags": [
+      "radiostérilisation",
+      "applications"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/12-sterilisation-partie-2/qcm-038",
+    "type": "multiple",
+    "enonce": "Compatibilité des matériaux avec l'irradiation γ :",
+    "options": [
+      "Polystyrène et polycarbonate sont largement stérilisés par irradiation γ",
+      "Le polycarbonate peut se fragiliser après des cycles répétés",
+      "Polypropylène, PVC et copolymères supportent les doses γ sans fondre ni se déformer",
+      "Certains polyuréthanes et acryliques peuvent se décolorer ou perdre en ténacité",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes les propositions sont conformes au paragraphe sur la compatibilité des matériaux.",
+    "source": {
+      "page": 9,
+      "extrait": "polypropylène (PP), PVC et copolymères : supportent les doses γ sans fondre ni se déformer"
+    },
+    "difficulte": 3,
+    "tags": [
+      "radiostérilisation",
+      "matériaux"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/12-sterilisation-partie-2/qcm-039",
+    "type": "multiple",
+    "enonce": "Avantages de la radiostérilisation :",
+    "options": [
+      "Stérilisation à froid, adaptée aux produits thermosensibles",
+      "Forte pénétration permettant le traitement dans l'emballage final",
+      "Aucun résidu chimique, sans aération",
+      "Procédé fiable, dose contrôlable, grandes séries",
+      "Bien adaptée aux solutions aqueuses et aux émulsions"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "La radiostérilisation est peu adaptée aux solutions aqueuses et aux émulsions.",
+    "source": {
+      "page": 10,
+      "extrait": "Peu adapté aux solutions aqueuses et aux émulsions"
+    },
+    "difficulte": 2,
+    "tags": [
+      "radiostérilisation",
+      "avantages"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/12-sterilisation-partie-2/qcm-040",
+    "type": "multiple",
+    "enonce": "Limites de la radiostérilisation :",
+    "options": [
+      "Investissement lourd, radioprotection, renouvellement du cobalt 60",
+      "Dégradation possible des polymères et de certains PA (radiolyse)",
+      "Validation de la dose, sous-traitance, délais",
+      "Faible pénétration du rayonnement β",
+      "Radioactivité induite dans le matériel"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Il n'y a pas de radioactivité induite.",
+    "source": {
+      "page": 10,
+      "extrait": "Pas de radioactivité induite"
+    },
+    "difficulte": 2,
+    "tags": [
+      "radiostérilisation",
+      "limites"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/12-sterilisation-partie-2/qcm-041",
+    "type": "multiple",
+    "enonce": "Concernant la filtration stérilisante des liquides :",
+    "options": [
+      "C'est une élimination physique et non une destruction des micro-organismes",
+      "C'est une microfiltration sur membrane (filtre écran)",
+      "La porosité doit être inférieure ou égale à 0,22 µm",
+      "Les membranes sont le plus souvent en ester de cellulose, stérilisables par autoclavage",
+      "La porosité doit être de 0,45 µm minimum"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "La porosité doit être ≤ 0,22 µm.",
+    "source": {
+      "page": 10,
+      "extrait": "Il s'agit d'une microfiltration sur membrane (filtre écran) dont la porosité doit être inférieure ou égale à 0,22 µm."
+    },
+    "difficulte": 1,
+    "tags": [
+      "filtration stérilisante"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/12-sterilisation-partie-2/qcm-042",
+    "type": "multiple",
+    "enonce": "Concernant le montage de filtration stérilisante :",
+    "options": [
+      "Le schéma est : solution → préfiltre → membrane ≤ 0,22 µm → filtrat stérile",
+      "Le préfiltre améliore la rétention des micro-organismes et parfois même des pyrogènes",
+      "L'indicateur est Pseudomonas diminuta (diamètre 0,3 µm)",
+      "Les indications sont les solutions thermosensibles et les fluides gazeux monophasiques",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes les propositions reprennent le tableau de la filtration stérilisante des liquides.",
+    "source": {
+      "page": 10,
+      "extrait": "Indicateur Pseudomonas diminuta (diamètre 0,3 µm)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "filtration stérilisante"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/12-sterilisation-partie-2/qcm-043",
+    "type": "unique",
+    "enonce": "L'indicateur utilisé pour valider la filtration stérilisante est :",
+    "options": [
+      "Pseudomonas diminuta",
+      "Bacillus pumilus",
+      "Bacillus subtilis",
+      "Geobacillus stearothermophilus",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "P. diminuta, de diamètre 0,3 µm, est l'indicateur de la filtration stérilisante.",
+    "source": {
+      "page": 10,
+      "extrait": "Indicateur Pseudomonas diminuta (diamètre 0,3 µm)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "filtration stérilisante"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/12-sterilisation-partie-2/qcm-044",
+    "type": "multiple",
+    "enonce": "Les précautions de la filtration stérilisante sont :",
+    "options": [
+      "Tout le matériel doit être préalablement stérilisé",
+      "Le nombre initial de germes doit être aussi faible que possible",
+      "Le débit doit être régulier",
+      "La durée de filtration ne doit pas être prolongée",
+      "Le soluté ne doit pas être adsorbé et le filtre ne doit pas céder de débris"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Toutes ces précautions sont citées, ainsi que le contrôle de la porosité des filtres réutilisables et la répartition aseptique du filtrat.",
+    "source": {
+      "page": 10,
+      "extrait": "la durée de filtration ne doit pas être prolongée, pour éviter la multiplication des germes"
+    },
+    "difficulte": 2,
+    "tags": [
+      "filtration stérilisante",
+      "précautions"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/12-sterilisation-partie-2/qcm-045",
+    "type": "multiple",
+    "enonce": "Concernant la filtration stérilisante de l'air :",
+    "options": [
+      "Les filtres stérilisants sont précédés de préfiltres qui dépoussièrent et évitent le colmatage",
+      "Les filtres stérilisants sont dits « absolus » ou HEPA",
+      "Les filtres HEPA sont à base de fibres de verre plissées en accordéon",
+      "Ils doivent retenir au moins 99,97 % des particules de fumée de DOP",
+      "Les filtres HEPA sont à base d'ester de cellulose de porosité 0,22 µm"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Les filtres HEPA sont en fibres de verre plissées en accordéon dans des cadres en bois ou en métal.",
+    "source": {
+      "page": 10,
+      "extrait": "Ils doivent retenir au moins 99,97 % des particules de fumée de DOP (dioctylphtalate)."
+    },
+    "difficulte": 2,
+    "tags": [
+      "HEPA"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/12-sterilisation-partie-2/qcm-046",
+    "type": "unique",
+    "enonce": "HEPA signifie :",
+    "options": [
+      "Haute Efficacité pour Particules de l'Air",
+      "Haute Énergie Pour Asepsie",
+      "Hydrophobe, Étanche, Poreux, Absolu",
+      "Haute Étanchéité des Parois Aseptiques",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "HEPA : Haute Efficacité pour Particules de l'Air.",
+    "source": {
+      "page": 10,
+      "extrait": "filtres HEPA (Haute Efficacité pour Particules de l'Air)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "HEPA"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/12-sterilisation-partie-2/qcm-047",
+    "type": "multiple",
+    "enonce": "Concernant les zones à atmosphère contrôlée (ZAC) :",
+    "options": [
+      "Leur contamination particulaire et microbienne est définie",
+      "Elles réduisent l'introduction, la multiplication ou la persistance de contaminants",
+      "La classe A correspond au poste à flux d'air laminaire pour opérations à haut risque",
+      "La classe B constitue l'environnement de la classe A",
+      "Les classes C et D concernent les opérations à plus haut risque"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Les classes C et D concernent les étapes moins critiques ; la classe A, les opérations à haut risque.",
+    "source": {
+      "page": 11,
+      "extrait": "A Poste à flux d'air laminaire : opérations à haut risque, préparation et remplissage aseptiques B Environnement de la classe A"
+    },
+    "difficulte": 2,
+    "tags": [
+      "ZAC"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/12-sterilisation-partie-2/qcm-048",
+    "type": "unique",
+    "enonce": "Le remplissage aseptique d'un injectable se fait en zone de classe :",
+    "options": [
+      "A, située dans un environnement de classe B",
+      "D",
+      "C",
+      "B seule, sans flux laminaire",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Les opérations à haut risque (préparation et remplissage aseptiques) se font en classe A (flux laminaire ou isolateur) en salle de classe B.",
+    "source": {
+      "page": 11,
+      "extrait": "le travail s'effectue dans une zone de classe A (flux laminaire ou isolateur) située en salle de classe B"
+    },
+    "difficulte": 2,
+    "tags": [
+      "ZAC",
+      "préparation aseptique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/12-sterilisation-partie-2/qcm-049",
+    "type": "multiple",
+    "enonce": "Concernant les enceintes stériles :",
+    "options": [
+      "Les vitrines stériles sont de taille réduite, closes, l'opérateur étant à l'extérieur",
+      "Les vitrines à parois souples gonflables sont appelées bulles ou isolateurs",
+      "Dans les salles stériles, les manipulateurs sont à l'intérieur en tenue stérile",
+      "La pression décroît de l'intérieur vers l'extérieur des salles stériles",
+      "Le sas du personnel et le sas du matériel sont confondus"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Le sas du personnel est distinct du sas du matériel.",
+    "source": {
+      "page": 11,
+      "extrait": "La ventilation est réglée pour que la pression décroisse de l'intérieur vers l'extérieur, et le sas du personnel est distinct du sas du matériel."
+    },
+    "difficulte": 2,
+    "tags": [
+      "enceintes stériles"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/12-sterilisation-partie-2/qcm-050",
+    "type": "multiple",
+    "enonce": "Concernant la préparation aseptique :",
+    "options": [
+      "Elle concerne les produits ne pouvant subir aucune stérilisation finale dans leur contenant",
+      "Exemples : poudres pour préparations injectables, certains vaccins, suspensions, émulsions",
+      "Les composants sont stérilisés séparément, par filtration ou par chaleur",
+      "Le procédé est validé par simulation",
+      "Elle repose sur une stérilisation terminale du produit fini"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "La préparation aseptique s'applique justement quand la stérilisation terminale est impossible ; la stérilité repose sur la maîtrise de l'environnement et des composants stériles.",
+    "source": {
+      "page": 11,
+      "extrait": "la stérilité du produit repose sur la maîtrise de l'environnement et sur des composants préalablement stériles."
+    },
+    "difficulte": 2,
+    "tags": [
+      "préparation aseptique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/12-sterilisation-partie-2/qcm-051",
+    "type": "multiple",
+    "enonce": "Concernant l'essai de stérilité :",
+    "options": [
+      "Il est réalisé sous hotte à flux laminaire de classe A, en salle de classe B, ou en isolateur",
+      "Il porte sur un échantillon représentatif",
+      "Il comporte des témoins négatifs appropriés",
+      "Il se fait par filtration sur membrane (liquides) ou ensemencement direct (solides)",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes les propositions décrivent les conditions et techniques de l'essai de stérilité.",
+    "source": {
+      "page": 11,
+      "extrait": "Il porte sur un échantillon représentatif et comporte à chaque fois des témoins négatifs appropriés."
+    },
+    "difficulte": 2,
+    "tags": [
+      "essai de stérilité"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/12-sterilisation-partie-2/qcm-052",
+    "type": "multiple",
+    "enonce": "Les milieux de culture de l'essai de stérilité sont :",
+    "options": [
+      "Le milieu au thioglycolate incubé à 30–35 °C, détectant aérobies et anaérobies",
+      "Le milieu aux peptones de caséine de soja incubé à 20–25 °C, détectant aérobies et champignons",
+      "Le milieu au thioglycolate incubé à 20–25 °C",
+      "Le milieu aux peptones de caséine de soja détectant les anaérobies",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Thioglycolate : 30–35 °C, aérobies et anaérobies ; peptones de caséine de soja : 20–25 °C, aérobies et champignons.",
+    "source": {
+      "page": 12,
+      "extrait": "Thioglycolate 30–35 °C Aérobies et anaérobies Peptones de caséine de soja 20–25 °C Aérobies et champignons"
+    },
+    "difficulte": 2,
+    "tags": [
+      "essai de stérilité",
+      "milieux"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/12-sterilisation-partie-2/qcm-053",
+    "type": "multiple",
+    "enonce": "Durée et lecture de l'essai de stérilité :",
+    "options": [
+      "L'incubation dure 14 jours",
+      "Un trouble ou des filaments signifient que le produit est non stérile",
+      "L'absence de croissance signifie que le produit est conforme",
+      "L'incubation dure 7 jours",
+      "Un trouble signifie que le produit est conforme"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Incubation de 14 jours ; trouble/filaments = non stérile ; aucune croissance = conforme.",
+    "source": {
+      "page": 12,
+      "extrait": "L'incubation dure 14 jours. … trouble ou filaments : le produit est non stérile"
+    },
+    "difficulte": 1,
+    "tags": [
+      "essai de stérilité"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/12-sterilisation-partie-2/qcm-054",
+    "type": "unique",
+    "enonce": "Le milieu de l'essai de stérilité permettant de détecter les champignons est :",
+    "options": [
+      "Le milieu aux peptones de caséine de soja",
+      "Le milieu au thioglycolate",
+      "Le milieu au violet de bromocrésol",
+      "Aucun milieu",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Le milieu aux peptones de caséine de soja (20–25 °C) détecte les aérobies et les champignons.",
+    "source": {
+      "page": 12,
+      "extrait": "Peptones de caséine de soja 20–25 °C Aérobies et champignons"
+    },
+    "difficulte": 2,
+    "tags": [
+      "essai de stérilité"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/12-sterilisation-partie-2/qcm-055",
+    "type": "multiple",
+    "enonce": "Selon la synthèse sur le NAS :",
+    "options": [
+      "La stérilité absolue n'existe pas : les produits sont « pratiquement stériles »",
+      "L'objectif est un NAS < 10⁻⁶",
+      "Cela correspond à au plus une unité non stérile sur 1 000 000",
+      "On travaille en asepsie avec un N0 le plus faible possible",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes les propositions sont dans l'encadré de synthèse sur le NAS.",
+    "source": {
+      "page": 12,
+      "extrait": "L'objectif est un NAS < 10−6, c'est-à-dire au plus une unité non stérile sur 1 000 000."
+    },
+    "difficulte": 1,
+    "tags": [
+      "NAS"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/12-sterilisation-partie-2/qcm-056",
+    "type": "multiple",
+    "enonce": "Le choix du procédé de stérilisation dépend :",
+    "options": [
+      "De la thermolabilité du produit",
+      "De la nature du matériel",
+      "De la toxicité et des résidus éventuels",
+      "La stérilisation terminale étant à privilégier",
+      "Uniquement du coût"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Le choix dépend de la thermolabilité, du matériel, de la toxicité et des résidus ; la stérilisation terminale est à privilégier.",
+    "source": {
+      "page": 12,
+      "extrait": "Le choix du procédé dépend de la thermolabilité du produit, de la nature du matériel, de la toxicité et des résidus éventuels"
+    },
+    "difficulte": 1,
+    "tags": [
+      "choix du procédé"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/12-sterilisation-partie-2/qcm-057",
+    "type": "multiple",
+    "enonce": "Associations procédé/limite selon le tableau de synthèse :",
+    "options": [
+      "Oxyde d'éthylène : toxicité, désorption",
+      "Gaz plasma : petits volumes",
+      "Filtration 0,22 µm : pas de destruction",
+      "Préparation aseptique : pas de stérilisation finale",
+      "Radiations : rendent le matériel radioactif"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "La limite des radiations est la nécessité de centres spécialisés ; elles ne rendent pas le matériel radioactif.",
+    "source": {
+      "page": 12,
+      "extrait": "Oxyde d'éthylène Alkylation Matériel thermosensible Toxicité, désorption"
+    },
+    "difficulte": 2,
+    "tags": [
+      "synthèse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/12-sterilisation-partie-2/qcm-058",
+    "type": "unique",
+    "enonce": "Une solution injectable thermosensible doit être stérilisée. Le procédé de choix est :",
+    "options": [
+      "La filtration stérilisante sur membrane ≤ 0,22 µm, suivie d'une répartition aseptique",
+      "L'autoclavage à 121 °C",
+      "La chaleur sèche à 160 °C",
+      "Les UV",
+      "L'oxyde d'éthylène"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "La filtration stérilisante est indiquée pour les solutions thermosensibles ; le filtrat est recueilli et réparti aseptiquement.",
+    "source": {
+      "page": 10,
+      "extrait": "Solutions ne supportant pas la chaleur (thermosensibles) ; fluides gazeux monophasiques"
+    },
+    "difficulte": 2,
+    "tags": [
+      "choix du procédé",
+      "filtration stérilisante"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/12-sterilisation-partie-2/qcm-059",
+    "type": "multiple",
+    "enonce": "Parmi les procédés suivants, lesquels conviennent au matériel thermosensible ?",
+    "options": [
+      "L'oxyde d'éthylène",
+      "Le gaz plasma",
+      "La radiostérilisation γ",
+      "La chaleur sèche à 170 °C",
+      "La chaleur humide à 134 °C"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Les gaz (basse température) et les radiations (à froid) conviennent au matériel thermosensible, contrairement aux méthodes thermiques.",
+    "source": {
+      "page": 3,
+      "extrait": "La stérilisation par les gaz s'effectue à basse température : elle convient donc au matériel thermosensible."
+    },
+    "difficulte": 2,
+    "tags": [
+      "thermosensible"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/12-sterilisation-partie-2/qcm-060",
+    "type": "multiple",
+    "enonce": "Parmi les indicateurs suivants, associez correctement :",
+    "options": [
+      "Radiostérilisation : Bacillus pumilus",
+      "Filtration stérilisante : Pseudomonas diminuta",
+      "Chaleur humide : Geobacillus stearothermophilus",
+      "Radiostérilisation : Pseudomonas diminuta",
+      "Filtration stérilisante : Bacillus pumilus"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "B. pumilus pour les radiations, P. diminuta pour la filtration, G. stearothermophilus pour la vapeur.",
+    "source": {
+      "page": 13,
+      "extrait": "la radiostérilisation (γ, β) utilise une dose de 25 kGy et l'indicateur B. pumilus … indicateur P. diminuta"
+    },
+    "difficulte": 2,
+    "tags": [
+      "indicateurs"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/12-sterilisation-partie-2/qcm-061",
+    "type": "multiple",
+    "enonce": "Les UV ne stérilisent pas car :",
+    "options": [
+      "Ils sont non ionisants",
+      "Ils sont peu pénétrants",
+      "Ils sont absorbés par la matière, par exemple le verre",
+      "Ils sont plus énergétiques que les rayons γ",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Les UV sont non ionisants, peu pénétrants et absorbés par la matière ; ils sont moins énergétiques que les rayons γ.",
+    "source": {
+      "page": 13,
+      "extrait": "Les UV désinfectent mais ne stérilisent pas (non ionisants, peu pénétrants)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "UV"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/12-sterilisation-partie-2/qcm-062",
+    "type": "multiple",
+    "enonce": "Dans les salles ou blocs stériles :",
+    "options": [
+      "Les manipulateurs portent combinaisons, gants, bottes et lunettes de protection contre les UV",
+      "Des lampes UV sont ajoutées par précaution",
+      "La pression décroît de l'intérieur vers l'extérieur",
+      "L'opérateur reste à l'extérieur de l'enceinte",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Dans les salles stériles les manipulateurs sont à l'intérieur ; c'est dans les vitrines stériles que l'opérateur est à l'extérieur.",
+    "source": {
+      "page": 11,
+      "extrait": "les manipulateurs sont à l'intérieur et portent des vêtements stériles (combinaisons, gants, bottes, lunettes de protection contre les UV)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "enceintes stériles"
+    ],
+    "origine": "genere"
+  }
+]

@@ -1,0 +1,72 @@
+{
+  "id": "pharmacologie/07-modelisation-pk-partie-1/fiche-001",
+  "titre": "Modélisation pharmacocinétique – Partie 1",
+  "sections": [
+    {
+      "titre": "Généralités",
+      "points": [
+        "Pharmacocinétique = devenir du médicament dans l'organisme en fonction du temps (**ADME**).",
+        "Descriptive vs **quantitative** (modélisation mathématique basée sur la notion de compartiment).",
+        "Intérêts : schéma posologique, monitoring, adaptation posologique, bioéquivalence.",
+        "Modèle = représentation mathématique du comportement du médicament."
+      ]
+    },
+    {
+      "titre": "Approches",
+      "points": [
+        "**Non compartimentale** : corps ≠ compartiments, points expérimentaux (Cmax, Tmax) + formules simples.",
+        "**Compartimentale** : compartiment = ensemble de molécules de même probabilité d'être affectées par le même événement.",
+        "Compartiment central ; périphériques superficiels (muscle) et profonds (os).",
+        "Modèles mono- et bicompartimental."
+      ]
+    },
+    {
+      "titre": "Paramètres",
+      "points": [
+        "Absorption : f (%), Ka (1/h), E (%), F (%), AUC (µg.h/ml).",
+        "Distribution : Vd (l ou l/kg), Kd (1/h).",
+        "Élimination : Cl (ml/min), T1/2 (h), Ke (1/h).",
+        "Vd : < 10 l limité au sang (warfarine) ; 10–50 l physiologique (amoxicilline) ; > 50 l distribution élevée."
+      ]
+    },
+    {
+      "titre": "Monocompartimental IV",
+      "points": [
+        "C = C0·e^(−ke·t) ; log C = log C0 − (ke/2,303)·t",
+        "ke = −2,303 × pente ; t1/2 = ln2/ke",
+        "AUC : trapèzes (C1 + C2)/2 × (t2 − t1) ou Cp0/ke",
+        "Vd = Q/Cp0 ; Cl = ke × Vd ; Cl rénale = U×V/Cp ; Cl totale = Cl rénale + Cl extrarénale"
+      ]
+    },
+    {
+      "titre": "Monocompartimental oral",
+      "points": [
+        "Cp = E·e^(−ke·t) − A·e^(−ka·t)",
+        "Méthode des résidus : A = |C'p − Cexp| → droite d'absorption → ka",
+        "t1/2a = ln2/ka ; F = f(1 − E)",
+        "AUC = E/ke − A/ka ; Cl = Q × F / AUC ; Vd = Cl/ke"
+      ]
+    },
+    {
+      "titre": "Traçage",
+      "points": [
+        "Papier millimétrique : porter log C.",
+        "Papier semi-logarithmique : porter C directement (cycles 1–10, 10–100, 100–1000)."
+      ]
+    }
+  ],
+  "aRetenir": [
+    "ke = −2,303 × a (signe moins !)",
+    "t1/2 = 0,693/ke",
+    "Vd = Q/Cp0 = Cl/ke",
+    "Cl = ke × Vd",
+    "F = f(1 − E)"
+  ],
+  "pieges": [
+    "6 < T1/2 ≤ 12 h = intermédiaire (et non longue).",
+    "Phénobarbital : Vd 50–200 l (pas 10–50 l).",
+    "La pente de log C = f(t) vaut −ke/2,303, pas −ke.",
+    "Kd = central → périphériques ; Ka = extérieur → intérieur.",
+    "Dans le cours, la formule de E et de f fait intervenir dose orale/dose IV ; comparer avec la formule du cours de biodisponibilité (dose IV/dose orale)."
+  ]
+}

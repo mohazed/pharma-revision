@@ -1,0 +1,302 @@
+[
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/flashcard-001",
+    "recto": "Origine des composés phénoliques",
+    "verso": "Métabolites secondaires issus de l'aromagénèse.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/flashcard-002",
+    "recto": "Définition d'un composé phénolique",
+    "verso": "Molécule possédant au moins une fonction phénolique (OH sur noyau aromatique).",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/flashcard-003",
+    "recto": "Polyphénol",
+    "verso": "Composé comportant plusieurs fonctions phénoliques.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/flashcard-004",
+    "recto": "Localisation préférentielle",
+    "verso": "Tissus externes (ex. peau de pomme plus riche que la chair).",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/flashcard-005",
+    "recto": "Rôles chez la plante",
+    "verso": "Pigmentation, protection UV, défense, réponse aux stress, croissance.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/flashcard-006",
+    "recto": "Voies de biosynthèse",
+    "verso": "Shikimate et voie mixte (fréquentes) ; acétate (moins fréquente chez les végétaux).",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/flashcard-007",
+    "recto": "Classes issues du shikimate",
+    "verso": "Phénols simples, acides phénoliques, coumarines, lignanes, lignines.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/flashcard-008",
+    "recto": "Classes issues de la voie mixte",
+    "verso": "Flavonoïdes, stilbènes, anthocyanes, tanins (biflavonoïdes).",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/flashcard-009",
+    "recto": "Classes issues de l'acétate",
+    "verso": "Phloroglucinols, orcinols, quinones (naphtoquinones, anthracéniques).",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/flashcard-010",
+    "recto": "Précurseurs de la voie du shikimate",
+    "verso": "PEP + érythrose 4-phosphate (DAHP synthétase).",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/flashcard-011",
+    "recto": "Rôle de la PAL",
+    "verso": "Phénylalanine → acide cinnamique.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/flashcard-012",
+    "recto": "Origine de l'acide salicylique",
+    "verso": "Chorismate → acide isochorismique → acide salicylique.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/flashcard-013",
+    "recto": "Phloroglucinol",
+    "verso": "Issu de la voie de l'acétate (condensations de Claisen) ; principe actif du Spasfon®.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/flashcard-014",
+    "recto": "Trois critères de classification",
+    "verso": "Origine biosynthétique, degré de polymérisation, structure carbonée.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/flashcard-015",
+    "recto": "Squelettes C6 / C6–C1 / C6–C3",
+    "verso": "Phénols simples / acides hydroxybenzoïques / acides hydroxycinnamiques et coumarines.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/flashcard-016",
+    "recto": "Squelette des lignanes et lignines",
+    "verso": "(C6–C3)2 (18 C) ; (C6–C3)n (> 30 C).",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/flashcard-017",
+    "recto": "Squelette des stilbènes",
+    "verso": "C6–C2–C6 (14 C) ; ex. resvératrol.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/flashcard-018",
+    "recto": "Squelette des flavonoïdes",
+    "verso": "C6–C3–C6 (15 C) ; cycles A, B et C.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/flashcard-019",
+    "recto": "Origine des cycles des flavonoïdes",
+    "verso": "Cycle A : polyacétates ; cycle B + C3 : shikimate (phénylpropanoïdes).",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/flashcard-020",
+    "recto": "Vanilline / saligénine",
+    "verso": "Dérivé aldéhydique / dérivé alcoolique des acides hydroxybenzoïques.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/flashcard-021",
+    "recto": "Coumarines",
+    "verso": "Benzopyrone : noyau benzénique fusionné à une lactone α-pyrone ; ex. ombelliférone.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/flashcard-022",
+    "recto": "Flavonols / flavones",
+    "verso": "Quercétine, kaempférol / lutéoline, apigénine.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/flashcard-023",
+    "recto": "Flavanones / isoflavones",
+    "verso": "Naringénine, hespérétine / génistéine, daidzéine.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/flashcard-024",
+    "recto": "Flavanols / anthocyanidines",
+    "verso": "Catéchine, épicatéchine / cyanidine, delphinidine.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/flashcard-025",
+    "recto": "Biflavonoïde cité",
+    "verso": "Amentoflavone (C6–C3–C6)2.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/flashcard-026",
+    "recto": "Tanins hydrolysables",
+    "verso": "Libèrent acide gallique ou ellagique : gallotanins, ellagitanins.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/flashcard-027",
+    "recto": "Tanins condensés",
+    "verso": "Tanins catéchiques = proanthocyanidines : polymères de flavanols.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/flashcard-028",
+    "recto": "Humulone, lupulone",
+    "verso": "Phloroglucinols des cônes femelles du houblon.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/flashcard-029",
+    "recto": "Olivétol",
+    "verso": "Orcinol précurseur des cannabinoïdes (Cannabis sativa).",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/flashcard-030",
+    "recto": "Juglone / lawsone",
+    "verso": "Naphtoquinones du noyer / du henné.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/flashcard-031",
+    "recto": "Hypéricine / rhéine",
+    "verso": "Naphtodianthrone du millepertuis / dérivé 1,8-dihydroxyanthracénique de la rhubarbe.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/flashcard-032",
+    "recto": "Couleur des anthocyanes",
+    "verso": "Rouge, violet ou bleu selon le pH ; absorption dans le visible.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/flashcard-033",
+    "recto": "Absorption UV des composés phénoliques",
+    "verso": "Principalement entre 240 et 280 nm.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/flashcard-034",
+    "recto": "Facteurs d'oxydation",
+    "verso": "Oxygène, lumière, Fe3+, pH favorable aux phénolates.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/flashcard-035",
+    "recto": "Réaction générale de caractérisation",
+    "verso": "FeCl3 → complexes bleus à vert noirâtre.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/flashcard-036",
+    "recto": "Bate-Smith / Stiasny",
+    "verso": "Bate-Smith : tanins condensés ; Stiasny : précipitation des tanins condensés.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/flashcard-037",
+    "recto": "Folin-Ciocalteu / AlCl3",
+    "verso": "Polyphénols totaux / flavonoïdes totaux.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/flashcard-038",
+    "recto": "DPPH, ABTS, FRAP",
+    "verso": "Tests d'activité antioxydante (propriété fonctionnelle, pas teneur).",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/flashcard-039",
+    "recto": "Solvant hydroalcoolique usuel",
+    "verso": "Mélanges hydroalcooliques à 70–80 %.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/flashcard-040",
+    "recto": "CO2 supercritique",
+    "verso": "Extraction rapide, surtout pour les composés peu polaires.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/flashcard-041",
+    "recto": "Busserole : drogue et constituant",
+    "verso": "Feuilles d'Arctostaphylos uva-ursi (Ericaceae) ; arbutoside 6–10 %.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/flashcard-042",
+    "recto": "Métabolisme de l'arbutine",
+    "verso": "Hydroquinone conjuguée (glucuro-/sulfo-) éliminée dans les urines.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/flashcard-043",
+    "recto": "Busserole : emploi et limites",
+    "verso": "Infections urinaires basses légères de la femme ; 7 jours max ; pas < 18 ans, grossesse, allaitement ; CI maladie rénale.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/flashcard-044",
+    "recto": "Risques de l'hydroquinone cutanée",
+    "verso": "Cytotoxicité mélanocytaire, irritation, ochronose exogène ; interdite comme dépigmentant cosmétique dans l'UE.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/flashcard-045",
+    "recto": "Reine-des-prés",
+    "verso": "Sommités fleuries de Filipendula ulmaria (Rosaceae) ; monotropitoside, salicylate de méthyle, spiréoside.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/flashcard-046",
+    "recto": "Saule : drogue et teneur",
+    "verso": "Écorce de jeunes rameaux (Salicaceae) ; ≥ 1,5 % de dérivés salicylés exprimés en salicine.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/flashcard-047",
+    "recto": "Aspirine et saule",
+    "verso": "L'aspirine n'est pas un constituant naturel : obtenue par acétylation chimique de l'acide salicylique.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/flashcard-048",
+    "recto": "Saule : précautions",
+    "verso": "Allergie aux salicylés/AINS ; < 18 ans ; CI au 3e trimestre de grossesse.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/flashcard-049",
+    "recto": "Artichaut : constituants",
+    "verso": "Acide chlorogénique, cynarine, cynaroside, cynaropicrine.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/flashcard-050",
+    "recto": "Romarin : constituants",
+    "verso": "H.E. (cinéole, bornéol), acide rosmarinique, acide carnosique, carnosol, flavonoïdes.",
+    "tags": []
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "pharmacie-galenique/09-granulation/mnemo-001",
+    "titre": "États du liquide",
+    "moyen": "« Pendant Fun, Cap sur la Goutte »",
+    "explication": "Pendulaire → Funiculaire → Capillaire (cohésion maximale) → Goutte (surmouillage)."
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/mnemo-002",
+    "titre": "Phases de formation du granulé",
+    "moyen": "« NTG : Naître, Tâtonner, Grandir »",
+    "explication": "Nucléation → Transition → Grossissement (ball growth)."
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/mnemo-003",
+    "titre": "Origines des ponts solides",
+    "moyen": "« SRF : Sèche, Recristallise, Fond »",
+    "explication": "Séchage d'un liant, Recristallisation d'un soluté, Fusion d'un liant puis refroidissement."
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/mnemo-004",
+    "titre": "Hausner et Carr",
+    "moyen": "« Tassé en haut, toujours »",
+    "explication": "Dans les deux indices, ρtassée est au numérateur (Hausner) ou au dénominateur (Carr : (ρt − ρa)/ρt) — la tassée est la référence."
+  },
+  {
+    "id": "pharmacie-galenique/09-granulation/mnemo-005",
+    "titre": "Haut cisaillement",
+    "moyen": "« La Pale Pétrit, le Couteau Coupe »",
+    "explication": "Impeller (pale) : brassage et densification ; chopper (couteau) : fragmentation des amas."
+  }
+]

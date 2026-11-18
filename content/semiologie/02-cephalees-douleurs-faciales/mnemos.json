@@ -1,0 +1,32 @@
+[
+  {
+    "id": "semiologie/02-cephalees-douleurs-faciales/mnemo-001",
+    "titre": "Critères IHS de la migraine sans aura",
+    "moyen": "« 5-4-72, UPMA, NV ou PP »",
+    "explication": "5 crises ; durée 4 à 72 h ; ≥ 2 parmi Unilatérale, Pulsatile, Modérée-sévère, Aggravée par l'effort ; + Nausées/Vomissements ou Photophobie-Phonophobie."
+  },
+  {
+    "id": "semiologie/02-cephalees-douleurs-faciales/mnemo-002",
+    "titre": "Horton",
+    "moyen": "« Horton a plus de 60 ans, il est fatigué, fébrile, mâche mal et a mal aux épaules »",
+    "explication": "> 60 ans ; AEG ; fièvre ; claudication de la mâchoire ; douleurs des ceintures ; diagnostic VS-CRP-biopsie ; traitement corticoïdes."
+  },
+  {
+    "id": "semiologie/02-cephalees-douleurs-faciales/mnemo-003",
+    "titre": "Antécédents et étiologies",
+    "moyen": "« Cœur-AVC, Bébé-Thrombose, Cancer-Métastase, VIH-Toxo »",
+    "explication": "HTA/cardiovasculaire → AVC ; post-partum → thrombose veineuse cérébrale ; néoplasme → métastases ; VIH → toxoplasmose."
+  },
+  {
+    "id": "semiologie/02-cephalees-douleurs-faciales/mnemo-004",
+    "titre": "Névralgie essentielle du V",
+    "moyen": "« Deux d'abord, Trois ensuite, Un jamais seul ou presque, Trois ensemble jamais »",
+    "explication": "V2 40 %, V3 20 %, V1 exceptionnel (10 %) ; jamais les trois branches."
+  },
+  {
+    "id": "semiologie/02-cephalees-douleurs-faciales/mnemo-005",
+    "titre": "Signes d'alerte d'une céphalée",
+    "moyen": "« Récente, Rapide, Remarquablement différente, + signe neuro = secondaire »",
+    "explication": "Caractère récent, installation brusque, différente des céphalées habituelles, symptôme neurologique associé (signe focal, épilepsie, trouble de conscience)."
+  }
+]

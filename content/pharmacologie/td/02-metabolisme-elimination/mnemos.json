@@ -1,0 +1,14 @@
+[
+  {
+    "id": "pharmacologie/td/02-metabolisme-elimination/mnemo-001",
+    "titre": "Phénobarbital",
+    "moyen": "« Le Phéno Pousse le métabolisme et Part dans l'urine alcaline »",
+    "explication": "Inducteur enzymatique (accélère le métabolisme) et acide faible (élimination augmentée par l'alcalinisation urinaire)."
+  },
+  {
+    "id": "pharmacologie/td/02-metabolisme-elimination/mnemo-002",
+    "titre": "Ion trapping urinaire",
+    "moyen": "« Acide → Alcalinise ; Base → Acidifie »",
+    "explication": "Pour éliminer un acide faible, on alcalinise l'urine ; pour une base faible, on l'acidifie : la forme ionisée n'est pas réabsorbée."
+  }
+]

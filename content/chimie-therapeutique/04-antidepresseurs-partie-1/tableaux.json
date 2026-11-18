@@ -1,0 +1,181 @@
+[
+  {
+    "id": "chimie-therapeutique/04-antidepresseurs-partie-1/tableau-001",
+    "titre": "Classification chimique des antidépresseurs",
+    "colonnes": [
+      "Groupe",
+      "Sous-groupe / noyau",
+      "Exemples (spécialité)"
+    ],
+    "lignes": [
+      [
+        "Tricycliques",
+        "Dibenzazépine",
+        "Imipramine (Tofranil®), désipramine (Pertofran®), clomipramine (Anafranil®), trimipramine (Surmontil®)"
+      ],
+      [
+        "Tricycliques",
+        "Dibenzocycloheptadiène",
+        "Amitriptyline (Laroxyl®, Elavil®), nortriptyline (Altilev)"
+      ],
+      [
+        "Analogues tricycliques",
+        "Dibenzothiépine / dibenzoxazépine / dibenzothiazépine",
+        "Dosulépine (Prothiaden®), amoxapine (Défanyl®), tianeptine (Stablon®)"
+      ],
+      [
+        "Tétracycliques",
+        "Apparentés aux tricycliques",
+        "Maprotiline (Ludiomil®)"
+      ],
+      [
+        "IMAO",
+        "Irréversible non sélectif / réversible sélectif MAO-A",
+        "Iproniazide (Marsilid®) / moclobémide (Moclamine®)"
+      ],
+      [
+        "2e génération",
+        "ISRS",
+        "Fluvoxamine (Floxyfral®), fluoxétine (Prozac®), paroxétine (Deroxat®), citalopram (Seropram®), sertraline (Zoloft®)"
+      ],
+      [
+        "2e génération",
+        "IRSNA",
+        "Milnacipran (Ixel®), venlafaxine (Effexor®)"
+      ],
+      [
+        "Atypiques",
+        "NASSA",
+        "Mirtazapine (Norset®)"
+      ]
+    ]
+  },
+  {
+    "id": "chimie-therapeutique/04-antidepresseurs-partie-1/tableau-002",
+    "titre": "Les deux séries de tricycliques",
+    "colonnes": [
+      "Critère",
+      "Série de l'imipramine",
+      "Série de l'amitriptyline"
+    ],
+    "lignes": [
+      [
+        "Noyau",
+        "Dibenzazépine",
+        "Dibenzocycloheptadiène (dibenzocycloheptène)"
+      ],
+      [
+        "Atome portant la chaîne",
+        "Azote du cycle central",
+        "Carbone, avec double liaison C=C exocyclique"
+      ],
+      [
+        "Suffixe",
+        "« -pramines »",
+        "« -ptylines »"
+      ],
+      [
+        "Amine tertiaire",
+        "Imipramine, clomipramine, trimipramine",
+        "Amitriptyline"
+      ],
+      [
+        "Amine secondaire",
+        "Désipramine",
+        "Nortriptyline"
+      ]
+    ]
+  },
+  {
+    "id": "chimie-therapeutique/04-antidepresseurs-partie-1/tableau-003",
+    "titre": "Classification thérapeutique (du pôle psychotonique au pôle sédatif)",
+    "colonnes": [
+      "Position",
+      "Molécules"
+    ],
+    "lignes": [
+      [
+        "Pôle psychotonique",
+        "IMAO, désipramine (Pertofran®)"
+      ],
+      [
+        "Intermédiaires",
+        "Imipramine (Tofranil®), clomipramine (Anafranil®), dosulépine (Prothiaden®), IRS, IRSNA"
+      ],
+      [
+        "Pôle sédatif",
+        "Maprotiline (Ludiomil®), amitriptyline (Laroxyl®), trimipramine (Surmontil®), miansérine (Athymil®)"
+      ]
+    ]
+  },
+  {
+    "id": "chimie-therapeutique/04-antidepresseurs-partie-1/carte-004",
+    "type": "carte",
+    "titre": "Antidépresseurs – vue d'ensemble",
+    "racine": {
+      "label": "Antidépresseurs",
+      "enfants": [
+        {
+          "label": "Physiopathologie",
+          "enfants": [
+            {
+              "label": "NA, sérotonine, dopamine diminuées",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Mécanismes",
+          "enfants": [
+            {
+              "label": "Inhibition de la recapture",
+              "enfants": []
+            },
+            {
+              "label": "Inhibition de la dégradation",
+              "enfants": []
+            },
+            {
+              "label": "Inhibition des autorécepteurs",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Classification chimique",
+          "enfants": [
+            {
+              "label": "Tricycliques et apparentés",
+              "enfants": []
+            },
+            {
+              "label": "IMAO",
+              "enfants": []
+            },
+            {
+              "label": "2e génération (ISRS, IRSNA)",
+              "enfants": []
+            },
+            {
+              "label": "Atypiques",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Tricycliques",
+          "enfants": [
+            {
+              "label": "Série imipramine",
+              "enfants": []
+            },
+            {
+              "label": "Série amitriptyline",
+              "enfants": []
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

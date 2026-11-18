@@ -1,0 +1,12 @@
+{
+  "id": "chimie-therapeutique/03-hypnotiques",
+  "module": "chimie-therapeutique",
+  "ordre": 3,
+  "titre": "Les hypnotiques",
+  "type": "cours",
+  "source": {
+    "driveId": "1YYkE-dT5uw5_USvuVGe5Q4hnRRPCiI3o",
+    "fichier": "3. Les Hypnotiques.pdf"
+  },
+  "resume": "Physiologie du sommeil et insomnie, historique et classification des hypnotiques : benzodiazépines hypnotiques (structure, classes, synthèse du nitrazépam, RSA, mode d'action, effets indésirables), apparentés aux BZD et antihistaminiques sédatifs."
+}

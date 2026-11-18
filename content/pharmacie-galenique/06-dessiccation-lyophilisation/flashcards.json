@@ -1,0 +1,164 @@
+[
+  {
+    "id": "pharmacie-galenique/06-dessiccation-lyophilisation/flashcard-001",
+    "recto": "Définition de la dessiccation",
+    "verso": "Élimination totale ou partielle, par vaporisation, d'un liquide volatil (eau) contenu dans un solide ou semi-solide.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/06-dessiccation-lyophilisation/flashcard-002",
+    "recto": "3 états de l'eau dans la matière",
+    "verso": "Eau de constitution (cristallisation), eau d'adsorption (liée), eau de mouillage (libre et capillaire).",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/06-dessiccation-lyophilisation/flashcard-003",
+    "recto": "Eau éliminée par la dessiccation",
+    "verso": "Eau libre et plus ou moins eau d'adsorption ; jamais l'eau de constitution.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/06-dessiccation-lyophilisation/flashcard-004",
+    "recto": "Intérêts du séchage",
+    "verso": "Synthèse, préparation (granulation, lyophilisation), prévention hydrolyse, dénaturation physique, moisissures, écoulement, distribution des PA, réduction de taille.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/06-dessiccation-lyophilisation/flashcard-005",
+    "recto": "3 phases du séchage",
+    "verso": "I mise en régime ; II évaporation constante (T constante) ; III évaporation décroissante.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/06-dessiccation-lyophilisation/flashcard-006",
+    "recto": "Quand la vitesse de séchage s'annule-t-elle ?",
+    "verso": "Quand l'équilibre d'humidité est atteint.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/06-dessiccation-lyophilisation/flashcard-007",
+    "recto": "Granulé trop sec / trop humide",
+    "verso": "Trop sec : friable ; humide : collant.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/06-dessiccation-lyophilisation/flashcard-008",
+    "recto": "Ve > Vm",
+    "verso": "Formation de croûte gênant l'évaporation.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/06-dessiccation-lyophilisation/flashcard-009",
+    "recto": "Ve ≤ Vm",
+    "verso": "Dessiccation en profondeur (recommandée).",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/06-dessiccation-lyophilisation/flashcard-010",
+    "recto": "Facteurs de la vitesse de séchage",
+    "verso": "Ve/Vm, humidité relative, renouvellement d'air, surface, pression, calories.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/06-dessiccation-lyophilisation/flashcard-011",
+    "recto": "4 modes de transfert de calories",
+    "verso": "Convection, conduction, rayonnement, froid (lyophilisation).",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/06-dessiccation-lyophilisation/flashcard-012",
+    "recto": "Étuve à plateaux",
+    "verso": "Discontinue, simple et peu coûteuse ; longue, non homogène, contamination croisée, pas pour thermolabiles.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/06-dessiccation-lyophilisation/flashcard-013",
+    "recto": "Lit d'air fluidisé",
+    "verso": "Air chaud de bas en haut, brassage ; rapide et homogène ; coûteux, encombrant, mise au point délicate.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/06-dessiccation-lyophilisation/flashcard-014",
+    "recto": "Séchoir tunnel",
+    "verso": "Continu, air chaud à contre-courant ; dessiccation progressive sans croûtage.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/06-dessiccation-lyophilisation/flashcard-015",
+    "recto": "Séchoir à cylindres",
+    "verso": "Conduction, vapeur 140-150 °C, pellicule raclée ; peu utilisé, solutions et suspensions uniquement.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/06-dessiccation-lyophilisation/flashcard-016",
+    "recto": "Armoire à vide",
+    "verso": "Appareil sous vide le plus courant ; plateaux chauffés ; condenseur entre enceinte et pompe ; produits pulvérulents et pâteux.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/06-dessiccation-lyophilisation/flashcard-017",
+    "recto": "Séchoir rotatif",
+    "verso": "Cylindre incliné à double paroi chauffée ; substance remuée sous vide.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/06-dessiccation-lyophilisation/flashcard-018",
+    "recto": "Séchoir infrarouge",
+    "verso": "Lampes de tungstène à ≈ 30 cm, couche mince ; peu pénétrant, coûteux à grande échelle.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/06-dessiccation-lyophilisation/flashcard-019",
+    "recto": "Séchoir micro-ondes",
+    "verso": "Hyperfréquences (2500 MHz), chaleur produite dans le corps ; rapide, bon pour granulés, peu encombrant mais coûteux.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/06-dessiccation-lyophilisation/flashcard-020",
+    "recto": "Nébulisation",
+    "verso": "Gouttelettes dans de l'air à 150 °C → poudre instantanée ; temps de contact très court (PA sensibles).",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/06-dessiccation-lyophilisation/flashcard-021",
+    "recto": "Applications de la nébulisation",
+    "verso": "Extraits végétaux secs, lactose Fast-Flow, antibiotiques, vitamines, enzymes, lait infantile, café soluble.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/06-dessiccation-lyophilisation/flashcard-022",
+    "recto": "Définition de la lyophilisation",
+    "verso": "Dessiccation par sublimation de la glace d'un produit préalablement congelé ; produit sec, poreux, reconstitution rapide (lyophile).",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/06-dessiccation-lyophilisation/flashcard-023",
+    "recto": "Pression seuil de la lyophilisation",
+    "verso": "En dessous de 4,58 mmHg, l'eau liquide n'existe pas.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/06-dessiccation-lyophilisation/flashcard-024",
+    "recto": "Fonctionnement du lyophilisateur",
+    "verso": "Enceinte A (produit, Ta) et B (Tb < Ta) ; Pb < Pa → vapeur de A vers B ; sublimation en A, condensation en B ; vide pour accélérer.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/06-dessiccation-lyophilisation/flashcard-025",
+    "recto": "Congélation en lyophilisation",
+    "verso": "−20 à −80 °C par neige carbonique ou azote liquide (−196 °C) ; vrac, flacons, blisters.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/06-dessiccation-lyophilisation/flashcard-026",
+    "recto": "Applications de la lyophilisation",
+    "verso": "Vaccins, enzymes, anticorps, hormones ; lyophilisats injectables et oraux ; greffons (os, peau, cornée).",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/06-dessiccation-lyophilisation/flashcard-027",
+    "recto": "Contrôles après séchage",
+    "verso": "Dosage du PA et des produits de dégradation ; humidité résiduelle (IR 15 min à 85 °C ou étuve 30 min à 105 °C).",
+    "tags": []
+  }
+]

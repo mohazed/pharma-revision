@@ -1,0 +1,66 @@
+[
+  {
+    "id": "chimie-analytique/td/02-td-applications-extraction-ll/cas-001",
+    "titre": "Contrôle d'une matière première de chlorhydrate de lidocaïne (TD 2, ex. 2)",
+    "enonce": "33,3 mg de chlorhydrate de lidocaïne monohydraté sont dissous dans 20 mL d'eau ; on ajoute 5 mL de tampon pH 2,8, 5 mL d'indicateur mixte (vert) et 70 mL de dichlorométhane, puis on titre par le DOSS 0,0184 M jusqu'au virage au mauve (5,95 mL).",
+    "questions": [
+      {
+        "type": "multiple",
+        "enonce": "Le DOSS est :",
+        "options": [
+          "Le dioctyl sulfosuccinate de sodium",
+          "Un anion tensioactif",
+          "Un ammonium quaternaire",
+          "Un chélateur",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0,
+          1
+        ],
+        "explication": "DOSS = dioctyl sulfosuccinate de sodium, tensioactif anionique.",
+        "difficulte": 1,
+        "origine": "genere",
+        "id": "chimie-analytique/td/02-td-applications-extraction-ll/cas-001-q1"
+      },
+      {
+        "type": "multiple",
+        "enonce": "Si le pH était très élevé :",
+        "options": [
+          "La lidocaïne passerait sous forme de base neutre",
+          "La paire d'ions ne pourrait plus se former",
+          "Le dosage serait faussé",
+          "Le virage serait plus net",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "Cas des alcaloïdes à pH élevé : aucune possibilité de former la paire d'ions.",
+        "difficulte": 2,
+        "origine": "genere",
+        "id": "chimie-analytique/td/02-td-applications-extraction-ll/cas-001-q2"
+      },
+      {
+        "type": "unique",
+        "enonce": "La pureté calculée est d'environ :",
+        "options": [
+          "95 %",
+          "99 %",
+          "101 %",
+          "89 %",
+          "105 %"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "0,1095 mmol × 288,82 = 31,6 mg sur 33,3 mg.",
+        "difficulte": 2,
+        "origine": "genere",
+        "id": "chimie-analytique/td/02-td-applications-extraction-ll/cas-001-q3"
+      }
+    ]
+  }
+]

@@ -1,0 +1,74 @@
+{
+  "id": "pharmacologie/01-introduction/fiche",
+  "titre": "Introduction à la pharmacologie",
+  "sections": [
+    {
+      "titre": "Pharmacologie et branches",
+      "points": [
+        "Du grec **Pharmakon** : remède *mais aussi* drogue ; « la science du médicament ».",
+        "**Expérimentale** : cultures cellulaires/organes entiers in vitro, modèles animaux in vivo.",
+        "**Clinique** : effets chez l'Homme = essais cliniques.",
+        "**Pharmacovigilance** : surveillance des effets indésirables.",
+        "**Pharmacogénétique** : influence du génotype sur la variabilité de la réponse.",
+        "**Pharmacoéconomie** : étude du prix."
+      ]
+    },
+    {
+      "titre": "Le médicament (OMS)",
+      "points": [
+        "Propriétés **curatives ou préventives** (maladies humaines **ou animales**), diagnostic, restauration/correction/modification des fonctions physiologiques.",
+        "Fonctions : **thérapeutique** (la plus habituelle ; préventive ou curative : étiologique, substitutive, symptomatique) et **diagnostique** (opacifiants, traceurs).",
+        "Effet thérapeutique = efficacité, effet favorable, bénéfique, clinique ; effets indésirables = notoire, secondaire, latéral, toxique."
+      ]
+    },
+    {
+      "titre": "Phases",
+      "points": [
+        "**Biopharmaceutique** : forme pharmaceutique → passage du PA en solution.",
+        "**Pharmacocinétique** (organisme → médicament) : absorption, distribution, métabolisme, élimination.",
+        "**Pharmacodynamie** (médicament → organisme) : interaction médicament-organisme → effet."
+      ]
+    },
+    {
+      "titre": "Origines",
+      "points": [
+        "**Naturelle** : végétale (morphine, *Papaver somniferum*), animale (hormones, enzymes ; héparine du poumon de bœuf), minérale (eau, talc, argile, bicarbonate de sodium, sulfate de magnésium ; Smecta*), microbiologique (vaccins, BCG).",
+        "**Semi-synthétique** : groupements ajoutés sur une substance naturelle (codéine = ester méthylique de la morphine, moins toxique, antitussive).",
+        "**Synthétique** : principale source moderne, synthèse chimique totale (AINS).",
+        "**Biotechnologique** : génie génétique (insuline, facteurs de croissance hématopoïétiques, IL2, INF)."
+      ]
+    },
+    {
+      "titre": "Catégories, composition, dénomination",
+      "points": [
+        "**Magistrale** : extemporanée, malade particulier ; **officinale** : à l'avance en pharmacie (Dakin) ; **hospitalière** : à l'avance ou extemporanément, faute de spécialité ; **spécialité** : à l'avance, conditionnement et dénomination spéciale.",
+        "Médicament = **PA** (effets) + **excipients** (partie inactive).",
+        "Nomenclature internationale trop compliquée → **DCI**."
+      ]
+    },
+    {
+      "titre": "Formes galéniques, générique, information",
+      "points": [
+        "Orale : solides (comprimé, gélule) / liquides (soluté buvable, émulsion, sirop). Parentérale : ampoules, flacon + solvant.",
+        "Transmuqueuse : sublinguale, rectale, vaginale, ORL, oculaire. Cutanée : crème, pommade, poudre, solution, patchs.",
+        "**Générique** : même composition qualitative et quantitative, même forme, bioéquivalence démontrée si nécessaire.",
+        "**RCP** (professionnels, technique, PD/PK) vs **notice** (patient, vulgarisée)."
+      ]
+    }
+  ],
+  "aRetenir": [
+    "Pharmacocinétique = action de l'organisme sur le médicament ; pharmacodynamie = l'inverse.",
+    "La fonction thérapeutique est la plus habituelle.",
+    "Codéine : semi-synthétique et moins toxique que la morphine.",
+    "Synthèse = principale source des médicaments modernes.",
+    "Générique : même composition qualitative ET quantitative + même forme."
+  ],
+  "pieges": [
+    "« Pharmakon » = remède *mais aussi* drogue (pas « uniquement »).",
+    "Héparine : poumon de bœuf (pas le foie).",
+    "Soluté de Dakin = préparation officinale, pas magistrale ni spécialité.",
+    "Passage du PA en solution = phase biopharmaceutique, pas pharmacocinétique.",
+    "Insuline citée en origine biotechnologique, pas animale.",
+    "Effet « clinique » = effet thérapeutique, pas un effet indésirable."
+  ]
+}

@@ -1,0 +1,408 @@
+[
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/calc-001",
+    "titre": "Concentration initiale après injection IV",
+    "enonce": "On injecte par voie IV une dose de {dose} mg d'un médicament dont le volume de distribution est de {vd} L. Calculer la concentration plasmatique initiale C0.",
+    "variables": {
+      "dose": {
+        "min": 100,
+        "max": 1000,
+        "pas": 50,
+        "unite": "mg"
+      },
+      "vd": {
+        "min": 10,
+        "max": 200,
+        "pas": 5,
+        "unite": "L"
+      }
+    },
+    "formule": "dose / vd",
+    "unite": "mg/L",
+    "decimales": 2,
+    "etapes": [
+      "Vd = Q / Cp0, donc Cp0 = Q / Vd",
+      "C0 = {dose} / {vd}"
+    ],
+    "rappel": "Vd = Q / Cp0"
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/calc-002",
+    "titre": "Volume de distribution (mono IV)",
+    "enonce": "Après injection IV de {dose} mg, la concentration initiale extrapolée est de {c0} mg/L. Calculer le Vd.",
+    "variables": {
+      "dose": {
+        "min": 100,
+        "max": 2000,
+        "pas": 100,
+        "unite": "mg"
+      },
+      "c0": {
+        "min": 1,
+        "max": 50,
+        "pas": 1,
+        "unite": "mg/L"
+      }
+    },
+    "formule": "dose / c0",
+    "unite": "L",
+    "decimales": 1,
+    "etapes": [
+      "Vd = Q / Cp0",
+      "Vd = {dose} / {c0}"
+    ],
+    "rappel": "Vd = Q / Cp0"
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/calc-003",
+    "titre": "Constante d'élimination à partir de deux concentrations",
+    "enonce": "Après injection IV, la concentration vaut {c1} mg/L à t1 = 1 h et {c2} mg/L à t2 = {t2} h. Calculer ke (h⁻¹).",
+    "variables": {
+      "c1": {
+        "min": 20,
+        "max": 40,
+        "pas": 2,
+        "unite": "mg/L"
+      },
+      "c2": {
+        "min": 2,
+        "max": 18,
+        "pas": 1,
+        "unite": "mg/L"
+      },
+      "t2": {
+        "min": 2,
+        "max": 10,
+        "pas": 1,
+        "unite": "h"
+      }
+    },
+    "formule": "-2.303 * (Math.log10(c2) - Math.log10(c1)) / (t2 - 1)",
+    "unite": "h⁻¹",
+    "decimales": 3,
+    "etapes": [
+      "Pente a = (log C2 − log C1)/(t2 − t1)",
+      "ke = −2,303 × a",
+      "ke = −2,303 × (log {c2} − log {c1}) / ({t2} − 1)"
+    ],
+    "rappel": "ke = −2,303 × a ; log C = log C0 − (ke/2,303)·t"
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/calc-004",
+    "titre": "Temps de demi-vie d'élimination",
+    "enonce": "Un médicament a une constante de vitesse d'élimination ke = {ke} h⁻¹. Calculer son t1/2.",
+    "variables": {
+      "ke": {
+        "min": 0.02,
+        "max": 1.5,
+        "pas": 0.01,
+        "unite": "h⁻¹"
+      }
+    },
+    "formule": "Math.LN2 / ke",
+    "unite": "h",
+    "decimales": 2,
+    "etapes": [
+      "t1/2 = ln2 / ke",
+      "t1/2 = 0,693 / {ke}"
+    ],
+    "rappel": "t1/2 = ln2 / ke"
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/calc-005",
+    "titre": "Constante d'élimination à partir de la demi-vie",
+    "enonce": "Un médicament a un temps de demi-vie d'élimination de {t} h. Calculer ke.",
+    "variables": {
+      "t": {
+        "min": 1,
+        "max": 48,
+        "pas": 1,
+        "unite": "h"
+      }
+    },
+    "formule": "Math.LN2 / t",
+    "unite": "h⁻¹",
+    "decimales": 3,
+    "etapes": [
+      "ke = ln2 / t1/2",
+      "ke = 0,693 / {t}"
+    ],
+    "rappel": "t1/2 = ln2 / ke"
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/calc-006",
+    "titre": "AUC par la méthode mathématique (mono IV)",
+    "enonce": "Après injection IV, Cp0 = {c0} mg/L et ke = {ke} h⁻¹. Calculer l'AUC0→∞.",
+    "variables": {
+      "c0": {
+        "min": 2,
+        "max": 50,
+        "pas": 1,
+        "unite": "mg/L"
+      },
+      "ke": {
+        "min": 0.05,
+        "max": 1,
+        "pas": 0.05,
+        "unite": "h⁻¹"
+      }
+    },
+    "formule": "c0 / ke",
+    "unite": "mg.h/L",
+    "decimales": 1,
+    "etapes": [
+      "AUC0→∞ = Cp0 / ke",
+      "AUC = {c0} / {ke}"
+    ],
+    "rappel": "AUC0→∞ = Cp0 / ke"
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/calc-007",
+    "titre": "Aire d'un trapèze",
+    "enonce": "Entre t1 = {t1} h et t2 = {t1} + {dt} h, les concentrations sont C1 = {c1} µg/ml et C2 = {c2} µg/ml. Calculer l'aire de ce trapèze.",
+    "variables": {
+      "t1": {
+        "min": 0,
+        "max": 6,
+        "pas": 1,
+        "unite": "h"
+      },
+      "dt": {
+        "min": 0.5,
+        "max": 4,
+        "pas": 0.5,
+        "unite": "h"
+      },
+      "c1": {
+        "min": 8,
+        "max": 20,
+        "pas": 1,
+        "unite": "µg/ml"
+      },
+      "c2": {
+        "min": 1,
+        "max": 7,
+        "pas": 0.5,
+        "unite": "µg/ml"
+      }
+    },
+    "formule": "(c1 + c2) / 2 * dt",
+    "unite": "µg.h/ml",
+    "decimales": 2,
+    "etapes": [
+      "Aire = (C1 + C2)/2 × (t2 − t1)",
+      "Aire = ({c1} + {c2})/2 × {dt}"
+    ],
+    "rappel": "Méthode des trapèzes"
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/calc-008",
+    "titre": "Clairance à partir de ke et du Vd",
+    "enonce": "Un médicament a une ke de {ke} h⁻¹ et un Vd de {vd} L. Calculer sa clairance totale.",
+    "variables": {
+      "ke": {
+        "min": 0.05,
+        "max": 1,
+        "pas": 0.05,
+        "unite": "h⁻¹"
+      },
+      "vd": {
+        "min": 10,
+        "max": 300,
+        "pas": 10,
+        "unite": "L"
+      }
+    },
+    "formule": "ke * vd",
+    "unite": "L/h",
+    "decimales": 2,
+    "etapes": [
+      "Cl = ke × Vd",
+      "Cl = {ke} × {vd}"
+    ],
+    "rappel": "Cl = ke × Vd"
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/calc-009",
+    "titre": "Clairance rénale",
+    "enonce": "Un patient émet {v} ml d'urine en 1 h ; la concentration urinaire est de {u} µg/ml et la concentration plasmatique de {cp} µg/ml. Calculer la clairance rénale en ml/min.",
+    "variables": {
+      "v": {
+        "min": 50,
+        "max": 200,
+        "pas": 10,
+        "unite": "ml"
+      },
+      "u": {
+        "min": 10,
+        "max": 200,
+        "pas": 10,
+        "unite": "µg/ml"
+      },
+      "cp": {
+        "min": 1,
+        "max": 10,
+        "pas": 1,
+        "unite": "µg/ml"
+      }
+    },
+    "formule": "u * v / cp / 60",
+    "unite": "ml/min",
+    "decimales": 1,
+    "etapes": [
+      "Cl = U × V / Cp (en ml/h car V est recueilli en 1 h)",
+      "Cl = {u} × {v} / {cp} ml/h",
+      "Diviser par 60 pour obtenir des ml/min"
+    ],
+    "rappel": "Cl = (U / Cp) × V"
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/calc-010",
+    "titre": "Biodisponibilité à partir de f et E",
+    "enonce": "Un médicament a un coefficient d'absorption f = {f} et un coefficient d'extraction E = {e}. Calculer F (en %).",
+    "variables": {
+      "f": {
+        "min": 0.5,
+        "max": 1,
+        "pas": 0.05,
+        "unite": ""
+      },
+      "e": {
+        "min": 0,
+        "max": 0.8,
+        "pas": 0.05,
+        "unite": ""
+      }
+    },
+    "formule": "f * (1 - e) * 100",
+    "unite": "%",
+    "decimales": 1,
+    "etapes": [
+      "F = f(1 − E)",
+      "F = {f} × (1 − {e})",
+      "Multiplier par 100 pour l'exprimer en %"
+    ],
+    "rappel": "F = f(1 − E)"
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/calc-011",
+    "titre": "Clairance après administration orale",
+    "enonce": "Après administration orale de {dose} mg (F = {F}), l'AUC est de {auc} mg.h/L. Calculer la clairance.",
+    "variables": {
+      "dose": {
+        "min": 100,
+        "max": 1000,
+        "pas": 50,
+        "unite": "mg"
+      },
+      "F": {
+        "min": 0.3,
+        "max": 1,
+        "pas": 0.05,
+        "unite": ""
+      },
+      "auc": {
+        "min": 5,
+        "max": 100,
+        "pas": 5,
+        "unite": "mg.h/L"
+      }
+    },
+    "formule": "dose * F / auc",
+    "unite": "L/h",
+    "decimales": 2,
+    "etapes": [
+      "Cl = Q × F / AUC",
+      "Cl = {dose} × {F} / {auc}"
+    ],
+    "rappel": "Cl = Q(dose)/AUC × F"
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/calc-012",
+    "titre": "Volume de distribution à partir de Cl et ke",
+    "enonce": "Un médicament a une clairance de {cl} L/h et une ke de {ke} h⁻¹. Calculer le Vd.",
+    "variables": {
+      "cl": {
+        "min": 1,
+        "max": 30,
+        "pas": 1,
+        "unite": "L/h"
+      },
+      "ke": {
+        "min": 0.05,
+        "max": 0.8,
+        "pas": 0.05,
+        "unite": "h⁻¹"
+      }
+    },
+    "formule": "cl / ke",
+    "unite": "L",
+    "decimales": 1,
+    "etapes": [
+      "Vd = Cl / ke",
+      "Vd = {cl} / {ke}"
+    ],
+    "rappel": "Vd = Cl / ke"
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/calc-013",
+    "titre": "Concentration à un temps t après injection IV",
+    "enonce": "Après injection IV, C0 = {c0} mg/L et ke = {ke} h⁻¹. Calculer la concentration à t = {t} h.",
+    "variables": {
+      "c0": {
+        "min": 5,
+        "max": 50,
+        "pas": 5,
+        "unite": "mg/L"
+      },
+      "ke": {
+        "min": 0.05,
+        "max": 0.5,
+        "pas": 0.05,
+        "unite": "h⁻¹"
+      },
+      "t": {
+        "min": 1,
+        "max": 12,
+        "pas": 1,
+        "unite": "h"
+      }
+    },
+    "formule": "c0 * Math.exp(-ke * t)",
+    "unite": "mg/L",
+    "decimales": 2,
+    "etapes": [
+      "C = C0·e^(−ke·t)",
+      "C = {c0} × e^(−{ke} × {t})"
+    ],
+    "rappel": "C = C0·e^(−ke·t)"
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/calc-014",
+    "titre": "Constante d'absorption par la méthode des résidus",
+    "enonce": "Sur la droite d'absorption, les résidus valent A1 = {a1} mg/L à t1 = 0,5 h et A2 = {a2} mg/L à t2 = 1,5 h. Calculer ka.",
+    "variables": {
+      "a1": {
+        "min": 20,
+        "max": 40,
+        "pas": 2,
+        "unite": "mg/L"
+      },
+      "a2": {
+        "min": 2,
+        "max": 15,
+        "pas": 1,
+        "unite": "mg/L"
+      }
+    },
+    "formule": "-2.303 * (Math.log10(a2) - Math.log10(a1)) / 1",
+    "unite": "h⁻¹",
+    "decimales": 3,
+    "etapes": [
+      "ka = −2,303 × (log A2 − log A1)/(t2 − t1)",
+      "t2 − t1 = 1 h",
+      "ka = −2,303 × (log {a2} − log {a1})"
+    ],
+    "rappel": "ka = −2,303 × (log A2 − log A1)/(t2 − t1)"
+  }
+]

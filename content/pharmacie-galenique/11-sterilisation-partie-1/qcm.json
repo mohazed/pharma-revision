@@ -1,0 +1,1674 @@
+[
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/qcm-001",
+    "type": "multiple",
+    "enonce": "Concernant la stérilisation :",
+    "options": [
+      "Elle a pour but de priver un objet ou un produit des micro-organismes viables qui le souillent",
+      "Elle concerne les micro-organismes quelles que soient leur nature ou leur forme",
+      "Elle doit préserver autant que possible les propriétés et l'intégrité du produit traité",
+      "Elle se limite à la réduction du nombre de germes sans viser leur absence",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "La stérilisation vise à priver un produit de tous les micro-organismes viables, quelles que soient leur nature ou forme, tout en préservant le produit. Elle ne se limite pas à une simple réduction.",
+    "source": {
+      "page": 3,
+      "extrait": "opération pharmaceutique qui a pour but de priver un objet ou un produit des micro-organismes viables qui le souillent"
+    },
+    "difficulte": 1,
+    "tags": [
+      "définitions"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/qcm-002",
+    "type": "unique",
+    "enonce": "La stérilité est définie comme :",
+    "options": [
+      "L'absence de micro-organismes viables",
+      "L'absence de micro-organismes pathogènes uniquement",
+      "Un nombre de germes inférieur à 10 par unité",
+      "L'absence de pyrogènes",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "La stérilité est l'absence de micro-organismes viables.",
+    "source": {
+      "page": 3,
+      "extrait": "Stérilité : absence de micro-organismes viables."
+    },
+    "difficulte": 1,
+    "tags": [
+      "définitions"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/qcm-003",
+    "type": "multiple",
+    "enonce": "Les trois verbes essentiels de la stérilisation sont :",
+    "options": [
+      "Détruire : tuer les micro-organismes par des procédés physiques ou chimiques",
+      "Inactiver : rendre les micro-organismes non viables de façon permanente",
+      "Éliminer : retirer physiquement les micro-organismes, notamment par filtration stérilisante",
+      "Éliminer implique obligatoirement de détruire les micro-organismes",
+      "Inactiver signifie rendre les micro-organismes non viables de façon temporaire"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Éliminer retire les germes sans nécessairement les détruire ; inactiver les rend non viables de façon PERMANENTE.",
+    "source": {
+      "page": 3,
+      "extrait": "Retirer physiquement les micro-organismes, notamment par filtration stérilisante, sans nécessairement les détruire."
+    },
+    "difficulte": 2,
+    "tags": [
+      "définitions"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/qcm-004",
+    "type": "multiple",
+    "enonce": "Les micro-organismes visés par la stérilisation comprennent :",
+    "options": [
+      "Les bactéries, y compris leurs formes sporulées",
+      "Les levures et champignons (moisissures)",
+      "Les virus",
+      "Les ATNC, dont les prions",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Sont visés : bactéries (y compris sporulées), levures et moisissures, virus et ATNC (agents transmissibles non conventionnels, dont les prions).",
+    "source": {
+      "page": 3,
+      "extrait": "bactéries (y compris leurs formes sporulées), levures et champignons (moisissures), virus, ainsi que les ATNC"
+    },
+    "difficulte": 1,
+    "tags": [
+      "micro-organismes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/qcm-005",
+    "type": "multiple",
+    "enonce": "Concernant le niveau d'assurance de stérilité (NAS) :",
+    "options": [
+      "La stérilité absolue n'existe pas",
+      "Il exprime la probabilité de présence de micro-organismes viables après traitement",
+      "Pour une stérilisation terminale, il est généralement fixé à 10⁻⁶",
+      "10⁻⁶ signifie au plus une chance sur un million qu'une unité contienne encore un micro-organisme viable",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes les propositions sont conformes : on raisonne en probabilité ; NAS (SAL) = 10⁻⁶ pour la stérilisation terminale.",
+    "source": {
+      "page": 3,
+      "extrait": "Pour un procédé de stérilisation terminale, le NAS est généralement fixé à 10−6"
+    },
+    "difficulte": 1,
+    "tags": [
+      "NAS"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/qcm-006",
+    "type": "unique",
+    "enonce": "Le NAS généralement retenu pour un procédé de stérilisation terminale est :",
+    "options": [
+      "10⁻⁶",
+      "10⁻³",
+      "10⁻¹",
+      "10⁶",
+      "0 (stérilité absolue)"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Le NAS est généralement fixé à 10⁻⁶ ; la stérilité absolue n'existe pas.",
+    "source": {
+      "page": 3,
+      "extrait": "le NAS est généralement fixé à 10−6, c'est-à-dire au plus une chance sur un million"
+    },
+    "difficulte": 1,
+    "tags": [
+      "NAS"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/qcm-007",
+    "type": "multiple",
+    "enonce": "Doivent obligatoirement être stériles :",
+    "options": [
+      "Les formes parentérales et ophtalmiques (collyres)",
+      "Les produits à appliquer sur les plaies et les brûlures",
+      "Les fils de suture, instruments de chirurgie, drains et prothèses",
+      "Les seringues, aiguilles et cathéters",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes ces catégories (formes stériles, matériel médico-chirurgical, matériel d'injection) doivent obligatoirement être stériles.",
+    "source": {
+      "page": 4,
+      "extrait": "Formes parentérales, ophtalmiques (collyres), produits à appliquer sur les plaies et les brûlures"
+    },
+    "difficulte": 1,
+    "tags": [
+      "produits stériles"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/qcm-008",
+    "type": "multiple",
+    "enonce": "Parmi les « autres » produits devant être stériles, le cours cite :",
+    "options": [
+      "Le matériel pour conditionnement aseptique",
+      "Le matériel pour analyse microbiologique (écouvillons, tubes de prélèvement)",
+      "Certaines préparations dont la conservation exige l'absence de germes (gels oraux)",
+      "L'alimentation des patients immunodéprimés",
+      "Les comprimés oraux ordinaires"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Le cours cite ces quatre exemples ; les comprimés oraux ordinaires n'en font pas partie.",
+    "source": {
+      "page": 4,
+      "extrait": "certaines préparations dont la conservation exige l'absence de germes (gels oraux) ; alimentation des patients immunodéprimés"
+    },
+    "difficulte": 2,
+    "tags": [
+      "produits stériles"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/qcm-009",
+    "type": "multiple",
+    "enonce": "Selon le mécanisme, les procédés d'inactivation microbienne comprennent :",
+    "options": [
+      "La chaleur humide et la chaleur sèche",
+      "Les gaz : oxyde d'éthylène, formaldéhyde, acide peracétique, plasma",
+      "Les rayonnements β, γ (et X)",
+      "La filtration",
+      "Les ultraviolets"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "La filtration est un procédé d'élimination physique. Les UV ne stérilisent pas : ils servent uniquement à la désinfection.",
+    "source": {
+      "page": 4,
+      "extrait": "Les ultraviolets (UV) ne stérilisent pas : ils servent uniquement à la désinfection (surfaces, air)."
+    },
+    "difficulte": 2,
+    "tags": [
+      "classification"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/qcm-010",
+    "type": "unique",
+    "enonce": "Les ultraviolets (UV) :",
+    "options": [
+      "Ne stérilisent pas et servent uniquement à la désinfection (surfaces, air)",
+      "Sont un procédé de stérilisation terminale de référence",
+      "Sont classés parmi les rayonnements β",
+      "Sont utilisés pour la dépyrogénation",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Le cours précise que les UV ne stérilisent pas ; ils servent uniquement à la désinfection.",
+    "source": {
+      "page": 4,
+      "extrait": "Les ultraviolets (UV) ne stérilisent pas : ils servent uniquement à la désinfection (surfaces, air)."
+    },
+    "difficulte": 1,
+    "tags": [
+      "UV"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/qcm-011",
+    "type": "multiple",
+    "enonce": "Selon le moment de stérilisation :",
+    "options": [
+      "La stérilisation terminale détruit les germes dans le produit déjà conditionné",
+      "La stérilisation terminale est à privilégier chaque fois que le produit la supporte",
+      "La filtration stérilisante est utilisée si la stérilisation terminale est impossible",
+      "La préparation aseptique est utilisée si ni la stérilisation terminale ni la filtration ne sont possibles",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Ordre de choix : stérilisation terminale > filtration stérilisante > préparation aseptique avec composants stériles.",
+    "source": {
+      "page": 5,
+      "extrait": "Si ni la stérilisation terminale ni la filtration ne sont possibles"
+    },
+    "difficulte": 1,
+    "tags": [
+      "classification",
+      "moment"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/qcm-012",
+    "type": "unique",
+    "enonce": "Dans l'ordre de préférence des stratégies de stérilisation, la première à privilégier est :",
+    "options": [
+      "La stérilisation terminale",
+      "La filtration stérilisante",
+      "La préparation aseptique",
+      "La désinfection par UV",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "La stérilisation terminale est à privilégier chaque fois que le produit la supporte.",
+    "source": {
+      "page": 4,
+      "extrait": "Stérilisation terminale … À privilégier chaque fois que le produit la supporte"
+    },
+    "difficulte": 1,
+    "tags": [
+      "moment"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/qcm-013",
+    "type": "multiple",
+    "enonce": "Concernant la stérilisation par la chaleur :",
+    "options": [
+      "C'est la méthode la plus couramment utilisée, dans l'industrie comme à l'hôpital",
+      "Elle est souvent le moyen le plus économique et le plus efficace",
+      "Toutes les formes de vie, y compris les spores, sont thermosensibles",
+      "L'inactivation entraîne nécessairement la destruction physique des germes",
+      "Elle peut être utilisée pour un produit thermolabile"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "L'inactivation n'entraîne pas nécessairement la destruction physique ; la chaleur est inutilisable si le produit est thermolabile.",
+    "source": {
+      "page": 5,
+      "extrait": "Toutes les formes de vie, y compris les spores, sont thermosensibles et peuvent être définitivement inactivées"
+    },
+    "difficulte": 2,
+    "tags": [
+      "chaleur"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/qcm-014",
+    "type": "multiple",
+    "enonce": "Les facteurs influençant la sensibilité des germes à la chaleur sont :",
+    "options": [
+      "L'espèce microbienne et sa forme",
+      "Le nombre initial de germes (N0)",
+      "La durée du traitement",
+      "La température",
+      "La nature du milieu"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Le cours cite cinq facteurs : espèce et forme, N0, durée, température et nature du milieu.",
+    "source": {
+      "page": 5,
+      "extrait": "La sensibilité des micro-organismes à la chaleur dépend de cinq facteurs"
+    },
+    "difficulte": 1,
+    "tags": [
+      "facteurs"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/qcm-015",
+    "type": "multiple",
+    "enonce": "Concernant l'espèce et la forme des micro-organismes :",
+    "options": [
+      "Pour une même espèce, la forme sporulée est plus résistante que la forme végétative",
+      "Le germe de référence pour la chaleur humide est Geobacillus stearothermophilus",
+      "Le germe de référence pour la chaleur sèche est Bacillus subtilis",
+      "La forme végétative est plus résistante que la forme sporulée",
+      "Le germe de référence pour la chaleur humide est Bacillus subtilis"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Forme sporulée > forme végétative en résistance. Référence : G. stearothermophilus (chaleur humide), B. subtilis (chaleur sèche).",
+    "source": {
+      "page": 5,
+      "extrait": "Geobacillus stearothermophilus (ancien Bacillus stearothermophilus) pour la chaleur humide, et Bacillus subtilis pour la chaleur sèche."
+    },
+    "difficulte": 2,
+    "tags": [
+      "germes de référence"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/qcm-016",
+    "type": "multiple",
+    "enonce": "Concernant le nombre initial de germes et la durée du traitement :",
+    "options": [
+      "Le risque de survie est d'autant plus faible que N0 est faible",
+      "Le nombre de germes varie en sens inverse de la durée",
+      "La courbe N = f(t) tend vers zéro sans jamais l'atteindre",
+      "La courbe N = f(t) atteint zéro après un temps fini",
+      "Plus la température est élevée, plus la durée nécessaire est longue"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "La courbe tend vers zéro sans l'atteindre ; plus la température est élevée, MOINS la durée nécessaire est longue.",
+    "source": {
+      "page": 5,
+      "extrait": "la courbe N = f(t) tend vers zéro sans jamais l'atteindre"
+    },
+    "difficulte": 2,
+    "tags": [
+      "facteurs"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/qcm-017",
+    "type": "multiple",
+    "enonce": "Pour réduire N0, on a recours à :",
+    "options": [
+      "Du matériel et de la verrerie très propres",
+      "De l'eau fraîchement distillée",
+      "Des matières premières aussi pures que possible et bien conservées",
+      "Une atmosphère de travail aussi pauvre en germes que possible",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Les quatre mesures sont citées pour réduire la charge microbienne initiale.",
+    "source": {
+      "page": 6,
+      "extrait": "du matériel et de la verrerie très propres ; de l'eau fraîchement distillée"
+    },
+    "difficulte": 1,
+    "tags": [
+      "N0"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/qcm-018",
+    "type": "multiple",
+    "enonce": "Concernant la cinétique de destruction thermique :",
+    "options": [
+      "À température constante, le nombre de survivants diminue selon une loi logarithmique",
+      "log N = log N0 − t / D",
+      "D est le temps de réduction décimale",
+      "La décroissance est linéaire en N (et non en log N)",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "La loi est logarithmique : log N = log N0 − t/D ; c'est log N qui décroît linéairement avec t.",
+    "source": {
+      "page": 6,
+      "extrait": "log N = log N0 − t / D"
+    },
+    "difficulte": 2,
+    "tags": [
+      "cinétique",
+      "D"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/qcm-019",
+    "type": "multiple",
+    "enonce": "Le temps de réduction décimale D :",
+    "options": [
+      "Est le temps nécessaire pour réduire une population d'un facteur 10",
+      "Est le temps nécessaire pour détruire 90 % de la population à T constante",
+      "S'exprime en minutes",
+      "Est le temps nécessaire pour détruire 99 % de la population",
+      "Est l'élévation de température qui divise la durée par 10"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "D est le temps (min) pour réduire la population d'un facteur 10 (90 %) à température constante. L'élévation de température est z.",
+    "source": {
+      "page": 6,
+      "extrait": "D (ou DT) est le temps, en minutes, nécessaire pour réduire une population de micro-organismes d'un facteur 10"
+    },
+    "difficulte": 1,
+    "tags": [
+      "D"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/qcm-020",
+    "type": "unique",
+    "enonce": "Une population de 10 000 spores est chauffée pendant 3D. Le nombre de spores survivantes est :",
+    "options": [
+      "10",
+      "100",
+      "1 000",
+      "1",
+      "3 000"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "À chaque période D, la population est divisée par 10 : 10 000 → 1 000 (D) → 100 (2D) → 10 (3D).",
+    "source": {
+      "page": 6,
+      "extrait": "Durée de chauffage 0 D 2D 3D Nombre de spores survivantes 10 000 1 000 100 10"
+    },
+    "difficulte": 2,
+    "tags": [
+      "D",
+      "calcul"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/qcm-021",
+    "type": "multiple",
+    "enonce": "Concernant D121 des spores de Geobacillus stearothermophilus :",
+    "options": [
+      "Il vaut 1,5 à 2,5 min",
+      "L'indice 121 désigne la température de 121 °C",
+      "À 121 °C, il faut 1 min 30 s à 2 min 30 s pour réduire de 90 % la population",
+      "Il vaut 15 à 25 min",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "D121 = 1,5 à 2,5 min pour G. stearothermophilus.",
+    "source": {
+      "page": 6,
+      "extrait": "D121 = 1,5 à 2,5 min pour les spores de Geobacillus stearothermophilus."
+    },
+    "difficulte": 2,
+    "tags": [
+      "D"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/qcm-022",
+    "type": "multiple",
+    "enonce": "Concernant l'interprétation de D :",
+    "options": [
+      "Plus D est élevé, plus le micro-organisme est résistant à la chaleur",
+      "D n'est pas une valeur universelle",
+      "D dépend de la souche, du milieu et des conditions expérimentales",
+      "Plus D est élevé, plus le micro-organisme est sensible à la chaleur",
+      "D est identique pour toutes les souches à 121 °C"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Un D élevé traduit une résistance élevée ; D dépend de la souche, du milieu et des conditions expérimentales.",
+    "source": {
+      "page": 7,
+      "extrait": "Plus la valeur de D est élevée, plus le micro-organisme est résistant à la chaleur"
+    },
+    "difficulte": 1,
+    "tags": [
+      "D"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/qcm-023",
+    "type": "multiple",
+    "enonce": "Concernant le paramètre z :",
+    "options": [
+      "C'est l'élévation de température qui divise D par 10",
+      "C'est l'élévation de température qui réduit D de 90 %",
+      "Pour Geobacillus stearothermophilus, z = 10 °C",
+      "C'est le temps nécessaire pour détruire 90 % des germes",
+      "Pour G. stearothermophilus, z = 121 °C"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "z est une élévation de température (et non un temps) qui divise D par 10 ; z = 10 °C pour G. stearothermophilus.",
+    "source": {
+      "page": 7,
+      "extrait": "z est l'élévation de température qui divise D par 10 (qui réduit D de 90 %) ; pour Geobacillus stearothermophilus, z = 10 °C."
+    },
+    "difficulte": 2,
+    "tags": [
+      "z"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/qcm-024",
+    "type": "multiple",
+    "enonce": "Pour les spores de Clostridium botulinum (figure du cours) :",
+    "options": [
+      "La durée de destruction est divisée par 10 chaque fois que la température augmente de 10 °C",
+      "Environ 300 min sont nécessaires à 100 °C",
+      "Environ 30 min à 110 °C",
+      "Environ 3 min à 120 °C",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "La figure montre ≈ 300 min à 100 °C, 30 min à 110 °C, 3 min à 120 °C : division par 10 tous les 10 °C.",
+    "source": {
+      "page": 7,
+      "extrait": "environ 300 min à 100 °C, 30 min à 110 °C et 3 min à 120 °C"
+    },
+    "difficulte": 2,
+    "tags": [
+      "z",
+      "Clostridium botulinum"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/qcm-025",
+    "type": "multiple",
+    "enonce": "Concernant la valeur stérilisatrice FT = t × 10^((T − T′)/z) :",
+    "options": [
+      "t est la durée du traitement en minutes",
+      "T′ est la température de référence, 121 °C",
+      "FT s'exprime en minutes",
+      "FT représente la durée équivalente à la température de référence",
+      "FT s'exprime en °C"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "FT s'exprime en minutes : c'est la durée équivalente à 121 °C.",
+    "source": {
+      "page": 7,
+      "extrait": "FT s'exprime en minutes et représente la durée équivalente à la température de référence."
+    },
+    "difficulte": 2,
+    "tags": [
+      "F",
+      "valeur stérilisatrice"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/qcm-026",
+    "type": "unique",
+    "enonce": "La valeur F0 minimale acceptable lors de la validation d'un procédé (germe de référence G. stearothermophilus) est :",
+    "options": [
+      "8 min",
+      "15 min",
+      "18 min",
+      "1,5 min",
+      "20 min"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Une exposition équivalente à 8 minutes à 121 °C (F0 = 8 min) est le minimum acceptable à la validation.",
+    "source": {
+      "page": 7,
+      "extrait": "une exposition équivalente à 8 minutes à 121 °C est considérée comme le minimum acceptable"
+    },
+    "difficulte": 1,
+    "tags": [
+      "F0"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/qcm-027",
+    "type": "multiple",
+    "enonce": "Concernant le barème de stérilisation industriel :",
+    "options": [
+      "C'est un enregistrement de la température en fonction du temps",
+      "Il est tracé pour chaque lot et conservé dans le dossier de lot",
+      "Il comporte une montée en température, un plateau et un refroidissement",
+      "Il permet d'éviter la surexposition des produits et de vérifier le respect des conditions",
+      "Il n'est tracé qu'une fois lors de la qualification de l'appareil"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Le barème est tracé pour CHAQUE lot et conservé dans le dossier de lot.",
+    "source": {
+      "page": 7,
+      "extrait": "un barème de stérilisation (enregistrement de la température en fonction du temps) est tracé pour chaque lot"
+    },
+    "difficulte": 2,
+    "tags": [
+      "barème"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/qcm-028",
+    "type": "unique",
+    "enonce": "Une population de 10⁶ spores (D121 = 1,5 min) doit atteindre un NAS de 10⁻⁶. La durée de traitement à 121 °C est :",
+    "options": [
+      "18 min",
+      "9 min",
+      "12 min",
+      "1,5 min",
+      "36 min"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "De 10⁶ à 10⁻⁶ : 12 réductions décimales ; durée = 12 × 1,5 = 18 min.",
+    "source": {
+      "page": 8,
+      "extrait": "On passe de 106 à 10−6 : il faut 12 réductions décimales. Durée = 12 × 1,5 min = 18 min à 121 °C."
+    },
+    "difficulte": 3,
+    "tags": [
+      "calcul",
+      "D",
+      "NAS"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/qcm-029",
+    "type": "unique",
+    "enonce": "Un traitement de 10 min à 111 °C (z = 10 °C) équivaut, à 121 °C, à :",
+    "options": [
+      "1 min",
+      "10 min",
+      "100 min",
+      "0,1 min",
+      "20 min"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "F = 10 × 10^((111 − 121)/10) = 10 × 10⁻¹ = 1 min : traitement inefficace.",
+    "source": {
+      "page": 8,
+      "extrait": "F = 10 × 10−1 = 10 × 0,1 = 1 min."
+    },
+    "difficulte": 3,
+    "tags": [
+      "calcul",
+      "F"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/qcm-030",
+    "type": "multiple",
+    "enonce": "Un traitement de 2 min à 131 °C (z = 10 °C) :",
+    "options": [
+      "Équivaut à 20 min à 121 °C",
+      "Est 10 fois plus efficace par unité de temps qu'à 121 °C",
+      "Est considéré comme un traitement thermique efficace",
+      "Équivaut à 0,2 min à 121 °C",
+      "Est inefficace car inférieur à F0"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "F = 2 × 10^((131 − 121)/10) = 2 × 10 = 20 min ≥ F0 = 8 min : traitement efficace.",
+    "source": {
+      "page": 8,
+      "extrait": "F = 2 × 101 = 2 × 10 = 20 min."
+    },
+    "difficulte": 3,
+    "tags": [
+      "calcul",
+      "F"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/qcm-031",
+    "type": "multiple",
+    "enonce": "Concernant la chaleur humide :",
+    "options": [
+      "Elle repose sur l'exposition directe à la vapeur d'eau saturée à haute température",
+      "La vapeur provoque dénaturation, hydrolyse et coagulation des protéines",
+      "Elle ne nécessite généralement qu'une surveillance de la durée, de la température et de la pression",
+      "Elle agit par déshydratation puis oxydation",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "La déshydratation puis oxydation est le mécanisme de la chaleur sèche.",
+    "source": {
+      "page": 8,
+      "extrait": "La vapeur provoque la dénaturation, l'hydrolyse et la coagulation des composants cellulaires essentiels, principalement les protéines"
+    },
+    "difficulte": 1,
+    "tags": [
+      "chaleur humide"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/qcm-032",
+    "type": "unique",
+    "enonce": "Pourquoi faut-il travailler sous pression en chaleur humide ?",
+    "options": [
+      "Parce que l'eau bout à 100 °C à la pression atmosphérique, température trop basse pour stériliser rapidement",
+      "Pour éliminer les pyrogènes",
+      "Pour déshydrater les micro-organismes",
+      "Pour éviter la condensation",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "L'eau bout à 100 °C à pression atmosphérique ; la pression permet d'atteindre des températures plus élevées et des temps plus courts.",
+    "source": {
+      "page": 9,
+      "extrait": "l'eau bout à 100 °C à la pression atmosphérique, température trop basse pour stériliser rapidement."
+    },
+    "difficulte": 1,
+    "tags": [
+      "autoclave"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/qcm-033",
+    "type": "multiple",
+    "enonce": "Les barèmes de référence en chaleur humide sont :",
+    "options": [
+      "121 °C pendant 15 à 20 min (barème standard)",
+      "134 °C pendant 18 min pour le matériel exposé à un risque d'ATNC",
+      "160 °C pendant 2 à 3 h",
+      "121 °C pendant 18 min pour les prions",
+      "170 °C pendant 1,5 à 2 h"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Chaleur humide : 121 °C 15–20 min ; ATNC : 134 °C 18 min. 160 et 170 °C sont des barèmes de chaleur sèche.",
+    "source": {
+      "page": 9,
+      "extrait": "Médicaments et matériel (barème standard) 121 °C 15 à 20 min ; Matériel exposé à un risque d'ATNC (prions) 134 °C 18 min"
+    },
+    "difficulte": 1,
+    "tags": [
+      "barèmes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/qcm-034",
+    "type": "unique",
+    "enonce": "Le barème de chaleur humide pour un matériel exposé à un risque d'ATNC (prions) est :",
+    "options": [
+      "134 °C pendant 18 min",
+      "121 °C pendant 15 min",
+      "160 °C pendant 2 h",
+      "250 °C pendant 30 min",
+      "121 °C pendant 18 min"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Pour le risque ATNC : 134 °C, 18 min (action prionicide).",
+    "source": {
+      "page": 9,
+      "extrait": "Matériel exposé à un risque d'ATNC (prions) 134 °C 18 min"
+    },
+    "difficulte": 1,
+    "tags": [
+      "ATNC"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/qcm-035",
+    "type": "multiple",
+    "enonce": "Un autoclave classique comprend :",
+    "options": [
+      "Une soupape de sûreté",
+      "Un robinet d'évacuation d'air ou de vapeur (purge)",
+      "Un manomètre",
+      "Un panier métallique perforé",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "L'autoclave (récipient sous pression en acier inoxydable) comprend ces quatre éléments.",
+    "source": {
+      "page": 9,
+      "extrait": "une soupape de sûreté (pour éviter des surpressions dangereuses), un robinet d'évacuation d'air ou de vapeur (purge), un manomètre"
+    },
+    "difficulte": 1,
+    "tags": [
+      "autoclave"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/qcm-036",
+    "type": "multiple",
+    "enonce": "Concernant le fonctionnement d'un autoclave classique :",
+    "options": [
+      "On chauffe robinet d'évacuation ouvert pour purger l'air, mauvais conducteur de chaleur",
+      "À la fin du sifflement, signe d'absence d'air, on ferme le robinet",
+      "La température et la pression augmentent parallèlement",
+      "On laisse refroidir jusqu'à ce que le manomètre indique « 0 » avant d'ouvrir",
+      "On ouvre l'autoclave dès l'arrêt du chauffage"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Il faut attendre que le manomètre indique 0 (100 °C), sinon risque d'ébullition et d'éclatement des récipients en verre.",
+    "source": {
+      "page": 9,
+      "extrait": "Laisser refroidir jusqu'à ce que le manomètre indique « 0 » (soit 100 °C) ; sinon, risque d'ébullition et d'éclatement"
+    },
+    "difficulte": 2,
+    "tags": [
+      "autoclave",
+      "fonctionnement"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/qcm-037",
+    "type": "unique",
+    "enonce": "Dans un autoclave, on purge l'air car :",
+    "options": [
+      "L'air est un mauvais conducteur de chaleur et forme des poches où la chaleur humide pénètre plus lentement",
+      "L'air est toxique pour les produits",
+      "L'air augmente trop la température",
+      "L'air détruit les indicateurs biologiques",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "L'air, mauvais conducteur, forme des poches où la chaleur humide pénètre plus lentement : la stérilisation peut être inadéquate.",
+    "source": {
+      "page": 10,
+      "extrait": "il se forme des poches d'air dans lesquelles la chaleur humide pénètre plus lentement : la stérilisation peut alors être inadéquate."
+    },
+    "difficulte": 1,
+    "tags": [
+      "purge de l'air"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/qcm-038",
+    "type": "multiple",
+    "enonce": "Concernant les autoclaves industriels :",
+    "options": [
+      "Ils sont constitués d'une chambre pressurisable munie d'une porte amovible",
+      "La purge de l'air se fait le plus souvent par des cycles de vide répétés",
+      "L'eau de condensation est évacuée au fond de la chambre par un purgeur de vapeur",
+      "Ils sont souvent en version traversante à double porte, respectant le flux unidirectionnel",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes ces caractéristiques sont citées pour les autoclaves industriels.",
+    "source": {
+      "page": 10,
+      "extrait": "la plupart des autoclaves utilisent des cycles de vide répétés pour éliminer l'air initialement présent"
+    },
+    "difficulte": 2,
+    "tags": [
+      "autoclave industriel"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/qcm-039",
+    "type": "multiple",
+    "enonce": "Autres caractéristiques des autoclaves industriels :",
+    "options": [
+      "Ils intègrent des automates qui enregistrent en continu température, pression et temps",
+      "Cet enregistrement assure traçabilité et répétabilité de chaque lot",
+      "Un séchage sous vide en fin de cycle évite une recontamination au déchargement",
+      "Ils ne disposent d'aucun système de programmation",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Les autoclaves industriels sont programmés (succession automatique des opérations), enregistrent les paramètres et sèchent sous vide en fin de cycle.",
+    "source": {
+      "page": 10,
+      "extrait": "en fin de cycle, un séchage sous vide élimine toute trace d'humidité"
+    },
+    "difficulte": 2,
+    "tags": [
+      "autoclave industriel"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/qcm-040",
+    "type": "multiple",
+    "enonce": "Le contrôle du cycle de stérilisation à l'autoclave :",
+    "options": [
+      "Se fait grâce à des capteurs et témoins placés notamment dans la zone froide",
+      "La zone froide est le point le plus difficile à chauffer",
+      "Fait appel aux capteurs physiques, aux indicateurs biologiques et aux indicateurs chimiques",
+      "Ne fait appel qu'aux indicateurs chimiques",
+      "Se fait uniquement à la sortie de l'autoclave"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Trois moyens complémentaires : capteurs physiques, IB et IC, placés notamment dans la zone froide.",
+    "source": {
+      "page": 10,
+      "extrait": "notamment dans la zone froide (le point le plus difficile à chauffer). Trois moyens complémentaires sont utilisés."
+    },
+    "difficulte": 1,
+    "tags": [
+      "contrôle"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/qcm-041",
+    "type": "multiple",
+    "enonce": "Concernant les indicateurs biologiques (IB) :",
+    "options": [
+      "Ce sont des flacons scellés contenant une souche pure de résistance connue",
+      "L'espèce choisie doit être la plus résistante au procédé",
+      "Pour la vapeur, on utilise des spores de G. stearothermophilus",
+      "Ils servent à tester périodiquement l'efficacité du processus",
+      "L'espèce choisie doit être la plus sensible au procédé"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Pour que le test soit rigoureux, l'espèce doit être la PLUS RÉSISTANTE au procédé.",
+    "source": {
+      "page": 11,
+      "extrait": "l'espèce choisie doit être la plus résistante à ce procédé (spores de G. stearothermophilus pour la vapeur)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "indicateurs biologiques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/qcm-042",
+    "type": "multiple",
+    "enonce": "Concernant l'indicateur biologique pour stérilisation à la vapeur (type 3M™ Attest™) :",
+    "options": [
+      "Il contient des spores normalisées de G. stearothermophilus et une ampoule de milieu nutritif avec un indicateur coloré de pH",
+      "L'indicateur de pH est généralement le violet de bromocrésol",
+      "Après le cycle, l'ampoule est brisée puis le tube est incubé à environ 56 °C",
+      "Une couleur mauve/violette indique une stérilisation réussie",
+      "Une couleur jaune indique une stérilisation réussie"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Jaune = échec : les spores survivantes produisent des acides qui abaissent le pH. Mauve = spores détruites, succès.",
+    "source": {
+      "page": 11,
+      "extrait": "couleur mauve/violette : spores détruites, la stérilisation est réussie ; couleur jaune : des spores ont survécu"
+    },
+    "difficulte": 2,
+    "tags": [
+      "indicateurs biologiques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/qcm-043",
+    "type": "unique",
+    "enonce": "Après incubation, un indicateur biologique vapeur vire au jaune. Cela signifie :",
+    "options": [
+      "Des spores ont survécu, la stérilisation a échoué",
+      "Les spores ont été détruites, la stérilisation a réussi",
+      "L'indicateur n'a pas été exposé à la vapeur mais la charge est stérile",
+      "Le pH a augmenté",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Le jaune traduit la production d'acides par des spores survivantes (baisse du pH) : échec de la stérilisation.",
+    "source": {
+      "page": 11,
+      "extrait": "couleur jaune : des spores ont survécu et, en se multipliant, ont produit des acides qui abaissent le pH"
+    },
+    "difficulte": 2,
+    "tags": [
+      "indicateurs biologiques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/qcm-044",
+    "type": "multiple",
+    "enonce": "Concernant les indicateurs chimiques (IC) :",
+    "options": [
+      "Ils reposent sur un changement de couleur ou des modifications physiques",
+      "Ils indiquent l'exposition à une température pendant une durée prédéterminée",
+      "Ils apportent une preuve visuelle immédiate que le paramètre critique a été atteint au cœur de la charge",
+      "Ils contiennent des spores de micro-organismes",
+      "Ils nécessitent une incubation à 56 °C"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Les IC ne contiennent pas de spores et ne nécessitent pas d'incubation (ce sont les IB).",
+    "source": {
+      "page": 11,
+      "extrait": "Ils apportent une preuve visuelle immédiate que le paramètre critique a été atteint au cœur de la charge."
+    },
+    "difficulte": 2,
+    "tags": [
+      "indicateurs chimiques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/qcm-045",
+    "type": "multiple",
+    "enonce": "Concernant les capteurs physiques du contrôle d'autoclave :",
+    "options": [
+      "Ce sont des capteurs thermoélectriques",
+      "Ils enregistrent en continu la température et la pression",
+      "Ils fonctionnent tout au long du cycle",
+      "Ils contiennent une souche pure de micro-organismes",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Les capteurs thermoélectriques enregistrent en continu T et P ; les souches pures sont dans les IB.",
+    "source": {
+      "page": 11,
+      "extrait": "Des capteurs thermoélectriques enregistrent en continu la température et la pression tout au long du cycle."
+    },
+    "difficulte": 1,
+    "tags": [
+      "capteurs"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/qcm-046",
+    "type": "multiple",
+    "enonce": "Applications et limites de la chaleur humide :",
+    "options": [
+      "C'est la méthode de choix pour les solutions aqueuses lorsqu'elle est réalisable",
+      "Elle est efficace contre tous les germes y compris les ATNC avec le barème approprié",
+      "C'est un procédé rapide, maîtrisable, peu coûteux et non toxique",
+      "Elle est inefficace contre les pyrogènes",
+      "Elle détruit les endotoxines bactériennes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "La limite majeure de la chaleur humide est son inefficacité contre les pyrogènes (endotoxines non éliminées).",
+    "source": {
+      "page": 12,
+      "extrait": "La chaleur humide est inefficace contre les pyrogènes : les endotoxines bactériennes ne sont pas éliminées par ce traitement"
+    },
+    "difficulte": 2,
+    "tags": [
+      "chaleur humide",
+      "limites"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/qcm-047",
+    "type": "multiple",
+    "enonce": "Concernant la chaleur sèche :",
+    "options": [
+      "Elle repose sur l'obtention de températures élevées dans une enceinte fermée, le plus souvent à pression atmosphérique",
+      "Elle est la méthode de choix pour les articles qui tolèrent les hautes températures mais sont incompatibles avec la vapeur",
+      "Elle provoque la mort microbienne par déshydratation puis oxydation",
+      "Elle nécessite des températures plus élevées et des durées plus longues qu'à l'autoclave",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes les propositions décrivent correctement la chaleur sèche.",
+    "source": {
+      "page": 12,
+      "extrait": "la chaleur sèche provoque la mort microbienne par déshydratation, suivie d'une oxydation destructrice des constituants cellulaires."
+    },
+    "difficulte": 1,
+    "tags": [
+      "chaleur sèche"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/qcm-048",
+    "type": "multiple",
+    "enonce": "Les barèmes de chaleur sèche sont :",
+    "options": [
+      "160 °C pendant 120 à 180 min",
+      "170 °C pendant 90 à 120 min",
+      "121 °C pendant 15 à 20 min",
+      "134 °C pendant 18 min",
+      "180 °C pendant 10 min"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Chaleur sèche : 160 °C 120–180 min ou 170 °C 90–120 min.",
+    "source": {
+      "page": 12,
+      "extrait": "160 °C 120 à 180 min 170 °C 90 à 120 min"
+    },
+    "difficulte": 1,
+    "tags": [
+      "chaleur sèche",
+      "barèmes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/qcm-049",
+    "type": "multiple",
+    "enonce": "Concernant l'étuve (four) à air chaud :",
+    "options": [
+      "C'est une enceinte chauffée électriquement",
+      "Un ventilateur assure la circulation d'un air chaud stérile filtré par des filtres HEPA",
+      "L'enceinte est maintenue en surpression",
+      "C'est un système discontinu, simple et peu coûteux",
+      "C'est un système continu sur tapis roulant"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Le fonctionnement continu sur tapis roulant caractérise le four tunnel.",
+    "source": {
+      "page": 12,
+      "extrait": "Son avantage est d'être simple et peu coûteuse … C'est un système discontinu."
+    },
+    "difficulte": 2,
+    "tags": [
+      "étuve"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/qcm-050",
+    "type": "multiple",
+    "enonce": "Concernant le four tunnel (four à deux portes) :",
+    "options": [
+      "Il est parcouru par un flux d'air laminaire stérile",
+      "Le matériel circule sur un tapis roulant à travers différentes zones chauffantes",
+      "Il permet de procéder en continu",
+      "Il évite les risques de confusion entre matériel stérilisé et non stérilisé",
+      "C'est un système discontinu"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Le four tunnel fonctionne en continu (ligne de conditionnement) ; c'est l'étuve qui est discontinue.",
+    "source": {
+      "page": 12,
+      "extrait": "il permet de procéder en continu (ligne de conditionnement industrielle) et d'éviter les risques de confusion"
+    },
+    "difficulte": 2,
+    "tags": [
+      "four tunnel"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/qcm-051",
+    "type": "multiple",
+    "enonce": "La chaleur sèche s'applique aux produits stables à la chaleur et ne contenant pas d'eau, tels que :",
+    "options": [
+      "Les objets métalliques",
+      "Les récipients en verre (fabrication aseptique)",
+      "Les poudres thermostables non volatiles (oxyde de zinc, talc)",
+      "Les solvants et médicaments huileux",
+      "Les solutions aqueuses"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "La chaleur sèche ne convient pas aux solutions aqueuses ni aux plastiques thermolabiles.",
+    "source": {
+      "page": 13,
+      "extrait": "poudres thermostables non volatiles (oxyde de zinc, talc) ; solvants et médicaments huileux (huiles de maïs, de coton, de sésame"
+    },
+    "difficulte": 1,
+    "tags": [
+      "chaleur sèche",
+      "indications"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/qcm-052",
+    "type": "multiple",
+    "enonce": "Limites de la chaleur sèche :",
+    "options": [
+      "Elle ne convient pas aux solutions aqueuses",
+      "Elle ne convient pas aux plastiques thermolabiles",
+      "Les fours ne sont plus utilisés à l'hôpital et en clinique en raison de leur faible efficacité sur les ATNC",
+      "Elle ne peut pas dépyrogéner la verrerie",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "La chaleur sèche permet au contraire la dépyrogénation de la verrerie à haute température.",
+    "source": {
+      "page": 13,
+      "extrait": "Ces fours ne sont plus utilisés en milieu hospitalier et dans les cliniques … en raison de leur faible efficacité sur les ATNC."
+    },
+    "difficulte": 2,
+    "tags": [
+      "chaleur sèche",
+      "limites"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/qcm-053",
+    "type": "unique",
+    "enonce": "Pour stériliser une huile de sésame injectable, la méthode thermique adaptée est :",
+    "options": [
+      "La chaleur sèche",
+      "La chaleur humide à 121 °C",
+      "Les UV",
+      "La chaleur humide à 134 °C",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Les solvants et médicaments huileux, que la vapeur ne peut pas pénétrer, relèvent de la chaleur sèche.",
+    "source": {
+      "page": 13,
+      "extrait": "solvants et médicaments huileux (huiles de maïs, de coton, de sésame, désoxycorticostérone), que la vapeur d'eau ne peut pas pénétrer."
+    },
+    "difficulte": 1,
+    "tags": [
+      "chaleur sèche"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/qcm-054",
+    "type": "multiple",
+    "enonce": "Concernant les pyrogènes et endotoxines :",
+    "options": [
+      "Les pyrogènes peuvent provoquer une élévation de la température corporelle (fièvre)",
+      "Les endotoxines sont principalement constituées de lipopolysaccharides (LPS)",
+      "Les LPS proviennent de la membrane externe des bactéries à Gram négatif",
+      "Les endotoxines ont une résistance thermique élevée",
+      "Les endotoxines sont éliminées par l'autoclavage à 121 °C"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Les endotoxines ne sont pas éliminées par les procédés conventionnels de stérilisation (dont la chaleur humide).",
+    "source": {
+      "page": 13,
+      "extrait": "les endotoxines bactériennes, constituées principalement de lipopolysaccharides (LPS) de la membrane externe des bactéries à Gram négatif"
+    },
+    "difficulte": 2,
+    "tags": [
+      "pyrogènes",
+      "endotoxines"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/qcm-055",
+    "type": "multiple",
+    "enonce": "Concernant la dépyrogénation :",
+    "options": [
+      "Elle traite flacons, ampoules et récipients en verre dans une étuve à chaleur sèche à haute température",
+      "Elle est réalisée à des températures supérieures à 220 °C",
+      "Une valeur indicative est 250 °C pendant 30 minutes",
+      "Elle doit démontrer une réduction d'au moins 3 log₁₀ (99,9 %) de la charge endotoxinique",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes les propositions sont conformes au paragraphe sur la dépyrogénation.",
+    "source": {
+      "page": 13,
+      "extrait": "Le procédé doit démontrer une réduction d'au moins 3 log₁₀ (99,9 %) de la charge endotoxinique initiale."
+    },
+    "difficulte": 2,
+    "tags": [
+      "dépyrogénation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/qcm-056",
+    "type": "multiple",
+    "enonce": "Les couples température/durée de dépyrogénation cités sont :",
+    "options": [
+      "230 °C pendant 60 à 90 min",
+      "250 °C pendant 30 à 60 min",
+      "160 °C pendant 120 min",
+      "121 °C pendant 20 min",
+      "134 °C pendant 18 min"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Dépyrogénation : 230 °C 60–90 min ; 250 °C 30–60 min.",
+    "source": {
+      "page": 13,
+      "extrait": "230 °C 60 à 90 min 250 °C 30 à 60 min"
+    },
+    "difficulte": 2,
+    "tags": [
+      "dépyrogénation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/qcm-057",
+    "type": "unique",
+    "enonce": "L'efficacité de la dépyrogénation est contrôlée par :",
+    "options": [
+      "Des indicateurs endotoxiniques et le dosage des endotoxines résiduelles (test BET)",
+      "Des spores de G. stearothermophilus",
+      "Le violet de bromocrésol",
+      "Le test du point de bulle",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Le contrôle se fait par des indicateurs endotoxiniques et le dosage des endotoxines résiduelles (test BET).",
+    "source": {
+      "page": 13,
+      "extrait": "Son efficacité est contrôlée à l'aide d'indicateurs endotoxiniques et par le dosage des endotoxines résiduelles (test BET)."
+    },
+    "difficulte": 2,
+    "tags": [
+      "dépyrogénation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/qcm-058",
+    "type": "multiple",
+    "enonce": "Comparaison chaleur humide / chaleur sèche :",
+    "options": [
+      "Chaleur humide : vapeur saturée sous pression ; chaleur sèche : air chaud",
+      "Indicateur biologique : G. stearothermophilus (humide) ; B. subtilis (sèche)",
+      "Pyrogènes : non détruits par la chaleur humide ; détruits à haute température par la chaleur sèche",
+      "Matériel : autoclave (humide) ; étuve et four tunnel (sèche)",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes les associations figurent dans le tableau comparatif du cours.",
+    "source": {
+      "page": 15,
+      "extrait": "Indicateur biologique G. stearothermophilus B. subtilis … Pyrogènes Non détruits Détruits à haute température"
+    },
+    "difficulte": 2,
+    "tags": [
+      "comparaison"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/qcm-059",
+    "type": "unique",
+    "enonce": "Pour de la verrerie destinée à une fabrication aseptique et devant être apyrogène, on choisit :",
+    "options": [
+      "La chaleur sèche à haute température (dépyrogénation)",
+      "La chaleur humide à 121 °C",
+      "La désinfection UV",
+      "La filtration stérilisante",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Contrairement à l'autoclave, la chaleur sèche à haute température permet la dépyrogénation de la verrerie.",
+    "source": {
+      "page": 14,
+      "extrait": "la chaleur sèche permet donc la dépyrogénation de la verrerie (flacons en verre) à haute température"
+    },
+    "difficulte": 2,
+    "tags": [
+      "dépyrogénation",
+      "choix"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/qcm-060",
+    "type": "unique",
+    "enonce": "Pour une solution aqueuse thermostable conditionnée en flacon, la méthode de choix est :",
+    "options": [
+      "La chaleur humide (autoclave) en stérilisation terminale",
+      "La chaleur sèche à 160 °C",
+      "La préparation aseptique d'emblée",
+      "Les UV",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "La chaleur humide est la méthode de choix pour les solutions aqueuses, et la stérilisation terminale est à privilégier.",
+    "source": {
+      "page": 12,
+      "extrait": "Méthode de choix pour les solutions aqueuses, lorsqu'elle est réalisable"
+    },
+    "difficulte": 1,
+    "tags": [
+      "choix"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/qcm-061",
+    "type": "multiple",
+    "enonce": "Selon la classification par mécanisme, les gaz stérilisants cités sont :",
+    "options": [
+      "L'oxyde d'éthylène",
+      "Le formaldéhyde",
+      "L'acide peracétique",
+      "Le plasma",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le tableau cite oxyde d'éthylène, formaldéhyde, acide peracétique et plasma dans la famille des gaz.",
+    "source": {
+      "page": 4,
+      "extrait": "Gaz Oxyde d'éthylène, formaldéhyde, acide peracétique, plasma"
+    },
+    "difficulte": 1,
+    "tags": [
+      "classification"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/qcm-062",
+    "type": "multiple",
+    "enonce": "Concernant la limite de la stérilisation thermique :",
+    "options": [
+      "Elle ne peut pas être utilisée si le produit se dégrade à une température inférieure à celle nécessaire pour atteindre l'état stérile",
+      "Un tel produit est dit thermolabile",
+      "Une autre méthode doit alors être employée",
+      "On peut compenser par une simple réduction de N0 sans changer de méthode",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Pour un produit thermolabile, la stérilisation thermique est impossible : une autre méthode doit être choisie.",
+    "source": {
+      "page": 5,
+      "extrait": "la stérilisation thermique ne peut pas être utilisée : une autre méthode doit être employée."
+    },
+    "difficulte": 1,
+    "tags": [
+      "thermolabile"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/qcm-063",
+    "type": "multiple",
+    "enonce": "Concernant la droite log N = f(t) :",
+    "options": [
+      "La distance horizontale entre deux niveaux décimaux successifs correspond à D",
+      "Le passage de 10⁴ à 10³ micro-organismes prend un temps égal à D",
+      "La pente de la droite vaut −1/D",
+      "La distance verticale entre deux niveaux correspond à z",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Sur la droite log N = log N0 − t/D, la pente est −1/D et la distance horizontale entre deux décades vaut D. z se lit sur une courbe en fonction de la température.",
+    "source": {
+      "page": 6,
+      "extrait": "la distance horizontale entre deux niveaux décimaux successifs correspond à D."
+    },
+    "difficulte": 3,
+    "tags": [
+      "D",
+      "cinétique"
+    ],
+    "origine": "genere"
+  }
+]

@@ -1,0 +1,125 @@
+[
+  {
+    "id": "chimie-therapeutique/04-antidepresseurs-partie-1/cas-001",
+    "titre": "Choix d'un antidépresseur selon le profil clinique",
+    "enonce": "Deux patients déprimés sont pris en charge : M. A. présente une inhibition psychomotrice majeure avec ralentissement, tandis que Mme B. présente une dépression très anxieuse avec insomnie.",
+    "questions": [
+      {
+        "id": "chimie-therapeutique/04-antidepresseurs-partie-1/cas-001-q1",
+        "type": "multiple",
+        "enonce": "Pour M. A., quels antidépresseurs du pôle psychotonique le cours cite-t-il ?",
+        "options": [
+          "Les IMAO",
+          "La désipramine (Pertofran®)",
+          "L'amitriptyline (Laroxyl®)",
+          "La miansérine (Athymil®)",
+          "La maprotiline (Ludiomil®)"
+        ],
+        "correctes": [
+          0,
+          1
+        ],
+        "explication": "Le pôle psychotonique regroupe les IMAO et la désipramine.",
+        "origine": "genere"
+      },
+      {
+        "id": "chimie-therapeutique/04-antidepresseurs-partie-1/cas-001-q2",
+        "type": "multiple",
+        "enonce": "Pour Mme B., quels antidépresseurs du pôle sédatif le cours cite-t-il ?",
+        "options": [
+          "Amitriptyline (Laroxyl®)",
+          "Trimipramine (Surmontil®)",
+          "Miansérine (Athymil®)",
+          "Maprotiline (Ludiomil®)",
+          "Désipramine (Pertofran®)"
+        ],
+        "correctes": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explication": "Pôle sédatif : maprotiline, amitriptyline, trimipramine, miansérine.",
+        "origine": "genere"
+      },
+      {
+        "id": "chimie-therapeutique/04-antidepresseurs-partie-1/cas-001-q3",
+        "type": "multiple",
+        "enonce": "Quels antidépresseurs occupent une position intermédiaire ?",
+        "options": [
+          "Imipramine (Tofranil®)",
+          "Clomipramine (Anafranil®)",
+          "Dosulépine (Prothiaden®)",
+          "IRS et IRSNA",
+          "IMAO"
+        ],
+        "correctes": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explication": "Position intermédiaire : imipramine, clomipramine, dosulépine, IRS et IRSNA.",
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "chimie-therapeutique/04-antidepresseurs-partie-1/cas-002",
+    "titre": "Identification d'un tricyclique",
+    "enonce": "Un étudiant observe la formule d'un antidépresseur tricyclique : le cycle central à sept chaînons porte un azote substitué par une chaîne –CH2CH2CH2–N(CH3)2 et le noyau porte un atome de chlore.",
+    "questions": [
+      {
+        "id": "chimie-therapeutique/04-antidepresseurs-partie-1/cas-002-q1",
+        "type": "multiple",
+        "enonce": "De quelle molécule s'agit-il ?",
+        "options": [
+          "Imipramine",
+          "Désipramine",
+          "Clomipramine",
+          "Amitriptyline",
+          "Nortriptyline"
+        ],
+        "correctes": [
+          2
+        ],
+        "explication": "Chaîne à amine tertiaire + chlore sur le noyau dibenzazépine : clomipramine (Anafranil®).",
+        "origine": "genere"
+      },
+      {
+        "id": "chimie-therapeutique/04-antidepresseurs-partie-1/cas-002-q2",
+        "type": "multiple",
+        "enonce": "À quelle série et à quel noyau appartient-elle ?",
+        "options": [
+          "Série de l'imipramine, dibenzazépine",
+          "Série de l'amitriptyline, dibenzocycloheptadiène",
+          "Dibenzothiépine",
+          "Dibenzoxazépine",
+          "Tétracyclique"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Les « -pramines » dérivent de la dibenzazépine : série de l'imipramine.",
+        "origine": "genere"
+      },
+      {
+        "id": "chimie-therapeutique/04-antidepresseurs-partie-1/cas-002-q3",
+        "type": "multiple",
+        "enonce": "Quelle serait la molécule si l'azote du cycle central était remplacé par un carbone portant une double liaison exocyclique, avec la même chaîne à amine tertiaire ?",
+        "options": [
+          "Amitriptyline",
+          "Nortriptyline",
+          "Imipramine",
+          "Désipramine",
+          "Maprotiline"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "La série de l'amitriptyline est caractérisée par la double liaison C=C exocyclique ; avec une amine tertiaire, il s'agit de l'amitriptyline.",
+        "origine": "genere"
+      }
+    ]
+  }
+]

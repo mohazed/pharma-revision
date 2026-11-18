@@ -1,0 +1,182 @@
+[
+  {
+    "id": "semiologie/01-semiologie-generale/flashcard-001",
+    "recto": "Sémiologie médicale",
+    "verso": "Étude des signes (manifestations cliniques) qui traduisent une lésion ou un trouble d'une fonction.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/01-semiologie-generale/flashcard-002",
+    "recto": "Signe (étymologie et définition)",
+    "verso": "Manifestation de la maladie qui aide au diagnostic ; du latin signum (indice, marque). Ex. : fièvre, œdème, souffle cardiaque.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/01-semiologie-generale/flashcard-003",
+    "recto": "Symptôme",
+    "verso": "Manifestation ressentie et rapportée par le patient (subjective). Ex. : douleur, fatigue, essoufflement.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/01-semiologie-generale/flashcard-004",
+    "recto": "Prodrome",
+    "verso": "Signe avant-coureur d'une maladie. Ex. : fatigue et courbatures avant une grippe.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/01-semiologie-generale/flashcard-005",
+    "recto": "Syndrome",
+    "verso": "Groupe de signes qui surviennent ensemble et peuvent avoir plusieurs causes (grec sundromê : concours).",
+    "tags": []
+  },
+  {
+    "id": "semiologie/01-semiologie-generale/flashcard-006",
+    "recto": "Clinique",
+    "verso": "Ce que le médecin constate au lit du malade avec ses sens, sans appareil ni laboratoire (grec klinikos : du lit).",
+    "tags": []
+  },
+  {
+    "id": "semiologie/01-semiologie-generale/flashcard-007",
+    "recto": "Les 4 objectifs de la sémiologie",
+    "verso": "Identifier les signes, les interpréter, poser un diagnostic, suivre l'évolution.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/01-semiologie-generale/flashcard-008",
+    "recto": "Les 3 familles de signes",
+    "verso": "Signes fonctionnels (subjectifs, exprimés par le patient), signes physiques (objectifs, constatés par le médecin), signes généraux (retentissement sur l'organisme).",
+    "tags": []
+  },
+  {
+    "id": "semiologie/01-semiologie-generale/flashcard-009",
+    "recto": "Double but de l'interrogatoire (anamnèse)",
+    "verso": "Établir une relation de confiance et de soutien ; recueillir les renseignements utiles au diagnostic.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/01-semiologie-generale/flashcard-010",
+    "recto": "Rubriques de l'interrogatoire",
+    "verso": "Histoire de la maladie, antécédents personnels, antécédents familiaux, médicaments et habitudes.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/01-semiologie-generale/flashcard-011",
+    "recto": "Pourquoi la rubrique médicaments concerne-t-elle le pharmacien ?",
+    "verso": "Beaucoup de symptômes sont des effets indésirables (toux sous IEC, saignement sous AINS ou anticoagulant).",
+    "tags": []
+  },
+  {
+    "id": "semiologie/01-semiologie-generale/flashcard-012",
+    "recto": "Asthénie / anorexie",
+    "verso": "Asthénie : fatigue inhabituelle. Anorexie : perte d'appétit (totale, partielle ou sélective).",
+    "tags": []
+  },
+  {
+    "id": "semiologie/01-semiologie-generale/flashcard-013",
+    "recto": "Définition de la fièvre (cours)",
+    "verso": "Température > 38 °C, mesurée et notée sur une courbe de température.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/01-semiologie-generale/flashcard-014",
+    "recto": "AEG",
+    "verso": "Altération de l'état général = asthénie + anorexie + amaigrissement ; toujours orienter vers un médecin.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/01-semiologie-generale/flashcard-015",
+    "recto": "Altération fébrile de l'état général",
+    "verso": "AEG + fièvre.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/01-semiologie-generale/flashcard-016",
+    "recto": "Maladies graves révélées par une AEG",
+    "verso": "Infection chronique (tuberculose), cancer, diabète déséquilibré.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/01-semiologie-generale/flashcard-017",
+    "recto": "Caractéristiques à préciser pour un symptôme",
+    "verso": "Siège, début, type et intensité (0 à 10), irradiation, facteurs modifiants, retentissement.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/01-semiologie-generale/flashcard-018",
+    "recto": "Les 4 temps de l'examen physique",
+    "verso": "Inspection (vue), palpation (toucher), percussion (toucher + ouïe), auscultation (ouïe, stéthoscope).",
+    "tags": []
+  },
+  {
+    "id": "semiologie/01-semiologie-generale/flashcard-019",
+    "recto": "Matité",
+    "verso": "Son sourd (comme sur une cuisse) : présence de liquide ou d'un organe plein (ex. : épanchement pleural).",
+    "tags": []
+  },
+  {
+    "id": "semiologie/01-semiologie-generale/flashcard-020",
+    "recto": "Tympanisme",
+    "verso": "Son creux (comme sur un tambour) : présence d'air (ex. : ventre ballonné, pneumothorax).",
+    "tags": []
+  },
+  {
+    "id": "semiologie/01-semiologie-generale/flashcard-021",
+    "recto": "Apports de la palpation",
+    "verso": "Trophicité de la peau et des muscles, gros foie/grosse rate/adénopathies, masse, douleur provoquée, pouls.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/01-semiologie-generale/flashcard-022",
+    "recto": "Place des examens complémentaires",
+    "verso": "Après la clinique, pour confirmer ou préciser une hypothèse ; sans hypothèse clinique ils sont souvent inutiles.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/01-semiologie-generale/flashcard-023",
+    "recto": "Signes d'urgence respiratoires",
+    "verso": "Essoufflement intense ou au repos, cyanose des lèvres, impossibilité de parler.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/01-semiologie-generale/flashcard-024",
+    "recto": "Signes d'urgence circulatoires",
+    "verso": "Malaise, perte de connaissance, pâleur, sueurs, extrémités froides, pouls très rapide.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/01-semiologie-generale/flashcard-025",
+    "recto": "Signes d'urgence cérébraux",
+    "verso": "Confusion, somnolence, déformation du visage, faiblesse/paralysie d'un membre, trouble de la parole.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/01-semiologie-generale/flashcard-026",
+    "recto": "Saignements imposant l'appel des secours",
+    "verso": "Hématémèse, selles noires et collantes, sang rouge abondant par l'anus, crachats de sang abondants.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/01-semiologie-generale/flashcard-027",
+    "recto": "Toux > 2 à 3 semaines",
+    "verso": "Impose une consultation : penser à la tuberculose.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/01-semiologie-generale/flashcard-028",
+    "recto": "Fièvre imposant une consultation",
+    "verso": "Fièvre > 3 jours, ou fièvre chez nourrisson, sujet âgé ou patient fragile (chimiothérapie, immunodépression).",
+    "tags": []
+  },
+  {
+    "id": "semiologie/01-semiologie-generale/flashcard-029",
+    "recto": "Règle d'or du pharmacien",
+    "verso": "En cas de doute, toujours orienter vers un médecin ; il repère, oriente et explique, il ne pose pas le diagnostic.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/01-semiologie-generale/flashcard-030",
+    "recto": "Dysphagie / paresthésies / prurit",
+    "verso": "Difficulté à avaler / fourmillements / démangeaisons.",
+    "tags": []
+  }
+]

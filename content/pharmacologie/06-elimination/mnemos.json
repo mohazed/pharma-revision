@@ -1,0 +1,32 @@
+[
+  {
+    "id": "pharmacologie/06-elimination/mnemo-01",
+    "titre": "Les 3 étapes rénales : « FSR »",
+    "moyen": "« Fais Sortir, Rattrape » : Filtration, Sécrétion, Réabsorption.",
+    "explication": "F = Filtration glomérulaire (passive, fraction libre) ; S = Sécrétion tubulaire (active, TCP, ionisée) ; R = Réabsorption tubulaire (active au TCP, passive au TCD/TC)."
+  },
+  {
+    "id": "pharmacologie/06-elimination/mnemo-02",
+    "titre": "Zones d'influence du pH : « Acides 2,5–7,5 ; Bases 6–12 »",
+    "moyen": "« Acide : de 2,5 à 7,5, cinq unités d'écart ; Base : de la demi-douzaine (6) à la douzaine (12). »",
+    "explication": "Pour les acides, le pH influence la réabsorption entre pKa 2,5 et 7,5 ; pour les bases, entre pKa 6 et 12 (une demi-douzaine à une douzaine). En dehors : formes fortes jamais réabsorbées, formes très faibles réabsorbées intensément."
+  },
+  {
+    "id": "pharmacologie/06-elimination/mnemo-03",
+    "titre": "Cycle entéro-hépatique : « CRT »",
+    "moyen": "« Le Cycle Revient Toujours » : Chloramphénicol, Rifampicine, Tétracycline.",
+    "explication": "C = Chloramphénicol, R = Rifampicine, T = Tétracycline : exemples de médicaments à cycle entéro-hépatique ; la cholestyramine y met fin."
+  },
+  {
+    "id": "pharmacologie/06-elimination/mnemo-04",
+    "titre": "Passage dans le lait : « LiPPG »",
+    "moyen": "« LiPPG » : Lipophile, Peu lié, Petit PM, Gradient important.",
+    "explication": "Le passage dans le lait est d'autant plus grand que le médicament est Lipophile, Peu lié aux protéines plasmatiques, de Petit poids moléculaire, et que le Gradient sang–lait est important."
+  },
+  {
+    "id": "pharmacologie/06-elimination/mnemo-05",
+    "titre": "Autres voies : « Dents, Bronches, Cheveux »",
+    "moyen": "« Des Tétines, Bronches Iodées, Cheveux Arsenic »",
+    "explication": "Dents – Tétracyclines ; sécrétions Bronchiques – Iodures ; Cheveux – Arsenic."
+  }
+]

@@ -1,0 +1,192 @@
+[
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/cas-001",
+    "titre": "Extraction d'un acide faible en toxicologie",
+    "enonce": "Un laboratoire de toxicologie doit extraire l'ibuprofène (acide faible, pKa = 4,6) d'un échantillon aqueux par un solvant organique.",
+    "questions": [
+      {
+        "type": "unique",
+        "enonce": "Le pH de la phase aqueuse doit être :",
+        "options": [
+          "≤ 2,6 environ",
+          "≥ 6,6",
+          "Égal à 4,6",
+          "Sans importance",
+          "Égal à 14"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Acide : extraction optimale à pH ≤ pKa − 2.",
+        "difficulte": 2,
+        "origine": "genere",
+        "id": "chimie-analytique/05-applications-extraction-ll/cas-001-q1"
+      },
+      {
+        "type": "multiple",
+        "enonce": "À pH = 4,6 :",
+        "options": [
+          "D = λ/2",
+          "La moitié de l'acide est ionisée en phase aqueuse",
+          "D = λ",
+          "D = 0",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0,
+          1
+        ],
+        "explication": "À pH = pKa, [AH] = [A⁻] et D = λ/2.",
+        "difficulte": 2,
+        "origine": "genere",
+        "id": "chimie-analytique/05-applications-extraction-ll/cas-001-q2"
+      },
+      {
+        "type": "multiple",
+        "enonce": "À pH élevé (≫ pKa) :",
+        "options": [
+          "log D = log λ + pKa − pH",
+          "log D diminue d'une unité par unité de pH",
+          "L'ibuprofène est extrait quantitativement",
+          "log D = log λ",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0,
+          1
+        ],
+        "explication": "À pH élevé, log D = log λ + pKa − pH : pente −1.",
+        "difficulte": 3,
+        "origine": "genere",
+        "id": "chimie-analytique/05-applications-extraction-ll/cas-001-q3"
+      }
+    ]
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/cas-002",
+    "titre": "Dosage d'un ion métallique par chélation",
+    "enonce": "Un ion M²⁺ est extrait par une solution chloroformique d'un chélateur HL (n = 2) à partir d'une phase aqueuse tamponnée.",
+    "questions": [
+      {
+        "type": "multiple",
+        "enonce": "Pour augmenter D, on peut :",
+        "options": [
+          "Augmenter le pH",
+          "Augmenter la concentration du chélateur",
+          "Choisir un chélateur de λH faible",
+          "Choisir un chélateur de pKa élevé",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "D élevé : pH élevé, C élevée, λH faible, pKa bas.",
+        "difficulte": 2,
+        "origine": "genere",
+        "id": "chimie-analytique/05-applications-extraction-ll/cas-002-q1"
+      },
+      {
+        "type": "multiple",
+        "enonce": "Le chélate extrait est :",
+        "options": [
+          "Une molécule organométallique non chargée",
+          "Un complexe cyclique",
+          "Un ion chargé",
+          "Une paire d'ions",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0,
+          1
+        ],
+        "explication": "[MLn] est un chélate cyclique neutre.",
+        "difficulte": 1,
+        "origine": "genere",
+        "id": "chimie-analytique/05-applications-extraction-ll/cas-002-q2"
+      },
+      {
+        "type": "unique",
+        "enonce": "Si l'on passe de pH 1 à pH 3, le terme λH²[H⁺]²/(KsC²Ka²) est :",
+        "options": [
+          "Divisé par 10⁴",
+          "Divisé par 100",
+          "Multiplié par 10⁴",
+          "Inchangé",
+          "Divisé par 2"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "[H⁺]² passe de 10⁻² à 10⁻⁶ : division par 10⁴.",
+        "difficulte": 3,
+        "origine": "genere",
+        "id": "chimie-analytique/05-applications-extraction-ll/cas-002-q3"
+      }
+    ]
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/cas-003",
+    "titre": "Dosage volumétrique d'un alcaloïde en contrôle qualité",
+    "enonce": "Un chlorhydrate d'alcaloïde est dosé par une solution de laurylsulfate de sodium 0,01 M en présence de chloroforme et de jaune de méthyle.",
+    "questions": [
+      {
+        "type": "multiple",
+        "enonce": "Ce dosage repose sur :",
+        "options": [
+          "L'extraction de paires d'ions",
+          "La formation de chélates",
+          "La différence de stabilité des paires d'ions",
+          "Une précipitation par non solvant",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0,
+          2
+        ],
+        "explication": "Volumétrie par extraction de paires d'ions, fondée sur la stabilité des paires.",
+        "difficulte": 2,
+        "origine": "genere",
+        "id": "chimie-analytique/05-applications-extraction-ll/cas-003-q1"
+      },
+      {
+        "type": "unique",
+        "enonce": "L'indicateur doit former avec le LSS une paire d'ions :",
+        "options": [
+          "Moins stable que celle de l'alcaloïde",
+          "Plus stable que celle de l'alcaloïde",
+          "De même stabilité",
+          "Insoluble dans le chloroforme",
+          "Chargée"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Sinon l'indicateur virerait avant l'équivalence.",
+        "difficulte": 2,
+        "origine": "genere",
+        "id": "chimie-analytique/05-applications-extraction-ll/cas-003-q2"
+      },
+      {
+        "type": "multiple",
+        "enonce": "Au point final :",
+        "options": [
+          "La phase chloroformique vire du jaune au rouge",
+          "La phase aqueuse reste pratiquement incolore",
+          "La phase aqueuse devient rouge",
+          "Le colorant reste sous forme B",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0,
+          1
+        ],
+        "explication": "Jaune de méthyle : virage jaune → rouge de la phase chloroformique, phase aqueuse incolore.",
+        "difficulte": 2,
+        "origine": "genere",
+        "id": "chimie-analytique/05-applications-extraction-ll/cas-003-q3"
+      }
+    ]
+  }
+]

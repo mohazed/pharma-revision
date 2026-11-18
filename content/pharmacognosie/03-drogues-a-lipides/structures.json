@@ -1,0 +1,110 @@
+[
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/structure-001",
+    "nom": "Glycérol",
+    "smiles": "OCC(O)CO",
+    "classe": "Polyol (alcool des glycérides)",
+    "question": "Ce triol estérifié par trois acides gras donne :",
+    "options": [
+      "Un triacylglycérol",
+      "Un céride",
+      "Un stéride",
+      "Une céphaline",
+      "Un icosanoïde"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "L'estérification des trois fonctions alcool du glycérol par des AG donne un triacylglycérol (TAG)."
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/structure-002",
+    "nom": "Acide palmitique",
+    "smiles": "CCCCCCCCCCCCCCCC(=O)O",
+    "classe": "Acide gras saturé C16:0",
+    "question": "Cet acide gras est :",
+    "options": [
+      "Saturé à 16 carbones",
+      "Mono-insaturé à 18 carbones",
+      "Saturé à 18 carbones",
+      "Hydroxylé",
+      "Cyclopenténique"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Palmitate : hexadécanoate, 16 C, aucune double liaison (PF 63 °C)."
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/structure-003",
+    "nom": "Acide stéarique",
+    "smiles": "CCCCCCCCCCCCCCCCCC(=O)O",
+    "classe": "Acide gras saturé C18:0",
+    "question": "Cet acide gras est :",
+    "options": [
+      "Saturé à 18 carbones",
+      "Saturé à 16 carbones",
+      "Di-insaturé à 18 carbones",
+      "Hydroxylé à 18 carbones",
+      "Polyinsaturé à 20 carbones"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Stéarate : octadécanoate, 18 C saturé (PF 70 °C) ; la tristéarine est un TAG simple."
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/structure-004",
+    "nom": "Acide oléique",
+    "smiles": "CCCCCCCC/C=C\\CCCCCCCC(=O)O",
+    "classe": "Acide gras mono-insaturé C18:1 cis-Δ9",
+    "question": "Cet acide gras, majoritaire dans l'huile d'olive, est :",
+    "options": [
+      "C18:1 cis-Δ9",
+      "C18:2",
+      "C18:3",
+      "C16:0",
+      "C20:4"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Acide oléique : C18:1 cis-Δ9 ; 56–85 % des AG de l'huile d'olive."
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/structure-005",
+    "nom": "Acide linoléique",
+    "smiles": "CCCCC/C=C\\C/C=C\\CCCCCCCC(=O)O",
+    "classe": "Acide gras di-insaturé C18:2",
+    "question": "Cet acide gras possède :",
+    "options": [
+      "18 carbones et 2 doubles liaisons",
+      "18 carbones et 1 double liaison",
+      "18 carbones et 3 doubles liaisons",
+      "20 carbones et 4 doubles liaisons",
+      "16 carbones et 1 double liaison"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Linoléate : cis,cis-Δ9,12-octadécadiénoate (C18:2)."
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/structure-006",
+    "nom": "Acide α-linolénique",
+    "smiles": "CC/C=C\\C/C=C\\C/C=C\\CCCCCCCC(=O)O",
+    "classe": "Acide gras tri-insaturé C18:3",
+    "question": "Cet acide gras est :",
+    "options": [
+      "C18:3 (Δ9,12,15)",
+      "C18:2 (Δ9,12)",
+      "C20:4",
+      "C18:1",
+      "C16:1"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Linolénate : tout cis-Δ9,12,15-octadécatriénoate (C18:3)."
+  }
+]

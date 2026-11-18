@@ -1,0 +1,224 @@
+[
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/flashcard-001",
+    "recto": "Définition d'un psychotrope",
+    "verso": "Substance naturelle ou synthétique capable de modifier l'activité mentale ou le comportement en agissant sur le cerveau.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/flashcard-002",
+    "recto": "Les 4 classes de Delay et Deniker (modifiée par Loo)",
+    "verso": "Psycholeptiques (abaissent), psychoanaleptiques (stimulent), psycho-isoleptiques (régulent), psychodysleptiques (dévient).",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/flashcard-003",
+    "recto": "Place des anxiolytiques dans la classification",
+    "verso": "Psycholeptiques, thymoleptiques (avec les neuroleptiques).",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/flashcard-004",
+    "recto": "Définition des anxiolytiques",
+    "verso": "Médicaments de structure variable réduisant ou supprimant l'angoisse et provoquant une sédation.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/flashcard-005",
+    "recto": "Les 3 théories biologiques de l'anxiété",
+    "verso": "GABAergique, sérotoninergique, noradrénergique.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/flashcard-006",
+    "recto": "Classification des anxiolytiques",
+    "verso": "Benzodiazépines, carbamates, hydroxyzine, buspirone, antidépresseurs, bêtabloquants et agonistes α2.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/flashcard-007",
+    "recto": "Noyau de base des benzodiazépines",
+    "verso": "3H-benzo(e)diazépine-1,4 : cycle diazépine-1,4 fusionné à un benzène, phényle en C5 (1'-6').",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/flashcard-008",
+    "recto": "Premières benzodiazépines commercialisées",
+    "verso": "Librium® (chlordiazépoxyde) et Valium® (diazépam).",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/flashcard-009",
+    "recto": "Les 6 groupes chimiques de BZD",
+    "verso": "Diazépines, diazépinones (halogénées ou nitrées en 7), diazépinolone, diazépinone carboxylique, triazolo/imidazo-BZD, autres BZD.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/flashcard-010",
+    "recto": "Point de départ de la synthèse du diazépam",
+    "verso": "2-amino-5-chlorobenzophénone.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/flashcard-011",
+    "recto": "Étapes de la synthèse du diazépam",
+    "verso": "Acylation (–HCl), amination (–HBr), cyclisation (–H2O), méthylation par CH3I.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/flashcard-012",
+    "recto": "Emploi du diazépam",
+    "verso": "Anxiolytique, anticonvulsivant, hypnotique et myorelaxant.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/flashcard-013",
+    "recto": "Particularité du tétrazépam",
+    "verso": "Cyclohexényle en 5 ; myorelaxant ; AMM suspendue le 8 juillet 2013.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/flashcard-014",
+    "recto": "Dérivés de la diazépinolone",
+    "verso": "Témazépam, oxazépam, lorazépam, lormétazépam (OH en 3).",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/flashcard-015",
+    "recto": "Clorazépate : particularité",
+    "verso": "Carboxyle en 3 : prodrogue, solutions aqueuses et alcooliques instables, anxiolytique pur non hypnogène.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/flashcard-016",
+    "recto": "Intérêt du cycle triazolé fusionné",
+    "verso": "Protection vis-à-vis de l'oxydation et augmentation de l'activité.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/flashcard-017",
+    "recto": "Alprazolam",
+    "verso": "Xanax® : anxiolytique moins sédatif que le diazépam (triazolo-BZD).",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/flashcard-018",
+    "recto": "Clobazam",
+    "verso": "Urbanyl® : 1,5-benzodiazépine, anxiolytique d'action rapide et prolongée, utilisé en désintoxication alcoolique et tabagique.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/flashcard-019",
+    "recto": "Clotiazépam",
+    "verso": "Veratran® : thiéno-1,4-diazépine (benzène remplacé par un thiophène), affinité voisine du lorazépam.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/flashcard-020",
+    "recto": "Flumazénil",
+    "verso": "Anexate® : imidazobenzodiazépine sans phényle en 5, antagoniste pur et spécifique des BZD.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/flashcard-021",
+    "recto": "Mécanisme d'action des BZD",
+    "verso": "Facilitation de la neurotransmission GABAergique sur les récepteurs GABAA post-synaptiques → entrée de Cl⁻ → hyperpolarisation → sédation.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/flashcard-022",
+    "recto": "RSA : cycle A",
+    "verso": "Généralement un phényle, non indispensable : c'est l'aromaticité qui est nécessaire (thiophène du clotiazépam).",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/flashcard-023",
+    "recto": "RSA : substituant en 7",
+    "verso": "Groupe électroattracteur nécessaire ; activité croissante avec l'électronégativité ; en C6, C8, C9 l'activité diminue.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/flashcard-024",
+    "recto": "RSA : 7-nitrés vs 7-halogénés",
+    "verso": "Nitrés : hypnotiques (nitrazépam, flunitrazépam) ou antiépileptiques (clonazépam) ; halogénés : anxiolytiques.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/flashcard-025",
+    "recto": "RSA : position 1",
+    "verso": "Azote souvent méthylé (augmente l'activité) ou non substitué.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/flashcard-026",
+    "recto": "RSA : position 2",
+    "verso": "Groupement électroattracteur, généralement un carbonyle ; parfois méthyle ou cycle coiffant 1-2 (estazolam).",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/flashcard-027",
+    "recto": "RSA : position 3",
+    "verso": "CH2, OH (oxazépam) ou COOH (clorazépate) ; OH/COOH permettent des sels hydrosolubles.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/flashcard-028",
+    "recto": "RSA : position 4",
+    "verso": "Imine, parfois oxyde d'amine (Librium®) ; le déplacement de l'azote (clobazam) ne nuit pas à l'activité.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/flashcard-029",
+    "recto": "RSA : cycle C",
+    "verso": "Phényle ; cyclohexène → myorelaxant ; cycle nécessaire à la lipophilie ; halogène en ortho : F > Cl > H.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/flashcard-030",
+    "recto": "Propriétés communes des BZD",
+    "verso": "Anxiolytique, sédative/hypnotique, anesthésique, anticonvulsivante, myorelaxante.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/flashcard-031",
+    "recto": "Contre-indications des BZD",
+    "verso": "Myasthénie, insuffisance respiratoire, apnée du sommeil, hypersensibilité, insuffisance hépatique et rénale.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/flashcard-032",
+    "recto": "Méprobamate",
+    "verso": "Carbamate (dicarbamate de méthyl-2 propyl-2 propanediol-1,3), peu utilisé, inducteur enzymatique, surdosage sans antidote.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/flashcard-033",
+    "recto": "Hydroxyzine",
+    "verso": "Atarax® : antihistaminique anticholinergique pour les anxiétés mineures.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/flashcard-034",
+    "recto": "Buspirone : classe et mécanisme",
+    "verso": "Dérivé de l'azaspirodécanedione, agoniste 5-HT1A présynaptique diminuant la libération de sérotonine.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/flashcard-035",
+    "recto": "Buspirone : profil clinique",
+    "verso": "Efficacité comparable aux BZD, délai 1-3 semaines, sans sédation, myorelaxation, anticonvulsion ni dépendance.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/flashcard-036",
+    "recto": "Clonidine dans l'anxiété",
+    "verso": "Agoniste des autorécepteurs α2 : inhibition de la libération de noradrénaline.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/flashcard-037",
+    "recto": "Alternative bêtabloquante",
+    "verso": "Propranolol : blocage des récepteurs β-adrénergiques.",
+    "tags": []
+  }
+]

@@ -1,0 +1,1606 @@
+[
+  {
+    "id": "chimie-analytique/02-extraction-liquide-liquide/qcm-001",
+    "type": "multiple",
+    "enonce": "Dans les méthodes de transfert de phase d'un mélange homogène, on distingue :",
+    "options": [
+      "L'extraction à l'aide d'un solvant miscible au premier, à travers une membrane poreuse",
+      "L'extraction par un solvant non miscible",
+      "La centrifugation",
+      "Le relargage",
+      "La lévigation"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Le transfert de phase comprend l'extraction par un solvant miscible (membrane poreuse, osmose) et l'extraction par un solvant non miscible. Centrifugation, relargage et lévigation ne sont pas des transferts de phase.",
+    "source": {
+      "page": 1,
+      "extrait": "L'extraction à l'aide d'un solvant miscible au premier. Elle se réalise à l'aide d'une membrane poreuse"
+    },
+    "difficulte": 1,
+    "tags": [
+      "transfert de phase"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/02-extraction-liquide-liquide/qcm-002",
+    "type": "unique",
+    "enonce": "L'extraction à l'aide d'un solvant miscible au premier à travers une membrane poreuse correspond au phénomène :",
+    "options": [
+      "De relargage",
+      "D'osmose",
+      "De décantation",
+      "De partage",
+      "De chélation"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Le cours : « Elle se réalise à l'aide d'une membrane poreuse. C'est le phénomène d'osmose ».",
+    "source": {
+      "page": 1,
+      "extrait": "C'est le phénomène d'osmose"
+    },
+    "difficulte": 1,
+    "tags": [
+      "osmose"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/02-extraction-liquide-liquide/qcm-003",
+    "type": "multiple",
+    "enonce": "Les méthodes d'extraction liquide-liquide par un solvant non miscible :",
+    "options": [
+      "Sont parmi les méthodes les plus utilisées en analyse immédiate",
+      "Permettent la purification et la concentration des principes actifs",
+      "Permettent la préparation des échantillons (milieux biologiques) pour l'analyse chromatographique",
+      "Ne s'appliquent qu'aux quantités importantes de substances",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "L'ELL est parmi les plus utilisées ; elle purifie, concentre et prépare les échantillons biologiques pour la chromatographie. Elle s'applique aussi bien à des quantités importantes qu'à des traces.",
+    "source": {
+      "page": 1,
+      "extrait": "Elles permettent la purification et la concentration des principes actifs"
+    },
+    "difficulte": 1,
+    "tags": [
+      "extraction liquide-liquide"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/02-extraction-liquide-liquide/qcm-004",
+    "type": "multiple",
+    "enonce": "Le principe de l'extraction liquide-liquide :",
+    "options": [
+      "Est le transfert d'un soluté d'une phase liquide vers un solvant non miscible au premier",
+      "Est fondé sur la distribution d'un soluté entre deux solvants en fonction de sa solubilité dans chacun",
+      "Fait le plus souvent intervenir une phase aqueuse",
+      "Ne peut jamais employer deux solvants organiques",
+      "Repose sur une différence de densité des solides"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Le principe est la distribution d'un soluté entre deux solvants non miscibles selon sa solubilité dans chacun ; le cas le plus fréquent comporte une phase aqueuse, mais on peut employer deux solvants organiques.",
+    "source": {
+      "page": 1,
+      "extrait": "Le principe est fondé sur la distribution d'un soluté donné entre deux solvants, en fonction de sa solubilité"
+    },
+    "difficulte": 1,
+    "tags": [
+      "principe"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/02-extraction-liquide-liquide/qcm-005",
+    "type": "multiple",
+    "enonce": "Avantages de l'extraction par un liquide cités dans le cours :",
+    "options": [
+      "Méthode simple et rapide",
+      "Mise en œuvre facile (verrerie, ampoule à décanter, hotte à solvant, centrifugeuse)",
+      "Applicable à de très nombreuses substances (antibiotiques, hormones, vitamines…)",
+      "Utilisable pour l'isolement de quantités importantes comme de traces",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes ces qualités sont listées dans le cours.",
+    "source": {
+      "page": 1,
+      "extrait": "ce procédé peut être utilisé tant pour l'isolement de quantités importantes de substances que pour celui de traces"
+    },
+    "difficulte": 1,
+    "tags": [
+      "avantages"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/02-extraction-liquide-liquide/qcm-006",
+    "type": "multiple",
+    "enonce": "L'extraction liquide-liquide peut être rendue plus sélective :",
+    "options": [
+      "Par un choix judicieux du solvant d'extraction",
+      "En agissant sur le pH",
+      "En utilisant la formation de chélates",
+      "En utilisant la formation de paires d'ions",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le cours cite le choix du solvant, le pH, la formation de chélates et de paires d'ions comme paramètres de sélectivité.",
+    "source": {
+      "page": 1,
+      "extrait": "il est possible d'intervenir en agissant sur le PH, ou en utilisant la formation de chélates ou de paires d'ions"
+    },
+    "difficulte": 1,
+    "tags": [
+      "sélectivité"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/02-extraction-liquide-liquide/qcm-007",
+    "type": "multiple",
+    "enonce": "L'équilibre de partage d'une substance entre deux solvants non miscibles A et B :",
+    "options": [
+      "S'exprime par l'équation CB = f(CA)",
+      "CA et CB sont les concentrations après extraction",
+      "Permet de tracer la courbe CB en fonction de CA",
+      "CA et CB sont les quantités initiales",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "L'équation générale est CB = f(CA), où CA et CB sont les concentrations dans A et B après extraction ; elle permet de tracer CB = f(CA). Ce sont des concentrations, pas des quantités initiales.",
+    "source": {
+      "page": 1,
+      "extrait": "Où CA et CB sont les concentrations respectives dans les solvants A et B après extraction"
+    },
+    "difficulte": 1,
+    "tags": [
+      "équation de partage"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/02-extraction-liquide-liquide/qcm-008",
+    "type": "multiple",
+    "enonce": "Lorsque la courbe CB = f(CA) est une droite :",
+    "options": [
+      "La distribution est dite régulière",
+      "C'est le cas le plus fréquent",
+      "CB/CA = λ, coefficient de partage",
+      "La distribution est dite quelconque",
+      "La substance est forcément sous plusieurs formes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Une droite = distribution régulière, cas le plus fréquent, avec CB = λ·CA. La distribution quelconque correspond à une courbe non linéaire, souvent liée à des formes différentes de la substance.",
+    "source": {
+      "page": 2,
+      "extrait": "C'est le cas le plus fréquent et on dit que la distribution de la substance entre les deux solvants A et B est régulière"
+    },
+    "difficulte": 1,
+    "tags": [
+      "distribution régulière"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/02-extraction-liquide-liquide/qcm-009",
+    "type": "multiple",
+    "enonce": "Le coefficient de partage λ (ou K) :",
+    "options": [
+      "Est une constante thermodynamique",
+      "Est égal au rapport des concentrations de la substance dans les deux phases après équilibre",
+      "Est propre à la substance S et au couple de solvants A et B",
+      "Varie avec la température",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "λ est une constante thermodynamique propre à S et au couple A/B, égale à CB/CA à l'équilibre ; le cours précise que λ varie avec la température.",
+    "source": {
+      "page": 2,
+      "extrait": "λ (appelé aussi K), est une constante thermodynamique appelée COEFFICIENT DE PARTAGE"
+    },
+    "difficulte": 1,
+    "tags": [
+      "coefficient de partage"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/02-extraction-liquide-liquide/qcm-010",
+    "type": "unique",
+    "enonce": "La loi de Berthelot-Jungfleisch énonce que :",
+    "options": [
+      "Le rendement d'une extraction est toujours de 100 %",
+      "Quelle que soit la solubilité du corps et le volume des solvants, les concentrations à l'équilibre sont dans un rapport constant",
+      "Les quantités extraites sont proportionnelles au volume de solvant",
+      "La quantité de matière se conserve lors d'une extraction",
+      "Le taux de distribution dépend du pH"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Loi de Berthelot-Jungfleisch : « quel que soit la solubilité d'un corps à partager, quel que soit le volume des solvants, le corps se répartit à l'équilibre de manière que les concentrations soient dans un rapport constant ». La conservation de la matière est la loi de Lavoisier.",
+    "source": {
+      "page": 2,
+      "extrait": "le corps se repartit à l'équilibre de manière que les concentrations soient dans un rapport constant"
+    },
+    "difficulte": 1,
+    "tags": [
+      "Berthelot-Jungfleisch"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/02-extraction-liquide-liquide/qcm-011",
+    "type": "multiple",
+    "enonce": "La loi de Berthelot-Jungfleisch n'est vérifiée que si :",
+    "options": [
+      "Les solvants sont non miscibles",
+      "La substance a le même état physique dans les deux phases",
+      "La température est constante",
+      "La substance est ionisée dans la phase aqueuse",
+      "Les volumes des deux phases sont égaux"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Conditions : non miscibilité des solvants, même état physique de la substance dans les deux phases, température constante. L'égalité des volumes n'est pas requise (« quel que soit le volume des solvants »).",
+    "source": {
+      "page": 2,
+      "extrait": "Non miscibilité des solvants. • Même état physique de la substance dans les deux phases. • Température constante"
+    },
+    "difficulte": 2,
+    "tags": [
+      "Berthelot-Jungfleisch"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/02-extraction-liquide-liquide/qcm-012",
+    "type": "multiple",
+    "enonce": "Concernant la relation entre coefficient de partage et solubilités :",
+    "options": [
+      "CA et CB ne peuvent excéder respectivement les solubilités SA et SB",
+      "La droite de partage est limitée au point de coordonnées (SA, SB)",
+      "λ = SB/SA",
+      "Il suffit de connaître SA et SB pour déterminer le coefficient de partage",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le cours : CA et CB ne peuvent excéder SA et SB ; la droite s'arrête au point (SA, SB) et λ est égal au rapport des solubilités ; connaître SA et SB suffit.",
+    "source": {
+      "page": 2,
+      "extrait": "Il suffit de connaître les solubilités SA et SB pour déterminer le coefficient de partage"
+    },
+    "difficulte": 2,
+    "tags": [
+      "solubilité",
+      "coefficient de partage"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/02-extraction-liquide-liquide/qcm-013",
+    "type": "unique",
+    "enonce": "Une substance a une solubilité de 5 mg/mL dans le chloroforme (B) et de 0,5 mg/mL dans l'eau (A). Le coefficient de partage chloroforme/eau vaut :",
+    "options": [
+      "0,1",
+      "1",
+      "5",
+      "10",
+      "2,5"
+    ],
+    "correctes": [
+      3
+    ],
+    "explication": "λ = SB/SA = 5/0,5 = 10.",
+    "source": {
+      "page": 2,
+      "extrait": "le coefficient de partage est égale au rapport des solubilités SA et SB"
+    },
+    "difficulte": 1,
+    "tags": [
+      "calcul",
+      "coefficient de partage"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/02-extraction-liquide-liquide/qcm-014",
+    "type": "multiple",
+    "enonce": "La distribution est dite quelconque ou irrégulière lorsque :",
+    "options": [
+      "La courbe CB = f(CA) n'est pas une droite",
+      "La substance n'est pas sous la même forme dans les deux phases",
+      "Il y a formation d'associations moléculaires ou de dissociations",
+      "Le pH varie au cours de l'extraction",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Distribution irrégulière : courbe non linéaire, substance sous des formes différentes (associations, dissociations) ; une variation de pH entraîne généralement une irrégularité.",
+    "source": {
+      "page": 2,
+      "extrait": "Il en est ainsi lorsque la substance n'est pas sous la même forme dans les deux phases"
+    },
+    "difficulte": 2,
+    "tags": [
+      "distribution irrégulière"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/02-extraction-liquide-liquide/qcm-015",
+    "type": "unique",
+    "enonce": "L'intérêt de tamponner les phases aqueuses au cours d'une extraction est :",
+    "options": [
+      "D'éviter les émulsions",
+      "D'éviter une irrégularité de la distribution due à une variation de pH",
+      "D'augmenter la température",
+      "D'augmenter la miscibilité des solvants",
+      "De diminuer le volume de solvant"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Une variation du pH en cours d'extraction entraîne généralement une irrégularité de distribution, d'où l'intérêt de tamponner.",
+    "source": {
+      "page": 2,
+      "extrait": "ceci explique l'intérêt de tamponner les phases aqueuses au cours d'une extraction"
+    },
+    "difficulte": 2,
+    "tags": [
+      "pH",
+      "tampon"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/02-extraction-liquide-liquide/qcm-016",
+    "type": "multiple",
+    "enonce": "Le taux de distribution D :",
+    "options": [
+      "Est le rapport des concentrations totales de S dans B et dans A, sous quelque état qu'elle se trouve",
+      "Fait intervenir la somme des concentrations de chaque forme, qu'elle participe ou non au partage",
+      "Est égal à λ dans le cas idéal où le soluté est sous une seule et même forme dans les deux phases",
+      "Ne fait intervenir que la forme qui participe au partage",
+      "Est toujours égal à λ"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "D = CB (toutes formes)/CA (toutes formes) ; on somme toutes les formes. D = λ uniquement dans le cas idéal d'une forme unique.",
+    "source": {
+      "page": 3,
+      "extrait": "C'est le rapport entre les concentrations totales de la substance S dans A et B sous quelque état qu'elle se trouve"
+    },
+    "difficulte": 2,
+    "tags": [
+      "taux de distribution"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/02-extraction-liquide-liquide/qcm-017",
+    "type": "multiple",
+    "enonce": "Il faut faire intervenir D au lieu de λ :",
+    "options": [
+      "Chaque fois que le soluté existe sous des formes différentes dans les deux solvants",
+      "Lors de phénomènes d'association ou de dissociation",
+      "Lorsque le soluté est sous une seule et même forme dans les deux phases",
+      "Lorsque l'on ajoute une base forte à une solution aqueuse de phénol extraite par CCl₄",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      3
+    ],
+    "explication": "Le passage de λ à D s'impose dès qu'il existe des formes différentes (association, dissociation), comme le phénol partiellement transformé en phénate. Avec une forme unique, D = λ.",
+    "source": {
+      "page": 3,
+      "extrait": "La nécessité de passer de λ à D apparaît à chaque fois que le soluté existe sous des formes Différentes"
+    },
+    "difficulte": 2,
+    "tags": [
+      "taux de distribution"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/02-extraction-liquide-liquide/qcm-018",
+    "type": "multiple",
+    "enonce": "Le phénol se répartit entre l'eau et le tétrachlorure de carbone. On ajoute une base forte à la phase aqueuse :",
+    "options": [
+      "Une partie du phénol est transformée en phénate ArO⁻",
+      "Seules les molécules non ionisées participent au partage",
+      "D = [ArOH]CCl₄ / ([ArOH]H₂O + [ArO⁻]H₂O)",
+      "La concentration totale du phénol ne change pas",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes les propositions sont dans l'exemple du phénol : formation de phénate, seule la forme non ionisée se partage, D tient compte de ArOH et ArO⁻ en phase aqueuse, la concentration totale reste inchangée.",
+    "source": {
+      "page": 4,
+      "extrait": "La concentration totale du phénol ne change pas, mais seules les molécules non ionisées participent au partage"
+    },
+    "difficulte": 2,
+    "tags": [
+      "phénol",
+      "taux de distribution"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/02-extraction-liquide-liquide/qcm-019",
+    "type": "unique",
+    "enonce": "Dans l'exemple du phénol eau/CCl₄ après ajout de base forte, le taux de distribution D par rapport à λ est :",
+    "options": [
+      "Plus grand",
+      "Plus petit",
+      "Égal",
+      "Nul",
+      "Infini"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "D = [ArOH]CCl₄/([ArOH]aq + [ArO⁻]aq) : le dénominateur augmente du terme [ArO⁻]aq, donc D < λ = [ArOH]CCl₄/[ArOH]aq.",
+    "source": {
+      "page": 4,
+      "extrait": "/ArOH/CCl4 D = /ArOH/H20 + /ArO-/H2O"
+    },
+    "difficulte": 3,
+    "tags": [
+      "phénol"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/02-extraction-liquide-liquide/qcm-020",
+    "type": "multiple",
+    "enonce": "Concernant le taux de distribution D :",
+    "options": [
+      "Si D est constant dans des conditions déterminées, la distribution est encore régulière",
+      "Si D n'est pas constant, la distribution est quelconque ou irrégulière",
+      "La possibilité de faire varier D est l'un des caractères les plus intéressants des méthodes d'extraction",
+      "On utilise pour cela divers équilibres d'association ou de dissociation",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes les propositions figurent dans le cours (remarque sur D constant et intérêt de faire varier D).",
+    "source": {
+      "page": 4,
+      "extrait": "la possibilité de faire varier le taux de distribution est l'un des caractères les plus intéressants"
+    },
+    "difficulte": 2,
+    "tags": [
+      "taux de distribution"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/02-extraction-liquide-liquide/qcm-021",
+    "type": "multiple",
+    "enonce": "Concernant les relations relatives aux quantités :",
+    "options": [
+      "La quantité est reliée à la concentration et au volume par Q = C·V",
+      "Le rendement est le rapport des quantités extraite et initiale",
+      "Le but est d'extraire la plus grande quantité possible de substance avec un volume donné de solvant",
+      "Le rendement est le rapport des concentrations extraite et initiale",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Q = C·V ; le rendement est un rapport de quantités (et non de concentrations) ; le but est d'extraire le maximum avec un volume donné de solvant extractif.",
+    "source": {
+      "page": 4,
+      "extrait": "on considère le rendement qui est le rapport des quantités extraite et initiale"
+    },
+    "difficulte": 1,
+    "tags": [
+      "rendement",
+      "quantité"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/02-extraction-liquide-liquide/qcm-022",
+    "type": "multiple",
+    "enonce": "Le rapport de quantité α :",
+    "options": [
+      "Est défini par α = QB/QA",
+      "Est parfois appelé coefficient de partage relatif aux quantités, terme impropre",
+      "N'est pas une constante",
+      "Dépend des volumes de solvants A et B mis en œuvre",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "α = QB/QA ; le terme « coefficient de partage relatif aux quantités » est impropre car α n'est pas constant : α = λ·VB/VA dépend des volumes.",
+    "source": {
+      "page": 4,
+      "extrait": "Ce rapport est parfois appelé coefficient de partage relatif aux quantités, mais ce terme est impropre"
+    },
+    "difficulte": 2,
+    "tags": [
+      "rapport de quantité α"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/02-extraction-liquide-liquide/qcm-023",
+    "type": "unique",
+    "enonce": "La relation entre α et λ est :",
+    "options": [
+      "α = λ·VA/VB",
+      "α = λ·VB/VA",
+      "α = λ/(1+λ)",
+      "α = λ·VA·VB",
+      "α = VB/(λ·VA)"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "α = QB/QA = CB·VB/(CA·VA) = λ·VB/VA.",
+    "source": {
+      "page": 5,
+      "extrait": "α dépend des volumes de solvant A et B"
+    },
+    "difficulte": 1,
+    "tags": [
+      "rapport de quantité α"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/02-extraction-liquide-liquide/qcm-024",
+    "type": "multiple",
+    "enonce": "Le rapport de quantité α est aussi appelé :",
+    "options": [
+      "Coefficient de partage corrigé",
+      "Coefficient de partage apparent",
+      "Constante thermodynamique de partage",
+      "Rendement",
+      "Taux de distribution"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Le cours : « On peut l'appeler aussi coefficient de partage corrigé ou coefficient de partage apparent ». Ce n'est pas une constante thermodynamique.",
+    "source": {
+      "page": 5,
+      "extrait": "On peut l'appelé aussi coefficient de partage corrigé ou coefficient de partage apparent"
+    },
+    "difficulte": 2,
+    "tags": [
+      "rapport de quantité α"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/02-extraction-liquide-liquide/qcm-025",
+    "type": "unique",
+    "enonce": "Pour λ = 12, VA = 60 mL et VB = 20 mL, le rapport de quantité α vaut :",
+    "options": [
+      "36",
+      "4",
+      "0,25",
+      "3",
+      "12"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "α = λ·VB/VA = 12 × 20/60 = 4.",
+    "source": {
+      "page": 5,
+      "extrait": "α = λ VB/VA"
+    },
+    "difficulte": 1,
+    "tags": [
+      "calcul",
+      "rapport de quantité α"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/02-extraction-liquide-liquide/qcm-026",
+    "type": "multiple",
+    "enonce": "Le rendement ρ d'une extraction :",
+    "options": [
+      "Est le rapport entre la quantité totale extraite par B et la quantité initiale QA0 dans A",
+      "S'écrit ρ = QB/QA0",
+      "S'écrit ρ = CB/CA0",
+      "Peut être exprimé en pourcentage",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      3
+    ],
+    "explication": "ρ = QB/QA0 (rapport de quantités, souvent exprimé en %). CB/CA0 est un rapport de concentrations, pas le rendement.",
+    "source": {
+      "page": 5,
+      "extrait": "Le rendement d'une extraction correspond au rapport entre la quantité totale de substance extraite par le solvant B"
+    },
+    "difficulte": 1,
+    "tags": [
+      "rendement"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/02-extraction-liquide-liquide/qcm-027",
+    "type": "multiple",
+    "enonce": "L'étude quantitative de l'extraction fait appel à un système de deux équations :",
+    "options": [
+      "La loi de Lavoisier (conservation de la matière), relative aux quantités",
+      "La loi de partage du soluté entre les deux solvants, relative aux concentrations",
+      "La loi de Beer-Lambert",
+      "La loi de Hofmeister",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Les deux équations sont la conservation de la matière (Lavoisier, quantités) et la loi de partage (concentrations).",
+    "source": {
+      "page": 5,
+      "extrait": "L'une exprime la loi de Lavoisier, loi de conservation de la matière, elle est relative aux quantités"
+    },
+    "difficulte": 1,
+    "tags": [
+      "étude quantitative"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/02-extraction-liquide-liquide/qcm-028",
+    "type": "multiple",
+    "enonce": "Concernant l'équation de conservation de la matière QA0 = QB + QA :",
+    "options": [
+      "Elle néglige les pertes de solution lors de la séparation des deux phases",
+      "Elle concerne les quantités",
+      "Elle dépend des volumes des solvants A et B",
+      "Elle exprime qu'il n'y a aucune perte de substance S lors de l'extraction",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes les propositions sont dans le cours : loi de Lavoisier, négligeant les pertes, relative aux quantités donc dépendant des volumes.",
+    "source": {
+      "page": 5,
+      "extrait": "Ce type d'équation concerne les quantités et donc dépend des volumes de solvants A et B"
+    },
+    "difficulte": 2,
+    "tags": [
+      "Lavoisier"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/02-extraction-liquide-liquide/qcm-029",
+    "type": "unique",
+    "enonce": "La loi exprimant le partage dans le cas d'une distribution régulière s'écrit :",
+    "options": [
+      "QA0 = QA + QB",
+      "CB = λ·CA ou CB = D·CA",
+      "Q = C·V",
+      "ρ = QB/QA0",
+      "α = QB/QA"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "La loi de partage (concentrations) s'écrit CB = λ·CA ou CB = D·CA.",
+    "source": {
+      "page": 5,
+      "extrait": "CB = λ CA ou CB = D CA"
+    },
+    "difficulte": 1,
+    "tags": [
+      "loi de partage"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/02-extraction-liquide-liquide/qcm-030",
+    "type": "multiple",
+    "enonce": "Critères de choix du solvant d'extraction cités dans le cours :",
+    "options": [
+      "Grand pouvoir dissolvant pour extraire la totalité de la substance dans un volume réduit",
+      "Polarité du couple solvant/soluté : « qui se ressemble s'assemble »",
+      "Volatilité du solvant extractif pour l'éliminer facilement",
+      "Peu toxique et coût peu élevé",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le cours liste : grand pouvoir dissolvant, polarité du couple, volatilité, faible toxicité, coût moins élevé.",
+    "source": {
+      "page": 6,
+      "extrait": "Polarité du couple (solvant/soluté) « qui se ressemble s'assemble »"
+    },
+    "difficulte": 1,
+    "tags": [
+      "choix du solvant"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/02-extraction-liquide-liquide/qcm-031",
+    "type": "multiple",
+    "enonce": "Le solvant extractif doit être choisi de telle sorte que :",
+    "options": [
+      "Le coefficient de partage soit le plus élevé possible pour la substance recherchée",
+      "Il soit volatil",
+      "Il soit le plus toxique possible",
+      "Il ait un faible pouvoir dissolvant pour la substance",
+      "Il soit miscible au solvant initial"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Il faut un coefficient de partage favorable, le plus élevé possible, et un solvant volatil. La toxicité doit être faible, le pouvoir dissolvant grand et le solvant non miscible.",
+    "source": {
+      "page": 6,
+      "extrait": "le coefficient de partage soit favorable à l'extraction de la substance recherchée, c'est à dire le plus élevé possible"
+    },
+    "difficulte": 1,
+    "tags": [
+      "choix du solvant"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/02-extraction-liquide-liquide/qcm-032",
+    "type": "unique",
+    "enonce": "Un solvant satisfaisant à l'ensemble des critères faisant souvent défaut, l'analyste :",
+    "options": [
+      "Renonce à l'extraction",
+      "Cherche le meilleur compromis",
+      "Utilise toujours le chloroforme",
+      "Choisit le solvant le moins cher",
+      "Choisit un solvant miscible"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Le cours : l'analyste cherche toujours à retenir le meilleur compromis.",
+    "source": {
+      "page": 6,
+      "extrait": "l'analyste cherche toujours à retenir le meilleur compromis"
+    },
+    "difficulte": 1,
+    "tags": [
+      "choix du solvant"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/02-extraction-liquide-liquide/qcm-033",
+    "type": "multiple",
+    "enonce": "Concernant les principales méthodes d'extraction par un solvant non miscible :",
+    "options": [
+      "L'extraction simple est réalisée une seule fois",
+      "L'extraction simple n'est jamais totalement quantitative",
+      "L'extraction répétée consiste à recommencer l'opération plusieurs fois",
+      "L'extraction répétée peut entraîner l'emploi de volumes importants de solvants",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes les affirmations sont dans le cours : extraction simple jamais totalement quantitative, d'où les extractions répétées (multiples) qui peuvent consommer beaucoup de solvant.",
+    "source": {
+      "page": 6,
+      "extrait": "Mais cette opération n'est jamais totalement quantitative"
+    },
+    "difficulte": 1,
+    "tags": [
+      "méthodes d'extraction"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/02-extraction-liquide-liquide/qcm-034",
+    "type": "multiple",
+    "enonce": "Les inconvénients de l'extraction répétée qui conduisent à l'échelle industrielle à l'extraction à contre-courant sont :",
+    "options": [
+      "L'emploi de volumes importants de solvants extractifs",
+      "Une mauvaise utilisation du pouvoir solvant lors des derniers transferts",
+      "L'impossibilité d'atteindre un rendement supérieur à 50 %",
+      "L'obligation de chauffer l'extrait",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Le cours cite l'emploi de volumes importants mais surtout la mauvaise utilisation du pouvoir solvant lors des derniers transferts.",
+    "source": {
+      "page": 6,
+      "extrait": "mais surtout provoque une mauvaise utilisation du pouvoir solvant lors des derniers transferts"
+    },
+    "difficulte": 2,
+    "tags": [
+      "extraction répétée",
+      "contre-courant"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/02-extraction-liquide-liquide/qcm-035",
+    "type": "unique",
+    "enonce": "Lorsque des substances ont des coefficients de partage de valeurs proches pour le même solvant, on fait appel à :",
+    "options": [
+      "L'extraction simple",
+      "L'extraction répétée",
+      "La séparation à contre-courant",
+      "Le relargage",
+      "La filtration"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Il est impossible de les séparer par les extractions classiques : on fait appel à la séparation à contre-courant, transfert de phase de principe différent.",
+    "source": {
+      "page": 6,
+      "extrait": "Dans ce cas on fait appel au transfert de phase mais dont le principe est différent des extractions : c'est la séparation à contre courant"
+    },
+    "difficulte": 2,
+    "tags": [
+      "séparation à contre-courant"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/02-extraction-liquide-liquide/qcm-036",
+    "type": "multiple",
+    "enonce": "Dans l'extraction simple, le solvant B est choisi pour :",
+    "options": [
+      "Son grand pouvoir dissolvant vis-à-vis de S",
+      "Sa faible solubilité vis-à-vis de A",
+      "Sa miscibilité avec A",
+      "Son faible pouvoir dissolvant vis-à-vis de S",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Le solvant B, non miscible à A, est choisi pour son grand pouvoir dissolvant vis-à-vis de S et sa faible solubilité vis-à-vis de A.",
+    "source": {
+      "page": 7,
+      "extrait": "choisi pour son grand pouvoir dissolvant vis-à-vis de S et de sa faible solubilité vis-à-vis de A"
+    },
+    "difficulte": 1,
+    "tags": [
+      "extraction simple"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/02-extraction-liquide-liquide/qcm-037",
+    "type": "multiple",
+    "enonce": "Après agitation énergique puis décantation lors d'une extraction simple, on obtient :",
+    "options": [
+      "Une phase A appauvrie en S appelée raffiné",
+      "Une phase B enrichie en S appelée extrait",
+      "Une phase A enrichie en S appelée extrait",
+      "Une phase B appauvrie appelée raffiné",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Raffiné = phase A appauvrie ; extrait = phase B enrichie.",
+    "source": {
+      "page": 7,
+      "extrait": "Une phase A appauvrie en substance S, appelée raffiné"
+    },
+    "difficulte": 1,
+    "tags": [
+      "raffiné",
+      "extrait"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/02-extraction-liquide-liquide/qcm-038",
+    "type": "multiple",
+    "enonce": "Concernant la notion d'étage :",
+    "options": [
+      "Un étage est l'ensemble des deux opérations agitation + décantation",
+      "Si l'équilibre de partage est parfait, l'étage est dit théorique",
+      "Un étage correspond uniquement à l'agitation",
+      "Un étage théorique implique un rendement de 100 %",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Étage = agitation + décantation ; étage théorique = équilibre de partage parfait. Cela n'implique pas un rendement de 100 % (le rendement n'est jamais égal à 1).",
+    "source": {
+      "page": 7,
+      "extrait": "L'ensemble des deux opérations (agitation + décantation) s'appelle un ETAGE"
+    },
+    "difficulte": 1,
+    "tags": [
+      "étage"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/02-extraction-liquide-liquide/qcm-039",
+    "type": "multiple",
+    "enonce": "Les données nécessaires à l'étude quantitative d'une extraction simple sont :",
+    "options": [
+      "Les volumes VA et VB",
+      "La concentration initiale CA0 (ou la quantité initiale QA0)",
+      "Le coefficient de partage λ",
+      "Le nombre d'étages n",
+      "La hauteur de la colonne"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Pour l'extraction simple : VA, VB, CA0 (ou QA0) et λ. Le nombre d'étages est ajouté pour l'extraction répétée ; la hauteur de colonne concerne le contre-courant.",
+    "source": {
+      "page": 7,
+      "extrait": "Les volumes VA et VB, la concentration initiale CA0 (ou quantité initiale QA0), ainsi que le coefficient de partage λ"
+    },
+    "difficulte": 1,
+    "tags": [
+      "éléments de calcul"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/02-extraction-liquide-liquide/qcm-040",
+    "type": "multiple",
+    "enonce": "Dans une extraction simple (distribution régulière), on a :",
+    "options": [
+      "QA1 = QA0/(1 + α)",
+      "QB1 = α·QA0/(1 + α)",
+      "CA1 = CA0/(1 + α)",
+      "CB1 = λ·CA0/(1 + α)",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "De QB1 = α·QA1 et QA0 = QA1 + QB1, on tire QA1 = QA0/(1+α), QB1 = α·QA0/(1+α), CA1 = CA0/(1+α) et CB1 = λ·CA1 = λ·CA0/(1+α).",
+    "source": {
+      "page": 8,
+      "extrait": "QA0 = QA1 + α QA1 = (1 + α) QA1"
+    },
+    "difficulte": 2,
+    "tags": [
+      "formules extraction simple"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/02-extraction-liquide-liquide/qcm-041",
+    "type": "multiple",
+    "enonce": "Le rendement d'une extraction simple peut s'écrire :",
+    "options": [
+      "ρ = α/(1 + α)",
+      "ρ = 1 − 1/(1 + α)",
+      "ρ = 1 − VA/(VA + λ·VB)",
+      "ρ = 1/(1 + α)",
+      "ρ = λ·VA/VB"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "ρ = QB1/QA0 = α/(1+α) = 1 − 1/(1+α) = 1 − VA/(VA + λVB). 1/(1+α) est la fraction restante dans A.",
+    "source": {
+      "page": 8,
+      "extrait": "ρ = 1 - 1/(1 + λ VB/VA) = 1 - VA/(VA + λVB)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "rendement extraction simple"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/02-extraction-liquide-liquide/qcm-042",
+    "type": "multiple",
+    "enonce": "D'après la formule du rendement de l'extraction simple :",
+    "options": [
+      "Le rendement n'est jamais égal à 1 (100 %)",
+      "Le rendement est d'autant meilleur que VB est important",
+      "Le rendement est d'autant meilleur que λ est important",
+      "Le rendement est d'autant meilleur que VA est important",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "ρ = 1 − VA/(VA + λVB) < 1 ; il augmente avec VB et λ. Augmenter VA diminue le rendement.",
+    "source": {
+      "page": 8,
+      "extrait": "Le rendement est d'autant meilleur que le volume VB et le coefficient de partage λ sont plus importants"
+    },
+    "difficulte": 1,
+    "tags": [
+      "rendement extraction simple"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/02-extraction-liquide-liquide/qcm-043",
+    "type": "unique",
+    "enonce": "La fraction de soluté restant dans la phase A après une extraction simple est :",
+    "options": [
+      "α/(1 + α)",
+      "1/(1 + α)",
+      "1 + α",
+      "α",
+      "λ/(1 + λ)"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "QA1/QA0 = 1/(1+α).",
+    "source": {
+      "page": 8,
+      "extrait": "QA1 = 1/(1 + α) QA0"
+    },
+    "difficulte": 1,
+    "tags": [
+      "fraction restante"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/02-extraction-liquide-liquide/qcm-044",
+    "type": "unique",
+    "enonce": "Une extraction simple est réalisée avec α = 4. Le rendement est de :",
+    "options": [
+      "25 %",
+      "75 %",
+      "80 %",
+      "20 %",
+      "96 %"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "ρ = α/(1+α) = 4/5 = 0,80 soit 80 %.",
+    "source": {
+      "page": 8,
+      "extrait": "ρ = α/(1 + α)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "calcul",
+      "rendement extraction simple"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/02-extraction-liquide-liquide/qcm-045",
+    "type": "unique",
+    "enonce": "Pour λ = 9, on extrait 100 mL de solution aqueuse par 100 mL de solvant (extraction simple). Le rendement est de :",
+    "options": [
+      "9 %",
+      "50 %",
+      "81 %",
+      "90 %",
+      "99 %"
+    ],
+    "correctes": [
+      3
+    ],
+    "explication": "α = 9 × 100/100 = 9 ; ρ = 9/10 = 90 %.",
+    "source": {
+      "page": 8,
+      "extrait": "ρ = α/(1 + α)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "calcul"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/02-extraction-liquide-liquide/qcm-046",
+    "type": "unique",
+    "enonce": "100 mL d'une solution aqueuse à 2 mg/mL sont extraits une fois par 25 mL de solvant (λ = 4). La quantité restant en phase aqueuse est de :",
+    "options": [
+      "50 mg",
+      "100 mg",
+      "150 mg",
+      "40 mg",
+      "160 mg"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "QA0 = 200 mg ; α = 4 × 25/100 = 1 ; QA1 = 200/(1+1) = 100 mg.",
+    "source": {
+      "page": 8,
+      "extrait": "QA1 = 1/(1 + α) QA0"
+    },
+    "difficulte": 2,
+    "tags": [
+      "calcul"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/02-extraction-liquide-liquide/qcm-047",
+    "type": "unique",
+    "enonce": "Dans les mêmes conditions (QA0 = 200 mg, VA = 100 mL, VB = 25 mL, λ = 4), la concentration de l'extrait CB1 est de :",
+    "options": [
+      "1 mg/mL",
+      "2 mg/mL",
+      "4 mg/mL",
+      "8 mg/mL",
+      "0,5 mg/mL"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "CA1 = 100 mg/100 mL = 1 mg/mL ; CB1 = λ·CA1 = 4 mg/mL (vérification : QB1 = 4 × 25 = 100 mg).",
+    "source": {
+      "page": 8,
+      "extrait": "CB1 = λ. CA1"
+    },
+    "difficulte": 2,
+    "tags": [
+      "calcul"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/02-extraction-liquide-liquide/qcm-048",
+    "type": "multiple",
+    "enonce": "Pour un même solvant et une même solution, si l'on double le volume VB lors d'une extraction simple :",
+    "options": [
+      "α double",
+      "Le rendement double",
+      "Le rendement augmente mais ne double pas nécessairement",
+      "λ double",
+      "Le rendement diminue"
+    ],
+    "correctes": [
+      0,
+      2
+    ],
+    "explication": "α = λVB/VA double ; ρ = α/(1+α) augmente mais pas proportionnellement. λ est une constante, indépendante des volumes.",
+    "source": {
+      "page": 8,
+      "extrait": "ρ = α/(1 + α)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "rendement extraction simple"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/02-extraction-liquide-liquide/qcm-049",
+    "type": "multiple",
+    "enonce": "Pour une distribution irrégulière, l'étude quantitative de l'extraction simple :",
+    "options": [
+      "Se fait par une méthode graphique",
+      "Nécessite de connaître la courbe d'équilibre CB = f(CA)",
+      "Fait appel aux mêmes équations : partage et conservation de la matière",
+      "Utilise directement ρ = α/(1+α) avec D constant",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "D n'étant plus constant, on procède graphiquement à partir de la courbe d'équilibre et de la droite de conservation de la matière.",
+    "source": {
+      "page": 9,
+      "extrait": "Pour connaître D, il est possible d'opérer par une méthode graphique dans la mesure où l'on connait la courbe"
+    },
+    "difficulte": 2,
+    "tags": [
+      "distribution irrégulière",
+      "méthode graphique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/02-extraction-liquide-liquide/qcm-050",
+    "type": "multiple",
+    "enonce": "Dans la méthode graphique (distribution irrégulière), la droite de conservation de la matière :",
+    "options": [
+      "A pour équation CB = −(VA/VB)(CA − CA0)",
+      "A une pente égale à −VA/VB",
+      "Coupe l'axe des ordonnées (CA = 0) au point Y : CB = CA0·VA/VB",
+      "Coupe l'axe des abscisses (CB = 0) au point X : CA = CA0",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes ces caractéristiques sont données dans le cours.",
+    "source": {
+      "page": 10,
+      "extrait": "Pente de la droite = -VA/VB"
+    },
+    "difficulte": 3,
+    "tags": [
+      "méthode graphique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/02-extraction-liquide-liquide/qcm-051",
+    "type": "unique",
+    "enonce": "Dans la méthode graphique, le point M d'intersection de la courbe d'équilibre et de la droite de conservation a pour coordonnées :",
+    "options": [
+      "(CA0, 0)",
+      "(0, CA0·VA/VB)",
+      "(CA1, CB1)",
+      "(SA, SB)",
+      "(VA, VB)"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "M satisfait à la fois l'équilibre de partage et la conservation de la matière : ses coordonnées sont CA1 et CB1.",
+    "source": {
+      "page": 10,
+      "extrait": "Le point d'intersection M de la courbe et de la droite a pour coordonnées CA1 et CB1"
+    },
+    "difficulte": 2,
+    "tags": [
+      "méthode graphique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/02-extraction-liquide-liquide/qcm-052",
+    "type": "unique",
+    "enonce": "Dans la méthode graphique, si l'on augmente le volume VB de solvant extractif, la pente de la droite de conservation (en valeur absolue) :",
+    "options": [
+      "Augmente",
+      "Diminue",
+      "Ne change pas",
+      "Devient positive",
+      "Devient infinie"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "La pente vaut −VA/VB ; si VB augmente, |VA/VB| diminue.",
+    "source": {
+      "page": 10,
+      "extrait": "Pente de la droite = -VA/VB"
+    },
+    "difficulte": 3,
+    "tags": [
+      "méthode graphique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/02-extraction-liquide-liquide/qcm-053",
+    "type": "multiple",
+    "enonce": "Mise en œuvre pratique de l'extraction simple :",
+    "options": [
+      "Au laboratoire, elle s'effectue le plus couramment à l'aide d'ampoules à décanter",
+      "L'agitation manuelle peut être remplacée par une agitation mécanique plus efficace",
+      "Dans l'industrie, le mélangeur est souvent distinct du décanteur",
+      "Le décanteur industriel peut faire intervenir la centrifugation pour accélérer le processus",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes ces affirmations figurent dans la partie « Mise en œuvre pratique ».",
+    "source": {
+      "page": 10,
+      "extrait": "Dans l'industrie, le mélangeur est souvent distinct du décanteur"
+    },
+    "difficulte": 1,
+    "tags": [
+      "mise en œuvre"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/02-extraction-liquide-liquide/qcm-054",
+    "type": "multiple",
+    "enonce": "Exemple du cours : extraction par l'acétate d'amyle de la pénicilline d'un bouillon aqueux à pH 2,3 (λ = 15, CA0 = 1000 unités/cm³, VB/VA = 1/5) :",
+    "options": [
+      "α = 3",
+      "CA1 = 250 unités/cm³",
+      "CB1 = 3750 unités/cm³",
+      "ρ = 75 %",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "α = 15/5 = 3 ; CA1 = 1000/(1+3) = 250 ; CB1 = 15 × 250 = 3750 ; ρ = 3/4 = 75 %.",
+    "source": {
+      "page": 11,
+      "extrait": "Le rendement : ρ = α/(1 + α) = ¾ = 0.75 ou 75%"
+    },
+    "difficulte": 2,
+    "tags": [
+      "pénicilline",
+      "calcul"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/02-extraction-liquide-liquide/qcm-055",
+    "type": "multiple",
+    "enonce": "Dans l'exemple de la pénicilline, si l'on triple le volume d'extraction (VB/VA = 3/5) :",
+    "options": [
+      "α devient égal à 9",
+      "Le rendement devient 90 %",
+      "Le rendement n'augmente que de 15 %",
+      "Le rendement triple",
+      "λ devient égal à 45"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "α = 15 × 3/5 = 9, ρ = 9/10 = 90 % : de 75 à 90 %, soit seulement +15 %. λ ne change pas.",
+    "source": {
+      "page": 11,
+      "extrait": "On a augmenté le volume de solvant extractif 03 fois, mais le rendement n'est augmenté que de 15%"
+    },
+    "difficulte": 2,
+    "tags": [
+      "pénicilline"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/02-extraction-liquide-liquide/qcm-056",
+    "type": "unique",
+    "enonce": "Conclusion tirée de l'exemple de la pénicilline pour mieux utiliser le pouvoir extractif du solvant :",
+    "options": [
+      "Augmenter encore le volume en une seule extraction",
+      "Pratiquer plusieurs extractions (extraction répétée)",
+      "Diminuer le pH à 7",
+      "Utiliser un solvant miscible",
+      "Chauffer le mélange"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Le cours conclut qu'il est préférable de pratiquer plusieurs extractions (extraction répétée).",
+    "source": {
+      "page": 11,
+      "extrait": "il est préférable de pratiquer plusieurs extractions = extraction répétée"
+    },
+    "difficulte": 1,
+    "tags": [
+      "pénicilline",
+      "extraction répétée"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/02-extraction-liquide-liquide/qcm-057",
+    "type": "unique",
+    "enonce": "Dans l'exemple de la pénicilline, le solvant d'extraction est :",
+    "options": [
+      "Le chloroforme",
+      "L'éther",
+      "L'acétate d'amyle",
+      "L'hexane",
+      "Le tétrachlorure de carbone"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Extraction par l'acétate d'amyle de pénicilline contenue dans un bouillon aqueux amené à pH 2,3.",
+    "source": {
+      "page": 11,
+      "extrait": "Extraction par l'acétate d'amyle de pénicilline contenue dans un bouillon aqueux amené a PH = 2.3"
+    },
+    "difficulte": 1,
+    "tags": [
+      "pénicilline"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/02-extraction-liquide-liquide/qcm-058",
+    "type": "multiple",
+    "enonce": "Parmi les grandeurs suivantes, lesquelles dépendent des volumes des phases ?",
+    "options": [
+      "λ",
+      "α",
+      "ρ",
+      "Q",
+      "SA/SB"
+    ],
+    "correctes": [
+      1,
+      2,
+      3
+    ],
+    "explication": "α = λVB/VA, ρ = α/(1+α) et Q = C·V dépendent des volumes ; λ (et le rapport des solubilités) est une constante thermodynamique indépendante des volumes.",
+    "source": {
+      "page": 5,
+      "extrait": "Cette équation montre bien que α dépend des volumes de solvant A et B"
+    },
+    "difficulte": 3,
+    "tags": [
+      "synthèse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/02-extraction-liquide-liquide/qcm-059",
+    "type": "multiple",
+    "enonce": "Distinguer λ et D :",
+    "options": [
+      "λ ne fait intervenir que la forme participant au partage",
+      "D fait intervenir toutes les formes de la substance",
+      "D = λ si le soluté est sous une seule forme dans les deux phases",
+      "λ varie avec le pH alors que D est constant",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "λ concerne la forme qui se partage ; D toutes les formes ; D = λ dans le cas idéal. C'est D qui varie (pH, associations), λ étant constant à température donnée.",
+    "source": {
+      "page": 3,
+      "extrait": "Dans le cas idéal qui correspond au fait que dans les deux phases le soluté se trouve sous une seule et même forme"
+    },
+    "difficulte": 2,
+    "tags": [
+      "synthèse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/02-extraction-liquide-liquide/qcm-060",
+    "type": "unique",
+    "enonce": "Une extraction simple donne un rendement de 80 %. Le rapport de quantité α vaut :",
+    "options": [
+      "0,8",
+      "1,25",
+      "4",
+      "5",
+      "0,25"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "ρ = α/(1+α) = 0,8 → α = 0,8/0,2 = 4.",
+    "source": {
+      "page": 8,
+      "extrait": "ρ = α/(1 + α)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "calcul"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/02-extraction-liquide-liquide/qcm-061",
+    "type": "unique",
+    "enonce": "On veut un rendement de 90 % en une extraction simple de 50 mL de solution aqueuse avec un solvant de λ = 10. Le volume VB nécessaire est de :",
+    "options": [
+      "4,5 mL",
+      "45 mL",
+      "50 mL",
+      "9 mL",
+      "90 mL"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "ρ = 0,9 → α = 9 ; VB = α·VA/λ = 9 × 50/10 = 45 mL.",
+    "source": {
+      "page": 8,
+      "extrait": "ρ = α/(1 + α)"
+    },
+    "difficulte": 3,
+    "tags": [
+      "calcul"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/02-extraction-liquide-liquide/qcm-062",
+    "type": "multiple",
+    "enonce": "À propos de l'extraction simple, toutes les affirmations suivantes sont exactes SAUF (cochez les fausses) :",
+    "options": [
+      "Le rendement peut atteindre exactement 100 % si λ est très grand",
+      "Le raffiné est la phase B enrichie",
+      "L'étage regroupe agitation et décantation",
+      "QA0 = QA1 + QB1",
+      "Le rendement augmente avec λ"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Fausses : a (le rendement n'est jamais égal à 1) et b (le raffiné est la phase A appauvrie). Les autres sont exactes.",
+    "source": {
+      "page": 8,
+      "extrait": "On remarque d'après la formule du rendement que ce dernier n'est jamais égal à 1 ou à 100%"
+    },
+    "difficulte": 2,
+    "tags": [
+      "synthèse"
+    ],
+    "origine": "genere"
+  }
+]

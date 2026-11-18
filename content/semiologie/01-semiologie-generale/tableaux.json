@@ -1,0 +1,197 @@
+[
+  {
+    "id": "semiologie/01-semiologie-generale/tableau-001",
+    "titre": "Vocabulaire de base de la sémiologie",
+    "colonnes": [
+      "Terme",
+      "Définition",
+      "Exemple"
+    ],
+    "lignes": [
+      [
+        "Signe",
+        "Manifestation de la maladie qui aide au diagnostic (latin signum)",
+        "Fièvre, œdème, souffle cardiaque"
+      ],
+      [
+        "Symptôme",
+        "Manifestation ressentie et rapportée par le patient (subjective)",
+        "Douleur, fatigue, essoufflement"
+      ],
+      [
+        "Prodrome",
+        "Signe avant-coureur d'une maladie",
+        "Fatigue et courbatures avant une grippe"
+      ],
+      [
+        "Syndrome",
+        "Groupe de signes survenant ensemble, de causes multiples (grec sundromê)",
+        "Syndrome anémique, d'insuffisance cardiaque"
+      ],
+      [
+        "Clinique",
+        "Ce que le médecin constate au lit du malade avec ses sens (grec klinikos)",
+        "Examen par la vue, l'ouïe, le toucher, l'odorat"
+      ]
+    ]
+  },
+  {
+    "id": "semiologie/01-semiologie-generale/tableau-002",
+    "titre": "Les quatre temps de l'examen physique",
+    "colonnes": [
+      "Temps",
+      "Sens utilisé",
+      "Constatations"
+    ],
+    "lignes": [
+      [
+        "Inspection",
+        "Vue",
+        "Pâleur, ictère, éruption, déformation, gonflement"
+      ],
+      [
+        "Palpation",
+        "Toucher",
+        "Œdème, gros foie, grosse rate, ganglions, masse, douleur provoquée"
+      ],
+      [
+        "Percussion",
+        "Toucher et ouïe",
+        "Matité (liquide/organe plein), tympanisme (air)"
+      ],
+      [
+        "Auscultation",
+        "Ouïe (stéthoscope)",
+        "Bruits du cœur, du poumon, des artères, de l'abdomen"
+      ]
+    ]
+  },
+  {
+    "id": "semiologie/01-semiologie-generale/tableau-003",
+    "titre": "Critères de gravité : signe d'alerte / orientation",
+    "colonnes": [
+      "Fonction ou situation",
+      "Signes d'alerte",
+      "Orientation"
+    ],
+    "lignes": [
+      [
+        "Respiration",
+        "Essoufflement intense ou au repos, cyanose, impossibilité de parler",
+        "Appel des secours"
+      ],
+      [
+        "Circulation",
+        "Malaise, perte de connaissance, pâleur, sueurs, extrémités froides, pouls très rapide",
+        "Appel des secours"
+      ],
+      [
+        "Cœur",
+        "Douleur thoracique en serrement, qui dure, avec sueurs ou essoufflement",
+        "Appel des secours"
+      ],
+      [
+        "Cerveau",
+        "Confusion, somnolence, déformation du visage, paralysie d'un membre, trouble de la parole",
+        "Appel des secours"
+      ],
+      [
+        "Saignement",
+        "Hématémèse, selles noires collantes, rectorragie abondante, crachats de sang abondants",
+        "Appel des secours"
+      ],
+      [
+        "Allergie",
+        "Gonflement du visage ou de la gorge, gêne respiratoire après médicament ou piqûre",
+        "Appel des secours"
+      ],
+      [
+        "AEG, fièvre > 3 jours ou terrain fragile, toux > 2–3 semaines",
+        "Symptôme persistant, femme enceinte, nourrisson, sujet âgé, effet indésirable possible",
+        "Consultation médicale"
+      ]
+    ]
+  },
+  {
+    "id": "semiologie/01-semiologie-generale/carte-001",
+    "type": "carte",
+    "titre": "Démarche sémiologique",
+    "racine": {
+      "label": "Examen clinique",
+      "enfants": [
+        {
+          "label": "Interrogatoire",
+          "enfants": [
+            {
+              "label": "Histoire de la maladie",
+              "enfants": []
+            },
+            {
+              "label": "Antécédents personnels",
+              "enfants": []
+            },
+            {
+              "label": "Antécédents familiaux",
+              "enfants": []
+            },
+            {
+              "label": "Médicaments et habitudes",
+              "enfants": []
+            },
+            {
+              "label": "Signes généraux et fonctionnels",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Examen physique",
+          "enfants": [
+            {
+              "label": "Inspection",
+              "enfants": []
+            },
+            {
+              "label": "Palpation",
+              "enfants": []
+            },
+            {
+              "label": "Percussion",
+              "enfants": []
+            },
+            {
+              "label": "Auscultation",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Examens complémentaires",
+          "enfants": [
+            {
+              "label": "Biologie",
+              "enfants": []
+            },
+            {
+              "label": "Imagerie",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Critères de gravité",
+          "enfants": [
+            {
+              "label": "Appel des secours",
+              "enfants": []
+            },
+            {
+              "label": "Consultation médicale",
+              "enfants": []
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

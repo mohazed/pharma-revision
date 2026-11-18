@@ -1,0 +1,290 @@
+[
+  {
+    "id": "pharmacologie/03-absorption/flashcard-001",
+    "recto": "Définition de l'absorption",
+    "verso": "Transfert des médicaments de leur site d'administration vers la circulation générale.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/03-absorption/flashcard-002",
+    "recto": "L'absorption est-elle toujours nécessaire à l'effet thérapeutique ?",
+    "verso": "Non : exemple des topiques intestinaux.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/03-absorption/flashcard-003",
+    "recto": "Les deux étapes de la phase biopharmaceutique",
+    "verso": "Libération du PA à partir de la forme pharmaceutique, puis dissolution (passage du PA en solution).",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/03-absorption/flashcard-004",
+    "recto": "Les quatre étapes de la phase pharmacocinétique",
+    "verso": "Absorption, Distribution, Métabolisme, Élimination (ADME).",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/03-absorption/flashcard-005",
+    "recto": "Diffusion passive : sens, énergie, transporteur ?",
+    "verso": "Dans le sens du gradient, sans énergie, sans transporteur (pas de saturation, compétition ni spécificité).",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/03-absorption/flashcard-006",
+    "recto": "Quelle fraction est concernée par la diffusion passive ?",
+    "verso": "La fraction liposoluble et non ionisée.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/03-absorption/flashcard-007",
+    "recto": "Diffusion facilitée : caractéristiques",
+    "verso": "Sens du gradient, transporteur, pas d'énergie, saturation, spécificité et compétition.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/03-absorption/flashcard-008",
+    "recto": "Exemple de diffusion facilitée",
+    "verso": "Résorption duodénale des ions Ca++.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/03-absorption/flashcard-009",
+    "recto": "Transport actif : caractéristiques",
+    "verso": "Contre le gradient, transporteur spécifique, énergie (hydrolyse de l'ATP), saturation, spécificité, compétition.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/03-absorption/flashcard-010",
+    "recto": "Exemples de transport actif",
+    "verso": "Méthyldopa, vitamine B12.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/03-absorption/flashcard-011",
+    "recto": "Que représente le Km sur la courbe de diffusion facilitée ?",
+    "verso": "La concentration de la molécule transportée pour laquelle la vitesse vaut Vmax/2.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/03-absorption/flashcard-012",
+    "recto": "Filtration",
+    "verso": "Passage de l'eau et de petites molécules à travers les pores membranaires, selon la pression osmotique (hydrostatique).",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/03-absorption/flashcard-013",
+    "recto": "Phagocytose vs pinocytose",
+    "verso": "Phagocytose : grosses molécules ; pinocytose : liquides (deux formes d'endocytose).",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/03-absorption/flashcard-014",
+    "recto": "Trois facteurs physico-chimiques du médicament",
+    "verso": "Caractère de solubilité, taille de la molécule, état d'ionisation.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/03-absorption/flashcard-015",
+    "recto": "Coefficient de partage Ks",
+    "verso": "Renseigne sur la liposolubilité (fraction non ionisée) : plus Ks est élevé, plus le PA est liposoluble et passe la membrane.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/03-absorption/flashcard-016",
+    "recto": "Effet de la taille (PM) sur l'absorption",
+    "verso": "Plus la taille augmente, plus l'absorption diminue.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/03-absorption/flashcard-017",
+    "recto": "Quelle fraction traverse les membranes ?",
+    "verso": "Seule la fraction non ionisée.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/03-absorption/flashcard-018",
+    "recto": "Henderson-Hasselbalch pour un acide",
+    "verso": "pH = pKa + log [forme ionisée]/[forme non ionisée].",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/03-absorption/flashcard-019",
+    "recto": "Henderson-Hasselbalch pour une base",
+    "verso": "pH = pKa + log [forme non ionisée]/[forme ionisée].",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/03-absorption/flashcard-020",
+    "recto": "Absorption d'un acide fort (pKa < 2,5) / d'une base forte (pKa > 11)",
+    "verso": "Limitée.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/03-absorption/flashcard-021",
+    "recto": "Classes à absorption dépendante du pH",
+    "verso": "Acides faibles (2,5 < pKa < 7,5) et bases faibles (5 < pKa < 11).",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/03-absorption/flashcard-022",
+    "recto": "Classes à absorption indépendante du pH",
+    "verso": "Acides très faibles (pKa > 7,5) et bases très faibles (pKa < 5).",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/03-absorption/flashcard-023",
+    "recto": "Où un acide faible diffuse-t-il le mieux ?",
+    "verso": "En milieu acide (pH faible) : estomac.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/03-absorption/flashcard-024",
+    "recto": "Où une base faible diffuse-t-elle le mieux ?",
+    "verso": "En milieu alcalin (pH élevé) : intestin.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/03-absorption/flashcard-025",
+    "recto": "Estomac : surface, débit sanguin, pH",
+    "verso": "≈ 1 m², 0,2 l/min, pH acide 1,5–3,5 (1–3).",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/03-absorption/flashcard-026",
+    "recto": "Intestin grêle : surface, longueur, débit, pH",
+    "verso": "≈ 200 m², 4–5 m, 1 l/min, pH 5–8 ; site le plus important d'absorption.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/03-absorption/flashcard-027",
+    "recto": "Rôle de la bile dans le duodénum",
+    "verso": "Favorise la dissolution des PA et donc leur résorption.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/03-absorption/flashcard-028",
+    "recto": "Effet de l'épaisseur de la membrane",
+    "verso": "Presque constante ; une diminution augmente l'absorption.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/03-absorption/flashcard-029",
+    "recto": "Définition de l'effet de premier passage",
+    "verso": "Perte de médicament par métabolisme avant son arrivée dans la circulation générale, dès le premier contact avec l'organe de biotransformation.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/03-absorption/flashcard-030",
+    "recto": "Les trois types d'EPP",
+    "verso": "Intestinal (EPPI), hépatique (EPPH), pulmonaire (EPPP).",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/03-absorption/flashcard-031",
+    "recto": "EPP de la voie orale",
+    "verso": "Intestinal, hépatique et pulmonaire.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/03-absorption/flashcard-032",
+    "recto": "EPP des voies IV, IM, S/C et sublinguale",
+    "verso": "Pulmonaire uniquement.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/03-absorption/flashcard-033",
+    "recto": "Voies sans EPP",
+    "verso": "Voie locale et voie intra-artérielle.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/03-absorption/flashcard-034",
+    "recto": "EPP rectal selon les veines hémorroïdales",
+    "verso": "Inférieures et moyennes : pulmonaire ; supérieures : hépatique et pulmonaire.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/03-absorption/flashcard-035",
+    "recto": "Définition de la biodisponibilité",
+    "verso": "Pourcentage de la dose administrée qui atteint la circulation générale et vitesse avec laquelle elle l'atteint.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/03-absorption/flashcard-036",
+    "recto": "Phénomènes déterminant la biodisponibilité",
+    "verso": "Résorption, effets de premier passage, glycoprotéine P.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/03-absorption/flashcard-037",
+    "recto": "Glycoprotéine P",
+    "verso": "Pompe membranaire d'efflux expulsant des substrats (dont des médicaments) hors de la cellule ; équipement variable selon les individus.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/03-absorption/flashcard-038",
+    "recto": "Localisations de la P-gp",
+    "verso": "Intestins, barrière hémato-méningée, voies biliaires, tubules rénaux…",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/03-absorption/flashcard-039",
+    "recto": "Pourquoi la voie perlinguale évite-t-elle le foie ?",
+    "verso": "Les veines jugulaires externes drainant la bouche se jettent dans la veine cave supérieure.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/03-absorption/flashcard-040",
+    "recto": "Caractéristiques de la voie rectale",
+    "verso": "Diffusion passive, absorption irrégulière, pas d'enzymes digestives, EPP hépatique réduit.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/03-absorption/flashcard-041",
+    "recto": "Taille des particules et voie pulmonaire",
+    "verso": "0,2–2 µm : alvéoles puis sang ; > 3 µm : pas de passage, action locale.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/03-absorption/flashcard-042",
+    "recto": "Facteurs augmentant l'absorption percutanée",
+    "verso": "Hydratation de la peau, lésions cutanées.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/03-absorption/flashcard-043",
+    "recto": "Voie S/C : solutions aqueuses vs huileuses",
+    "verso": "Aqueuses : diffusion passive ; huileuses : pinocytose. Résorption irrégulière, plus lente que l'IM.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/03-absorption/flashcard-044",
+    "recto": "Comment accélérer l'absorption S/C ou IM ?",
+    "verso": "Vasodilatation chimique (vasodilatateurs) ou mécanique (friction).",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/03-absorption/flashcard-045",
+    "recto": "Site habituel d'injection IM",
+    "verso": "Masse musculaire de la fesse ; plus rarement le deltoïde (vaccins).",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/03-absorption/flashcard-046",
+    "recto": "Vitesse de résorption de la voie intrapéritonéale",
+    "verso": "Équivalente à celle de la voie IV.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/03-absorption/flashcard-047",
+    "recto": "Muqueuse vaginale",
+    "verso": "Visée locale ; résorption rare et faible.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/03-absorption/flashcard-048",
+    "recto": "Muqueuse nasale",
+    "verso": "Action locale la plus recherchée, mais effets généraux possibles (absorption rapide).",
+    "tags": []
+  }
+]

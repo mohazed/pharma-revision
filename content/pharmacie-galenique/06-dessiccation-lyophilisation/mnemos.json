@@ -1,0 +1,26 @@
+[
+  {
+    "id": "pharmacie-galenique/06-dessiccation-lyophilisation/mnemo-001",
+    "titre": "Modes de transfert de calories",
+    "moyen": "« CoCoRa-Froid » : Convection, Conduction, Rayonnement, Froid",
+    "explication": "Les quatre modes de séchage selon le transfert de calories."
+  },
+  {
+    "id": "pharmacie-galenique/06-dessiccation-lyophilisation/mnemo-002",
+    "titre": "Croûtage",
+    "moyen": "« Évaporer plus vite que Migrer = Croûte » (Ve > Vm)",
+    "explication": "Si l'évaporation de surface dépasse la migration interne, une croûte se forme."
+  },
+  {
+    "id": "pharmacie-galenique/06-dessiccation-lyophilisation/mnemo-003",
+    "titre": "Lyophilisateur",
+    "moyen": "« A Sublime, B Bloque la vapeur en glace » ; « B plus froid = Basse pression »",
+    "explication": "Enceinte A : sublimation ; enceinte B (Tb < Ta, Pb < Pa) : condensation."
+  },
+  {
+    "id": "pharmacie-galenique/06-dessiccation-lyophilisation/mnemo-004",
+    "titre": "Contrôle d'humidité résiduelle",
+    "moyen": "« IR 15-85, Étuve 30-105 »",
+    "explication": "Dessiccateur IR 15 min à 85 °C ; étuve 30 min à 105 °C."
+  }
+]

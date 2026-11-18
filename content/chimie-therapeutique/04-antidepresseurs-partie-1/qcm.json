@@ -1,0 +1,1698 @@
+[
+  {
+    "id": "chimie-therapeutique/04-antidepresseurs-partie-1/qcm-001",
+    "type": "multiple",
+    "enonce": "Les psychotropes se répartissent en :",
+    "options": [
+      "Psycholeptiques, qui dépriment",
+      "Psychoanaleptiques, qui stimulent",
+      "Psychodysleptiques, qui perturbent",
+      "Psycho-isoleptiques, qui stabilisent",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Quatre groupes : psycholeptiques (dépriment), psychoanaleptiques (stimulent), psychodysleptiques (perturbent), psycho-isoleptiques (stabilisent).",
+    "source": {
+      "page": 2,
+      "extrait": "Psycholeptiques (dépriment) Psychodysleptiques (perturbent) Psychoanaleptiques (stimulent) Psychoisoleptiques (stabilisent)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "psychotropes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/04-antidepresseurs-partie-1/qcm-002",
+    "type": "multiple",
+    "enonce": "Concernant la dépression :",
+    "options": [
+      "C'est un trouble mental caractérisé par une baisse de l'humeur dans le sens de la tristesse",
+      "Elle comporte une souffrance morale",
+      "Elle comporte un ralentissement psychomoteur",
+      "C'est une sorte de trouble de l'humeur",
+      "C'est une maladie en soi selon le cours"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "La dépression est un trouble mental : baisse de l'humeur (tristesse), souffrance morale, ralentissement psychomoteur ; le cours précise qu'elle n'est pas une maladie en soi mais un trouble de l'humeur.",
+    "source": {
+      "page": 3,
+      "extrait": "La dépression n'est pas une maladie en soi, c'est une sorte de trouble de l'humeur"
+    },
+    "difficulte": 1,
+    "tags": [
+      "dépression"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/04-antidepresseurs-partie-1/qcm-003",
+    "type": "multiple",
+    "enonce": "Symptômes de la dépression cités dans le cours :",
+    "options": [
+      "Sentiments intenses de tristesse",
+      "Désespoir",
+      "Manque de motivation",
+      "Incapacité à éprouver du plaisir dans les activités habituelles",
+      "Hyperactivité psychomotrice"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Les symptômes cités sont tristesse intense, désespoir, manque de motivation, incapacité à éprouver du plaisir ; il existe au contraire un ralentissement psychomoteur.",
+    "source": {
+      "page": 3,
+      "extrait": "sentiments intenses de tristesse, de désespoir, de manque de motivation"
+    },
+    "difficulte": 1,
+    "tags": [
+      "dépression"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/04-antidepresseurs-partie-1/qcm-004",
+    "type": "multiple",
+    "enonce": "Selon l'hypothèse monoaminergique :",
+    "options": [
+      "La dépression résulte d'altérations complexes des systèmes de neurotransmission",
+      "Les taux synaptiques de noradrénaline sont diminués",
+      "Les taux synaptiques de sérotonine sont diminués",
+      "Les taux synaptiques de dopamine sont diminués",
+      "Les taux synaptiques de monoamines sont augmentés"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "La dépression résulte d'altérations complexes des systèmes de neurotransmission avec diminution des taux synaptiques de noradrénaline, de sérotonine et de dopamine.",
+    "source": {
+      "page": 5,
+      "extrait": "avec diminution des taux synaptiques : Noradrénaline Sérotonine Dopamine"
+    },
+    "difficulte": 1,
+    "tags": [
+      "physiopathologie"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/04-antidepresseurs-partie-1/qcm-005",
+    "type": "multiple",
+    "enonce": "Associez chaque monoamine à ses fonctions selon le cours :",
+    "options": [
+      "Noradrénaline : réveil et attention/concentration",
+      "Sérotonine : humeur, appétit et sommeil",
+      "Dopamine : mouvement, motivation et aptitude à éprouver de la joie",
+      "Sérotonine : mouvement et motivation",
+      "Dopamine : appétit et sommeil"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Noradrénaline : réveil, attention/concentration ; sérotonine : humeur, appétit, sommeil ; dopamine : mouvement, motivation, joie.",
+    "source": {
+      "page": 5,
+      "extrait": "Noradrénaline (réveil et attention/concentration) Sérotonine (humeur, appétit et sommeil)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "physiopathologie"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/04-antidepresseurs-partie-1/qcm-006",
+    "type": "unique",
+    "enonce": "Selon le cours, la monoamine impliquée dans l'humeur, l'appétit et le sommeil est :",
+    "options": [
+      "La noradrénaline",
+      "La sérotonine",
+      "La dopamine",
+      "L'acétylcholine",
+      "Le GABA"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Sérotonine : humeur, appétit et sommeil.",
+    "source": {
+      "page": 5,
+      "extrait": "Sérotonine (humeur, appétit et sommeil)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "physiopathologie"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/04-antidepresseurs-partie-1/qcm-007",
+    "type": "unique",
+    "enonce": "Selon le cours, la monoamine impliquée dans le mouvement, la motivation et l'aptitude à éprouver de la joie est :",
+    "options": [
+      "La noradrénaline",
+      "La sérotonine",
+      "La dopamine",
+      "L'histamine",
+      "Le glutamate"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Dopamine : mouvement, motivation et aptitude à éprouver de la joie.",
+    "source": {
+      "page": 5,
+      "extrait": "Dopamine (mouvement, motivation et aptitude à éprouver de la joie)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "physiopathologie"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/04-antidepresseurs-partie-1/qcm-008",
+    "type": "unique",
+    "enonce": "Les antidépresseurs appartiennent aux :",
+    "options": [
+      "Psycholeptiques",
+      "Psychoanaleptiques (thymoanaleptiques)",
+      "Psychodysleptiques",
+      "Psycho-isoleptiques",
+      "Nooleptiques"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Les antidépresseurs sont des psychoanaleptiques (thymoanaleptiques).",
+    "source": {
+      "page": 6,
+      "extrait": "Les antidépresseurs: Psychoanaleptiques (thymoanaleptiques)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "classification"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/04-antidepresseurs-partie-1/qcm-009",
+    "type": "multiple",
+    "enonce": "Les antidépresseurs agissent en augmentant les quantités de :",
+    "options": [
+      "Dopamine",
+      "Noradrénaline",
+      "Sérotonine",
+      "GABA",
+      "Acétylcholine"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Les antidépresseurs augmentent les quantités de dopamine, noradrénaline et sérotonine selon des mécanismes différents.",
+    "source": {
+      "page": 6,
+      "extrait": "augmentant les quantités de neurotransmetteurs : dopamine, noradrénaline, sérotonine"
+    },
+    "difficulte": 1,
+    "tags": [
+      "mécanisme"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/04-antidepresseurs-partie-1/qcm-010",
+    "type": "multiple",
+    "enonce": "Mode d'action général des antidépresseurs :",
+    "options": [
+      "Inhibition de la recapture pré-synaptique",
+      "Inhibition de la dégradation",
+      "Inhibition des autorécepteurs pré-synaptiques",
+      "Blocage des canaux chlorure",
+      "Stimulation de la synthèse du GABA"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Trois mécanismes : inhibition de la recapture pré-synaptique, inhibition de la dégradation, inhibition des autorécepteurs pré-synaptiques.",
+    "source": {
+      "page": 7,
+      "extrait": "Inhibition de la recapture pré-synaptique Inhibition de la dégradation inhibition des autorécepteurs pré-synaptiques"
+    },
+    "difficulte": 1,
+    "tags": [
+      "mécanisme"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/04-antidepresseurs-partie-1/qcm-011",
+    "type": "multiple",
+    "enonce": "La classification chimique des antidépresseurs comprend :",
+    "options": [
+      "Les antidépresseurs tricycliques et apparentés",
+      "Les IMAO",
+      "Les antidépresseurs de nouvelle (2e) génération ni tricycliques ni IMAO",
+      "Les autres antidépresseurs (atypiques)",
+      "Les benzodiazépines"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Quatre groupes chimiques : tricycliques et apparentés, IMAO, antidépresseurs de 2e génération, autres ATD (atypiques).",
+    "source": {
+      "page": 9,
+      "extrait": "antidépresseurs tricycliques et apparentés IMAO Antidépresseurs de nouvelle (2ème) génération"
+    },
+    "difficulte": 1,
+    "tags": [
+      "classification chimique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/04-antidepresseurs-partie-1/qcm-012",
+    "type": "multiple",
+    "enonce": "Parmi les dérivés de la dibenzazépine (tricycliques) :",
+    "options": [
+      "Imipramine (Tofranil®)",
+      "Désipramine (Pertofran®)",
+      "Clomipramine (Anafranil®)",
+      "Trimipramine (Surmontil®)",
+      "Amitriptyline (Laroxyl®)"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Les dérivés de la dibenzazépine sont l'imipramine, la désipramine, la clomipramine et la trimipramine ; l'amitriptyline est un dérivé du dibenzocycloheptadiène.",
+    "source": {
+      "page": 10,
+      "extrait": "Dérivé de dibenzazépine Imipramine (Tofranil®) Désipramine (Pertofran®)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "tricycliques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/04-antidepresseurs-partie-1/qcm-013",
+    "type": "multiple",
+    "enonce": "Parmi les dérivés du dibenzocycloheptadiène :",
+    "options": [
+      "Amitriptyline (Laroxyl®, Elavil®)",
+      "Nortriptyline (Altilev)",
+      "Imipramine (Tofranil®)",
+      "Dosulépine (Prothiaden®)",
+      "Amoxapine (Défanyl®)"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Les dérivés du dibenzocycloheptadiène sont l'amitriptyline et la nortriptyline.",
+    "source": {
+      "page": 10,
+      "extrait": "Dérivé de dibenzocyloheptadiène Amitriptyline (Laroxyl®, Elavil®) nortriptyline (Altilev)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "tricycliques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/04-antidepresseurs-partie-1/qcm-014",
+    "type": "multiple",
+    "enonce": "Associez correctement analogue tricyclique et noyau :",
+    "options": [
+      "Dosulépine (Prothiaden®) : dibenzothiépine",
+      "Amoxapine (Défanyl®) : dibenzoxazépine",
+      "Tianeptine (Stablon®) : dibenzothiazépine",
+      "Maprotiline (Ludiomil®) : antidépresseur tétracyclique",
+      "Dosulépine : dibenzoxazépine"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Dosulépine = dibenzothiépine ; amoxapine = dibenzoxazépine ; tianeptine = dibenzothiazépine ; maprotiline = tétracyclique apparenté aux tricycliques.",
+    "source": {
+      "page": 10,
+      "extrait": "Dibenzothiépine Dosulépine (Prothiaden®) Dibenzoxazépine Amoxapine (Défanyl®)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "analogues tricycliques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/04-antidepresseurs-partie-1/qcm-015",
+    "type": "unique",
+    "enonce": "La maprotiline (Ludiomil®) est :",
+    "options": [
+      "Un antidépresseur tricyclique",
+      "Un antidépresseur tétracyclique apparenté aux tricycliques",
+      "Un IMAO",
+      "Un ISRS",
+      "Un IRSNA"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "La maprotiline est un antidépresseur tétracyclique apparenté aux tricycliques.",
+    "source": {
+      "page": 10,
+      "extrait": "ATD tétracycliques apparentés aux tricycliques Maprotiline (Ludiomil®)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "tétracycliques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/04-antidepresseurs-partie-1/qcm-016",
+    "type": "multiple",
+    "enonce": "Concernant les IMAO :",
+    "options": [
+      "L'iproniazide (Marsilid®) est un inhibiteur irréversible non sélectif de la MAO",
+      "Le moclobémide (Moclamine®) est un inhibiteur réversible sélectif de la MAO-A",
+      "L'iproniazide est un inhibiteur réversible sélectif de la MAO-A",
+      "Le moclobémide est irréversible",
+      "Les IMAO inhibent la dégradation des monoamines"
+    ],
+    "correctes": [
+      0,
+      1,
+      4
+    ],
+    "explication": "Iproniazide (Marsilid®) : inhibiteur irréversible non sélectif ; moclobémide (Moclamine®) : inhibiteur réversible sélectif de la MAO-A. Les IMAO agissent par inhibition de la dégradation.",
+    "source": {
+      "page": 11,
+      "extrait": "Inhibiteurs irréversibles de la MAO non sélectifs Iproniazide (Marsilid®)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "IMAO"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/04-antidepresseurs-partie-1/qcm-017",
+    "type": "multiple",
+    "enonce": "Inhibiteurs spécifiques de la recapture de la sérotonine (ISRS) cités :",
+    "options": [
+      "Fluvoxamine (Floxyfral®)",
+      "Fluoxétine (Prozac®)",
+      "Paroxétine (Deroxat®)",
+      "Citalopram (Seropram®) et sertraline (Zoloft®)",
+      "Venlafaxine (Effexor®)"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "ISRS : fluvoxamine, fluoxétine, paroxétine, citalopram, sertraline. La venlafaxine est un IRSNA.",
+    "source": {
+      "page": 12,
+      "extrait": "Inhibiteurs spécifiques de la recapture de la sérotonine (ISRS) : Fluvoxamine (Floxyfral®) Fluoxétine (Prozac®)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "ISRS"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/04-antidepresseurs-partie-1/qcm-018",
+    "type": "multiple",
+    "enonce": "Inhibiteurs de la recapture de la sérotonine et de la noradrénaline (IRSNA) cités :",
+    "options": [
+      "Milnacipran (Ixel®)",
+      "Venlafaxine (Effexor®)",
+      "Sertraline (Zoloft®)",
+      "Citalopram (Seropram®)",
+      "Mirtazapine (Norset®)"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "IRSNA : milnacipran (Ixel®) et venlafaxine (Effexor®).",
+    "source": {
+      "page": 12,
+      "extrait": "Inhibiteurs de la recapture de la sérotonine et de la noradrénaline (IRSNA) : Milnacipran (Ixel®) Venlafaxine (Effexor®)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "IRSNA"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/04-antidepresseurs-partie-1/qcm-019",
+    "type": "unique",
+    "enonce": "L'antidépresseur atypique cité dans la classification chimique est :",
+    "options": [
+      "La mirtazapine (Norset®)",
+      "La venlafaxine (Effexor®)",
+      "La maprotiline (Ludiomil®)",
+      "La tianeptine (Stablon®)",
+      "Le moclobémide (Moclamine®)"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Autres ATD (atypiques) : mirtazapine (Norset®).",
+    "source": {
+      "page": 13,
+      "extrait": "Autres ATD (ATD atypiques) Mirtazapine (Norset)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "atypiques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/04-antidepresseurs-partie-1/qcm-020",
+    "type": "multiple",
+    "enonce": "Associez correctement DCI et spécialité :",
+    "options": [
+      "Imipramine : Tofranil®",
+      "Clomipramine : Anafranil®",
+      "Amitriptyline : Laroxyl® ou Elavil®",
+      "Fluoxétine : Prozac®",
+      "Paroxétine : Seropram®"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Paroxétine = Deroxat® ; Seropram® = citalopram.",
+    "source": {
+      "page": 12,
+      "extrait": "Paroxétine (Deroxat®) Citalopram (Seropram®)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "spécialités"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/04-antidepresseurs-partie-1/qcm-021",
+    "type": "multiple",
+    "enonce": "Classification biochimique des antidépresseurs :",
+    "options": [
+      "Elle distingue les antidépresseurs selon la sélectivité de l'activité sur les monoamines",
+      "Les tricycliques sont à activité monoaminergique non spécifique",
+      "Les IMAO sont à activité monoaminergique non spécifique",
+      "Les ISRS sont à activité spécifique",
+      "Les ISRS sont à activité non spécifique"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "On distingue les antidépresseurs à activité monoaminergique non spécifique (tricycliques, IMAO) et ceux à activité spécifique (ISRS, ISRSNA, NASSA).",
+    "source": {
+      "page": 14,
+      "extrait": "On distingue selon la sélectivité de l'activité sur les monoamines"
+    },
+    "difficulte": 2,
+    "tags": [
+      "classification biochimique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/04-antidepresseurs-partie-1/qcm-022",
+    "type": "multiple",
+    "enonce": "Les antidépresseurs à activité monoaminergique non spécifique :",
+    "options": [
+      "Agissent sur la noradrénaline, la sérotonine et la dopamine",
+      "Comprennent les antidépresseurs tricycliques",
+      "Comprennent les IMAO",
+      "Comprennent les ISRS",
+      "N'agissent que sur la sérotonine"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Non spécifiques (NA, sérotonine et dopamine) : antidépresseurs tricycliques et IMAO.",
+    "source": {
+      "page": 14,
+      "extrait": "non spécifique: (NA, sérotonine et dopamine) : 1) Antidépresseurs tricycliques . 2) IMAO"
+    },
+    "difficulte": 2,
+    "tags": [
+      "classification biochimique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/04-antidepresseurs-partie-1/qcm-023",
+    "type": "multiple",
+    "enonce": "Les antidépresseurs à activité monoaminergique spécifique (agissant sur 1 ou 2 monoamines) comprennent :",
+    "options": [
+      "Les inhibiteurs sélectifs de la recapture de la sérotonine (ISRS)",
+      "Les inhibiteurs sélectifs de la recapture de la sérotonine et de la noradrénaline (ISRSNA)",
+      "Les antidépresseurs noradrénergiques et sérotoninergiques spécifiques (NASSA)",
+      "La mirtazapine (Norset®) comme NASSA",
+      "Les IMAO"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Spécifiques : ISRS, ISRSNA et NASSA (mirtazapine, Norset®). Les IMAO sont non spécifiques.",
+    "source": {
+      "page": 14,
+      "extrait": "Antidépresseurs noradrénergiques et sérotoninérgiques spécifiques « NASSA » Mirtazapine (Norset®)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "classification biochimique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/04-antidepresseurs-partie-1/qcm-024",
+    "type": "unique",
+    "enonce": "Le sigle NASSA désigne :",
+    "options": [
+      "Les inhibiteurs sélectifs de la recapture de la sérotonine",
+      "Les antidépresseurs noradrénergiques et sérotoninergiques spécifiques",
+      "Les inhibiteurs de la monoamine oxydase",
+      "Les antidépresseurs tricycliques",
+      "Les antidépresseurs tétracycliques"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "NASSA : antidépresseurs noradrénergiques et sérotoninergiques spécifiques (mirtazapine).",
+    "source": {
+      "page": 14,
+      "extrait": "Antidépresseurs noradrénergiques et sérotoninérgiques spécifiques « NASSA »"
+    },
+    "difficulte": 1,
+    "tags": [
+      "classification biochimique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/04-antidepresseurs-partie-1/qcm-025",
+    "type": "multiple",
+    "enonce": "La classification selon l'activité thérapeutique distingue :",
+    "options": [
+      "Les antidépresseurs psychostimulants",
+      "Les antidépresseurs intermédiaires",
+      "Les antidépresseurs psychosédatifs",
+      "Les antidépresseurs tricycliques",
+      "Les IMAO"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "La classification thérapeutique distingue psychostimulants, intermédiaires et psychosédatifs (du pôle psychotonique au pôle sédatif).",
+    "source": {
+      "page": 15,
+      "extrait": "Antidépresseurs psychostimulants Antidépresseurs intermédiaires Antidépresseurs psychosédatifs"
+    },
+    "difficulte": 1,
+    "tags": [
+      "classification thérapeutique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/04-antidepresseurs-partie-1/qcm-026",
+    "type": "multiple",
+    "enonce": "Du côté du pôle psychotonique, on trouve :",
+    "options": [
+      "Les IMAO",
+      "La désipramine (Pertofran®)",
+      "L'amitriptyline (Laroxyl®)",
+      "La miansérine (Athymil®)",
+      "La maprotiline (Ludiomil®)"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Pôle psychotonique : IMAO et désipramine. Amitriptyline, miansérine et maprotiline sont du côté du pôle sédatif.",
+    "source": {
+      "page": 15,
+      "extrait": "Pôle psychotonique IMAO Désipramine (Pertofran®)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "classification thérapeutique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/04-antidepresseurs-partie-1/qcm-027",
+    "type": "multiple",
+    "enonce": "Du côté du pôle sédatif, on trouve :",
+    "options": [
+      "Maprotiline (Ludiomil®)",
+      "Amitriptyline (Laroxyl®)",
+      "Trimipramine (Surmontil®)",
+      "Miansérine (Athymil®)",
+      "Désipramine (Pertofran®)"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Pôle sédatif : maprotiline, amitriptyline, trimipramine, miansérine. La désipramine est au pôle psychotonique.",
+    "source": {
+      "page": 15,
+      "extrait": "Maprotiline (Ludiomil®) Amitriptyline (Laroxyl®) Trimipramine (Surmontil®) Miansérine (Athymil®)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "classification thérapeutique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/04-antidepresseurs-partie-1/qcm-028",
+    "type": "multiple",
+    "enonce": "Dans la zone intermédiaire de la classification thérapeutique figurent :",
+    "options": [
+      "Imipramine (Tofranil®)",
+      "Clomipramine (Anafranil®)",
+      "Dosulépine (Prothiaden®)",
+      "Les IRS et les IRSNA",
+      "Les IMAO"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Position intermédiaire : imipramine, clomipramine, dosulépine, IRS et IRSNA. Les IMAO sont au pôle psychotonique.",
+    "source": {
+      "page": 15,
+      "extrait": "Imipramine (Tofranil®) Clomipramine (Anafranil®) Dosulépine (Prothiaden®) IRS IRSNA"
+    },
+    "difficulte": 3,
+    "tags": [
+      "classification thérapeutique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/04-antidepresseurs-partie-1/qcm-029",
+    "type": "unique",
+    "enonce": "La miansérine (Athymil®) se situe :",
+    "options": [
+      "Au pôle psychotonique",
+      "Au pôle sédatif",
+      "En position intermédiaire",
+      "Parmi les IMAO",
+      "Parmi les ISRS"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "La miansérine figure au pôle sédatif de la classification thérapeutique.",
+    "source": {
+      "page": 15,
+      "extrait": "Miansérine (Athymil®) Pôle sédatif"
+    },
+    "difficulte": 2,
+    "tags": [
+      "classification thérapeutique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/04-antidepresseurs-partie-1/qcm-030",
+    "type": "multiple",
+    "enonce": "Caractéristiques générales des antidépresseurs tricycliques :",
+    "options": [
+      "Ils sont tous formés de 3 cycles",
+      "L'imipramine constitue le chef de file",
+      "Ils ont une parenté structurale avec les phénothiazines",
+      "La nature de l'atome portant la chaîne latérale permet de distinguer deux séries principales",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Tricycliques : 3 cycles, chef de file imipramine, parenté structurale avec les phénothiazines ; deux séries selon l'atome portant la chaîne latérale.",
+    "source": {
+      "page": 16,
+      "extrait": "formés tous de 3 cycles ; l'imipramine constitue le chef de fil ; parenté structurale avec les phénothiazines"
+    },
+    "difficulte": 1,
+    "tags": [
+      "tricycliques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/04-antidepresseurs-partie-1/qcm-031",
+    "type": "multiple",
+    "enonce": "Les deux séries principales d'antidépresseurs tricycliques sont :",
+    "options": [
+      "La série de l'imipramine",
+      "La série de l'amitriptyline",
+      "La série de la fluoxétine",
+      "La série du moclobémide",
+      "La série de la mirtazapine"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Deux séries : imipramine (dibenzazépines, « -pramines ») et amitriptyline (dibenzocycloheptadiènes, « -ptylines »).",
+    "source": {
+      "page": 16,
+      "extrait": "La série de l'imipramine La série de l'amitriptyline"
+    },
+    "difficulte": 1,
+    "tags": [
+      "tricycliques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/04-antidepresseurs-partie-1/qcm-032",
+    "type": "multiple",
+    "enonce": "Concernant la structure générale des tricycliques :",
+    "options": [
+      "Elle comporte un noyau dibenz[az]épine dans la série de l'imipramine",
+      "Elle comporte une chaîne carbonée latérale",
+      "La chaîne porte une amine secondaire ou tertiaire",
+      "La chaîne latérale porte une fonction acide carboxylique",
+      "Le noyau est toujours tétracyclique"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Structure : noyau tricyclique (dibenz[az]épine dans la série imipramine) + chaîne carbonée portant une amine secondaire ou tertiaire.",
+    "source": {
+      "page": 16,
+      "extrait": "Dibenz[az]epine Amine secondaire ou tertiaire Chaîne carbonée"
+    },
+    "difficulte": 1,
+    "tags": [
+      "tricycliques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/04-antidepresseurs-partie-1/qcm-033",
+    "type": "multiple",
+    "enonce": "Caractéristiques du groupe des imipraminiques :",
+    "options": [
+      "C'est un groupe homogène",
+      "Il comporte un cycle central heptagonal",
+      "Les deux faces du cycle central sont fusionnées avec les noyaux benzéniques voisins",
+      "La chaîne latérale comporte une amine terminale secondaire ou tertiaire",
+      "Le cycle central est hexagonal"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Imipraminiques : groupe homogène, cycle central heptagonal à deux faces fusionnées avec les benzènes voisins, chaîne latérale à amine terminale secondaire ou tertiaire.",
+    "source": {
+      "page": 18,
+      "extrait": "Un cycle central heptagonal avec deux faces fusionnées avec les noyau benzéniques voisins"
+    },
+    "difficulte": 2,
+    "tags": [
+      "imipramine"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/04-antidepresseurs-partie-1/qcm-034",
+    "type": "multiple",
+    "enonce": "Série de l'imipramine (dibenzazépines) :",
+    "options": [
+      "Imipramine : R1 = –CH2CH2CH2–N(CH3)2 et R2 = H",
+      "Désipramine : R1 = –CH2CH2CH2–NHCH3 et R2 = H",
+      "Clomipramine : R1 = –CH2CH2CH2–N(CH3)2 et R2 = Cl",
+      "La désipramine porte une amine tertiaire",
+      "La clomipramine ne porte aucun halogène"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Imipramine : amine tertiaire, R2 = H ; désipramine : amine secondaire (NHCH3) ; clomipramine : amine tertiaire + Cl sur le noyau.",
+    "source": {
+      "page": 17,
+      "extrait": "Imipramine —CH2CH2CH2N(CH3)2 H Desipramine —CH2CH2CH2NHCH3 H Clomipramine Cl"
+    },
+    "difficulte": 2,
+    "tags": [
+      "imipramine"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/04-antidepresseurs-partie-1/qcm-035",
+    "type": "unique",
+    "enonce": "La désipramine se distingue de l'imipramine par :",
+    "options": [
+      "Une amine terminale secondaire (NHCH3)",
+      "Un chlore sur le noyau",
+      "Une double liaison exocyclique",
+      "Un noyau soufré",
+      "Un cycle central hexagonal"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Désipramine : chaîne –CH2CH2CH2–NHCH3, amine secondaire ; imipramine : amine tertiaire N(CH3)2.",
+    "source": {
+      "page": 17,
+      "extrait": "Desipramine —CH2CH2CH2NHCH3"
+    },
+    "difficulte": 2,
+    "tags": [
+      "imipramine"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/04-antidepresseurs-partie-1/qcm-036",
+    "type": "unique",
+    "enonce": "La clomipramine se distingue de l'imipramine par :",
+    "options": [
+      "Un chlore en position 3 du noyau tricyclique",
+      "Une amine secondaire",
+      "Une double liaison exocyclique",
+      "Un atome de soufre",
+      "Un cycle à 6 chaînons central"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Clomipramine : R2 = Cl, l'amine restant tertiaire.",
+    "source": {
+      "page": 17,
+      "extrait": "Clomipramine —CH2CH2CH2N(CH3)2 Cl"
+    },
+    "difficulte": 1,
+    "tags": [
+      "imipramine"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/04-antidepresseurs-partie-1/qcm-037",
+    "type": "multiple",
+    "enonce": "Les tricycliques de la série de l'imipramine sont appelés :",
+    "options": [
+      "Les « -pramines »",
+      "Des dibenzazépines",
+      "Les « -ptylines »",
+      "Des dibenzocycloheptadiènes",
+      "Des phénothiazines"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Le groupe de l'imipramine (dibenzazépines et dérivés) correspond aux « -pramines ».",
+    "source": {
+      "page": 17,
+      "extrait": "Les ' -pramines '"
+    },
+    "difficulte": 1,
+    "tags": [
+      "imipramine"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/04-antidepresseurs-partie-1/qcm-038",
+    "type": "multiple",
+    "enonce": "La série de l'amitriptyline :",
+    "options": [
+      "Est caractérisée par une double liaison carbone-carbone exocyclique",
+      "Correspond aux dibenzocycloheptadiènes (dibenzocycloheptènes)",
+      "Regroupe les « -ptylines »",
+      "Comporte un azote en position 5 du cycle central",
+      "Comporte l'amitriptyline et la nortriptyline"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explication": "La série de l'amitriptyline est caractérisée par une double liaison C=C exocyclique : le cycle central ne contient pas d'azote (dibenzocycloheptadiène).",
+    "source": {
+      "page": 19,
+      "extrait": "Caractérisée par une double liaison carbone-carbone exocyclique"
+    },
+    "difficulte": 2,
+    "tags": [
+      "amitriptyline"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/04-antidepresseurs-partie-1/qcm-039",
+    "type": "multiple",
+    "enonce": "Comparaison amitriptyline / nortriptyline :",
+    "options": [
+      "Amitriptyline : R1 = =CHCH2CH2N(CH3)2",
+      "Nortriptyline : R1 = =CHCH2CH2NHCH3",
+      "L'amitriptyline porte une amine tertiaire",
+      "La nortriptyline porte une amine secondaire",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Amitriptyline : amine tertiaire N(CH3)2 ; nortriptyline : amine secondaire NHCH3 ; toutes deux portent la double liaison exocyclique.",
+    "source": {
+      "page": 17,
+      "extrait": "Amitriptyline =CHCH2CH2N(CH3)2 Nortriptyline =CHCH2CH2NHCH3"
+    },
+    "difficulte": 2,
+    "tags": [
+      "amitriptyline"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/04-antidepresseurs-partie-1/qcm-040",
+    "type": "unique",
+    "enonce": "La différence structurale fondamentale entre la série de l'imipramine et celle de l'amitriptyline est :",
+    "options": [
+      "La nature de l'atome portant la chaîne latérale (azote vs carbone avec double liaison exocyclique)",
+      "Le nombre de cycles",
+      "La présence d'un atome de soufre",
+      "La taille du cycle central",
+      "La présence d'un halogène"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "La nature de l'atome portant la chaîne latérale permet de distinguer les deux séries : azote (imipramine) ou carbone avec double liaison exocyclique (amitriptyline).",
+    "source": {
+      "page": 16,
+      "extrait": "La nature de l'atome portant la chaine latérale permet de distinguer deux séries principales"
+    },
+    "difficulte": 2,
+    "tags": [
+      "tricycliques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/04-antidepresseurs-partie-1/qcm-041",
+    "type": "unique",
+    "enonce": "La synthèse de l'amitriptyline part de :",
+    "options": [
+      "La dibenzosubérone",
+      "La dibenzazépine",
+      "La 2-amino-5-chlorobenzophénone",
+      "La phénothiazine",
+      "Le dibenzothiépine"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "La synthèse de l'amitriptyline part de la dibenzosubérone.",
+    "source": {
+      "page": 20,
+      "extrait": "Dibenzosubérone"
+    },
+    "difficulte": 1,
+    "tags": [
+      "synthèse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/04-antidepresseurs-partie-1/qcm-042",
+    "type": "multiple",
+    "enonce": "Étapes de la synthèse de l'amitriptyline :",
+    "options": [
+      "Action du bromure cyclopropylmagnésien sur la dibenzosubérone",
+      "Hydrolyse acide (H2O/H+) conduisant au cyclopropylcarbinol",
+      "Ouverture du cyclopropane par HBr donnant un dérivé éthylénique bromé",
+      "Action de la diméthylamine sur le dérivé bromé avec libération de HBr",
+      "Méthylation finale par l'iodure de méthyle"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Grignard (bromure cyclopropylmagnésien) sur la dibenzosubérone, hydrolyse → cyclopropylcarbinol, ouverture par HBr → dérivé éthylénique bromé, puis diméthylamine (–HBr) → amitriptyline.",
+    "source": {
+      "page": 21,
+      "extrait": "Dérivé éthylénique bromé Amitriptyline"
+    },
+    "difficulte": 2,
+    "tags": [
+      "synthèse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/04-antidepresseurs-partie-1/qcm-043",
+    "type": "unique",
+    "enonce": "Le réactif de Grignard utilisé dans la synthèse de l'amitriptyline est :",
+    "options": [
+      "Le bromure de méthylmagnésium",
+      "Le bromure cyclopropylmagnésien",
+      "Le bromure de phénylmagnésium",
+      "Le bromure de bromoacétyle",
+      "L'iodure de méthyle"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Le bromure cyclopropylmagnésien s'additionne sur le carbonyle de la dibenzosubérone.",
+    "source": {
+      "page": 20,
+      "extrait": "Bromure cyclopropylmagnésien"
+    },
+    "difficulte": 2,
+    "tags": [
+      "synthèse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/04-antidepresseurs-partie-1/qcm-044",
+    "type": "unique",
+    "enonce": "L'intermédiaire obtenu après hydrolyse de l'adduit de Grignard dans la synthèse de l'amitriptyline est :",
+    "options": [
+      "Le cyclopropylcarbinol",
+      "La dibenzosubérone",
+      "Le dérivé éthylénique bromé",
+      "La nortriptyline",
+      "L'imipramine"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "L'hydrolyse acide de l'alcoolate donne le cyclopropylcarbinol (+ HOMgBr).",
+    "source": {
+      "page": 20,
+      "extrait": "cyclopropylcarbinol"
+    },
+    "difficulte": 2,
+    "tags": [
+      "synthèse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/04-antidepresseurs-partie-1/qcm-045",
+    "type": "unique",
+    "enonce": "Dans la dernière étape de la synthèse de l'amitriptyline, le dérivé éthylénique bromé réagit avec :",
+    "options": [
+      "La méthylamine",
+      "La diméthylamine",
+      "L'ammoniac",
+      "L'iodure de méthyle",
+      "Le bromure cyclopropylmagnésien"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "La diméthylamine déplace le brome avec libération de HBr et fournit l'amitriptyline (amine tertiaire).",
+    "source": {
+      "page": 21,
+      "extrait": "Amitriptyline + HBr"
+    },
+    "difficulte": 2,
+    "tags": [
+      "synthèse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/04-antidepresseurs-partie-1/qcm-046",
+    "type": "multiple",
+    "enonce": "Au cours de la synthèse de l'amitriptyline :",
+    "options": [
+      "Le cyclopropane est ouvert par HBr",
+      "L'ouverture du cyclopropane conduit à la double liaison exocyclique",
+      "La protonation de l'alcool précède l'ouverture du cycle",
+      "Le produit final porte une amine tertiaire",
+      "Le produit final porte une amine secondaire"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Protonation de l'OH, ouverture du cyclopropane par Br⁻, formation du dérivé éthylénique bromé puis amination par la diméthylamine : l'amitriptyline porte une amine tertiaire.",
+    "source": {
+      "page": 21,
+      "extrait": "Dérivé éthylénique bromé"
+    },
+    "difficulte": 3,
+    "tags": [
+      "synthèse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/04-antidepresseurs-partie-1/qcm-047",
+    "type": "multiple",
+    "enonce": "Parmi les molécules suivantes, lesquelles possèdent une amine terminale secondaire ?",
+    "options": [
+      "Désipramine",
+      "Nortriptyline",
+      "Imipramine",
+      "Clomipramine",
+      "Amitriptyline"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Désipramine (NHCH3) et nortriptyline (NHCH3) portent une amine secondaire ; imipramine, clomipramine et amitriptyline portent une amine tertiaire N(CH3)2.",
+    "source": {
+      "page": 17,
+      "extrait": "Desipramine —CH2CH2CH2NHCH3 Nortriptyline =CHCH2CH2NHCH3"
+    },
+    "difficulte": 2,
+    "tags": [
+      "transversal"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/04-antidepresseurs-partie-1/qcm-048",
+    "type": "multiple",
+    "enonce": "Parmi les antidépresseurs suivants, lesquels sont des inhibiteurs de la recapture de la sérotonine seule ?",
+    "options": [
+      "Fluoxétine",
+      "Paroxétine",
+      "Sertraline",
+      "Venlafaxine",
+      "Milnacipran"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Fluoxétine, paroxétine et sertraline sont des ISRS ; venlafaxine et milnacipran sont des IRSNA.",
+    "source": {
+      "page": 12,
+      "extrait": "Inhibiteurs spécifiques de la recapture de la sérotonine (ISRS)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "transversal"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/04-antidepresseurs-partie-1/qcm-049",
+    "type": "multiple",
+    "enonce": "Associez correctement molécule et noyau chimique :",
+    "options": [
+      "Imipramine : dibenzazépine",
+      "Amitriptyline : dibenzocycloheptadiène",
+      "Dosulépine : dibenzothiépine",
+      "Amoxapine : dibenzoxazépine",
+      "Tianeptine : dibenzocycloheptadiène"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "La tianeptine (Stablon®) est une dibenzothiazépine.",
+    "source": {
+      "page": 10,
+      "extrait": "Dibenzothiazépine Tianeptine (Stablon®)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "transversal"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/04-antidepresseurs-partie-1/qcm-050",
+    "type": "multiple",
+    "enonce": "Quels antidépresseurs agissent par inhibition de la dégradation des monoamines ?",
+    "options": [
+      "Iproniazide",
+      "Moclobémide",
+      "Imipramine",
+      "Fluoxétine",
+      "Amitriptyline"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Les IMAO (iproniazide, moclobémide) inhibent la monoamine oxydase, donc la dégradation ; les tricycliques et les ISRS inhibent la recapture.",
+    "source": {
+      "page": 11,
+      "extrait": "IMAO Inhibiteurs irréversibles de la MAO non sélectifs"
+    },
+    "difficulte": 2,
+    "tags": [
+      "transversal"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/04-antidepresseurs-partie-1/qcm-051",
+    "type": "unique",
+    "enonce": "Parmi les IMAO, celui qui est réversible et sélectif de la MAO-A est :",
+    "options": [
+      "L'iproniazide",
+      "Le moclobémide",
+      "La fluvoxamine",
+      "La tianeptine",
+      "La maprotiline"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Moclobémide (Moclamine®) : inhibiteur réversible de la MAO, sélectif de la MAO-A.",
+    "source": {
+      "page": 11,
+      "extrait": "Inhibiteurs réversibles de la MAO, sélectifs de la MAO-A Moclobémide (Moclamine®)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "IMAO"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/04-antidepresseurs-partie-1/qcm-052",
+    "type": "multiple",
+    "enonce": "Cochez les propositions exactes concernant les antidépresseurs tricycliques :",
+    "options": [
+      "Ils ont une activité monoaminergique non spécifique",
+      "Ils agissent principalement par inhibition de la recapture pré-synaptique",
+      "Le cycle central est heptagonal",
+      "Ils sont dépourvus de parenté avec les phénothiazines",
+      "Le chef de file est l'amitriptyline"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Tricycliques : activité monoaminergique non spécifique, inhibition de la recapture, cycle central heptagonal ; parenté structurale avec les phénothiazines ; chef de file : imipramine.",
+    "source": {
+      "page": 16,
+      "extrait": "l'imipramine constitue le chef de fil ; parenté structurale avec les phénothiazines"
+    },
+    "difficulte": 2,
+    "tags": [
+      "transversal"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/04-antidepresseurs-partie-1/qcm-053",
+    "type": "multiple",
+    "enonce": "Concernant le mode d'action des antidépresseurs sur les autorécepteurs :",
+    "options": [
+      "L'inhibition des autorécepteurs pré-synaptiques fait partie des mécanismes généraux",
+      "Elle augmente la quantité de neurotransmetteur dans la fente synaptique",
+      "Elle correspond à une inhibition de la MAO",
+      "Elle correspond à un blocage du transporteur de recapture",
+      "Elle diminue la libération de monoamines"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "L'inhibition des autorécepteurs pré-synaptiques est l'un des trois mécanismes généraux ; comme les autres, elle aboutit à une augmentation des monoamines dans la fente synaptique.",
+    "source": {
+      "page": 7,
+      "extrait": "inhibition des autorécepteurs pré-synaptiques"
+    },
+    "difficulte": 3,
+    "tags": [
+      "mécanisme"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/04-antidepresseurs-partie-1/qcm-054",
+    "type": "multiple",
+    "enonce": "Parmi les propositions suivantes concernant la classification des antidépresseurs, lesquelles sont exactes ?",
+    "options": [
+      "Une classification est chimique",
+      "Une classification est biochimique selon la sélectivité monoaminergique",
+      "Une classification repose sur l'activité thérapeutique",
+      "Il n'existe qu'une seule classification",
+      "La classification thérapeutique distingue trois groupes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explication": "Trois classifications : chimique, biochimique (sélectivité monoaminergique) et thérapeutique (psychostimulants, intermédiaires, psychosédatifs).",
+    "source": {
+      "page": 8,
+      "extrait": "Classification"
+    },
+    "difficulte": 1,
+    "tags": [
+      "classification"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/04-antidepresseurs-partie-1/qcm-055",
+    "type": "multiple",
+    "enonce": "Concernant la dépression et son retentissement :",
+    "options": [
+      "Elle associe tristesse et souffrance morale",
+      "Elle comporte un ralentissement psychomoteur",
+      "Elle entraîne une incapacité à éprouver du plaisir dans les activités habituelles",
+      "Elle s'accompagne d'un manque de motivation",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Tous ces éléments figurent dans la description de la dépression.",
+    "source": {
+      "page": 3,
+      "extrait": "manque de motivation et d'incapacité à éprouver du plaisir dans les activités habituelles"
+    },
+    "difficulte": 1,
+    "tags": [
+      "dépression"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/04-antidepresseurs-partie-1/qcm-056",
+    "type": "multiple",
+    "enonce": "Quels neurotransmetteurs les antidépresseurs augmentent-ils, selon des mécanismes différents ?",
+    "options": [
+      "Dopamine",
+      "Noradrénaline",
+      "Sérotonine",
+      "GABA",
+      "Glutamate"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Les antidépresseurs augmentent les quantités de dopamine, de noradrénaline et de sérotonine.",
+    "source": {
+      "page": 6,
+      "extrait": "augmentant les quantités de neurotransmetteurs : dopamine, noradrénaline, sérotonine"
+    },
+    "difficulte": 1,
+    "tags": [
+      "mécanisme"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/04-antidepresseurs-partie-1/qcm-057",
+    "type": "multiple",
+    "enonce": "Parmi les antidépresseurs tricycliques et apparentés, cochez les propositions exactes :",
+    "options": [
+      "L'imipramine est le chef de file",
+      "La trimipramine est une dibenzazépine",
+      "La nortriptyline est un dibenzocycloheptadiène",
+      "La maprotiline est tétracyclique",
+      "La tianeptine est une dibenzazépine"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "La tianeptine (Stablon®) est une dibenzothiazépine.",
+    "source": {
+      "page": 10,
+      "extrait": "Dibenzothiazépine Tianeptine (Stablon®)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "classification chimique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/04-antidepresseurs-partie-1/qcm-058",
+    "type": "unique",
+    "enonce": "Le Prothiaden® correspond à :",
+    "options": [
+      "La dosulépine",
+      "L'amoxapine",
+      "La tianeptine",
+      "La maprotiline",
+      "La miansérine"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Dosulépine : Prothiaden®, analogue tricyclique de type dibenzothiépine.",
+    "source": {
+      "page": 10,
+      "extrait": "Dibenzothiépine Dosulépine (Prothiaden®)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "spécialités"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/04-antidepresseurs-partie-1/qcm-059",
+    "type": "unique",
+    "enonce": "Le Défanyl® correspond à :",
+    "options": [
+      "La dosulépine",
+      "L'amoxapine",
+      "La tianeptine",
+      "La trimipramine",
+      "Le milnacipran"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Amoxapine : Défanyl®, dibenzoxazépine.",
+    "source": {
+      "page": 10,
+      "extrait": "Dibenzoxazépine Amoxapine (Défanyl®)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "spécialités"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/04-antidepresseurs-partie-1/qcm-060",
+    "type": "multiple",
+    "enonce": "Concernant les antidépresseurs de nouvelle génération ni tricycliques ni IMAO :",
+    "options": [
+      "Ils comprennent les ISRS",
+      "Ils comprennent les IRSNA",
+      "La fluvoxamine est un ISRS",
+      "Le milnacipran est un IRSNA",
+      "La mirtazapine en fait partie"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "La mirtazapine est classée parmi les autres antidépresseurs (atypiques).",
+    "source": {
+      "page": 13,
+      "extrait": "Autres ATD (ATD atypiques) Mirtazapine (Norset)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "classification chimique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/04-antidepresseurs-partie-1/qcm-061",
+    "type": "multiple",
+    "enonce": "Concernant la structure des tricycliques de la série de l'imipramine :",
+    "options": [
+      "Le cycle central est heptagonal",
+      "Les deux faces du cycle central sont fusionnées avec les noyaux benzéniques",
+      "La chaîne latérale porte une amine terminale secondaire ou tertiaire",
+      "Le groupe est homogène",
+      "Le cycle central porte une double liaison exocyclique"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "La double liaison exocyclique caractérise la série de l'amitriptyline, pas celle de l'imipramine.",
+    "source": {
+      "page": 18,
+      "extrait": "Un groupe homogène Un cycle central heptagonal"
+    },
+    "difficulte": 2,
+    "tags": [
+      "imipramine"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/04-antidepresseurs-partie-1/qcm-062",
+    "type": "unique",
+    "enonce": "Dans la synthèse de l'amitriptyline, l'ouverture du cycle cyclopropane est provoquée par :",
+    "options": [
+      "HBr",
+      "H2O seul",
+      "L'iodure de méthyle",
+      "Le bromure cyclopropylmagnésien",
+      "La diméthylamine"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Après protonation de l'alcool, l'ion bromure ouvre le cyclopropane et donne le dérivé éthylénique bromé.",
+    "source": {
+      "page": 21,
+      "extrait": "+ HBr"
+    },
+    "difficulte": 2,
+    "tags": [
+      "synthèse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/04-antidepresseurs-partie-1/qcm-063",
+    "type": "multiple",
+    "enonce": "Pourquoi la classification thérapeutique est-elle utile en pratique ?",
+    "options": [
+      "Elle oppose un pôle psychotonique et un pôle sédatif",
+      "Les IMAO et la désipramine sont psychotoniques",
+      "L'amitriptyline et la miansérine sont sédatives",
+      "Les IRS et IRSNA occupent une position intermédiaire",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "La classification thérapeutique situe les antidépresseurs du pôle psychotonique (IMAO, désipramine) au pôle sédatif (maprotiline, amitriptyline, trimipramine, miansérine), les IRS et IRSNA étant intermédiaires.",
+    "source": {
+      "page": 15,
+      "extrait": "Pôle psychotonique Pôle sédatif"
+    },
+    "difficulte": 2,
+    "tags": [
+      "classification thérapeutique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/04-antidepresseurs-partie-1/qcm-064",
+    "type": "multiple",
+    "enonce": "Cochez les propositions exactes concernant les deux séries de tricycliques :",
+    "options": [
+      "La série de l'imipramine correspond aux « -pramines »",
+      "La série de l'amitriptyline correspond aux « -ptylines »",
+      "Les deux séries comportent trois cycles",
+      "La série de l'amitriptyline comporte un azote dans le cycle central",
+      "L'imipramine et l'amitriptyline portent toutes deux une amine tertiaire"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explication": "Dans la série de l'amitriptyline, le cycle central ne contient pas d'azote : la chaîne est portée par un carbone avec double liaison exocyclique.",
+    "source": {
+      "page": 17,
+      "extrait": "Les ' -pramines ' Les ' -ptylines '"
+    },
+    "difficulte": 2,
+    "tags": [
+      "tricycliques"
+    ],
+    "origine": "genere"
+  }
+]

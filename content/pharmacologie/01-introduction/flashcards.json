@@ -1,0 +1,224 @@
+[
+  {
+    "id": "pharmacologie/01-introduction/flashcard-001",
+    "recto": "Étymologie de « pharmacologie »",
+    "verso": "Du grec « Pharmakon » : remède mais aussi drogue.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/01-introduction/flashcard-002",
+    "recto": "Définition courte de la pharmacologie",
+    "verso": "« La science du médicament » ; science des effets et du devenir des médicaments dans l'organisme.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/01-introduction/flashcard-003",
+    "recto": "Pharmacologie expérimentale",
+    "verso": "Étude de l'effet des médicaments sur cultures cellulaires ou organes entiers (in vitro) ou sur modèles animaux (in vivo).",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/01-introduction/flashcard-004",
+    "recto": "Pharmacologie clinique",
+    "verso": "Étude des effets des médicaments chez l'Homme ; synonyme d'essais cliniques.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/01-introduction/flashcard-005",
+    "recto": "Pharmacovigilance",
+    "verso": "Surveillance des effets indésirables des médicaments.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/01-introduction/flashcard-006",
+    "recto": "Pharmacogénétique",
+    "verso": "Étude de l'influence du génotype sur la variabilité de la réponse à un traitement médicamenteux.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/01-introduction/flashcard-007",
+    "recto": "Pharmacoéconomie",
+    "verso": "Étude du prix des médicaments.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/01-introduction/flashcard-008",
+    "recto": "Définition OMS du médicament (éléments clés)",
+    "verso": "Substance ou composition à propriétés curatives ou préventives (maladies humaines ou animales) ; produits pour un diagnostic ou pour restaurer, corriger, modifier les fonctions physiologiques.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/01-introduction/flashcard-009",
+    "recto": "Les deux fonctions du médicament",
+    "verso": "Thérapeutique (la plus habituelle : préventive ou curative) et diagnostique.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/01-introduction/flashcard-010",
+    "recto": "Les trois formes de la fonction curative",
+    "verso": "Étiologique, substitutive ou symptomatique.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/01-introduction/flashcard-011",
+    "recto": "Exemples de produits à fonction diagnostique",
+    "verso": "Opacifiants, traceurs (explorations fonctionnelles).",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/01-introduction/flashcard-012",
+    "recto": "Synonymes d'effet thérapeutique",
+    "verso": "Efficacité thérapeutique, effet favorable, effet bénéfique, effet clinique.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/01-introduction/flashcard-013",
+    "recto": "Qualificatifs des effets indésirables",
+    "verso": "Notoire, secondaire, latéral, toxique.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/01-introduction/flashcard-014",
+    "recto": "Pharmacodynamie",
+    "verso": "Action du médicament sur l'organisme.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/01-introduction/flashcard-015",
+    "recto": "Pharmacocinétique",
+    "verso": "Action de l'organisme sur le médicament : absorption, distribution, métabolisme, élimination.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/01-introduction/flashcard-016",
+    "recto": "Phase biopharmaceutique",
+    "verso": "Forme pharmaceutique et passage du PA en solution.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/01-introduction/flashcard-017",
+    "recto": "Ordre des phases du devenir du médicament",
+    "verso": "Biopharmaceutique → pharmacocinétique → pharmacodynamique.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/01-introduction/flashcard-018",
+    "recto": "Règnes d'origine des PA naturels",
+    "verso": "Animal, végétal, minéral (+ origine microbiologique : vaccins).",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/01-introduction/flashcard-019",
+    "recto": "Morphine : origine et activité",
+    "verso": "Extraite de Papaver somniferum (végétale) ; analgésique central.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/01-introduction/flashcard-020",
+    "recto": "Héparine : origine",
+    "verso": "Animale : extraite du poumon de bœuf.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/01-introduction/flashcard-021",
+    "recto": "Exemples de produits minéraux naturels",
+    "verso": "Eau, talc, argile, bicarbonate de sodium, sulfate de magnésium (PA ou excipients).",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/01-introduction/flashcard-022",
+    "recto": "Vaccin BCG",
+    "verso": "Médicament d'origine microbiologique, contre la tuberculose.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/01-introduction/flashcard-023",
+    "recto": "Origine semi-synthétique",
+    "verso": "Adjonction de groupements chimiques sur des substances naturelles pour améliorer PK/PD et/ou diminuer la toxicité.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/01-introduction/flashcard-024",
+    "recto": "Codéine",
+    "verso": "Ester méthylique de la morphine : analgésique central et antitussif, moins toxique (semi-synthétique).",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/01-introduction/flashcard-025",
+    "recto": "Origine synthétique",
+    "verso": "Principale source des médicaments modernes ; molécules absentes de la nature, synthèse chimique totale (ex. AINS).",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/01-introduction/flashcard-026",
+    "recto": "Origine biotechnologique",
+    "verso": "Génie génétique : polypeptides identiques au modèle humain (insuline, facteurs de croissance hématopoïétiques, cytokines IL2, INF).",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/01-introduction/flashcard-027",
+    "recto": "Préparation magistrale",
+    "verso": "Préparée extemporanément, sur prescription précisant la formule, pour un malade particulier.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/01-introduction/flashcard-028",
+    "recto": "Préparation officinale",
+    "verso": "Préparée en pharmacie à l'avance (ex. soluté de Dakin).",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/01-introduction/flashcard-029",
+    "recto": "Préparation hospitalière",
+    "verso": "Sous prescription hospitalière, à l'avance ou extemporanément, faute de spécialité disponible ou adaptée.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/01-introduction/flashcard-030",
+    "recto": "Spécialité pharmaceutique",
+    "verso": "Préparée à l'avance, conditionnement particulier, dénomination spéciale.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/01-introduction/flashcard-031",
+    "recto": "Composition d'un médicament",
+    "verso": "Principe actif (partie responsable des effets) + excipients (partie inactive).",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/01-introduction/flashcard-032",
+    "recto": "DCI",
+    "verso": "Dénomination Commune Internationale (la nomenclature chimique internationale étant trop compliquée en pratique).",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/01-introduction/flashcard-033",
+    "recto": "Formes transmuqueuses : exemples",
+    "verso": "Comprimé sublingual, suppositoire, ovule, collyre, collutoire, gouttes nasales/auriculaires.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/01-introduction/flashcard-034",
+    "recto": "Formes cutanées",
+    "verso": "Solides (crème, pommade, poudre à usage externe), liquides (solution à usage externe), adhésifs (patchs transdermiques).",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/01-introduction/flashcard-035",
+    "recto": "Critères du médicament générique",
+    "verso": "Même composition qualitative et quantitative en PA, même forme pharmaceutique, bioéquivalence démontrée si nécessaire.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/01-introduction/flashcard-036",
+    "recto": "RCP vs notice : destinataires",
+    "verso": "RCP → professionnels de santé ; notice → patient/utilisateur.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/01-introduction/flashcard-037",
+    "recto": "Caractéristiques pharmacologiques (PD, PK, précliniques)",
+    "verso": "Présentes dans le RCP ; généralement absentes ou très limitées dans la notice.",
+    "tags": []
+  }
+]

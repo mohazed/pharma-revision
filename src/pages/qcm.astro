@@ -1,0 +1,11 @@
+---
+import Base from "../layouts/Base.astro";
+import LecteurQcm from "../islands/qcm/LecteurQcm";
+---
+<Base titre="Session de QCM" description="Lecteur de QCM : répondez, validez et consultez l'explication tirée du cours." etroit sansNavMobile>
+  <h1 class="sr-only">Session de QCM</h1>
+  <LecteurQcm client:only="react">
+    <p slot="fallback" class="py-16 text-center text-ink-muted">Préparation de la session…</p>
+  </LecteurQcm>
+  <noscript><p class="carte p-4">JavaScript est nécessaire pour répondre aux QCM.</p></noscript>
+</Base>

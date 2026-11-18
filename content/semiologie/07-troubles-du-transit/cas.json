@@ -1,0 +1,544 @@
+[
+  {
+    "id": "semiologie/07-troubles-du-transit/cas-001",
+    "titre": "Diarrhée aiguë après un repas collectif",
+    "enonce": "Plusieurs collègues de bureau présentent, quelques heures après un repas de cantine, une diarrhée aqueuse abondante avec nausées, vomissements et douleurs abdominales. Mme K., 34 ans, a émis 8 selles liquides depuis le matin. Elle est apyrétique, soif modérée, pas d'hypotension.",
+    "questions": [
+      {
+        "id": "semiologie/07-troubles-du-transit/cas-001-q1",
+        "type": "multiple",
+        "enonce": "Il s'agit d'une diarrhée :",
+        "options": [
+          "Aiguë",
+          "Hydro-électrolytique",
+          "Chronique",
+          "Glairo-sanglante",
+          "Toutes les propositions sont fausses"
+        ],
+        "correctes": [
+          0,
+          1
+        ],
+        "explication": "Début brutal de quelques heures, selles aqueuses : diarrhée aiguë hydro-électrolytique.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/07-troubles-du-transit/cas-001-q2",
+        "type": "unique",
+        "enonce": "La notion de cas similaires dans l'entourage après un repas évoque :",
+        "options": [
+          "Une TIAC (staphylocoque doré, salmonelle)",
+          "Une maladie cœliaque",
+          "Une diarrhée osmotique par laxatifs",
+          "Une recto-colite hémorragique",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Toxi-infection alimentaire collective.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/07-troubles-du-transit/cas-001-q3",
+        "type": "multiple",
+        "enonce": "Les mécanismes en cause dans les diarrhées infectieuses sont :",
+        "options": [
+          "Hypersécrétion",
+          "Hypermotricité",
+          "Malabsorption",
+          "Maldigestion",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0,
+          1
+        ],
+        "explication": "Hypersécrétion et hypermotricité.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/07-troubles-du-transit/cas-001-q4",
+        "type": "multiple",
+        "enonce": "Il faut rechercher les signes de déshydratation suivants :",
+        "options": [
+          "Soif",
+          "Pli cutané",
+          "Sécheresse des muqueuses",
+          "Tachycardie, hypotension",
+          "Toutes les propositions sont correctes"
+        ],
+        "correctes": [
+          4
+        ],
+        "explication": "Tous font partie de la recherche de déshydratation.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/07-troubles-du-transit/cas-001-q5",
+        "type": "multiple",
+        "enonce": "Une copro-parasitologie serait indiquée en cas de :",
+        "options": [
+          "Diarrhée fébrile",
+          "Immunodépression",
+          "Signes de gravité",
+          "Retour de zone endémique",
+          "Toutes les propositions sont correctes"
+        ],
+        "correctes": [
+          4
+        ],
+        "explication": "Ce sont les indications citées.",
+        "difficulte": 2,
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/cas-002",
+    "titre": "Diarrhée sanglante sous antibiotiques",
+    "enonce": "Un homme de 70 ans, traité 3 semaines plus tôt par antibiotiques pour une pneumopathie, présente depuis 4 jours une diarrhée glairo-sanglante avec fièvre et douleurs abdominales. Il est fatigué, a soif, son pouls est rapide et sa tension basse.",
+    "questions": [
+      {
+        "id": "semiologie/07-troubles-du-transit/cas-002-q1",
+        "type": "unique",
+        "enonce": "Le germe à rechercher en priorité est :",
+        "options": [
+          "Clostridioides difficile (toxines)",
+          "Rotavirus",
+          "Staphylocoque doré",
+          "Giardia",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Toute diarrhée pendant ou dans les 3 mois suivant des antibiotiques doit faire rechercher les toxines de C. difficile.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/07-troubles-du-transit/cas-002-q2",
+        "type": "multiple",
+        "enonce": "Les signes de gravité présents sont :",
+        "options": [
+          "Terrain : vieillard",
+          "Déshydratation",
+          "Hypotension, tachycardie",
+          "Fièvre au retour de zone palustre",
+          "Toutes les propositions sont fausses"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "Terrain âgé, déshydratation (soif, hypotension, tachycardie) ; aucun voyage mentionné.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/07-troubles-du-transit/cas-002-q3",
+        "type": "multiple",
+        "enonce": "Les autres causes de diarrhée aiguë glairo-sanglante citées sont :",
+        "options": [
+          "Shigelle",
+          "Yersiniose",
+          "Causes ischémiques",
+          "Rotavirus",
+          "Stress"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "Glairo-sanglantes : shigelle, yersiniose, post-antibiotiques, ischémiques.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/07-troubles-du-transit/cas-002-q4",
+        "type": "multiple",
+        "enonce": "Les examens d'une diarrhée aiguë cités sont :",
+        "options": [
+          "Coproculture",
+          "Parasitologie des selles",
+          "Recto-sigmoïdoscopie",
+          "Biopsie du grêle",
+          "Échelle de Bristol"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "Coproculture, parasitologie, recto-sigmoïdoscopie.",
+        "difficulte": 2,
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/cas-003",
+    "titre": "Diarrhée chronique graisseuse",
+    "enonce": "Une femme de 30 ans consulte pour une diarrhée évoluant depuis 4 mois : selles abondantes « en bouse de vache », pâteuses, graisseuses, décolorées, très malodorantes. Elle a perdu 6 kg, est pâle et présente des œdèmes des chevilles. Sa sœur est suivie pour une maladie cœliaque.",
+    "questions": [
+      {
+        "id": "semiologie/07-troubles-du-transit/cas-003-q1",
+        "type": "unique",
+        "enonce": "Les selles décrites sont des selles :",
+        "options": [
+          "De malabsorption",
+          "Motrices",
+          "Sécrétoires",
+          "Osmotiques",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Selles abondantes, graisseuses, pâteuses, décolorées, malodorantes avec amaigrissement = malabsorption.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/07-troubles-du-transit/cas-003-q2",
+        "type": "multiple",
+        "enonce": "Les signes de retentissement présents sont :",
+        "options": [
+          "Amaigrissement",
+          "Œdèmes carentiels",
+          "Pâleur (syndrome anémique)",
+          "Signes de dénutrition",
+          "Toutes les propositions sont correctes"
+        ],
+        "correctes": [
+          4
+        ],
+        "explication": "Dénutrition avec amaigrissement et œdèmes carentiels, syndrome anémique.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/07-troubles-du-transit/cas-003-q3",
+        "type": "multiple",
+        "enonce": "Les causes de malabsorption par atteinte du grêle sont :",
+        "options": [
+          "Maladie cœliaque",
+          "Maladie de Whipple",
+          "Lymphomes",
+          "Giardiose",
+          "Toutes les propositions sont correctes"
+        ],
+        "correctes": [
+          4
+        ],
+        "explication": "Toutes sont citées.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/07-troubles-du-transit/cas-003-q4",
+        "type": "multiple",
+        "enonce": "Le bilan de malabsorption comprend :",
+        "options": [
+          "NFS",
+          "Taux de protides",
+          "Calcémie",
+          "Stéatorrhée",
+          "Toutes les propositions sont correctes"
+        ],
+        "correctes": [
+          4
+        ],
+        "explication": "Bilan de malabsorption : NFS, protides, calcémie, stéatorrhée.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/07-troubles-du-transit/cas-003-q5",
+        "type": "multiple",
+        "enonce": "L'antécédent familial de maladie cœliaque :",
+        "options": [
+          "Fait partie des antécédents familiaux à rechercher",
+          "Oriente vers une maladie cœliaque",
+          "Est sans intérêt",
+          "Oriente vers un VIPome",
+          "Toutes les propositions sont fausses"
+        ],
+        "correctes": [
+          0,
+          1
+        ],
+        "explication": "Les antécédents familiaux recherchés : cancer, MICI, maladie cœliaque.",
+        "difficulte": 2,
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/cas-004",
+    "titre": "Diarrhée chronique d'un diabétique",
+    "enonce": "Un homme de 58 ans, diabétique traité par metformine et iDPP4 et hypertendu sous IEC, se plaint de selles fréquentes, peu abondantes, liquides, survenant 30 minutes après les repas, impérieuses, avec coliques et débris alimentaires, depuis 3 mois. Son poids est stable.",
+    "questions": [
+      {
+        "id": "semiologie/07-troubles-du-transit/cas-004-q1",
+        "type": "unique",
+        "enonce": "Le type de diarrhée est :",
+        "options": [
+          "Motrice",
+          "Sécrétoire",
+          "Osmotique",
+          "De malabsorption",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Selles nombreuses, peu abondantes, post-prandiales précoces, impérieuses, débris, sans AEG = diarrhée motrice.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/07-troubles-du-transit/cas-004-q2",
+        "type": "multiple",
+        "enonce": "Les causes possibles chez ce patient selon le cours sont :",
+        "options": [
+          "Diabète",
+          "Metformine",
+          "iDPP4",
+          "IEC",
+          "Toutes les propositions sont correctes"
+        ],
+        "correctes": [
+          4
+        ],
+        "explication": "Diabète (endocrinopathie) et iatrogénie (metformine, iDPP4, IEC) sont des causes de diarrhée motrice.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/07-troubles-du-transit/cas-004-q3",
+        "type": "unique",
+        "enonce": "Cette diarrhée est chronique car elle évolue depuis plus de :",
+        "options": [
+          "1 mois",
+          "2 semaines seulement",
+          "6 mois",
+          "1 an",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Diarrhée chronique : plus de 1 mois.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/07-troubles-du-transit/cas-004-q4",
+        "type": "multiple",
+        "enonce": "Un argument en faveur d'une cause organique serait :",
+        "options": [
+          "Un caractère nocturne",
+          "Un amaigrissement",
+          "Une apparition récente (< 3 mois)",
+          "Un poids stable",
+          "Toutes les propositions sont fausses"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "Arguments d'organicité : récente, nocturne ou circadienne, amaigrissement.",
+        "difficulte": 2,
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/cas-005",
+    "titre": "Constipation chez une femme de 55 ans",
+    "enonce": "Une femme de 55 ans consulte pour une constipation apparue il y a 4 mois, alors qu'elle avait jusque-là un transit normal. Elle va à la selle 2 fois par semaine, avec selles dures (type 1 de Bristol) et efforts de poussée. Elle a remarqué du sang rouge sur les selles et se sent fatiguée. Elle prend du fer et un antidépresseur.",
+    "questions": [
+      {
+        "id": "semiologie/07-troubles-du-transit/cas-005-q1",
+        "type": "multiple",
+        "enonce": "Selon l'OMS et Rome IV, les éléments de constipation présents sont :",
+        "options": [
+          "Moins de 3 selles par semaine",
+          "Selles dures",
+          "Efforts de poussée",
+          "Selles de type 1 de Bristol",
+          "Toutes les propositions sont correctes"
+        ],
+        "correctes": [
+          4
+        ],
+        "explication": "Tous ces éléments définissent la constipation.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/07-troubles-du-transit/cas-005-q2",
+        "type": "multiple",
+        "enonce": "Les signes d'alarme présents sont :",
+        "options": [
+          "Rectorragies",
+          "Apparition récente après 50 ans",
+          "AEG (fatigue) à préciser",
+          "Masse rectale",
+          "Toutes les propositions sont fausses"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "Rectorragies et apparition récente après 50 ans ; la fatigue doit faire rechercher une AEG/anémie. Pas de masse décrite.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/07-troubles-du-transit/cas-005-q3",
+        "type": "multiple",
+        "enonce": "Une coloscopie est indiquée car :",
+        "options": [
+          "Symptômes récents après 50 ans",
+          "Rectorragies",
+          "Anémie possible",
+          "Pour rechercher un cancer colorectal",
+          "Toutes les propositions sont correctes"
+        ],
+        "correctes": [
+          4
+        ],
+        "explication": "Ce sont les indications de coloscopie pour constipation.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/07-troubles-du-transit/cas-005-q4",
+        "type": "multiple",
+        "enonce": "Les médicaments pouvant contribuer à sa constipation sont :",
+        "options": [
+          "Fer",
+          "Antidépresseur",
+          "Laxatifs osmotiques",
+          "Colchicine",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0,
+          1
+        ],
+        "explication": "Fer et antidépresseurs sont cités parmi les traitements à rechercher.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/07-troubles-du-transit/cas-005-q5",
+        "type": "multiple",
+        "enonce": "La biologie à demander comprend :",
+        "options": [
+          "NFS, CRP",
+          "Glycémie à jeun",
+          "± TSH",
+          "± Ferritine",
+          "Toutes les propositions sont correctes"
+        ],
+        "correctes": [
+          4
+        ],
+        "explication": "Biologie d'une constipation chronique.",
+        "difficulte": 2,
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/cas-006",
+    "titre": "Constipation terminale avec manœuvres digitales",
+    "enonce": "Une femme de 48 ans, multipare, décrit un besoin d'aller à la selle bien présent, mais une grande difficulté à évacuer, avec sensation de blocage ano-rectal ; elle doit appuyer sur la paroi vaginale pour exonérer. Au toucher rectal, l'ampoule rectale contient des matières et on palpe une hernie de la paroi antérieure du rectum vers le vagin.",
+    "questions": [
+      {
+        "id": "semiologie/07-troubles-du-transit/cas-006-q1",
+        "type": "unique",
+        "enonce": "Le mécanisme de cette constipation est :",
+        "options": [
+          "Une anomalie d'évacuation (dyschésie)",
+          "Une anomalie de progression",
+          "Une diarrhée motrice",
+          "Une inertie colique",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Besoin présent, difficulté d'exonération, matières au TR, manœuvres digitales = anomalie d'évacuation.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/07-troubles-du-transit/cas-006-q2",
+        "type": "unique",
+        "enonce": "La hernie palpée correspond à :",
+        "options": [
+          "Une rectocèle",
+          "Un mégarectum",
+          "Un anisme",
+          "Une procidence interne",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Rectocèle : hernie de la paroi antérieure du rectum dans le vagin.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/07-troubles-du-transit/cas-006-q3",
+        "type": "multiple",
+        "enonce": "Les autres causes d'anomalie d'évacuation sont :",
+        "options": [
+          "Anisme",
+          "Mégarectum",
+          "Procidence interne du rectum",
+          "Plancher pelvien descendant",
+          "Toutes les propositions sont correctes"
+        ],
+        "correctes": [
+          4
+        ],
+        "explication": "Toutes figurent dans la liste.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/07-troubles-du-transit/cas-006-q4",
+        "type": "multiple",
+        "enonce": "Le plancher pelvien descendant est favorisé par :",
+        "options": [
+          "La grossesse et l'accouchement",
+          "La constipation chronique",
+          "La toux chronique",
+          "Le surpoids",
+          "Toutes les propositions sont correctes"
+        ],
+        "correctes": [
+          4
+        ],
+        "explication": "Tous ces facteurs sont cités.",
+        "difficulte": 2,
+        "origine": "genere"
+      }
+    ]
+  }
+]

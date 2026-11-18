@@ -1,0 +1,13 @@
+{
+  "id": "pharmacologie/07-modelisation-pk-partie-1",
+  "module": "pharmacologie",
+  "ordre": 7,
+  "titre": "Modélisation et paramètres pharmacocinétiques – Partie 1",
+  "type": "cours",
+  "source": {
+    "driveId": "1synVHOW51MBhTyrrtsjCzntFhBdoSSi8",
+    "fichier": "7.1 Modélisation et paramètres pharmacocinétiques - Partie 1.pdf",
+    "modifiedTime": "2026-11-13T14:03:53.598Z"
+  },
+  "resume": "Pharmacocinétique quantitative : approches de modélisation, paramètres d'absorption, de distribution et d'élimination, modèle monocompartimental après administration IV et orale à dose unique."
+}

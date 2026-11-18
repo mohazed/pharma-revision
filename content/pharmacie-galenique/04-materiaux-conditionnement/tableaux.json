@@ -1,0 +1,126 @@
+[
+  {
+    "id": "pharmacie-galenique/04-materiaux-conditionnement/tableau-001",
+    "titre": "Types de verre",
+    "colonnes": [
+      "Type",
+      "Résistance hydrolytique",
+      "Structure",
+      "Emploi"
+    ],
+    "lignes": [
+      [
+        "I",
+        "Haute",
+        "Borosilicate neutre dans la masse",
+        "Toutes préparations"
+      ],
+      [
+        "II",
+        "Haute",
+        "Sodocalcique neutre en surface",
+        "Toutes préparations sauf basiques"
+      ],
+      [
+        "III",
+        "Moyenne",
+        "Sodocalcique (verre ordinaire + alumine)",
+        "Préparations stérilisables non aqueuses, poudres stériles, préparations non stériles"
+      ],
+      [
+        "IV",
+        "Faible",
+        "Sodocalcique (verre ordinaire)",
+        "Préparations non stériles"
+      ]
+    ]
+  },
+  {
+    "id": "pharmacie-galenique/04-materiaux-conditionnement/tableau-002",
+    "titre": "Matières thermoplastiques",
+    "colonnes": [
+      "Matériau",
+      "Étanchéité",
+      "Transparence",
+      "Résistance",
+      "Stérilisable vapeur",
+      "Usage"
+    ],
+    "lignes": [
+      [
+        "PEHD (PEBP)",
+        "+/-",
+        "-",
+        "++",
+        "-",
+        "Récipient rigide"
+      ],
+      [
+        "PEBD (PEHP)",
+        "-",
+        "+",
+        "+",
+        "-",
+        "Récipient souple"
+      ],
+      [
+        "PET",
+        "+",
+        "+",
+        "++",
+        "-",
+        "Flacon, film"
+      ],
+      [
+        "Polypropylène",
+        "+/-",
+        "+",
+        "+",
+        "+",
+        "Matériel médico-chirurgical"
+      ],
+      [
+        "PVC",
+        "+/- (++ avec PVDC)",
+        "+",
+        "+",
+        "+/-",
+        "Blister, poche de perfusion, sachet"
+      ]
+    ]
+  },
+  {
+    "id": "pharmacie-galenique/04-materiaux-conditionnement/tableau-003",
+    "titre": "Adjuvants du verre",
+    "colonnes": [
+      "Adjuvant",
+      "Rôle"
+    ],
+    "lignes": [
+      [
+        "Anhydride borique (B₂O₃)",
+        "↓ coefficient de dilatation, ↑ résistance chimique et dureté (pyrex)"
+      ],
+      [
+        "Alumine (Al₂O₃)",
+        "Retarde la dévitrification, ↑ dureté"
+      ],
+      [
+        "KNO₃, As₂O₅",
+        "Affinants des bulles d'air"
+      ],
+      [
+        "FeO, CuO, CoO",
+        "Colorants"
+      ],
+      [
+        "PbO",
+        "↑ éclat, sonorité du cristal"
+      ],
+      [
+        "K₂O",
+        "Favorise le soufflage et l'éclat"
+      ]
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+{
+  "id": "pharmacognosie/04-composes-phenoliques/fiche-001",
+  "titre": "Généralités sur les composés phénoliques et drogues à dérivés phénoliques simples",
+  "sections": [
+    {
+      "titre": "Définition, distribution, rôles",
+      "points": [
+        "Métabolites secondaires de l'**aromagénèse** : ≥ 1 noyau aromatique portant ≥ 1 OH ; polyphénols = plusieurs fonctions phénoliques.",
+        "Diversité : simples (acides gallique, caféique) → plusieurs noyaux (flavonoïdes, stilbènes) → polymères (tanins condensés).",
+        "Feuilles (thé, olivier), fruits, écorces (chêne, saule), rhizomes (curcuma, gingembre), fleurs ; concentrés dans les **tissus externes**.",
+        "Rôles : pigmentation, UV, défense, stress, croissance."
+      ]
+    },
+    {
+      "titre": "Biosynthèse",
+      "points": [
+        "**Shikimate** : PEP + érythrose-4-P → DAHP → shikimate → chorismate → préphénate → phénylalanine → (**PAL**) acide cinnamique → (hydroxylase) acide p-coumarique ; chorismate → isochorismate → acide salicylique.",
+        "**Acétate** (moins fréquente) : condensations de Claisen → phloroglucinol (Spasfon®), orcinols, quinones.",
+        "**Mixte** : flavonoïdes (cycle A acétate ; B + C3 shikimate), stilbènes, tanins."
+      ]
+    },
+    {
+      "titre": "Classification",
+      "points": [
+        "C6 phénols simples (catéchol, hydroquinone) ; C6–C1 acides hydroxybenzoïques (salicylique, vanilline, saligénine) ; C6–C3 acides hydroxycinnamiques (caféique, férulique), coumarines (ombelliférone).",
+        "(C6–C3)2 lignanes (sésamine, pinorésinol) ; (C6–C3)n lignines.",
+        "C6–C2–C6 stilbènes (resvératrol) ; C6–C3–C6 flavonoïdes : flavonols (quercétine), flavones (lutéoline), flavanones (naringénine), isoflavones (génistéine), flavanols (catéchine), anthocyanidines (cyanidine) ; biflavonoïdes (amentoflavone).",
+        "Tanins hydrolysables (galliques, ellagiques) vs condensés (proanthocyanidines).",
+        "Polyacétates : humulone/lupulone (houblon), olivétol (cannabis), juglone (noyer), lawsone (henné), hypéricine (millepertuis), rhéine (rhubarbe)."
+      ]
+    },
+    {
+      "titre": "Propriétés et analyse",
+      "points": [
+        "Solubilité selon OH, glycosylation, masse ; glycosides plus hydrosolubles que les aglycones.",
+        "Couleurs : flavones/flavonols jaune pâle, chalcones/aurones jaune-orangé, anthocyanes rouge-bleu selon pH, catéchines incolores ; UV 240–280 nm.",
+        "Tanins précipitent protéines, gélatine, alcaloïdes ; acidité faible (phénolates) ; oxydation (O2, lumière, Fe3+) ; chélation (FeCl3).",
+        "Extraction : hydroalcoolique 70–80 % ; macération, décoction (10–30 min), Soxhlet ; ultrasons, micro-ondes, CO2 supercritique (peu polaires).",
+        "Caractérisation : FeCl3 (bleu-vert noirâtre), cyanidine (flavonoïdes), pH (anthocyanes), Bate-Smith et Stiasny (tanins condensés).",
+        "Dosage : Folin-Ciocalteu (polyphénols totaux), AlCl3 (flavonoïdes), HPLC-DAD, HPLC-MS ; DPPH/ABTS/FRAP = activité, pas teneur."
+      ]
+    },
+    {
+      "titre": "Drogues à dérivés phénoliques simples",
+      "points": [
+        "**Busserole** (Arctostaphylos uva-ursi, Ericaceae, feuilles) : arbutoside 6–10 % → hydroquinone urinaire antibactérienne ; infections urinaires basses de la femme, 7 j max.",
+        "**Arbousier** (Arbutus unedo, Ericaceae, sommités fleuries) : peu d'arbutoside.",
+        "**Reine-des-prés** (Filipendula ulmaria, Rosaceae, sommités fleuries) : monotropitoside, salicylate de méthyle, spiréoside, salicylaldéhyde ; anti-inflammatoire, diurétique.",
+        "**Saule** (Salix spp., Salicaceae, écorce) : salicine ≥ 1,5 % ; anti-inflammatoire, antipyrétique ; lombalgies ; CI 3e trimestre.",
+        "**Artichaut** (Cynara scolymus, Asteraceae, feuille) : acide chlorogénique, cynarine ; cholérétique, dyspepsie.",
+        "**Romarin** (Salvia rosmarinus, Lamiaceae, feuille) : acide rosmarinique, carnosol ; cholérétique, antispasmodique."
+      ]
+    }
+  ],
+  "aRetenir": [
+    "Flavonoïdes : cycle A = acétate, cycle B + C3 = shikimate.",
+    "Folin-Ciocalteu = polyphénols totaux ; AlCl3 = flavonoïdes totaux.",
+    "Busserole : 7 jours maximum, femme adulte.",
+    "Saule : ≥ 1,5 % de dérivés salicylés ; l'aspirine n'est pas naturelle."
+  ],
+  "pieges": [
+    "Flavonoïdes = 15 C ; lignanes = 18 C ; stilbènes = 14 C.",
+    "Flavanols = catéchines ; flavonols = quercétine.",
+    "Cynarine = DIcaféoylquinique ; acide chlorogénique = MONOcaféoylquinique.",
+    "Tanins de la busserole = galliques ; ceux de la reine-des-prés = ellagitanins.",
+    "DPPH/ABTS/FRAP ne mesurent pas la teneur en polyphénols.",
+    "Romarin = Lamiaceae ; artichaut = Asteraceae."
+  ]
+}

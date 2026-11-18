@@ -1,0 +1,261 @@
+[
+  {
+    "id": "pharmacie-galenique/02-excipients/cas-001",
+    "titre": "Choix d'excipients pour un comprimé",
+    "enonce": "Un formulateur doit concevoir un comprimé par compression directe contenant un PA peu soluble, destiné à se libérer dans l'intestin et non dans l'estomac.",
+    "questions": [
+      {
+        "id": "pharmacie-galenique/02-excipients/cas-001-q-001",
+        "type": "unique",
+        "enonce": "Comme agent de compression directe, il peut choisir :",
+        "options": [
+          "L'huile de vaseline",
+          "Le propylène glycol",
+          "La cellulose microcristalline",
+          "Le PEG 400",
+          "La lanoline"
+        ],
+        "correctes": [
+          2
+        ],
+        "explication": "La cellulose microcristalline est citée comme agent de compression directe, grâce à sa bonne compressibilité.",
+        "source": {
+          "extrait": "Agent de compression directe"
+        },
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacie-galenique/02-excipients/cas-001-q-002",
+        "type": "multiple",
+        "enonce": "Pour améliorer l'écoulement de la poudre, il peut ajouter :",
+        "options": [
+          "Du dioxyde de titane",
+          "Du glucose liquide",
+          "Du talc",
+          "De la silice colloïdale",
+          "De la bentonite"
+        ],
+        "correctes": [
+          2,
+          3
+        ],
+        "explication": "La silice est agent d'écoulement ; le talc peut être lubrifiant ou agent d'écoulement selon la formulation.",
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacie-galenique/02-excipients/cas-001-q-003",
+        "type": "unique",
+        "enonce": "Pour un enrobage gastro-résistant, le polymère adapté est :",
+        "options": [
+          "Le PEG 200",
+          "L'acétophtalate de cellulose",
+          "La méthylcellulose",
+          "La carboxyméthylcellulose sodique",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          1
+        ],
+        "explication": "Le CAP est insoluble en milieu acide et soluble au-dessus d'un certain pH : gastro-résistant.",
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacie-galenique/02-excipients/cas-001-q-004",
+        "type": "unique",
+        "enonce": "Pour opacifier l'enrobage et lui donner une teinte blanche :",
+        "options": [
+          "Dioxyde de titane",
+          "Lactose",
+          "Kaolin",
+          "Sorbitol",
+          "Cire de carnauba"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Le TiO₂ a un fort pouvoir opacifiant et sert de pigment blanc des enrobages.",
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacie-galenique/02-excipients/cas-001-q-005",
+        "type": "unique",
+        "enonce": "Pour polir les comprimés enrobés, on peut utiliser :",
+        "options": [
+          "Le Tween®",
+          "La caséine",
+          "La paraffine liquide",
+          "Le propylène glycol",
+          "La cire de carnauba"
+        ],
+        "correctes": [
+          4
+        ],
+        "explication": "La cire de carnauba est utilisée comme agent de consistance et de polissage des comprimés.",
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/cas-002",
+    "titre": "Préparation d'une émulsion à l'officine",
+    "enonce": "Un pharmacien doit préparer une émulsion de type L/H (huile dans eau) et dispose de plusieurs tensioactifs : Span®, Tween®, laurylsulfate de sodium et stéarate de glycérol.",
+    "questions": [
+      {
+        "id": "pharmacie-galenique/02-excipients/cas-002-q-001",
+        "type": "unique",
+        "enonce": "Pour une émulsion L/H, il privilégiera un surfactif dont le HLB se situe entre :",
+        "options": [
+          "7 et 9",
+          "20 et 50",
+          "3 et 6",
+          "1,5 et 3",
+          "8 et 18"
+        ],
+        "correctes": [
+          4
+        ],
+        "explication": "Les émulsionnants L/H ont un HLB de 8 à 18.",
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacie-galenique/02-excipients/cas-002-q-002",
+        "type": "multiple",
+        "enonce": "Parmi les tensioactifs disponibles, orientent l'émulsion dans le sens L/H :",
+        "options": [
+          "Le Tween®",
+          "Le laurylsulfate de sodium",
+          "Le stéarate de glycérol",
+          "Le Span®",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0,
+          1
+        ],
+        "explication": "Tween® : émulsionnant L/H ; laurylsulfate de sodium : anionique orientant vers L/H. Span® et stéarate de glycérol : H/L.",
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacie-galenique/02-excipients/cas-002-q-003",
+        "type": "unique",
+        "enonce": "S'il mélange deux surfactifs :",
+        "options": [
+          "Le mélange perd tout pouvoir émulsionnant",
+          "Le HLB du mélange est toujours égal à 10",
+          "Seul le HLB le plus élevé compte",
+          "Leurs valeurs de HLB sont additives",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          3
+        ],
+        "explication": "Lorsque des surfactifs sont mélangés, leurs valeurs de HLB sont additives.",
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacie-galenique/02-excipients/cas-002-q-004",
+        "type": "multiple",
+        "enonce": "Le Span® est :",
+        "options": [
+          "Un émulsionnant H/L",
+          "Un tensioactif cationique",
+          "Un polysorbate hydrophile",
+          "Un surfactif lipophile",
+          "Un ester de sorbitan"
+        ],
+        "correctes": [
+          0,
+          3,
+          4
+        ],
+        "explication": "Les Spans® sont des esters de sorbitan, surfactifs lipophiles, émulsionnants H/L.",
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/cas-003",
+    "titre": "Patient diabétique et sirop",
+    "enonce": "Un patient diabétique demande conseil sur un sirop. Le pharmacien examine les édulcorants possibles et les excipients à effet notoire.",
+    "questions": [
+      {
+        "id": "pharmacie-galenique/02-excipients/cas-003-q-001",
+        "type": "multiple",
+        "enonce": "Peuvent remplacer le saccharose chez ce patient selon le cours :",
+        "options": [
+          "Le sorbitol",
+          "Le lactose",
+          "Le D-fructose",
+          "Le glucose liquide",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0,
+          2
+        ],
+        "explication": "Le D-fructose est un édulcorant pour diabétiques ; le sorbitol peut remplacer le saccharose chez les diabétiques.",
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacie-galenique/02-excipients/cas-003-q-002",
+        "type": "unique",
+        "enonce": "Le sorbitol présente comme inconvénient :",
+        "options": [
+          "D'être hygroscopique",
+          "D'être légèrement laxatif",
+          "D'être hydrophobe",
+          "D'être insoluble dans l'eau",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          1
+        ],
+        "explication": "Le sorbitol a l'inconvénient d'être légèrement laxatif ; c'est le saccharose qui est hygroscopique.",
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacie-galenique/02-excipients/cas-003-q-003",
+        "type": "multiple",
+        "enonce": "Concernant les excipients à effet notoire :",
+        "options": [
+          "Ils peuvent être mal tolérés chez les patients sensibles",
+          "Ils sont toujours pharmacologiquement actifs",
+          "Leur sécurité doit faire l'objet d'une évaluation rigoureuse",
+          "Ils nécessitent des précautions d'emploi",
+          "Ils ne concernent que les formes injectables"
+        ],
+        "correctes": [
+          0,
+          2,
+          3
+        ],
+        "explication": "Ils sont mal tolérés chez les patients sensibles et nécessitent précautions et évaluation rigoureuse.",
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      }
+    ]
+  }
+]

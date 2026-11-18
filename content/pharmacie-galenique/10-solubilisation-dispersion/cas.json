@@ -1,0 +1,117 @@
+[
+  {
+    "id": "pharmacie-galenique/10-solubilisation-dispersion/cas-001",
+    "titre": "Cas pratique : formulation d'un injectable de PA peu soluble",
+    "enonce": "Un laboratoire doit formuler une solution injectable d'un PA lipophile, peu polaire, sensible à l'hydrolyse et classé « très peu soluble » dans l'eau. Il s'inspire des formules du phénobarbital et du diazépam injectables.",
+    "questions": [
+      {
+        "id": "pharmacie-galenique/10-solubilisation-dispersion/cas-001-q1",
+        "type": "unique",
+        "enonce": "Le terme « très peu soluble » correspond à :",
+        "options": [
+          "De 1 000 à 10 000 volumes de solvant",
+          "De 100 à 1 000 volumes",
+          "Plus de 10 000 volumes",
+          "De 30 à 100 volumes",
+          "Moins de 1 volume"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Très peu soluble : 1 000 à 10 000 volumes approximatifs de solvant.",
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacie-galenique/10-solubilisation-dispersion/cas-001-q2",
+        "type": "multiple",
+        "enonce": "Quelles approches sont pertinentes d'après le cours ?",
+        "options": [
+          "Ajouter un co-solvant comme le propylène glycol ou l'éthanol",
+          "Ajouter un agent hydrotrope comme le benzoate de sodium en grande quantité",
+          "Ajuster le pH avec la NaOH",
+          "Utiliser une cyclodextrine, complexant des molécules lipophiles",
+          "Toutes les propositions sont fausses"
+        ],
+        "correctes": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explication": "Co-solvants (PA peu polaire, hydrolyse limitée), hydrotropie, ajustement du pH et complexation par les cyclodextrines sont des méthodes de solubilisation citées.",
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacie-galenique/10-solubilisation-dispersion/cas-001-q3",
+        "type": "multiple",
+        "enonce": "Points de vigilance liés aux co-solvants :",
+        "options": [
+          "Leur toxicité potentielle",
+          "Ils diminuent la solubilité des PA ioniques ou polaires",
+          "Ils augmentent la dégradation des PA hydrolysables",
+          "Ils ne sont pas miscibles à l'eau",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0,
+          1
+        ],
+        "explication": "Inconvénients des co-solvants : toxicité potentielle et diminution de la solubilité des PA ioniques ou polaires. Ils diminuent l'hydrolyse et sont miscibles à l'eau.",
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "pharmacie-galenique/10-solubilisation-dispersion/cas-002",
+    "titre": "Cas pratique : complexation par une cyclodextrine",
+    "enonce": "Un formulateur veut augmenter la solubilité d'un PA lipophile volumineux par complexation avec une cyclodextrine. Il dispose d'α-, β- et γ-cyclodextrines.",
+    "questions": [
+      {
+        "id": "pharmacie-galenique/10-solubilisation-dispersion/cas-002-q1",
+        "type": "multiple",
+        "enonce": "Concernant les cyclodextrines disponibles :",
+        "options": [
+          "L'α-cyclodextrine comporte 6 unités",
+          "La β-cyclodextrine comporte 7 unités",
+          "La γ-cyclodextrine comporte 8 unités",
+          "Leur cavité est relativement apolaire et hydrophobe",
+          "Toutes les propositions sont correctes"
+        ],
+        "correctes": [
+          4
+        ],
+        "explication": "α = 6, β = 7, γ = 8 ; la cavité est relativement apolaire et hydrophobe.",
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacie-galenique/10-solubilisation-dispersion/cas-002-q2",
+        "type": "multiple",
+        "enonce": "Si le PA est trop volumineux pour une seule cavité :",
+        "options": [
+          "Plusieurs cyclodextrines peuvent l'entourer",
+          "Un complexe de ratio 1/2 ou plus grand peut se former",
+          "Le diamètre de la cavité influe sur la formation du complexe",
+          "Un complexe de ratio 2/1 est obligatoirement formé",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "Un PA très large peut être entouré par plusieurs cyclodextrines (ratio 1/2 ou plus) ; la taille de l'invité et le diamètre de la cavité conditionnent le complexe.",
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      }
+    ]
+  }
+]

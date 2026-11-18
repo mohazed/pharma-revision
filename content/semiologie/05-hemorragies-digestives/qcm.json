@@ -1,0 +1,1872 @@
+[
+  {
+    "id": "semiologie/05-hemorragies-digestives/qcm-001",
+    "type": "multiple",
+    "enonce": "Concernant l'hémorragie digestive, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "C'est un saignement dont la source se situe dans le tube digestif",
+      "Le tube digestif s'étend de l'œsophage à l'anus",
+      "La limite entre hémorragie haute et basse est l'angle de Treitz",
+      "L'angle de Treitz est la jonction entre le duodénum et le jéjunum",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Hémorragie digestive : saignement du tube digestif de l'œsophage à l'anus ; la limite haute/basse est l'angle de Treitz (jonction duodéno-jéjunale).",
+    "source": {
+      "page": 1,
+      "extrait": "La limite entre hémorragie haute et basse est l'angle de Treitz (jonction entre le duodénum et le jéjunum)."
+    },
+    "difficulte": 1,
+    "tags": [
+      "définition"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/qcm-002",
+    "type": "unique",
+    "enonce": "L'angle de Treitz correspond à la jonction entre :",
+    "options": [
+      "L'œsophage et l'estomac",
+      "L'estomac et le duodénum",
+      "Le duodénum et le jéjunum",
+      "L'iléon et le côlon",
+      "Le côlon et le rectum"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "L'angle de Treitz est la jonction entre le duodénum et le jéjunum.",
+    "source": {
+      "page": 1,
+      "extrait": "angle de Treitz (jonction entre le duodénum et le jéjunum)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "définition"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/qcm-003",
+    "type": "multiple",
+    "enonce": "Une hémorragie digestive haute :",
+    "options": [
+      "Siège au-dessus de l'angle de Treitz",
+      "Concerne l'œsophage, l'estomac, le duodénum",
+      "Se révèle surtout par hématémèse et/ou méléna",
+      "Se révèle surtout par une rectorragie",
+      "Concerne le grêle et le côlon"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Haute : au-dessus de Treitz (œsophage, estomac, duodénum), révélée surtout par hématémèse et/ou méléna. La basse (grêle, côlon, rectum, anus) se révèle surtout par rectorragie.",
+    "source": {
+      "page": 2,
+      "extrait": "Au-dessus de l'angle de Treitz : œsophage, estomac, duodénum"
+    },
+    "difficulte": 1,
+    "tags": [
+      "haute basse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/qcm-004",
+    "type": "multiple",
+    "enonce": "Une hémorragie digestive basse :",
+    "options": [
+      "Siège en dessous de l'angle de Treitz",
+      "Concerne le grêle, le côlon, le rectum, l'anus",
+      "Se révèle surtout par une rectorragie",
+      "Se révèle surtout par une hématémèse",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Basse : sous l'angle de Treitz (grêle, côlon, rectum, anus), révélée surtout par une rectorragie.",
+    "source": {
+      "page": 2,
+      "extrait": "En dessous : grêle, côlon, rectum, anus — Rectorragie"
+    },
+    "difficulte": 1,
+    "tags": [
+      "haute basse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/qcm-005",
+    "type": "multiple",
+    "enonce": "Les cinq modes de révélation d'une hémorragie digestive sont :",
+    "options": [
+      "Hématémèse",
+      "Méléna",
+      "Rectorragie",
+      "Saignement occulte",
+      "Anémie ou malaise"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Le cours décrit cinq modes : hématémèse, méléna, rectorragie, saignement occulte, anémie ou malaise.",
+    "source": {
+      "page": 2,
+      "extrait": "Cinq Modes de Révélation"
+    },
+    "difficulte": 1,
+    "tags": [
+      "modes de révélation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/qcm-006",
+    "type": "unique",
+    "enonce": "L'émission par l'anus de selles noires, goudronneuses, fétides définit :",
+    "options": [
+      "L'hématémèse",
+      "Le méléna",
+      "La rectorragie",
+      "Le saignement occulte",
+      "L'hémoptysie"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Le méléna est l'émission par l'anus de selles noires, goudronneuses, fétides, d'origine haute en règle.",
+    "source": {
+      "page": 2,
+      "extrait": "Méléna — Émission par l'anus de selles noires, goudronneuses, fétides — Haute en règle"
+    },
+    "difficulte": 1,
+    "tags": [
+      "modes de révélation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/qcm-007",
+    "type": "multiple",
+    "enonce": "Concernant les modes de révélation :",
+    "options": [
+      "L'hématémèse est un rejet de sang par la bouche lors d'un effort de vomissement",
+      "La rectorragie est l'émission par l'anus de sang rouge, pur ou mêlé aux selles",
+      "Le saignement occulte est invisible à l'œil nu et détecté par un test dans les selles",
+      "La rectorragie est d'origine haute en règle",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "La rectorragie est d'origine BASSE en règle ; les trois autres définitions sont exactes.",
+    "source": {
+      "page": 2,
+      "extrait": "Rectorragie — Émission par l'anus de sang rouge, pur ou mêlé aux selles — Basse en règle"
+    },
+    "difficulte": 1,
+    "tags": [
+      "modes de révélation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/qcm-008",
+    "type": "multiple",
+    "enonce": "Le saignement occulte et l'anémie/malaise peuvent avoir une origine :",
+    "options": [
+      "Haute",
+      "Basse",
+      "Exclusivement haute",
+      "Exclusivement basse",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Saignement occulte et anémie ou malaise : origine haute ou basse.",
+    "source": {
+      "page": 2,
+      "extrait": "Saignement occulte — Invisible à l'œil nu […] — Haute ou basse"
+    },
+    "difficulte": 2,
+    "tags": [
+      "modes de révélation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/qcm-009",
+    "type": "unique",
+    "enonce": "Selon le cours, le siège du saignement est confirmé par :",
+    "options": [
+      "Le mode de révélation",
+      "L'endoscopie",
+      "L'hémoglobine",
+      "Le score de Glasgow-Blatchford",
+      "Le test de recherche de sang dans les selles"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Le mode de révélation oriente vers le siège ; seule l'endoscopie le confirme.",
+    "source": {
+      "page": 3,
+      "extrait": "Le mode de révélation oriente vers le siège du saignement ; seule l'endoscopie le confirme."
+    },
+    "difficulte": 1,
+    "tags": [
+      "diagnostic"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/qcm-010",
+    "type": "multiple",
+    "enonce": "Concernant l'hématémèse :",
+    "options": [
+      "Le sang peut être rouge, avec ou sans caillots",
+      "Le sang rouge témoigne d'un saignement récent et abondant",
+      "Le sang peut être noirâtre en « marc de café »",
+      "L'aspect « marc de café » correspond à du sang digéré par l'acide gastrique",
+      "Le sang est souvent mêlé à des débris alimentaires"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Toutes les propositions décrivent l'hématémèse selon le cours.",
+    "source": {
+      "page": 3,
+      "extrait": "noirâtre en « marc de café » (sang digéré par l'acide gastrique)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "hématémèse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/qcm-011",
+    "type": "multiple",
+    "enonce": "Pour distinguer une hématémèse d'une hémoptysie :",
+    "options": [
+      "L'hématémèse survient lors d'un vomissement",
+      "L'hémoptysie survient lors d'une toux",
+      "Le sang de l'hémoptysie est rouge vif, aéré, mousseux",
+      "Le sang de l'hématémèse est rouge sombre ou « marc de café », avec caillots",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Hématémèse : vomissement, sang rouge sombre/marc de café, contexte ulcère, AINS, cirrhose. Hémoptysie : toux, sang rouge vif aéré mousseux, contexte pulmonaire.",
+    "source": {
+      "page": 3,
+      "extrait": "Hémoptysie — Toux — Rouge vif, aéré, mousseux — Maladie pulmonaire (tuberculose, cancer)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "hématémèse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/qcm-012",
+    "type": "multiple",
+    "enonce": "Parmi les « faux aspects » d'hématémèse, le cours cite :",
+    "options": [
+      "Saignement du nez avalé puis vomi",
+      "Saignement de la bouche avalé puis vomi",
+      "Vomissements colorés par le vin rouge",
+      "Vomissements colorés par la betterave ou un sirop",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Autres faux aspects : saignement du nez ou de la bouche avalé puis vomi ; vomissements colorés par un aliment ou une boisson (vin rouge, betterave, sirop).",
+    "source": {
+      "page": 3,
+      "extrait": "vomissements colorés par un aliment ou une boisson (vin rouge, betterave, sirop)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "hématémèse",
+      "pièges"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/qcm-013",
+    "type": "unique",
+    "enonce": "La question clé pour distinguer l'origine d'un sang rejeté par la bouche est :",
+    "options": [
+      "« Avez-vous mal au ventre ? »",
+      "« Avez-vous vomi, craché ou toussé ce sang ? »",
+      "« Prenez-vous du fer ? »",
+      "« Vos selles sont-elles moulées ? »",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "La question à poser : « Avez-vous vomi, craché ou toussé ce sang ? ».",
+    "source": {
+      "page": 3,
+      "extrait": "La question à poser : « Avez-vous vomi, craché ou toussé ce sang ? »"
+    },
+    "difficulte": 1,
+    "tags": [
+      "hématémèse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/qcm-014",
+    "type": "multiple",
+    "enonce": "Concernant le méléna :",
+    "options": [
+      "Les selles sont noires comme du goudron, collantes, luisantes",
+      "L'odeur est fétide caractéristique",
+      "Il correspond à du sang digéré, en général au moins 50 à 100 mL",
+      "Il peut persister plusieurs jours après l'arrêt du saignement",
+      "Il est d'origine basse en règle"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Le méléna est d'origine HAUTE en règle ; les quatre autres propositions sont exactes.",
+    "source": {
+      "page": 3,
+      "extrait": "Il correspond à du sang digéré (en général au moins 50 à 100 mL) : origine haute en règle."
+    },
+    "difficulte": 2,
+    "tags": [
+      "méléna"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/qcm-015",
+    "type": "unique",
+    "enonce": "Le méléna correspond à du sang digéré, en général au moins :",
+    "options": [
+      "5 à 10 mL",
+      "20 à 30 mL",
+      "50 à 100 mL",
+      "500 mL",
+      "1 litre"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Le méléna correspond à au moins 50 à 100 mL de sang digéré.",
+    "source": {
+      "page": 3,
+      "extrait": "en général au moins 50 à 100 mL"
+    },
+    "difficulte": 2,
+    "tags": [
+      "méléna"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/qcm-016",
+    "type": "multiple",
+    "enonce": "Des selles noires, collantes et fétides :",
+    "options": [
+      "Sont un méléna jusqu'à preuve du contraire",
+      "Sont d'autant plus inquiétantes qu'il existe un malaise",
+      "Sont d'autant plus inquiétantes sous anticoagulant ou AINS",
+      "Sont toujours dues au fer",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Selles noires, collantes et fétides = méléna jusqu'à preuve du contraire, surtout avec malaise ou sous anticoagulant/AINS.",
+    "source": {
+      "page": 3,
+      "extrait": "des selles noires, collantes et fétides sont un méléna jusqu'à preuve du contraire"
+    },
+    "difficulte": 2,
+    "tags": [
+      "méléna"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/qcm-017",
+    "type": "multiple",
+    "enonce": "Parmi les causes de fausses mélénas, le cours cite :",
+    "options": [
+      "Fer par voie orale",
+      "Sels de bismuth",
+      "Charbon activé",
+      "Réglisse noire, myrtilles, boudin noir",
+      "Rifampicine"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Fausses mélénas : fer oral, bismuth, charbon activé, aliments (réglisse noire, myrtilles, boudin noir). La rifampicine est citée parmi les fausses RECTORRAGIES (coloration rouge-orangé).",
+    "source": {
+      "page": 4,
+      "extrait": "Fer par voie orale ; Sels de bismuth ; Charbon activé ; Aliments"
+    },
+    "difficulte": 2,
+    "tags": [
+      "fausses mélénas"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/qcm-018",
+    "type": "multiple",
+    "enonce": "Concernant les selles noires sous fer oral :",
+    "options": [
+      "Elles sont noires ou vert foncé",
+      "Elles sont moulées",
+      "Elles sont non fétides",
+      "Un patient sous fer peut aussi saigner",
+      "Elles sont collantes et fétides"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Fer oral (sulfate, fumarate, gluconate ferreux) : selles noires ou vert foncé, moulées, non fétides ; mais un patient sous fer peut aussi saigner.",
+    "source": {
+      "page": 4,
+      "extrait": "Noires ou vert foncé, moulées, non fétides"
+    },
+    "difficulte": 2,
+    "tags": [
+      "fausses mélénas"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/qcm-019",
+    "type": "unique",
+    "enonce": "Des selles noires avec une langue parfois noircie évoquent la prise de :",
+    "options": [
+      "Fer oral",
+      "Sels de bismuth",
+      "Charbon activé",
+      "Myrtilles",
+      "Rifampicine"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Sels de bismuth (pansements gastriques, éradication d'H. pylori) : selles noires, langue parfois noircie.",
+    "source": {
+      "page": 4,
+      "extrait": "Sels de bismuth — Pansements gastriques, traitement d'éradication d'H. pylori — Noires ; langue parfois noircie"
+    },
+    "difficulte": 2,
+    "tags": [
+      "fausses mélénas"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/qcm-020",
+    "type": "multiple",
+    "enonce": "La question clé devant des selles noires est de savoir si elles sont :",
+    "options": [
+      "Collantes, luisantes et fétides (méléna)",
+      "Mates et moulées (coloration)",
+      "Liquides et glaireuses",
+      "Décolorées",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "La question clé : selles collantes, luisantes et fétides (méléna) ou mates et moulées (coloration) ?",
+    "source": {
+      "page": 4,
+      "extrait": "les selles sont-elles collantes, luisantes et fétides (méléna) ou mates et moulées (coloration) ?"
+    },
+    "difficulte": 2,
+    "tags": [
+      "fausses mélénas"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/qcm-021",
+    "type": "multiple",
+    "enonce": "Un patient sous fer signale des selles noires. Imposent un avis médical urgent :",
+    "options": [
+      "Un malaise",
+      "Une pâleur",
+      "Des selles collantes",
+      "Des selles moulées non fétides sans autre signe",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Un malaise, une pâleur ou des selles collantes imposent un avis médical urgent.",
+    "source": {
+      "page": 4,
+      "extrait": "Un malaise, une pâleur ou des selles collantes imposent un avis médical urgent."
+    },
+    "difficulte": 2,
+    "tags": [
+      "fausses mélénas"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/qcm-022",
+    "type": "multiple",
+    "enonce": "Concernant la rectorragie :",
+    "options": [
+      "Du sang rouge sur les selles ou le papier oriente vers une origine anale",
+      "Les hémorroïdes et la fissure sont des origines anales",
+      "Un sang plus foncé mêlé aux selles oriente vers une origine colique ou rectale",
+      "Une hémorragie haute très abondante peut donner une rectorragie avec malaise",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes les propositions sont dans le cours.",
+    "source": {
+      "page": 4,
+      "extrait": "Une hémorragie haute très abondante peut aussi donner une rectorragie, avec malaise."
+    },
+    "difficulte": 2,
+    "tags": [
+      "rectorragie"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/qcm-023",
+    "type": "multiple",
+    "enonce": "Parmi les fausses rectorragies, on cite :",
+    "options": [
+      "Betterave rouge",
+      "Colorants alimentaires",
+      "Rifampicine",
+      "Saignement urinaire ou gynécologique confondu",
+      "Charbon activé"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Fausses rectorragies : betterave rouge, colorants, rifampicine (coloration rouge-orangé), saignement urinaire ou gynécologique confondu. Le charbon donne des selles noires (fausse méléna).",
+    "source": {
+      "page": 4,
+      "extrait": "Fausses rectorragies : betterave rouge, colorants alimentaires ; rifampicine"
+    },
+    "difficulte": 2,
+    "tags": [
+      "rectorragie",
+      "pièges"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/qcm-024",
+    "type": "unique",
+    "enonce": "La rifampicine peut entraîner une coloration :",
+    "options": [
+      "Noire des selles et de la langue",
+      "Rouge-orangé des urines, des larmes et parfois des selles",
+      "Verte des selles",
+      "Blanche des selles",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Rifampicine : coloration rouge-orangé des urines, des larmes et parfois des selles.",
+    "source": {
+      "page": 4,
+      "extrait": "rifampicine (coloration rouge-orangé des urines, des larmes et parfois des selles)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "rectorragie"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/qcm-025",
+    "type": "multiple",
+    "enonce": "Concernant le saignement occulte :",
+    "options": [
+      "Un saignement chronique de faible abondance n'est pas visible",
+      "Il peut se révéler par une anémie ferriprive",
+      "Il peut être détecté par un test de recherche de sang dans les selles",
+      "Ce test est utilisé pour le dépistage du cancer colorectal",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le saignement occulte se révèle par une anémie ferriprive ou un test de recherche de sang dans les selles (dépistage du cancer colorectal).",
+    "source": {
+      "page": 4,
+      "extrait": "test de recherche de sang dans les selles, utilisé pour le dépistage du cancer colorectal"
+    },
+    "difficulte": 1,
+    "tags": [
+      "saignement occulte"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/qcm-026",
+    "type": "multiple",
+    "enonce": "L'anémie ferriprive se manifeste par :",
+    "options": [
+      "Pâleur",
+      "Fatigue",
+      "Essoufflement à l'effort",
+      "Hémoglobine et ferritine basses",
+      "Ferritine élevée"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Anémie ferriprive : pâleur, fatigue, essoufflement à l'effort ; hémoglobine et ferritine BASSES.",
+    "source": {
+      "page": 4,
+      "extrait": "anémie ferriprive (pâleur, fatigue, essoufflement à l'effort ; hémoglobine et ferritine basses)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "saignement occulte"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/qcm-027",
+    "type": "multiple",
+    "enonce": "Une anémie ferriprive inexpliquée impose une exploration digestive chez :",
+    "options": [
+      "L'homme",
+      "La femme ménopausée",
+      "Personne : il suffit de délivrer du fer",
+      "La femme jeune réglée uniquement",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Une anémie ferriprive inexpliquée chez l'homme ou la femme ménopausée impose une exploration digestive : ne pas se contenter de délivrer du fer.",
+    "source": {
+      "page": 4,
+      "extrait": "une anémie ferriprive inexpliquée chez l'homme ou la femme ménopausée impose une exploration digestive"
+    },
+    "difficulte": 2,
+    "tags": [
+      "saignement occulte"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/qcm-028",
+    "type": "multiple",
+    "enonce": "Les signes circulatoires du choc hémorragique sont :",
+    "options": [
+      "Pouls rapide (> 100/min)",
+      "Tension basse",
+      "Malaise en se levant",
+      "Pouls lent",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Circulation : pouls > 100/min, tension basse, malaise en se levant.",
+    "source": {
+      "page": 5,
+      "extrait": "Pouls rapide (> 100/min) • Tension basse • Malaise en se levant"
+    },
+    "difficulte": 1,
+    "tags": [
+      "choc"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/qcm-029",
+    "type": "multiple",
+    "enonce": "Les signes cutanés et de retentissement du choc hémorragique comprennent :",
+    "options": [
+      "Pâleur, sueurs",
+      "Extrémités froides",
+      "Soif intense",
+      "Agitation, confusion",
+      "Respiration rapide"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Peau : pâleur, sueurs, extrémités froides, soif intense. Retentissement : malaise, syncope, agitation, confusion, respiration rapide.",
+    "source": {
+      "page": 5,
+      "extrait": "Pâleur, sueurs • Extrémités froides • Soif intense"
+    },
+    "difficulte": 1,
+    "tags": [
+      "choc"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/qcm-030",
+    "type": "multiple",
+    "enonce": "Devant un vomissement de sang, un méléna ou une rectorragie avec malaise ou signe de choc :",
+    "options": [
+      "Il faut appeler immédiatement les secours",
+      "Le patient est allongé",
+      "Le patient reste à jeun",
+      "On propose une boisson sucrée",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Urgence : appel immédiat des secours ; le patient est allongé et reste à jeun.",
+    "source": {
+      "page": 5,
+      "extrait": "impose l'appel immédiat des secours ; le patient est allongé et reste à jeun"
+    },
+    "difficulte": 1,
+    "tags": [
+      "urgence"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/qcm-031",
+    "type": "multiple",
+    "enonce": "Concernant l'estimation de la perte sanguine chez l'adulte (ATLS simplifiée) :",
+    "options": [
+      "< 750 mL (< 15 %) : signes minimes, pouls et tension normaux",
+      "750 à 1 500 mL (15–30 %) : pouls rapide, tension conservée, anxiété",
+      "1 500 à 2 000 mL (30–40 %) : pouls très rapide, tension basse, confusion",
+      "> 2 000 mL (> 40 %) : choc profond, troubles de la conscience",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Les quatre classes reprennent exactement le tableau du cours (repères pour un adulte de 70 kg).",
+    "source": {
+      "page": 5,
+      "extrait": "Repères indicatifs pour un adulte de 70 kg (classification ATLS simplifiée)."
+    },
+    "difficulte": 2,
+    "tags": [
+      "perte sanguine"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/qcm-032",
+    "type": "unique",
+    "enonce": "Une perte sanguine de 1 000 mL chez un adulte de 70 kg se traduit habituellement par :",
+    "options": [
+      "Des signes minimes",
+      "Un pouls rapide avec tension conservée et anxiété",
+      "Un pouls très rapide, tension basse, confusion",
+      "Un choc profond",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "750 à 1 500 mL (15–30 %) : pouls rapide, tension conservée, anxiété.",
+    "source": {
+      "page": 5,
+      "extrait": "750 à 1 500 mL (15–30 %) Pouls rapide, tension conservée, anxiété"
+    },
+    "difficulte": 2,
+    "tags": [
+      "perte sanguine"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/qcm-033",
+    "type": "unique",
+    "enonce": "La tension artérielle commence à baisser, selon le tableau du cours, pour une perte de :",
+    "options": [
+      "< 750 mL",
+      "750 à 1 500 mL",
+      "1 500 à 2 000 mL",
+      "Seulement au-delà de 3 000 mL",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "La tension est conservée jusqu'à 1 500 mL ; elle baisse entre 1 500 et 2 000 mL (30–40 %).",
+    "source": {
+      "page": 5,
+      "extrait": "1 500 à 2 000 mL (30–40 %) Pouls très rapide, tension basse, confusion"
+    },
+    "difficulte": 3,
+    "tags": [
+      "perte sanguine"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/qcm-034",
+    "type": "multiple",
+    "enonce": "Les pièges d'évaluation de la gravité d'une hémorragie digestive sont :",
+    "options": [
+      "Un pouls normal sous bêtabloquant",
+      "Une tension « normale » chez un hypertendu traité",
+      "Une hémoglobine normale au début",
+      "Le fait que le sujet âgé s'aggrave vite",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Trois pièges dont deux médicamenteux : bêtabloquants (pouls), hypertendu traité (tension) ; hémoglobine initialement normale. Le sujet âgé s'aggrave vite.",
+    "source": {
+      "page": 6,
+      "extrait": "Les bêtabloquants (bisoprolol, propranolol…) empêchent l'accélération du pouls : un pouls normal ne rassure pas"
+    },
+    "difficulte": 2,
+    "tags": [
+      "pièges"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/qcm-035",
+    "type": "unique",
+    "enonce": "Lors d'une hémorragie digestive aiguë, la baisse de l'hémoglobine n'apparaît qu'après :",
+    "options": [
+      "1 à 2 heures",
+      "6 heures",
+      "24 à 72 heures",
+      "7 jours",
+      "Elle est immédiate"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Au début, l'hémoglobine peut être normale : la baisse n'apparaît qu'après 24 à 72 heures.",
+    "source": {
+      "page": 6,
+      "extrait": "la baisse n'apparaît qu'après 24 à 72 heures"
+    },
+    "difficulte": 2,
+    "tags": [
+      "pièges"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/qcm-036",
+    "type": "unique",
+    "enonce": "À l'hôpital, le score cité pour aider à décider de l'hospitalisation est :",
+    "options": [
+      "Score de Glasgow-Blatchford",
+      "Score de Child-Pugh",
+      "Score de Wells",
+      "Score de Ranson",
+      "Score APGAR"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Des scores comme le score de Glasgow-Blatchford aident à décider de l'hospitalisation.",
+    "source": {
+      "page": 6,
+      "extrait": "des scores (comme le score de Glasgow-Blatchford) aident à décider de l'hospitalisation"
+    },
+    "difficulte": 1,
+    "tags": [
+      "gravité"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/qcm-037",
+    "type": "multiple",
+    "enonce": "Parmi les causes d'hémorragie digestive haute, le cours cite :",
+    "options": [
+      "Ulcère gastroduodénal",
+      "Varices œsophagiennes",
+      "Syndrome de Mallory-Weiss",
+      "Œsophagite",
+      "Diverticules du côlon"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Causes hautes : ulcère, varices œsophagiennes, Mallory-Weiss, œsophagite (+ érosions sous AINS ou alcool, cancer). Les diverticules sont une cause basse.",
+    "source": {
+      "page": 7,
+      "extrait": "Ulcère gastroduodénal ; Varices œsophagiennes ; Syndrome de Mallory-Weiss ; Œsophagite"
+    },
+    "difficulte": 1,
+    "tags": [
+      "causes hautes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/qcm-038",
+    "type": "multiple",
+    "enonce": "Concernant l'ulcère gastroduodénal hémorragique :",
+    "options": [
+      "C'est la première cause d'hémorragie haute",
+      "Il est favorisé par H. pylori",
+      "Il est favorisé par les AINS, aspirine comprise",
+      "Il est toujours lié à une cirrhose",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Ulcère : première cause ; favorisé par H. pylori et les AINS (aspirine comprise).",
+    "source": {
+      "page": 7,
+      "extrait": "Première cause ; favorisé par H. pylori et les AINS (aspirine comprise)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "causes hautes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/qcm-039",
+    "type": "unique",
+    "enonce": "Une déchirure après des vomissements répétés correspond à :",
+    "options": [
+      "Des varices œsophagiennes",
+      "Un syndrome de Mallory-Weiss",
+      "Une œsophagite",
+      "Une angiodysplasie",
+      "Un ulcère"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Syndrome de Mallory-Weiss : déchirure après des vomissements répétés.",
+    "source": {
+      "page": 7,
+      "extrait": "Syndrome de Mallory-Weiss — Déchirure après des vomissements répétés"
+    },
+    "difficulte": 1,
+    "tags": [
+      "causes hautes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/qcm-040",
+    "type": "multiple",
+    "enonce": "Concernant l'œsophagite hémorragique :",
+    "options": [
+      "Elle peut être due au reflux",
+      "Elle peut être due à un comprimé resté bloqué dans l'œsophage",
+      "Elle siège sous l'angle de Treitz",
+      "Elle est toujours massive",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Œsophagite : reflux ; comprimé resté bloqué dans l'œsophage.",
+    "source": {
+      "page": 7,
+      "extrait": "Œsophagite — Reflux ; comprimé resté bloqué dans l'œsophage"
+    },
+    "difficulte": 2,
+    "tags": [
+      "causes hautes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/qcm-041",
+    "type": "multiple",
+    "enonce": "Concernant la rupture de varices œsophagiennes :",
+    "options": [
+      "C'est une complication de la cirrhose",
+      "La pression monte dans les veines de l'œsophage qui se dilatent",
+      "L'hémorragie est abondante, souvent avec choc",
+      "C'est une urgence",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le sang passe mal dans le foie cirrhotique, la pression monte dans les veines œsophagiennes qui se dilatent et peuvent se rompre : hémorragie abondante avec choc, urgence.",
+    "source": {
+      "page": 7,
+      "extrait": "Complication de la cirrhose : le sang ne passe plus bien dans le foie, la pression monte dans les veines de l'œsophage"
+    },
+    "difficulte": 1,
+    "tags": [
+      "varices"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/qcm-042",
+    "type": "multiple",
+    "enonce": "Concernant le patient cirrhotique, le pharmacien doit savoir que :",
+    "options": [
+      "Il reçoit souvent un bêtabloquant (propranolol, carvédilol) en prévention",
+      "Il ne doit pas recevoir d'AINS",
+      "Les AINS exposent à un risque de saignement et d'insuffisance rénale",
+      "Les AINS sont le traitement de choix de ses douleurs",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Le cirrhotique reçoit souvent un bêtabloquant en prévention ; il ne doit pas recevoir d'AINS (saignement et insuffisance rénale).",
+    "source": {
+      "page": 7,
+      "extrait": "il ne doit pas recevoir d'AINS (risque de saignement et d'insuffisance rénale)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "varices",
+      "pharmacien"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/qcm-043",
+    "type": "multiple",
+    "enonce": "Concernant les causes d'hémorragie basse :",
+    "options": [
+      "Les diverticules du côlon donnent chez le sujet âgé une rectorragie abondante et indolore",
+      "Les hémorroïdes donnent du sang rouge sur les selles",
+      "La fissure anale fait mal",
+      "Le cancer colorectal saigne souvent de façon minime ou invisible",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes les propositions reprennent le tableau des causes basses.",
+    "source": {
+      "page": 8,
+      "extrait": "Diverticules du côlon — Sujet âgé ; rectorragie abondante et indolore"
+    },
+    "difficulte": 1,
+    "tags": [
+      "causes basses"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/qcm-044",
+    "type": "multiple",
+    "enonce": "Concernant les autres causes d'hémorragie basse :",
+    "options": [
+      "Les angiodysplasies sont de petites malformations des vaisseaux",
+      "Les angiodysplasies concernent le sujet âgé avec saignements répétés",
+      "La colite ischémique donne une douleur brutale puis une rectorragie chez un sujet vasculaire",
+      "Les infections donnent une diarrhée sanglante avec fièvre",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Angiodysplasies, colite ischémique, MICI et infections sont des causes basses décrites dans le cours.",
+    "source": {
+      "page": 8,
+      "extrait": "Colite ischémique — Douleur brutale puis rectorragie, sujet vasculaire"
+    },
+    "difficulte": 2,
+    "tags": [
+      "causes basses"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/qcm-045",
+    "type": "multiple",
+    "enonce": "Concernant la conduite devant une rectorragie :",
+    "options": [
+      "Toute rectorragie doit être signalée au médecin, même attribuée à des hémorroïdes",
+      "Une coloscopie est parfois nécessaire pour ne pas méconnaître un cancer colorectal",
+      "Chez le sujet âgé porteur de diverticules, il faut éviter les AINS",
+      "Une rectorragie attribuée à des hémorroïdes ne nécessite jamais d'avis",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Toute rectorragie, même attribuée aux hémorroïdes, doit être signalée au médecin ; éviter les AINS chez le sujet âgé porteur de diverticules.",
+    "source": {
+      "page": 8,
+      "extrait": "Toute rectorragie, même attribuée à des hémorroïdes, doit être signalée au médecin"
+    },
+    "difficulte": 2,
+    "tags": [
+      "causes basses"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/qcm-046",
+    "type": "multiple",
+    "enonce": "Associez le contexte à la cause évoquée, selon le cours :",
+    "options": [
+      "AINS ou aspirine, douleurs de l'estomac — ulcère ou érosions",
+      "Cirrhose, alcool, ascite, jaunisse — varices œsophagiennes",
+      "Vomissements répétés puis sang — Mallory-Weiss",
+      "Amaigrissement, anémie, difficulté à avaler — cancer",
+      "Douleur anale à la selle, sang sur le papier — diverticules"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Douleur anale à la selle avec sang sur le papier oriente vers une fissure anale ; les diverticules donnent une rectorragie abondante SANS douleur chez le sujet âgé.",
+    "source": {
+      "page": 9,
+      "extrait": "Douleur anale à la selle, sang sur le papier — Fissure anale"
+    },
+    "difficulte": 2,
+    "tags": [
+      "contexte"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/qcm-047",
+    "type": "unique",
+    "enonce": "Un sujet âgé présentant une rectorragie abondante sans douleur évoque en premier :",
+    "options": [
+      "Une fissure anale",
+      "Des diverticules",
+      "Un Mallory-Weiss",
+      "Des varices œsophagiennes",
+      "Une colite infectieuse"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Sujet âgé, rectorragie abondante sans douleur : diverticules.",
+    "source": {
+      "page": 9,
+      "extrait": "Sujet âgé, rectorragie abondante sans douleur — Diverticules"
+    },
+    "difficulte": 1,
+    "tags": [
+      "contexte"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/qcm-048",
+    "type": "multiple",
+    "enonce": "Concernant le mécanisme des saignements sous AINS :",
+    "options": [
+      "Les AINS et l'aspirine inhibent la COX-1",
+      "La baisse des prostaglandines diminue la protection de l'estomac",
+      "Il en résulte moins de mucus, de bicarbonates et de débit sanguin",
+      "La muqueuse est attaquée par l'acide : érosions, ulcère, saignement",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "AINS/aspirine → inhibition COX-1 → baisse des prostaglandines protectrices → moins de mucus, bicarbonates, débit sanguin → érosions, ulcère, saignement.",
+    "source": {
+      "page": 10,
+      "extrait": "AINS, aspirine → inhibition de la COX-1 → baisse des prostaglandines protectrices de l'estomac"
+    },
+    "difficulte": 2,
+    "tags": [
+      "AINS"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/qcm-049",
+    "type": "multiple",
+    "enonce": "Concernant l'aspirine et H. pylori :",
+    "options": [
+      "L'aspirine ajoute un effet antiagrégant qui aggrave le saignement",
+      "H. pylori et AINS ont un effet additif",
+      "L'aspirine à faible dose (100 mg) est dénuée de risque ulcéreux",
+      "H. pylori protège contre les ulcères sous AINS",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "L'aspirine, même à faible dose (100 mg), expose à l'ulcère et ajoute un effet antiagrégant ; H. pylori et AINS ont un effet additif.",
+    "source": {
+      "page": 10,
+      "extrait": "L'aspirine ajoute un effet antiagrégant qui aggrave le saignement. H. pylori et AINS ont un effet additif."
+    },
+    "difficulte": 2,
+    "tags": [
+      "AINS"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/qcm-050",
+    "type": "multiple",
+    "enonce": "Parmi les médicaments qui provoquent des lésions digestives, on cite :",
+    "options": [
+      "Ibuprofène, diclofénac, kétoprofène, naproxène",
+      "Aspirine même à faible dose",
+      "Célécoxib (risque moindre mais non nul)",
+      "Bisphosphonates, doxycycline, chlorure de potassium",
+      "Prednisone, fluoxétine, sertraline (surtout associés à un AINS)"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Toutes ces classes sont citées dans le tableau des médicaments provoquant des lésions.",
+    "source": {
+      "page": 10,
+      "extrait": "Coxibs — Célécoxib — Risque moindre, mais non nul"
+    },
+    "difficulte": 2,
+    "tags": [
+      "médicaments"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/qcm-051",
+    "type": "unique",
+    "enonce": "Les bisphosphonates, la doxycycline et le chlorure de potassium exposent à :",
+    "options": [
+      "Un ulcère par inhibition de la COX-1",
+      "Une œsophagite si le comprimé reste bloqué",
+      "Une hausse de l'INR",
+      "Une fausse méléna",
+      "Des varices"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Comprimés irritants : œsophagite si le comprimé reste bloqué.",
+    "source": {
+      "page": 10,
+      "extrait": "Bisphosphonates, doxycycline, chlorure de potassium — Œsophagite si le comprimé reste bloqué"
+    },
+    "difficulte": 2,
+    "tags": [
+      "médicaments"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/qcm-052",
+    "type": "multiple",
+    "enonce": "Le conseil de prise des comprimés irritants est :",
+    "options": [
+      "Prendre debout",
+      "Avec un grand verre d'eau",
+      "Ne pas s'allonger ensuite",
+      "Prendre allongé au coucher",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Les comprimés irritants se prennent debout, avec un grand verre d'eau, sans s'allonger ensuite.",
+    "source": {
+      "page": 10,
+      "extrait": "les comprimés irritants se prennent debout, avec un grand verre d'eau, sans s'allonger ensuite"
+    },
+    "difficulte": 1,
+    "tags": [
+      "conseil"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/qcm-053",
+    "type": "multiple",
+    "enonce": "Concernant les corticoïdes et les ISRS :",
+    "options": [
+      "Prednisone, fluoxétine et sertraline sont cités",
+      "Le risque digestif existe surtout lorsqu'ils sont associés à un AINS",
+      "Ils sont plus ulcérogènes que les AINS seuls",
+      "Ils n'ont aucun risque digestif",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Corticoïdes et ISRS : risque surtout associés à un AINS.",
+    "source": {
+      "page": 10,
+      "extrait": "Corticoïdes, ISRS — Prednisone ; fluoxétine, sertraline — Risque surtout associés à un AINS"
+    },
+    "difficulte": 2,
+    "tags": [
+      "médicaments"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/qcm-054",
+    "type": "multiple",
+    "enonce": "Parmi les anticoagulants cités par le cours, on retrouve :",
+    "options": [
+      "Acénocoumarol, warfarine (AVK)",
+      "Apixaban, rivaroxaban, dabigatran (AOD)",
+      "Héparines",
+      "Clopidogrel",
+      "Ticagrélor"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Anticoagulants : AVK, AOD, héparines. Clopidogrel et ticagrélor sont des antiagrégants plaquettaires.",
+    "source": {
+      "page": 10,
+      "extrait": "AVK : acénocoumarol, warfarine • AOD : apixaban, rivaroxaban, dabigatran • Héparines"
+    },
+    "difficulte": 2,
+    "tags": [
+      "antithrombotiques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/qcm-055",
+    "type": "multiple",
+    "enonce": "Parmi les antiagrégants plaquettaires cités, on retrouve :",
+    "options": [
+      "Aspirine à faible dose",
+      "Clopidogrel",
+      "Prasugrel",
+      "Ticagrélor",
+      "Rivaroxaban"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Antiagrégants : aspirine faible dose, clopidogrel, prasugrel, ticagrélor ; double antiagrégation = risque majoré. Le rivaroxaban est un AOD.",
+    "source": {
+      "page": 10,
+      "extrait": "Aspirine à faible dose • Clopidogrel, prasugrel, ticagrélor"
+    },
+    "difficulte": 2,
+    "tags": [
+      "antithrombotiques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/qcm-056",
+    "type": "multiple",
+    "enonce": "Concernant les antithrombotiques et le saignement digestif :",
+    "options": [
+      "Ils ne créent pas la lésion mais la révèlent",
+      "Un saignement sous antithrombotique doit faire rechercher une lésion",
+      "Le patient ne doit jamais arrêter seul un anticoagulant ou un antiagrégant",
+      "L'arrêt expose à un risque de thrombose",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Les antithrombotiques aggravent et révèlent une lésion ; l'arrêt est une décision médicale (risque de thrombose).",
+    "source": {
+      "page": 10,
+      "extrait": "Ils ne créent pas la lésion, mais ils la révèlent"
+    },
+    "difficulte": 2,
+    "tags": [
+      "antithrombotiques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/qcm-057",
+    "type": "multiple",
+    "enonce": "Concernant les associations médicamenteuses à risque :",
+    "options": [
+      "AVK ou AOD + AINS : à éviter, préférer le paracétamol",
+      "AVK + miconazole (même en gel buccal) : contre-indiqué",
+      "AINS + corticoïde ou AINS + ISRS : éviter, sinon protection par IPP",
+      "Deux AINS ou AINS + aspirine : jamais",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Les quatre conduites sont celles du tableau des associations à risque.",
+    "source": {
+      "page": 11,
+      "extrait": "AVK + miconazole (même en gel buccal) — Contre-indiqué : hausse brutale de l'INR"
+    },
+    "difficulte": 2,
+    "tags": [
+      "associations"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/qcm-058",
+    "type": "unique",
+    "enonce": "L'association AVK + miconazole (même en gel buccal) est :",
+    "options": [
+      "Sans risque",
+      "À éviter, préférer le paracétamol",
+      "Contre-indiquée en raison d'une hausse brutale de l'INR",
+      "Possible avec un IPP",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "AVK + miconazole : contre-indiqué, hausse brutale de l'INR.",
+    "source": {
+      "page": 11,
+      "extrait": "Contre-indiqué : hausse brutale de l'INR"
+    },
+    "difficulte": 2,
+    "tags": [
+      "associations"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/qcm-059",
+    "type": "multiple",
+    "enonce": "Concernant l'association de deux AINS ou AINS + aspirine :",
+    "options": [
+      "Elle ne doit jamais être réalisée",
+      "Elle donne plus d'ulcère",
+      "Elle n'apporte pas de meilleur effet antalgique",
+      "Elle est acceptable avec un IPP",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Deux AINS ou AINS + aspirine : jamais ; plus d'ulcère sans meilleur effet antalgique.",
+    "source": {
+      "page": 11,
+      "extrait": "Jamais : plus d'ulcère, sans meilleur effet antalgique"
+    },
+    "difficulte": 2,
+    "tags": [
+      "associations"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/qcm-060",
+    "type": "multiple",
+    "enonce": "Le pharmacien doit vérifier dans l'automédication :",
+    "options": [
+      "Les AINS en vente libre",
+      "L'aspirine présente dans les médicaments contre le rhume",
+      "Les plantes",
+      "Uniquement l'ordonnance",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Toujours vérifier l'automédication (AINS en vente libre, aspirine dans les médicaments contre le rhume) et les plantes.",
+    "source": {
+      "page": 11,
+      "extrait": "Toujours vérifier l'automédication (AINS en vente libre, aspirine dans les médicaments contre le rhume) et les plantes."
+    },
+    "difficulte": 1,
+    "tags": [
+      "pharmacien"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/qcm-061",
+    "type": "multiple",
+    "enonce": "Les facteurs de risque d'ulcère compliqué sous AINS ou aspirine sont :",
+    "options": [
+      "Âge > 65 ans",
+      "Antécédent d'ulcère ou d'hémorragie digestive",
+      "Association à un anticoagulant, antiagrégant, corticoïde ou ISRS",
+      "Forte dose ou association de deux AINS, infection à H. pylori, maladie grave associée",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Tous ces facteurs sont listés dans le cours.",
+    "source": {
+      "page": 11,
+      "extrait": "Âge > 65 ans. Antécédent d'ulcère ou d'hémorragie digestive (le facteur le plus important)."
+    },
+    "difficulte": 1,
+    "tags": [
+      "protection gastrique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/qcm-062",
+    "type": "unique",
+    "enonce": "Le facteur de risque le plus important d'ulcère compliqué sous AINS est :",
+    "options": [
+      "L'âge > 65 ans",
+      "Un antécédent d'ulcère ou d'hémorragie digestive",
+      "L'infection à H. pylori",
+      "L'association à un ISRS",
+      "Une forte dose"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "L'antécédent d'ulcère ou d'hémorragie digestive est le facteur le plus important.",
+    "source": {
+      "page": 11,
+      "extrait": "Antécédent d'ulcère ou d'hémorragie digestive (le facteur le plus important)."
+    },
+    "difficulte": 2,
+    "tags": [
+      "protection gastrique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/qcm-063",
+    "type": "multiple",
+    "enonce": "Chez un patient à risque devant recevoir un AINS, la conduite est :",
+    "options": [
+      "Éviter l'AINS si possible",
+      "Utiliser la dose la plus faible",
+      "Utiliser la durée la plus courte",
+      "Associer un IPP",
+      "Associer deux AINS à faible dose"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Conduite : éviter l'AINS ; sinon dose la plus faible, durée la plus courte, jamais deux AINS, IPP associé.",
+    "source": {
+      "page": 11,
+      "extrait": "éviter l'AINS si possible ; sinon dose la plus faible, durée la plus courte, jamais deux AINS, et IPP associé"
+    },
+    "difficulte": 1,
+    "tags": [
+      "protection gastrique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/qcm-064",
+    "type": "multiple",
+    "enonce": "Le rôle « prévenir » du pharmacien comprend :",
+    "options": [
+      "Analyser l'ordonnance et l'automédication",
+      "Refuser l'AINS chez le patient à risque",
+      "Proposer le paracétamol",
+      "Vérifier la protection gastrique",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Prévenir : analyser l'ordonnance et l'automédication, refuser l'AINS chez le patient à risque, proposer le paracétamol, vérifier la protection gastrique.",
+    "source": {
+      "page": 11,
+      "extrait": "Analyser l'ordonnance et l'automédication • Refuser l'AINS chez le patient à risque"
+    },
+    "difficulte": 1,
+    "tags": [
+      "pharmacien"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/qcm-065",
+    "type": "multiple",
+    "enonce": "Face à un patient qui dit « mes selles sont noires », le pharmacien :",
+    "options": [
+      "Oriente aux urgences en cas de malaise, pâleur, sueurs, soif, hématémèse",
+      "Oriente aux urgences si le patient est sous anticoagulant ou AINS",
+      "Rassure et surveille si prise de fer, bismuth ou charbon avec selles moulées, non collantes, non fétides et sans signe de gravité",
+      "Demande une consultation le jour même dans tous les autres cas ou en cas de doute",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "C'est l'arbre décisionnel « mes selles sont noires » du cours.",
+    "source": {
+      "page": 12,
+      "extrait": "Dans tous les autres cas, ou en cas de doute : consultation médicale le jour même."
+    },
+    "difficulte": 2,
+    "tags": [
+      "officine"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/qcm-066",
+    "type": "multiple",
+    "enonce": "En urgence, la prise en charge hospitalière d'une hémorragie digestive comprend :",
+    "options": [
+      "Évaluer la gravité (pouls, tension, signes de choc)",
+      "Réanimer : perfusion, oxygène, patient à jeun",
+      "Prélever : numération, groupe sanguin, bilan de coagulation",
+      "Transfuser si l'hémoglobine est trop basse",
+      "Endoscopie dans les 24 heures"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Les cinq étapes sont celles du cours ; l'endoscopie permet souvent aussi d'arrêter le saignement.",
+    "source": {
+      "page": 12,
+      "extrait": "Explorer : endoscopie dans les 24 heures, qui permet souvent aussi d'arrêter le saignement."
+    },
+    "difficulte": 1,
+    "tags": [
+      "prise en charge"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/qcm-067",
+    "type": "multiple",
+    "enonce": "Le traitement médicamenteux d'un ulcère hémorragique comprend :",
+    "options": [
+      "IPP à forte dose par voie veineuse puis orale",
+      "Recherche et traitement d'H. pylori",
+      "Arrêt des AINS",
+      "Terlipressine",
+      "Ligature endoscopique"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Ulcère : IPP IV forte dose puis oral, traitement d'H. pylori, arrêt des AINS. Terlipressine et ligature concernent les varices.",
+    "source": {
+      "page": 12,
+      "extrait": "IPP à forte dose par voie veineuse, puis par voie orale • Recherche et traitement d'H. pylori • Arrêt des AINS"
+    },
+    "difficulte": 2,
+    "tags": [
+      "prise en charge"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/qcm-068",
+    "type": "multiple",
+    "enonce": "Le traitement d'une hémorragie par rupture de varices (cirrhose) comprend :",
+    "options": [
+      "Un médicament vasoactif (terlipressine, somatostatine, octréotide)",
+      "Un antibiotique préventif",
+      "Une ligature des varices par endoscopie",
+      "Puis un bêtabloquant en prévention",
+      "Un AINS antalgique"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Varices : vasoactif, antibiotique préventif, ligature endoscopique, puis bêtabloquant. Les AINS sont proscrits chez le cirrhotique.",
+    "source": {
+      "page": 12,
+      "extrait": "Médicament vasoactif (terlipressine, somatostatine, octréotide) • Antibiotique préventif • Ligature des varices"
+    },
+    "difficulte": 2,
+    "tags": [
+      "prise en charge"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/qcm-069",
+    "type": "multiple",
+    "enonce": "Concernant les antithrombotiques pendant l'hémorragie :",
+    "options": [
+      "Le médecin décide au cas par cas",
+      "L'aspirine prescrite après un infarctus ou un AVC est en général poursuivie ou reprise rapidement",
+      "Les anticoagulants sont suspendus",
+      "La vitamine K est l'antidote des AVK",
+      "La reprise est une décision médicale"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Toutes les propositions correspondent au paragraphe « Et les antithrombotiques ? ».",
+    "source": {
+      "page": 13,
+      "extrait": "les anticoagulants sont suspendus, et des antidotes existent en cas de saignement grave (vitamine K pour les AVK"
+    },
+    "difficulte": 2,
+    "tags": [
+      "antithrombotiques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/qcm-070",
+    "type": "multiple",
+    "enonce": "D'après le tableau de synthèse, associez le mode de révélation à son piège :",
+    "options": [
+      "Hématémèse — hémoptysie, saignement du nez avalé",
+      "Méléna — fer, bismuth, charbon",
+      "Rectorragie — hémorragie haute massive, betterave, rifampicine",
+      "Malaise, choc — bêtabloquants, hémoglobine initiale normale",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Les quatre associations sont celles du tableau de synthèse.",
+    "source": {
+      "page": 13,
+      "extrait": "Malaise, choc — Haute ou basse — Bêtabloquants, hémoglobine initiale normale"
+    },
+    "difficulte": 2,
+    "tags": [
+      "synthèse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/qcm-071",
+    "type": "multiple",
+    "enonce": "À retenir de ce cours :",
+    "options": [
+      "AINS et aspirine sont la première cause médicamenteuse d'ulcère qui saigne",
+      "La gravité se juge sur le malaise et le choc",
+      "Les antithrombotiques aggravent un saignement et révèlent une lésion",
+      "Le pharmacien peut arrêter un antithrombotique sans avis médical",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Jamais d'arrêt d'antithrombotique sans avis médical.",
+    "source": {
+      "page": 14,
+      "extrait": "jamais d'arrêt d'antithrombotique sans avis médical"
+    },
+    "difficulte": 1,
+    "tags": [
+      "synthèse"
+    ],
+    "origine": "genere"
+  }
+]

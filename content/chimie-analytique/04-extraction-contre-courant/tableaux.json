@@ -1,0 +1,91 @@
+[
+  {
+    "id": "chimie-analytique/04-extraction-contre-courant/tableau-001",
+    "titre": "Extraction répétée vs extraction à contre-courant",
+    "colonnes": [
+      "Critère",
+      "Extraction répétée",
+      "Extraction à contre-courant"
+    ],
+    "lignes": [
+      [
+        "Fonctionnement",
+        "Discontinu (ampoules) ou continu (Jalade)",
+        "Continu, en colonne"
+      ],
+      [
+        "Solvant à chaque étage",
+        "Pur",
+        "Contient déjà du soluté"
+      ],
+      [
+        "Bilan global",
+        "QA0 = ΣQB + QAn",
+        "QA0 = QAn + QB1"
+      ],
+      [
+        "Quantité restante",
+        "QA0/(1+α)ⁿ",
+        "QA0(α − 1)/(αⁿ⁺¹ − 1)"
+      ],
+      [
+        "Échelle",
+        "Laboratoire",
+        "Essentiellement industrielle"
+      ]
+    ]
+  },
+  {
+    "id": "chimie-analytique/04-extraction-contre-courant/carte-002",
+    "type": "carte",
+    "titre": "Extraction à contre-courant",
+    "racine": {
+      "label": "Contre-courant",
+      "enfants": [
+        {
+          "label": "Principe",
+          "enfants": [
+            {
+              "label": "Colonne, flux inverses",
+              "enfants": []
+            },
+            {
+              "label": "Solvant non pur à chaque étage",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Étude",
+          "enfants": [
+            {
+              "label": "n étages théoriques, HEET = L/n",
+              "enfants": []
+            },
+            {
+              "label": "QAn = QA0(α−1)/(αⁿ⁺¹−1)",
+              "enfants": []
+            },
+            {
+              "label": "n par les logarithmes",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Pratique",
+          "enfants": [
+            {
+              "label": "Léger en bas, lourd en haut",
+              "enfants": []
+            },
+            {
+              "label": "Émulsions → centrifugation",
+              "enfants": []
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

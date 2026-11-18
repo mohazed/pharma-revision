@@ -1,0 +1,9 @@
+{
+  "id": "_exemple/01-cours-exemple",
+  "module": "pharmacologie",
+  "ordre": 99,
+  "titre": "Cours d'exemple (données de test)",
+  "type": "cours",
+  "source": { "driveId": "exemple", "fichier": "exemple.pdf", "modifiedTime": "2026-11-15T10:00:00.000Z" },
+  "resume": "Cours fictif servant à tester toutes les fonctionnalités de l'application."
+}

@@ -1,0 +1,170 @@
+[
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/flashcard-001",
+    "recto": "Mécanisme principal des antidépresseurs tricycliques",
+    "verso": "Inhibition de la recapture de la sérotonine et de la noradrénaline.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/flashcard-002",
+    "recto": "RSA : longueur optimale de la chaîne latérale",
+    "verso": "Trois carbones ; l'encombrement diminue l'activité.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/flashcard-003",
+    "recto": "RSA : amines tertiaires vs secondaires",
+    "verso": "Tertiaires (imipramine) : sérotonine + noradrénaline ; secondaires (nortriptyline) : noradrénaline de façon préférentielle.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/flashcard-004",
+    "recto": "Caractère amphiphile du système tricyclique",
+    "verso": "Explique l'affinité pour les transporteurs et récepteurs et l'effet stabilisant de membrane cardiaque.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/flashcard-005",
+    "recto": "Effets neuropsychiques des tricycliques",
+    "verso": "Réactivations anxieuses ou délirantes, inversion trop rapide de l'humeur, risque suicidaire.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/flashcard-006",
+    "recto": "Effets cardiovasculaires des tricycliques",
+    "verso": "Hypotension orthostatique, arythmies, troubles de conduction (risque de mort subite).",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/flashcard-007",
+    "recto": "Effets anticholinergiques des tricycliques",
+    "verso": "Sécheresse buccale, constipation, douleurs épigastriques, tachycardie, vision trouble, rétention urinaire.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/flashcard-008",
+    "recto": "Effets H1 et α1 des tricycliques",
+    "verso": "H1 : sédation ; α1 : hypotension.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/flashcard-009",
+    "recto": "Définition des MAO",
+    "verso": "Enzymes flaviniques mitochondriales catalysant la désamination oxydative des neurotransmetteurs et des amines alimentaires.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/flashcard-010",
+    "recto": "MAO-A",
+    "verso": "Agit sur la sérotonine, la noradrénaline et l'adrénaline.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/flashcard-011",
+    "recto": "MAO-B",
+    "verso": "Agit sur la phényléthylamine et la dopamine.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/flashcard-012",
+    "recto": "Classification des IMAO",
+    "verso": "Sélectifs réversibles (IMAO-A, IMAO-B) et non sélectifs irréversibles.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/flashcard-013",
+    "recto": "Iproniazide : structure",
+    "verso": "Dérivé de l'acide isonicotinique dont le carboxyle porte un enchaînement hydrazinique alkylé par un isopropyle.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/flashcard-014",
+    "recto": "Iproniazide : mécanisme",
+    "verso": "IMAO non sélectif, irréversible et incompétitif ; inhibition suicidaire par fixation covalente (destruction de l'enzyme).",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/flashcard-015",
+    "recto": "Risque lié à la non-spécificité des IMAO",
+    "verso": "Inhibition de plusieurs enzymes du métabolisme : interactions médicamenteuses.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/flashcard-016",
+    "recto": "Moclobémide : structure et mécanisme",
+    "verso": "Benzamide dérivé de l'aminoéthylmorpholine, inhibiteur compétitif réversible sélectif de la MAO-A.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/flashcard-017",
+    "recto": "Délai de restauration de la MAO après IMAO irréversible",
+    "verso": "2 semaines (synthèse d'une nouvelle enzyme).",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/flashcard-018",
+    "recto": "Mécanisme d'action des IMAO",
+    "verso": "Inhibition des MAO → augmentation de la concentration synaptique de sérotonine, dopamine et noradrénaline.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/flashcard-019",
+    "recto": "ISRS : définition",
+    "verso": "Antidépresseurs sérotoninergiques purs, plutôt psychotoniques, d'efficacité comparable aux imipraminiques.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/flashcard-020",
+    "recto": "Avantages des ISRS",
+    "verso": "Sans effets anticholinergiques (mieux tolérés), dépourvus de toxicité cardiaque (administrables chez un cardiaque).",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/flashcard-021",
+    "recto": "Mécanisme des ISRS",
+    "verso": "Inhibition sélective du recaptage de la sérotonine, sans altérer celui de la noradrénaline.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/flashcard-022",
+    "recto": "ISRS et spécialités",
+    "verso": "Fluoxétine (Prozac®), fluvoxamine (Floxyfral®), paroxétine (Deroxat®), sertraline (Zoloft®), citalopram (Seropram®), escitalopram (Seroplex®).",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/flashcard-023",
+    "recto": "IRSNA : définition",
+    "verso": "Composés à action duale sérotoninergique et noradrénergique inhibant la recapture des deux monoamines.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/flashcard-024",
+    "recto": "IRSNA : avantages",
+    "verso": "Dépourvus d'action post-synaptique directe (cholinergique, adrénolytique) : moins d'effets indésirables.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/flashcard-025",
+    "recto": "IRSNA et spécialités",
+    "verso": "Venlafaxine (Effexor®), milnacipran (Ixel®).",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/flashcard-026",
+    "recto": "Miansérine (Athymil®)",
+    "verso": "Tétracyclique bloquant les récepteurs α2 présynaptiques noradrénergiques.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/flashcard-027",
+    "recto": "Mirtazapine (Norset®)",
+    "verso": "Tétracyclique NASSA : blocage des α2 présynaptiques noradrénergiques et des 5-HT1A présynaptiques sérotoninergiques.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/flashcard-028",
+    "recto": "Place des antidépresseurs atypiques",
+    "verso": "Dépressions de moindre intensité ou contre-indications aux imipraminiques ; rapidité d'action souvent meilleure, toxicité aiguë moindre.",
+    "tags": []
+  }
+]

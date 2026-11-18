@@ -1,0 +1,58 @@
+{
+  "id": "semiologie/06-douleurs-thoraciques-aigues/fiche",
+  "titre": "Douleurs thoraciques aiguës",
+  "sections": [
+    {
+      "titre": "Généralités",
+      "points": [
+        "30 % des consultations de cardiologie, 5–10 % des urgences.",
+        "6 origines : cardiovasculaire, pleuro-pulmonaire, digestive, pariétale, neurologique, psychogène.",
+        "7 caractères : circonstances, siège, irradiations, type, durée, signes associés, facteurs modifiants."
+      ]
+    },
+    {
+      "titre": "Gravité",
+      "points": [
+        "Détresse respiratoire, malaise/sueurs, troubles de conscience, collapsus, douleur > 10 min chez sujet à risque.",
+        "**Un seul signe = appel immédiat des secours.**"
+      ]
+    },
+    {
+      "titre": "Insuffisance coronaire",
+      "points": [
+        "Angor stable : effort, en barre, < 2 min, trinitrine < 1 min, ECG normal au repos.",
+        "Angor instable (de novo, crescendo, repos) = syndrome de menace.",
+        "IDM : > 20 min, atroce, sueurs, résiste à la trinitrine, opiacés, Pardee puis onde Q.",
+        "SCA = angor instable + IDM."
+      ]
+    },
+    {
+      "titre": "Autres urgences",
+      "points": [
+        "Péricardite : post-grippal, sans irradiation, ↑ inspiration/décubitus, ↓ antéflexion, frottement, cœur en carafe.",
+        "Dissection : déchirure migratrice, HTA/Marfan, asymétrie tensionnelle, médiastin élargi ; A chirurgie, B antihypertenseurs.",
+        "EP : point de côté basithoracique, dyspnée ; D-dimères (VPN), angioscanner = référence."
+      ]
+    },
+    {
+      "titre": "Causes non cardiaques et officine",
+      "points": [
+        "Épanchement (matité) / pneumothorax (tympanisme) ; spasme œsophagien sensible à la trinitrine.",
+        "Pariétale : reproduite à la palpation ; précordialgie : coup d'aiguille, apex.",
+        "Officine : calmer, évaluer, mesurer (TA 2 bras), soulager, alerter.",
+        "Nitrés CI après sildénafil/tadalafil."
+      ]
+    }
+  ],
+  "aRetenir": [
+    "Le pharmacien ne pose pas le diagnostic : il repère la gravité et oriente.",
+    "Une brûlure d'estomac peut être un infarctus (diabétique, sujet âgé).",
+    "Le soulagement par la trinitrine n'élimine pas une cause grave."
+  ],
+  "pieges": [
+    "Spasme œsophagien cède à la trinitrine (simule l'angor).",
+    "Antéflexion : calme la péricardite, aggrave le reflux.",
+    "Angor de repos = sans élévation significative de la troponine.",
+    "ECG souvent normal dans la dissection et l'EP."
+  ]
+}

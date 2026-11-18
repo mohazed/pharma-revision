@@ -1,0 +1,135 @@
+[
+  {
+    "id": "pharmacologie/01-introduction/cas-01",
+    "titre": "À l'officine : générique, notice et RCP",
+    "enonce": "Mme K., 52 ans, se présente à l'officine avec une ordonnance. Le pharmacien lui propose le médicament générique du produit prescrit. Elle demande si « c'est vraiment le même médicament » et souhaite comprendre la différence entre la notice de la boîte et le document consulté par le pharmacien (RCP).",
+    "questions": [
+      {
+        "id": "pharmacologie/01-introduction/cas-01-q1",
+        "type": "multiple",
+        "enonce": "Pour être considéré comme essentiellement similaire au produit original, le générique doit :",
+        "options": [
+          "Avoir la même composition qualitative en principe(s) actif(s)",
+          "Avoir la même composition quantitative en principe(s) actif(s)",
+          "Être présenté sous la même forme pharmaceutique",
+          "Avoir démontré, lorsque nécessaire, sa bioéquivalence par des études de biodisponibilité",
+          "Toutes les propositions sont correctes"
+        ],
+        "correctes": [
+          4
+        ],
+        "explication": "Ce sont les quatre critères de la définition du générique donnée dans le cours.",
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacologie/01-introduction/cas-01-q2",
+        "type": "multiple",
+        "enonce": "La notice remise à Mme K. :",
+        "options": [
+          "A pour destinataire principal le patient",
+          "Est rédigée de façon simple et vulgarisée",
+          "Contient le détail des données précliniques",
+          "Présente les contre-indications reformulées pour être comprises par la patiente",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0,
+          1,
+          3
+        ],
+        "explication": "La notice s'adresse au patient, en langage vulgarisé, avec des contre-indications reformulées ; les caractéristiques pharmacologiques (dont les données précliniques) y sont généralement absentes.",
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacologie/01-introduction/cas-01-q3",
+        "type": "multiple",
+        "enonce": "Le RCP consulté par le pharmacien :",
+        "options": [
+          "Est destiné principalement aux professionnels de santé",
+          "Présente une posologie détaillée avec adaptations selon les situations",
+          "Contient des informations détaillées sur l'utilisation en cas d'insuffisance rénale ou hépatique",
+          "Fournit les informations scientifiques et réglementaires nécessaires à l'utilisation du médicament",
+          "Toutes les propositions sont correctes"
+        ],
+        "correctes": [
+          4
+        ],
+        "explication": "Toutes ces caractéristiques figurent dans la colonne RCP du tableau du cours.",
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "pharmacologie/01-introduction/cas-02",
+    "titre": "Catégories et origines des médicaments",
+    "enonce": "Un étudiant en stage hospitalier observe : (1) la préparation, juste avant l'emploi, d'une formule détaillée prescrite pour un patient donné ; (2) la délivrance de soluté de Dakin préparé à l'avance ; (3) l'administration d'héparine, d'insuline obtenue par génie génétique et de codéine.",
+    "questions": [
+      {
+        "id": "pharmacologie/01-introduction/cas-02-q1",
+        "type": "unique",
+        "enonce": "La préparation (1) correspond à :",
+        "options": [
+          "Une préparation magistrale",
+          "Une préparation officinale",
+          "Une spécialité pharmaceutique",
+          "Un médicament générique",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Préparée extemporanément sur prescription précisant la formule, pour un malade particulier : préparation magistrale.",
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacologie/01-introduction/cas-02-q2",
+        "type": "multiple",
+        "enonce": "Le soluté de Dakin (2) est :",
+        "options": [
+          "Une préparation officinale",
+          "Un médicament préparé en pharmacie à l'avance",
+          "Une préparation magistrale",
+          "Une spécialité caractérisée par une dénomination spéciale",
+          "Toutes les propositions sont fausses"
+        ],
+        "correctes": [
+          0,
+          1
+        ],
+        "explication": "Le cours cite le soluté de Dakin comme exemple de préparation officinale, préparée à l'avance.",
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacologie/01-introduction/cas-02-q3",
+        "type": "multiple",
+        "enonce": "Concernant l'origine des médicaments administrés (3) :",
+        "options": [
+          "L'héparine est d'origine animale (poumon de bœuf)",
+          "L'insuline obtenue par génie génétique est d'origine biotechnologique",
+          "La codéine est d'origine semi-synthétique",
+          "La codéine est plus toxique que la morphine",
+          "L'héparine est d'origine minérale"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "Héparine : animale ; insuline recombinante : biotechnologique ; codéine : semi-synthétique et moins toxique que la morphine.",
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      }
+    ]
+  }
+]

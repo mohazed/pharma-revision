@@ -1,0 +1,105 @@
+[
+  {
+    "id": "pharmacie-galenique/05-pulverisation/tableau-001",
+    "titre": "Mécanismes de pulvérisation",
+    "colonnes": [
+      "Mécanisme",
+      "Principe",
+      "Substances"
+    ],
+    "lignes": [
+      [
+        "Percussion",
+        "Chocs très violents contre obstacle fixe ou mobile",
+        "Dures"
+      ],
+      [
+        "Compression",
+        "Écrasement entre partie mobile et fixe",
+        "Dures"
+      ],
+      [
+        "Cisaillement",
+        "Lames tranchantes (fixe + mobile)",
+        "Friables"
+      ],
+      [
+        "Attrition",
+        "Frottement contre surface rugueuse, contact permanent",
+        "Molles et friables"
+      ]
+    ]
+  },
+  {
+    "id": "pharmacie-galenique/05-pulverisation/tableau-002",
+    "titre": "Dénomination des poudres",
+    "colonnes": [
+      "Dénomination",
+      "Tamis où le résidu ≤ 5 %",
+      "Tamis traversé par ≤ 40 %"
+    ],
+    "lignes": [
+      [
+        "Grossière",
+        "1400",
+        "355"
+      ],
+      [
+        "Modérément fine",
+        "355",
+        "180"
+      ],
+      [
+        "Fine",
+        "180",
+        "125"
+      ],
+      [
+        "Très fine",
+        "125",
+        "90"
+      ]
+    ]
+  },
+  {
+    "id": "pharmacie-galenique/05-pulverisation/tableau-003",
+    "titre": "Méthodes d'analyse granulométrique",
+    "colonnes": [
+      "Méthode",
+      "Type",
+      "Domaine / principe"
+    ],
+    "lignes": [
+      [
+        "Tamis superposés",
+        "Directe",
+        "Pesée des refus sur 7 tamis décroissants"
+      ],
+      [
+        "Microscopie optique",
+        "Directe",
+        "3 µm – 100 µm"
+      ],
+      [
+        "MEB",
+        "Directe",
+        "50 nm – 200 µm"
+      ],
+      [
+        "MET",
+        "Directe",
+        "1 nm – 5 µm"
+      ],
+      [
+        "Compteur électronique",
+        "Indirecte",
+        "0,5 – 300 µm ; volume d'électrolyte déplacé"
+      ],
+      [
+        "Granulomètre laser",
+        "Indirecte",
+        "≥ 0,05 µm ; déviation de la lumière"
+      ]
+    ]
+  }
+]

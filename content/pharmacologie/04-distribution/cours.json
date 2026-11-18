@@ -1,0 +1,13 @@
+{
+  "id": "pharmacologie/04-distribution",
+  "module": "pharmacologie",
+  "ordre": 4,
+  "titre": "Distribution des médicaments",
+  "type": "cours",
+  "source": {
+    "driveId": "1yc8GskigEGzwNT2vdhNIznx6A2itpgOZ",
+    "fichier": "4. Distribution Des Médicaments.pdf",
+    "modifiedTime": "2026-11-06T16:01:20.444Z"
+  },
+  "resume": "Répartition du médicament dans l'organisme : phase plasmatique (fixation aux protéines plasmatiques et aux éléments figurés), diffusion tissulaire et ses facteurs, passages particuliers (barrière hémato-encéphalique, placenta) et phénomène de redistribution."
+}

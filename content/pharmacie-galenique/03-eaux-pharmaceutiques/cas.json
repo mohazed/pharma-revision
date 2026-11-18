@@ -1,0 +1,220 @@
+[
+  {
+    "id": "pharmacie-galenique/03-eaux-pharmaceutiques/cas-001",
+    "titre": "Choix d'une eau en production",
+    "enonce": "Un pharmacien responsable de production doit choisir la qualité d'eau pour plusieurs étapes : granulation humide de comprimés, lyophilisation d'un lyophilisat injectable et reconstitution d'une poudre pour solution injectable au moment de l'emploi.",
+    "questions": [
+      {
+        "id": "pharmacie-galenique/03-eaux-pharmaceutiques/cas-001-q-001",
+        "type": "unique",
+        "enonce": "Pour la granulation humide des comprimés, il utilise :",
+        "options": [
+          "L'eau purifiée",
+          "L'eau pour irrigation",
+          "L'EPPI stérilisée",
+          "L'eau potable non traitée",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "L'eau purifiée est utilisée pour les granulés et comprimés (eau absente de la formulation finale).",
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacie-galenique/03-eaux-pharmaceutiques/cas-001-q-002",
+        "type": "unique",
+        "enonce": "Pour la lyophilisation du lyophilisat injectable (stérile), il utilise :",
+        "options": [
+          "L'eau purifiée",
+          "L'EPPI",
+          "L'eau hautement purifiée",
+          "L'eau pour irrigation",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          1
+        ],
+        "explication": "La lyophilisation stérile nécessite de l'eau ppi.",
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacie-galenique/03-eaux-pharmaceutiques/cas-001-q-003",
+        "type": "unique",
+        "enonce": "Pour la reconstitution extemporanée, on fournit :",
+        "options": [
+          "Une eau stérile et apyrogène PPI en ampoule",
+          "Une eau pour irrigation en flacon versable",
+          "Une EPPI en vrac",
+          "Une eau purifiée",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "L'eau stérile et apyrogène PPI, répartie en ampoules et stérilisée à la chaleur, sert à la dissolution au moment de l'emploi.",
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacie-galenique/03-eaux-pharmaceutiques/cas-001-q-004",
+        "type": "multiple",
+        "enonce": "L'EPPI produite en vrac doit être stockée :",
+        "options": [
+          "Au-dessus de 70 °C",
+          "Dans des installations en acier inoxydable",
+          "En système clos",
+          "Sous lampes UV en surface",
+          "Toutes les propositions sont correctes"
+        ],
+        "correctes": [
+          4
+        ],
+        "explication": "Conditions de stockage de l'EPPI décrites dans le cours.",
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "pharmacie-galenique/03-eaux-pharmaceutiques/cas-002",
+    "titre": "Conception d'une boucle de purification",
+    "enonce": "Un site industriel veut produire de l'eau de haute qualité à partir d'eau potable. L'ingénieur compare échangeurs d'ions, osmose inverse et distillation.",
+    "questions": [
+      {
+        "id": "pharmacie-galenique/03-eaux-pharmaceutiques/cas-002-q-001",
+        "type": "unique",
+        "enonce": "Si l'objectif principal est de déminéraliser à faible coût, il peut choisir :",
+        "options": [
+          "Les échangeurs d'ions",
+          "La thermocompression",
+          "L'ultrafiltration seule",
+          "La microfiltration seule",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Les échangeurs d'ions éliminent pratiquement tous les ions et ne sont pas très coûteux ; l'ultrafiltration n'élimine pas les sels.",
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacie-galenique/03-eaux-pharmaceutiques/cas-002-q-002",
+        "type": "multiple",
+        "enonce": "Pour éliminer en plus bactéries, pyrogènes et matières organiques, il peut ajouter :",
+        "options": [
+          "Une distillation",
+          "Une osmose inverse",
+          "Un second échangeur d'ions",
+          "Une ultrafiltration",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0,
+          1,
+          3
+        ],
+        "explication": "Osmose inverse, distillation et ultrafiltration sont +++ sur micro-organismes et pyrogènes, contrairement aux échangeurs d'ions.",
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacie-galenique/03-eaux-pharmaceutiques/cas-002-q-003",
+        "type": "multiple",
+        "enonce": "S'il choisit la distillation à effets multiples :",
+        "options": [
+          "Il fonctionne sous pression réduite par compression",
+          "L'eau d'alimentation est déminéralisée",
+          "Il fonctionne sans eau de réfrigération",
+          "L'appareil récupère beaucoup de calories",
+          "L'eau d'alimentation traverse le condenseur"
+        ],
+        "correctes": [
+          1,
+          3,
+          4
+        ],
+        "explication": "Effets multiples : eau déminéralisée traversant le condenseur → récupération de calories. L'absence d'eau de réfrigération caractérise la thermocompression.",
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacie-galenique/03-eaux-pharmaceutiques/cas-002-q-004",
+        "type": "multiple",
+        "enonce": "Pour éviter la présence de CO₂ et d'ammoniac dans le distillat :",
+        "options": [
+          "Dégazer l'eau au préalable",
+          "Augmenter le débit",
+          "Faire un barbotage d'oxygène",
+          "Éliminer les premières fractions",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0,
+          3
+        ],
+        "explication": "Les volatils passent dans les premières fractions : on les élimine ou on dégaze l'eau au préalable.",
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "pharmacie-galenique/03-eaux-pharmaceutiques/cas-003",
+    "titre": "Bloc opératoire et eau pour irrigation",
+    "enonce": "Une infirmière de bloc opératoire demande au pharmacien hospitalier si le flacon d'eau pour irrigation entamé peut servir pour une perfusion ou être réutilisé pour une autre intervention.",
+    "questions": [
+      {
+        "id": "pharmacie-galenique/03-eaux-pharmaceutiques/cas-003-q-001",
+        "type": "multiple",
+        "enonce": "Le pharmacien répond que l'eau pour irrigation :",
+        "options": [
+          "Doit être jetée si non utilisée",
+          "Doit être utilisée en une seule fois",
+          "Peut être branchée sur une tubulure de perfusion",
+          "Peut être réutilisée dans les 24 h",
+          "Ne doit pas être injectée"
+        ],
+        "correctes": [
+          0,
+          1,
+          4
+        ],
+        "explication": "L'étiquetage indique : ne pas injecter, usage en une seule fois, jeter le reste ; l'orifice n'est pas adaptable à la perfusion.",
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacie-galenique/03-eaux-pharmaceutiques/cas-003-q-002",
+        "type": "multiple",
+        "enonce": "L'eau pour irrigation est :",
+        "options": [
+          "Conditionnée en flacon versable unidose",
+          "Un grand volume",
+          "Stérile",
+          "Limitée à moins de 0,5 UI/ml d'endotoxines",
+          "Toutes les propositions sont correctes"
+        ],
+        "correctes": [
+          4
+        ],
+        "explication": "Toutes ces caractéristiques figurent dans la définition du cours.",
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      }
+    ]
+  }
+]

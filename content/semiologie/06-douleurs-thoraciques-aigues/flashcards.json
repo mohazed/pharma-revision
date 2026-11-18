@@ -1,0 +1,194 @@
+[
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/flashcard-001",
+    "recto": "4 grands signes fonctionnels cardiovasculaires",
+    "verso": "Douleur, dyspnée, palpitations, perte de connaissance.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/flashcard-002",
+    "recto": "Épidémiologie de la douleur thoracique",
+    "verso": "30 % des consultations de cardiologie, 5–10 % des urgences, ≈ 1/2 d'allure cardiovasculaire.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/flashcard-003",
+    "recto": "6 origines de douleur thoracique",
+    "verso": "Cardiovasculaire, pleuro-pulmonaire, digestive, pariétale, neurologique, psychogène.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/flashcard-004",
+    "recto": "7 caractères de la douleur",
+    "verso": "Circonstances, siège, irradiations, type/intensité, durée/évolution, signes associés, facteurs modifiants.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/flashcard-005",
+    "recto": "Douleur « en étau »",
+    "verso": "Ischémie myocardique.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/flashcard-006",
+    "recto": "Douleur en déchirure migratrice",
+    "verso": "Dissection aortique.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/flashcard-007",
+    "recto": "Point de côté majoré à l'inspiration",
+    "verso": "Plèvre, embolie pulmonaire.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/flashcard-008",
+    "recto": "Douleur en coup d'aiguille / reproduite à la palpation",
+    "verso": "Précordialgie fonctionnelle / douleur pariétale.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/flashcard-009",
+    "recto": "Signes de gravité d'une douleur thoracique",
+    "verso": "Détresse respiratoire, malaise/syncope/sueurs/vomissements, troubles de conscience, collapsus, douleur > 10 min chez un sujet à risque. Un seul = secours.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/flashcard-010",
+    "recto": "P.I.E.D",
+    "verso": "Péricardite, Insuffisance coronaire, Embolie pulmonaire, Dissection aortique.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/flashcard-011",
+    "recto": "Facteurs de risque CV modifiables",
+    "verso": "HTA, diabète, tabac, dyslipidémie, obésité.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/flashcard-012",
+    "recto": "Facteurs de risque CV non modifiables",
+    "verso": "Âge, sexe masculin, hérédité coronarienne.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/flashcard-013",
+    "recto": "Angor d'effort",
+    "verso": "Rétrosternal en barre, constrictif, irradiant bras gauche/mâchoires, bref (< 2 min), cède au repos et à la trinitrine < 1 min.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/flashcard-014",
+    "recto": "ECG de l'angor stable",
+    "verso": "Souvent normal au repos ; sous-décalage ST à l'épreuve d'effort.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/flashcard-015",
+    "recto": "Test à la trinitrine",
+    "verso": "Cède : angor stable, spasme œsophagien (piège). Résiste : infarctus, péricardite. Moins sensible : angor instable.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/flashcard-016",
+    "recto": "Formes d'angor instable",
+    "verso": "De novo, crescendo, de repos (sans élévation de troponine), post-infarctus/revascularisation ; « syndrome de menace ».",
+    "tags": []
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/flashcard-017",
+    "recto": "Infarctus du myocarde",
+    "verso": "Nécrose ; douleur constrictive atroce > 20 min, irradiations bilatérales, sueurs, nausées ; résiste à la trinitrine ; opiacés ; sus-décalage ST (Pardee) puis onde Q.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/flashcard-018",
+    "recto": "SCA",
+    "verso": "Angor instable + infarctus du myocarde : même mécanisme, même urgence.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/flashcard-019",
+    "recto": "Péricardite aiguë",
+    "verso": "Syndrome grippal 1–2 sem avant ; douleur vive sans irradiation, majorée par inspiration/toux/décubitus, calmée par l'antéflexion ; fièvre.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/flashcard-020",
+    "recto": "Examens de la péricardite",
+    "verso": "Frottement (sèche), assourdissement (épanchement), troubles diffus de repolarisation, bas voltage, cœur en carafe.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/flashcard-021",
+    "recto": "Dissection aortique",
+    "verso": "Douleur brutale en déchirure migratrice vers le dos ; HTA, Marfan ; asymétrie tensionnelle, pouls abolis, souffle d'IA ; médiastin élargi.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/flashcard-022",
+    "recto": "Traitement de la dissection",
+    "verso": "Type A (ascendante) : chirurgie ; type B : antihypertenseurs.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/flashcard-023",
+    "recto": "Embolie pulmonaire : situations à risque",
+    "verso": "Post-partum, post-abortum, chirurgie récente, alitement, varices, troubles de coagulation, contraception œstroprogestative.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/flashcard-024",
+    "recto": "Embolie pulmonaire : clinique",
+    "verso": "Point de côté basithoracique brutal majoré par la respiration, dyspnée, polypnée, angoisse ; choc si massive.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/flashcard-025",
+    "recto": "D-dimères",
+    "verso": "Valeur prédictive négative : normaux, ils écartent l'EP si la probabilité clinique est faible.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/flashcard-026",
+    "recto": "Examen de référence de l'EP",
+    "verso": "Angioscanner thoracique.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/flashcard-027",
+    "recto": "Épanchement pleural vs pneumothorax",
+    "verso": "Tous deux : abolition du MV et des VV ; matité (liquide) vs tympanisme (air, début brutal).",
+    "tags": []
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/flashcard-028",
+    "recto": "Spasme œsophagien",
+    "verso": "Douleur médiothoracique brève à la déglutition, sensible à la trinitrine : simule l'angor.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/flashcard-029",
+    "recto": "Conduite du pharmacien",
+    "verso": "Calmer, installer (demi-assis), évaluer, mesurer (TA aux 2 bras, pouls), soulager (dérivé nitré si angor connu), alerter.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/flashcard-030",
+    "recto": "Dérivés nitrés et IPDE5",
+    "verso": "Contre-indiqués après sildénafil ou tadalafil : hypotension sévère.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/flashcard-031",
+    "recto": "Palpitations",
+    "verso": "Perception anormale des battements cardiaques ; physiologiques, pathologiques provoquées ou spontanées.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/flashcard-032",
+    "recto": "Arguments d'origine extracardiaque",
+    "verso": "Sujet jeune, femme, sans facteur de risque, stress, douleur ancienne sous-mammaire en picotements ; n'excluent jamais une cause cardiaque.",
+    "tags": []
+  }
+]

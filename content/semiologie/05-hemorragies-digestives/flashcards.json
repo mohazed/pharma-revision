@@ -1,0 +1,194 @@
+[
+  {
+    "id": "semiologie/05-hemorragies-digestives/flashcard-001",
+    "recto": "Hémorragie digestive",
+    "verso": "Saignement dont la source se situe dans le tube digestif, de l'œsophage à l'anus.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/flashcard-002",
+    "recto": "Limite haute/basse",
+    "verso": "Angle de Treitz (jonction duodénum-jéjunum).",
+    "tags": []
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/flashcard-003",
+    "recto": "Hématémèse",
+    "verso": "Rejet de sang par la bouche lors d'un effort de vomissement ; origine haute.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/flashcard-004",
+    "recto": "Méléna",
+    "verso": "Selles noires, goudronneuses, collantes, luisantes, fétides ; sang digéré (≥ 50–100 mL) ; origine haute en règle.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/flashcard-005",
+    "recto": "Rectorragie",
+    "verso": "Émission par l'anus de sang rouge, pur ou mêlé aux selles ; origine basse en règle.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/flashcard-006",
+    "recto": "Saignement occulte",
+    "verso": "Invisible, détecté par un test dans les selles ou révélé par une anémie ferriprive.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/flashcard-007",
+    "recto": "Qui confirme le siège du saignement ?",
+    "verso": "Seule l'endoscopie.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/flashcard-008",
+    "recto": "« Marc de café »",
+    "verso": "Aspect noirâtre de l'hématémèse : sang digéré par l'acide gastrique.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/flashcard-009",
+    "recto": "Hématémèse vs hémoptysie",
+    "verso": "Vomissement, rouge sombre/marc de café vs toux, rouge vif aéré mousseux (tuberculose, cancer).",
+    "tags": []
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/flashcard-010",
+    "recto": "Fausses mélénas",
+    "verso": "Fer oral, bismuth (langue noire), charbon activé, réglisse noire, myrtilles, boudin noir : selles mates, moulées, non fétides.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/flashcard-011",
+    "recto": "Fausses rectorragies",
+    "verso": "Betterave, colorants, rifampicine (rouge-orangé), saignement urinaire ou gynécologique.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/flashcard-012",
+    "recto": "Anémie ferriprive inexpliquée chez l'homme ou la femme ménopausée",
+    "verso": "Impose une exploration digestive ; ne pas se contenter de délivrer du fer.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/flashcard-013",
+    "recto": "Signes de choc hémorragique",
+    "verso": "Pouls > 100/min, TA basse, malaise au lever, pâleur, sueurs, extrémités froides, soif, agitation, confusion, polypnée.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/flashcard-014",
+    "recto": "Conduite devant une hémorragie avec malaise",
+    "verso": "Appel immédiat des secours, patient allongé, à jeun.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/flashcard-015",
+    "recto": "Perte sanguine 15–30 %",
+    "verso": "750–1 500 mL : pouls rapide, tension conservée, anxiété.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/flashcard-016",
+    "recto": "Perte sanguine 30–40 %",
+    "verso": "1 500–2 000 mL : pouls très rapide, tension basse, confusion.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/flashcard-017",
+    "recto": "Trois pièges de gravité",
+    "verso": "Pouls normal sous bêtabloquant ; tension « normale » chez l'hypertendu traité ; hémoglobine normale au début (baisse après 24–72 h).",
+    "tags": []
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/flashcard-018",
+    "recto": "Première cause d'hémorragie haute",
+    "verso": "Ulcère gastroduodénal (H. pylori, AINS dont aspirine).",
+    "tags": []
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/flashcard-019",
+    "recto": "Syndrome de Mallory-Weiss",
+    "verso": "Déchirure après des vomissements répétés.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/flashcard-020",
+    "recto": "Varices œsophagiennes",
+    "verso": "Complication de la cirrhose ; hémorragie massive avec choc ; urgence.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/flashcard-021",
+    "recto": "Cirrhotique et AINS",
+    "verso": "Contre-indiqués : saignement et insuffisance rénale ; le cirrhotique reçoit souvent un bêtabloquant.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/flashcard-022",
+    "recto": "Diverticules du côlon",
+    "verso": "Sujet âgé, rectorragie abondante et indolore ; éviter les AINS.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/flashcard-023",
+    "recto": "Fissure anale vs hémorroïdes",
+    "verso": "Sang rouge sur les selles dans les deux ; la fissure fait mal à la selle.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/flashcard-024",
+    "recto": "Mécanisme ulcérogène des AINS",
+    "verso": "Inhibition COX-1 → baisse des prostaglandines → moins de mucus, bicarbonates, débit sanguin → érosions, ulcère.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/flashcard-025",
+    "recto": "Comprimés irritants (œsophagite)",
+    "verso": "Bisphosphonates, doxycycline, KCl : debout, grand verre d'eau, ne pas s'allonger.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/flashcard-026",
+    "recto": "Antithrombotiques et saignement",
+    "verso": "Ne créent pas la lésion, la révèlent ; jamais d'arrêt sans avis médical (risque de thrombose).",
+    "tags": []
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/flashcard-027",
+    "recto": "AVK + miconazole",
+    "verso": "Contre-indiqué, même en gel buccal : hausse brutale de l'INR.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/flashcard-028",
+    "recto": "Facteurs de risque d'ulcère compliqué sous AINS",
+    "verso": "> 65 ans, ATCD d'ulcère/hémorragie (le plus important), antithrombotique, corticoïde, ISRS, forte dose, 2 AINS, H. pylori, maladie grave.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/flashcard-029",
+    "recto": "Traitement de l'ulcère hémorragique",
+    "verso": "IPP forte dose IV puis oral, traitement d'H. pylori, arrêt des AINS.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/flashcard-030",
+    "recto": "Traitement des varices rompues",
+    "verso": "Vasoactif (terlipressine, somatostatine, octréotide), antibiotique préventif, ligature endoscopique, puis bêtabloquant.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/flashcard-031",
+    "recto": "Antidote des AVK",
+    "verso": "Vitamine K.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/flashcard-032",
+    "recto": "Prise en charge urgente",
+    "verso": "Évaluer, réanimer (perfusion, O2, à jeun), prélever (NFS, groupe, coagulation), transfuser, endoscopie < 24 h.",
+    "tags": []
+  }
+]

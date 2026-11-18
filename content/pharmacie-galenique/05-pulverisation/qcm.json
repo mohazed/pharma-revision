@@ -1,0 +1,1672 @@
+[
+  {
+    "id": "pharmacie-galenique/05-pulverisation/qcm-001",
+    "type": "multiple",
+    "enonce": "Concernant l'introduction à la pulvérisation des solides :",
+    "options": [
+      "La forme la plus facile à manipuler est la forme solide réduite à l'état de poudre",
+      "La forme poudre est souvent la plus stable physiquement",
+      "La pulvérisation des solides correspond à la division de liquides en gouttelettes",
+      "Les produits bruts nécessitent une transformation préalable",
+      "La transformation vise à faciliter la manipulation dans les opérations ultérieures"
+    ],
+    "correctes": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "explication": "Les produits bruts sont transformés pour faciliter leur manipulation ; la forme solide réduite en poudre est la plus facile à manipuler et souvent la plus stable physiquement. La pulvérisation des solides est différente de la pulvérisation de liquides en gouttelettes.",
+    "source": {
+      "page": 3,
+      "extrait": "La réduction des solides à l'état de poudre = Pulvérisation des solides ( ≠ pulvérisation de liquides sous forme de gouttelettes)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "introduction"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/05-pulverisation/qcm-002",
+    "type": "multiple",
+    "enonce": "Selon la Ph. Eur., une poudre est une forme galénique constituée de particules solides :",
+    "options": [
+      "Sèches",
+      "Libres",
+      "Plus ou moins fines",
+      "Utilisée pour l'administration d'au moins un principe actif",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Poudre : forme galénique constituée de particules solides sèches, libres et plus ou moins fines, utilisée pour l'administration d'au moins un PA par différentes voies.",
+    "source": {
+      "page": 4,
+      "extrait": "forme galénique constituée de particules solides sèches, libres et plus ou moins fines"
+    },
+    "difficulte": 1,
+    "tags": [
+      "poudre"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/05-pulverisation/qcm-003",
+    "type": "unique",
+    "enonce": "Selon la règle citée dans le cours, aucune poudre ne doit laisser un résidu supérieur à :",
+    "options": [
+      "5 % sur le tamis de 1250 µm",
+      "10 % sur le tamis de 1400 µm",
+      "1 % sur le tamis de 90 µm",
+      "40 % sur le tamis de 1250 µm",
+      "5 % sur le tamis de 125 µm"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "« Aucune poudre ne doit laisser un résidu supérieur à 5 % sur le tamis de 1250 µm ».",
+    "source": {
+      "page": 4,
+      "extrait": "Aucune poudre ne doit laisser un résidu supérieur à 5% sur le tamis de 1250 µm"
+    },
+    "difficulte": 2,
+    "tags": [
+      "poudre"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/05-pulverisation/qcm-004",
+    "type": "multiple",
+    "enonce": "La pulvérisation des solides :",
+    "options": [
+      "Consiste à diviser ou fractionner des substances solides",
+      "Consiste à éliminer l'eau d'un solide",
+      "Vise une granulométrie déterminée",
+      "Consiste à mélanger deux poudres",
+      "Vise des particules de tailles réduites"
+    ],
+    "correctes": [
+      0,
+      2,
+      4
+    ],
+    "explication": "La pulvérisation des solides consiste à diviser ou fractionner des substances solides en particules de tailles réduites et de granulométrie déterminée.",
+    "source": {
+      "page": 5,
+      "extrait": "diviser ou fractionner des substances solides en particules de tailles réduites et de granulométrie déterminée"
+    },
+    "difficulte": 1,
+    "tags": [
+      "définition"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/05-pulverisation/qcm-005",
+    "type": "multiple",
+    "enonce": "Les intérêts de la pulvérisation sont :",
+    "options": [
+      "La préparation de plusieurs formes galéniques",
+      "Favoriser l'homogénéité des mélanges",
+      "Améliorer la stabilité des suspensions",
+      "Augmenter la vitesse de sédimentation des suspensions",
+      "Augmenter la vitesse de dissolution et la biodisponibilité des PA peu solubles"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explication": "Intérêts : préparation de formes galéniques, homogénéité des mélanges, augmentation de la vitesse de dissolution et de la biodisponibilité (surface spécifique accrue), stabilité des suspensions par diminution de la vitesse de sédimentation.",
+    "source": {
+      "page": 6,
+      "extrait": "Améliorer la stabilité des suspensions par la diminution de la vitesse de sédimentation"
+    },
+    "difficulte": 1,
+    "tags": [
+      "intérêts"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/05-pulverisation/qcm-006",
+    "type": "unique",
+    "enonce": "La pulvérisation augmente la vitesse de dissolution des PA peu solubles car elle :",
+    "options": [
+      "Les rend amorphes systématiquement",
+      "Augmente leur taille particulaire",
+      "Augmente leur surface spécifique",
+      "Diminue leur surface spécifique",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Elle augmente la vitesse de dissolution et la biodisponibilité des PA peu solubles en augmentant leur surface spécifique.",
+    "source": {
+      "page": 6,
+      "extrait": "en augmentant leur surface spécifique"
+    },
+    "difficulte": 1,
+    "tags": [
+      "intérêts"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/05-pulverisation/qcm-007",
+    "type": "unique",
+    "enonce": "La réduction de la granulométrie des particules améliore la stabilité des suspensions par :",
+    "options": [
+      "Diminution de la vitesse de sédimentation",
+      "Augmentation de la vitesse de sédimentation",
+      "Augmentation de la taille des particules",
+      "Diminution de la surface spécifique",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "La diminution de la granulométrie diminue la vitesse de sédimentation et améliore la stabilité des suspensions.",
+    "source": {
+      "page": 6,
+      "extrait": "par la diminution de la vitesse de sédimentation, par réduction de la granulométrie des particules"
+    },
+    "difficulte": 2,
+    "tags": [
+      "intérêts"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/05-pulverisation/qcm-008",
+    "type": "multiple",
+    "enonce": "Les opérations préliminaires à la pulvérisation sont :",
+    "options": [
+      "La division grossière",
+      "L'analyse granulométrique",
+      "Le tamisage",
+      "La mondation",
+      "La dessiccation de certaines drogues"
+    ],
+    "correctes": [
+      0,
+      3,
+      4
+    ],
+    "explication": "Opérations préliminaires : mondation, division grossière, dessiccation. Le tamisage est une opération secondaire.",
+    "source": {
+      "page": 7,
+      "extrait": "Mondation : débarrasser la matière première de toutes les parties inutiles"
+    },
+    "difficulte": 1,
+    "tags": [
+      "opérations préliminaires"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/05-pulverisation/qcm-009",
+    "type": "unique",
+    "enonce": "La mondation consiste à :",
+    "options": [
+      "Sécher la drogue",
+      "Tamiser la poudre",
+      "Débarrasser la matière première de toutes les parties inutiles",
+      "Mesurer la granulométrie",
+      "Diviser grossièrement les substances de taille importante"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Mondation : débarrasser la MP de toutes les parties inutiles.",
+    "source": {
+      "page": 7,
+      "extrait": "Mondation : débarrasser la matière première de toutes les parties inutiles"
+    },
+    "difficulte": 1,
+    "tags": [
+      "opérations préliminaires"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/05-pulverisation/qcm-010",
+    "type": "multiple",
+    "enonce": "La dessiccation, en tant qu'opération préliminaire :",
+    "options": [
+      "Remplace le tamisage",
+      "Est une opération secondaire réalisée après la pulvérisation",
+      "Facilite leur pulvérisation ultérieure",
+      "Concerne certaines drogues",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      2,
+      3
+    ],
+    "explication": "La dessiccation de certaines drogues est une opération préliminaire facilitant leur pulvérisation ultérieure.",
+    "source": {
+      "page": 7,
+      "extrait": "Dessiccation : de certaines drogues pour faciliter leur pulvérisation ultérieure"
+    },
+    "difficulte": 1,
+    "tags": [
+      "opérations préliminaires"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/05-pulverisation/qcm-011",
+    "type": "unique",
+    "enonce": "L'opération secondaire de la pulvérisation est :",
+    "options": [
+      "Le tamisage",
+      "La mondation",
+      "La division grossière",
+      "La dessiccation",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Opération secondaire : le tamisage, afin d'obtenir une granulométrie déterminée.",
+    "source": {
+      "page": 8,
+      "extrait": "« le tamisage » afin d'obtenir une granulométrie déterminée"
+    },
+    "difficulte": 1,
+    "tags": [
+      "opérations secondaires"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/05-pulverisation/qcm-012",
+    "type": "multiple",
+    "enonce": "La percussion :",
+    "options": [
+      "Fait percuter des obstacles fixes ou mobiles par les particules en mouvement",
+      "Est réservée aux substances molles",
+      "Soumet le matériau à des chocs très violents",
+      "Utilise des lames tranchantes",
+      "Est adaptée aux substances dures"
+    ],
+    "correctes": [
+      0,
+      2,
+      4
+    ],
+    "explication": "Percussion : chocs très violents ; les particules percutent des obstacles fixes ou mobiles ; substances dures. Les lames tranchantes caractérisent le cisaillement.",
+    "source": {
+      "page": 9,
+      "extrait": "Le matériau est soumis à des chocs très violents qui provoquent la division"
+    },
+    "difficulte": 1,
+    "tags": [
+      "mécanismes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/05-pulverisation/qcm-013",
+    "type": "multiple",
+    "enonce": "La compression :",
+    "options": [
+      "Est adaptée aux substances molles uniquement",
+      "Soumet la substance à une pression provoquant la rupture par écrasement",
+      "Repose sur un frottement contre une surface rugueuse",
+      "Coince la substance entre une partie mobile et une partie fixe",
+      "Est adaptée aux substances dures"
+    ],
+    "correctes": [
+      1,
+      3,
+      4
+    ],
+    "explication": "Compression : pression provoquant la rupture par écrasement entre partie mobile et partie fixe ; substances dures.",
+    "source": {
+      "page": 10,
+      "extrait": "la substance à fragmenter est soumise à une pression qui provoque la rupture par écrasement"
+    },
+    "difficulte": 1,
+    "tags": [
+      "mécanismes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/05-pulverisation/qcm-014",
+    "type": "multiple",
+    "enonce": "Le cisaillement :",
+    "options": [
+      "Est adapté aux substances friables",
+      "Repose sur des chocs très violents",
+      "Est adapté aux substances dures",
+      "Utilise des lames tranchantes qui coupent la particule",
+      "Peut comporter une partie fixe et une lame mobile"
+    ],
+    "correctes": [
+      0,
+      3,
+      4
+    ],
+    "explication": "Cisaillement : lames tranchantes (partie fixe et lame mobile), substances friables.",
+    "source": {
+      "page": 11,
+      "extrait": "On utilise des lames tranchantes, qui vont rencontrer la particule et la couper"
+    },
+    "difficulte": 1,
+    "tags": [
+      "mécanismes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/05-pulverisation/qcm-015",
+    "type": "multiple",
+    "enonce": "L'attrition :",
+    "options": [
+      "Est adaptée aux substances molles",
+      "Est adaptée aux substances friables",
+      "Se distingue de l'écrasement par le contact permanent du mobile avec les particules",
+      "Est un frottement contre une surface rugueuse",
+      "Est adaptée aux substances dures uniquement"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Attrition : frottement contre une surface rugueuse, contact permanent du mobile avec les particules ; substances molles et friables.",
+    "source": {
+      "page": 12,
+      "extrait": "La différence par rapport à l'écrasement est le contact permanent du mobile avec les particules"
+    },
+    "difficulte": 2,
+    "tags": [
+      "mécanismes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/05-pulverisation/qcm-016",
+    "type": "multiple",
+    "enonce": "Pour pulvériser une substance dure, les mécanismes adaptés sont :",
+    "options": [
+      "Le cisaillement",
+      "L'attrition",
+      "La compression",
+      "La percussion",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      2,
+      3
+    ],
+    "explication": "Percussion et compression : substances dures. Cisaillement : friables. Attrition : molles et friables.",
+    "source": {
+      "page": 9,
+      "extrait": "Substances dures"
+    },
+    "difficulte": 2,
+    "tags": [
+      "mécanismes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/05-pulverisation/qcm-017",
+    "type": "unique",
+    "enonce": "Le mécanisme adapté à la fois aux substances molles et friables est :",
+    "options": [
+      "Le cisaillement",
+      "L'attrition",
+      "La compression",
+      "La percussion",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "L'attrition convient aux substances molles et friables ; le cisaillement aux friables seulement.",
+    "source": {
+      "page": 12,
+      "extrait": "Substances molles Substances friables"
+    },
+    "difficulte": 2,
+    "tags": [
+      "mécanismes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/05-pulverisation/qcm-018",
+    "type": "unique",
+    "enonce": "Le mécanisme dont la caractéristique est le contact permanent du mobile avec les particules est :",
+    "options": [
+      "La compression",
+      "La percussion",
+      "L'attrition",
+      "Le cisaillement",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "L'attrition se distingue de l'écrasement (compression) par le contact permanent du mobile avec les particules.",
+    "source": {
+      "page": 12,
+      "extrait": "le contact permanent du mobile avec les particules"
+    },
+    "difficulte": 2,
+    "tags": [
+      "mécanismes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/05-pulverisation/qcm-019",
+    "type": "multiple",
+    "enonce": "Les facteurs influençant le choix d'un appareil de pulvérisation sont :",
+    "options": [
+      "La taille des particules à pulvériser et celle des particules à obtenir",
+      "La forme des particules à obtenir",
+      "Les propriétés de la substance à pulvériser",
+      "La quantité à traiter",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Facteurs : propriétés de la substance, taille initiale et finale, forme des particules à obtenir, quantité à traiter.",
+    "source": {
+      "page": 13,
+      "extrait": "La taille des particules à pulvériser et celle des particules à obtenir"
+    },
+    "difficulte": 1,
+    "tags": [
+      "choix de l'appareil"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/05-pulverisation/qcm-020",
+    "type": "multiple",
+    "enonce": "Parmi les propriétés de la substance à pulvériser prises en compte :",
+    "options": [
+      "La dureté",
+      "Le taux d'humidité",
+      "L'élasticité",
+      "La thermosensibilité",
+      "La friabilité"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Propriétés : taux d'humidité, dureté, élasticité, friabilité, thermosensibilité.",
+    "source": {
+      "page": 13,
+      "extrait": "Taux d'humidité, dureté, élasticité, friabilité, thermo sensibilité"
+    },
+    "difficulte": 1,
+    "tags": [
+      "choix de l'appareil"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/05-pulverisation/qcm-021",
+    "type": "multiple",
+    "enonce": "Concernant le mortier et le pilon :",
+    "options": [
+      "Ils sont des appareils industriels",
+      "Un couvercle est utilisé si les substances sont irritantes",
+      "Ils servent à la pulvérisation de petites quantités",
+      "Ils ne sont plus faits pour l'usage courant qu'en porcelaine vernie et en verre",
+      "Ils étaient autrefois en marbre, bronze ou fer"
+    ],
+    "correctes": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Le mortier et le pilon sont des appareils de laboratoire (petites quantités) ; autrefois en marbre, bronze, fer, aujourd'hui en porcelaine vernie et verre ; pilons assortis, spatules, couvercle si substances irritantes.",
+    "source": {
+      "page": 14,
+      "extrait": "ne sont plus faits pour l'usage courant qu'en porcelaine vernie et en verre"
+    },
+    "difficulte": 1,
+    "tags": [
+      "appareils de laboratoire"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/05-pulverisation/qcm-022",
+    "type": "unique",
+    "enonce": "Au laboratoire, les tamis et cribles sont utilisés pour pulvériser :",
+    "options": [
+      "Les substances friables",
+      "Les substances élastiques",
+      "Les substances très dures",
+      "Les liquides",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Tamis et cribles (appareils de laboratoire) : pour les substances friables.",
+    "source": {
+      "page": 14,
+      "extrait": "Tamis et cribles : Pour les substances friables"
+    },
+    "difficulte": 2,
+    "tags": [
+      "appareils de laboratoire"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/05-pulverisation/qcm-023",
+    "type": "multiple",
+    "enonce": "Le porphyre :",
+    "options": [
+      "Permet d'obtenir des poudres très fines en petites quantités",
+      "Est utilisé par exemple pour les pommades ophtalmiques",
+      "Est un appareil industriel de grande capacité",
+      "Est constitué de plaques en silice très dure",
+      "Utilise une molette en verre très dure frottée sur la plaque"
+    ],
+    "correctes": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "explication": "Porphyre : plaque en silice très dure sur laquelle on frotte une molette en verre très dure ; poudres très fines en petites quantités (ex : pommades ophtalmiques).",
+    "source": {
+      "page": 15,
+      "extrait": "permet d'obtenir des poudres très fines en petites quantités. (ex. pommades ophtalmiques)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "appareils de laboratoire"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/05-pulverisation/qcm-024",
+    "type": "multiple",
+    "enonce": "Parmi les appareils de laboratoire de pulvérisation cités :",
+    "options": [
+      "Le broyeur à hélice (type moulin à café)",
+      "Les tamis et cribles",
+      "Le mortier et le pilon",
+      "Le microniseur",
+      "Le porphyre"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explication": "Appareils de laboratoire : mortier et pilon, tamis et cribles, porphyre, broyeur à hélice. Le microniseur est industriel.",
+    "source": {
+      "page": 15,
+      "extrait": "Broyeurs à hélice Type moulin à café"
+    },
+    "difficulte": 1,
+    "tags": [
+      "appareils de laboratoire"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/05-pulverisation/qcm-025",
+    "type": "multiple",
+    "enonce": "Le concasseur à mâchoires :",
+    "options": [
+      "A un mouvement des mâchoires réglé par un excentrique",
+      "Utilise un violent courant d'air",
+      "Est un appareil de laboratoire de type moulin à café",
+      "Est un appareil industriel",
+      "Est destiné aux produits très durs"
+    ],
+    "correctes": [
+      0,
+      3,
+      4
+    ],
+    "explication": "Concasseur à mâchoires (industriel) : mouvement réglé par un excentrique, pour des produits très durs.",
+    "source": {
+      "page": 16,
+      "extrait": "Mouvement des mâchoires réglé par un excentrique Pour des produits très durs"
+    },
+    "difficulte": 2,
+    "tags": [
+      "appareils industriels"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/05-pulverisation/qcm-026",
+    "type": "multiple",
+    "enonce": "Dans le broyeur à cylindres :",
+    "options": [
+      "Les cylindres tournent en sens inverse",
+      "L'écrasement est assuré par deux cylindres",
+      "Les cylindres peuvent être lisses ou cannelés",
+      "L'écartement est réglable",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Broyeur à cylindres : deux cylindres lisses ou cannelés, à écartement réglable, tournant en sens inverse.",
+    "source": {
+      "page": 17,
+      "extrait": "deux cylindres lisses ou cannelés, à écartement réglable et tournant en sens inverse"
+    },
+    "difficulte": 1,
+    "tags": [
+      "appareils industriels"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/05-pulverisation/qcm-027",
+    "type": "multiple",
+    "enonce": "Le broyeur à meules :",
+    "options": [
+      "Écrase la substance entre deux pierres",
+      "Utilise des billes en rotation",
+      "Existe en version à meules verticales et horizontales",
+      "Fonctionne sur le principe des moulins de blé",
+      "Utilise des marteaux articulés"
+    ],
+    "correctes": [
+      0,
+      2,
+      3
+    ],
+    "explication": "Broyeur à meules : principe des moulins de blé, une pierre écrase la substance sur une autre ; meules verticales ou horizontales.",
+    "source": {
+      "page": 18,
+      "extrait": "principe des moulins de blé, une pierre écrase la substance sur une autre pierre"
+    },
+    "difficulte": 1,
+    "tags": [
+      "appareils industriels"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/05-pulverisation/qcm-028",
+    "type": "multiple",
+    "enonce": "Dans le broyeur à pointes ou à dents :",
+    "options": [
+      "L'écrasement est assuré par deux cylindres lisses",
+      "Les particules sont entraînées par un courant d'air",
+      "La substance est déchiquetée",
+      "Elle passe entre deux plaques métalliques circulaires hérissées de pointes ou de dents",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      2,
+      3
+    ],
+    "explication": "Broyeur à pointes ou à dents : la substance est déchiquetée entre deux plaques métalliques circulaires hérissées de pointes ou de dents.",
+    "source": {
+      "page": 19,
+      "extrait": "La substance à broyer est déchiquetée par passage entre deux plaques métalliques circulaire , hérissées de pointes ou de dents"
+    },
+    "difficulte": 2,
+    "tags": [
+      "appareils industriels"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/05-pulverisation/qcm-029",
+    "type": "multiple",
+    "enonce": "Le broyeur à billes :",
+    "options": [
+      "Utilise des marteaux articulés",
+      "Est un appareil de laboratoire type moulin à café",
+      "Utilise un violent courant d'air",
+      "Pulvérise par frottements et chocs entre billes et parois de l'enceinte en rotation",
+      "N'entraîne pas de dissémination des poudres dans l'atmosphère"
+    ],
+    "correctes": [
+      3,
+      4
+    ],
+    "explication": "Broyeur à billes : frottements et chocs entre billes et parois de l'enceinte en rotation ; pas de dissémination des poudres dans l'atmosphère.",
+    "source": {
+      "page": 20,
+      "extrait": "Pas de dissémination des poudres dans l'atmosphère"
+    },
+    "difficulte": 1,
+    "tags": [
+      "appareils industriels"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/05-pulverisation/qcm-030",
+    "type": "multiple",
+    "enonce": "Le broyeur planétaire à billes :",
+    "options": [
+      "Agit en peu de temps",
+      "Peut traiter des produits très durs",
+      "Fait tourner les billes autour de l'enceinte qui tourne elle-même à très grande vitesse autour d'un axe extérieur",
+      "Permet d'obtenir des poudres extrêmement fines",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Broyeur planétaire : billes tournant autour de l'enceinte, elle-même tournant très vite autour d'un axe extérieur ; poudres extrêmement fines, en peu de temps, à partir de produits très durs.",
+    "source": {
+      "page": 21,
+      "extrait": "ce procédé permet l'obtention de poudres extrêmement fines en peu de temps et à partir de produits très durs"
+    },
+    "difficulte": 2,
+    "tags": [
+      "appareils industriels"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/05-pulverisation/qcm-031",
+    "type": "multiple",
+    "enonce": "Dans le broyeur à marteaux :",
+    "options": [
+      "Les marteaux frappent les parois de l'enceinte cylindrique en pulvérisant la substance",
+      "Deux meules en pierre écrasent la substance",
+      "Les marteaux sont lancés à très grande vitesse",
+      "L'axe de rotation porte des bras articulés en métal",
+      "Un violent courant d'air entraîne les particules"
+    ],
+    "correctes": [
+      0,
+      2,
+      3
+    ],
+    "explication": "Broyeur à marteaux : bras articulés métalliques lancés à grande vitesse frappant les parois de l'enceinte cylindrique.",
+    "source": {
+      "page": 22,
+      "extrait": "L'axe de rotation porte des bras articulés en métal, lancés à très grande vitesse"
+    },
+    "difficulte": 1,
+    "tags": [
+      "appareils industriels"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/05-pulverisation/qcm-032",
+    "type": "multiple",
+    "enonce": "Le microniseur (broyeur à jet) :",
+    "options": [
+      "Provoque de nombreux chocs entre particules et contre les parois",
+      "Est peu encombrant et peu onéreux",
+      "Entraîne les particules par un violent courant d'air",
+      "Améliore la biodisponibilité du principe actif",
+      "N'échauffe pas les substances broyées"
+    ],
+    "correctes": [
+      0,
+      2,
+      3,
+      4
+    ],
+    "explication": "Microniseur : violent courant d'air, chocs entre particules et parois ; efficace, n'échauffe pas, améliore la biodisponibilité ; mais très encombrant, onéreux et énergivore.",
+    "source": {
+      "page": 23,
+      "extrait": "Efficace, n'échauffent pas les substances broyées. améliore la biodisponibilité du principe actif"
+    },
+    "difficulte": 1,
+    "tags": [
+      "microniseur"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/05-pulverisation/qcm-033",
+    "type": "multiple",
+    "enonce": "Les inconvénients du microniseur (broyeur à jet) sont :",
+    "options": [
+      "Il échauffe les substances broyées",
+      "Il consomme beaucoup d'énergie",
+      "Il est onéreux",
+      "Il est très encombrant",
+      "Il est inefficace"
+    ],
+    "correctes": [
+      1,
+      2,
+      3
+    ],
+    "explication": "Inconvénients : très encombrant, onéreux, grande consommation d'énergie. Il est efficace et n'échauffe pas les substances.",
+    "source": {
+      "page": 23,
+      "extrait": "En revanche ils sont très encombrants, onéreux et consomment beaucoup d'énergie"
+    },
+    "difficulte": 2,
+    "tags": [
+      "microniseur"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/05-pulverisation/qcm-034",
+    "type": "unique",
+    "enonce": "Pour une substance thermosensible devant être finement broyée, l'appareil présenté comme n'échauffant pas les substances est :",
+    "options": [
+      "Le broyeur à meules",
+      "Le concasseur à mâchoires",
+      "Le porphyre",
+      "Le microniseur (broyeur à jet)",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      3
+    ],
+    "explication": "Le cours précise que les microniseurs n'échauffent pas les substances broyées.",
+    "source": {
+      "page": 23,
+      "extrait": "n'échauffent pas les substances broyées"
+    },
+    "difficulte": 2,
+    "tags": [
+      "microniseur"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/05-pulverisation/qcm-035",
+    "type": "unique",
+    "enonce": "Parmi les appareils industriels, celui qui est indiqué comme n'entraînant pas de dissémination des poudres dans l'atmosphère est :",
+    "options": [
+      "Le concasseur à mâchoires",
+      "Le broyeur à billes",
+      "Le broyeur à marteaux",
+      "Le broyeur à pointes",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Broyeur à billes : pas de dissémination des poudres dans l'atmosphère.",
+    "source": {
+      "page": 20,
+      "extrait": "Pas de dissémination des poudres dans l'atmosphère"
+    },
+    "difficulte": 2,
+    "tags": [
+      "appareils industriels"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/05-pulverisation/qcm-036",
+    "type": "multiple",
+    "enonce": "Associez chaque appareil à son principe :",
+    "options": [
+      "Broyeur à meules : une pierre écrase la substance sur une autre",
+      "Microniseur : violent courant d'air et chocs entre particules",
+      "Broyeur à cylindres : écrasement entre deux cylindres tournant en sens inverse",
+      "Broyeur à marteaux : bras articulés frappant les parois",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes ces associations reprennent les principes décrits dans le cours.",
+    "source": {
+      "page": 17,
+      "extrait": "L'écrasement est assuré par deux cylindres lisses ou cannelés"
+    },
+    "difficulte": 2,
+    "tags": [
+      "appareils industriels"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/05-pulverisation/qcm-037",
+    "type": "multiple",
+    "enonce": "Concernant le cycle pulvérisation – tamisage :",
+    "options": [
+      "Les particules trop grossières sont de nouveau pulvérisées",
+      "Les particules trop grossières sont séparées à l'aide des tamis",
+      "Le tamisage précède toujours la mondation",
+      "Les particules trop fines sont repulvérisées",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Séparation à l'aide des tamis des particules trop grossières qui seront de nouveau pulvérisées.",
+    "source": {
+      "page": 24,
+      "extrait": "Séparation à l'aide des tamis les particules trop grossières qui seront de nouveau pulvérisées"
+    },
+    "difficulte": 1,
+    "tags": [
+      "tamisage"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/05-pulverisation/qcm-038",
+    "type": "multiple",
+    "enonce": "Les rôles du tamisage sont :",
+    "options": [
+      "Le tamisage de sélection",
+      "Le tamisage de dessiccation",
+      "Le tamisage de démottage",
+      "Le tamisage de stérilisation",
+      "Le tamisage de sécurité"
+    ],
+    "correctes": [
+      0,
+      2,
+      4
+    ],
+    "explication": "Trois rôles : tamisage de sécurité, de sélection, de démottage.",
+    "source": {
+      "page": 25,
+      "extrait": "Tamisage de sécurité Tamisage de sélection Tamisage de démottage"
+    },
+    "difficulte": 1,
+    "tags": [
+      "tamisage"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/05-pulverisation/qcm-039",
+    "type": "unique",
+    "enonce": "Le tamisage de sécurité correspond à :",
+    "options": [
+      "L'élimination des substances étrangères introduites accidentellement",
+      "La division des amas de poudre apparus au stockage",
+      "L'élimination des particules de taille supérieure aux mailles",
+      "La mesure du diamètre moyen",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Sécurité : élimination des substances étrangères introduites accidentellement. Sélection : particules plus grosses que les mailles. Démottage : division des mottes.",
+    "source": {
+      "page": 25,
+      "extrait": "Elimination des substances étrangères introduites accidentellement"
+    },
+    "difficulte": 2,
+    "tags": [
+      "tamisage"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/05-pulverisation/qcm-040",
+    "type": "unique",
+    "enonce": "Le tamisage de démottage consiste en :",
+    "options": [
+      "La sélection d'une fraction granulométrique",
+      "Le séchage de la poudre",
+      "L'élimination des corps étrangers",
+      "La division des amas de poudre (« mottes ») susceptibles d'apparaître lors du stockage",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      3
+    ],
+    "explication": "Démottage : division des amas de poudre (mottes) susceptibles d'apparaître lors du stockage.",
+    "source": {
+      "page": 25,
+      "extrait": "Division des amas de poudre (= \"mottes\") susceptibles d'apparaître lors du stockage"
+    },
+    "difficulte": 2,
+    "tags": [
+      "tamisage"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/05-pulverisation/qcm-041",
+    "type": "unique",
+    "enonce": "Le tamisage de sélection consiste à :",
+    "options": [
+      "Diviser les mottes",
+      "Éliminer les substances étrangères introduites accidentellement",
+      "Mesurer l'intensité d'un paramètre physique",
+      "Éliminer les particules de taille supérieure à celle des mailles du tamis",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      3
+    ],
+    "explication": "Sélection : élimination des particules de taille supérieure à celle des mailles du tamis.",
+    "source": {
+      "page": 25,
+      "extrait": "Elimination des particules de taille supérieure à celle des mailles du tamis"
+    },
+    "difficulte": 2,
+    "tags": [
+      "tamisage"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/05-pulverisation/qcm-042",
+    "type": "multiple",
+    "enonce": "Concernant les tamis :",
+    "options": [
+      "Ils sont formés par un tissage de fils laissant des intervalles carrés appelés mailles",
+      "Ils peuvent être ronds, carrés ou rectangulaires",
+      "Le numéro du tamis correspond au nombre de mailles par cm²",
+      "Chaque tamis est désigné par un numéro correspondant au côté (µm) du carré du vide de chaque maille",
+      "Ils sont constitués d'une surface plane percée de trous"
+    ],
+    "correctes": [
+      0,
+      1,
+      3
+    ],
+    "explication": "Tamis : ronds, carrés ou rectangulaires, tissage de fils formant des mailles carrées ; numéro = côté en µm du vide de la maille. La surface plane percée de trous définit le crible.",
+    "source": {
+      "page": 26,
+      "extrait": "Chaque tamis est désigné par un numéro correspondant au coté (µm) du carré du vide intérieur de chaque maille"
+    },
+    "difficulte": 1,
+    "tags": [
+      "tamis"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/05-pulverisation/qcm-043",
+    "type": "unique",
+    "enonce": "Un tamis n° 250 :",
+    "options": [
+      "A des mailles dont le côté du carré vide mesure 250 µm",
+      "Est un crible",
+      "A des trous ronds de 250 mm",
+      "Possède 250 mailles par cm",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Le numéro du tamis correspond au côté en µm du carré du vide intérieur de chaque maille.",
+    "source": {
+      "page": 26,
+      "extrait": "numéro correspondant au coté (µm) du carré du vide intérieur de chaque maille"
+    },
+    "difficulte": 2,
+    "tags": [
+      "tamis"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/05-pulverisation/qcm-044",
+    "type": "unique",
+    "enonce": "Un crible est :",
+    "options": [
+      "Un compteur de particules",
+      "Une surface plane percée de nombreux petits trous",
+      "Un tissage de fils à mailles carrées",
+      "Un appareil de microscopie",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Crible : surface plane percée de nombreux petits trous.",
+    "source": {
+      "page": 26,
+      "extrait": "Cribles Surface plane percée de nombreux petits trous"
+    },
+    "difficulte": 1,
+    "tags": [
+      "tamis"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/05-pulverisation/qcm-045",
+    "type": "multiple",
+    "enonce": "L'analyse granulométrique des poudres :",
+    "options": [
+      "Ne concerne que la forme des particules",
+      "Détermine la ténuité de la poudre",
+      "Mesure l'humidité résiduelle",
+      "Est l'ensemble des opérations permettant de déterminer la distribution des tailles des éléments d'une poudre",
+      "Utilise des méthodes directes et indirectes"
+    ],
+    "correctes": [
+      1,
+      3,
+      4
+    ],
+    "explication": "L'analyse granulométrique détermine la distribution des tailles (ténuité) par méthodes directes et indirectes.",
+    "source": {
+      "page": 27,
+      "extrait": "L'ensemble des opérations permettant de déterminer la distribution des tailles des éléments composant une poudre (ténuité)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "analyse granulométrique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/05-pulverisation/qcm-046",
+    "type": "multiple",
+    "enonce": "Concernant les méthodes d'analyse granulométrique :",
+    "options": [
+      "Le granulomètre laser est une méthode indirecte",
+      "Les méthodes directes mesurent le diamètre moyen",
+      "Le microscope est une méthode directe",
+      "Les méthodes indirectes mesurent l'intensité d'un paramètre physique proportionnel aux diamètres",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Directes (tamis superposés, microscope) : diamètre moyen ; indirectes (compteur électronique, granulomètre laser) : paramètre physique proportionnel au diamètre.",
+    "source": {
+      "page": 27,
+      "extrait": "Mesurent l'intensité d'un paramètre physique qui est proportionnel aux diamètres des particules"
+    },
+    "difficulte": 1,
+    "tags": [
+      "analyse granulométrique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/05-pulverisation/qcm-047",
+    "type": "multiple",
+    "enonce": "Parmi les méthodes suivantes, lesquelles sont des méthodes directes d'analyse granulométrique ?",
+    "options": [
+      "Le compteur électronique de particules",
+      "Le microscope",
+      "Les tamis superposés",
+      "Le granulomètre laser",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      1,
+      2
+    ],
+    "explication": "Méthodes directes : tamis superposés et microscope ; indirectes : compteur électronique et granulomètre laser.",
+    "source": {
+      "page": 28,
+      "extrait": "1. Méthodes directes 1.1. Tamis superposés"
+    },
+    "difficulte": 1,
+    "tags": [
+      "analyse granulométrique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/05-pulverisation/qcm-048",
+    "type": "multiple",
+    "enonce": "Dans la méthode des tamis superposés :",
+    "options": [
+      "Les dimensions des mailles décroissent du tamis supérieur au tamis inférieur",
+      "La fraction de poudre sur chaque tamis est pesée à la fin",
+      "L'ensemble est agité pendant un certain temps (ex : 10 min)",
+      "L'échantillon (ex : 100 g) est placé sur le tamis supérieur",
+      "On superpose un certain nombre de tamis de contrôle (7)"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Toutes ces étapes décrivent l'analyse par tamis superposés.",
+    "source": {
+      "page": 28,
+      "extrait": "On superpose un certain nombre de tamis de contrôle (07) dont les dimensions des mailles vont en décroissant"
+    },
+    "difficulte": 1,
+    "tags": [
+      "tamis superposés"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/05-pulverisation/qcm-049",
+    "type": "multiple",
+    "enonce": "À la fin d'une analyse par tamis superposés :",
+    "options": [
+      "Les plus grosses particules restent sur les tamis supérieurs",
+      "Les particules les plus fines traversent d'autant plus de tamis qu'elles sont plus fines",
+      "Les mailles croissent vers le bas",
+      "Les plus grosses particules se retrouvent dans le fond récepteur",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Les plus grosses restent sur les tamis supérieurs ; les autres traversent d'autant plus de tamis qu'elles sont fines. Les mailles décroissent vers le bas.",
+    "source": {
+      "page": 28,
+      "extrait": "les plus grosses restent sur les tamis supérieurs les autres traversent d'autant plus de tamis qu'elles sont plus fines"
+    },
+    "difficulte": 1,
+    "tags": [
+      "tamis superposés"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/05-pulverisation/qcm-050",
+    "type": "multiple",
+    "enonce": "Concernant le refus fractionné et sa représentation :",
+    "options": [
+      "La hauteur du rectangle représente le refus fractionné",
+      "Le refus fractionné est la fraction retenue sur un tamis par rapport à la totalité de la poudre",
+      "La courbe de fréquence joint le milieu du côté supérieur de chaque rectangle",
+      "Dans l'histogramme, la base du rectangle représente l'intervalle entre les dimensions de mailles",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Histogramme : base = intervalle entre mailles, hauteur = refus fractionné ; courbe de fréquence par jonction des milieux des côtés supérieurs.",
+    "source": {
+      "page": 30,
+      "extrait": "On trace la courbe de fréquence en joignant le milieu du côté supérieur de chaque rectangle"
+    },
+    "difficulte": 2,
+    "tags": [
+      "tamis superposés"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/05-pulverisation/qcm-051",
+    "type": "unique",
+    "enonce": "Pour une poudre homogène, la courbe de fréquence a la forme :",
+    "options": [
+      "D'une droite horizontale",
+      "D'une cloche très étroite",
+      "D'une cloche très large et aplatie",
+      "D'une courbe à deux pics",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Pour une poudre homogène, la courbe aura une forme de cloche très étroite (la poudre hétérogène donne une courbe plus étalée, à plusieurs pics sur la figure).",
+    "source": {
+      "page": 30,
+      "extrait": "pour une poudre homogène la courbe aura une forme de cloche très étroite"
+    },
+    "difficulte": 1,
+    "tags": [
+      "tamis superposés"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/05-pulverisation/qcm-052",
+    "type": "unique",
+    "enonce": "Dans le tableau d'analyse par tamis superposés, le refus fractionné d'un tamis se calcule par :",
+    "options": [
+      "M2 / M1",
+      "M2 − M1 (masse du tamis plein − masse du tamis vide)",
+      "M1 + M2",
+      "M1 − M2",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Colonnes du tableau : masse du tamis vide (M1), masse du tamis plein (M2), refus fractionné (M2 − M1), refus cumulé, refus fractionné (%).",
+    "source": {
+      "page": 29,
+      "extrait": "Refus fractionné (M2-M1)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "tamis superposés"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/05-pulverisation/qcm-053",
+    "type": "multiple",
+    "enonce": "Selon le tableau de dénomination des poudres, une poudre « fine » :",
+    "options": [
+      "Laisse un résidu ne dépassant pas 5 % sur le tamis n° 1400",
+      "Ne passe qu'à un maximum de 40 % à travers le tamis n° 125",
+      "Laisse un résidu ne dépassant pas 5 % sur le tamis n° 180",
+      "Ne passe qu'à un maximum de 40 % à travers le tamis n° 90",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      1,
+      2
+    ],
+    "explication": "Poudre fine : résidu ≤ 5 % sur le tamis 180 ; au maximum 40 % passent à travers le tamis 125.",
+    "source": {
+      "page": 31,
+      "extrait": "Fine 180 125"
+    },
+    "difficulte": 2,
+    "tags": [
+      "dénomination des poudres"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/05-pulverisation/qcm-054",
+    "type": "unique",
+    "enonce": "Une poudre dont le résidu sur le tamis n° 1400 ne dépasse pas 5 % et dont au maximum 40 % passent à travers le tamis n° 355 est dite :",
+    "options": [
+      "Modérément fine",
+      "Très fine",
+      "Grossière",
+      "Fine",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Grossière : 1400 / 355 ; modérément fine : 355 / 180 ; fine : 180 / 125 ; très fine : 125 / 90.",
+    "source": {
+      "page": 31,
+      "extrait": "Grossière 1400 355"
+    },
+    "difficulte": 2,
+    "tags": [
+      "dénomination des poudres"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/05-pulverisation/qcm-055",
+    "type": "multiple",
+    "enonce": "Une poudre très fine :",
+    "options": [
+      "Ne passe qu'à un maximum de 40 % à travers le tamis n° 90",
+      "Ne passe qu'à 40 % maximum à travers le tamis n° 180",
+      "Laisse un résidu ne dépassant pas 5 % sur le tamis n° 355",
+      "Laisse un résidu ne dépassant pas 5 % sur le tamis n° 125",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      3
+    ],
+    "explication": "Très fine : résidu ≤ 5 % sur le tamis 125 ; maximum 40 % à travers le tamis 90.",
+    "source": {
+      "page": 31,
+      "extrait": "Très fine 125 90"
+    },
+    "difficulte": 2,
+    "tags": [
+      "dénomination des poudres"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/05-pulverisation/qcm-056",
+    "type": "unique",
+    "enonce": "Une poudre modérément fine est caractérisée par les tamis :",
+    "options": [
+      "N° 355 (résidu ≤ 5 %) et n° 180 (passage ≤ 40 %)",
+      "N° 125 et n° 90",
+      "N° 180 et n° 125",
+      "N° 1400 et n° 355",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Modérément fine : 355 / 180.",
+    "source": {
+      "page": 31,
+      "extrait": "Modérément fine 355 180"
+    },
+    "difficulte": 2,
+    "tags": [
+      "dénomination des poudres"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/05-pulverisation/qcm-057",
+    "type": "multiple",
+    "enonce": "Le microscope, en analyse granulométrique, permet de :",
+    "options": [
+      "Compter les particules par unité de poids ou de volume",
+      "Calculer le pourcentage des particules de chaque dimension et tracer la courbe de répartition",
+      "Déterminer la taille des particules grâce à une échelle micrométrique",
+      "Étudier la forme des particules",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le microscope permet taille (échelle micrométrique), forme, comptage, pourcentage et courbe de répartition ; l'image peut être projetée et le comptage automatisé.",
+    "source": {
+      "page": 32,
+      "extrait": "Déterminer la taille des particules grâce à une échelle micrométrique"
+    },
+    "difficulte": 1,
+    "tags": [
+      "microscope"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/05-pulverisation/qcm-058",
+    "type": "multiple",
+    "enonce": "Associez chaque type de microscopie à son domaine de mesure :",
+    "options": [
+      "Microscopie optique : 1 nm – 5 µm",
+      "Microscopie optique : 3 µm – 100 µm",
+      "Microscopie électronique à balayage : 50 nm – 200 µm",
+      "Microscopie électronique en transmission : 1 nm – 5 µm",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      1,
+      2,
+      3
+    ],
+    "explication": "Optique : 3-100 µm ; MEB : 50 nm-200 µm ; MET : 1 nm-5 µm.",
+    "source": {
+      "page": 32,
+      "extrait": "La microscopie optique (3µm-100µm), La microscopie électronique à balayage (50nm-200µm)"
+    },
+    "difficulte": 3,
+    "tags": [
+      "microscope"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/05-pulverisation/qcm-059",
+    "type": "unique",
+    "enonce": "La technique de microscopie permettant d'observer les plus petites particules (jusqu'à 1 nm) est :",
+    "options": [
+      "La microscopie électronique à balayage",
+      "La microscopie optique",
+      "Le granulomètre laser",
+      "La microscopie électronique en transmission",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      3
+    ],
+    "explication": "Microscopie électronique en transmission : 1 nm-5 µm.",
+    "source": {
+      "page": 32,
+      "extrait": "La microscopie électronique en transmission (1nm–5µm)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "microscope"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/05-pulverisation/qcm-060",
+    "type": "multiple",
+    "enonce": "Le compteur électronique de particules :",
+    "options": [
+      "Repose sur le volume d'électrolyte déplacé par chaque particule",
+      "Est une méthode directe",
+      "Génère un signal proportionnel au volume de liquide déplacé",
+      "Est utilisable pour des particules de 0,5 à 300 µm",
+      "Détermine le nombre et la taille des particules en suspension dans une solution d'électrolytes"
+    ],
+    "correctes": [
+      0,
+      2,
+      3,
+      4
+    ],
+    "explication": "Compteur électronique (méthode indirecte) : nombre et taille des particules en suspension dans un électrolyte ; 0,5-300 µm ; chaque particule déplace son volume d'électrolyte et génère un signal proportionnel.",
+    "source": {
+      "page": 33,
+      "extrait": "Chaque particule qui passe déplace son propre volume d'électrolyte, elle génère un signal proportionnel au volume de liquide déplacé"
+    },
+    "difficulte": 2,
+    "tags": [
+      "méthodes indirectes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/05-pulverisation/qcm-061",
+    "type": "unique",
+    "enonce": "Le compteur électronique de particules est utilisable pour des particules de :",
+    "options": [
+      "1 nm à 5 µm",
+      "300 à 1250 µm",
+      "3 à 100 µm",
+      "0,5 à 300 µm",
+      "0,05 à 0,5 µm"
+    ],
+    "correctes": [
+      3
+    ],
+    "explication": "La méthode est utilisable pour des particules de 0,5 à 300 µm.",
+    "source": {
+      "page": 33,
+      "extrait": "La méthode est utilisable pour des particules de 0.5 à 300 µm"
+    },
+    "difficulte": 2,
+    "tags": [
+      "méthodes indirectes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/05-pulverisation/qcm-062",
+    "type": "multiple",
+    "enonce": "Le granulomètre laser :",
+    "options": [
+      "Nécessite une solution d'électrolytes",
+      "Est une méthode directe",
+      "La quantité de lumière déviée est proportionnelle au nombre et à la taille des particules",
+      "Repose sur la déviation de la lumière par les particules passant devant un faisceau laser",
+      "Permet de mesurer des particules sphériques à partir de 0,05 µm"
+    ],
+    "correctes": [
+      2,
+      3,
+      4
+    ],
+    "explication": "Granulomètre laser (indirect) : déviation de la lumière proportionnelle au nombre et à la taille ; particules sphériques à partir de 0,05 µm.",
+    "source": {
+      "page": 34,
+      "extrait": "Ce type d'appareil permet de mesurer les particules sphériques à partir de 0,05 µm"
+    },
+    "difficulte": 2,
+    "tags": [
+      "méthodes indirectes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/05-pulverisation/qcm-063",
+    "type": "multiple",
+    "enonce": "Cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Le granulomètre laser est une méthode directe",
+      "Le cisaillement est adapté aux substances dures",
+      "Le microniseur échauffe les substances",
+      "Le tamisage est une opération préliminaire",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Cisaillement : friables ; tamisage : opération secondaire ; le microniseur n'échauffe pas ; le granulomètre laser est indirect.",
+    "source": {
+      "page": 23,
+      "extrait": "n'échauffent pas les substances broyées"
+    },
+    "difficulte": 2,
+    "tags": [
+      "synthèse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/05-pulverisation/qcm-064",
+    "type": "multiple",
+    "enonce": "Parmi ces appareils, lesquels sont indiqués pour des produits très durs ?",
+    "options": [
+      "Le broyeur à hélice",
+      "Le concasseur à mâchoires",
+      "Le mortier en porcelaine",
+      "Le broyeur planétaire à billes",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      1,
+      3
+    ],
+    "explication": "Concasseur à mâchoires : produits très durs ; broyeur planétaire : poudres extrêmement fines à partir de produits très durs.",
+    "source": {
+      "page": 16,
+      "extrait": "Pour des produits très durs"
+    },
+    "difficulte": 2,
+    "tags": [
+      "synthèse"
+    ],
+    "origine": "genere"
+  }
+]

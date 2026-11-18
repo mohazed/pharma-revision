@@ -1,0 +1,166 @@
+[
+  {
+    "id": "pharmacie-galenique/07-melange-des-poudres/tableau-001",
+    "titre": "Classification des mélangeurs industriels",
+    "colonnes": [
+      "Classe",
+      "Type de cuve",
+      "Exemples",
+      "Particularités"
+    ],
+    "lignes": [
+      [
+        "Chute libre (retournement)",
+        "Mobile",
+        "Cylindre, V, Y, cube, tambours",
+        "V : couramment utilisé ; cube : parfaite homogénéité, très répandu ; cylindre : peu efficace ; tambour : vide possible (poudres sensibles à l'oxygène)"
+      ],
+      [
+        "Convectifs (malaxeurs)",
+        "Fixe",
+        "Planétaire, pétrin, vis hélicoïdale, projection et tourbillonnement",
+        "Bras, hélices, raclettes ; planétaire : milieux visqueux, coûteux, nettoyage difficile ; projection : très efficace"
+      ],
+      [
+        "Statiques",
+        "—",
+        "Mélangeurs à fluidisation, silo-mélangeur",
+        "Très efficace sans ségrégation, 2 min, grand volume ; fines si friable ; air comprimé"
+      ]
+    ]
+  },
+  {
+    "id": "pharmacie-galenique/07-melange-des-poudres/tableau-002",
+    "titre": "Variables influençant la qualité d'un mélange",
+    "colonnes": [
+      "Catégorie",
+      "Variable",
+      "Effet"
+    ],
+    "lignes": [
+      [
+        "Poudre",
+        "Ténuité",
+        "Écart de taille → ségrégation par la taille"
+      ],
+      [
+        "Poudre",
+        "Densité",
+        "Différence défavorable"
+      ],
+      [
+        "Poudre",
+        "Proportions",
+        "Mélange difficile → prémélange"
+      ],
+      [
+        "Poudre",
+        "Forme",
+        "Sphériques : écoulement rapide mais ségrégation"
+      ],
+      [
+        "Poudre",
+        "Rugosité / humidité",
+        "Empêchent le glissement"
+      ],
+      [
+        "Opératoire",
+        "Vitesse de rotation (+++)",
+        "Lente : abrasion ; rapide : casse"
+      ],
+      [
+        "Opératoire",
+        "Volume (+++)",
+        "Charge 40–60 %"
+      ],
+      [
+        "Opératoire",
+        "Temps (+++)",
+        "Trop long : démélange"
+      ],
+      [
+        "Opératoire",
+        "T° et HR (+)",
+        "Influence secondaire"
+      ],
+      [
+        "Matériel",
+        "Dimension, géométrie, mode de fonctionnement",
+        "Conditionnent l'efficacité"
+      ]
+    ]
+  },
+  {
+    "id": "pharmacie-galenique/07-melange-des-poudres/carte-003",
+    "type": "carte",
+    "titre": "Mélange des poudres",
+    "racine": {
+      "label": "Mélange des poudres",
+      "enfants": [
+        {
+          "label": "Qualité",
+          "enfants": [
+            {
+              "label": "Homogène",
+              "enfants": []
+            },
+            {
+              "label": "Écoulement sans ségrégation",
+              "enfants": []
+            },
+            {
+              "label": "Non contaminé",
+              "enfants": []
+            },
+            {
+              "label": "Stable",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Variables",
+          "enfants": [
+            {
+              "label": "Poudre : ténuité, densité, proportions, forme",
+              "enfants": []
+            },
+            {
+              "label": "Opératoires : vitesse, volume, temps",
+              "enfants": []
+            },
+            {
+              "label": "Matériel : dimension, géométrie, fonctionnement",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Matériel",
+          "enfants": [
+            {
+              "label": "Officine : mortier, flacon",
+              "enfants": []
+            },
+            {
+              "label": "Chute libre",
+              "enfants": []
+            },
+            {
+              "label": "Malaxeurs",
+              "enfants": []
+            },
+            {
+              "label": "Fluidisation",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Contrôle : dosage du PA",
+          "enfants": []
+        }
+      ]
+    }
+  }
+]

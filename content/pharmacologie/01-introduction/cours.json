@@ -1,0 +1,13 @@
+{
+  "id": "pharmacologie/01-introduction",
+  "module": "pharmacologie",
+  "ordre": 1,
+  "titre": "Introduction à la pharmacologie",
+  "type": "cours",
+  "source": {
+    "driveId": "1nyyLbe_oGdijJbDgC7m-lGXxLZ_OkHkm",
+    "fichier": "1. Introduction à La Pharmacologie.pptx",
+    "modifiedTime": "2026-09-30T23:04:32.349Z"
+  },
+  "resume": "Définitions de la pharmacologie et de ses branches, du médicament (OMS), de ses fonctions, effets, phases, origines, catégories, composition, dénomination, formes galéniques, générique et sources d'information (RCP, notice)."
+}

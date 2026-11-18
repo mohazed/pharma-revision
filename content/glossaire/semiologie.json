@@ -1,0 +1,652 @@
+[
+  {
+    "terme": "Céphalée",
+    "definition": "Plainte douloureuse centrée sur la région crânienne.",
+    "cours": "semiologie/02-cephalees-douleurs-faciales"
+  },
+  {
+    "terme": "Céphalée primaire",
+    "definition": "Céphalée sans lésion causale sous-jacente, de diagnostic uniquement clinique.",
+    "cours": "semiologie/02-cephalees-douleurs-faciales"
+  },
+  {
+    "terme": "Céphalée secondaire",
+    "definition": "Céphalée associée à une lésion sous-jacente, nécessitant des examens complémentaires.",
+    "cours": "semiologie/02-cephalees-douleurs-faciales"
+  },
+  {
+    "terme": "Hémorragie sous-arachnoïdienne",
+    "definition": "Saignement des espaces sous-arachnoïdiens ; premier diagnostic devant une céphalée inhabituelle à début brutal.",
+    "cours": "semiologie/02-cephalees-douleurs-faciales"
+  },
+  {
+    "terme": "Syndrome méningé",
+    "definition": "Ensemble de signes recherchés à l'examen neurologique, orientant avec la fièvre vers une méningite.",
+    "cours": "semiologie/02-cephalees-douleurs-faciales"
+  },
+  {
+    "terme": "Signe de Claude-Bernard-Horner",
+    "definition": "Signe pouvant accompagner la céphalée d'une dissection artérielle.",
+    "cours": "semiologie/02-cephalees-douleurs-faciales"
+  },
+  {
+    "terme": "Encéphalopathie hypertensive",
+    "definition": "Céphalée brutale avec PA > 240/120 mmHg, troubles visuels bilatéraux et crises comitiales.",
+    "cours": "semiologie/02-cephalees-douleurs-faciales"
+  },
+  {
+    "terme": "Hypertension intracrânienne",
+    "definition": "Céphalées progressives aggravées par la toux, avec vomissements et œdème papillaire bilatéral.",
+    "cours": "semiologie/02-cephalees-douleurs-faciales"
+  },
+  {
+    "terme": "Œdème papillaire",
+    "definition": "Signe du fond d'œil retrouvé de façon bilatérale dans l'hypertension intracrânienne.",
+    "cours": "semiologie/02-cephalees-douleurs-faciales"
+  },
+  {
+    "terme": "Artérite temporale de Horton",
+    "definition": "Céphalée récente après 60 ans avec signes inflammatoires temporaux ; traitée par corticothérapie.",
+    "cours": "semiologie/02-cephalees-douleurs-faciales"
+  },
+  {
+    "terme": "Claudication de la mâchoire",
+    "definition": "Douleur à la mastication, signe associé de la maladie de Horton.",
+    "cours": "semiologie/02-cephalees-douleurs-faciales"
+  },
+  {
+    "terme": "Migraine cataméniale",
+    "definition": "Migraine favorisée par les règles.",
+    "cours": "semiologie/02-cephalees-douleurs-faciales"
+  },
+  {
+    "terme": "Photophobie",
+    "definition": "Gêne à la lumière, critère D de la migraine sans aura.",
+    "cours": "semiologie/02-cephalees-douleurs-faciales"
+  },
+  {
+    "terme": "Phonophobie",
+    "definition": "Gêne au bruit, critère D de la migraine sans aura.",
+    "cours": "semiologie/02-cephalees-douleurs-faciales"
+  },
+  {
+    "terme": "Névralgie du trijumeau",
+    "definition": "Algie faciale du nerf V, essentielle ou symptomatique.",
+    "cours": "semiologie/02-cephalees-douleurs-faciales"
+  },
+  {
+    "terme": "Zone gâchette",
+    "definition": "Zone cutanée ou muqueuse limitée dont l'effleurement déclenche la névralgie du trijumeau.",
+    "cours": "semiologie/02-cephalees-douleurs-faciales"
+  },
+  {
+    "terme": "Tic douloureux",
+    "definition": "Décharges électriques fulgurantes et brèves de la névralgie essentielle du trijumeau.",
+    "cours": "semiologie/02-cephalees-douleurs-faciales"
+  },
+  {
+    "terme": "Hypoesthésie",
+    "definition": "Diminution de la sensibilité, évocatrice d'une névralgie trijéminale symptomatique.",
+    "cours": "semiologie/02-cephalees-douleurs-faciales"
+  },
+  {
+    "terme": "Hépatite",
+    "definition": "Inflammation du parenchyme hépatique avec nécrose des hépatocytes, quelle qu'en soit la cause.",
+    "cours": "semiologie/03-hepatites"
+  },
+  {
+    "terme": "Ictère",
+    "definition": "Coloration jaune de la peau et des muqueuses, franche au-delà de 50 µmol/L de bilirubine.",
+    "cours": "semiologie/03-hepatites"
+  },
+  {
+    "terme": "Subictère conjonctival",
+    "definition": "Coloration jaune débutante des conjonctives, vers 30 µmol/L de bilirubine.",
+    "cours": "semiologie/03-hepatites"
+  },
+  {
+    "terme": "Bilirubine conjuguée",
+    "definition": "Bilirubine hydrosoluble conjuguée dans l'hépatocyte (UGT1A1), excrétée dans la bile et responsable des urines foncées.",
+    "cours": "semiologie/03-hepatites"
+  },
+  {
+    "terme": "Stercobiline",
+    "definition": "Dérivé intestinal de la bilirubine qui colore les selles.",
+    "cours": "semiologie/03-hepatites"
+  },
+  {
+    "terme": "Cytolyse",
+    "definition": "Destruction des hépatocytes, traduite par l'augmentation des ALAT et ASAT.",
+    "cours": "semiologie/03-hepatites"
+  },
+  {
+    "terme": "Cholestase",
+    "definition": "Défaut d'écoulement de la bile : PAL, γGT et bilirubine conjuguée augmentées.",
+    "cours": "semiologie/03-hepatites"
+  },
+  {
+    "terme": "Insuffisance hépatocellulaire",
+    "definition": "Défaut de synthèse hépatique : TP, facteur V et albumine diminués.",
+    "cours": "semiologie/03-hepatites"
+  },
+  {
+    "terme": "Taux de prothrombine (TP)",
+    "definition": "Paramètre clé du pronostic d'une hépatite ; < 50 % définit une hépatite aiguë sévère.",
+    "cours": "semiologie/03-hepatites"
+  },
+  {
+    "terme": "Hépatite fulminante",
+    "definition": "TP < 50 % avec encéphalopathie dans les 2 semaines suivant l'ictère.",
+    "cours": "semiologie/03-hepatites"
+  },
+  {
+    "terme": "Hépatite subfulminante",
+    "definition": "Encéphalopathie survenant entre 2 et 12 semaines après l'ictère.",
+    "cours": "semiologie/03-hepatites"
+  },
+  {
+    "terme": "Astérixis",
+    "definition": "Signe d'encéphalopathie, signe d'alerte d'hépatite grave.",
+    "cours": "semiologie/03-hepatites"
+  },
+  {
+    "terme": "Fœtor hepaticus",
+    "definition": "Odeur caractéristique, signe d'alerte d'insuffisance hépatique grave.",
+    "cours": "semiologie/03-hepatites"
+  },
+  {
+    "terme": "Angiome stellaire",
+    "definition": "Signe cutané d'insuffisance hépatocellulaire au stade de cirrhose.",
+    "cours": "semiologie/03-hepatites"
+  },
+  {
+    "terme": "Hypertension portale",
+    "definition": "Ensemble splénomégalie, circulation veineuse collatérale, ascite, varices œsophagiennes, hypersplénisme.",
+    "cours": "semiologie/03-hepatites"
+  },
+  {
+    "terme": "Ag HBs",
+    "definition": "Antigène de surface du VHB, marqueur d'infection (aiguë ou chronique si > 6 mois).",
+    "cours": "semiologie/03-hepatites"
+  },
+  {
+    "terme": "Ac anti-HBs",
+    "definition": "Anticorps protecteurs, seuls présents chez le sujet vacciné.",
+    "cours": "semiologie/03-hepatites"
+  },
+  {
+    "terme": "Idiosyncrasie",
+    "definition": "Hépatotoxicité imprévisible, indépendante de la dose, délai de 5 à 90 jours.",
+    "cours": "semiologie/03-hepatites"
+  },
+  {
+    "terme": "Rapport R",
+    "definition": "(ALAT/N)/(PAL/N), classant l'hépatite médicamenteuse en cytolytique, mixte ou cholestatique.",
+    "cours": "semiologie/03-hepatites"
+  },
+  {
+    "terme": "NAPQI",
+    "definition": "Métabolite réactif du paracétamol qui épuise le glutathion hépatique.",
+    "cours": "semiologie/03-hepatites"
+  },
+  {
+    "terme": "N-acétylcystéine (NAC)",
+    "definition": "Antidote de l'intoxication au paracétamol, à donner tôt.",
+    "cours": "semiologie/03-hepatites"
+  },
+  {
+    "terme": "Douleur abdominale aiguë",
+    "definition": "Douleur abdominale évoluant depuis une semaine au maximum.",
+    "cours": "semiologie/04-douleur-abdominale-aigue"
+  },
+  {
+    "terme": "EVA",
+    "definition": "Échelle visuelle analogique cotant l'intensité de la douleur de 0 à 10.",
+    "cours": "semiologie/04-douleur-abdominale-aigue"
+  },
+  {
+    "terme": "Défense abdominale",
+    "definition": "Résistance tonique de la paroi que la main peut vaincre en palpant avec douceur.",
+    "cours": "semiologie/04-douleur-abdominale-aigue"
+  },
+  {
+    "terme": "Contracture abdominale",
+    "definition": "Résistance invincible de la paroi (« ventre de bois ») évoquant une péritonite.",
+    "cours": "semiologie/04-douleur-abdominale-aigue"
+  },
+  {
+    "terme": "Rebond",
+    "definition": "Douleur vive à la décompression brusque, signe d'irritation péritonéale.",
+    "cours": "semiologie/04-douleur-abdominale-aigue"
+  },
+  {
+    "terme": "Signe de Murphy",
+    "definition": "Arrêt de l'inspiration à la palpation sous le rebord costal droit, évoquant une cholécystite.",
+    "cours": "semiologie/04-douleur-abdominale-aigue"
+  },
+  {
+    "terme": "Globe vésical",
+    "definition": "Rétention d'urine donnant une matité sus-pubienne.",
+    "cours": "semiologie/04-douleur-abdominale-aigue"
+  },
+  {
+    "terme": "Ascite",
+    "definition": "Épanchement liquidien péritonéal donnant une matité déclive.",
+    "cours": "semiologie/04-douleur-abdominale-aigue"
+  },
+  {
+    "terme": "Iléus",
+    "definition": "Arrêt du transit pouvant donner un silence abdominal à l'auscultation.",
+    "cours": "semiologie/04-douleur-abdominale-aigue"
+  },
+  {
+    "terme": "Pyrosis",
+    "definition": "Brûlure ascendante rétrosternale du reflux gastro-œsophagien.",
+    "cours": "semiologie/04-douleur-abdominale-aigue"
+  },
+  {
+    "terme": "Syndrome solaire",
+    "definition": "Douleur épigastrique intense, transfixiante, calmée en chien de fusil, de la pancréatite.",
+    "cours": "semiologie/04-douleur-abdominale-aigue"
+  },
+  {
+    "terme": "Colique hépatique",
+    "definition": "Douleur liée à un petit calcul bloqué temporairement dans le canal cystique.",
+    "cours": "semiologie/04-douleur-abdominale-aigue"
+  },
+  {
+    "terme": "Ulcère gastro-duodénal",
+    "definition": "Perte de substance de la muqueuse gastrique ou bulbaire n'atteignant pas la musculeuse.",
+    "cours": "semiologie/04-douleur-abdominale-aigue"
+  },
+  {
+    "terme": "Hypochondre",
+    "definition": "Région abdominale haute latérale, droite ou gauche.",
+    "cours": "semiologie/04-douleur-abdominale-aigue"
+  },
+  {
+    "terme": "Épigastre",
+    "definition": "Région abdominale haute et médiane.",
+    "cours": "semiologie/04-douleur-abdominale-aigue"
+  },
+  {
+    "terme": "Fosse iliaque",
+    "definition": "Région abdominale basse latérale, droite ou gauche.",
+    "cours": "semiologie/04-douleur-abdominale-aigue"
+  },
+  {
+    "terme": "Hémorragie digestive",
+    "definition": "Saignement dont la source se situe dans le tube digestif, de l'œsophage à l'anus.",
+    "cours": "semiologie/05-hemorragies-digestives"
+  },
+  {
+    "terme": "Angle de Treitz",
+    "definition": "Jonction duodéno-jéjunale, limite entre hémorragies digestives haute et basse.",
+    "cours": "semiologie/05-hemorragies-digestives"
+  },
+  {
+    "terme": "Hématémèse",
+    "definition": "Rejet de sang par la bouche lors d'un effort de vomissement.",
+    "cours": "semiologie/05-hemorragies-digestives"
+  },
+  {
+    "terme": "Méléna",
+    "definition": "Émission par l'anus de selles noires, goudronneuses, collantes et fétides (sang digéré).",
+    "cours": "semiologie/05-hemorragies-digestives"
+  },
+  {
+    "terme": "Rectorragie",
+    "definition": "Émission par l'anus de sang rouge, pur ou mêlé aux selles.",
+    "cours": "semiologie/05-hemorragies-digestives"
+  },
+  {
+    "terme": "Saignement occulte",
+    "definition": "Saignement invisible à l'œil nu, détecté par un test dans les selles.",
+    "cours": "semiologie/05-hemorragies-digestives"
+  },
+  {
+    "terme": "Hémoptysie",
+    "definition": "Rejet de sang lors de la toux, rouge vif, aéré, mousseux.",
+    "cours": "semiologie/05-hemorragies-digestives"
+  },
+  {
+    "terme": "Fausse méléna",
+    "definition": "Selles noires par coloration (fer, bismuth, charbon, aliments), mates, moulées, non fétides.",
+    "cours": "semiologie/05-hemorragies-digestives"
+  },
+  {
+    "terme": "Syndrome de Mallory-Weiss",
+    "definition": "Déchirure œsophagienne après des vomissements répétés.",
+    "cours": "semiologie/05-hemorragies-digestives"
+  },
+  {
+    "terme": "Varices œsophagiennes",
+    "definition": "Veines œsophagiennes dilatées par hypertension portale de la cirrhose, pouvant se rompre.",
+    "cours": "semiologie/05-hemorragies-digestives"
+  },
+  {
+    "terme": "Angiodysplasies",
+    "definition": "Petites malformations des vaisseaux digestifs, cause de saignements répétés du sujet âgé.",
+    "cours": "semiologie/05-hemorragies-digestives"
+  },
+  {
+    "terme": "Choc hémorragique",
+    "definition": "Défaillance circulatoire par perte sanguine : pouls rapide, tension basse, pâleur, extrémités froides.",
+    "cours": "semiologie/05-hemorragies-digestives"
+  },
+  {
+    "terme": "Score de Glasgow-Blatchford",
+    "definition": "Score hospitalier aidant à décider de l'hospitalisation lors d'une hémorragie digestive.",
+    "cours": "semiologie/05-hemorragies-digestives"
+  },
+  {
+    "terme": "Terlipressine",
+    "definition": "Médicament vasoactif utilisé dans l'hémorragie par rupture de varices.",
+    "cours": "semiologie/05-hemorragies-digestives"
+  },
+  {
+    "terme": "INR",
+    "definition": "Paramètre de coagulation des AVK, brutalement augmenté par le miconazole.",
+    "cours": "semiologie/05-hemorragies-digestives"
+  },
+  {
+    "terme": "Angor stable",
+    "definition": "Douleur thoracique constrictive d'effort, brève, cédant au repos et à la trinitrine en moins d'une minute.",
+    "cours": "semiologie/06-douleurs-thoraciques-aigues"
+  },
+  {
+    "terme": "Angor instable",
+    "definition": "Angor de novo, crescendo ou de repos ; syndrome de menace par caillot sur plaque d'athérome.",
+    "cours": "semiologie/06-douleurs-thoraciques-aigues"
+  },
+  {
+    "terme": "Infarctus du myocarde",
+    "definition": "Nécrose du myocarde dans le territoire d'une artère coronaire obstruée.",
+    "cours": "semiologie/06-douleurs-thoraciques-aigues"
+  },
+  {
+    "terme": "Syndrome coronarien aigu",
+    "definition": "Angor instable + infarctus du myocarde.",
+    "cours": "semiologie/06-douleurs-thoraciques-aigues"
+  },
+  {
+    "terme": "Trinitrine",
+    "definition": "Dérivé nitré sublingual faisant céder l'angor en moins d'une minute.",
+    "cours": "semiologie/06-douleurs-thoraciques-aigues"
+  },
+  {
+    "terme": "Sus-décalage de Pardee",
+    "definition": "Anomalie ECG du segment ST caractéristique de l'infarctus, suivie d'une onde Q.",
+    "cours": "semiologie/06-douleurs-thoraciques-aigues"
+  },
+  {
+    "terme": "Péricardite aiguë",
+    "definition": "Inflammation des feuillets du péricarde.",
+    "cours": "semiologie/06-douleurs-thoraciques-aigues"
+  },
+  {
+    "terme": "Frottement péricardique",
+    "definition": "Bruit d'auscultation de la péricardite sèche.",
+    "cours": "semiologie/06-douleurs-thoraciques-aigues"
+  },
+  {
+    "terme": "Cœur en carafe",
+    "definition": "Silhouette cardiaque augmentée à la radiographie en cas d'épanchement péricardique.",
+    "cours": "semiologie/06-douleurs-thoraciques-aigues"
+  },
+  {
+    "terme": "Dissection aortique",
+    "definition": "Clivage de la paroi aortique par rupture de sa paroi interne sous l'effet d'une poussée hypertensive.",
+    "cours": "semiologie/06-douleurs-thoraciques-aigues"
+  },
+  {
+    "terme": "Syndrome de Marfan",
+    "definition": "Maladie du tissu élastique prédisposant à la dissection aortique.",
+    "cours": "semiologie/06-douleurs-thoraciques-aigues"
+  },
+  {
+    "terme": "Embolie pulmonaire",
+    "definition": "Occlusion brutale de l'artère pulmonaire ou d'une branche par un caillot, souvent issu d'une phlébite.",
+    "cours": "semiologie/06-douleurs-thoraciques-aigues"
+  },
+  {
+    "terme": "D-dimères",
+    "definition": "Marqueur à valeur prédictive négative pour l'embolie pulmonaire.",
+    "cours": "semiologie/06-douleurs-thoraciques-aigues"
+  },
+  {
+    "terme": "Aspect S1Q3",
+    "definition": "Signe ECG possible de l'embolie pulmonaire.",
+    "cours": "semiologie/06-douleurs-thoraciques-aigues"
+  },
+  {
+    "terme": "Précordialgie",
+    "definition": "Douleur thoracique névrotique ponctiforme à l'apex, sur cœur indemne.",
+    "cours": "semiologie/06-douleurs-thoraciques-aigues"
+  },
+  {
+    "terme": "Palpitations",
+    "definition": "Perception anormale, voire désagréable, des battements cardiaques normalement non perçus.",
+    "cours": "semiologie/06-douleurs-thoraciques-aigues"
+  },
+  {
+    "terme": "Polypnée",
+    "definition": "Respiration rapide, signe de gravité d'une douleur thoracique.",
+    "cours": "semiologie/06-douleurs-thoraciques-aigues"
+  },
+  {
+    "terme": "Diarrhée",
+    "definition": "Accélération du transit avec selles trop liquides, trop fréquentes (≥ 3) ou trop volumineuses (> 250 g/j).",
+    "cours": "semiologie/07-troubles-du-transit"
+  },
+  {
+    "terme": "Stercobilinogène",
+    "definition": "Produit de dégradation de la bilirubine donnant leur couleur aux selles.",
+    "cours": "semiologie/07-troubles-du-transit"
+  },
+  {
+    "terme": "Syndrome dysentérique",
+    "definition": "Émission de selles afécales faites de glaires, de pus et de sang, avec épreintes et ténesme.",
+    "cours": "semiologie/07-troubles-du-transit"
+  },
+  {
+    "terme": "Épreinte",
+    "definition": "Besoin irrésistible d'exonérer, suivi ou non d'une selle dysentérique.",
+    "cours": "semiologie/07-troubles-du-transit"
+  },
+  {
+    "terme": "Ténesme",
+    "definition": "Sensation douloureuse de tension ou de corps étranger intra-rectal.",
+    "cours": "semiologie/07-troubles-du-transit"
+  },
+  {
+    "terme": "Fausse diarrhée du constipé",
+    "definition": "Selle de constipation diluée dans un liquide d'hypersécrétion lié à la stase.",
+    "cours": "semiologie/07-troubles-du-transit"
+  },
+  {
+    "terme": "Incontinence fécale",
+    "definition": "Perte involontaire de gaz et/ou de selles par l'anus.",
+    "cours": "semiologie/07-troubles-du-transit"
+  },
+  {
+    "terme": "TIAC",
+    "definition": "Toxi-infection alimentaire collective (staphylocoque doré, salmonelle).",
+    "cours": "semiologie/07-troubles-du-transit"
+  },
+  {
+    "terme": "Clostridioides difficile",
+    "definition": "Bactérie dont les toxines sont recherchées devant une diarrhée dans les 3 mois suivant des antibiotiques.",
+    "cours": "semiologie/07-troubles-du-transit"
+  },
+  {
+    "terme": "Diarrhée de malabsorption",
+    "definition": "Diarrhée par lésion de la muqueuse, selles abondantes graisseuses en bouse de vache.",
+    "cours": "semiologie/07-troubles-du-transit"
+  },
+  {
+    "terme": "Diarrhée osmotique",
+    "definition": "Diarrhée cédant au jeûne, surtout due aux laxatifs.",
+    "cours": "semiologie/07-troubles-du-transit"
+  },
+  {
+    "terme": "Diarrhée sécrétoire",
+    "definition": "Diarrhée profuse persistant après un jeûne.",
+    "cours": "semiologie/07-troubles-du-transit"
+  },
+  {
+    "terme": "Stéatorrhée",
+    "definition": "Excès de graisses dans les selles, élément du bilan de malabsorption.",
+    "cours": "semiologie/07-troubles-du-transit"
+  },
+  {
+    "terme": "Constipation",
+    "definition": "Retard de l'évacuation des résidus fécaux ; < 3 selles par semaine selon l'OMS.",
+    "cours": "semiologie/07-troubles-du-transit"
+  },
+  {
+    "terme": "Critères de Rome IV",
+    "definition": "Critères diagnostiques de la constipation chronique.",
+    "cours": "semiologie/07-troubles-du-transit"
+  },
+  {
+    "terme": "Dyschésie",
+    "definition": "Difficulté à évacuer le contenu rectal dans les conditions simples.",
+    "cours": "semiologie/07-troubles-du-transit"
+  },
+  {
+    "terme": "Anisme",
+    "definition": "Défécation dyssynergique : échec de relaxation du plancher pelvien lors de la défécation.",
+    "cours": "semiologie/07-troubles-du-transit"
+  },
+  {
+    "terme": "Mégarectum",
+    "definition": "Rectum anormalement large.",
+    "cours": "semiologie/07-troubles-du-transit"
+  },
+  {
+    "terme": "Rectocèle",
+    "definition": "Hernie de la paroi antérieure du rectum dans le vagin.",
+    "cours": "semiologie/07-troubles-du-transit"
+  },
+  {
+    "terme": "Procidence interne du rectum",
+    "definition": "Invagination de la paroi rectale qui ne sort pas de l'anus (prolapsus rectal occulte).",
+    "cours": "semiologie/07-troubles-du-transit"
+  },
+  {
+    "terme": "Plancher pelvien descendant",
+    "definition": "Descente des organes pelviens par affaiblissement des muscles et ligaments pelviens.",
+    "cours": "semiologie/07-troubles-du-transit"
+  },
+  {
+    "terme": "Fécalome",
+    "definition": "Masse de matières fécales recherchée au toucher rectal.",
+    "cours": "semiologie/07-troubles-du-transit"
+  },
+  {
+    "terme": "Échelle de Bristol",
+    "definition": "Échelle de consistance des selles ; types 1 ou 2 dans la constipation.",
+    "cours": "semiologie/07-troubles-du-transit"
+  },
+  {
+    "terme": "Sémiologie",
+    "definition": "Étude des signes (manifestations cliniques) qui traduisent une lésion ou un trouble d'une fonction.",
+    "cours": "semiologie/01-semiologie-generale"
+  },
+  {
+    "terme": "Signe",
+    "definition": "Manifestation de la maladie qui aide au diagnostic (latin signum : indice, marque).",
+    "cours": "semiologie/01-semiologie-generale"
+  },
+  {
+    "terme": "Symptôme",
+    "definition": "Manifestation ressentie et rapportée par le patient (subjective).",
+    "cours": "semiologie/01-semiologie-generale"
+  },
+  {
+    "terme": "Prodrome",
+    "definition": "Signe avant-coureur d'une maladie.",
+    "cours": "semiologie/01-semiologie-generale"
+  },
+  {
+    "terme": "Syndrome",
+    "definition": "Groupe de signes qui surviennent ensemble et peuvent avoir plusieurs causes.",
+    "cours": "semiologie/01-semiologie-generale"
+  },
+  {
+    "terme": "Clinique",
+    "definition": "Ce que le médecin constate au lit du malade avec ses sens, sans appareil ni laboratoire.",
+    "cours": "semiologie/01-semiologie-generale"
+  },
+  {
+    "terme": "Anamnèse",
+    "definition": "Interrogatoire : recueil de l'histoire de santé du patient.",
+    "cours": "semiologie/01-semiologie-generale"
+  },
+  {
+    "terme": "Asthénie",
+    "definition": "Fatigue inhabituelle.",
+    "cours": "semiologie/01-semiologie-generale"
+  },
+  {
+    "terme": "Anorexie",
+    "definition": "Perte d'appétit, totale, partielle ou sélective.",
+    "cours": "semiologie/01-semiologie-generale"
+  },
+  {
+    "terme": "Altération de l'état général (AEG)",
+    "definition": "Association asthénie + anorexie + amaigrissement.",
+    "cours": "semiologie/01-semiologie-generale"
+  },
+  {
+    "terme": "Dysphagie",
+    "definition": "Difficulté à avaler.",
+    "cours": "semiologie/01-semiologie-generale"
+  },
+  {
+    "terme": "Paresthésies",
+    "definition": "Fourmillements.",
+    "cours": "semiologie/01-semiologie-generale"
+  },
+  {
+    "terme": "Prurit",
+    "definition": "Démangeaisons.",
+    "cours": "semiologie/01-semiologie-generale"
+  },
+  {
+    "terme": "Arthralgies",
+    "definition": "Douleurs articulaires.",
+    "cours": "semiologie/01-semiologie-generale"
+  },
+  {
+    "terme": "Dysménorrhée",
+    "definition": "Règles douloureuses.",
+    "cours": "semiologie/01-semiologie-generale"
+  },
+  {
+    "terme": "Dyspnée",
+    "definition": "Essoufflement.",
+    "cours": "semiologie/01-semiologie-generale"
+  },
+  {
+    "terme": "Adénopathie",
+    "definition": "Ganglion augmenté de volume, recherché à la palpation.",
+    "cours": "semiologie/01-semiologie-generale"
+  },
+  {
+    "terme": "Matité",
+    "definition": "Son sourd à la percussion traduisant la présence de liquide ou d'un organe plein.",
+    "cours": "semiologie/01-semiologie-generale"
+  },
+  {
+    "terme": "Tympanisme",
+    "definition": "Son creux à la percussion traduisant la présence d'air.",
+    "cours": "semiologie/01-semiologie-generale"
+  },
+  {
+    "terme": "Cyanose",
+    "definition": "Coloration bleue des lèvres, signe d'alerte respiratoire.",
+    "cours": "semiologie/01-semiologie-generale"
+  }
+]

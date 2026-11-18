@@ -1,0 +1,299 @@
+[
+  {
+    "id": "pharmacologie/03-absorption/cas-01",
+    "titre": "Choix d'une voie pour un médicament à fort effet de premier passage hépatique",
+    "enonce": "Un patient doit recevoir un principe actif liposoluble, peu ionisé, qui subit un effet de premier passage hépatique très important lorsqu'il est pris par voie orale. Le médecin cherche une voie permettant un effet rapide tout en limitant cette perte.",
+    "questions": [
+      {
+        "id": "pharmacologie/03-absorption/cas-01-q1",
+        "type": "multiple",
+        "enonce": "Par voie orale, ce médicament peut subir un effet de premier passage :",
+        "options": [
+          "Uniquement rénal",
+          "Pulmonaire",
+          "Intestinal",
+          "Aucun",
+          "Hépatique"
+        ],
+        "correctes": [
+          1,
+          2,
+          4
+        ],
+        "explication": "D'après le cours, la voie orale expose aux EPP intestinal, hépatique et pulmonaire. L'EPP rénal n'est pas décrit.",
+        "difficulte": 1,
+        "tags": [
+          "effet de premier passage"
+        ],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacologie/03-absorption/cas-01-q2",
+        "type": "unique",
+        "enonce": "Une voie permettant d'éviter le premier passage hépatique avec une absorption rapide est :",
+        "options": [
+          "La voie rectale par les veines hémorroïdales supérieures",
+          "La voie orale",
+          "La voie perlinguale",
+          "La voie colique",
+          "Toutes les propositions sont correctes"
+        ],
+        "correctes": [
+          2
+        ],
+        "explication": "La voie perlinguale assure une absorption rapide et évite le premier passage hépatique (drainage par les veines jugulaires externes vers la veine cave supérieure). La voie orale, la voie colique et les veines hémorroïdales supérieures conduisent au foie.",
+        "difficulte": 2,
+        "tags": [
+          "voie perlinguale"
+        ],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacologie/03-absorption/cas-01-q3",
+        "type": "multiple",
+        "enonce": "Concernant la voie perlinguale chez ce patient :",
+        "options": [
+          "Le pH local est fortement alcalin",
+          "Le médicament échappe aux enzymes digestives et à la flore bactérienne",
+          "L'absorption se fait par diffusion passive",
+          "La quantité absorbable est réduite car la surface est limitée",
+          "La muqueuse est peu vascularisée"
+        ],
+        "correctes": [
+          1,
+          2,
+          3
+        ],
+        "explication": "La voie perlinguale se caractérise par une diffusion passive, une surface limitée (quantité réduite) et évite enzymes digestives et flore (c, d, b). La muqueuse est riche en vascularisation et le pH faiblement acide (e, a fausses).",
+        "difficulte": 2,
+        "tags": [
+          "voie perlinguale"
+        ],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacologie/03-absorption/cas-01-q4",
+        "type": "multiple",
+        "enonce": "Si l'on choisissait la voie rectale :",
+        "options": [
+          "L'absorption serait plus régulière que par voie orale",
+          "Le premier passage hépatique serait réduit mais pas totalement supprimé",
+          "Le médicament serait altéré par les enzymes digestives",
+          "Les veines hémorroïdales inférieures et moyennes n'exposent qu'à un EPP pulmonaire",
+          "L'absorption serait irrégulière"
+        ],
+        "correctes": [
+          1,
+          3,
+          4
+        ],
+        "explication": "La voie rectale donne une absorption irrégulière, réduit l'EPP hépatique (les veines hémorroïdales supérieures gagnent le foie) et les veines inférieures et moyennes n'exposent qu'à l'EPP pulmonaire. Il n'y a pas d'altération par les enzymes digestives.",
+        "difficulte": 2,
+        "tags": [
+          "voie rectale"
+        ],
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "pharmacologie/03-absorption/cas-02",
+    "titre": "Acide faible et base faible dans le tube digestif",
+    "enonce": "Un étudiant compare deux médicaments administrés par voie orale : A, acide faible de pKa = 4, et B, base faible de pKa = 9. Le pH gastrique est pris égal à 2 et le pH de l'intestin grêle égal à 7.",
+    "questions": [
+      {
+        "id": "pharmacologie/03-absorption/cas-02-q1",
+        "type": "multiple",
+        "enonce": "Dans l'estomac (pH 2), le médicament A :",
+        "options": [
+          "Peut être absorbé au niveau gastrique",
+          "Est majoritairement ionisé",
+          "Est majoritairement non ionisé",
+          "Ne peut jamais être absorbé",
+          "A un rapport [ionisée]/[non ionisée] de 1/100"
+        ],
+        "correctes": [
+          0,
+          2,
+          4
+        ],
+        "explication": "Pour un acide, log([I]/[NI]) = pH − pKa = −2, soit 1/100 : la forme non ionisée domine, ce qui permet le passage ; l'estomac est favorable aux acides faibles.",
+        "difficulte": 2,
+        "tags": [
+          "Henderson-Hasselbalch",
+          "acide faible"
+        ],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacologie/03-absorption/cas-02-q2",
+        "type": "multiple",
+        "enonce": "Dans l'estomac (pH 2), le médicament B :",
+        "options": [
+          "Est majoritairement non ionisé",
+          "Peut bénéficier d'une meilleure dissolution",
+          "Diffuse d'autant mieux que le pH est faible",
+          "Voit son passage transmembranaire limité",
+          "Est très majoritairement ionisé"
+        ],
+        "correctes": [
+          1,
+          3,
+          4
+        ],
+        "explication": "Pour une base, log([NI]/[I]) = 2 − 9 = −7 : B est presque totalement ionisé, ce qui limite son passage ; le cours précise toutefois que l'estomac peut favoriser certaines bases faibles par une meilleure dissolution. Une base diffuse mieux quand le pH est élevé.",
+        "difficulte": 3,
+        "tags": [
+          "Henderson-Hasselbalch",
+          "base faible"
+        ],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacologie/03-absorption/cas-02-q3",
+        "type": "multiple",
+        "enonce": "Dans l'intestin grêle (pH 7) :",
+        "options": [
+          "A est majoritairement ionisé",
+          "Le rapport [non ionisée]/[ionisée] de B vaut 1/100",
+          "L'intestin grêle reste le site le plus important d'absorption",
+          "B est plus ionisé qu'il ne l'était dans l'estomac",
+          "Toutes les propositions sont fausses"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "Pour B : log([NI]/[I]) = 7 − 9 = −2, soit 1/100 (b) ; B est donc moins ionisé que dans l'estomac (d fausse). Pour A : log([I]/[NI]) = 3, donc A est majoritairement ionisé (a). L'intestin grêle reste le site le plus important grâce à sa surface et sa vascularisation (c).",
+        "difficulte": 3,
+        "tags": [
+          "Henderson-Hasselbalch",
+          "intestin grêle"
+        ],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacologie/03-absorption/cas-02-q4",
+        "type": "multiple",
+        "enonce": "Selon la théorie de diffusion par le pH :",
+        "options": [
+          "A est un acide fort à absorption limitée",
+          "B a une absorption dépendante du pH",
+          "B est une base très faible",
+          "B est une base forte à absorption limitée",
+          "A a une absorption dépendante du pH"
+        ],
+        "correctes": [
+          1,
+          4
+        ],
+        "explication": "A (pKa 4, compris entre 2,5 et 7,5) est un acide faible et B (pKa 9, compris entre 5 et 11) une base faible : leur absorption dépend du pH.",
+        "difficulte": 2,
+        "tags": [
+          "théorie de diffusion par le pH"
+        ],
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "pharmacologie/03-absorption/cas-03",
+    "titre": "Injection sous-cutanée, intramusculaire et aérosol",
+    "enonce": "Dans un service, une infirmière doit administrer à un patient un médicament en solution huileuse par voie sous-cutanée, un vaccin par voie intramusculaire, puis un aérosol dont les particules mesurent environ 1 µm.",
+    "questions": [
+      {
+        "id": "pharmacologie/03-absorption/cas-03-q1",
+        "type": "multiple",
+        "enonce": "Concernant la solution huileuse en sous-cutané :",
+        "options": [
+          "La résorption est irrégulière",
+          "La résorption est plus lente que par voie IM",
+          "Elle est absorbée par pinocytose",
+          "Elle diffuse passivement comme une solution aqueuse",
+          "La résorption est plus rapide que par voie IM"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "Par voie S/C, les solutions huileuses sont absorbées par pinocytose (les solutions aqueuses diffusent passivement) ; la résorption est irrégulière et plus lente que l'IM.",
+        "difficulte": 2,
+        "tags": [
+          "voie sous-cutanée"
+        ],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacologie/03-absorption/cas-03-q2",
+        "type": "multiple",
+        "enonce": "Pour accélérer la résorption sous-cutanée, on peut :",
+        "options": [
+          "Choisir une solution huileuse",
+          "Pratiquer une friction du site",
+          "Utiliser une forme retard",
+          "Utiliser un vasodilatateur",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          1,
+          3
+        ],
+        "explication": "La vitesse d'absorption S/C peut être augmentée par vasodilatation chimique (vasodilatateurs) ou mécanique (friction). Une forme retard ralentit l'absorption.",
+        "difficulte": 1,
+        "tags": [
+          "voie sous-cutanée"
+        ],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacologie/03-absorption/cas-03-q3",
+        "type": "multiple",
+        "enonce": "Concernant le vaccin injecté par voie IM :",
+        "options": [
+          "La voie IM n'expose qu'à un EPP pulmonaire",
+          "La résorption est rapide grâce à la forte vascularisation",
+          "L'injection peut se faire dans le deltoïde",
+          "Le site le plus fréquent en IM est le deltoïde",
+          "La résorption se fait par diffusion passive"
+        ],
+        "correctes": [
+          0,
+          1,
+          2,
+          4
+        ],
+        "explication": "Le deltoïde est utilisé plus rarement, notamment pour les vaccins ; le site le plus fréquent est la fesse (d fausse). La résorption IM se fait par diffusion passive rapide. La voie IM n'expose qu'à un EPP pulmonaire.",
+        "difficulte": 2,
+        "tags": [
+          "voie intramusculaire"
+        ],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacologie/03-absorption/cas-03-q4",
+        "type": "multiple",
+        "enonce": "Concernant l'aérosol (particules ≈ 1 µm) :",
+        "options": [
+          "Le médicament évite le foie",
+          "Les particules peuvent atteindre les alvéoles et passer dans le sang",
+          "Les particules restent obligatoirement à action locale",
+          "L'absorption est favorisée par la grande surface alvéolaire et l'épithélium fin",
+          "Toutes les propositions sont fausses"
+        ],
+        "correctes": [
+          0,
+          1,
+          3
+        ],
+        "explication": "Les particules de 0,2 à 2 µm atteignent les alvéoles et passent dans le sang ; l'action locale concerne les aérosols > 3 µm. La voie pulmonaire est favorisée par la grande surface alvéolaire, le débit intense, l'épithélium fin, et évite le foie.",
+        "difficulte": 2,
+        "tags": [
+          "voie pulmonaire"
+        ],
+        "origine": "genere"
+      }
+    ]
+  }
+]

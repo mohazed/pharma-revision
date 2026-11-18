@@ -1,0 +1,32 @@
+[
+  {
+    "id": "pharmacie-galenique/02-excipients/mnemo-001",
+    "titre": "Spans vs Tween",
+    "moyen": "« Span = Sombre huile (H/L), Tween = Tout en eau (L/H) »",
+    "explication": "Spans® lipophiles → émulsionnants H/L ; Tween® hydrophiles → émulsionnants L/H."
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/mnemo-002",
+    "titre": "Échelle HLB",
+    "moyen": "« 3-6 Huile, 7-9 Mouille, 8-18 L'eau » ; « Haut = Hydrophile »",
+    "explication": "H/L 3 à 6, mouillants 7 à 9, L/H 8 à 18 ; plus le HLB est haut, plus le surfactif est hydrophile."
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/mnemo-003",
+    "titre": "Silicates",
+    "moyen": "« Talc = Magnésium, Kaolin = Aluminium » (TM, KA)",
+    "explication": "Le talc est un silicate de magnésium hydraté, le kaolin un silicate hydraté d'aluminium."
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/mnemo-004",
+    "titre": "Gommes officinales",
+    "moyen": "« AAS » : Arabique, Adragante, Sterculia",
+    "explication": "Les trois gommes de la Pharmacopée : arabique, adragante, Sterculia (Karaya)."
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/mnemo-005",
+    "titre": "Huiles hydrogénées vs semi-synthétiques",
+    "moyen": "« Hydrogénée = Hydrophobe ; Semi = Se disperse »",
+    "explication": "Les huiles hydrogénées sont hydrophobes ; les glycérides semi-synthétiques sont hydrodispersibles."
+  }
+]

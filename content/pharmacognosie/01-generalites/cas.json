@@ -1,0 +1,163 @@
+[
+  {
+    "id": "pharmacognosie/01-generalites/cas-001",
+    "titre": "Mise en culture d'une plante médicinale",
+    "enonce": "Un laboratoire souhaite produire une drogue à huile essentielle (sommités fleuries) et une drogue à racines issues d'une plante vivace. Jusqu'ici, la matière première provenait de plantes de cueillette.",
+    "questions": [
+      {
+        "id": "pharmacognosie/01-generalites/cas-001-q1",
+        "type": "multiple",
+        "enonce": "Les problèmes posés par l'approvisionnement en plantes de cueillette sont :",
+        "options": [
+          "Dispersion géographique",
+          "Irrégularité de croissance",
+          "Qualité inégale",
+          "Récolte mécanisée trop coûteuse",
+          "Risque nul de falsification"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "Les inconvénients des plantes de cueillette sont la dispersion géographique, l'irrégularité de croissance et la qualité inégale.",
+        "source": {
+          "page": 3,
+          "extrait": "Inconvénients : - Dispersion géographique."
+        },
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacognosie/01-generalites/cas-001-q2",
+        "type": "multiple",
+        "enonce": "Pour la drogue à huile essentielle (sommités fleuries), on recommandera :",
+        "options": [
+          "Une récolte avant le complet épanouissement des fleurs",
+          "Une cueillette le matin, avant le lever du soleil",
+          "Une récolte par temps sec",
+          "Une récolte en plein midi",
+          "Une récolte mécanisée possible"
+        ],
+        "correctes": [
+          0,
+          1,
+          2,
+          4
+        ],
+        "explication": "Sommités fleuries : avant complet épanouissement, récolte mécanisable ; plantes à H.E. : le matin avant le lever du soleil ; toujours par temps sec.",
+        "source": {
+          "page": 4,
+          "extrait": "Les plantes à H.E. sont cueillies le matin, avant le lever du soleil."
+        },
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacognosie/01-generalites/cas-001-q3",
+        "type": "multiple",
+        "enonce": "Pour la drogue à racines de la plante vivace :",
+        "options": [
+          "On attend quelques années pour obtenir des racines plus volumineuses",
+          "On récolte au printemps ou en automne",
+          "On récolte en pleine période de végétation",
+          "La récolte est le plus souvent manuelle",
+          "On récolte au début de la floraison"
+        ],
+        "correctes": [
+          0,
+          1,
+          3
+        ],
+        "explication": "Parties souterraines : hors pleine végétation (printemps ou automne), plusieurs années pour les vivaces, récolte manuelle des organes souterrains.",
+        "source": {
+          "page": 4,
+          "extrait": "pour les plantes vivaces, on attend quelques années pour avoir des racines plus volumineuses"
+        },
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "pharmacognosie/01-generalites/cas-002",
+    "titre": "Conservation d'un lot de feuilles fraîches",
+    "enonce": "Un lot de feuilles fraîches riches en hétérosides fragiles vient d'être récolté. Le pharmacien veut éviter la dégradation enzymatique des principes actifs puis contrôler le lot.",
+    "questions": [
+      {
+        "id": "pharmacognosie/01-generalites/cas-002-q1",
+        "type": "unique",
+        "enonce": "Pour simplement empêcher l'action des enzymes en éliminant l'eau, il choisit :",
+        "options": [
+          "La dessiccation",
+          "La stabilisation par l'alcool bouillant",
+          "Le procédé Goris-Arnould",
+          "Le procédé Perrot-Goris",
+          "La chaleur sèche"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "La dessiccation abaisse la teneur en eau et empêche les enzymes d'agir sans les détruire ; les autres procédés sont des stabilisations qui les dénaturent.",
+        "source": {
+          "page": 6,
+          "extrait": "la dessiccation ne détruit pas les enzymes mais les empêche d'agir"
+        },
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacognosie/01-generalites/cas-002-q2",
+        "type": "unique",
+        "enonce": "Pour détruire les enzymes et obtenir directement un extrait alcoolique stabilisé :",
+        "options": [
+          "Procédé de Bourquelot",
+          "Procédé Perrot-Goris",
+          "Procédé Goris-Arnould",
+          "Lyophilisation",
+          "Séchage au soleil"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Le procédé de Bourquelot (alcool bouillant) détruit les enzymes et extrait les PA solubles dans l'alcool, donnant des extraits alcooliques stabilisés.",
+        "source": {
+          "page": 6,
+          "extrait": "Ce procédé permet d'obtenir des extraits alcooliques stabilisés."
+        },
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacognosie/01-generalites/cas-002-q3",
+        "type": "multiple",
+        "enonce": "Lors du contrôle du lot sec :",
+        "options": [
+          "La teneur en eau doit être inférieure à 10 %",
+          "Le dosage des cendres évalue les éléments minéraux",
+          "L'examen microscopique des poudres relève de l'essai botanique",
+          "La DL50 relève de l'essai botanique",
+          "L'essai chimique reflète toujours l'activité réelle"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "Eau < 10 %, cendres = minéraux, microscopie = essai botanique. La DL50 est un essai physiologique et l'essai chimique ne reflète pas toujours l'activité réelle.",
+        "source": {
+          "page": 7,
+          "extrait": "teneur inférieure à 10%"
+        },
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      }
+    ]
+  }
+]

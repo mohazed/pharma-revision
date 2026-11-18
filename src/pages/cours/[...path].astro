@@ -1,0 +1,216 @@
+---
+import Base from "../../layouts/Base.astro";
+import Icone from "../../components/Icone.astro";
+import QcmCours from "../../islands/cours/QcmCours";
+import Flashcards from "../../islands/Flashcards";
+import CasCliniques from "../../islands/cours/CasCliniques";
+import Calculs from "../../islands/cours/Calculs";
+import Structures from "../../islands/cours/Structures";
+import CarteMentale from "../../islands/cours/CarteMentale";
+import MemoriserCours from "../../islands/cours/MemoriserCours";
+import { getModule, getTousLesCours, resumeCours } from "../../lib/content";
+import { mdEnLigne } from "../../lib/markdown";
+import { lienSignalement } from "../../lib/signaler";
+import type { Cours } from "../../lib/types";
+import type { NomIcone } from "../../lib/icones";
+
+export function getStaticPaths() {
+  return getTousLesCours().map((c) => ({ params: { path: c.path }, props: { cours: c } }));
+}
+const { cours } = Astro.props as { cours: Cours };
+const module = getModule(cours.module)!;
+const resume = resumeCours(cours);
+const c = cours.comptes;
+
+const onglets: { id: string; label: string; icone: NomIcone; n?: number; actif: boolean }[] = [
+  { id: "qcm", label: "QCM", icone: "qcm", n: c.qcm, actif: c.qcm > 0 },
+  { id: "flashcards", label: "Flashcards", icone: "cartes", n: c.flashcards, actif: c.flashcards > 0 },
+  { id: "fiche", label: "Fiche", icone: "fiche", actif: c.fiche > 0 },
+  { id: "cas", label: "Cas cliniques", icone: "cas", n: c.cas, actif: c.cas > 0 },
+  { id: "calculs", label: "Calculs", icone: "calcul", n: c.calculs, actif: c.calculs > 0 },
+  { id: "structures", label: "Structures", icone: "molecule", n: c.structures, actif: c.structures > 0 },
+  { id: "tableaux", label: "Tableaux", icone: "tableau", n: c.tableaux, actif: c.tableaux > 0 },
+  { id: "mnemos", label: "Mnémos", icone: "ampoule", n: c.mnemos, actif: c.mnemos > 0 },
+];
+const visibles = onglets.filter((o) => o.actif);
+const cartes = cours.flashcards.map((f) => ({ id: f.id, recto: f.recto, verso: f.verso, c: cours.path, coursId: cours.id, module: cours.module }));
+const intitule = `${cours.type === "td" ? "TD" : cours.ordre}. ${cours.titre}`;
+---
+<Base titre={`${cours.titre} — ${module.titre}`} description={cours.resume ?? `${cours.titre} : QCM corrigés, flashcards et fiche de révision (${module.titre}, 3e année de pharmacie).`}>
+  <MemoriserCours client:idle path={cours.path} titre={`${module.titre} › ${cours.titre}`} />
+  <div style={`--mod: var(--pr-mod-${module.couleur}, var(--pr-primary))`}>
+    <nav aria-label="Fil d'Ariane" class="mb-2 text-sm text-ink-muted">
+      <a href="/" class="hover:underline">Accueil</a> › <a href={`/modules/${module.slug}/`} class="hover:underline">{module.titre}</a>
+    </nav>
+    <header class="mb-4 flex flex-col gap-1">
+      <p class="surtitre mod-ink">{module.titre}{cours.type === "td" ? " · Travaux dirigés" : ""}</p>
+      <h1 class="text-2xl sm:text-3xl">{intitule}</h1>
+      {cours.resume && <p class="max-w-3xl text-ink-muted">{cours.resume}</p>}
+      {cours.nouveau && <span class="pastille pastille-nouveau self-start">Nouveau</span>}
+    </header>
+
+    {visibles.length === 0 ? (
+      <p class="carte p-6 text-center text-ink-muted">Le contenu de ce cours est en cours de préparation.</p>
+    ) : (
+      <>
+        <div class="sticky top-14 z-20 -mx-4 mb-5 overflow-x-auto border-b border-line bg-bg/95 px-4 backdrop-blur sm:mx-0 sm:px-0" >
+          <div role="tablist" aria-label="Contenus du cours" class="flex gap-1 py-2" id="onglets">
+            {visibles.map((o, i) => (
+              <button
+                role="tab"
+                id={`onglet-${o.id}`}
+                aria-controls={`panneau-${o.id}`}
+                aria-selected={i === 0 ? "true" : "false"}
+                tabindex={i === 0 ? 0 : -1}
+                data-onglet={o.id}
+                class="onglet flex shrink-0 items-center gap-1.5 rounded-pill px-3.5 py-2 text-sm font-semibold text-ink-muted transition-colors hover:text-ink aria-selected:bg-soft aria-selected:text-primary-ink"
+              >
+                <Icone nom={o.icone} taille={16} />{o.label}{o.n ? <span class="tnum text-xs opacity-70">{o.n}</span> : null}
+              </button>
+            ))}
+          </div>
+        </div>
+
+        {c.qcm > 0 && (
+          <section role="tabpanel" id="panneau-qcm" aria-labelledby="onglet-qcm" data-panneau="qcm" tabindex="0">
+            <QcmCours client:only="react" cours={resume}>
+              <p slot="fallback" class="text-ink-muted">{c.qcm} questions disponibles.</p>
+            </QcmCours>
+          </section>
+        )}
+
+        {c.flashcards > 0 && (
+          <section role="tabpanel" id="panneau-flashcards" aria-labelledby="onglet-flashcards" data-panneau="flashcards" tabindex="0" hidden>
+            <Flashcards client:only="react" cartes={cartes} titre={cours.titre} />
+          </section>
+        )}
+
+        {cours.fiche && c.fiche > 0 && (
+          <section role="tabpanel" id="panneau-fiche" aria-labelledby="onglet-fiche" data-panneau="fiche" tabindex="0" hidden>
+            <article class="carte mx-auto max-w-3xl p-5 sm:p-8">
+              <h2 class="mb-4 text-xl">{cours.fiche.titre ?? `Fiche — ${cours.titre}`}</h2>
+              {cours.fiche.sections.map((s) => (
+                <section class="mb-5">
+                  <h3 class="mb-2 text-lg mod-ink">{s.titre}</h3>
+                  <ul class="texte-riche list-disc space-y-1.5 pl-5 marker:text-primary">
+                    {(s.points ?? []).map((pt) => <li set:html={mdEnLigne(pt)} />)}
+                  </ul>
+                </section>
+              ))}
+              {cours.fiche.aRetenir && cours.fiche.aRetenir.length > 0 && (
+                <section class="mb-4 rounded-lg p-4" style="background: var(--pr-soft)">
+                  <h3 class="mb-2 flex items-center gap-2 text-lg text-primary-ink"><Icone nom="verifie" /> À retenir</h3>
+                  <ul class="texte-riche list-disc space-y-1.5 pl-5">{cours.fiche.aRetenir.map((pt) => <li set:html={mdEnLigne(pt)} />)}</ul>
+                </section>
+              )}
+              {cours.fiche.pieges && cours.fiche.pieges.length > 0 && (
+                <section class="rounded-lg p-4" style="background: var(--pr-warning-soft)">
+                  <h3 class="mb-2 flex items-center gap-2 text-lg" style="color: var(--pr-warning-ink)"><Icone nom="erreurs" /> Pièges</h3>
+                  <ul class="texte-riche list-disc space-y-1.5 pl-5">{cours.fiche.pieges.map((pt) => <li set:html={mdEnLigne(pt)} />)}</ul>
+                </section>
+              )}
+              <p class="mt-5 text-xs text-ink-muted">
+                <a href={lienSignalement({ id: cours.fiche.id ?? `${cours.id}/fiche`, cours: cours.titre, type: "Fiche" })} target="_blank" rel="noopener noreferrer" class="hover:underline">⚑ Signaler une erreur dans la fiche</a>
+              </p>
+            </article>
+          </section>
+        )}
+
+        {c.cas > 0 && (
+          <section role="tabpanel" id="panneau-cas" aria-labelledby="onglet-cas" data-panneau="cas" tabindex="0" hidden>
+            <CasCliniques client:visible cas={cours.cas} titreCours={cours.titre} coursId={cours.id} />
+          </section>
+        )}
+
+        {c.calculs > 0 && (
+          <section role="tabpanel" id="panneau-calculs" aria-labelledby="onglet-calculs" data-panneau="calculs" tabindex="0" hidden>
+            <Calculs client:only="react" calculs={cours.calculs} titreCours={cours.titre} />
+          </section>
+        )}
+
+        {c.structures > 0 && (
+          <section role="tabpanel" id="panneau-structures" aria-labelledby="onglet-structures" data-panneau="structures" tabindex="0" hidden>
+            <Structures client:only="react" structures={cours.structures} titreCours={cours.titre} />
+          </section>
+        )}
+
+        {c.tableaux > 0 && (
+          <section role="tabpanel" id="panneau-tableaux" aria-labelledby="onglet-tableaux" data-panneau="tableaux" tabindex="0" hidden>
+            <div class="flex flex-col gap-6">
+              {cours.tableaux.map((t) => (
+                <figure class="flex flex-col gap-2">
+                  <figcaption class="font-heading text-lg font-bold">{t.titre}</figcaption>
+                  <div class="tableau-defilant bg-surface">
+                    <table>
+                      <thead><tr>{t.colonnes.map((col) => <th scope="col" set:html={mdEnLigne(col)} />)}</tr></thead>
+                      <tbody>{t.lignes.map((l) => <tr>{l.map((cell) => <td set:html={mdEnLigne(cell)} />)}</tr>)}</tbody>
+                    </table>
+                  </div>
+                </figure>
+              ))}
+              {cours.cartes.map((carte) => <CarteMentale client:visible carte={carte} />)}
+            </div>
+          </section>
+        )}
+
+        {c.mnemos > 0 && (
+          <section role="tabpanel" id="panneau-mnemos" aria-labelledby="onglet-mnemos" data-panneau="mnemos" tabindex="0" hidden>
+            <ul class="grid gap-3 md:grid-cols-2">
+              {cours.mnemos.map((m) => (
+                <li class="carte flex flex-col gap-2 p-5">
+                  <h3 class="text-base text-ink-muted">{m.titre}</h3>
+                  <p class="font-heading text-xl font-extrabold text-primary-ink">{m.moyen}</p>
+                  {m.explication && <p class="texte-riche text-sm" set:html={mdEnLigne(m.explication)} />}
+                </li>
+              ))}
+            </ul>
+          </section>
+        )}
+      </>
+    )}
+  </div>
+</Base>
+
+<script>
+  // Onglets accessibles (flèches gauche/droite, Début/Fin) + ancre d'URL (#qcm, #fiche…).
+  const liste = document.getElementById("onglets");
+  if (liste) {
+    const onglets = [...liste.querySelectorAll<HTMLButtonElement>("[role=tab]")];
+    const activer = (id: string, focus = false) => {
+      for (const o of onglets) {
+        const actif = o.dataset.onglet === id;
+        o.setAttribute("aria-selected", String(actif));
+        o.tabIndex = actif ? 0 : -1;
+        if (actif && focus) o.focus();
+        if (actif) {
+          const boite = liste.parentElement!;
+          const r = o.getBoundingClientRect();
+          const b = boite.getBoundingClientRect();
+          if (r.left < b.left || r.right > b.right) boite.scrollLeft += r.left - b.left - 16;
+        }
+        const p = document.getElementById(`panneau-${o.dataset.onglet}`);
+        if (p) p.hidden = !actif;
+      }
+    };
+    onglets.forEach((o, i) => {
+      o.addEventListener("click", () => {
+        activer(o.dataset.onglet!);
+        history.replaceState(null, "", `#${o.dataset.onglet}`);
+      });
+      o.addEventListener("keydown", (e) => {
+        let j = -1;
+        if (e.key === "ArrowRight") j = (i + 1) % onglets.length;
+        else if (e.key === "ArrowLeft") j = (i - 1 + onglets.length) % onglets.length;
+        else if (e.key === "Home") j = 0;
+        else if (e.key === "End") j = onglets.length - 1;
+        if (j >= 0) {
+          e.preventDefault();
+          activer(onglets[j].dataset.onglet!, true);
+          history.replaceState(null, "", `#${onglets[j].dataset.onglet}`);
+        }
+      });
+    });
+    const h = location.hash.slice(1);
+    activer(h && onglets.some((o) => o.dataset.onglet === h) ? h : onglets[0].dataset.onglet!);
+  }
+</script>

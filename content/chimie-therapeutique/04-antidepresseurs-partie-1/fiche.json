@@ -1,0 +1,73 @@
+{
+  "id": "chimie-therapeutique/04-antidepresseurs-partie-1/fiche",
+  "titre": "Antidépresseurs – Partie 1 : l'essentiel",
+  "sections": [
+    {
+      "titre": "Dépression et physiopathologie",
+      "points": [
+        "Trouble de l'humeur : tristesse, souffrance morale, **ralentissement psychomoteur**",
+        "Hypothèse **monoaminergique** : diminution synaptique de noradrénaline (réveil, attention), sérotonine (humeur, appétit, sommeil) et dopamine (mouvement, motivation, joie)"
+      ]
+    },
+    {
+      "titre": "Mode d'action général",
+      "points": [
+        "Inhibition de la **recapture** pré-synaptique",
+        "Inhibition de la **dégradation** (MAO)",
+        "Inhibition des **autorécepteurs** pré-synaptiques"
+      ]
+    },
+    {
+      "titre": "Classification chimique",
+      "points": [
+        "Tricycliques et apparentés : dibenzazépines (imipramine, désipramine, clomipramine, trimipramine), dibenzocycloheptadiènes (amitriptyline, nortriptyline)",
+        "Analogues : dosulépine (dibenzothiépine), amoxapine (dibenzoxazépine), tianeptine (dibenzothiazépine) ; tétracyclique : maprotiline",
+        "IMAO : iproniazide (irréversible non sélectif), moclobémide (réversible sélectif MAO-A)",
+        "2e génération : ISRS (fluvoxamine, fluoxétine, paroxétine, citalopram, sertraline) et IRSNA (milnacipran, venlafaxine)",
+        "Atypiques : mirtazapine (Norset®)"
+      ]
+    },
+    {
+      "titre": "Classification biochimique",
+      "points": [
+        "Non spécifiques (NA + sérotonine + dopamine) : tricycliques, IMAO",
+        "Spécifiques : ISRS, ISRSNA, NASSA (mirtazapine)"
+      ]
+    },
+    {
+      "titre": "Classification thérapeutique",
+      "points": [
+        "Du pôle **psychotonique** (IMAO, désipramine) aux **intermédiaires** (imipramine, clomipramine, dosulépine, IRS, IRSNA) jusqu'au pôle **sédatif** (maprotiline, amitriptyline, trimipramine, miansérine)"
+      ]
+    },
+    {
+      "titre": "Antidépresseurs tricycliques",
+      "points": [
+        "Trois cycles, chef de file **imipramine**, parenté structurale avec les **phénothiazines**",
+        "Deux séries selon l'atome portant la chaîne latérale",
+        "Série imipramine (« -pramines ») : azote du cycle central ; cycle central heptagonal ; amine terminale secondaire ou tertiaire",
+        "Série amitriptyline (« -ptylines ») : **double liaison C=C exocyclique**"
+      ]
+    },
+    {
+      "titre": "Synthèse de l'amitriptyline",
+      "points": [
+        "Dibenzosubérone + **bromure cyclopropylmagnésien**",
+        "Hydrolyse H2O/H+ → **cyclopropylcarbinol** (+ HOMgBr)",
+        "Ouverture du cyclopropane par HBr → **dérivé éthylénique bromé**",
+        "Diméthylamine (–HBr) → **amitriptyline**"
+      ]
+    }
+  ],
+  "aRetenir": [
+    "Imipramine = chef de file des tricycliques ; amine tertiaire, R2 = H",
+    "Désipramine et nortriptyline = amines secondaires",
+    "Synthèse de l'amitriptyline : Grignard cyclopropylique sur la dibenzosubérone"
+  ],
+  "pieges": [
+    "Ne pas confondre la classification chimique (noyaux) et la classification thérapeutique (pôles)",
+    "La tianeptine est une dibenzothiazépine, pas une dibenzothiépine",
+    "Paroxétine = Deroxat®, citalopram = Seropram®",
+    "La série de l'amitriptyline n'a pas d'azote dans le cycle central"
+  ]
+}

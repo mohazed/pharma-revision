@@ -1,0 +1,178 @@
+[
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/cas-001",
+    "titre": "Syndrome extrapyramidal sous halopéridol",
+    "enonce": "Un patient schizophrène traité par halopéridol (Haldol) développe une rigidité, un tremblement de repos et une akinésie après quelques semaines de traitement.",
+    "questions": [
+      {
+        "id": "chimie-therapeutique/06-neuroleptiques/cas-001-q1",
+        "type": "multiple",
+        "enonce": "Quel blocage explique cette symptomatologie ?",
+        "options": [
+          "Blocage dopaminergique de la voie nigrostriée",
+          "Blocage de la voie mésolimbique",
+          "Blocage de la voie tubéro-infundibulaire",
+          "Blocage des récepteurs 5-HT2A",
+          "Blocage des récepteurs H1"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "La voie nigrostriée contrôle la motricité involontaire : son blocage est responsable de la symptomatologie extrapyramidale.",
+        "origine": "genere"
+      },
+      {
+        "id": "chimie-therapeutique/06-neuroleptiques/cas-001-q2",
+        "type": "multiple",
+        "enonce": "À quelle classe chimique appartient l'halopéridol ?",
+        "options": [
+          "Butyrophénone pipéridinée",
+          "Phénothiazine pipérazinique",
+          "Thioxanthène",
+          "Benzamide",
+          "Benzisoxazole"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "L'halopéridol est le chef de file des butyrophénones pipéridinées.",
+        "origine": "genere"
+      },
+      {
+        "id": "chimie-therapeutique/06-neuroleptiques/cas-001-q3",
+        "type": "multiple",
+        "enonce": "Quels éléments structuraux sont essentiels à l'activité de cette classe ?",
+        "options": [
+          "Le noyau pipéridine ou pipérazine",
+          "La chaîne à 4 carbones",
+          "Le carbonyle (remplaçable par un p-fluorophényle)",
+          "Un atome de fluor en para",
+          "Toutes les propositions sont correctes"
+        ],
+        "correctes": [
+          4
+        ],
+        "explication": "RSA des butyrophénones : pipéridine/pipérazine, chaîne à 4 carbones, carbonyle (remplaçable par un second noyau p-fluorophényle) et fluor en para.",
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/cas-002",
+    "titre": "Troubles neuro-endocriniens sous neuroleptique",
+    "enonce": "Une patiente traitée par une phénothiazine consulte pour une aménorrhée associée à une galactorrhée.",
+    "questions": [
+      {
+        "id": "chimie-therapeutique/06-neuroleptiques/cas-002-q1",
+        "type": "multiple",
+        "enonce": "Quel mécanisme explique ces troubles ?",
+        "options": [
+          "Blocage dopaminergique de la voie tubéro-infundibulaire",
+          "Blocage de la voie nigrostriée",
+          "Blocage 5-HT2A",
+          "Effet anticholinergique",
+          "Inhibition de la MAO"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "La voie tubéro-infundibulaire inhibe la production et la libération de prolactine ; son blocage entraîne un syndrome aménorrhée-galactorrhée.",
+        "origine": "genere"
+      },
+      {
+        "id": "chimie-therapeutique/06-neuroleptiques/cas-002-q2",
+        "type": "multiple",
+        "enonce": "Quelle indication non neuropsychiatrique repose sur ce même mécanisme ?",
+        "options": [
+          "La stimulation de la lactation",
+          "Le traitement des vomissements des antimitotiques",
+          "Le traitement de l'anxiété",
+          "Le traitement des psychoses aiguës",
+          "Le traitement de l'agitation alcoolique"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "La stimulation de la lactation figure parmi les indications non neuropsychiatriques.",
+        "origine": "genere"
+      },
+      {
+        "id": "chimie-therapeutique/06-neuroleptiques/cas-002-q3",
+        "type": "multiple",
+        "enonce": "Quels autres effets du blocage dopaminergique faut-il connaître ?",
+        "options": [
+          "Accentuation des symptômes négatifs (voie mésocorticale)",
+          "Symptomatologie extrapyramidale (voie nigrostriée)",
+          "Effet antipsychotique (voie mésolimbique)",
+          "Stimulation de l'humeur par voie sérotoninergique",
+          "Effet myorelaxant GABAergique"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "Le blocage D2 non sélectif atteint les voies mésolimbique (effet thérapeutique), mésocorticale (symptômes négatifs) et nigrostriée (syndrome extrapyramidal).",
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/cas-003",
+    "titre": "Identification d'une phénothiazine",
+    "enonce": "Une formule présente un noyau tricyclique soufré et azoté portant un groupement trifluorométhyle en position 2 et, sur l'azote 10, une chaîne propylique reliée à une pipérazine substituée par un hydroxyéthyle.",
+    "questions": [
+      {
+        "id": "chimie-therapeutique/06-neuroleptiques/cas-003-q1",
+        "type": "multiple",
+        "enonce": "De quelle molécule s'agit-il ?",
+        "options": [
+          "Fluphénazine (Moditen)",
+          "Chlorpromazine (Largactil)",
+          "Pipotiazine (Piportil)",
+          "Lévomépromazine (Nozinan)",
+          "Flupentixol (Fluanxol)"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Fluphénazine : 2-[4-[3-[2-(trifluorométhyl)-10H-phénothiazin-10-yl]propyl]pipérazin-1-yl]éthanol (Moditen).",
+        "origine": "genere"
+      },
+      {
+        "id": "chimie-therapeutique/06-neuroleptiques/cas-003-q2",
+        "type": "multiple",
+        "enonce": "À quel sous-groupe appartient-elle et quelle en est la conséquence ?",
+        "options": [
+          "Phénothiazine pipérazinique, activité neuroleptique la plus élevée des trois groupes",
+          "Phénothiazine aliphatique, activité la plus faible",
+          "Phénothiazine pipéridinique",
+          "Thioxanthène",
+          "Benzamide"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "L'activité neuroleptique augmente des composés aliphatiques aux pipéridiniques puis aux pipéraziniques.",
+        "origine": "genere"
+      },
+      {
+        "id": "chimie-therapeutique/06-neuroleptiques/cas-003-q3",
+        "type": "multiple",
+        "enonce": "Si l'azote N10 était remplacé par un carbone sp2, à quelle classe appartiendrait la molécule ?",
+        "options": [
+          "Thioxanthènes",
+          "Butyrophénones",
+          "Benzamides",
+          "Dibenzodiazépines",
+          "Benzisoxazoles"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Les thioxanthènes sont les analogues des phénothiazines où l'azote est remplacé par un carbone sp2 (ex. flupentixol).",
+        "origine": "genere"
+      }
+    ]
+  }
+]

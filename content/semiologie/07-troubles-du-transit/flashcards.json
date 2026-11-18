@@ -1,0 +1,212 @@
+[
+  {
+    "id": "semiologie/07-troubles-du-transit/flashcard-001",
+    "recto": "Transit normal",
+    "verso": "24 h ; selles 1–2/j, moulées, 78 % d'eau, 22 % de matières sèches, pH neutre, couleur par le stercobilinogène.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/flashcard-002",
+    "recto": "Diarrhée (définition)",
+    "verso": "Accélération du transit avec selles trop liquides, trop fréquentes (≥ 3) ou trop volumineuses (> 250 g/j).",
+    "tags": []
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/flashcard-003",
+    "recto": "4 mécanismes de diarrhée",
+    "verso": "Hyperkinésie (motilité), hypersécrétion, malabsorption (lésion muqueuse), maldigestion (enzymes, flore).",
+    "tags": []
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/flashcard-004",
+    "recto": "Mécanismes des diarrhées infectieuses",
+    "verso": "Hypersécrétion et hypermotricité.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/flashcard-005",
+    "recto": "Retentissement d'une diarrhée aiguë / chronique",
+    "verso": "Déshydratation / dénutrition avec amaigrissement et œdèmes carentiels.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/flashcard-006",
+    "recto": "Fausse diarrhée du constipé",
+    "verso": "Selle de constipation diluée dans un liquide d'hypersécrétion de la muqueuse irritée par la stase.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/flashcard-007",
+    "recto": "Syndrome dysentérique",
+    "verso": "Selles afécales (glaires, pus, sang), épreintes, ténesme ; amibiase, shigellose, RCH.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/flashcard-008",
+    "recto": "Épreinte",
+    "verso": "Besoin irrésistible d'exonérer, suivi ou non d'une selle dysentérique (faux besoin).",
+    "tags": []
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/flashcard-009",
+    "recto": "Ténesme",
+    "verso": "Sensation douloureuse de tension ou de corps étranger intra-rectal.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/flashcard-010",
+    "recto": "Diarrhée aiguë / chronique",
+    "verso": "< 2 semaines / > 1 mois.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/flashcard-011",
+    "recto": "Signes de gravité d'une diarrhée aiguë",
+    "verso": "Terrain (enfant, vieillard, immunodéprimé), déshydratation, sepsis/collapsus, fièvre au retour de zone palustre.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/flashcard-012",
+    "recto": "Signes de déshydratation",
+    "verso": "Soif, perte de poids, pli cutané, sécheresse des muqueuses, hypotension, tachycardie.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/flashcard-013",
+    "recto": "Indications de la copro-parasitologie",
+    "verso": "Diarrhée fébrile, immunodépression, signes de gravité, retour de zone endémique.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/flashcard-014",
+    "recto": "Diarrhées aiguës hydro-électrolytiques",
+    "verso": "Virales (le plus souvent : adénovirus, rotavirus), TIAC (staphylocoque, salmonelle), E. coli, choléra, stress.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/flashcard-015",
+    "recto": "Diarrhées aiguës glairo-sanglantes",
+    "verso": "Shigelle, yersiniose, post-antibiotiques (C. difficile), ischémiques.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/flashcard-016",
+    "recto": "Diarrhée et antibiotiques",
+    "verso": "Pendant ou dans les 3 mois : rechercher les toxines de Clostridioides difficile.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/flashcard-017",
+    "recto": "Arguments d'organicité d'une diarrhée chronique",
+    "verso": "Apparition récente (< 3 mois), nocturne ou circadienne, amaigrissement.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/flashcard-018",
+    "recto": "Selles de malabsorption",
+    "verso": "Abondantes (bouse de vache), graisseuses, pâteuses, décolorées, malodorantes ; anorexie, amaigrissement.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/flashcard-019",
+    "recto": "Diarrhée motrice",
+    "verso": "Selles nombreuses, peu abondantes, débris alimentaires, post-prandiales précoces, impérieuses, coliques ; état général conservé.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/flashcard-020",
+    "recto": "Sécrétoire vs osmotique",
+    "verso": "Sécrétoire : profuse, diurne, persiste au jeûne. Osmotique : cède au jeûne, jamais de sang ni pus.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/flashcard-021",
+    "recto": "Malabsorption : causes",
+    "verso": "Grêle (cœliaque, Whipple, lymphome, giardiose), pancréas (pancréatite chronique, cancer), insuffisance en sels biliaires.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/flashcard-022",
+    "recto": "Diarrhée motrice : causes",
+    "verso": "Diabète, hyperthyroïdie, carcinoïde, VIPome, amylose, gastrectomie/colectomie, iatrogène (metformine, IEC, magnésium…).",
+    "tags": []
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/flashcard-023",
+    "recto": "Diarrhée sécrétoire : causes",
+    "verso": "Polypose adénomateuse colique, colchicine, digitaliques, laxatifs irritants.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/flashcard-024",
+    "recto": "Diarrhée osmotique : cause principale",
+    "verso": "Prise de laxatifs.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/flashcard-025",
+    "recto": "Constipation (OMS)",
+    "verso": "< 3 selles par semaine ; selles surdigérées et déshydratées.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/flashcard-026",
+    "recto": "Critères de Rome IV",
+    "verso": "≥ 2 symptômes pendant 3 mois (apparus dans les 6 derniers mois), ≥ 25 % des défécations : < 3 selles/sem, selles dures, efforts, évacuation incomplète, blocage, manœuvres digitales.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/flashcard-027",
+    "recto": "Dyschésie",
+    "verso": "Difficulté à évacuer le contenu rectal dans les conditions simples.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/flashcard-028",
+    "recto": "Drapeaux rouges de la constipation",
+    "verso": "AEG, rectorragies, méléna, constipation sévère résistante, syndrome rectal, masse abdominale ou rectale.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/flashcard-029",
+    "recto": "Indications de coloscopie (constipation)",
+    "verso": "Symptômes récents après 50 ans, AEG, rectorragies ou anémie, haut risque de cancer colorectal.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/flashcard-030",
+    "recto": "Causes endocriniennes de constipation",
+    "verso": "Hypothyroïdie, hyperparathyroïdie, insuffisance rénale, hypokaliémie, porphyrie.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/flashcard-031",
+    "recto": "Médicaments constipants",
+    "verso": "Opiacés, anticholinergiques, anticonvulsivants, neuroleptiques (+ fer, antidépresseurs, furosémide).",
+    "tags": []
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/flashcard-032",
+    "recto": "Anomalie de progression vs d'évacuation",
+    "verso": "Progression : pas de besoin, selles dures (inertie colique, côlon spastique). Évacuation : besoin présent, matières au TR, manœuvres digitales (anisme, rectocèle…).",
+    "tags": []
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/flashcard-033",
+    "recto": "Anisme",
+    "verso": "Défécation dyssynergique : échec de relaxation du plancher pelvien lors de la défécation.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/flashcard-034",
+    "recto": "Rectocèle",
+    "verso": "Hernie de la paroi antérieure du rectum dans le vagin.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/flashcard-035",
+    "recto": "Échelle de Bristol et constipation",
+    "verso": "Types 1 ou 2.",
+    "tags": []
+  }
+]

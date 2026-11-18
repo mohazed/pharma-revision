@@ -1,0 +1,13 @@
+{
+  "id": "pharmacie-galenique/03-eaux-pharmaceutiques",
+  "module": "pharmacie-galenique",
+  "ordre": 3,
+  "titre": "Les eaux pharmaceutiques",
+  "type": "cours",
+  "source": {
+    "driveId": "11qwrUErV9iyMS9mr939CNiAgiE3UKAf5",
+    "fichier": "3. Les eaux pharmaceutiques.pdf",
+    "modifiedTime": "2026-10-08T12:57:30.628Z"
+  },
+  "resume": "Contaminants de l'eau, qualités d'eaux (purifiée, hautement purifiée, PPI, irrigation), méthodes de purification (échange d'ions, osmose inverse, distillation, ultrafiltration), usages, contrôles et stockage."
+}

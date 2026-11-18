@@ -1,0 +1,13 @@
+{
+  "id": "pharmacie-galenique/10-solubilisation-dispersion",
+  "module": "pharmacie-galenique",
+  "ordre": 10,
+  "titre": "Solubilisation et dispersion",
+  "source": {
+    "driveId": "11chAS3KVW_-gSI7XgGF1IxhTjF-FJ-Si",
+    "fichier": "10. Solubilisation et Dispersion .pdf",
+    "modifiedTime": "2026-11-04T20:28:58.201Z"
+  },
+  "resume": "Solubilité et termes descriptifs, définition de la solubilisation et méthodes pour augmenter la solubilité (co-solvants, hydrotropie, pH, micelles, complexation par les cyclodextrines, dispersions solides), puis définition et types de dispersions.",
+  "type": "cours"
+}

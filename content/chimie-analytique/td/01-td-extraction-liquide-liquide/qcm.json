@@ -1,0 +1,568 @@
+[
+  {
+    "id": "chimie-analytique/td/01-td-extraction-liquide-liquide/qcm-001",
+    "type": "unique",
+    "enonce": "Exercice 1 – Une substance a une solubilité de 0,55 mg/mL dans l'eau et de 5,6 mg/100 mL dans l'éther. Le coefficient de partage éther/eau vaut environ :",
+    "options": [
+      "10,2",
+      "0,102",
+      "1,02",
+      "0,0102",
+      "9,8"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Solubilité dans l'éther = 5,6 mg/100 mL = 0,056 mg/mL. λ = S(éther)/S(eau) = 0,056/0,55 ≈ 0,102. Piège : oublier de convertir les 100 mL.",
+    "source": {
+      "page": 1,
+      "extrait": "La solubilité d'une substance (A) est de 0,55 mg/ml dans l'eau et 5,6 mg/100ml dans l'éther"
+    },
+    "difficulte": 2,
+    "tags": [
+      "λ",
+      "solubilités"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/td/01-td-extraction-liquide-liquide/qcm-002",
+    "type": "multiple",
+    "enonce": "Exercice 1 – À propos du résultat obtenu (λ éther/eau ≈ 0,1) :",
+    "options": [
+      "L'éther est un mauvais solvant d'extraction de cette substance à partir de l'eau",
+      "λ = SB/SA",
+      "Il faut convertir les solubilités dans la même unité",
+      "Plus λ est petit, meilleur est le rendement",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "λ < 1 : la substance reste préférentiellement dans l'eau. Le rendement augmente avec λ, pas l'inverse.",
+    "source": {
+      "page": 1,
+      "extrait": "Calculer le coefficient de partage éther/eau de cette substance"
+    },
+    "difficulte": 2,
+    "tags": [
+      "λ"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/td/01-td-extraction-liquide-liquide/qcm-003",
+    "type": "unique",
+    "enonce": "Exercice 2 – λ(chloroforme/eau) = 8 ; 50 mL d'une solution aqueuse 0,01 M d'alcaloïde (M = 240 g/mol) sont extraits par 10 mL de chloroforme évaporé ensuite. La masse du résidu est d'environ :",
+    "options": [
+      "120 mg",
+      "73,8 mg",
+      "46,2 mg",
+      "96 mg",
+      "0,31 mg"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "QA0 = 0,01 × 0,050 = 5·10⁻⁴ mol ; α = 8 × 10/50 = 1,6 ; QB = 1,6/2,6 × 5·10⁻⁴ ≈ 3,08·10⁻⁴ mol ; m = 3,08·10⁻⁴ × 240 ≈ 0,0738 g.",
+    "source": {
+      "page": 1,
+      "extrait": "Le coefficient de partage chloroforme/eau d'un alcaloïde est égal à 8"
+    },
+    "difficulte": 2,
+    "tags": [
+      "extraction simple",
+      "calcul"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/td/01-td-extraction-liquide-liquide/qcm-004",
+    "type": "multiple",
+    "enonce": "Exercice 3 – 10 mL de pénicilline à 1000 U/mL (pH 2,2) extraits par l'acétate d'amyle (λ = 15). Avec VB = 1 mL :",
+    "options": [
+      "α = 1,5",
+      "Il reste 4000 U en phase aqueuse",
+      "6000 U sont extraites",
+      "ρ = 60 %",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "QA0 = 10 000 U ; α = 15 × 1/10 = 1,5 ; QA = 10 000/2,5 = 4000 U ; QB = 6000 U ; ρ = 60 %.",
+    "source": {
+      "page": 1,
+      "extrait": "Calculer la quantité de pénicilline restant en phase aqueuse et la quantité extraite"
+    },
+    "difficulte": 2,
+    "tags": [
+      "pénicilline"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/td/01-td-extraction-liquide-liquide/qcm-005",
+    "type": "unique",
+    "enonce": "Exercice 3 – Même pénicilline (QA0 = 10 000 U, VA = 10 mL, λ = 15) avec VB = 5 mL. Le rendement est d'environ :",
+    "options": [
+      "60 %",
+      "75 %",
+      "88,2 %",
+      "93,75 %",
+      "50 %"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "α = 15 × 5/10 = 7,5 ; ρ = 7,5/8,5 ≈ 88,2 % (QA ≈ 1176 U ; QB ≈ 8824 U).",
+    "source": {
+      "page": 1,
+      "extrait": "a) 1mL ; b) 5mL ; c)10mL"
+    },
+    "difficulte": 2,
+    "tags": [
+      "pénicilline"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/td/01-td-extraction-liquide-liquide/qcm-006",
+    "type": "multiple",
+    "enonce": "Exercice 3 – Avec VB = 10 mL (α = 15) :",
+    "options": [
+      "Il reste 625 U en phase aqueuse",
+      "9375 U sont extraites",
+      "ρ = 93,75 %",
+      "Le rendement est 10 fois celui obtenu avec 1 mL",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "QA = 10 000/16 = 625 U ; QB = 9375 U ; ρ = 93,75 %. Le volume a été multiplié par 10 mais le rendement est passé de 60 à 93,75 % seulement.",
+    "source": {
+      "page": 1,
+      "extrait": "Le volume de solvant est multiplié par 10, le rendement est-il multiplié par 10 ?"
+    },
+    "difficulte": 2,
+    "tags": [
+      "pénicilline"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/td/01-td-extraction-liquide-liquide/qcm-007",
+    "type": "unique",
+    "enonce": "Exercice 3 – Pour améliorer le rendement sans multiplier la dépense de solvant, on propose :",
+    "options": [
+      "Une extraction unique avec un plus grand volume",
+      "Des extractions répétées avec des fractions du volume",
+      "D'augmenter le pH à 9",
+      "D'utiliser un solvant miscible",
+      "De chauffer"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "À dépense de solvant égale, plusieurs petites extractions sont plus efficaces qu'une seule (fiche de rappel).",
+    "source": {
+      "page": 2,
+      "extrait": "À volume total de solvant égal, plusieurs petites extractions sont plus efficaces qu'une seule grosse extraction"
+    },
+    "difficulte": 1,
+    "tags": [
+      "extraction répétée"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/td/01-td-extraction-liquide-liquide/qcm-008",
+    "type": "multiple",
+    "enonce": "Exercice 4 – Solubilités de A : eau 0,6 mg/mL ; chloroforme 39 mg/10 mL ; acétate d'amyle 42 mg/10 mL ; éther 0,50 g/L. Cochez les propositions exactes :",
+    "options": [
+      "λ(chloroforme/eau) = 6,5",
+      "λ(acétate d'amyle/eau) = 7",
+      "λ(éther/eau) ≈ 0,83",
+      "Le solvant à choisir est l'acétate d'amyle",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Chloroforme 3,9 mg/mL → 6,5 ; acétate d'amyle 4,2 mg/mL → 7 ; éther 0,5 mg/mL → 0,83. On choisit le λ le plus élevé : acétate d'amyle.",
+    "source": {
+      "page": 1,
+      "extrait": "Quel solvant doit-on choisir dans le tableau ci-après pour réaliser l'extraction de A"
+    },
+    "difficulte": 2,
+    "tags": [
+      "choix du solvant"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/td/01-td-extraction-liquide-liquide/qcm-009",
+    "type": "unique",
+    "enonce": "Exercice 4 – 40 mL d'eau contenant 0,60 mg/mL de A, extraits par des portions de 20 mL d'acétate d'amyle (λ = 7). Combien d'extractions faut-il pour qu'il ne reste que 1,185 mg ?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "QA0 = 24 mg ; α = 7 × 20/40 = 3,5 ; QAn = 24/4,5ⁿ = 1,185 → 4,5ⁿ = 20,25 = 4,5² → n = 2.",
+    "source": {
+      "page": 1,
+      "extrait": "Combien d'extraction doit-on pratiquer sur la phase aqueuse à l'aide de 20 ml de phase organique"
+    },
+    "difficulte": 3,
+    "tags": [
+      "extraction répétée",
+      "calcul"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/td/01-td-extraction-liquide-liquide/qcm-010",
+    "type": "unique",
+    "enonce": "Exercice 4 – Quel volume d'acétate d'amyle (λ = 7) faut-il pour extraire 23 mg sur 24 mg (VA = 40 mL) en une seule fois ?",
+    "options": [
+      "40 mL",
+      "92 mL",
+      "131,4 mL",
+      "23 mL",
+      "161 mL"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "ρ = 23/24 → α = ρ/(1−ρ) = 23 ; VB = α·VA/λ = 23 × 40/7 ≈ 131,4 mL.",
+    "source": {
+      "page": 2,
+      "extrait": "Quel volume de solvant doit-on utiliser pour extraire 23 mg de substance en une seule fois ?"
+    },
+    "difficulte": 3,
+    "tags": [
+      "extraction simple",
+      "calcul"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/td/01-td-extraction-liquide-liquide/qcm-011",
+    "type": "multiple",
+    "enonce": "Exercice 4 – Comparaison des deux procédés :",
+    "options": [
+      "2 extractions de 20 mL (40 mL au total) : ρ ≈ 95,1 %",
+      "1 extraction de 131,4 mL : ρ ≈ 95,8 %",
+      "Pour un rendement voisin, l'extraction répétée consomme environ 3 fois moins de solvant",
+      "L'extraction unique est plus économe en solvant",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "ρ(2 × 20 mL) = (24 − 1,185)/24 ≈ 95,1 % ; ρ(1 × 131,4 mL) = 23/24 ≈ 95,8 % : rendements proches, mais 40 mL contre 131,4 mL.",
+    "source": {
+      "page": 2,
+      "extrait": "Calculer le rendement dans les deux cas et comparer"
+    },
+    "difficulte": 2,
+    "tags": [
+      "comparaison"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/td/01-td-extraction-liquide-liquide/qcm-012",
+    "type": "multiple",
+    "enonce": "Exercice 5 – λ = 9 ; 50 mL de X à 0,5 mg/mL extraits par 40 mL de chloroforme au total. Cochez les propositions exactes :",
+    "options": [
+      "1 × 40 mL : ρ ≈ 87,8 %",
+      "2 × 20 mL : ρ ≈ 95,3 %",
+      "4 × 10 mL : ρ ≈ 98,4 %",
+      "8 × 5 mL : ρ ≈ 99,4 %",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "QA0 = 25 mg. α = 7,2 / 3,6 / 1,8 / 0,9 ; fractions restantes 1/8,2, 1/4,6², 1/2,8⁴, 1/1,9⁸ → 87,8 %, 95,3 %, 98,4 %, 99,4 %.",
+    "source": {
+      "page": 2,
+      "extrait": "En huit extractions avec VB=5mL pour chaque extraction"
+    },
+    "difficulte": 3,
+    "tags": [
+      "volume limité"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/td/01-td-extraction-liquide-liquide/qcm-013",
+    "type": "unique",
+    "enonce": "Exercice 5 – Dans le cas de 4 extractions de 10 mL (λ = 9, VA = 50 mL, QA0 = 25 mg), la quantité restant en phase aqueuse est d'environ :",
+    "options": [
+      "3,05 mg",
+      "1,18 mg",
+      "0,41 mg",
+      "0,15 mg",
+      "0 mg"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "α = 1,8 ; QA4 = 25/2,8⁴ = 25/61,47 ≈ 0,41 mg.",
+    "source": {
+      "page": 2,
+      "extrait": "Calculer la quantité restante dans la phase aqueuse"
+    },
+    "difficulte": 2,
+    "tags": [
+      "extraction répétée"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/td/01-td-extraction-liquide-liquide/qcm-014",
+    "type": "multiple",
+    "enonce": "Exercice 6 – Acide faible HX : λ(éther/eau) = 5, Ka = 10⁻⁴. Cochez les propositions exactes :",
+    "options": [
+      "À pH 7, D ≈ 5·10⁻³",
+      "À pH 9, D ≈ 5·10⁻⁵",
+      "D = 2,5 pour pH = 4",
+      "À pH ≤ 2, D ≈ λ = 5",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "D = λ/(1 + Ka/[H₃O⁺]) : pH 7 → 5/1001 ; pH 9 → 5/100 001 ; D = λ/2 = 2,5 quand [H₃O⁺] = Ka soit pH = pKa = 4 ; à pH ≤ pKa − 2, D ≈ λ.",
+    "source": {
+      "page": 2,
+      "extrait": "Pour quelle valeur de pH le taux de distribution est-il égal à 2,5"
+    },
+    "difficulte": 3,
+    "tags": [
+      "acide faible",
+      "pH"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/td/01-td-extraction-liquide-liquide/qcm-015",
+    "type": "multiple",
+    "enonce": "Exercice 6 – Sur la courbe D = f(pH) de l'acide HX (pKa = 4), les repères pKa ± 2 correspondent à :",
+    "options": [
+      "pH = 2 : plateau où D ≈ λ",
+      "pH = 6 : D très faible, forme ionisée majoritaire",
+      "pH = 2 : D très faible",
+      "pH = 6 : D ≈ λ",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Pour un acide, à pH = pKa − 2 la forme moléculaire domine (D ≈ λ) ; à pH = pKa + 2 la forme ionisée domine (D ≈ λ/101).",
+    "source": {
+      "page": 2,
+      "extrait": "Tracer D=f(pH) et repérer sur le graphique les valeurs pH=pKa±2"
+    },
+    "difficulte": 2,
+    "tags": [
+      "acide faible"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/td/01-td-extraction-liquide-liquide/qcm-016",
+    "type": "multiple",
+    "enonce": "Exercice 7 – Amine (λ = 25, pKa = 8) en solution aqueuse acide. Pour un rendement de 99 % en une extraction simple :",
+    "options": [
+      "Il faut se placer en milieu basique, pH ≥ pKa + 2 = 10",
+      "Dans ces conditions D ≈ λ = 25",
+      "Il faut D·VB/VA = 99",
+      "VB/VA ≈ 3,96",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Base : extraction à pH ≥ pKa + 2 où D ≈ λ. ρ = 1 − 1/(1 + D·VB/VA) = 0,99 → D·VB/VA = 99 → VB/VA = 99/25 = 3,96.",
+    "source": {
+      "page": 2,
+      "extrait": "Dans quelles conditions de pH doit-on se placer et quel rapport de volume doit –on utiliser"
+    },
+    "difficulte": 3,
+    "tags": [
+      "base faible",
+      "pH"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/td/01-td-extraction-liquide-liquide/qcm-017",
+    "type": "unique",
+    "enonce": "Exercice 7 – Avec VB/VA = 3,96, si l'on opérait à pH 5, le rendement serait d'environ :",
+    "options": [
+      "99 %",
+      "50 %",
+      "9 %",
+      "0,9 %",
+      "25 %"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "D = 25/(1 + 10⁻⁵/10⁻⁸) = 25/1001 ≈ 0,025 ; D·VB/VA ≈ 0,099 ; ρ = 0,099/1,099 ≈ 9 %.",
+    "source": {
+      "page": 2,
+      "extrait": "Quel serait le rendement si l'on opérait à un pH égal à 5.0"
+    },
+    "difficulte": 3,
+    "tags": [
+      "base faible"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/td/01-td-extraction-liquide-liquide/qcm-018",
+    "type": "multiple",
+    "enonce": "Exercice 8 – Dosage d'une injection de caféine et de benzoate de sodium : solution chlorhydrique 0,5 M, extraction par l'éther. Cochez les propositions exactes :",
+    "options": [
+      "Le milieu acide transforme le benzoate en acide benzoïque moléculaire",
+      "L'acide benzoïque (pKa 4,2) est extrait par l'éther",
+      "La caféine, insoluble dans l'éther, reste en phase aqueuse",
+      "L'éther extrait la caféine",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "En milieu HCl 0,5 M (pH ≪ pKa), le benzoate est sous forme d'acide neutre extractible par l'éther ; la caféine est insoluble dans l'éther.",
+    "source": {
+      "page": 2,
+      "extrait": "La caféine est une base faible, insoluble dans l'éther, soluble dans le chloroforme"
+    },
+    "difficulte": 2,
+    "tags": [
+      "caféine",
+      "acide benzoïque"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/td/01-td-extraction-liquide-liquide/qcm-019",
+    "type": "unique",
+    "enonce": "Exercice 8 – Deux extractions de 5 mL de solution par 2 × 5 mL d'éther donnent ρ = 96,77 %. Le coefficient de partage éther/eau de l'acide benzoïque est d'environ :",
+    "options": [
+      "2,3",
+      "4,56",
+      "30",
+      "9,7",
+      "1,0"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "VB = VA → α = λ ; 1 − ρ = 1/(1 + λ)² = 0,0323 → (1 + λ)² ≈ 30,96 → 1 + λ ≈ 5,56 → λ ≈ 4,56.",
+    "source": {
+      "page": 2,
+      "extrait": "Sachant que le rendement de l'extraction de l'acide benzoïque est de 96,77 %"
+    },
+    "difficulte": 3,
+    "tags": [
+      "calcul"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/td/01-td-extraction-liquide-liquide/qcm-020",
+    "type": "unique",
+    "enonce": "Exercice 8 – Le résidu repris par 10 mL d'eau titre 4,27 g/L d'acide benzoïque (ρ = 96,77 %, 5 mL prélevés sur 100 mL contenant 3 ampoules). La masse de benzoate de sodium par ampoule est d'environ :",
+    "options": [
+      "294 mg",
+      "347 mg",
+      "42,7 mg",
+      "882 mg",
+      "250 mg"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Extrait : 42,7 mg ; QA0 = 42,7/0,9677 ≈ 44,1 mg dans 5 mL → 882,5 mg dans 100 mL → 294,2 mg d'acide par ampoule → × 144/122 ≈ 347 mg de benzoate de sodium.",
+    "source": {
+      "page": 2,
+      "extrait": "Calculer la quantité de benzoate de sodium contenue dans une ampoule"
+    },
+    "difficulte": 3,
+    "tags": [
+      "calcul"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/td/01-td-extraction-liquide-liquide/qcm-021",
+    "type": "multiple",
+    "enonce": "Fiche de rappel – Notations de l'extraction liquide-liquide :",
+    "options": [
+      "QA0 = quantité initiale de soluté dans A",
+      "QA = quantité restant dans A",
+      "QB = quantité passée dans B",
+      "La phase A (aqueuse) devient le raffiné, la phase B (organique) l'extrait",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Ce sont les notations de la fiche de rappel du TD 1.",
+    "source": {
+      "page": 1,
+      "extrait": "QA0 = quantité initiale de soluté dans A"
+    },
+    "difficulte": 1,
+    "tags": [
+      "rappel"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/td/01-td-extraction-liquide-liquide/qcm-022",
+    "type": "multiple",
+    "enonce": "Fiche de rappel – Cochez les propositions exactes :",
+    "options": [
+      "À chaque contact, la quantité restant dans A est divisée par (1 + α)",
+      "Pour n = 1, on retrouve ρ = α/(1 + α)",
+      "À volume total égal, plusieurs petites extractions sont plus efficaces qu'une seule grosse",
+      "Le facteur d'extraction α vaut λ·VB/VA",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes ces affirmations figurent dans la fiche de rappel du TD 1.",
+    "source": {
+      "page": 2,
+      "extrait": "À chaque contact, la quantité restante dans A est divisée par (1 + α)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "rappel"
+    ],
+    "origine": "genere"
+  }
+]

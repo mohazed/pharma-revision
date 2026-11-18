@@ -1,0 +1,13 @@
+{
+  "id": "chimie-analytique/03-extractions-repetees",
+  "module": "chimie-analytique",
+  "ordre": 3,
+  "titre": "Extractions répétées (multiples)",
+  "type": "cours",
+  "source": {
+    "driveId": "1PDnA5ULlX1Uq64c818qMrev8qo0j2Pu3",
+    "fichier": "3. Extractions répétées.pdf",
+    "modifiedTime": "2026-11-11T12:36:43.770Z"
+  },
+  "resume": "Extraction à n étages par du solvant pur à chaque étage : calcul de QAn, ΣQB et du rendement (volumes égaux ou non, volume total limité), optimisation, méthode graphique et perforateurs de Jalade."
+}

@@ -1,0 +1,482 @@
+[
+  {
+    "id": "semiologie/03-hepatites/cas-001",
+    "titre": "Ictère après un séjour avec eau non contrôlée",
+    "enonce": "Un étudiant de 22 ans consulte pour un ictère apparu depuis 3 jours. Une semaine auparavant, il présentait fatigue, perte d'appétit, nausées et courbatures avec fébricule. Depuis l'ictère, la fièvre a disparu. Il note des urines « couleur thé » et des selles claires. Il a consommé des crudités lors d'un voyage un mois plus tôt. Bilan : ALAT 30 N, ASAT 20 N, PAL et γGT peu élevées, TP 85 %.",
+    "questions": [
+      {
+        "id": "semiologie/03-hepatites/cas-001-q1",
+        "type": "unique",
+        "enonce": "La phase vécue la semaine précédente correspond à :",
+        "options": [
+          "La phase pré-ictérique",
+          "L'incubation",
+          "La convalescence",
+          "Une forme fulminante",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Asthénie, anorexie, nausées, syndrome pseudo-grippal = phase pré-ictérique (3 à 10 jours).",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/03-hepatites/cas-001-q2",
+        "type": "multiple",
+        "enonce": "Le profil biologique est :",
+        "options": [
+          "Une cytolyse",
+          "Typique d'une hépatite aiguë (> 10 N, ALAT > ASAT)",
+          "En faveur d'une origine alcoolique",
+          "Un signe de gravité en raison du taux d'ALAT",
+          "Toutes les propositions sont fausses"
+        ],
+        "correctes": [
+          0,
+          1
+        ],
+        "explication": "ALAT 30 N > ASAT 20 N : profil type d'hépatite aiguë ; le taux des transaminases ne reflète pas la gravité.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/03-hepatites/cas-001-q3",
+        "type": "multiple",
+        "enonce": "Concernant la gravité chez ce patient :",
+        "options": [
+          "Le TP à 85 % est rassurant",
+          "La gravité se juge sur le TP et l'encéphalopathie",
+          "Il s'agit d'une hépatite aiguë sévère",
+          "Un dosage du TP était indispensable",
+          "Toutes les propositions sont fausses"
+        ],
+        "correctes": [
+          0,
+          1,
+          3
+        ],
+        "explication": "Toute hépatite aiguë impose un dosage du TP ; un TP > 50 % sans encéphalopathie écarte une forme sévère.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/03-hepatites/cas-001-q4",
+        "type": "multiple",
+        "enonce": "Compte tenu du contexte (transmission alimentaire, incubation d'environ un mois), les virus à évoquer sont :",
+        "options": [
+          "VHA",
+          "VHE",
+          "VHC",
+          "VHD",
+          "VHB"
+        ],
+        "correctes": [
+          0,
+          1
+        ],
+        "explication": "VHA et VHE se transmettent par voie féco-orale/alimentaire avec une incubation de 2 à 6 semaines.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/03-hepatites/cas-001-q5",
+        "type": "unique",
+        "enonce": "Le marqueur diagnostique du VHA est :",
+        "options": [
+          "IgM anti-VHA",
+          "Ag HBs",
+          "Ac anti-VHC",
+          "ARN viral obligatoire",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Le diagnostic de l'hépatite A repose sur les IgM anti-VHA.",
+        "difficulte": 2,
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "semiologie/03-hepatites/cas-002",
+    "titre": "Somnolence chez une patiente ictérique",
+    "enonce": "Une femme de 35 ans, suivie pour une hépatite aiguë ictérique depuis 8 jours, est ramenée par son mari : elle est somnolente le jour et agitée la nuit, confuse, et présente des saignements des gencives. Elle prend du paracétamol et une benzodiazépine pour dormir. TP : 32 %.",
+    "questions": [
+      {
+        "id": "semiologie/03-hepatites/cas-002-q1",
+        "type": "multiple",
+        "enonce": "Les signes présentés sont :",
+        "options": [
+          "Des signes d'alerte d'hépatite grave",
+          "Une encéphalopathie",
+          "Des saignements par défaut de synthèse",
+          "Une évolution normale de la phase ictérique",
+          "Toutes les propositions sont fausses"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "Inversion du rythme veille-sommeil, confusion, saignements = signes d'alerte ; ils traduisent encéphalopathie et défaut de synthèse.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/03-hepatites/cas-002-q2",
+        "type": "unique",
+        "enonce": "Avec un TP à 32 % et une encéphalopathie 8 jours après l'ictère, il s'agit d'une hépatite :",
+        "options": [
+          "Fulminante",
+          "Subfulminante",
+          "Aiguë sévère sans encéphalopathie",
+          "Chronique",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "TP < 50 % + encéphalopathie dans les 2 semaines suivant l'ictère = hépatite fulminante.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/03-hepatites/cas-002-q3",
+        "type": "multiple",
+        "enonce": "La conduite à tenir comprend :",
+        "options": [
+          "Hospitalisation en urgence",
+          "Contact avec un centre de transplantation hépatique",
+          "Arrêt du paracétamol",
+          "Arrêt de la benzodiazépine",
+          "Toutes les propositions sont correctes"
+        ],
+        "correctes": [
+          4
+        ],
+        "explication": "Hospitalisation, contact transplantation, arrêt des médicaments hépatotoxiques ou sédatifs (paracétamol, AINS, benzodiazépines).",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/03-hepatites/cas-002-q4",
+        "type": "multiple",
+        "enonce": "Parmi les autres signes d'alerte à rechercher, on cite :",
+        "options": [
+          "Astérixis",
+          "Fœtor hepaticus",
+          "Hypoglycémie",
+          "Ecchymoses",
+          "Toutes les propositions sont correctes"
+        ],
+        "correctes": [
+          4
+        ],
+        "explication": "Tous ces signes figurent parmi les signes d'alerte.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/03-hepatites/cas-002-q5",
+        "type": "unique",
+        "enonce": "Pour distinguer une insuffisance hépatique d'une carence en vitamine K devant ce TP bas, on dose :",
+        "options": [
+          "Le facteur V",
+          "Les PAL",
+          "La γGT",
+          "Les ALAT",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "TP bas + facteur V bas : insuffisance hépatique ; facteur V normal : carence en vitamine K.",
+        "difficulte": 2,
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "semiologie/03-hepatites/cas-003",
+    "titre": "Bilan VHB avant vaccination",
+    "enonce": "Trois personnes d'une même famille réalisent une sérologie VHB : le père (Ag HBs +, anti-HBc IgG +, anti-HBs −, Ag HBs positif depuis 2 ans), la mère (Ag HBs −, anti-HBc +, anti-HBs +) et le fils de 18 ans (Ag HBs −, anti-HBc −, anti-HBs −).",
+    "questions": [
+      {
+        "id": "semiologie/03-hepatites/cas-003-q1",
+        "type": "unique",
+        "enonce": "Le profil du père correspond à :",
+        "options": [
+          "Une infection chronique",
+          "Une hépatite B aiguë",
+          "Une infection guérie",
+          "Un sujet vacciné",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Ag HBs + depuis plus de 6 mois avec anti-HBc IgG = infection chronique.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/03-hepatites/cas-003-q2",
+        "type": "unique",
+        "enonce": "Le profil de la mère correspond à :",
+        "options": [
+          "Une infection ancienne guérie",
+          "Un sujet vacciné",
+          "Une infection chronique",
+          "Une hépatite aiguë",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Ag HBs −, anti-HBc +, anti-HBs + = infection ancienne guérie.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/03-hepatites/cas-003-q3",
+        "type": "multiple",
+        "enonce": "Pour le fils :",
+        "options": [
+          "Il est non immunisé",
+          "Il doit être vacciné",
+          "Il est vacciné",
+          "Il a une infection guérie",
+          "Toutes les propositions sont fausses"
+        ],
+        "correctes": [
+          0,
+          1
+        ],
+        "explication": "Tous les marqueurs négatifs : non immunisé, à vacciner.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/03-hepatites/cas-003-q4",
+        "type": "multiple",
+        "enonce": "Pour évaluer la réplication virale chez le père, on utilise :",
+        "options": [
+          "L'ADN viral",
+          "Le système HBe",
+          "Les IgM anti-VHA",
+          "L'ARN du VHC",
+          "Toutes les propositions sont fausses"
+        ],
+        "correctes": [
+          0,
+          1
+        ],
+        "explication": "ADN viral et système HBe témoignent de la réplication.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/03-hepatites/cas-003-q5",
+        "type": "multiple",
+        "enonce": "L'évolution redoutée de l'infection chronique du père est :",
+        "options": [
+          "Fibrose",
+          "Cirrhose",
+          "Carcinome hépatocellulaire",
+          "Manifestations extra-hépatiques (périartérite noueuse, glomérulonéphrite)",
+          "Toutes les propositions sont correctes"
+        ],
+        "correctes": [
+          4
+        ],
+        "explication": "Hépatite chronique → fibrose → cirrhose → carcinome ; VHB : périartérite noueuse, glomérulonéphrite.",
+        "difficulte": 2,
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "semiologie/03-hepatites/cas-004",
+    "titre": "Ictère sous antituberculeux",
+    "enonce": "Un homme de 40 ans traité depuis 5 semaines pour une tuberculose (isoniazide, pyrazinamide…) se présente à l'officine pour une fatigue intense et des urines foncées. Bilan : ALAT 15 N, PAL 1,5 N, bilirubine 3 N. Il prend aussi du paracétamol en automédication. Sérologies virales négatives.",
+    "questions": [
+      {
+        "id": "semiologie/03-hepatites/cas-004-q1",
+        "type": "unique",
+        "enonce": "Le rapport R vaut :",
+        "options": [
+          "10, profil cytolytique",
+          "10, profil cholestatique",
+          "3, profil mixte",
+          "1,5, profil cholestatique",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "R = 15/1,5 = 10 ≥ 5 : profil cytolytique.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/03-hepatites/cas-004-q2",
+        "type": "unique",
+        "enonce": "Le mécanisme de l'hépatotoxicité de l'isoniazide est :",
+        "options": [
+          "L'idiosyncrasie",
+          "Une toxicité directe dose-dépendante",
+          "Un mécanisme auto-immun exclusif",
+          "Une ischémie",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "L'isoniazide est cité comme exemple d'idiosyncrasie (imprévisible, délai 5 à 90 jours).",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/03-hepatites/cas-004-q3",
+        "type": "unique",
+        "enonce": "Les signes de gravité présents sont :",
+        "options": [
+          "ALAT > 3 N avec bilirubine > 2 N",
+          "Hyperéosinophilie",
+          "Éruption",
+          "Fièvre",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "ALAT 15 N et bilirubine 3 N remplissent le critère de gravité ALAT > 3 N avec bilirubine > 2 N.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/03-hepatites/cas-004-q4",
+        "type": "multiple",
+        "enonce": "Le rôle du pharmacien ici est de :",
+        "options": [
+          "Reconstituer toutes les prises dont l'automédication",
+          "Rappeler le suivi hépatique des antituberculeux",
+          "Vérifier la dose de paracétamol et les associations cachées",
+          "Déclarer au CPM",
+          "Toutes les propositions sont correctes"
+        ],
+        "correctes": [
+          4
+        ],
+        "explication": "Ces actions correspondent au rôle du pharmacien décrit dans le cours.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/03-hepatites/cas-004-q5",
+        "type": "multiple",
+        "enonce": "Concernant la suite :",
+        "options": [
+          "La réintroduction est contre-indiquée",
+          "L'élimination des autres causes fait partie du diagnostic",
+          "L'amélioration à l'arrêt est un argument diagnostique",
+          "La réintroduction est nécessaire pour confirmer",
+          "Toutes les propositions sont fausses"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "Le diagnostic repose sur la chronologie et l'élimination ; la réintroduction est contre-indiquée.",
+        "difficulte": 2,
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "semiologie/03-hepatites/cas-005",
+    "titre": "Patient alcoolique avec ascite",
+    "enonce": "Un homme de 58 ans, consommateur chronique d'alcool, consulte pour une augmentation du volume abdominal. L'examen retrouve une ascite, des angiomes stellaires, une érythrose palmaire, une splénomégalie et une circulation veineuse collatérale. Le foie est dur à bord inférieur tranchant. Bilan : ASAT > ALAT, γGT élevée, macrocytose, TP 45 %, plaquettes basses.",
+    "questions": [
+      {
+        "id": "semiologie/03-hepatites/cas-005-q1",
+        "type": "multiple",
+        "enonce": "Le rapport ASAT/ALAT > 1 oriente vers :",
+        "options": [
+          "L'alcool",
+          "La cirrhose",
+          "Une hépatite A",
+          "Une hépatite médicamenteuse cholestatique",
+          "Toutes les propositions sont fausses"
+        ],
+        "correctes": [
+          0,
+          1
+        ],
+        "explication": "ASAT/ALAT > 1 : penser à l'alcool ou à la cirrhose.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/03-hepatites/cas-005-q2",
+        "type": "multiple",
+        "enonce": "Les signes d'insuffisance hépatocellulaire présents sont :",
+        "options": [
+          "Angiomes stellaires",
+          "Érythrose palmaire",
+          "TP bas",
+          "Splénomégalie",
+          "Circulation veineuse collatérale"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "Angiomes stellaires, érythrose palmaire et TP bas = IHC ; splénomégalie et CVC = hypertension portale.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/03-hepatites/cas-005-q3",
+        "type": "multiple",
+        "enonce": "Les signes d'hypertension portale présents sont :",
+        "options": [
+          "Ascite",
+          "Splénomégalie",
+          "Circulation veineuse collatérale",
+          "Thrombopénie (hypersplénisme)",
+          "Toutes les propositions sont correctes"
+        ],
+        "correctes": [
+          4
+        ],
+        "explication": "Tous relèvent de l'hypertension portale.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/03-hepatites/cas-005-q4",
+        "type": "unique",
+        "enonce": "À l'électrophorèse des protéines, on s'attend à :",
+        "options": [
+          "Un bloc bêta-gamma",
+          "Une hypogammaglobulinémie",
+          "Un pic monoclonal",
+          "Une électrophorèse normale",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Cirrhose : bloc bêta-gamma à l'électrophorèse.",
+        "difficulte": 2,
+        "origine": "genere"
+      }
+    ]
+  }
+]

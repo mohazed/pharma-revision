@@ -1,0 +1,69 @@
+{
+  "id": "pharmacie-galenique/10-solubilisation-dispersion/fiche",
+  "titre": "Solubilisation et dispersion",
+  "sections": [
+    {
+      "titre": "Solubilité",
+      "points": [
+        "Faible solubilité → **mauvaise biodisponibilité**.",
+        "Solubilité = quantité **maximale** de soluté dissous dans une quantité de solvant à T donnée.",
+        "Courbe : tout se dissout → point de saturation → plateau (solubilité réelle C0).",
+        "Termes : très soluble < 1 ; facilement 1–10 ; soluble 10–30 ; assez 30–100 ; peu 100–1 000 ; très peu 1 000–10 000 ; pratiquement insoluble > 10 000."
+      ]
+    },
+    {
+      "titre": "Solubilisation",
+      "points": [
+        "Préparer une solution **thermodynamiquement stable** à partir d'une substance insoluble/peu soluble par addition d'une ou plusieurs substances.",
+        "6 méthodes : co-solvants, hydrotropie, pH, micelles, complexation, dispersion solide."
+      ]
+    },
+    {
+      "titre": "Co-solvants et hydrotropie",
+      "points": [
+        "Co-solvant : solvant organique **miscible à l'eau** (éthanol, glycérine, propylène glycol, PEG).",
+        "+ : ↑ solubilité des PA peu polaires, ↓ hydrolyse ; − : toxicité, ↓ solubilité des PA ioniques/polaires.",
+        "Ex : phénobarbital injectable (PG, alcool, NaOH, eau PPI).",
+        "Hydrotropie : **grandes quantités** d'additifs (benzoate de Na + caféine) ; ex : Valium® injectable."
+      ]
+    },
+    {
+      "titre": "pH et micelles",
+      "points": [
+        "La plupart des substances sont des acides ou bases faibles : solubilité dépendante du pH.",
+        "Micelles : forte concentration de tensioactifs + forte proportion d'eau, à partir de la **CMC**.",
+        "Micelle = agrégat sphéroïdal de molécules amphiphiles, **1–200 nm**, cœur lipophile."
+      ]
+    },
+    {
+      "titre": "Complexation (cyclodextrines)",
+      "points": [
+        "Complexe d'inclusion : **invité** encapsulé par l'**hôte**.",
+        "Cyclodextrines = complexants des molécules lipophiles ; obtenues par CGTase à partir de l'amylose.",
+        "α = 6, β = 7, γ = 8 unités ; OH en C2, C3, C6 ; cavité apolaire et hydrophobe.",
+        "Ratios : 1/1 (bon ajustement), 1/2 (PA très large), 2/1 (cavité large)."
+      ]
+    },
+    {
+      "titre": "Dispersion solide et dispersion",
+      "points": [
+        "Dispersion solide : PA (molécules ou particules) dans un véhicule inerte ; combine ↓ taille et hydrophilisation.",
+        "Dispersion : produit insoluble divisé en fines particules → **biphasique** (≠ dissolution, monophasique).",
+        "Émulsion (L/L), suspension (S/L), mousse (G/L), aérosol (S ou L/G)."
+      ]
+    }
+  ],
+  "aRetenir": [
+    "Six méthodes de solubilisation : co-solvants, hydrotropie, pH, micelles, complexation, dispersion solide.",
+    "CMC = seuil de formation des micelles.",
+    "α-CD 6, β-CD 7, γ-CD 8.",
+    "Dispersion = biphasique ; dissolution = une seule phase."
+  ],
+  "pieges": [
+    "Co-solvants : ↑ solubilité des PA PEU polaires mais ↓ celle des PA IONIQUES/polaires.",
+    "Hydrotropie : GRANDES quantités d'additifs.",
+    "Cavité des cyclodextrines : APOLAIRE et HYDROPHOBE.",
+    "Invité = substrat ; hôte = récepteur (cyclodextrine).",
+    "Aérosol : solide OU liquide dans un gaz ; mousse : gaz dans un liquide."
+  ]
+}

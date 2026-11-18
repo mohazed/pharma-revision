@@ -1,0 +1,182 @@
+[
+  {
+    "id": "pharmacie-galenique/05-pulverisation/flashcard-001",
+    "recto": "Pulvérisation des solides : définition",
+    "verso": "Division ou fractionnement de solides en particules de tailles réduites et de granulométrie déterminée.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/05-pulverisation/flashcard-002",
+    "recto": "Poudre (Ph. Eur.)",
+    "verso": "Forme galénique de particules solides sèches, libres, plus ou moins fines, pour administrer au moins un PA.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/05-pulverisation/flashcard-003",
+    "recto": "Règle du tamis 1250 µm",
+    "verso": "Aucune poudre ne doit laisser un résidu > 5 % sur le tamis de 1250 µm.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/05-pulverisation/flashcard-004",
+    "recto": "Intérêts de la pulvérisation",
+    "verso": "Formes galéniques, homogénéité des mélanges, ↑ dissolution et biodisponibilité (surface spécifique), stabilité des suspensions (↓ sédimentation).",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/05-pulverisation/flashcard-005",
+    "recto": "Opérations préliminaires",
+    "verso": "Mondation, division grossière, dessiccation.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/05-pulverisation/flashcard-006",
+    "recto": "Mondation",
+    "verso": "Débarrasser la matière première de toutes les parties inutiles.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/05-pulverisation/flashcard-007",
+    "recto": "Opération secondaire",
+    "verso": "Le tamisage, pour obtenir une granulométrie déterminée.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/05-pulverisation/flashcard-008",
+    "recto": "Percussion",
+    "verso": "Chocs très violents contre obstacles fixes ou mobiles ; substances dures.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/05-pulverisation/flashcard-009",
+    "recto": "Compression",
+    "verso": "Écrasement entre partie mobile et partie fixe ; substances dures.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/05-pulverisation/flashcard-010",
+    "recto": "Cisaillement",
+    "verso": "Lames tranchantes ; substances friables.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/05-pulverisation/flashcard-011",
+    "recto": "Attrition",
+    "verso": "Frottement contre surface rugueuse, contact permanent ; substances molles et friables.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/05-pulverisation/flashcard-012",
+    "recto": "Facteurs de choix d'un appareil",
+    "verso": "Propriétés de la substance (humidité, dureté, élasticité, friabilité, thermosensibilité), tailles initiale et finale, forme, quantité.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/05-pulverisation/flashcard-013",
+    "recto": "Porphyre",
+    "verso": "Plaque de silice + molette en verre très dure ; poudres très fines en petites quantités (pommades ophtalmiques).",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/05-pulverisation/flashcard-014",
+    "recto": "Concasseur à mâchoires",
+    "verso": "Mâchoires mues par un excentrique ; produits très durs.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/05-pulverisation/flashcard-015",
+    "recto": "Broyeur à cylindres",
+    "verso": "Deux cylindres lisses ou cannelés, écartement réglable, sens inverse.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/05-pulverisation/flashcard-016",
+    "recto": "Broyeur à meules",
+    "verso": "Principe du moulin à blé ; meules verticales ou horizontales.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/05-pulverisation/flashcard-017",
+    "recto": "Broyeur à billes",
+    "verso": "Chocs et frottements billes/parois en rotation ; pas de dissémination de poudre.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/05-pulverisation/flashcard-018",
+    "recto": "Broyeur planétaire",
+    "verso": "Poudres extrêmement fines, rapidement, à partir de produits très durs.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/05-pulverisation/flashcard-019",
+    "recto": "Broyeur à marteaux",
+    "verso": "Bras articulés métalliques à grande vitesse frappant les parois.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/05-pulverisation/flashcard-020",
+    "recto": "Microniseur : avantages / inconvénients",
+    "verso": "Efficace, n'échauffe pas, ↑ biodisponibilité / encombrant, onéreux, énergivore.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/05-pulverisation/flashcard-021",
+    "recto": "3 rôles du tamisage",
+    "verso": "Sécurité (corps étrangers), sélection (particules > mailles), démottage (mottes du stockage).",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/05-pulverisation/flashcard-022",
+    "recto": "Numéro d'un tamis",
+    "verso": "Côté en µm du carré vide de chaque maille.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/05-pulverisation/flashcard-023",
+    "recto": "Tamis vs crible",
+    "verso": "Tamis : tissage de fils à mailles carrées ; crible : surface plane percée de trous.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/05-pulverisation/flashcard-024",
+    "recto": "Méthodes directes vs indirectes",
+    "verso": "Directes (tamis, microscope) : diamètre moyen ; indirectes (compteur, laser) : paramètre physique proportionnel au diamètre.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/05-pulverisation/flashcard-025",
+    "recto": "Tamis superposés : protocole",
+    "verso": "7 tamis à mailles décroissantes, échantillon (100 g) en haut, agitation (10 min), pesée de chaque fraction.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/05-pulverisation/flashcard-026",
+    "recto": "Courbe d'une poudre homogène",
+    "verso": "Cloche très étroite.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/05-pulverisation/flashcard-027",
+    "recto": "Dénomination des poudres (résidu ≤ 5 % / passage ≤ 40 %)",
+    "verso": "Grossière 1400/355 ; modérément fine 355/180 ; fine 180/125 ; très fine 125/90.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/05-pulverisation/flashcard-028",
+    "recto": "Domaines des microscopies",
+    "verso": "Optique 3-100 µm ; MEB 50 nm-200 µm ; MET 1 nm-5 µm.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/05-pulverisation/flashcard-029",
+    "recto": "Compteur électronique de particules",
+    "verso": "Particules en suspension dans un électrolyte ; 0,5-300 µm ; signal proportionnel au volume déplacé.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/05-pulverisation/flashcard-030",
+    "recto": "Granulomètre laser",
+    "verso": "Lumière déviée proportionnelle au nombre et à la taille ; particules sphériques dès 0,05 µm.",
+    "tags": []
+  }
+]

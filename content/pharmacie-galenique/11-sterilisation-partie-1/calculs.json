@@ -1,0 +1,160 @@
+[
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/calcul-001",
+    "titre": "Durée de stérilisation pour atteindre le NAS",
+    "enonce": "Une charge contient 10^{n0} spores par unité (D121 = {d} min). Quelle durée à 121 °C faut-il pour atteindre un NAS de 10^-{nas} ?",
+    "variables": {
+      "n0": {
+        "min": 2,
+        "max": 7,
+        "pas": 1,
+        "unite": ""
+      },
+      "d": {
+        "min": 0.5,
+        "max": 3,
+        "pas": 0.5,
+        "unite": "min"
+      },
+      "nas": {
+        "min": 6,
+        "max": 6,
+        "pas": 1,
+        "unite": ""
+      }
+    },
+    "formule": "(n0 + nas) * d",
+    "unite": "min",
+    "decimales": 1,
+    "etapes": [
+      "Nombre de réductions décimales = log N0 − log N = n0 − (−nas) = n0 + nas",
+      "Durée = nombre de réductions × D"
+    ],
+    "rappel": "log N = log N0 − t/D ; NAS = 10⁻⁶ en stérilisation terminale."
+  },
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/calcul-002",
+    "titre": "Valeur stérilisatrice FT",
+    "enonce": "Un produit est chauffé {t} min à {temp} °C (z = {z} °C). Calculez la valeur stérilisatrice équivalente à 121 °C.",
+    "variables": {
+      "t": {
+        "min": 2,
+        "max": 30,
+        "pas": 1,
+        "unite": "min"
+      },
+      "temp": {
+        "min": 105,
+        "max": 135,
+        "pas": 1,
+        "unite": "°C"
+      },
+      "z": {
+        "min": 10,
+        "max": 10,
+        "pas": 1,
+        "unite": "°C"
+      }
+    },
+    "formule": "t * Math.pow(10, (temp - 121) / z)",
+    "unite": "min",
+    "decimales": 2,
+    "etapes": [
+      "Calculer l'exposant (T − 121) / z",
+      "Calculer 10 à cette puissance",
+      "Multiplier par la durée t",
+      "Comparer à F0 = 8 min"
+    ],
+    "rappel": "FT = t × 10^((T − 121)/z) ; F0 minimal = 8 min."
+  },
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/calcul-003",
+    "titre": "Nombre de survivants (log N)",
+    "enonce": "Une population de 10^{n0} germes (D = {d} min) est chauffée {t} min à température constante. Calculez log N des survivants.",
+    "variables": {
+      "n0": {
+        "min": 3,
+        "max": 8,
+        "pas": 1,
+        "unite": ""
+      },
+      "d": {
+        "min": 1,
+        "max": 5,
+        "pas": 0.5,
+        "unite": "min"
+      },
+      "t": {
+        "min": 1,
+        "max": 20,
+        "pas": 1,
+        "unite": "min"
+      }
+    },
+    "formule": "n0 - t / d",
+    "unite": "log₁₀ UFC",
+    "decimales": 2,
+    "etapes": [
+      "log N = log N0 − t/D",
+      "Remplacer log N0 par n0",
+      "Soustraire t/D"
+    ],
+    "rappel": "À chaque période D, la population est divisée par 10."
+  },
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/calcul-004",
+    "titre": "Calcul du temps de réduction décimale D",
+    "enonce": "À température constante, une population passe de 10^{a} à 10^{b} germes en {t} min. Calculez D.",
+    "variables": {
+      "a": {
+        "min": 6,
+        "max": 8,
+        "pas": 1,
+        "unite": ""
+      },
+      "b": {
+        "min": 1,
+        "max": 4,
+        "pas": 1,
+        "unite": ""
+      },
+      "t": {
+        "min": 4,
+        "max": 30,
+        "pas": 1,
+        "unite": "min"
+      }
+    },
+    "formule": "t / (a - b)",
+    "unite": "min",
+    "decimales": 2,
+    "etapes": [
+      "D = t / (log N0 − log N)",
+      "log N0 − log N = a − b",
+      "Diviser t par ce nombre de réductions décimales"
+    ],
+    "rappel": "D : temps pour réduire la population d'un facteur 10 (90 %)."
+  },
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/calcul-005",
+    "titre": "Durée équivalente à F0 = 8 min",
+    "enonce": "Quelle durée faut-il à {temp} °C (z = 10 °C) pour obtenir une valeur stérilisatrice F0 de 8 min ?",
+    "variables": {
+      "temp": {
+        "min": 111,
+        "max": 134,
+        "pas": 1,
+        "unite": "°C"
+      }
+    },
+    "formule": "8 / Math.pow(10, (temp - 121) / 10)",
+    "unite": "min",
+    "decimales": 2,
+    "etapes": [
+      "F0 = t × 10^((T − 121)/z)",
+      "t = F0 / 10^((T − 121)/z)",
+      "Remplacer F0 par 8 min"
+    ],
+    "rappel": "F0 = 8 min est le minimum acceptable à la validation."
+  }
+]

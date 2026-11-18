@@ -1,0 +1,397 @@
+[
+  {
+    "terme": "Hétérocycle",
+    "definition": "Composé organique cyclique contenant, en plus du carbone, au moins un hétéroatome (O, N, S…).",
+    "cours": "chimie-therapeutique/01-serie-heterocyclique"
+  },
+  {
+    "terme": "Hétéroatome",
+    "definition": "Atome autre que le carbone inclus dans un cycle (oxygène, azote, soufre, sélénium, phosphore…).",
+    "cours": "chimie-therapeutique/01-serie-heterocyclique"
+  },
+  {
+    "terme": "Nomenclature de Widman-Hantzsch",
+    "definition": "Système de nommage des hétérocycles : préfixe (hétéroatome) + racine (taille) + suffixe (degré d'insaturation).",
+    "cours": "chimie-therapeutique/01-serie-heterocyclique"
+  },
+  {
+    "terme": "Nomenclature triviale",
+    "definition": "Noms consacrés par l'usage pour les hétérocycles courants (furane, pyrrole, thiophène, pyridine…).",
+    "cours": "chimie-therapeutique/01-serie-heterocyclique"
+  },
+  {
+    "terme": "Diazine",
+    "definition": "Hétérocycle insaturé à 6 chaînons contenant deux azotes : pyridazine (1,2), pyrimidine (1,3), pyrazine (1,4).",
+    "cours": "chimie-therapeutique/01-serie-heterocyclique"
+  },
+  {
+    "terme": "Diazole",
+    "definition": "Hétérocycle insaturé à 5 chaînons contenant deux azotes : pyrazole (1,2), imidazole (1,3).",
+    "cours": "chimie-therapeutique/01-serie-heterocyclique"
+  },
+  {
+    "terme": "Aziridine",
+    "definition": "Hétérocycle azoté saturé à 3 chaînons ; ses dérivés (mitomycine C) sont des agents alkylants de l'ADN.",
+    "cours": "chimie-therapeutique/01-serie-heterocyclique"
+  },
+  {
+    "terme": "Benzodiazépine",
+    "definition": "Hétérocycle bicyclique : cycle diazépine à 7 chaînons accolé à un benzène ; dérivés anxiolytiques, hypnotiques, anticonvulsivants.",
+    "cours": "chimie-therapeutique/01-serie-heterocyclique"
+  },
+  {
+    "terme": "Mode de jonction",
+    "definition": "Notation des côtés communs de deux hétérocycles accolés : lettres pour le prioritaire, chiffres pour le substituant.",
+    "cours": "chimie-therapeutique/01-serie-heterocyclique"
+  },
+  {
+    "terme": "Psychotrope",
+    "definition": "Substance naturelle ou synthétique capable de modifier l'activité mentale ou le comportement en agissant sur le cerveau.",
+    "cours": "chimie-therapeutique/02-anxiolytiques"
+  },
+  {
+    "terme": "Psycholeptique",
+    "definition": "Psychotrope qui abaisse le tonus psychologique (neuroleptiques, anxiolytiques, hypnotiques).",
+    "cours": "chimie-therapeutique/02-anxiolytiques"
+  },
+  {
+    "terme": "Psychoanaleptique",
+    "definition": "Psychotrope qui stimule le tonus psychologique (antidépresseurs, psychostimulants).",
+    "cours": "chimie-therapeutique/02-anxiolytiques"
+  },
+  {
+    "terme": "Psycho-isoleptique",
+    "definition": "Psychotrope régulateur de l'humeur (sels de lithium).",
+    "cours": "chimie-therapeutique/02-anxiolytiques"
+  },
+  {
+    "terme": "Psychodysleptique",
+    "definition": "Psychotrope qui dévie le tonus psychologique (hallucinogènes, cocaïne).",
+    "cours": "chimie-therapeutique/02-anxiolytiques"
+  },
+  {
+    "terme": "Anxiolytique",
+    "definition": "Médicament de structure variable réduisant ou supprimant l'angoisse et provoquant une sédation.",
+    "cours": "chimie-therapeutique/02-anxiolytiques"
+  },
+  {
+    "terme": "Anxiété",
+    "definition": "État émotionnel fait d'appréhension, de tension, de malaise ou de terreur face à un péril de nature indéterminée, avec manifestations somatiques polymorphes.",
+    "cours": "chimie-therapeutique/02-anxiolytiques"
+  },
+  {
+    "terme": "Récepteur GABAA",
+    "definition": "Récepteur post-synaptique canal chlorure portant un site GABA et un site de liaison des benzodiazépines.",
+    "cours": "chimie-therapeutique/02-anxiolytiques"
+  },
+  {
+    "terme": "Flumazénil",
+    "definition": "Imidazobenzodiazépine dépourvue de cycle benzénique en 5, antagoniste pur et spécifique des benzodiazépines.",
+    "cours": "chimie-therapeutique/02-anxiolytiques"
+  },
+  {
+    "terme": "Prodrogue",
+    "definition": "Molécule inactive ou peu active transformée en métabolite actif par le métabolisme, comme le clorazépate.",
+    "cours": "chimie-therapeutique/02-anxiolytiques"
+  },
+  {
+    "terme": "Méprobamate",
+    "definition": "Carbamate anxiolytique (dicarbamate de méthyl-2 propyl-2 propanediol-1,3), inducteur enzymatique, sans antidote en cas de surdosage.",
+    "cours": "chimie-therapeutique/02-anxiolytiques"
+  },
+  {
+    "terme": "Buspirone",
+    "definition": "Anxiolytique dérivé de l'azaspirodécanedione, agoniste 5-HT1A présynaptique, sans sédation ni dépendance.",
+    "cours": "chimie-therapeutique/02-anxiolytiques"
+  },
+  {
+    "terme": "Hypnotique",
+    "definition": "Médicament (somnifère) utilisé pour faciliter l'installation et le maintien du sommeil.",
+    "cours": "chimie-therapeutique/03-hypnotiques"
+  },
+  {
+    "terme": "Insomnie",
+    "definition": "Sommeil de mauvaise qualité avec difficultés d'endormissement, réveils multiples ou réveil trop précoce ; chronique si > 3 fois/semaine depuis > 3 mois.",
+    "cours": "chimie-therapeutique/03-hypnotiques"
+  },
+  {
+    "terme": "Laudanum",
+    "definition": "Solution d'opium dans l'alcool, utilisée au XVIIe siècle comme hypnotique.",
+    "cours": "chimie-therapeutique/03-hypnotiques"
+  },
+  {
+    "terme": "Barbiturique",
+    "definition": "Première classe d'hypnotiques de synthèse introduite en 1903 (acide diéthylbarbiturique ou barbital).",
+    "cours": "chimie-therapeutique/03-hypnotiques"
+  },
+  {
+    "terme": "Nitrazépam",
+    "definition": "7-nitro-5-phényl-1,4-benzodiazépin-2-one (Mogadan®), benzodiazépine hypnotique non substituée sur N1.",
+    "cours": "chimie-therapeutique/03-hypnotiques"
+  },
+  {
+    "terme": "Diazépinolone",
+    "definition": "Groupe de benzodiazépines portant un CHOH en position 3 (lormétazépam, témazépam).",
+    "cours": "chimie-therapeutique/03-hypnotiques"
+  },
+  {
+    "terme": "Apparentés aux benzodiazépines",
+    "definition": "Hypnotiques pharmacologiquement proches des BZD mais chimiquement différents : zolpidem, zaleplon, zopiclone.",
+    "cours": "chimie-therapeutique/03-hypnotiques"
+  },
+  {
+    "terme": "Imidazopyridine",
+    "definition": "Famille chimique du zolpidem, apparenté aux benzodiazépines.",
+    "cours": "chimie-therapeutique/03-hypnotiques"
+  },
+  {
+    "terme": "Cyclopyrrolone",
+    "definition": "Famille chimique de la zopiclone.",
+    "cours": "chimie-therapeutique/03-hypnotiques"
+  },
+  {
+    "terme": "Pyrazolopyrimidine",
+    "definition": "Famille chimique du zaleplon.",
+    "cours": "chimie-therapeutique/03-hypnotiques"
+  },
+  {
+    "terme": "Prométhazine",
+    "definition": "Antihistaminique H1 de la famille des phénothiazines (Phénergan®), à activité sédative.",
+    "cours": "chimie-therapeutique/03-hypnotiques"
+  },
+  {
+    "terme": "Doxylamine",
+    "definition": "Antihistaminique H1, éther du benzhydrol (Donormyl®, Sulamine®), utilisé pour son effet sédatif.",
+    "cours": "chimie-therapeutique/03-hypnotiques"
+  },
+  {
+    "terme": "Dépression",
+    "definition": "Trouble de l'humeur caractérisé par une tristesse, une souffrance morale et un ralentissement psychomoteur.",
+    "cours": "chimie-therapeutique/04-antidepresseurs-partie-1"
+  },
+  {
+    "terme": "Hypothèse monoaminergique",
+    "definition": "Théorie attribuant la dépression à une diminution des taux synaptiques de noradrénaline, de sérotonine et de dopamine.",
+    "cours": "chimie-therapeutique/04-antidepresseurs-partie-1"
+  },
+  {
+    "terme": "Thymoanaleptique",
+    "definition": "Psychoanaleptique stimulant l'humeur : antidépresseur.",
+    "cours": "chimie-therapeutique/04-antidepresseurs-partie-1"
+  },
+  {
+    "terme": "Antidépresseur tricyclique",
+    "definition": "Antidépresseur formé de trois cycles, chef de file l'imipramine, apparenté structuralement aux phénothiazines.",
+    "cours": "chimie-therapeutique/04-antidepresseurs-partie-1"
+  },
+  {
+    "terme": "Dibenzazépine",
+    "definition": "Noyau tricyclique azoté à cycle central heptagonal, base de la série de l'imipramine.",
+    "cours": "chimie-therapeutique/04-antidepresseurs-partie-1"
+  },
+  {
+    "terme": "Dibenzocycloheptadiène",
+    "definition": "Noyau tricyclique de la série de l'amitriptyline, caractérisé par une double liaison C=C exocyclique.",
+    "cours": "chimie-therapeutique/04-antidepresseurs-partie-1"
+  },
+  {
+    "terme": "IMAO",
+    "definition": "Inhibiteur de la monoamine oxydase : irréversible non sélectif (iproniazide) ou réversible sélectif de la MAO-A (moclobémide).",
+    "cours": "chimie-therapeutique/04-antidepresseurs-partie-1"
+  },
+  {
+    "terme": "ISRS",
+    "definition": "Inhibiteur spécifique de la recapture de la sérotonine (fluoxétine, paroxétine, sertraline…).",
+    "cours": "chimie-therapeutique/04-antidepresseurs-partie-1"
+  },
+  {
+    "terme": "IRSNA",
+    "definition": "Inhibiteur de la recapture de la sérotonine et de la noradrénaline (milnacipran, venlafaxine).",
+    "cours": "chimie-therapeutique/04-antidepresseurs-partie-1"
+  },
+  {
+    "terme": "NASSA",
+    "definition": "Antidépresseur noradrénergique et sérotoninergique spécifique, représenté par la mirtazapine.",
+    "cours": "chimie-therapeutique/04-antidepresseurs-partie-1"
+  },
+  {
+    "terme": "Dibenzosubérone",
+    "definition": "Cétone tricyclique servant de produit de départ à la synthèse de l'amitriptyline.",
+    "cours": "chimie-therapeutique/04-antidepresseurs-partie-1"
+  },
+  {
+    "terme": "Monoamine oxydase (MAO)",
+    "definition": "Enzyme flavinique mitochondriale catalysant la désamination oxydative des monoamines endogènes ou alimentaires.",
+    "cours": "chimie-therapeutique/05-antidepresseurs-partie-2"
+  },
+  {
+    "terme": "MAO-A",
+    "definition": "Isoforme agissant sur la sérotonine, la noradrénaline et l'adrénaline.",
+    "cours": "chimie-therapeutique/05-antidepresseurs-partie-2"
+  },
+  {
+    "terme": "MAO-B",
+    "definition": "Isoforme agissant sur la phényléthylamine et la dopamine.",
+    "cours": "chimie-therapeutique/05-antidepresseurs-partie-2"
+  },
+  {
+    "terme": "Inhibition suicidaire",
+    "definition": "Inhibition enzymatique par fixation covalente, non compétitive et irréversible, avec destruction de l'enzyme (iproniazide).",
+    "cours": "chimie-therapeutique/05-antidepresseurs-partie-2"
+  },
+  {
+    "terme": "Iproniazide",
+    "definition": "IMAO non sélectif irréversible, dérivé de l'acide isonicotinique à enchaînement hydrazinique isopropylé (Marsilid®).",
+    "cours": "chimie-therapeutique/05-antidepresseurs-partie-2"
+  },
+  {
+    "terme": "Moclobémide",
+    "definition": "Benzamide dérivé de l'aminoéthylmorpholine, inhibiteur compétitif réversible sélectif de la MAO-A (Moclamine®).",
+    "cours": "chimie-therapeutique/05-antidepresseurs-partie-2"
+  },
+  {
+    "terme": "Caractère amphiphile",
+    "definition": "Propriété du système tricyclique expliquant son affinité pour les transporteurs et récepteurs et l'effet stabilisant de membrane cardiaque.",
+    "cours": "chimie-therapeutique/05-antidepresseurs-partie-2"
+  },
+  {
+    "terme": "Effet stabilisant de membrane",
+    "definition": "Effet cardiaque indésirable des tricycliques lié à leur caractère amphiphile, responsable de troubles de conduction.",
+    "cours": "chimie-therapeutique/05-antidepresseurs-partie-2"
+  },
+  {
+    "terme": "Composé à action duale",
+    "definition": "Antidépresseur inhibant à la fois la recapture de la sérotonine et de la noradrénaline (IRSNA).",
+    "cours": "chimie-therapeutique/05-antidepresseurs-partie-2"
+  },
+  {
+    "terme": "Antidépresseur atypique",
+    "definition": "Antidépresseur ni imipraminique, ni IMAO, ni IRS, réservé aux dépressions de moindre intensité ou aux contre-indications des imipraminiques.",
+    "cours": "chimie-therapeutique/05-antidepresseurs-partie-2"
+  },
+  {
+    "terme": "Neuroleptique",
+    "definition": "Psycholeptique thymoleptique défini par Delay et Deniker (1957) : indifférence psychomotrice, diminution de l'agressivité, action réductrice des psychoses, effets neurologiques et végétatifs, action sous-corticale.",
+    "cours": "chimie-therapeutique/06-neuroleptiques"
+  },
+  {
+    "terme": "Schizophrénie",
+    "definition": "Trouble psychotique chronique caractérisé par une dissociation mentale, des hallucinations et un délire.",
+    "cours": "chimie-therapeutique/06-neuroleptiques"
+  },
+  {
+    "terme": "Symptômes positifs",
+    "definition": "Hallucinations, délires, transformation de la réalité, agitation ; liés à l'hyperdopaminergie mésolimbique.",
+    "cours": "chimie-therapeutique/06-neuroleptiques"
+  },
+  {
+    "terme": "Symptômes négatifs",
+    "definition": "Appauvrissement affectif, retrait social, déficit émotionnel ; liés à l'hypodopaminergie mésocorticale.",
+    "cours": "chimie-therapeutique/06-neuroleptiques"
+  },
+  {
+    "terme": "Phénothiazine",
+    "definition": "Noyau tricyclique résultant de la fusion d'un cycle thiazine-1,4 avec deux benzènes (dibenzoparathiazine).",
+    "cours": "chimie-therapeutique/06-neuroleptiques"
+  },
+  {
+    "terme": "Thioxanthène",
+    "definition": "Analogue structural de la phénothiazine où l'azote du noyau est remplacé par un carbone sp2.",
+    "cours": "chimie-therapeutique/06-neuroleptiques"
+  },
+  {
+    "terme": "Butyrophénone",
+    "definition": "Dérivé de l'amino-4-fluorobutyrophénone : cétone α-aromatique à chaîne de 4 carbones et azote tertiaire cyclique.",
+    "cours": "chimie-therapeutique/06-neuroleptiques"
+  },
+  {
+    "terme": "Benzamide (orthopramide)",
+    "definition": "Neuroleptique possédant un noyau benzénique amide, un méthoxy en ortho et une alkylamine tertiaire souvent cyclique.",
+    "cours": "chimie-therapeutique/06-neuroleptiques"
+  },
+  {
+    "terme": "Syndrome extrapyramidal",
+    "definition": "Ensemble de troubles moteurs dus au blocage dopaminergique de la voie nigrostriée.",
+    "cours": "chimie-therapeutique/06-neuroleptiques"
+  },
+  {
+    "terme": "Syndrome aménorrhée-galactorrhée",
+    "definition": "Trouble neuro-endocrinien dû au blocage de la voie tubéro-infundibulaire et à l'augmentation de la prolactine.",
+    "cours": "chimie-therapeutique/06-neuroleptiques"
+  },
+  {
+    "terme": "Antipsychotique atypique",
+    "definition": "Neuroleptique de seconde génération, antagoniste mixte des récepteurs 5-HT2A et D2.",
+    "cours": "chimie-therapeutique/06-neuroleptiques"
+  },
+  {
+    "terme": "Dibenzodiazépine",
+    "definition": "Molécule tricyclique formée d'une diazépine substituée fusionnée à deux cycles benzéniques (clozapine, olanzapine, quétiapine).",
+    "cours": "chimie-therapeutique/06-neuroleptiques"
+  },
+  {
+    "terme": "Épilepsie",
+    "definition": "Affection neurologique chronique due à une anomalie de la fonction électrique cérébrale, avec crises convulsives périodiques et imprévisibles.",
+    "cours": "chimie-therapeutique/07-antiepileptiques"
+  },
+  {
+    "terme": "Crise généralisée",
+    "definition": "Crise dont la décharge épileptique anormale est bilatérale et se propage à l'ensemble du cortex cérébral.",
+    "cours": "chimie-therapeutique/07-antiepileptiques"
+  },
+  {
+    "terme": "Absence (petit mal)",
+    "definition": "Crise généralisée liée au courant calcique de type T des neurones thalamiques ; traitement de premier choix : éthosuximide.",
+    "cours": "chimie-therapeutique/07-antiepileptiques"
+  },
+  {
+    "terme": "Antiépileptique",
+    "definition": "Médicament symptomatique diminuant la fréquence et/ou la sévérité des crises, sans propriété curative.",
+    "cours": "chimie-therapeutique/07-antiepileptiques"
+  },
+  {
+    "terme": "Inactivation des canaux sodiques",
+    "definition": "Fermeture spontanée du canal après ouverture, à l'origine de la période réfractaire ; cible des bloqueurs sodiques.",
+    "cours": "chimie-therapeutique/07-antiepileptiques"
+  },
+  {
+    "terme": "Courant calcique de type T",
+    "definition": "Courant calcique de faible seuil des neurones thalamiques impliqué dans les absences.",
+    "cours": "chimie-therapeutique/07-antiepileptiques"
+  },
+  {
+    "terme": "GABA-transaminase",
+    "definition": "Enzyme de dégradation du GABA, inhibée irréversiblement par la vigabatrine et inhibée par le valproate.",
+    "cours": "chimie-therapeutique/07-antiepileptiques"
+  },
+  {
+    "terme": "Hydantoïne",
+    "definition": "Famille chimique de la phénytoïne (imidazolidine-2,4-dione).",
+    "cours": "chimie-therapeutique/07-antiepileptiques"
+  },
+  {
+    "terme": "Succinimide",
+    "definition": "Famille chimique de l'éthosuximide, obtenue en remplaçant le –NH– de l'hydantoïne par un –CH2–.",
+    "cours": "chimie-therapeutique/07-antiepileptiques"
+  },
+  {
+    "terme": "Oxazolidine-dione",
+    "definition": "Famille chimique de la triméthadione, obtenue en remplaçant le –NH– de l'hydantoïne par un –O–.",
+    "cours": "chimie-therapeutique/07-antiepileptiques"
+  },
+  {
+    "terme": "Iminostilbène",
+    "definition": "Noyau dibenzo[b,f]azépine, base de la carbamazépine et de l'oxcarbazépine.",
+    "cours": "chimie-therapeutique/07-antiepileptiques"
+  },
+  {
+    "terme": "Prodrogue (primidone)",
+    "definition": "Molécule transformée en principe actif : la primidone est le 2-désoxyphénobarbital, prodrogue du phénobarbital.",
+    "cours": "chimie-therapeutique/07-antiepileptiques"
+  },
+  {
+    "terme": "MHD",
+    "definition": "Dérivé monohydroxylé actif issu du métabolisme rapide de l'oxcarbazépine.",
+    "cours": "chimie-therapeutique/07-antiepileptiques"
+  }
+]

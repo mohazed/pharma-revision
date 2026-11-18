@@ -1,0 +1,255 @@
+[
+  {
+    "id": "semiologie/05-hemorragies-digestives/tableau-001",
+    "titre": "Modes de révélation : origine et pièges",
+    "colonnes": [
+      "Mode de révélation",
+      "Origine habituelle",
+      "Pièges"
+    ],
+    "lignes": [
+      [
+        "Hématémèse",
+        "Haute",
+        "Hémoptysie, saignement du nez avalé, vin rouge, betterave, sirop"
+      ],
+      [
+        "Méléna",
+        "Haute",
+        "Fer, bismuth, charbon, réglisse, myrtilles, boudin noir"
+      ],
+      [
+        "Rectorragie",
+        "Basse",
+        "Hémorragie haute massive ; betterave, rifampicine"
+      ],
+      [
+        "Saignement occulte",
+        "Haute ou basse",
+        "Révélé par une anémie ferriprive"
+      ],
+      [
+        "Malaise, choc",
+        "Haute ou basse",
+        "Bêtabloquants, hémoglobine initiale normale"
+      ]
+    ]
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/tableau-002",
+    "titre": "Contexte / cause évoquée",
+    "colonnes": [
+      "Contexte",
+      "Cause évoquée",
+      "Siège"
+    ],
+    "lignes": [
+      [
+        "AINS ou aspirine, douleurs de l'estomac",
+        "Ulcère ou érosions",
+        "Haute"
+      ],
+      [
+        "Cirrhose, alcool, ascite, jaunisse",
+        "Varices œsophagiennes",
+        "Haute"
+      ],
+      [
+        "Vomissements répétés puis sang",
+        "Mallory-Weiss",
+        "Haute"
+      ],
+      [
+        "Amaigrissement, anémie, difficulté à avaler",
+        "Cancer",
+        "Haute ou basse"
+      ],
+      [
+        "Sujet âgé, rectorragie abondante sans douleur",
+        "Diverticules",
+        "Basse"
+      ],
+      [
+        "Douleur anale à la selle, sang sur le papier",
+        "Fissure anale",
+        "Basse"
+      ],
+      [
+        "Douleur brutale puis rectorragie, sujet vasculaire",
+        "Colite ischémique",
+        "Basse"
+      ]
+    ]
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/tableau-003",
+    "titre": "Estimation de la perte sanguine (adulte 70 kg)",
+    "colonnes": [
+      "Perte",
+      "Signes"
+    ],
+    "lignes": [
+      [
+        "< 750 mL (< 15 %)",
+        "Signes minimes ; pouls et tension normaux"
+      ],
+      [
+        "750 à 1 500 mL (15–30 %)",
+        "Pouls rapide, tension conservée, anxiété"
+      ],
+      [
+        "1 500 à 2 000 mL (30–40 %)",
+        "Pouls très rapide, tension basse, confusion"
+      ],
+      [
+        "> 2 000 mL (> 40 %)",
+        "Choc profond, troubles de la conscience"
+      ]
+    ]
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/tableau-004",
+    "titre": "Associations médicamenteuses à risque",
+    "colonnes": [
+      "Association",
+      "Conduite"
+    ],
+    "lignes": [
+      [
+        "AVK ou AOD + AINS",
+        "À éviter : préférer le paracétamol"
+      ],
+      [
+        "AVK + miconazole (même gel buccal)",
+        "Contre-indiqué : hausse brutale de l'INR"
+      ],
+      [
+        "AINS + corticoïde ou AINS + ISRS",
+        "Éviter ; sinon protection par IPP"
+      ],
+      [
+        "Deux AINS ou AINS + aspirine",
+        "Jamais : plus d'ulcère sans meilleur effet antalgique"
+      ]
+    ]
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/carte-001",
+    "type": "carte",
+    "titre": "Hémorragies digestives",
+    "racine": {
+      "label": "Hémorragie digestive",
+      "enfants": [
+        {
+          "label": "Haute (au-dessus de Treitz)",
+          "enfants": [
+            {
+              "label": "Hématémèse",
+              "enfants": []
+            },
+            {
+              "label": "Méléna",
+              "enfants": []
+            },
+            {
+              "label": "Ulcère",
+              "enfants": []
+            },
+            {
+              "label": "Varices",
+              "enfants": []
+            },
+            {
+              "label": "Mallory-Weiss",
+              "enfants": []
+            },
+            {
+              "label": "Œsophagite",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Basse (sous Treitz)",
+          "enfants": [
+            {
+              "label": "Rectorragie",
+              "enfants": []
+            },
+            {
+              "label": "Diverticules",
+              "enfants": []
+            },
+            {
+              "label": "Hémorroïdes, fissure",
+              "enfants": []
+            },
+            {
+              "label": "Cancer, polypes",
+              "enfants": []
+            },
+            {
+              "label": "Angiodysplasies",
+              "enfants": []
+            },
+            {
+              "label": "Colite ischémique",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Gravité",
+          "enfants": [
+            {
+              "label": "Choc",
+              "enfants": []
+            },
+            {
+              "label": "Pièges : bêtabloquants, hypertendu, Hb initiale",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Médicaments",
+          "enfants": [
+            {
+              "label": "AINS, aspirine",
+              "enfants": []
+            },
+            {
+              "label": "Comprimés irritants",
+              "enfants": []
+            },
+            {
+              "label": "Antithrombotiques",
+              "enfants": []
+            },
+            {
+              "label": "Associations à risque",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Pharmacien",
+          "enfants": [
+            {
+              "label": "Prévenir",
+              "enfants": []
+            },
+            {
+              "label": "Repérer",
+              "enfants": []
+            },
+            {
+              "label": "Orienter",
+              "enfants": []
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

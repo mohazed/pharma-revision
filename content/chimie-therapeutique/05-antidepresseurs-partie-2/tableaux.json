@@ -1,0 +1,180 @@
+[
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/tableau-001",
+    "titre": "Effets indésirables des tricycliques et cibles",
+    "colonnes": [
+      "Cible / mécanisme",
+      "Effets indésirables"
+    ],
+    "lignes": [
+      [
+        "Effets neuropsychiques",
+        "Réactivations anxieuses ou délirantes, inversion trop rapide de l'humeur, risque suicidaire"
+      ],
+      [
+        "Effets cardiovasculaires (stabilisation de membrane)",
+        "Hypotension orthostatique, arythmies, troubles de conduction, risque de mort subite"
+      ],
+      [
+        "Récepteurs muscariniques (anticholinergique)",
+        "Sécheresse buccale, constipation, douleurs épigastriques, tachycardie, vision trouble, rétention urinaire"
+      ],
+      [
+        "Récepteurs H1",
+        "Effet sédatif"
+      ],
+      [
+        "Récepteurs α1 adrénergiques",
+        "Effet hypotenseur"
+      ]
+    ]
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/tableau-002",
+    "titre": "IMAO : comparaison",
+    "colonnes": [
+      "Critère",
+      "IMAO non sélectifs",
+      "IMAO sélectifs A"
+    ],
+    "lignes": [
+      [
+        "Exemple",
+        "Iproniazide (Marsilid®)",
+        "Moclobémide (Moclamine®)"
+      ],
+      [
+        "Structure",
+        "Dérivé de l'acide isonicotinique (hydrazine isopropylée)",
+        "Benzamide dérivé de l'aminoéthylmorpholine"
+      ],
+      [
+        "Type d'inhibition",
+        "Irréversible, incompétitive, suicide",
+        "Compétitive et réversible"
+      ],
+      [
+        "Sort de l'enzyme",
+        "MAO détruite",
+        "MAO non détruite"
+      ],
+      [
+        "Réversibilité",
+        "Nécessite la synthèse d'une nouvelle enzyme (délai de 2 semaines)",
+        "Blocage rapidement réversible à l'arrêt"
+      ]
+    ]
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/tableau-003",
+    "titre": "Les deux isoformes de la MAO",
+    "colonnes": [
+      "Isoforme",
+      "Substrats"
+    ],
+    "lignes": [
+      [
+        "MAO-A",
+        "Sérotonine, noradrénaline, adrénaline"
+      ],
+      [
+        "MAO-B",
+        "Phényléthylamine, dopamine"
+      ]
+    ]
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/tableau-004",
+    "titre": "Classes d'antidépresseurs : mécanisme et tolérance",
+    "colonnes": [
+      "Classe",
+      "Mécanisme",
+      "Tolérance / particularités"
+    ],
+    "lignes": [
+      [
+        "Tricycliques",
+        "Inhibition de la recapture de la sérotonine et de la noradrénaline",
+        "Effets anticholinergiques, H1, α1, toxicité cardiaque"
+      ],
+      [
+        "IMAO irréversibles",
+        "Inhibition suicide non sélective de la MAO",
+        "Interactions médicamenteuses, effet persistant 2 semaines"
+      ],
+      [
+        "IMAO-A réversibles",
+        "Inhibition compétitive réversible de la MAO-A",
+        "Blocage rapidement réversible"
+      ],
+      [
+        "ISRS",
+        "Inhibition sélective de la recapture de la sérotonine",
+        "Sans effets anticholinergiques ni toxicité cardiaque"
+      ],
+      [
+        "IRSNA",
+        "Action duale sérotonine + noradrénaline",
+        "Pas d'action post-synaptique directe : moins d'effets indésirables"
+      ],
+      [
+        "NASSA / miansérine",
+        "Blocage des autorécepteurs α2 (et 5-HT1A pour la mirtazapine)",
+        "Tétracycliques, toxicité aiguë moindre"
+      ]
+    ]
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/carte-005",
+    "type": "carte",
+    "titre": "Mécanismes des antidépresseurs",
+    "racine": {
+      "label": "Augmenter les monoamines synaptiques",
+      "enfants": [
+        {
+          "label": "Inhiber la recapture",
+          "enfants": [
+            {
+              "label": "Tricycliques (5-HT + NA)",
+              "enfants": []
+            },
+            {
+              "label": "ISRS (5-HT)",
+              "enfants": []
+            },
+            {
+              "label": "IRSNA (5-HT + NA)",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Inhiber la dégradation",
+          "enfants": [
+            {
+              "label": "IMAO irréversibles (iproniazide)",
+              "enfants": []
+            },
+            {
+              "label": "IMAO-A réversibles (moclobémide)",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Bloquer les autorécepteurs",
+          "enfants": [
+            {
+              "label": "Miansérine (α2)",
+              "enfants": []
+            },
+            {
+              "label": "Mirtazapine (α2 + 5-HT1A)",
+              "enfants": []
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

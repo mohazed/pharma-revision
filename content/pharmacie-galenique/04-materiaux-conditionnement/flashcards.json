@@ -1,0 +1,200 @@
+[
+  {
+    "id": "pharmacie-galenique/04-materiaux-conditionnement/flashcard-001",
+    "recto": "Définition du conditionnement",
+    "verso": "Ensemble des opérations couvrant le produit vrac avec des matériaux + articles formant la couverture et annexes.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/04-materiaux-conditionnement/flashcard-002",
+    "recto": "Rôles du conditionnement primaire",
+    "verso": "Protection (micro-organismes, agressions), présentation facilitant l'utilisation, marketing.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/04-materiaux-conditionnement/flashcard-003",
+    "recto": "Rôles du conditionnement secondaire",
+    "verso": "Sécurité du malade (identification, information), transport, marketing.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/04-materiaux-conditionnement/flashcard-004",
+    "recto": "Rôle du conditionnement tertiaire",
+    "verso": "Transport (fardeau, caisse, palette).",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/04-materiaux-conditionnement/flashcard-005",
+    "recto": "Conditionnement primaire : définition",
+    "verso": "Enveloppe protectrice en contact direct avec le médicament ; unidose ou multidose.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/04-materiaux-conditionnement/flashcard-006",
+    "recto": "Qualités requises du primaire",
+    "verso": "Résistance physique, imperméabilité, étanchéité/protection, inertie, innocuité, commodité, transparence et résistance thermique (solutions stériles).",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/04-materiaux-conditionnement/flashcard-007",
+    "recto": "Migration vs sorption",
+    "verso": "Migration : constituants du contenant vers le médicament ; sorption : l'inverse.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/04-materiaux-conditionnement/flashcard-008",
+    "recto": "Composition générale du verre",
+    "verso": "Vitrifiant SiO₂ + fondant oxyde de sodium + stabilisant CaO + adjuvants (4 %).",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/04-materiaux-conditionnement/flashcard-009",
+    "recto": "Rôle de B₂O₃ dans le verre",
+    "verso": "↓ coefficient de dilatation, ↑ résistance chimique et dureté → verre neutre pyrex.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/04-materiaux-conditionnement/flashcard-010",
+    "recto": "Rôle de l'alumine dans le verre",
+    "verso": "Retarde la dévitrification, augmente la dureté.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/04-materiaux-conditionnement/flashcard-011",
+    "recto": "Affinants des bulles d'air",
+    "verso": "KNO₃ et As₂O₅.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/04-materiaux-conditionnement/flashcard-012",
+    "recto": "PbO et K₂O dans le verre",
+    "verso": "PbO : éclat et sonorité du cristal ; K₂O : soufflage et éclat.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/04-materiaux-conditionnement/flashcard-013",
+    "recto": "Pourquoi le verre est fragile aux variations thermiques",
+    "verso": "Fort coefficient de dilatation et faible conductivité thermique.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/04-materiaux-conditionnement/flashcard-014",
+    "recto": "Verre et solutions aqueuses/acides",
+    "verso": "Hydrolyse (Si–O–Na + H₂O → Si–O–H + NaOH), alcalinisation, changement de pH, inactivation possible du PA ; accélérée par la chaleur.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/04-materiaux-conditionnement/flashcard-015",
+    "recto": "Verre et bases",
+    "verso": "Rupture des liaisons Si–O : destruction lente et totale.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/04-materiaux-conditionnement/flashcard-016",
+    "recto": "Résistance hydrolytique",
+    "verso": "Résistance du verre à céder ses éléments minéraux solubles dans l'eau après autoclavage à 121 °C (20 min ou 1 h).",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/04-materiaux-conditionnement/flashcard-017",
+    "recto": "Verre type I",
+    "verso": "Haute résistance ; borosilicate neutre dans la masse ; toutes préparations.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/04-materiaux-conditionnement/flashcard-018",
+    "recto": "Verre type II",
+    "verso": "Haute résistance ; sodocalcique neutre en surface ; toutes préparations sauf basiques.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/04-materiaux-conditionnement/flashcard-019",
+    "recto": "Verre type III",
+    "verso": "Résistance moyenne ; sodocalcique + alumine ; préparations stérilisables non aqueuses, poudres stériles, non stériles.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/04-materiaux-conditionnement/flashcard-020",
+    "recto": "Verre type IV",
+    "verso": "Faible résistance ; sodocalcique ordinaire ; préparations non stériles.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/04-materiaux-conditionnement/flashcard-021",
+    "recto": "Verre type I plus",
+    "verso": "Verre à revêtement « pi coating ».",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/04-materiaux-conditionnement/flashcard-022",
+    "recto": "Plasticité vs élasticité",
+    "verso": "Plasticité : déformations permanentes (haute pour les plastiques) ; élasticité : déformations réversibles (faible).",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/04-materiaux-conditionnement/flashcard-023",
+    "recto": "Voies de fabrication des plastomères",
+    "verso": "Polymérisation (→ thermoplastique) ; polycondensation dans le moule (→ thermodurcissable).",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/04-materiaux-conditionnement/flashcard-024",
+    "recto": "Adjuvants des plastomères",
+    "verso": "Plastifiants, antioxydants, stabilisants, antifongiques, charges, colorants.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/04-materiaux-conditionnement/flashcard-025",
+    "recto": "PEHD",
+    "verso": "= PEBP ; rigide, résistant (++), non transparent, non stérilisable vapeur.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/04-materiaux-conditionnement/flashcard-026",
+    "recto": "PEBD",
+    "verso": "= PEHP ; souple, transparent, peu étanche, non stérilisable vapeur.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/04-materiaux-conditionnement/flashcard-027",
+    "recto": "Thermoplastique stérilisable par la vapeur",
+    "verso": "Polypropylène (+) ; PVC (+/-).",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/04-materiaux-conditionnement/flashcard-028",
+    "recto": "PVDC",
+    "verso": "Polychlorure de vinylidène (Saran), revêtement imperméable aux gaz.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/04-materiaux-conditionnement/flashcard-029",
+    "recto": "Thermodurcissables",
+    "verso": "Insolubles, infusibles, peu utilisés : aminoplastes/phénoplastes (bouchons, colles), polyesters/polyuréthanne (revêtements).",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/04-materiaux-conditionnement/flashcard-030",
+    "recto": "Élastomères",
+    "verso": "Latex d'hévéa, bromobutyle, chlorobutyle, silicone (diméthylsiloxane) ; bouchons, joints.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/04-materiaux-conditionnement/flashcard-031",
+    "recto": "Aluminium",
+    "verso": "Léger, malléable, inerte, étanche, opaque, atoxique ; blisters, strips, tubes, opercules, aérosols.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/04-materiaux-conditionnement/flashcard-032",
+    "recto": "Revêtement vs complexe",
+    "verso": "Revêtement : substance couvrant le récipient (vernis, silicones…) ; complexe : association de films (Alu-PE).",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/04-materiaux-conditionnement/flashcard-033",
+    "recto": "Éléments du conditionnement secondaire",
+    "verso": "Étiquetage, étuis en carton, notices et livrets, accessoires, vignette.",
+    "tags": []
+  }
+]

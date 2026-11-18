@@ -1,0 +1,20 @@
+[
+  {
+    "id": "chimie-analytique/04-extraction-contre-courant/mnemo-001",
+    "titre": "Formule du contre-courant",
+    "moyen": "« Alpha moins un sur alpha puissance n plus un moins un »",
+    "explication": "QAn/QA0 = (α − 1)/(αⁿ⁺¹ − 1)."
+  },
+  {
+    "id": "chimie-analytique/04-extraction-contre-courant/mnemo-002",
+    "titre": "HEET",
+    "moyen": "« Hauteur = Longueur divisée par le Nombre »",
+    "explication": "HEET = L/n."
+  },
+  {
+    "id": "chimie-analytique/04-extraction-contre-courant/mnemo-003",
+    "titre": "Alimentation de l'extracteur",
+    "moyen": "« Le léger monte de la cave, le lourd descend du grenier »",
+    "explication": "Solvant léger introduit à la base, solvant lourd à la partie supérieure."
+  }
+]

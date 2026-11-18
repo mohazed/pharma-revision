@@ -1,0 +1,13 @@
+{
+  "id": "pharmacie-galenique/09-granulation",
+  "module": "pharmacie-galenique",
+  "ordre": 9,
+  "titre": "La granulation",
+  "source": {
+    "driveId": "1734AYOsod670u2i6EJN_Q5xJaF7I11am",
+    "fichier": "9. La Granulation.pdf",
+    "modifiedTime": "2026-11-07T10:47:56.914Z"
+  },
+  "resume": "Définition et intérêts de la granulation, forces de cohésion et états du liquide, voie humide (étapes, liants, appareils, CPP/CQA, séchage), voie sèche et autres procédés, contrôles du granulé (écoulement, tassement, angle de repos, indices de Hausner et de Carr) et défauts.",
+  "type": "cours"
+}

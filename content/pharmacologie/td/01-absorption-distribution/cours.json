@@ -1,0 +1,13 @@
+{
+  "id": "pharmacologie/td/01-absorption-distribution",
+  "module": "pharmacologie",
+  "ordre": 1,
+  "titre": "TD 1 – Absorption et distribution",
+  "type": "td",
+  "source": {
+    "driveId": "1VjXuYA4hp3Dit8aTUf3L2IlXFVwsxsuc",
+    "fichier": "1. Fiche de TD 1.pdf",
+    "modifiedTime": "2026-11-06T11:02:59.802Z"
+  },
+  "resume": "Exercices : ionisation et site d'absorption d'un acide faible, biodisponibilité et effets de premier passage, allure d'une courbe à pics multiples, dose et volume de distribution."
+}

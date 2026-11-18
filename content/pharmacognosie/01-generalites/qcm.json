@@ -1,0 +1,1903 @@
+[
+  {
+    "id": "pharmacognosie/01-generalites/qcm-001",
+    "type": "multiple",
+    "enonce": "Concernant la définition de la pharmacognosie, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Le terme dérive des mots grecs « pharmacon » et « gnosis »",
+      "Elle étudie les matières premières d'origine naturelle ayant un intérêt médical",
+      "Elle étudie exclusivement les matières premières d'origine animale",
+      "Elle s'intéresse, dans ce cours, aux principes actifs des plantes",
+      "Elle étudie uniquement les molécules obtenues par synthèse totale"
+    ],
+    "correctes": [
+      0,
+      1,
+      3
+    ],
+    "explication": "La pharmacognosie (« pharmacon » + « gnosis ») étudie les matières premières naturelles, végétales ou animales, d'intérêt médical ; ici l'accent est mis sur les principes actifs des plantes. Elle n'est ni exclusivement animale ni consacrée aux produits de synthèse.",
+    "source": {
+      "page": 1,
+      "extrait": "Étude des matières premières d'origine naturelle : végétale ou animale ayant un intérêt médical."
+    },
+    "difficulte": 1,
+    "tags": [
+      "définition"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/01-generalites/qcm-002",
+    "type": "unique",
+    "enonce": "Les matières premières étudiées par la pharmacognosie sont d'origine :",
+    "options": [
+      "Exclusivement végétale",
+      "Exclusivement minérale",
+      "Végétale ou animale",
+      "Uniquement synthétique",
+      "Uniquement microbienne"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Le cours définit la pharmacognosie comme l'étude des matières premières d'origine naturelle : végétale ou animale.",
+    "source": {
+      "page": 1,
+      "extrait": "d'origine naturelle : végétale ou animale ayant un intérêt médical"
+    },
+    "difficulte": 1,
+    "tags": [
+      "définition"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/01-generalites/qcm-003",
+    "type": "multiple",
+    "enonce": "Concernant l'historique de la matière médicale, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Le premier texte sur la médecine par les plantes a été gravé sur des plaques d'argile par les Sumériens",
+      "Ce premier texte date d'environ 3000 ans avant Jésus-Christ",
+      "Les Égyptiens ont consigné leurs connaissances sur des papyrus datant du 3e millénaire",
+      "Les Chinois et les Indous ne connaissaient pas l'usage médicinal des plantes",
+      "Le premier texte sur les plantes médicinales a été écrit sur papyrus par les Grecs"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Les Sumériens ont gravé le premier texte sur des plaques d'argile (vers 3000 av. J.-C.) ; les Égyptiens utilisaient des papyrus (3e millénaire). Les habitants de l'Extrême-Orient (Chinois, Indous) utilisaient aussi les plantes pour guérir.",
+    "source": {
+      "page": 1,
+      "extrait": "gravé sur des plaques d'argile par les Sumériens, environ 3000 ans avant Jésus-Christ"
+    },
+    "difficulte": 1,
+    "tags": [
+      "historique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/01-generalites/qcm-004",
+    "type": "unique",
+    "enonce": "Le premier texte connu sur la médecine par les plantes a été gravé par :",
+    "options": [
+      "Les Égyptiens sur papyrus",
+      "Les Sumériens sur des plaques d'argile",
+      "Les Grecs sur parchemin",
+      "Les Chinois sur bambou",
+      "Les Romains sur des tablettes de cire"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Le cours attribue le premier texte aux Sumériens, sur plaques d'argile, environ 3000 ans av. J.-C. Les Égyptiens, eux, utilisaient des papyrus.",
+    "source": {
+      "page": 1,
+      "extrait": "Le premier texte sur la médecine par les plantes a été gravé sur des plaques d'argile par les Sumériens"
+    },
+    "difficulte": 1,
+    "tags": [
+      "historique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/01-generalites/qcm-005",
+    "type": "multiple",
+    "enonce": "Concernant le rôle des voyageurs dans l'histoire des plantes médicinales, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Ils ont joué un grand rôle dans le transfert des connaissances",
+      "Ils ont établi le contact entre le bassin méditerranéen et l'Extrême-Orient",
+      "Grâce à eux, des drogues orientales ont été reprises par les Grecs, Romains, Arabes et Européens",
+      "Ils ont empêché la diffusion des drogues orientales vers l'Europe",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Les voyageurs ont permis le contact entre la Méditerranée et l'Extrême-Orient et la reprise des drogues orientales par les Grecs, Romains, Arabes et Européens. La proposition d est fausse, donc « toutes correctes » aussi.",
+    "source": {
+      "page": 1,
+      "extrait": "Les voyageurs ont joué un grand rôle dans le domaine du transfert des connaissances des plantes médicinales"
+    },
+    "difficulte": 1,
+    "tags": [
+      "historique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/01-generalites/qcm-006",
+    "type": "multiple",
+    "enonce": "Parmi les narcotiques utilisés par de grands médecins comme Hippocrate et Aristote, le cours cite, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "L'opium",
+      "La jusquiame",
+      "La mandragore",
+      "Le séné",
+      "Le boldo"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Hippocrate et Aristote utilisaient des narcotiques : opium, jusquiame, mandragore. Le séné et le boldo sont cités dans la partie production (Inde, Chili).",
+    "source": {
+      "page": 1,
+      "extrait": "Hippocrate, Aristote, utilisaient des narcotiques (Opium, Jusquiame, Mandragore)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "historique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/01-generalites/qcm-007",
+    "type": "multiple",
+    "enonce": "Concernant Dioscoride, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Il est considéré comme le véritable ancêtre des pharmacognostes",
+      "Son traité date de 77 après J.-C.",
+      "Son traité a été traduit en latin au 14e siècle sous le titre « De Materia medica »",
+      "Son traité inventorie 500 drogues",
+      "Il a laissé une « Histoire des plantes » aux descriptions botaniques précises"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Dioscoride est le véritable ancêtre des pharmacognostes : traité de 77 ap. J.-C., traduit en latin au 14e siècle (« De Materia medica »), 500 drogues. L'« Histoire des plantes » est l'œuvre de Théophraste.",
+    "source": {
+      "page": 1,
+      "extrait": "c'est Dioscoride qui est le véritable ancêtre des pharmacognostes; son traité (77 ap. J.-C.)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "historique",
+      "Dioscoride"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/01-generalites/qcm-008",
+    "type": "unique",
+    "enonce": "Le véritable ancêtre des pharmacognostes, selon le cours, est :",
+    "options": [
+      "Hippocrate",
+      "Théophraste",
+      "Dioscoride",
+      "Paracelse",
+      "Avicenne"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Le cours désigne Dioscoride comme le véritable ancêtre des pharmacognostes (traité de 77 ap. J.-C., 500 drogues).",
+    "source": {
+      "page": 1,
+      "extrait": "c'est Dioscoride qui est le véritable ancêtre des pharmacognostes"
+    },
+    "difficulte": 1,
+    "tags": [
+      "historique",
+      "Dioscoride"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/01-generalites/qcm-009",
+    "type": "unique",
+    "enonce": "Le traité « De Materia medica » de Dioscoride inventorie :",
+    "options": [
+      "50 drogues",
+      "100 drogues",
+      "300 drogues",
+      "500 drogues",
+      "1000 drogues"
+    ],
+    "correctes": [
+      3
+    ],
+    "explication": "Le traité de Dioscoride, traduit en latin au 14e siècle sous le titre « De Materia medica », inventorie 500 drogues.",
+    "source": {
+      "page": 1,
+      "extrait": "traduit en latin au 14ème siècle sous le titre de « de Materia medica », inventorie 500 drogues"
+    },
+    "difficulte": 2,
+    "tags": [
+      "historique",
+      "Dioscoride"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/01-generalites/qcm-010",
+    "type": "multiple",
+    "enonce": "Concernant Théophraste, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Il est l'auteur d'une « Histoire des plantes »",
+      "Il a laissé des descriptions botaniques précises",
+      "Il est l'auteur du « Kanoun fi Tib »",
+      "Il est à l'origine de la « théorie des signatures »",
+      "Son traité inventorie 500 drogues"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Théophraste a laissé, dans son Histoire des plantes, des descriptions botaniques précises. Le Kanoun est d'Avicenne, la théorie des signatures de Paracelse, les 500 drogues de Dioscoride.",
+    "source": {
+      "page": 1,
+      "extrait": "Théophraste, dans son Histoire des plantes, a laissé des descriptions botaniques précises"
+    },
+    "difficulte": 2,
+    "tags": [
+      "historique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/01-generalites/qcm-011",
+    "type": "multiple",
+    "enonce": "Concernant les médecins musulmans cités dans l'historique, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Après la chute des empires romain et perse, les musulmans héritèrent des connaissances de l'Extrême-Orient et de la Méditerranée",
+      "Razès (865-925) a largement opéré des traductions",
+      "Le nom complet de Razès est Abou Bakr Mohamed Ibn Zakaria El Razi",
+      "Avicenne a vécu de 980 à 1037",
+      "Avicenne est l'auteur de l'« Histoire des plantes »"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Les musulmans héritèrent des connaissances accumulées ; Razès (865-925) a largement traduit ; Avicenne (Ibn Sina, 980-1037) écrivit El Kanoun fi Tib. L'Histoire des plantes est de Théophraste.",
+    "source": {
+      "page": 1,
+      "extrait": "Abou Bakr Mohamed Ibn Zakaria El Razi (865-925) plus connu sous le nom de «Razès»"
+    },
+    "difficulte": 2,
+    "tags": [
+      "historique",
+      "Razès",
+      "Avicenne"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/01-generalites/qcm-012",
+    "type": "multiple",
+    "enonce": "Concernant Avicenne, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Son vrai nom est Abu Ali Ibn Sina",
+      "Il est le plus célèbre des médecins musulmans après Razès",
+      "Il écrivit « El Kanoun fi Tib »",
+      "Son livre est encore utilisé comme référence de nos jours",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes les propositions sont exactes : Avicenne (Abu Ali Ibn Sina, 980-1037), le plus célèbre après Razès, auteur d'El Kanoun fi Tib, traduit partout et utilisé comme référence jusqu'à nos jours.",
+    "source": {
+      "page": 1,
+      "extrait": "Avicenne de son vrai nom Abu Ali Ibn Sina (980-1037), il écrivit son célèbre livre intitulé El Kanoun fi Tib"
+    },
+    "difficulte": 1,
+    "tags": [
+      "historique",
+      "Avicenne"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/01-generalites/qcm-013",
+    "type": "unique",
+    "enonce": "L'ouvrage « El Kanoun fi Tib » a été écrit par :",
+    "options": [
+      "Razès",
+      "Avicenne",
+      "Dioscoride",
+      "Paracelse",
+      "Théophraste"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "El Kanoun fi Tib est l'œuvre d'Avicenne (Abu Ali Ibn Sina).",
+    "source": {
+      "page": 1,
+      "extrait": "il écrivit son célèbre livre intitulé El Kanoun fi Tib"
+    },
+    "difficulte": 1,
+    "tags": [
+      "historique",
+      "Avicenne"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/01-generalites/qcm-014",
+    "type": "multiple",
+    "enonce": "Concernant Paracelse, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "C'est grâce à lui que l'herboristerie se transforma en pharmacie",
+      "Pour lui, à chaque mal correspondait dans la nature un remède différent",
+      "Il recherchait avant tout un remède universel",
+      "Il est à l'origine de la « théorie des signatures »",
+      "Il a traduit en latin le traité de Dioscoride"
+    ],
+    "correctes": [
+      0,
+      1,
+      3
+    ],
+    "explication": "Paracelse transforma l'herboristerie en pharmacie ; contrairement aux anciens qui recherchaient le remède universel, il pensait qu'à chaque mal correspondait un remède marqué d'un signe distinctif (théorie des signatures).",
+    "source": {
+      "page": 2,
+      "extrait": "pour Paracelse, à chaque mal correspondait dans la nature un remède différent marqué d'un signe distinctif"
+    },
+    "difficulte": 2,
+    "tags": [
+      "historique",
+      "Paracelse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/01-generalites/qcm-015",
+    "type": "multiple",
+    "enonce": "La « théorie des signatures », cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Est attribuée à Paracelse",
+      "Repose sur la croyance que l'aspect et la couleur de chaque plante indiquent ses propriétés médicinales",
+      "Postule qu'un remède universel guérit tous les maux",
+      "Est fondée sur l'observation et l'expérimentation de la période scientifique",
+      "Est attribuée à Dioscoride"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "La théorie des signatures (Paracelse) repose sur la croyance que l'aspect et la couleur d'une plante indiquent ses propriétés. Le remède universel était la quête des anciens ; la période scientifique vient après.",
+    "source": {
+      "page": 2,
+      "extrait": "C'est la «Théorie des signatures», basée sur la croyance que l'aspect et la couleur de chaque plante indiquent ses propriétés médicinales"
+    },
+    "difficulte": 2,
+    "tags": [
+      "historique",
+      "théorie des signatures"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/01-generalites/qcm-016",
+    "type": "multiple",
+    "enonce": "Concernant l'entrée dans la période scientifique, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "La pharmacie se sépare de la médecine",
+      "L'identification et l'essai des drogues reviennent à la pharmacie",
+      "La préparation des médicaments revient à la pharmacie",
+      "Cette période est basée sur l'observation et l'expérimentation",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "La pharmacie, à qui reviennent l'identification et l'essai des drogues ainsi que la préparation des médicaments, se sépare de la médecine ; la période scientifique repose sur l'observation et l'expérimentation.",
+    "source": {
+      "page": 2,
+      "extrait": "La pharmacie, à qui revient l'identification et l'essai des drogues, la préparation des médicaments, se sépare de la médecine."
+    },
+    "difficulte": 1,
+    "tags": [
+      "historique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/01-generalites/qcm-017",
+    "type": "multiple",
+    "enonce": "Concernant la place actuelle des produits naturels en thérapeutique, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Beaucoup de spécialités pharmaceutiques sont d'origine naturelle (animale ou végétale)",
+      "Beaucoup de principes actifs d'extraction sont encore irremplaçables par des produits de synthèse",
+      "Certains voient leur emploi accru grâce à la découverte de nouvelles indications",
+      "Certains constituent des points de départ de nombreuses hémisynthèses",
+      "Tous les principes actifs d'extraction ont été remplacés par des produits de synthèse"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Le cours souligne que de nombreux PA d'extraction restent irremplaçables, que certains trouvent de nouvelles indications et que d'autres servent de point de départ à des hémisynthèses. La proposition e est donc fausse.",
+    "source": {
+      "page": 2,
+      "extrait": "Beaucoup de principes actifs d'extraction sont encore aujourd'hui irremplaçables par des produits de synthèse"
+    },
+    "difficulte": 1,
+    "tags": [
+      "historique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/01-generalites/qcm-018",
+    "type": "multiple",
+    "enonce": "Les principaux buts de la pharmacognosie sont, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Fournir des matières premières végétales bien identifiées",
+      "Fournir des matières premières de bonne qualité et en quantité suffisante",
+      "Étudier de façon plus poussée des drogues déjà utilisées",
+      "Rechercher de nouvelles substances médicamenteuses",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Les trois buts : fournir des matières premières bien identifiées, de bonne qualité, en quantité suffisante ; étude plus poussée des drogues déjà utilisées ; recherche de nouvelles substances médicamenteuses.",
+    "source": {
+      "page": 2,
+      "extrait": "fournir des matières premières végétales bien identifiées, de bonne qualité, en quantité suffisante"
+    },
+    "difficulte": 1,
+    "tags": [
+      "buts"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/01-generalites/qcm-019",
+    "type": "multiple",
+    "enonce": "Concernant la drogue végétale, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "C'est tout matériel végétal utilisé en thérapeutique",
+      "Elle n'a encore subi aucune préparation pharmaceutique",
+      "Elle peut être une plante entière",
+      "Elle peut être un suc",
+      "Elle correspond obligatoirement à une substance chimique pure isolée de la plante"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "La drogue végétale est tout matériel végétal utilisé en thérapeutique et n'ayant subi aucune préparation pharmaceutique : plante entière, partie de plante ou suc. Ce n'est pas une substance pure isolée.",
+    "source": {
+      "page": 2,
+      "extrait": "On appelle drogue végétale tout matériel végétal utilisé en thérapeutique et n'ayant encore subi aucune préparation pharmaceutique"
+    },
+    "difficulte": 1,
+    "tags": [
+      "drogue végétale"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/01-generalites/qcm-020",
+    "type": "multiple",
+    "enonce": "Une drogue végétale peut être constituée par, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "La plante entière",
+      "Une partie de la plante",
+      "Un suc",
+      "Un principe actif obtenu par synthèse totale",
+      "Un comprimé de principe actif purifié"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Selon le cours : la plante entière, une partie de la plante ou un suc. Une molécule de synthèse ou un comprimé ont subi une préparation et ne sont pas des drogues végétales.",
+    "source": {
+      "page": 2,
+      "extrait": "ce peut être : - la plante entière. - une partie de la plante. - un suc."
+    },
+    "difficulte": 1,
+    "tags": [
+      "drogue végétale"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/01-generalites/qcm-021",
+    "type": "multiple",
+    "enonce": "Les formes actuelles d'utilisation des drogues végétales comprennent, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "L'utilisation en nature, sous forme de poudres ou de tisanes",
+      "Les préparations galéniques telles que teintures, extraits et sirops",
+      "L'utilisation comme matières premières pour la préparation de médicaments",
+      "Uniquement l'utilisation en nature",
+      "Uniquement l'isolement de principes actifs purs"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Trois formes : en nature (poudres, tisanes), préparations galéniques (teintures, extraits, sirops…), matières premières pour la préparation de médicaments.",
+    "source": {
+      "page": 2,
+      "extrait": "en nature, sous forme de poudres ou de tisanes. - sous forme de préparations galéniques (teintures, extraits, sirops…)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "drogue végétale"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/01-generalites/qcm-022",
+    "type": "unique",
+    "enonce": "Les teintures, extraits et sirops correspondent à une utilisation des drogues végétales :",
+    "options": [
+      "En nature",
+      "Sous forme de préparations galéniques",
+      "Comme matières premières d'hémisynthèse",
+      "Sous forme de tisanes",
+      "Sous forme de poudres"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Teintures, extraits et sirops sont cités comme exemples de préparations galéniques.",
+    "source": {
+      "page": 2,
+      "extrait": "sous forme de préparations galéniques (teintures, extraits, sirops…)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "drogue végétale"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/01-generalites/qcm-023",
+    "type": "multiple",
+    "enonce": "Les voies générales de recherche de plantes à intérêt thérapeutique citées dans le cours sont, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "La méthode empirique",
+      "La recherche systématique (criblage ou screening)",
+      "La méthode inductive",
+      "La méthode des signatures",
+      "Le hasard, qui joue parfois un rôle important à côté de ces voies"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explication": "Le cours cite la méthode empirique, la recherche systématique (criblage/screening), la méthode inductive et note le rôle parfois important du hasard. La théorie des signatures est historique, pas une voie de recherche citée.",
+    "source": {
+      "page": 3,
+      "extrait": "Méthode empirique. - Recherche systématique, méthode de criblage ou screening. - Méthode inductive."
+    },
+    "difficulte": 2,
+    "tags": [
+      "méthodes de recherche"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/01-generalites/qcm-024",
+    "type": "unique",
+    "enonce": "La « recherche systématique » de plantes d'intérêt thérapeutique est également appelée :",
+    "options": [
+      "Méthode empirique",
+      "Méthode inductive",
+      "Méthode de criblage ou screening",
+      "Théorie des signatures",
+      "Méthode ethnobotanique"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Le cours assimile la recherche systématique à la méthode de criblage ou screening.",
+    "source": {
+      "page": 3,
+      "extrait": "Recherche systématique, méthode de criblage ou screening"
+    },
+    "difficulte": 1,
+    "tags": [
+      "méthodes de recherche"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/01-generalites/qcm-025",
+    "type": "multiple",
+    "enonce": "Concernant le rôle du pharmacognoste, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Il doit rechercher les plantes médicinales",
+      "Il doit les identifier",
+      "Il doit déterminer leur valeur thérapeutique",
+      "Il doit trouver leur meilleur mode d'utilisation",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Le pharmacognoste doit rechercher les plantes médicinales, les identifier, déterminer leur valeur thérapeutique et trouver leur meilleur mode d'utilisation.",
+    "source": {
+      "page": 3,
+      "extrait": "il doit les identifier, déterminer leur valeur thérapeutique, trouver leur meilleur mode d'utilisation"
+    },
+    "difficulte": 1,
+    "tags": [
+      "méthodes de recherche"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/01-generalites/qcm-026",
+    "type": "multiple",
+    "enonce": "Concernant la production des plantes médicinales, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Elle est inconstante",
+      "Les grandes productions sont de l'ordre de plusieurs milliers de tonnes par an",
+      "L'Inde est citée pour le séné et l'opium",
+      "Le Chili est cité pour le boldo",
+      "Le Brésil est cité pour le séné"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Production inconstante, grandes productions de plusieurs milliers de tonnes/an : Inde (séné, opium), Chili (boldo), Brésil (café). Le Brésil est cité pour le café, pas le séné.",
+    "source": {
+      "page": 3,
+      "extrait": "L'Inde (Séné, Opium), le Chili (Boldo), le Brésil (Café)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "production"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/01-generalites/qcm-027",
+    "type": "unique",
+    "enonce": "Parmi les associations pays–production suivantes, laquelle est citée dans le cours ?",
+    "options": [
+      "Chili – Opium",
+      "Brésil – Boldo",
+      "Inde – Café",
+      "Chili – Boldo",
+      "Brésil – Séné"
+    ],
+    "correctes": [
+      3
+    ],
+    "explication": "Le cours cite : Inde (séné, opium), Chili (boldo), Brésil (café).",
+    "source": {
+      "page": 3,
+      "extrait": "le Chili (Boldo), le Brésil (Café)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "production"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/01-generalites/qcm-028",
+    "type": "multiple",
+    "enonce": "Les inconvénients des plantes de cueillette sont, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "La dispersion géographique",
+      "L'irrégularité de leur croissance",
+      "La qualité inégale",
+      "Un risque très faible de falsification",
+      "Une récolte aisée, souvent mécanisée"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Plantes de cueillette (spontanées) : dispersion géographique, irrégularité de croissance, qualité inégale. Le faible risque de falsification et la récolte mécanisée sont des avantages des plantes de culture.",
+    "source": {
+      "page": 3,
+      "extrait": "Inconvénients : - Dispersion géographique. - Irrégularité de leur croissance. - Qualité inégale."
+    },
+    "difficulte": 2,
+    "tags": [
+      "sources",
+      "cueillette"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/01-generalites/qcm-029",
+    "type": "multiple",
+    "enonce": "Les avantages des cultures de plantes médicinales sont, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Une matière première abondante, homogène et de bonne qualité",
+      "Une récolte aisée, souvent mécanisée",
+      "Des frais de main-d'œuvre réduits",
+      "Un risque très faible de falsifications",
+      "Une dispersion géographique importante"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Les cultures offrent une matière première abondante, homogène, de bonne qualité, une récolte aisée souvent mécanisée, des frais de main-d'œuvre réduits et un très faible risque de falsifications. La dispersion géographique est un inconvénient des plantes de cueillette.",
+    "source": {
+      "page": 4,
+      "extrait": "Récolte aisée, souvent mécanisée. - Frais de main-d'œuvre réduits. - Risque très faible de falsifications."
+    },
+    "difficulte": 2,
+    "tags": [
+      "sources",
+      "culture"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/01-generalites/qcm-030",
+    "type": "unique",
+    "enonce": "À l'origine, les plantes spontanées récoltées étaient appelées :",
+    "options": [
+      "Plantes de culture",
+      "Plantes de cueillette",
+      "Plantes améliorées",
+      "Drogues galéniques",
+      "Plantes sélectionnées"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "À l'origine, on ne récoltait que les plantes spontanées appelées plantes de cueillette.",
+    "source": {
+      "page": 3,
+      "extrait": "À l'origine, on ne récoltait que les plantes spontanées appelées plantes de cueillette."
+    },
+    "difficulte": 1,
+    "tags": [
+      "sources",
+      "cueillette"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/01-generalites/qcm-031",
+    "type": "multiple",
+    "enonce": "Parmi les facteurs extrinsèques influençant la culture des plantes médicinales, on cite, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "La température",
+      "L'humidité",
+      "La luminosité et le vent",
+      "Le pH et la teneur du sol en N, P, K",
+      "Le patrimoine génétique"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Facteurs extrinsèques : le climat (température, humidité, luminosité, vent) et le sol (porosité, perméabilité, pH, N, P, K). Le patrimoine génétique relève des facteurs intrinsèques.",
+    "source": {
+      "page": 4,
+      "extrait": "Facteurs extrinsèques : Le climat (la température, l'humidité, la luminosité, le vent), le sol (porosité, perméabilité, pH, N, P, K)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "culture"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/01-generalites/qcm-032",
+    "type": "unique",
+    "enonce": "Les facteurs intrinsèques de culture des plantes médicinales sont ceux qui agissent sur :",
+    "options": [
+      "Le climat",
+      "La porosité du sol",
+      "Le patrimoine génétique",
+      "La perméabilité du sol",
+      "La luminosité"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Les facteurs intrinsèques sont ceux qui agissent sur le patrimoine génétique ; les autres propositions sont des facteurs extrinsèques.",
+    "source": {
+      "page": 4,
+      "extrait": "Facteurs intrinsèques : Ceux qui agissent sur le patrimoine génétique."
+    },
+    "difficulte": 1,
+    "tags": [
+      "culture"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/01-generalites/qcm-033",
+    "type": "multiple",
+    "enonce": "L'amélioration des plantes médicinales vise, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "La production de plantes médicinales de haute qualité",
+      "La résistance aux parasites",
+      "La résistance aux conditions climatiques défavorables",
+      "Une forte teneur en principes actifs",
+      "Une faible teneur en principes actifs"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Le but de l'amélioration est de produire des plantes de haute qualité : résistance aux parasites et aux conditions climatiques défavorables, forte teneur en PA.",
+    "source": {
+      "page": 4,
+      "extrait": "Résistance aux parasites, aux conditions climatiques défavorables. - Forte teneur en PA."
+    },
+    "difficulte": 1,
+    "tags": [
+      "culture",
+      "amélioration"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/01-generalites/qcm-034",
+    "type": "multiple",
+    "enonce": "Concernant l'époque de récolte des plantes médicinales, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "La composition chimique varie avec le cycle végétatif",
+      "Les variations peuvent être qualitatives ou quantitatives",
+      "Le choix de la période de récolte est important",
+      "La composition chimique est constante tout au long du cycle végétatif",
+      "Seules des variations quantitatives sont possibles"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "La composition chimique varie avec le cycle végétatif, de façon qualitative ou quantitative : le choix de la période est donc important.",
+    "source": {
+      "page": 4,
+      "extrait": "La composition chimique varie avec le cycle végétatif. → Les variations peuvent être qualitatives ou quantitatives."
+    },
+    "difficulte": 1,
+    "tags": [
+      "récolte"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/01-generalites/qcm-035",
+    "type": "multiple",
+    "enonce": "Concernant les périodes de récolte selon l'organe, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Les parties souterraines sont récoltées en dehors de la période de pleine végétation (printemps ou automne)",
+      "Les écorces sont récoltées au printemps ou en automne",
+      "Les tiges herbacées et les feuilles sont récoltées au début de la floraison",
+      "Les fleurs et sommités fleuries sont récoltées après leur complet épanouissement",
+      "Les fruits charnus ou secs sont récoltés à maturité"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explication": "Fleurs et sommités fleuries : AVANT leur complet épanouissement. Les autres périodes sont conformes au cours.",
+    "source": {
+      "page": 4,
+      "extrait": "Fleurs et sommités fleuries : avant leur complet épanouissement."
+    },
+    "difficulte": 2,
+    "tags": [
+      "récolte"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/01-generalites/qcm-036",
+    "type": "unique",
+    "enonce": "Les feuilles et tiges herbacées sont récoltées de préférence :",
+    "options": [
+      "En pleine période de repos végétatif",
+      "Au début de la floraison",
+      "Après la fructification",
+      "Après le complet épanouissement des fleurs",
+      "En hiver"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Tiges herbacées et feuilles : début de la floraison.",
+    "source": {
+      "page": 4,
+      "extrait": "Tiges herbacées et feuilles : début de la floraison."
+    },
+    "difficulte": 1,
+    "tags": [
+      "récolte"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/01-generalites/qcm-037",
+    "type": "unique",
+    "enonce": "Les fleurs et sommités fleuries doivent être récoltées :",
+    "options": [
+      "Après leur complet épanouissement",
+      "Avant leur complet épanouissement",
+      "À maturité des graines",
+      "En automne uniquement",
+      "Pendant la montée de la sève"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Fleurs et sommités fleuries : avant leur complet épanouissement. Le piège classique est « après ».",
+    "source": {
+      "page": 4,
+      "extrait": "Fleurs et sommités fleuries : avant leur complet épanouissement."
+    },
+    "difficulte": 2,
+    "tags": [
+      "récolte"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/01-generalites/qcm-038",
+    "type": "multiple",
+    "enonce": "Concernant la récolte des écorces, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Elle se fait au printemps, lors de la montée de la sève",
+      "Elle peut se faire en automne, au début de la période de repos",
+      "Elle se fait au début de la floraison",
+      "Elle se fait à maturité des fruits",
+      "Elle est généralement manuelle"
+    ],
+    "correctes": [
+      0,
+      1,
+      4
+    ],
+    "explication": "Écorces : au printemps (montée de la sève) ou en automne (début du repos). Leur récolte fait partie des récoltes manuelles (comme les organes souterrains, gommes, résines, latex).",
+    "source": {
+      "page": 4,
+      "extrait": "Ecorces : au printemps (montée de la sève) ou en automne (début de la période de repos)."
+    },
+    "difficulte": 2,
+    "tags": [
+      "récolte"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/01-generalites/qcm-039",
+    "type": "multiple",
+    "enonce": "Concernant la récolte des parties souterraines, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Elle se fait en dehors de la période de pleine végétation",
+      "Elle a lieu au printemps ou en automne",
+      "Pour les plantes vivaces, on attend quelques années pour obtenir des racines plus volumineuses",
+      "Elle est généralement mécanisée",
+      "Elle se fait au début de la floraison"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Parties souterraines : hors pleine végétation (printemps ou automne) ; pour les vivaces, attendre quelques années. Les organes souterrains font partie des récoltes manuelles.",
+    "source": {
+      "page": 4,
+      "extrait": "pour les plantes vivaces, on attend quelques années pour avoir des racines plus volumineuses"
+    },
+    "difficulte": 2,
+    "tags": [
+      "récolte"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/01-generalites/qcm-040",
+    "type": "multiple",
+    "enonce": "Concernant les conditions et modalités de la récolte, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Seules les plantes très saines doivent être récoltées",
+      "La récolte doit être faite par temps sec",
+      "Les plantes à huiles essentielles sont cueillies le matin, avant le lever du soleil",
+      "Les plantes à huiles essentielles sont cueillies en plein midi",
+      "La récolte doit être faite par temps humide pour préserver l'eau des tissus"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Récolter des plantes très saines, par temps sec ; les plantes à H.E. sont cueillies le matin, avant le lever du soleil.",
+    "source": {
+      "page": 4,
+      "extrait": "Les plantes à H.E. sont cueillies le matin, avant le lever du soleil."
+    },
+    "difficulte": 1,
+    "tags": [
+      "récolte"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/01-generalites/qcm-041",
+    "type": "multiple",
+    "enonce": "La récolte manuelle concerne notamment, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Les fleurs nombreuses",
+      "Les organes souterrains",
+      "Les écorces",
+      "Les gommes, résines et latex",
+      "Les graines"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Récolte manuelle : nombreuses fleurs, organes souterrains, écorces, gommes, résines et latex. Les graines font partie de la récolte mécanisée (avec parties aériennes, sommités fleuries, fruits).",
+    "source": {
+      "page": 5,
+      "extrait": "La récolte est soit manuelle (nombreuses fleurs, organes souterrains, écorces, gommes, résines et latex)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "récolte"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/01-generalites/qcm-042",
+    "type": "multiple",
+    "enonce": "La récolte mécanisée concerne, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Les parties aériennes",
+      "Les sommités fleuries",
+      "Les fruits",
+      "Les graines",
+      "Les latex"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Récolte mécanisée : parties aériennes, sommités fleuries, fruits, graines. Les latex sont récoltés manuellement.",
+    "source": {
+      "page": 5,
+      "extrait": "soit mécanisée (parties aériennes, sommités fleuries, fruits, graines)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "récolte"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/01-generalites/qcm-043",
+    "type": "multiple",
+    "enonce": "Concernant les dégradations survenant après la récolte, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "La plante, une fois récoltée, fane et meurt",
+      "Les principes actifs peuvent subir des hydrolyses, des polymérisations et des isomérisations",
+      "Ces dégradations sont de nature enzymatique",
+      "Ces dégradations nécessitent la présence d'eau",
+      "Ces dégradations n'influencent pas l'activité thérapeutique"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Après la récolte apparaissent des dégradations enzymatiques (hydrolyses, polymérisations, isomérisations) nécessitant de l'eau, qui influencent l'activité thérapeutique.",
+    "source": {
+      "page": 5,
+      "extrait": "Ces dégradations, de nature enzymatique, nécessitent la présence d'eau."
+    },
+    "difficulte": 2,
+    "tags": [
+      "conservation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/01-generalites/qcm-044",
+    "type": "multiple",
+    "enonce": "La dessiccation a pour buts, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "D'abaisser la teneur en eau",
+      "D'empêcher les réactions enzymatiques",
+      "D'éviter la prolifération des bactéries et des moisissures",
+      "De détruire définitivement les enzymes",
+      "De favoriser la croissance des micro-organismes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "La dessiccation abaisse la teneur en eau pour empêcher les réactions enzymatiques et la prolifération des bactéries et moisissures. Elle ne détruit pas les enzymes : c'est la stabilisation qui les dénature.",
+    "source": {
+      "page": 5,
+      "extrait": "Abaisser la teneur en eau pour : - empêcher les réactions enzymatiques - éviter la prolifération des bactéries et des moisissures."
+    },
+    "difficulte": 2,
+    "tags": [
+      "dessiccation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/01-generalites/qcm-045",
+    "type": "multiple",
+    "enonce": "Les conditions nécessaires à une bonne dessiccation sont, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Agir le plus vite possible après la récolte",
+      "Éliminer l'eau du végétal sans altérer les principes actifs",
+      "Contrôler après toute dessiccation si celle-ci est suffisante",
+      "Placer les drogues en couche mince pour que l'air circule librement",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes ces conditions figurent dans le cours : agir vite, éliminer l'eau sans altérer les PA, contrôler la dessiccation, disposer en couche mince.",
+    "source": {
+      "page": 5,
+      "extrait": "il faut agir le plus vite possible après la récolte pour éviter la destruction des principes actifs"
+    },
+    "difficulte": 2,
+    "tags": [
+      "dessiccation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/01-generalites/qcm-046",
+    "type": "multiple",
+    "enonce": "Les procédés de dessiccation dépendent, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "De la nature des drogues (teneur en eau, volume, consistance)",
+      "De la nature des principes actifs",
+      "De la température et de l'humidité de l'air",
+      "Uniquement de la couleur de la drogue",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Les procédés dépendent de la nature des drogues, de la nature des PA, de la température et de l'humidité de l'air.",
+    "source": {
+      "page": 5,
+      "extrait": "Dépendent de : – La nature des drogues (teneur en eau, volume et consistance). – La nature des PA."
+    },
+    "difficulte": 1,
+    "tags": [
+      "dessiccation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/01-generalites/qcm-047",
+    "type": "multiple",
+    "enonce": "Concernant le séchage au soleil, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Il est économique",
+      "Il est pratiqué dans les pays à climat chaud et sec",
+      "Les UV peuvent altérer certains principes actifs",
+      "C'est le procédé le plus répandu",
+      "Il s'effectue en séchoirs-tunnels"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Le séchage au soleil est économique, pratiqué en climat chaud et sec, mais les UV altèrent certains PA. Le procédé le plus répandu (séchoirs-tunnels) est le séchage par l'air chaud.",
+    "source": {
+      "page": 5,
+      "extrait": "Au soleil : - Économique. - Pratiqué dans les pays à climat chaud et sec. - Inconvénient : les UV altèrent certains PA."
+    },
+    "difficulte": 2,
+    "tags": [
+      "dessiccation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/01-generalites/qcm-048",
+    "type": "multiple",
+    "enonce": "Concernant le séchage à l'ombre et sous abri, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Les plantes sont étalées sur des claies",
+      "Les plantes peuvent être suspendues en bouquets dans des hangars ou séchoirs",
+      "La méthode est assez longue",
+      "La méthode reste artisanale",
+      "C'est un procédé rapide aux conditions bien déterminées"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "À l'ombre et sous abri : claies ou bouquets suspendus ; méthode assez longue et artisanale. La rapidité et les conditions déterminées caractérisent le séchage par l'air chaud.",
+    "source": {
+      "page": 5,
+      "extrait": "On les suspend en bouquets dans des hangars ou séchoirs. La méthode, assez longue, reste artisanale."
+    },
+    "difficulte": 2,
+    "tags": [
+      "dessiccation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/01-generalites/qcm-049",
+    "type": "unique",
+    "enonce": "Le procédé de dessiccation le plus répandu est :",
+    "options": [
+      "Le séchage au soleil",
+      "Le séchage à l'ombre sous abri",
+      "Le séchage par l'air chaud",
+      "La lyophilisation",
+      "Le séchage sous vide"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Le séchage par l'air chaud est le plus répandu : rapide, conditions bien déterminées (séchoirs-tunnels).",
+    "source": {
+      "page": 6,
+      "extrait": "Séchage par l'air chaud : le plus répandu. - Rapide. - Conditions bien déterminées (séchoirs-tunnels)."
+    },
+    "difficulte": 1,
+    "tags": [
+      "dessiccation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/01-generalites/qcm-050",
+    "type": "multiple",
+    "enonce": "Concernant les « autres procédés » de dessiccation, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Le séchage sous vide est un procédé à chaud",
+      "La cryodessiccation est un procédé à froid",
+      "La lyophilisation est synonyme de cryodessiccation",
+      "La lyophilisation est un procédé à chaud",
+      "Le séchage sous vide est un procédé à froid"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "À chaud : séchage sous vide ; à froid : cryodessiccation ou lyophilisation.",
+    "source": {
+      "page": 6,
+      "extrait": "À chaud : séchage sous vide. - À froid : cryodessiccation ou lyophilisation."
+    },
+    "difficulte": 2,
+    "tags": [
+      "dessiccation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/01-generalites/qcm-051",
+    "type": "multiple",
+    "enonce": "Concernant la stabilisation, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "La dessiccation ne détruit pas les enzymes mais les empêche d'agir",
+      "La stabilisation dénature les enzymes",
+      "Les enzymes, de nature protéique, peuvent être détruites par l'alcool ou la chaleur",
+      "La stabilisation empêche seulement temporairement l'action des enzymes sans les dénaturer",
+      "La stabilisation repose sur l'abaissement de la teneur en eau"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "La dessiccation empêche les enzymes d'agir sans les détruire ; la stabilisation, à l'inverse, les dénature (alcool ou chaleur).",
+    "source": {
+      "page": 6,
+      "extrait": "la dessiccation ne détruit pas les enzymes mais les empêche d'agir. - à l'inverse, la stabilisation dénature les enzymes."
+    },
+    "difficulte": 2,
+    "tags": [
+      "stabilisation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/01-generalites/qcm-052",
+    "type": "multiple",
+    "enonce": "Concernant le traitement par l'alcool bouillant (procédé de Bourquelot), cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "La drogue divisée est projetée en petite quantité dans l'alcool bouillant",
+      "Les enzymes sont détruites",
+      "Les principes actifs solubles dans l'alcool sont extraits",
+      "Il permet d'obtenir des extraits alcooliques stabilisés",
+      "Il s'effectue en autoclave sous vapeurs d'eau"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Procédé de Bourquelot : drogue divisée projetée dans l'alcool bouillant, destruction des enzymes, extraction des PA solubles dans l'alcool, obtention d'extraits alcooliques stabilisés. L'autoclave sous vapeurs d'eau correspond au procédé Goris-Arnould.",
+    "source": {
+      "page": 6,
+      "extrait": "La drogue, divisée, est projetée en petite quantité dans l'alcool bouillant. - Les enzymes sont détruites."
+    },
+    "difficulte": 2,
+    "tags": [
+      "stabilisation",
+      "Bourquelot"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/01-generalites/qcm-053",
+    "type": "unique",
+    "enonce": "La stabilisation en autoclave au sein de vapeurs d'alcool à 95° correspond au procédé :",
+    "options": [
+      "Bourquelot",
+      "Perrot-Goris",
+      "Goris-Arnould",
+      "Lyophilisation",
+      "Séchage sous vide"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Le procédé Perrot-Goris utilise les vapeurs d'alcool à 95° en autoclave (action dénaturante de la chaleur et de l'alcool). Goris-Arnould utilise les vapeurs d'eau ; Bourquelot l'alcool bouillant.",
+    "source": {
+      "page": 6,
+      "extrait": "Vapeurs d'alcool (procédé Perrot-Goris) : - La stabilisation s'effectue en autoclave au sein de vapeurs d'alcool à 95c."
+    },
+    "difficulte": 2,
+    "tags": [
+      "stabilisation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/01-generalites/qcm-054",
+    "type": "unique",
+    "enonce": "Dans le procédé Goris-Arnould, l'agent stabilisant est :",
+    "options": [
+      "L'alcool bouillant",
+      "Les vapeurs d'alcool à 95°",
+      "Les vapeurs d'eau",
+      "La chaleur sèche",
+      "Le froid (lyophilisation)"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Procédé Goris-Arnould : les vapeurs d'alcool sont remplacées par des vapeurs d'eau.",
+    "source": {
+      "page": 6,
+      "extrait": "Vapeurs d'eau (procédé Goris-Arnould) : On remplace ici les vapeurs d'alcool par des vapeurs d'eau."
+    },
+    "difficulte": 2,
+    "tags": [
+      "stabilisation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/01-generalites/qcm-055",
+    "type": "multiple",
+    "enonce": "Concernant les procédés de stabilisation par la chaleur humide et autres, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Le procédé Perrot-Goris associe l'action dénaturante de la chaleur et de l'alcool",
+      "Le procédé Goris-Arnould utilise des vapeurs d'eau",
+      "Parmi les autres procédés, l'emploi de la chaleur sèche pendant quelques minutes est le plus intéressant",
+      "Le procédé de Bourquelot appartient aux procédés par chaleur humide en autoclave",
+      "La chaleur sèche doit être appliquée pendant plusieurs jours"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Perrot-Goris : chaleur + alcool ; Goris-Arnould : vapeurs d'eau ; autres : chaleur sèche quelques minutes. Bourquelot utilise l'alcool bouillant (pas l'autoclave).",
+    "source": {
+      "page": 6,
+      "extrait": "L'emploi de la chaleur sèche pendant quelques minutes est la plus intéressante."
+    },
+    "difficulte": 3,
+    "tags": [
+      "stabilisation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/01-generalites/qcm-056",
+    "type": "multiple",
+    "enonce": "Concernant le stockage proprement dit des drogues, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Une bonne conservation dépend des conditions de stockage",
+      "Elle dépend aussi des matériaux employés",
+      "Il faut limiter l'action de l'air",
+      "Il faut limiter l'action de l'humidité et de la lumière",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Une bonne conservation dépend des conditions de stockage et des matériaux employés ; il faut limiter l'air, l'humidité et la lumière.",
+    "source": {
+      "page": 6,
+      "extrait": "il faut limiter l'action de certains facteurs : l'air, l'humidité, la lumière."
+    },
+    "difficulte": 1,
+    "tags": [
+      "stockage"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/01-generalites/qcm-057",
+    "type": "multiple",
+    "enonce": "Concernant la normalisation des drogues, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Il faut choisir l'espèce végétale à normaliser",
+      "Il faut définir la nature de la drogue et ses qualités (caractères morphologiques, anatomiques, propriétés physicochimiques et pharmacologiques)",
+      "Pour les plantes les plus importantes, les normes et essais sont inscrits dans des pharmacopées",
+      "Pour les autres plantes, les normes sont établies par divers organismes de standardisation",
+      "Aucune norme n'existe pour les drogues végétales"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Normaliser = choisir l'espèce, définir la drogue et ses qualités ; normes inscrites aux pharmacopées pour les plantes importantes, sinon établies par des organismes de standardisation.",
+    "source": {
+      "page": 7,
+      "extrait": "pour les plantes les plus importantes, les normes et les essais sont inscrits dans des pharmacopées"
+    },
+    "difficulte": 2,
+    "tags": [
+      "normalisation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/01-generalites/qcm-058",
+    "type": "multiple",
+    "enonce": "Le contrôle (essai) d'une drogue a pour but de, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Vérifier son identité",
+      "Contrôler sa pureté",
+      "S'assurer de sa qualité (son activité)",
+      "Déterminer son prix de vente",
+      "Fixer sa date de récolte"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "L'essai vise à vérifier l'identité, contrôler la pureté et s'assurer de la qualité (activité) de la drogue.",
+    "source": {
+      "page": 7,
+      "extrait": "le contrôle ou essai d'une drogue à pour but de vérifier son identité, contrôler sa pureté et s'assurer de sa qualité"
+    },
+    "difficulte": 1,
+    "tags": [
+      "essais"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/01-generalites/qcm-059",
+    "type": "unique",
+    "enonce": "L'essai d'une drogue comprend un contrôle :",
+    "options": [
+      "Uniquement botanique",
+      "Botanique et physicochimique uniquement",
+      "Botanique, physicochimique et physiologique",
+      "Uniquement physiologique",
+      "Uniquement organoleptique"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Cet essai comprend un contrôle botanique, physicochimique et physiologique.",
+    "source": {
+      "page": 7,
+      "extrait": "cet essai comprend un contrôle botanique, physicochimique et physiologique."
+    },
+    "difficulte": 1,
+    "tags": [
+      "essais"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/01-generalites/qcm-060",
+    "type": "multiple",
+    "enonce": "Concernant l'essai botanique, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Il comporte l'étude morphologique de la drogue",
+      "Il comporte l'analyse des caractères organoleptiques",
+      "Il comporte l'analyse microscopique des organes (coupe transversale)",
+      "Il recherche les éléments caractéristiques dans les poudres",
+      "Il permet le dosage précis des principes actifs"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "L'essai botanique (morphologie, caractères organoleptiques, microscopie, éléments caractéristiques des poudres) assure un premier contrôle d'identité et de pureté. Le dosage des PA relève de l'essai physicochimique.",
+    "source": {
+      "page": 7,
+      "extrait": "L'analyse microscopique des organes utilisés (coupe transversale) et la recherche des éléments caractéristiques dans les poudres"
+    },
+    "difficulte": 2,
+    "tags": [
+      "essai botanique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/01-generalites/qcm-061",
+    "type": "unique",
+    "enonce": "L'essai botanique assure :",
+    "options": [
+      "Un dosage des principes actifs",
+      "Un premier contrôle d'identité et de pureté",
+      "Une évaluation de la toxicité aiguë",
+      "Une détermination de la DL50",
+      "Un dosage des cendres"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "L'essai botanique assure un premier contrôle d'identité et de pureté.",
+    "source": {
+      "page": 7,
+      "extrait": "il assure ainsi un premier contrôle d'identité et de pureté."
+    },
+    "difficulte": 1,
+    "tags": [
+      "essai botanique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/01-generalites/qcm-062",
+    "type": "multiple",
+    "enonce": "Concernant l'essai physicochimique qualitatif, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Il met en évidence les principes actifs caractéristiques de la plante",
+      "Il peut utiliser des tests réalisés sur la drogue elle-même ou sur un extrait",
+      "Il peut faire appel à l'examen en UV, à la solubilité, aux réactions de coloration et de précipitation",
+      "Il peut faire appel à la CCM, la CPG ou l'HPLC",
+      "Il comprend le dosage de l'eau et des cendres"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "L'essai qualitatif met en évidence les PA (tests physiques/chimiques, CCM, CPG, HPLC…). Le dosage de l'eau, des cendres et des PA relève de l'essai quantitatif.",
+    "source": {
+      "page": 7,
+      "extrait": "par une séparation et une identification des différents PA (CCM, CPG, HPLC, méthodes combinées)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "essai physicochimique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/01-generalites/qcm-063",
+    "type": "multiple",
+    "enonce": "L'essai physicochimique quantitatif comprend le dosage, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "De l'eau",
+      "Des cendres",
+      "Des principes actifs",
+      "De la DL50",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "L'essai quantitatif comprend le dosage de l'eau, des cendres et des principes actifs. La DL50 relève de l'essai physiologique (toxicité).",
+    "source": {
+      "page": 7,
+      "extrait": "Il comprend le dosage de l'eau, des cendres et des PA."
+    },
+    "difficulte": 1,
+    "tags": [
+      "essai physicochimique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/01-generalites/qcm-064",
+    "type": "unique",
+    "enonce": "La teneur en eau d'une drogue végétale doit être, pour une bonne conservation :",
+    "options": [
+      "Inférieure à 10 %",
+      "Comprise entre 10 et 20 %",
+      "Supérieure à 20 %",
+      "Inférieure à 50 %",
+      "Supérieure à 60 %"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Le dosage de l'eau est nécessaire car un excès d'eau nuirait à la conservation : teneur inférieure à 10 %.",
+    "source": {
+      "page": 7,
+      "extrait": "un excès d'eau nuirait à la bonne conservation de la drogue (teneur inférieure à 10%)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "essai physicochimique",
+      "eau"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/01-generalites/qcm-065",
+    "type": "multiple",
+    "enonce": "Concernant les dosages de l'essai quantitatif, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Le dosage de l'eau est nécessaire car un excès d'eau nuit à la conservation",
+      "Le dosage des cendres évalue la teneur en éléments minéraux",
+      "Le dosage des principes actifs permet d'apprécier la qualité de la drogue",
+      "On peut doser un principe isolé ou un ensemble de principes de constitution voisine",
+      "Le dosage des cendres évalue la teneur en principes actifs organiques"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Les cendres reflètent la teneur en éléments minéraux (et non en PA organiques). Les autres propositions sont exactes.",
+    "source": {
+      "page": 7,
+      "extrait": "dosage des cendres : C'est une évaluation de la teneur en éléments minéraux des drogues végétales."
+    },
+    "difficulte": 2,
+    "tags": [
+      "essai physicochimique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/01-generalites/qcm-066",
+    "type": "multiple",
+    "enonce": "Concernant le dosage des principes actifs, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Il nécessite une extraction et une purification des principes à doser",
+      "Les techniques dépendent de la nature chimique des principes actifs",
+      "Les techniques dépendent de la quantité présumée des principes actifs",
+      "Il ne peut porter que sur un principe isolé",
+      "Il permet d'apprécier la qualité de la drogue"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explication": "On peut doser un principe isolé OU un ensemble de principes de constitution voisine. Les autres propositions sont exactes.",
+    "source": {
+      "page": 7,
+      "extrait": "on peut doser un principe isolé ou un ensemble de principes chimiques de constitution voisine"
+    },
+    "difficulte": 2,
+    "tags": [
+      "essai physicochimique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/01-generalites/qcm-067",
+    "type": "multiple",
+    "enonce": "Concernant l'essai physiologique, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Il se justifie car l'essai chimique ne reflète pas toujours l'activité réelle de la drogue",
+      "Il comporte un essai de toxicité aiguë (DMM, DL50)",
+      "Il comporte un essai de toxicité chronique",
+      "Il comporte un contrôle d'activité (action spécifique chez l'animal, essais in vitro et in vivo, activité antimicrobienne)",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "L'essai physiologique comprend toxicité aiguë (DMM, DL50) et chronique, et contrôle d'activité ; il se justifie car l'essai chimique ne reflète pas toujours l'activité réelle.",
+    "source": {
+      "page": 8,
+      "extrait": "L'essai chimique ne reflète pas toujours l'activité réelle de la drogue."
+    },
+    "difficulte": 2,
+    "tags": [
+      "essai physiologique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/01-generalites/qcm-068",
+    "type": "unique",
+    "enonce": "La DMM et la DL50 sont déterminées lors de :",
+    "options": [
+      "L'essai botanique",
+      "L'essai physicochimique qualitatif",
+      "L'essai de toxicité aiguë de l'essai physiologique",
+      "Le dosage des cendres",
+      "Le contrôle de la dessiccation"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "La toxicité aiguë (DMM, DL50) fait partie de l'essai physiologique.",
+    "source": {
+      "page": 8,
+      "extrait": "essai de toxicité : Toxicité aigüe (DMM, DL50) et toxicité chronique."
+    },
+    "difficulte": 2,
+    "tags": [
+      "essai physiologique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/01-generalites/qcm-069",
+    "type": "multiple",
+    "enonce": "Le contrôle d'activité de l'essai physiologique comprend, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "L'action spécifique chez l'animal",
+      "Des essais in vitro et in vivo sur cellules",
+      "La recherche de l'activité antimicrobienne",
+      "L'analyse microscopique des poudres",
+      "Le dosage de l'eau"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Contrôle d'activité : action spécifique chez l'animal, essais in vitro et in vivo sur cellules, activité antimicrobienne. La microscopie relève de l'essai botanique, le dosage de l'eau de l'essai physicochimique.",
+    "source": {
+      "page": 8,
+      "extrait": "contrôle d'activité : Action spécifique chez l'animal, essais in vitro et in vivo sur cellules, recherche de l'activité antimicrobienne."
+    },
+    "difficulte": 2,
+    "tags": [
+      "essai physiologique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/01-generalites/qcm-070",
+    "type": "multiple",
+    "enonce": "Associez correctement chaque technique à l'essai correspondant, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Coupe transversale au microscope → essai botanique",
+      "CCM, CPG, HPLC → essai physicochimique qualitatif",
+      "Dosage des cendres → essai physicochimique quantitatif",
+      "DL50 → essai physiologique",
+      "Examen organoleptique → essai physiologique"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "L'examen des caractères organoleptiques fait partie de l'essai botanique, pas de l'essai physiologique.",
+    "source": {
+      "page": 7,
+      "extrait": "L'étude morphologique et l'analyse des caractères organoleptiques de la drogue."
+    },
+    "difficulte": 3,
+    "tags": [
+      "essais"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/01-generalites/qcm-071",
+    "type": "multiple",
+    "enonce": "Parmi les propositions suivantes concernant la conservation des drogues, lesquelles sont fausses ?",
+    "options": [
+      "La dessiccation détruit les enzymes",
+      "La stabilisation dénature les enzymes",
+      "Le séchage au soleil n'altère jamais les principes actifs",
+      "Les dégradations enzymatiques nécessitent la présence d'eau",
+      "La lyophilisation est un procédé de dessiccation à froid"
+    ],
+    "correctes": [
+      0,
+      2
+    ],
+    "explication": "Fausses : a (la dessiccation empêche les enzymes d'agir sans les détruire) et c (les UV altèrent certains PA). Les propositions b, d et e sont exactes.",
+    "source": {
+      "page": 6,
+      "extrait": "la dessiccation ne détruit pas les enzymes mais les empêche d'agir"
+    },
+    "difficulte": 3,
+    "tags": [
+      "conservation"
+    ],
+    "origine": "genere"
+  }
+]

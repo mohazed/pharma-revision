@@ -1,0 +1,13 @@
+{
+  "id": "pharmacie-galenique/07-melange-des-poudres",
+  "module": "pharmacie-galenique",
+  "ordre": 7,
+  "titre": "Le mélange des poudres pharmaceutiques",
+  "source": {
+    "driveId": "1UN_EN6NYSfkYD_yF4UImza6-a7Aor2HY",
+    "fichier": "7. Le Mélange des Poudres Pharmaceutiques.pdf",
+    "modifiedTime": "2026-10-26T13:57:23.348Z"
+  },
+  "resume": "Définition, intérêt et qualité d'un mélange de poudres, états de mélange, variables influençant l'homogénéité (poudre, conditions opératoires, matériel), mélangeurs d'officine et industriels, contrôle de l'homogénéité.",
+  "type": "cours"
+}

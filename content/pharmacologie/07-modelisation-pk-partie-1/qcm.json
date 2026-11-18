@@ -1,0 +1,1978 @@
+[
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/qcm-001",
+    "type": "multiple",
+    "enonce": "Concernant la pharmacocinétique :",
+    "options": [
+      "Elle étudie le devenir d'un médicament dans l'organisme en fonction du temps",
+      "Elle étudie l'action du médicament sur l'organisme",
+      "Elle étudie l'action de l'organisme sur le médicament",
+      "Elle regroupe les processus d'absorption, distribution, métabolisme et élimination (système ADME)",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      0,
+      2,
+      3
+    ],
+    "explication": "La pharmacocinétique est l'étude du devenir du médicament dans l'organisme en fonction du temps, c'est-à-dire l'action de l'organisme sur le médicament (système ADME). L'action du médicament sur l'organisme relève de la pharmacodynamie (b faux).",
+    "source": {
+      "page": 2,
+      "extrait": "Etude de devenir d'un médicament dans l'organisme en fonction du temps. Action de l'organisme sur le médicament."
+    },
+    "difficulte": 1,
+    "tags": [
+      "pharmacocinétique",
+      "ADME"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/qcm-002",
+    "type": "multiple",
+    "enonce": "La pharmacocinétique quantitative :",
+    "options": [
+      "Décrit qualitativement l'action de l'organisme sur le médicament",
+      "Quantifie les processus pharmacocinétiques",
+      "Fait appel à la modélisation mathématique",
+      "Est basée sur la notion de compartiment",
+      "Aboutit à un modèle mathématique fait d'équations et de courbes"
+    ],
+    "correctes": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "La pharmacocinétique descriptive décrit l'action de l'organisme sur le médicament (a correspond à la descriptive). La quantitative quantifie les processus grâce à une modélisation mathématique basée sur la notion de compartiment, aboutissant à des équations et des courbes.",
+    "source": {
+      "page": 5,
+      "extrait": "Quantification des processus pharmacocinétiques ; Modèle mathématique (Equations , Courbes)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "pharmacocinétique quantitative"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/qcm-003",
+    "type": "multiple",
+    "enonce": "Parmi les intérêts de l'étude de la pharmacocinétique quantitative, on cite :",
+    "options": [
+      "L'adaptation des posologies",
+      "L'évaluation de la bioéquivalence (générique vs référence)",
+      "Le suivi (monitoring) thérapeutique",
+      "L'établissement du schéma posologique",
+      "Toutes les propositions sont justes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le cours cite exactement ces quatre intérêts : établissement du schéma posologique, suivi thérapeutique, adaptation des posologies et évaluation de la bioéquivalence.",
+    "source": {
+      "page": 7,
+      "extrait": "Etablissement du schéma posologique. Suivi (monitoring) thérapeutique. adaptation posologies. Évaluation bioéquivalence"
+    },
+    "difficulte": 1,
+    "tags": [
+      "intérêt"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/qcm-004",
+    "type": "unique",
+    "enonce": "Un modèle pharmacocinétique est défini comme :",
+    "options": [
+      "Une représentation graphique de l'effet pharmacologique en fonction de la dose",
+      "Une représentation mathématique du comportement d'un médicament dans l'organisme",
+      "Une description qualitative du système ADME",
+      "Un ensemble de molécules ayant la même probabilité d'être affectées par le même événement",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Le modèle est une représentation mathématique du comportement d'un médicament dans l'organisme. La proposition d correspond à la définition d'un compartiment.",
+    "source": {
+      "page": 8,
+      "extrait": "Représentation mathématique du comportement d'un médicament dans l'organisme."
+    },
+    "difficulte": 1,
+    "tags": [
+      "modèle"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/qcm-005",
+    "type": "multiple",
+    "enonce": "Concernant les approches de modélisation pharmacocinétique :",
+    "options": [
+      "Il existe deux approches : compartimentale et non compartimentale",
+      "Dans l'approche compartimentale, le corps humain est assimilé à des compartiments",
+      "Dans l'approche non compartimentale, le corps humain est assimilé à un seul compartiment",
+      "L'approche non compartimentale déduit les paramètres à partir de points expérimentaux (Cmax, Tmax) et de formules simples",
+      "L'approche non compartimentale nécessite obligatoirement l'aide de modèles"
+    ],
+    "correctes": [
+      0,
+      1,
+      3
+    ],
+    "explication": "Deux approches : compartimentale (corps humain = compartiments) et non compartimentale (corps humain ≠ compartiments). Cette dernière déduit les paramètres de points expérimentaux (Cmax, Tmax) et de formules simples sans l'aide de modèles (c et e faux).",
+    "source": {
+      "page": 10,
+      "extrait": "Déduction des paramètres pharmacocinétiques à partir de points expérimentaux (Cmax, Tmax) et de formules simples sans l'aide de modèles."
+    },
+    "difficulte": 1,
+    "tags": [
+      "approche non compartimentale",
+      "approche compartimentale"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/qcm-006",
+    "type": "multiple",
+    "enonce": "Dans l'approche non compartimentale, les paramètres pharmacocinétiques sont déduits :",
+    "options": [
+      "D'un modèle bicompartimental obligatoirement",
+      "De points expérimentaux comme le Tmax",
+      "De formules simples",
+      "De points expérimentaux comme la Cmax",
+      "De l'assimilation du corps humain à un compartiment central unique"
+    ],
+    "correctes": [
+      1,
+      2,
+      3
+    ],
+    "explication": "L'approche non compartimentale utilise des points expérimentaux (Cmax, Tmax) et des formules simples sans l'aide de modèles ; elle ne considère pas le corps comme des compartiments.",
+    "source": {
+      "page": 10,
+      "extrait": "à partir de points expérimentaux (Cmax, Tmax) et de formules simples sans l'aide de modèles"
+    },
+    "difficulte": 1,
+    "tags": [
+      "approche non compartimentale"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/qcm-007",
+    "type": "unique",
+    "enonce": "Selon le cours, un compartiment est :",
+    "options": [
+      "Un organe anatomique précis comme le foie ou le rein",
+      "Un ensemble de molécules ayant la même probabilité d'être affectées au même moment par le même événement",
+      "Le volume réel de liquide biologique dans lequel se distribue le médicament",
+      "Un volume fictif égal au rapport de la quantité de médicament sur la concentration plasmatique",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Le compartiment est défini comme un ensemble de molécules ayant la même probabilité d'être affectées au même moment par le même événement. La proposition d est la définition du volume apparent de distribution.",
+    "source": {
+      "page": 12,
+      "extrait": "ensemble de molécules ayant la même probabilité d'être affectées au même moment par le même événement."
+    },
+    "difficulte": 1,
+    "tags": [
+      "compartiment"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/qcm-008",
+    "type": "multiple",
+    "enonce": "Concernant les compartiments de l'approche compartimentale :",
+    "options": [
+      "L'os est un exemple de compartiment périphérique profond",
+      "Le muscle est un exemple de compartiment périphérique profond",
+      "L'élimination se fait à partir du compartiment central",
+      "Le muscle est un exemple de compartiment périphérique superficiel",
+      "On distingue un compartiment central et des compartiments périphériques"
+    ],
+    "correctes": [
+      0,
+      2,
+      3,
+      4
+    ],
+    "explication": "Compartiment central et compartiments périphériques superficiels (muscle) et profonds (os). Sur le schéma du cours, l'absorption et l'élimination se font au niveau du compartiment 1 (central), qui échange par distribution avec les autres compartiments.",
+    "source": {
+      "page": 12,
+      "extrait": "Compartiments périphériques: Superficiels (muscle). Profonds (os)."
+    },
+    "difficulte": 1,
+    "tags": [
+      "compartiment"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/qcm-009",
+    "type": "multiple",
+    "enonce": "Sur le schéma de l'approche compartimentale du cours :",
+    "options": [
+      "Le compartiment 4 échange par distribution avec le compartiment 2",
+      "Le corps humain est représenté par un ou plusieurs compartiments",
+      "Le médicament absorbé arrive dans le compartiment 1 (central)",
+      "Les compartiments 2 et 3 échangent avec le compartiment central par distribution",
+      "L'élimination se fait à partir du compartiment 3"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Sur le schéma, l'absorption alimente le compartiment 1 (central) d'où part l'élimination ; les compartiments 2 et 3 échangent par distribution avec le central, et le compartiment 4 avec le compartiment 2.",
+    "source": {
+      "page": 11,
+      "extrait": "Corps Humain → un ou plusieurs compartiments"
+    },
+    "difficulte": 2,
+    "tags": [
+      "compartiment"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/qcm-010",
+    "type": "multiple",
+    "enonce": "Concernant les modèles compartimentaux :",
+    "options": [
+      "On distingue notamment le modèle monocompartimental et le modèle bicompartimental",
+      "Dans le modèle bicompartimental, la courbe montre une phase de distribution suivie d'une phase d'élimination",
+      "Dans le modèle monocompartimental, la courbe de la quantité dans le sang montre une phase de distribution puis une phase d'élimination",
+      "Dans le modèle monocompartimental, le corps humain est assimilé à un seul compartiment central",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      0,
+      1,
+      3
+    ],
+    "explication": "Le cours distingue mono- et bicompartimental. Sur la courbe du modèle bicompartimental, on distingue une phase de distribution puis une phase d'élimination ; dans le monocompartimental, le corps est un seul compartiment (central) et il n'y a pas de phase de distribution distincte.",
+    "source": {
+      "page": 15,
+      "extrait": "Bicompartimental : distribution, élimination"
+    },
+    "difficulte": 2,
+    "tags": [
+      "monocompartimental",
+      "bicompartimental"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/qcm-011",
+    "type": "unique",
+    "enonce": "Le modèle pharmacocinétique permet la quantification des processus ADME à l'aide :",
+    "options": [
+      "Uniquement de dosages urinaires",
+      "De l'effet pharmacologique mesuré",
+      "D'essais cliniques de phase III",
+      "Des représentations graphiques et des paramètres pharmacocinétiques spécifiques à chaque phase",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      3
+    ],
+    "explication": "Le modèle pharmacocinétique quantifie les processus ADME à l'aide des représentations graphiques et des paramètres spécifiques à chaque phase.",
+    "source": {
+      "page": 17,
+      "extrait": "à l'aide des représentations graphiques et des paramètres pharmacocinétiques spécifiques à chaque phase."
+    },
+    "difficulte": 1,
+    "tags": [
+      "modèle"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/qcm-012",
+    "type": "multiple",
+    "enonce": "Parmi les paramètres de la phase d'absorption, on trouve :",
+    "options": [
+      "La constante de vitesse de distribution Kd",
+      "La constante de vitesse d'absorption Ka",
+      "Le coefficient d'extraction E",
+      "Le coefficient de résorption f",
+      "La biodisponibilité absolue F"
+    ],
+    "correctes": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Les paramètres de la phase d'absorption sont : f, Ka, E, F et l'AUC. La Kd appartient à la phase de distribution.",
+    "source": {
+      "page": 18,
+      "extrait": "Coefficient de résorption f ; Constante de vitesse d'absorption Ka ; Coefficient d'extraction E ; Biodisponibilité absolue F"
+    },
+    "difficulte": 1,
+    "tags": [
+      "paramètres d'absorption"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/qcm-013",
+    "type": "multiple",
+    "enonce": "Le coefficient de résorption f :",
+    "options": [
+      "Est la fraction ou le pourcentage de la dose administrée ayant été résorbée",
+      "Est la fraction qui passe dans la circulation générale après administration",
+      "S'exprime en 1/h",
+      "S'exprime en %",
+      "Est la fraction extraite par un organe à chaque passage"
+    ],
+    "correctes": [
+      0,
+      3
+    ],
+    "explication": "f = fraction ou pourcentage de la dose administrée ayant été résorbée, en %. La fraction extraite par un organe est E ; la fraction passant dans la circulation générale est F.",
+    "source": {
+      "page": 18,
+      "extrait": "f % Fraction ou pourcentage de la dose administrée ayant été résorbée."
+    },
+    "difficulte": 1,
+    "tags": [
+      "coefficient de résorption"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/qcm-014",
+    "type": "multiple",
+    "enonce": "La constante de vitesse d'absorption Ka :",
+    "options": [
+      "S'exprime en 1/h",
+      "S'exprime en %",
+      "Est la constante de vitesse du processus total de transfert du médicament de l'extérieur vers l'intérieur de l'organisme",
+      "Concerne le transfert à travers toute membrane biologique",
+      "Est la constante de vitesse du passage du compartiment central vers les autres compartiments"
+    ],
+    "correctes": [
+      0,
+      2,
+      3
+    ],
+    "explication": "Ka (1/h) : constante de vitesse du processus total de transfert du médicament de l'extérieur vers l'intérieur de l'organisme, à travers toute membrane biologique. La proposition e définit Kd.",
+    "source": {
+      "page": 18,
+      "extrait": "Constante de vitesse du processus total de transfert du médicament, de l'extérieur vers l'intérieur de l'organisme"
+    },
+    "difficulte": 1,
+    "tags": [
+      "Ka"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/qcm-015",
+    "type": "multiple",
+    "enonce": "Le coefficient d'extraction E :",
+    "options": [
+      "Est la fraction du médicament extraite par un organe à chaque passage",
+      "Est un paramètre de la phase d'élimination selon le tableau du cours",
+      "S'exprime en %",
+      "S'exprime en µg.h/ml",
+      "Correspond à une fraction soustraite à la circulation générale"
+    ],
+    "correctes": [
+      0,
+      2,
+      4
+    ],
+    "explication": "E (%) est la fraction du médicament extraite par un organe à chaque passage et soustraite à la circulation générale ; il figure dans le tableau des paramètres de la phase d'absorption.",
+    "source": {
+      "page": 18,
+      "extrait": "Fraction du médicament extraite par un organe à chaque passage et soustraite à la circulation générale"
+    },
+    "difficulte": 1,
+    "tags": [
+      "coefficient d'extraction"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/qcm-016",
+    "type": "unique",
+    "enonce": "La biodisponibilité absolue F est définie comme :",
+    "options": [
+      "La fraction extraite par le foie à chaque passage",
+      "La fraction ou le pourcentage d'un médicament qui, après administration, passe dans la circulation générale",
+      "Le volume sanguin épuré par unité de temps",
+      "La fraction de la dose ayant été résorbée",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "F (%) est la fraction ou le pourcentage d'un médicament qui, après administration, passe dans la circulation générale.",
+    "source": {
+      "page": 18,
+      "extrait": "Fraction ou pourcentage d'un médicament qui, après administration, passe dans la circulation générale"
+    },
+    "difficulte": 1,
+    "tags": [
+      "biodisponibilité"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/qcm-017",
+    "type": "multiple",
+    "enonce": "La surface sous la courbe (AUC) :",
+    "options": [
+      "Peut être calculée de 0 à t (AUC 0→t) ou de 0 à l'infini (AUC 0→∞)",
+      "S'exprime en ml/min",
+      "Est délimitée par les axes et la courbe des concentrations sanguines ou plasmatiques en fonction du temps",
+      "Figure parmi les paramètres de la phase d'absorption",
+      "S'exprime en µg.h/ml"
+    ],
+    "correctes": [
+      0,
+      2,
+      3,
+      4
+    ],
+    "explication": "L'AUC (µg.h/ml), AUC 0→t ou 0→∞, est la surface délimitée par les axes et la courbe des concentrations en fonction du temps ; elle figure dans le tableau de la phase d'absorption. ml/min est l'unité de la clairance.",
+    "source": {
+      "page": 18,
+      "extrait": "Surface délimitée par les axes et la courbe des concentrations sanguines ou plasmatiques du médicament en fonction du temps."
+    },
+    "difficulte": 1,
+    "tags": [
+      "AUC"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/qcm-018",
+    "type": "multiple",
+    "enonce": "Le volume apparent de distribution Vd :",
+    "options": [
+      "Est le volume dans lequel devrait se distribuer le médicament pour être à la même concentration que celle du plasma",
+      "S'exprime en l ou en l/kg",
+      "Est un volume fictif de liquide biologique",
+      "Correspond toujours au volume réel des compartiments physiologiques",
+      "Est le rapport de la quantité de médicament présente dans l'organisme à sa concentration plasmatique, une fois l'équilibre atteint"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explication": "Vd est un volume fictif (l ou l/kg), rapport de la quantité présente dans l'organisme à la concentration plasmatique à l'équilibre. Il peut dépasser très largement le volume total de l'organisme, donc il ne correspond pas toujours à un volume réel.",
+    "source": {
+      "page": 19,
+      "extrait": "Volume fictif de liquide biologique dans lequel devrait se distribuer le médicament pour être à la même concentration que celle du plasma."
+    },
+    "difficulte": 1,
+    "tags": [
+      "volume de distribution"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/qcm-019",
+    "type": "multiple",
+    "enonce": "La constante de vitesse de distribution Kd :",
+    "options": [
+      "S'exprime en 1/h",
+      "Est la constante de vitesse du passage du médicament du compartiment central vers les autres compartiments",
+      "Est un paramètre de la phase d'absorption",
+      "Est la constante du passage de l'extérieur vers l'intérieur de l'organisme",
+      "Est un paramètre de la phase de distribution"
+    ],
+    "correctes": [
+      0,
+      1,
+      4
+    ],
+    "explication": "Kd (1/h) est un paramètre de la phase de distribution : constante de vitesse du passage du médicament du compartiment central vers les autres compartiments. La proposition d définit Ka.",
+    "source": {
+      "page": 19,
+      "extrait": "Constante de vitesse du passage du médicament du compartiment central de l'organisme vers les autres compartiments"
+    },
+    "difficulte": 1,
+    "tags": [
+      "Kd"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/qcm-020",
+    "type": "multiple",
+    "enonce": "Concernant l'interprétation du volume apparent de distribution :",
+    "options": [
+      "Un Vd de 10 à 50 l correspond à des volumes compatibles avec ceux des compartiments physiologiques",
+      "La warfarine et la phénylbutazone ont un Vd < 10 l",
+      "Un Vd < 10 l (< 0,15 l/kg) traduit une distribution limitée au niveau de la circulation sanguine",
+      "L'amoxicilline et le furosémide ont un Vd compris entre 50 et 200 l",
+      "Un Vd de 50 à 200 l témoigne d'une distribution élevée du médicament dans l'organisme"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explication": "Selon le tableau : < 10 l (warfarine, phénylbutazone) = distribution limitée au sang ; 10–50 l (amoxicilline, furosémide) = volumes compatibles avec les compartiments physiologiques ; 50–200 l (digitaline, phénobarbital) = valeurs dépassant très largement le volume de l'organisme, distribution élevée.",
+    "source": {
+      "page": 20,
+      "extrait": "< 10 l (< 0.15 l/kg) Warfarine Phénylbutazone Distribution limitée au niveau de la circulation sanguine"
+    },
+    "difficulte": 2,
+    "tags": [
+      "volume de distribution"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/qcm-021",
+    "type": "multiple",
+    "enonce": "Associez correctement le médicament à sa classe de volume de distribution :",
+    "options": [
+      "Péthidine : 200 – 1000 l (3 – 15 l/kg)",
+      "Chloroquine : > 5000 l (> 75 l/kg)",
+      "Halopéridol : 1000 – 5000 l (15 – 75 l/kg)",
+      "Phénobarbital : 10 – 50 l (0,15 – 0,75 l/kg)",
+      "Digoxine : 200 – 1000 l (3 – 15 l/kg)"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explication": "Digoxine et péthidine : 200–1000 l ; chlorpromazine et halopéridol : 1000–5000 l ; chloroquine : > 5000 l. Le phénobarbital (comme la digitaline) est dans la classe 50–200 l (0,75–3 l/kg).",
+    "source": {
+      "page": 20,
+      "extrait": "200 – 1000 l (3 – 15 l/kg) Digoxine Péthidine ; >5000 l (> 75 l/kg) Chloroquine"
+    },
+    "difficulte": 2,
+    "tags": [
+      "volume de distribution"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/qcm-022",
+    "type": "unique",
+    "enonce": "Parmi les médicaments suivants, lequel possède le volume apparent de distribution le plus élevé selon le cours ?",
+    "options": [
+      "Chlorpromazine",
+      "Chloroquine",
+      "Digitaline",
+      "Amoxicilline",
+      "Warfarine"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "La chloroquine a un Vd > 5000 l (> 75 l/kg), le plus élevé du tableau. Chlorpromazine : 1000–5000 l ; digitaline : 50–200 l ; amoxicilline : 10–50 l ; warfarine : < 10 l.",
+    "source": {
+      "page": 20,
+      "extrait": ">5000 l (> 75 l/kg) Chloroquine"
+    },
+    "difficulte": 1,
+    "tags": [
+      "volume de distribution"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/qcm-023",
+    "type": "multiple",
+    "enonce": "Un médicament a un volume apparent de distribution de 0,1 l/kg. On peut dire que :",
+    "options": [
+      "Il se trouve dans la même classe que la digoxine",
+      "Son Vd témoigne d'une distribution élevée dans l'organisme",
+      "Sa distribution est limitée au niveau de la circulation sanguine",
+      "Il se trouve dans la même classe que la warfarine",
+      "Son Vd est compatible avec celui des compartiments physiologiques"
+    ],
+    "correctes": [
+      2,
+      3
+    ],
+    "explication": "0,1 l/kg < 0,15 l/kg : classe < 10 l, comme la warfarine et la phénylbutazone, traduisant une distribution limitée au niveau de la circulation sanguine.",
+    "source": {
+      "page": 20,
+      "extrait": "< 10 l (< 0.15 l/kg) Warfarine Phénylbutazone Distribution limitée"
+    },
+    "difficulte": 2,
+    "tags": [
+      "volume de distribution"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/qcm-024",
+    "type": "multiple",
+    "enonce": "La clairance totale (Cl) :",
+    "options": [
+      "S'exprime en ml/min",
+      "Est un paramètre de la phase de distribution",
+      "Représente la capacité de l'organisme à épurer le médicament",
+      "S'exprime en mg/min",
+      "Est le volume sanguin totalement débarrassé d'une substance par unité de temps"
+    ],
+    "correctes": [
+      0,
+      2,
+      4
+    ],
+    "explication": "Cl (ml/min) : volume sanguin totalement débarrassé d'une substance par unité de temps, c'est la capacité de l'organisme à épurer le médicament ; c'est un paramètre de la phase d'élimination.",
+    "source": {
+      "page": 21,
+      "extrait": "Volume sanguin totalement débarrassé d'une substance par unité de temps. C'est la capacité de l'organisme à épurer le médicament."
+    },
+    "difficulte": 1,
+    "tags": [
+      "clairance"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/qcm-025",
+    "type": "multiple",
+    "enonce": "Concernant les paramètres de la phase d'élimination :",
+    "options": [
+      "La constante de vitesse d'élimination Ke s'exprime en 1/h",
+      "T1/2 est l'intervalle de temps au bout duquel la moitié du médicament est éliminée",
+      "Le temps de demi-vie d'élimination T1/2 s'exprime en heures",
+      "Ke est la constante de vitesse du (ou des) processus d'élimination du médicament dans l'organisme",
+      "Toutes les propositions sont justes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le tableau de la phase d'élimination comporte Cl (ml/min), T1/2 (h) — intervalle au bout duquel la moitié du médicament est éliminée — et Ke (1/h), constante de vitesse du ou des processus d'élimination.",
+    "source": {
+      "page": 21,
+      "extrait": "Intervalle de temps au bout duquel la moitié du médicament éliminée."
+    },
+    "difficulte": 1,
+    "tags": [
+      "demi-vie",
+      "Ke"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/qcm-026",
+    "type": "multiple",
+    "enonce": "Classification des médicaments selon leur temps de demi-vie d'élimination :",
+    "options": [
+      "T1/2 < 2 h : médicament à T1/2 très courte",
+      "2 < T1/2 ≤ 6 h : médicament à T1/2 courte",
+      "6 < T1/2 ≤ 12 h : médicament à T1/2 longue",
+      "12 < T1/2 ≤ 30 h : médicament à T1/2 longue",
+      "T1/2 > 30 h : médicament à T1/2 très longue"
+    ],
+    "correctes": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "explication": "6 < T1/2 ≤ 12 h correspond à une T1/2 intermédiaire (c faux). Les autres classes sont correctes.",
+    "source": {
+      "page": 22,
+      "extrait": "6 < T1/2 ≤ 12 Médicament à T1/2 intermédiaire"
+    },
+    "difficulte": 2,
+    "tags": [
+      "demi-vie",
+      "classification"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/qcm-027",
+    "type": "unique",
+    "enonce": "Un médicament dont le temps de demi-vie d'élimination est de 12 heures est classé comme ayant une T1/2 :",
+    "options": [
+      "Très longue",
+      "Courte",
+      "Longue",
+      "Intermédiaire",
+      "Très courte"
+    ],
+    "correctes": [
+      3
+    ],
+    "explication": "La borne supérieure de la classe intermédiaire est incluse : 6 < T1/2 ≤ 12 h. Une T1/2 de 12 h est donc intermédiaire (la classe longue commence strictement au-dessus de 12 h).",
+    "source": {
+      "page": 22,
+      "extrait": "6 < T1/2 ≤ 12 Médicament à T1/2 intermédiaire"
+    },
+    "difficulte": 3,
+    "tags": [
+      "demi-vie",
+      "classification"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/qcm-028",
+    "type": "unique",
+    "enonce": "Un médicament dont la T1/2 est de 30 heures est classé comme ayant une T1/2 :",
+    "options": [
+      "Très courte",
+      "Longue",
+      "Intermédiaire",
+      "Courte",
+      "Très longue"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "La classe longue est 12 < T1/2 ≤ 30 h, borne supérieure incluse : 30 h correspond donc à une T1/2 longue (très longue = strictement > 30 h).",
+    "source": {
+      "page": 22,
+      "extrait": "12 < T1/2 ≤ 30 Médicament à T1/2 longue"
+    },
+    "difficulte": 3,
+    "tags": [
+      "demi-vie",
+      "classification"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/qcm-029",
+    "type": "multiple",
+    "enonce": "Un médicament a une T1/2 de 40 heures. Cochez les propositions correctes :",
+    "options": [
+      "Sa T1/2 est supérieure à 30 heures",
+      "Il est classé à T1/2 très longue",
+      "Il est classé à T1/2 longue",
+      "Il appartient à la classe 12 < T1/2 ≤ 30",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "T1/2 > 30 h correspond à un médicament à T1/2 très longue.",
+    "source": {
+      "page": 22,
+      "extrait": "T1/2 > 30 Médicament à T1/2 très longue"
+    },
+    "difficulte": 1,
+    "tags": [
+      "demi-vie",
+      "classification"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/qcm-030",
+    "type": "multiple",
+    "enonce": "La modélisation pharmacocinétique permet la quantification des processus pharmacocinétiques :",
+    "options": [
+      "Après administration à dose unique",
+      "Après administration à doses répétées",
+      "Après administration continue (perfusion)",
+      "Uniquement après administration intraveineuse",
+      "À l'aide des modèles mono- et bicompartimental, par voie orale ou IV"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explication": "Le cours distingue dose unique (modèles mono- et bicompartimental, voie orale ou IV), doses répétées (administration répétée) et administration continue (perfusion). La voie orale est également modélisée (d faux).",
+    "source": {
+      "page": 23,
+      "extrait": "après administration à dose unique ; après administration à doses répétés ; après administration continue"
+    },
+    "difficulte": 1,
+    "tags": [
+      "modélisation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/qcm-031",
+    "type": "multiple",
+    "enonce": "Dans le modèle monocompartimental après injection intraveineuse :",
+    "options": [
+      "Le corps humain est assimilé à un seul compartiment (compartiment central)",
+      "Il existe une phase d'absorption",
+      "La décroissance des concentrations est due à l'élimination",
+      "La concentration suit l'équation C = C0 e^(−ke·t)",
+      "La concentration suit l'équation Cp = E·e^(−ke·t) − A·e^(−ka·t)"
+    ],
+    "correctes": [
+      0,
+      2,
+      3
+    ],
+    "explication": "Après injection IV, pas d'absorption : le médicament est directement dans le compartiment central et la décroissance est exponentielle, C = C0·e^(−ke·t). L'équation e est celle de la voie orale.",
+    "source": {
+      "page": 26,
+      "extrait": "C=C0 e–ke t"
+    },
+    "difficulte": 1,
+    "tags": [
+      "monocompartimental IV"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/qcm-032",
+    "type": "multiple",
+    "enonce": "Dans l'équation C = C0·e^(−ke·t) :",
+    "options": [
+      "ke est la constante de vitesse d'élimination",
+      "ke est la constante de vitesse d'absorption",
+      "C0 est la concentration maximale observée après administration orale",
+      "C0 est la concentration plasmatique au temps t0",
+      "C(t) est la concentration plasmatique au temps t"
+    ],
+    "correctes": [
+      0,
+      3,
+      4
+    ],
+    "explication": "C0 : concentration plasmatique au temps t0 ; C(t) : concentration au temps t ; ke : constante de vitesse d'élimination.",
+    "source": {
+      "page": 26,
+      "extrait": "C0: concentration plasmatique au temps t0. C(t): concentration plasmatique au temps t. ke : constante de vitesse d'élimination."
+    },
+    "difficulte": 1,
+    "tags": [
+      "monocompartimental IV"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/qcm-033",
+    "type": "multiple",
+    "enonce": "Après transformation logarithmique, dans le modèle monocompartimental IV :",
+    "options": [
+      "ln C = ln C0 − ke·t",
+      "log C = log C0 − (ke / 2,303)·t",
+      "log C = log C0 − 2,303·ke·t",
+      "La représentation de log C en fonction du temps est une droite",
+      "On utilise la relation ln X = 2,303 log X"
+    ],
+    "correctes": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "explication": "ln C = ln C0 − ke·t ; comme ln X = 2,303 log X, log C = log C0 − (ke/2,303)·t : droite de pente a = −ke/2,303. La proposition c est fausse (on divise par 2,303).",
+    "source": {
+      "page": 28,
+      "extrait": "Puisque lnX=2,303logX, on obtient: logC = logC0 − (ke/2,303).t"
+    },
+    "difficulte": 2,
+    "tags": [
+      "transformation logarithmique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/qcm-034",
+    "type": "multiple",
+    "enonce": "Sur la droite log C = a·t + log C0 (modèle monocompartimental IV) :",
+    "options": [
+      "L'ordonnée à l'origine correspond à log C0",
+      "La pente a est négative",
+      "ke = −a / 2,303",
+      "ke = −2,303·a",
+      "a = (log C2 − log C1) / (t2 − t1)"
+    ],
+    "correctes": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "explication": "La pente a = (log C2 − log C1)/(t2 − t1) est négative car les concentrations décroissent ; ke = −2,303·a ; l'ordonnée à l'origine est log C0.",
+    "source": {
+      "page": 29,
+      "extrait": "ke = −2,303.a"
+    },
+    "difficulte": 2,
+    "tags": [
+      "Ke",
+      "pente"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/qcm-035",
+    "type": "unique",
+    "enonce": "La pente de la droite log C = f(t) d'un médicament injecté par voie IV vaut −0,1 h⁻¹. La constante de vitesse d'élimination ke vaut :",
+    "options": [
+      "0,2303 h⁻¹",
+      "0,693 h⁻¹",
+      "0,1 h⁻¹",
+      "0,043 h⁻¹",
+      "2,303 h⁻¹"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "ke = −2,303 × a = −2,303 × (−0,1) = 0,2303 h⁻¹.",
+    "source": {
+      "page": 29,
+      "extrait": "ke = −2,303.a"
+    },
+    "difficulte": 2,
+    "tags": [
+      "Ke",
+      "calcul"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/qcm-036",
+    "type": "multiple",
+    "enonce": "Concernant le temps de demi-vie d'élimination dans le modèle monocompartimental IV :",
+    "options": [
+      "Mathématiquement, t1/2 = ln2 / ke",
+      "Il se déduit de ke·t = ln(C1/C2)",
+      "Graphiquement, t1/2 = t2 − t1 où C2 = C1/2",
+      "Il se lit sur la droite log C en fonction du temps",
+      "Mathématiquement, t1/2 = ke / ln2"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "De ln C2 = ln C1 − ke·t on tire ke·t = ln(C1/C2) ; si C2 = C1/2, t1/2 = ln2/ke. Graphiquement, t1/2 = t2 − t1 avec C2 = C1/2 sur la droite log C = f(t).",
+    "source": {
+      "page": 30,
+      "extrait": "t1/2 = t2 − t1 ; t1/2 = ln2 / ke"
+    },
+    "difficulte": 1,
+    "tags": [
+      "demi-vie"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/qcm-037",
+    "type": "unique",
+    "enonce": "Un médicament a une constante de vitesse d'élimination ke = 0,0693 h⁻¹. Son temps de demi-vie d'élimination est :",
+    "options": [
+      "1 h",
+      "0,1 h",
+      "10 h",
+      "100 h",
+      "6,93 h"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "t1/2 = ln2/ke = 0,693/0,0693 = 10 h.",
+    "source": {
+      "page": 30,
+      "extrait": "t1/2 = ln2 / ke"
+    },
+    "difficulte": 1,
+    "tags": [
+      "demi-vie",
+      "calcul"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/qcm-038",
+    "type": "multiple",
+    "enonce": "Concernant le calcul de l'AUC par la méthode des trapèzes :",
+    "options": [
+      "L'aire d'un trapèze n°1 = (C1 + C2) × (t2 − t1)",
+      "C'est une méthode graphique",
+      "L'aire d'un trapèze n°1 = [(C1 + C2)/2] × (t2 − t1)",
+      "L'aire totale est la somme des aires des différents trapèzes",
+      "C'est une méthode mathématique utilisant Cp0/ke"
+    ],
+    "correctes": [
+      1,
+      2,
+      3
+    ],
+    "explication": "La méthode des trapèzes est graphique : aire n°1 = (C1 + C2)/2 × (t2 − t1), et l'aire totale est la somme des aires. La formule AUC = Cp0/ke est la méthode mathématique.",
+    "source": {
+      "page": 31,
+      "extrait": "AIRE N°1 = (C1 +C2)/2 (t2-t1) ; AIRE TOTALE = AIRE N°1 + AIRE N°2 + AIRE N°3+…… AIRE N°n"
+    },
+    "difficulte": 1,
+    "tags": [
+      "AUC",
+      "trapèzes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/qcm-039",
+    "type": "unique",
+    "enonce": "Selon la méthode mathématique (modèle monocompartimental IV), l'AUC de 0 à l'infini est égale à :",
+    "options": [
+      "ke / Cp0",
+      "Cp0 / ke",
+      "ln2 / ke",
+      "Q / Cp0",
+      "Cp0 × ke"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "AUC0→∞ = Cp0 / ke. Q/Cp0 est le Vd et ln2/ke la demi-vie.",
+    "source": {
+      "page": 32,
+      "extrait": "AUC0→∞ = Cp0 / ke"
+    },
+    "difficulte": 1,
+    "tags": [
+      "AUC"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/qcm-040",
+    "type": "unique",
+    "enonce": "Un médicament injecté par voie IV a une Cp0 de 20 mg/L et une ke de 0,25 h⁻¹. L'AUC0→∞ vaut :",
+    "options": [
+      "40 mg.h/L",
+      "20 mg.h/L",
+      "5 mg.h/L",
+      "0,0125 mg.h/L",
+      "80 mg.h/L"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "AUC0→∞ = Cp0/ke = 20/0,25 = 80 mg.h/L.",
+    "source": {
+      "page": 32,
+      "extrait": "AUC0→∞ = Cp0 / ke"
+    },
+    "difficulte": 2,
+    "tags": [
+      "AUC",
+      "calcul"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/qcm-041",
+    "type": "multiple",
+    "enonce": "Concernant le volume de distribution dans le modèle monocompartimental IV :",
+    "options": [
+      "Vd = Q / Cp0",
+      "Vd peut aussi s'écrire Cl / ke",
+      "Q représente la quantité (dose) de médicament administrée",
+      "Cp0 est la concentration plasmatique initiale",
+      "Vd = Cp0 / Q"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Vd = Q/Cp0 ; de Cl = ke × Vd on tire aussi Vd = Cl/ke (formule également donnée pour la voie orale).",
+    "source": {
+      "page": 33,
+      "extrait": "Vd = Q / Cp0"
+    },
+    "difficulte": 1,
+    "tags": [
+      "volume de distribution"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/qcm-042",
+    "type": "unique",
+    "enonce": "On injecte par voie IV 500 mg d'un médicament ; la concentration plasmatique initiale extrapolée est de 10 mg/L. Le Vd est de :",
+    "options": [
+      "5000 L",
+      "500 L",
+      "5 L",
+      "0,02 L",
+      "50 L"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Vd = Q/Cp0 = 500/10 = 50 L.",
+    "source": {
+      "page": 33,
+      "extrait": "Vd = Q / Cp0"
+    },
+    "difficulte": 1,
+    "tags": [
+      "volume de distribution",
+      "calcul"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/qcm-043",
+    "type": "multiple",
+    "enonce": "Concernant la clairance (modèle monocompartimental) :",
+    "options": [
+      "Cl totale = Cl rénale × Cl extrarénale",
+      "Cl totale = Cl rénale + Cl extrarénale",
+      "Si l'élimination est exclusivement rénale, Cl totale = Cl rénale",
+      "Si l'élimination se fait uniquement par voie rénale, la Cl extrarénale tend vers 0",
+      "Cl = ke × Vd"
+    ],
+    "correctes": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Cl totale = Cl rénale + Cl extrarénale ; en cas d'élimination rénale exclusive, Cl extrarénale → 0 et Cl totale = Cl rénale. On a aussi Cl = ke × Vd.",
+    "source": {
+      "page": 34,
+      "extrait": "Cl totale = Cl rénale + Cl extrarénale ; Si élimination par voie rénale → Cl extrarenale 0"
+    },
+    "difficulte": 1,
+    "tags": [
+      "clairance"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/qcm-044",
+    "type": "multiple",
+    "enonce": "Concernant la clairance rénale :",
+    "options": [
+      "V est la diurèse",
+      "Cl = Cp × V / U",
+      "U est la concentration urinaire",
+      "U·V = ke·Q",
+      "Cl = (U / Cp) × V"
+    ],
+    "correctes": [
+      0,
+      2,
+      3,
+      4
+    ],
+    "explication": "Cl = U×V/Cp, avec U concentration urinaire, V diurèse, Cp concentration plasmatique. U·V = ke·Q ; avec Cp = Q/Vd on obtient Cl = ke × Vd.",
+    "source": {
+      "page": 35,
+      "extrait": "Cl = Concentration urinaire (U) / Concentration plasmatique (Cp) × Diurèse (V)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "clairance rénale"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/qcm-045",
+    "type": "unique",
+    "enonce": "La démonstration de la relation Cl = ke × Vd repose sur :",
+    "options": [
+      "F = f(1 − E)",
+      "t1/2 = ln2/ke",
+      "AUC = Cp0/ke et Vd = Q/Cp0",
+      "U·V = ke·Q et Cp = Q/Vd",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      3
+    ],
+    "explication": "Cl = U·V/Cp ; or U·V = ke·Q donc Cl = ke·Q/Cp, et avec Cp = Q/Vd on obtient Cl = ke × Vd.",
+    "source": {
+      "page": 35,
+      "extrait": "U.V = Ke .Q ; Cl = Ke.Q/Cp avec Cp=Q/Vd"
+    },
+    "difficulte": 2,
+    "tags": [
+      "clairance rénale"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/qcm-046",
+    "type": "unique",
+    "enonce": "Un médicament a une ke de 0,2 h⁻¹ et un Vd de 40 L. Sa clairance est de :",
+    "options": [
+      "3,47 L/h",
+      "200 L/h",
+      "0,005 L/h",
+      "40,2 L/h",
+      "8 L/h"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Cl = ke × Vd = 0,2 × 40 = 8 L/h.",
+    "source": {
+      "page": 35,
+      "extrait": "Cl = ke × Vd"
+    },
+    "difficulte": 1,
+    "tags": [
+      "clairance",
+      "calcul"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/qcm-047",
+    "type": "multiple",
+    "enonce": "Dans le modèle monocompartimental après administration orale :",
+    "options": [
+      "Le médicament subit une absorption avant d'atteindre le compartiment central",
+      "Le corps humain est assimilé à un seul compartiment",
+      "La concentration est décrite par Cp = E·e^(−ke·t) − A·e^(−ka·t)",
+      "La concentration est décrite par Cp = D·e^(−kd·t) + E·e^(−ke·t)",
+      "La courbe des concentrations passe par un maximum"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explication": "Voie orale : absorption puis élimination à partir d'un compartiment unique ; Cp = E·e^(−ke·t) − A·e^(−ka·t), courbe croissante puis décroissante. L'équation d est celle du modèle bicompartimental IV.",
+    "source": {
+      "page": 37,
+      "extrait": "Cp = E . e-Ke.t – A . e-Ka.t"
+    },
+    "difficulte": 1,
+    "tags": [
+      "monocompartimental oral"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/qcm-048",
+    "type": "multiple",
+    "enonce": "Concernant la méthode des résidus (voie orale, modèle monocompartimental) :",
+    "options": [
+      "La droite d'élimination a pour ordonnée à l'origine E",
+      "Les résidus permettent de tracer la droite d'absorption",
+      "On extrapole la droite d'élimination pour obtenir des concentrations C'p extrapolées",
+      "La droite d'absorption a pour ordonnée à l'origine A",
+      "Les résidus sont A = |C'p − Cexp| aux temps de la phase d'absorption"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "On prolonge la phase terminale (droite d'élimination, ordonnée E) pour obtenir C'p extrapolées ; les différences A1 = |C'1 − C1|, A2, A3… donnent la droite d'absorption (ordonnée A).",
+    "source": {
+      "page": 37,
+      "extrait": "A1=|C'1- C1| ; A2=|C'2- C2| ; A3=|C'3- C3| ; Différence ; C'p extrapolée"
+    },
+    "difficulte": 2,
+    "tags": [
+      "méthode des résidus"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/qcm-049",
+    "type": "multiple",
+    "enonce": "Pour un médicament administré par voie orale (modèle monocompartimental) :",
+    "options": [
+      "ke = −2,303 × (log C'2 − log C'1)/(t2 − t1), calculée à partir de la droite d'élimination",
+      "ka = −2,303 × (log A2 − log A1)/(t2 − t1), calculée à partir de la droite d'absorption",
+      "ke est calculée à partir de la droite des résidus",
+      "t1/2a = ln2 / ka",
+      "ka est calculée à partir de la droite d'élimination"
+    ],
+    "correctes": [
+      0,
+      1,
+      3
+    ],
+    "explication": "ka se calcule sur la droite d'absorption (résidus A) et ke sur la droite d'élimination (C'). t1/2 d'absorption = ln2/ka.",
+    "source": {
+      "page": 38,
+      "extrait": "A partir de la droite d'absorption ka ; A partir de la droite d' élimination ke"
+    },
+    "difficulte": 2,
+    "tags": [
+      "Ka",
+      "Ke"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/qcm-050",
+    "type": "multiple",
+    "enonce": "Concernant les temps de demi-vie après administration orale :",
+    "options": [
+      "Le temps de demi-vie d'absorption t1/2a = ln2/ka",
+      "Le temps de demi-vie d'élimination t1/2 = ln2/ke",
+      "Ils peuvent être déterminés par la méthode mathématique",
+      "Le temps de demi-vie d'absorption t1/2a = ka/ln2",
+      "Ils peuvent être déterminés à partir de la représentation graphique"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explication": "t1/2a = ln2/ka et t1/2 = ln2/ke (méthode mathématique) ; ils peuvent aussi se lire sur la représentation graphique.",
+    "source": {
+      "page": 39,
+      "extrait": "t1/2a = ln2 / ka ; t1/2 = ln2 / ke"
+    },
+    "difficulte": 1,
+    "tags": [
+      "demi-vie"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/qcm-051",
+    "type": "unique",
+    "enonce": "Un médicament administré par voie orale a une ka de 1,386 h⁻¹. Son temps de demi-vie d'absorption est :",
+    "options": [
+      "0,5 h",
+      "2 h",
+      "1,386 h",
+      "1 h",
+      "0,96 h"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "t1/2a = ln2/ka = 0,693/1,386 = 0,5 h.",
+    "source": {
+      "page": 39,
+      "extrait": "t1/2a = ln2 / ka"
+    },
+    "difficulte": 2,
+    "tags": [
+      "demi-vie",
+      "calcul"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/qcm-052",
+    "type": "multiple",
+    "enonce": "Concernant la biodisponibilité selon le cours de modélisation :",
+    "options": [
+      "F = f × E",
+      "F = f / (1 − E)",
+      "F = f(1 − E)",
+      "f est le coefficient d'absorption",
+      "E est le coefficient d'extraction"
+    ],
+    "correctes": [
+      2,
+      3,
+      4
+    ],
+    "explication": "La biodisponibilité F = f(1 − E), avec f coefficient d'absorption et E coefficient d'extraction.",
+    "source": {
+      "page": 41,
+      "extrait": "F = f(1 − E)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "biodisponibilité"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/qcm-053",
+    "type": "unique",
+    "enonce": "Un médicament a un coefficient d'absorption f = 0,8 et un coefficient d'extraction E = 0,25. Sa biodisponibilité F est de :",
+    "options": [
+      "0,55",
+      "1,05",
+      "0,75",
+      "0,6",
+      "0,2"
+    ],
+    "correctes": [
+      3
+    ],
+    "explication": "F = f(1 − E) = 0,8 × (1 − 0,25) = 0,8 × 0,75 = 0,6.",
+    "source": {
+      "page": 41,
+      "extrait": "F = f(1 − E)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "biodisponibilité",
+      "calcul"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/qcm-054",
+    "type": "multiple",
+    "enonce": "Pour une même biodisponibilité F, cochez les propositions correctes :",
+    "options": [
+      "Si E augmente à f constant, F diminue",
+      "Si f augmente à E constant, F augmente",
+      "Si E = 0 alors F = f",
+      "Si E = 1 alors F = f",
+      "Si f = 1 et E = 0 alors F = 1"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explication": "D'après F = f(1 − E) : F diminue quand E augmente, augmente avec f ; E = 0 → F = f ; E = 1 → F = 0 (d faux) ; f = 1 et E = 0 → F = 1.",
+    "source": {
+      "page": 41,
+      "extrait": "F = f(1 − E)"
+    },
+    "difficulte": 3,
+    "tags": [
+      "biodisponibilité"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/qcm-055",
+    "type": "multiple",
+    "enonce": "Pour le modèle monocompartimental par voie orale, le cours donne :",
+    "options": [
+      "AUC0→+∞ = Cp0/ke uniquement",
+      "AUC0→+∞ = E/ke − A/ka",
+      "Vd = Q / Cp0 uniquement",
+      "Cl = [Q(dose IV) / AUC] × F",
+      "Vd = Cl / ke"
+    ],
+    "correctes": [
+      1,
+      3,
+      4
+    ],
+    "explication": "Voie orale : AUC0→+∞ = E/ke − A/ka ; Cl = Q × F / AUC ; Vd = Cl/ke.",
+    "source": {
+      "page": 42,
+      "extrait": "AUC0→+∞ = E/ke − A/ka ; Vd = Cl/ke"
+    },
+    "difficulte": 2,
+    "tags": [
+      "AUC",
+      "clairance",
+      "volume de distribution"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/qcm-056",
+    "type": "unique",
+    "enonce": "Après administration orale de 400 mg d'un médicament (F = 0,5), l'AUC est de 20 mg.h/L. La clairance est de :",
+    "options": [
+      "8000 L/h",
+      "20 L/h",
+      "10 L/h",
+      "40 L/h",
+      "0,025 L/h"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Cl = Q × F / AUC = 400 × 0,5 / 20 = 10 L/h.",
+    "source": {
+      "page": 42,
+      "extrait": "Cl = Q(doseIV)/AUC × F"
+    },
+    "difficulte": 2,
+    "tags": [
+      "clairance",
+      "calcul"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/qcm-057",
+    "type": "unique",
+    "enonce": "Un médicament a une clairance de 6 L/h et une ke de 0,15 h⁻¹. Son Vd est de :",
+    "options": [
+      "4 L",
+      "90 L",
+      "0,9 L",
+      "40 L",
+      "0,025 L"
+    ],
+    "correctes": [
+      3
+    ],
+    "explication": "Vd = Cl/ke = 6/0,15 = 40 L.",
+    "source": {
+      "page": 42,
+      "extrait": "Vd = Cl / ke"
+    },
+    "difficulte": 1,
+    "tags": [
+      "volume de distribution",
+      "calcul"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/qcm-058",
+    "type": "multiple",
+    "enonce": "Concernant le traçage et le lissage manuel de la courbe :",
+    "options": [
+      "Le papier semi-logarithmique comporte des cycles (1–10, 10–100, 100–1000)",
+      "Le tracé sur papier semi-logarithmique peut se faire sur 2 points",
+      "Sur papier millimétrique, on porte directement C pour obtenir une droite",
+      "Sur papier millimétrique, on porte log C en fonction du temps",
+      "Sur papier semi-logarithmique, on porte directement C en fonction du temps"
+    ],
+    "correctes": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "explication": "Papier millimétrique : on porte log[C] en ordonnée ; papier semi-logarithmique : on porte directement [C], l'échelle étant logarithmique par cycles (1–10, 10–100, 100–1000). Le cours montre aussi un tracé « sur 2 points ».",
+    "source": {
+      "page": 44,
+      "extrait": "Manuelle : papier semi-logarithmique ; 100 - 1000 ; 10 - 100 ; 1 - 10"
+    },
+    "difficulte": 2,
+    "tags": [
+      "traçage",
+      "papier semi-log"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/qcm-059",
+    "type": "unique",
+    "enonce": "Pour obtenir une droite de décroissance avec un papier millimétrique, on porte en ordonnée :",
+    "options": [
+      "La dose",
+      "La concentration C",
+      "L'AUC",
+      "Le temps",
+      "Le logarithme de la concentration log C"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Sur papier millimétrique (échelle linéaire), il faut porter log[C] en fonction du temps pour obtenir la droite.",
+    "source": {
+      "page": 43,
+      "extrait": "Manuelle : papier milimetrique Log[C] Log ( C ) Temps"
+    },
+    "difficulte": 1,
+    "tags": [
+      "traçage"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/qcm-060",
+    "type": "multiple",
+    "enonce": "Cochez les associations paramètre / unité correctes selon le cours :",
+    "options": [
+      "Cl : ml/min",
+      "T1/2 : 1/h",
+      "AUC : µg.h/ml",
+      "Ka : 1/h",
+      "Vd : l ou l/kg"
+    ],
+    "correctes": [
+      0,
+      2,
+      3,
+      4
+    ],
+    "explication": "T1/2 s'exprime en heures (h). Ka, Kd et Ke s'expriment en 1/h.",
+    "source": {
+      "page": 21,
+      "extrait": "T1/2 h ; Ke 1/h ; Cl ml/min"
+    },
+    "difficulte": 1,
+    "tags": [
+      "unités"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/qcm-061",
+    "type": "multiple",
+    "enonce": "Concernant la droite log C = f(t) en modèle monocompartimental IV, si l'on double la dose injectée (cinétique inchangée) :",
+    "options": [
+      "Le Vd double",
+      "La pente de la droite reste la même",
+      "ke reste inchangée",
+      "C0 double",
+      "La t1/2 double"
+    ],
+    "correctes": [
+      1,
+      2,
+      3
+    ],
+    "explication": "Vd = Q/Cp0 : si Q double, Cp0 double et Vd est inchangé. La pente (−ke/2,303), donc ke et t1/2 = ln2/ke, ne dépend pas de la dose.",
+    "source": {
+      "page": 29,
+      "extrait": "logC = logC0 − (ke/2,303).t"
+    },
+    "difficulte": 3,
+    "tags": [
+      "raisonnement"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/qcm-062",
+    "type": "multiple",
+    "enonce": "Un médicament a un Vd de 2 l/kg. Cochez les propositions correctes :",
+    "options": [
+      "Il est dans la même classe que l'amoxicilline",
+      "Sa classe comprend la digitaline et le phénobarbital",
+      "Sa distribution est limitée au plasma",
+      "Il est dans la classe 0,75 – 3 l/kg",
+      "Sa valeur témoigne d'une distribution élevée dans l'organisme"
+    ],
+    "correctes": [
+      1,
+      3,
+      4
+    ],
+    "explication": "2 l/kg se situe dans la classe 50–200 l (0,75–3 l/kg) avec la digitaline et le phénobarbital : valeurs dépassant le volume de l'organisme, distribution élevée.",
+    "source": {
+      "page": 20,
+      "extrait": "50 – 200 l (0.75 – 3 l/kg) Digitaline Phénobarbital"
+    },
+    "difficulte": 2,
+    "tags": [
+      "volume de distribution"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/qcm-063",
+    "type": "unique",
+    "enonce": "Parmi les relations suivantes, laquelle est fausse ?",
+    "options": [
+      "AUC0→∞ = Cp0/ke",
+      "Cl = ke × Vd",
+      "ke = 2,303 × a (a étant la pente de log C = f(t))",
+      "t1/2 = 0,693/ke",
+      "Vd = Q/Cp0"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "ke = −2,303 × a : la pente a est négative, il faut donc le signe moins pour obtenir une ke positive.",
+    "source": {
+      "page": 29,
+      "extrait": "ke = −2,303.a"
+    },
+    "difficulte": 2,
+    "tags": [
+      "formules"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/qcm-064",
+    "type": "multiple",
+    "enonce": "La droite d'élimination (voie orale) permet de déterminer :",
+    "options": [
+      "La t1/2 d'élimination",
+      "Les concentrations extrapolées C'p",
+      "L'ordonnée à l'origine E",
+      "ke",
+      "ka directement"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "La droite d'élimination (phase terminale) donne ke, t1/2 = ln2/ke, l'ordonnée E et les C'p extrapolées. ka se calcule sur la droite d'absorption (résidus).",
+    "source": {
+      "page": 38,
+      "extrait": "A partir de la droite d' élimination ke = −2,303 (log C'2 − log C'1)/(t2 − t1)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "Ke",
+      "méthode des résidus"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/qcm-065",
+    "type": "multiple",
+    "enonce": "Un médicament est éliminé exclusivement par voie rénale. On recueille 120 ml d'urine en 1 h, de concentration urinaire 50 µg/ml ; la Cp est de 2 µg/ml. Cochez les propositions correctes :",
+    "options": [
+      "La clairance extrarénale est nulle",
+      "La clairance totale est égale à la clairance rénale",
+      "La clairance rénale vaut 50 ml/min",
+      "La clairance rénale vaut 3000 ml/h",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Cl = U × V/Cp = 50 × 120/2 = 3000 ml/h = 50 ml/min. Élimination exclusivement rénale : Cl extrarénale → 0 et Cl totale = Cl rénale.",
+    "source": {
+      "page": 35,
+      "extrait": "Cl = Concentration urinaire (U) / Concentration plasmatique (Cp) × Diurèse (V)"
+    },
+    "difficulte": 3,
+    "tags": [
+      "clairance rénale",
+      "calcul"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/qcm-066",
+    "type": "multiple",
+    "enonce": "Concernant la courbe de concentration après injection IV unique (modèle monocompartimental) :",
+    "options": [
+      "En coordonnées semi-logarithmiques, la courbe devient une droite",
+      "La concentration maximale est atteinte au temps t0",
+      "La décroissance traduit l'élimination",
+      "En coordonnées linéaires, la courbe C = f(t) est une exponentielle décroissante",
+      "La courbe présente une phase ascendante d'absorption"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Après injection IV, C = C0·e^(−ke·t) : exponentielle décroissante dès t0 (C0 maximale), qui devient une droite en log. Pas de phase d'absorption.",
+    "source": {
+      "page": 27,
+      "extrait": "Après transformation logarithmique: Log (Concentration) Elimination"
+    },
+    "difficulte": 1,
+    "tags": [
+      "monocompartimental IV"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/qcm-067",
+    "type": "multiple",
+    "enonce": "Le coefficient d'extraction E et le coefficient d'absorption f peuvent être calculés à partir :",
+    "options": [
+      "De la clairance rénale seule",
+      "Des doses orale et IV",
+      "Du Vd seul",
+      "Du coefficient f pour le calcul de E",
+      "Des AUC orale et IV"
+    ],
+    "correctes": [
+      1,
+      3,
+      4
+    ],
+    "explication": "Le cours donne f et E à partir du rapport des AUC orale/IV et du rapport des doses ; le calcul de E fait intervenir f (E = 1 − [rapport AUC × rapport doses] × 100/f).",
+    "source": {
+      "page": 41,
+      "extrait": "Coefficient d'extraction ; Coefficient d'absorption ; AUCorale/AUCIV"
+    },
+    "difficulte": 3,
+    "tags": [
+      "coefficient d'extraction",
+      "coefficient de résorption"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/qcm-068",
+    "type": "multiple",
+    "enonce": "Cochez les propositions justes concernant les constantes de vitesse :",
+    "options": [
+      "Ke est déterminée à partir de la pente de la phase terminale",
+      "Ka caractérise le passage de l'extérieur vers l'intérieur de l'organisme",
+      "Kd caractérise le passage du compartiment central vers les compartiments périphériques",
+      "Ka, Kd et Ke s'expriment toutes en 1/h",
+      "Toutes les propositions sont justes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes ces propositions sont conformes aux tableaux de paramètres et aux méthodes de détermination du cours.",
+    "source": {
+      "page": 19,
+      "extrait": "Constante de vitesse du passage du médicament du compartiment central de l'organisme vers les autres compartiments"
+    },
+    "difficulte": 2,
+    "tags": [
+      "constantes de vitesse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/qcm-069",
+    "type": "multiple",
+    "enonce": "À propos des modèles et de la notion de compartiment, cochez les propositions fausses :",
+    "options": [
+      "Le compartiment correspond toujours à un organe anatomique",
+      "L'approche non compartimentale assimile le corps humain à des compartiments",
+      "Le modèle bicompartimental comporte une phase de distribution",
+      "Le compartiment central reçoit le médicament absorbé",
+      "L'os est un compartiment périphérique superficiel"
+    ],
+    "correctes": [
+      0,
+      1,
+      4
+    ],
+    "explication": "Fausses : a (un compartiment est un ensemble de molécules de même probabilité, pas un organe), b (corps humain ≠ compartiments dans l'approche non compartimentale), e (l'os est un compartiment profond).",
+    "source": {
+      "page": 12,
+      "extrait": "Superficiels (muscle). Profonds (os)."
+    },
+    "difficulte": 2,
+    "tags": [
+      "compartiment"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/qcm-070",
+    "type": "multiple",
+    "enonce": "Un médicament de Vd = 15 l/kg est administré à un patient de 70 kg. Cochez les propositions correctes :",
+    "options": [
+      "Sa distribution est limitée au sang",
+      "Son Vd vaut 1050 l",
+      "Il est dans la même classe que la chlorpromazine",
+      "Il se situe dans la classe 1000 – 5000 l (15 – 75 l/kg)",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      1,
+      2,
+      3
+    ],
+    "explication": "15 × 70 = 1050 l, soit la classe 1000–5000 l (15–75 l/kg) de la chlorpromazine et de l'halopéridol.",
+    "source": {
+      "page": 20,
+      "extrait": "1000 – 5000 l (15 – 75 l/kg) Chlorpromazine Halopéridol"
+    },
+    "difficulte": 2,
+    "tags": [
+      "volume de distribution",
+      "calcul"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/qcm-071",
+    "type": "unique",
+    "enonce": "La constante de vitesse d'élimination d'un médicament injecté par voie IV est déterminée en prenant deux points : C1 = 8 mg/L à t1 = 1 h et C2 = 4 mg/L à t2 = 3 h. Le t1/2 vaut :",
+    "options": [
+      "1 h",
+      "0,35 h",
+      "4 h",
+      "2 h",
+      "3 h"
+    ],
+    "correctes": [
+      3
+    ],
+    "explication": "C2 = C1/2, donc graphiquement t1/2 = t2 − t1 = 3 − 1 = 2 h (ke = ln2/2 = 0,35 h⁻¹).",
+    "source": {
+      "page": 30,
+      "extrait": "Graphiquement t1/2 = t2 − t1"
+    },
+    "difficulte": 2,
+    "tags": [
+      "demi-vie",
+      "calcul"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/qcm-072",
+    "type": "multiple",
+    "enonce": "Concernant l'équation log C = log C0 − (ke/2,303)·t, cochez les propositions correctes :",
+    "options": [
+      "La pente vaut −ke/2,303",
+      "Plus ke est grande, plus la pente est raide",
+      "Une pente plus raide traduit une t1/2 plus courte",
+      "La pente est indépendante de la t1/2",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Pente = −ke/2,303 ; une ke plus grande donne une pente plus forte, et t1/2 = ln2/ke plus courte. La pente dépend donc de la t1/2 (d faux).",
+    "source": {
+      "page": 28,
+      "extrait": "logC = logC0 − (ke/2,303).t"
+    },
+    "difficulte": 2,
+    "tags": [
+      "pente",
+      "demi-vie"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/qcm-073",
+    "type": "multiple",
+    "enonce": "Concernant la biodisponibilité absolue (paramètre de la phase d'absorption) :",
+    "options": [
+      "Elle s'exprime en 1/h",
+      "Elle représente la fraction passant dans la circulation générale",
+      "Elle est notée F",
+      "Elle s'exprime en %",
+      "Elle est égale à 1 − E quand l'absorption est totale (f = 1)"
+    ],
+    "correctes": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "F (%) : fraction passant dans la circulation générale ; F = f(1 − E), donc si f = 1, F = 1 − E.",
+    "source": {
+      "page": 18,
+      "extrait": "Biodisponibilité absolue F %"
+    },
+    "difficulte": 2,
+    "tags": [
+      "biodisponibilité"
+    ],
+    "origine": "genere"
+  }
+]

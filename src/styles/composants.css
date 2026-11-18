@@ -1,0 +1,482 @@
+/*
+ * Composants signature de la direction « Officine moderne »
+ * (propositions de QCM, Erlenmeyer de maîtrise, flashcards 3D, boutons SRS…).
+ * Toutes les valeurs viennent des jetons de theme.css.
+ */
+
+/* Couleur d'un module : style="--mod: var(--pr-mod-bleu)" sur l'élément parent. */
+.mod-ink {
+  color: color-mix(in oklab, var(--mod, var(--pr-primary)) var(--pr-mod-ink-mix), var(--pr-mod-ink-base));
+}
+
+/* ---------- Carte « Prochain examen » (dégradé émeraude) ---------- */
+.carte-degrade {
+  background: var(--pr-gradient);
+  color: #fff;
+  border: 0;
+}
+.carte-degrade .boite {
+  background: rgba(255, 255, 255, 0.18);
+  border-radius: var(--pr-radius-md);
+}
+
+.libelle {
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--pr-text-muted);
+}
+.carte-degrade .libelle {
+  color: inherit;
+  opacity: 0.85;
+}
+.surtitre {
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--pr-text-muted);
+}
+
+/* ---------- Série : semaine ---------- */
+.semaine {
+  display: flex;
+  gap: 4px;
+}
+.semaine span {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2px;
+  font-size: 10px;
+  color: var(--pr-text-muted);
+}
+.semaine i {
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  background: var(--pr-border);
+  display: block;
+}
+.semaine .on i {
+  background: var(--pr-primary);
+}
+.flamme {
+  width: 30px;
+  height: 30px;
+  color: #f08a24;
+}
+
+/* ---------- Puce ---------- */
+.puce {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  font-size: 12px;
+  font-weight: 700;
+  padding: 5px 11px;
+  border-radius: var(--pr-radius-pill);
+  background: var(--pr-soft);
+  color: var(--pr-primary-ink);
+  text-decoration: none;
+}
+a.puce:hover {
+  box-shadow: inset 0 0 0 1.5px var(--pr-primary);
+}
+
+/* ---------- Cartes de module + Erlenmeyer qui se remplit ---------- */
+.carte-module {
+  transition:
+    transform calc(var(--pr-dur) * 0.6) var(--pr-ease),
+    box-shadow 0.2s;
+}
+.carte-module:hover {
+  transform: translateY(calc(-3px * var(--pr-motion-scale)));
+  box-shadow: var(--pr-shadow-md);
+}
+.erlen {
+  width: 52px;
+  height: 60px;
+  overflow: visible;
+}
+.erlen .liq {
+  transition: transform calc(var(--pr-dur) * 2.6) var(--pr-ease);
+}
+.erlen .vague {
+  animation: pr-vague 3s linear infinite;
+}
+.erlen .bulle {
+  opacity: 0;
+}
+.carte-module:hover .erlen .bulle,
+.carte-module:focus-visible .erlen .bulle {
+  animation: pr-bulle 2.2s ease-in infinite;
+}
+.erlen .bulle:nth-of-type(2) {
+  animation-delay: 0.7s !important;
+}
+.erlen .bulle:nth-of-type(3) {
+  animation-delay: 1.4s !important;
+}
+@keyframes pr-vague {
+  to {
+    transform: translateX(30px);
+  }
+}
+@keyframes pr-bulle {
+  0% {
+    opacity: 0;
+    transform: translateY(0);
+  }
+  20% {
+    opacity: 0.9;
+  }
+  100% {
+    opacity: 0;
+    transform: translateY(-34px);
+  }
+}
+
+/* ---------- Propositions de QCM ---------- */
+.opt {
+  display: flex;
+  gap: 12px;
+  align-items: flex-start;
+  width: 100%;
+  padding: 12px 14px;
+  border: 1.5px solid var(--pr-border);
+  border-radius: var(--pr-radius-lg);
+  background: var(--pr-surface);
+  cursor: pointer;
+  position: relative;
+  line-height: 1.45;
+  transition:
+    border-color 0.2s,
+    background 0.2s,
+    box-shadow 0.25s,
+    opacity 0.3s;
+}
+.opt:hover {
+  border-color: color-mix(in oklab, var(--pr-primary) 50%, var(--pr-border));
+}
+.opt:has(input:focus-visible) {
+  outline: var(--pr-focus-width) solid var(--pr-focus);
+  outline-offset: 2px;
+}
+.opt .touche {
+  flex: none;
+  width: 28px;
+  height: 28px;
+  border-radius: var(--pr-radius-sm);
+  display: grid;
+  place-items: center;
+  font-family: var(--pr-font-heading);
+  font-weight: 800;
+  font-size: 13px;
+  border: 1.5px solid var(--pr-border);
+  color: var(--pr-text-muted);
+  transition: all 0.2s;
+}
+.opt.radio .touche {
+  border-radius: 50%;
+}
+.opt[data-coche="true"] {
+  border-color: var(--pr-primary);
+  background: var(--pr-soft);
+}
+.opt[data-coche="true"] .touche {
+  background: var(--pr-btn-bg);
+  border-color: var(--pr-btn-bg);
+  color: var(--pr-on-primary);
+}
+.opt .etiquette {
+  position: absolute;
+  right: 12px;
+  top: -10px;
+  font-size: 10.5px;
+  font-weight: 800;
+  padding: 2px 9px;
+  border-radius: 99px;
+  color: #fff;
+}
+.opt.juste {
+  border-color: var(--pr-success);
+  background: color-mix(in oklab, var(--pr-success) 12%, var(--pr-surface));
+  box-shadow:
+    0 0 0 3px color-mix(in oklab, var(--pr-success) 22%, transparent),
+    0 0 22px color-mix(in oklab, var(--pr-success) 30%, transparent);
+  animation: pr-pop calc(var(--pr-dur) * 1.1) var(--pr-ease);
+}
+.opt.juste .touche {
+  background: var(--pr-success);
+  border-color: var(--pr-success);
+  color: #fff;
+}
+.opt.fausse {
+  border-color: var(--pr-danger);
+  background: color-mix(in oklab, var(--pr-danger) 11%, var(--pr-surface));
+  animation: pr-secousse 0.5s ease;
+}
+.opt.fausse .touche {
+  background: var(--pr-danger);
+  border-color: var(--pr-danger);
+  color: #fff;
+}
+.opt.manquee {
+  border-style: dashed;
+  border-color: var(--pr-success);
+  animation: pr-revele calc(var(--pr-dur) * 1.4) ease 0.35s both;
+}
+.opt.manquee .etiquette {
+  background: var(--pr-success-ink);
+}
+.opt.juste .etiquette {
+  background: var(--pr-success-ink);
+}
+.opt.fausse .etiquette {
+  background: var(--pr-danger-ink);
+}
+.opt.neutre {
+  opacity: 0.6;
+}
+.opt.corrigee {
+  cursor: default;
+}
+@keyframes pr-pop {
+  0% {
+    transform: scale(1);
+  }
+  45% {
+    transform: scale(1.025);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+@keyframes pr-secousse {
+  0%,
+  100% {
+    transform: translateX(0);
+  }
+  20% {
+    transform: translateX(-5px);
+  }
+  40% {
+    transform: translateX(5px);
+  }
+  60% {
+    transform: translateX(-3px);
+  }
+  80% {
+    transform: translateX(3px);
+  }
+}
+@keyframes pr-revele {
+  from {
+    box-shadow: 0 0 0 0 color-mix(in oklab, var(--pr-success) 40%, transparent);
+  }
+  to {
+    box-shadow: 0 0 0 6px transparent;
+  }
+}
+.anim-secousse {
+  animation: pr-secousse 0.5s ease;
+}
+
+/* Badge « Une seule réponse / Plusieurs réponses » */
+.badge-type {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 12px;
+  font-weight: 700;
+  padding: 4px 11px;
+  border-radius: var(--pr-radius-pill);
+  background: color-mix(in oklab, var(--pr-primary-2) 18%, var(--pr-surface));
+  color: var(--pr-text);
+  border: 1px solid color-mix(in oklab, var(--pr-primary-2) 40%, transparent);
+}
+
+/* Note d'une question */
+.note-question {
+  font-family: var(--pr-font-heading);
+  font-weight: 800;
+  font-size: 22px;
+  padding: 4px 14px;
+  border-radius: var(--pr-radius-pill);
+  background: var(--pr-soft);
+  color: var(--pr-primary-ink);
+  font-variant-numeric: tabular-nums;
+}
+.note-question.pleine {
+  background: color-mix(in oklab, var(--pr-success) 18%, var(--pr-surface));
+  color: var(--pr-success-ink);
+}
+.note-question.nulle {
+  background: color-mix(in oklab, var(--pr-danger) 15%, var(--pr-surface));
+  color: var(--pr-danger-ink);
+}
+.retour-question {
+  animation: pr-entree calc(var(--pr-dur) * 1.2) var(--pr-ease) both;
+}
+@keyframes pr-entree {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+.source {
+  border-top: 1px dashed var(--pr-border);
+}
+
+/* ---------- Confettis en gélules ---------- */
+.eclat {
+  position: fixed;
+  width: 14px;
+  height: 6px;
+  border-radius: 3px;
+  pointer-events: none;
+  z-index: 60;
+}
+.confettis {
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  overflow: hidden;
+  z-index: 60;
+}
+.confettis i {
+  position: absolute;
+  top: -20px;
+  width: 16px;
+  height: 7px;
+  border-radius: 4px;
+  display: block;
+}
+
+/* ---------- Flashcards (retournement 3D) ---------- */
+.fc-scene {
+  perspective: 1100px;
+}
+.fc {
+  position: relative;
+  min-height: 280px;
+  transform-style: preserve-3d;
+  transition: transform calc(var(--pr-dur) * 1.5) var(--pr-ease);
+  cursor: pointer;
+}
+.fc.retournee {
+  transform: rotateY(180deg);
+}
+.fc-face {
+  position: absolute;
+  inset: 0;
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 12px;
+  padding: 24px;
+  text-align: center;
+  border-radius: var(--pr-radius-lg);
+  background: var(--pr-surface);
+  border: 1px solid var(--pr-border);
+  box-shadow: 0 14px 30px -18px rgba(0, 0, 0, 0.35);
+  overflow-y: auto;
+}
+.fc-verso {
+  transform: rotateY(180deg);
+  text-align: left;
+  justify-content: flex-start;
+}
+.fc.sortie {
+  animation: pr-carte-sortie calc(var(--pr-dur) * 1.1) ease forwards;
+}
+.fc.entree {
+  animation: pr-carte-entree calc(var(--pr-dur) * 1.1) var(--pr-ease);
+}
+@keyframes pr-carte-sortie {
+  to {
+    transform: rotateY(180deg) translateX(-60%) rotate(-6deg);
+    opacity: 0;
+  }
+}
+@keyframes pr-carte-entree {
+  from {
+    transform: translateY(30px) scale(0.94);
+    opacity: 0;
+  }
+  to {
+    transform: none;
+    opacity: 1;
+  }
+}
+.pile {
+  height: 10px;
+  margin: 0 14px;
+  border-radius: 0 0 var(--pr-radius-lg) var(--pr-radius-lg);
+  background: var(--pr-surface);
+  border: 1px solid var(--pr-border);
+  border-top: 0;
+  opacity: 0.7;
+}
+.pile.p2 {
+  margin: 0 26px;
+  opacity: 0.4;
+}
+.srs {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 6px;
+}
+.srs button {
+  cursor: pointer;
+  text-align: center;
+  padding: 9px 4px;
+  min-height: 3rem;
+  border-radius: var(--pr-radius-pill);
+  font-family: var(--pr-font-heading);
+  font-weight: 700;
+  font-size: 13px;
+  border: 1.5px solid var(--sc);
+  color: var(--sc-ink);
+  background: color-mix(in oklab, var(--sc) 12%, var(--pr-surface));
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1px;
+  transition: transform 0.15s;
+}
+.srs button small {
+  font-weight: 500;
+  font-size: 10.5px;
+  opacity: 0.85;
+}
+.srs button:active {
+  transform: scale(calc(1 - 0.05 * var(--pr-motion-scale)));
+}
+
+/* ---------- Carte mentale ---------- */
+.carte-mentale ul {
+  border-left: 2px solid color-mix(in oklab, var(--pr-primary) 30%, transparent);
+  margin-left: 0.9rem;
+  padding-left: 0.9rem;
+}
+
+/* ---------- Animations désactivées ---------- */
+[data-motion="reduced"] .erlen .vague,
+[data-motion="reduced"] .carte-module:hover .erlen .bulle {
+  animation: none;
+}
+
+/* Icône du bouton de thème */
+.theme-soleil { display: none; }
+[data-theme="dark"] .theme-soleil { display: inline; }
+[data-theme="dark"] .theme-lune { display: none; }

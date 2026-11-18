@@ -1,0 +1,238 @@
+[
+  {
+    "id": "pharmacie-galenique/05-pulverisation/cas-001",
+    "titre": "Broyage d'un PA peu soluble",
+    "enonce": "Un laboratoire veut améliorer la biodisponibilité d'un principe actif très peu soluble, dur et thermosensible, produit en grande quantité.",
+    "questions": [
+      {
+        "id": "pharmacie-galenique/05-pulverisation/cas-001-q-001",
+        "type": "multiple",
+        "enonce": "L'intérêt de réduire la taille des particules est :",
+        "options": [
+          "D'augmenter la vitesse de dissolution",
+          "De diminuer la surface spécifique",
+          "D'augmenter la surface spécifique",
+          "D'améliorer la biodisponibilité",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0,
+          2,
+          3
+        ],
+        "explication": "La pulvérisation augmente la surface spécifique, donc la vitesse de dissolution et la biodisponibilité des PA peu solubles.",
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacie-galenique/05-pulverisation/cas-001-q-002",
+        "type": "multiple",
+        "enonce": "Les mécanismes adaptés à une substance dure sont :",
+        "options": [
+          "Percussion",
+          "Cisaillement",
+          "Attrition",
+          "Compression",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0,
+          3
+        ],
+        "explication": "Percussion et compression : substances dures.",
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacie-galenique/05-pulverisation/cas-001-q-003",
+        "type": "unique",
+        "enonce": "Compte tenu de la thermosensibilité, l'appareil le plus adapté parmi les suivants est :",
+        "options": [
+          "Le broyeur à hélice",
+          "Le porphyre",
+          "Le mortier",
+          "Le microniseur",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          3
+        ],
+        "explication": "Le microniseur n'échauffe pas les substances broyées et améliore la biodisponibilité ; mortier, porphyre et broyeur à hélice sont des appareils de laboratoire.",
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacie-galenique/05-pulverisation/cas-001-q-004",
+        "type": "multiple",
+        "enonce": "Les inconvénients de ce choix sont :",
+        "options": [
+          "Coût élevé",
+          "Échauffement de la substance",
+          "Faible efficacité",
+          "Forte consommation d'énergie",
+          "Encombrement"
+        ],
+        "correctes": [
+          0,
+          3,
+          4
+        ],
+        "explication": "Microniseur : très encombrant, onéreux, énergivore.",
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "pharmacie-galenique/05-pulverisation/cas-002",
+    "titre": "Contrôle granulométrique d'une poudre",
+    "enonce": "Un technicien analyse 100 g d'une poudre par tamis superposés. Il constate que 4 % restent sur le tamis n° 180 et que 35 % passent à travers le tamis n° 125.",
+    "questions": [
+      {
+        "id": "pharmacie-galenique/05-pulverisation/cas-002-q-001",
+        "type": "unique",
+        "enonce": "Cette poudre est dénommée :",
+        "options": [
+          "Grossière",
+          "Très fine",
+          "Fine",
+          "Modérément fine",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          2
+        ],
+        "explication": "Fine : résidu ≤ 5 % sur le tamis 180 et passage ≤ 40 % à travers le tamis 125.",
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacie-galenique/05-pulverisation/cas-002-q-002",
+        "type": "multiple",
+        "enonce": "Lors de cette analyse :",
+        "options": [
+          "L'échantillon est placé sur le tamis supérieur",
+          "Le refus fractionné vaut M2 − M1",
+          "Chaque fraction est pesée",
+          "Les tamis sont superposés par ouvertures de mailles décroissantes vers le bas",
+          "Toutes les propositions sont correctes"
+        ],
+        "correctes": [
+          4
+        ],
+        "explication": "Protocole des tamis superposés décrit dans le cours.",
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacie-galenique/05-pulverisation/cas-002-q-003",
+        "type": "unique",
+        "enonce": "Si la courbe de fréquence obtenue est une cloche très étroite :",
+        "options": [
+          "L'analyse est invalide",
+          "La poudre est hétérogène",
+          "La poudre est homogène",
+          "La poudre contient des mottes",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          2
+        ],
+        "explication": "Pour une poudre homogène, la courbe a une forme de cloche très étroite.",
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacie-galenique/05-pulverisation/cas-002-q-004",
+        "type": "unique",
+        "enonce": "Avant usage, des mottes apparues au stockage sont éliminées par :",
+        "options": [
+          "Un tamisage de sécurité",
+          "Une mondation",
+          "Un tamisage de démottage",
+          "Une dessiccation",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          2
+        ],
+        "explication": "Le tamisage de démottage divise les mottes apparues au stockage.",
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "pharmacie-galenique/05-pulverisation/cas-003",
+    "titre": "Préparation d'une pommade ophtalmique à l'officine",
+    "enonce": "Un pharmacien doit incorporer une petite quantité de poudre très fine dans une pommade ophtalmique.",
+    "questions": [
+      {
+        "id": "pharmacie-galenique/05-pulverisation/cas-003-q-001",
+        "type": "unique",
+        "enonce": "L'appareil de laboratoire adapté pour obtenir des poudres très fines en petites quantités pour pommade ophtalmique est :",
+        "options": [
+          "Le porphyre",
+          "Le concasseur à mâchoires",
+          "Le broyeur à meules",
+          "Le broyeur à marteaux",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Le porphyre permet d'obtenir des poudres très fines en petites quantités (ex : pommades ophtalmiques).",
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacie-galenique/05-pulverisation/cas-003-q-002",
+        "type": "multiple",
+        "enonce": "Le porphyre est constitué :",
+        "options": [
+          "D'une molette en verre très dure",
+          "D'une plaque en silice très dure",
+          "De billes métalliques",
+          "De deux cylindres cannelés",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0,
+          1
+        ],
+        "explication": "Plaque en silice très dure sur laquelle on frotte une molette en verre très dure.",
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacie-galenique/05-pulverisation/cas-003-q-003",
+        "type": "multiple",
+        "enonce": "Si la substance est irritante et broyée au mortier :",
+        "options": [
+          "On utilise une spatule pour récupérer la poudre collée",
+          "On utilise un couvercle",
+          "On utilise un pilon adapté",
+          "On utilise un mortier en porcelaine vernie ou en verre",
+          "Toutes les propositions sont correctes"
+        ],
+        "correctes": [
+          4
+        ],
+        "explication": "Mortier en porcelaine vernie ou verre, pilon assorti, spatule et couvercle si substances irritantes.",
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      }
+    ]
+  }
+]

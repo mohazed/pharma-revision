@@ -1,0 +1,2133 @@
+[
+  {
+    "id": "pharmacologie/02-voies-administration/qcm-001",
+    "type": "multiple",
+    "enonce": "La voie d'administration d'un médicament :",
+    "options": [
+      "Est l'endroit précis du corps par lequel le médicament est introduit dans l'organisme",
+      "Est choisie pour donner des effets thérapeutiques",
+      "Intervient avant la phase pharmacocinétique",
+      "Correspond à la phase pharmacodynamique",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Le cours définit la voie d'administration comme l'endroit précis du corps par lequel le médicament est introduit pour donner des effets thérapeutiques ; elle conditionne l'entrée du médicament, en amont de l'absorption (phase pharmacocinétique). Elle ne correspond pas à la phase pharmacodynamique (interaction médicament-organisme).",
+    "source": {
+      "page": 4,
+      "extrait": "Endroit précis du corps par lequel le médicament est introduit dans l'organisme pour donner des effets thérapeutiques."
+    },
+    "difficulte": 1,
+    "tags": [
+      "définition"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/qcm-002",
+    "type": "multiple",
+    "enonce": "Les voies d'administration sont classées en deux groupes :",
+    "options": [
+      "Voies orales et voies injectables uniquement",
+      "Voies sans effraction cutanée et/ou muqueuse",
+      "Voies avec effraction cutanée et/ou muqueuse",
+      "Voies vasculaires et voies digestives uniquement",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      1,
+      2
+    ],
+    "explication": "Le cours distingue un 1er groupe (voies avec effraction cutanée et/ou muqueuse = voies parentérales) et un 2e groupe (voies sans effraction cutanée et/ou muqueuse). Les autres classements proposés ne sont pas ceux du cours.",
+    "source": {
+      "page": 5,
+      "extrait": "1er Groupe : 2ème Groupe : Voies avec effraction cutanée et/ou muqueuse Voies sans effraction"
+    },
+    "difficulte": 1,
+    "tags": [
+      "classification"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/qcm-003",
+    "type": "unique",
+    "enonce": "Les voies parentérales correspondent :",
+    "options": [
+      "Aux voies avec effraction cutanée et/ou muqueuse",
+      "Aux voies sans effraction cutanée et/ou muqueuse",
+      "Aux seules voies vasculaires",
+      "Aux voies entérales",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Le cours assimile les voies avec effraction cutanée et/ou muqueuse aux voies parentérales ; elles regroupent les voies vasculaires ET extravasculaires. Les voies entérales appartiennent au 2e groupe.",
+    "source": {
+      "page": 6,
+      "extrait": "1er Groupe : Voies avec effraction cutanée et/ou muqueuse (voies parentérales)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "classification",
+      "parentérale"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/qcm-004",
+    "type": "multiple",
+    "enonce": "Parmi les voies suivantes, lesquelles sont des voies vasculaires ?",
+    "options": [
+      "Sous-cutanée",
+      "Intra-artérielle",
+      "Intracardiaque",
+      "Intramusculaire",
+      "Intraveineuse"
+    ],
+    "correctes": [
+      1,
+      2,
+      4
+    ],
+    "explication": "Les voies vasculaires du cours sont l'intraveineuse, l'intra-artérielle et l'intracardiaque. L'intramusculaire et la sous-cutanée sont des voies extravasculaires à action systémique.",
+    "source": {
+      "page": 6,
+      "extrait": "Les voies vasculaires: ❑ Intra-veineuse. ❑ Intra-artérielle. ❑ Intra-cardiaque."
+    },
+    "difficulte": 1,
+    "tags": [
+      "classification",
+      "voies vasculaires"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/qcm-005",
+    "type": "multiple",
+    "enonce": "Parmi les voies parentérales extravasculaires, celles à action systémique sont :",
+    "options": [
+      "L'intra-rachidienne",
+      "L'intramusculaire",
+      "L'intradermique",
+      "La sous-cutanée",
+      "L'intra-articulaire"
+    ],
+    "correctes": [
+      1,
+      3
+    ],
+    "explication": "Le cours classe l'intramusculaire et la sous-cutanée parmi les voies extravasculaires à action systémique ; l'intradermique, l'intra-rachidienne, l'intra-articulaire et les intra-séreuses sont à action locale.",
+    "source": {
+      "page": 6,
+      "extrait": "❑ Action systémique: ▪Intra-musculaire. ▪Sous-cutanée."
+    },
+    "difficulte": 1,
+    "tags": [
+      "classification",
+      "voies extravasculaires"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/qcm-006",
+    "type": "multiple",
+    "enonce": "Parmi les voies parentérales extravasculaires, celles à action locale sont :",
+    "options": [
+      "L'intra-rachidienne",
+      "Les intra-séreuses",
+      "L'intradermique",
+      "L'intra-articulaire",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le cours liste comme voies extravasculaires à action locale : intradermique, intra-rachidienne, intra-articulaire et intra-séreuses. Toutes les propositions sont justes.",
+    "source": {
+      "page": 6,
+      "extrait": "❑ Action locale: ▪Intra-dermique. ▪Intra-rachidienne. ▪Intra-articulaire. ▪Intra-séreuses."
+    },
+    "difficulte": 1,
+    "tags": [
+      "classification",
+      "voies extravasculaires"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/qcm-007",
+    "type": "multiple",
+    "enonce": "Parmi les voies sans effraction cutanée et/ou muqueuse, les voies à visée systémique comprennent :",
+    "options": [
+      "La voie pulmonaire",
+      "Les voies entérales (buccale, orale, rectale)",
+      "La voie percutanée",
+      "La voie vaginale",
+      "La voie cutanée"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Le cours classe parmi les voies systémiques les voies entérales (buccale, orale, rectale), la voie pulmonaire et la voie percutanée. Les voies cutanée et vaginale sont des voies locales.",
+    "source": {
+      "page": 7,
+      "extrait": "Les voies systémiques Les voies locales ❑ Entérales: ▪Buccale ▪Orale ▪Rectale ❑ Pulmonaire ❑ Percutanée"
+    },
+    "difficulte": 2,
+    "tags": [
+      "classification",
+      "voies systémiques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/qcm-008",
+    "type": "multiple",
+    "enonce": "Parmi les voies sans effraction cutanée et/ou muqueuse, les voies à visée locale comprennent :",
+    "options": [
+      "La voie nasale",
+      "La voie cutanée",
+      "La voie oculaire",
+      "La voie percutanée",
+      "La voie auriculaire"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explication": "Les voies locales du cours sont cutanée, oculaire, auriculaire, nasale et vaginale. La voie percutanée (patchs) est classée parmi les voies systémiques.",
+    "source": {
+      "page": 7,
+      "extrait": "❑ Cutanée ❑ Oculaire ❑ Auriculaire ❑ Nasale ❑ Vaginale"
+    },
+    "difficulte": 2,
+    "tags": [
+      "classification",
+      "voies locales"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/qcm-009",
+    "type": "multiple",
+    "enonce": "Concernant la distinction entre voie cutanée et voie percutanée :",
+    "options": [
+      "La voie cutanée est une voie à visée locale",
+      "La voie cutanée et la voie percutanée sont toutes deux des voies avec effraction",
+      "La voie percutanée utilise des dispositifs transdermiques ou patchs",
+      "La voie percutanée est une voie à visée systémique",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      0,
+      2,
+      3
+    ],
+    "explication": "Dans le cours, la voie cutanée est locale tandis que la percutanée vise une diffusion générale grâce aux dispositifs transdermiques. Ces deux voies appartiennent au groupe sans effraction cutanée et/ou muqueuse.",
+    "source": {
+      "page": 42,
+      "extrait": "Application sur la peau ➔diffusion générale: dispositifs transdermiques ou patchs"
+    },
+    "difficulte": 2,
+    "tags": [
+      "classification",
+      "percutanée",
+      "cutanée"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/qcm-010",
+    "type": "multiple",
+    "enonce": "Les sites d'administration de la voie intraveineuse cités dans le cours sont :",
+    "options": [
+      "La veine du pli du coude",
+      "La veine sous-clavière",
+      "La veine du dos de la main",
+      "La veine jugulaire externe",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le cours cite : veine du pli du coude, jugulaire externe, sous-clavière, saphène externe, dos de la main et veine fémorale. Toutes les propositions sont justes.",
+    "source": {
+      "page": 10,
+      "extrait": "Veine du pli du coude, jugulaire externe, sous-clavière, saphène externe, dos de la main, veine fémorale."
+    },
+    "difficulte": 1,
+    "tags": [
+      "intraveineuse",
+      "sites"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/qcm-011",
+    "type": "multiple",
+    "enonce": "Les formes pharmaceutiques administrées par voie intraveineuse doivent être :",
+    "options": [
+      "Apyrogènes",
+      "Neutres et isotoniques",
+      "Les moins irritantes possible pour l'endothélium veineux",
+      "Des solutions stériles et limpides",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le cours exige pour l'IV des solutions stériles, limpides, apyrogènes, neutres, isotoniques et les moins irritantes pour l'endothélium veineux. Toutes les propositions sont justes.",
+    "source": {
+      "page": 10,
+      "extrait": "Solutions, stériles, limpides, apyrogènes, neutres, isotoniques et les moins irritantes pour l'endothélium veineux."
+    },
+    "difficulte": 1,
+    "tags": [
+      "intraveineuse",
+      "formes pharmaceutiques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/qcm-012",
+    "type": "multiple",
+    "enonce": "Par voie intraveineuse, on peut administrer :",
+    "options": [
+      "Des solutions aqueuses isotoniques",
+      "Des suspensions stériles",
+      "Des solutions limpides et neutres",
+      "Des solutions huileuses stériles et apyrogènes",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      2
+    ],
+    "explication": "Seules des solutions stériles, limpides, apyrogènes, neutres et isotoniques sont admises. Le cours précise que les solutions huileuses et les suspensions ne doivent pas être administrées par cette voie, même stériles.",
+    "source": {
+      "page": 10,
+      "extrait": "Les solutions huileuses et les suspensions ne doivent pas être administrées par cette voie."
+    },
+    "difficulte": 2,
+    "tags": [
+      "intraveineuse",
+      "formes pharmaceutiques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/qcm-013",
+    "type": "multiple",
+    "enonce": "Concernant l'IV directe et la perfusion intraveineuse :",
+    "options": [
+      "L'IV directe est utilisée en thérapeutique d'urgence",
+      "L'IV directe concerne des volumes de 5 à 20 mL",
+      "La perfusion IV peut être continue ou discontinue",
+      "La perfusion IV permet l'injection de grands volumes",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le cours associe l'IV directe à la thérapeutique d'urgence (volume de 5 à 20 mL) et la perfusion IV à l'injection de grands volumes, de façon continue ou discontinue. Toutes les propositions sont justes.",
+    "source": {
+      "page": 11,
+      "extrait": "IV directe ▪ Perfusion IV Thérapeutique d'urgence Volume de 5 à 20 mL Continue ou discontinue"
+    },
+    "difficulte": 1,
+    "tags": [
+      "intraveineuse",
+      "perfusion"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/qcm-014",
+    "type": "unique",
+    "enonce": "Le volume injecté lors d'une IV directe est, selon le cours, de :",
+    "options": [
+      "50 à 100 mL",
+      "0,5 à 2 mL",
+      "5 à 20 mL",
+      "2 à 5 mL",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "L'IV directe correspond à un volume de 5 à 20 mL. 0,5–2 mL correspond à la SC et 2–5 mL à l'IM.",
+    "source": {
+      "page": 11,
+      "extrait": "Thérapeutique d'urgence Volume de 5 à 20 mL"
+    },
+    "difficulte": 1,
+    "tags": [
+      "intraveineuse",
+      "volumes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/qcm-015",
+    "type": "multiple",
+    "enonce": "Parmi les avantages de la voie intraveineuse :",
+    "options": [
+      "Rapidité d'action, utile en cas d'urgence",
+      "Biodisponibilité presque absolue",
+      "Elle évite l'effet de premier passage hépatique et intestinal",
+      "Elle évite l'interaction principe actif – tube digestif",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le cours liste parmi les avantages de l'IV : rapidité d'action, biodisponibilité presque absolue, absence d'EPPH et d'EPPI, absence d'interaction PA-tube digestif. Toutes les propositions sont justes.",
+    "source": {
+      "page": 12,
+      "extrait": "•Rapidité d'action : (cas d'urgence). •Biodisponibilité presque absolue. •Evite l’EPPH et EPPI."
+    },
+    "difficulte": 1,
+    "tags": [
+      "intraveineuse",
+      "avantages"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/qcm-016",
+    "type": "multiple",
+    "enonce": "La voie intraveineuse est utilisable :",
+    "options": [
+      "Chez les patients inconscients",
+      "Chez les patients non coopérants",
+      "En cas de vomissements",
+      "En cas d'obstruction gastro-intestinale",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le cours précise que l'IV est utilisable chez les patients inconscients ou non coopérants, ainsi qu'en cas de vomissement ou d'obstruction GI. Toutes les propositions sont justes.",
+    "source": {
+      "page": 12,
+      "extrait": "•Utilisation possible chez les patients inconscients ou non coopérants. •Utilisation possible en cas de vomissement, d’obstruction GI."
+    },
+    "difficulte": 1,
+    "tags": [
+      "intraveineuse",
+      "avantages"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/qcm-017",
+    "type": "multiple",
+    "enonce": "Parmi les inconvénients de la voie intraveineuse :",
+    "options": [
+      "Voie traumatisante, avec irritation et sensibilisation au site d'injection",
+      "Nécessité d'un personnel qualifié",
+      "Risques infectieux et risques toxiques (surdosage potentiel)",
+      "Réactions anaphylactiques",
+      "Effet de premier passage hépatique important"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Le cours cite comme inconvénients : voie traumatisante, personnel qualifié, difficultés d'administration, risques techniques, infectieux, toxiques et réactions anaphylactiques. L'IV évite au contraire l'EPPH.",
+    "source": {
+      "page": 12,
+      "extrait": "•Voie traumatisante, irritation, sensibilisation au site d’injection. •Personnel qualifié."
+    },
+    "difficulte": 1,
+    "tags": [
+      "intraveineuse",
+      "inconvénients"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/qcm-018",
+    "type": "multiple",
+    "enonce": "Concernant la voie intraveineuse :",
+    "options": [
+      "Elle présente un effet de premier passage intestinal",
+      "Elle présente un risque technique comme la piqûre d'une artère",
+      "Elle expose à des difficultés d'administration (matériel, technique, conditions cliniques)",
+      "Sa biodisponibilité est presque absolue",
+      "Elle peut être auto-administrée sans personnel qualifié"
+    ],
+    "correctes": [
+      1,
+      2,
+      3
+    ],
+    "explication": "L'IV évite l'EPPI et l'EPPH et nécessite un personnel qualifié. Le cours cite les risques techniques (piqûre artère), les difficultés d'administration et une biodisponibilité presque absolue.",
+    "source": {
+      "page": 12,
+      "extrait": "•Risques techniques (piqûre artère...)."
+    },
+    "difficulte": 2,
+    "tags": [
+      "intraveineuse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/qcm-019",
+    "type": "multiple",
+    "enonce": "La voie intra-artérielle :",
+    "options": [
+      "Est peu utilisée et difficile",
+      "A une biodisponibilité absolue car elle évite tout effet de premier passage",
+      "Peut servir à administrer un thrombolytique pour dissoudre un caillot",
+      "Peut servir à injecter un produit de contraste pour angiographie",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le cours décrit l'IA comme peu utilisée, difficile, à biodisponibilité absolue (évite tout EPP), avec pour exemples un thrombolytique et un produit de contraste pour angiographie. Toutes les propositions sont justes.",
+    "source": {
+      "page": 14,
+      "extrait": "➢Elle est peu utilisée, difficile. ➢Biodisponibilité absolue (évite tout EPP)."
+    },
+    "difficulte": 1,
+    "tags": [
+      "intra-artérielle"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/qcm-020",
+    "type": "multiple",
+    "enonce": "Les sites d'administration de la voie intra-artérielle sont :",
+    "options": [
+      "L'artère axillaire",
+      "L'artère radiale",
+      "L'artère pulmonaire",
+      "L'artère carotide",
+      "L'artère fémorale"
+    ],
+    "correctes": [
+      0,
+      1,
+      4
+    ],
+    "explication": "Le cours cite l'artère radiale, l'artère axillaire et l'artère fémorale. Les autres artères ne sont pas mentionnées.",
+    "source": {
+      "page": 15,
+      "extrait": "artère radiale, artère axillaire et artère fémorale."
+    },
+    "difficulte": 1,
+    "tags": [
+      "intra-artérielle",
+      "sites"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/qcm-021",
+    "type": "multiple",
+    "enonce": "Concernant la biodisponibilité selon la voie vasculaire :",
+    "options": [
+      "Elle est qualifiée de presque absolue pour la voie intraveineuse",
+      "Elle est qualifiée d'absolue pour la voie intra-artérielle",
+      "La voie intra-artérielle évite tout effet de premier passage",
+      "La voie intraveineuse subit un effet de premier passage intestinal",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Le cours qualifie la biodisponibilité de presque absolue en IV et d'absolue en IA (qui évite tout EPP). L'IV évite l'EPPI et l'EPPH.",
+    "source": {
+      "page": 14,
+      "extrait": "Biodisponibilité absolue (évite tout EPP)."
+    },
+    "difficulte": 2,
+    "tags": [
+      "intra-artérielle",
+      "intraveineuse",
+      "biodisponibilité"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/qcm-022",
+    "type": "multiple",
+    "enonce": "La voie intracardiaque :",
+    "options": [
+      "Est exceptionnelle et réservée aux cas désespérés",
+      "A pour exemple l'adrénaline en cas d'arrêt cardiaque",
+      "Accepte les suspensions stériles",
+      "Nécessite des solutions stériles, limpides, apyrogènes, neutres et isotoniques",
+      "Est la voie de choix pour les solutions huileuses"
+    ],
+    "correctes": [
+      0,
+      1,
+      3
+    ],
+    "explication": "La voie IC est exceptionnelle (cas désespérés, adrénaline pour un arrêt cardiaque) et exige des solutions stériles, limpides, apyrogènes, neutres, isotoniques. Les solutions huileuses et suspensions ne doivent pas être administrées par cette voie.",
+    "source": {
+      "page": 17,
+      "extrait": "Exceptionnelle, dans les cas désespérés. Exemple: Adrénaline pour un arrêt cardiaque."
+    },
+    "difficulte": 1,
+    "tags": [
+      "intracardiaque"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/qcm-023",
+    "type": "multiple",
+    "enonce": "Pour les trois voies vasculaires (IV, IA, IC) :",
+    "options": [
+      "Les solutions huileuses ne doivent pas être administrées",
+      "Les suspensions ne doivent pas être administrées",
+      "Le principe actif subit un effet de premier passage hépatique",
+      "Les solutions doivent être stériles, limpides, apyrogènes, neutres, isotoniques",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      3
+    ],
+    "explication": "Le cours répète pour chacune des trois voies vasculaires l'exigence de solutions stériles, limpides, apyrogènes, neutres, isotoniques, et l'interdiction des solutions huileuses et suspensions. Les voies vasculaires évitent l'EPPH.",
+    "source": {
+      "page": 17,
+      "extrait": "Les solutions huileuses et les suspensions ne doivent pas être administrées par cette voie."
+    },
+    "difficulte": 2,
+    "tags": [
+      "voies vasculaires"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/qcm-024",
+    "type": "multiple",
+    "enonce": "Les sites d'administration de la voie intramusculaire sont :",
+    "options": [
+      "La face postérieure du bras",
+      "Le muscle deltoïde (épaule)",
+      "Le dos de la main",
+      "L'abdomen",
+      "Le muscle fessier, dans son quadrant supéro-externe"
+    ],
+    "correctes": [
+      1,
+      4
+    ],
+    "explication": "Le cours cite le muscle fessier (quadrant supéro-externe) et le muscle deltoïde. L'abdomen et la face postérieure du bras sont des sites de la SC ; le dos de la main est un site IV.",
+    "source": {
+      "page": 19,
+      "extrait": "▪ Muscle fessier (quadrant supéro externe), ▪ Muscle deltoïde (épaule)."
+    },
+    "difficulte": 1,
+    "tags": [
+      "intramusculaire",
+      "sites"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/qcm-025",
+    "type": "multiple",
+    "enonce": "Pour une injection intramusculaire, le cours indique :",
+    "options": [
+      "Un volume à injecter de 5 à 20 mL",
+      "Un volume à injecter de 0,5 à 2 mL",
+      "Un angle de 90°",
+      "Un volume à injecter de 2 à 5 mL",
+      "Un angle de 45°"
+    ],
+    "correctes": [
+      2,
+      3
+    ],
+    "explication": "L'IM se fait à 90° avec un volume de 2 à 5 mL. L'angle de 45° à 90° et le volume de 0,5 à 2 mL concernent la SC ; 5 à 20 mL correspond à l'IV directe.",
+    "source": {
+      "page": 19,
+      "extrait": "➔Angle 90° / Volume à injecter:2 - 5 ml."
+    },
+    "difficulte": 1,
+    "tags": [
+      "intramusculaire",
+      "volumes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/qcm-026",
+    "type": "multiple",
+    "enonce": "Les formes pharmaceutiques administrables par voie intramusculaire :",
+    "options": [
+      "Peuvent être des solutions",
+      "Doivent être stériles et apyrogènes",
+      "Comprennent par exemple des antibiotiques, des anti-inflammatoires, des hormones",
+      "Peuvent être des suspensions",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le cours admet en IM des solutions et des suspensions, stériles et apyrogènes, avec pour exemples ATB, anti-inflammatoires et hormones. Toutes les propositions sont justes.",
+    "source": {
+      "page": 19,
+      "extrait": "Solutions et suspensions, stériles et apyrogènes. Exp mdts: ATB, anti inflammatoires, hormones"
+    },
+    "difficulte": 1,
+    "tags": [
+      "intramusculaire",
+      "formes pharmaceutiques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/qcm-027",
+    "type": "multiple",
+    "enonce": "Concernant les avantages de la voie intramusculaire :",
+    "options": [
+      "La résorption est plus rapide qu'en sous-cutanée",
+      "Il n'y a pas de destruction digestive",
+      "Il n'y a pas d'effet de premier passage hépatique",
+      "La résorption est plus lente qu'en sous-cutanée",
+      "Elle est facilement auto-administrée"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Le cours cite comme avantages de l'IM une résorption plus rapide qu'en SC, l'absence de destruction digestive et l'absence d'EPPH. L'auto-administration est un avantage de la SC.",
+    "source": {
+      "page": 20,
+      "extrait": "•Résorption est plus rapide qu'en SC. •Pas de destruction digestive. •Pas d’EPPH."
+    },
+    "difficulte": 1,
+    "tags": [
+      "intramusculaire",
+      "avantages"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/qcm-028",
+    "type": "multiple",
+    "enonce": "Parmi les inconvénients de la voie intramusculaire :",
+    "options": [
+      "Le choc anaphylactique",
+      "Le risque infectieux",
+      "La technique",
+      "Les risques locaux (lésions nerveuses)",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le cours cite pour l'IM : technique, risques locaux (lésions nerveuses), risque infectieux et choc anaphylactique. Toutes les propositions sont justes.",
+    "source": {
+      "page": 20,
+      "extrait": "•Technique. •Risques locaux (lésions nerveuses). •Risque infectieux. •Choc anaphylactique."
+    },
+    "difficulte": 1,
+    "tags": [
+      "intramusculaire",
+      "inconvénients"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/qcm-029",
+    "type": "multiple",
+    "enonce": "Les sites d'administration de la voie sous-cutanée sont :",
+    "options": [
+      "L'abdomen",
+      "La région deltoïdienne (épaule)",
+      "La face externe de la cuisse",
+      "La face postérieure du bras",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le cours cite pour la SC : face postérieure du bras, abdomen, face externe de la cuisse et région deltoïdienne. Toutes les propositions sont justes.",
+    "source": {
+      "page": 22,
+      "extrait": "Face postérieure du bras, abdomen, face externe de la cuisse, région deltoïdienne (épaule): action lente du mdt."
+    },
+    "difficulte": 1,
+    "tags": [
+      "sous-cutanée",
+      "sites"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/qcm-030",
+    "type": "multiple",
+    "enonce": "Pour une injection sous-cutanée, le cours indique :",
+    "options": [
+      "Une action lente du médicament",
+      "Un angle de 45° à 90°",
+      "Un volume à injecter de 2 à 5 mL",
+      "Une action plus rapide qu'en intramusculaire",
+      "Un volume à injecter de 0,5 à 2 mL"
+    ],
+    "correctes": [
+      0,
+      1,
+      4
+    ],
+    "explication": "La SC se fait avec un angle de 45° à 90°, un volume de 0,5 à 2 mL, et donne une action lente. Le volume de 2 à 5 mL est celui de l'IM, voie dont la résorption est plus rapide que la SC.",
+    "source": {
+      "page": 22,
+      "extrait": "action lente du mdt. ➔angle 45°à 90°/ Volume à injecter : 0.5 – 2ml."
+    },
+    "difficulte": 2,
+    "tags": [
+      "sous-cutanée",
+      "volumes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/qcm-031",
+    "type": "multiple",
+    "enonce": "Le cours cite comme exemples de médicaments administrés par voie sous-cutanée :",
+    "options": [
+      "Les vaccins",
+      "Les anticoagulants (héparine)",
+      "L'adrénaline en cas d'arrêt cardiaque",
+      "L'insuline",
+      "Les produits de contraste pour angiographie"
+    ],
+    "correctes": [
+      0,
+      1,
+      3
+    ],
+    "explication": "Les exemples de la SC sont vaccin, insuline et anticoagulants (héparine). L'adrénaline pour arrêt cardiaque illustre la voie intracardiaque et le produit de contraste la voie intra-artérielle.",
+    "source": {
+      "page": 22,
+      "extrait": "Ex: vaccin, insuline, anticoagulants (Héparine)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "sous-cutanée",
+      "exemples"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/qcm-032",
+    "type": "multiple",
+    "enonce": "Parmi les avantages de la voie sous-cutanée :",
+    "options": [
+      "L'auto-administration",
+      "L'absence de destruction digestive",
+      "L'absence d'effet de premier passage hépatique",
+      "Un volume d'administration illimité",
+      "Une injection indolore"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Le cours cite l'auto-administration, l'absence de destruction digestive et l'absence d'EPPH. Le volume est au contraire limité et la voie est douloureuse (innervation importante).",
+    "source": {
+      "page": 23,
+      "extrait": "•Auto administration. •Pas de destruction digestive. •Pas d’EPPH."
+    },
+    "difficulte": 1,
+    "tags": [
+      "sous-cutanée",
+      "avantages"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/qcm-033",
+    "type": "multiple",
+    "enonce": "Parmi les inconvénients de la voie sous-cutanée :",
+    "options": [
+      "Le volume d'administration est limité",
+      "Elle est douloureuse en raison d'une innervation importante",
+      "Des substances irritantes peuvent entraîner une nécrose",
+      "Il existe un risque de lipodystrophie",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le cours cite : voie douloureuse (innervation importante), volume limité, risque de lipodystrophie et nécrose avec les substances irritantes ; elle est contre-indiquée en cas de mauvais état cutané. Toutes les propositions sont justes.",
+    "source": {
+      "page": 23,
+      "extrait": "•Douloureuse : innervation importante. •Volume d’administration limité. •Risque de lipodystrophie."
+    },
+    "difficulte": 1,
+    "tags": [
+      "sous-cutanée",
+      "inconvénients"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/qcm-034",
+    "type": "multiple",
+    "enonce": "La voie sous-cutanée est contre-indiquée :",
+    "options": [
+      "En cas de mauvais état cutané",
+      "Pour l'administration de l'insuline",
+      "Chez les brûlés",
+      "Chez le patient capable de s'auto-administrer",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      2
+    ],
+    "explication": "Le cours mentionne comme CI de la SC le mauvais état cutané (brûlés). L'auto-administration est un avantage et l'insuline un exemple de médicament administré par SC.",
+    "source": {
+      "page": 23,
+      "extrait": "•CI: mauvais état cutané (brûlés)."
+    },
+    "difficulte": 1,
+    "tags": [
+      "sous-cutanée",
+      "contre-indications"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/qcm-035",
+    "type": "multiple",
+    "enonce": "En comparant l'intramusculaire et la sous-cutanée :",
+    "options": [
+      "La résorption est plus rapide en IM qu'en SC",
+      "Le volume injectable est plus important en IM (2–5 mL) qu'en SC (0,5–2 mL)",
+      "Les deux voies évitent l'effet de premier passage hépatique",
+      "L'IM s'injecte à 90° alors que la SC s'injecte à 45° à 90°",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes ces comparaisons découlent du cours : résorption plus rapide en IM, volumes de 2–5 mL (IM) contre 0,5–2 mL (SC), absence d'EPPH pour les deux, angles respectifs de 90° et de 45° à 90°.",
+    "source": {
+      "page": 22,
+      "extrait": "➔angle 45°à 90°/ Volume à injecter : 0.5 – 2ml."
+    },
+    "difficulte": 2,
+    "tags": [
+      "intramusculaire",
+      "sous-cutanée"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/qcm-036",
+    "type": "multiple",
+    "enonce": "La voie intradermique est utilisée pour :",
+    "options": [
+      "Les vaccins comme le BCG",
+      "Les tests d'allergie",
+      "La rachianesthésie",
+      "L'infiltration articulaire de corticoïdes",
+      "La chimiothérapie intra-péritonéale"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Le cours cite pour la voie intradermique les vaccins (BCG) et les tests d'allergie. La rachianesthésie relève de la voie intra-thécale, l'infiltration de la voie intra-articulaire et la chimiothérapie de la voie intra-péritonéale.",
+    "source": {
+      "page": 25,
+      "extrait": "❑Intra-dermique: vaccins (BCG), tests d’allergie."
+    },
+    "difficulte": 1,
+    "tags": [
+      "intradermique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/qcm-037",
+    "type": "multiple",
+    "enonce": "Concernant la voie intra-rachidienne :",
+    "options": [
+      "L'injection dans l'espace épidural correspond à la voie péridurale",
+      "La voie péridurale est utilisée pour l'anesthésie péridurale et l'analgésie obstétricale",
+      "L'injection dans l'espace sous-arachnoïdien (LCR) correspond à la voie intra-thécale",
+      "La voie intra-thécale est utilisée pour la rachianesthésie",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le cours distingue l'espace sous-arachnoïdien (voie intra-thécale : rachianesthésie, douleurs chroniques du cancer, ATB des méningites tuberculeuses) et l'espace épidural (voie péridurale : anesthésie péridurale, analgésie obstétricale). Toutes les propositions sont justes.",
+    "source": {
+      "page": 25,
+      "extrait": "Espace sous-arachnoïdien (LCR) ➔ Voie intra-thécale."
+    },
+    "difficulte": 2,
+    "tags": [
+      "intra-rachidienne"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/qcm-038",
+    "type": "multiple",
+    "enonce": "La voie intra-thécale :",
+    "options": [
+      "Est utilisée pour l'antibiothérapie des méningites tuberculeuses",
+      "Est utilisée dans les douleurs chroniques du cancer",
+      "Correspond à une injection dans l'espace sous-arachnoïdien (LCR)",
+      "Correspond à une injection dans l'espace épidural",
+      "Est une voie à action systémique"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "La voie intra-thécale correspond à l'espace sous-arachnoïdien (LCR) : rachianesthésie, douleurs chroniques de cancer, ATB des méningites tuberculeuses. L'espace épidural correspond à la voie péridurale, et la voie intra-rachidienne est classée parmi les voies à action locale.",
+    "source": {
+      "page": 25,
+      "extrait": "Rachianesthésie, douleurs chroniques de cancer, ATB méningites tuberc.."
+    },
+    "difficulte": 2,
+    "tags": [
+      "intra-rachidienne",
+      "intra-thécale"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/qcm-039",
+    "type": "multiple",
+    "enonce": "La voie intra-articulaire :",
+    "options": [
+      "Est exceptionnelle",
+      "Consiste en une injection dans les bourses séreuses des articulations (infiltration)",
+      "Concerne des sites comme l'épaule ou le genou",
+      "Est utilisée en rhumatologie pour les corticoïdes",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le cours décrit la voie intra-articulaire comme exceptionnelle, par injection dans les bourses séreuses des articulations (infiltration), au niveau de l'épaule ou du genou, avec pour exemple les corticoïdes en rhumatologie. Toutes les propositions sont justes.",
+    "source": {
+      "page": 26,
+      "extrait": "Exceptionnelle: injection dans les bourses séreuses des articulations : infiltration."
+    },
+    "difficulte": 1,
+    "tags": [
+      "intra-articulaire"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/qcm-040",
+    "type": "multiple",
+    "enonce": "Concernant les voies intra-séreuses :",
+    "options": [
+      "Elles sont classées parmi les voies vasculaires",
+      "La voie intra-pleurale est utilisée en cas d'infections (effet antibiotique local)",
+      "La voie intra-péritonéale est utilisée pour la chimiothérapie",
+      "Elles sont classées parmi les voies extravasculaires à action locale",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      1,
+      2,
+      3
+    ],
+    "explication": "Le cours cite la voie intra-péritonéale (chimiothérapie) et la voie intra-pleurale (infections, effet ATB local), classées parmi les voies extravasculaires à action locale.",
+    "source": {
+      "page": 26,
+      "extrait": "❑Intra-péritonéale: chimiothérapie. ❑Intra-pleurale: en cas d’infections (effet ATB local)."
+    },
+    "difficulte": 1,
+    "tags": [
+      "intra-séreuses"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/qcm-041",
+    "type": "multiple",
+    "enonce": "La voie buccale :",
+    "options": [
+      "Comprend la voie sublinguale (PA placé sous la langue, région richement vascularisée)",
+      "Comprend la voie perlinguale (absorption par la muqueuse de la langue et l'intérieur des joues)",
+      "A pour exemple les dérivés nitrés (trinitrine) dans l'angine de poitrine",
+      "Utilise des comprimés, granules, solutions, sprays, lyophilisats",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le cours décrit la voie buccale avec ses deux modalités (sublinguale et perlinguale), ses formes (comprimés, granules, solutions, sprays, lyophilisat) et l'exemple de la trinitrine dans l'angine de poitrine. Toutes les propositions sont justes.",
+    "source": {
+      "page": 29,
+      "extrait": "Exp :Les dérivés nitrés (la trinitrine) : angine de poitrine"
+    },
+    "difficulte": 1,
+    "tags": [
+      "buccale",
+      "sublinguale"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/qcm-042",
+    "type": "multiple",
+    "enonce": "Parmi les avantages de la voie buccale (sublinguale) :",
+    "options": [
+      "La rapidité d'action",
+      "L'absence de destruction digestive",
+      "L'absence d'effet de premier passage hépatique",
+      "Une surface d'absorption très étendue",
+      "Elle convient à un nombre illimité de molécules"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Le cours cite la rapidité d'action, l'absence de destruction digestive et l'absence d'EPPH. La surface est au contraire limitée (200 cm²) et le nombre de molécules est limité.",
+    "source": {
+      "page": 30,
+      "extrait": "•Rapidité d’action. •Pas de destruction digestive. •Pas d’EPPH."
+    },
+    "difficulte": 1,
+    "tags": [
+      "buccale",
+      "avantages"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/qcm-043",
+    "type": "multiple",
+    "enonce": "Parmi les inconvénients de la voie buccale :",
+    "options": [
+      "Une surface limitée d'environ 200 cm²",
+      "Une latence d'action importante",
+      "La nécessité de la coopérativité du patient (enfant)",
+      "Un nombre limité de molécules",
+      "Un effet de premier passage hépatique important"
+    ],
+    "correctes": [
+      0,
+      2,
+      3
+    ],
+    "explication": "Le cours cite comme inconvénients une surface limitée (200 cm²), un nombre limité de molécules et la coopérativité du patient (enfant). La voie buccale évite l'EPPH et agit rapidement.",
+    "source": {
+      "page": 30,
+      "extrait": "•Surface limitée : 200 cm². •Nombre limité de molécules. •Coopérativité du patient (enfant)."
+    },
+    "difficulte": 1,
+    "tags": [
+      "buccale",
+      "inconvénients"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/qcm-044",
+    "type": "unique",
+    "enonce": "La surface d'absorption de la voie buccale, selon le cours, est de :",
+    "options": [
+      "20 cm²",
+      "200 m²",
+      "2 000 cm²",
+      "200 cm²",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      3
+    ],
+    "explication": "Le cours donne une surface limitée de 200 cm² pour la voie buccale.",
+    "source": {
+      "page": 30,
+      "extrait": "•Surface limitée : 200 cm²."
+    },
+    "difficulte": 1,
+    "tags": [
+      "buccale"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/qcm-045",
+    "type": "multiple",
+    "enonce": "La voie orale (per os) :",
+    "options": [
+      "Est la voie classique, la plus utilisée",
+      "Implique que le médicament soit dégluti",
+      "Permet une résorption le long du trajet digestif, surtout au niveau de l'intestin",
+      "Permet une résorption exclusivement gastrique",
+      "Évite l'effet de premier passage hépatique"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "La voie orale est classique et la plus utilisée ; le médicament est dégluti et résorbé le long du tube digestif, surtout dans l'intestin. Elle n'est pas exclusivement gastrique et subit l'EPPH.",
+    "source": {
+      "page": 32,
+      "extrait": "Le médicament est dégluti et sera résorbé le long du trajet digestif, l’intestin +++"
+    },
+    "difficulte": 1,
+    "tags": [
+      "voie orale"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/qcm-046",
+    "type": "multiple",
+    "enonce": "Parmi les avantages de la voie orale :",
+    "options": [
+      "Elle est pratique et répétable",
+      "Elle est réversible : lavage gastrique possible en cas d'intoxication aiguë",
+      "Elle est économique",
+      "Elle est adaptée aux situations d'urgence",
+      "Elle donne une biodisponibilité précise"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Le cours cite comme avantages : pratique (répétable), réversible (lavage gastrique en cas d'intoxication aiguë) et économique. Elle est non adaptée à l'urgence et sa biodisponibilité est imprécise.",
+    "source": {
+      "page": 33,
+      "extrait": "•Pratique +++ (répétable) •Réversible : lavage gastrique en cas d’intoxication aigue •Économique."
+    },
+    "difficulte": 1,
+    "tags": [
+      "voie orale",
+      "avantages"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/qcm-047",
+    "type": "multiple",
+    "enonce": "Parmi les inconvénients de la voie orale :",
+    "options": [
+      "La nécessité de la coopérativité du sujet",
+      "L'altération du PA par les enzymes digestives et les effets de premier passage",
+      "Une cinétique variable avec imprécision de la biodisponibilité",
+      "Une latence d'action et une inadaptation aux situations d'urgence",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le cours cite : coopérativité du sujet, altération du PA (enzymes digestives, EPPI, EPPH, EPPP), cinétique variable (imprécision de la biodisponibilité), latence d'action et inadaptation à l'urgence. Toutes les propositions sont justes.",
+    "source": {
+      "page": 33,
+      "extrait": "•Altération du PA: enzymes digestives, EPPI, EPPH, EPPP)."
+    },
+    "difficulte": 1,
+    "tags": [
+      "voie orale",
+      "inconvénients"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/qcm-048",
+    "type": "multiple",
+    "enonce": "Par voie orale, le principe actif peut être altéré par :",
+    "options": [
+      "Les enzymes digestives",
+      "L'effet de premier passage intestinal (EPPI)",
+      "L'effet de premier passage hépatique (EPPH)",
+      "L'effet de premier passage pulmonaire (EPPP)",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le cours cite comme causes d'altération du PA par voie orale les enzymes digestives, l'EPPI, l'EPPH et l'EPPP. Toutes les propositions sont justes.",
+    "source": {
+      "page": 33,
+      "extrait": "Altération du PA: enzymes digestives, EPPI, EPPH, EPPP"
+    },
+    "difficulte": 2,
+    "tags": [
+      "voie orale",
+      "premier passage"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/qcm-049",
+    "type": "multiple",
+    "enonce": "Les formes solides destinées à la voie orale comprennent :",
+    "options": [
+      "Les sirops",
+      "Les ampoules buvables",
+      "Les capsules et gélules",
+      "Les comprimés (classiques, effervescents, dispersibles, enrobés, gastro-résistants, à libération prolongée…)",
+      "Les granules et sachets"
+    ],
+    "correctes": [
+      2,
+      3,
+      4
+    ],
+    "explication": "Le cours cite comme formes orales solides : comprimés (de divers types), capsule, gélule, granule, sachet. Les sirops et ampoules buvables sont des formes liquides.",
+    "source": {
+      "page": 34,
+      "extrait": "Comprimé (classique, effervescent, dispersible, enrobé/pelliculé, gastro-résistant, à libération prolongée/modifiée…), capsule, gélule, granule, sachet"
+    },
+    "difficulte": 1,
+    "tags": [
+      "voie orale",
+      "formes pharmaceutiques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/qcm-050",
+    "type": "multiple",
+    "enonce": "Les formes liquides destinées à la voie orale comprennent :",
+    "options": [
+      "Le soluté buvable",
+      "L'ampoule buvable et les gouttes buvables",
+      "Le sirop et la suspension",
+      "L'émulsion",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le cours cite comme formes orales liquides : soluté buvable, sirop, suspension, ampoule buvable, gouttes buvables, émulsion. Toutes les propositions sont justes.",
+    "source": {
+      "page": 34,
+      "extrait": "sirop, suspension, ampoule buvable, gouttes buvables, emulsion"
+    },
+    "difficulte": 1,
+    "tags": [
+      "voie orale",
+      "formes pharmaceutiques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/qcm-051",
+    "type": "multiple",
+    "enonce": "La voie rectale peut être utilisée :",
+    "options": [
+      "Pour un effet systémique, grâce à une ampoule rectale richement vascularisée",
+      "Uniquement pour un effet local",
+      "Pour traiter la fièvre",
+      "Pour un effet local, par exemple dans la constipation ou les hémorroïdes",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      2,
+      3
+    ],
+    "explication": "Le cours distingue l'effet local (constipation, hémorroïdes) et l'effet systémique (ampoule rectale richement vascularisée : fièvre). « Uniquement local » est donc faux.",
+    "source": {
+      "page": 36,
+      "extrait": "▪Effet local: Constipation, Hémorroïdes. ▪Effet systémique: ampoule rectale richement vascularisée: Fièvre."
+    },
+    "difficulte": 1,
+    "tags": [
+      "voie rectale"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/qcm-052",
+    "type": "multiple",
+    "enonce": "Parmi les avantages de la voie rectale :",
+    "options": [
+      "Une bonne irrigation assurant une bonne résorption",
+      "Elle est pratique chez l'enfant, en cas d'occlusion intestinale ou de vomissements",
+      "Elle convient aux substances de goût désagréable",
+      "Un effet de premier passage hépatique plus réduit que par voie orale",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le cours cite : irrigation (bonne résorption, rapidité d'action), praticité chez l'enfant, en cas d'occlusion intestinale ou de vomissement, substances de goût désagréable et EPPH plus réduit que la voie orale. Toutes les propositions sont justes.",
+    "source": {
+      "page": 37,
+      "extrait": "•EPPH plus réduit que la voie orale."
+    },
+    "difficulte": 2,
+    "tags": [
+      "voie rectale",
+      "avantages"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/qcm-053",
+    "type": "multiple",
+    "enonce": "Parmi les inconvénients de la voie rectale :",
+    "options": [
+      "Elle est inutile en cas de diarrhée",
+      "Une muqueuse fragile et irritable",
+      "Elle ne permet pas d'éviter complètement l'effet de premier passage hépatique",
+      "Une résorption souvent incomplète et variable",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le cours cite : résorption souvent incomplète et variable, EPPH non complètement évité, muqueuse fragile et irritable, inutilité en cas de diarrhée. Toutes les propositions sont justes.",
+    "source": {
+      "page": 37,
+      "extrait": "•Ne permet pas d’éviter complètement l’EPPH. •Muqueuse fragile et irritable. •Inutile en cas de diarrhée."
+    },
+    "difficulte": 1,
+    "tags": [
+      "voie rectale",
+      "inconvénients"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/qcm-054",
+    "type": "multiple",
+    "enonce": "Concernant la voie rectale et l'effet de premier passage hépatique (EPPH) :",
+    "options": [
+      "L'EPPH est plus important par voie rectale que par voie orale",
+      "La voie rectale évite totalement l'EPPH",
+      "La voie rectale ne permet pas d'éviter complètement l'EPPH",
+      "L'EPPH est plus réduit par voie rectale que par voie orale",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      2,
+      3
+    ],
+    "explication": "Le cours indique que l'EPPH est plus réduit par voie rectale que par voie orale, mais que cette voie ne permet pas de l'éviter complètement : elle le shunte en partie.",
+    "source": {
+      "page": 37,
+      "extrait": "•Ne permet pas d’éviter complètement l’EPPH."
+    },
+    "difficulte": 2,
+    "tags": [
+      "voie rectale",
+      "premier passage"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/qcm-055",
+    "type": "multiple",
+    "enonce": "Un nourrisson présente une diarrhée aiguë. Concernant le choix de la voie rectale :",
+    "options": [
+      "La voie rectale est néanmoins pratique chez l'enfant en dehors de ce contexte",
+      "Elle est inutile en cas de diarrhée",
+      "Elle est la voie de choix en cas de diarrhée",
+      "Elle assure dans ce cas une résorption complète",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Le cours précise que la voie rectale est inutile en cas de diarrhée, bien qu'elle soit pratique chez l'enfant. La résorption rectale est souvent incomplète et variable.",
+    "source": {
+      "page": 37,
+      "extrait": "•Inutile en cas de diarrhée."
+    },
+    "difficulte": 2,
+    "tags": [
+      "voie rectale",
+      "nourrisson"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/qcm-056",
+    "type": "multiple",
+    "enonce": "La voie broncho-pulmonaire :",
+    "options": [
+      "Concerne l'administration de produits volatils et gazeux dans la muqueuse broncho-pulmonaire",
+      "Permet une action rapide",
+      "Permet une action locale dans les pathologies respiratoires (asthme) ou les infections broncho-pulmonaires",
+      "Permet une action générale, par exemple en anesthésie",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le cours décrit l'administration de produits volatils et gazeux, avec une action rapide, locale (asthme, infections broncho-pulmonaires) ou générale (anesthésie). Toutes les propositions sont justes.",
+    "source": {
+      "page": 39,
+      "extrait": "Administration dans la muqueuse broncho-pulmonaire : Produits volatils et gazeux."
+    },
+    "difficulte": 1,
+    "tags": [
+      "voie pulmonaire"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/qcm-057",
+    "type": "multiple",
+    "enonce": "Parmi les avantages de la voie broncho-pulmonaire :",
+    "options": [
+      "Un accès rapide",
+      "Une limitation des effets indésirables, car une faible quantité est administrée",
+      "Une grande précision du dosage",
+      "Un emploi facile",
+      "L'absence de risque infectieux"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Le cours cite comme avantages l'accès rapide et la limitation des effets indésirables (faible quantité). L'emploi est difficile, le dosage imprécis et il existe des risques d'infection (manque d'hygiène).",
+    "source": {
+      "page": 40,
+      "extrait": "•Accès rapide, •Limitation des effets indésirables (faible quantité par cette voie)."
+    },
+    "difficulte": 1,
+    "tags": [
+      "voie pulmonaire",
+      "avantages"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/qcm-058",
+    "type": "multiple",
+    "enonce": "Parmi les inconvénients de la voie broncho-pulmonaire :",
+    "options": [
+      "Un emploi difficile",
+      "Une imprécision du dosage",
+      "Une irritation des bronches et de la trachée",
+      "Des risques d'infection liés au manque d'hygiène",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le cours cite : emploi difficile, imprécision du dosage, irritation des bronches et de la trachée, risques d'infection (manque d'hygiène). Toutes les propositions sont justes.",
+    "source": {
+      "page": 40,
+      "extrait": "•Emploi difficile, •Imprécision du dosage, •Irritation des bronches et de la trachée,"
+    },
+    "difficulte": 1,
+    "tags": [
+      "voie pulmonaire",
+      "inconvénients"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/qcm-059",
+    "type": "multiple",
+    "enonce": "La voie percutanée :",
+    "options": [
+      "Consiste en une application sur la peau en vue d'une diffusion générale",
+      "Utilise des dispositifs transdermiques ou patchs",
+      "Évite l'effet de premier passage hépatique et le métabolisme digestif",
+      "Permet une libération prolongée",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le cours définit la voie percutanée comme une application sur la peau pour une diffusion générale (patchs), simple, à libération prolongée, évitant l'EPPH et le métabolisme digestif, réversible en cas d'effets indésirables. Toutes les propositions sont justes.",
+    "source": {
+      "page": 42,
+      "extrait": "Application sur la peau ➔diffusion générale: dispositifs transdermiques ou patchs"
+    },
+    "difficulte": 1,
+    "tags": [
+      "voie percutanée"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/qcm-060",
+    "type": "multiple",
+    "enonce": "Concernant la voie percutanée (patchs transdermiques) :",
+    "options": [
+      "Elle est réversible en cas d'effets indésirables",
+      "Le débit sanguin réduit entraîne une résorption lente",
+      "Elle n'est pas indiquée dans l'urgence",
+      "Son coût est élevé",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le cours cite la réversibilité (avantage) et, comme inconvénients, un débit sanguin réduit (résorption lente), la non-indication en urgence et un coût élevé. Toutes les propositions sont justes.",
+    "source": {
+      "page": 42,
+      "extrait": "•Débit sanguin réduit➔résorption lente •Non indiquée dans l’urgence. •Coût élevé."
+    },
+    "difficulte": 2,
+    "tags": [
+      "voie percutanée"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/qcm-061",
+    "type": "multiple",
+    "enonce": "Parmi les voies suivantes, lesquelles ne sont pas indiquées (ou non adaptées) dans les situations d'urgence selon le cours ?",
+    "options": [
+      "La voie orale",
+      "La voie percutanée",
+      "L'IV directe",
+      "La voie intracardiaque",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Le cours qualifie la voie orale de « non adaptée aux situations d'urgence » et la voie percutanée de « non indiquée dans l'urgence ». L'IV directe relève au contraire de la thérapeutique d'urgence et la voie intracardiaque des cas désespérés.",
+    "source": {
+      "page": 42,
+      "extrait": "•Non indiquée dans l’urgence."
+    },
+    "difficulte": 2,
+    "tags": [
+      "urgence",
+      "synthèse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/qcm-062",
+    "type": "multiple",
+    "enonce": "Concernant la voie cutanée :",
+    "options": [
+      "Elle peut provoquer une irritation locale",
+      "Elle permet la persistance des effets superficiels (corticoïdes, antibiotiques)",
+      "Elle peut entraîner des effets systémiques indésirables sur une peau fine comme celle du nouveau-né",
+      "La couche cornée constitue un site de stockage (effet réservoir)",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le cours cite la couche cornée comme site de stockage (effet réservoir) avec persistance des effets superficiels (corticoïdes, ATB), et comme inconvénients le frottement des habits, l'irritation locale et les effets systémiques indésirables sur peau fine (nouveau-né). Toutes les propositions sont justes.",
+    "source": {
+      "page": 44,
+      "extrait": "•Effets systémiques indésirables peau fine : nouveau né"
+    },
+    "difficulte": 2,
+    "tags": [
+      "voie cutanée"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/qcm-063",
+    "type": "multiple",
+    "enonce": "Parmi les inconvénients de la voie cutanée :",
+    "options": [
+      "Le frottement des habits",
+      "L'irritation locale",
+      "Des effets systémiques indésirables sur une peau fine (nouveau-né)",
+      "L'effet réservoir de la couche cornée",
+      "Un effet de premier passage hépatique important"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Le cours cite comme inconvénients le frottement des habits, l'irritation locale et les effets systémiques indésirables sur peau fine. L'effet réservoir de la couche cornée est présenté comme un avantage.",
+    "source": {
+      "page": 44,
+      "extrait": "•Frottement des habits •Irritation locale"
+    },
+    "difficulte": 2,
+    "tags": [
+      "voie cutanée",
+      "inconvénients"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/qcm-064",
+    "type": "multiple",
+    "enonce": "La voie oculaire :",
+    "options": [
+      "Utilise des formes galéniques permettant une diffusion lente du PA",
+      "Correspond à une application dans le sac conjonctival ou sur la cornée",
+      "Utilise des collyres et des pommades ophtalmiques",
+      "Est une voie à visée systémique",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Le cours décrit des formes à diffusion lente appliquées dans le sac conjonctival ou sur la cornée (collyres, pommades ophtalmiques). C'est une voie locale.",
+    "source": {
+      "page": 45,
+      "extrait": "Formes galéniques qui vont permettre une diffusion lente du PA, appliquées dans le sac conjonctival ou sur la cornée."
+    },
+    "difficulte": 1,
+    "tags": [
+      "voie oculaire"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/qcm-065",
+    "type": "multiple",
+    "enonce": "La voie auriculaire :",
+    "options": [
+      "Consiste en l'administration de solutés dans le conduit auditif",
+      "Utilise des gouttes auriculaires",
+      "Utilise des pommades",
+      "Est classée parmi les voies locales",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le cours décrit la voie auriculaire comme l'administration de solutés dans le conduit auditif (gouttes auriculaires, pommades), parmi les voies locales. Toutes les propositions sont justes.",
+    "source": {
+      "page": 46,
+      "extrait": "Administration de solutés dans le conduit auditif"
+    },
+    "difficulte": 1,
+    "tags": [
+      "voie auriculaire"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/qcm-066",
+    "type": "multiple",
+    "enonce": "La voie nasale a une visée :",
+    "options": [
+      "Décongestionnante",
+      "Anti-inflammatoire",
+      "Anti-infectieuse et antiseptique",
+      "Anti-allergique et hémostatique",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le cours cite pour la voie nasale une visée décongestionnante, anti-inflammatoire, anti-infectieuse, antiseptique, anti-allergique et hémostatique, avec des gouttes et des aérosols. Toutes les propositions sont justes.",
+    "source": {
+      "page": 47,
+      "extrait": "Visée décongestionnante, anti-inflammatoire, anti-infectieuse, antiseptique, anti-allergique, hémostatique"
+    },
+    "difficulte": 1,
+    "tags": [
+      "voie nasale"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/qcm-067",
+    "type": "multiple",
+    "enonce": "Les formes pharmaceutiques citées pour la voie nasale sont :",
+    "options": [
+      "Les collyres",
+      "Les ovules",
+      "Les gouttes",
+      "Les aérosols",
+      "Les suppositoires"
+    ],
+    "correctes": [
+      2,
+      3
+    ],
+    "explication": "Le cours cite les gouttes et les aérosols pour la voie nasale. Les ovules sont vaginaux, les collyres oculaires et les suppositoires rectaux.",
+    "source": {
+      "page": 47,
+      "extrait": "❖ Formes pharmaceutiques : □ Gouttes. □ Aérosols."
+    },
+    "difficulte": 1,
+    "tags": [
+      "voie nasale"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/qcm-068",
+    "type": "multiple",
+    "enonce": "La voie vaginale :",
+    "options": [
+      "A généralement une action locale",
+      "Peut avoir une visée antiseptique, antibiotique, antifongique ou antiparasitaire",
+      "Peut avoir une visée hormonale ou contraceptive",
+      "Utilise des capsules et comprimés vaginaux, des ovules, des crèmes et gels vaginaux",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le cours décrit une action généralement locale à visée antiseptique, antibiotique, antifongique, antiparasitaire, hormonale ou contraceptive, avec capsules et comprimés vaginaux, ovules, crèmes et gels. Toutes les propositions sont justes.",
+    "source": {
+      "page": 48,
+      "extrait": "Généralement action locale à visée antiseptique, antibiotique, antifongique, antiparasitaire, hormonale ou contraceptive"
+    },
+    "difficulte": 1,
+    "tags": [
+      "voie vaginale"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/qcm-069",
+    "type": "multiple",
+    "enonce": "Parmi les critères de choix d'une voie d'administration liés au médicament :",
+    "options": [
+      "Ses propriétés pharmacocinétiques",
+      "Ses effets secondaires et sa toxicité",
+      "Les présentations disponibles",
+      "Le risque d'interactions et le coût",
+      "Le psychisme du malade"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Le cours range parmi les critères liés au médicament ses propriétés pharmacocinétiques, ses effets secondaires et sa toxicité, les présentations disponibles, le risque d'interactions et le coût. Le psychisme du malade est un critère lié au malade.",
+    "source": {
+      "page": 49,
+      "extrait": "•Propriétés pharmacocinétiques. •Effets secondaires et toxicité. •Présentations disponibles. •Risque d’interactions. •Coût."
+    },
+    "difficulte": 2,
+    "tags": [
+      "critères de choix"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/qcm-070",
+    "type": "multiple",
+    "enonce": "Parmi les critères de choix d'une voie d'administration liés au malade :",
+    "options": [
+      "La localisation de la maladie",
+      "L'action locale ou générale recherchée",
+      "L'observance du traitement et la facilité de prise",
+      "Les circonstances du traitement : urgence ou traitement quotidien",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le cours range du côté du malade la localisation de la maladie, l'action locale ou générale, l'observance et la facilité de prise, les circonstances (urgence ou traitement quotidien), le psychisme et la particularité du malade. Toutes les propositions sont justes.",
+    "source": {
+      "page": 49,
+      "extrait": "•Circonstances du traitement : urgence ou traitement quotidien. •Psychisme du malade."
+    },
+    "difficulte": 2,
+    "tags": [
+      "critères de choix"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/qcm-071",
+    "type": "multiple",
+    "enonce": "Selon la conclusion du cours, le choix de la voie d'administration :",
+    "options": [
+      "Est l'une des étapes clefs conditionnant l'efficacité de l'acte thérapeutique",
+      "Assure la sécurité d'emploi des médicaments",
+      "Assure, s'il est bon, un effet pharmacologique optimal",
+      "N'a aucune influence sur l'effet pharmacologique",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "La conclusion présente le choix de la voie comme une étape clef conditionnant l'efficacité thérapeutique et la sécurité d'emploi ; un bon choix assure un effet pharmacologique optimal.",
+    "source": {
+      "page": 50,
+      "extrait": "Un bon choix assure un effet pharmacologique optimal"
+    },
+    "difficulte": 1,
+    "tags": [
+      "conclusion"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/qcm-072",
+    "type": "multiple",
+    "enonce": "Parmi les voies suivantes, lesquelles évitent l'effet de premier passage hépatique (EPPH) selon le cours ?",
+    "options": [
+      "La voie intraveineuse",
+      "La voie intramusculaire",
+      "La voie sous-cutanée",
+      "La voie sublinguale",
+      "La voie orale"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Le cours indique « évite l'EPPH » ou « pas d'EPPH » pour l'IV, l'IM, la SC et la voie buccale (sublinguale). La voie orale subit l'EPPH.",
+    "source": {
+      "page": 30,
+      "extrait": "•Rapidité d’action. •Pas de destruction digestive. •Pas d’EPPH."
+    },
+    "difficulte": 2,
+    "tags": [
+      "premier passage",
+      "synthèse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/qcm-073",
+    "type": "multiple",
+    "enonce": "Parmi les voies suivantes, lesquelles exposent le principe actif à l'effet de premier passage hépatique, au moins en partie ?",
+    "options": [
+      "La voie orale",
+      "La voie rectale",
+      "La voie intra-artérielle",
+      "La voie percutanée",
+      "La voie intraveineuse"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "La voie orale subit l'EPPH (avec EPPI et EPPP) et la voie rectale ne permet pas d'éviter complètement l'EPPH. L'IA évite tout EPP, la percutanée évite l'EPPH et l'IV évite EPPH et EPPI.",
+    "source": {
+      "page": 37,
+      "extrait": "•Ne permet pas d’éviter complètement l’EPPH."
+    },
+    "difficulte": 3,
+    "tags": [
+      "premier passage",
+      "synthèse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/qcm-074",
+    "type": "multiple",
+    "enonce": "Parmi les associations voie / volume ou angle d'injection suivantes, lesquelles sont correctes ?",
+    "options": [
+      "IV directe – 5 à 20 mL",
+      "Perfusion IV – grands volumes",
+      "IM – angle de 90°, 2 à 5 mL",
+      "SC – angle de 45° à 90°, 0,5 à 2 mL",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes les associations sont conformes au cours : IV directe 5–20 mL, IM 90° et 2–5 mL, SC 45°–90° et 0,5–2 mL, perfusion IV pour les grands volumes.",
+    "source": {
+      "page": 19,
+      "extrait": "➔Angle 90° / Volume à injecter:2 - 5 ml."
+    },
+    "difficulte": 2,
+    "tags": [
+      "volumes",
+      "synthèse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/qcm-075",
+    "type": "multiple",
+    "enonce": "Parmi les associations voie / exemple suivantes, lesquelles sont correctes ?",
+    "options": [
+      "Intracardiaque – adrénaline pour un arrêt cardiaque",
+      "Intradermique – BCG",
+      "Intra-péritonéale – chimiothérapie",
+      "Sous-cutanée – insuline",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes les associations reprennent les exemples du cours : adrénaline (IC), BCG et tests d'allergie (ID), chimiothérapie (intra-péritonéale), insuline (SC).",
+    "source": {
+      "page": 25,
+      "extrait": "❑Intra-dermique: vaccins (BCG), tests d’allergie."
+    },
+    "difficulte": 1,
+    "tags": [
+      "exemples",
+      "synthèse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/qcm-076",
+    "type": "multiple",
+    "enonce": "Parmi les associations voie / exemple suivantes, lesquelles sont correctes ?",
+    "options": [
+      "Intra-artérielle – thrombolytique pour dissoudre un caillot",
+      "Sublinguale – trinitrine dans l'angine de poitrine",
+      "Intra-articulaire – corticoïdes en rhumatologie",
+      "Péridurale – analgésie obstétricale",
+      "Intra-pleurale – rachianesthésie"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Les quatre premières associations sont conformes au cours. La rachianesthésie relève de la voie intra-thécale ; la voie intra-pleurale est utilisée en cas d'infections (effet ATB local).",
+    "source": {
+      "page": 26,
+      "extrait": "❑Intra-pleurale: en cas d’infections (effet ATB local)."
+    },
+    "difficulte": 2,
+    "tags": [
+      "exemples",
+      "synthèse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/qcm-077",
+    "type": "multiple",
+    "enonce": "Parmi les propositions suivantes, quelle(s) affirmation(s) est (sont) juste(s) ?",
+    "options": [
+      "Les suspensions peuvent être injectées par voie intramusculaire",
+      "La voie sous-cutanée permet l'auto-administration",
+      "Les suspensions peuvent être injectées par voie intraveineuse",
+      "Les solutions huileuses peuvent être injectées par voie intra-artérielle",
+      "Toutes les réponses sont justes"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Le cours admet les suspensions en IM et cite l'auto-administration comme avantage de la SC. Les solutions huileuses et les suspensions ne doivent pas être administrées par les voies vasculaires (IV, IA, IC).",
+    "source": {
+      "page": 19,
+      "extrait": "Solutions et suspensions, stériles et apyrogènes."
+    },
+    "difficulte": 3,
+    "tags": [
+      "synthèse",
+      "formes pharmaceutiques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/qcm-078",
+    "type": "multiple",
+    "enonce": "Parmi les propositions suivantes, quelle(s) affirmation(s) est (sont) juste(s) ?",
+    "options": [
+      "La voie percutanée est réversible en cas d'effets indésirables",
+      "La voie orale est réversible grâce au lavage gastrique en cas d'intoxication aiguë",
+      "La voie intraveineuse expose à un risque toxique par surdosage potentiel",
+      "La voie broncho-pulmonaire limite les effets indésirables car la quantité administrée est faible",
+      "Toutes les réponses sont justes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Chacune de ces affirmations figure dans le cours : réversibilité de la voie orale (lavage gastrique) et de la voie percutanée, risque toxique de l'IV, limitation des effets indésirables par voie pulmonaire.",
+    "source": {
+      "page": 40,
+      "extrait": "•Limitation des effets indésirables (faible quantité par cette voie)."
+    },
+    "difficulte": 2,
+    "tags": [
+      "synthèse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/qcm-079",
+    "type": "unique",
+    "enonce": "Parmi les propositions suivantes, quelle(s) affirmation(s) est (sont) juste(s) ?",
+    "options": [
+      "La voie rectale est utile en cas de diarrhée",
+      "La voie buccale offre une surface d'absorption de 200 cm²",
+      "La résorption par voie sous-cutanée est plus rapide que par voie intramusculaire",
+      "La voie percutanée est indiquée dans l'urgence",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Seule l'affirmation sur la surface de 200 cm² est juste. La résorption est plus rapide en IM qu'en SC, la voie percutanée n'est pas indiquée dans l'urgence et la voie rectale est inutile en cas de diarrhée.",
+    "source": {
+      "page": 30,
+      "extrait": "•Surface limitée : 200 cm²."
+    },
+    "difficulte": 3,
+    "tags": [
+      "synthèse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/qcm-080",
+    "type": "multiple",
+    "enonce": "Parmi les propositions suivantes, quelle(s) affirmation(s) est (sont) juste(s) ?",
+    "options": [
+      "La voie sous-cutanée est indolore",
+      "La voie orale est adaptée aux situations d'urgence",
+      "La voie intraveineuse présente un effet de premier passage intestinal",
+      "La voie intramusculaire entraîne une destruction digestive du principe actif",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes les affirmations sont fausses : l'IV évite l'EPPI, l'IM n'entraîne pas de destruction digestive, la SC est douloureuse (innervation importante) et la voie orale n'est pas adaptée à l'urgence.",
+    "source": {
+      "page": 23,
+      "extrait": "•Douloureuse : innervation importante."
+    },
+    "difficulte": 3,
+    "tags": [
+      "synthèse"
+    ],
+    "origine": "genere"
+  }
+]

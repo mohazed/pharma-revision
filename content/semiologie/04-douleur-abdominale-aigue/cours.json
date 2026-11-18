@@ -1,0 +1,13 @@
+{
+  "id": "semiologie/04-douleur-abdominale-aigue",
+  "module": "semiologie",
+  "ordre": 4,
+  "titre": "Sémiologie de la douleur abdominale aiguë",
+  "type": "cours",
+  "source": {
+    "driveId": "1F2hESmstbtjyaDOt5UqWpF1j8cSqiqdY",
+    "fichier": "4. Semiologie Douleur Abdominale Aigue.pdf",
+    "modifiedTime": "2026-11-11T17:13:54.245Z"
+  },
+  "resume": "Interrogatoire et caractérisation de la douleur abdominale, signes d'alerte, examen physique (défense, contracture, rebond, Murphy), orientation selon les 9 régions et causes fréquentes (ulcère, gastrite, reflux, pancréatite, colique hépatique, causes vasculaires)."
+}

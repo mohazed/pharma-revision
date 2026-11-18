@@ -1,0 +1,26 @@
+[
+  {
+    "id": "pharmacologie/09-biodisponibilite/mnemo-001",
+    "titre": "Paramètres cinétiques",
+    "moyen": "« KTC : Ka, Tmax, Cmax »",
+    "explication": "Les trois paramètres reflétant la vitesse d'absorption ; Cmax est aussi quantitatif avec l'AUC."
+  },
+  {
+    "id": "pharmacologie/09-biodisponibilite/mnemo-002",
+    "titre": "Vitesse d'arrivée",
+    "moyen": "« Normale = Nickel, Rapide = Risque, Lente = Loupé »",
+    "explication": "Normale → réponse pharmacologique ; rapide → effets secondaires/toxiques ; lente → inefficacité ou retard."
+  },
+  {
+    "id": "pharmacologie/09-biodisponibilite/mnemo-003",
+    "titre": "Indications de la BR",
+    "moyen": "« FNG : Formule, Nouvelle forme, Générique »",
+    "explication": "Biodisponibilité relative obligatoire lors d'un changement de Formulation, d'une Nouvelle forme galénique et avant un Générique."
+  },
+  {
+    "id": "pharmacologie/09-biodisponibilite/mnemo-004",
+    "titre": "Limite de F",
+    "moyen": "« Trois quarts au minimum »",
+    "explication": "La valeur limite inférieure acceptable de la biodisponibilité absolue est 0,75."
+  }
+]

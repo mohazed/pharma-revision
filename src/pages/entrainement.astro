@@ -1,0 +1,13 @@
+---
+import Base from "../layouts/Base.astro";
+import EnTete from "../components/EnTete.astro";
+import ConfigSession from "../islands/ConfigSession";
+import { getIndex } from "../lib/content";
+const index = getIndex();
+---
+<Base titre="Configurer une session" description="Configurez une session de QCM : entraînement, examen blanc chronométré, mes erreurs ou révision express." etroit>
+  <EnTete surtitre="Réviser" titre="Configurer une session" sousTitre="Choisissez le mode, les cours et le nombre de questions." />
+  <ConfigSession client:only="react" index={index}>
+    <p slot="fallback" class="text-ink-muted">Chargement…</p>
+  </ConfigSession>
+</Base>

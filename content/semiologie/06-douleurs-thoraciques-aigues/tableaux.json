@@ -1,0 +1,268 @@
+[
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/tableau-001",
+    "titre": "Diagnostic différentiel des douleurs thoraciques",
+    "colonnes": [
+      "Cause",
+      "Douleur",
+      "Facteur modifiant",
+      "Indice clé"
+    ],
+    "lignes": [
+      [
+        "SCA",
+        "Constrictive, rétrosternale, irradiée",
+        "Résiste à la trinitrine (IDM)",
+        "Facteurs de risque, sueurs"
+      ],
+      [
+        "Péricardite",
+        "Vive, rétrosternale, sans irradiation",
+        "Antéflexion ↓, inspiration ↑",
+        "Fièvre, syndrome grippal"
+      ],
+      [
+        "Dissection",
+        "Déchirure, migratrice vers le dos",
+        "Aucun",
+        "HTA, asymétrie tensionnelle"
+      ],
+      [
+        "Embolie pulmonaire",
+        "Point de côté basithoracique",
+        "Inspiration ↑",
+        "Dyspnée, phlébite, alitement"
+      ],
+      [
+        "Pleurale",
+        "Latérothoracique",
+        "Inspiration, toux ↑",
+        "Matité ou tympanisme"
+      ],
+      [
+        "Reflux",
+        "Brûlure ascendante",
+        "Antéflexion ↑, repas",
+        "Rythmée par les repas"
+      ],
+      [
+        "Pariétale",
+        "Superficielle, localisée",
+        "Palpation ↑",
+        "Reproductible"
+      ]
+    ]
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/tableau-002",
+    "titre": "Angor stable ou infarctus ?",
+    "colonnes": [
+      "Critère",
+      "Angor stable",
+      "Infarctus du myocarde"
+    ],
+    "lignes": [
+      [
+        "Déclenchement",
+        "Effort",
+        "Spontané ou effort"
+      ],
+      [
+        "Durée",
+        "Quelques secondes à 2 min",
+        "Prolongée, > 20 min"
+      ],
+      [
+        "Intensité",
+        "Intense",
+        "Atroce, angoissante"
+      ],
+      [
+        "Signes associés",
+        "Aucun",
+        "Sueurs, nausées, malaise, choc"
+      ],
+      [
+        "Trinitrine",
+        "Cède en < 1 min",
+        "Résiste"
+      ],
+      [
+        "ECG",
+        "Souvent normal au repos",
+        "Sus-décalage ST (Pardee), puis onde Q"
+      ]
+    ]
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/tableau-003",
+    "titre": "Douleurs pleuro-pulmonaires",
+    "colonnes": [
+      "Cause",
+      "Douleur",
+      "Examen physique"
+    ],
+    "lignes": [
+      [
+        "Épanchement pleural liquidien",
+        "Latéralisée, irradiant à l'épaule, majorée par respiration et toux ; dyspnée",
+        "Abolition MV et VV ; matité"
+      ],
+      [
+        "Pneumothorax",
+        "Même type, début brutal",
+        "Abolition MV et VV ; tympanisme"
+      ],
+      [
+        "Pneumopathie infectieuse",
+        "Allure pleurale, fièvre, toux",
+        "Foyer de râles crépitants"
+      ]
+    ]
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/tableau-004",
+    "titre": "Mots du patient / orientation",
+    "colonnes": [
+      "Description de la douleur",
+      "Orientation"
+    ],
+    "lignes": [
+      [
+        "Constrictive, « en étau »",
+        "Ischémie myocardique"
+      ],
+      [
+        "Brûlure rétrosternale ascendante",
+        "Reflux gastro-œsophagien"
+      ],
+      [
+        "Déchirure, brutale, migratrice",
+        "Dissection aortique"
+      ],
+      [
+        "Point de côté majoré à l'inspiration",
+        "Plèvre, embolie pulmonaire"
+      ],
+      [
+        "Piqûre, coup d'aiguille",
+        "Précordialgie fonctionnelle"
+      ],
+      [
+        "Reproduite à la palpation",
+        "Douleur pariétale"
+      ]
+    ]
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/carte-001",
+    "type": "carte",
+    "titre": "Douleurs thoraciques aiguës",
+    "racine": {
+      "label": "Douleur thoracique aiguë",
+      "enfants": [
+        {
+          "label": "Analyse",
+          "enfants": [
+            {
+              "label": "7 caractères",
+              "enfants": []
+            },
+            {
+              "label": "Signes de gravité",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "P.I.E.D",
+          "enfants": [
+            {
+              "label": "Péricardite",
+              "enfants": []
+            },
+            {
+              "label": "Insuffisance coronaire (angor, IDM)",
+              "enfants": []
+            },
+            {
+              "label": "Embolie pulmonaire",
+              "enfants": []
+            },
+            {
+              "label": "Dissection aortique",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Non cardiaques",
+          "enfants": [
+            {
+              "label": "Pleuro-pulmonaires",
+              "enfants": []
+            },
+            {
+              "label": "Digestives",
+              "enfants": []
+            },
+            {
+              "label": "Pariétales",
+              "enfants": []
+            },
+            {
+              "label": "Neurologiques",
+              "enfants": []
+            },
+            {
+              "label": "Névrotiques",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Officine",
+          "enfants": [
+            {
+              "label": "Calmer",
+              "enfants": []
+            },
+            {
+              "label": "Évaluer",
+              "enfants": []
+            },
+            {
+              "label": "Mesurer",
+              "enfants": []
+            },
+            {
+              "label": "Soulager",
+              "enfants": []
+            },
+            {
+              "label": "Alerter",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Palpitations",
+          "enfants": [
+            {
+              "label": "Physiologiques",
+              "enfants": []
+            },
+            {
+              "label": "Pathologiques provoquées",
+              "enfants": []
+            },
+            {
+              "label": "Pathologiques spontanées",
+              "enfants": []
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

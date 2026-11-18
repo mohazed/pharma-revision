@@ -1,0 +1,32 @@
+[
+  {
+    "id": "semiologie/03-hepatites/mnemo-001",
+    "titre": "Virus à transmission féco-orale",
+    "moyen": "« A et E par la bouche, B-C-D par le sang »",
+    "explication": "VHA et VHE : transmission féco-orale ; VHB, VHC, VHD : sang (± sexuelle, mère-enfant)."
+  },
+  {
+    "id": "semiologie/03-hepatites/mnemo-002",
+    "titre": "Rapport R",
+    "moyen": "« 5 et plus, la cellule casse ; 2 et moins, la bile s'entasse »",
+    "explication": "R ≥ 5 cytolytique ; R ≤ 2 cholestatique ; entre les deux, mixte."
+  },
+  {
+    "id": "semiologie/03-hepatites/mnemo-003",
+    "titre": "Médicaments cholestatiques",
+    "moyen": "« Amox-Clav Chante Œ Macro » : Amoxicilline-acide clavulanique, Chlorpromazine, Œstrogènes, Macrolides",
+    "explication": "Médicaments à profil cholestatique cités dans le cours."
+  },
+  {
+    "id": "semiologie/03-hepatites/mnemo-004",
+    "titre": "Paracétamol",
+    "moyen": "« 4-3-150-NAC »",
+    "explication": "4 g/j max chez l'adulte ; 3 g si facteur de risque ; 150 mg/kg seuil toxique en prise unique ; NAC antidote précoce."
+  },
+  {
+    "id": "semiologie/03-hepatites/mnemo-005",
+    "titre": "Facteur V",
+    "moyen": "« V bas = foie las ; V normal = vitamine K manque »",
+    "explication": "TP bas + V bas : insuffisance hépatique ; TP bas + V normal : carence en vitamine K."
+  }
+]

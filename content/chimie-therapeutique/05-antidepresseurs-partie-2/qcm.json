@@ -1,0 +1,1659 @@
+[
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/qcm-001",
+    "type": "unique",
+    "enonce": "Les antidépresseurs sont classés parmi les :",
+    "options": [
+      "Psycholeptiques",
+      "Psychoanaleptiques (thymoanaleptiques)",
+      "Psychodysleptiques",
+      "Psycho-isoleptiques",
+      "Nooleptiques"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Les antidépresseurs sont des psychoanaleptiques (thymoanaleptiques).",
+    "source": {
+      "page": 6,
+      "extrait": "Les antidépresseurs: Psychoanaleptiques (thymoanaleptiques)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "rappel"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/qcm-002",
+    "type": "multiple",
+    "enonce": "Rappel sur l'hypothèse monoaminergique de la dépression :",
+    "options": [
+      "Diminution des taux synaptiques de noradrénaline",
+      "Diminution des taux synaptiques de sérotonine",
+      "Diminution des taux synaptiques de dopamine",
+      "Augmentation des taux synaptiques de sérotonine",
+      "Altérations complexes des systèmes de neurotransmission"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explication": "La dépression résulte d'altérations complexes des systèmes de neurotransmission avec diminution des taux synaptiques de NA, sérotonine et dopamine.",
+    "source": {
+      "page": 5,
+      "extrait": "avec diminution des taux synaptiques : Noradrénaline Sérotonine Dopamine"
+    },
+    "difficulte": 1,
+    "tags": [
+      "rappel"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/qcm-003",
+    "type": "multiple",
+    "enonce": "Mécanismes généraux d'action des antidépresseurs :",
+    "options": [
+      "Inhibition de la recapture pré-synaptique",
+      "Inhibition de la dégradation",
+      "Inhibition des autorécepteurs pré-synaptiques",
+      "Stimulation de la recapture",
+      "Activation de la monoamine oxydase"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Trois mécanismes : inhibition de la recapture, de la dégradation et des autorécepteurs pré-synaptiques.",
+    "source": {
+      "page": 7,
+      "extrait": "Inhibition de la recapture pré-synaptique Inhibition de la dégradation"
+    },
+    "difficulte": 1,
+    "tags": [
+      "rappel"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/qcm-004",
+    "type": "multiple",
+    "enonce": "Mécanisme d'action des antidépresseurs tricycliques :",
+    "options": [
+      "Ils inhibent la recapture de la sérotonine",
+      "Ils inhibent la recapture de la noradrénaline",
+      "C'est leur principal mécanisme antidépresseur",
+      "Ils inhibent la monoamine oxydase",
+      "Ils bloquent les récepteurs α2 présynaptiques comme mécanisme principal"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Les ATC exercent leur effet antidépresseur principalement en inhibant la recapture de la sérotonine et de la noradrénaline.",
+    "source": {
+      "page": 22,
+      "extrait": "en inhibant la recapture de la sérotonine et de la noradrénaline (NA)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "tricycliques",
+      "mécanisme"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/qcm-005",
+    "type": "multiple",
+    "enonce": "Relations structure-activité des antidépresseurs tricycliques :",
+    "options": [
+      "L'efficacité et les effets secondaires sont directement liés à la structure moléculaire",
+      "La chaîne latérale et la fonction amine sont déterminantes",
+      "L'activité optimale est observée avec une chaîne de 3 carbones",
+      "L'encombrement de la chaîne diminue l'activité",
+      "L'activité optimale correspond à une chaîne de 5 carbones"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "L'efficacité et les effets secondaires dépendent de la chaîne latérale et de la fonction amine ; chaîne optimale de 3 carbones, l'encombrement diminue l'activité.",
+    "source": {
+      "page": 23,
+      "extrait": "L'activité optimale est observée avec une chaîne de 3 carbones. L'encombrement diminue l'activité"
+    },
+    "difficulte": 1,
+    "tags": [
+      "RSA"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/qcm-006",
+    "type": "multiple",
+    "enonce": "RSA : rôle de la fonction amine des tricycliques :",
+    "options": [
+      "Les amines tertiaires (imipramine) inhibent davantage la recapture de la sérotonine et de la noradrénaline",
+      "Les amines secondaires (nortriptyline) inhibent préférentiellement la noradrénaline",
+      "Les amines secondaires inhibent préférentiellement la sérotonine",
+      "La nortriptyline est une amine secondaire",
+      "L'imipramine est une amine secondaire"
+    ],
+    "correctes": [
+      0,
+      1,
+      3
+    ],
+    "explication": "Amines tertiaires (imipramine) : inhibition sérotonine/noradrénaline ; amines secondaires (nortriptyline) : inhibition préférentielle de la noradrénaline.",
+    "source": {
+      "page": 23,
+      "extrait": "Les amines secondaires (Nortriptyline) inhibent préférentiellement la noradrénaline"
+    },
+    "difficulte": 2,
+    "tags": [
+      "RSA"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/qcm-007",
+    "type": "multiple",
+    "enonce": "Concernant le caractère amphiphile du système tricyclique :",
+    "options": [
+      "Il explique l'affinité pour les transporteurs des différents neuromédiateurs",
+      "Il explique l'effet stabilisant de membrane indésirable au niveau cardiaque",
+      "Il explique l'affinité pour divers récepteurs et les effets indésirables associés",
+      "Il rend la molécule exclusivement hydrophile",
+      "Il supprime toute toxicité cardiaque"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Le caractère amphiphile explique l'affinité pour les transporteurs et divers récepteurs, ainsi que l'effet stabilisant de membrane cardiaque indésirable.",
+    "source": {
+      "page": 23,
+      "extrait": "le système tricyclique possède un caractère amphiphile ce qui explique son affinité pour les transporteurs"
+    },
+    "difficulte": 2,
+    "tags": [
+      "RSA"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/qcm-008",
+    "type": "unique",
+    "enonce": "La chaîne latérale optimale des antidépresseurs tricycliques comporte :",
+    "options": [
+      "1 carbone",
+      "2 carbones",
+      "3 carbones",
+      "4 carbones",
+      "5 carbones"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "L'activité optimale est observée avec une chaîne de 3 carbones.",
+    "source": {
+      "page": 23,
+      "extrait": "L'activité optimale est observée avec une chaîne de 3 carbones"
+    },
+    "difficulte": 1,
+    "tags": [
+      "RSA"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/qcm-009",
+    "type": "multiple",
+    "enonce": "Effets indésirables neuropsychiques des antidépresseurs tricycliques :",
+    "options": [
+      "Réactivations anxieuses ou délirantes",
+      "Inversion trop rapide de l'humeur",
+      "Risque suicidaire",
+      "Rétention urinaire",
+      "Hypotension orthostatique"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Effets neuropsychiques : réactivations anxieuses ou délirantes, inversion trop rapide de l'humeur, risque suicidaire. La rétention urinaire est anticholinergique et l'hypotension cardiovasculaire.",
+    "source": {
+      "page": 24,
+      "extrait": "Réactivations anxieuses ou délirantes. Inversion trop rapide de l'humeur. Risque suicidaire"
+    },
+    "difficulte": 2,
+    "tags": [
+      "effets indésirables"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/qcm-010",
+    "type": "multiple",
+    "enonce": "Effets indésirables cardiovasculaires des tricycliques :",
+    "options": [
+      "Hypotension orthostatique",
+      "Arythmies",
+      "Troubles de conduction avec risque de mort subite",
+      "Sécheresse buccale",
+      "Vision trouble"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Effets cardiovasculaires : hypotension orthostatique, arythmies et troubles de conduction (risque de mort subite).",
+    "source": {
+      "page": 24,
+      "extrait": "Hypotension orthostatique. Arythmies et troubles de conduction (risque de mort subite)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "effets indésirables"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/qcm-011",
+    "type": "multiple",
+    "enonce": "Effets indésirables anticholinergiques des tricycliques :",
+    "options": [
+      "Sécheresse buccale",
+      "Constipation et douleurs épigastriques",
+      "Tachycardie et vision trouble",
+      "Rétention urinaire",
+      "Hypotension orthostatique"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Effets anticholinergiques : sécheresse buccale, constipation, douleurs épigastriques, tachycardie, vision trouble, rétention urinaire. L'hypotension relève du blocage α1.",
+    "source": {
+      "page": 24,
+      "extrait": "Sécheresse buccale. Constipation, douleurs épigastriques. Tachycardie, vision trouble. Rétention urinaire"
+    },
+    "difficulte": 1,
+    "tags": [
+      "effets indésirables"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/qcm-012",
+    "type": "multiple",
+    "enonce": "Associez le récepteur bloqué par les tricycliques à l'effet indésirable correspondant :",
+    "options": [
+      "Récepteurs histaminiques H1 : effet sédatif",
+      "Récepteurs α1 adrénergiques : effet hypotenseur",
+      "Récepteurs muscariniques : sécheresse buccale",
+      "Récepteurs H1 : effet hypotenseur",
+      "Récepteurs α1 : effet sédatif"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Effets histaminiques H1 : sédation ; effets α1 adrénergiques : hypotension ; effets anticholinergiques : sécheresse buccale, constipation, rétention urinaire.",
+    "source": {
+      "page": 24,
+      "extrait": "Effets Histaminiques H1 : effet sédatif. Effets α1 adrénérgiques : effet hypotenseur"
+    },
+    "difficulte": 2,
+    "tags": [
+      "effets indésirables"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/qcm-013",
+    "type": "unique",
+    "enonce": "L'effet sédatif des antidépresseurs tricycliques est lié au blocage des récepteurs :",
+    "options": [
+      "H1 histaminiques",
+      "α1 adrénergiques",
+      "Muscariniques",
+      "α2 présynaptiques",
+      "5-HT1A"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Effets histaminiques H1 : effet sédatif.",
+    "source": {
+      "page": 24,
+      "extrait": "Effets Histaminiques H1 : effet sédatif"
+    },
+    "difficulte": 1,
+    "tags": [
+      "effets indésirables"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/qcm-014",
+    "type": "unique",
+    "enonce": "L'effet hypotenseur des antidépresseurs tricycliques est lié au blocage des récepteurs :",
+    "options": [
+      "H1",
+      "α1 adrénergiques",
+      "β-adrénergiques",
+      "Muscariniques",
+      "Dopaminergiques D2"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Effets α1 adrénergiques : effet hypotenseur.",
+    "source": {
+      "page": 24,
+      "extrait": "Effets α1 adrénérgiques : effet hypotenseur"
+    },
+    "difficulte": 1,
+    "tags": [
+      "effets indésirables"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/qcm-015",
+    "type": "unique",
+    "enonce": "L'effet stabilisant de membrane au niveau cardiaque des tricycliques s'explique par :",
+    "options": [
+      "Le caractère amphiphile du système tricyclique",
+      "La longueur de la chaîne latérale",
+      "La présence d'un halogène",
+      "L'inhibition de la MAO",
+      "Le blocage des récepteurs H1"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "La nature amphiphile du système tricyclique explique l'effet stabilisant de membrane indésirable au niveau cardiaque.",
+    "source": {
+      "page": 23,
+      "extrait": "l'effet stabilisant de membrane indésirable au niveau cardiaque"
+    },
+    "difficulte": 2,
+    "tags": [
+      "RSA",
+      "effets indésirables"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/qcm-016",
+    "type": "multiple",
+    "enonce": "Concernant les monoamines oxydases (MAO) :",
+    "options": [
+      "Ce sont des enzymes flaviniques",
+      "Elles sont mitochondriales",
+      "Elles catalysent la désamination oxydative de neurotransmetteurs",
+      "Elles dégradent aussi des amines apportées par l'alimentation",
+      "Ce sont des enzymes cytosoliques non flaviniques"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Les MAO sont des enzymes flaviniques mitochondriales catalysant la désamination oxydative de neurotransmetteurs ou d'amines alimentaires.",
+    "source": {
+      "page": 25,
+      "extrait": "enzymes flaviniques mitochondriales catalysant la désamination oxydative"
+    },
+    "difficulte": 1,
+    "tags": [
+      "IMAO"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/qcm-017",
+    "type": "multiple",
+    "enonce": "Concernant les isoformes de la monoamine oxydase :",
+    "options": [
+      "La MAO-A agit sur la sérotonine",
+      "La MAO-A agit sur la noradrénaline et l'adrénaline",
+      "La MAO-B agit sur la phényléthylamine et la dopamine",
+      "La MAO-B agit sur la sérotonine",
+      "Il existe trois isoformes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Deux isoformes : MAO-A (sérotonine, noradrénaline, adrénaline) et MAO-B (phényléthylamine et dopamine).",
+    "source": {
+      "page": 26,
+      "extrait": "MAO-A agit sur la sérotonine, la noradrénaline et l'adrénaline MAO-B agit sur la phényléthylamine et la dopamine"
+    },
+    "difficulte": 2,
+    "tags": [
+      "IMAO"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/qcm-018",
+    "type": "unique",
+    "enonce": "La MAO-B agit préférentiellement sur :",
+    "options": [
+      "La sérotonine",
+      "La noradrénaline",
+      "L'adrénaline",
+      "La phényléthylamine et la dopamine",
+      "Le GABA"
+    ],
+    "correctes": [
+      3
+    ],
+    "explication": "MAO-B : phényléthylamine et dopamine.",
+    "source": {
+      "page": 26,
+      "extrait": "MAO-B agit sur la phényléthylamine et la dopamine"
+    },
+    "difficulte": 1,
+    "tags": [
+      "IMAO"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/qcm-019",
+    "type": "multiple",
+    "enonce": "Classification des IMAO :",
+    "options": [
+      "On distingue des IMAO sélectifs et non sélectifs",
+      "Les IMAO sélectifs sont réversibles",
+      "Les IMAO non sélectifs sont irréversibles",
+      "Parmi les IMAO sélectifs, on distingue les IMAO-A et les IMAO-B",
+      "Tous les IMAO sont réversibles"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Classification : IMAO sélectifs (réversibles, IMAO-A ou IMAO-B) et IMAO non sélectifs (irréversibles).",
+    "source": {
+      "page": 27,
+      "extrait": "IMAO Sélectif réversible Non sélectif Irréversible"
+    },
+    "difficulte": 2,
+    "tags": [
+      "IMAO"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/qcm-020",
+    "type": "multiple",
+    "enonce": "Mécanisme d'action des IMAO :",
+    "options": [
+      "Ils inhibent l'activité des monoamines oxydases",
+      "Les MAO dégradent la sérotonine et les catécholamines",
+      "Ils augmentent la concentration des neurotransmetteurs dans les synapses",
+      "Ils diminuent la concentration synaptique des monoamines",
+      "Les MAO dégradent la dopamine et la noradrénaline"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explication": "Les IMAO inhibent les MAO, enzymes dégradant les monoamines (sérotonine, dopamine, noradrénaline), d'où une augmentation de leur concentration synaptique.",
+    "source": {
+      "page": 31,
+      "extrait": "Concentration de ces neurotransmetteurs dans les synapses"
+    },
+    "difficulte": 1,
+    "tags": [
+      "IMAO",
+      "mécanisme"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/qcm-021",
+    "type": "multiple",
+    "enonce": "Concernant l'iproniazide (Marsilid®) :",
+    "options": [
+      "C'est un IMAO non sélectif, irréversible et incompétitif",
+      "C'est un dérivé de l'acide isonicotinique",
+      "Son groupe carboxyle possède un enchaînement hydrazinique alkylé par un motif isopropyle",
+      "C'est un inhibiteur compétitif réversible",
+      "C'est un benzamide"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Iproniazide : IMAO non sélectif, irréversible et incompétitif, dérivé de l'acide isonicotinique dont le carboxyle porte un enchaînement hydrazinique alkylé par un isopropyle.",
+    "source": {
+      "page": 28,
+      "extrait": "un dérivé de l'acide isonicotinique,dont le groupe carboxyle possède un enchainement hydrazinique alkylé par un motif isopropyle"
+    },
+    "difficulte": 2,
+    "tags": [
+      "iproniazide"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/qcm-022",
+    "type": "multiple",
+    "enonce": "Concernant l'inhibition « suicidaire » de l'iproniazide :",
+    "options": [
+      "Il se fixe de façon covalente sur l'enzyme",
+      "L'inhibition est non compétitive et irréversible",
+      "L'enzyme est détruite",
+      "L'inhibition est compétitive et réversible",
+      "L'enzyme est seulement masquée transitoirement"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Inhibition suicidaire : fixation covalente sur la MAO entraînant une inhibition non compétitive et irréversible (destruction de l'enzyme).",
+    "source": {
+      "page": 28,
+      "extrait": "Fixation covalente sur l'enzyme (MAO) entraînant une inhibition non compétitive et irréversible (destruction de l'enzyme)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "iproniazide"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/qcm-023",
+    "type": "multiple",
+    "enonce": "Concernant la non-spécificité des IMAO irréversibles :",
+    "options": [
+      "Ils inhibent plusieurs enzymes du métabolisme",
+      "Il en résulte un risque d'interactions médicamenteuses",
+      "Ils sont strictement spécifiques de la MAO-A",
+      "Ils sont dépourvus de risque d'interaction",
+      "Ils n'inhibent que la MAO-B"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Les IMAO inhibent plusieurs enzymes du métabolisme, d'où un risque d'interactions médicamenteuses.",
+    "source": {
+      "page": 28,
+      "extrait": "Les IMAO inhibent plusieurs enzymes du métabolisme, d'où un risque d'interactions médicamenteuses"
+    },
+    "difficulte": 1,
+    "tags": [
+      "iproniazide"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/qcm-024",
+    "type": "multiple",
+    "enonce": "Concernant le moclobémide :",
+    "options": [
+      "C'est un inhibiteur compétitif réversible sélectif",
+      "C'est un benzamide dérivé de l'aminoéthylmorpholine",
+      "Il semble efficace dans le traitement de la dépression majeure",
+      "C'est un dérivé de l'acide isonicotinique",
+      "Son inhibition est irréversible"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Le moclobémide est un benzamide dérivé de l'aminoéthylmorpholine, inhibiteur compétitif réversible et sélectif, efficace dans la dépression majeure.",
+    "source": {
+      "page": 29,
+      "extrait": "Le moclobémide est un benzamide dérivé de l'aminoéthylmorpholine"
+    },
+    "difficulte": 2,
+    "tags": [
+      "moclobémide"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/qcm-025",
+    "type": "multiple",
+    "enonce": "Comparaison des IMAO non sélectifs et des IMAO sélectifs A :",
+    "options": [
+      "Les IMAO non sélectifs sont des inhibiteurs irréversibles (inhibiteurs suicides) détruisant la MAO",
+      "La disparition de l'effet des IMAO irréversibles nécessite la synthèse d'une nouvelle enzyme",
+      "Les IMAO sélectifs A sont des inhibiteurs réversibles et compétitifs",
+      "La MAO n'est pas détruite par les IMAO sélectifs A",
+      "Les IMAO sélectifs A détruisent la MAO"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "IMAO non sélectifs : irréversibles, suicides, MAO détruite, effet persistant jusqu'à synthèse d'une nouvelle enzyme. IMAO sélectifs A : réversibles, compétitifs, MAO non détruite.",
+    "source": {
+      "page": 30,
+      "extrait": "Inhibiteurs irréversibles = inhibiteurs suicides ( MAO est détruite)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "IMAO"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/qcm-026",
+    "type": "unique",
+    "enonce": "Après l'arrêt d'un IMAO irréversible, le délai nécessaire pour restaurer l'effet de la MAO est de :",
+    "options": [
+      "24 heures",
+      "2 jours",
+      "1 semaine",
+      "2 semaines",
+      "3 mois"
+    ],
+    "correctes": [
+      3
+    ],
+    "explication": "Le cours indique un délai de 2 semaines pour restaurer l'effet de la MAO.",
+    "source": {
+      "page": 30,
+      "extrait": "(délai de 2 semaine pr restaurer l'effet de la MAO;"
+    },
+    "difficulte": 2,
+    "tags": [
+      "IMAO"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/qcm-027",
+    "type": "unique",
+    "enonce": "Le blocage obtenu avec un IMAO sélectif A réversible est :",
+    "options": [
+      "Définitif",
+      "Rapidement réversible à l'arrêt du traitement",
+      "Réversible en 2 semaines",
+      "Irréversible mais compétitif",
+      "Non compétitif"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "IMAO sélectifs A : blocage rapidement réversible à l'arrêt du traitement, MAO non détruite.",
+    "source": {
+      "page": 30,
+      "extrait": "Blocage rapidement réversible à l'arrêt du traitement"
+    },
+    "difficulte": 1,
+    "tags": [
+      "IMAO"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/qcm-028",
+    "type": "multiple",
+    "enonce": "Les inhibiteurs sélectifs de la recapture de la sérotonine (ISRS) :",
+    "options": [
+      "Sont appelés aussi antidépresseurs sérotoninergiques purs",
+      "Sont plutôt psychotoniques",
+      "Ont une efficacité comparable à celle des imipraminiques",
+      "Sont sans effets anticholinergiques, donc mieux tolérés",
+      "Sont fortement cardiotoxiques"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Les ISRS, antidépresseurs sérotoninergiques purs, sont plutôt psychotoniques, d'efficacité comparable aux imipraminiques, sans effets anticholinergiques et dépourvus de toxicité cardiaque.",
+    "source": {
+      "page": 33,
+      "extrait": "Appelés aussi antidépresseurs sérotoninergiques purs, ces ATD sont plutôt psychotoniques"
+    },
+    "difficulte": 1,
+    "tags": [
+      "ISRS"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/qcm-029",
+    "type": "multiple",
+    "enonce": "Intérêt des ISRS par rapport aux imipraminiques :",
+    "options": [
+      "Absence d'effets anticholinergiques",
+      "Meilleure tolérance",
+      "Absence de toxicité cardiaque",
+      "Possibilité de les administrer chez un cardiaque",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Les ISRS sont sans effets anticholinergiques (mieux tolérés) et dépourvus de toxicité cardiaque, ce qui permet de les administrer chez un cardiaque.",
+    "source": {
+      "page": 33,
+      "extrait": "dépourvus de toxicité cardiaque (ce qui permet de les administrer chez un cardiaque)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "ISRS"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/qcm-030",
+    "type": "multiple",
+    "enonce": "Mécanisme d'action des ISRS :",
+    "options": [
+      "Ils inhibent le recaptage de la sérotonine par les terminaisons nerveuses",
+      "Ils partagent cette propriété avec pratiquement tous les antidépresseurs tricycliques",
+      "Ils inhibent ce recaptage sélectivement, sans altérer celui de la noradrénaline",
+      "Ils inhibent aussi la recapture de la noradrénaline comme l'imipramine",
+      "Ils inhibent la MAO"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Les ISRS inhibent le recaptage de la sérotonine, propriété partagée avec les tricycliques, mais de façon sélective, sans altérer le recaptage de la noradrénaline.",
+    "source": {
+      "page": 36,
+      "extrait": "ils inhibent ce recaptage sélectivement (c'est-à-dire sans altérer le recaptage de la noradrénaline)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "ISRS",
+      "mécanisme"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/qcm-031",
+    "type": "multiple",
+    "enonce": "Parmi les ISRS cités avec leur nom déposé :",
+    "options": [
+      "Fluoxétine (Prozac®)",
+      "Fluvoxamine (Floxyfral®)",
+      "Paroxétine (Deroxat®)",
+      "Sertraline (Zoloft®)",
+      "Venlafaxine (Effexor®)"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Les ISRS cités sont fluoxétine, fluvoxamine, paroxétine, sertraline, citalopram (Seropram®) et escitalopram (Seroplex®) ; la venlafaxine est un IRSNA.",
+    "source": {
+      "page": 34,
+      "extrait": "Fluoxétine (PROZAC) Fluvoxamine (FLOXYFRAL) Paroxétine (DEROXAT)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "ISRS"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/qcm-032",
+    "type": "multiple",
+    "enonce": "Concernant le citalopram et l'escitalopram :",
+    "options": [
+      "Le citalopram correspond au Seropram®",
+      "L'escitalopram correspond au Seroplex®",
+      "Ce sont des ISRS",
+      "Ce sont des IRSNA",
+      "Ce sont des IMAO"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Citalopram (Seropram®) et escitalopram (Seroplex®) figurent parmi les ISRS.",
+    "source": {
+      "page": 35,
+      "extrait": "Citalopram (SEROPRAM) Escitalopram (SEROPLEX)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "ISRS"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/qcm-033",
+    "type": "unique",
+    "enonce": "Le Zoloft® correspond à :",
+    "options": [
+      "La sertraline",
+      "La fluoxétine",
+      "La paroxétine",
+      "Le citalopram",
+      "La fluvoxamine"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Sertraline = Zoloft®.",
+    "source": {
+      "page": 35,
+      "extrait": "Sertraline (ZOLOFT)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "spécialités"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/qcm-034",
+    "type": "unique",
+    "enonce": "Le Floxyfral® correspond à :",
+    "options": [
+      "La fluoxétine",
+      "La fluvoxamine",
+      "La paroxétine",
+      "L'escitalopram",
+      "Le milnacipran"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Fluvoxamine = Floxyfral®.",
+    "source": {
+      "page": 34,
+      "extrait": "Fluvoxamine (FLOXYFRAL)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "spécialités"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/qcm-035",
+    "type": "multiple",
+    "enonce": "Les inhibiteurs de la recapture de la sérotonine et de la noradrénaline (IRSNA) :",
+    "options": [
+      "Sont appelés composés à action duale",
+      "Inhibent la recapture des deux monoamines par les terminaisons présynaptiques",
+      "Ont une efficacité comparable à celle des imipraminiques et des ISRS",
+      "Sont dépourvus d'action post-synaptique directe cholinergique et adrénolytique",
+      "Ont davantage d'effets indésirables que les imipraminiques"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Les IRSNA, composés à action duale sérotoninergique et noradrénergique, ont une efficacité comparable aux imipraminiques et aux ISRS et, étant dépourvus d'action post-synaptique directe, moins d'effets indésirables.",
+    "source": {
+      "page": 37,
+      "extrait": "composés à action duale à la fois sérotoninergique et noradrénergiqus"
+    },
+    "difficulte": 2,
+    "tags": [
+      "IRSNA"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/qcm-036",
+    "type": "multiple",
+    "enonce": "IRSNA cités avec leur nom déposé :",
+    "options": [
+      "Venlafaxine (Effexor®)",
+      "Milnacipran (Ixel®)",
+      "Sertraline (Zoloft®)",
+      "Mirtazapine (Norset®)",
+      "Miansérine (Athymil®)"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "IRSNA : venlafaxine (Effexor®) et milnacipran (Ixel®).",
+    "source": {
+      "page": 39,
+      "extrait": "Venlafaxine (EFFEXOR) Milnacipran (IXEL)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "IRSNA"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/qcm-037",
+    "type": "unique",
+    "enonce": "Les IRSNA sont dépourvus d'action post-synaptique directe de type :",
+    "options": [
+      "Cholinergique et adrénolytique",
+      "Sérotoninergique",
+      "Noradrénergique",
+      "Dopaminergique",
+      "GABAergique"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Ils sont dépourvus d'action post-synaptique directe (cholinergique, adrénolytique), donc moins d'effets indésirables.",
+    "source": {
+      "page": 37,
+      "extrait": "dépourvus d'action post-synaptique directe (cholinergique , adrénolytique)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "IRSNA"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/qcm-038",
+    "type": "multiple",
+    "enonce": "Concernant la miansérine (Athymil®) et la mirtazapine (Norset®) :",
+    "options": [
+      "Ce sont des composés tétracycliques",
+      "La miansérine bloque les récepteurs α2 présynaptiques noradrénergiques",
+      "La mirtazapine bloque les récepteurs α2 présynaptiques noradrénergiques et 5-HT1A présynaptiques sérotoninergiques",
+      "La mirtazapine est un antidépresseur noradrénergique et sérotoninergique sélectif (NASSA)",
+      "Ce sont des IMAO"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Miansérine et mirtazapine sont tétracycliques : la miansérine bloque les α2 présynaptiques ; la mirtazapine (NASSA) bloque les α2 et les 5-HT1A présynaptiques.",
+    "source": {
+      "page": 41,
+      "extrait": "Miansérine - α2 pré synaptique noradrénergique Mirtazapine ATD noradrénergique et sérotoninergique sélectif (NASSA)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "atypiques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/qcm-039",
+    "type": "unique",
+    "enonce": "Le mécanisme d'action de la miansérine repose sur :",
+    "options": [
+      "Le blocage des récepteurs α2 présynaptiques noradrénergiques",
+      "L'inhibition de la MAO-A",
+      "L'inhibition sélective de la recapture de la sérotonine",
+      "Le blocage des récepteurs H1 uniquement",
+      "L'inhibition de la recapture de la noradrénaline"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "La miansérine bloque les récepteurs α2 présynaptiques noradrénergiques.",
+    "source": {
+      "page": 41,
+      "extrait": "Miansérine - α2 pré synaptique noradrénergique"
+    },
+    "difficulte": 2,
+    "tags": [
+      "atypiques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/qcm-040",
+    "type": "unique",
+    "enonce": "La mirtazapine bloque :",
+    "options": [
+      "Les récepteurs α2 présynaptiques uniquement",
+      "Les récepteurs α2 présynaptiques et 5-HT1A présynaptiques",
+      "La MAO-B",
+      "Le transporteur de la sérotonine",
+      "Les récepteurs muscariniques"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Mirtazapine (NASSA) : blocage des α2 présynaptiques noradrénergiques et des 5-HT1A présynaptiques sérotoninergiques.",
+    "source": {
+      "page": 41,
+      "extrait": "- α2 pré synaptique noradrénergique - 5HT1a pré synaptique sérotoninergique"
+    },
+    "difficulte": 2,
+    "tags": [
+      "atypiques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/qcm-041",
+    "type": "multiple",
+    "enonce": "Concernant les antidépresseurs ni imipraminiques, ni IMAO, ni IRS (ATD atypiques) :",
+    "options": [
+      "Ils sont moins régulièrement efficaces que les imipraminiques de référence dans les dépressions sévères",
+      "On les réserve plutôt aux dépressions de moindre intensité",
+      "On les utilise lors des contre-indications aux imipraminiques",
+      "Plusieurs semblent avoir une meilleure rapidité d'action",
+      "Leur toxicité aiguë est supérieure à celle des imipraminiques"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Les ATD atypiques sont moins régulièrement efficaces dans les dépressions sévères, réservés aux dépressions de moindre intensité ou aux contre-indications des imipraminiques, souvent plus rapides, et leur toxicité aiguë est moindre.",
+    "source": {
+      "page": 43,
+      "extrait": "leur toxicité aiguë est moindre que celle des imipraminiques"
+    },
+    "difficulte": 2,
+    "tags": [
+      "atypiques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/qcm-042",
+    "type": "unique",
+    "enonce": "La toxicité aiguë des antidépresseurs atypiques, comparée à celle des imipraminiques, est :",
+    "options": [
+      "Plus élevée",
+      "Identique",
+      "Moindre",
+      "Nulle",
+      "Non évaluable"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Leur toxicité aiguë est moindre que celle des imipraminiques.",
+    "source": {
+      "page": 43,
+      "extrait": "leur toxicité aiguë est moindre que celle des imipraminiques"
+    },
+    "difficulte": 1,
+    "tags": [
+      "atypiques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/qcm-043",
+    "type": "multiple",
+    "enonce": "Comparaison ISRS / antidépresseurs tricycliques :",
+    "options": [
+      "Les deux inhibent le recaptage de la sérotonine",
+      "Seuls les ISRS le font sélectivement",
+      "Les tricycliques inhibent aussi la recapture de la noradrénaline",
+      "Les ISRS sont dépourvus d'effets anticholinergiques",
+      "Les ISRS sont plus cardiotoxiques"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Les ISRS se distinguent par la sélectivité de l'inhibition de la recapture de la sérotonine, l'absence d'effets anticholinergiques et de toxicité cardiaque.",
+    "source": {
+      "page": 36,
+      "extrait": "La différence essentielle entre ces 2 classes est qu'ils inhibent ce recaptage sélectivement"
+    },
+    "difficulte": 2,
+    "tags": [
+      "transversal"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/qcm-044",
+    "type": "multiple",
+    "enonce": "Quel(s) antidépresseur(s) peut-on administrer chez un patient cardiaque d'après le cours ?",
+    "options": [
+      "Les ISRS",
+      "Les tricycliques",
+      "Les IMAO irréversibles",
+      "L'imipramine",
+      "L'amitriptyline"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Les ISRS sont dépourvus de toxicité cardiaque, ce qui permet de les administrer chez un cardiaque, contrairement aux tricycliques (effet stabilisant de membrane, troubles de conduction).",
+    "source": {
+      "page": 33,
+      "extrait": "dépourvus de toxicité cardiaque (ce qui permet de les administrer chez un cardiaque)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "transversal"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/qcm-045",
+    "type": "multiple",
+    "enonce": "Parmi ces antidépresseurs, lesquels agissent sans inhiber directement un transporteur de recapture ?",
+    "options": [
+      "Iproniazide",
+      "Moclobémide",
+      "Miansérine",
+      "Mirtazapine",
+      "Fluoxétine"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Les IMAO inhibent la dégradation et miansérine/mirtazapine bloquent des autorécepteurs présynaptiques ; la fluoxétine inhibe le transporteur de la sérotonine.",
+    "source": {
+      "page": 41,
+      "extrait": "Blocage: Miansérine - α2 pré synaptique noradrénergique"
+    },
+    "difficulte": 3,
+    "tags": [
+      "transversal"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/qcm-046",
+    "type": "multiple",
+    "enonce": "Associez correctement molécule et mécanisme :",
+    "options": [
+      "Imipramine : inhibition de la recapture de la sérotonine et de la noradrénaline",
+      "Iproniazide : inhibition irréversible de la MAO",
+      "Fluoxétine : inhibition sélective de la recapture de la sérotonine",
+      "Venlafaxine : inhibition de la recapture de la sérotonine et de la noradrénaline",
+      "Mirtazapine : inhibition sélective de la recapture de la sérotonine"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "La mirtazapine agit par blocage des récepteurs α2 et 5-HT1A présynaptiques, non par inhibition de recapture.",
+    "source": {
+      "page": 41,
+      "extrait": "Mirtazapine ATD noradrénergique et sérotoninergique sélectif (NASSA)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "transversal"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/qcm-047",
+    "type": "multiple",
+    "enonce": "Parmi les propositions suivantes concernant les amines des tricycliques, lesquelles sont exactes ?",
+    "options": [
+      "L'imipramine est une amine tertiaire",
+      "La nortriptyline est une amine secondaire",
+      "La nortriptyline inhibe préférentiellement la recapture de la noradrénaline",
+      "L'imipramine inhibe la recapture de la sérotonine et de la noradrénaline",
+      "La nortriptyline inhibe préférentiellement la recapture de la sérotonine"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Amines tertiaires (imipramine) : sérotonine + noradrénaline ; amines secondaires (nortriptyline) : noradrénaline de façon préférentielle.",
+    "source": {
+      "page": 23,
+      "extrait": "Les amines secondaires (Nortriptyline) inhibent préférentiellement la noradrénaline"
+    },
+    "difficulte": 2,
+    "tags": [
+      "RSA"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/qcm-048",
+    "type": "multiple",
+    "enonce": "Quels effets indésirables des tricycliques relèvent d'un blocage de récepteurs post-synaptiques ?",
+    "options": [
+      "Sécheresse buccale (anticholinergique)",
+      "Sédation (H1)",
+      "Hypotension (α1)",
+      "Rétention urinaire (anticholinergique)",
+      "Inhibition de la MAO"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Les effets anticholinergiques, histaminiques H1 et α1-adrénergiques résultent du blocage de récepteurs ; les tricycliques n'inhibent pas la MAO.",
+    "source": {
+      "page": 24,
+      "extrait": "Effets Histaminiques H1 : effet sédatif. Effets α1 adrénérgiques : effet hypotenseur"
+    },
+    "difficulte": 2,
+    "tags": [
+      "effets indésirables"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/qcm-049",
+    "type": "multiple",
+    "enonce": "Concernant l'iproniazide et le moclobémide :",
+    "options": [
+      "L'iproniazide est irréversible, le moclobémide réversible",
+      "L'iproniazide est non sélectif, le moclobémide sélectif de la MAO-A",
+      "L'iproniazide détruit l'enzyme, pas le moclobémide",
+      "Le moclobémide est un inhibiteur compétitif",
+      "Le moclobémide est un dérivé de l'acide isonicotinique"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Le moclobémide est un benzamide dérivé de l'aminoéthylmorpholine ; l'iproniazide est le dérivé de l'acide isonicotinique.",
+    "source": {
+      "page": 29,
+      "extrait": "Le moclobémide est un benzamide dérivé de l'aminoéthylmorpholine"
+    },
+    "difficulte": 2,
+    "tags": [
+      "IMAO"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/qcm-050",
+    "type": "multiple",
+    "enonce": "Quelles classes d'antidépresseurs ont une efficacité décrite comme comparable à celle des imipraminiques ?",
+    "options": [
+      "Les ISRS",
+      "Les IRSNA",
+      "Les antidépresseurs atypiques dans les dépressions sévères",
+      "Les IMAO irréversibles exclusivement",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Les ISRS et les IRSNA ont une efficacité comparable à celle des imipraminiques ; les ATD atypiques sont moins régulièrement efficaces dans les dépressions sévères.",
+    "source": {
+      "page": 37,
+      "extrait": "Efficacité comparable à celle des imipraminiques et des ISRS"
+    },
+    "difficulte": 2,
+    "tags": [
+      "transversal"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/qcm-051",
+    "type": "multiple",
+    "enonce": "Cochez les propositions exactes concernant les MAO :",
+    "options": [
+      "Elles sont mitochondriales",
+      "Elles sont flaviniques",
+      "Elles dégradent les monoamines des aliments",
+      "La MAO-A dégrade l'adrénaline",
+      "La MAO-B dégrade la sérotonine"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "La MAO-B agit sur la phényléthylamine et la dopamine, non sur la sérotonine.",
+    "source": {
+      "page": 26,
+      "extrait": "MAO-A agit sur la sérotonine, la noradrénaline et l'adrénaline"
+    },
+    "difficulte": 2,
+    "tags": [
+      "IMAO"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/qcm-052",
+    "type": "unique",
+    "enonce": "Un IMAO qualifié d'« inhibiteur suicide » :",
+    "options": [
+      "Se fixe de façon covalente et détruit l'enzyme",
+      "Entre en compétition réversible avec le substrat",
+      "Est éliminé rapidement",
+      "N'inhibe que la MAO-B",
+      "Stimule la synthèse de la MAO"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "L'inhibition suicidaire correspond à une fixation covalente sur la MAO, non compétitive et irréversible, avec destruction de l'enzyme.",
+    "source": {
+      "page": 28,
+      "extrait": "Fixation covalente sur l'enzyme (MAO)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "IMAO"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/qcm-053",
+    "type": "multiple",
+    "enonce": "Cochez les propositions exactes concernant la relation entre structure et effets des tricycliques :",
+    "options": [
+      "L'efficacité dépend de la chaîne latérale et de la fonction amine",
+      "Les effets secondaires dépendent aussi de la structure moléculaire",
+      "Une chaîne de 3 carbones donne l'activité optimale",
+      "L'encombrement de la chaîne augmente l'activité",
+      "Le caractère amphiphile explique l'affinité pour les transporteurs"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explication": "L'encombrement diminue l'activité ; les autres propositions sont exactes.",
+    "source": {
+      "page": 23,
+      "extrait": "L'encombrement diminue l'activité"
+    },
+    "difficulte": 2,
+    "tags": [
+      "RSA"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/qcm-054",
+    "type": "multiple",
+    "enonce": "Quels effets indésirables des tricycliques peuvent mettre en jeu le pronostic vital ?",
+    "options": [
+      "Les troubles de conduction avec risque de mort subite",
+      "Les arythmies",
+      "Le risque suicidaire",
+      "La sécheresse buccale",
+      "La constipation"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Troubles de conduction (mort subite), arythmies et risque suicidaire sont les effets les plus graves ; sécheresse buccale et constipation sont gênantes mais bénignes.",
+    "source": {
+      "page": 24,
+      "extrait": "Arythmies et troubles de conduction (risque de mort subite)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "effets indésirables"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/qcm-055",
+    "type": "multiple",
+    "enonce": "Concernant les monoamines oxydases et leurs substrats :",
+    "options": [
+      "Les MAO dégradent des neurotransmetteurs",
+      "Les MAO dégradent aussi des amines apportées par l'alimentation",
+      "La MAO-A dégrade la sérotonine",
+      "La MAO-B dégrade la dopamine",
+      "Les MAO sont des enzymes cytosoliques"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Les MAO sont mitochondriales et flaviniques ; MAO-A : sérotonine, NA, adrénaline ; MAO-B : phényléthylamine et dopamine.",
+    "source": {
+      "page": 25,
+      "extrait": "catalysant la désamination oxydative de neurotransmetteurs ou celle d'amines apportées par l'alimentation"
+    },
+    "difficulte": 2,
+    "tags": [
+      "IMAO"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/qcm-056",
+    "type": "unique",
+    "enonce": "La structure de l'iproniazide comporte :",
+    "options": [
+      "Un enchaînement hydrazinique alkylé par un isopropyle sur un noyau isonicotinique",
+      "Un benzamide chloré",
+      "Une morpholine",
+      "Un noyau tricyclique",
+      "Un cycle triazolé"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "L'iproniazide est un dérivé de l'acide isonicotinique dont le groupe carboxyle possède un enchaînement hydrazinique alkylé par un motif isopropyle.",
+    "source": {
+      "page": 28,
+      "extrait": "un enchainement hydrazinique alkylé par un motif isopropyle"
+    },
+    "difficulte": 2,
+    "tags": [
+      "iproniazide"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/qcm-057",
+    "type": "multiple",
+    "enonce": "Pourquoi les IMAO irréversibles exposent-ils à des interactions médicamenteuses ?",
+    "options": [
+      "Parce qu'ils inhibent plusieurs enzymes du métabolisme",
+      "Parce que l'inhibition est non sélective",
+      "Parce que l'enzyme est détruite et doit être resynthétisée",
+      "Parce qu'ils sont éliminés par voie rénale",
+      "Parce qu'ils sont compétitifs"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "La non-spécificité (inhibition de plusieurs enzymes du métabolisme) et le caractère irréversible expliquent le risque d'interactions.",
+    "source": {
+      "page": 28,
+      "extrait": "Les IMAO inhibent plusieurs enzymes du métabolisme, d'où un risque d'interactions médicamenteuses"
+    },
+    "difficulte": 2,
+    "tags": [
+      "IMAO"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/qcm-058",
+    "type": "multiple",
+    "enonce": "Quels arguments font préférer un ISRS à un imipraminique ?",
+    "options": [
+      "Absence d'effets anticholinergiques",
+      "Meilleure tolérance",
+      "Absence de toxicité cardiaque",
+      "Efficacité comparable",
+      "Délai d'action plus long"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Les ISRS ont une efficacité comparable aux imipraminiques, sans effets anticholinergiques ni toxicité cardiaque.",
+    "source": {
+      "page": 33,
+      "extrait": "d'efficacité comparable à celle des imipraminiques"
+    },
+    "difficulte": 1,
+    "tags": [
+      "ISRS"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/qcm-059",
+    "type": "multiple",
+    "enonce": "Concernant les antidépresseurs sérotoninergiques purs :",
+    "options": [
+      "Ils sont plutôt psychotoniques",
+      "Ils inhibent sélectivement le recaptage de la sérotonine",
+      "Ils n'altèrent pas le recaptage de la noradrénaline",
+      "Ils partagent l'inhibition du recaptage de la sérotonine avec les tricycliques",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Les ISRS sont plutôt psychotoniques et inhibent sélectivement le recaptage de la sérotonine, propriété partagée avec les tricycliques mais sans sélectivité chez ces derniers.",
+    "source": {
+      "page": 36,
+      "extrait": "ils inhibent ce recaptage sélectivement"
+    },
+    "difficulte": 2,
+    "tags": [
+      "ISRS"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/qcm-060",
+    "type": "unique",
+    "enonce": "L'escitalopram correspond à la spécialité :",
+    "options": [
+      "Seropram®",
+      "Seroplex®",
+      "Deroxat®",
+      "Floxyfral®",
+      "Effexor®"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Escitalopram = Seroplex® ; citalopram = Seropram®.",
+    "source": {
+      "page": 35,
+      "extrait": "Escitalopram (SEROPLEX)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "spécialités"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/qcm-061",
+    "type": "multiple",
+    "enonce": "Pourquoi les IRSNA entraînent-ils moins d'effets indésirables que les imipraminiques ?",
+    "options": [
+      "Parce qu'ils sont dépourvus d'action post-synaptique cholinergique",
+      "Parce qu'ils sont dépourvus d'action adrénolytique directe",
+      "Parce qu'ils n'ont pas d'action duale",
+      "Parce qu'ils inhibent la MAO",
+      "Parce qu'ils bloquent les récepteurs H1"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Les IRSNA sont dépourvus d'action post-synaptique directe (cholinergique, adrénolytique), d'où moins d'effets indésirables ; leur action duale est conservée.",
+    "source": {
+      "page": 37,
+      "extrait": "dépourvus d'action post-synaptique directe (cholinergique , adrénolytique) donc moins d'effets indésirables"
+    },
+    "difficulte": 2,
+    "tags": [
+      "IRSNA"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/qcm-062",
+    "type": "multiple",
+    "enonce": "Concernant les tétracycliques miansérine et mirtazapine :",
+    "options": [
+      "Les deux bloquent les récepteurs α2 présynaptiques noradrénergiques",
+      "Seule la mirtazapine bloque aussi les 5-HT1A présynaptiques",
+      "La mirtazapine est classée NASSA",
+      "La miansérine correspond à l'Athymil®",
+      "La mirtazapine inhibe la recapture de la sérotonine"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Miansérine (Athymil®) : blocage α2 ; mirtazapine (Norset®, NASSA) : blocage α2 et 5-HT1A présynaptiques ; aucune n'inhibe la recapture.",
+    "source": {
+      "page": 41,
+      "extrait": "Mirtazapine Blocage - α2 pré synaptique noradrénergique - 5HT1a pré synaptique sérotoninergique"
+    },
+    "difficulte": 2,
+    "tags": [
+      "atypiques"
+    ],
+    "origine": "genere"
+  }
+]

@@ -1,0 +1,218 @@
+[
+  {
+    "id": "chimie-therapeutique/03-hypnotiques/structure-001",
+    "nom": "Nitrazépam (Mogadan®)",
+    "smiles": "O=C1CN=C(c2ccccc2)c2cc([N+](=O)[O-])ccc2N1",
+    "classe": "1,4-benzodiazépin-2-one 7-nitrée",
+    "question": "Identifiez cette molécule :",
+    "options": [
+      "Nitrazépam",
+      "Diazépam",
+      "Oxazépam",
+      "Témazépam",
+      "Clonazépam"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "7-nitro-5-phényl-1,4-benzodiazépin-2-one : nitrazépam (Mogadan®), hypnotique non substitué sur N1."
+  },
+  {
+    "id": "chimie-therapeutique/03-hypnotiques/structure-002",
+    "nom": "Flunitrazépam (Rohypnol®)",
+    "smiles": "CN1c2ccc([N+](=O)[O-])cc2C(=NCC1=O)c1ccccc1F",
+    "classe": "1,4-benzodiazépin-2-one 7-nitrée N-méthylée",
+    "question": "Quelles sont les particularités de cette molécule par rapport au nitrazépam ?",
+    "options": [
+      "Méthyle sur N1 et fluor en 2'",
+      "Chlore en 7",
+      "Hydroxyle en 3",
+      "Absence de nitro",
+      "Cycle triazolé fusionné"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Flunitrazépam : R1 = CH3, X = F ; retiré du marché en 2013."
+  },
+  {
+    "id": "chimie-therapeutique/03-hypnotiques/structure-003",
+    "nom": "Témazépam (Normison®)",
+    "smiles": "CN1c2ccc(Cl)cc2C(c2ccccc2)=NC(O)C1=O",
+    "classe": "Dérivé de la diazépinolone",
+    "question": "Quel groupement caractérise la position 3 de cette molécule ?",
+    "options": [
+      "Hydroxyle",
+      "Carboxyle",
+      "Nitro",
+      "Méthyle",
+      "Chlore"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Les dérivés de la diazépinolone portent un CHOH en position 3 (témazépam : R1 = CH3, X = H)."
+  },
+  {
+    "id": "chimie-therapeutique/03-hypnotiques/structure-004",
+    "nom": "Lormétazépam (Noctamide®)",
+    "smiles": "CN1c2ccc(Cl)cc2C(c2ccccc2Cl)=NC(O)C1=O",
+    "classe": "Dérivé de la diazépinolone",
+    "question": "Cette molécule diffère du témazépam par :",
+    "options": [
+      "Un chlore en ortho du phényle en 5",
+      "L'absence de méthyle sur N1",
+      "Un nitro en 7",
+      "Un cycle imidazolé",
+      "Un carboxyle en 3"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Lormétazépam : X = Cl ; témazépam : X = H."
+  },
+  {
+    "id": "chimie-therapeutique/03-hypnotiques/structure-005",
+    "nom": "Triazolam (Halcion®)",
+    "smiles": "Cc1nnc2n1-c1ccc(Cl)cc1C(c1ccccc1Cl)=NC2",
+    "classe": "Triazolo-1,4-benzodiazépine",
+    "question": "Quel est l'intérêt du cycle fusionné de cette molécule ?",
+    "options": [
+      "Protection de l'oxydation et augmentation de l'activité",
+      "Diminution de l'activité",
+      "Perte de la lipophilie",
+      "Transformation en antagoniste",
+      "Diminution de l'affinité pour le GABAA"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "La fusion du cycle triazolé protège de l'oxydation et augmente l'activité (triazolam, Halcion®)."
+  },
+  {
+    "id": "chimie-therapeutique/03-hypnotiques/structure-006",
+    "nom": "Zolpidem",
+    "smiles": "Cc1ccc2nc(-c3ccc(C)cc3)c(CC(=O)N(C)C)n2c1",
+    "classe": "Imidazopyridine (apparenté aux BZD)",
+    "question": "À quelle famille chimique appartient cette molécule ?",
+    "options": [
+      "Imidazopyridine",
+      "Pyrazolopyrimidine",
+      "Cyclopyrrolone",
+      "Benzodiazépine",
+      "Phénothiazine"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Le zolpidem est une imidazopyridine, apparentée aux BZD mais chimiquement différente."
+  },
+  {
+    "id": "chimie-therapeutique/03-hypnotiques/structure-007",
+    "nom": "Zopiclone",
+    "smiles": "CN1CCN(CC1)C(=O)OC1N(c2ccc(Cl)cn2)C(=O)c2nccnc12",
+    "classe": "Cyclopyrrolone (apparenté aux BZD)",
+    "question": "À quelle famille chimique appartient cette molécule ?",
+    "options": [
+      "Cyclopyrrolone",
+      "Imidazopyridine",
+      "Pyrazolopyrimidine",
+      "Benzodiazépine",
+      "Éther du benzhydrol"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "La zopiclone est une cyclopyrrolone."
+  },
+  {
+    "id": "chimie-therapeutique/03-hypnotiques/structure-008",
+    "nom": "Zaleplon",
+    "smiles": "CCN(C(C)=O)c1cccc(-c2ccnc3c(C#N)cnn23)c1",
+    "classe": "Pyrazolopyrimidine (apparenté aux BZD)",
+    "question": "À quelle famille chimique appartient cette molécule ?",
+    "options": [
+      "Pyrazolopyrimidine",
+      "Imidazopyridine",
+      "Cyclopyrrolone",
+      "Benzodiazépine",
+      "Carbamate"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Le zaleplon est une pyrazolopyrimidine portant un groupe nitrile."
+  },
+  {
+    "id": "chimie-therapeutique/03-hypnotiques/structure-009",
+    "nom": "Prométhazine (Phénergan®)",
+    "smiles": "CC(CN(C)C)N1c2ccccc2Sc2ccccc21",
+    "classe": "Phénothiazine antihistaminique",
+    "question": "Identifiez cette molécule et sa classe :",
+    "options": [
+      "Prométhazine, phénothiazine",
+      "Doxylamine, éther du benzhydrol",
+      "Chlorpromazine, neuroleptique",
+      "Zolpidem, imidazopyridine",
+      "Hydroxyzine, pipérazine"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "N,N-diméthyl-1-méthyl-2-(phénothiazin-10-yl)éthylamine : prométhazine (Phénergan®), antihistaminique sédatif."
+  },
+  {
+    "id": "chimie-therapeutique/03-hypnotiques/structure-010",
+    "nom": "Doxylamine (Donormyl®)",
+    "smiles": "CN(C)CCOC(C)(c1ccccc1)c1ccccn1",
+    "classe": "Éther du benzhydrol, antihistaminique",
+    "question": "À quelle classe chimique appartient cette molécule ?",
+    "options": [
+      "Éther du benzhydrol",
+      "Phénothiazine",
+      "Benzodiazépine",
+      "Cyclopyrrolone",
+      "Imidazopyridine"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "La doxylamine (Donormyl®/Sulamine®) est un éther du benzhydrol utilisé pour son effet sédatif."
+  },
+  {
+    "id": "chimie-therapeutique/03-hypnotiques/structure-011",
+    "nom": "Chlordiazépoxide (Librium®)",
+    "smiles": "CNC1=[N+]([O-])c2ccc(Cl)cc2C(c2ccccc2)=NC1",
+    "classe": "Dérivé de la diazépine, N-oxyde",
+    "question": "Quelle est la particularité de cette molécule ?",
+    "options": [
+      "C'est la première benzodiazépine, portant un N-oxyde en position 4",
+      "C'est un dérivé 7-nitré hypnotique",
+      "C'est une cyclopyrrolone",
+      "C'est un antihistaminique",
+      "C'est un antagoniste des BZD"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Le chlordiazépoxide (Librium®, 1960), découvert par Leo Sternbach, porte un oxyde d'amine en position 4."
+  },
+  {
+    "id": "chimie-therapeutique/03-hypnotiques/structure-012",
+    "nom": "Noyau 1,4-benzodiazépine",
+    "smiles": "C1N=Cc2ccccc2NC1",
+    "classe": "Noyau de base des hypnotiques benzodiazépiniques",
+    "question": "Comment se décompose ce noyau ?",
+    "options": [
+      "Benzène (cycle A) + diazépine à 7 chaînons avec 2 azotes (cycle B)",
+      "Deux benzènes accolés",
+      "Benzène + pyrrole",
+      "Pyridine + imidazole",
+      "Benzène + cycle à 6 chaînons"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Benzodiazépine = benzo (cycle A) + diaza (deux azotes) + azépine (hétérocycle à 7 atomes, cycle B)."
+  }
+]

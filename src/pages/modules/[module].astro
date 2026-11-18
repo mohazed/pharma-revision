@@ -1,0 +1,57 @@
+---
+import Base from "../../layouts/Base.astro";
+import EnTete from "../../components/EnTete.astro";
+import ListeCours from "../../islands/ListeCours";
+import { getCoursDuModule, getHorsCours, getModules, resumeCours } from "../../lib/content";
+import type { ModuleInfo } from "../../lib/types";
+
+export function getStaticPaths() {
+  return getModules().map((m) => ({ params: { module: m.slug }, props: { module: m } }));
+}
+const { module } = Astro.props as { module: ModuleInfo };
+const tous = getCoursDuModule(module.slug).map(resumeCours);
+const cours = tous.filter((c) => c.type === "cours");
+const td = tous.filter((c) => c.type === "td");
+const totalQcm = tous.reduce((t, c) => t + c.comptes.qcm, 0);
+const horsCours = getHorsCours().filter((q) => q.annaleId.includes(module.slug));
+---
+<Base titre={module.titre} description={`${module.titre} (3e année de pharmacie) : ${cours.length} cours, ${totalQcm} QCM corrigés, flashcards et fiches.`}>
+  <div style={`--mod: var(--pr-mod-${module.couleur}, var(--pr-primary))`}>
+    <nav aria-label="Fil d'Ariane" class="mb-2 text-sm text-ink-muted"><a href="/" class="hover:underline">Accueil</a> › <span>{module.titre}</span></nav>
+    <EnTete titre={module.titre} sousTitre={`${cours.length} cours${td.length ? ` · ${td.length} TD` : ""} · ${totalQcm} QCM`}>
+      <div class="mt-3 flex flex-wrap gap-2">
+        {totalQcm > 0 && <a href={`/entrainement/?module=${module.slug}`} class="btn btn-primaire">S'entraîner sur le module</a>}
+        {totalQcm > 0 && <a href="/examens-blancs/" class="btn btn-secondaire">Examen blanc (30 questions, 60 min)</a>}
+        <a href={`/flashcards/?module=${module.slug}`} class="btn btn-fantome">Flashcards</a>
+      </div>
+    </EnTete>
+    {tous.length === 0 ? (
+      <div class="carte p-6 text-center">
+        <p class="font-semibold">Les cours de ce module sont en cours de préparation.</p>
+        <p class="text-ink-muted">Revenez bientôt !</p>
+      </div>
+    ) : (
+      <>
+        <h2 class="mb-3 text-lg">Cours</h2>
+        <ListeCours client:only="react" cours={cours}>
+          <ul slot="fallback" class="flex flex-col gap-2.5">{cours.map((c) => <li><a href={`/cours/${c.path}/`} class="carte block p-4 font-bold text-ink no-underline">{c.type === "td" ? "TD" : c.ordre}. {c.titre}</a></li>)}</ul>
+        </ListeCours>
+        {td.length > 0 && (
+          <>
+            <h2 class="mb-3 mt-6 text-lg">Travaux dirigés</h2>
+            <ListeCours client:only="react" cours={td}>
+          <ul slot="fallback" class="flex flex-col gap-2.5">{td.map((c) => <li><a href={`/cours/${c.path}/`} class="carte block p-4 font-bold text-ink no-underline">{c.type === "td" ? "TD" : c.ordre}. {c.titre}</a></li>)}</ul>
+        </ListeCours>
+          </>
+        )}
+      </>
+    )}
+    {horsCours.length > 0 && (
+      <section class="carte mt-6 p-4">
+        <h2 class="text-lg">Hors cours actuel</h2>
+        <p class="text-sm text-ink-muted">{horsCours.length} question(s) d'annales de ce module portent sur un chapitre pas encore disponible.</p>
+        <a href="/annales/" class="btn btn-secondaire btn-petit mt-2">Voir les annales</a>
+      </section>
+    )}
+  </div>
+</Base>

@@ -1,0 +1,107 @@
+{
+  "id": "chimie-therapeutique/06-neuroleptiques/fiche",
+  "titre": "Les neuroleptiques : l'essentiel",
+  "sections": [
+    {
+      "titre": "Schizophrénie",
+      "points": [
+        "Trouble psychotique chronique : dissociation mentale, hallucinations, délire",
+        "Symptômes **positifs** (hallucinations, délires, agitation), **négatifs** (appauvrissement affectif, retrait social), **cognitifs** (pensée, apprentissage)",
+        "Théorie dopaminergique : ↑ dopamine mésolimbique (positifs), ↓ tonus mésocortical (négatifs)",
+        "Théorie sérotoninergique : hyperactivité nigrostriée et mésocorticale"
+      ]
+    },
+    {
+      "titre": "Définition (Delay et Deniker, 1957)",
+      "points": [
+        "Indifférence psychomotrice",
+        "Diminution de l'agressivité et de l'agitation",
+        "Action réductrice des psychoses aiguës et chroniques",
+        "Effets secondaires neurologiques et végétatifs",
+        "Action **sous-corticale** prédominante"
+      ]
+    },
+    {
+      "titre": "Classification chimique",
+      "points": [
+        "1re génération : phénothiazines, thioxanthènes, butyrophénones, benzamides",
+        "2e génération : dibenzodiazépines (clozapine, olanzapine, quétiapine), benzisoxazoles (rispéridone, sertindole)"
+      ]
+    },
+    {
+      "titre": "Phénothiazines",
+      "points": [
+        "Noyau tricyclique : thiazine-1,4 + 2 benzènes (dibenzoparathiazine) ; DCI en « -azine »",
+        "Position 2 : électroattracteur peu encombré (Cl, CN, CF3) ; N10 : chaîne à 3 carbones, amine tertiaire",
+        "Aliphatiques (chlorpromazine, lévomépromazine) < pipéridiniques (pipotiazine) < pipéraziniques (fluphénazine)",
+        "Synthèse : diphénylamine → thionation (S, 170-180 °C, –H2S) → chaîne (prop-2-èn-1-ol + diméthylamine) → chloroamine (SOCl2) + NaNH2"
+      ]
+    },
+    {
+      "titre": "RSA des phénothiazines",
+      "points": [
+        "Position 2 : Cl, COCH3, CF3, SO2N(CH3)2 ; OH ou autre position → activité réduite",
+        "Chaîne : 3 carbones (antipsychotique) ; prométhazine (antihistaminique) pour comparaison",
+        "Sur la chaîne : H bon, méthyle (centre chiral, L > D), encombrement délétère",
+        "Sur l'azote : amine tertiaire, pipérazine ou pipéridine améliorent l'activité"
+      ]
+    },
+    {
+      "titre": "Thioxanthènes",
+      "points": [
+        "9H-thioxanthène : analogues des phénothiazines, azote remplacé par un **carbone sp2**",
+        "Chlorprothixène (retiré du Vidal), zuclopenthixol (Clopixol), flupentixol (Fluanxol)"
+      ]
+    },
+    {
+      "titre": "Butyrophénones",
+      "points": [
+        "Dérivés de l'amino-4-fluorobutyrophénone, cétones α-aromatiques, chaîne à **4 carbones**",
+        "Pipéridinées : halopéridol (Haldol, chef de file) ; pipérazinées : fluanisone (Sédalande) ; apparentés : pimozide (Orap)",
+        "RSA : pipéridine/pipérazine + chaîne à 4 C + carbonyle (remplaçable par p-fluorophényle) + **fluor en para** obligatoire"
+      ]
+    },
+    {
+      "titre": "Benzamides",
+      "points": [
+        "Amide en C1 + alkylamine tertiaire cyclique, **méthoxy en ortho**, carbone asymétrique (racémiques)",
+        "Peu sédatifs, très lipophiles (action rapide), peu d'effets secondaires, tous antiémétiques",
+        "Neuroleptiques : sulpiride (Dogmatil®), amisulpride (Solian®), sultopride, tiapride ; métoclopramide (Primpéran®) seulement antiémétique"
+      ]
+    },
+    {
+      "titre": "Mécanisme et effets indésirables",
+      "points": [
+        "Typiques : blocage **D2 post-synaptique** non sélectif",
+        "Mésolimbique : effet thérapeutique (symptômes positifs) ; mésocorticale : accentuation des symptômes négatifs",
+        "Nigrostriée : syndrome extrapyramidal ; tubéro-infundibulaire : hyperprolactinémie, syndrome aménorrhée-galactorrhée"
+      ]
+    },
+    {
+      "titre": "Antipsychotiques atypiques",
+      "points": [
+        "Développés face aux résistances, aux syndromes extrapyramidaux et aux signes négatifs",
+        "Antagonistes mixtes **5-HT2A / D2**",
+        "Mésolimbique : effet 5-HT2A faible → blocage D2 (positifs) ; autres voies : effet 5-HT2A puissant → stimulation dopaminergique (négatifs)"
+      ]
+    },
+    {
+      "titre": "Indications",
+      "points": [
+        "Psychiatriques : psychoses aiguës et chroniques, épisode dépressif majeur délirant à risque suicidaire, agitation/agressivité alcoolique, anxiété résistante",
+        "Non neuropsychiatriques : vomissements des antimitotiques, stimulation de la lactation"
+      ]
+    }
+  ],
+  "aRetenir": [
+    "Activité des phénothiazines : aliphatique < pipéridinique < pipérazinique",
+    "Butyrophénones : fluor en para obligatoire, chaîne à 4 carbones",
+    "Typiques = anti-D2 ; atypiques = anti-5-HT2A + anti-D2"
+  ],
+  "pieges": [
+    "Chaîne à 3 carbones pour les phénothiazines mais 4 carbones pour les butyrophénones",
+    "Le métoclopramide est un benzamide mais n'est qu'antiémétique",
+    "La rispéridone est un benzisoxazole, pas une dibenzodiazépine",
+    "Le syndrome extrapyramidal vient de la voie nigrostriée, l'aménorrhée-galactorrhée de la voie tubéro-infundibulaire"
+  ]
+}

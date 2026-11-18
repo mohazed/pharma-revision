@@ -1,0 +1,68 @@
+{
+  "id": "pharmacie-galenique/01-generalites/fiche",
+  "titre": "Généralités sur la pharmacie galénique",
+  "sections": [
+    {
+      "titre": "Définitions",
+      "points": [
+        "**Pharmacie galénique** : mise en forme des PA en médicaments administrables et efficaces avec des excipients adaptés.",
+        "Nom issu de **Claude Galien**, médecin grec, père de la galénique.",
+        "**Matière première** : toute substance (chimique, végétale, animale, minérale, biotechnologique) n'ayant pas subi toutes les étapes de fabrication ; = **PA + excipients**.",
+        "**Médicament** : propriétés curatives ou préventives, diagnostic, ou restauration/correction/modification des fonctions organiques (homme ou animal)."
+      ]
+    },
+    {
+      "titre": "Origine des PA",
+      "points": [
+        "Minérale : carbonate de calcium, carbonate de lithium.",
+        "Animale : insuline porcine/bovine, héparine (intestin de porc).",
+        "Végétale : morphine (pavot), digoxine (digitale).",
+        "Biotechnologique : insuline recombinante, anticorps monoclonaux, vaccin recombinant anti-hépatite B."
+      ]
+    },
+    {
+      "titre": "Excipients",
+      "points": [
+        "Inactifs pharmacologiquement ; assurent forme, stabilité, conservation, biodisponibilité.",
+        "**Excipient à effet notoire** : précautions d'emploi chez certains patients (ex : lactose).",
+        "Certains excipients deviennent PA : macrogol 4000 (Forlax®), silice colloïdale (Gélopectose®)."
+      ]
+    },
+    {
+      "titre": "Formes et conditionnement",
+      "points": [
+        "Formes solides, liquides, pâteuses/semi-solides, gazeuses (aérosols, inhalateurs).",
+        "Libération conventionnelle = immédiate ; libération modifiée = formulation + procédé spécial.",
+        "Primaire : protection + rôle fonctionnel. Secondaire : manipulation, transport, identification, information."
+      ]
+    },
+    {
+      "titre": "Développement et AMM",
+      "points": [
+        "4 phases : recherche, développement, clinique, mise sur le marché.",
+        "Élaboration (préformulation, formulation, laboratoire → lots d'essais) ; expérimentation (pilote → lots cliniques) ; réalisation (industrielle).",
+        "AMM : qualité, sécurité, efficacité → rapport B/R.",
+        "Phases cliniques I (toxicité), II (dose, EI), III (efficacité comparée), IV (après AMM)."
+      ]
+    },
+    {
+      "titre": "BPF, Pharmacopée, préparations",
+      "points": [
+        "Guide BPF en 9 chapitres.",
+        "Pharmacopée : formulaire officiel (commission de médecins et pharmaciens).",
+        "Officinale : selon formulaire officiel (Dakin, alcool chirurgical). Magistrale : extemporanée, prescription, patient déterminé, ordonnancier + numéro d'ordre."
+      ]
+    }
+  ],
+  "aRetenir": [
+    "Lot clinique = lot pilote = prototype.",
+    "AMM = qualité + sécurité + efficacité.",
+    "Numéro d'ordre : registre, ordonnance, étiquette."
+  ],
+  "pieges": [
+    "Ne pas confondre préparation officinale (formulaire officiel) et magistrale (patient déterminé).",
+    "La boîte en carton est le conditionnement secondaire ; le blister est le primaire.",
+    "L'héparine est d'origine animale, pas végétale ; la digoxine vient de la digitale, la morphine du pavot.",
+    "Réclamations et rappels = chapitre 8 des BPF, pas le chapitre 3 (locaux et matériel)."
+  ]
+}

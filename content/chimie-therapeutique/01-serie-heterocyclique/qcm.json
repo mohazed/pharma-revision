@@ -1,0 +1,1671 @@
+[
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/qcm-001",
+    "type": "multiple",
+    "enonce": "Concernant la définition d'un hétérocycle, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "C'est un composé organique cyclique",
+      "Il contient généralement du carbone et au moins un hétéroatome",
+      "L'oxygène, l'azote et le soufre sont des hétéroatomes",
+      "Il doit compter au minimum deux hétéroatomes",
+      "Ses hétéroatomes sont obligatoirement de même nature"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Un hétérocycle est un composé organique cyclique contenant généralement du carbone et un hétéroatome (O, N, S…). Un seul hétéroatome suffit (« un c'est le minimum ») et s'il y en a plusieurs, ils peuvent être de même nature ou différents.",
+    "source": {
+      "page": 2,
+      "extrait": "Un hétérocycle peut compter plusieurs hétéroatomes de même nature ou différents (un c'est le minimum)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "définition"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/qcm-002",
+    "type": "unique",
+    "enonce": "Le nombre minimal d'hétéroatomes dans un hétérocycle est :",
+    "options": [
+      "Zéro",
+      "Un",
+      "Deux",
+      "Trois",
+      "Il dépend de la taille du cycle"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Le cours précise qu'un hétérocycle compte au minimum un hétéroatome.",
+    "source": {
+      "page": 2,
+      "extrait": "(un c'est le minimum)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "définition"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/qcm-003",
+    "type": "multiple",
+    "enonce": "Les composés hétérocycliques sont classés selon :",
+    "options": [
+      "La nature de l'hétéroatome",
+      "La taille de l'hétérocycle",
+      "Le degré d'insaturation",
+      "La masse molaire",
+      "Le nombre de substituants"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Trois critères de classification : nature de l'hétéroatome, taille de l'hétérocycle et degré d'insaturation. Masse molaire et substituants ne sont pas des critères.",
+    "source": {
+      "page": 2,
+      "extrait": "classés selon : La nature d'hétéroatome, La taille de l'hétérocycle, Le degré de l'insaturation"
+    },
+    "difficulte": 1,
+    "tags": [
+      "classification"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/qcm-004",
+    "type": "multiple",
+    "enonce": "Le degré d'insaturation d'un hétérocycle :",
+    "options": [
+      "Permet de différencier un hétérocycle insaturé d'un hétérocycle saturé ou partiellement saturé",
+      "Est indiqué par un suffixe",
+      "Est indiqué par un préfixe",
+      "Donne un suffixe qui varie avec la taille du cycle et la nature des hétéroatomes",
+      "N'est pas un critère de classification"
+    ],
+    "correctes": [
+      0,
+      1,
+      3
+    ],
+    "explication": "Le degré d'insaturation est indiqué par un suffixe, qui varie avec la taille et la nature des hétéroatomes ; c'est un critère de classification. Le préfixe indique la nature de l'hétéroatome.",
+    "source": {
+      "page": 4,
+      "extrait": "Le degré d'insaturation : est indiqué par un suffixe qui varie avec la taille de l'hétérocycle et la nature des hétéroatomes"
+    },
+    "difficulte": 2,
+    "tags": [
+      "classification",
+      "nomenclature"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/qcm-005",
+    "type": "multiple",
+    "enonce": "Dans la nomenclature « Préfixe – Racine – Suffixe » d'un hétérocycle :",
+    "options": [
+      "Le préfixe indique la nature et le nombre d'hétéroatomes",
+      "La racine indique la taille du cycle",
+      "Le suffixe indique le degré d'insaturation",
+      "La racine indique la nature de l'hétéroatome",
+      "Le préfixe indique la taille du cycle"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Préfixe = nature et nombre d'hétéroatomes ; racine = taille du cycle ; suffixe = degré d'insaturation.",
+    "source": {
+      "page": 3,
+      "extrait": "Préfixe- Racine - Suffixe : Nature et nombre d'hétéroatomes, Taille du cycle, degré d'insaturation"
+    },
+    "difficulte": 1,
+    "tags": [
+      "nomenclature"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/qcm-006",
+    "type": "unique",
+    "enonce": "Le préfixe désignant le soufre dans la nomenclature des hétérocycles est :",
+    "options": [
+      "oxa",
+      "thia",
+      "aza",
+      "selena",
+      "stiba"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Tableau 1 : oxygène = oxa, soufre = thia, azote = aza, sélénium = selena, antimoine = stiba.",
+    "source": {
+      "page": 3,
+      "extrait": "soufre (S) thia"
+    },
+    "difficulte": 1,
+    "tags": [
+      "préfixes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/qcm-007",
+    "type": "multiple",
+    "enonce": "Concernant les préfixes des hétéroatomes (Tableau 1) :",
+    "options": [
+      "Oxygène → oxa",
+      "Azote → aza",
+      "Phosphore → phospha",
+      "Arsenic → arsa",
+      "Antimoine → anta"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Le préfixe de l'antimoine (Sb) est « stiba », non « anta ». Les autres correspondances sont exactes.",
+    "source": {
+      "page": 3,
+      "extrait": "antimoine (Sb) stiba"
+    },
+    "difficulte": 2,
+    "tags": [
+      "préfixes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/qcm-008",
+    "type": "unique",
+    "enonce": "Le préfixe « stiba » désigne :",
+    "options": [
+      "Le sélénium",
+      "L'arsenic",
+      "L'antimoine",
+      "Le soufre",
+      "L'étain"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Stiba correspond à l'antimoine (Sb) dans le Tableau 1.",
+    "source": {
+      "page": 3,
+      "extrait": "antimoine (Sb) stiba"
+    },
+    "difficulte": 2,
+    "tags": [
+      "préfixes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/qcm-009",
+    "type": "unique",
+    "enonce": "Le préfixe « selena » désigne :",
+    "options": [
+      "Le soufre",
+      "Le sélénium",
+      "Le silicium",
+      "L'arsenic",
+      "L'antimoine"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Selena = sélénium (Se) ; le soufre est désigné par thia.",
+    "source": {
+      "page": 3,
+      "extrait": "sélénium (Se) selena"
+    },
+    "difficulte": 1,
+    "tags": [
+      "préfixes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/qcm-010",
+    "type": "unique",
+    "enonce": "Le radical qui indique un hétérocycle à 5 chaînons est :",
+    "options": [
+      "-ir-",
+      "-et-",
+      "-ol-",
+      "-in-",
+      "-ep-"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "3 = -ir-, 4 = -et-, 5 = -ol-, 6 = -in-, 7 = -ep-, 8 = -oc-, 9 = -on-.",
+    "source": {
+      "page": 4,
+      "extrait": "5 -ol-"
+    },
+    "difficulte": 1,
+    "tags": [
+      "radicaux"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/qcm-011",
+    "type": "multiple",
+    "enonce": "Concernant les radicaux indiquant la taille de l'hétérocycle :",
+    "options": [
+      "3 chaînons : -ir-",
+      "4 chaînons : -et-",
+      "6 chaînons : -in-",
+      "7 chaînons : -oc-",
+      "9 chaînons : -on-"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explication": "7 chaînons correspond à -ep- ; -oc- correspond à 8 chaînons.",
+    "source": {
+      "page": 4,
+      "extrait": "7 -ep- 8 -oc- 9 -on-"
+    },
+    "difficulte": 2,
+    "tags": [
+      "radicaux"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/qcm-012",
+    "type": "unique",
+    "enonce": "Le radical « -ep- » correspond à un cycle de :",
+    "options": [
+      "5 chaînons",
+      "6 chaînons",
+      "7 chaînons",
+      "8 chaînons",
+      "9 chaînons"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "-ep- = 7 chaînons (cf. azépine, diazépine).",
+    "source": {
+      "page": 4,
+      "extrait": "7 -ep-"
+    },
+    "difficulte": 1,
+    "tags": [
+      "radicaux"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/qcm-013",
+    "type": "unique",
+    "enonce": "Le radical « -oc- » correspond à un cycle de :",
+    "options": [
+      "4 chaînons",
+      "6 chaînons",
+      "7 chaînons",
+      "8 chaînons",
+      "9 chaînons"
+    ],
+    "correctes": [
+      3
+    ],
+    "explication": "-oc- = 8 chaînons.",
+    "source": {
+      "page": 4,
+      "extrait": "8 -oc-"
+    },
+    "difficulte": 2,
+    "tags": [
+      "radicaux"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/qcm-014",
+    "type": "unique",
+    "enonce": "Selon Widman-Hantzsch, le suffixe d'un cycle azoté à 5 chaînons saturé est :",
+    "options": [
+      "-ole",
+      "-olidine",
+      "-olane",
+      "-inane",
+      "-étidine"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Cycle azoté à 5 chaînons : insaturé -ole, saturé -olidine. -olane est le suffixe saturé non azoté.",
+    "source": {
+      "page": 5,
+      "extrait": "5 -ole -olidine -ole -olane"
+    },
+    "difficulte": 2,
+    "tags": [
+      "Widman-Hantzsch"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/qcm-015",
+    "type": "unique",
+    "enonce": "Selon Widman-Hantzsch, le suffixe d'un cycle non azoté à 5 chaînons saturé est :",
+    "options": [
+      "-ole",
+      "-olidine",
+      "-olane",
+      "-ane",
+      "-irane"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Non azoté à 5 chaînons : insaturé -ole, saturé -olane.",
+    "source": {
+      "page": 5,
+      "extrait": "5 -ole -olidine -ole -olane"
+    },
+    "difficulte": 2,
+    "tags": [
+      "Widman-Hantzsch"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/qcm-016",
+    "type": "multiple",
+    "enonce": "Concernant les suffixes de Widman-Hantzsch (Tableau 2) :",
+    "options": [
+      "Cycle azoté à 3 chaînons insaturé : -irine",
+      "Cycle azoté à 3 chaînons saturé : -iridine",
+      "Cycle non azoté à 3 chaînons insaturé : -irène",
+      "Cycle non azoté à 3 chaînons saturé : -irane",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Les quatre suffixes à 3 chaînons sont exacts : -irine/-iridine (azotés), -irène/-irane (non azotés).",
+    "source": {
+      "page": 5,
+      "extrait": "3 -irine -iridine -irène -irane"
+    },
+    "difficulte": 2,
+    "tags": [
+      "Widman-Hantzsch"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/qcm-017",
+    "type": "multiple",
+    "enonce": "Concernant les suffixes de Widman-Hantzsch pour un cycle à 6 chaînons :",
+    "options": [
+      "Azoté insaturé : -ine",
+      "Azoté saturé : -inane",
+      "Non azoté insaturé : -ine",
+      "Non azoté saturé : -ane",
+      "Azoté saturé : -idine"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "6 chaînons : azoté -ine/-inane ; non azoté -ine/-ane. -idine n'apparaît pas pour 6 chaînons.",
+    "source": {
+      "page": 5,
+      "extrait": "6 -ine -inane -ine -ane"
+    },
+    "difficulte": 2,
+    "tags": [
+      "Widman-Hantzsch"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/qcm-018",
+    "type": "multiple",
+    "enonce": "Concernant les suffixes de Widman-Hantzsch pour les cycles à 4 chaînons :",
+    "options": [
+      "Azoté insaturé : -éte",
+      "Azoté saturé : -étidine",
+      "Non azoté insaturé : -ète",
+      "Non azoté saturé : -étane",
+      "Azoté saturé : -étane"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "4 chaînons : azoté -éte / -étidine ; non azoté -ète / -étane. -étane est réservé aux cycles non azotés.",
+    "source": {
+      "page": 5,
+      "extrait": "4 -éte -étidine -ète -étane"
+    },
+    "difficulte": 3,
+    "tags": [
+      "Widman-Hantzsch"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/qcm-019",
+    "type": "multiple",
+    "enonce": "Pour les cycles à 7 et 8 chaînons, selon le Tableau 2 :",
+    "options": [
+      "7 chaînons insaturé : -épine",
+      "7 chaînons saturé : -épane",
+      "8 chaînons insaturé : -ocine",
+      "8 chaînons saturé : -ocane",
+      "Les suffixes diffèrent entre cycles azotés et non azotés"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Pour 7 et 8 chaînons, les suffixes sont identiques pour les cycles azotés et non azotés (-épine/-épane, -ocine/-ocane).",
+    "source": {
+      "page": 5,
+      "extrait": "7 -épine -épane -épine -épane"
+    },
+    "difficulte": 3,
+    "tags": [
+      "Widman-Hantzsch"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/qcm-020",
+    "type": "multiple",
+    "enonce": "Associez correctement nom et structure (Widman-Hantzsch) :",
+    "options": [
+      "Oxa + irane = oxirane",
+      "Thia + irane = thiirane",
+      "Aza + iridine = aziridine",
+      "Aza + etidine = azétidine",
+      "Oxa + etane = oxirane"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Oxa + étane = oxétane (4 chaînons), pas oxirane (3 chaînons).",
+    "source": {
+      "page": 5,
+      "extrait": "Oxa+etane=Oxetane"
+    },
+    "difficulte": 1,
+    "tags": [
+      "exemples"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/qcm-021",
+    "type": "unique",
+    "enonce": "L'azolidine correspond à :",
+    "options": [
+      "Un cycle azoté saturé à 4 chaînons",
+      "Un cycle azoté saturé à 5 chaînons",
+      "Un cycle azoté insaturé à 5 chaînons",
+      "Un cycle oxygéné saturé à 5 chaînons",
+      "Un cycle azoté saturé à 3 chaînons"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Aza + olidine = azolidine : cycle à 5 chaînons saturé contenant un azote (pyrrolidine).",
+    "source": {
+      "page": 5,
+      "extrait": "Aza+olidine= Azolidine"
+    },
+    "difficulte": 2,
+    "tags": [
+      "exemples"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/qcm-022",
+    "type": "unique",
+    "enonce": "L'oxolane est :",
+    "options": [
+      "Un cycle oxygéné saturé à 5 chaînons",
+      "Un cycle oxygéné insaturé à 5 chaînons",
+      "Un cycle oxygéné saturé à 4 chaînons",
+      "Un cycle soufré saturé à 5 chaînons",
+      "Un cycle azoté saturé à 5 chaînons"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Oxa + olane = oxolane : oxygène, 5 chaînons, saturé.",
+    "source": {
+      "page": 5,
+      "extrait": "Oxa+olane= Oxolane"
+    },
+    "difficulte": 1,
+    "tags": [
+      "exemples"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/qcm-023",
+    "type": "multiple",
+    "enonce": "Concernant les noms de Widman-Hantzsch des hétérocycles aromatiques à 5 chaînons :",
+    "options": [
+      "Le furane correspond à l'oxole",
+      "Le thiophène correspond au thiole",
+      "Le pyrrole correspond à l'azole",
+      "Le furane correspond au thiole",
+      "Le pyrrole correspond à l'oxole"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Exemples du cours : oxole (furane), thiole (thiophène), azole (pyrrole).",
+    "source": {
+      "page": 6,
+      "extrait": "Oxole thiole azole"
+    },
+    "difficulte": 2,
+    "tags": [
+      "exemples"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/qcm-024",
+    "type": "multiple",
+    "enonce": "Le thiétane est :",
+    "options": [
+      "Un cycle à 4 chaînons",
+      "Un cycle soufré",
+      "Un cycle saturé",
+      "Un cycle azoté",
+      "Un cycle à 3 chaînons"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Thia + étane = thiétane : soufre, 4 chaînons, saturé (non azoté).",
+    "source": {
+      "page": 5,
+      "extrait": "Thia+etane= Thietane"
+    },
+    "difficulte": 1,
+    "tags": [
+      "exemples"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/qcm-025",
+    "type": "multiple",
+    "enonce": "La nomenclature triviale :",
+    "options": [
+      "Est consacrée à l'usage",
+      "Est utilisée pour les hétérocycles les plus courants",
+      "Concerne par exemple thiophène, pyrrole et furane",
+      "Remplace totalement les conventions de l'IUPAC",
+      "Est réservée aux hétérocycles saturés"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "La nomenclature triviale, consacrée à l'usage, s'applique aux hétérocycles les plus courants (thiophène, pyrrole, furane…). Elle coexiste avec les conventions IUPAC.",
+    "source": {
+      "page": 6,
+      "extrait": "Est utilisée pour les hétérocycles les plus courants : thiophène, pyrrole, furane"
+    },
+    "difficulte": 1,
+    "tags": [
+      "nomenclature triviale"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/qcm-026",
+    "type": "unique",
+    "enonce": "La pyrimidine correspond à :",
+    "options": [
+      "La 1,2-diazine",
+      "La 1,3-diazine",
+      "La 1,4-diazine",
+      "Le 1,3-diazole",
+      "Le 1,2-diazole"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "1,2-diazine = pyridazine ; 1,3-diazine = pyrimidine ; 1,4-diazine = pyrazine.",
+    "source": {
+      "page": 8,
+      "extrait": "1,3 diazine pyrimidine"
+    },
+    "difficulte": 1,
+    "tags": [
+      "noms triviaux"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/qcm-027",
+    "type": "unique",
+    "enonce": "La pyrazine correspond à :",
+    "options": [
+      "La 1,2-diazine",
+      "La 1,3-diazine",
+      "La 1,4-diazine",
+      "Le 1,2-diazole",
+      "La 1,4-thiazine"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Pyrazine = 1,4-diazine.",
+    "source": {
+      "page": 8,
+      "extrait": "1,4 diazine pyrazine"
+    },
+    "difficulte": 1,
+    "tags": [
+      "noms triviaux"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/qcm-028",
+    "type": "unique",
+    "enonce": "La pyridazine correspond à :",
+    "options": [
+      "La 1,2-diazine",
+      "La 1,3-diazine",
+      "La 1,4-diazine",
+      "Le 1,3-diazole",
+      "La pyrimidine"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Pyridazine = 1,2-diazine.",
+    "source": {
+      "page": 8,
+      "extrait": "1,2 diazine pyridazine"
+    },
+    "difficulte": 1,
+    "tags": [
+      "noms triviaux"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/qcm-029",
+    "type": "multiple",
+    "enonce": "Concernant les diazoles :",
+    "options": [
+      "Le pyrazole est le 1,2-diazole",
+      "L'imidazole est le 1,3-diazole",
+      "Le pyrazole est le 1,3-diazole",
+      "L'imidazole est un cycle à 5 chaînons",
+      "Le pyrazole est un cycle à 6 chaînons"
+    ],
+    "correctes": [
+      0,
+      1,
+      3
+    ],
+    "explication": "Pyrazole = 1,2-diazole, imidazole = 1,3-diazole ; ce sont des cycles à 5 chaînons (suffixe -ole).",
+    "source": {
+      "page": 8,
+      "extrait": "1,2 diazole pyrazole 1,3 diazole imidazole"
+    },
+    "difficulte": 1,
+    "tags": [
+      "noms triviaux"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/qcm-030",
+    "type": "unique",
+    "enonce": "Le terme « diazine » indique :",
+    "options": [
+      "Deux azotes dans un cycle à 6 chaînons insaturé",
+      "Deux azotes dans un cycle à 5 chaînons insaturé",
+      "Deux azotes dans un cycle à 6 chaînons saturé",
+      "Un azote dans un cycle à 6 chaînons",
+      "Deux azotes dans un cycle à 7 chaînons"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Di (2) + aza + ine (6 chaînons, azoté insaturé) = deux azotes dans un cycle à 6 chaînons insaturé.",
+    "source": {
+      "page": 8,
+      "extrait": "1,2 diazine pyridazine"
+    },
+    "difficulte": 2,
+    "tags": [
+      "nomenclature"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/qcm-031",
+    "type": "multiple",
+    "enonce": "Numérotation des hétérocycles monocycliques :",
+    "options": [
+      "Avec un seul hétéroatome, celui-ci reçoit le numéro 1",
+      "Avec plusieurs hétéroatomes de même nature, on applique la règle des plus petits indices aux hétéroatomes",
+      "Avec plusieurs hétéroatomes de même nature, les plus petits indices sont d'abord attribués aux substituants",
+      "Les substituants sont numérotés après les hétéroatomes",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      0,
+      1,
+      3
+    ],
+    "explication": "Avec un seul hétéroatome, il porte le n° 1 (ex. 2,4-diméthylpyrrolidine). Pour plusieurs hétéroatomes de même nature : plus petits indices pour les hétéroatomes, puis pour les substituants.",
+    "source": {
+      "page": 7,
+      "extrait": "règle des plus petits indices pour les hétéroatomes, puis pour les substituants"
+    },
+    "difficulte": 2,
+    "tags": [
+      "numérotation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/qcm-032",
+    "type": "unique",
+    "enonce": "Dans le cas de plusieurs hétéroatomes différents, l'ordre de priorité pour la nomination est :",
+    "options": [
+      "N > O > S",
+      "O > S > -N > =N-",
+      "S > O > N",
+      "O > N > S",
+      "=N- > -N > S > O"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "On nomme l'oxygène avant le soufre, lui-même avant l'azote (oxa puis thia puis aza) : O > S > -N > =N-.",
+    "source": {
+      "page": 8,
+      "extrait": "O > S > -N > =N -"
+    },
+    "difficulte": 1,
+    "tags": [
+      "priorité"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/qcm-033",
+    "type": "multiple",
+    "enonce": "Concernant les hétérocycles à hétéroatomes différents :",
+    "options": [
+      "On nomme l'oxygène avant le soufre",
+      "On nomme le soufre avant l'azote",
+      "L'oxazole cité dans le cours est le 1,2-oxazole",
+      "Le thiazole cité dans le cours est le 1,3-thiazole",
+      "On nomme l'azote avant l'oxygène"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Ordre oxa > thia > aza ; exemples du cours : 1,2-oxazole et 1,3-thiazole.",
+    "source": {
+      "page": 8,
+      "extrait": "1,2 oxazole 1,3 thiazole"
+    },
+    "difficulte": 2,
+    "tags": [
+      "priorité"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/qcm-034",
+    "type": "multiple",
+    "enonce": "Dans le 1,3-thiazole :",
+    "options": [
+      "Le soufre porte le numéro 1",
+      "L'azote porte le numéro 3",
+      "Le cycle comporte 5 chaînons",
+      "L'azote porte le numéro 1",
+      "Le cycle est saturé"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Le soufre, prioritaire sur l'azote, porte le n° 1 et l'azote le n° 3 ; suffixe -ole = 5 chaînons insaturé.",
+    "source": {
+      "page": 8,
+      "extrait": "1,3 thiazole"
+    },
+    "difficulte": 2,
+    "tags": [
+      "numérotation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/qcm-035",
+    "type": "multiple",
+    "enonce": "Concernant les exemples 1,4-thiazine, 1,2-oxazépine et 1,3-oxazolidine :",
+    "options": [
+      "La 1,4-thiazine est un cycle à 6 chaînons",
+      "La 1,2-oxazépine est un cycle à 7 chaînons",
+      "La 1,3-oxazolidine est un cycle saturé à 5 chaînons",
+      "Dans la 1,4-thiazine, l'azote porte le numéro 1",
+      "Dans la 1,2-oxazépine, l'oxygène porte le numéro 1"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explication": "Dans la 1,4-thiazine, le soufre (prioritaire) porte le n° 1 et l'azote le n° 4.",
+    "source": {
+      "page": 9,
+      "extrait": "1,4 thiazine 1,2 oxazépine 1,3 oxazolidine"
+    },
+    "difficulte": 2,
+    "tags": [
+      "exemples"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/qcm-036",
+    "type": "multiple",
+    "enonce": "Nomenclature des hétérocycles partiellement saturés :",
+    "options": [
+      "On part du nom de l'insaturé au maximum",
+      "On ajoute le préfixe « hydro »",
+      "La 1H-1,4-diazépine comporte deux N en positions 1 et 4 et 7 sommets",
+      "La 2,3-dihydro-1H-1,4-diazépine dérive de la 1H-1,4-diazépine",
+      "On ajoute le suffixe « -idine » au nom de l'insaturé"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Partiellement saturé : nom de l'insaturé au maximum + « hydro » (ex. 2,3-dihydro-1H-1,4-diazépine).",
+    "source": {
+      "page": 9,
+      "extrait": "Partiellement saturé : A partir du nom de l'insaturé au maximum + « hydro »"
+    },
+    "difficulte": 2,
+    "tags": [
+      "partiellement saturé"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/qcm-037",
+    "type": "unique",
+    "enonce": "La 1H-1,4-diazépine est :",
+    "options": [
+      "Un cycle à 6 chaînons avec deux N en 1,4",
+      "Un cycle à 7 chaînons avec deux N en 1,4, insaturé au maximum",
+      "Un cycle à 7 chaînons saturé",
+      "Un cycle à 7 chaînons avec deux N en 1,3",
+      "Un cycle bicyclique"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Deux N en 1,4 ; 7 sommets ; insaturé au maximum.",
+    "source": {
+      "page": 9,
+      "extrait": "Deux N en 1,4; 7 sommets; insaturé au maximum"
+    },
+    "difficulte": 1,
+    "tags": [
+      "partiellement saturé"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/qcm-038",
+    "type": "multiple",
+    "enonce": "Hétérocycle fixé à un benzène :",
+    "options": [
+      "L'hétérocycle est toujours pris comme élément fondamental",
+      "Le benzène est pris comme substituant",
+      "Le benzène est désigné par le préfixe benzo-",
+      "Le benzène est toujours l'élément fondamental",
+      "Le benzène est désigné par le suffixe -benzène"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Pour un hétérocycle fixé à un benzène, l'hétérocycle est l'élément fondamental et le benzène un substituant (préfixe benzo-).",
+    "source": {
+      "page": 10,
+      "extrait": "H.C est toujours pris comme élément fondamental"
+    },
+    "difficulte": 1,
+    "tags": [
+      "bicycliques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/qcm-039",
+    "type": "multiple",
+    "enonce": "Exemples d'hétérocycles benzo-condensés cités dans le cours :",
+    "options": [
+      "Benzofurane",
+      "Benzothiophène",
+      "Benzopyrrole",
+      "Benzodiazépine",
+      "Dibenzoazépine"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Tous sont cités : benzofurane, benzothiophène, benzopyrrole, benzodiazépine et dibenzoazépine.",
+    "source": {
+      "page": 11,
+      "extrait": "Benzodiazépine Dibenzoazépine"
+    },
+    "difficulte": 1,
+    "tags": [
+      "bicycliques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/qcm-040",
+    "type": "multiple",
+    "enonce": "Hétérocycle fixé à un autre hétérocycle comportant chacun un hétéroatome différent :",
+    "options": [
+      "L'azote est prioritaire sur l'oxygène",
+      "L'oxygène est prioritaire sur le soufre",
+      "Le soufre est prioritaire sur l'azote",
+      "L'hétérocycle prioritaire est l'élément fondamental",
+      "L'oxygène est prioritaire sur l'azote"
+    ],
+    "correctes": [
+      0,
+      1,
+      3
+    ],
+    "explication": "Pour choisir l'hétérocycle fondamental : priorité N > O > S. Attention, c'est l'inverse de l'ordre de nomination des hétéroatomes dans un monocycle (O > S > N).",
+    "source": {
+      "page": 11,
+      "extrait": "priorité de l'azote sur l'oxygène lui-même étant prioritaire sur le soufre"
+    },
+    "difficulte": 3,
+    "tags": [
+      "bicycliques",
+      "priorité"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/qcm-041",
+    "type": "multiple",
+    "enonce": "Concernant les préfixes des hétérocycles substituants :",
+    "options": [
+      "Pyrrole → pyrrolo",
+      "Furane → furo",
+      "Thiophène → thiéno",
+      "Imidazole → imidazolo",
+      "Pyridine → pyrido"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Toutes ces correspondances figurent dans le tableau du cours (ainsi que azolo, oxolo, thiolo, diazolo, azino).",
+    "source": {
+      "page": 11,
+      "extrait": "Pyrrole Pyrrolo Furane Furo Thiophène Thiéno"
+    },
+    "difficulte": 1,
+    "tags": [
+      "préfixes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/qcm-042",
+    "type": "multiple",
+    "enonce": "Dans le « furopyrrole » :",
+    "options": [
+      "Le pyrrole est l'hétérocycle fondamental",
+      "Le furane est le substituant",
+      "Le furane est l'hétérocycle fondamental",
+      "L'azote est prioritaire sur l'oxygène",
+      "Le préfixe du furane est « furo »"
+    ],
+    "correctes": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "explication": "Le pyrrole (N) est prioritaire sur le furane (O) : il est fondamental et le furane devient le préfixe furo-.",
+    "source": {
+      "page": 12,
+      "extrait": "furopyrrole"
+    },
+    "difficulte": 2,
+    "tags": [
+      "bicycliques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/qcm-043",
+    "type": "unique",
+    "enonce": "Dans le « thiénofurane », l'hétérocycle fondamental est :",
+    "options": [
+      "Le thiophène",
+      "Le furane",
+      "Le pyrrole",
+      "Le benzène",
+      "Aucun, ils sont équivalents"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "L'oxygène est prioritaire sur le soufre : le furane est fondamental, le thiophène est le substituant (thiéno-).",
+    "source": {
+      "page": 12,
+      "extrait": "thiénofurane"
+    },
+    "difficulte": 2,
+    "tags": [
+      "bicycliques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/qcm-044",
+    "type": "multiple",
+    "enonce": "Si les deux hétérocycles accolés contiennent le même hétéroatome :",
+    "options": [
+      "On prend le plus grand hétérocycle comme prioritaire",
+      "Exemple : pyrrolopyridine",
+      "Dans la pyrrolopyridine, la pyridine est fondamentale",
+      "On prend le plus petit hétérocycle comme prioritaire",
+      "Dans la pyrrolopyridine, le pyrrole est fondamental"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Même hétéroatome : le plus grand cycle est prioritaire. La pyridine (6) est fondamentale, le pyrrole (5) est le substituant pyrrolo-.",
+    "source": {
+      "page": 12,
+      "extrait": "on prend le plus grand hétérocycle comme prioritaire"
+    },
+    "difficulte": 2,
+    "tags": [
+      "bicycliques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/qcm-045",
+    "type": "multiple",
+    "enonce": "Mode de jonction de deux hétérocycles :",
+    "options": [
+      "Les côtés de l'hétérocycle prioritaire sont repérés par des lettres (a, b, c…)",
+      "Les côtés de l'hétérocycle substituant sont repérés par deux chiffres",
+      "Les lettres suivent la progression de la numérotation normale de l'hétérocycle prioritaire pris isolément",
+      "Les côtés de l'hétérocycle prioritaire sont repérés par des chiffres",
+      "Les côtés du substituant sont repérés par des lettres"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Prioritaire → lettres ; substituant → deux chiffres correspondant à sa numérotation propre.",
+    "source": {
+      "page": 12,
+      "extrait": "Les côtés de l'hétérocycle substituant seront repérés par 2 chiffres"
+    },
+    "difficulte": 2,
+    "tags": [
+      "jonction"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/qcm-046",
+    "type": "multiple",
+    "enonce": "Dans le nom « Furo(2,3-b)pyrrole » :",
+    "options": [
+      "« b » désigne le côté du pyrrole impliqué dans la jonction",
+      "« 2,3 » désigne les atomes du furane impliqués",
+      "Le pyrrole est l'hétérocycle prioritaire",
+      "« 2,3 » désigne les atomes du pyrrole",
+      "Le furane est l'hétérocycle prioritaire"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "La lettre se rapporte à l'hétérocycle prioritaire (pyrrole), les chiffres au substituant (furane).",
+    "source": {
+      "page": 12,
+      "extrait": "Furo(2,3-b) pyrrole"
+    },
+    "difficulte": 3,
+    "tags": [
+      "jonction"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/qcm-047",
+    "type": "unique",
+    "enonce": "Le nom correct du thiophène accolé au furane présenté dans le cours est :",
+    "options": [
+      "Furo(2,3-b)thiophène",
+      "Thiéno(2,3-b)furane",
+      "Thiéno(3,4-c)furane",
+      "Furo(3,2-b)thiophène",
+      "Thiolo(2,3-a)oxole"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Le furane (O) est prioritaire : on obtient le Thiéno(2,3-b)furane.",
+    "source": {
+      "page": 12,
+      "extrait": "Thiéno( 2,3-b) furane"
+    },
+    "difficulte": 2,
+    "tags": [
+      "jonction"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/qcm-048",
+    "type": "multiple",
+    "enonce": "Concernant les benzo-hétérocycles et leur jonction :",
+    "options": [
+      "La quinoléine correspond à la benzo(b)pyridine",
+      "L'isoquinoléine correspond à la benzo(c)pyridine",
+      "Le benzo[b]furanne et le benzo[c]furanne diffèrent par le côté de jonction",
+      "La quinoléine correspond à la benzo(c)pyridine",
+      "Le benzo[c]furanne est le benzofurane classique avec O adjacent à la jonction"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Benzo(b)pyridine = quinoléine ; benzo(c)pyridine = isoquinoléine. Dans le benzo[b]furanne l'oxygène est adjacent à la jonction, pas dans le benzo[c]furanne.",
+    "source": {
+      "page": 13,
+      "extrait": "Benzo (b) pyridine Benzo (c) pyridine"
+    },
+    "difficulte": 3,
+    "tags": [
+      "jonction"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/qcm-049",
+    "type": "multiple",
+    "enonce": "Règles de numérotation des hétérocycles accolés :",
+    "options": [
+      "Position 1 pour un atome adjacent à un atome de jonction, appartenant à un des cycles externes",
+      "On poursuit la numérotation en s'éloignant de l'atome de jonction",
+      "Les carbones de jonction n'ont pas de numéro propre (n° précédent + a)",
+      "On attribue le plus petit indice possible aux hétéroatomes",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Les quatre règles sont exactes ; en cas d'égalité, on donne le plus petit indice aux hétéroatomes prioritaires O > S > -NH > -N=.",
+    "source": {
+      "page": 13,
+      "extrait": "Les carbones de jonction n'ont pas de numéro propre (N° précédent +a)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "numérotation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/qcm-050",
+    "type": "unique",
+    "enonce": "Si plusieurs chemins de numérotation restent possibles pour un bicycle, on attribue le plus petit indice à l'hétéroatome prioritaire selon l'ordre :",
+    "options": [
+      "-N= > -NH > S > O",
+      "O > S > -NH > -N=",
+      "N > O > S",
+      "S > O > -NH > -N=",
+      "-NH > O > S > -N="
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Règle 4 : O > S > -NH > -N=.",
+    "source": {
+      "page": 13,
+      "extrait": "attribuer le plus petit indice aux hétéroatomes prioritaires : O > S > -NH > -N="
+    },
+    "difficulte": 2,
+    "tags": [
+      "numérotation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/qcm-051",
+    "type": "multiple",
+    "enonce": "Dans le 1H-indole :",
+    "options": [
+      "L'azote porte le numéro 1",
+      "Les carbones de jonction sont numérotés 3a et 7a",
+      "Il correspond au benzopyrrole",
+      "L'azote porte le numéro 3",
+      "Il comporte deux azotes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Indole : N1, carbones de jonction 3a et 7a ; c'est le benzopyrrole (un seul azote).",
+    "source": {
+      "page": 14,
+      "extrait": "1H-indole"
+    },
+    "difficulte": 2,
+    "tags": [
+      "noms triviaux"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/qcm-052",
+    "type": "multiple",
+    "enonce": "Concernant les noms triviaux des bicycles :",
+    "options": [
+      "Le 1H-benzimidazole possède deux azotes en positions 1 et 3",
+      "La purine possède une numérotation triviale",
+      "La quinoléine possède l'azote en position 1",
+      "L'isoquinoléine possède l'azote en position 2",
+      "La quinoléine possède l'azote en position 2"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Quinoléine : N1 ; isoquinoléine : N2 ; benzimidazole : N1 et N3 ; purine : numérotation triviale.",
+    "source": {
+      "page": 14,
+      "extrait": "purine numérotation triviale"
+    },
+    "difficulte": 2,
+    "tags": [
+      "noms triviaux"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/qcm-053",
+    "type": "multiple",
+    "enonce": "La purine :",
+    "options": [
+      "Est un hétérocycle bicyclique",
+      "Possède une numérotation triviale",
+      "Contient quatre atomes d'azote",
+      "Est un monocycle",
+      "Est un hétérocycle oxygéné"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "La purine est un bicycle azoté (N1, N3, N7, N9) à numérotation triviale.",
+    "source": {
+      "page": 14,
+      "extrait": "purine numérotation triviale"
+    },
+    "difficulte": 2,
+    "tags": [
+      "noms triviaux"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/qcm-054",
+    "type": "multiple",
+    "enonce": "Concernant les aziridines :",
+    "options": [
+      "Ce sont des cycles à trois chaînons",
+      "Leurs dérivés sont d'excellents agents alkylants de l'ADN",
+      "La mitomycine C en est un exemple",
+      "Ce sont des cycles oxygénés",
+      "Ce sont des cycles à quatre chaînons"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "L'aziridine est un cycle azoté à 3 chaînons ; ses dérivés (ex. mitomycine C) sont d'excellents agents alkylants de l'ADN.",
+    "source": {
+      "page": 15,
+      "extrait": "Les dérivés des aziridines sont d'excellents agents alkylants d'ADN"
+    },
+    "difficulte": 1,
+    "tags": [
+      "usage thérapeutique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/qcm-055",
+    "type": "unique",
+    "enonce": "La mitomycine C est citée comme exemple de dérivé :",
+    "options": [
+      "De l'oxirane",
+      "De l'aziridine",
+      "De l'azétidine",
+      "Du furane",
+      "De la benzodiazépine"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "La mitomycine C illustre les dérivés des aziridines (cycles à trois chaînons), agents alkylants de l'ADN.",
+    "source": {
+      "page": 15,
+      "extrait": "Exemple : Mitomycine C"
+    },
+    "difficulte": 1,
+    "tags": [
+      "usage thérapeutique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/qcm-056",
+    "type": "multiple",
+    "enonce": "La furadantine :",
+    "options": [
+      "Est un antibactérien",
+      "Est utilisée contre les infections urinaires",
+      "Contient un cycle furane",
+      "Est citée comme exemple de cycle à cinq chaînons",
+      "Est un agent alkylant de l'ADN"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "La furadantine (cycles à cinq chaînons) est un antibactérien utilisé contre les infections urinaires ; sa structure comporte un furane nitré. Les agents alkylants cités sont les dérivés des aziridines.",
+    "source": {
+      "page": 15,
+      "extrait": "Furadantine : antibactérien, utilisé contre les infections urinaires"
+    },
+    "difficulte": 1,
+    "tags": [
+      "usage thérapeutique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/qcm-057",
+    "type": "unique",
+    "enonce": "L'acide ascorbique (vitamine C) est cité dans le cours comme exemple de :",
+    "options": [
+      "Cycle à trois chaînons",
+      "Cycle à cinq chaînons",
+      "Cycle à six chaînons",
+      "Cycle à sept chaînons",
+      "Bicycle azoté"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "L'acide ascorbique figure parmi les cycles à cinq chaînons (lactone à 5 chaînons).",
+    "source": {
+      "page": 15,
+      "extrait": "acide ascorbique ou vitamine C"
+    },
+    "difficulte": 1,
+    "tags": [
+      "usage thérapeutique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/qcm-058",
+    "type": "multiple",
+    "enonce": "Concernant les cycles à sept chaînons :",
+    "options": [
+      "Les plus intéressants actuellement sont les dérivés de la benzodiazépine",
+      "Les benzodiazépines sont anxiolytiques",
+      "Les benzodiazépines sont hypnotiques",
+      "Les benzodiazépines sont anticonvulsivants",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Les benzodiazépines (cycles à sept chaînons) sont anxiolytiques, hypnotiques et anticonvulsivants.",
+    "source": {
+      "page": 16,
+      "extrait": "Les benzodiazépines étant anxiolytiques, hypnotiques, anticonvulsivants"
+    },
+    "difficulte": 1,
+    "tags": [
+      "usage thérapeutique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/qcm-059",
+    "type": "multiple",
+    "enonce": "Dans la 1H-1,4-benzodiazépine :",
+    "options": [
+      "Les deux azotes sont en positions 1 et 4",
+      "Le cycle diazépine compte 7 chaînons",
+      "Le benzène est accolé au cycle diazépine",
+      "Les deux azotes sont en positions 1 et 3",
+      "C'est un cycle à 6 chaînons"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "1,4-benzodiazépine : diazépine à 7 chaînons (N1, N4) accolée à un benzène.",
+    "source": {
+      "page": 16,
+      "extrait": "1,H-1,4- benzodazépine"
+    },
+    "difficulte": 1,
+    "tags": [
+      "benzodiazépine"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/qcm-060",
+    "type": "multiple",
+    "enonce": "Associez chaque hétérocycle à sa taille :",
+    "options": [
+      "Aziridine : 3 chaînons",
+      "Azétidine : 4 chaînons",
+      "Pyrrole : 5 chaînons",
+      "Pyridine : 6 chaînons",
+      "Diazépine : 6 chaînons"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "La diazépine compte 7 chaînons (suffixe -épine).",
+    "source": {
+      "page": 5,
+      "extrait": "Aza+etidine= Azetidine"
+    },
+    "difficulte": 1,
+    "tags": [
+      "taille"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/qcm-061",
+    "type": "multiple",
+    "enonce": "Parmi les hétérocycles suivants, lesquels sont saturés ?",
+    "options": [
+      "Pipéridine",
+      "Pipérazine",
+      "Pyrrolidine",
+      "Pyridine",
+      "Pyrimidine"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Pipéridine, pipérazine et pyrrolidine sont saturées ; pyridine et pyrimidine sont insaturées (aromatiques).",
+    "source": {
+      "page": 7,
+      "extrait": "Les hétérocycles les plus courants sont indiqués par des noms triviaux"
+    },
+    "difficulte": 2,
+    "tags": [
+      "noms triviaux"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/qcm-062",
+    "type": "multiple",
+    "enonce": "La dibenzoazépine :",
+    "options": [
+      "Comporte un cycle azépine à 7 chaînons",
+      "Comporte deux noyaux benzéniques accolés",
+      "Contient un seul atome d'azote",
+      "Contient deux atomes d'azote",
+      "Est un cycle à 6 chaînons"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Di-benzo-aza-épine : deux benzènes accolés à un cycle à 7 chaînons contenant un azote.",
+    "source": {
+      "page": 11,
+      "extrait": "Dibenzoazépine"
+    },
+    "difficulte": 2,
+    "tags": [
+      "bicycliques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/qcm-063",
+    "type": "multiple",
+    "enonce": "Concernant le préfixe multiplicatif « di » dans « diazine » ou « diazole » :",
+    "options": [
+      "Il indique le nombre d'hétéroatomes identiques",
+      "Il fait partie du préfixe qui renseigne sur la nature et le nombre d'hétéroatomes",
+      "Il indique la taille du cycle",
+      "Il indique le degré d'insaturation",
+      "Il indique la présence de deux cycles accolés"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Le préfixe indique la nature ET le nombre d'hétéroatomes ; « di » renseigne sur le nombre. La taille est donnée par la racine, l'insaturation par le suffixe.",
+    "source": {
+      "page": 3,
+      "extrait": "Nature et nombre d'hétéroatomes"
+    },
+    "difficulte": 3,
+    "tags": [
+      "nomenclature"
+    ],
+    "origine": "genere"
+  }
+]

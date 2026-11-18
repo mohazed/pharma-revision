@@ -1,0 +1,13 @@
+{
+  "id": "pharmacie-galenique/11-sterilisation-partie-1",
+  "module": "pharmacie-galenique",
+  "ordre": 11,
+  "titre": "Stérilisation – Partie 1 : principe et stérilisation par la chaleur",
+  "source": {
+    "driveId": "14P1T5Omg-8Kmgc_fQTXtWz-sj8Uz0N6l",
+    "fichier": "11.1 Sterilisation - Partie 1.pdf",
+    "modifiedTime": "2026-11-16T13:41:32.550Z"
+  },
+  "resume": "Définitions (stérilisation, stérilité, NAS), produits à stériliser, classification des procédés, cinétique de destruction (D, z, F, F0), chaleur humide (autoclaves, contrôles par capteurs, indicateurs biologiques et chimiques), chaleur sèche et dépyrogénation.",
+  "type": "cours"
+}

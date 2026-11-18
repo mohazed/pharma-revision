@@ -1,0 +1,32 @@
+[
+  {
+    "id": "semiologie/05-hemorragies-digestives/mnemo-001",
+    "titre": "Fausses mélénas",
+    "moyen": "« Fer, Bismuth, Charbon, et le Boudin aux Myrtilles »",
+    "explication": "Fer oral, sels de bismuth, charbon activé, aliments (boudin noir, myrtilles, réglisse noire)."
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/mnemo-002",
+    "titre": "Méléna vrai",
+    "moyen": "« Collant, Luisant, Puant = Méléna »",
+    "explication": "Selles collantes, luisantes et fétides : méléna jusqu'à preuve du contraire."
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/mnemo-003",
+    "titre": "Trois pièges de gravité",
+    "moyen": "« Bêta, Tension, Hémoglobine »",
+    "explication": "Bêtabloquant (pouls normal), tension normale chez l'hypertendu traité, hémoglobine normale au début (baisse après 24–72 h)."
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/mnemo-004",
+    "titre": "Causes hautes",
+    "moyen": "« Un Vrai Malade Œsophagien » : Ulcère, Varices, Mallory-Weiss, Œsophagite",
+    "explication": "Les quatre causes principales d'hémorragie haute."
+  },
+  {
+    "id": "semiologie/05-hemorragies-digestives/mnemo-005",
+    "titre": "Comprimés irritants",
+    "moyen": "« Bis-Doxy-K : Debout, Verre, pas Lit »",
+    "explication": "Bisphosphonates, doxycycline, KCl : debout, grand verre d'eau, ne pas s'allonger."
+  }
+]

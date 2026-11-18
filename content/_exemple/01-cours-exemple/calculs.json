@@ -1,0 +1,10 @@
+[
+  { "id": "_exemple/01-cours-exemple/calcul-001", "titre": "Concentration initiale après bolus IV", "enonce": "On administre {dose} mg d'un médicament en bolus IV. Son volume de distribution est de {vd} L. Calculez la concentration initiale C0.",
+    "variables": { "dose": { "min": 100, "max": 1000, "pas": 50, "unite": "mg" }, "vd": { "min": 10, "max": 50, "pas": 0.5, "unite": "L" } },
+    "formule": "dose / vd", "unite": "mg/L", "decimales": 2,
+    "etapes": ["C0 = Dose / Vd", "C0 = {dose} / {vd}", "C0 = {resultat} mg/L"], "rappel": "Vd = Dose / C0" },
+  { "id": "_exemple/01-cours-exemple/calcul-002", "titre": "Demi-vie d'élimination", "enonce": "La constante d'élimination d'un médicament est ke = {ke} h⁻¹. Calculez sa demi-vie.",
+    "variables": { "ke": { "min": 0.05, "max": 0.5, "pas": 0.01, "unite": "h⁻¹" } },
+    "formule": "0.693 / ke", "unite": "h", "decimales": 2,
+    "etapes": ["t½ = 0,693 / ke", "t½ = 0,693 / {ke}", "t½ = {resultat} h"], "rappel": "t½ = 0,693 / ke" }
+]

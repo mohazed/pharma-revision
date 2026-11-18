@@ -1,0 +1,12 @@
+{
+  "id": "chimie-therapeutique/06-neuroleptiques",
+  "module": "chimie-therapeutique",
+  "ordre": 6,
+  "titre": "Les neuroleptiques",
+  "type": "cours",
+  "source": {
+    "driveId": "1NSuOWmbqcD0CZYUpVGFg2iyKjd5PUayw",
+    "fichier": "5. Les neuroleptiques.pdf"
+  },
+  "resume": "Schizophrénie et théories dopaminergique et sérotoninergique, définition de Delay et Deniker, classification chimique des neuroleptiques (phénothiazines, thioxanthènes, butyrophénones, benzamides, antipsychotiques atypiques), synthèses, RSA, mécanisme d'action, effets indésirables et indications."
+}

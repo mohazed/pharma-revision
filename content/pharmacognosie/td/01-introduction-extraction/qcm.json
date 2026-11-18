@@ -1,0 +1,396 @@
+[
+  {
+    "id": "pharmacognosie/td/01-introduction-extraction/qcm-001",
+    "type": "multiple",
+    "enonce": "Concernant les étapes de découverte d'un nouveau médicament d'origine végétale, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "La découverte commence nécessairement par l'isolement des principes actifs de la plante",
+      "L'identification botanique de la plante constitue une étape importante",
+      "L'étude phytochimique permet de mettre en évidence et d'isoler les constituants chimiques",
+      "L'évaluation biologique permet d'étudier les activités potentielles des extraits ou des molécules isolées",
+      "La mise en évidence d'une activité biologique suffit à garantir l'efficacité clinique du médicament"
+    ],
+    "correctes": [
+      1,
+      2,
+      3
+    ],
+    "explication": "L'identification botanique, l'étude phytochimique et l'évaluation biologique sont des étapes de la découverte. Les termes absolus « nécessairement » et « suffit à garantir » rendent a et e fausses : le pharmacognoste doit d'abord rechercher et identifier la plante, puis déterminer sa valeur thérapeutique.",
+    "source": {
+      "page": 1,
+      "extrait": "L'identification botanique de la plante constitue une étape importante."
+    },
+    "difficulte": 1,
+    "tags": [
+      "découverte"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/td/01-introduction-extraction/qcm-002",
+    "type": "multiple",
+    "enonce": "Concernant la notion de drogue végétale, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Elle correspond exclusivement à une plante entière utilisée à l'état frais",
+      "Elle peut être constituée d'une plante entière ou d'une partie de plante, généralement utilisée après dessiccation",
+      "Elle désigne uniquement les substances chimiques isolées à partir des végétaux",
+      "Elle peut être utilisée entière, fragmentée ou pulvérisée",
+      "Toutes les drogues végétales sont obligatoirement constituées de feuilles"
+    ],
+    "correctes": [
+      1,
+      3
+    ],
+    "explication": "La drogue végétale est un matériel végétal (plante entière, partie de plante, suc) n'ayant subi aucune préparation pharmaceutique, utilisable entière, fragmentée ou pulvérisée (poudres). Ce n'est ni exclusivement la plante fraîche, ni une substance isolée, ni obligatoirement des feuilles.",
+    "source": {
+      "page": 1,
+      "extrait": "Elle peut être constituée d'une plante entière ou d'une partie de plante, généralement utilisée après dessiccation."
+    },
+    "difficulte": 1,
+    "tags": [
+      "drogue végétale"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/td/01-introduction-extraction/qcm-003",
+    "type": "multiple",
+    "enonce": "Concernant les stratégies de découverte de plantes d'intérêt thérapeutique, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "L'approche ethnopharmacologique s'appuie sur les usages traditionnels des plantes",
+      "L'approche chimiotaxonomique repose sur la recherche de constituants chimiques communs chez des espèces apparentées",
+      "Le criblage aléatoire consiste à sélectionner uniquement les plantes déjà utilisées en médecine traditionnelle",
+      "L'approche empirique peut s'appuyer sur l'observation des effets des plantes",
+      "La découverte de substances naturelles actives repose exclusivement sur l'utilisation de plantes toxiques"
+    ],
+    "correctes": [
+      0,
+      1,
+      3
+    ],
+    "explication": "Le criblage (screening) est une recherche systématique, non limitée aux plantes traditionnelles ; aucune approche ne repose exclusivement sur les plantes toxiques.",
+    "source": {
+      "page": 1,
+      "extrait": "L'approche ethnopharmacologique s'appuie sur les usages traditionnels des plantes."
+    },
+    "difficulte": 2,
+    "tags": [
+      "stratégies de recherche"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/td/01-introduction-extraction/qcm-004",
+    "type": "multiple",
+    "enonce": "Concernant la période optimale de récolte des drogues végétales, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Elle est identique pour toutes les espèces végétales",
+      "Les racines sont généralement récoltées pendant la période de repos végétatif",
+      "Les fruits et les graines sont généralement récoltés à maturité",
+      "Les fleurs sont récoltées à un stade adapté à l'espèce et à la nature des constituants recherchés",
+      "Les feuilles doivent systématiquement être récoltées après la floraison"
+    ],
+    "correctes": [
+      1,
+      2,
+      3
+    ],
+    "explication": "La composition varie avec le cycle végétatif, d'où des périodes propres à chaque organe : parties souterraines hors pleine végétation, fruits à maturité, graines mûres, fleurs avant complet épanouissement. Les feuilles sont récoltées au début de la floraison, pas après.",
+    "source": {
+      "page": 2,
+      "extrait": "Les fruits et les graines sont généralement récoltés à maturité."
+    },
+    "difficulte": 2,
+    "tags": [
+      "récolte"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/td/01-introduction-extraction/qcm-005",
+    "type": "multiple",
+    "enonce": "Concernant la dessiccation des drogues végétales, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Elle permet de réduire la teneur en eau des drogues végétales",
+      "Elle favorise le développement des microorganismes",
+      "Elle contribue à limiter les réactions enzymatiques responsables de la dégradation des constituants",
+      "Elle doit toujours être réalisée à température élevée, quelle que soit la nature de la drogue",
+      "Elle ne nécessite aucune précaution particulière concernant la température et la ventilation"
+    ],
+    "correctes": [
+      0,
+      2
+    ],
+    "explication": "La dessiccation abaisse la teneur en eau pour empêcher les réactions enzymatiques et la prolifération des bactéries et moisissures. Le procédé dépend de la nature de la drogue et des PA, de la température et de l'humidité ; l'air doit circuler librement.",
+    "source": {
+      "page": 2,
+      "extrait": "Elle permet de réduire la teneur en eau des drogues végétales."
+    },
+    "difficulte": 1,
+    "tags": [
+      "dessiccation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/td/01-introduction-extraction/qcm-006",
+    "type": "multiple",
+    "enonce": "Concernant le contrôle de la qualité pharmaceutique des drogues végétales, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Il repose uniquement sur l'examen organoleptique",
+      "Il permet de vérifier l'identité et la pureté de la drogue végétale",
+      "Il peut comporter la recherche et le dosage de certains constituants chimiques",
+      "Il permet notamment de rechercher les éléments étrangers et certaines contaminations",
+      "Il n'est réalisé qu'après la transformation de la drogue en médicament"
+    ],
+    "correctes": [
+      1,
+      2,
+      3
+    ],
+    "explication": "Le contrôle vérifie l'identité, la pureté et la qualité ; il comprend des essais botanique, physicochimique (dosages) et physiologique. Le pharmacien contrôle les matières premières végétales, donc avant leur transformation.",
+    "source": {
+      "page": 2,
+      "extrait": "Il permet de vérifier l'identité et la pureté de la drogue végétale."
+    },
+    "difficulte": 2,
+    "tags": [
+      "contrôle qualité"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/td/01-introduction-extraction/qcm-007",
+    "type": "multiple",
+    "enonce": "Associez chaque préparation à sa définition (Exercice 1.1), cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Alcoolatures – préparations liquides obtenues par macération de plantes fraîches dans l'alcool",
+      "Teintures alcooliques – préparations obtenues par macération de plantes sèches dans un solvant approprié, notamment l'alcool",
+      "Huiles essentielles – corps aromatiques volatils obtenus par hydrodistillation",
+      "Sucs végétaux – produits liquides obtenus par expression ou extraction des tissus végétaux frais",
+      "Extraits – corps aromatiques volatils obtenus par hydrodistillation"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Les extraits sont obtenus par extraction à l'aide d'un solvant approprié, suivie éventuellement d'une concentration. Les corps volatils obtenus par hydrodistillation sont les huiles essentielles.",
+    "source": {
+      "page": 2,
+      "extrait": "Corps aromatiques volatils obtenus par hydrodistillation à partir de matières premières végétales."
+    },
+    "difficulte": 2,
+    "tags": [
+      "préparations"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/td/01-introduction-extraction/qcm-008",
+    "type": "unique",
+    "enonce": "Une préparation liquide obtenue par macération de plantes FRAÎCHES dans l'alcool est :",
+    "options": [
+      "Une teinture alcoolique",
+      "Une alcoolature",
+      "Un extrait",
+      "Un suc végétal",
+      "Une huile essentielle"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Alcoolature = plantes fraîches dans l'alcool ; teinture alcoolique = plantes sèches.",
+    "source": {
+      "page": 2,
+      "extrait": "Préparations liquides obtenues par macération de plantes fraîches dans l'alcool."
+    },
+    "difficulte": 2,
+    "tags": [
+      "préparations"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/td/01-introduction-extraction/qcm-009",
+    "type": "unique",
+    "enonce": "Une préparation obtenue par extraction des constituants à l'aide d'un solvant approprié, suivie éventuellement d'une concentration, est :",
+    "options": [
+      "Un extrait",
+      "Un suc végétal",
+      "Une alcoolature",
+      "Une huile essentielle",
+      "Une tisane"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "C'est la définition des extraits.",
+    "source": {
+      "page": 2,
+      "extrait": "suivie éventuellement d'une concentration"
+    },
+    "difficulte": 1,
+    "tags": [
+      "préparations"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/td/01-introduction-extraction/qcm-010",
+    "type": "multiple",
+    "enonce": "Concernant la stabilité des drogues végétales (Exercice 2.4), cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "La composition chimique des drogues reste constante au cours du temps et ne nécessite aucune précaution de conservation",
+      "La stabilité des constituants doit être préservée pendant le stockage des drogues et de leurs préparations",
+      "Les préparations liquides sont systématiquement plus stables que les préparations sèches",
+      "Après la récolte, les principes actifs peuvent subir hydrolyses, polymérisations et isomérisations",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      1,
+      3
+    ],
+    "explication": "Après la récolte apparaissent des dégradations enzymatiques nécessitant de l'eau : la composition n'est pas constante et une préparation liquide n'est pas « systématiquement » plus stable.",
+    "source": {
+      "page": 3,
+      "extrait": "La stabilité des constituants chimiques doit être préservée pendant le stockage"
+    },
+    "difficulte": 2,
+    "tags": [
+      "conservation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/td/01-introduction-extraction/qcm-011",
+    "type": "multiple",
+    "enonce": "Concernant la conservation des drogues végétales (Exercice 2.5), cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "La lumière, la température et l'humidité peuvent influencer la conservation",
+      "Une humidité relative supérieure à 60 % est recommandée",
+      "Les drogues doivent être conservées dans un endroit sec, à température et humidité relativement constantes",
+      "Elles doivent être conservées dans des récipients adaptés, correctement fermés et protecteurs",
+      "L'air n'a aucune influence sur la conservation"
+    ],
+    "correctes": [
+      0,
+      2,
+      3
+    ],
+    "explication": "Il faut limiter l'air, l'humidité et la lumière : une humidité élevée est à proscrire (l'eau permet les dégradations enzymatiques et la prolifération microbienne).",
+    "source": {
+      "page": 3,
+      "extrait": "Les drogues végétales doivent être conservées dans un endroit sec"
+    },
+    "difficulte": 2,
+    "tags": [
+      "conservation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/td/01-introduction-extraction/qcm-012",
+    "type": "multiple",
+    "enonce": "Concernant les méthodes analytiques du contrôle (Exercice 2.2), cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "L'examen organoleptique fait partie de l'essai botanique",
+      "La détermination de la teneur en cendres évalue les éléments minéraux",
+      "La recherche des éléments étrangers participe au contrôle de pureté",
+      "L'examen organoleptique suffit à garantir l'activité de la drogue",
+      "La teneur en cendres renseigne sur la teneur en principes actifs organiques"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Organoleptique = essai botanique (premier contrôle d'identité et de pureté) ; cendres = minéraux ; éléments étrangers = pureté. L'activité nécessite dosages et essais physiologiques.",
+    "source": {
+      "page": 3,
+      "extrait": "La détermination de la nature et du pourcentage des éléments étrangers."
+    },
+    "difficulte": 2,
+    "tags": [
+      "contrôle qualité"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/td/01-introduction-extraction/qcm-013",
+    "type": "unique",
+    "enonce": "Dans l'exercice de la partie C, la plante X a été sélectionnée car elle était traditionnellement utilisée contre le paludisme. Il s'agit d'une approche :",
+    "options": [
+      "Ethnopharmacologique",
+      "Chimiotaxonomique",
+      "De criblage aléatoire",
+      "Fondée sur la théorie des signatures",
+      "Fondée sur le hasard"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "L'approche ethnopharmacologique s'appuie sur les usages traditionnels des plantes (ici, révélés par des tradipraticiens).",
+    "source": {
+      "page": 3,
+      "extrait": "des tradipraticiens nous ont révélé que la plante X était traditionnellement utilisée contre le paludisme"
+    },
+    "difficulte": 1,
+    "tags": [
+      "stratégies de recherche"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/td/01-introduction-extraction/qcm-014",
+    "type": "multiple",
+    "enonce": "Partie C : on souhaite extraire uniquement les molécules polaires et thermolabiles des feuilles séchées et pulvérisées de la plante X, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Un solvant polaire (eau, éthanol, méthanol ou mélange hydroalcoolique) est adapté",
+      "Une méthode à froid ou à température modérée, comme la macération, est adaptée",
+      "Une décoction (ébullition 10 à 30 min) est la méthode de choix",
+      "Le Soxhlet, qui fait circuler un solvant chaud à reflux, est la méthode de choix",
+      "Le CO2 supercritique est la méthode de choix pour des molécules très polaires"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Des molécules thermolabiles excluent le chauffage (décoction, Soxhlet) ; le CO2 supercritique convient surtout aux composés peu polaires. La macération à température ambiante avec un solvant polaire est adaptée.",
+    "source": {
+      "page": 3,
+      "extrait": "Sachant que les molécules recherchées sont thermolabiles, quelle méthode d'extraction proposez-vous ?"
+    },
+    "difficulte": 3,
+    "tags": [
+      "extraction"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/td/01-introduction-extraction/qcm-015",
+    "type": "multiple",
+    "enonce": "Concernant les approches de recherche de nouveaux principes actifs d'origine naturelle, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "L'approche ethnopharmacologique",
+      "L'approche chimiotaxonomique",
+      "Le criblage (screening)",
+      "L'approche empirique",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes ces approches sont citées dans le TD (QCM 3) et/ou le cours (méthode empirique, criblage, méthode inductive, hasard).",
+    "source": {
+      "page": 1,
+      "extrait": "L'approche chimiotaxonomique repose sur la recherche de constituants chimiques communs chez des espèces apparentées."
+    },
+    "difficulte": 1,
+    "tags": [
+      "stratégies de recherche"
+    ],
+    "origine": "genere"
+  }
+]

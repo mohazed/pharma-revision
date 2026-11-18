@@ -1,0 +1,20 @@
+---
+import { ICONES, type NomIcone } from "../lib/icones";
+interface Props { nom: NomIcone; class?: string; taille?: number; titre?: string }
+const { nom, class: cls = "", taille = 20, titre } = Astro.props;
+---
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width={taille}
+  height={taille}
+  viewBox="0 0 24 24"
+  fill="none"
+  stroke="currentColor"
+  stroke-width="2"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+  class={cls}
+  aria-hidden={titre ? undefined : "true"}
+  role={titre ? "img" : undefined}
+  aria-label={titre}
+><path d={ICONES[nom]} /></svg>

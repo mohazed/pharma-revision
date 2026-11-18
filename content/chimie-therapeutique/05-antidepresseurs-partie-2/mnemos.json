@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/mnemo-001",
+    "titre": "Substrats des MAO",
+    "moyen": "« A comme Adrénaline et Amines de l'humeur ; B comme Bêta-phényléthylamine »",
+    "explication": "MAO-A : sérotonine, noradrénaline, adrénaline ; MAO-B : phényléthylamine et dopamine."
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/mnemo-002",
+    "titre": "Effets indésirables des tricycliques",
+    "moyen": "« Sec, Sombre, Sédaté, Syncope » : anticholinergique (sec), vision trouble (sombre), H1 (sédaté), α1 (syncope/hypotension)",
+    "explication": "Les quatre grands types d'effets indésirables liés au blocage de récepteurs."
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/mnemo-003",
+    "titre": "IMAO irréversible",
+    "moyen": "« Suicide de l'enzyme : il faut 2 semaines pour en refaire »",
+    "explication": "L'iproniazide détruit la MAO : la récupération exige la synthèse d'une nouvelle enzyme (2 semaines)."
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/mnemo-004",
+    "titre": "Amines des tricycliques",
+    "moyen": "« Tertiaire = Tout (5-HT + NA) ; Secondaire = NA Seule »",
+    "explication": "Les amines tertiaires inhibent les deux recaptures, les secondaires surtout la noradrénaline."
+  },
+  {
+    "id": "chimie-therapeutique/05-antidepresseurs-partie-2/mnemo-005",
+    "titre": "ISRS chez le cardiaque",
+    "moyen": "« Sérotonine pure = Sécurité cardiaque »",
+    "explication": "Les ISRS sont dépourvus de toxicité cardiaque et administrables chez le patient cardiaque."
+  }
+]

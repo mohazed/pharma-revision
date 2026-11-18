@@ -1,0 +1,7 @@
+[
+  { "id": "_exemple/01-cours-exemple/cas-001", "titre": "Patient sous perfusion", "enonce": "M. B., 54 ans, reçoit un antibiotique en bolus intraveineux de 500 mg. La concentration initiale mesurée est de 25 mg/L.",
+    "questions": [
+      { "id": "_exemple/01-cours-exemple/cas-001-q1", "type": "unique", "enonce": "Le volume de distribution est :", "options": ["2 L", "12,5 L", "20 L", "25 L", "50 L"], "correctes": [2], "explication": "Vd = Dose / C0 = 500 / 25 = 20 L.", "difficulte": 1 },
+      { "id": "_exemple/01-cours-exemple/cas-001-q2", "type": "multiple", "enonce": "Concernant cette administration :", "options": ["Il n'y a pas de phase d'absorption", "La biodisponibilité est de 100 %", "Il y a un effet de premier passage hépatique", "La concentration maximale est atteinte immédiatement", "Aucune réponse n'est juste"], "correctes": [0, 1, 3], "explication": "Par voie IV, pas d'absorption ni d'effet de premier passage ; F = 100 % et Cmax est immédiate.", "difficulte": 2 }
+    ] }
+]

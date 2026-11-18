@@ -1,0 +1,120 @@
+[
+  {
+    "id": "pharmacie-galenique/01-generalites/tableau-001",
+    "titre": "Origine des principes actifs",
+    "colonnes": [
+      "Origine",
+      "Exemples",
+      "Remarque"
+    ],
+    "lignes": [
+      [
+        "Minérale",
+        "Carbonate de calcium ; carbonate de lithium",
+        "Supplémentation calcique/antiacide ; troubles bipolaires"
+      ],
+      [
+        "Animale",
+        "Insuline porcine ou bovine ; héparine",
+        "Insuline aujourd'hui majoritairement recombinante ; héparine extraite d'intestin de porc"
+      ],
+      [
+        "Végétale",
+        "Morphine ; digoxine",
+        "Pavot (Papaver somniferum) ; digitale (Digitalis lanata)"
+      ],
+      [
+        "Biotechnologique",
+        "Insuline recombinante humaine ; anticorps monoclonaux ; vaccins recombinants",
+        "E. coli ou levures GM ; trastuzumab, adalimumab ; anti-hépatite B"
+      ]
+    ]
+  },
+  {
+    "id": "pharmacie-galenique/01-generalites/tableau-002",
+    "titre": "Chapitres du guide BPF",
+    "colonnes": [
+      "Chapitre",
+      "Intitulé",
+      "Contenu"
+    ],
+    "lignes": [
+      [
+        "1",
+        "Système qualité pharmaceutique",
+        "—"
+      ],
+      [
+        "2",
+        "Personnel",
+        "Qualifié, en nombre suffisant, bonne répartition des tâches"
+      ],
+      [
+        "3",
+        "Locaux et matériel",
+        "Situés, conçus, adaptés et entretenus pour garantir la qualité"
+      ],
+      [
+        "4",
+        "Documentation",
+        "Écrire ce qu'il faut faire"
+      ],
+      [
+        "5",
+        "Production",
+        "Précautions avant, pendant et après fabrication et conditionnement"
+      ],
+      [
+        "6",
+        "Contrôle de la qualité",
+        "Respect des BPF au laboratoire de contrôle sur échantillons"
+      ],
+      [
+        "7",
+        "Activités externalisées",
+        "Fabrication et analyses en sous-traitance"
+      ],
+      [
+        "8",
+        "Réclamations, défauts qualité et rappels",
+        "—"
+      ],
+      [
+        "9",
+        "Auto-inspection",
+        "S'assurer du bon respect des BPF"
+      ]
+    ]
+  },
+  {
+    "id": "pharmacie-galenique/01-generalites/tableau-003",
+    "titre": "Phases des essais cliniques",
+    "colonnes": [
+      "Phase",
+      "Moment",
+      "Objectif"
+    ],
+    "lignes": [
+      [
+        "I",
+        "Avant AMM",
+        "Évaluer la toxicité"
+      ],
+      [
+        "II",
+        "Avant AMM",
+        "Trouver la bonne dose, évaluer les effets indésirables"
+      ],
+      [
+        "III",
+        "Avant AMM",
+        "Évaluer l'efficacité vs traitements existants ou placebo"
+      ],
+      [
+        "IV",
+        "Après la mise sur le marché",
+        "—"
+      ]
+    ]
+  }
+]

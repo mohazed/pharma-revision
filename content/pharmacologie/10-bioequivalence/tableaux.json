@@ -1,0 +1,129 @@
+[
+  {
+    "id": "pharmacologie/10-bioequivalence/tab-001",
+    "titre": "Notions d'équivalence",
+    "colonnes": [
+      "Notion",
+      "Ce que l'on compare / définition"
+    ],
+    "lignes": [
+      [
+        "Équivalence chimique",
+        "Quantité identique du même PA sous la même forme chimique"
+      ],
+      [
+        "Équivalence pharmaceutique",
+        "Composition en PA (quantité molaire), dosage, forme, voie et qualité ; excipients non obligatoirement identiques"
+      ],
+      [
+        "Bioéquivalence",
+        "Vitesse et étendue de l'exposition au PA (AUC, Cmax)"
+      ],
+      [
+        "Équivalence thérapeutique",
+        "Efficacité et sécurité dans les conditions d'utilisation → interchangeabilité"
+      ]
+    ]
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/tab-002",
+    "titre": "Classification biopharmaceutique (BCS)",
+    "colonnes": [
+      "Classe",
+      "Solubilité",
+      "Perméabilité",
+      "Biowaiver BCS"
+    ],
+    "lignes": [
+      [
+        "I",
+        "Élevée",
+        "Élevée",
+        "Possible"
+      ],
+      [
+        "II",
+        "Faible",
+        "Élevée",
+        "Non éligible"
+      ],
+      [
+        "III",
+        "Élevée",
+        "Faible",
+        "Possible"
+      ],
+      [
+        "IV",
+        "Faible",
+        "Faible",
+        "Non éligible"
+      ]
+    ]
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/tab-003",
+    "titre": "Plans d'étude de bioéquivalence",
+    "colonnes": [
+      "Plan",
+      "Indication",
+      "Particularité"
+    ],
+    "lignes": [
+      [
+        "Croisé 2×2 (standard)",
+        "Cas général",
+        "Dose unique, 2 périodes, séquences TR/RT, chaque sujet son propre témoin ; wash-out ≥ 5 T1/2"
+      ],
+      [
+        "Groupes parallèles",
+        "Longue demi-vie d'élimination",
+        "Deux groupes indépendants, une formulation par sujet ; ≥ 12 sujets par groupe"
+      ],
+      [
+        "Croisé répliqué",
+        "Forte variabilité intra-individuelle",
+        "Chaque sujet reçoit plusieurs fois T et/ou R (TRTR/RTRT)"
+      ],
+      [
+        "Doses multiples",
+        "Dose unique non réalisable (sécurité, éthique), libération modifiée",
+        "État d'équilibre ; AUC(0–τ) et Cmax,ss primaires"
+      ]
+    ]
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/tab-004",
+    "titre": "Acteurs d'une étude de bioéquivalence",
+    "colonnes": [
+      "Acteur",
+      "Responsabilité"
+    ],
+    "lignes": [
+      [
+        "Promoteur",
+        "Organisation, financement, qualité, rapport final ; responsabilité maintenue en cas de sous-traitance"
+      ],
+      [
+        "Autorité compétente",
+        "Évaluation réglementaire du dossier et inspection ; décision finale"
+      ],
+      [
+        "Centre de bioéquivalence / investigateur principal",
+        "Protocole, inclusion, administration, prélèvements, surveillance, traçabilité"
+      ],
+      [
+        "Comité d'éthique",
+        "Protection des participants ; avis préalable"
+      ],
+      [
+        "Laboratoire bioanalytique",
+        "Dosage avec une méthode validée"
+      ],
+      [
+        "Équipe PK et biostatistique",
+        "Calcul des paramètres, randomisation, analyse statistique"
+      ]
+    ]
+  }
+]

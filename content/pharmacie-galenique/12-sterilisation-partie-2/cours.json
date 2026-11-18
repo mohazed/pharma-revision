@@ -1,0 +1,13 @@
+{
+  "id": "pharmacie-galenique/12-sterilisation-partie-2",
+  "module": "pharmacie-galenique",
+  "ordre": 12,
+  "titre": "Stérilisation – Partie 2 : gaz, radiations, filtration, asepsie",
+  "source": {
+    "driveId": "14T1bGrVQy9e4IqE7xFbKqH8DFGSNKxL6",
+    "fichier": "11.2 Sterilisation - Partie 2.pdf",
+    "modifiedTime": "2026-11-16T13:42:05.540Z"
+  },
+  "resume": "Méthodes pour produits thermosensibles : gaz (oxyde d'éthylène, acide peracétique, formaldéhyde, gaz plasma), radiations (UV, rayons β et γ), filtration stérilisante des liquides et de l'air (HEPA, ZAC), préparation aseptique, essai de stérilité et choix du procédé.",
+  "type": "cours"
+}

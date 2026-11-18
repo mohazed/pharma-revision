@@ -1,0 +1,26 @@
+[
+  {
+    "id": "pharmacie-galenique/07-melange-des-poudres/mnemo-001",
+    "titre": "Critères de qualité d'un mélange",
+    "moyen": "« HECS » : Homogène, Écoulement, Contamination nulle, Stable",
+    "explication": "H = homogène ; E = bon écoulement sans ségrégation ; C = pas de contamination par des substances étrangères ; S = stable (conserve son intégralité dans le temps)."
+  },
+  {
+    "id": "pharmacie-galenique/07-melange-des-poudres/mnemo-002",
+    "titre": "États de mélange par uniformité croissante",
+    "moyen": "« Ne Sois Rarement Idiot » : Non-mélange, Ségrégation, Réel, Idéal",
+    "explication": "Non-mélange (démélange) < ségrégation < mélange réel (imparfait) < mélange idéal (parfait)."
+  },
+  {
+    "id": "pharmacie-galenique/07-melange-des-poudres/mnemo-003",
+    "titre": "Variables opératoires majeures",
+    "moyen": "« VVT +++ » : Vitesse, Volume, Temps",
+    "explication": "Vitesse de rotation, volume de poudre (40–60 %), temps de mélange sont notés +++ ; température et humidité relative seulement +."
+  },
+  {
+    "id": "pharmacie-galenique/07-melange-des-poudres/mnemo-004",
+    "titre": "Vitesse de rotation",
+    "moyen": "« Lent ça Lime, Rapide ça Rompt »",
+    "explication": "Trop lente : abrasion des particules ; trop rapide : force centrifuge qui casse les particules."
+  }
+]

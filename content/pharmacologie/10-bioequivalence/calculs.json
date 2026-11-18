@@ -1,0 +1,71 @@
+[
+  {
+    "id": "pharmacologie/10-bioequivalence/calc-001",
+    "titre": "Biodisponibilité relative test/référence",
+    "enonce": "À doses identiques, l'AUC du générique (test) est de {at} mg.h/L et celle du princeps (référence) de {ar} mg.h/L. Calculer la F relative.",
+    "variables": {
+      "at": {
+        "min": 60,
+        "max": 130,
+        "pas": 1,
+        "unite": "mg.h/L"
+      },
+      "ar": {
+        "min": 80,
+        "max": 110,
+        "pas": 1,
+        "unite": "mg.h/L"
+      }
+    },
+    "formule": "100 * at / ar",
+    "unite": "%",
+    "decimales": 1,
+    "etapes": [
+      "F relative (%) = 100 × AUC test / AUC référence",
+      "F relative = 100 × {at} / {ar}"
+    ],
+    "rappel": "F relative (%) = 100 × AUC test / AUC référence"
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/calc-002",
+    "titre": "Durée minimale du wash-out",
+    "enonce": "Le PA étudié a une demi-vie d'élimination de {t} h. Calculer la durée minimale du wash-out dans un essai croisé.",
+    "variables": {
+      "t": {
+        "min": 1,
+        "max": 30,
+        "pas": 1,
+        "unite": "h"
+      }
+    },
+    "formule": "5 * t",
+    "unite": "h",
+    "decimales": 0,
+    "etapes": [
+      "Wash-out ≥ 5 demi-vies d'élimination",
+      "Wash-out = 5 × {t}"
+    ],
+    "rappel": "Le wash-out doit durer au moins cinq demi-vies d'élimination."
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/calc-003",
+    "titre": "Couverture minimale de l'AUC(0–t)",
+    "enonce": "L'AUC(0–∞) estimée d'un PA est de {a} mg.h/L. Quelle valeur minimale doit atteindre l'AUC(0–t) pour que l'échantillonnage soit suffisant ?",
+    "variables": {
+      "a": {
+        "min": 20,
+        "max": 300,
+        "pas": 10,
+        "unite": "mg.h/L"
+      }
+    },
+    "formule": "0.8 * a",
+    "unite": "mg.h/L",
+    "decimales": 1,
+    "etapes": [
+      "AUC(0–t) ≥ 80 % de l'AUC(0–∞)",
+      "AUC(0–t) min = 0,8 × {a}"
+    ],
+    "rappel": "L'AUC(0–t) doit couvrir au moins 80 % de l'AUC(0–∞)."
+  }
+]

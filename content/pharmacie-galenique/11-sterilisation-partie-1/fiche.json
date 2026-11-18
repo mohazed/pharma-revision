@@ -1,0 +1,69 @@
+{
+  "id": "pharmacie-galenique/11-sterilisation-partie-1/fiche",
+  "titre": "Stérilisation – Partie 1 : principe et chaleur",
+  "sections": [
+    {
+      "titre": "Définitions",
+      "points": [
+        "Stérilisation : priver un produit des micro-organismes **viables** (toutes natures et formes) en préservant le produit.",
+        "Stérilité : absence de micro-organismes viables ; la stérilité absolue n'existe pas.",
+        "**NAS = 10⁻⁶** en stérilisation terminale.",
+        "Détruire / inactiver (permanent) / éliminer (filtration)."
+      ]
+    },
+    {
+      "titre": "Produits et classification",
+      "points": [
+        "Obligatoirement stériles : parentéraux, collyres, plaies/brûlures, matériel chirurgical, seringues, pansements, ambiance stérile, gels oraux, alimentation des immunodéprimés…",
+        "Mécanisme : inactivation (chaleur, gaz, radiations β/γ/X) ou élimination (filtration). **UV = désinfection seulement**.",
+        "Moment : **terminale** > filtration stérilisante > préparation aseptique."
+      ]
+    },
+    {
+      "titre": "Cinétique thermique",
+      "points": [
+        "5 facteurs : espèce/forme (spores > végétatives), N0, durée, température, milieu.",
+        "**log N = log N0 − t/D** ; courbe tendant vers 0 sans l'atteindre.",
+        "**D** : temps pour ↓ 90 % ; D121 (G. stearothermophilus) = 1,5–2,5 min ; D élevé = résistant.",
+        "**z** : élévation de T divisant D par 10 (10 °C).",
+        "**FT = t × 10^((T − 121)/z)** ; **F0 ≥ 8 min**.",
+        "Barème T = f(t) pour chaque lot (montée, plateau, refroidissement)."
+      ]
+    },
+    {
+      "titre": "Chaleur humide",
+      "points": [
+        "Vapeur saturée sous pression : dénaturation, hydrolyse, coagulation.",
+        "**121 °C 15–20 min** ; **134 °C 18 min** (ATNC).",
+        "Autoclave : soupape, purge, manomètre, panier ; purge de l'air jusqu'au sifflement ; ouvrir à manomètre 0.",
+        "Industriel : vide répété, purgeur de condensat, double porte, automates, séchage sous vide.",
+        "Contrôles (zone froide) : capteurs, **IB** (G. stearothermophilus, mauve = OK, jaune = échec), **IC**.",
+        "Choix pour solutions aqueuses ; prionicide à 134 °C ; **inefficace sur les pyrogènes**."
+      ]
+    },
+    {
+      "titre": "Chaleur sèche et dépyrogénation",
+      "points": [
+        "Air chaud : déshydratation puis oxydation ; IB : **B. subtilis**.",
+        "**160 °C 2–3 h ; 170 °C 1,5–2 h**.",
+        "Étuve (discontinue, HEPA, surpression) ; four tunnel (continu, flux laminaire).",
+        "Indications : métal, verre, poudres thermostables, huiles ; pas pour solutions aqueuses ni plastiques thermolabiles ; abandonnée à l'hôpital (ATNC).",
+        "Dépyrogénation : > 220 °C (230 °C 60–90 min ; 250 °C 30–60 min) ; ≥ 3 log₁₀ ; test BET."
+      ]
+    }
+  ],
+  "aRetenir": [
+    "NAS 10⁻⁶ ; F0 = 8 min ; z = 10 °C ; D121 = 1,5–2,5 min.",
+    "121 °C 15–20 min ; 134 °C 18 min ; 160 °C 2–3 h ; 170 °C 1,5–2 h ; dépyrogénation > 220 °C.",
+    "Durée = nombre de réductions décimales × D.",
+    "IB vapeur : mauve = réussite, jaune = échec."
+  ],
+  "pieges": [
+    "D est un TEMPS ; z est une TEMPÉRATURE.",
+    "D élevé = germe RÉSISTANT.",
+    "L'IB doit contenir l'espèce la PLUS RÉSISTANTE.",
+    "Les UV ne stérilisent PAS.",
+    "La chaleur humide ne détruit PAS les pyrogènes ; la chaleur sèche à haute T° les détruit.",
+    "Étuve = DIScontinue ; four tunnel = continu."
+  ]
+}

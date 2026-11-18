@@ -1,0 +1,348 @@
+[
+  {
+    "id": "semiologie/01-semiologie-generale/cas-001",
+    "titre": "Fatigue et perte de poids au comptoir",
+    "enonce": "Un homme de 58 ans vient à l'officine pour un « fortifiant ». Il se dit très fatigué depuis deux mois, mange beaucoup moins et a perdu 7 kg en deux mois. Il ne prend aucun traitement. Il n'a pas de fièvre mesurée.",
+    "questions": [
+      {
+        "id": "semiologie/01-semiologie-generale/cas-001-q1",
+        "type": "unique",
+        "enonce": "L'association de signes présentée par ce patient correspond à :",
+        "options": [
+          "Un syndrome anémique",
+          "Une altération de l'état général",
+          "Une altération fébrile de l'état général",
+          "Un prodrome grippal",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          1
+        ],
+        "explication": "Asthénie + anorexie + amaigrissement = AEG. Sans fièvre, on ne parle pas d'altération fébrile.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/01-semiologie-generale/cas-001-q2",
+        "type": "multiple",
+        "enonce": "La fatigue, la perte d'appétit et l'amaigrissement sont des signes :",
+        "options": [
+          "Généraux",
+          "Physiques",
+          "Traduisant le retentissement sur tout l'organisme",
+          "Constatés à la percussion",
+          "Toutes les propositions sont fausses"
+        ],
+        "correctes": [
+          0,
+          2
+        ],
+        "explication": "Ce sont des signes généraux, qui traduisent le retentissement sur l'ensemble de l'organisme.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/01-semiologie-generale/cas-001-q3",
+        "type": "multiple",
+        "enonce": "Pour l'amaigrissement, le pharmacien doit préciser :",
+        "options": [
+          "Combien de kilos",
+          "En combien de temps",
+          "L'intensité de 0 à 10",
+          "Le pli cutané",
+          "Toutes les propositions sont fausses"
+        ],
+        "correctes": [
+          0,
+          1
+        ],
+        "explication": "Le cours demande de préciser combien de kilos en combien de temps.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/01-semiologie-generale/cas-001-q4",
+        "type": "multiple",
+        "enonce": "La conduite à tenir du pharmacien est :",
+        "options": [
+          "Délivrer un fortifiant et revoir dans un mois",
+          "Orienter le patient vers un médecin",
+          "Poser le diagnostic de cancer",
+          "Évoquer la possibilité d'une maladie grave nécessitant un avis médical",
+          "Conseiller des examens d'imagerie sans avis médical"
+        ],
+        "correctes": [
+          1,
+          3
+        ],
+        "explication": "Une AEG doit toujours faire orienter vers un médecin (tuberculose, cancer, diabète déséquilibré possibles). Le pharmacien ne pose pas le diagnostic.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/01-semiologie-generale/cas-001-q5",
+        "type": "multiple",
+        "enonce": "Parmi les maladies graves qu'une AEG peut révéler, le cours cite :",
+        "options": [
+          "La tuberculose",
+          "Un cancer",
+          "Un diabète déséquilibré",
+          "Une infection chronique",
+          "Toutes les propositions sont correctes"
+        ],
+        "correctes": [
+          4
+        ],
+        "explication": "Le cours cite infection chronique comme la tuberculose, cancer, diabète déséquilibré.",
+        "difficulte": 2,
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "semiologie/01-semiologie-generale/cas-002",
+    "titre": "Toux persistante sous traitement",
+    "enonce": "Une femme de 62 ans, hypertendue, demande un sirop contre une toux sèche qui dure depuis 4 semaines. Elle a commencé il y a deux mois un nouveau médicament de la classe des IEC. Elle n'a ni fièvre ni essoufflement.",
+    "questions": [
+      {
+        "id": "semiologie/01-semiologie-generale/cas-002-q1",
+        "type": "unique",
+        "enonce": "Dans l'interrogatoire, l'hypertension de cette patiente appartient à la rubrique :",
+        "options": [
+          "Histoire de la maladie",
+          "Antécédents personnels médicaux",
+          "Antécédents familiaux",
+          "Examen physique",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          1
+        ],
+        "explication": "L'hypertension est citée comme exemple d'antécédent personnel médical.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/01-semiologie-generale/cas-002-q2",
+        "type": "multiple",
+        "enonce": "La toux de cette patiente :",
+        "options": [
+          "Est un signe fonctionnel",
+          "Peut être un effet indésirable d'un IEC",
+          "Est un signe physique",
+          "Est un signe objectif",
+          "Toutes les propositions sont fausses"
+        ],
+        "correctes": [
+          0,
+          1
+        ],
+        "explication": "La toux est un signe fonctionnel respiratoire ; le cours cite la toux sous IEC comme effet indésirable fréquent.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/01-semiologie-generale/cas-002-q3",
+        "type": "multiple",
+        "enonce": "Cette situation impose une consultation médicale car :",
+        "options": [
+          "La toux dure plus de 2 à 3 semaines",
+          "Le symptôme peut être un effet indésirable d'un médicament",
+          "Il faut penser à la tuberculose devant une toux prolongée",
+          "Il existe des signes d'urgence respiratoire",
+          "Toutes les propositions sont fausses"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "Toux > 2 à 3 semaines (penser à la tuberculose) et symptôme pouvant être un effet indésirable imposent une consultation. Il n'y a pas de signe d'urgence (pas d'essoufflement intense, pas de cyanose).",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/01-semiologie-generale/cas-002-q4",
+        "type": "unique",
+        "enonce": "Quel temps de l'interrogatoire a permis de repérer l'origine médicamenteuse possible ?",
+        "options": [
+          "Antécédents familiaux",
+          "Médicaments et habitudes",
+          "Inspection",
+          "Percussion",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          1
+        ],
+        "explication": "La rubrique « médicaments et habitudes » (traitements en cours) concerne directement le pharmacien.",
+        "difficulte": 2,
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "semiologie/01-semiologie-generale/cas-003",
+    "titre": "Douleur thoracique à l'officine",
+    "enonce": "Un homme de 55 ans entre à la pharmacie, pâle et en sueurs. Il décrit une douleur thoracique en serrement qui dure depuis 30 minutes et se sent essoufflé. Il demande un antalgique.",
+    "questions": [
+      {
+        "id": "semiologie/01-semiologie-generale/cas-003-q1",
+        "type": "multiple",
+        "enonce": "Les signes présentés sont :",
+        "options": [
+          "Des signes d'urgence imposant l'appel des secours",
+          "Relevant du simple conseil à l'officine",
+          "Une douleur thoracique en serrement qui dure, avec sueurs et essoufflement",
+          "Des signes de prodrome grippal",
+          "Toutes les propositions sont fausses"
+        ],
+        "correctes": [
+          0,
+          2
+        ],
+        "explication": "Douleur thoracique en serrement qui dure, surtout avec sueurs ou essoufflement = signe d'alerte cardiaque imposant l'appel des secours.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/01-semiologie-generale/cas-003-q2",
+        "type": "unique",
+        "enonce": "La pâleur et les sueurs sont classées dans les signes d'alerte de la fonction :",
+        "options": [
+          "Respiration",
+          "Circulation",
+          "Cerveau",
+          "Allergie",
+          "Saignement"
+        ],
+        "correctes": [
+          1
+        ],
+        "explication": "Le tableau classe pâleur et sueurs dans la fonction circulation.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/01-semiologie-generale/cas-003-q3",
+        "type": "multiple",
+        "enonce": "La conduite à tenir du pharmacien :",
+        "options": [
+          "Délivrer l'antalgique demandé",
+          "Appeler les secours sans attendre",
+          "Orienter sans attendre",
+          "Attendre l'évolution sur 3 jours",
+          "Poser le diagnostic"
+        ],
+        "correctes": [
+          1,
+          2
+        ],
+        "explication": "Devant un signe de gravité, le pharmacien oriente sans attendre : ici appel des secours.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/01-semiologie-generale/cas-003-q4",
+        "type": "unique",
+        "enonce": "Pour décrire cette douleur, le type « serrement » correspond à la caractéristique :",
+        "options": [
+          "Siège",
+          "Début",
+          "Type et intensité",
+          "Irradiation",
+          "Retentissement"
+        ],
+        "correctes": [
+          2
+        ],
+        "explication": "Le type (serrement, brûlure, coup de poignard) et l'intensité forment une même caractéristique.",
+        "difficulte": 2,
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "semiologie/01-semiologie-generale/cas-004",
+    "titre": "Examen d'un patient essoufflé",
+    "enonce": "Un patient consulte pour un essoufflement. À la percussion d'une base thoracique, le médecin retrouve un son sourd. Chez un autre patient, la percussion du thorax retrouve un son creux comme sur un tambour.",
+    "questions": [
+      {
+        "id": "semiologie/01-semiologie-generale/cas-004-q1",
+        "type": "multiple",
+        "enonce": "Le son sourd retrouvé chez le premier patient est :",
+        "options": [
+          "Une matité",
+          "Un tympanisme",
+          "Évocateur de liquide (ex. épanchement pleural)",
+          "Évocateur d'air",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0,
+          2
+        ],
+        "explication": "Matité = son sourd = liquide ou organe plein (ex. épanchement pleural).",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/01-semiologie-generale/cas-004-q2",
+        "type": "multiple",
+        "enonce": "Le son creux du second patient :",
+        "options": [
+          "Est un tympanisme",
+          "Traduit la présence d'air",
+          "Peut évoquer un pneumothorax",
+          "Traduit un organe plein",
+          "Toutes les propositions sont fausses"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "Tympanisme = son creux = air (pneumothorax, ventre ballonné).",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/01-semiologie-generale/cas-004-q3",
+        "type": "unique",
+        "enonce": "La percussion utilise :",
+        "options": [
+          "La vue",
+          "Le toucher et l'ouïe",
+          "Le stéthoscope uniquement",
+          "Le marteau à réflexes",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          1
+        ],
+        "explication": "La percussion utilise le toucher et l'ouïe : on frappe le médius avec l'index et on écoute le son produit.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/01-semiologie-generale/cas-004-q4",
+        "type": "multiple",
+        "enonce": "L'essoufflement rapporté par le patient est :",
+        "options": [
+          "Une dyspnée",
+          "Un signe fonctionnel respiratoire",
+          "Un signe physique",
+          "Un signe objectif",
+          "Toutes les propositions sont fausses"
+        ],
+        "correctes": [
+          0,
+          1
+        ],
+        "explication": "La dyspnée (essoufflement) est un signe fonctionnel de l'appareil respiratoire.",
+        "difficulte": 2,
+        "origine": "genere"
+      }
+    ]
+  }
+]

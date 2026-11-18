@@ -1,0 +1,12 @@
+{
+  "id": "chimie-therapeutique/02-anxiolytiques",
+  "module": "chimie-therapeutique",
+  "ordre": 2,
+  "titre": "Les anxiolytiques",
+  "type": "cours",
+  "source": {
+    "driveId": "1pzLqKzcD2ofKixayQqdVCJmJ-DNG-XrQ",
+    "fichier": "2. Les Anxiolytiques.pdf"
+  },
+  "resume": "Classification des psychotropes, physiopathologie de l'anxiété, benzodiazépines (classification chimique, synthèse du diazépam, mécanisme, RSA, usage) et autres anxiolytiques (méprobamate, hydroxyzine, buspirone, clonidine, bêtabloquants)."
+}

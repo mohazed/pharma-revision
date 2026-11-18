@@ -1,0 +1,20 @@
+[
+  {
+    "id": "chimie-analytique/03-extractions-repetees/mnemo-001",
+    "titre": "Extraction répétée",
+    "moyen": "« Un plus alpha, puissance n, au dénominateur »",
+    "explication": "Fraction restante = 1/(1+α)ⁿ ; ρ = 1 − 1/(1+α)ⁿ."
+  },
+  {
+    "id": "chimie-analytique/03-extractions-repetees/mnemo-002",
+    "titre": "Jalade",
+    "moyen": "« Jalade chauffe mais économise »",
+    "explication": "Perforateurs de Jalade : moins de solvant, mais extrait chauffé."
+  },
+  {
+    "id": "chimie-analytique/03-extractions-repetees/mnemo-003",
+    "titre": "Volume limité",
+    "moyen": "« Partager le volume, c'est diviser alpha par n »",
+    "explication": "α = λVB/(nVA) quand le volume total VB est fractionné en n."
+  }
+]

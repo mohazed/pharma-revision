@@ -1,0 +1,849 @@
+{
+  "id": "emd1-pharmacologie-2023",
+  "titre": "EMD1 de Pharmacologie",
+  "date": "2023-12-17",
+  "duree": 60,
+  "faculte": "Faculté de Pharmacie – Université d'Alger 1",
+  "questions": [
+    {
+      "id": "annales/emd1-pharmacologie-2023/q01",
+      "type": "unique",
+      "enonce": "Concernant l'administration des médicaments par voie rectale :",
+      "options": [
+        "Les médicaments administrés par cette voie ont une action locale uniquement",
+        "L'administration des médicaments se fait au niveau de l'intestin grêle",
+        "C'est une voie recommandée chez le nourrisson présentant une diarrhée",
+        "Elle permet de shunter en partie l'effet de premier passage hépatique",
+        "Aucune réponse n'est juste"
+      ],
+      "correctes": [
+        3
+      ],
+      "explication": "a) Fausse : la voie rectale permet un effet local (constipation, hémorroïdes) mais aussi systémique (ampoule rectale richement vascularisée, fièvre). b) Fausse : l'administration se fait dans le rectum (ampoule rectale), pas dans l'intestin grêle. c) Fausse : le cours précise que la voie rectale est « inutile en cas de diarrhée ». d) Juste : l'EPPH est « plus réduit que la voie orale » mais la voie rectale « ne permet pas d'éviter complètement l'EPPH » : elle le shunte en partie. e) Fausse puisque d est juste.",
+      "difficulte": 2,
+      "tags": [
+        "voie rectale",
+        "premier passage"
+      ],
+      "origine": "annale",
+      "annale": "EMD1 Pharmacologie 2023",
+      "cours": "pharmacologie/02-voies-administration",
+      "verifie": true,
+      "source": {
+        "page": 37,
+        "extrait": "•Ne permet pas d’éviter complètement l’EPPH."
+      }
+    },
+    {
+      "id": "annales/emd1-pharmacologie-2023/q02",
+      "type": "multiple",
+      "enonce": "Concernant l'administration des médicaments par voie intraveineuse :",
+      "options": [
+        "Les solutions huileuses administrées doivent être stériles et apyrogènes",
+        "Les solutions aqueuses administrées doivent être isotoniques au plasma",
+        "Elle permet un contrôle précis des quantités des médicaments injectés",
+        "Il existe un effet de premier passage intestinal",
+        "Toutes les réponses sont justes"
+      ],
+      "correctes": [
+        1,
+        2
+      ],
+      "explication": "a) Fausse : « les solutions huileuses et les suspensions ne doivent pas être administrées par cette voie », même stériles et apyrogènes. b) Juste : les formes IV doivent être des solutions stériles, limpides, apyrogènes, neutres, isotoniques. c) Retenue comme juste : le cours ne l'écrit pas mot pour mot mais souligne une biodisponibilité presque absolue (toute la dose injectée atteint la circulation) — non tranché explicitement par le cours. d) Fausse : l'IV « évite l'EPPH et EPPI ». e) Fausse puisque a et d sont fausses.",
+      "difficulte": 2,
+      "tags": [
+        "intraveineuse"
+      ],
+      "origine": "annale",
+      "annale": "EMD1 Pharmacologie 2023",
+      "cours": "pharmacologie/02-voies-administration",
+      "verifie": false,
+      "source": {
+        "page": 10,
+        "extrait": "Les solutions huileuses et les suspensions ne doivent pas être administrées par cette voie."
+      }
+    },
+    {
+      "id": "annales/emd1-pharmacologie-2023/q03",
+      "type": "unique",
+      "enonce": "Un médicament acide faible dans un milieu gastrique à jeun est :",
+      "options": [
+        "Absorbé rapidement par la muqueuse gastrique",
+        "Est très peu absorbé par la muqueuse intestinale avec un pH très basique",
+        "Est sous forme non ionisé en milieu intestinal",
+        "Est sous forme ionisé en milieu gastrique",
+        "Est détruit dans tous les milieux du tube digestif"
+      ],
+      "correctes": [
+        0
+      ],
+      "explication": "a) Juste : un acide faible est peu ionisé en milieu acide et l'estomac est un « lieu favorable pour les médicaments acides faibles (forme non ionisée liposoluble +++) » ; il diffuse d'autant mieux que le pH est faible. b) Fausse : le pH de l'intestin grêle est de 5 à 8 (pas « très basique ») et l'intestin grêle est favorable aussi aux acides faibles. c) Fausse : un acide faible s'ionise plus en milieu alcalin, il est donc majoritairement ionisé dans l'intestin. d) Fausse : en milieu acide, la forme non ionisée d'un acide est élevée. e) Fausse : seule la dégradation de certains composés (ex. péni G) dans l'estomac est citée. Remarque : le mot « rapidement » n'est pas écrit dans le cours, mais a est la seule proposition défendable.",
+      "difficulte": 2,
+      "tags": [
+        "acide faible",
+        "estomac",
+        "pH"
+      ],
+      "origine": "annale",
+      "annale": "EMD1 Pharmacologie 2023",
+      "cours": "pharmacologie/03-absorption",
+      "verifie": true,
+      "source": {
+        "page": 35,
+        "extrait": "Pour les médicaments acides faibles (forme non ionisée liposoluble +++)"
+      }
+    },
+    {
+      "id": "annales/emd1-pharmacologie-2023/q04",
+      "type": "multiple",
+      "enonce": "Parmi les caractéristiques suivantes quelles sont celles qui sont en commun entre l'absorption facilitée et le transport actif des médicaments :",
+      "options": [
+        "La filtration",
+        "La compétition",
+        "La saturabilité",
+        "Non spécifique",
+        "Le transport contre le gradient de la concentration"
+      ],
+      "correctes": [
+        1,
+        2
+      ],
+      "explication": "a) Fausse : la filtration est un mécanisme distinct (eau et petites molécules à travers les pores). b) et c) Justes : diffusion facilitée et transport actif nécessitent un transporteur et présentent un « phénomène de saturation ; spécificité et compétition ». d) Fausse : les deux sont spécifiques. e) Fausse : seul le transport actif se fait contre le gradient ; la diffusion facilitée se fait dans le sens du gradient.",
+      "difficulte": 1,
+      "tags": [
+        "diffusion facilitée",
+        "transport actif"
+      ],
+      "origine": "annale",
+      "annale": "EMD1 Pharmacologie 2023",
+      "cours": "pharmacologie/03-absorption",
+      "verifie": true,
+      "source": {
+        "page": 10,
+        "extrait": "Phénomène de saturation ;spécificité et compétition."
+      }
+    },
+    {
+      "id": "annales/emd1-pharmacologie-2023/q05",
+      "type": "unique",
+      "enonce": "A propos des interactions médicamenteuses d'ordre pharmacodynamique :",
+      "options": [
+        "Elles peuvent s'accompagner d'une modification de la concentration sanguine de l'un des traitements associés",
+        "Celles classées comme contre-indiquées nécessitent des recommandations brièvement décrites",
+        "Elles ne concernent que les molécules agissant sur les mêmes récepteurs",
+        "Elles sont dites potentialisatrices si l'effet de l'association de deux molécules est égale à la somme des effets de chaque molécule",
+        "Les associations en antibiothérapie sont souvent de type potentialisatrices"
+      ],
+      "correctes": [
+        4
+      ],
+      "explication": "Question non couverte par les cours de pharmacologie disponibles (relève de la pharmacodynamie ou d'un autre enseignement) : réponse proposée sans vérification possible dans le cours, à confirmer. a) Fausse : une interaction pharmacodynamique survient sans modification des concentrations (c'est le propre des interactions pharmacocinétiques). b) Fausse : une association contre-indiquée ne doit pas être réalisée ; les recommandations décrites concernent les précautions d'emploi. c) Fausse : elles peuvent concerner des molécules agissant sur des récepteurs différents mais des effets communs ou opposés. d) Fausse : un effet égal à la somme définit l'additivité ; la potentialisation correspond à un effet supérieur à la somme. e) Juste : les associations d'antibiotiques recherchent souvent une synergie potentialisatrice.",
+      "difficulte": 2,
+      "tags": [
+        "interactions",
+        "pharmacodynamie"
+      ],
+      "origine": "annale",
+      "annale": "EMD1 Pharmacologie 2023",
+      "cours": null,
+      "verifie": false
+    },
+    {
+      "id": "annales/emd1-pharmacologie-2023/q06",
+      "type": "multiple",
+      "enonce": "L'antagonisme compétitif réversible :",
+      "options": [
+        "S'applique aussi bien pour une molécule interagissant sur le récepteur de l'agoniste que le système effecteur",
+        "Est surmontable par augmentation de la quantité d'agoniste",
+        "S'accompagne d'une diminution de l'affinité de l'agoniste",
+        "S'accompagne d'une diminution de l'activité intrinsèque de l'agoniste",
+        "Toutes les réponses sont justes"
+      ],
+      "correctes": [
+        1,
+        2
+      ],
+      "explication": "Question non couverte par les cours de pharmacologie disponibles (relève de la pharmacodynamie ou d'un autre enseignement) : réponse proposée sans vérification possible dans le cours, à confirmer. a) Fausse : l'antagoniste compétitif agit sur le même site du récepteur que l'agoniste, pas sur le système effecteur (antagonisme non compétitif). b) Juste : l'antagonisme est surmontable par augmentation de la quantité d'agoniste. c) Juste : l'affinité apparente de l'agoniste diminue (déplacement de la courbe vers la droite). d) Fausse : l'activité intrinsèque (effet maximal) de l'agoniste est conservée. e) Fausse.",
+      "difficulte": 2,
+      "tags": [
+        "antagonisme",
+        "pharmacodynamie"
+      ],
+      "origine": "annale",
+      "annale": "EMD1 Pharmacologie 2023",
+      "cours": null,
+      "verifie": false
+    },
+    {
+      "id": "annales/emd1-pharmacologie-2023/q07",
+      "type": "multiple",
+      "enonce": "Lors de la phase de Distribution, un médicament pourra se fixer aux protéines plasmatiques.",
+      "options": [
+        "Cette fixation n'est jamais réversible",
+        "Cette fixation pourrait se produire par des liaisons hydrogènes",
+        "L'albumine présente un nombre illimité de sites de fixations des médicaments acides faibles",
+        "Des sites de fixation spécifiques existent pour les molécules anioniques et cationiques",
+        "Les molécules médicamenteuses bases faibles présentent une forte affinité vis-à-vis des sites de fixation de l'α-1 Glycoprotéine acide"
+      ],
+      "correctes": [
+        1,
+        3,
+        4
+      ],
+      "explication": "a) Fausse : le cours précise que la fixation aux protéines plasmatiques est un phénomène réversible (seules les rares liaisons covalentes sont en général irréversibles), elle n'est donc pas « jamais réversible ». b) Juste : les liaisons hydrogènes font partie des liaisons citées (Van Der Waals, ioniques, hydrogènes). c) Fausse : le cours indique que les sites de fixation peuvent être « restreints ou nombreux » et évoque la saturation des sites ; un nombre « illimité » n'est jamais mentionné. d) Juste : il existe des sites spécifiques de fixation pour les substances anioniques et cationiques. e) Non tranché explicitement par le cours : celui-ci cite l'α1 glycoprotéine acide parmi les deux principales protéines de fixation et indique que la fixation dépend des caractéristiques acido-basiques des médicaments, sans préciser que les bases faibles ont une forte affinité pour l'α1 glycoprotéine acide ; c'est néanmoins la meilleure réponse, retenue comme juste.",
+      "difficulte": 2,
+      "tags": [
+        "fixation protéique",
+        "nature de la liaison",
+        "α1 glycoprotéine acide"
+      ],
+      "origine": "annale",
+      "annale": "EMD1 Pharmacologie 2023",
+      "cours": "pharmacologie/04-distribution",
+      "verifie": false,
+      "source": {
+        "page": 2,
+        "extrait": "Tous les médicaments se fixent aux protéines plasmatiques, d'une manière réversible"
+      }
+    },
+    {
+      "id": "annales/emd1-pharmacologie-2023/q08",
+      "type": "multiple",
+      "enonce": "Certains facteurs peuvent influencer la fixation des médicaments à l'albumine, ce qui impactera :",
+      "options": [
+        "Une hypoalbuminémie est observée lors d'une insuffisance hépatique, ce qui impactera significativement la distribution des médicaments très faiblement fixés à l'albumine",
+        "La présence de taux plus élevés de bilirubine chez le nouveau-né entrainera l'augmentation de la fraction libre des médicaments habituellement fixés à l'albumine",
+        "Une insuffisance rénale induit généralement un état d'hyper albuminémie augmentant de ce fait la fraction liée des médicaments à l'albumine",
+        "Une compétition entre deux principes actifs (PA) fortement liés à l'albumine entrainera l'augmentation de la fraction pharmacologiquement active du PA possédant la plus forte affinité vis-à-vis de l'albumine",
+        "Une augmentation ou une diminution de la fraction liée à l'albumine impactera l'effet pharmacologique d'un médicament"
+      ],
+      "correctes": [
+        1,
+        4
+      ],
+      "explication": "a) Fausse : le cours indique seulement que les facteurs pathologiques influencent le taux des protéines plasmatiques ; surtout, l'impact d'une variation de fixation concerne les médicaments fortement (et non très faiblement) liés. b) Juste : chez le nouveau-né, la bilirubine est augmentée et la bilirubine diminue la fixation protéique des médicaments, d'où une augmentation de la fraction libre. c) Fausse : le cours ne mentionne aucune hyperalbuminémie ; il ne décrit que des hypoalbuminémies (personne âgée, grossesse). d) Fausse : le PA de plus forte affinité déplace l'autre ; c'est la fraction libre (active) du PA de plus faible affinité qui augmente. e) Juste (meilleure réponse) : seule la fraction libre est active, donc une variation de la fraction liée modifie la fraction active ; le cours nuance toutefois que l'effet thérapeutique n'est modifié de façon notable que pour les médicaments fortement liés, à Vd faible et index thérapeutique étroit. Non tranché explicitement par le cours pour a (insuffisance hépatique) et e (formulation générale).",
+      "difficulte": 3,
+      "tags": [
+        "albumine",
+        "facteurs de variation",
+        "bilirubine",
+        "interactions médicamenteuses"
+      ],
+      "origine": "annale",
+      "annale": "EMD1 Pharmacologie 2023",
+      "cours": "pharmacologie/04-distribution",
+      "verifie": false,
+      "source": {
+        "page": 4,
+        "extrait": "Acides gras libres et Bilirubine→ diminution de la fixation protéique plasmatique des médicaments"
+      }
+    },
+    {
+      "id": "annales/emd1-pharmacologie-2023/q09",
+      "type": "multiple",
+      "enonce": "Les réactions de biotransformation :",
+      "options": [
+        "Des médicaments administrés par voie orale, se produisent exclusivement au niveau intestinal",
+        "Font intervenir des enzymes localisées principalement au niveau du noyau cellulaire",
+        "Pourraient avoir comme conséquence une inactivation du principe actif ou dans certains cas une activation d'une prodrogue",
+        "Ne génèrent jamais de métabolites réactifs",
+        "Des médicaments quelle que soit leur voie d'administration, se produisent généralement au niveau hépatique"
+      ],
+      "correctes": [
+        2,
+        4
+      ],
+      "explication": "a) Fausse : la biotransformation a lieu dans de nombreux tissus et organes, en premier lieu le foie ; elle n'est donc pas exclusivement intestinale après administration orale. b) Fausse : au niveau cellulaire, les enzymes sont dans le réticulum endoplasmique (microsomales) et le cytosol (cytosoliques), la membrane nucléaire n'intervenant qu'à moindre degré ; le noyau n'est pas le site principal. c) Juste : le métabolisme peut inactiver un principe actif (phénobarbital → hydroxyphénobarbital) ou activer une molécule initialement inactive (spironolactone → canrénone). d) Fausse : le métabolisme peut donner des métabolites réactifs toxiques, comme la NAPQI du paracétamol. e) Juste : la biotransformation a lieu en premier lieu au niveau hépatique, le foie jouant le rôle de « douane ».",
+      "difficulte": 2,
+      "tags": [
+        "biotransformation",
+        "lieu du métabolisme",
+        "conséquences du métabolisme"
+      ],
+      "origine": "annale",
+      "annale": "EMD1 Pharmacologie 2023",
+      "cours": "pharmacologie/05-metabolisme",
+      "verifie": true,
+      "source": {
+        "page": 5,
+        "extrait": "La biotransformation a lieu au niveau de nombreux tissus et organes en 1 er lieu : le foie"
+      }
+    },
+    {
+      "id": "annales/emd1-pharmacologie-2023/q10",
+      "type": "multiple",
+      "enonce": "Les réactions de biotransformation de Phase 2 :",
+      "options": [
+        "De glucuronoconjugaison, catalysent le transfert d'un acide glucuronique sur un groupement polaire du médicament",
+        "Sont des réactions de fonctionnalisation",
+        "Entraînent dans tous les cas la formation de métabolites plus polaires que la molécule de départ",
+        "De glucuronoconjugaison, sont catalysées via l'action de l'UDP glucuronyl transférase",
+        "Font toujours suite à des réactions de Phase 1"
+      ],
+      "correctes": [
+        0,
+        2,
+        3
+      ],
+      "explication": "a) Juste : la phase II rattache de petites molécules polaires endogènes, dont l'acide glucuronique, au groupement fonctionnel du médicament ou du métabolite de phase I. b) Fausse : les réactions de fonctionnalisation sont celles de la phase I ; la phase II correspond aux conjugaisons. c) Retenue comme juste : le cours indique que les métabolites de phase II sont polaires, hydrosolubles et plus solubles dans l'eau ; non tranché explicitement par le cours pour la formulation absolue « dans tous les cas ». d) Juste : la glucuroconjugaison est catalysée par l'UDP glucuronyl-transférase, enzyme microsomale. e) Fausse : la phase I n'est pas obligatoire, certains médicaments subissent directement la phase II. Options vérifiées sans ambiguïté par le cours : a, b, d, e ; seule l'option c repose sur une généralisation du cours.",
+      "difficulte": 3,
+      "tags": [
+        "phase II",
+        "glucuroconjugaison"
+      ],
+      "origine": "annale",
+      "annale": "EMD1 Pharmacologie 2023",
+      "cours": "pharmacologie/05-metabolisme",
+      "verifie": false,
+      "source": {
+        "page": 19,
+        "extrait": "L'enzyme : UDP glucuronyl-transférase, (uridine diphosphate glucuronyl transférase) enzyme microsomale"
+      }
+    },
+    {
+      "id": "annales/emd1-pharmacologie-2023/q11",
+      "type": "multiple",
+      "enonce": "La filtration glomérulaire :",
+      "options": [
+        "Est une ultra filtration à travers des pores de la paroi du capillaire glomérulaire",
+        "Est un phénomène actif nécessitant une source d'ATP",
+        "Concerne les molécules de poids moléculaire > 68 KDa",
+        "Est limitée par la fixation des médicaments aux protéines plasmatiques",
+        "Est appréciée par la mesure du taux sanguin d'une substance totalement filtrée par le glomérule, sécrétée par le tubule rénal mais non réabsorbée par ce dernier"
+      ],
+      "correctes": [
+        0,
+        3
+      ],
+      "explication": "a) Juste (meilleure réponse) : le cours décrit la filtration glomérulaire comme un mécanisme passif dépendant de la taille ; la notion d'ultrafiltration à travers des pores n'est pas formulée explicitement. b) Fausse : c'est un mécanisme passif, sans ATP. c) Fausse : elle concerne les médicaments de PM < 68 000 Da (et non > 68 kDa). d) Juste : seule la fraction libre est filtrée, la fixation aux protéines plasmatiques limite donc la filtration. e) Fausse : une substance filtrée ET sécrétée ne permet pas d'apprécier la filtration seule ; non tranché explicitement par le cours (la mesure du DFG n'y est pas décrite). Non tranché explicitement par le cours pour a et e.",
+      "difficulte": 2,
+      "tags": [
+        "filtration glomérulaire"
+      ],
+      "origine": "annale",
+      "annale": "EMD1 Pharmacologie 2023",
+      "cours": "pharmacologie/06-elimination",
+      "verifie": false,
+      "source": {
+        "page": 12,
+        "extrait": "Seule la fraction libre est filtrée par le glomérule"
+      }
+    },
+    {
+      "id": "annales/emd1-pharmacologie-2023/q12",
+      "type": "multiple",
+      "enonce": "Certains principes actifs (PA) peuvent être excrétés dans le lait maternel.",
+      "options": [
+        "Notamment les substances très lipophiles qui s'y dissolvent en grandes quantités",
+        "Les PA bases faibles sont principalement sous forme non ionisée au niveau du sang et peuvent se concentrer dans le lait maternel (pH plus faible que celui du sang)",
+        "Cette excrétion se produit principalement par transport actif",
+        "Les PA acides faibles sont fortement excrétés dans le lait maternel",
+        "Cette excrétion se produit principalement par diffusion passive"
+      ],
+      "correctes": [
+        0,
+        1,
+        4
+      ],
+      "explication": "a) Juste : le passage dans le lait est d'autant plus grand que le médicament est lipophile. b) Juste (meilleure réponse) : le lait ayant un pH plus faible que le sang, les bases faibles s'y ionisent et s'y concentrent ; ce mécanisme de piégeage ionique n'est pas détaillé dans le cours. c) Fausse : le cours parle de mécanismes complexes, actifs et passifs, sans prédominance du transport actif. d) Fausse : par le même raisonnement, les acides faibles sont peu concentrés dans un lait plus acide que le sang (non explicite dans le cours). e) Juste (meilleure réponse) : diffusion passive prédominante, non explicitement tranchée par le cours (« actif et passif »). Non tranché explicitement par le cours pour b, d et e.",
+      "difficulte": 3,
+      "tags": [
+        "élimination lactée"
+      ],
+      "origine": "annale",
+      "annale": "EMD1 Pharmacologie 2023",
+      "cours": "pharmacologie/06-elimination",
+      "verifie": false,
+      "source": {
+        "page": 34,
+        "extrait": "Mécanismes de passage complexes : actif et passif"
+      }
+    },
+    {
+      "id": "annales/emd1-pharmacologie-2023/q13",
+      "type": "multiple",
+      "enonce": "Le passage d'un canal ionique de l'état de repos à l'état actif peut se faire par :",
+      "options": [
+        "dépolarisation",
+        "fixation d'un médiateur endogène",
+        "l'action conjuguée hydrolyse de l'ATP - fixation d'un médiateur endogène",
+        "hydrolyse de l'ATP",
+        "translocation ionotropique"
+      ],
+      "correctes": [
+        0,
+        1
+      ],
+      "explication": "Question non couverte par les cours de pharmacologie disponibles (relève de la pharmacodynamie ou d'un autre enseignement) : réponse proposée sans vérification possible dans le cours, à confirmer. Les canaux ioniques passent à l'état actif soit par dépolarisation (canaux voltage-dépendants, a), soit par fixation d'un médiateur endogène (canaux ligand-dépendants, b). Les autres mécanismes proposés (hydrolyse de l'ATP, « translocation ionotropique ») ne correspondent pas aux modes d'ouverture classiquement décrits.",
+      "difficulte": 2,
+      "tags": [
+        "canaux ioniques",
+        "pharmacodynamie"
+      ],
+      "origine": "annale",
+      "annale": "EMD1 Pharmacologie 2023",
+      "cours": null,
+      "verifie": false
+    },
+    {
+      "id": "annales/emd1-pharmacologie-2023/q14",
+      "type": "multiple",
+      "enonce": "L'intensité de la réponse pharmacologique spécifique :",
+      "options": [
+        "est inversement proportionnelle à la concentration des récepteurs occupés",
+        "est proportionnelle à la concentration des récepteurs occupés",
+        "est dépendante à la fois de l'activité intrinsèque et de la concentration des récepteurs occupés",
+        "est maximale pour l'agoniste parfait qui occupe la totalité des récepteurs disponibles",
+        "est maximale pour l'agoniste parfait qui occupe la totalité des récepteurs de l'ADN"
+      ],
+      "correctes": [
+        1,
+        2,
+        3
+      ],
+      "explication": "Question non couverte par les cours de pharmacologie disponibles (relève de la pharmacodynamie ou d'un autre enseignement) : réponse proposée sans vérification possible dans le cours, à confirmer. Selon la théorie de l'occupation, l'intensité de la réponse est proportionnelle à la concentration des récepteurs occupés (b, donc a fausse) et dépend aussi de l'activité intrinsèque de la molécule (c) ; elle est maximale pour l'agoniste parfait occupant la totalité des récepteurs disponibles (d). e) Fausse : il ne s'agit pas de récepteurs de l'ADN.",
+      "difficulte": 2,
+      "tags": [
+        "théorie de l'occupation",
+        "pharmacodynamie"
+      ],
+      "origine": "annale",
+      "annale": "EMD1 Pharmacologie 2023",
+      "cours": null,
+      "verifie": false
+    },
+    {
+      "id": "annales/emd1-pharmacologie-2023/q15",
+      "type": "unique",
+      "enonce": "Les agonistes adrénergiques :",
+      "options": [
+        "occupent les mêmes récepteurs",
+        "entrainent les mêmes effets pharmacologiques",
+        "entrainent des effets pharmacologiques opposés",
+        "ont une activité intrinsèque maximale quand ils occupent la totalité des récepteurs disponibles",
+        "ont une transduction similaire des signaux membranaires"
+      ],
+      "correctes": [
+        2
+      ],
+      "explication": "Question non couverte par les cours de pharmacologie disponibles (relève de la pharmacodynamie ou d'un autre enseignement) : réponse proposée sans vérification possible dans le cours, à confirmer. Réponse incertaine. Les agonistes adrénergiques agissent sur des sous-types de récepteurs différents (α, β), ce qui rend fausses a et b ; ces sous-types peuvent produire des effets opposés (ex. vasoconstriction α vs vasodilatation β2), d'où c retenue. d) n'est vraie que pour les agonistes entiers et e) est fausse car la transduction diffère selon le sous-type (Gs, Gq, Gi).",
+      "difficulte": 2,
+      "tags": [
+        "agonistes adrénergiques",
+        "pharmacodynamie"
+      ],
+      "origine": "annale",
+      "annale": "EMD1 Pharmacologie 2023",
+      "cours": null,
+      "verifie": false
+    },
+    {
+      "id": "annales/emd1-pharmacologie-2023/q16",
+      "type": "multiple",
+      "enonce": "La perturbation de l'accommodation visuelle :",
+      "options": [
+        "est un effet secondaire des antimuscariniques",
+        "est un effet indésirable de l'homatropine",
+        "est un effet indésirable lié au tropanol",
+        "est effet secondaire d'ordre pharmacogénétique",
+        "toutes les propositions sont fausses"
+      ],
+      "correctes": [
+        0,
+        1
+      ],
+      "explication": "Question non couverte par les cours de pharmacologie disponibles (relève de la pharmacodynamie ou d'un autre enseignement) : réponse proposée sans vérification possible dans le cours, à confirmer. La perturbation de l'accommodation (cycloplégie) est un effet secondaire des antimuscariniques (a), dont l'homatropine, utilisée comme mydriatique (b). c) Le « tropanol » n'est pas un antimuscarinique utilisé comme médicament. d) Ce n'est pas un effet d'ordre pharmacogénétique. e) Fausse.",
+      "difficulte": 2,
+      "tags": [
+        "antimuscariniques",
+        "effets indésirables"
+      ],
+      "origine": "annale",
+      "annale": "EMD1 Pharmacologie 2023",
+      "cours": null,
+      "verifie": false
+    },
+    {
+      "id": "annales/emd1-pharmacologie-2023/q17",
+      "type": "unique",
+      "enonce": "L'acide éicosapentanéoïque :",
+      "options": [
+        "est un médicament à action spécifique",
+        "est un médicament à action non spécifique",
+        "est un poison qui se lie à l'ADN par des liaisons covalente",
+        "inhibe l'ARN polymérase des cellules cancéreuses",
+        "a le même récepteur que le cholécalciférol"
+      ],
+      "correctes": [
+        0
+      ],
+      "explication": "Question non couverte par les cours de pharmacologie disponibles (relève de la pharmacodynamie ou d'un autre enseignement) : réponse proposée sans vérification possible dans le cours, à confirmer. Réponse incertaine. L'acide éicosapentaénoïque (oméga-3) agit sur des cibles définies (récepteurs nucléaires de type PPAR) : il est retenu comme médicament à action spécifique (a). Ce n'est pas un poison de l'ADN (c), il n'inhibe pas l'ARN polymérase (d) et ne partage pas le récepteur du cholécalciférol (récepteur de la vitamine D) (e).",
+      "difficulte": 2,
+      "tags": [
+        "récepteurs nucléaires",
+        "pharmacodynamie"
+      ],
+      "origine": "annale",
+      "annale": "EMD1 Pharmacologie 2023",
+      "cours": null,
+      "verifie": false
+    },
+    {
+      "id": "annales/emd1-pharmacologie-2023/q18",
+      "type": "multiple",
+      "enonce": "La néostigmine :",
+      "options": [
+        "augmente la concentration de l'acétylcholine au niveau des récepteurs cholinergiques",
+        "augmente la concentration de l'acétylcholine au niveau des récepteurs muscariniques",
+        "augmente la concentration de l'acétylcholine au niveau des récepteurs nicotiniques",
+        "inhibe l'ADN-gyrase des microorganismes",
+        "se lie au récepteur nucléaire de la mélatonine"
+      ],
+      "correctes": [
+        0,
+        1,
+        2
+      ],
+      "explication": "Question non couverte par les cours de pharmacologie disponibles (relève de la pharmacodynamie ou d'un autre enseignement) : réponse proposée sans vérification possible dans le cours, à confirmer. La néostigmine est un anticholinestérasique : en inhibant la dégradation de l'acétylcholine, elle augmente sa concentration au niveau de l'ensemble des récepteurs cholinergiques, muscariniques et nicotiniques (a, b, c). Elle n'agit ni sur l'ADN-gyrase (d) ni sur un récepteur de la mélatonine (e).",
+      "difficulte": 2,
+      "tags": [
+        "néostigmine",
+        "anticholinestérasique"
+      ],
+      "origine": "annale",
+      "annale": "EMD1 Pharmacologie 2023",
+      "cours": null,
+      "verifie": false
+    },
+    {
+      "id": "annales/emd1-pharmacologie-2023/q19",
+      "type": "multiple",
+      "enonce": "La phosphatidylinositol 2,4-biphosphate membranaire :",
+      "options": [
+        "est un second messager",
+        "est une enzyme membranaire",
+        "est un effecteur enzymatique de la protéine G",
+        "est un substrat des phospholipases",
+        "est un substrat de la phospholipase Cβ"
+      ],
+      "correctes": [
+        3,
+        4
+      ],
+      "explication": "Question non couverte par les cours de pharmacologie disponibles (relève de la pharmacodynamie ou d'un autre enseignement) : réponse proposée sans vérification possible dans le cours, à confirmer. Le phosphatidylinositol biphosphate (PIP2) membranaire n'est ni un second messager, ni une enzyme, ni un effecteur de la protéine G : c'est un substrat des phospholipases (d), en particulier de la phospholipase Cβ activée par Gq, qui le scinde en IP3 et DAG, les vrais seconds messagers (e).",
+      "difficulte": 2,
+      "tags": [
+        "protéines G",
+        "seconds messagers"
+      ],
+      "origine": "annale",
+      "annale": "EMD1 Pharmacologie 2023",
+      "cours": null,
+      "verifie": false
+    },
+    {
+      "id": "annales/emd1-pharmacologie-2023/q20",
+      "type": "unique",
+      "enonce": "Le Mitogen Activated Protein Kinase :",
+      "options": [
+        "est un second messager",
+        "est une enzyme membranaire",
+        "est un effecteur enzymatique de la protéine Gi/o",
+        "est un effecteur enzymatique de la protéine Gs",
+        "est un effecteur enzymatique de la protéine Gq"
+      ],
+      "correctes": [
+        2
+      ],
+      "explication": "Question non couverte par les cours de pharmacologie disponibles (relève de la pharmacodynamie ou d'un autre enseignement) : réponse proposée sans vérification possible dans le cours, à confirmer. Réponse incertaine. La MAP kinase n'est ni un second messager ni une enzyme membranaire ; parmi les voies proposées, elle est classiquement décrite comme effecteur activé par la protéine Gi/o (via les sous-unités βγ).",
+      "difficulte": 2,
+      "tags": [
+        "protéines G",
+        "MAP kinase"
+      ],
+      "origine": "annale",
+      "annale": "EMD1 Pharmacologie 2023",
+      "cours": null,
+      "verifie": false
+    },
+    {
+      "id": "annales/emd1-pharmacologie-2023/q21",
+      "type": "multiple",
+      "enonce": "L'aldostérone :",
+      "options": [
+        "est une hormone corticosurrénalienne antidiurétique",
+        "est un minéralocorticoïde",
+        "a un récepteur cytosolique",
+        "augmente l'expression génique des protéines fonctionnelles chargées du maintien de l'équilibre homéostasique",
+        "réprime l'expression génique des protéines fonctionnelles chargées du maintien de l'équilibre homéostasique"
+      ],
+      "correctes": [
+        1,
+        2,
+        3
+      ],
+      "explication": "Question non couverte par les cours de pharmacologie disponibles (relève de la pharmacodynamie ou d'un autre enseignement) : réponse proposée sans vérification possible dans le cours, à confirmer. L'aldostérone est un minéralocorticoïde (b) qui agit sur un récepteur cytosolique (c) ; le complexe hormone-récepteur migre dans le noyau et augmente l'expression génique de protéines fonctionnelles (canaux sodiques, pompe Na+/K+) impliquées dans l'équilibre homéostasique (d, donc e fausse). a) Fausse : l'hormone antidiurétique est la vasopressine (ADH), non une hormone corticosurrénalienne.",
+      "difficulte": 2,
+      "tags": [
+        "récepteurs nucléaires",
+        "aldostérone"
+      ],
+      "origine": "annale",
+      "annale": "EMD1 Pharmacologie 2023",
+      "cours": null,
+      "verifie": false
+    },
+    {
+      "id": "annales/emd1-pharmacologie-2023/q22",
+      "type": "multiple",
+      "enonce": "L'effet placébo :",
+      "options": [
+        "est exploité dans le traitement des maladies psychosomatiques",
+        "est un effet d'ordre psychique sans explication d'ordre pharmacodynamique",
+        "est lié à l'acte d'administration",
+        "n'est pas porté par le placébo",
+        "est porté par le placébo"
+      ],
+      "correctes": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explication": "Question non couverte par les cours de pharmacologie disponibles (relève de la pharmacodynamie ou d'un autre enseignement) : réponse proposée sans vérification possible dans le cours, à confirmer. L'effet placebo est un effet d'ordre psychique sans explication pharmacodynamique (b), exploité notamment dans les maladies psychosomatiques (a) ; il est lié à l'acte d'administration et non porté par le placebo lui-même (c et d justes, e fausse).",
+      "difficulte": 2,
+      "tags": [
+        "placebo"
+      ],
+      "origine": "annale",
+      "annale": "EMD1 Pharmacologie 2023",
+      "cours": null,
+      "verifie": false
+    },
+    {
+      "id": "annales/emd1-pharmacologie-2023/q23",
+      "type": "multiple",
+      "enonce": "Dans l'approche pharmacocinétique par la méthode des résidus :",
+      "options": [
+        "Les processus décrivant l'élimination et l'absorption sont tous les deux d'ordre zéro",
+        "La vitesse de transfert ou de réaction est d'ordre un",
+        "Certaines phases ne seront pas remarquées, si les prélèvements ne sont pas assez nombreux",
+        "La constante décrivant l'élimination (ke) est plus grande que celle décrivant l'absorption (ka)",
+        "Toutes les propositions sont correctes"
+      ],
+      "correctes": [
+        1,
+        2
+      ],
+      "explication": "a) Faux : dans le cours, la méthode des résidus décompose la courbe en exponentielles (Cp = E·e^(−Ke·t) − A·e^(−Ka·t) pour la voie orale ; Cp = D·e^(−kd·t) + E·e^(−ke·t) en bicompartimental), ce qui correspond à des processus d'ordre un et non d'ordre zéro. b) Juste : ces termes exponentiels traduisent des vitesses de transfert d'ordre un (constantes Ka, Kd, Ke en 1/h). c) Retenue comme juste mais non tranchée explicitement par le cours de modélisation : la méthode repose sur des points expérimentaux (C1, C2, C3…) pour tracer chaque droite ; le cours de bioéquivalence rappelle que « le calendrier doit permettre de caractériser correctement les phases d'absorption et d'élimination ». d) Faux selon la logique du cours : la phase terminale (droite d'élimination) est extrapolée et la droite des résidus correspond à l'absorption plus rapide, ce qui suppose Ka > Ke ; le cours ne l'énonce toutefois pas en toutes lettres. e) Faux puisque a et d sont fausses. Non tranché explicitement par le cours pour c et d.",
+      "difficulte": 2,
+      "tags": [
+        "méthode des résidus",
+        "modélisation pharmacocinétique",
+        "ordre un"
+      ],
+      "origine": "annale",
+      "annale": "EMD1 Pharmacologie 2023",
+      "cours": "pharmacologie/07-modelisation-pk-partie-1",
+      "verifie": false,
+      "source": {
+        "page": 37,
+        "extrait": "Cp = E . e-Ke.t – A . e-Ka.t"
+      }
+    },
+    {
+      "id": "annales/emd1-pharmacologie-2023/q24",
+      "type": "unique",
+      "enonce": "Les méthodes d'étude de l'absorption des médicaments utilisant la culture cellulaire présentent les avantages :",
+      "options": [
+        "La durée de viabilité des lignées cellulaires est grande",
+        "Le nombre d'expériences possible est illimité",
+        "Ne nécessitent pas des moyens importants",
+        "Les résultats sont reproductibles pour toutes les lignées cellulaires utilisées",
+        "Toutes les propositions sont fausses"
+      ],
+      "correctes": [
+        1
+      ],
+      "explication": "Non couverte par les cours disponibles : les méthodes d'étude de l'absorption (culture cellulaire) ne figurent pas dans le cours d'absorption ; réponse proposée sans vérification. b) retenue : la culture cellulaire permet un grand nombre d'expériences. a) Fausse : la viabilité des lignées est limitée. c) Fausse : elle nécessite des moyens importants. d) Fausse : la reproductibilité varie selon les lignées. e) Fausse puisque b est retenue.",
+      "difficulte": 2,
+      "tags": [
+        "méthodes d'étude",
+        "absorption"
+      ],
+      "origine": "annale",
+      "annale": "EMD1 Pharmacologie 2023",
+      "cours": null,
+      "verifie": false
+    },
+    {
+      "id": "annales/emd1-pharmacologie-2023/q25",
+      "type": "multiple",
+      "enonce": "Le modèle expérimental de l'intestin isolé présente les avantages :",
+      "options": [
+        "Prend en considération l'ensemble des phénomènes de transport membranaire",
+        "La méthode utilisée pour le sacrifice et la nature du milieu de survie sont sans incidence sur les résultats de l'essai",
+        "La durée de survie de l'intestin prélevé est importante ce qui permet une expérimentation prolongée",
+        "Le volume du milieu sérique est important par rapport à la surface d'échange",
+        "Toutes les propositions sont fausses"
+      ],
+      "correctes": [
+        4
+      ],
+      "explication": "Non couverte par les cours disponibles : le modèle de l'intestin isolé n'est pas traité dans le cours d'absorption ; réponse proposée sans vérification. a) Fausse : le modèle ne reproduit pas l'ensemble des phénomènes de transport. b) Fausse : le mode de sacrifice et le milieu de survie influencent les résultats. c) Fausse : la survie de l'intestin prélevé est courte. d) Fausse : un volume important de milieu par rapport à la surface d'échange est une limite. e) Juste.",
+      "difficulte": 2,
+      "tags": [
+        "méthodes d'étude",
+        "absorption"
+      ],
+      "origine": "annale",
+      "annale": "EMD1 Pharmacologie 2023",
+      "cours": null,
+      "verifie": false
+    },
+    {
+      "id": "annales/emd1-pharmacologie-2023/q26",
+      "type": "unique",
+      "enonce": "La pharmacologie de sécurité étudie :",
+      "options": [
+        "Les effets pharmacodynamiques secondaires que peut avoir une substance médicamenteuse sur les fonctions physiologiques de l'animal",
+        "Les effets toxiques du médicament chez l'animal",
+        "Les effets secondaires inattendus chez l'homme",
+        "Le rapport coût/bénéfice du médicament chez l'animal",
+        "Toutes les propositions sont correctes"
+      ],
+      "correctes": [
+        0
+      ],
+      "explication": "Non couverte : aucun cours disponible ne traite de la pharmacologie de sécurité ; réponse proposée sans vérification. a) retenue : elle étudie les effets pharmacodynamiques secondaires d'une substance sur les fonctions physiologiques de l'animal. b) relève de la toxicologie, c) de la pharmacovigilance (définie dans le cours d'introduction comme la surveillance des effets indésirables), d) de la pharmacoéconomie (étude du prix) ; e) donc fausse.",
+      "difficulte": 2,
+      "tags": [
+        "pharmacologie de sécurité"
+      ],
+      "origine": "annale",
+      "annale": "EMD1 Pharmacologie 2023",
+      "cours": null,
+      "verifie": false
+    },
+    {
+      "id": "annales/emd1-pharmacologie-2023/q27",
+      "type": "multiple",
+      "enonce": "Volume apparent de distribution d'un médicament (Vd) :",
+      "options": [
+        "Est un paramètre permettant l'estimation de la diffusion tissulaire du médicament",
+        "Ne peut pas être supérieur au volume corporel total",
+        "Est un volume hypothétique de liquide biologique qui met la drogue à une concentration plasmatique",
+        "Est utilisé pour apprécier la vitesse d'absorption",
+        "Toutes les propositions sont correctes"
+      ],
+      "correctes": [
+        0,
+        2
+      ],
+      "explication": "a) Juste : le tableau des valeurs de Vd du cours sert à apprécier la diffusion du médicament (« distribution limitée au niveau de la circulation sanguine » pour Vd < 10 l, « distribution élevée » pour les grands Vd). b) Faux : le cours cite des valeurs « dépassant très largement les valeurs du volume total de l'organisme » (ex. chloroquine > 5000 l). c) Juste : le Vd est défini comme un « volume fictif de liquide biologique dans lequel devrait se distribuer le médicament pour être à la même concentration que celle du plasma ». d) Faux : le Vd est un paramètre de la phase de distribution ; la vitesse d'absorption est décrite par la constante Ka. e) Faux puisque b et d sont fausses.",
+      "difficulte": 1,
+      "tags": [
+        "volume de distribution",
+        "paramètres pharmacocinétiques",
+        "distribution"
+      ],
+      "origine": "annale",
+      "annale": "EMD1 Pharmacologie 2023",
+      "cours": "pharmacologie/07-modelisation-pk-partie-1",
+      "verifie": true,
+      "source": {
+        "page": 20,
+        "extrait": "Volume fictif de liquide biologique dans lequel devrait se distribuer le médicament pour être à la même concentration que celle du plasma."
+      }
+    },
+    {
+      "id": "annales/emd1-pharmacologie-2023/q28",
+      "type": "unique",
+      "enonce": "Le temps de demi-vie d'élimination d'un médicament (T1/2) :",
+      "options": [
+        "N'est pas corrélé à la constante de vitesse d'élimination du médicament",
+        "Est l'intervalle de temps durant lequel une quantité de médicament est réduite de moitié à la suite d'un processus d'élimination dont la cinétique est d'ordre un",
+        "Est l'intervalle de temps durant lequel une quantité de médicament est réduite de moitié à la suite d'un processus d'élimination dont la cinétique est d'ordre zéro",
+        "Est utilisée pour apprécier la vitesse de distribution Kd",
+        "Toutes les propositions sont correctes"
+      ],
+      "correctes": [
+        1
+      ],
+      "explication": "a) Faux : le cours donne t1/2 = ln2 / ke ; la demi-vie est donc directement (inversement) liée à la constante d'élimination. b) Juste : le cours définit T1/2 comme l'« intervalle de temps au bout duquel la moitié du médicament [est] éliminée », et l'établit à partir de la décroissance exponentielle C = C0·e^(−ke·t), c'est-à-dire une cinétique d'ordre un. c) Faux : la relation t1/2 = ln2/ke n'est valable que pour une élimination exponentielle (ordre un), pas pour un ordre zéro. d) Faux : la demi-vie d'élimination renseigne sur l'élimination (Ke) ; la distribution est décrite par Kd et par un temps de demi-vie de distribution distinct (ln2/kD, modèle bicompartimental). e) Faux.",
+      "difficulte": 1,
+      "tags": [
+        "demi-vie d'élimination",
+        "constante d'élimination",
+        "ordre un"
+      ],
+      "origine": "annale",
+      "annale": "EMD1 Pharmacologie 2023",
+      "cours": "pharmacologie/07-modelisation-pk-partie-1",
+      "verifie": true,
+      "source": {
+        "page": 22,
+        "extrait": "Intervalle de temps au bout duquel la moitié du médicament éliminée."
+      }
+    },
+    {
+      "id": "annales/emd1-pharmacologie-2023/q29",
+      "type": "unique",
+      "enonce": "Parmi les propositions suivantes, quelle(s) affirmation(s) est (sont) juste(s) ?",
+      "options": [
+        "Pour être retenue, une interaction médicamenteuse ne doit pas avoir une traduction clinique significative",
+        "Une interaction médicamenteuse en phase pharmacocinétique aboutit à la modification de la concentration en principe actif, de l'un des médicaments administrés, au niveau du site d'action",
+        "La Cholestyramine est à l'origine de formation de complexes très résorbables avec les médicaments qui lui sont associés, diminuant, de ce fait, la biodisponibilité de ces derniers",
+        "La Carbamazépine est responsable de la diminution du nombre d'enzymes responsables du métabolisme du médicament qui lui est associé",
+        "Toutes les réponses sont justes"
+      ],
+      "correctes": [
+        1
+      ],
+      "explication": "Question sur les interactions médicamenteuses, non traitées en tant que telles dans les cours : vérification partielle seulement. c) Fausse d'après le cours d'élimination : la cholestyramine « fixe certains PA dans l'intestin » et empêche leur résorption (complexes non résorbables, pas « très résorbables »). d) Fausse d'après le cours de métabolisme : la carbamazépine figure parmi les inducteurs enzymatiques, qui augmentent (et non diminuent) l'activité des enzymes de biotransformation. a) Fausse : une interaction n'est retenue que si elle a une traduction clinique significative (non tranché par le cours). b) Retenue comme juste : une interaction pharmacocinétique modifie la concentration du PA au site d'action (non tranché par le cours). e) Fausse.",
+      "difficulte": 2,
+      "tags": [
+        "interactions",
+        "cholestyramine",
+        "carbamazépine"
+      ],
+      "origine": "annale",
+      "annale": "EMD1 Pharmacologie 2023",
+      "cours": null,
+      "verifie": false,
+      "source": {
+        "page": 30,
+        "extrait": "la cholestyramine, qui fixe certains PA dans l'intestin, met fin à ce cycle."
+      }
+    },
+    {
+      "id": "annales/emd1-pharmacologie-2023/q30",
+      "type": "multiple",
+      "enonce": "La modification du pH urinaire :",
+      "options": [
+        "Peut influencer la sécrétion tubulaire des acides faibles",
+        "Peut influencer la sécrétion tubulaire des acides forts",
+        "Peut être exploitée dans le traitement des intoxications médicamenteuses, en diminuant l'élimination rénale de ces médicaments",
+        "En utilisant les Bicarbonates, permet le traitement des intoxications aux Barbituriques suite à la diminution du pH urinaire",
+        "Toutes les propositions sont fausses"
+      ],
+      "correctes": [
+        4
+      ],
+      "explication": "a) et b) Fausses : le pH urinaire et le pKa conditionnent la réabsorption tubulaire passive (TCD et TC), non la sécrétion tubulaire, qui est un transport actif de la fraction ionisée au TCP. c) Fausse : la modification du pH est exploitée pour augmenter (et non diminuer) l'élimination rénale du toxique. d) Fausse : les bicarbonates alcalinisent les urines (augmentation du pH), ce qui augmente l'ionisation et l'élimination des barbituriques (acides). e) Juste : toutes les propositions sont fausses. Non tranché explicitement par le cours pour c et d (intoxications et bicarbonates non abordés) ; a et b découlent du cours.",
+      "difficulte": 3,
+      "tags": [
+        "pH urinaire",
+        "réabsorption passive"
+      ],
+      "origine": "annale",
+      "annale": "EMD1 Pharmacologie 2023",
+      "cours": "pharmacologie/06-elimination",
+      "verifie": false,
+      "source": {
+        "page": 19,
+        "extrait": "PH urinaire PKa de la molécule"
+      }
+    }
+  ]
+}

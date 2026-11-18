@@ -1,0 +1,13 @@
+{
+  "id": "pharmacie-galenique/04-materiaux-conditionnement",
+  "module": "pharmacie-galenique",
+  "ordre": 4,
+  "titre": "Matériaux de conditionnement",
+  "type": "cours",
+  "source": {
+    "driveId": "128SCULOw9EjuUiMGZHNm3zfb3ECkFTLa",
+    "fichier": "4. Materiaux De Conditionnement.pdf",
+    "modifiedTime": "2026-10-17T11:33:21.872Z"
+  },
+  "resume": "Définition et rôles du conditionnement primaire, secondaire et tertiaire ; qualités requises et principaux matériaux (verre, matières plastiques, élastomères, aluminium, revêtements et complexes)."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "pharmacognosie/03-drogues-a-lipides",
+  "module": "pharmacognosie",
+  "ordre": 3,
+  "titre": "Drogues à lipides",
+  "type": "cours",
+  "source": {
+    "driveId": "15Tel6k5pWR3dk4Bez_H-T0oW2-N9KtZ3",
+    "fichier": "3. Drogues à Lipides.pdf",
+    "modifiedTime": "2026-11-04T19:13:23.499Z"
+  },
+  "resume": "Structure et propriétés des lipides, obtention et raffinage des huiles végétales, contrôle (indices, insaponifiable) et monographies des huiles et corps gras d'intérêt pharmaceutique."
+}

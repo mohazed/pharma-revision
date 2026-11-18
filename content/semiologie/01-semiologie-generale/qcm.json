@@ -1,0 +1,1586 @@
+[
+  {
+    "id": "semiologie/01-semiologie-generale/qcm-001",
+    "type": "multiple",
+    "enonce": "Concernant la sémiologie médicale, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Elle étudie les signes qui traduisent une lésion ou un trouble d'une fonction",
+      "Elle consiste à identifier et interpréter les signes pour reconnaître les maladies",
+      "Les signes sont relevés uniquement lors de l'examen clinique",
+      "Les signes peuvent être relevés à l'aide d'examens complémentaires (imagerie, biologie)",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      0,
+      1,
+      3
+    ],
+    "explication": "La sémiologie est l'étude des signes traduisant une lésion ou un trouble fonctionnel ; elle vise à les identifier et les interpréter. Les signes sont relevés à l'examen clinique OU à l'aide d'examens complémentaires : « uniquement » rend (c) fausse.",
+    "source": {
+      "page": 1,
+      "extrait": "Les signes sont relevés lors de l'examen clinique ou à l'aide d'examens complémentaires (imagerie, biologie)."
+    },
+    "difficulte": 1,
+    "tags": [
+      "définition"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/01-semiologie-generale/qcm-002",
+    "type": "multiple",
+    "enonce": "Parmi les objectifs de la sémiologie, on cite :",
+    "options": [
+      "Identifier les signes",
+      "Interpréter les signes pour formuler des hypothèses",
+      "Poser un diagnostic",
+      "Suivre l'évolution dans le temps",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Les quatre objectifs listés dans le cours sont : identifier les signes, les interpréter, poser un diagnostic et suivre l'évolution (efficacité du traitement, évolution de la maladie).",
+    "source": {
+      "page": 2,
+      "extrait": "Identifier les signes ; Interpréter les signes ; Poser un diagnostic ; Suivre l'évolution"
+    },
+    "difficulte": 1,
+    "tags": [
+      "objectifs"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/01-semiologie-generale/qcm-003",
+    "type": "unique",
+    "enonce": "L'objectif de la sémiologie qui consiste à « confirmer ou écarter les hypothèses » correspond à :",
+    "options": [
+      "Identifier les signes",
+      "Interpréter les signes",
+      "Poser un diagnostic",
+      "Suivre l'évolution",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Dans le tableau des objectifs, « Poser un diagnostic » se traduit en pratique par confirmer ou écarter les hypothèses. Interpréter les signes revient à les analyser pour formuler des hypothèses.",
+    "source": {
+      "page": 2,
+      "extrait": "Poser un diagnostic — Confirmer ou écarter les hypothèses"
+    },
+    "difficulte": 2,
+    "tags": [
+      "objectifs"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/01-semiologie-generale/qcm-004",
+    "type": "multiple",
+    "enonce": "Suivre l'évolution des signes dans le temps permet d'apprécier :",
+    "options": [
+      "L'efficacité du traitement",
+      "L'évolution de la maladie",
+      "La recherche d'antécédents familiaux",
+      "Le recueil du motif de consultation",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Le cours précise que le suivi de l'évolution consiste à observer les signes dans le temps : efficacité du traitement et évolution de la maladie.",
+    "source": {
+      "page": 2,
+      "extrait": "Observer les signes dans le temps : efficacité du traitement, évolution de la maladie"
+    },
+    "difficulte": 1,
+    "tags": [
+      "objectifs"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/01-semiologie-generale/qcm-005",
+    "type": "multiple",
+    "enonce": "Concernant les étapes de la démarche sémiologique :",
+    "options": [
+      "L'interrogatoire recherche les signes fonctionnels",
+      "L'examen clinique recherche les signes physiques",
+      "Les examens complémentaires servent à confirmer ou préciser",
+      "L'examen clinique comporte inspection, palpation, percussion et auscultation",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "L'interrogatoire recueille ce que ressent le patient (signes fonctionnels), l'examen clinique ce que constate le médecin (signes physiques) par inspection, palpation, percussion, auscultation ; les examens complémentaires confirment ou précisent.",
+    "source": {
+      "page": 2,
+      "extrait": "Interrogatoire — Les signes fonctionnels (ce que ressent le patient)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "démarche"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/01-semiologie-generale/qcm-006",
+    "type": "unique",
+    "enonce": "Le signe se définit comme :",
+    "options": [
+      "Une manifestation ressentie et rapportée par le patient",
+      "Une manifestation de la maladie qui aide au diagnostic",
+      "Un signe avant-coureur d'une maladie",
+      "Un groupe de signes survenant ensemble",
+      "Ce que le médecin constate au lit du malade avec ses sens"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Le signe (du latin signum : indice, marque) est une manifestation de la maladie qui aide au diagnostic. (a) = symptôme, (c) = prodrome, (d) = syndrome, (e) = clinique.",
+    "source": {
+      "page": 3,
+      "extrait": "Manifestation de la maladie qui aide au diagnostic (du latin signum : indice, marque)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "vocabulaire"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/01-semiologie-generale/qcm-007",
+    "type": "unique",
+    "enonce": "Le symptôme est :",
+    "options": [
+      "Une manifestation objective constatée par le médecin",
+      "Une manifestation ressentie et rapportée par le patient, donc subjective",
+      "Un signe avant-coureur",
+      "Un groupe de signes de causes multiples",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Le symptôme est une manifestation ressentie et rapportée par le patient (subjective), par exemple douleur, fatigue, essoufflement.",
+    "source": {
+      "page": 3,
+      "extrait": "Manifestation ressentie et rapportée par le patient (subjective)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "vocabulaire"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/01-semiologie-generale/qcm-008",
+    "type": "multiple",
+    "enonce": "Concernant le prodrome :",
+    "options": [
+      "C'est un signe avant-coureur d'une maladie",
+      "La fatigue et les courbatures avant une grippe en sont un exemple",
+      "C'est un groupe de signes qui peuvent avoir plusieurs causes",
+      "Il est toujours constaté à la palpation",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Le prodrome est un signe avant-coureur (ex. : fatigue et courbatures avant une grippe). La définition (c) est celle du syndrome.",
+    "source": {
+      "page": 3,
+      "extrait": "Prodrome — Signe avant-coureur d'une maladie — Fatigue et courbatures avant une grippe"
+    },
+    "difficulte": 1,
+    "tags": [
+      "vocabulaire"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/01-semiologie-generale/qcm-009",
+    "type": "multiple",
+    "enonce": "Concernant le syndrome :",
+    "options": [
+      "C'est un groupe de signes qui surviennent ensemble",
+      "Il ne peut avoir qu'une seule cause",
+      "Son étymologie grecque sundromê signifie « concours »",
+      "Le syndrome anémique en est un exemple",
+      "Le syndrome d'insuffisance cardiaque en est un exemple"
+    ],
+    "correctes": [
+      0,
+      2,
+      3,
+      4
+    ],
+    "explication": "Le syndrome est un groupe de signes survenant ensemble et pouvant avoir PLUSIEURS causes (du grec sundromê : concours). Exemples : syndrome anémique, syndrome d'insuffisance cardiaque.",
+    "source": {
+      "page": 3,
+      "extrait": "Groupe de signes qui surviennent ensemble et peuvent avoir plusieurs causes (du grec sundromê : concours)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "vocabulaire"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/01-semiologie-generale/qcm-010",
+    "type": "multiple",
+    "enonce": "Le terme « clinique » :",
+    "options": [
+      "Désigne ce que le médecin constate au lit du malade",
+      "Fait appel aux sens du médecin (vue, ouïe, toucher, odorat)",
+      "Nécessite un appareil ou un laboratoire",
+      "Vient du grec klinikos : du lit",
+      "Vient du latin signum"
+    ],
+    "correctes": [
+      0,
+      1,
+      3
+    ],
+    "explication": "La clinique est ce que le médecin constate au lit du malade, avec ses sens, SANS appareil ni laboratoire (du grec klinikos : du lit). Signum est l'étymologie de « signe ».",
+    "source": {
+      "page": 3,
+      "extrait": "Ce que le médecin constate au lit du malade, avec ses sens, sans appareil ni laboratoire (du grec klinikos : du lit)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "vocabulaire"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/01-semiologie-generale/qcm-011",
+    "type": "unique",
+    "enonce": "L'étymologie latine « signum » (indice, marque) correspond au terme :",
+    "options": [
+      "Symptôme",
+      "Syndrome",
+      "Signe",
+      "Clinique",
+      "Prodrome"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Signe vient du latin signum (indice, marque) ; syndrome du grec sundromê ; clinique du grec klinikos.",
+    "source": {
+      "page": 3,
+      "extrait": "du latin signum : indice, marque"
+    },
+    "difficulte": 1,
+    "tags": [
+      "vocabulaire"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/01-semiologie-generale/qcm-012",
+    "type": "multiple",
+    "enonce": "Parmi les exemples suivants, lesquels sont donnés comme des signes dans le cours ?",
+    "options": [
+      "Fièvre",
+      "Œdème",
+      "Souffle cardiaque",
+      "Fatigue et courbatures avant une grippe",
+      "Syndrome anémique"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Les exemples de « signe » cités sont fièvre, œdème, souffle cardiaque. Fatigue et courbatures avant une grippe illustrent le prodrome ; le syndrome anémique illustre le syndrome.",
+    "source": {
+      "page": 3,
+      "extrait": "Fièvre, œdème, souffle cardiaque"
+    },
+    "difficulte": 2,
+    "tags": [
+      "vocabulaire"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/01-semiologie-generale/qcm-013",
+    "type": "multiple",
+    "enonce": "Concernant les signes fonctionnels :",
+    "options": [
+      "Ils sont exprimés par le patient",
+      "Ils sont subjectifs",
+      "Ils correspondent aux symptômes",
+      "Ils sont constatés par le médecin à l'examen",
+      "Ils sont objectifs"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Les signes fonctionnels (symptômes) sont exprimés par le patient et sont subjectifs. Les signes physiques sont constatés par le médecin et sont objectifs.",
+    "source": {
+      "page": 3,
+      "extrait": "Signes fonctionnels (symptômes) — Le patient les exprime : ils sont subjectifs"
+    },
+    "difficulte": 1,
+    "tags": [
+      "familles de signes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/01-semiologie-generale/qcm-014",
+    "type": "multiple",
+    "enonce": "Parmi les signes suivants, lesquels sont des signes physiques ?",
+    "options": [
+      "Œdème",
+      "Gros foie",
+      "Souffle",
+      "Matité",
+      "Prurit"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Les signes physiques cités sont œdème, gros foie, souffle, matité. Le prurit est un signe fonctionnel (ressenti par le patient).",
+    "source": {
+      "page": 3,
+      "extrait": "Signes physiques — Œdème, gros foie, souffle, matité"
+    },
+    "difficulte": 2,
+    "tags": [
+      "familles de signes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/01-semiologie-generale/qcm-015",
+    "type": "multiple",
+    "enonce": "Parmi les signes suivants, lesquels sont des signes fonctionnels ?",
+    "options": [
+      "Douleur",
+      "Dyspnée",
+      "Palpitations",
+      "Prurit",
+      "Matité"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Douleur, dyspnée, palpitations et prurit sont des signes fonctionnels exprimés par le patient. La matité est un signe physique perçu à la percussion.",
+    "source": {
+      "page": 3,
+      "extrait": "Douleur, dyspnée, palpitations, prurit"
+    },
+    "difficulte": 2,
+    "tags": [
+      "familles de signes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/01-semiologie-generale/qcm-016",
+    "type": "multiple",
+    "enonce": "Les signes généraux :",
+    "options": [
+      "Traduisent le retentissement sur tout l'organisme",
+      "Comprennent la fièvre",
+      "Comprennent l'amaigrissement",
+      "Comprennent la perte d'appétit",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Les signes généraux traduisent le retentissement sur l'ensemble de l'organisme : fièvre, fatigue, perte d'appétit, amaigrissement.",
+    "source": {
+      "page": 3,
+      "extrait": "Signes généraux — Traduisent le retentissement sur tout l'organisme — Fièvre, fatigue, perte d'appétit, amaigrissement"
+    },
+    "difficulte": 1,
+    "tags": [
+      "familles de signes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/01-semiologie-generale/qcm-017",
+    "type": "multiple",
+    "enonce": "Un patient se plaint de « chevilles gonflées » ; le médecin appuie avec le doigt et constate un œdème qui garde l'empreinte :",
+    "options": [
+      "La plainte « chevilles gonflées » est un signe fonctionnel",
+      "L'œdème qui garde l'empreinte est un signe physique",
+      "La plainte « chevilles gonflées » est un signe physique",
+      "L'œdème constaté est un signe subjectif",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "C'est l'exemple du cours : la plainte du patient est un signe fonctionnel ; l'œdème constaté par le médecin (godet) est un signe physique, donc objectif.",
+    "source": {
+      "page": 3,
+      "extrait": "le patient se plaint de « chevilles gonflées » (signe fonctionnel) ; le médecin […] constate un œdème"
+    },
+    "difficulte": 2,
+    "tags": [
+      "familles de signes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/01-semiologie-generale/qcm-018",
+    "type": "multiple",
+    "enonce": "L'interrogatoire (ou anamnèse) a pour but de :",
+    "options": [
+      "Établir une relation de confiance et de soutien avec le patient",
+      "Recueillir les renseignements utiles au diagnostic",
+      "Rechercher les signes physiques par la palpation",
+      "Remplacer les examens complémentaires",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "L'interrogatoire a un double but : établir une relation de confiance et de soutien, et recueillir les renseignements utiles au diagnostic. Les signes physiques relèvent de l'examen physique.",
+    "source": {
+      "page": 4,
+      "extrait": "Établir une relation de confiance et de soutien avec le patient. Recueillir les renseignements utiles au diagnostic."
+    },
+    "difficulte": 1,
+    "tags": [
+      "interrogatoire"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/01-semiologie-generale/qcm-019",
+    "type": "unique",
+    "enonce": "L'examen clinique comporte deux temps complémentaires :",
+    "options": [
+      "L'inspection et la palpation",
+      "L'histoire de santé (interrogatoire) et l'examen physique",
+      "L'examen physique et les examens complémentaires",
+      "La biologie et l'imagerie",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Le cours précise que l'examen clinique comporte deux temps complémentaires : l'histoire de santé (interrogatoire) et l'examen physique.",
+    "source": {
+      "page": 4,
+      "extrait": "L'examen clinique comporte deux temps complémentaires : l'histoire de santé (interrogatoire) et l'examen physique."
+    },
+    "difficulte": 1,
+    "tags": [
+      "interrogatoire"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/01-semiologie-generale/qcm-020",
+    "type": "multiple",
+    "enonce": "La rubrique « antécédents personnels » de l'interrogatoire comprend :",
+    "options": [
+      "Les antécédents médicaux (hypertension, ulcère…)",
+      "Les antécédents chirurgicaux (appendicectomie, césarienne…)",
+      "Les allergies (aliments, médicaments)",
+      "Les vaccinations",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Les antécédents personnels regroupent les antécédents médicaux, chirurgicaux, les allergies et les vaccinations.",
+    "source": {
+      "page": 4,
+      "extrait": "Médicaux (hypertension, ulcère…), chirurgicaux (appendicectomie, césarienne…), allergies (aliments, médicaments), vaccinations"
+    },
+    "difficulte": 1,
+    "tags": [
+      "interrogatoire"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/01-semiologie-generale/qcm-021",
+    "type": "multiple",
+    "enonce": "La rubrique « histoire de la maladie » précise :",
+    "options": [
+      "Le début des symptômes",
+      "L'évolution",
+      "Les traitements déjà pris",
+      "Les consultations antérieures",
+      "Les cancers dans la famille"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "L'histoire de la maladie recueille début, évolution, traitements déjà pris et consultations antérieures. Les cancers familiaux relèvent des antécédents familiaux.",
+    "source": {
+      "page": 4,
+      "extrait": "Début des symptômes, évolution, traitements déjà pris, consultations antérieures"
+    },
+    "difficulte": 2,
+    "tags": [
+      "interrogatoire"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/01-semiologie-generale/qcm-022",
+    "type": "multiple",
+    "enonce": "La rubrique « médicaments et habitudes » de l'interrogatoire comporte :",
+    "options": [
+      "Les traitements en cours",
+      "La contraception orale",
+      "L'automédication et la phytothérapie",
+      "Le tabac, l'alcool et les toxiques",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Cette rubrique recense les traitements en cours, la contraception orale, l'automédication, les plantes (phytothérapie), le tabac, l'alcool et les toxiques.",
+    "source": {
+      "page": 4,
+      "extrait": "Traitements en cours, contraception orale, automédication, plantes (phytothérapie), tabac, alcool, toxiques"
+    },
+    "difficulte": 1,
+    "tags": [
+      "interrogatoire"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/01-semiologie-generale/qcm-023",
+    "type": "multiple",
+    "enonce": "Concernant l'intérêt de la rubrique « médicaments » pour le pharmacien :",
+    "options": [
+      "Elle concerne directement le pharmacien",
+      "Beaucoup de symptômes sont des effets indésirables",
+      "La toux sous IEC est un exemple cité",
+      "Le saignement sous AINS ou anticoagulant est un exemple cité",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le cours souligne que la rubrique médicaments concerne directement le pharmacien, car beaucoup de symptômes sont des effets indésirables (toux sous IEC, saignement sous AINS ou anticoagulant).",
+    "source": {
+      "page": 4,
+      "extrait": "beaucoup de symptômes sont des effets indésirables (toux sous IEC, saignement sous AINS ou anticoagulant…)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "interrogatoire",
+      "pharmacien"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/01-semiologie-generale/qcm-024",
+    "type": "unique",
+    "enonce": "Les maladies chroniques (diabète, hypertension) et les cancers chez les proches sont recueillis dans la rubrique :",
+    "options": [
+      "Histoire de la maladie",
+      "Antécédents personnels",
+      "Antécédents familiaux",
+      "Médicaments et habitudes",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Les antécédents familiaux comprennent les maladies chroniques (diabète, hypertension) et les cancers.",
+    "source": {
+      "page": 4,
+      "extrait": "Antécédents familiaux — Maladies chroniques (diabète, hypertension), cancers"
+    },
+    "difficulte": 1,
+    "tags": [
+      "interrogatoire"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/01-semiologie-generale/qcm-025",
+    "type": "multiple",
+    "enonce": "Concernant les signes généraux :",
+    "options": [
+      "L'asthénie est une fatigue inhabituelle",
+      "L'anorexie est une perte d'appétit",
+      "La fièvre correspond à une température > 38 °C",
+      "L'anorexie peut être totale, partielle ou sélective",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Asthénie = fatigue inhabituelle ; anorexie = perte d'appétit, totale, partielle ou sélective (dégoût de certains aliments) ; fièvre = température > 38 °C.",
+    "source": {
+      "page": 4,
+      "extrait": "Asthénie — Fatigue inhabituelle ; Anorexie — Perte d'appétit ; Fièvre — Température > 38 °C"
+    },
+    "difficulte": 1,
+    "tags": [
+      "signes généraux"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/01-semiologie-generale/qcm-026",
+    "type": "unique",
+    "enonce": "Selon le cours, la fièvre est définie par une température :",
+    "options": [
+      "> 37 °C",
+      "> 37,5 °C",
+      "> 38 °C",
+      "> 38,5 °C",
+      "> 39 °C"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Le tableau des signes généraux définit la fièvre comme une température > 38 °C, à mesurer et à noter sur une courbe de température.",
+    "source": {
+      "page": 4,
+      "extrait": "Fièvre — Température > 38 °C — Mesurée ; noter sur une courbe de température"
+    },
+    "difficulte": 1,
+    "tags": [
+      "signes généraux"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/01-semiologie-generale/qcm-027",
+    "type": "multiple",
+    "enonce": "Devant un amaigrissement, il faut préciser :",
+    "options": [
+      "Combien de kilos ont été perdus",
+      "En combien de temps",
+      "La présence d'un pli cutané",
+      "L'intensité de 0 à 10",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Pour l'amaigrissement, le cours demande de préciser : combien de kilos, en combien de temps. Le pli cutané relève de l'hydratation ; l'échelle 0–10 concerne l'intensité d'un symptôme comme la douleur.",
+    "source": {
+      "page": 4,
+      "extrait": "Amaigrissement — Perte de poids — Combien de kilos, en combien de temps ?"
+    },
+    "difficulte": 2,
+    "tags": [
+      "signes généraux"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/01-semiologie-generale/qcm-028",
+    "type": "multiple",
+    "enonce": "L'évaluation de l'hydratation recherche :",
+    "options": [
+      "La soif",
+      "Le pli cutané",
+      "Le gonflement des jambes",
+      "La matité",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "L'hydratation (déshydratation ou œdèmes) s'apprécie sur la soif, le pli cutané et le gonflement des jambes. La matité est un résultat de percussion.",
+    "source": {
+      "page": 4,
+      "extrait": "Hydratation — Déshydratation ou œdèmes — Soif, pli cutané, gonflement des jambes"
+    },
+    "difficulte": 2,
+    "tags": [
+      "signes généraux"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/01-semiologie-generale/qcm-029",
+    "type": "unique",
+    "enonce": "L'altération de l'état général (AEG) associe :",
+    "options": [
+      "Asthénie + anorexie + fièvre",
+      "Asthénie + anorexie + amaigrissement",
+      "Asthénie + fièvre + amaigrissement",
+      "Anorexie + amaigrissement + déshydratation",
+      "Asthénie + anorexie + amaigrissement + fièvre"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "AEG = asthénie + anorexie + amaigrissement. L'ajout de la fièvre définit l'altération fébrile de l'état général.",
+    "source": {
+      "page": 5,
+      "extrait": "Asthénie + anorexie + amaigrissement = altération de l'état général (AEG)."
+    },
+    "difficulte": 1,
+    "tags": [
+      "AEG"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/01-semiologie-generale/qcm-030",
+    "type": "multiple",
+    "enonce": "Concernant l'altération de l'état général (AEG) :",
+    "options": [
+      "AEG + fièvre = altération fébrile de l'état général",
+      "Elle doit toujours faire orienter le patient vers un médecin",
+      "Elle peut révéler une tuberculose",
+      "Elle peut révéler un cancer ou un diabète déséquilibré",
+      "Elle relève toujours du simple conseil à l'officine"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Une AEG doit toujours faire orienter vers un médecin car elle peut révéler une maladie grave : infection chronique (tuberculose), cancer, diabète déséquilibré. Associée à la fièvre, on parle d'altération fébrile de l'état général.",
+    "source": {
+      "page": 5,
+      "extrait": "Une AEG doit toujours faire orienter le patient vers un médecin : elle peut révéler une maladie grave"
+    },
+    "difficulte": 2,
+    "tags": [
+      "AEG",
+      "orientation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/01-semiologie-generale/qcm-031",
+    "type": "multiple",
+    "enonce": "Concernant les signes fonctionnels :",
+    "options": [
+      "Seul le patient peut les exprimer",
+      "Ils constituent en général le motif de consultation",
+      "Ils sont souvent le motif de la venue à l'officine",
+      "Ils sont recherchés par la percussion",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Les signes fonctionnels sont ressentis par le patient, lui seul peut les exprimer ; ils constituent en général le motif de consultation et souvent le motif de venue à l'officine. Ils sont recueillis à l'interrogatoire, non à la percussion.",
+    "source": {
+      "page": 5,
+      "extrait": "Ce sont les signes ressentis par le patient : lui seul peut les exprimer. Ils constituent en général le motif de consultation"
+    },
+    "difficulte": 1,
+    "tags": [
+      "signes fonctionnels"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/01-semiologie-generale/qcm-032",
+    "type": "multiple",
+    "enonce": "Associez correctement le signe fonctionnel à son appareil (selon le cours) :",
+    "options": [
+      "Dysphagie — appareil digestif",
+      "Paresthésies — appareil neurologique",
+      "Arthralgies — appareil locomoteur",
+      "Dysménorrhée — appareil génital",
+      "Colique néphrétique — appareil digestif"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Dysphagie (digestif), paresthésies (neurologique), arthralgies (locomoteur), dysménorrhée (génital) sont correctement associées. La colique néphrétique est classée dans l'appareil urinaire.",
+    "source": {
+      "page": 5,
+      "extrait": "Urinaire — Brûlures à la miction, colique néphrétique"
+    },
+    "difficulte": 2,
+    "tags": [
+      "signes fonctionnels"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/01-semiologie-generale/qcm-033",
+    "type": "multiple",
+    "enonce": "Concernant la définition des termes suivants :",
+    "options": [
+      "La dysphagie est une difficulté à avaler",
+      "Les paresthésies sont des fourmillements",
+      "Le prurit correspond à des démangeaisons",
+      "La dysménorrhée correspond à des règles douloureuses",
+      "Les arthralgies sont des douleurs musculaires"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Dysphagie = difficulté à avaler ; paresthésies = fourmillements ; prurit = démangeaisons ; dysménorrhée = règles douloureuses. Les arthralgies sont des douleurs ARTICULAIRES.",
+    "source": {
+      "page": 5,
+      "extrait": "Arthralgies (douleurs articulaires)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "vocabulaire"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/01-semiologie-generale/qcm-034",
+    "type": "multiple",
+    "enonce": "Parmi les signes fonctionnels de l'appareil cardiaque, on cite :",
+    "options": [
+      "Les palpitations",
+      "La douleur thoracique (angine de poitrine)",
+      "La dyspnée",
+      "La toux",
+      "Le reflux"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Pour l'appareil cardiaque, le cours cite palpitations et douleur thoracique (angine de poitrine). Dyspnée et toux sont classées dans l'appareil respiratoire, le reflux dans le digestif.",
+    "source": {
+      "page": 5,
+      "extrait": "Cardiaque — Palpitations, douleur thoracique (angine de poitrine)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "signes fonctionnels"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/01-semiologie-generale/qcm-035",
+    "type": "multiple",
+    "enonce": "Pour décrire un symptôme, en particulier la douleur, on précise :",
+    "options": [
+      "Le siège",
+      "Le début (brutal ou progressif)",
+      "Le type et l'intensité",
+      "L'irradiation",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le cours liste : siège, début, type et intensité, irradiation, facteurs modifiants et retentissement.",
+    "source": {
+      "page": 5,
+      "extrait": "Pour chaque symptôme, et en particulier la douleur, on précise"
+    },
+    "difficulte": 1,
+    "tags": [
+      "description du symptôme"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/01-semiologie-generale/qcm-036",
+    "type": "multiple",
+    "enonce": "Concernant la description d'une douleur :",
+    "options": [
+      "L'intensité s'évalue de 0 à 10",
+      "Le type peut être un serrement, une brûlure ou un coup de poignard",
+      "Les facteurs modifiants recherchent ce qui l'aggrave et ce qui la soulage",
+      "Le retentissement apprécie la gêne sur le sommeil, le travail, la vie quotidienne",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes ces caractéristiques figurent dans le tableau « Comment décrire un symptôme ? ».",
+    "source": {
+      "page": 5,
+      "extrait": "Comment est-ce ? (serrement, brûlure, coup de poignard) ; intensité de 0 à 10"
+    },
+    "difficulte": 2,
+    "tags": [
+      "description du symptôme"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/01-semiologie-generale/qcm-037",
+    "type": "unique",
+    "enonce": "La question « La douleur s'étend-elle ailleurs ? » explore :",
+    "options": [
+      "Le siège",
+      "Le début",
+      "L'irradiation",
+      "Les facteurs modifiants",
+      "Le retentissement"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "L'irradiation correspond à l'extension de la douleur à distance.",
+    "source": {
+      "page": 5,
+      "extrait": "Irradiation — La douleur s'étend-elle ailleurs ?"
+    },
+    "difficulte": 1,
+    "tags": [
+      "description du symptôme"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/01-semiologie-generale/qcm-038",
+    "type": "multiple",
+    "enonce": "Concernant l'examen physique :",
+    "options": [
+      "Il est divisé en quatre temps",
+      "Il utilise des instruments simples (stéthoscope, marteau à réflexes, lampe)",
+      "Ses temps sont : inspection, palpation, percussion, auscultation",
+      "Il recherche les signes fonctionnels",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "L'examen physique recherche les signes PHYSIQUES avec les yeux, les oreilles, les mains et quelques instruments simples ; il comporte quatre temps.",
+    "source": {
+      "page": 6,
+      "extrait": "Le médecin recherche les signes physiques avec ses yeux, ses oreilles, ses mains et quelques instruments simples"
+    },
+    "difficulte": 1,
+    "tags": [
+      "examen physique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/01-semiologie-generale/qcm-039",
+    "type": "multiple",
+    "enonce": "Associez le temps de l'examen physique au sens utilisé :",
+    "options": [
+      "Inspection — la vue",
+      "Palpation — le toucher",
+      "Percussion — le toucher et l'ouïe",
+      "Auscultation — l'ouïe",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Inspection = vue ; palpation = toucher ; percussion = toucher et ouïe ; auscultation = ouïe (stéthoscope).",
+    "source": {
+      "page": 6,
+      "extrait": "Percussion — Le toucher et l'ouïe"
+    },
+    "difficulte": 2,
+    "tags": [
+      "examen physique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/01-semiologie-generale/qcm-040",
+    "type": "multiple",
+    "enonce": "Parmi les constatations suivantes, lesquelles relèvent de l'inspection ?",
+    "options": [
+      "Pâleur",
+      "Ictère (jaunisse)",
+      "Éruption",
+      "Gros foie",
+      "Matité"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "L'inspection (vue) retrouve pâleur, ictère, éruption, déformation, gonflement. Le gros foie relève de la palpation, la matité de la percussion.",
+    "source": {
+      "page": 6,
+      "extrait": "Pâleur, ictère (jaunisse), éruption, déformation, gonflement"
+    },
+    "difficulte": 2,
+    "tags": [
+      "inspection"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/01-semiologie-generale/qcm-041",
+    "type": "multiple",
+    "enonce": "La palpation permet :",
+    "options": [
+      "D'apprécier la trophicité de la peau et des muscles",
+      "De rechercher un gros foie, une grosse rate ou des adénopathies",
+      "De rechercher une tuméfaction ou une masse",
+      "De rechercher une douleur provoquée et de prendre le pouls",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le cours liste ces cinq apports de la palpation, y compris la prise du pouls.",
+    "source": {
+      "page": 7,
+      "extrait": "d'apprécier l'état (la trophicité) de la peau et des muscles"
+    },
+    "difficulte": 1,
+    "tags": [
+      "palpation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/01-semiologie-generale/qcm-042",
+    "type": "unique",
+    "enonce": "Les ganglions augmentés de volume sont appelés :",
+    "options": [
+      "Tuméfactions",
+      "Adénopathies",
+      "Arthralgies",
+      "Paresthésies",
+      "Matités"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Le cours mentionne « ganglions (adénopathies) » parmi les augmentations de volume recherchées à la palpation.",
+    "source": {
+      "page": 7,
+      "extrait": "gros foie, grosse rate, ganglions (adénopathies)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "palpation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/01-semiologie-generale/qcm-043",
+    "type": "multiple",
+    "enonce": "Concernant la percussion :",
+    "options": [
+      "On applique le médius d'une main et on le frappe avec l'index de l'autre main",
+      "La matité est un son sourd, comme sur une cuisse",
+      "La matité traduit la présence d'air",
+      "Le tympanisme est un son creux, comme sur un tambour",
+      "Le tympanisme traduit la présence de liquide"
+    ],
+    "correctes": [
+      0,
+      1,
+      3
+    ],
+    "explication": "La matité (son sourd) traduit la présence de LIQUIDE ou d'un organe plein ; le tympanisme (son creux) traduit la présence d'AIR. Les options (c) et (e) inversent les deux.",
+    "source": {
+      "page": 7,
+      "extrait": "Matité : son sourd […] elle traduit la présence de liquide ou d'un organe plein"
+    },
+    "difficulte": 2,
+    "tags": [
+      "percussion"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/01-semiologie-generale/qcm-044",
+    "type": "multiple",
+    "enonce": "Parmi les exemples suivants, lesquels sont cités par le cours ?",
+    "options": [
+      "Matité — épanchement pleural",
+      "Tympanisme — ventre ballonné",
+      "Tympanisme — pneumothorax",
+      "Matité — pneumothorax",
+      "Tympanisme — épanchement pleural"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "L'épanchement pleural (liquide) donne une matité ; le ventre ballonné et le pneumothorax (air) donnent un tympanisme.",
+    "source": {
+      "page": 7,
+      "extrait": "Tympanisme : son creux […] il traduit la présence d'air (ex. : ventre ballonné, pneumothorax)."
+    },
+    "difficulte": 2,
+    "tags": [
+      "percussion"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/01-semiologie-generale/qcm-045",
+    "type": "multiple",
+    "enonce": "Concernant l'auscultation :",
+    "options": [
+      "Elle se fait avec un stéthoscope",
+      "Elle écoute les bruits du poumon, du cœur, des artères et de l'abdomen",
+      "Les sifflements de l'asthme en sont un exemple",
+      "Le souffle cardiaque en est un exemple",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "L'auscultation consiste à écouter avec le stéthoscope les bruits normaux ou anormaux du poumon, du cœur, des artères et de l'abdomen (ex. : sifflements de l'asthme, souffle cardiaque).",
+    "source": {
+      "page": 7,
+      "extrait": "écouter, avec le stéthoscope, les bruits normalement ou anormalement présents au niveau du poumon, du cœur, des artères et de l'abdomen"
+    },
+    "difficulte": 1,
+    "tags": [
+      "auscultation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/01-semiologie-generale/qcm-046",
+    "type": "multiple",
+    "enonce": "Concernant les examens complémentaires :",
+    "options": [
+      "Ils viennent après la clinique",
+      "Ils servent à confirmer ou préciser une hypothèse",
+      "Ils comprennent la biologie et l'imagerie",
+      "Un examen demandé sans hypothèse clinique est souvent inutile",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Les examens complémentaires (biologie : prise de sang, analyse d'urines ; imagerie : radiographie, échographie, scanner, IRM) viennent après la clinique ; demandés sans hypothèse clinique, ils sont souvent inutiles.",
+    "source": {
+      "page": 8,
+      "extrait": "Un examen demandé sans hypothèse clinique est souvent inutile."
+    },
+    "difficulte": 1,
+    "tags": [
+      "examens complémentaires"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/01-semiologie-generale/qcm-047",
+    "type": "unique",
+    "enonce": "Parmi les examens suivants, lequel n'est PAS un examen d'imagerie selon le cours ?",
+    "options": [
+      "Radiographie",
+      "Échographie",
+      "Scanner",
+      "IRM",
+      "Analyse d'urines"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "L'analyse d'urines est un examen biologique ; radiographie, échographie, scanner et IRM sont de l'imagerie.",
+    "source": {
+      "page": 8,
+      "extrait": "biologie (prise de sang, analyse d'urines) et imagerie (radiographie, échographie, scanner, IRM)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "examens complémentaires"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/01-semiologie-generale/qcm-048",
+    "type": "multiple",
+    "enonce": "Parmi les signes d'alerte respiratoires imposant l'appel des secours, on retrouve :",
+    "options": [
+      "Essoufflement intense ou au repos",
+      "Lèvres bleues (cyanose)",
+      "Impossibilité de parler",
+      "Toux depuis 3 jours",
+      "Extrémités froides"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Signes respiratoires d'urgence : essoufflement intense ou au repos, cyanose, impossibilité de parler. Les extrémités froides sont un signe d'alerte circulatoire ; une toux de 3 jours n'est pas un signe d'urgence.",
+    "source": {
+      "page": 8,
+      "extrait": "Essoufflement intense ou au repos, lèvres bleues (cyanose), impossibilité de parler"
+    },
+    "difficulte": 2,
+    "tags": [
+      "urgence"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/01-semiologie-generale/qcm-049",
+    "type": "multiple",
+    "enonce": "Les signes d'alerte circulatoires imposant l'appel des secours comprennent :",
+    "options": [
+      "Malaise, perte de connaissance",
+      "Pâleur, sueurs",
+      "Extrémités froides",
+      "Pouls très rapide",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Fonction circulation : malaise, perte de connaissance, pâleur, sueurs, extrémités froides, pouls très rapide.",
+    "source": {
+      "page": 8,
+      "extrait": "Malaise, perte de connaissance, pâleur, sueurs, extrémités froides, pouls très rapide"
+    },
+    "difficulte": 1,
+    "tags": [
+      "urgence"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/01-semiologie-generale/qcm-050",
+    "type": "multiple",
+    "enonce": "Parmi les signes d'alerte cérébraux (neurologiques) cités, on retrouve :",
+    "options": [
+      "Confusion, somnolence",
+      "Déformation du visage",
+      "Faiblesse ou paralysie d'un bras ou d'une jambe",
+      "Trouble de la parole",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le cours cite pour le cerveau : confusion, somnolence, déformation du visage, faiblesse ou paralysie d'un membre, trouble de la parole.",
+    "source": {
+      "page": 8,
+      "extrait": "Confusion, somnolence, déformation du visage, faiblesse ou paralysie d'un bras ou d'une jambe, trouble de la parole"
+    },
+    "difficulte": 1,
+    "tags": [
+      "urgence"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/01-semiologie-generale/qcm-051",
+    "type": "multiple",
+    "enonce": "Parmi les saignements imposant l'appel des secours, on cite :",
+    "options": [
+      "Vomissement de sang",
+      "Selles noires et collantes",
+      "Sang rouge abondant par l'anus",
+      "Crachats de sang abondants",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le tableau des signes d'urgence liste ces quatre types de saignements.",
+    "source": {
+      "page": 8,
+      "extrait": "Vomissement de sang, selles noires et collantes, sang rouge abondant par l'anus, crachats de sang abondants"
+    },
+    "difficulte": 1,
+    "tags": [
+      "urgence"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/01-semiologie-generale/qcm-052",
+    "type": "multiple",
+    "enonce": "Une douleur thoracique impose l'appel des secours lorsqu'elle est :",
+    "options": [
+      "En serrement",
+      "Durable",
+      "Associée à des sueurs ou un essoufflement",
+      "Calmée en quelques secondes",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Signe cardiaque d'urgence : douleur thoracique en serrement, qui dure, surtout avec sueurs ou essoufflement.",
+    "source": {
+      "page": 8,
+      "extrait": "Douleur thoracique en serrement, qui dure, surtout avec sueurs ou essoufflement"
+    },
+    "difficulte": 2,
+    "tags": [
+      "urgence"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/01-semiologie-generale/qcm-053",
+    "type": "unique",
+    "enonce": "Un gonflement du visage ou de la gorge avec gêne pour respirer après un médicament ou une piqûre correspond à un signe d'alerte de type :",
+    "options": [
+      "Respiratoire",
+      "Circulatoire",
+      "Cérébral",
+      "Allergique",
+      "Hémorragique"
+    ],
+    "correctes": [
+      3
+    ],
+    "explication": "Il est classé dans la fonction « Allergie » du tableau des signes d'urgence.",
+    "source": {
+      "page": 8,
+      "extrait": "Allergie — Gonflement du visage ou de la gorge, gêne pour respirer après un médicament ou une piqûre"
+    },
+    "difficulte": 1,
+    "tags": [
+      "urgence"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/01-semiologie-generale/qcm-054",
+    "type": "multiple",
+    "enonce": "Parmi les situations suivantes, lesquelles imposent une consultation médicale ?",
+    "options": [
+      "Fièvre qui dure plus de 3 jours",
+      "Fièvre chez un nourrisson",
+      "Toux qui dure plus de 2 à 3 semaines",
+      "Symptôme pouvant être un effet indésirable d'un médicament",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes ces situations figurent dans la liste des signes imposant une consultation médicale.",
+    "source": {
+      "page": 9,
+      "extrait": "Fièvre qui dure plus de 3 jours, ou fièvre chez un nourrisson, un sujet âgé ou un patient fragile"
+    },
+    "difficulte": 1,
+    "tags": [
+      "consultation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/01-semiologie-generale/qcm-055",
+    "type": "unique",
+    "enonce": "Une toux qui dure plus de 2 à 3 semaines doit faire penser en premier, selon le cours, à :",
+    "options": [
+      "L'asthme",
+      "La tuberculose",
+      "Un effet indésirable des IEC",
+      "Un pneumothorax",
+      "Un cancer"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Le cours précise : « Toux qui dure plus de 2 à 3 semaines (penser à la tuberculose) ».",
+    "source": {
+      "page": 9,
+      "extrait": "Toux qui dure plus de 2 à 3 semaines (penser à la tuberculose)."
+    },
+    "difficulte": 1,
+    "tags": [
+      "consultation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/01-semiologie-generale/qcm-056",
+    "type": "multiple",
+    "enonce": "La fièvre impose une consultation médicale quelle que soit sa durée chez :",
+    "options": [
+      "Le nourrisson",
+      "Le sujet âgé",
+      "Le patient sous chimiothérapie",
+      "Le patient immunodéprimé",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le cours cite la fièvre chez le nourrisson, le sujet âgé ou un patient fragile (chimiothérapie, immunodépression).",
+    "source": {
+      "page": 9,
+      "extrait": "fièvre chez un nourrisson, un sujet âgé ou un patient fragile (chimiothérapie, immunodépression)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "consultation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/01-semiologie-generale/qcm-057",
+    "type": "multiple",
+    "enonce": "Concernant le rôle du pharmacien face aux signes de gravité :",
+    "options": [
+      "Il est souvent le premier professionnel de santé consulté",
+      "Il pose le diagnostic",
+      "En cas de doute, il oriente toujours vers un médecin",
+      "Il repère, oriente et explique",
+      "Devant un signe de gravité, il oriente sans attendre"
+    ],
+    "correctes": [
+      0,
+      2,
+      3,
+      4
+    ],
+    "explication": "Le pharmacien ne pose PAS le diagnostic : il repère, oriente et explique. En cas de doute, il oriente toujours vers un médecin, et sans attendre devant un signe de gravité.",
+    "source": {
+      "page": 9,
+      "extrait": "Le pharmacien ne pose pas le diagnostic : il repère, oriente et explique."
+    },
+    "difficulte": 2,
+    "tags": [
+      "pharmacien",
+      "orientation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/01-semiologie-generale/qcm-058",
+    "type": "multiple",
+    "enonce": "Un symptôme impose une consultation médicale lorsqu'il :",
+    "options": [
+      "Persiste ou revient malgré un traitement conseillé",
+      "Survient chez la femme enceinte",
+      "Survient chez le nourrisson ou le sujet âgé",
+      "Peut être un effet indésirable d'un médicament",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Ces quatre situations figurent dans la liste des signes imposant une consultation médicale.",
+    "source": {
+      "page": 9,
+      "extrait": "Symptôme qui persiste ou revient malgré un traitement conseillé."
+    },
+    "difficulte": 1,
+    "tags": [
+      "consultation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/01-semiologie-generale/qcm-059",
+    "type": "multiple",
+    "enonce": "L'intérêt de la sémiologie pour le pharmacien est de :",
+    "options": [
+      "Mieux communiquer avec le patient",
+      "Reconnaître les signes urgents imposant une orientation médicale",
+      "Optimiser le conseil pharmaceutique",
+      "Repérer un effet indésirable",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le tableau « Intérêt » cite : mieux communiquer, identifier les signes cliniques (signes urgents), optimiser le conseil pharmaceutique (dont repérer un effet indésirable).",
+    "source": {
+      "page": 9,
+      "extrait": "Optimiser le conseil pharmaceutique — Des conseils plus précis sur l'utilisation des médicaments ; repérer un effet indésirable"
+    },
+    "difficulte": 1,
+    "tags": [
+      "pharmacien"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/01-semiologie-generale/qcm-060",
+    "type": "multiple",
+    "enonce": "À retenir de ce cours :",
+    "options": [
+      "Signe fonctionnel = ressenti par le patient",
+      "Signe physique = constaté par le médecin",
+      "Signe général = retentissement sur l'organisme",
+      "Syndrome = un seul signe pathognomonique",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Le syndrome est un GROUPE de signes qui vont ensemble ; les trois autres définitions sont celles du « À retenir ».",
+    "source": {
+      "page": 10,
+      "extrait": "Syndrome = groupe de signes qui vont ensemble."
+    },
+    "difficulte": 2,
+    "tags": [
+      "synthèse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/01-semiologie-generale/qcm-061",
+    "type": "unique",
+    "enonce": "Dans l'ordre, l'examen physique comprend :",
+    "options": [
+      "Palpation, inspection, percussion, auscultation",
+      "Inspection, palpation, percussion, auscultation",
+      "Inspection, percussion, palpation, auscultation",
+      "Auscultation, inspection, palpation, percussion",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Les quatre temps dans l'ordre : inspection, palpation, percussion, auscultation.",
+    "source": {
+      "page": 10,
+      "extrait": "examen physique en 4 temps (inspection, palpation, percussion, auscultation)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "examen physique"
+    ],
+    "origine": "genere"
+  }
+]

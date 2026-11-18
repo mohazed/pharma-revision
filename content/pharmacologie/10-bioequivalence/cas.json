@@ -1,0 +1,140 @@
+[
+  {
+    "id": "pharmacologie/10-bioequivalence/cas-001",
+    "titre": "Dossier de générique",
+    "enonce": "Un laboratoire algérien veut enregistrer un générique en comprimé à libération immédiate d'un PA de classe BCS II, de demi-vie 10 h, non à index thérapeutique étroit.",
+    "questions": [
+      {
+        "id": "pharmacologie/10-bioequivalence/cas-001-q1",
+        "type": "multiple",
+        "enonce": "Une exonération BCS est-elle possible ?",
+        "options": [
+          "Oui, car forme solide orale LI",
+          "Non, car la classe II n'est pas éligible",
+          "Non, car seules les classes I et III sont éligibles",
+          "Oui, si les profils de dissolution sont similaires",
+          "Oui, toutes les classes sont éligibles"
+        ],
+        "correctes": [
+          1,
+          2
+        ],
+        "explication": "Seules les classes I et III peuvent bénéficier du biowaiver BCS ; la classe II (solubilité faible) n'est pas éligible.",
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacologie/10-bioequivalence/cas-001-q2",
+        "type": "unique",
+        "enonce": "Le plan d'étude standard sera :",
+        "options": [
+          "Sans wash-out",
+          "Croisé répliqué",
+          "À doses multiples",
+          "Croisé randomisé, dose unique, 2 périodes, 2 séquences",
+          "En groupes parallèles"
+        ],
+        "correctes": [
+          3
+        ],
+        "explication": "Demi-vie de 10 h, pas de forte variabilité signalée : plan standard croisé 2×2 à dose unique.",
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacologie/10-bioequivalence/cas-001-q3",
+        "type": "multiple",
+        "enonce": "Le wash-out minimal et l'effectif minimal sont :",
+        "options": [
+          "Au moins 12 sujets évaluables",
+          "Au moins 6 sujets",
+          "Wash-out ≥ 10 h",
+          "Au moins 24 sujets par séquence",
+          "Wash-out ≥ 50 h"
+        ],
+        "correctes": [
+          0,
+          4
+        ],
+        "explication": "Wash-out ≥ 5 × 10 = 50 h ; au moins 12 sujets évaluables en plan croisé.",
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacologie/10-bioequivalence/cas-001-q4",
+        "type": "multiple",
+        "enonce": "Résultats : AUC(0–t) T/R = 93 %, IC 90 % = 84–103 % ; Cmax T/R = 91 %, IC 90 % = 78–106 %. Conclusion :",
+        "options": [
+          "Démontrée car le rapport moyen de Cmax est dans 80–125 %",
+          "La décision finale revient à l'autorité compétente",
+          "Non démontrée pour l'AUC",
+          "Bioéquivalence démontrée",
+          "Non démontrée : l'IC de la Cmax descend sous 80 %"
+        ],
+        "correctes": [
+          1,
+          4
+        ],
+        "explication": "L'IC de la Cmax (78–106 %) n'est pas entièrement compris dans 80–125 % : bioéquivalence non démontrée ; la décision finale revient à l'autorité compétente.",
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/cas-002",
+    "titre": "Médicament à marge thérapeutique étroite",
+    "enonce": "Un générique oral LI d'un PA de classe I à index thérapeutique étroit est développé. Les résultats d'une étude croisée sont : AUC T/R = 101 %, IC 90 % = 94–108 % ; Cmax T/R = 104 %, IC 90 % = 96–113 %.",
+    "questions": [
+      {
+        "id": "pharmacologie/10-bioequivalence/cas-002-q1",
+        "type": "multiple",
+        "enonce": "Concernant l'exonération :",
+        "options": [
+          "Seule une étude in vitro suffit",
+          "Le biowaiver BCS est possible car classe I",
+          "L'index étroit fait partie des cas d'exigence",
+          "Une étude de bioéquivalence est exigée",
+          "Le biowaiver BCS est exclu en raison de l'index étroit"
+        ],
+        "correctes": [
+          2,
+          3,
+          4
+        ],
+        "explication": "L'exonération BCS n'est pas applicable aux médicaments à index thérapeutique étroit ; c'est un cas d'exigence.",
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacologie/10-bioequivalence/cas-002-q2",
+        "type": "unique",
+        "enonce": "Les bornes d'acceptation applicables sont :",
+        "options": [
+          "85–115 %",
+          "80,00–125,00 %",
+          "90,00–111,11 %",
+          "95–105 %",
+          "70–143 %"
+        ],
+        "correctes": [
+          2
+        ],
+        "explication": "Index thérapeutique étroit : IC 90 % resserré à 90,00–111,11 %.",
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacologie/10-bioequivalence/cas-002-q3",
+        "type": "unique",
+        "enonce": "Conclusion :",
+        "options": [
+          "Démontrée car tout est dans 80–125 %",
+          "Non démontrée pour l'AUC",
+          "Non démontrée : l'IC de la Cmax dépasse 111,11 %",
+          "Bioéquivalence démontrée pour l'AUC et la Cmax",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          2
+        ],
+        "explication": "AUC : 94–108 % dans 90–111,11 % ; Cmax : 96–113 % dépasse 111,11 % → non démontrée.",
+        "origine": "genere"
+      }
+    ]
+  }
+]

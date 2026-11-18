@@ -1,0 +1,194 @@
+[
+  {
+    "id": "pharmacologie/10-bioequivalence/flash-001",
+    "recto": "Médicament générique",
+    "verso": "Même composition qualitative et quantitative en PA et même forme pharmaceutique que la référence ; interchangeable si équivalence thérapeutique démontrée.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/flash-002",
+    "recto": "Ce qui peut différer entre générique et princeps",
+    "verso": "Excipients, procédés de fabrication, aspect, conditionnement, prix.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/flash-003",
+    "recto": "Équivalents chimiques",
+    "verso": "Quantité identique du même PA sous la même forme chimique.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/flash-004",
+    "recto": "Équivalents pharmaceutiques",
+    "verso": "Même quantité molaire du même PA, même forme pharmaceutique, même voie ; excipients non obligatoirement identiques.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/flash-005",
+    "recto": "Équivalence thérapeutique",
+    "verso": "Équivalents pharmaceutiques avec efficacité et sécurité essentiellement similaires → interchangeabilité.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/flash-006",
+    "recto": "4 méthodes de démonstration de l'équivalence thérapeutique",
+    "verso": "Pharmacocinétique (bioéquivalence), pharmacodynamique, clinique comparative, dissolution in vitro.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/flash-007",
+    "recto": "Définition de la bioéquivalence",
+    "verso": "Équivalents pharmaceutiques dont les biodisponibilités (vitesse et étendue) ne diffèrent pas significativement à même dose molaire et même voie.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/flash-008",
+    "recto": "AUC / Cmax / Tmax en bioéquivalence",
+    "verso": "AUC : étendue de l'exposition ; Cmax : pic et vitesse ; Tmax : temps d'atteinte du pic.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/flash-009",
+    "recto": "Cadre réglementaire algérien",
+    "verso": "Arrêté du 4 octobre 2021 et ligne directrice ANPP du 5 février 2026.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/flash-010",
+    "recto": "Seuil d'effet de premier passage élevé",
+    "verso": "≥ 70 %",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/flash-011",
+    "recto": "Exonérations selon la forme",
+    "verso": "Solutions aqueuses parentérales, solutions orales/effervescents, poudres à reconstituer, gaz médicaux, solutions auriculaires/ophtalmiques, topiques non systémiques, nébulisation/gouttes nasales aqueuses.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/flash-012",
+    "recto": "Champ du biowaiver BCS",
+    "verso": "Formes solides orales LI à action systémique ; exclut index étroit, LP, absorption buccale/sublinguale.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/flash-013",
+    "recto": "Classes BCS éligibles au biowaiver",
+    "verso": "Classe I (S+ P+) et classe III (S+ P−).",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/flash-014",
+    "recto": "Classes BCS non éligibles",
+    "verso": "Classe II (S− P+) et classe IV (S− P−).",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/flash-015",
+    "recto": "Exonération des dosages supplémentaires",
+    "verso": "Même procédé, même composition qualitative, même rapport PA/excipients ; PK linéaire → étude sur le dosage le plus élevé.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/flash-016",
+    "recto": "F relative en bioéquivalence",
+    "verso": "F relative (%) = 100 × AUC test / AUC référence",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/flash-017",
+    "recto": "Phase de l'étude de bioéquivalence",
+    "verso": "Essai clinique de phase 1.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/flash-018",
+    "recto": "Plan standard",
+    "verso": "Essai croisé randomisé, dose unique, 2 périodes, 2 séquences (TR/RT).",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/flash-019",
+    "recto": "Durée du wash-out",
+    "verso": "Au moins 5 demi-vies d'élimination.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/flash-020",
+    "recto": "Indication du plan parallèle",
+    "verso": "Longue demi-vie d'élimination (wash-out trop long).",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/flash-021",
+    "recto": "Indication du plan croisé répliqué",
+    "verso": "Forte variabilité intra-individuelle.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/flash-022",
+    "recto": "Indication des doses multiples",
+    "verso": "Dose unique non réalisable (sécurité, éthique) ou situations justifiées (libération modifiée).",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/flash-023",
+    "recto": "Nombre minimal de sujets évaluables",
+    "verso": "12 en croisé ; 12 par groupe en parallèle.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/flash-024",
+    "recto": "Durée du jeûne",
+    "verso": "Environ 12 heures (fixée au protocole).",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/flash-025",
+    "recto": "Couverture de l'AUC(0–t)",
+    "verso": "Au moins 80 % de l'AUC(0–∞) ; AUC tronquée à 72 h si LI à demi-vie ≥ 24 h.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/flash-026",
+    "recto": "Méthode bioanalytique fréquente",
+    "verso": "HPLC-MS ; méthode sensible, sélective et validée.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/flash-027",
+    "recto": "Paramètres primaires (dose unique)",
+    "verso": "AUC(0–t) et Cmax.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/flash-028",
+    "recto": "Paramètres primaires (doses multiples)",
+    "verso": "AUC(0–τ) et Cmax,ss.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/flash-029",
+    "recto": "Analyse statistique",
+    "verso": "Log-transformation d'AUC et Cmax, modèle adapté, rapport des moyennes géométriques T/R et IC à 90 %.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/flash-030",
+    "recto": "Critère d'acceptation standard",
+    "verso": "IC 90 % entièrement compris entre 80,00 et 125,00 % (AUC et Cmax).",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/flash-031",
+    "recto": "Critère pour index thérapeutique étroit",
+    "verso": "IC 90 % entre 90,00 et 111,11 %.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/10-bioequivalence/flash-032",
+    "recto": "Qui prend la décision finale ?",
+    "verso": "L'autorité compétente.",
+    "tags": []
+  }
+]

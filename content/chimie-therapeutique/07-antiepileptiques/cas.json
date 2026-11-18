@@ -1,0 +1,182 @@
+[
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/cas-001",
+    "titre": "Enfant présentant des absences",
+    "enonce": "Une fillette de 8 ans présente de brèves ruptures de contact plusieurs fois par jour, sans chute ni convulsion, évoquant des absences typiques (« petit mal »).",
+    "questions": [
+      {
+        "id": "chimie-therapeutique/07-antiepileptiques/cas-001-q1",
+        "type": "multiple",
+        "enonce": "Quel est le médicament de premier choix selon le cours ?",
+        "options": [
+          "Éthosuximide (Zarontin®)",
+          "Carbamazépine (Tégrétol®)",
+          "Phénytoïne (Di-hydan®)",
+          "Phénobarbital (Gardénal®)",
+          "Primidone (Mysoline®)"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "L'éthosuximide est le premier choix dans les crises généralisées de type absence.",
+        "origine": "genere"
+      },
+      {
+        "id": "chimie-therapeutique/07-antiepileptiques/cas-001-q2",
+        "type": "multiple",
+        "enonce": "Quel mécanisme explique cette efficacité ?",
+        "options": [
+          "Diminution des courants Ca++ de bas seuil de type T",
+          "Au niveau des neurones thalamiques",
+          "Blocage des canaux sodiques",
+          "Inhibition de la GABA-transaminase",
+          "Antagonisme NMDA"
+        ],
+        "correctes": [
+          0,
+          1
+        ],
+        "explication": "L'éthosuximide diminue les courants calciques de type T des neurones thalamiques impliqués dans les absences.",
+        "origine": "genere"
+      },
+      {
+        "id": "chimie-therapeutique/07-antiepileptiques/cas-001-q3",
+        "type": "multiple",
+        "enonce": "Quelles alternatives actives sur les absences le cours cite-t-il ?",
+        "options": [
+          "Valproate (Dépakine®)",
+          "Lamotrigine (Lamictal®)",
+          "Prégabaline (Lyrica®)",
+          "Carbamazépine (Tégrétol®)",
+          "Phénytoïne (Di-hydan®)"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "Valproate, lamotrigine et prégabaline sont actifs sur les absences ; carbamazépine et phénytoïne sont inactives sur le petit mal.",
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/cas-002",
+    "titre": "Crises partielles chez un adulte",
+    "enonce": "Un homme de 30 ans présente des crises partielles complexes. Le prescripteur hésite entre carbamazépine et oxcarbazépine.",
+    "questions": [
+      {
+        "id": "chimie-therapeutique/07-antiepileptiques/cas-002-q1",
+        "type": "multiple",
+        "enonce": "Quel est le mécanisme d'action de la carbamazépine ?",
+        "options": [
+          "Prolongation de l'état d'inactivation des canaux sodiques",
+          "Augmentation de la période réfractaire",
+          "Inhibition de la GABA-transaminase",
+          "Antagonisme NMDA",
+          "Blocage des canaux calciques L"
+        ],
+        "correctes": [
+          0,
+          1
+        ],
+        "explication": "La carbamazépine prolonge l'état d'inactivation des canaux sodiques et augmente la période réfractaire.",
+        "origine": "genere"
+      },
+      {
+        "id": "chimie-therapeutique/07-antiepileptiques/cas-002-q2",
+        "type": "multiple",
+        "enonce": "Quels avantages présente l'oxcarbazépine ?",
+        "options": [
+          "Moins d'interactions médicamenteuses",
+          "Meilleure tolérance",
+          "Plus grande rareté des hyponatrémies induites",
+          "Métabolisation rapide en dérivé monohydroxylé actif",
+          "Toutes les propositions sont correctes"
+        ],
+        "correctes": [
+          4
+        ],
+        "explication": "L'oxcarbazépine, céto-analogue rapidement métabolisé en MHD actif, entraîne moins d'interactions, est mieux tolérée et induit plus rarement des hyponatrémies.",
+        "origine": "genere"
+      },
+      {
+        "id": "chimie-therapeutique/07-antiepileptiques/cas-002-q3",
+        "type": "multiple",
+        "enonce": "Si le patient reste mal contrôlé, quelles options en polythérapie le cours mentionne-t-il pour les crises partielles ?",
+        "options": [
+          "Gabapentine (Neurontin®)",
+          "Tiagabine (Gabitril®)",
+          "Lamotrigine (Lamictal®)",
+          "Éthosuximide (Zarontin®)",
+          "Triméthadione (Epidione®)"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "Gabapentine et tiagabine sont des adjuvants en polythérapie des crises partielles ; la lamotrigine est une alternative ou un complément dans les épilepsies partielles résistantes.",
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/cas-003",
+    "titre": "Reconnaissance structurale d'un antiépileptique",
+    "enonce": "Une formule montre un noyau tricyclique de type dibenzo[b,f]azépine portant un groupement carboxamide sur l'azote 5.",
+    "questions": [
+      {
+        "id": "chimie-therapeutique/07-antiepileptiques/cas-003-q1",
+        "type": "multiple",
+        "enonce": "De quelle molécule s'agit-il ?",
+        "options": [
+          "Carbamazépine (Tégrétol®)",
+          "Oxcarbazépine",
+          "Phénytoïne",
+          "Imipramine",
+          "Lamotrigine"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "5H-dibenzo[b,f]azépine-5-carboxamide : carbamazépine (Tégrétol®).",
+        "origine": "genere"
+      },
+      {
+        "id": "chimie-therapeutique/07-antiepileptiques/cas-003-q2",
+        "type": "multiple",
+        "enonce": "Comment la synthétise-t-on ?",
+        "options": [
+          "Réaction de la 5H-dibenzo[b,f]azépine avec le phosgène puis action de l'ammoniac",
+          "Condensation d'un malonate avec l'urée",
+          "Grignard cyclopropylique sur la dibenzosubérone",
+          "Thionation de la diphénylamine",
+          "Alkylation de Friedel-Crafts sur le benzène"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "La 5H-dibenzo[b,f]azépine réagit avec le phosgène pour donner la 5-chlorcarboxy-5H-dibenzo[b,f]azépine, traitée ensuite par l'ammoniac.",
+        "origine": "genere"
+      },
+      {
+        "id": "chimie-therapeutique/07-antiepileptiques/cas-003-q3",
+        "type": "multiple",
+        "enonce": "Quel élément structural est essentiel à l'activité anticonvulsivante de cette molécule ?",
+        "options": [
+          "Le groupement carbamyl en position 5",
+          "Un phényle en position 5",
+          "Une chaîne ramifiée",
+          "Un hétérocycle triazine",
+          "Un atome de soufre"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Un groupement carbamyl en position 5 est essentiel pour une activité anticonvulsivante importante.",
+        "origine": "genere"
+      }
+    ]
+  }
+]

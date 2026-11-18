@@ -1,0 +1,110 @@
+[
+  {
+    "id": "chimie-analytique/04-extraction-contre-courant/flash-001",
+    "recto": "Principe de l'extraction à contre-courant",
+    "verso": "Méthode continue en colonne : phase à extraire et solvant circulent en sens inverse.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/04-extraction-contre-courant/flash-002",
+    "recto": "Différence avec l'extraction répétée",
+    "verso": "Solvant pur à chaque étage en répétée ; en contre-courant le solvant contient déjà du soluté.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/04-extraction-contre-courant/flash-003",
+    "recto": "Étage théorique (contre-courant)",
+    "verso": "Portion de longueur h de la colonne telle que raffiné et extrait qui la quittent sont en équilibre.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/04-extraction-contre-courant/flash-004",
+    "recto": "HEET",
+    "verso": "Hauteur équivalente à un étage théorique : HEET = h = L/n ; rend compte de l'efficacité de la colonne.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/04-extraction-contre-courant/flash-005",
+    "recto": "Indices du raffiné et de l'extrait finaux",
+    "verso": "Raffiné final : indice n (QAn) ; extrait final : indice 1 (QB1).",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/04-extraction-contre-courant/flash-006",
+    "recto": "Évolution des concentrations",
+    "verso": "C dans A diminue de 1 à n ; C dans B augmente de n à 1.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/04-extraction-contre-courant/flash-007",
+    "recto": "Bilan de l'étage 1",
+    "verso": "QA0 + QB2 = QA1 + QB1.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/04-extraction-contre-courant/flash-008",
+    "recto": "Bilan de l'étage n",
+    "verso": "QAn−1 + QB0 = QAn + QBn (QB0 : solvant pur).",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/04-extraction-contre-courant/flash-009",
+    "recto": "Bilan global",
+    "verso": "QA0 = QAn + QB1 ; inconnues QAn et QB1.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/04-extraction-contre-courant/flash-010",
+    "recto": "QAn en contre-courant",
+    "verso": "QAn = QA0·(α − 1)/(αⁿ⁺¹ − 1).",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/04-extraction-contre-courant/flash-011",
+    "recto": "Rendement en contre-courant",
+    "verso": "ρ = 1 − (α − 1)/(αⁿ⁺¹ − 1) = (αⁿ⁺¹ − α)/(αⁿ⁺¹ − 1).",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/04-extraction-contre-courant/flash-012",
+    "recto": "Équation logarithmique",
+    "verso": "(n + 1)·log α = log(α − ρ) − log(1 − ρ).",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/04-extraction-contre-courant/flash-013",
+    "recto": "Nombre d'étages théoriques",
+    "verso": "n = [log(α − ρ) − log(1 − ρ)]/log α − 1.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/04-extraction-contre-courant/flash-014",
+    "recto": "Détermination expérimentale du rendement",
+    "verso": "Connaissant QA0, on dose QB1 et QAn par analyse.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/04-extraction-contre-courant/flash-015",
+    "recto": "Introduction des solvants dans l'extracteur",
+    "verso": "Solvant léger à la base, solvant lourd à la partie supérieure.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/04-extraction-contre-courant/flash-016",
+    "recto": "Sortie des solvants",
+    "verso": "Liquide lourd en bas, solvant léger en haut, après décantation.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/04-extraction-contre-courant/flash-017",
+    "recto": "Difficulté pratique du contre-courant",
+    "verso": "Décantation délicate (émulsions) ; rupture facilitée par centrifugation.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/04-extraction-contre-courant/flash-018",
+    "recto": "Échelle d'utilisation",
+    "verso": "Essentiellement industrielle ; il existe de petits appareils de laboratoire.",
+    "tags": []
+  }
+]

@@ -1,0 +1,80 @@
+{
+  "id": "pharmacie-galenique/07-melange-des-poudres/fiche",
+  "titre": "Le mélange des poudres pharmaceutiques",
+  "sections": [
+    {
+      "titre": "Définition et intérêt",
+      "points": [
+        "Opération fondamentale visant à rendre **aussi homogène que possible** une association de plusieurs produits ; le produit obtenu s'appelle aussi *mélange*.",
+        "But : homogénéité de répartition **compatible avec l'activité thérapeutique**.",
+        "Intérêts : **dosage précis**, **efficacité du traitement** (absorption, biodisponibilité), **sécurité du patient**."
+      ]
+    },
+    {
+      "titre": "Qualité d'un mélange",
+      "points": [
+        "Homogène.",
+        "S'écoule bien **sans ségrégation** (répartitions régulières ultérieures).",
+        "Non contaminé par des substances étrangères.",
+        "Stable : conserve son intégralité dans le temps."
+      ]
+    },
+    {
+      "titre": "États de mélange (système binaire)",
+      "points": [
+        "Uniformité croissante : **non-mélange (démélange)** → **ségrégation** → **mélange réel (imparfait)** → **mélange idéal (parfait)**.",
+        "Ségrégation → **variabilité de teneur** : comprimés, gélules, poudres à usage parentéral."
+      ]
+    },
+    {
+      "titre": "Facteurs liés aux poudres",
+      "points": [
+        "**Ténuité** : mélanger des particules de mêmes dimensions ; plus l'écart de taille est grand, plus la ségrégation par la taille est importante.",
+        "**Densité** : une différence de densité est défavorable.",
+        "**Proportions** : mélanges complexes → **prémélange** (petites quantités + même proportion de grandes quantités, puis le reste fraction par fraction).",
+        "**Forme** : sphériques = écoulement plus rapide mais forte ségrégation (moins de points de contact, glissement).",
+        "**Rugosité** et **forte humidité** : empêchent le glissement."
+      ]
+    },
+    {
+      "titre": "Conditions opératoires et matériel",
+      "points": [
+        "**Vitesse de rotation (+++)** : trop lente → abrasion ; trop rapide → force centrifuge qui casse les particules.",
+        "**Volume de poudre (+++)** : charge 40–60 % de la capacité.",
+        "**Temps (+++)** : prolongé → démélange.",
+        "Température et humidité relative (+).",
+        "Matériel : dimension, géométrie, mode de fonctionnement."
+      ]
+    },
+    {
+      "titre": "Matériel de mélange",
+      "points": [
+        "Officine : **mortier** (mouvements circulaires, trèfle, « 8 ») ou flacon hermétiquement clos agité.",
+        "**Chute libre (cuves mobiles)** : cylindre (peu efficace), V (couramment utilisé), Y, cube (parfaite homogénéité, très répandu), tambours (certains sous vide : poudres sensibles à l'oxygène).",
+        "**Malaxeurs (cuves fixes)** : planétaire (milieux visqueux, coûteux, nettoyage difficile), pétrin (2 bras en sens inverse, axes parallèles horizontaux), vis hélicoïdale (vis pleine ou rubans), projection et tourbillonnement (socs, périphérie → centre, très efficace).",
+        "**Statiques (fluidisation)** : très efficace, 2 min, grand volume, fines si produit friable ; silo-mélangeur à air comprimé (une ou plusieurs trémies)."
+      ]
+    },
+    {
+      "titre": "Contrôle",
+      "points": [
+        "**Dosage du PA** sur un nombre suffisant d'échantillons prélevés à différents niveaux : indispensable, moyen le plus sûr.",
+        "Officine : examen visuel si poudres de couleurs différentes."
+      ]
+    }
+  ],
+  "aRetenir": [
+    "Charge du mélangeur : 40 à 60 %.",
+    "Fluidisation : 2 min.",
+    "Vitesse trop lente = abrasion ; trop rapide = casse par force centrifuge.",
+    "Temps trop long = démélange.",
+    "Index thérapeutique étroit : une infime variation de dose peut être fatale."
+  ],
+  "pieges": [
+    "Les particules sphériques s'écoulent MIEUX mais ségrègent PLUS (par DIMINUTION des points de contact).",
+    "Plus l'écart de taille est grand, plus la ségrégation est IMPORTANTE.",
+    "Chute libre = cuves MOBILES ; malaxeurs = cuves FIXES.",
+    "Cylindrique = peu efficace ; cubique = parfaite homogénéité.",
+    "Prémélange : on commence par les matières en FAIBLE quantité."
+  ]
+}

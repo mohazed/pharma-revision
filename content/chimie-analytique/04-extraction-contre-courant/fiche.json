@@ -1,0 +1,56 @@
+{
+  "id": "chimie-analytique/04-extraction-contre-courant/fiche-001",
+  "titre": "Extraction à contre-courant",
+  "sections": [
+    {
+      "titre": "Principe",
+      "points": [
+        "Méthode **continue** en **colonne** : phase à extraire et solvant circulent **en sens inverse**.",
+        "Assimilée à plusieurs extractions, mais le solvant **contient déjà du soluté** à chaque étage (≠ répétée : solvant pur)."
+      ]
+    },
+    {
+      "titre": "Étages et HEET",
+      "points": [
+        "Colonne découpée en n étages théoriques (suite discontinue).",
+        "Étage théorique : raffiné et extrait sortants en équilibre.",
+        "**HEET = L/n**, rend compte de l'efficacité.",
+        "Raffiné final indice n, extrait final indice 1 ; CA ↓ de 1 à n, CB ↑ de n à 1."
+      ]
+    },
+    {
+      "titre": "Bilans",
+      "points": [
+        "Étage 1 : QA0 + QB2 = QA1 + QB1 ; étage n : QAn−1 + QB0 = QAn + QBn.",
+        "Global : **QA0 = QAn + QB1**."
+      ]
+    },
+    {
+      "titre": "Formules",
+      "points": [
+        "**QAn = QA0(α − 1)/(αⁿ⁺¹ − 1)** ; QB1 = QA0 − QAn.",
+        "**ρ = 1 − (α − 1)/(αⁿ⁺¹ − 1) = (αⁿ⁺¹ − α)/(αⁿ⁺¹ − 1)**.",
+        "**n = [log(α − ρ) − log(1 − ρ)]/log α − 1**."
+      ]
+    },
+    {
+      "titre": "Mise en œuvre",
+      "points": [
+        "Essentiellement industrielle.",
+        "Solvant léger introduit à la base, lourd en haut ; sorties après décantation.",
+        "Émulsions → centrifugation."
+      ]
+    }
+  ],
+  "aRetenir": [
+    "Contre-courant : αⁿ⁺¹ ; répétée : (1+α)ⁿ.",
+    "HEET = L/n.",
+    "QA0 = QAn + QB1."
+  ],
+  "pieges": [
+    "Ne pas oublier le « −1 » final dans la formule de n.",
+    "L'extrait final porte l'indice 1, pas n.",
+    "Le solvant pur entre à l'étage n.",
+    "Solvant LÉGER introduit à la BASE."
+  ]
+}

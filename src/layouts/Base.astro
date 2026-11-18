@@ -1,0 +1,213 @@
+---
+import "../styles/global.css";
+import Analytics from "@vercel/analytics/astro";
+import Logo from "../components/Logo.astro";
+import Icone from "../components/Icone.astro";
+import type { NomIcone } from "../lib/icones";
+
+interface Props {
+  titre: string;
+  description?: string;
+  /** largeur maximale réduite (pages de lecture / lecteur QCM) */
+  etroit?: boolean;
+  /** cache la barre de navigation mobile (lecteur QCM plein écran) */
+  sansNavMobile?: boolean;
+}
+
+const {
+  titre,
+  description = "Révisions gratuites pour la 3e année de pharmacie (Alger) : QCM corrigés, flashcards, fiches, cas cliniques et examens blancs, tirés des cours.",
+  etroit = false,
+  sansNavMobile = false,
+} = Astro.props;
+
+// Vercel Web Analytics : seulement sur Vercel (VERCEL=1 au build), anonyme et sans cookies.
+const surVercel = !!process.env.VERCEL;
+const titreComplet = titre === "Accueil" ? "PharmaRévision — Réviser la 3e année de pharmacie" : `${titre} · PharmaRévision`;
+const chemin = Astro.url.pathname;
+const actif = (href: string) => (href === "/" ? chemin === "/" : chemin.startsWith(href));
+
+const navPrincipale: { href: string; label: string; icone: NomIcone }[] = [
+  { href: "/entrainement/", label: "Réviser", icone: "reviser" },
+  { href: "/flashcards/", label: "Flashcards", icone: "cartes" },
+  { href: "/examens-blancs/", label: "Examens blancs", icone: "examen" },
+  { href: "/annales/", label: "Annales", icone: "annales" },
+  { href: "/erreurs/", label: "Mes erreurs", icone: "erreurs" },
+  { href: "/glossaire/", label: "Glossaire", icone: "glossaire" },
+];
+const navMobile: { href: string; label: string; icone: NomIcone }[] = [
+  { href: "/", label: "Accueil", icone: "accueil" },
+  { href: "/entrainement/", label: "Réviser", icone: "reviser" },
+  { href: "/flashcards/", label: "Cartes", icone: "cartes" },
+  { href: "/erreurs/", label: "Erreurs", icone: "erreurs" },
+  { href: "/recherche/", label: "Chercher", icone: "recherche" },
+];
+const navMenu: { href: string; label: string; icone: NomIcone }[] = [
+  ...navPrincipale,
+  { href: "/recherche/", label: "Recherche", icone: "recherche" },
+  { href: "/parametres/", label: "Paramètres", icone: "reglages" },
+  { href: "/a-propos/", label: "À propos", icone: "info" },
+];
+---
+<!doctype html>
+<html lang="fr" data-theme="light" data-motion="full">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>{titreComplet}</title>
+    <meta name="description" content={description} />
+    <meta name="theme-color" content="#f4f8f6" />
+    <meta name="color-scheme" content="light dark" />
+    <link rel="canonical" href={new URL(chemin, Astro.site)} />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="icon" href="/icons/icon-192.png" type="image/png" sizes="192x192" />
+    <link rel="apple-touch-icon" href="/icons/apple-touch-icon.png" />
+    <link rel="manifest" href="/manifest.webmanifest" />
+    <meta property="og:title" content={titreComplet} />
+    <meta property="og:description" content={description} />
+    <meta property="og:locale" content="fr_FR" />
+    <meta property="og:type" content="website" />
+    <meta name="apple-mobile-web-app-title" content="PharmaRévision" />
+    <!-- Thème et animations appliqués avant l'affichage (évite le flash). -->
+    <script is:inline>
+      (function () {
+        var r = { theme: "clair", mouvement: "systeme" };
+        try {
+          var p = JSON.parse(localStorage.getItem("pharmarevision") || "null");
+          if (p && p.reglages) r = p.reglages;
+        } catch (e) {}
+        var h = document.documentElement;
+        var sombre = r.theme === "sombre" || (r.theme === "systeme" && matchMedia("(prefers-color-scheme: dark)").matches);
+        h.dataset.theme = sombre ? "dark" : "light";
+        var reduit = r.mouvement === "reduit" || (r.mouvement !== "complet" && matchMedia("(prefers-reduced-motion: reduce)").matches);
+        h.dataset.motion = reduit ? "reduced" : "full";
+      })();
+    </script>
+  </head>
+  <body class="min-h-dvh flex flex-col">
+    <a href="#contenu" class="lien-evitement btn btn-primaire">Aller au contenu</a>
+
+    <header class="sticky top-0 z-40 border-b border-line bg-bg/85 backdrop-blur supports-[backdrop-filter]:bg-bg/70">
+      <div class="conteneur flex h-14 items-center gap-3">
+        <a href="/" class="flex items-center gap-2 font-heading text-lg font-extrabold text-ink no-underline" aria-label="PharmaRévision, retour à l'accueil">
+          <Logo taille={30} />
+          <span>PharmaRévision</span>
+        </a>
+        <nav class="ml-4 hidden lg:flex items-center gap-1" aria-label="Navigation principale">
+          {navPrincipale.map((l) => (
+            <a
+              href={l.href}
+              class:list={[
+                "rounded-pill px-3 py-1.5 text-sm font-semibold no-underline transition-colors",
+                actif(l.href) ? "bg-primary/12 text-primary" : "text-ink-muted hover:text-ink hover:bg-surface-2",
+              ]}
+              aria-current={actif(l.href) ? "page" : undefined}
+            >{l.label}</a>
+          ))}
+        </nav>
+        <div class="ml-auto flex items-center gap-1">
+          <a href="/recherche/" class="btn btn-fantome btn-petit !px-2.5" aria-label="Rechercher" title="Rechercher"><Icone nom="recherche" /></a>
+          <button type="button" id="bascule-theme" class="btn btn-fantome btn-petit !px-2.5" aria-label="Activer le mode sombre" title="Mode clair / sombre">
+            <span class="theme-lune"><Icone nom="lune" /></span><span class="theme-soleil"><Icone nom="soleil" /></span>
+          </button>
+          <a href="/parametres/" class="btn btn-fantome btn-petit !px-2.5 hidden sm:inline-flex" aria-label="Paramètres" title="Paramètres"><Icone nom="reglages" /></a>
+          <details class="relative lg:hidden" id="menu-mobile">
+            <summary class="btn btn-fantome btn-petit !px-2.5 list-none [&::-webkit-details-marker]:hidden" aria-label="Ouvrir le menu">
+              <Icone nom="menu" />
+            </summary>
+            <nav class="carte absolute right-0 top-12 w-64 p-2 shadow-lg" aria-label="Menu">
+              <ul class="flex flex-col">
+                {navMenu.map((l) => (
+                  <li>
+                    <a
+                      href={l.href}
+                      class:list={["flex items-center gap-3 rounded-md px-3 py-2.5 font-medium no-underline hover:bg-surface-2", actif(l.href) ? "text-primary" : "text-ink"]}
+                      aria-current={actif(l.href) ? "page" : undefined}
+                    ><Icone nom={l.icone} />{l.label}</a>
+                  </li>
+                ))}
+              </ul>
+            </nav>
+          </details>
+        </div>
+      </div>
+    </header>
+
+    <main id="contenu" class:list={["conteneur flex-1 pt-5 pb-28 lg:pb-12", etroit && "max-w-3xl"]} tabindex="-1">
+      <slot />
+    </main>
+
+    <footer class="border-t border-line bg-surface/60 pb-24 lg:pb-0">
+      <div class="conteneur flex flex-col items-center gap-2 py-6 text-center text-sm text-ink-muted sm:flex-row sm:justify-between sm:text-left">
+        <p class="font-semibold text-ink">Réalisé par Aymen Zouad</p>
+        <nav aria-label="Liens de bas de page" class="flex flex-wrap justify-center gap-x-4 gap-y-1">
+          <a href="/a-propos/" class="hover:text-ink">À propos</a>
+          <a href="/parametres/" class="hover:text-ink">Paramètres</a>
+          <a href="/glossaire/" class="hover:text-ink">Glossaire</a>
+        </nav>
+        <p>Gratuit · sans compte · sans cookies</p>
+      </div>
+    </footer>
+
+    {!sansNavMobile && (
+      <nav class="fixed inset-x-0 bottom-0 z-40 border-t border-line bg-surface/95 backdrop-blur lg:hidden pb-[env(safe-area-inset-bottom)]" aria-label="Navigation rapide">
+        <ul class="mx-auto grid max-w-lg grid-cols-5">
+          {navMobile.map((l) => (
+            <li>
+              <a
+                href={l.href}
+                class:list={["flex min-h-14 flex-col items-center justify-center gap-0.5 text-[0.7rem] font-semibold no-underline", actif(l.href) ? "text-primary" : "text-ink-muted"]}
+                aria-current={actif(l.href) ? "page" : undefined}
+              ><Icone nom={l.icone} taille={22} />{l.label}</a>
+            </li>
+          ))}
+        </ul>
+      </nav>
+    )}
+
+    {surVercel && <Analytics />}
+
+    <script>
+      // Ferme le menu mobile en cliquant ailleurs ou avec Échap.
+      const menu = document.getElementById("menu-mobile") as HTMLDetailsElement | null;
+      document.addEventListener("click", (e) => {
+        if (menu?.open && !menu.contains(e.target as Node)) menu.open = false;
+      });
+      document.addEventListener("keydown", (e) => {
+        if (e.key === "Escape" && menu?.open) {
+          menu.open = false;
+          menu.querySelector("summary")?.focus();
+        }
+      });
+      // Bouton clair / sombre de l'en-tête.
+      const bouton = document.getElementById("bascule-theme");
+      const majBouton = () => {
+        const sombre = document.documentElement.dataset.theme === "dark";
+        bouton?.setAttribute("aria-label", sombre ? "Activer le mode clair" : "Activer le mode sombre");
+      };
+      majBouton();
+      bouton?.addEventListener("click", async () => {
+        const { modifier, getProgression } = await import("../lib/store");
+        const { appliquerApparence } = await import("../lib/apparence");
+        const sombre = document.documentElement.dataset.theme === "dark";
+        modifier((p) => {
+          p.reglages.theme = sombre ? "clair" : "sombre";
+        });
+        appliquerApparence(getProgression().reglages);
+        majBouton();
+      });
+      // Thème : suivre le système si l'utilisateur a choisi « Système ».
+      for (const q of ["(prefers-color-scheme: dark)", "(prefers-reduced-motion: reduce)"]) {
+        matchMedia(q).addEventListener("change", async () => {
+          const { getProgression } = await import("../lib/store");
+          const { appliquerApparence } = await import("../lib/apparence");
+          appliquerApparence(getProgression().reglages);
+        });
+      }
+      // Service worker (hors-ligne), uniquement en production.
+      if ("serviceWorker" in navigator && import.meta.env.PROD) {
+        window.addEventListener("load", () => navigator.serviceWorker.register("/sw.js").catch(() => {}));
+      }
+    </script>
+  </body>
+</html>

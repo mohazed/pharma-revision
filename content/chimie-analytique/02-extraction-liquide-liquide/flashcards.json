@@ -1,0 +1,164 @@
+[
+  {
+    "id": "chimie-analytique/02-extraction-liquide-liquide/flash-001",
+    "recto": "Deux types de transfert de phase",
+    "verso": "Extraction par solvant miscible (membrane poreuse, osmose) et extraction par solvant non miscible.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/02-extraction-liquide-liquide/flash-002",
+    "recto": "Principe de l'ELL",
+    "verso": "Distribution d'un soluté entre deux solvants non miscibles en fonction de sa solubilité dans chacun.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/02-extraction-liquide-liquide/flash-003",
+    "recto": "Paramètres de sélectivité de l'ELL",
+    "verso": "Choix du solvant, pH, formation de chélates, formation de paires d'ions.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/02-extraction-liquide-liquide/flash-004",
+    "recto": "Équation générale de partage",
+    "verso": "CB = f(CA), concentrations après extraction.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/02-extraction-liquide-liquide/flash-005",
+    "recto": "Distribution régulière",
+    "verso": "La courbe CB = f(CA) est une droite : CB = λ·CA.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/02-extraction-liquide-liquide/flash-006",
+    "recto": "Coefficient de partage λ (K)",
+    "verso": "Constante thermodynamique = CB/CA à l'équilibre, pour la substance S et le couple A/B ; varie avec la température.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/02-extraction-liquide-liquide/flash-007",
+    "recto": "Loi de Berthelot-Jungfleisch",
+    "verso": "Quels que soient la solubilité et les volumes, à l'équilibre les concentrations sont dans un rapport constant.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/02-extraction-liquide-liquide/flash-008",
+    "recto": "Conditions de validité de Berthelot-Jungfleisch",
+    "verso": "Non miscibilité des solvants, même état physique dans les deux phases, température constante.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/02-extraction-liquide-liquide/flash-009",
+    "recto": "λ et solubilités",
+    "verso": "λ = SB/SA (rapport des solubilités).",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/02-extraction-liquide-liquide/flash-010",
+    "recto": "Distribution irrégulière (quelconque)",
+    "verso": "Courbe non linéaire : substance sous des formes différentes (associations, dissociations), variation de pH.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/02-extraction-liquide-liquide/flash-011",
+    "recto": "Pourquoi tamponner la phase aqueuse ?",
+    "verso": "Pour éviter l'irrégularité de distribution due à une variation de pH.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/02-extraction-liquide-liquide/flash-012",
+    "recto": "Taux de distribution D",
+    "verso": "CB (toutes formes)/CA (toutes formes) ; D = λ si une seule forme.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/02-extraction-liquide-liquide/flash-013",
+    "recto": "D du phénol en milieu basique",
+    "verso": "D = [ArOH]CCl₄/([ArOH]aq + [ArO⁻]aq).",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/02-extraction-liquide-liquide/flash-014",
+    "recto": "Rapport de quantité α",
+    "verso": "α = QB/QA = λ·VB/VA ; non constant ; « coefficient de partage corrigé/apparent ».",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/02-extraction-liquide-liquide/flash-015",
+    "recto": "Rendement ρ",
+    "verso": "ρ = QB/QA0 (quantité extraite/quantité initiale).",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/02-extraction-liquide-liquide/flash-016",
+    "recto": "Deux équations de l'étude quantitative",
+    "verso": "Conservation de la matière (Lavoisier, quantités) et loi de partage (concentrations).",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/02-extraction-liquide-liquide/flash-017",
+    "recto": "Critères de choix du solvant",
+    "verso": "Grand pouvoir dissolvant, polarité (qui se ressemble s'assemble), volatilité, faible toxicité, faible coût.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/02-extraction-liquide-liquide/flash-018",
+    "recto": "Raffiné / extrait",
+    "verso": "Raffiné = phase A appauvrie ; extrait = phase B enrichie.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/02-extraction-liquide-liquide/flash-019",
+    "recto": "Étage / étage théorique",
+    "verso": "Agitation + décantation ; théorique si l'équilibre de partage est parfait.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/02-extraction-liquide-liquide/flash-020",
+    "recto": "QA1 (extraction simple)",
+    "verso": "QA1 = QA0/(1 + α).",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/02-extraction-liquide-liquide/flash-021",
+    "recto": "QB1 (extraction simple)",
+    "verso": "QB1 = α·QA0/(1 + α).",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/02-extraction-liquide-liquide/flash-022",
+    "recto": "CB1 (extraction simple)",
+    "verso": "CB1 = λ·CA0/(1 + α).",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/02-extraction-liquide-liquide/flash-023",
+    "recto": "Rendement de l'extraction simple",
+    "verso": "ρ = α/(1+α) = 1 − VA/(VA + λVB) ; jamais égal à 100 %.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/02-extraction-liquide-liquide/flash-024",
+    "recto": "Méthode graphique : pente de la droite",
+    "verso": "−VA/VB ; points Y (0 ; CA0·VA/VB) et X (CA0 ; 0).",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/02-extraction-liquide-liquide/flash-025",
+    "recto": "Exemple pénicilline (λ = 15, VB/VA = 1/5)",
+    "verso": "α = 3, CA1 = 250 U/cm³, CB1 = 3750 U/cm³, ρ = 75 %.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/02-extraction-liquide-liquide/flash-026",
+    "recto": "Pénicilline avec VB/VA = 3/5",
+    "verso": "α = 9, ρ = 90 % : volume ×3 pour seulement +15 % de rendement.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/02-extraction-liquide-liquide/flash-027",
+    "recto": "Extraction à contre-courant vs séparation à contre-courant",
+    "verso": "Contre-courant : méthode industrielle d'extraction ; séparation à contre-courant : pour des λ voisins (principe différent).",
+    "tags": []
+  }
+]

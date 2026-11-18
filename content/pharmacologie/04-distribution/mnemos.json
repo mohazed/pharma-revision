@@ -1,0 +1,32 @@
+[
+  {
+    "id": "pharmacologie/04-distribution/mnemo-01",
+    "titre": "Les 4 clés d'une bonne distribution",
+    "moyen": "« LIBRE, LIPO, TISSU, IRRIGUÉ »",
+    "explication": "LIBRE : faible fixation aux protéines plasmatiques ; LIPO : liposolubilité importante ; TISSU : forte affinité pour les protéines tissulaires ; IRRIGUÉ : bonne irrigation des tissus ou organes concernés."
+  },
+  {
+    "id": "pharmacologie/04-distribution/mnemo-02",
+    "titre": "Risque d'interaction par déplacement protéique : la règle des « 3 F »",
+    "moyen": "« Fort fixé, Faible Vd, Fin index »",
+    "explication": "Fort fixé : fixation > 90 % ; Faible Vd : volume de distribution < 0,14 l/kg ; Fin index : index thérapeutique étroit."
+  },
+  {
+    "id": "pharmacologie/04-distribution/mnemo-03",
+    "titre": "Tissus richement vascularisés",
+    "moyen": "« Ce Petit Fou Rêve Chaque Gala »",
+    "explication": "Cœur, Poumons, Foie, Reins, Cerveau, Glandes endocrines."
+  },
+  {
+    "id": "pharmacologie/04-distribution/mnemo-04",
+    "titre": "Tissus très peu vascularisés",
+    "moyen": "« ODT LCP » : « Os, Dents, Tendons — Ligaments, Cartilages, Phanères »",
+    "explication": "Os, dents, tendons, ligaments, cartilages, phanères : les tissus très peu vascularisés."
+  },
+  {
+    "id": "pharmacologie/04-distribution/mnemo-05",
+    "titre": "Liaisons médicament-protéine",
+    "moyen": "« Van Ira Heureux, Covalent Rarement »",
+    "explication": "Van : Van Der Waals ; Ira : ioniques ; Heureux : hydrogènes ; Covalent Rarement : liaisons covalentes rares et en général irréversibles."
+  }
+]

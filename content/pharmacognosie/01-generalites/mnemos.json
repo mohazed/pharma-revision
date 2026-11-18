@@ -1,0 +1,32 @@
+[
+  {
+    "id": "pharmacognosie/01-generalites/mnemo-001",
+    "titre": "Chronologie des grands noms",
+    "moyen": "« Sumer Écrit, Hippocrate Théorise, Dioscoride Range, Razès Avicenne Parlent »",
+    "explication": "Sumériens (argile) → Égyptiens (papyrus) → Hippocrate/Aristote → Théophraste → Dioscoride (500 drogues) → Razès → Avicenne → Paracelse (signatures)."
+  },
+  {
+    "id": "pharmacognosie/01-generalites/mnemo-002",
+    "titre": "Trois voies de recherche",
+    "moyen": "« E.S.I. + H »",
+    "explication": "Empirique, Systématique (criblage/screening), Inductive, + Hasard."
+  },
+  {
+    "id": "pharmacognosie/01-generalites/mnemo-003",
+    "titre": "Stabilisation : qui utilise quoi ?",
+    "moyen": "« Bourquelot Bout, Perrot Picole, Goris-Arnould Arrose »",
+    "explication": "Bourquelot = alcool bouillant ; Perrot-Goris = vapeurs d'alcool ; Goris-Arnould = vapeurs d'eau."
+  },
+  {
+    "id": "pharmacognosie/01-generalites/mnemo-004",
+    "titre": "Fleurs vs feuilles",
+    "moyen": "« Fleur fermée, feuille fleurie »",
+    "explication": "Fleurs récoltées avant complet épanouissement ; feuilles au début de la floraison."
+  },
+  {
+    "id": "pharmacognosie/01-generalites/mnemo-005",
+    "titre": "Essai d'une drogue",
+    "moyen": "« B.P.P. : Botanique, Physico-chimique, Physiologique »",
+    "explication": "Identité/pureté (botanique), dosage (physicochimique), activité/toxicité (physiologique)."
+  }
+]

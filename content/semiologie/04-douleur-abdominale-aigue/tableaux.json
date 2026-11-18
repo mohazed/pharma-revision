@@ -1,0 +1,235 @@
+[
+  {
+    "id": "semiologie/04-douleur-abdominale-aigue/tableau-001",
+    "titre": "Douleur abdominale : localisation / causes",
+    "colonnes": [
+      "Région",
+      "Causes principales"
+    ],
+    "lignes": [
+      [
+        "Hypochondre droit",
+        "Colique biliaire, cholécystite, abcès hépatique, hépatite, pancréatite, ulcère duodénal, appendicite rétrocæcale, foie de stase, pneumopathie"
+      ],
+      [
+        "Épigastre",
+        "Pancréatite, RGO, gastrite, ulcère, dissection de l'aorte, infarctus du myocarde, péricardite"
+      ],
+      [
+        "Hypochondre gauche",
+        "Pancréatite, gastrite, ulcère, splénomégalie, infarctus/abcès de la rate, anévrisme de l'artère splénique, infarctus du myocarde, pneumopathie"
+      ],
+      [
+        "Flancs",
+        "Colique néphrétique, infarctus rénal, rupture d'anévrisme de l'aorte, colite ischémique"
+      ],
+      [
+        "Péri-ombilicale ou diffuse",
+        "Pancréatite, occlusion, appendicite débutante, rupture d'anévrisme, infarctus mésentérique, acidocétose diabétique"
+      ],
+      [
+        "Fosse iliaque droite",
+        "Appendicite, iléite terminale, adénite mésentérique, diverticulite du cæcum, colique néphrétique, GEU, kyste de l'ovaire, salpingite, hématome du psoas, hernie étranglée"
+      ],
+      [
+        "Fosse iliaque gauche",
+        "Diverticulite sigmoïdienne, colite ischémique, GEU, kyste de l'ovaire, salpingite, hématome du psoas, hernie étranglée"
+      ]
+    ]
+  },
+  {
+    "id": "semiologie/04-douleur-abdominale-aigue/tableau-002",
+    "titre": "Signe d'examen / signification",
+    "colonnes": [
+      "Signe",
+      "Description",
+      "Orientation"
+    ],
+    "lignes": [
+      [
+        "Défense",
+        "Résistance tonique vaincue par une palpation douce",
+        "Signe d'alerte"
+      ],
+      [
+        "Contracture",
+        "Résistance invincible, ventre de bois",
+        "Péritonite"
+      ],
+      [
+        "Rebond",
+        "Douleur vive à la décompression brusque",
+        "Irritation péritonéale"
+      ],
+      [
+        "Signe de Murphy",
+        "Arrêt de l'inspiration sous le rebord costal droit",
+        "Cholécystite"
+      ],
+      [
+        "Matité déclive",
+        "Son sourd des zones déclives",
+        "Ascite"
+      ],
+      [
+        "Matité sus-pubienne",
+        "Son sourd sus-pubien",
+        "Globe vésical"
+      ],
+      [
+        "Silence abdominal",
+        "Absence de bruits hydroaériques",
+        "Iléus ou péritonite"
+      ],
+      [
+        "Souffle systolique",
+        "Souffle abdominal",
+        "Sténose ou anévrisme de l'aorte abdominale"
+      ]
+    ]
+  },
+  {
+    "id": "semiologie/04-douleur-abdominale-aigue/tableau-003",
+    "titre": "Douleurs typiques : comparaison",
+    "colonnes": [
+      "Affection",
+      "Siège / type",
+      "Horaire / facteurs",
+      "Irradiation / calmant"
+    ],
+    "lignes": [
+      [
+        "Ulcère gastro-duodénal",
+        "Épigastre, crampe",
+        "À distance des repas, parfois nocturne, périodique",
+        "Peu marquée ; calmée par l'alimentation"
+      ],
+      [
+        "Gastrite",
+        "Épigastre, brûlure",
+        "Aliments acides, médicaments",
+        "—"
+      ],
+      [
+        "RGO (pyrosis)",
+        "Rétrosternale, brûlure ascendante",
+        "Post-prandiale, nocturne, augmentée penché en avant",
+        "—"
+      ],
+      [
+        "Pancréatite (syndrome solaire)",
+        "Épigastre, intense",
+        "Post-prandiale précoce",
+        "Transfixiante ; calmée en chien de fusil"
+      ],
+      [
+        "Colique hépatique",
+        "Hypochondre droit, broiement",
+        "Rapide, plusieurs heures, le soir, repas gras",
+        "En bretelle ; antispasmodiques"
+      ]
+    ]
+  },
+  {
+    "id": "semiologie/04-douleur-abdominale-aigue/carte-001",
+    "type": "carte",
+    "titre": "Douleur abdominale aiguë",
+    "racine": {
+      "label": "Douleur abdominale aiguë (≤ 7 jours)",
+      "enfants": [
+        {
+          "label": "Interrogatoire",
+          "enfants": [
+            {
+              "label": "Terrain",
+              "enfants": []
+            },
+            {
+              "label": "Caractéristiques",
+              "enfants": []
+            },
+            {
+              "label": "Signes associés",
+              "enfants": []
+            },
+            {
+              "label": "Signes d'alerte",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Examen",
+          "enfants": [
+            {
+              "label": "Inspection",
+              "enfants": []
+            },
+            {
+              "label": "Palpation (défense, contracture, rebond, Murphy)",
+              "enfants": []
+            },
+            {
+              "label": "Percussion",
+              "enfants": []
+            },
+            {
+              "label": "Auscultation",
+              "enfants": []
+            },
+            {
+              "label": "TR, constantes, BU",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Examens",
+          "enfants": [
+            {
+              "label": "NFS, CRP, lipase, bilan hépatique, β-hCG",
+              "enfants": []
+            },
+            {
+              "label": "ECG",
+              "enfants": []
+            },
+            {
+              "label": "Imagerie",
+              "enfants": []
+            },
+            {
+              "label": "Endoscopie",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Causes",
+          "enfants": [
+            {
+              "label": "Ulcère",
+              "enfants": []
+            },
+            {
+              "label": "Gastrite, RGO",
+              "enfants": []
+            },
+            {
+              "label": "Pancréatite",
+              "enfants": []
+            },
+            {
+              "label": "Colique hépatique",
+              "enfants": []
+            },
+            {
+              "label": "Vasculaires",
+              "enfants": []
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

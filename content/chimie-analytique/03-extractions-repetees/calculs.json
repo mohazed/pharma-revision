@@ -1,0 +1,182 @@
+[
+  {
+    "id": "chimie-analytique/03-extractions-repetees/calcul-001",
+    "titre": "Rendement d'une extraction répétée (volumes égaux)",
+    "enonce": "{VA} mL de solution aqueuse sont extraits {n} fois par {VB} mL de solvant (λ = {lam}). Calculer le rendement global en %.",
+    "variables": {
+      "VA": {
+        "min": 20,
+        "max": 200,
+        "pas": 10,
+        "unite": "mL"
+      },
+      "n": {
+        "min": 2,
+        "max": 6,
+        "pas": 1,
+        "unite": ""
+      },
+      "VB": {
+        "min": 5,
+        "max": 50,
+        "pas": 5,
+        "unite": "mL"
+      },
+      "lam": {
+        "min": 2,
+        "max": 20,
+        "pas": 1,
+        "unite": ""
+      }
+    },
+    "formule": "100*(1-1/Math.pow(1+lam*VB/VA,n))",
+    "unite": "%",
+    "decimales": 2,
+    "etapes": [
+      "Étape 1 : α = λ·VB/VA",
+      "Étape 2 : fraction restante = 1/(1 + α)ⁿ",
+      "Étape 3 : ρ = 1 − 1/(1 + α)ⁿ, ×100"
+    ],
+    "rappel": "ρ = 1 − 1/(1 + λVB/VA)ⁿ."
+  },
+  {
+    "id": "chimie-analytique/03-extractions-repetees/calcul-002",
+    "titre": "Quantité restant après n extractions",
+    "enonce": "{VA} mL d'eau contiennent {Q0} mg de soluté (λ = {lam}). On extrait {n} fois par {VB} mL de solvant. Calculer QAn.",
+    "variables": {
+      "VA": {
+        "min": 20,
+        "max": 100,
+        "pas": 10,
+        "unite": "mL"
+      },
+      "Q0": {
+        "min": 10,
+        "max": 100,
+        "pas": 5,
+        "unite": "mg"
+      },
+      "lam": {
+        "min": 2,
+        "max": 15,
+        "pas": 1,
+        "unite": ""
+      },
+      "n": {
+        "min": 2,
+        "max": 5,
+        "pas": 1,
+        "unite": ""
+      },
+      "VB": {
+        "min": 5,
+        "max": 40,
+        "pas": 5,
+        "unite": "mL"
+      }
+    },
+    "formule": "Q0/Math.pow(1+lam*VB/VA,n)",
+    "unite": "mg",
+    "decimales": 3,
+    "etapes": [
+      "Étape 1 : α = λ·VB/VA",
+      "Étape 2 : QAn = QA0/(1 + α)ⁿ"
+    ],
+    "rappel": "QAn = QA0/(1+α)ⁿ ; ΣQB = QA0 − QAn."
+  },
+  {
+    "id": "chimie-analytique/03-extractions-repetees/calcul-003",
+    "titre": "Rendement à volume total limité",
+    "enonce": "Un volume total de {VT} mL de solvant (λ = {lam}) est fractionné en {n} parts égales pour extraire {VA} mL de solution. Calculer le rendement en %.",
+    "variables": {
+      "VT": {
+        "min": 20,
+        "max": 100,
+        "pas": 10,
+        "unite": "mL"
+      },
+      "lam": {
+        "min": 2,
+        "max": 20,
+        "pas": 1,
+        "unite": ""
+      },
+      "n": {
+        "min": 1,
+        "max": 8,
+        "pas": 1,
+        "unite": ""
+      },
+      "VA": {
+        "min": 20,
+        "max": 100,
+        "pas": 10,
+        "unite": "mL"
+      }
+    },
+    "formule": "100*(1-1/Math.pow(1+lam*VT/(n*VA),n))",
+    "unite": "%",
+    "decimales": 2,
+    "etapes": [
+      "Étape 1 : vB = VB/n",
+      "Étape 2 : α = λ·vB/VA = λ·VB/(n·VA)",
+      "Étape 3 : ρ = 1 − 1/(1 + α)ⁿ"
+    ],
+    "rappel": "Volume limité : ρ = 1 − 1/(1 + λVB/(nVA))ⁿ."
+  },
+  {
+    "id": "chimie-analytique/03-extractions-repetees/calcul-004",
+    "titre": "Rendement avec volumes différents",
+    "enonce": "Une solution est extraite deux fois : α1 = {a1} puis α2 = {a2}. Calculer le rendement global en %.",
+    "variables": {
+      "a1": {
+        "min": 0.5,
+        "max": 5,
+        "pas": 0.5,
+        "unite": ""
+      },
+      "a2": {
+        "min": 0.5,
+        "max": 5,
+        "pas": 0.5,
+        "unite": ""
+      }
+    },
+    "formule": "100*(1-1/((1+a1)*(1+a2)))",
+    "unite": "%",
+    "decimales": 2,
+    "etapes": [
+      "Étape 1 : QA2 = QA0/[(1+α1)(1+α2)]",
+      "Étape 2 : ρ = 1 − 1/[(1+α1)(1+α2)]"
+    ],
+    "rappel": "Cas général : ρ = 1 − 1/Π(1+αi)."
+  },
+  {
+    "id": "chimie-analytique/03-extractions-repetees/calcul-005",
+    "titre": "Nombre minimal d'extractions",
+    "enonce": "Avec α = {a} à chaque extraction, combien d'extractions faut-il au minimum pour atteindre un rendement d'au moins {rho} % ?",
+    "variables": {
+      "a": {
+        "min": 1,
+        "max": 5,
+        "pas": 0.5,
+        "unite": ""
+      },
+      "rho": {
+        "min": 90,
+        "max": 99.9,
+        "pas": 0.1,
+        "unite": "%"
+      }
+    },
+    "formule": "Math.ceil(Math.log(1/(1-rho/100))/Math.log(1+a))",
+    "unite": "extractions",
+    "decimales": 0,
+    "etapes": [
+      "Étape 1 : 1 − ρ = 1/(1 + α)ⁿ",
+      "Étape 2 : n = log[1/(1 − ρ)]/log(1 + α)",
+      "Étape 3 : arrondir à l'entier supérieur"
+    ],
+    "rappel": "log(1 − ρ) = −n·log(1 + α)."
+  }
+]

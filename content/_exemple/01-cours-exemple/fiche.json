@@ -1,0 +1,10 @@
+{
+  "id": "_exemple/01-cours-exemple/fiche",
+  "titre": "Fiche — Cours d'exemple",
+  "sections": [
+    { "titre": "Absorption", "points": ["La **diffusion passive** suit le gradient de concentration.", "Seule la forme *non ionisée* traverse facilement les membranes."] },
+    { "titre": "Distribution", "points": ["Le **Vd** est un volume fictif : Vd = Dose / C0.", "Un Vd élevé traduit une forte fixation tissulaire."] }
+  ],
+  "aRetenir": ["t½ = 0,693 / ke", "La voie IV est la référence (F = 100 %)."],
+  "pieges": ["Le Vd n'est **pas** un volume physiologique réel.", "En ordre un, la t½ ne dépend pas de la dose."]
+}

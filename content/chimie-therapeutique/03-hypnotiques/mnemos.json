@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chimie-therapeutique/03-hypnotiques/mnemo-001",
+    "titre": "Orientation de l'activité selon le substituant en 7",
+    "moyen": "« NO2 = Nuit (hypnotique) ; Cl = Calme (anxiolytique) »",
+    "explication": "RSA : le nitro oriente vers l'hypnotique, le chlore vers l'anxiolytique."
+  },
+  {
+    "id": "chimie-therapeutique/03-hypnotiques/mnemo-002",
+    "titre": "Les trois « Z »",
+    "moyen": "« Z comme Zzz » : Zolpidem – Zaleplon – Zopiclone",
+    "explication": "Les trois apparentés aux benzodiazépines : imidazopyridine, pyrazolopyrimidine, cyclopyrrolone."
+  },
+  {
+    "id": "chimie-therapeutique/03-hypnotiques/mnemo-003",
+    "titre": "Synthèse du nitrazépam",
+    "moyen": "« Acyler, Aminer, Cycliser »",
+    "explication": "Bromure de bromoacétyle, puis NH3 (–HBr), puis cyclisation avec perte d'eau."
+  },
+  {
+    "id": "chimie-therapeutique/03-hypnotiques/mnemo-004",
+    "titre": "Durées de traitement",
+    "moyen": "« 4 semaines pour dormir, 12 semaines pour calmer »",
+    "explication": "Hypnotique BZD : quelques jours à 4 semaines ; anxiolytique BZD : au plus 12 semaines."
+  },
+  {
+    "id": "chimie-therapeutique/03-hypnotiques/mnemo-005",
+    "titre": "Plantes du sommeil",
+    "moyen": "« V.P.A. » : Valériane, Passiflore, Aubépine",
+    "explication": "Les trois plantes sédatives conseillées à l'officine."
+  }
+]

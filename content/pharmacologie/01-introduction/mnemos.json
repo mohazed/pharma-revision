@@ -1,0 +1,26 @@
+[
+  {
+    "id": "pharmacologie/01-introduction/mnemo-01",
+    "titre": "Étapes de la pharmacocinétique",
+    "moyen": "ADME",
+    "explication": "Absorption, Distribution, Métabolisme, Élimination — dans cet ordre."
+  },
+  {
+    "id": "pharmacologie/01-introduction/mnemo-02",
+    "titre": "Ordre des trois phases",
+    "moyen": "« Bien Cuisiner Dîner » : Biopharmaceutique → Cinétique → Dynamique",
+    "explication": "La forme se dissout (biopharmaceutique), l'organisme agit sur le médicament (pharmacocinétique), puis le médicament agit sur l'organisme (pharmacodynamie)."
+  },
+  {
+    "id": "pharmacologie/01-introduction/mnemo-03",
+    "titre": "Fonction curative",
+    "moyen": "« ESS » : Étiologique, Substitutive, Symptomatique",
+    "explication": "Les trois formes de la fonction thérapeutique curative."
+  },
+  {
+    "id": "pharmacologie/01-introduction/mnemo-04",
+    "titre": "Qualificatifs des effets indésirables",
+    "moyen": "« NoSLaT » : Notoire, Secondaire, Latéral, Toxique",
+    "explication": "Les quatre termes du cours pour désigner les effets indésirables."
+  }
+]

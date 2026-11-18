@@ -1,0 +1,46 @@
+{
+  "id": "pharmacologie/td/01-absorption-distribution/fiche-001",
+  "titre": "TD 1 – Absorption et distribution",
+  "sections": [
+    {
+      "titre": "Exercice 1 – Ionisation",
+      "points": [
+        "Acide : pH = pKa + log [I]/[NI] ; seule la forme non ionisée diffuse.",
+        "pKa 3 : estomac (pH 2) [I]/[NI] = 0,1 → absorption gastrique ; intestin (pH 6) = 1000 ; sang (pH 7) = 10 000.",
+        "Antiacide → pH gastrique ↑ → ionisation ↑ → absorption ↓."
+      ]
+    },
+    {
+      "titre": "Exercice 2 – Biodisponibilité",
+      "points": [
+        "Voie orale : EPP intestinal, hépatique, pulmonaire.",
+        "F = 0,9 × 0,9 × 0,7 × 0,9 = 0,5103 → Q = 51 mg.",
+        "Voie intra-artérielle : pas d'EPP → F = 100 %."
+      ]
+    },
+    {
+      "titre": "Exercice 3 – Courbe",
+      "points": [
+        "Pics multiples après dose orale unique : cycle entéro-hépatique (réabsorption des dérivés déconjugués)."
+      ]
+    },
+    {
+      "titre": "Exercices 4 et 5 – Vd",
+      "points": [
+        "Q = Cp × Vd = 1 × 15 × 80 = 1200 mg.",
+        "Vd = 500/2 = 250 L = 3,57 L/kg → classe 200–1000 l, distribution élevée."
+      ]
+    }
+  ],
+  "aRetenir": [
+    "[I]/[NI] = 10^(pH − pKa) pour un acide",
+    "F = f × Π(1 − E)",
+    "Intra-artérielle : F = 1",
+    "Q = Cp × Vd"
+  ],
+  "pieges": [
+    "Ne pas inverser I et NI dans Henderson-Hasselbalch (acide vs base).",
+    "Multiplier les (1 − E), ne pas additionner les E.",
+    "Penser à multiplier le Vd en L/kg par le poids."
+  ]
+}

@@ -1,0 +1,178 @@
+[
+  {
+    "id": "chimie-therapeutique/03-hypnotiques/tableau-001",
+    "titre": "Classification des hypnotiques",
+    "colonnes": [
+      "Classe",
+      "Exemples",
+      "Remarque"
+    ],
+    "lignes": [
+      [
+        "Barbituriques",
+        "Barbital (acide diéthylbarbiturique)",
+        "Introduits en 1903"
+      ],
+      [
+        "Benzodiazépines hypnotiques",
+        "Nitrazépam, flunitrazépam, lormétazépam, témazépam, loprazolam, triazolam",
+        "Récepteur GABAA"
+      ],
+      [
+        "Apparentés aux BZD",
+        "Zolpidem, zaleplon, zopiclone",
+        "Pharmacologiquement apparentés, chimiquement différents"
+      ],
+      [
+        "Antihistaminiques hypnotiques",
+        "Prométhazine, doxylamine",
+        "Effet sédatif histaminergique et adrénolytique"
+      ]
+    ]
+  },
+  {
+    "id": "chimie-therapeutique/03-hypnotiques/tableau-002",
+    "titre": "Benzodiazépines hypnotiques : groupes chimiques",
+    "colonnes": [
+      "Groupe",
+      "Substituant caractéristique",
+      "Molécules (spécialité)"
+    ],
+    "lignes": [
+      [
+        "Diazépinone 7-nitrée",
+        "NO2 en 7",
+        "Nitrazépam (Mogadan®, R1 = H, X = H) ; flunitrazépam (Rohypnol®, R1 = CH3, X = F)"
+      ],
+      [
+        "Diazépinolone",
+        "OH en 3, R1 = CH3",
+        "Lormétazépam (Noctamide®, X = Cl) ; témazépam (Normison®, X = H)"
+      ],
+      [
+        "Imidazolo-1,4-BZD",
+        "Cycle imidazolé fusionné",
+        "Loprazolam (Havlane®)"
+      ],
+      [
+        "Triazolo-1,4-BZD",
+        "Cycle triazolé fusionné",
+        "Triazolam (Halcion®)"
+      ]
+    ]
+  },
+  {
+    "id": "chimie-therapeutique/03-hypnotiques/tableau-003",
+    "titre": "Apparentés aux benzodiazépines",
+    "colonnes": [
+      "Molécule",
+      "Famille chimique"
+    ],
+    "lignes": [
+      [
+        "Zolpidem",
+        "Imidazopyridine"
+      ],
+      [
+        "Zaleplon",
+        "Pyrazolopyrimidine"
+      ],
+      [
+        "Zopiclone",
+        "Cyclopyrrolone"
+      ]
+    ]
+  },
+  {
+    "id": "chimie-therapeutique/03-hypnotiques/tableau-004",
+    "titre": "Comparaison BZD hypnotiques / antihistaminiques sédatifs",
+    "colonnes": [
+      "Critère",
+      "Benzodiazépines",
+      "Antihistaminiques H1"
+    ],
+    "lignes": [
+      [
+        "Mécanisme",
+        "Récepteur GABAA (potentialisation du GABA)",
+        "Effet central histaminergique et adrénolytique"
+      ],
+      [
+        "Troubles amnésiques",
+        "Altération de la mémorisation à long terme",
+        "Moins de troubles amnésiques"
+      ],
+      [
+        "Dépendance",
+        "Dépendance à long terme",
+        "Risque faible"
+      ],
+      [
+        "Délivrance",
+        "Sur ordonnance",
+        "Certains disponibles sans ordonnance à l'officine"
+      ]
+    ]
+  },
+  {
+    "id": "chimie-therapeutique/03-hypnotiques/carte-005",
+    "type": "carte",
+    "titre": "Les hypnotiques",
+    "racine": {
+      "label": "Hypnotiques",
+      "enfants": [
+        {
+          "label": "Barbituriques",
+          "enfants": []
+        },
+        {
+          "label": "BZD hypnotiques",
+          "enfants": [
+            {
+              "label": "Diazépinones 7-nitrées",
+              "enfants": []
+            },
+            {
+              "label": "Diazépinolones",
+              "enfants": []
+            },
+            {
+              "label": "Triazolo / imidazolo",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Apparentés",
+          "enfants": [
+            {
+              "label": "Zolpidem",
+              "enfants": []
+            },
+            {
+              "label": "Zaleplon",
+              "enfants": []
+            },
+            {
+              "label": "Zopiclone",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Antihistaminiques",
+          "enfants": [
+            {
+              "label": "Prométhazine",
+              "enfants": []
+            },
+            {
+              "label": "Doxylamine",
+              "enfants": []
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

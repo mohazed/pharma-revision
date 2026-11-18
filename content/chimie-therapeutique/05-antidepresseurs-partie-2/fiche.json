@@ -1,0 +1,72 @@
+{
+  "id": "chimie-therapeutique/05-antidepresseurs-partie-2/fiche",
+  "titre": "Antidépresseurs – Partie 2 : l'essentiel",
+  "sections": [
+    {
+      "titre": "Tricycliques : mécanisme et RSA",
+      "points": [
+        "Effet antidépresseur principal : inhibition de la recapture de la **sérotonine** et de la **noradrénaline**",
+        "Chaîne latérale optimale : **3 carbones** ; l'encombrement diminue l'activité",
+        "Amines **tertiaires** (imipramine) : sérotonine + noradrénaline ; amines **secondaires** (nortriptyline) : noradrénaline préférentiellement",
+        "Caractère **amphiphile** : affinité pour les transporteurs et récepteurs, effet stabilisant de membrane cardiaque"
+      ]
+    },
+    {
+      "titre": "Tricycliques : effets indésirables",
+      "points": [
+        "Neuropsychiques : réactivations anxieuses ou délirantes, inversion trop rapide de l'humeur, risque suicidaire",
+        "Cardiovasculaires : hypotension orthostatique, arythmies, troubles de conduction (mort subite)",
+        "Anticholinergiques : sécheresse buccale, constipation, douleurs épigastriques, tachycardie, vision trouble, rétention urinaire",
+        "H1 : sédation ; α1 : hypotension"
+      ]
+    },
+    {
+      "titre": "IMAO",
+      "points": [
+        "MAO : enzymes **flaviniques mitochondriales** catalysant la désamination oxydative des monoamines",
+        "MAO-A : sérotonine, noradrénaline, adrénaline ; MAO-B : phényléthylamine et dopamine",
+        "Iproniazide (Marsilid®) : dérivé de l'acide isonicotinique à enchaînement hydrazinique isopropylé ; IMAO non sélectif **irréversible** et incompétitif, inhibiteur **suicide** (fixation covalente, destruction de l'enzyme, délai de 2 semaines)",
+        "Moclobémide (Moclamine®) : benzamide dérivé de l'aminoéthylmorpholine, inhibiteur **compétitif réversible sélectif de la MAO-A**",
+        "Non-spécificité des IMAO irréversibles : interactions médicamenteuses"
+      ]
+    },
+    {
+      "titre": "ISRS",
+      "points": [
+        "Antidépresseurs sérotoninergiques purs, plutôt psychotoniques, efficacité comparable aux imipraminiques",
+        "Sans effets anticholinergiques (mieux tolérés) et sans toxicité cardiaque (administrables chez le cardiaque)",
+        "Mécanisme : inhibition **sélective** du recaptage de la sérotonine, sans altérer celui de la noradrénaline",
+        "Fluoxétine (Prozac®), fluvoxamine (Floxyfral®), paroxétine (Deroxat®), sertraline (Zoloft®), citalopram (Seropram®), escitalopram (Seroplex®)"
+      ]
+    },
+    {
+      "titre": "IRSNA",
+      "points": [
+        "Composés à **action duale** sérotoninergique et noradrénergique",
+        "Efficacité comparable aux imipraminiques et aux ISRS",
+        "Dépourvus d'action post-synaptique directe (cholinergique, adrénolytique) : moins d'effets indésirables",
+        "Venlafaxine (Effexor®), milnacipran (Ixel®)"
+      ]
+    },
+    {
+      "titre": "Atypiques : miansérine et mirtazapine",
+      "points": [
+        "Tétracycliques",
+        "Miansérine (Athymil®) : blocage **α2 présynaptique** noradrénergique",
+        "Mirtazapine (Norset®) : **NASSA**, blocage α2 présynaptique et 5-HT1A présynaptique",
+        "ATD atypiques : moins régulièrement efficaces dans les dépressions sévères, réservés aux formes de moindre intensité ou aux contre-indications des imipraminiques, action souvent plus rapide, toxicité aiguë moindre"
+      ]
+    }
+  ],
+  "aRetenir": [
+    "Les ISRS sont les antidépresseurs du patient cardiaque",
+    "Iproniazide = inhibiteur suicide irréversible ; moclobémide = compétitif réversible MAO-A",
+    "Mirtazapine = NASSA (α2 + 5-HT1A présynaptiques)"
+  ],
+  "pieges": [
+    "Ne pas confondre MAO-A (sérotonine, NA, adrénaline) et MAO-B (phényléthylamine, dopamine)",
+    "L'amine secondaire agit surtout sur la noradrénaline, l'amine tertiaire sur les deux monoamines",
+    "Les IRSNA sont « duals » mais sans action post-synaptique directe",
+    "La toxicité aiguë des atypiques est moindre, pas plus élevée"
+  ]
+}

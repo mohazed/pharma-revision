@@ -1,0 +1,57 @@
+[
+  {
+    "id": "pharmacologie/td/02-metabolisme-elimination/tab-001",
+    "titre": "Induction vs inhibition enzymatique",
+    "colonnes": [
+      "Mécanisme",
+      "Effet sur le métabolisme",
+      "Exemples (cours)",
+      "Conséquence clinique"
+    ],
+    "lignes": [
+      [
+        "Induction",
+        "Accélération",
+        "Phénobarbital, rifampicine, carbamazépine, phénytoïne",
+        "Effet raccourci (métabolites inactifs) ; ex. échec contraceptif, rejet de greffe sous ciclosporine"
+      ],
+      [
+        "Inhibition",
+        "Ralentissement",
+        "Cimétidine, macrolides, azolés, chloramphénicol",
+        "↑ concentration et demi-vie → toxicité (ex. statines → rhabdomyolyse)"
+      ]
+    ]
+  },
+  {
+    "id": "pharmacologie/td/02-metabolisme-elimination/tab-002",
+    "titre": "Influence du pH urinaire sur la réabsorption",
+    "colonnes": [
+      "Molécule",
+      "Zone d'influence du pH",
+      "Mesure favorisant l'élimination"
+    ],
+    "lignes": [
+      [
+        "Acide faible",
+        "2,5 ≤ pKa ≤ 7,5",
+        "Alcalinisation des urines (bicarbonate)"
+      ],
+      [
+        "Base faible",
+        "6 ≤ pKa ≤ 12",
+        "Acidification des urines"
+      ],
+      [
+        "Acide fort / base forte",
+        "Ionisés en totalité",
+        "Jamais réabsorbés"
+      ],
+      [
+        "Acide très faible / base très faible",
+        "Non ionisés",
+        "Réabsorption intense et permanente"
+      ]
+    ]
+  }
+]

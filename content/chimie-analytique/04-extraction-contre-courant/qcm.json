@@ -1,0 +1,1079 @@
+[
+  {
+    "id": "chimie-analytique/04-extraction-contre-courant/qcm-001",
+    "type": "multiple",
+    "enonce": "L'extraction à contre-courant :",
+    "options": [
+      "Est une méthode fonctionnant en continu",
+      "Utilise une colonne à extraction",
+      "La phase à extraire et le solvant extractif circulent en sens inverse",
+      "La phase à extraire et le solvant circulent dans le même sens",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Méthode continue en colonne ; phase à extraire et solvant extractif circulent en sens inverse, d'où le nom de contre-courant.",
+    "source": {
+      "page": 1,
+      "extrait": "La phrase à extraire et le solvant extractif circulent en sens inverse, d'où le nom d'extraction à contre-courant"
+    },
+    "difficulte": 1,
+    "tags": [
+      "principe"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/04-extraction-contre-courant/qcm-002",
+    "type": "multiple",
+    "enonce": "Comparaison entre extraction à contre-courant et extraction répétée :",
+    "options": [
+      "Le principe est similaire",
+      "Le contre-courant est assimilé à un ensemble de plusieurs extractions",
+      "En extraction répétée, le solvant extractif est pur à chaque étage",
+      "En contre-courant, le solvant extractif contient à chaque fois une quantité de soluté",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le cours : principe similaire (ensemble de plusieurs extractions), mais le solvant est pur à chaque étage en extraction répétée alors qu'il contient déjà du soluté en contre-courant.",
+    "source": {
+      "page": 1,
+      "extrait": "dans l'extraction à contre-courant le solvant extractif contient à chaque fois une quantité de soluté"
+    },
+    "difficulte": 1,
+    "tags": [
+      "comparaison"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/04-extraction-contre-courant/qcm-003",
+    "type": "unique",
+    "enonce": "La différence essentielle entre extraction répétée et extraction à contre-courant est :",
+    "options": [
+      "Le nombre d'étages",
+      "L'état du solvant extractif à chaque étage (pur ou contenant déjà du soluté)",
+      "La nature du soluté",
+      "La température",
+      "La valeur du coefficient de partage"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "En répétée, solvant pur à chaque étage ; en contre-courant, le solvant contient à chaque fois du soluté.",
+    "source": {
+      "page": 1,
+      "extrait": "mais la différence essentielle est que le solvant extractif dans le cas de l'extraction répétée est pur à chaque étage"
+    },
+    "difficulte": 1,
+    "tags": [
+      "comparaison"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/04-extraction-contre-courant/qcm-004",
+    "type": "multiple",
+    "enonce": "Pour l'étude analytique de l'extraction à contre-courant :",
+    "options": [
+      "On découpe la colonne en un nombre n d'étages théoriques",
+      "On considère une suite discontinue",
+      "On introduit la notion de hauteur équivalente à un étage théorique (HEET)",
+      "On considère la colonne comme un seul étage",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "On découpe la colonne en n étages théoriques en considérant une suite discontinue ; d'où la notion de HEET.",
+    "source": {
+      "page": 1,
+      "extrait": "on découpe à la colonne en un nombre (n) d'étages théoriques, et on considère que nous avons une suite discontinue"
+    },
+    "difficulte": 2,
+    "tags": [
+      "HEET",
+      "étude analytique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/04-extraction-contre-courant/qcm-005",
+    "type": "multiple",
+    "enonce": "Concernant la numérotation des étages en contre-courant :",
+    "options": [
+      "Elle est effectuée dans le sens de parcours de l'une ou l'autre des deux phases",
+      "Le raffiné final porte l'indice n (QAn, CAn)",
+      "L'extrait final porte l'indice 1 (QB1, CB1)",
+      "Le raffiné final porte l'indice 1",
+      "L'extrait final porte l'indice n"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Raffiné final : indice n ; extrait final : indice 1 ; numérotation dans le sens de parcours de l'une ou l'autre phase.",
+    "source": {
+      "page": 2,
+      "extrait": "Le raffiné final porte l'indice (n) (Q An, CAn) ▪ L'extrait final porte l'indice (1)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "numérotation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/04-extraction-contre-courant/qcm-006",
+    "type": "multiple",
+    "enonce": "Dans une colonne d'extraction à contre-courant :",
+    "options": [
+      "La concentration de S dans le solvant A diminue à chaque étage de 1 à n",
+      "La concentration de S dans le solvant B augmente à chaque étage de n à 1",
+      "La concentration de S dans A augmente de 1 à n",
+      "La concentration de S dans B diminue de n à 1",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "La phase A s'appauvrit de l'étage 1 à n ; la phase B s'enrichit en progressant de l'étage n à l'étage 1.",
+    "source": {
+      "page": 2,
+      "extrait": "par contre la concentration de (s) dans le solvant (B) augmente à chaque étage de (n à 1)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "profil de concentration"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/04-extraction-contre-courant/qcm-007",
+    "type": "unique",
+    "enonce": "Dans l'extraction à contre-courant, le solvant pur entre au niveau de l'étage :",
+    "options": [
+      "1",
+      "n",
+      "n/2",
+      "Tous les étages",
+      "n+1"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "D'après le schéma, le solvant pur entre à l'étage n (où sort le raffiné QAn), et l'extrait QB1 sort à l'étage 1 où entre la solution QA0.",
+    "source": {
+      "page": 1,
+      "extrait": "Schéma de l'extraction à contre courant"
+    },
+    "difficulte": 2,
+    "tags": [
+      "schéma"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/04-extraction-contre-courant/qcm-008",
+    "type": "multiple",
+    "enonce": "Un étage théorique en extraction à contre-courant :",
+    "options": [
+      "Est une portion de longueur h de la colonne",
+      "Le raffiné et l'extrait qui quittent cette portion sont en équilibre",
+      "La relation de partage y est vérifiée",
+      "Sa longueur est la même pour chaque étage",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Un étage théorique est une portion de longueur h telle que raffiné et extrait qui la quittent sont en équilibre (relation de partage vérifiée) ; h est la même pour chaque étage.",
+    "source": {
+      "page": 2,
+      "extrait": "un étage théorique est défini comme une portion de longueur h tel que le raffiné et l'extrait qui quitte cette portion soient en équilibre"
+    },
+    "difficulte": 2,
+    "tags": [
+      "étage théorique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/04-extraction-contre-courant/qcm-009",
+    "type": "unique",
+    "enonce": "La hauteur équivalente à un étage théorique (HEET) est définie par :",
+    "options": [
+      "HEET = n/L",
+      "HEET = L/n",
+      "HEET = L·n",
+      "HEET = L/(n+1)",
+      "HEET = log L/log n"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "HEET = h = L/n, avec L la longueur de la colonne et n le nombre d'étages théoriques.",
+    "source": {
+      "page": 2,
+      "extrait": "H.E.E.T = h = L longueur de la colonne / n nombre d'étages théoriques"
+    },
+    "difficulte": 1,
+    "tags": [
+      "HEET"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/04-extraction-contre-courant/qcm-010",
+    "type": "unique",
+    "enonce": "Une colonne de 1,2 m présente 30 étages théoriques. Sa HEET est de :",
+    "options": [
+      "4 cm",
+      "40 cm",
+      "25 cm",
+      "36 m",
+      "0,4 cm"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "HEET = L/n = 120 cm/30 = 4 cm.",
+    "source": {
+      "page": 5,
+      "extrait": "H.E.E.T = L/n"
+    },
+    "difficulte": 1,
+    "tags": [
+      "calcul",
+      "HEET"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/04-extraction-contre-courant/qcm-011",
+    "type": "multiple",
+    "enonce": "Pour une colonne de longueur donnée, plus la HEET est faible :",
+    "options": [
+      "Plus le nombre d'étages théoriques est grand",
+      "Plus la colonne est efficace",
+      "Plus le nombre d'étages est petit",
+      "Moins la colonne est efficace",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "n = L/HEET : une HEET faible signifie plus d'étages théoriques ; le cours indique que la HEET rend compte de l'efficacité de la colonne.",
+    "source": {
+      "page": 4,
+      "extrait": "la hauteur équivalente H.E.E.T qui rend compte de l'efficacité de la colonne"
+    },
+    "difficulte": 2,
+    "tags": [
+      "HEET",
+      "efficacité"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/04-extraction-contre-courant/qcm-012",
+    "type": "multiple",
+    "enonce": "L'étude quantitative de l'extraction à contre-courant :",
+    "options": [
+      "Fait appel à l'expression de partage et à la loi de conservation de la matière",
+      "Considère le cas idéal d'une distribution régulière",
+      "Considère que le soluté est réparti initialement entre les deux phases",
+      "Écrit que la somme des quantités entrant dans un étage est égale à celle qui en sort",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes les propositions décrivent les hypothèses et équations de l'étude quantitative.",
+    "source": {
+      "page": 2,
+      "extrait": "la somme des quantités entrant dans l'étage est égale à celle des quantités en sortant"
+    },
+    "difficulte": 2,
+    "tags": [
+      "étude quantitative"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/04-extraction-contre-courant/qcm-013",
+    "type": "unique",
+    "enonce": "Le bilan de matière de l'étage 1 d'une extraction à contre-courant s'écrit :",
+    "options": [
+      "QA0 = QA1 + QB1",
+      "QA0 + QB2 = QA1 + QB1",
+      "QA1 + QB3 = QA2 + QB2",
+      "QA0 + QB1 = QA1 + QB2",
+      "QA0 = QAn + QBn"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "À l'étage 1 entrent QA0 (solution) et QB2 (solvant venant de l'étage 2) ; sortent QA1 et QB1 : QA0 + QB2 = QA1 + QB1.",
+    "source": {
+      "page": 3,
+      "extrait": "Etage (1) QA0 + QB2 = QA1 + QB1"
+    },
+    "difficulte": 2,
+    "tags": [
+      "bilan par étage"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/04-extraction-contre-courant/qcm-014",
+    "type": "unique",
+    "enonce": "Le bilan de matière de l'étage n s'écrit :",
+    "options": [
+      "QAn−1 + QB0 = QAn + QBn",
+      "QAn−1 = QAn + QBn+1",
+      "QAn + QB0 = QAn−1 + QBn",
+      "QA0 = QAn + QBn",
+      "QAn−1 + QBn+1 = QAn"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "À l'étage n entrent QAn−1 et le solvant pur (QB0) ; sortent QAn et QBn.",
+    "source": {
+      "page": 3,
+      "extrait": "Etage (n) QAn-1 + QB0 = QAn + QBn"
+    },
+    "difficulte": 2,
+    "tags": [
+      "bilan par étage"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/04-extraction-contre-courant/qcm-015",
+    "type": "multiple",
+    "enonce": "Le bilan global de l'extraction à contre-courant :",
+    "options": [
+      "S'écrit QA0 = QAn + QB1",
+      "Les inconnues sont QAn et QB1",
+      "S'écrit QA0 = ΣQB + QAn avec solvant pur à chaque étage",
+      "Fait intervenir l'extrait final QB1 et le raffiné final QAn",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      3
+    ],
+    "explication": "Bilan global : QA0 = QAn + QB1 (le solvant entre pur, QB0 = 0) ; les inconnues sont QAn et QB1. ΣQB est la notation de l'extraction répétée.",
+    "source": {
+      "page": 3,
+      "extrait": "QA0= QAn + QB1 Les inconnues sont QAn et QB1"
+    },
+    "difficulte": 2,
+    "tags": [
+      "bilan global"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/04-extraction-contre-courant/qcm-016",
+    "type": "multiple",
+    "enonce": "Pour chaque étage de l'extraction à contre-courant :",
+    "options": [
+      "λ = CB1/CA1 = CB2/CA2 = … = CBn/CAn",
+      "α = λ·VB/VA = QB1/QA1 = … = QBn/QAn",
+      "QB1 = α·QA1",
+      "QA1 = QB1/α",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le partage est vérifié à chaque étage (λ et α identiques) : QB1 = αQA1, soit QA1 = QB1/α.",
+    "source": {
+      "page": 3,
+      "extrait": "On sait que QA1 = QB1/α et QB1 = α QA1"
+    },
+    "difficulte": 2,
+    "tags": [
+      "équations"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/04-extraction-contre-courant/qcm-017",
+    "type": "unique",
+    "enonce": "Le calcul de QAn en contre-courant consiste à :",
+    "options": [
+      "Utiliser uniquement le bilan global",
+      "Raisonner étage par étage en reliant l'équation de partage et l'équation de conservation de la matière",
+      "Mesurer la HEET",
+      "Appliquer la formule de l'extraction simple",
+      "Utiliser la méthode graphique uniquement"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Le cours : « il faut raisonner étage par étage en reliant l'équation de partage et l'équation de conservation de la matière ».",
+    "source": {
+      "page": 3,
+      "extrait": "il faut raisonner étage par étage en reliant l'équation de partage et l'équation de conservation de la matière"
+    },
+    "difficulte": 2,
+    "tags": [
+      "QAn"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/04-extraction-contre-courant/qcm-018",
+    "type": "unique",
+    "enonce": "La quantité restant dans le raffiné final d'une extraction à contre-courant à n étages est :",
+    "options": [
+      "QAn = QA0/(1 + α)ⁿ",
+      "QAn = QA0·(α − 1)/(αⁿ⁺¹ − 1)",
+      "QAn = QA0·(αⁿ⁺¹ − 1)/(α − 1)",
+      "QAn = QA0/(1 + α)",
+      "QAn = QA0·α/(1 + α)"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Formule du cours : QAn = QA0·(α − 1)/(αⁿ⁺¹ − 1). QA0/(1+α)ⁿ est la formule de l'extraction répétée.",
+    "source": {
+      "page": 4,
+      "extrait": "QAn = QA0 α - 1 / αn+1 -1"
+    },
+    "difficulte": 2,
+    "tags": [
+      "QAn"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/04-extraction-contre-courant/qcm-019",
+    "type": "multiple",
+    "enonce": "En extraction à contre-courant :",
+    "options": [
+      "QB1 = QA0 − QAn",
+      "QB1 = QA0·[1 − (α − 1)/(αⁿ⁺¹ − 1)]",
+      "ρ = QB1/QA0",
+      "ρ = 1 − (α − 1)/(αⁿ⁺¹ − 1)",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "QB1 se déduit du bilan global ; ρ = QB1/QA0 = 1 − (α − 1)/(αⁿ⁺¹ − 1).",
+    "source": {
+      "page": 4,
+      "extrait": "ρ = QB1/QA0 = 1 − (α − 1)/(α n+1 − 1)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "rendement"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/04-extraction-contre-courant/qcm-020",
+    "type": "unique",
+    "enonce": "Le rendement d'une extraction à contre-courant peut aussi s'écrire :",
+    "options": [
+      "ρ = (αⁿ⁺¹ − α)/(αⁿ⁺¹ − 1)",
+      "ρ = α/(1 + α)",
+      "ρ = 1 − 1/(1 + α)ⁿ",
+      "ρ = (α − 1)/(αⁿ⁺¹ − 1)",
+      "ρ = αⁿ/(1 + α)ⁿ"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "ρ = 1 − (α−1)/(αⁿ⁺¹−1) = (αⁿ⁺¹ − 1 − α + 1)/(αⁿ⁺¹ − 1) = (αⁿ⁺¹ − α)/(αⁿ⁺¹ − 1). La forme d est la fraction restante.",
+    "source": {
+      "page": 4,
+      "extrait": "ρ = (α n+1 − α)/(α n+1 − 1)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "rendement"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/04-extraction-contre-courant/qcm-021",
+    "type": "unique",
+    "enonce": "Dans l'extraction à contre-courant, la fraction de soluté restant dans le raffiné final est :",
+    "options": [
+      "(α − 1)/(αⁿ⁺¹ − 1)",
+      "(αⁿ⁺¹ − α)/(αⁿ⁺¹ − 1)",
+      "1/(1 + α)ⁿ",
+      "α/(1 + α)",
+      "L/n"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "QAn/QA0 = (α − 1)/(αⁿ⁺¹ − 1).",
+    "source": {
+      "page": 4,
+      "extrait": "QAn = QA0 (α - 1)/(αn+1 -1)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "fraction restante"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/04-extraction-contre-courant/qcm-022",
+    "type": "unique",
+    "enonce": "Extraction à contre-courant avec α = 2 et n = 2 étages théoriques. Le rendement est d'environ :",
+    "options": [
+      "66,7 %",
+      "75 %",
+      "85,7 %",
+      "93,3 %",
+      "88,9 %"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Fraction restante = (2 − 1)/(2³ − 1) = 1/7 ≈ 0,143 → ρ ≈ 85,7 %.",
+    "source": {
+      "page": 4,
+      "extrait": "ρ = 1 − (α − 1)/(α n+1 − 1)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "calcul"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/04-extraction-contre-courant/qcm-023",
+    "type": "unique",
+    "enonce": "Extraction à contre-courant avec α = 2 et n = 3 étages théoriques. Le rendement est d'environ :",
+    "options": [
+      "85,7 %",
+      "87,5 %",
+      "93,3 %",
+      "96,8 %",
+      "70 %"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Fraction restante = 1/(2⁴ − 1) = 1/15 ≈ 0,067 → ρ ≈ 93,3 %.",
+    "source": {
+      "page": 4,
+      "extrait": "ρ = 1 − (α − 1)/(α n+1 − 1)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "calcul"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/04-extraction-contre-courant/qcm-024",
+    "type": "unique",
+    "enonce": "Extraction à contre-courant avec α = 3 et n = 3. La fraction restant dans le raffiné final vaut :",
+    "options": [
+      "1/64",
+      "1/40",
+      "2/80 soit 2,5 %",
+      "1/27",
+      "1/9"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "(α − 1)/(αⁿ⁺¹ − 1) = 2/(3⁴ − 1) = 2/80 = 0,025.",
+    "source": {
+      "page": 4,
+      "extrait": "QAn = QA0 (α - 1)/(αn+1 -1)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "calcul"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/04-extraction-contre-courant/qcm-025",
+    "type": "unique",
+    "enonce": "Pour QA0 = 160 mg, α = 3 et n = 3 étages en contre-courant, la quantité QB1 dans l'extrait final est de :",
+    "options": [
+      "4 mg",
+      "156 mg",
+      "150 mg",
+      "120 mg",
+      "157,5 mg"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "QAn = 160 × 2/80 = 4 mg ; QB1 = QA0 − QAn = 156 mg.",
+    "source": {
+      "page": 4,
+      "extrait": "QB1 = QA0 – QAn"
+    },
+    "difficulte": 2,
+    "tags": [
+      "calcul"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/04-extraction-contre-courant/qcm-026",
+    "type": "multiple",
+    "enonce": "Détermination du nombre d'étages théoriques en contre-courant :",
+    "options": [
+      "Connaissant λ, VA et VB (donc α), on peut calculer n",
+      "On part de ρ(αⁿ⁺¹ − 1) = αⁿ⁺¹ − α",
+      "On obtient αⁿ⁺¹(1 − ρ) = α − ρ",
+      "En passant aux logarithmes : (n+1)·log α = log(α − ρ) − log(1 − ρ)",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes ces étapes figurent dans le cours pour le calcul du nombre d'étages.",
+    "source": {
+      "page": 5,
+      "extrait": "(n + 1) log α = log (α − ρ) − log (1 − ρ)"
+    },
+    "difficulte": 3,
+    "tags": [
+      "nombre d'étages"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/04-extraction-contre-courant/qcm-027",
+    "type": "unique",
+    "enonce": "Le nombre d'étages théoriques n d'une extraction à contre-courant est donné par :",
+    "options": [
+      "n = [log(α − ρ) − log(1 − ρ)]/log α − 1",
+      "n = log(1 − ρ)/log(1 + α)",
+      "n = L × HEET",
+      "n = [log(α − ρ) + log(1 − ρ)]/log α",
+      "n = (α − ρ)/(1 − ρ)"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "D'après (n+1)log α = log(α − ρ) − log(1 − ρ) : n = [log(α − ρ) − log(1 − ρ)]/log α − 1.",
+    "source": {
+      "page": 5,
+      "extrait": "n = log (α − ρ) − log (1 − ρ) / log α -1"
+    },
+    "difficulte": 3,
+    "tags": [
+      "nombre d'étages"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/04-extraction-contre-courant/qcm-028",
+    "type": "unique",
+    "enonce": "On veut un rendement de 14/15 (≈ 93,3 %) en contre-courant avec α = 2. Le nombre d'étages théoriques nécessaire est :",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5",
+      "15"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "αⁿ⁺¹ = (α − ρ)/(1 − ρ) = (2 − 14/15)/(1/15) = (16/15)/(1/15) = 16 = 2⁴ → n + 1 = 4 → n = 3.",
+    "source": {
+      "page": 5,
+      "extrait": "(n + 1) log α = log (α − ρ) − log (1 − ρ)"
+    },
+    "difficulte": 3,
+    "tags": [
+      "calcul",
+      "nombre d'étages"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/04-extraction-contre-courant/qcm-029",
+    "type": "multiple",
+    "enonce": "Remarque du cours sur la détermination expérimentale du rendement :",
+    "options": [
+      "On peut déterminer expérimentalement le rendement connaissant QA0",
+      "QB1 et QAn peuvent être déterminés par analyse",
+      "Le rendement ne peut être obtenu que par le calcul",
+      "QA0 est inconnu par définition",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Le cours : « On peut déterminer expérimentalement le rendement de l'opération connaissant QA0, et on peut déterminer QB1 et QAn par analyse ».",
+    "source": {
+      "page": 5,
+      "extrait": "On peut déterminer expérimentalement le rendement de l'opération connaissant QA0"
+    },
+    "difficulte": 1,
+    "tags": [
+      "détermination expérimentale"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/04-extraction-contre-courant/qcm-030",
+    "type": "multiple",
+    "enonce": "La HEET et le nombre d'étages :",
+    "options": [
+      "Rendent compte de l'efficacité de la colonne",
+      "Peuvent être calculés connaissant α et le rendement",
+      "HEET = L/n",
+      "Une colonne plus longue à HEET égale comporte plus d'étages",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Connaissant α (λ, VA, VB) et ρ, on calcule n puis HEET = L/n, qui rend compte de l'efficacité. À HEET égale, n = L/HEET augmente avec L.",
+    "source": {
+      "page": 4,
+      "extrait": "il est aisé de calculer le nombre d'étages théoriques et donc la hauteur équivalente H.E.E.T"
+    },
+    "difficulte": 2,
+    "tags": [
+      "HEET"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/04-extraction-contre-courant/qcm-031",
+    "type": "multiple",
+    "enonce": "Mise en œuvre pratique de l'extraction à contre-courant :",
+    "options": [
+      "C'est essentiellement une méthode industrielle",
+      "Il existe de petits appareils de laboratoire",
+      "Le solvant léger est introduit à la base de la colonne",
+      "Le solvant lourd est introduit à la partie supérieure",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Méthode essentiellement industrielle (petits appareils de laboratoire possibles) ; solvant léger introduit à la base, solvant lourd en haut.",
+    "source": {
+      "page": 6,
+      "extrait": "Le solvant léger est introduit à la base et le solvant lourd à la partie supérieure"
+    },
+    "difficulte": 1,
+    "tags": [
+      "mise en œuvre"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/04-extraction-contre-courant/qcm-032",
+    "type": "multiple",
+    "enonce": "Dans un extracteur à contre-courant :",
+    "options": [
+      "Le liquide lourd est éliminé à la partie inférieure",
+      "Le solvant léger est éliminé à la partie supérieure",
+      "L'élimination se fait après une phase de décantation",
+      "Le solvant léger est éliminé à la partie inférieure",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Le liquide lourd sort en bas, le solvant léger en haut, après décantation.",
+    "source": {
+      "page": 6,
+      "extrait": "le liquide lourd et éliminé à la partie inférieure, le solvant léger à la partie supérieure, après une phase de décantation"
+    },
+    "difficulte": 2,
+    "tags": [
+      "mise en œuvre"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/04-extraction-contre-courant/qcm-033",
+    "type": "multiple",
+    "enonce": "La décantation dans un extracteur à contre-courant :",
+    "options": [
+      "Est souvent délicate",
+      "Est gênée par la formation d'émulsions",
+      "La rupture des émulsions est facilitée par centrifugation",
+      "Est toujours immédiate",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Le cours : décantation souvent délicate en raison des émulsions, dont la rupture est facilitée par centrifugation.",
+    "source": {
+      "page": 6,
+      "extrait": "la rupture de ces émulsions est facilitée par centrifugation"
+    },
+    "difficulte": 1,
+    "tags": [
+      "émulsions"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/04-extraction-contre-courant/qcm-034",
+    "type": "unique",
+    "enonce": "Dans un extracteur à contre-courant, le solvant lourd est introduit :",
+    "options": [
+      "À la base",
+      "À la partie supérieure",
+      "Au milieu",
+      "Avec le solvant léger",
+      "Par centrifugation"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Solvant léger à la base, solvant lourd à la partie supérieure.",
+    "source": {
+      "page": 6,
+      "extrait": "le solvant lourd à la partie supérieure"
+    },
+    "difficulte": 1,
+    "tags": [
+      "mise en œuvre"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/04-extraction-contre-courant/qcm-035",
+    "type": "multiple",
+    "enonce": "Avantages qui justifient l'extraction à contre-courant à l'échelle industrielle par rapport à l'extraction répétée :",
+    "options": [
+      "Éviter l'emploi de volumes importants de solvants",
+      "Éviter une mauvaise utilisation du pouvoir solvant lors des derniers transferts",
+      "Séparer des substances de coefficients de partage très proches",
+      "Supprimer toute formation d'émulsion",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Le cours (chapitre ELL) indique que l'extraction répétée consomme beaucoup de solvant et utilise mal le pouvoir solvant lors des derniers transferts, d'où l'extraction à contre-courant industrielle. Les λ proches relèvent de la séparation à contre-courant ; les émulsions restent un problème.",
+    "source": {
+      "page": 6,
+      "extrait": "C'est essentiellement une méthode industrielle"
+    },
+    "difficulte": 3,
+    "tags": [
+      "intérêt"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/04-extraction-contre-courant/qcm-036",
+    "type": "multiple",
+    "enonce": "Parmi les formules suivantes, lesquelles concernent l'extraction à contre-courant ?",
+    "options": [
+      "QAn = QA0(α − 1)/(αⁿ⁺¹ − 1)",
+      "HEET = L/n",
+      "n = [log(α − ρ) − log(1 − ρ)]/log α − 1",
+      "ρ = 1 − 1/(1 + α)ⁿ",
+      "QA0 = QAn + QB1"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explication": "a, b, c et e sont des formules du contre-courant. 1 − 1/(1+α)ⁿ est le rendement de l'extraction répétée.",
+    "source": {
+      "page": 4,
+      "extrait": "QB1 = QA0 – QAn"
+    },
+    "difficulte": 2,
+    "tags": [
+      "synthèse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/04-extraction-contre-courant/qcm-037",
+    "type": "multiple",
+    "enonce": "Dans une extraction à contre-courant, si α augmente (n constant) :",
+    "options": [
+      "La fraction restante (α − 1)/(αⁿ⁺¹ − 1) diminue",
+      "Le rendement augmente",
+      "Le rendement diminue",
+      "La HEET augmente forcément",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Pour α > 1, le dénominateur αⁿ⁺¹ − 1 croît beaucoup plus vite que α − 1 : la fraction restante diminue et ρ augmente (ex. n = 2 : α = 2 → 85,7 % ; α = 3 → 2/26 restant, ≈ 92,3 %). La HEET dépend de L et n.",
+    "source": {
+      "page": 4,
+      "extrait": "ρ = 1 − (α − 1)/(α n+1 − 1)"
+    },
+    "difficulte": 3,
+    "tags": [
+      "influence de α"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/04-extraction-contre-courant/qcm-038",
+    "type": "multiple",
+    "enonce": "Dans une extraction à contre-courant, si le nombre d'étages n augmente (α > 1 constant) :",
+    "options": [
+      "αⁿ⁺¹ augmente",
+      "La fraction restante diminue",
+      "Le rendement augmente",
+      "Le rendement diminue",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Pour α > 1, αⁿ⁺¹ augmente avec n, donc (α − 1)/(αⁿ⁺¹ − 1) diminue et ρ augmente (α = 2 : 85,7 % pour n = 2, 93,3 % pour n = 3).",
+    "source": {
+      "page": 4,
+      "extrait": "ρ = 1 − (α − 1)/(α n+1 − 1)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "influence de n"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/04-extraction-contre-courant/qcm-039",
+    "type": "multiple",
+    "enonce": "Concernant le schéma de l'extraction à contre-courant :",
+    "options": [
+      "La solution à extraire (QA0) entre à l'étage 1",
+      "Le solvant pur entre à l'étage n",
+      "L'extrait final QB1 sort à l'étage 1",
+      "Le raffiné final QAn sort à l'étage n",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Sur le schéma, QA0 entre au 1er étage et QAn sort au nᵉ ; le solvant pur entre au nᵉ étage et l'extrait QB1 sort au 1er.",
+    "source": {
+      "page": 1,
+      "extrait": "Schéma de l'extraction à contre courant"
+    },
+    "difficulte": 2,
+    "tags": [
+      "schéma"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/04-extraction-contre-courant/qcm-040",
+    "type": "unique",
+    "enonce": "À l'étage 2 d'une colonne à contre-courant, le bilan de matière s'écrit :",
+    "options": [
+      "QA1 = QA2 + QB2",
+      "QA1 + QB3 = QA2 + QB2",
+      "QA2 + QB3 = QA1 + QB2",
+      "QA0 + QB2 = QA2 + QB3",
+      "QA1 + QB2 = QA2 + QB3"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Entrent QA1 (raffiné de l'étage 1) et QB3 (solvant venant de l'étage 3) ; sortent QA2 et QB2. La forme a correspond à l'extraction répétée (solvant pur).",
+    "source": {
+      "page": 3,
+      "extrait": "Etage (2) QA1 + QB3 = QA2 + QB2"
+    },
+    "difficulte": 2,
+    "tags": [
+      "bilan par étage"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/04-extraction-contre-courant/qcm-041",
+    "type": "multiple",
+    "enonce": "À propos des grandeurs de l'extraction à contre-courant, cochez les propositions exactes :",
+    "options": [
+      "α = λ·VB/VA",
+      "α est le même à chaque étage",
+      "QB1 est la quantité extraite totale",
+      "QAn est la quantité non extraite",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "α = λVB/VA est identique à chaque étage (QB1/QA1 = … = QBn/QAn) ; QB1 (extrait final) est la quantité extraite et QAn (raffiné final) la quantité non extraite, avec QA0 = QAn + QB1.",
+    "source": {
+      "page": 3,
+      "extrait": "α = λ VB/VA = QB1/QA1 = QB2/QA2 = … = QBn/QAn"
+    },
+    "difficulte": 2,
+    "tags": [
+      "grandeurs"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/04-extraction-contre-courant/qcm-042",
+    "type": "unique",
+    "enonce": "Pour un rendement de 75 % avec α = 3 en contre-courant, on calcule (n+1)·log 3 = log(2,25) − log(0,25). Le nombre d'étages vaut :",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "0,5",
+      "4"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "(α − ρ)/(1 − ρ) = 2,25/0,25 = 9 = 3² → n + 1 = 2 → n = 1 (une seule extraction : ρ = α/(1+α) = 3/4, cohérent).",
+    "source": {
+      "page": 5,
+      "extrait": "(n + 1) log α = log (α − ρ) − log (1 − ρ)"
+    },
+    "difficulte": 3,
+    "tags": [
+      "calcul",
+      "nombre d'étages"
+    ],
+    "origine": "genere"
+  }
+]

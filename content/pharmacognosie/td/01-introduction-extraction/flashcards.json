@@ -1,0 +1,74 @@
+[
+  {
+    "id": "pharmacognosie/td/01-introduction-extraction/flashcard-001",
+    "recto": "Étapes de découverte d'un médicament végétal",
+    "verso": "Identification botanique, étude phytochimique (isolement des constituants), évaluation biologique.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/td/01-introduction-extraction/flashcard-002",
+    "recto": "Approche ethnopharmacologique",
+    "verso": "Sélection des plantes d'après leurs usages traditionnels.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/td/01-introduction-extraction/flashcard-003",
+    "recto": "Approche chimiotaxonomique",
+    "verso": "Recherche de constituants chimiques communs chez des espèces apparentées.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/td/01-introduction-extraction/flashcard-004",
+    "recto": "Criblage (screening)",
+    "verso": "Recherche systématique, non limitée aux plantes traditionnelles.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/td/01-introduction-extraction/flashcard-005",
+    "recto": "Alcoolatures",
+    "verso": "Macération de plantes fraîches dans l'alcool.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/td/01-introduction-extraction/flashcard-006",
+    "recto": "Teintures alcooliques",
+    "verso": "Macération de plantes sèches dans un solvant approprié, notamment l'alcool.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/td/01-introduction-extraction/flashcard-007",
+    "recto": "Huiles essentielles",
+    "verso": "Corps aromatiques volatils obtenus par hydrodistillation.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/td/01-introduction-extraction/flashcard-008",
+    "recto": "Sucs végétaux",
+    "verso": "Produits liquides obtenus par expression ou extraction des tissus végétaux frais.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/td/01-introduction-extraction/flashcard-009",
+    "recto": "Extraits",
+    "verso": "Extraction par un solvant approprié, suivie éventuellement d'une concentration.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/td/01-introduction-extraction/flashcard-010",
+    "recto": "Méthodes de contrôle citées en TD",
+    "verso": "Examen organoleptique, teneur en cendres, nature et pourcentage des éléments étrangers, réactions d'identité.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/td/01-introduction-extraction/flashcard-011",
+    "recto": "Conditions de conservation",
+    "verso": "Endroit sec, température et humidité constantes, récipients fermés protégeant de l'air, de l'humidité et de la lumière.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/td/01-introduction-extraction/flashcard-012",
+    "recto": "Extraction de molécules polaires thermolabiles",
+    "verso": "Solvant polaire et méthode sans chauffage (macération à température ambiante).",
+    "tags": []
+  }
+]

@@ -1,0 +1,141 @@
+[
+  {
+    "id": "pharmacie-galenique/08-dissolution-filtration/cas-001",
+    "titre": "Cas pratique : accélérer une dissolution trop lente",
+    "enonce": "En production, la dissolution d'un principe actif cristallin, acide faible, dans un véhicule aqueux visqueux est trop lente. Le responsable propose plusieurs modifications du procédé.",
+    "questions": [
+      {
+        "id": "pharmacie-galenique/08-dissolution-filtration/cas-001-q1",
+        "type": "multiple",
+        "enonce": "Quelles modifications accélèrent la dissolution selon l'équation dC/dt = K·S·(Cs − Ct) ?",
+        "options": [
+          "Microniser le principe actif",
+          "Augmenter l'agitation mécanique",
+          "Chauffer le milieu si le PA est thermostable",
+          "Augmenter encore la viscosité du véhicule",
+          "Toutes les propositions sont correctes"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "Micronisation (↑S), agitation (↓h) et chauffage (↑Cs, ↑D, ↓viscosité) accélèrent la dissolution ; la viscosité est défavorable.",
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacie-galenique/08-dissolution-filtration/cas-001-q2",
+        "type": "multiple",
+        "enonce": "Concernant la forme physique et le pH :",
+        "options": [
+          "Utiliser la forme amorphe augmenterait la solubilité",
+          "Augmenter le pH favoriserait l'ionisation de cet acide faible",
+          "Diminuer le pH favoriserait l'ionisation de cet acide faible",
+          "La forme cristalline est plus soluble que la forme amorphe",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0,
+          1
+        ],
+        "explication": "La forme amorphe est plus soluble ; pour un acide faible, l'augmentation du pH favorise l'ionisation.",
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacie-galenique/08-dissolution-filtration/cas-001-q3",
+        "type": "unique",
+        "enonce": "Si le PA était thermolabile, quelle mesure serait contre-indiquée ?",
+        "options": [
+          "L'élévation de la température",
+          "La micronisation",
+          "L'agitation mécanique",
+          "L'emploi d'un adjuvant solubilisant",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "L'élévation de température est contre-indiquée pour les produits thermolabiles ou volatils.",
+        "difficulte": 1,
+        "tags": [],
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "pharmacie-galenique/08-dissolution-filtration/cas-002",
+    "titre": "Cas pratique : validation d'une filtration",
+    "enonce": "Un soluté doit être filtré sur une membrane. Avant usage, l'opérateur réalise un test du point de bulle : les premières bulles apparaissent à une pression p1 et les bulles couvrent toute la surface à une pression p2 très supérieure à p1.",
+    "questions": [
+      {
+        "id": "pharmacie-galenique/08-dissolution-filtration/cas-002-q1",
+        "type": "multiple",
+        "enonce": "Interprétation du test :",
+        "options": [
+          "p1 permet de déduire le diamètre des plus larges pores",
+          "p2 renseigne sur la porosité moyenne, dont dépend le débit",
+          "Un écart important entre p1 et p2 n'est pas souhaitable",
+          "Les plus larges pores conditionnent la sélectivité",
+          "Toutes les propositions sont fausses"
+        ],
+        "correctes": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explication": "La première pression donne les plus larges pores (points faibles, sélectivité), la seconde la porosité moyenne (débit) ; les deux valeurs doivent être aussi rapprochées que possible.",
+        "difficulte": 3,
+        "tags": [],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacie-galenique/08-dissolution-filtration/cas-002-q2",
+        "type": "multiple",
+        "enonce": "Quels contrôles réaliser pendant et après la filtration ?",
+        "options": [
+          "Mesure du débit (volume filtré / temps)",
+          "Mesure de la pression",
+          "Nouveau point de bulle après filtration",
+          "Dosage du PA dans le filtrat pour vérifier la non-adsorption",
+          "Aucun contrôle après filtration"
+        ],
+        "correctes": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explication": "Pendant : débit et pression ; après : nouveau point de bulle, examen du filtrat et dosage du PA.",
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacie-galenique/08-dissolution-filtration/cas-002-q3",
+        "type": "multiple",
+        "enonce": "Pour retarder le colmatage de la membrane, on peut :",
+        "options": [
+          "Utiliser un préfiltre qui arrête les grosses particules",
+          "Surmonter le filtre d'une couche de poudre filtrante (charbon, kaolin)",
+          "Préférer une filtration tangentielle pour un grand volume",
+          "Préférer une filtration frontale, qui forme rapidement un gâteau",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "Préfiltres et poudres filtrantes retardent le colmatage ; la filtration tangentielle empêche la formation du gâteau. La frontale a un risque de colmatage élevé.",
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      }
+    ]
+  }
+]

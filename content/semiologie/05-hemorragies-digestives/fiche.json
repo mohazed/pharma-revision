@@ -1,0 +1,57 @@
+{
+  "id": "semiologie/05-hemorragies-digestives/fiche",
+  "titre": "Hémorragies digestives",
+  "sections": [
+    {
+      "titre": "Définitions",
+      "points": [
+        "Limite haute/basse : **angle de Treitz**.",
+        "Hématémèse (vomissement), méléna (selles noires collantes fétides, ≥ 50–100 mL) → haute ; rectorragie → basse ; occulte et anémie → haute ou basse.",
+        "Seule l'endoscopie confirme le siège."
+      ]
+    },
+    {
+      "titre": "Pièges diagnostiques",
+      "points": [
+        "Hémoptysie (toux, rouge vif mousseux), sang avalé, vin rouge, betterave.",
+        "Fausses mélénas : fer, bismuth, charbon, aliments (selles mates, moulées, non fétides).",
+        "Fausses rectorragies : betterave, colorants, rifampicine.",
+        "Anémie ferriprive inexpliquée (homme, femme ménopausée) → exploration digestive."
+      ]
+    },
+    {
+      "titre": "Gravité",
+      "points": [
+        "Choc : pouls > 100, TA basse, pâleur, sueurs, extrémités froides, soif, confusion → secours, allongé, à jeun.",
+        "Pièges : bêtabloquants, hypertendu traité, Hb normale au début (24–72 h)."
+      ]
+    },
+    {
+      "titre": "Causes",
+      "points": [
+        "Haute : ulcère (1re cause), varices (cirrhose), Mallory-Weiss, œsophagite.",
+        "Basse : diverticules (âgé, indolore), hémorroïdes/fissure, cancer/polypes, angiodysplasies, colite ischémique."
+      ]
+    },
+    {
+      "titre": "Médicaments",
+      "points": [
+        "AINS/aspirine : COX-1 → baisse des prostaglandines → ulcère.",
+        "Antithrombotiques révèlent la lésion ; jamais d'arrêt sans avis.",
+        "Associations : AVK/AOD + AINS à éviter ; AVK + miconazole CI ; jamais 2 AINS.",
+        "Facteurs de risque : > 65 ans, ATCD d'ulcère (le plus important) → IPP."
+      ]
+    }
+  ],
+  "aRetenir": [
+    "Selles noires collantes fétides = méléna jusqu'à preuve du contraire.",
+    "Toute rectorragie doit être signalée au médecin.",
+    "Le pharmacien prévient, repère, oriente."
+  ],
+  "pieges": [
+    "Pouls normal sous bêtabloquant ne rassure pas.",
+    "L'aspirine à 100 mg reste ulcérogène.",
+    "Rifampicine = fausse rectorragie (pas méléna).",
+    "Une hémorragie haute massive peut donner une rectorragie."
+  ]
+}

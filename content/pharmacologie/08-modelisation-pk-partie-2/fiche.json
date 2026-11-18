@@ -1,0 +1,71 @@
+{
+  "id": "pharmacologie/08-modelisation-pk-partie-2/fiche-001",
+  "titre": "Modélisation pharmacocinétique – Partie 2",
+  "sections": [
+    {
+      "titre": "Modèle bicompartimental IV",
+      "points": [
+        "Compartiment central ↔ périphériques (Kd) ; élimination (Ke) à partir du central.",
+        "Cp = D·e^(−kd·t) + E·e^(−ke·t) : phase initiale élimination + distribution, phase terminale élimination.",
+        "Méthode des résidus : D = |C'p − Cexp| → kd ; C' extrapolées → ke.",
+        "t1/2 = ln2/kd ou ln2/ke ; AUC = D/kd + E/ke (ou trapèzes) ; Cl = Q/AUC ; Vd = Cl/ke."
+      ]
+    },
+    {
+      "titre": "Modèle bicompartimental oral",
+      "points": [
+        "Ka, Kd, Ke.",
+        "C = E·e^(−ke·t) + D·e^(−kd·t) − A·e^(−ka·t)",
+        "AUC = E/ke + D/kd − A/ka"
+      ]
+    },
+    {
+      "titre": "Perfusion IV (continue)",
+      "points": [
+        "Croissance exponentielle → plateau Css → décroissance exponentielle à l'arrêt.",
+        "Vd × dC/dt = R0 − Cl × Cp ; à l'équilibre R0 = Cl × Css → **Css = R0/Cl**.",
+        "Cperf = Css(1 − e^(−ke·T)) = Css[1 − (1/2)^n] ; plateau en pratique après **5 T1/2**.",
+        "Si t1/2 long : **DC = Vd × Css = R0/Ke** ; Vd = T1/2 × Cl/0,693."
+      ]
+    },
+    {
+      "titre": "Administration réitérée",
+      "points": [
+        "Intervalle thérapeutique : zone d'efficacité maximale avec minimum d'EI ; index thérapeutique = rapport des concentrations limites.",
+        "**Cmoy = F·D/(τ·Cl)** : ∝ D et F ; ∝ 1/τ et 1/Cl.",
+        "Temps d'équilibre : ne dépend que de la T1/2 (5 T1/2 = 97 %) ; intervalle en règle = 1 T1/2.",
+        "Plus la T1/2 est longue par rapport à τ, plus le plateau est élevé."
+      ]
+    },
+    {
+      "titre": "Schéma posologique",
+      "points": [
+        "Intervalle thérapeutique (Cp min, Cp max) puis paramètres (Clt, Vd, T1/2, F, Ke, Ka).",
+        "τ = ln(Cmax/Cmin)/ke ; DE max = (Cmax − Cmin) × Vd/F ; Va = DE/τ.",
+        "C̄ = (Cmax − Cmin)/ln(Cmax/Cmin) ; DE = Cl × C̄ × τ/F.",
+        "DC = Cmax × Vd/F pour T1/2 intermédiaire, longue ou très longue."
+      ]
+    },
+    {
+      "titre": "Intérêts (conclusion)",
+      "points": [
+        "Orientation thérapeutique, schéma posologique, choix de la voie, biodisponibilité/bioéquivalence, suivi des médicaments à index thérapeutique étroit."
+      ]
+    }
+  ],
+  "aRetenir": [
+    "Css = R0/Cl",
+    "Plateau ≈ 5 T1/2 (97 %), indépendant de la dose",
+    "Cmoy = F·D/(τ·Cl)",
+    "τ = ln(Cmax/Cmin)/ke",
+    "DE max = (Cmax − Cmin)·Vd/F",
+    "DC = Vd·Css ou Cmax·Vd/F"
+  ],
+  "pieges": [
+    "Le temps d'atteinte du plateau ne dépend NI de la dose NI de la vitesse de perfusion.",
+    "Bi IV : la phase initiale = distribution + élimination (pas d'absorption).",
+    "Cmoy est inversement proportionnelle à τ et à Cl.",
+    "La DC n'est pas indiquée pour les T1/2 très courtes ou courtes selon le cours.",
+    "AUC bi oral : signe moins uniquement pour A/ka."
+  ]
+}

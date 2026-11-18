@@ -1,0 +1,548 @@
+[
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/cas-001",
+    "titre": "Douleur constrictive prolongée",
+    "enonce": "Un homme de 62 ans, diabétique, hypertendu et fumeur, se présente à l'officine pour une douleur rétrosternale constrictive « en étau », apparue au repos il y a 40 minutes, irradiant aux deux bras et à la mâchoire. Il est pâle, couvert de sueurs froides, nauséeux. Il a pris deux bouffées de trinitrine sans effet.",
+    "questions": [
+      {
+        "id": "semiologie/06-douleurs-thoraciques-aigues/cas-001-q1",
+        "type": "multiple",
+        "enonce": "Les facteurs de risque cardiovasculaire modifiables présents sont :",
+        "options": [
+          "Diabète",
+          "HTA",
+          "Tabac",
+          "Âge",
+          "Sexe masculin"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "Diabète, HTA et tabac sont modifiables ; âge et sexe masculin sont non modifiables.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/06-douleurs-thoraciques-aigues/cas-001-q2",
+        "type": "unique",
+        "enonce": "Le diagnostic le plus probable est :",
+        "options": [
+          "Un infarctus du myocarde",
+          "Un angor stable",
+          "Une péricardite",
+          "Un reflux gastro-œsophagien",
+          "Une précordialgie"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Douleur constrictive > 20 min, irradiations bilatérales, sueurs, nausées, résistance à la trinitrine = IDM.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/06-douleurs-thoraciques-aigues/cas-001-q3",
+        "type": "unique",
+        "enonce": "À l'ECG, on s'attend à :",
+        "options": [
+          "Un sus-décalage ST (Pardee) puis une onde Q",
+          "Un ECG normal au repos",
+          "Un bas voltage",
+          "Un aspect S1Q3",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "IDM : sus-décalage ST de Pardee, puis onde Q.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/06-douleurs-thoraciques-aigues/cas-001-q4",
+        "type": "multiple",
+        "enonce": "Les signes de gravité présents sont :",
+        "options": [
+          "Sueurs",
+          "Douleur prolongée > 10 min chez un sujet à risque",
+          "Nausées",
+          "Asymétrie tensionnelle",
+          "Toutes les propositions sont fausses"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "Sueurs, vomissements/nausées et douleur > 10 min chez un sujet à risque sont des signes de gravité.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/06-douleurs-thoraciques-aigues/cas-001-q5",
+        "type": "multiple",
+        "enonce": "La conduite du pharmacien est :",
+        "options": [
+          "Appeler immédiatement les secours",
+          "Installer le patient en position demi-assise",
+          "Ne pas laisser le patient repartir seul",
+          "Délivrer un antiacide et le laisser repartir",
+          "Toutes les propositions sont fausses"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "Un seul signe de gravité impose l'appel des secours ; installer, ne pas laisser repartir seul.",
+        "difficulte": 2,
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/cas-002",
+    "titre": "Douleur thoracique après une grippe",
+    "enonce": "Un homme de 28 ans consulte pour une douleur rétrosternale vive, sans irradiation, évoluant depuis 24 heures, majorée par l'inspiration profonde, la toux et la position couchée, et soulagée lorsqu'il se penche en avant. Il a eu un syndrome grippal 10 jours auparavant. Il est fébrile.",
+    "questions": [
+      {
+        "id": "semiologie/06-douleurs-thoraciques-aigues/cas-002-q1",
+        "type": "unique",
+        "enonce": "Le diagnostic le plus probable est :",
+        "options": [
+          "Une péricardite aiguë",
+          "Un infarctus du myocarde",
+          "Une dissection aortique",
+          "Un reflux gastro-œsophagien",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Douleur vive sans irradiation, majorée par l'inspiration et le décubitus, calmée par l'antéflexion, après un syndrome grippal, avec fièvre.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/06-douleurs-thoraciques-aigues/cas-002-q2",
+        "type": "multiple",
+        "enonce": "À l'auscultation, on peut retrouver :",
+        "options": [
+          "Un frottement péricardique",
+          "Un assourdissement des bruits du cœur en cas d'épanchement",
+          "Un foyer de râles crépitants",
+          "Un souffle d'insuffisance aortique",
+          "Toutes les propositions sont fausses"
+        ],
+        "correctes": [
+          0,
+          1
+        ],
+        "explication": "Frottement (péricardite sèche) ; assourdissement (épanchement).",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/06-douleurs-thoraciques-aigues/cas-002-q3",
+        "type": "multiple",
+        "enonce": "À l'ECG :",
+        "options": [
+          "Troubles diffus de la repolarisation",
+          "Bas voltage si épanchement",
+          "Sus-décalage localisé de Pardee avec onde Q",
+          "Aspect S1Q3",
+          "Toutes les propositions sont fausses"
+        ],
+        "correctes": [
+          0,
+          1
+        ],
+        "explication": "Péricardite : troubles diffus de repolarisation (ST, T), bas voltage si épanchement.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/06-douleurs-thoraciques-aigues/cas-002-q4",
+        "type": "unique",
+        "enonce": "La trinitrine :",
+        "options": [
+          "Est inefficace sur cette douleur",
+          "Fait céder la douleur en moins d'une minute",
+          "Permet d'éliminer une péricardite",
+          "Est le traitement de référence",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "La péricardite résiste à la trinitrine.",
+        "difficulte": 2,
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/cas-003",
+    "titre": "Douleur thoracique en déchirure",
+    "enonce": "Un homme de 55 ans, hypertendu mal équilibré, ressent brutalement une douleur rétrosternale violente « comme un déchirement » qui migre vers le dos puis les lombes. La tension est à 200/110 mmHg au bras droit et 150/90 mmHg au bras gauche. Le pouls fémoral gauche est diminué.",
+    "questions": [
+      {
+        "id": "semiologie/06-douleurs-thoraciques-aigues/cas-003-q1",
+        "type": "unique",
+        "enonce": "Le diagnostic évoqué est :",
+        "options": [
+          "Une dissection aortique",
+          "Un angor stable",
+          "Une péricardite",
+          "Une embolie pulmonaire",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Douleur brutale en déchirure migratrice, HTA, asymétrie tensionnelle, pouls diminué = dissection aortique.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/06-douleurs-thoraciques-aigues/cas-003-q2",
+        "type": "unique",
+        "enonce": "Le mécanisme est :",
+        "options": [
+          "Une rupture de la paroi interne de l'aorte sous l'effet d'une poussée hypertensive",
+          "Un caillot migrant d'une phlébite",
+          "Une inflammation du péricarde",
+          "Un spasme œsophagien",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "La paroi interne se rompt et le sang dédouble la paroi.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/06-douleurs-thoraciques-aigues/cas-003-q3",
+        "type": "multiple",
+        "enonce": "Les examens :",
+        "options": [
+          "ECG souvent normal",
+          "Élargissement du médiastin à la radiographie",
+          "Confirmation par angioscanner, ETO ou IRM",
+          "Les D-dimères suffisent au diagnostic",
+          "Toutes les propositions sont fausses"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "ECG souvent normal ; médiastin élargi ; confirmation par angioscanner, ETO ou IRM.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/06-douleurs-thoraciques-aigues/cas-003-q4",
+        "type": "unique",
+        "enonce": "Si la dissection touche l'aorte ascendante (type A), le traitement est :",
+        "options": [
+          "Chirurgical",
+          "Antihypertenseur seul",
+          "Trinitrine",
+          "Antéflexion",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Type A : chirurgie ; type B : traitement antihypertenseur.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/06-douleurs-thoraciques-aigues/cas-003-q5",
+        "type": "unique",
+        "enonce": "Un autre terrain à risque de dissection est :",
+        "options": [
+          "Le syndrome de Marfan",
+          "La contraception œstroprogestative",
+          "Le post-partum",
+          "Le reflux gastro-œsophagien",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Terrain : HTA +++ ; maladies du tissu élastique (Marfan).",
+        "difficulte": 2,
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/cas-004",
+    "titre": "Point de côté après une césarienne",
+    "enonce": "Une femme de 32 ans, opérée d'une césarienne il y a 8 jours et restée alitée, présente brutalement une douleur basithoracique droite en point de côté, majorée à l'inspiration, avec essoufflement et polypnée. Son mollet gauche est douloureux et gonflé.",
+    "questions": [
+      {
+        "id": "semiologie/06-douleurs-thoraciques-aigues/cas-004-q1",
+        "type": "unique",
+        "enonce": "Le diagnostic à évoquer est :",
+        "options": [
+          "Une embolie pulmonaire",
+          "Une péricardite",
+          "Un angor",
+          "Un reflux",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Point de côté basithoracique brutal, dyspnée, polypnée, contexte post-partum/chirurgie/alitement, phlébite = EP.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/06-douleurs-thoraciques-aigues/cas-004-q2",
+        "type": "multiple",
+        "enonce": "Les situations à risque présentes sont :",
+        "options": [
+          "Post-partum",
+          "Chirurgie récente",
+          "Alitement prolongé",
+          "Phlébite d'un membre inférieur",
+          "Toutes les propositions sont correctes"
+        ],
+        "correctes": [
+          4
+        ],
+        "explication": "Toutes ces situations sont citées comme favorisant l'EP.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/06-douleurs-thoraciques-aigues/cas-004-q3",
+        "type": "unique",
+        "enonce": "L'examen de référence pour confirmer le diagnostic est :",
+        "options": [
+          "L'angioscanner thoracique",
+          "Les D-dimères",
+          "La radiographie",
+          "L'ECG",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "L'angioscanner thoracique est l'examen de référence.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/06-douleurs-thoraciques-aigues/cas-004-q4",
+        "type": "multiple",
+        "enonce": "Concernant les D-dimères :",
+        "options": [
+          "Ils ont une valeur prédictive négative",
+          "Normaux, ils écartent l'EP si la probabilité clinique est faible",
+          "Ils ne suffisent pas ici car la probabilité clinique est forte",
+          "Élevés, ils affirment l'EP",
+          "Toutes les propositions sont fausses"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "Les D-dimères n'écartent l'EP que si la probabilité clinique est faible ; ce n'est pas le cas ici.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/06-douleurs-thoraciques-aigues/cas-004-q5",
+        "type": "multiple",
+        "enonce": "Une évolution grave se manifesterait par :",
+        "options": [
+          "Un état de choc",
+          "Une perte de connaissance",
+          "Ces signes traduisent une embolie massive",
+          "Un frottement péricardique",
+          "Toutes les propositions sont fausses"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "État de choc et perte de connaissance si embolie massive.",
+        "difficulte": 2,
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/cas-005",
+    "titre": "Douleur thoracique d'une étudiante anxieuse",
+    "enonce": "Une étudiante de 21 ans, sans facteur de risque cardiovasculaire, consulte en période d'examens pour des douleurs sous-mammaires gauches en picotements, ponctuelles, qu'elle montre du bout du doigt à la pointe du cœur, évoluant depuis plusieurs mois, sans retentissement sur ses activités.",
+    "questions": [
+      {
+        "id": "semiologie/06-douleurs-thoraciques-aigues/cas-005-q1",
+        "type": "multiple",
+        "enonce": "Les arguments en faveur d'une origine extracardiaque sont :",
+        "options": [
+          "Patient jeune, femme",
+          "Aucun facteur de risque",
+          "Contexte de stress",
+          "Douleur ancienne, en picotements, sous-mammaire",
+          "Toutes les propositions sont correctes"
+        ],
+        "correctes": [
+          4
+        ],
+        "explication": "Tous ces arguments orientent vers une cause extracardiaque.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/06-douleurs-thoraciques-aigues/cas-005-q2",
+        "type": "unique",
+        "enonce": "Le diagnostic le plus probable est :",
+        "options": [
+          "Une précordialgie névrotique",
+          "Un infarctus du myocarde",
+          "Une dissection",
+          "Une embolie pulmonaire",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Douleur ponctiforme à l'apex, montrée du bout du doigt, en coup d'aiguille, sujet anxieux, cœur indemne.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/06-douleurs-thoraciques-aigues/cas-005-q3",
+        "type": "multiple",
+        "enonce": "Ces arguments :",
+        "options": [
+          "Orientent le diagnostic",
+          "N'excluent jamais à eux seuls une cause cardiaque",
+          "Dispensent de rechercher les signes de gravité",
+          "Éliminent formellement un SCA",
+          "Toutes les propositions sont fausses"
+        ],
+        "correctes": [
+          0,
+          1
+        ],
+        "explication": "Ils orientent mais n'excluent jamais à eux seuls une cause cardiaque.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/06-douleurs-thoraciques-aigues/cas-005-q4",
+        "type": "unique",
+        "enonce": "Si la douleur était reproduite par la palpation de la paroi, on évoquerait :",
+        "options": [
+          "Une douleur pariétale",
+          "Un infarctus",
+          "Une péricardite",
+          "Une dissection",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Douleur reproduite à la palpation = pariétale.",
+        "difficulte": 2,
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "semiologie/06-douleurs-thoraciques-aigues/cas-006",
+    "titre": "Angor et dysfonction érectile",
+    "enonce": "Un homme de 66 ans, coronarien connu traité par dérivé nitré à la demande, présente au comptoir une douleur rétrosternale en barre survenue en montant les escaliers. Il précise avoir pris du sildénafil la veille.",
+    "questions": [
+      {
+        "id": "semiologie/06-douleurs-thoraciques-aigues/cas-006-q1",
+        "type": "unique",
+        "enonce": "Les circonstances de survenue évoquent :",
+        "options": [
+          "Un angor d'effort",
+          "Une précordialgie",
+          "Une péricardite",
+          "Un pneumothorax",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Douleur rétrosternale en barre à l'effort (escaliers) = angor d'effort.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/06-douleurs-thoraciques-aigues/cas-006-q2",
+        "type": "multiple",
+        "enonce": "Concernant le dérivé nitré chez ce patient :",
+        "options": [
+          "Il est contre-indiqué après la prise de sildénafil",
+          "Il expose à une hypotension sévère",
+          "Il peut être donné sans restriction",
+          "Il est contre-indiqué uniquement avec le paracétamol",
+          "Toutes les propositions sont fausses"
+        ],
+        "correctes": [
+          0,
+          1
+        ],
+        "explication": "Dérivés nitrés contre-indiqués après un inhibiteur de la PDE5 : hypotension sévère.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/06-douleurs-thoraciques-aigues/cas-006-q3",
+        "type": "multiple",
+        "enonce": "Le pharmacien doit :",
+        "options": [
+          "Évaluer les 7 caractères et les signes de gravité",
+          "Mesurer la TA aux deux bras et le pouls",
+          "Alerter les secours si la douleur se prolonge > 10 min",
+          "Délivrer un antalgique sans évaluation",
+          "Toutes les propositions sont fausses"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "Évaluer, mesurer, alerter ; ne pas délivrer d'antalgique sans évaluation.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/06-douleurs-thoraciques-aigues/cas-006-q4",
+        "type": "unique",
+        "enonce": "Si les crises deviennent plus fréquentes et plus longues pour des efforts de plus en plus faibles, il s'agit :",
+        "options": [
+          "D'un angor crescendo (instable)",
+          "D'un angor stable",
+          "D'une péricardite",
+          "D'un spasme œsophagien",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Angor crescendo : forme d'angor instable, syndrome de menace.",
+        "difficulte": 2,
+        "origine": "genere"
+      }
+    ]
+  }
+]

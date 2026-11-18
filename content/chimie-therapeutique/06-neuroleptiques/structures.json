@@ -1,0 +1,290 @@
+[
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/structure-001",
+    "nom": "10H-phénothiazine",
+    "smiles": "C1=CC2=C(C=C1)NC1=CC=CC=C1S2",
+    "classe": "Noyau de base des phénothiazines",
+    "question": "Identifiez ce noyau :",
+    "options": [
+      "10H-phénothiazine (dibenzoparathiazine)",
+      "9H-thioxanthène",
+      "Dibenzazépine",
+      "Dibenzodiazépine",
+      "Benzisoxazole"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Fusion d'un cycle thiazine-1,4 avec deux benzènes : 10H-phénothiazine ou dibenzoparathiazine."
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/structure-002",
+    "nom": "Chlorpromazine (Largactil)",
+    "smiles": "CN(C)CCCN1c2ccccc2Sc2ccc(Cl)cc21",
+    "classe": "Phénothiazine à chaîne ouverte",
+    "question": "Identifiez cette molécule :",
+    "options": [
+      "Chlorpromazine",
+      "Lévomépromazine",
+      "Prométhazine",
+      "Fluphénazine",
+      "Chlorprothixène"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "3-(2-chloro-10H-phénothiazin-10-yl)-N,N-diméthylpropan-1-amine : chlorpromazine (Largactil), phénothiazine aliphatique."
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/structure-003",
+    "nom": "Lévomépromazine (Nozinan)",
+    "smiles": "COc1ccc2Sc3ccccc3N(CC(C)CN(C)C)c2c1",
+    "classe": "Phénothiazine à chaîne ouverte",
+    "question": "Quel est le substituant en position 2 de cette molécule ?",
+    "options": [
+      "Un méthoxy",
+      "Un chlore",
+      "Un trifluorométhyle",
+      "Un sulfonamide",
+      "Un nitro"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Lévomépromazine (Nozinan) : méthoxy en 2 et chaîne propylamine méthylée."
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/structure-004",
+    "nom": "Fluphénazine (Moditen)",
+    "smiles": "OCCN1CCN(CCCN2c3ccccc3Sc3ccc(C(F)(F)F)cc32)CC1",
+    "classe": "Phénothiazine à chaîne pipérazinique",
+    "question": "À quel sous-groupe appartient cette molécule ?",
+    "options": [
+      "Phénothiazine pipérazinique",
+      "Phénothiazine aliphatique",
+      "Phénothiazine pipéridinique",
+      "Thioxanthène",
+      "Butyrophénone"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Fluphénazine (Moditen) : CF3 en 2 et pipérazine hydroxyéthylée, groupe le plus actif."
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/structure-005",
+    "nom": "Prométhazine",
+    "smiles": "CC(CN(C)C)N1c2ccccc2Sc2ccccc21",
+    "classe": "Phénothiazine antihistaminique",
+    "question": "Quelle est l'activité de cette molécule selon le cours ?",
+    "options": [
+      "Antihistaminique",
+      "Neuroleptique",
+      "Antidépressive",
+      "Anxiolytique",
+      "Antiépileptique"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Comparée à la chlorpromazine (neuroleptique), la prométhazine est un antihistaminique : chaîne latérale plus courte et absence de substituant électroattracteur en 2."
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/structure-006",
+    "nom": "9H-thioxanthène",
+    "smiles": "C1c2ccccc2Sc2ccccc21",
+    "classe": "Noyau des thioxanthènes",
+    "question": "Identifiez ce noyau :",
+    "options": [
+      "9H-thioxanthène",
+      "10H-phénothiazine",
+      "Dibenzosubérone",
+      "Dibenzazépine",
+      "Thiazine-1,4"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Squelette de base des thioxanthènes : 9H-thioxanthène, analogue de la phénothiazine où l'azote est remplacé par un carbone."
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/structure-007",
+    "nom": "Flupentixol (Fluanxol)",
+    "smiles": "OCCN1CCN(CCC=C2c3ccccc3Sc3ccc(C(F)(F)F)cc32)CC1",
+    "classe": "Thioxanthène",
+    "question": "À quelle classe appartient cette molécule ?",
+    "options": [
+      "Thioxanthène",
+      "Phénothiazine",
+      "Butyrophénone",
+      "Benzamide",
+      "Benzisoxazole"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Flupentixol (Fluanxol) : thioxanthène à CF3 et pipérazine hydroxyéthylée ; le carbone sp2 remplace l'azote de la phénothiazine."
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/structure-008",
+    "nom": "Zuclopenthixol (Clopixol)",
+    "smiles": "OCCN1CCN(CCC=C2c3ccccc3Sc3ccc(Cl)cc32)CC1",
+    "classe": "Thioxanthène",
+    "question": "Identifiez cette molécule :",
+    "options": [
+      "Zuclopenthixol",
+      "Flupentixol",
+      "Chlorpromazine",
+      "Chlorprothixène",
+      "Halopéridol"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Zuclopenthixol (Clopixol) : thioxanthène chloré à chaîne pipérazinique hydroxyéthylée."
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/structure-009",
+    "nom": "Halopéridol (Haldol)",
+    "smiles": "OC1(c2ccc(Cl)cc2)CCN(CCCC(=O)c2ccc(F)cc2)CC1",
+    "classe": "Butyrophénone pipéridinée",
+    "question": "Identifiez cette molécule :",
+    "options": [
+      "Halopéridol",
+      "Pimozide",
+      "Fluanisone",
+      "Flupentixol",
+      "Sulpiride"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Halopéridol (Haldol), chef de file des butyrophénones : cétone p-fluorophénylée, chaîne à 4 carbones, pipéridine hydroxylée et p-chlorophénylée."
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/structure-010",
+    "nom": "Pimozide (Orap)",
+    "smiles": "O=C1Nc2ccccc2N1C1CCN(CCCC(c2ccc(F)cc2)c2ccc(F)cc2)CC1",
+    "classe": "Dérivé apparenté aux butyrophénones",
+    "question": "Quelle particularité structurale présente cette molécule ?",
+    "options": [
+      "Le carbonyle est remplacé par un second noyau p-fluorophényle",
+      "Elle possède deux carbonyles",
+      "Elle est dépourvue de fluor",
+      "Elle possède un noyau phénothiazine",
+      "Elle a une chaîne à 3 carbones"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Pimozide (Orap) : analogue où la fonction carbonyle est remplacée par un noyau p-fluorophényle (deux fluors)."
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/structure-011",
+    "nom": "Sulpiride (Dogmatil®)",
+    "smiles": "CCN1CCCC1CNC(=O)c1cc(S(N)(=O)=O)ccc1OC",
+    "classe": "Benzamide",
+    "question": "Identifiez la classe de cette molécule :",
+    "options": [
+      "Benzamide (orthopramide)",
+      "Phénothiazine",
+      "Butyrophénone",
+      "Thioxanthène",
+      "Dibenzodiazépine"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Sulpiride (Dogmatil®/Synedil®) : benzamide à méthoxy en ortho et alkylamine tertiaire cyclique (pyrrolidine)."
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/structure-012",
+    "nom": "Métoclopramide (Primpéran®)",
+    "smiles": "CCN(CC)CCNC(=O)c1cc(Cl)c(N)cc1OC",
+    "classe": "Benzamide antiémétique",
+    "question": "Quelle est la particularité de cette molécule parmi les benzamides ?",
+    "options": [
+      "Elle n'est qu'antiémétique",
+      "C'est le neuroleptique le plus puissant",
+      "Elle est dépourvue de méthoxy",
+      "C'est une butyrophénone",
+      "Elle bloque les récepteurs 5-HT2A"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Tous les benzamides sont antiémétiques à des degrés variables ; le métoclopramide (Primpéran®) n'est qu'antiémétique."
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/structure-013",
+    "nom": "Clozapine",
+    "smiles": "CN1CCN(C2=Nc3cc(Cl)ccc3Nc3ccccc32)CC1",
+    "classe": "Dibenzodiazépine (atypique)",
+    "question": "À quelle classe appartient cette molécule ?",
+    "options": [
+      "Dibenzodiazépine, neuroleptique de 2e génération",
+      "Phénothiazine",
+      "Butyrophénone",
+      "Benzisoxazole",
+      "Benzamide"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "La clozapine est une dibenzodiazépine : diazépine substituée fusionnée à deux cycles benzéniques."
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/structure-014",
+    "nom": "Olanzapine",
+    "smiles": "Cc1cc2c(s1)Nc1ccccc1N=C2N1CCN(C)CC1",
+    "classe": "Dibenzodiazépine (atypique)",
+    "question": "Identifiez cette molécule :",
+    "options": [
+      "Olanzapine",
+      "Clozapine",
+      "Rispéridone",
+      "Quétiapine",
+      "Chlorpromazine"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Olanzapine : analogue de la clozapine dans laquelle un cycle benzénique est remplacé par un thiophène méthylé, classée avec les dibenzodiazépines."
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/structure-015",
+    "nom": "Rispéridone (Risperdal)",
+    "smiles": "Cc1nc2n(c(=O)c1CCN1CCC(c3noc4cc(F)ccc34)CC1)CCCC2",
+    "classe": "Benzisoxazole (atypique)",
+    "question": "À quelle classe appartient cette molécule ?",
+    "options": [
+      "Benzisoxazole, neuroleptique de 2e génération",
+      "Dibenzodiazépine",
+      "Butyrophénone",
+      "Phénothiazine",
+      "Benzamide"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Rispéridone (Risperdal) : benzisoxazole fluoré, antipsychotique atypique antagoniste mixte 5-HT2A/D2."
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/structure-016",
+    "nom": "Dopamine",
+    "smiles": "NCCc1ccc(O)c(O)c1",
+    "classe": "Neurotransmetteur",
+    "question": "Quel récepteur de ce neurotransmetteur est bloqué par les neuroleptiques typiques ?",
+    "options": [
+      "Le récepteur D2 post-synaptique",
+      "Le récepteur 5-HT2A",
+      "Le récepteur GABAA",
+      "Le récepteur H1",
+      "Le récepteur α2"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Les neuroleptiques typiques bloquent les récepteurs dopaminergiques D2 post-synaptiques."
+  }
+]

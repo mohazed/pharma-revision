@@ -1,0 +1,1498 @@
+[
+  {
+    "id": "semiologie/04-douleur-abdominale-aigue/qcm-001",
+    "type": "multiple",
+    "enonce": "Concernant la douleur abdominale, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "C'est un motif de consultation très fréquent",
+      "Elle peut être aiguë ou chronique",
+      "Elle peut être bénigne ou très grave",
+      "L'urgence chirurgicale ne doit jamais être manquée",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le cours introduit la douleur abdominale comme motif très fréquent, aiguë ou chronique, bénigne ou très grave, avec la règle de ne jamais manquer une urgence chirurgicale.",
+    "source": {
+      "page": 3,
+      "extrait": "Peut être bénigne ou très grave : l'urgence chirurgicale ne doit jamais être manquée"
+    },
+    "difficulte": 1,
+    "tags": [
+      "introduction"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/04-douleur-abdominale-aigue/qcm-002",
+    "type": "unique",
+    "enonce": "Une douleur abdominale est dite aiguë lorsqu'elle évolue depuis au maximum :",
+    "options": [
+      "24 heures",
+      "72 heures",
+      "Une semaine",
+      "Deux semaines",
+      "Un mois"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Une douleur abdominale est aiguë si elle évolue depuis une semaine au maximum (7 jours).",
+    "source": {
+      "page": 3,
+      "extrait": "Une douleur abdominale est dite aiguë si elle évolue depuis une semaine au maximum."
+    },
+    "difficulte": 1,
+    "tags": [
+      "définition"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/04-douleur-abdominale-aigue/qcm-003",
+    "type": "multiple",
+    "enonce": "Devant une douleur abdominale :",
+    "options": [
+      "L'interrogatoire est le temps essentiel de l'examen",
+      "L'examen physique comporte inspection, palpation, percussion, auscultation",
+      "Les examens complémentaires servent à confirmer l'hypothèse, jamais à la remplacer",
+      "On cherche d'abord la gravité, ensuite le diagnostic",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Ces quatre éléments résument la démarche du cours.",
+    "source": {
+      "page": 4,
+      "extrait": "On cherche d'abord la gravité, ensuite le diagnostic."
+    },
+    "difficulte": 1,
+    "tags": [
+      "démarche"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/04-douleur-abdominale-aigue/qcm-004",
+    "type": "unique",
+    "enonce": "Selon le cours, le temps essentiel de l'examen devant une douleur abdominale est :",
+    "options": [
+      "L'interrogatoire",
+      "La palpation",
+      "L'échographie",
+      "Le scanner",
+      "La biologie"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "L'interrogatoire est qualifié de temps essentiel de l'examen.",
+    "source": {
+      "page": 4,
+      "extrait": "Interrogatoire — Le temps essentiel de l'examen"
+    },
+    "difficulte": 1,
+    "tags": [
+      "démarche"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/04-douleur-abdominale-aigue/qcm-005",
+    "type": "multiple",
+    "enonce": "Le terrain recherché à l'interrogatoire comprend :",
+    "options": [
+      "Les antécédents d'ulcère gastroduodénal ou de lithiase vésiculaire",
+      "Le tabagisme et l'éthylisme",
+      "La prise d'AINS, d'aspirine ou d'anticoagulants",
+      "Les interventions abdominales antérieures et cicatrices",
+      "L'âge, une grossesse possible, la date des dernières règles"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Toutes ces rubriques font partie du terrain (antécédents, habitudes, médicaments, chirurgie, contexte).",
+    "source": {
+      "page": 5,
+      "extrait": "Médicaments — Anti-inflammatoires non stéroïdiens (AINS), aspirine, anticoagulants"
+    },
+    "difficulte": 1,
+    "tags": [
+      "interrogatoire"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/04-douleur-abdominale-aigue/qcm-006",
+    "type": "multiple",
+    "enonce": "Pour caractériser une douleur abdominale, on précise :",
+    "options": [
+      "Le siège selon les 9 régions abdominales",
+      "Le début : brutal ou insidieux, progressif",
+      "Le type : brûlure, torsion, spasme, coup de poignard, crampe",
+      "L'intensité cotée par l'EVA de 0 à 10",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Siège (9 régions), début, type et intensité (EVA 0–10) sont les premiers éléments de caractérisation.",
+    "source": {
+      "page": 6,
+      "extrait": "Intensité — Cotée par l'EVA, échelle de 0 à 10"
+    },
+    "difficulte": 1,
+    "tags": [
+      "caractérisation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/04-douleur-abdominale-aigue/qcm-007",
+    "type": "unique",
+    "enonce": "Selon le cours, une douleur fonctionnelle est classiquement :",
+    "options": [
+      "Insomniante",
+      "Non insomniante",
+      "Toujours nocturne",
+      "Toujours en coup de poignard",
+      "Toujours fébrile"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Très important : une douleur fonctionnelle n'est classiquement pas insomniante.",
+    "source": {
+      "page": 7,
+      "extrait": "une douleur fonctionnelle n'est classiquement pas insomniante"
+    },
+    "difficulte": 2,
+    "tags": [
+      "caractérisation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/04-douleur-abdominale-aigue/qcm-008",
+    "type": "multiple",
+    "enonce": "Concernant la caractérisation de la douleur abdominale (suite) :",
+    "options": [
+      "L'horaire peut être diurne (post-prandial) ou nocturne",
+      "Le rythme peut être quotidien ou saisonnier",
+      "Les facteurs déclenchants comprennent alimentation, alcool, selles, gaz, déglutition, position",
+      "La position en chien de fusil calme la douleur pancréatique",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes ces données figurent dans la deuxième partie de la caractérisation de la douleur.",
+    "source": {
+      "page": 7,
+      "extrait": "position (chien de fusil dans la douleur pancréatique)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "caractérisation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/04-douleur-abdominale-aigue/qcm-009",
+    "type": "multiple",
+    "enonce": "Parmi les irradiations d'une douleur abdominale citées par le cours :",
+    "options": [
+      "Épaule",
+      "Organes génitaux",
+      "Anus",
+      "Dorso-lombaire transfixiante",
+      "En hémiceinture"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Le cours cite les irradiations vers l'abdomen, l'épaule, les organes génitaux, l'anus, dorso-lombaire transfixiante et en hémiceinture.",
+    "source": {
+      "page": 7,
+      "extrait": "Abdomen, épaule, organes génitaux, anus, dorso-lombaire transfixiante, en hémiceinture"
+    },
+    "difficulte": 2,
+    "tags": [
+      "caractérisation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/04-douleur-abdominale-aigue/qcm-010",
+    "type": "multiple",
+    "enonce": "Les signes associés digestifs d'une douleur abdominale comprennent :",
+    "options": [
+      "Modification du transit",
+      "Ballonnement",
+      "Nausées, vomissements",
+      "Pollakiurie",
+      "Leucorrhées"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Signes digestifs : modification du transit, ballonnement, nausées, vomissements. La pollakiurie est urinaire, les leucorrhées gynécologiques.",
+    "source": {
+      "page": 8,
+      "extrait": "Modification du transit • Ballonnement • Nausées, vomissements"
+    },
+    "difficulte": 2,
+    "tags": [
+      "signes associés"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/04-douleur-abdominale-aigue/qcm-011",
+    "type": "multiple",
+    "enonce": "Les signes associés extradigestifs comprennent :",
+    "options": [
+      "Gynécologiques : leucorrhées, retard de règles, métrorragies",
+      "Urinaires : brûlures, pollakiurie, dysurie, hématurie",
+      "Respiratoires : toux",
+      "Généraux : fièvre",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Les signes extradigestifs sont gynécologiques, urinaires et respiratoires. La fièvre est classée parmi les signes généraux.",
+    "source": {
+      "page": 8,
+      "extrait": "Urinaires : brûlures, pollakiurie, dysurie, hématurie • Respiratoires : toux"
+    },
+    "difficulte": 2,
+    "tags": [
+      "signes associés"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/04-douleur-abdominale-aigue/qcm-012",
+    "type": "multiple",
+    "enonce": "Les signes généraux associés à une douleur abdominale comprennent :",
+    "options": [
+      "Fièvre",
+      "Anorexie",
+      "Asthénie",
+      "Perte de poids",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Signes généraux : fièvre, anorexie, asthénie, perte de poids.",
+    "source": {
+      "page": 8,
+      "extrait": "Généraux • Fièvre • Anorexie • Asthénie • Perte de poids"
+    },
+    "difficulte": 1,
+    "tags": [
+      "signes associés"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/04-douleur-abdominale-aigue/qcm-013",
+    "type": "multiple",
+    "enonce": "Les signes d'alerte retrouvés à l'interrogatoire sont :",
+    "options": [
+      "Douleur brutale, en coup de poignard",
+      "Fièvre, frissons",
+      "Hématémèse, méléna, rectorragie",
+      "Vomissements incoercibles, arrêt des matières et des gaz",
+      "Défense ou contracture"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "La défense ou contracture est un signe d'alerte retrouvé à l'EXAMEN, comme la pâleur, la tachycardie et l'hypotension.",
+    "source": {
+      "page": 9,
+      "extrait": "Vomissements incoercibles, arrêt des matières et des gaz"
+    },
+    "difficulte": 2,
+    "tags": [
+      "signes d'alerte"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/04-douleur-abdominale-aigue/qcm-014",
+    "type": "multiple",
+    "enonce": "Les signes d'alerte retrouvés à l'examen sont :",
+    "options": [
+      "Défense ou contracture",
+      "Pâleur",
+      "Tachycardie",
+      "Hypotension",
+      "Fièvre, frissons"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "À l'examen : défense ou contracture, pâleur, tachycardie, hypotension. Fièvre et frissons sont rangés dans l'interrogatoire.",
+    "source": {
+      "page": 9,
+      "extrait": "Défense ou contracture • Pâleur, tachycardie, hypotension"
+    },
+    "difficulte": 2,
+    "tags": [
+      "signes d'alerte"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/04-douleur-abdominale-aigue/qcm-015",
+    "type": "multiple",
+    "enonce": "Concernant les terrains particuliers face à une douleur abdominale :",
+    "options": [
+      "Chez la femme en âge de procréer, il faut penser à la grossesse extra-utérine",
+      "Chez le sujet âgé, les signes peuvent être discrets",
+      "Chez l'immunodéprimé, les signes peuvent être discrets",
+      "Chez le sujet âgé, les signes sont toujours bruyants",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Femme en âge de procréer : penser à la GEU ; sujet âgé ou immunodéprimé : les signes peuvent être discrets.",
+    "source": {
+      "page": 9,
+      "extrait": "Femme en âge de procréer : penser à la grossesse extra-utérine. Sujet âgé ou immunodéprimé : les signes peuvent être discrets."
+    },
+    "difficulte": 2,
+    "tags": [
+      "signes d'alerte"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/04-douleur-abdominale-aigue/qcm-016",
+    "type": "multiple",
+    "enonce": "Les 9 régions abdominales comprennent :",
+    "options": [
+      "Hypochondre droit, épigastre, hypochondre gauche (ligne haute)",
+      "Flanc droit, périombilical, flanc gauche (ligne médiane)",
+      "Fosse iliaque droite, sus-pubien, fosse iliaque gauche (ligne basse)",
+      "Région lombaire et région sacrée",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Les 9 régions se répartissent en trois lignes de trois ; les régions lombaire et sacrée n'en font pas partie.",
+    "source": {
+      "page": 10,
+      "extrait": "Ligne haute : hypochondre droit, épigastre, hypochondre gauche"
+    },
+    "difficulte": 1,
+    "tags": [
+      "régions abdominales"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/04-douleur-abdominale-aigue/qcm-017",
+    "type": "unique",
+    "enonce": "La région située au centre de la ligne basse est :",
+    "options": [
+      "L'épigastre",
+      "La région périombilicale",
+      "La région sus-pubienne",
+      "La fosse iliaque droite",
+      "Le flanc gauche"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Ligne basse : fosse iliaque droite, sus-pubien, fosse iliaque gauche.",
+    "source": {
+      "page": 10,
+      "extrait": "Ligne basse : fosse iliaque droite, sus-pubien, fosse iliaque gauche"
+    },
+    "difficulte": 1,
+    "tags": [
+      "régions abdominales"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/04-douleur-abdominale-aigue/qcm-018",
+    "type": "multiple",
+    "enonce": "L'installation du patient pour l'examen abdominal comprend :",
+    "options": [
+      "Décubitus dorsal",
+      "Membres inférieurs légèrement fléchis",
+      "Membres supérieurs à plat le long du tronc",
+      "Tête à plat ou sur un oreiller",
+      "Respiration normale"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Toutes ces consignes d'installation figurent dans le cours.",
+    "source": {
+      "page": 11,
+      "extrait": "Décubitus dorsal • Membres inférieurs légèrement fléchis"
+    },
+    "difficulte": 1,
+    "tags": [
+      "examen physique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/04-douleur-abdominale-aigue/qcm-019",
+    "type": "multiple",
+    "enonce": "L'inspection de l'abdomen recherche :",
+    "options": [
+      "Des cicatrices",
+      "Une circulation veineuse collatérale",
+      "Les mouvements respiratoires abdominaux",
+      "Une voussure (masse)",
+      "Les orifices herniaires"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "L'inspection recherche cicatrices, CVC, mouvements respiratoires abdominaux, voussure et orifices herniaires.",
+    "source": {
+      "page": 11,
+      "extrait": "Cicatrices • Circulation veineuse collatérale • Mouvements respiratoires abdominaux • Voussure (masse)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "inspection"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/04-douleur-abdominale-aigue/qcm-020",
+    "type": "multiple",
+    "enonce": "Concernant la palpation superficielle de l'abdomen :",
+    "options": [
+      "Elle commence par les régions non douloureuses",
+      "Elle se fait mains à plat, avec douceur",
+      "Elle masse lentement la paroi",
+      "Elle s'approfondit progressivement",
+      "Elle commence par la région la plus douloureuse"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "La palpation commence par les régions NON douloureuses, mains à plat, avec douceur, en approfondissant progressivement.",
+    "source": {
+      "page": 12,
+      "extrait": "Commencer par les régions non douloureuses"
+    },
+    "difficulte": 1,
+    "tags": [
+      "palpation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/04-douleur-abdominale-aigue/qcm-021",
+    "type": "multiple",
+    "enonce": "La palpation profonde :",
+    "options": [
+      "Fait suite à la palpation superficielle",
+      "Recherche une masse ou une organomégalie",
+      "Recherche un point douloureux précis",
+      "Implique d'observer le visage du patient",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "La palpation profonde suit la superficielle, recherche masse, organomégalie, point douloureux, note le siège exact et observe le visage du patient.",
+    "source": {
+      "page": 13,
+      "extrait": "Recherche une masse, une organomégalie, un point douloureux précis"
+    },
+    "difficulte": 1,
+    "tags": [
+      "palpation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/04-douleur-abdominale-aigue/qcm-022",
+    "type": "multiple",
+    "enonce": "Concernant la défense abdominale :",
+    "options": [
+      "C'est une résistance tonique de la paroi",
+      "La main peut la vaincre si elle palpe avec douceur",
+      "C'est une résistance invincible",
+      "Elle définit le « ventre de bois »",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "La défense est une résistance tonique que la main peut vaincre avec douceur. La résistance invincible (« ventre de bois ») est la contracture.",
+    "source": {
+      "page": 14,
+      "extrait": "Résistance tonique de la paroi • La main peut la vaincre si elle palpe avec douceur"
+    },
+    "difficulte": 2,
+    "tags": [
+      "défense contracture"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/04-douleur-abdominale-aigue/qcm-023",
+    "type": "multiple",
+    "enonce": "Concernant la contracture abdominale :",
+    "options": [
+      "C'est une résistance invincible",
+      "Elle se raidit quand la main insiste",
+      "Elle réalise un « ventre de bois »",
+      "Elle évoque une péritonite",
+      "La main peut la vaincre avec douceur"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "La contracture est invincible, se raidit quand la main insiste, réalise le « ventre de bois » et évoque une péritonite.",
+    "source": {
+      "page": 14,
+      "extrait": "« Ventre de bois » : évoque une péritonite"
+    },
+    "difficulte": 2,
+    "tags": [
+      "défense contracture"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/04-douleur-abdominale-aigue/qcm-024",
+    "type": "unique",
+    "enonce": "Une douleur vive à la décompression brusque de l'abdomen correspond à :",
+    "options": [
+      "Une défense",
+      "Une contracture",
+      "Un rebond, signe d'irritation péritonéale",
+      "Un signe de Murphy",
+      "Une matité déclive"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Le rebond est une douleur vive à la décompression brusque, signe d'irritation péritonéale.",
+    "source": {
+      "page": 14,
+      "extrait": "Douleur vive à la décompression brusque • Signe d'irritation péritonéale"
+    },
+    "difficulte": 1,
+    "tags": [
+      "rebond"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/04-douleur-abdominale-aigue/qcm-025",
+    "type": "multiple",
+    "enonce": "Concernant la palpation des organes et des orifices :",
+    "options": [
+      "L'hépatomégalie se palpe dans l'hypocondre droit",
+      "La splénomégalie se palpe dans l'hypocondre gauche",
+      "Une hernie étranglée est une urgence",
+      "Le signe de Murphy évoque une cholécystite",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Les quatre propositions correspondent au tableau « Palpation : organes et orifices ».",
+    "source": {
+      "page": 15,
+      "extrait": "une hernie étranglée est une urgence"
+    },
+    "difficulte": 1,
+    "tags": [
+      "palpation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/04-douleur-abdominale-aigue/qcm-026",
+    "type": "unique",
+    "enonce": "Le signe de Murphy est :",
+    "options": [
+      "Une douleur à la décompression de la fosse iliaque droite",
+      "Un arrêt de l'inspiration à la palpation sous le rebord costal droit",
+      "Une matité déclive",
+      "Un souffle systolique abdominal",
+      "Une résistance invincible de la paroi"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Signe de Murphy : arrêt de l'inspiration sous le rebord costal droit, évoquant une cholécystite.",
+    "source": {
+      "page": 15,
+      "extrait": "Signe de Murphy Arrêt de l'inspiration sous le rebord costal droit : évoque une cholécystite"
+    },
+    "difficulte": 1,
+    "tags": [
+      "Murphy"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/04-douleur-abdominale-aigue/qcm-027",
+    "type": "multiple",
+    "enonce": "Concernant la percussion de l'abdomen :",
+    "options": [
+      "L'abdomen est normalement tympanique là où s'accumulent les gaz",
+      "Une matité déclive évoque une ascite",
+      "Une matité sus-pubienne évoque un globe vésical",
+      "Une matité déclive évoque un globe vésical",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Tympanisme normal là où s'accumulent les gaz ; matité déclive = ascite ; matité sus-pubienne = globe vésical.",
+    "source": {
+      "page": 16,
+      "extrait": "Matité déclive : ascite (épanchement liquidien péritonéal) • Matité sus-pubienne : globe vésical"
+    },
+    "difficulte": 2,
+    "tags": [
+      "percussion"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/04-douleur-abdominale-aigue/qcm-028",
+    "type": "multiple",
+    "enonce": "Concernant l'auscultation de l'abdomen :",
+    "options": [
+      "Les bruits hydroaériques sont intermittents et témoignent du péristaltisme",
+      "Ils sont audibles dans tous les secteurs",
+      "Un silence abdominal évoque un iléus ou une péritonite",
+      "Un souffle systolique évoque une sténose ou un anévrisme de l'aorte abdominale",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Les quatre propositions sont exactes selon le cours.",
+    "source": {
+      "page": 16,
+      "extrait": "Silence abdominal : iléus ou péritonite • Souffle systolique : sténose ou anévrisme de l'aorte abdominale"
+    },
+    "difficulte": 2,
+    "tags": [
+      "auscultation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/04-douleur-abdominale-aigue/qcm-029",
+    "type": "unique",
+    "enonce": "Un silence abdominal à l'auscultation évoque :",
+    "options": [
+      "Une gastro-entérite aiguë",
+      "Un iléus ou une péritonite",
+      "Un anévrisme de l'aorte",
+      "Une ascite",
+      "Un globe vésical"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Silence abdominal : iléus ou péritonite.",
+    "source": {
+      "page": 16,
+      "extrait": "Silence abdominal : iléus ou péritonite"
+    },
+    "difficulte": 1,
+    "tags": [
+      "auscultation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/04-douleur-abdominale-aigue/qcm-030",
+    "type": "multiple",
+    "enonce": "L'examen au lit du patient est complété par :",
+    "options": [
+      "La prise des constantes : pouls, tension, température",
+      "Le toucher rectal",
+      "L'examen gynécologique selon le contexte",
+      "La bandelette urinaire",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Au lit du patient : constantes, toucher rectal, examen gynécologique selon le contexte, bandelette urinaire.",
+    "source": {
+      "page": 17,
+      "extrait": "Constantes : pouls, tension, température • Toucher rectal"
+    },
+    "difficulte": 1,
+    "tags": [
+      "examens"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/04-douleur-abdominale-aigue/qcm-031",
+    "type": "multiple",
+    "enonce": "Parmi les examens complémentaires biologiques cités dans le cours, on trouve :",
+    "options": [
+      "NFS",
+      "CRP",
+      "Lipase",
+      "Bilan hépatique",
+      "β-hCG"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Biologie : NFS, CRP, lipase, bilan hépatique, β-hCG.",
+    "source": {
+      "page": 17,
+      "extrait": "Biologie : NFS, CRP, lipase, bilan hépatique, β-hCG"
+    },
+    "difficulte": 1,
+    "tags": [
+      "examens"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/04-douleur-abdominale-aigue/qcm-032",
+    "type": "multiple",
+    "enonce": "Concernant les examens complémentaires devant une douleur abdominale :",
+    "options": [
+      "Un ECG est indiqué en cas de douleur épigastrique",
+      "L'endoscopie digestive est indiquée si un ulcère est suspecté",
+      "L'imagerie comprend échographie, scanner, radiographie",
+      "L'ECG est inutile devant une douleur épigastrique",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "ECG si douleur épigastrique (infarctus du myocarde possible) ; endoscopie si ulcère suspecté ; imagerie : échographie, scanner, radiographie.",
+    "source": {
+      "page": 17,
+      "extrait": "ECG : si douleur épigastrique"
+    },
+    "difficulte": 2,
+    "tags": [
+      "examens"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/04-douleur-abdominale-aigue/qcm-033",
+    "type": "multiple",
+    "enonce": "Parmi les causes d'une douleur de l'hypochondre droit, le cours cite :",
+    "options": [
+      "Colique biliaire",
+      "Cholécystite",
+      "Hépatite",
+      "Appendicite rétrocæcale",
+      "Foie de stase"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Hypochondre droit : colique biliaire, cholécystite, abcès hépatique, hépatite, pancréatite, ulcère duodénal, appendicite rétrocæcale, foie de stase, pneumopathie.",
+    "source": {
+      "page": 18,
+      "extrait": "Colique biliaire, cholécystite, abcès hépatique, hépatite, pancréatite, ulcère duodénal, appendicite rétrocæcale"
+    },
+    "difficulte": 2,
+    "tags": [
+      "localisation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/04-douleur-abdominale-aigue/qcm-034",
+    "type": "multiple",
+    "enonce": "Parmi les causes d'une douleur épigastrique, le cours cite :",
+    "options": [
+      "Pancréatite",
+      "Reflux gastro-œsophagien",
+      "Dissection de l'aorte",
+      "Infarctus du myocarde",
+      "Péricardite"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Épigastre : pancréatite, RGO, gastrite, ulcère, dissection de l'aorte, infarctus du myocarde, péricardite.",
+    "source": {
+      "page": 18,
+      "extrait": "Pancréatite, reflux gastro-œsophagien, gastrite, ulcère, dissection de l'aorte, infarctus du myocarde, péricardite"
+    },
+    "difficulte": 2,
+    "tags": [
+      "localisation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/04-douleur-abdominale-aigue/qcm-035",
+    "type": "multiple",
+    "enonce": "Parmi les causes d'une douleur de l'hypochondre gauche, le cours cite :",
+    "options": [
+      "Splénomégalie",
+      "Infarctus ou abcès de la rate",
+      "Anévrisme de l'artère splénique",
+      "Pneumopathie",
+      "Cholécystite"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Hypochondre gauche : pancréatite, gastrite, ulcère, splénomégalie, infarctus ou abcès de la rate, anévrisme de l'artère splénique, infarctus du myocarde, pneumopathie. La cholécystite est une cause d'hypochondre droit.",
+    "source": {
+      "page": 18,
+      "extrait": "splénomégalie, infarctus ou abcès de la rate, anévrisme de l'artère splénique, infarctus du myocarde, pneumopathie"
+    },
+    "difficulte": 2,
+    "tags": [
+      "localisation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/04-douleur-abdominale-aigue/qcm-036",
+    "type": "multiple",
+    "enonce": "Une cause cardiaque (infarctus du myocarde) est citée par le cours pour les douleurs de :",
+    "options": [
+      "L'épigastre",
+      "L'hypochondre gauche",
+      "La fosse iliaque droite",
+      "La fosse iliaque gauche",
+      "L'hypochondre droit"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "L'infarctus du myocarde figure dans les causes de douleur épigastrique et de l'hypochondre gauche.",
+    "source": {
+      "page": 18,
+      "extrait": "dissection de l'aorte, infarctus du myocarde, péricardite"
+    },
+    "difficulte": 3,
+    "tags": [
+      "localisation",
+      "pièges"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/04-douleur-abdominale-aigue/qcm-037",
+    "type": "multiple",
+    "enonce": "Parmi les causes d'une douleur des flancs, le cours cite :",
+    "options": [
+      "Colique néphrétique",
+      "Infarctus rénal",
+      "Rupture d'anévrisme de l'aorte",
+      "Colite ischémique",
+      "Ulcère duodénal"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Flancs : colique néphrétique, infarctus rénal, rupture d'anévrisme de l'aorte, colite ischémique.",
+    "source": {
+      "page": 19,
+      "extrait": "Colique néphrétique, infarctus rénal, rupture d'anévrisme de l'aorte, colite ischémique"
+    },
+    "difficulte": 2,
+    "tags": [
+      "localisation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/04-douleur-abdominale-aigue/qcm-038",
+    "type": "multiple",
+    "enonce": "Parmi les causes d'une douleur péri-ombilicale ou diffuse, le cours cite :",
+    "options": [
+      "Occlusion intestinale",
+      "Appendicite débutante",
+      "Infarctus mésentérique",
+      "Acidocétose diabétique",
+      "Pancréatite"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Péri-ombilicale ou diffuse : pancréatite, occlusion intestinale, appendicite débutante, rupture d'anévrisme, infarctus mésentérique, acidocétose diabétique.",
+    "source": {
+      "page": 19,
+      "extrait": "Pancréatite, occlusion intestinale, appendicite débutante, rupture d'anévrisme, infarctus mésentérique, acidocétose diabétique"
+    },
+    "difficulte": 2,
+    "tags": [
+      "localisation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/04-douleur-abdominale-aigue/qcm-039",
+    "type": "multiple",
+    "enonce": "Parmi les causes de douleur de la fosse iliaque droite, le cours cite :",
+    "options": [
+      "Appendicite",
+      "Iléite terminale",
+      "Adénite mésentérique",
+      "Diverticulite du cæcum",
+      "Diverticulite sigmoïdienne"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "La diverticulite SIGMOÏDIENNE est une cause de fosse iliaque gauche ; la diverticulite du cæcum est une cause de fosse iliaque droite.",
+    "source": {
+      "page": 19,
+      "extrait": "Appendicite, iléite terminale, adénite mésentérique, diverticulite du cæcum"
+    },
+    "difficulte": 2,
+    "tags": [
+      "localisation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/04-douleur-abdominale-aigue/qcm-040",
+    "type": "multiple",
+    "enonce": "Les causes communes aux deux fosses iliaques, selon le cours, sont :",
+    "options": [
+      "Grossesse extra-utérine",
+      "Kyste de l'ovaire",
+      "Salpingite",
+      "Hématome du psoas",
+      "Hernie étranglée"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "GEU, kyste de l'ovaire, salpingite, hématome du psoas et hernie étranglée figurent dans les deux fosses iliaques.",
+    "source": {
+      "page": 19,
+      "extrait": "grossesse extra-utérine, kyste de l'ovaire, salpingite, hématome du psoas, hernie étranglée"
+    },
+    "difficulte": 2,
+    "tags": [
+      "localisation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/04-douleur-abdominale-aigue/qcm-041",
+    "type": "unique",
+    "enonce": "La diverticulite sigmoïdienne donne typiquement une douleur de :",
+    "options": [
+      "Fosse iliaque droite",
+      "Fosse iliaque gauche",
+      "Épigastre",
+      "Hypochondre droit",
+      "Région péri-ombilicale"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Fosse iliaque gauche : diverticulite sigmoïdienne, colite ischémique, GEU, kyste de l'ovaire, salpingite, hématome du psoas, hernie étranglée.",
+    "source": {
+      "page": 19,
+      "extrait": "Fosse iliaque gauche Diverticulite sigmoïdienne, colite ischémique"
+    },
+    "difficulte": 1,
+    "tags": [
+      "localisation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/04-douleur-abdominale-aigue/qcm-042",
+    "type": "multiple",
+    "enonce": "La colique néphrétique est citée comme cause de douleur :",
+    "options": [
+      "Des flancs",
+      "De la fosse iliaque droite",
+      "De l'épigastre",
+      "De l'hypochondre gauche",
+      "Sus-pubienne"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "La colique néphrétique figure dans les causes des flancs et de la fosse iliaque droite.",
+    "source": {
+      "page": 19,
+      "extrait": "Colique néphrétique, infarctus rénal, rupture d'anévrisme de l'aorte"
+    },
+    "difficulte": 3,
+    "tags": [
+      "localisation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/04-douleur-abdominale-aigue/qcm-043",
+    "type": "multiple",
+    "enonce": "Concernant l'ulcère gastro-duodénal :",
+    "options": [
+      "C'est une perte de substance de la muqueuse",
+      "Elle n'atteint pas la musculeuse",
+      "Il siège sur l'estomac ou le bulbe duodénal",
+      "Elle atteint la musculeuse",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Ulcère : perte de substance de la muqueuse, n'atteignant PAS la musculeuse, de l'estomac ou du bulbe duodénal.",
+    "source": {
+      "page": 20,
+      "extrait": "Perte de substance de la muqueuse, n'atteignant pas la musculeuse, de l'estomac ou du bulbe duodénal."
+    },
+    "difficulte": 2,
+    "tags": [
+      "ulcère"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/04-douleur-abdominale-aigue/qcm-044",
+    "type": "multiple",
+    "enonce": "La douleur ulcéreuse est caractérisée par :",
+    "options": [
+      "Un siège épigastrique",
+      "Un type crampe, d'intensité variable",
+      "Un horaire à distance des repas, parfois nocturne",
+      "Une durée jusqu'au prochain repas",
+      "Une sédation par l'alimentation"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Douleur ulcéreuse : épigastrique, crampe, à distance des repas, parfois nocturne, jusqu'au prochain repas, calmée par l'alimentation, irradiation peu marquée.",
+    "source": {
+      "page": 20,
+      "extrait": "Calmée par : l'alimentation ; irradiation peu marquée"
+    },
+    "difficulte": 2,
+    "tags": [
+      "ulcère"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/04-douleur-abdominale-aigue/qcm-045",
+    "type": "multiple",
+    "enonce": "Concernant l'ulcère gastro-duodénal :",
+    "options": [
+      "Le rythme est quotidien, avec périodes douloureuses et rémissions complètes",
+      "Il faut rechercher une prise d'AINS",
+      "L'anorexie est un signe associé",
+      "La confirmation se fait par endoscopie",
+      "L'irradiation est très marquée"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "L'irradiation de la douleur ulcéreuse est PEU marquée.",
+    "source": {
+      "page": 20,
+      "extrait": "Rechercher une prise d'AINS ; Confirmation par endoscopie"
+    },
+    "difficulte": 2,
+    "tags": [
+      "ulcère"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/04-douleur-abdominale-aigue/qcm-046",
+    "type": "unique",
+    "enonce": "La perforation d'ulcère se manifeste par :",
+    "options": [
+      "Une douleur progressive calmée par l'alimentation",
+      "Une douleur brutale en coup de poignard avec contracture",
+      "Une brûlure rétrosternale ascendante",
+      "Une douleur en bretelle après un repas gras",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Perforation : douleur brutale en coup de poignard, contracture.",
+    "source": {
+      "page": 20,
+      "extrait": "Perforation : douleur brutale en coup de poignard, contracture"
+    },
+    "difficulte": 1,
+    "tags": [
+      "ulcère"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/04-douleur-abdominale-aigue/qcm-047",
+    "type": "unique",
+    "enonce": "Une brûlure épigastrique augmentée par les aliments acides ou les médicaments évoque :",
+    "options": [
+      "Une gastrite",
+      "Une pancréatite",
+      "Une colique hépatique",
+      "Un infarctus mésentérique",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Gastrite : brûlure épigastrique, augmentée par les aliments acides ou les médicaments.",
+    "source": {
+      "page": 21,
+      "extrait": "Gastrite Brûlure épigastrique, augmentée par les aliments acides ou les médicaments"
+    },
+    "difficulte": 1,
+    "tags": [
+      "gastrite"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/04-douleur-abdominale-aigue/qcm-048",
+    "type": "multiple",
+    "enonce": "Le pyrosis du reflux gastro-œsophagien est une brûlure :",
+    "options": [
+      "Ascendante",
+      "Rétrosternale",
+      "Post-prandiale et nocturne",
+      "Augmentée penché en avant",
+      "Calmée penché en avant"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Pyrosis : brûlure ascendante, rétrosternale, postprandiale, nocturne, AUGMENTÉE penché en avant (alors que la pancréatite est calmée penché en avant).",
+    "source": {
+      "page": 21,
+      "extrait": "Pyrosis : brûlure ascendante, rétrosternale, postprandiale, nocturne, augmentée penché en avant"
+    },
+    "difficulte": 2,
+    "tags": [
+      "reflux"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/04-douleur-abdominale-aigue/qcm-049",
+    "type": "multiple",
+    "enonce": "Le syndrome solaire de la pancréatite associe une douleur :",
+    "options": [
+      "Intense",
+      "Transfixiante",
+      "Postprandiale précoce",
+      "Calmée penché en avant (chien de fusil)",
+      "Calmée par l'alimentation"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Pancréatite : douleur intense, transfixiante, postprandiale précoce, calmée penché en avant (chien de fusil).",
+    "source": {
+      "page": 21,
+      "extrait": "Syndrome solaire : douleur intense, transfixiante, postprandiale précoce, calmée penché en avant"
+    },
+    "difficulte": 2,
+    "tags": [
+      "pancréatite"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/04-douleur-abdominale-aigue/qcm-050",
+    "type": "unique",
+    "enonce": "La position penchée en avant :",
+    "options": [
+      "Calme le reflux et aggrave la pancréatite",
+      "Aggrave le reflux et calme la pancréatite",
+      "Calme le reflux et la pancréatite",
+      "Aggrave le reflux et la pancréatite",
+      "N'a pas de valeur d'orientation"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Le pyrosis est augmenté penché en avant ; la douleur pancréatique est calmée penché en avant (chien de fusil).",
+    "source": {
+      "page": 21,
+      "extrait": "calmée penché en avant (chien de fusil)"
+    },
+    "difficulte": 3,
+    "tags": [
+      "pièges"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/04-douleur-abdominale-aigue/qcm-051",
+    "type": "multiple",
+    "enonce": "Concernant la colique hépatique :",
+    "options": [
+      "Elle est due à un petit calcul bloqué temporairement dans le canal cystique",
+      "Elle siège dans l'hypochondre droit, parfois l'épigastre",
+      "Son installation est rapide, paroxystique en quelques minutes",
+      "Elle est de type broiement, torsion ou crampe",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes ces caractéristiques sont celles de la colique hépatique.",
+    "source": {
+      "page": 22,
+      "extrait": "Un petit calcul se bloque temporairement dans le canal cystique."
+    },
+    "difficulte": 2,
+    "tags": [
+      "colique hépatique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/04-douleur-abdominale-aigue/qcm-052",
+    "type": "multiple",
+    "enonce": "La douleur de colique hépatique :",
+    "options": [
+      "Est très forte avec respiration bloquée",
+      "Irradie en arrière « en bretelle »",
+      "Dure plusieurs heures, souvent le soir",
+      "Est déclenchée par un repas gras",
+      "Est calmée par les antispasmodiques"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Toutes les propositions décrivent la colique hépatique du cours.",
+    "source": {
+      "page": 22,
+      "extrait": "Irradiation : postérieure, « en bretelle » ; Déclenchant : repas gras ; Calmant : antispasmodiques"
+    },
+    "difficulte": 2,
+    "tags": [
+      "colique hépatique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/04-douleur-abdominale-aigue/qcm-053",
+    "type": "unique",
+    "enonce": "Une douleur de l'hypochondre droit irradiant « en bretelle », déclenchée par un repas gras, évoque :",
+    "options": [
+      "Un ulcère duodénal",
+      "Une colique hépatique",
+      "Une colique néphrétique",
+      "Un reflux gastro-œsophagien",
+      "Une appendicite"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Irradiation postérieure en bretelle et déclenchement par un repas gras caractérisent la colique hépatique.",
+    "source": {
+      "page": 22,
+      "extrait": "Irradiation : postérieure, « en bretelle »"
+    },
+    "difficulte": 1,
+    "tags": [
+      "colique hépatique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/04-douleur-abdominale-aigue/qcm-054",
+    "type": "multiple",
+    "enonce": "Les causes vasculaires de douleur abdominale aiguë citées sont :",
+    "options": [
+      "Infarctus mésentérique",
+      "Rupture d'anévrisme de l'aorte abdominale",
+      "Infarctus du myocarde",
+      "Gastro-entérite aiguë",
+      "Constipation prolongée"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Causes vasculaires : infarctus mésentérique, rupture d'anévrisme de l'aorte abdominale, infarctus du myocarde. Gastro-entérite et constipation sont des pièges de diagnostic par excès.",
+    "source": {
+      "page": 23,
+      "extrait": "Infarctus mésentérique • Rupture d'anévrisme de l'aorte abdominale • Infarctus du myocarde"
+    },
+    "difficulte": 2,
+    "tags": [
+      "causes vasculaires"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/04-douleur-abdominale-aigue/qcm-055",
+    "type": "multiple",
+    "enonce": "Concernant le « diagnostic par excès » :",
+    "options": [
+      "La gastro-entérite aiguë en est un exemple",
+      "La constipation prolongée en est un exemple",
+      "Ces diagnostics ne doivent être retenus qu'après avoir écarté une urgence",
+      "Ces diagnostics doivent être retenus d'emblée",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Gastro-entérite aiguë et constipation prolongée ne doivent être retenues qu'après avoir écarté une urgence.",
+    "source": {
+      "page": 23,
+      "extrait": "À retenir seulement après avoir écarté une urgence"
+    },
+    "difficulte": 2,
+    "tags": [
+      "pièges"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/04-douleur-abdominale-aigue/qcm-056",
+    "type": "multiple",
+    "enonce": "Concernant la conclusion du cours :",
+    "options": [
+      "La douleur abdominale aiguë peut relever d'un traitement symptomatique",
+      "Elle peut être le signe d'alerte d'une urgence chirurgicale",
+      "Un interrogatoire bien mené est essentiel",
+      "Un examen physique complet est essentiel",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "La conclusion insiste sur ces quatre points.",
+    "source": {
+      "page": 24,
+      "extrait": "D'où l'importance d'un interrogatoire bien mené et d'un examen physique complet"
+    },
+    "difficulte": 1,
+    "tags": [
+      "conclusion"
+    ],
+    "origine": "genere"
+  }
+]

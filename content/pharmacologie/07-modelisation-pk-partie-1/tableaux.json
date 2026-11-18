@@ -1,0 +1,231 @@
+[
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/tab-001",
+    "titre": "Paramètres pharmacocinétiques par phase",
+    "colonnes": [
+      "Phase",
+      "Paramètre",
+      "Symbole",
+      "Unité"
+    ],
+    "lignes": [
+      [
+        "Absorption",
+        "Coefficient de résorption",
+        "f",
+        "%"
+      ],
+      [
+        "Absorption",
+        "Constante de vitesse d'absorption",
+        "Ka",
+        "1/h"
+      ],
+      [
+        "Absorption",
+        "Coefficient d'extraction",
+        "E",
+        "%"
+      ],
+      [
+        "Absorption",
+        "Biodisponibilité absolue",
+        "F",
+        "%"
+      ],
+      [
+        "Absorption",
+        "Surface sous la courbe",
+        "AUC 0→t / 0→∞",
+        "µg.h/ml"
+      ],
+      [
+        "Distribution",
+        "Volume apparent de distribution",
+        "Vd",
+        "l (ou l/kg)"
+      ],
+      [
+        "Distribution",
+        "Constante de vitesse de distribution",
+        "Kd",
+        "1/h"
+      ],
+      [
+        "Élimination",
+        "Clairance totale",
+        "Cl",
+        "ml/min"
+      ],
+      [
+        "Élimination",
+        "Temps de demi-vie d'élimination",
+        "T1/2",
+        "h"
+      ],
+      [
+        "Élimination",
+        "Constante de vitesse d'élimination",
+        "Ke",
+        "1/h"
+      ]
+    ]
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/tab-002",
+    "titre": "Interprétation du volume apparent de distribution",
+    "colonnes": [
+      "Vd",
+      "Exemples",
+      "Signification"
+    ],
+    "lignes": [
+      [
+        "< 10 l (< 0,15 l/kg)",
+        "Warfarine, phénylbutazone",
+        "Distribution limitée à la circulation sanguine"
+      ],
+      [
+        "10 – 50 l (0,15 – 0,75 l/kg)",
+        "Amoxicilline, furosémide",
+        "Volumes compatibles avec les compartiments physiologiques"
+      ],
+      [
+        "50 – 200 l (0,75 – 3 l/kg)",
+        "Digitaline, phénobarbital",
+        "Dépasse le volume de l'organisme : distribution élevée"
+      ],
+      [
+        "200 – 1000 l (3 – 15 l/kg)",
+        "Digoxine, péthidine",
+        "Distribution élevée"
+      ],
+      [
+        "1000 – 5000 l (15 – 75 l/kg)",
+        "Chlorpromazine, halopéridol",
+        "Distribution élevée"
+      ],
+      [
+        "> 5000 l (> 75 l/kg)",
+        "Chloroquine",
+        "Distribution élevée"
+      ]
+    ]
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/tab-003",
+    "titre": "Formules du modèle monocompartimental",
+    "colonnes": [
+      "Paramètre",
+      "Voie IV",
+      "Voie orale"
+    ],
+    "lignes": [
+      [
+        "Équation",
+        "C = C0·e^(−ke·t)",
+        "Cp = E·e^(−ke·t) − A·e^(−ka·t)"
+      ],
+      [
+        "ke",
+        "ke = −2,303 × pente",
+        "ke = −2,303 (log C'2 − log C'1)/(t2 − t1)"
+      ],
+      [
+        "ka",
+        "—",
+        "ka = −2,303 (log A2 − log A1)/(t2 − t1)"
+      ],
+      [
+        "t1/2",
+        "ln2/ke",
+        "ln2/ke ; t1/2a = ln2/ka"
+      ],
+      [
+        "AUC0→∞",
+        "Cp0/ke",
+        "E/ke − A/ka"
+      ],
+      [
+        "Vd",
+        "Q/Cp0",
+        "Cl/ke"
+      ],
+      [
+        "Cl",
+        "ke × Vd ; U×V/Cp (rénale)",
+        "Q × F / AUC"
+      ]
+    ]
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/carte-004",
+    "type": "carte",
+    "titre": "Modélisation pharmacocinétique (partie 1)",
+    "racine": {
+      "label": "Pharmacocinétique quantitative",
+      "enfants": [
+        {
+          "label": "Approches",
+          "enfants": [
+            {
+              "label": "Non compartimentale (Cmax, Tmax)",
+              "enfants": []
+            },
+            {
+              "label": "Compartimentale (central, périphériques)",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Paramètres",
+          "enfants": [
+            {
+              "label": "Absorption : f, Ka, E, F, AUC",
+              "enfants": []
+            },
+            {
+              "label": "Distribution : Vd, Kd",
+              "enfants": []
+            },
+            {
+              "label": "Élimination : Cl, T1/2, Ke",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Mono IV",
+          "enfants": [
+            {
+              "label": "C = C0·e^(−ke·t)",
+              "enfants": []
+            },
+            {
+              "label": "Vd = Q/Cp0 ; AUC = Cp0/ke ; Cl = ke·Vd",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Mono oral",
+          "enfants": [
+            {
+              "label": "Cp = E·e^(−ke·t) − A·e^(−ka·t)",
+              "enfants": []
+            },
+            {
+              "label": "Méthode des résidus → ka",
+              "enfants": []
+            },
+            {
+              "label": "F = f(1 − E)",
+              "enfants": []
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

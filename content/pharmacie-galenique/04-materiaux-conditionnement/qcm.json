@@ -1,0 +1,1694 @@
+[
+  {
+    "id": "pharmacie-galenique/04-materiaux-conditionnement/qcm-001",
+    "type": "multiple",
+    "enonce": "Le terme conditionnement (packaging) désigne :",
+    "options": [
+      "Uniquement la boîte en carton",
+      "Les articles formant la couverture autour du médicament",
+      "Uniquement l'étape de fabrication du principe actif",
+      "Les annexes du médicament",
+      "L'ensemble des opérations qui conduisent à couvrir un médicament (produit vrac) avec des matériaux"
+    ],
+    "correctes": [
+      1,
+      3,
+      4
+    ],
+    "explication": "Le conditionnement désigne à la fois l'ensemble des opérations conduisant à couvrir le produit vrac avec des matériaux et les articles formant la couverture autour du médicament ainsi que les annexes.",
+    "source": {
+      "page": 3,
+      "extrait": "Ensemble des opérations qui conduisent à couvrir un médicament (Produit Vrac) avec des matériaux"
+    },
+    "difficulte": 1,
+    "tags": [
+      "définition"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/04-materiaux-conditionnement/qcm-002",
+    "type": "multiple",
+    "enonce": "Selon son rôle, le conditionnement primaire assure :",
+    "options": [
+      "La mise en palette pour le transport",
+      "Une présentation aisée facilitant l'utilisation",
+      "La mise en fardeau",
+      "Un rôle marketing",
+      "La protection contre les micro-organismes et les agressions extérieures"
+    ],
+    "correctes": [
+      1,
+      3,
+      4
+    ],
+    "explication": "Primaire : protection contre micro-organismes et agressions extérieures, présentation aisée facilitant l'utilisation, marketing. La mise en palette/fardeau relève du tertiaire.",
+    "source": {
+      "page": 4,
+      "extrait": "Protection contre les microorganismes et les agressions extérieures"
+    },
+    "difficulte": 1,
+    "tags": [
+      "rôles"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/04-materiaux-conditionnement/qcm-003",
+    "type": "multiple",
+    "enonce": "Selon son rôle, le conditionnement secondaire assure :",
+    "options": [
+      "La sécurité du malade par l'identification et l'information",
+      "Le marketing",
+      "Le transport",
+      "La protection directe contre les micro-organismes au contact du médicament",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Secondaire : sécurité du malade (identification et information), transport, marketing. La protection au contact du médicament relève du primaire.",
+    "source": {
+      "page": 4,
+      "extrait": "Sécurité du malade => Identification et information"
+    },
+    "difficulte": 1,
+    "tags": [
+      "rôles"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/04-materiaux-conditionnement/qcm-004",
+    "type": "unique",
+    "enonce": "Le rôle attribué au conditionnement tertiaire dans le cours est :",
+    "options": [
+      "L'information du malade",
+      "La protection contre la lumière au contact du médicament",
+      "La commodité de prélèvement de la dose",
+      "Le transport",
+      "Le marketing auprès du patient"
+    ],
+    "correctes": [
+      3
+    ],
+    "explication": "Le conditionnement tertiaire a pour rôle le transport (mise en fardeau, caisse ou palette).",
+    "source": {
+      "page": 4,
+      "extrait": "Tertiaire Transport"
+    },
+    "difficulte": 1,
+    "tags": [
+      "rôles"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/04-materiaux-conditionnement/qcm-005",
+    "type": "multiple",
+    "enonce": "Le conditionnement primaire :",
+    "options": [
+      "Est l'enveloppe protectrice qui vient directement en contact avec le médicament",
+      "A pour exemple de multidose un flacon de 500 ml contenant 50 doses",
+      "A pour exemple d'unidose un sachet de 10 ml",
+      "Peut être unidose ou multidose",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Primaire : enveloppe protectrice en contact direct ; unidose (sachet de 10 ml) ou multidose (flacon de 500 ml = 50 doses).",
+    "source": {
+      "page": 6,
+      "extrait": "Unidose :Sachet 10 ml Flacon multidose : 500 ml = 50 doses"
+    },
+    "difficulte": 1,
+    "tags": [
+      "conditionnement primaire"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/04-materiaux-conditionnement/qcm-006",
+    "type": "multiple",
+    "enonce": "Les qualités requises du conditionnement primaire sont :",
+    "options": [
+      "Inertie vis-à-vis du contenu",
+      "Innocuité",
+      "Résistance physique suffisante",
+      "Imperméabilité aux constituants du médicament",
+      "Étanchéité et protection contre l'air, l'humidité, la lumière"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Qualités requises : résistance physique, imperméabilité, étanchéité et protection, inertie, innocuité, commodité d'emploi, transparence et résistance thermique (solutions stériles).",
+    "source": {
+      "page": 7,
+      "extrait": "Etanchéité et protection contre les agents extérieurs : air, humidité, lumière"
+    },
+    "difficulte": 1,
+    "tags": [
+      "qualités requises"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/04-materiaux-conditionnement/qcm-007",
+    "type": "multiple",
+    "enonce": "L'inertie du conditionnement primaire vis-à-vis du contenu implique l'absence :",
+    "options": [
+      "De sorption (phénomène contraire à la migration)",
+      "De résistance physique",
+      "De migration des constituants vers le médicament",
+      "De toute transparence",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      2
+    ],
+    "explication": "Inertie : absence d'interaction comme la migration des constituants vers le médicament et la sorption (le contraire).",
+    "source": {
+      "page": 7,
+      "extrait": "Absence d'interaction comme la migration des constituants vers le médicament et la sorption (contraire)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "qualités requises"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/04-materiaux-conditionnement/qcm-008",
+    "type": "unique",
+    "enonce": "La transparence et la résistance thermique sont des qualités requises particulièrement pour :",
+    "options": [
+      "Les comprimés nus",
+      "Les palettes de transport",
+      "Les étuis en carton",
+      "Les solutions stériles",
+      "Les poudres non stériles"
+    ],
+    "correctes": [
+      3
+    ],
+    "explication": "Transparence et résistance thermique (solutions stériles).",
+    "source": {
+      "page": 7,
+      "extrait": "Transparence et résistance thermique (solutions stériles)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "qualités requises"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/04-materiaux-conditionnement/qcm-009",
+    "type": "unique",
+    "enonce": "La commodité d'emploi du conditionnement primaire signifie que :",
+    "options": [
+      "Le conditionnement doit comporter une vignette",
+      "Le conditionnement doit être en verre",
+      "Le conditionnement doit être opaque",
+      "La forme doit permettre le prélèvement facile de la dose de PA",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      3
+    ],
+    "explication": "Commodité d'emploi : la forme doit permettre le prélèvement de la dose du PA facilement.",
+    "source": {
+      "page": 7,
+      "extrait": "la forme doit permettre le prélèvement de la dose du PA facilement"
+    },
+    "difficulte": 1,
+    "tags": [
+      "qualités requises"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/04-materiaux-conditionnement/qcm-010",
+    "type": "multiple",
+    "enonce": "Concernant la structure et la composition générale du verre :",
+    "options": [
+      "Il a une structure cristalline parfaitement ordonnée",
+      "L'oxyde de sodium joue le rôle de fondant",
+      "L'oxyde de calcium (CaO) joue le rôle de stabilisant",
+      "Il a une structure amorphe désorganisée",
+      "La silice (SiO₂) joue le rôle de vitrifiant"
+    ],
+    "correctes": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Le verre a une structure amorphe désorganisée : vitrifiant (SiO₂), fondant (oxyde de sodium), stabilisant (CaO) + autres adjuvants (4 %).",
+    "source": {
+      "page": 8,
+      "extrait": "Vitrifiant (SiO2)n Fondant (NaO)m Stabilisant (CaO)p + Autres Adjuvants (4%)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "verre"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/04-materiaux-conditionnement/qcm-011",
+    "type": "unique",
+    "enonce": "Dans la composition du verre, le rôle de fondant est assuré par :",
+    "options": [
+      "La silice",
+      "L'alumine",
+      "L'oxyde de sodium",
+      "L'oxyde de calcium",
+      "L'anhydride borique"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Vitrifiant : SiO₂ ; fondant : oxyde de sodium ; stabilisant : CaO.",
+    "source": {
+      "page": 8,
+      "extrait": "Fondant (NaO)m"
+    },
+    "difficulte": 1,
+    "tags": [
+      "verre"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/04-materiaux-conditionnement/qcm-012",
+    "type": "unique",
+    "enonce": "Les autres adjuvants entrant dans la composition générale du verre représentent environ :",
+    "options": [
+      "25 %",
+      "14 %",
+      "4 %",
+      "0,4 %",
+      "40 %"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Composition : vitrifiant + fondant + stabilisant + autres adjuvants (4 %).",
+    "source": {
+      "page": 8,
+      "extrait": "+ Autres Adjuvants (4%)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "verre"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/04-materiaux-conditionnement/qcm-013",
+    "type": "multiple",
+    "enonce": "L'ajout d'anhydride borique (B₂O₃) au verre :",
+    "options": [
+      "Permet d'obtenir un verre neutre de type pyrex",
+      "Augmente le coefficient de dilatation",
+      "Augmente la dureté du verre ordinaire",
+      "Diminue le coefficient de dilatation",
+      "Augmente la résistance chimique du verre ordinaire"
+    ],
+    "correctes": [
+      0,
+      2,
+      3,
+      4
+    ],
+    "explication": "B₂O₃ diminue le coefficient de dilatation, augmente la résistance chimique et la dureté → verre neutre pyrex.",
+    "source": {
+      "page": 8,
+      "extrait": "Anhydride borique B2O3 => diminue le coefficient de dilatation => augmente la résistance chimique et la dureté"
+    },
+    "difficulte": 1,
+    "tags": [
+      "verre"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/04-materiaux-conditionnement/qcm-014",
+    "type": "multiple",
+    "enonce": "L'alumine (Al₂O₃) ajoutée au verre :",
+    "options": [
+      "Augmente la dureté",
+      "Donne la sonorité du cristal",
+      "Favorise le soufflage du verre",
+      "Retarde la dévitrification",
+      "Est un affinant des bulles d'air"
+    ],
+    "correctes": [
+      0,
+      3
+    ],
+    "explication": "Alumine : retarde la dévitrification et augmente la dureté. La sonorité du cristal : PbO ; soufflage : K₂O ; affinants : KNO₃, As₂O₅.",
+    "source": {
+      "page": 9,
+      "extrait": "Alumine (Al2O3) => retarde la dévitrification et augmente la dureté"
+    },
+    "difficulte": 2,
+    "tags": [
+      "adjuvants du verre"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/04-materiaux-conditionnement/qcm-015",
+    "type": "multiple",
+    "enonce": "Parmi les adjuvants du verre, les affinants des bulles d'air sont :",
+    "options": [
+      "L'oxyde de cobalt (CoO)",
+      "Le nitrate de potassium (KNO₃)",
+      "L'oxyde de plomb (PbO)",
+      "L'oxyde d'arsenic (As₂O₅)",
+      "L'oxyde de potassium (K₂O)"
+    ],
+    "correctes": [
+      1,
+      3
+    ],
+    "explication": "KNO₃ et As₂O₅ sont des affinants des bulles d'air. PbO : éclat et sonorité du cristal ; K₂O : soufflage et éclat ; CoO : colorant.",
+    "source": {
+      "page": 9,
+      "extrait": "Nitrate de K (KNO3), oxyde d'Arsenic (AS2O5) => Affinants des bulles d'air"
+    },
+    "difficulte": 2,
+    "tags": [
+      "adjuvants du verre"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/04-materiaux-conditionnement/qcm-016",
+    "type": "multiple",
+    "enonce": "L'oxyde de plomb (PbO) ajouté au verre :",
+    "options": [
+      "Donne la sonorité du cristal",
+      "Augmente l'éclat",
+      "Diminue le coefficient de dilatation",
+      "Est un décolorant",
+      "Retarde la dévitrification"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "PbO augmente l'éclat et donne la sonorité du cristal.",
+    "source": {
+      "page": 9,
+      "extrait": "Oxyde de plomb (PbO) => augmente l'éclat, donne la sonorité du cristal"
+    },
+    "difficulte": 2,
+    "tags": [
+      "adjuvants du verre"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/04-materiaux-conditionnement/qcm-017",
+    "type": "multiple",
+    "enonce": "L'oxyde de potassium (K₂O) :",
+    "options": [
+      "Augmente la dureté",
+      "Est un affinant des bulles d'air",
+      "Favorise l'éclat du verre",
+      "Est un colorant",
+      "Favorise le soufflage du verre"
+    ],
+    "correctes": [
+      2,
+      4
+    ],
+    "explication": "K₂O favorise le soufflage du verre et son éclat.",
+    "source": {
+      "page": 9,
+      "extrait": "Oxyde de potassium (K2O) => favorise le soufflage du verre et son éclat"
+    },
+    "difficulte": 2,
+    "tags": [
+      "adjuvants du verre"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/04-materiaux-conditionnement/qcm-018",
+    "type": "multiple",
+    "enonce": "Parmi les colorants du verre cités :",
+    "options": [
+      "PbO",
+      "B₂O₃",
+      "CoO",
+      "FeO",
+      "CuO"
+    ],
+    "correctes": [
+      2,
+      3,
+      4
+    ],
+    "explication": "Colorants cités : FeO, CuO, CoO (et des décolorants). PbO augmente l'éclat ; B₂O₃ diminue la dilatation.",
+    "source": {
+      "page": 9,
+      "extrait": "Colorants (FeO, CuO, CoO..) et décolorants"
+    },
+    "difficulte": 2,
+    "tags": [
+      "adjuvants du verre"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/04-materiaux-conditionnement/qcm-019",
+    "type": "multiple",
+    "enonce": "Concernant les propriétés du verre :",
+    "options": [
+      "Il a un fort coefficient de dilatation et une faible conductivité thermique",
+      "Il est fragile vis-à-vis des chocs et des variations de température",
+      "Il est opaque aux rayons visibles",
+      "Il présente une imperméabilité et une étanchéité absolues",
+      "Il présente une stabilité et une grande inertie chimique"
+    ],
+    "correctes": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "explication": "Propriétés : fragilité (fort coefficient de dilatation, faible conductivité thermique), imperméabilité et étanchéité absolues, stabilité et grande inertie chimique, stérilisable (type I), transparence aux rayons visibles.",
+    "source": {
+      "page": 10,
+      "extrait": "Imperméabilité et étanchéité absolues"
+    },
+    "difficulte": 1,
+    "tags": [
+      "propriétés du verre"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/04-materiaux-conditionnement/qcm-020",
+    "type": "multiple",
+    "enonce": "La fragilité du verre vis-à-vis des variations de température s'explique par :",
+    "options": [
+      "Un faible coefficient de dilatation",
+      "Une forte conductivité thermique",
+      "Un fort coefficient de dilatation",
+      "Une faible conductivité thermique",
+      "Sa structure cristalline"
+    ],
+    "correctes": [
+      2,
+      3
+    ],
+    "explication": "Fragilité vis-à-vis des chocs et variations de température (fort coefficient de dilatation et faible conductivité thermique).",
+    "source": {
+      "page": 10,
+      "extrait": "fort coefficient de dilatation et faible conductivité thermique"
+    },
+    "difficulte": 2,
+    "tags": [
+      "propriétés du verre"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/04-materiaux-conditionnement/qcm-021",
+    "type": "multiple",
+    "enonce": "Pour un principe actif photosensible conditionné en verre :",
+    "options": [
+      "Le verre teinté protège contre les rayonnements",
+      "Le verre est transparent aux rayons visibles",
+      "On utilise un verre teinté",
+      "Il faut obligatoirement passer au plastique",
+      "Le verre incolore protège suffisamment car il est opaque"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Le verre est transparent aux rayons visibles ; si le PA est photosensible, on utilise un verre teinté qui protège contre les rayonnements.",
+    "source": {
+      "page": 10,
+      "extrait": "Si PA photosensibles => verre teinté protection contre les rayonnements"
+    },
+    "difficulte": 1,
+    "tags": [
+      "propriétés du verre"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/04-materiaux-conditionnement/qcm-022",
+    "type": "multiple",
+    "enonce": "Vis-à-vis des solutions aqueuses et acides, le verre :",
+    "options": [
+      "Subit une hydrolyse",
+      "Peut modifier le pH et parfois inactiver le PA",
+      "Voit cette réaction accélérée par l'augmentation de température (stérilisation)",
+      "Provoque une alcalinisation de la solution",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Avec les solutions aqueuses et acides : hydrolyse du verre (Si–O–Na + H₂O → Si–O–H + NaOH), alcalinisation, changement de pH et parfois inactivation du PA ; réaction accélérée par la température (stérilisation).",
+    "source": {
+      "page": 11,
+      "extrait": "La réaction accélérée avec l'augmentation de la température (au cours d'une stérilisation par exemple)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "propriétés du verre"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/04-materiaux-conditionnement/qcm-023",
+    "type": "unique",
+    "enonce": "L'hydrolyse du verre au contact d'une solution aqueuse libère :",
+    "options": [
+      "HCl",
+      "H₂SO₄",
+      "NaOH",
+      "CaCO₃",
+      "SiO₂ gazeux"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Si–O–Na + H₂O → Si–O–H + NaOH : la libération de soude alcalinise la solution.",
+    "source": {
+      "page": 11,
+      "extrait": "Si-O-Na + H2O Si-O-H + NaOH"
+    },
+    "difficulte": 2,
+    "tags": [
+      "propriétés du verre"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/04-materiaux-conditionnement/qcm-024",
+    "type": "multiple",
+    "enonce": "Vis-à-vis des bases, le verre :",
+    "options": [
+      "Se recouvre d'une couche protectrice",
+      "Subit une rupture des liaisons Si–O",
+      "Est parfaitement résistant",
+      "Subit une destruction lente et totale",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      1,
+      3
+    ],
+    "explication": "Avec les bases : rupture des liaisons Si–O et destruction lente et totale du verre.",
+    "source": {
+      "page": 11,
+      "extrait": "Avec les bases => Rupture de liaison Si-O et destruction lente et totale du verre"
+    },
+    "difficulte": 2,
+    "tags": [
+      "propriétés du verre"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/04-materiaux-conditionnement/qcm-025",
+    "type": "unique",
+    "enonce": "Le verre est résistant :",
+    "options": [
+      "Aux produits organiques",
+      "Aux solutions acides",
+      "Aux bases",
+      "Aux solutions aqueuses à chaud",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Le verre résiste aux produits organiques mais est sensible aux réactifs minéraux (solutions aqueuses, acides, bases).",
+    "source": {
+      "page": 11,
+      "extrait": "Résistance aux produits organiques"
+    },
+    "difficulte": 2,
+    "tags": [
+      "propriétés du verre"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/04-materiaux-conditionnement/qcm-026",
+    "type": "multiple",
+    "enonce": "La résistance hydrolytique du verre est définie comme :",
+    "options": [
+      "Mesurée pendant 20 min ou 1 heure",
+      "La résistance du verre aux produits organiques",
+      "La résistance du verre à céder ses éléments minéraux solubles dans l'eau",
+      "Mesurée après un autoclavage à 121 °C",
+      "La résistance du verre aux chocs mécaniques"
+    ],
+    "correctes": [
+      0,
+      2,
+      3
+    ],
+    "explication": "Résistance hydrolytique : résistance du verre à céder ses éléments minéraux solubles dans l'eau après autoclavage à 121 °C pendant 20 min ou 1 h.",
+    "source": {
+      "page": 12,
+      "extrait": "résistance du verre à céder ses éléments minéraux solubles dans l'eau après un autoclavage à 121°C pendant 20min ou 1 heure"
+    },
+    "difficulte": 2,
+    "tags": [
+      "types de verre"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/04-materiaux-conditionnement/qcm-027",
+    "type": "multiple",
+    "enonce": "Le verre de type I :",
+    "options": [
+      "Convient à toutes les préparations",
+      "Est un sodocalcique neutre en surface",
+      "A une haute résistance hydrolytique",
+      "Est un borosilicate neutre dans la masse",
+      "Est réservé aux préparations non stériles"
+    ],
+    "correctes": [
+      0,
+      2,
+      3
+    ],
+    "explication": "Type I : haute résistance hydrolytique, borosilicate neutre dans la masse, toutes préparations. Le sodocalcique neutre en surface est le type II.",
+    "source": {
+      "page": 12,
+      "extrait": "I Haute Borosilicate neutre dans la masse Toutes préparations"
+    },
+    "difficulte": 1,
+    "tags": [
+      "types de verre"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/04-materiaux-conditionnement/qcm-028",
+    "type": "multiple",
+    "enonce": "Le verre de type II :",
+    "options": [
+      "A une haute résistance hydrolytique",
+      "A une faible résistance hydrolytique",
+      "Est un sodocalcique neutre en surface",
+      "Est un borosilicate neutre dans la masse",
+      "Convient à toutes les préparations sauf basiques"
+    ],
+    "correctes": [
+      0,
+      2,
+      4
+    ],
+    "explication": "Type II : haute résistance hydrolytique, sodocalcique neutre en surface, toutes préparations sauf basiques.",
+    "source": {
+      "page": 12,
+      "extrait": "II Haute Sodocalcique neutre en surface Toutes préparations sauf basiques"
+    },
+    "difficulte": 2,
+    "tags": [
+      "types de verre"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/04-materiaux-conditionnement/qcm-029",
+    "type": "multiple",
+    "enonce": "Le verre de type III :",
+    "options": [
+      "Convient à toutes les préparations aqueuses injectables",
+      "Convient aux préparations stérilisables non aqueuses",
+      "Est un sodocalcique (verre ordinaire + alumine)",
+      "A une résistance hydrolytique moyenne",
+      "Convient aux poudres stériles et aux préparations non stériles"
+    ],
+    "correctes": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Type III : résistance moyenne, sodocalcique (verre ordinaire + alumine), préparations stérilisables non aqueuses, poudres stériles, préparations non stériles.",
+    "source": {
+      "page": 12,
+      "extrait": "III Moyenne Sodocalcique verre ordinaire + alumine"
+    },
+    "difficulte": 2,
+    "tags": [
+      "types de verre"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/04-materiaux-conditionnement/qcm-030",
+    "type": "multiple",
+    "enonce": "Le verre de type IV :",
+    "options": [
+      "Est réservé aux préparations non stériles",
+      "Est un sodocalcique (verre ordinaire)",
+      "A une faible résistance hydrolytique",
+      "Convient aux préparations injectables",
+      "Est un borosilicate"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Type IV : faible résistance, sodocalcique ordinaire, préparations non stériles.",
+    "source": {
+      "page": 12,
+      "extrait": "IV Faible Sodocalcique verre ordinaire Préparations non stériles"
+    },
+    "difficulte": 1,
+    "tags": [
+      "types de verre"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/04-materiaux-conditionnement/qcm-031",
+    "type": "unique",
+    "enonce": "Une solution injectable aqueuse basique doit être conditionnée de préférence dans un verre de type :",
+    "options": [
+      "II",
+      "I",
+      "IV",
+      "III",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Le type II convient à toutes les préparations sauf basiques ; le type III aux préparations stérilisables non aqueuses ; le type IV aux non stériles. Le type I convient à toutes les préparations.",
+    "source": {
+      "page": 12,
+      "extrait": "Toutes préparations sauf basiques"
+    },
+    "difficulte": 3,
+    "tags": [
+      "types de verre"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/04-materiaux-conditionnement/qcm-032",
+    "type": "multiple",
+    "enonce": "Pour une poudre stérile, les types de verre utilisables d'après le cours sont :",
+    "options": [
+      "Type I",
+      "Type II",
+      "Type IV",
+      "Type III",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      3
+    ],
+    "explication": "Le type III convient aux poudres stériles ; or il est toujours possible d'utiliser un verre de résistance hydrolytique supérieure (types I et II). Le type IV est réservé aux préparations non stériles.",
+    "source": {
+      "page": 13,
+      "extrait": "Il est toujours possible d'utiliser des récipients de résistance hydrolytique supérieure à celle recommandée"
+    },
+    "difficulte": 3,
+    "tags": [
+      "types de verre"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/04-materiaux-conditionnement/qcm-033",
+    "type": "multiple",
+    "enonce": "Concernant les remarques sur les types de verre :",
+    "options": [
+      "Il est interdit d'utiliser un verre de type I pour une préparation non stérile",
+      "Il est toujours possible d'utiliser un récipient de résistance hydrolytique supérieure à celle recommandée",
+      "Le verre de type IV peut remplacer le type I",
+      "Il existe un verre type I plus (pi coating)",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      1,
+      3
+    ],
+    "explication": "On peut toujours utiliser une résistance hydrolytique supérieure à celle recommandée ; il existe un verre type I plus (pi coating). L'inverse (remplacer par un type inférieur) n'est pas autorisé.",
+    "source": {
+      "page": 13,
+      "extrait": "Il existe un verre type 1 plus (pi coating)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "types de verre"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/04-materiaux-conditionnement/qcm-034",
+    "type": "unique",
+    "enonce": "Le verre stérilisable cité dans les propriétés du verre est :",
+    "options": [
+      "Le verre de type I",
+      "Le verre au plomb",
+      "Tout verre teinté",
+      "Le verre de type IV",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Parmi les propriétés : « stérilisable (verre type 1) ».",
+    "source": {
+      "page": 10,
+      "extrait": "Stérilisable (verre type 1)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "propriétés du verre"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/04-materiaux-conditionnement/qcm-035",
+    "type": "multiple",
+    "enonce": "Les matières plastiques (plastomères) :",
+    "options": [
+      "Sont caractérisées par une haute plasticité",
+      "Ont une haute élasticité et une faible plasticité",
+      "Sont caractérisées par une faible élasticité",
+      "Ont une structure amorphe minérale comme le verre",
+      "Sont de hauts polymères organiques formés de longues chaînes de monomères"
+    ],
+    "correctes": [
+      0,
+      2,
+      4
+    ],
+    "explication": "Les plastiques sont de hauts polymères organiques, à haute plasticité (déformations permanentes) et faible élasticité (déformations réversibles).",
+    "source": {
+      "page": 14,
+      "extrait": "Caractérisées par une haute plasticité (aptitude aux déformations permanentes) et une faible élasticité"
+    },
+    "difficulte": 1,
+    "tags": [
+      "plastiques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/04-materiaux-conditionnement/qcm-036",
+    "type": "unique",
+    "enonce": "La plasticité désigne l'aptitude :",
+    "options": [
+      "Aux déformations réversibles",
+      "À la transparence",
+      "À la stérilisation",
+      "Aux déformations permanentes",
+      "À la conduction thermique"
+    ],
+    "correctes": [
+      3
+    ],
+    "explication": "Plasticité = aptitude aux déformations permanentes ; élasticité = aptitude aux déformations réversibles.",
+    "source": {
+      "page": 14,
+      "extrait": "haute plasticité (aptitude aux déformations permanentes)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "plastiques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/04-materiaux-conditionnement/qcm-037",
+    "type": "multiple",
+    "enonce": "La fabrication des plastomères fait appel à :",
+    "options": [
+      "L'hydrolyse du collagène",
+      "La polycondensation par des liaisons ester, amide ou anhydride",
+      "La vitrification par la silice",
+      "La polymérisation des monomères",
+      "La sublimation"
+    ],
+    "correctes": [
+      1,
+      3
+    ],
+    "explication": "Deux voies : polymérisation des monomères et polycondensation (liaisons ester, amide, anhydride).",
+    "source": {
+      "page": 15,
+      "extrait": "Polycondensation par des liaisons : ester, amide, anhydride"
+    },
+    "difficulte": 1,
+    "tags": [
+      "fabrication"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/04-materiaux-conditionnement/qcm-038",
+    "type": "multiple",
+    "enonce": "D'après le schéma de fabrication des plastomères :",
+    "options": [
+      "La résine thermoplastique additionnée d'adjuvants donne une poudre à mouler",
+      "La poudre à mouler est transformée en plastomère par la chaleur",
+      "La polycondensation dans le moule donne une résine thermodurcissable",
+      "La polymérisation donne une résine thermoplastique",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Polycondensation dans le moule → résine thermodurcissable (+ adjuvants) → plastomère ; polymérisation → résine thermoplastique + adjuvants → poudre à mouler → chaleur → plastomère.",
+    "source": {
+      "page": 16,
+      "extrait": "POLYCONDENSATION DANS LE MOULE Résine thermodurcissable"
+    },
+    "difficulte": 3,
+    "tags": [
+      "fabrication"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/04-materiaux-conditionnement/qcm-039",
+    "type": "multiple",
+    "enonce": "Les plastifiants ajoutés aux plastomères :",
+    "options": [
+      "Augmentent la dureté et le poids",
+      "Ajoutent de la flexibilité au matériau",
+      "Ajoutent de la souplesse au matériau",
+      "Évitent le développement des moisissures",
+      "Retardent l'oxydation thermique"
+    ],
+    "correctes": [
+      1,
+      2
+    ],
+    "explication": "Plastifiants : souplesse et flexibilité. Antioxydants : retardent l'oxydation thermique ; charges : dureté, poids ; antifongiques : moisissures.",
+    "source": {
+      "page": 17,
+      "extrait": "Plastifiants => Ils ajoutent de la souplesse et de la flexibilité au matériau"
+    },
+    "difficulte": 1,
+    "tags": [
+      "adjuvants plastiques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/04-materiaux-conditionnement/qcm-040",
+    "type": "multiple",
+    "enonce": "Associez chaque adjuvant des plastomères à son rôle :",
+    "options": [
+      "Stabilisants : prévenir une altération par la chaleur ou la lumière",
+      "Antifongiques : éviter le développement des champignons et moisissures",
+      "Antioxydants : retarder l'oxydation thermique au cours de la transformation",
+      "Charges : augmenter la dureté, le poids ou la résistance à la rupture et au déchirement",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes ces associations correspondent au cours.",
+    "source": {
+      "page": 18,
+      "extrait": "Charges => Afin d'augmenter la dureté, le poids ou la résistance à la rupture et au déchirement"
+    },
+    "difficulte": 2,
+    "tags": [
+      "adjuvants plastiques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/04-materiaux-conditionnement/qcm-041",
+    "type": "unique",
+    "enonce": "L'adjuvant des plastomères destiné à retarder l'oxydation thermique au cours de la transformation est :",
+    "options": [
+      "Le colorant",
+      "La charge",
+      "Le plastifiant",
+      "Le stabilisant",
+      "L'antioxydant"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Antioxydants : leur but est de retarder l'oxydation thermique au cours de la transformation. Les stabilisants préviennent l'altération par la chaleur ou la lumière.",
+    "source": {
+      "page": 18,
+      "extrait": "Anti-oxydants: Leur but est de retarder l'oxydation thermique au cours de la transformation"
+    },
+    "difficulte": 2,
+    "tags": [
+      "adjuvants plastiques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/04-materiaux-conditionnement/qcm-042",
+    "type": "multiple",
+    "enonce": "D'après le tableau des matières thermoplastiques, le polyéthylène haute densité (PEHD) :",
+    "options": [
+      "Est stérilisable par la vapeur",
+      "A une résistance ++",
+      "N'est pas transparent",
+      "Est utilisé pour les récipients rigides",
+      "Est aussi appelé PEBP"
+    ],
+    "correctes": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "PEHD (PEBP) : étanchéité +/-, transparence -, résistance ++, non stérilisable par la vapeur, récipient rigide.",
+    "source": {
+      "page": 19,
+      "extrait": "Poly Ethylène Haute Densité PEHD (PEBP) +/- - ++ - Récipient rigide"
+    },
+    "difficulte": 2,
+    "tags": [
+      "thermoplastiques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/04-materiaux-conditionnement/qcm-043",
+    "type": "multiple",
+    "enonce": "D'après le tableau, le polyéthylène basse densité (PEBD) :",
+    "options": [
+      "Est transparent (+)",
+      "Est utilisé pour les récipients souples",
+      "Est stérilisable par la vapeur",
+      "Est aussi appelé PEHP",
+      "N'est pas étanche (-)"
+    ],
+    "correctes": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "explication": "PEBD (PEHP) : étanchéité -, transparence +, résistance +, non stérilisable vapeur, récipient souple.",
+    "source": {
+      "page": 19,
+      "extrait": "Poly Ethylène Basse Densité PEBD (PEHP) - + + - Récipient souple"
+    },
+    "difficulte": 2,
+    "tags": [
+      "thermoplastiques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/04-materiaux-conditionnement/qcm-044",
+    "type": "unique",
+    "enonce": "D'après le tableau des thermoplastiques, le seul matériau noté « + » pour la stérilisation par la vapeur est :",
+    "options": [
+      "Le PEHD",
+      "Le PEBD",
+      "Le PET",
+      "Le PVC",
+      "Le polypropylène"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Stérilisable par vapeur : PEHD -, PEBD -, PET -, polypropylène +, PVC +/-.",
+    "source": {
+      "page": 19,
+      "extrait": "Polypropylène +/- + + + Matériel médico-chirurgical"
+    },
+    "difficulte": 2,
+    "tags": [
+      "thermoplastiques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/04-materiaux-conditionnement/qcm-045",
+    "type": "multiple",
+    "enonce": "Le polypropylène :",
+    "options": [
+      "A une étanchéité +/-",
+      "Est utilisé pour les blisters et poches de perfusion",
+      "Est opaque (-)",
+      "Est utilisé pour le matériel médico-chirurgical",
+      "Est stérilisable par la vapeur"
+    ],
+    "correctes": [
+      0,
+      3,
+      4
+    ],
+    "explication": "Polypropylène : étanchéité +/-, transparence +, résistance +, stérilisable vapeur +, matériel médico-chirurgical.",
+    "source": {
+      "page": 19,
+      "extrait": "Polypropylène +/- + + + Matériel médico-chirurgical"
+    },
+    "difficulte": 2,
+    "tags": [
+      "thermoplastiques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/04-materiaux-conditionnement/qcm-046",
+    "type": "multiple",
+    "enonce": "Le PET (polyéthylène téréphtalate) :",
+    "options": [
+      "Est transparent (+)",
+      "Est utilisé pour les flacons et films",
+      "A une résistance ++",
+      "Est étanche (+)",
+      "Est stérilisable par la vapeur"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "PET : étanchéité +, transparence +, résistance ++, non stérilisable vapeur, flacon et film.",
+    "source": {
+      "page": 19,
+      "extrait": "PET : Polyéthylène téréphtalate + + ++ - Flacon, film"
+    },
+    "difficulte": 2,
+    "tags": [
+      "thermoplastiques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/04-materiaux-conditionnement/qcm-047",
+    "type": "multiple",
+    "enonce": "Le PVC (polychlorure de vinyle) :",
+    "options": [
+      "Est utilisé pour les poches de perfusion et sachets",
+      "Est un matériau thermodurcissable",
+      "Est transparent",
+      "A une étanchéité +/-, améliorée (++) avec le PVDC",
+      "Est utilisé pour les blisters"
+    ],
+    "correctes": [
+      0,
+      2,
+      3,
+      4
+    ],
+    "explication": "PVC : étanchéité +/- (++ avec PVDC), transparence +, résistance +, stérilisable vapeur +/- ; blister, poche de perfusion, sachet. C'est un thermoplastique.",
+    "source": {
+      "page": 19,
+      "extrait": "PVC : PolyVinyle Chlorure +/- ++(+PVDC) + + +/- Blister, poche perfusion, sachet"
+    },
+    "difficulte": 2,
+    "tags": [
+      "thermoplastiques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/04-materiaux-conditionnement/qcm-048",
+    "type": "multiple",
+    "enonce": "Le PVDC :",
+    "options": [
+      "Améliore l'étanchéité du PVC",
+      "Est un élastomère naturel",
+      "Est le polychlorure de vinylidène",
+      "Est un revêtement imperméable aux gaz",
+      "Est appelé aussi Saran"
+    ],
+    "correctes": [
+      0,
+      2,
+      3,
+      4
+    ],
+    "explication": "PVDC : polychlorure de vinylidène, appelé Saran, revêtement imperméable aux gaz ; associé au PVC, l'étanchéité passe à ++.",
+    "source": {
+      "page": 19,
+      "extrait": "PVDC : PolyChlorure de Vinylidène appelé aussi Saran est un revêtement imperméable aux gaz"
+    },
+    "difficulte": 2,
+    "tags": [
+      "thermoplastiques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/04-materiaux-conditionnement/qcm-049",
+    "type": "multiple",
+    "enonce": "D'après les exemples illustrés dans le cours :",
+    "options": [
+      "Le flacon unidose est en PEBD",
+      "Le cathéter est en PTFE",
+      "Le bouchon d'inviolabilité est en PET",
+      "La poche de perfusion est en PVC",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Exemples : flacon PEHD, flacon unidose PEBD, blister PVC-PVDC-Alu, blister Alu-Alu (strip), poche perfusion PVC, seringue PVC, cathéter PTFE, bouchon PET d'inviolabilité.",
+    "source": {
+      "page": 20,
+      "extrait": "Cathéter PTFE Bouchon PET d'inviolabilité"
+    },
+    "difficulte": 2,
+    "tags": [
+      "exemples"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/04-materiaux-conditionnement/qcm-050",
+    "type": "multiple",
+    "enonce": "Les matières thermodurcissables :",
+    "options": [
+      "Sont peu utilisées",
+      "Comprennent les aminoplastes et phénoplastes utilisés pour bouchons, colles et adhésifs",
+      "Sont infusibles",
+      "Comprennent le polypropylène",
+      "Sont insolubles"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explication": "Thermodurcissables : insolubles, infusibles, peu utilisées ; aminoplastes et phénoplastes (bouchons, colles, adhésifs) ; polyesters et polyuréthanne (revêtement protecteur). Le polypropylène est thermoplastique.",
+    "source": {
+      "page": 23,
+      "extrait": "Matières thermodurcissables Insolubles, infusibles Peu utilisées"
+    },
+    "difficulte": 2,
+    "tags": [
+      "thermodurcissables"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/04-materiaux-conditionnement/qcm-051",
+    "type": "unique",
+    "enonce": "Les polyesters et le polyuréthanne sont utilisés comme :",
+    "options": [
+      "Cathéters",
+      "Poches de perfusion",
+      "Flacons rigides",
+      "Revêtement protecteur",
+      "Bouchons, colles et adhésifs"
+    ],
+    "correctes": [
+      3
+    ],
+    "explication": "Polyesters et polyuréthanne (thermodurcissables) : revêtement protecteur ; aminoplastes et phénoplastes : bouchons, colles et adhésifs.",
+    "source": {
+      "page": 23,
+      "extrait": "Polyesters et polyuréthanne Revêtement protecteur"
+    },
+    "difficulte": 2,
+    "tags": [
+      "thermodurcissables"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/04-materiaux-conditionnement/qcm-052",
+    "type": "multiple",
+    "enonce": "Les élastomères :",
+    "options": [
+      "Comprennent le caoutchouc de silicone (polymère de diméthylsiloxane)",
+      "Comprennent les caoutchoucs naturels (latex d'hévéa)",
+      "Sont employés pour les bouchons et les joints",
+      "Comprennent des caoutchoucs synthétiques (bromobutyle, chlorobutyle)",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Élastomères : caoutchoucs naturels (latex d'hévéa), synthétiques (bromobutyle, chlorobutyle…), de silicone (diméthylsiloxane) ; emploi : bouchons, joints.",
+    "source": {
+      "page": 24,
+      "extrait": "Caoutchoucs naturels (latex d'hévéa), synthétiques (bromobutyle, chlorobutyle..) et de silicone"
+    },
+    "difficulte": 1,
+    "tags": [
+      "élastomères"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/04-materiaux-conditionnement/qcm-053",
+    "type": "unique",
+    "enonce": "Le caoutchouc de silicone est un polymère de :",
+    "options": [
+      "Bromobutyle",
+      "Latex d'hévéa",
+      "Téréphtalate d'éthylène",
+      "Diméthylsiloxane",
+      "Chlorure de vinyle"
+    ],
+    "correctes": [
+      3
+    ],
+    "explication": "Le silicone est un polymère de diméthylsiloxane.",
+    "source": {
+      "page": 24,
+      "extrait": "silicone (polymère de dimethylsiloxane)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "élastomères"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/04-materiaux-conditionnement/qcm-054",
+    "type": "multiple",
+    "enonce": "Les propriétés de l'aluminium comme matériau de conditionnement sont :",
+    "options": [
+      "Malléable",
+      "Inerte et étanche",
+      "Opaque",
+      "Léger",
+      "Atoxique"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Aluminium : léger, malléable, inerte, étanche, opaque, atoxique.",
+    "source": {
+      "page": 25,
+      "extrait": "Propriétés : Léger, malléable, inerte, étanche, opaque, atoxique"
+    },
+    "difficulte": 1,
+    "tags": [
+      "aluminium"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/04-materiaux-conditionnement/qcm-055",
+    "type": "multiple",
+    "enonce": "L'aluminium est employé pour :",
+    "options": [
+      "Les blisters et strips",
+      "Les flacons pressurisés pour aérosol",
+      "Les poches de perfusion transparentes",
+      "Les tubes pour pommade",
+      "Les opercules"
+    ],
+    "correctes": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "explication": "Emplois de l'aluminium : blisters, strips, tubes pour pommade, opercule, flacon pressurisé pour aérosol… Il est opaque, donc pas pour une poche transparente (en PVC).",
+    "source": {
+      "page": 25,
+      "extrait": "Emploi : blisters, strips , tubes pour pommade, opercule, flacon pressurisé pour aérosol"
+    },
+    "difficulte": 1,
+    "tags": [
+      "aluminium"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/04-materiaux-conditionnement/qcm-056",
+    "type": "multiple",
+    "enonce": "Les revêtements :",
+    "options": [
+      "Comprennent vernis, peintures, silicones et paraffines",
+      "Protègent le contenu d'un contact avec le contenant",
+      "Sont des substances qui couvrent l'intérieur et/ou l'extérieur du récipient",
+      "Protègent le contenu des agents extérieurs",
+      "Sont des associations de plusieurs films de natures différentes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Revêtements : substances couvrant l'intérieur et/ou l'extérieur du récipient pour protéger le contenu (du contenant ou des agents extérieurs) ; ex : vernis, peintures, silicones, paraffines. Les associations de films sont les complexes.",
+    "source": {
+      "page": 26,
+      "extrait": "Exemple de revêtement : vernis, peintures, silicones, paraffines"
+    },
+    "difficulte": 2,
+    "tags": [
+      "revêtements"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/04-materiaux-conditionnement/qcm-057",
+    "type": "multiple",
+    "enonce": "Les complexes :",
+    "options": [
+      "Sont des associations de plusieurs films de natures différentes",
+      "Chaque film complète ou compense les propriétés de l'autre",
+      "Ont pour exemple les feuilles d'Alu-PE",
+      "Sont des vernis appliqués à l'extérieur du flacon",
+      "Servent au conditionnement unitaire des comprimés et suppositoires"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explication": "Complexes : associations de films, chacun complétant ou compensant l'autre ; ex : feuilles Alu-PE pour le conditionnement unitaire des comprimés et suppositoires.",
+    "source": {
+      "page": 26,
+      "extrait": "Complexes sont des associations de plusieurs films de différentes natures, chaque film complétant ou compensant les propriétés de l'autre"
+    },
+    "difficulte": 2,
+    "tags": [
+      "complexes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/04-materiaux-conditionnement/qcm-058",
+    "type": "multiple",
+    "enonce": "Le conditionnement secondaire :",
+    "options": [
+      "Comprend l'étiquetage",
+      "Comprend les notices et livrets",
+      "Comprend les étuis en carton",
+      "Est le support d'identification et de marketing du médicament",
+      "Comprend la vignette"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Secondaire : support d'identification et de marketing ; étiquetage, étuis en carton, notices et livrets, accessoires (parfois), vignette.",
+    "source": {
+      "page": 27,
+      "extrait": "C'est le support d'identification et de marketing du médicament"
+    },
+    "difficulte": 1,
+    "tags": [
+      "conditionnement secondaire"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/04-materiaux-conditionnement/qcm-059",
+    "type": "multiple",
+    "enonce": "Le conditionnement tertiaire :",
+    "options": [
+      "Correspond aux dernières étapes d'emballage avant l'envoi aux clients",
+      "Comprend la mise en caisse ou en palette pour le transport",
+      "Comprend la notice",
+      "Comprend la mise en fardeau",
+      "Est en contact direct avec le médicament"
+    ],
+    "correctes": [
+      0,
+      1,
+      3
+    ],
+    "explication": "Tertiaire : dernières étapes d'emballage avant envoi aux clients : fardeau, caisse, palette pour le transport.",
+    "source": {
+      "page": 29,
+      "extrait": "Il comprend la mise en fardeau, en caisse ou en palette pour le transport"
+    },
+    "difficulte": 1,
+    "tags": [
+      "conditionnement tertiaire"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/04-materiaux-conditionnement/qcm-060",
+    "type": "multiple",
+    "enonce": "Parmi les éléments suivants, lesquels appartiennent au conditionnement secondaire ?",
+    "options": [
+      "La palette",
+      "La vignette",
+      "Le blister",
+      "L'étui en carton",
+      "La notice"
+    ],
+    "correctes": [
+      1,
+      3,
+      4
+    ],
+    "explication": "Notice, étui et vignette relèvent du secondaire ; le blister est primaire ; la palette est tertiaire.",
+    "source": {
+      "page": 27,
+      "extrait": "Etiquetage Notices Etuis en carton et livrets Accessoires (parfois) Vignette"
+    },
+    "difficulte": 1,
+    "tags": [
+      "conditionnement secondaire"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/04-materiaux-conditionnement/qcm-061",
+    "type": "multiple",
+    "enonce": "Cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "L'aluminium est transparent",
+      "Le verre de type II convient aux préparations basiques",
+      "Les thermodurcissables sont très utilisés et fusibles",
+      "Le PEHD est transparent",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Type II : toutes préparations sauf basiques ; PEHD : transparence - ; thermodurcissables : infusibles et peu utilisés ; aluminium : opaque.",
+    "source": {
+      "page": 12,
+      "extrait": "Toutes préparations sauf basiques"
+    },
+    "difficulte": 2,
+    "tags": [
+      "synthèse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/04-materiaux-conditionnement/qcm-062",
+    "type": "multiple",
+    "enonce": "Parmi les matériaux suivants, lesquels sont des thermoplastiques ?",
+    "options": [
+      "Phénoplastes",
+      "Polypropylène",
+      "PVC",
+      "Polyéthylène",
+      "PET"
+    ],
+    "correctes": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "PEHD, PEBD, PET, polypropylène et PVC sont des thermoplastiques ; aminoplastes, phénoplastes, polyesters et polyuréthanne sont thermodurcissables.",
+    "source": {
+      "page": 19,
+      "extrait": "Matières thermoplastiques"
+    },
+    "difficulte": 2,
+    "tags": [
+      "synthèse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/04-materiaux-conditionnement/qcm-063",
+    "type": "multiple",
+    "enonce": "Concernant le blister PVC-PVDC-Alu :",
+    "options": [
+      "L'aluminium y apporte opacité et étanchéité",
+      "Le PVDC améliore l'étanchéité du PVC",
+      "Il associe un plastique (PVC), un revêtement imperméable aux gaz (PVDC) et un métal (aluminium)",
+      "C'est un conditionnement primaire",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le PVC a une étanchéité +/- améliorée par le PVDC (imperméable aux gaz) ; l'aluminium est opaque et étanche ; le blister est au contact du comprimé (primaire).",
+    "source": {
+      "page": 20,
+      "extrait": "Blister PVC-PVDC-Alu"
+    },
+    "difficulte": 3,
+    "tags": [
+      "synthèse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/04-materiaux-conditionnement/qcm-064",
+    "type": "multiple",
+    "enonce": "Le verre et les plastiques comparés :",
+    "options": [
+      "Le verre est fragile aux chocs",
+      "Le PEBD est peu étanche",
+      "Les plastiques ont une haute plasticité",
+      "Le verre a une imperméabilité absolue",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Verre : imperméabilité et étanchéité absolues, fragile ; plastiques : haute plasticité ; PEBD : étanchéité -.",
+    "source": {
+      "page": 10,
+      "extrait": "Fragilité vis-à-vis des chocs et des variations de température"
+    },
+    "difficulte": 2,
+    "tags": [
+      "synthèse"
+    ],
+    "origine": "genere"
+  }
+]

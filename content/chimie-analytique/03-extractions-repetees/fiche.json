@@ -1,0 +1,59 @@
+{
+  "id": "chimie-analytique/03-extractions-repetees/fiche-001",
+  "titre": "Extractions répétées",
+  "sections": [
+    {
+      "titre": "Principe",
+      "points": [
+        "Le raffiné est ré-extrait par du **solvant pur** à chaque étage ; les extraits sont réunis (ΣQB) et concentrés.",
+        "Hypothèses : étages théoriques, pas de perte, VB égaux ou non."
+      ]
+    },
+    {
+      "titre": "Équations",
+      "points": [
+        "λ constant à chaque étage ; αi = λVBi/VA.",
+        "Étage i : QA(i−1) = QAi + QBi ; somme : **QA0 = ΣQB + QAn**."
+      ]
+    },
+    {
+      "titre": "Rendement",
+      "points": [
+        "Cas général : **QAn = QA0/Π(1+αi)** ; ρ = 1 − 1/Π(1+αi).",
+        "Volumes égaux : **ρ = 1 − 1/(1 + λVB/VA)ⁿ** (ou D au lieu de λ).",
+        "ρ croît avec n. Exemple pénicilline : 3 × (1/5) → 98,40 % vs 1 × (3/5) → 90 %."
+      ]
+    },
+    {
+      "titre": "Volume limité",
+      "points": [
+        "VB total = n·vB ; **ρ = 1 − 1/(1 + λVB/(nVA))ⁿ**.",
+        "ρ ↑ avec n mais moins vite ; le temps perdu ↑ → optimisation : log(1−ρ) = −n·log(1 + λVB/(nVA)), courbes f(VB) et f(n)."
+      ]
+    },
+    {
+      "titre": "Distribution irrégulière",
+      "points": [
+        "Méthode graphique : droites parallèles CB = −(VA/VB)(CA − CA(i−1)), points M1…Mn ; QAn = CAn·VA."
+      ]
+    },
+    {
+      "titre": "Mise en œuvre",
+      "points": [
+        "Ampoules à décanter ou surtout **extraction continue** (perforateurs de **Jalade**, deux types selon la densité du solvant).",
+        "Avantage : moins de solvant ; inconvénient : extrait chauffé."
+      ]
+    }
+  ],
+  "aRetenir": [
+    "Fraction restante après n étages = 1/(1+α)ⁿ.",
+    "À volume total égal, plusieurs petites extractions > une grosse.",
+    "QA0 = ΣQB + QAn."
+  ],
+  "pieges": [
+    "Ne pas confondre volume VB à chaque étage (α = λVB/VA) et volume total limité (α = λVB/(nVA)).",
+    "En extraction répétée le solvant est PUR à chaque étage (contrairement au contre-courant).",
+    "Le rendement n'est jamais exactement 100 %.",
+    "Le chauffage est l'inconvénient de l'extraction CONTINUE."
+  ]
+}

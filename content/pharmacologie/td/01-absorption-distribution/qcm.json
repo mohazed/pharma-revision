@@ -1,0 +1,706 @@
+[
+  {
+    "id": "pharmacologie/td/01-absorption-distribution/qcm-001",
+    "type": "multiple",
+    "enonce": "Exercice 1 – Un médicament acide de pKa = 3 diffuse passivement (pH gastrique = 2, pH intestinal = 6, pH sanguin = 7). Selon l'équation de Henderson-Hasselbalch pour un acide :",
+    "options": [
+      "Seule la fraction non ionisée traverse les membranes",
+      "Un acide faible s'ionise davantage en milieu acide",
+      "pH = pKa + log [forme non ionisée]/[forme ionisée]",
+      "pH = pKa + log [forme ionisée]/[forme non ionisée]",
+      "Un acide faible s'ionise davantage en milieu alcalin"
+    ],
+    "correctes": [
+      0,
+      3,
+      4
+    ],
+    "explication": "Pour un acide : pH = pKa + log [I]/[NI]. Seule la fraction non ionisée traverse les membranes ; un acide faible s'ionise plus en milieu alcalin, ce qui limite son passage.",
+    "source": {
+      "page": 1,
+      "extrait": "Compte tenue d'une diffusion passive d'un médicament à caractère acide de Pka = 3."
+    },
+    "difficulte": 1,
+    "tags": [
+      "Henderson-Hasselbalch"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/01-absorption-distribution/qcm-002",
+    "type": "multiple",
+    "enonce": "Exercice 1 – Dans l'estomac (pH = 2) pour l'acide de pKa = 3 :",
+    "options": [
+      "La forme ionisée est 10 fois plus abondante que la forme non ionisée",
+      "[I]/[NI] = 0,1",
+      "log [I]/[NI] = −1",
+      "Environ 91 % du médicament est sous forme non ionisée",
+      "La forme non ionisée est majoritaire"
+    ],
+    "correctes": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "pH − pKa = 2 − 3 = −1 → [I]/[NI] = 10⁻¹ = 0,1 : la forme non ionisée est 10 fois plus abondante (NI = 1/1,1 ≈ 91 %).",
+    "source": {
+      "page": 1,
+      "extrait": "PH gastrique = 2"
+    },
+    "difficulte": 2,
+    "tags": [
+      "ionisation",
+      "calcul"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/01-absorption-distribution/qcm-003",
+    "type": "multiple",
+    "enonce": "Exercice 1 – Dans l'intestin (pH = 6) pour l'acide de pKa = 3 :",
+    "options": [
+      "Le passage transmembranaire est favorisé",
+      "[I]/[NI] = 0,001",
+      "[I]/[NI] = 1000",
+      "La forme ionisée est très majoritaire",
+      "La fraction non ionisée est d'environ 0,1 %"
+    ],
+    "correctes": [
+      2,
+      3,
+      4
+    ],
+    "explication": "pH − pKa = 3 → [I]/[NI] = 10³ = 1000 : forme ionisée très majoritaire (NI ≈ 1/1001 ≈ 0,1 %), passage limité.",
+    "source": {
+      "page": 1,
+      "extrait": "PH intestinal = 6"
+    },
+    "difficulte": 2,
+    "tags": [
+      "ionisation",
+      "calcul"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/01-absorption-distribution/qcm-004",
+    "type": "unique",
+    "enonce": "Exercice 1 – Dans le sang (pH = 7), le rapport [forme ionisée]/[forme non ionisée] de l'acide (pKa = 3) vaut :",
+    "options": [
+      "0,0001",
+      "10",
+      "10 000",
+      "1000",
+      "1"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "pH − pKa = 7 − 3 = 4 → [I]/[NI] = 10⁴ = 10 000.",
+    "source": {
+      "page": 1,
+      "extrait": "PH sanguin = 7"
+    },
+    "difficulte": 2,
+    "tags": [
+      "ionisation",
+      "calcul"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/01-absorption-distribution/qcm-005",
+    "type": "multiple",
+    "enonce": "Exercice 1 – Concernant le site d'absorption de cet acide (pKa = 3) par voie orale :",
+    "options": [
+      "Sa forme non ionisée est majoritaire dans l'estomac",
+      "L'estomac est un lieu favorable pour les médicaments acides faibles (forme non ionisée liposoluble)",
+      "Il est absorbé préférentiellement au niveau gastrique",
+      "Il est absorbé préférentiellement au niveau intestinal car le pH y favorise sa forme non ionisée",
+      "Il s'agit d'un acide faible selon la théorie de diffusion par le pH (2,5 < pKa < 7,5)"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explication": "pKa = 3 : acide faible (2,5 < pKa < 7,5), dont l'absorption dépend du pH. À pH 2, la forme non ionisée liposoluble domine : absorption gastrique. À pH 6, il est fortement ionisé.",
+    "source": {
+      "page": 1,
+      "extrait": "déduisez son site d'absorption lors de la prise par voie orale."
+    },
+    "difficulte": 2,
+    "tags": [
+      "site d'absorption"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/01-absorption-distribution/qcm-006",
+    "type": "multiple",
+    "enonce": "Exercice 1 – L'administration simultanée d'un antiacide :",
+    "options": [
+      "Diminue l'absorption gastrique de ce médicament",
+      "Augmente l'absorption gastrique de ce médicament",
+      "N'a aucun effet car seul le pKa compte",
+      "Augmente l'ionisation de l'acide dans l'estomac",
+      "Augmente le pH gastrique"
+    ],
+    "correctes": [
+      0,
+      3,
+      4
+    ],
+    "explication": "L'antiacide élève le pH gastrique ; l'acide faible s'ionise davantage en milieu moins acide, la fraction non ionisée diminue et l'absorption gastrique diminue.",
+    "source": {
+      "page": 1,
+      "extrait": "L'administration simultanée d'un antiacide modifie-t-elle l'absorption de ce médicament ?"
+    },
+    "difficulte": 2,
+    "tags": [
+      "antiacide",
+      "interaction"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/01-absorption-distribution/qcm-007",
+    "type": "multiple",
+    "enonce": "Concernant la théorie de diffusion par le pH (cours d'absorption, appliquée à l'exercice 1) :",
+    "options": [
+      "Acide faible (2,5 < pKa < 7,5) : absorption dépendante du pH",
+      "Acide très faible (pKa > 7,5) : absorption indépendante du pH",
+      "Base faible (5 < pKa < 11) : absorption dépendante du pH",
+      "Acide fort (pKa < 2,5) : absorption limitée",
+      "Toutes les propositions sont justes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Ce sont les catégories de la théorie de diffusion par le pH ; s'y ajoutent les bases très faibles (pKa < 5, indépendante du pH) et les bases fortes (pKa > 11, limitée).",
+    "source": {
+      "page": 1,
+      "extrait": "Compte tenue d'une diffusion passive d'un médicament à caractère acide de Pka = 3."
+    },
+    "difficulte": 2,
+    "tags": [
+      "théorie du pH"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/01-absorption-distribution/qcm-008",
+    "type": "multiple",
+    "enonce": "Une base faible (pKa = 8) administrée par voie orale :",
+    "options": [
+      "Est fortement ionisée dans l'estomac",
+      "Est mieux absorbée au niveau intestinal",
+      "Est absorbée préférentiellement dans l'estomac",
+      "Diffuse d'autant mieux que le pH est élevé",
+      "A une absorption dépendante du pH"
+    ],
+    "correctes": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "explication": "Une base faible s'ionise plus en milieu acide (estomac) ; peu ionisée en milieu alcalin, elle diffuse mieux quand le pH est élevé (intestin). 5 < pKa < 11 : absorption dépendante du pH.",
+    "source": {
+      "page": 1,
+      "extrait": "Etudier la répartition à l'équilibre de sa forme ionisée et non ionisée"
+    },
+    "difficulte": 2,
+    "tags": [
+      "base faible"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/01-absorption-distribution/qcm-009",
+    "type": "multiple",
+    "enonce": "Exercice 2 – Un médicament X (100 mg, voie orale) : f = 0,9 ; E intestinal = 0,1 ; E hépatique = 0,3 ; E pulmonaire = 0,1. Par voie orale :",
+    "options": [
+      "Il ne subit aucun effet de premier passage",
+      "Le médicament subit un effet de premier passage intestinal",
+      "Il subit un effet de premier passage hépatique",
+      "Il subit un effet de premier passage pulmonaire",
+      "La biodisponibilité dépend de f et des coefficients d'extraction"
+    ],
+    "correctes": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Par voie orale, l'EPP est intestinal, hépatique et pulmonaire ; la biodisponibilité résulte de la résorption (f) et des pertes par premier passage (F = f(1 − E) appliqué à chaque organe).",
+    "source": {
+      "page": 1,
+      "extrait": "Coefficient d'absorption : 0,9 ; Coefficient d'extraction intestinale : 0,1 ; hépatique : 0,3 ; pulmonaire : 0,1"
+    },
+    "difficulte": 1,
+    "tags": [
+      "effet de premier passage"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/01-absorption-distribution/qcm-010",
+    "type": "unique",
+    "enonce": "Exercice 2 – La biodisponibilité du médicament X par voie orale est :",
+    "options": [
+      "0,729",
+      "0,63",
+      "0,5103",
+      "0,9",
+      "0,4"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "F = f × (1 − Ei) × (1 − Eh) × (1 − Ep) = 0,9 × 0,9 × 0,7 × 0,9 = 0,5103, soit 51,03 %.",
+    "source": {
+      "page": 1,
+      "extrait": "Calculez sa biodisponibilité et la quantité qui arrive au niveau de la circulation sanguine."
+    },
+    "difficulte": 2,
+    "tags": [
+      "biodisponibilité",
+      "calcul"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/01-absorption-distribution/qcm-011",
+    "type": "unique",
+    "enonce": "Exercice 2 – La quantité de médicament X (100 mg) qui arrive dans la circulation sanguine est d'environ :",
+    "options": [
+      "51 mg",
+      "49 mg",
+      "100 mg",
+      "90 mg",
+      "63 mg"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Q = dose × F = 100 × 0,5103 ≈ 51 mg.",
+    "source": {
+      "page": 1,
+      "extrait": "Calculez sa biodisponibilité et la quantité qui arrive au niveau de la circulation sanguine."
+    },
+    "difficulte": 2,
+    "tags": [
+      "calcul"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/01-absorption-distribution/qcm-012",
+    "type": "multiple",
+    "enonce": "Exercice 2 – Si le même médicament est administré par voie intra-artérielle :",
+    "options": [
+      "Il n'y a pas d'effet de premier passage",
+      "Il subit uniquement un effet de premier passage pulmonaire",
+      "Sa biodisponibilité est de 51 %",
+      "Sa biodisponibilité est de 100 %",
+      "Il n'y a pas d'étape d'absorption"
+    ],
+    "correctes": [
+      0,
+      3,
+      4
+    ],
+    "explication": "Selon le tableau EPP/voies : locale et intra-artérielle → absence d'EPP. Le PA est déposé directement dans la circulation : pas d'absorption, F = 1 (100 %).",
+    "source": {
+      "page": 1,
+      "extrait": "Si le même médicament est administré par voie intra-artérielle, quelle va être sa biodisponibilité ?"
+    },
+    "difficulte": 2,
+    "tags": [
+      "voie intra-artérielle"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/01-absorption-distribution/qcm-013",
+    "type": "multiple",
+    "enonce": "Selon le cours, associez la voie d'administration à la nature de l'effet de premier passage :",
+    "options": [
+      "Orale : intestinal, hépatique, pulmonaire",
+      "Sublinguale : hépatique",
+      "Rectale (veines hémorroïdales supérieures) : hépatique et pulmonaire",
+      "Intra-artérielle : absence",
+      "IV, IM, SC : pulmonaire"
+    ],
+    "correctes": [
+      0,
+      2,
+      3,
+      4
+    ],
+    "explication": "Sublinguale : EPP pulmonaire seulement (elle évite le premier passage hépatique). Les autres associations sont correctes.",
+    "source": {
+      "page": 1,
+      "extrait": "Si le même médicament est administré par voie intra-artérielle"
+    },
+    "difficulte": 2,
+    "tags": [
+      "effet de premier passage"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/01-absorption-distribution/qcm-014",
+    "type": "unique",
+    "enonce": "Par voie intraveineuse, le médicament X de l'exercice 2 subirait :",
+    "options": [
+      "Un EPP intestinal, hépatique et pulmonaire",
+      "Aucun EPP",
+      "Un EPP pulmonaire uniquement",
+      "Un EPP intestinal uniquement",
+      "Un EPP hépatique uniquement"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Voies IV, IM, SC : EPP pulmonaire. (F = 1 − 0,1 = 0,9 si l'on applique E pulmonaire.)",
+    "source": {
+      "page": 1,
+      "extrait": "Coefficient d'extraction pulmonaire : 0,1"
+    },
+    "difficulte": 2,
+    "tags": [
+      "effet de premier passage"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/01-absorption-distribution/qcm-015",
+    "type": "multiple",
+    "enonce": "Concernant l'effet de premier passage (EPP) :",
+    "options": [
+      "Il survient dès le premier contact avec l'organe responsable de la biotransformation",
+      "La glycoprotéine P participe aussi à la biodisponibilité par un phénomène d'efflux",
+      "Il peut être intestinal, hépatique ou pulmonaire",
+      "C'est une perte de médicament par métabolisme avant son arrivée dans la circulation générale",
+      "Il augmente la biodisponibilité"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "L'EPP diminue la biodisponibilité. La biodisponibilité résulte de la résorption, des effets de premier passage et de la glycoprotéine P (efflux).",
+    "source": {
+      "page": 1,
+      "extrait": "Coefficient d'extraction hépatique : 0,3"
+    },
+    "difficulte": 1,
+    "tags": [
+      "effet de premier passage"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/01-absorption-distribution/qcm-016",
+    "type": "multiple",
+    "enonce": "Exercice 3 – Après une prise orale unique, la courbe Cp = f(t) présente plusieurs pics successifs d'amplitude décroissante. Cette allure peut s'expliquer par :",
+    "options": [
+      "Un cycle entéro-hépatique",
+      "La réabsorption intestinale de dérivés déconjugués liposolubles après excrétion biliaire",
+      "Une administration réitérée",
+      "Une augmentation de la durée de séjour du PA dans l'organisme",
+      "Une injection intraveineuse"
+    ],
+    "correctes": [
+      0,
+      1,
+      3
+    ],
+    "explication": "Avec une dose unique orale, des pics secondaires traduisent un cycle entéro-hépatique : glucuronides excrétés dans la bile, déconjugués par les bactéries du côlon, puis réabsorbés, ce qui augmente la durée de séjour du PA.",
+    "source": {
+      "page": 2,
+      "extrait": "Un médicament est administré par voie orale à une dose unique."
+    },
+    "difficulte": 3,
+    "tags": [
+      "cycle entéro-hépatique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/01-absorption-distribution/qcm-017",
+    "type": "multiple",
+    "enonce": "Concernant le cycle entéro-hépatique (cours d'élimination) :",
+    "options": [
+      "Les glucuronides de PM < 300 Da sont excrétés dans les urines",
+      "Les bactéries du côlon déconjuguent ces dérivés",
+      "Les glucuronides de PM > 300 Da sont excrétés dans la bile",
+      "La cholestyramine, résine échangeuse d'ions, met fin à ce cycle",
+      "Toutes les propositions sont justes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "PM > 300 Da → bile ; PM < 300 Da → urines ; déconjugaison bactérienne colique et réabsorption ; la cholestyramine fixe le PA dans l'intestin et interrompt le cycle.",
+    "source": {
+      "page": 2,
+      "extrait": "Expliquer l'allure de la courbe."
+    },
+    "difficulte": 2,
+    "tags": [
+      "cycle entéro-hépatique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/01-absorption-distribution/qcm-018",
+    "type": "multiple",
+    "enonce": "Parmi les médicaments suivants, lesquels sont cités comme subissant un cycle entéro-hépatique ?",
+    "options": [
+      "Chloramphénicol",
+      "Lithium",
+      "Tétracycline",
+      "Rifampicine",
+      "Halotane"
+    ],
+    "correctes": [
+      0,
+      2,
+      3
+    ],
+    "explication": "Le cours cite chloramphénicol, rifampicine et tétracycline. L'halotane est éliminé par voie pulmonaire ; le lithium est cité pour l'élimination salivaire active.",
+    "source": {
+      "page": 2,
+      "extrait": "Expliquer l'allure de la courbe."
+    },
+    "difficulte": 2,
+    "tags": [
+      "cycle entéro-hépatique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/01-absorption-distribution/qcm-019",
+    "type": "unique",
+    "enonce": "Exercice 4 – On veut obtenir Cp = 1 mg/L chez un patient de 80 kg ; Vd = 15 L/kg. La dose à administrer est :",
+    "options": [
+      "5,3 mg",
+      "80 mg",
+      "120 mg",
+      "15 mg",
+      "1200 mg"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Vd = 15 × 80 = 1200 L ; Q = Cp × Vd = 1 × 1200 = 1200 mg (de Vd = Q/Cp).",
+    "source": {
+      "page": 2,
+      "extrait": "On veut amener la concentration plasmatique d'un médicament X à 1mg/l pour un patient de 80 kg."
+    },
+    "difficulte": 1,
+    "tags": [
+      "dose",
+      "calcul"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/01-absorption-distribution/qcm-020",
+    "type": "multiple",
+    "enonce": "Exercice 4 – Pour Vd = 15 L/kg (patient de 80 kg) :",
+    "options": [
+      "Le Vd total vaut 1200 L",
+      "Il témoigne d'une distribution tissulaire élevée",
+      "La distribution est limitée à la circulation sanguine",
+      "Il se situe dans la classe 1000 – 5000 l (15 – 75 l/kg)",
+      "Il est de la même classe que la chlorpromazine et l'halopéridol"
+    ],
+    "correctes": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "explication": "1200 L (15 L/kg) : classe 1000–5000 l des chlorpromazine/halopéridol ; valeur dépassant très largement le volume de l'organisme, distribution élevée.",
+    "source": {
+      "page": 2,
+      "extrait": "Le volume de distribution est de 15 l/kg."
+    },
+    "difficulte": 2,
+    "tags": [
+      "volume de distribution"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/01-absorption-distribution/qcm-021",
+    "type": "unique",
+    "enonce": "Exercice 5 – Un patient de 70 kg reçoit 500 mg IV ; la concentration plasmatique initiale est de 2 mg/L. Le Vd vaut :",
+    "options": [
+      "250 L",
+      "35 L",
+      "1000 L",
+      "3,57 L",
+      "140 L"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Vd = Q/Cp0 = 500/2 = 250 L.",
+    "source": {
+      "page": 2,
+      "extrait": "Calculer le volume de distribution apparent (Vd) du médicament X en litres."
+    },
+    "difficulte": 1,
+    "tags": [
+      "volume de distribution",
+      "calcul"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/01-absorption-distribution/qcm-022",
+    "type": "unique",
+    "enonce": "Exercice 5 – Ramené au poids (70 kg), ce Vd de 250 L vaut environ :",
+    "options": [
+      "2,5 L/kg",
+      "17,5 L/kg",
+      "0,28 L/kg",
+      "3,57 L/kg",
+      "35 L/kg"
+    ],
+    "correctes": [
+      3
+    ],
+    "explication": "250/70 ≈ 3,57 L/kg.",
+    "source": {
+      "page": 2,
+      "extrait": "Calculer le volume de distribution en L/kg."
+    },
+    "difficulte": 1,
+    "tags": [
+      "volume de distribution",
+      "calcul"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/01-absorption-distribution/qcm-023",
+    "type": "multiple",
+    "enonce": "Exercice 5 – Interprétation d'un Vd de 250 L (3,57 L/kg) :",
+    "options": [
+      "La distribution est limitée au plasma",
+      "Il témoigne d'une distribution élevée dans l'organisme",
+      "Il dépasse très largement le volume total de l'organisme",
+      "Il se situe dans la classe 200 – 1000 l (3 – 15 l/kg)",
+      "Même classe que la digoxine et la péthidine"
+    ],
+    "correctes": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "250 L (3,57 L/kg) : classe 200–1000 l (digoxine, péthidine) ; valeur supérieure au volume de l'organisme, traduisant une distribution tissulaire importante.",
+    "source": {
+      "page": 2,
+      "extrait": "Interpréter le résultat obtenu."
+    },
+    "difficulte": 2,
+    "tags": [
+      "volume de distribution",
+      "interprétation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/01-absorption-distribution/qcm-024",
+    "type": "multiple",
+    "enonce": "Concernant la dose de charge de l'exercice 5 :",
+    "options": [
+      "La concentration initiale de 2 mg/L correspond à C0",
+      "Vd = dose / concentration initiale",
+      "Elle permet d'atteindre rapidement la concentration souhaitée",
+      "Vd = concentration initiale / dose",
+      "Elle a été administrée par voie intraveineuse"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explication": "Par voie IV, Vd = Q/Cp0 avec Q = 500 mg et Cp0 = 2 mg/L ; la dose de charge permet d'atteindre rapidement la concentration souhaitée.",
+    "source": {
+      "page": 2,
+      "extrait": "Un patient de 70 kg reçoit une dose de charge de 500 mg d'un médicament X par voie intraveineuse."
+    },
+    "difficulte": 1,
+    "tags": [
+      "dose de charge"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/01-absorption-distribution/qcm-025",
+    "type": "multiple",
+    "enonce": "Au niveau de l'estomac, cochez les caractéristiques défavorables à l'absorption :",
+    "options": [
+      "Présence de villosités et grande surface (200 m²)",
+      "Faible vascularisation (0,2 L/min)",
+      "Muqueuse épaisse",
+      "Dégradation de certains composés (pénicilline G)",
+      "Faible surface de contact"
+    ],
+    "correctes": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "L'estomac est un lieu peu favorable (muqueuse épaisse, faible surface, faible vascularisation, pH acide, dégradation de certains composés) mais favorable aux acides faibles. Les villosités et les 200 m² caractérisent l'intestin grêle.",
+    "source": {
+      "page": 1,
+      "extrait": "Etudier la répartition à l'équilibre de sa forme ionisée et non ionisée d'un médicament de part et d'autre de la muqueuse gastrique et intestinale."
+    },
+    "difficulte": 1,
+    "tags": [
+      "estomac"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/01-absorption-distribution/qcm-026",
+    "type": "multiple",
+    "enonce": "L'intestin grêle est le site le plus important de l'absorption car :",
+    "options": [
+      "Sa muqueuse est épaisse",
+      "Sa vascularisation est forte (1 L/min)",
+      "La bile accroît la solubilisation des PA",
+      "Sa surface est très grande (200 m², 4–5 m)",
+      "Son pH (5 à 8) favorise la forme non ionisée des bases faibles"
+    ],
+    "correctes": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Grande surface, forte vascularisation, pH 5–8, transporteurs, bile ; membrane fine (et non épaisse).",
+    "source": {
+      "page": 1,
+      "extrait": "PH intestinal = 6"
+    },
+    "difficulte": 1,
+    "tags": [
+      "intestin grêle"
+    ],
+    "origine": "genere"
+  }
+]

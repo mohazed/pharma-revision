@@ -1,0 +1,13 @@
+{
+  "id": "chimie-analytique/02-extraction-liquide-liquide",
+  "module": "chimie-analytique",
+  "ordre": 2,
+  "titre": "Extraction liquide-liquide : partage et extraction simple",
+  "type": "cours",
+  "source": {
+    "driveId": "1sNJLip_8WR-o8HK-kv8ClGaGTVpofIDN",
+    "fichier": "2. Extraction Liquide-Liquide.pdf",
+    "modifiedTime": "2026-11-11T12:38:26.551Z"
+  },
+  "resume": "Transfert de phase par un solvant non miscible : coefficient de partage (loi de Berthelot-Jungfleisch), taux de distribution, rapport de quantité α, rendement et étude quantitative de l'extraction simple (distribution régulière et irrégulière)."
+}

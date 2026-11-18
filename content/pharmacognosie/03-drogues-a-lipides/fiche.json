@@ -1,0 +1,62 @@
+{
+  "id": "pharmacognosie/03-drogues-a-lipides/fiche-001",
+  "titre": "Drogues à lipides",
+  "sections": [
+    {
+      "titre": "Généralités",
+      "points": [
+        "Lipides (« lipos ») : esters d'AG + alcool/polyol ; hydrophobes, parfois amphiphiles, **non volatils**.",
+        "**Simples** : glycérides (TAG), stérides (AG + stérol, très rares : ergostérol), cérides (cires). **Complexes** : phospholipides (lécithines, céphalines), glycolipides. **Composés à caractère lipidique** sans AG : icosanoïdes, isoprénoïdes.",
+        "AG : 14–20 C (surtout 16/18) ; C < 12 lait/beurre ; C > 24 cires ; **ricinoléique** (hydroxylé, 90 % du ricin) ; hydnocarpique et chaulmoogrique (cyclopenténiques).",
+        "Stockage en **oléosomes** (RE) ; péricarpe d'olive, avocat, laurier."
+      ]
+    },
+    {
+      "titre": "Propriétés",
+      "points": [
+        "TG : émulsions instables, saponification, auto-oxydation → rancissement (peroxydes, aldéhydes) ou siccativation.",
+        "AG : C < 10 liquides, C > 10 solides ; insaturés absorbent l'UV ; savons ; esters plus volatils (CPG)."
+      ]
+    },
+    {
+      "titre": "Obtention et raffinage",
+      "points": [
+        "Pression (presses à vis, après cuisson) ou solvants (miscella + farine déshuilée).",
+        "Raffinage : **démucilagination** (lécithines, protéines), neutralisation, **décoloration** (terres, charbon), **décirage** (tournesol, maïs, coton), **désodorisation** (vapeur, 200 °C)."
+      ]
+    },
+    {
+      "titre": "Contrôle",
+      "points": [
+        "Drogue : tache grasse résistant à 105 °C, Soudan III, gravimétrie.",
+        "Huile : méthodes physiques (densité, PF, réfraction, viscosité…) et chimiques.",
+        "**I. acide** : mg KOH/g (acidité libre) ; **I. saponification** : mg KOH/g (AG totaux, longueur) ; **I. iode** : g I2/100 g (siccatives 150–190, demi 100–150, non 75–100) ; **I. peroxyde** : rancissement précoce ; **insaponifiable**."
+      ]
+    },
+    {
+      "titre": "Drogues d'intérêt pharmaceutique",
+      "points": [
+        "Injectables : **olive** (Oleaceae, oléique 56–85 %), **arachide** (Fabaceae, α-tocophérol 65 % de l'insaponifiable), **ricin** (Euphorbiaceae, ricinoléique 90 %, purgatif proscrit, toxique).",
+        "Perfusion : **soja** (Fabaceae) émulsion H/E 10–20 % (Intralipide), lécithines ; γ-tocophérol majoritaire.",
+        "AGE : **onagre** (Onagraceae), **bourrache** (Boraginaceae, γ-linolénique 18–25 %).",
+        "Insaponifiables : **avocat** (Lauraceae), **tocophérols**, **Prunus africana** (Tadenan, HBP), **Serenoa repens** (Permixon, HBP).",
+        "Suppositoires : **beurre de cacao** (Sterculiaceae), **coco/coprah** (Arecaceae) → glycérides semi-synthétiques.",
+        "Dermopharmacie : **amande** (Rosaceae ; amara = amygdaloside cyanogène), **argan** (Argania spinosa)."
+      ]
+    }
+  ],
+  "aRetenir": [
+    "Indice d'iode = insaturation ; indice de saponification = longueur des chaînes ; indice de peroxyde = rancissement précoce.",
+    "Ricin : 90 % d'acide ricinoléique, purgatif drastique à proscrire.",
+    "Tadenan = Prunier d'Afrique ; Permixon = Palmier de Floride.",
+    "Huile de soja = alimentation parentérale (émulsion H/E 10–20 %)."
+  ],
+  "pieges": [
+    "Céphalines MOINS répandues que les lécithines chez les plantes.",
+    "Stérides très rares chez les végétaux ; les cires sont des cérides.",
+    "Esters d'AG plus volatils que les acides.",
+    "α-tocophérol majoritaire dans l'arachide, γ-tocophérol dans le soja.",
+    "Bourrache = Boraginaceae (pas Onagraceae) ; ricin = Euphorbiaceae (pas Fabaceae).",
+    "Coprah = albumen SOLIDE ; lait de coco = partie liquide."
+  ]
+}

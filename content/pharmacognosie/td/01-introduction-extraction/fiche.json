@@ -1,0 +1,39 @@
+{
+  "id": "pharmacognosie/td/01-introduction-extraction/fiche-001",
+  "titre": "TD 1 – Introduction à la pharmacognosie et méthodes d'extraction",
+  "sections": [
+    {
+      "titre": "Points clés des QCM",
+      "points": [
+        "Méfiez-vous des termes absolus (« nécessairement », « exclusivement », « systématiquement », « suffit à garantir ») : ils signalent souvent une proposition fausse.",
+        "Drogue végétale : plante entière, partie ou suc, souvent séchée ; entière, fragmentée ou pulvérisée.",
+        "Stratégies : ethnopharmacologique (usages traditionnels), chimiotaxonomique (espèces apparentées), criblage, empirique.",
+        "Récolte adaptée à l'organe ; dessiccation = baisse de l'eau, limite enzymes et microbes.",
+        "Contrôle : identité, pureté, dosages, éléments étrangers ; sur la matière première."
+      ]
+    },
+    {
+      "titre": "Préparations à base de plantes",
+      "points": [
+        "**Alcoolatures** : plantes fraîches + alcool ; **teintures alcooliques** : plantes sèches + alcool.",
+        "**Huiles essentielles** : hydrodistillation ; **sucs** : expression de tissus frais ; **extraits** : solvant ± concentration."
+      ]
+    },
+    {
+      "titre": "Application extraction",
+      "points": [
+        "Usage traditionnel antipaludique → sélection ethnopharmacologique.",
+        "Molécules polaires → solvants polaires (eau, éthanol, méthanol, hydroalcoolique 70–80 %).",
+        "Molécules thermolabiles → éviter décoction et Soxhlet ; préférer la macération à température ambiante."
+      ]
+    }
+  ],
+  "aRetenir": [
+    "Alcoolature = frais ; teinture = sec.",
+    "Thermolabile = pas de chauffage."
+  ],
+  "pieges": [
+    "Le criblage n'est pas limité aux plantes traditionnelles.",
+    "Une humidité relative élevée est défavorable à la conservation."
+  ]
+}

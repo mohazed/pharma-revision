@@ -1,0 +1,24 @@
+[
+  {
+    "id": "pharmacie-galenique/12-sterilisation-partie-2/calcul-001",
+    "titre": "Conversion de dose d'irradiation",
+    "enonce": "Une dose d'irradiation de {kgy} kGy correspond à combien de mégarads (Mrad) ? (1 Gy = 100 rad)",
+    "variables": {
+      "kgy": {
+        "min": 10,
+        "max": 50,
+        "pas": 5,
+        "unite": "kGy"
+      }
+    },
+    "formule": "kgy * 1000 * 100 / 1000000",
+    "unite": "Mrad",
+    "decimales": 2,
+    "etapes": [
+      "Convertir en Gy : kGy × 1 000",
+      "Convertir en rad : Gy × 100",
+      "Convertir en Mrad : rad / 1 000 000"
+    ],
+    "rappel": "Dose de référence : 25 kGy ; 1 Gy = 100 rad (donc 25 kGy = 2,5 Mrad)."
+  }
+]

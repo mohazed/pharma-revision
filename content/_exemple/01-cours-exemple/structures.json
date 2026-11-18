@@ -1,0 +1,4 @@
+[
+  { "id": "_exemple/01-cours-exemple/structure-001", "nom": "Acide acétylsalicylique", "smiles": "CC(=O)OC1=CC=CC=C1C(=O)O", "classe": "Salicylé", "question": "Quelle est cette molécule ?", "options": ["Paracétamol", "Acide acétylsalicylique", "Ibuprofène", "Caféine", "Diazépam"], "correctes": [1], "explication": "Ester acétique de l'acide salicylique : c'est l'aspirine." },
+  { "id": "_exemple/01-cours-exemple/structure-002", "nom": "Caféine", "smiles": "CN1C=NC2=C1C(=O)N(C(=O)N2C)C", "classe": "Base xanthique", "question": "À quelle famille appartient cette molécule ?", "options": ["Benzodiazépines", "Bases xanthiques", "Phénothiazines", "Barbituriques", "Salicylés"], "correctes": [1], "explication": "La caféine est une triméthylxanthine." }
+]

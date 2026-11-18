@@ -1,0 +1,12 @@
+{
+  "id": "chimie-therapeutique/04-antidepresseurs-partie-1",
+  "module": "chimie-therapeutique",
+  "ordre": 4,
+  "titre": "Les antidépresseurs – Partie 1",
+  "type": "cours",
+  "source": {
+    "driveId": "1puwe_M8jNiCUHyNPTL9GWpCvBvlES-dY",
+    "fichier": "4.1 Antidepresseurs - Partie 1.pdf"
+  },
+  "resume": "Dépression et hypothèse monoaminergique, mode d'action général des antidépresseurs, classifications chimique, biochimique et thérapeutique, et étude des antidépresseurs tricycliques (séries imipramine et amitriptyline, synthèse de l'amitriptyline)."
+}

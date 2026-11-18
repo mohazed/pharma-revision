@@ -1,0 +1,14 @@
+[
+  {
+    "id": "pharmacologie/td/01-absorption-distribution/mnemo-001",
+    "titre": "Acide en milieu acide",
+    "moyen": "« Acide chez l'acide = Absorbé »",
+    "explication": "Un acide faible est peu ionisé en milieu acide (estomac) et y diffuse bien ; une base faible diffuse mieux en milieu alcalin (intestin)."
+  },
+  {
+    "id": "pharmacologie/td/01-absorption-distribution/mnemo-002",
+    "titre": "EPP oral",
+    "moyen": "« I-H-P : Intestin, Hépatique, Poumon »",
+    "explication": "Par voie orale, le médicament traverse successivement l'intestin, le foie puis le poumon : F = f(1 − Ei)(1 − Eh)(1 − Ep)."
+  }
+]

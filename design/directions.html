@@ -1,0 +1,879 @@
+<title>Directions PharmaRévision</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Nunito:wght@400;600;700;800&family=Manrope:wght@600;700;800&family=Outfit:wght@500;600;700&family=Caveat:wght@600;700&family=Kalam:wght@400;700&family=Patrick+Hand&family=Source+Sans+3:wght@400;600;700&family=Space+Grotesk:wght@500;600;700&family=Chakra+Petch:wght@500;600;700&family=Orbitron:wght@600;700&family=IBM+Plex+Sans:wght@400;500;600&family=Fredoka:wght@500;600;700&family=Quicksand:wght@500;600;700&family=Baloo+2:wght@600;700;800&family=Schibsted+Grotesk:wght@500;600;700;800&display=swap">
+<style>
+/* Mise en page : en-tête court, sélecteur de 4 directions, puis atelier [maquette | panneau de configuration]. */
+:root{
+  --bg:#f3f5f4; --panel:#ffffff; --ink:#16201c; --muted:#5a6863; --line:#dbe2de; --accent:#0d7a5e; --accent-soft:#e1f1eb;
+  --f-display:"Schibsted Grotesk", "Inter", system-ui, sans-serif;
+  --f-body:"Inter", system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#0e1311; --panel:#161d1a; --ink:#e5ece9; --muted:#93a29c; --line:#28322e; --accent:#52d0a6; --accent-soft:#163229; color-scheme:dark;
+}}
+:root[data-theme="dark"]{
+  --bg:#0e1311; --panel:#161d1a; --ink:#e5ece9; --muted:#93a29c; --line:#28322e; --accent:#52d0a6; --accent-soft:#163229; color-scheme:dark;
+}
+*{box-sizing:border-box}
+body{background:var(--bg); color:var(--ink); font-family:var(--f-body); font-size:15px; line-height:1.5;
+  padding-left:max(16px, env(safe-area-inset-left, 0px)); padding-right:max(16px, env(safe-area-inset-right, 0px)); padding-block:28px 48px}
+.wrap{max-width:1320px; margin:0 auto; display:flex; flex-direction:column; gap:28px}
+button{font:inherit; color:inherit}
+:focus-visible{outline:2px solid var(--accent); outline-offset:2px}
+
+.hero{display:flex; flex-direction:column; gap:8px; max-width:760px}
+.eyebrow-o{font-size:12px; letter-spacing:.12em; text-transform:uppercase; color:var(--accent); font-weight:600}
+.hero h1{font-family:var(--f-display); font-size:clamp(28px, 4vw, 40px); line-height:1.1; margin:0; font-weight:800; text-wrap:balance}
+.hero p{margin:0; color:var(--muted); max-width:65ch}
+
+.dirs{display:grid; grid-template-columns:repeat(4, minmax(0,1fr)); gap:14px}
+@media (max-width:1050px){.dirs{grid-template-columns:repeat(2, minmax(0,1fr))}}
+@media (max-width:560px){.dirs{grid-template-columns:minmax(0,1fr)}}
+.dcard{all:unset; box-sizing:border-box; cursor:pointer; background:var(--panel); border:1.5px solid var(--line); border-radius:14px; overflow:hidden; display:flex; flex-direction:column; transition:border-color .2s, transform .2s, box-shadow .2s}
+.dcard:hover{transform:translateY(-2px)}
+.dcard:focus-visible{outline:2px solid var(--accent); outline-offset:2px}
+.dcard[aria-pressed="true"]{border-color:var(--accent); box-shadow:0 0 0 3px var(--accent-soft)}
+.dprev{height:96px; position:relative; display:flex; align-items:center; gap:12px; padding:0 16px; overflow:hidden}
+.dprev .aa{font-size:34px; line-height:1}
+.dprev .sw{display:flex; gap:5px; margin-left:auto}
+.dprev .sw i{width:16px; height:16px; border-radius:50%; display:block; box-shadow:inset 0 0 0 1px rgba(0,0,0,.12)}
+.dprev svg{width:34px; height:40px}
+.dbody{padding:14px 16px 16px; display:flex; flex-direction:column; gap:6px}
+.dnum{font-size:12px; color:var(--muted); font-weight:600; letter-spacing:.06em; text-transform:uppercase}
+.dname{font-family:var(--f-display); font-size:19px; font-weight:700; margin:0}
+.dline{font-size:13.5px; color:var(--muted); margin:0}
+.dpros{font-size:12.5px; margin:4px 0 0; padding:0; list-style:none; display:flex; flex-direction:column; gap:2px}
+.dpros li::before{content:"+ "; color:var(--accent); font-weight:700}
+.dpros li.minus::before{content:"– "; color:#c2553a}
+
+.work{display:grid; grid-template-columns:minmax(0,1fr) 340px; gap:20px; align-items:start}
+@media (max-width:980px){.work{grid-template-columns:minmax(0,1fr)}}
+.stagebox{background:var(--panel); border:1px solid var(--line); border-radius:16px; padding:14px; display:flex; flex-direction:column; gap:14px; min-width:0}
+.toolbar{display:flex; flex-wrap:wrap; gap:10px; justify-content:space-between; align-items:center}
+.seg{display:inline-flex; flex-wrap:wrap; background:var(--bg); border:1px solid var(--line); border-radius:10px; padding:3px; gap:2px}
+.seg button{border:0; background:transparent; padding:7px 12px; border-radius:7px; cursor:pointer; font-size:13.5px; font-weight:500; color:var(--muted)}
+.seg button[aria-pressed="true"]{background:var(--panel); color:var(--ink); box-shadow:0 1px 3px rgba(0,0,0,.12); font-weight:600}
+.stage{display:flex; justify-content:center; padding:18px 0 8px; min-height:500px; background:
+  radial-gradient(circle at 1px 1px, var(--line) 1px, transparent 1.5px) 0 0/18px 18px; border-radius:12px}
+
+.panel{background:var(--panel); border:1px solid var(--line); border-radius:16px; padding:18px; display:flex; flex-direction:column; gap:18px; position:sticky; top:calc(env(safe-area-inset-top, 0px) + 12px)}
+@media (max-width:980px){.panel{position:static}}
+.panel h2{font-family:var(--f-display); font-size:18px; margin:0}
+.panel .sub{font-size:13px; color:var(--muted); margin:-12px 0 0}
+.ctl{display:flex; flex-direction:column; gap:8px}
+.ctl-l{font-size:12px; letter-spacing:.08em; text-transform:uppercase; color:var(--muted); font-weight:600}
+.pals{display:grid; grid-template-columns:repeat(2, minmax(0,1fr)); gap:8px}
+.pal{border:1.5px solid var(--line); background:var(--bg); border-radius:10px; padding:8px 10px; display:flex; align-items:center; gap:8px; cursor:pointer; font-size:13.5px; text-align:left}
+.pal[aria-pressed="true"]{border-color:var(--accent); background:var(--accent-soft)}
+.pal span.d{display:flex}
+.pal span.d i{width:14px; height:14px; border-radius:50%; display:block; margin-right:-4px; box-shadow:0 0 0 2px var(--panel)}
+.seg.full{display:flex}
+.seg.full button{flex:1}
+.fontbtn{font-size:15px !important}
+.sw-row{display:flex; justify-content:space-between; align-items:center; gap:10px; font-size:14px}
+.switch{position:relative; width:42px; height:24px; flex:none}
+.switch input{position:absolute; inset:0; opacity:0; margin:0; cursor:pointer}
+.switch span{position:absolute; inset:0; background:var(--line); border-radius:99px; transition:background .2s; pointer-events:none}
+.switch span::after{content:""; position:absolute; top:3px; left:3px; width:18px; height:18px; border-radius:50%; background:#fff; transition:transform .2s; box-shadow:0 1px 2px rgba(0,0,0,.25)}
+.switch input:checked + span{background:var(--accent)}
+.switch input:checked + span::after{transform:translateX(18px)}
+.switch input:focus-visible + span{outline:2px solid var(--accent); outline-offset:2px}
+.summary{border-top:1px solid var(--line); padding-top:16px; display:flex; flex-direction:column; gap:8px}
+.sumtxt{font-family:ui-monospace, "SF Mono", Menlo, monospace; font-size:12.5px; background:var(--bg); border:1px solid var(--line); border-radius:10px; padding:10px 12px; line-height:1.55; word-break:break-word; width:100%; resize:none; color:var(--ink)}
+.sumbtns{display:flex; gap:8px}
+.obtn{border:1px solid var(--line); background:var(--bg); border-radius:9px; padding:8px 14px; cursor:pointer; font-weight:600; font-size:13.5px}
+.obtn.primary{background:var(--accent); color:var(--panel); border-color:var(--accent)}
+.note{font-size:12.5px; color:var(--muted); margin:0}
+.foot-o{font-size:13px; color:var(--muted); text-align:center}
+
+/* ============ Cadres (téléphone / ordinateur) ============ */
+.phone{width:min(390px, 100%); height:780px; border-radius:44px; padding:10px; background:#111; box-shadow:0 30px 60px -20px rgba(0,0,0,.45), inset 0 0 0 2px #333; position:relative}
+.phone .screen{width:100%; height:100%; border-radius:35px; overflow:hidden; position:relative; container-type:inline-size}
+.phone .notch{position:absolute; top:18px; left:50%; transform:translateX(-50%); width:96px; height:26px; background:#111; border-radius:20px; z-index:20}
+.browser{width:100%; max-width:1000px; height:700px; border-radius:12px; overflow:hidden; background:#1b1b1d; box-shadow:0 30px 60px -24px rgba(0,0,0,.4); display:flex; flex-direction:column; border:1px solid var(--line)}
+.browser .bar{height:36px; display:flex; align-items:center; gap:7px; padding:0 12px; background:#232326; flex:none}
+.browser .bar i{width:11px; height:11px; border-radius:50%; background:#555; display:block}
+.browser .bar i:nth-child(1){background:#ff5f57} .browser .bar i:nth-child(2){background:#febc2e} .browser .bar i:nth-child(3){background:#28c840}
+.browser .url{margin-left:14px; flex:1; max-width:420px; background:#151517; color:#aaa; font-size:12px; border-radius:6px; padding:4px 10px; font-family:var(--f-body)}
+.browser .screen{flex:1; min-height:0; position:relative; container-type:inline-size}
+
+/* ============ Application maquette ============ */
+.app{position:absolute; inset:0; display:flex; background:var(--a-bg); color:var(--a-ink); font-family:var(--bfont); font-size:14px; line-height:1.45; overflow:hidden;
+  --soft:color-mix(in oklab, var(--a-accent) 14%, var(--a-surface));
+  --ease:cubic-bezier(.2,.8,.2,1);
+}
+.app[data-anim="ludique"]{--ease:cubic-bezier(.34,1.56,.64,1)}
+.app *{box-sizing:border-box}
+.app-bg{position:absolute; inset:0; pointer-events:none; z-index:0}
+.app[data-pattern="off"] .app-bg{display:none}
+.app-main{flex:1; min-width:0; display:flex; flex-direction:column; position:relative; z-index:1}
+.app-top{display:flex; align-items:center; gap:10px; padding:14px 16px 8px; flex:none}
+.phone .app-top{padding-top:50px}
+.brand{font-family:var(--hfont); font-weight:800; font-size:calc(17px * var(--hs)); letter-spacing:-.01em; display:flex; align-items:center; gap:8px; color:var(--a-ink)}
+.brand svg{width:26px; height:26px; color:var(--a-accent)}
+.top-ic{margin-left:auto; display:flex; gap:8px}
+.icbtn{width:34px; height:34px; display:grid; place-items:center; border-radius:var(--rb); background:var(--a-surface); border:1px solid var(--a-line); color:var(--a-muted)}
+.icbtn svg{width:17px; height:17px}
+.app-body{flex:1; overflow-y:auto; padding:8px 16px 0; display:flex; flex-direction:column; gap:14px; scrollbar-width:thin}
+.app-foot{text-align:center; font-size:11.5px; color:var(--a-muted); padding:8px 0 16px; margin-top:auto}
+.app-tabs{display:none; flex:none; border-top:1px solid var(--a-line); background:var(--a-surface); padding:6px 6px 16px; justify-content:space-around}
+.app-tabs button, .side-nav button{all:unset; cursor:pointer; display:flex; flex-direction:column; align-items:center; gap:2px; font-size:10.5px; color:var(--a-muted); padding:4px 8px; border-radius:10px}
+.app-tabs button svg{width:21px; height:21px}
+.app-tabs button[aria-current="true"]{color:var(--a-accent-ink); font-weight:700}
+.app-tabs button:focus-visible, .side-nav button:focus-visible{outline:2px solid var(--a-accent)}
+.app-side{width:220px; flex:none; border-right:1px solid var(--a-line); background:var(--a-surface); display:flex; flex-direction:column; padding:18px 12px; gap:18px; position:relative; z-index:1}
+.side-nav{display:flex; flex-direction:column; gap:3px}
+.side-nav button{flex-direction:row; gap:10px; font-size:13.5px; padding:9px 12px; border-radius:calc(var(--r) * .7)}
+.side-nav button svg{width:18px; height:18px}
+.side-nav button[aria-current="true"]{background:var(--soft); color:var(--a-accent-ink); font-weight:700}
+.side-foot{margin-top:auto; font-size:11.5px; color:var(--a-muted); padding:0 8px}
+.app[data-device="mobile"] .app-side{display:none}
+.app[data-device="mobile"] .app-tabs{display:flex}
+@container (max-width:640px){ .app[data-device="desktop"] .app-side{display:none} .app[data-device="desktop"] .app-tabs{display:flex} }
+.app[data-device="desktop"] .app-body{padding:8px 28px 0}
+.app[data-device="desktop"] .app-top .brand{visibility:hidden}
+@container (max-width:640px){ .app[data-device="desktop"] .app-top .brand{visibility:visible} }
+
+.h1{font-family:var(--hfont); font-weight:800; font-size:calc(22px * var(--hs)); line-height:1.15; margin:0; letter-spacing:-.01em; text-wrap:balance}
+.h2{font-family:var(--hfont); font-weight:700; font-size:calc(16px * var(--hs)); margin:0}
+.eyebrow{font-size:11px; letter-spacing:.1em; text-transform:uppercase; color:var(--a-muted); font-weight:600}
+.muted{color:var(--a-muted)}
+.card{background:var(--a-surface); border:1px solid var(--a-line); border-radius:var(--r); padding:14px; position:relative}
+.btn{all:unset; box-sizing:border-box; cursor:pointer; font-family:var(--hfont); font-weight:700; font-size:calc(14px * min(var(--hs), 1.15)); border-radius:var(--rb); padding:11px 18px; background:var(--a-accent); color:var(--on-accent); text-align:center; transition:transform calc(var(--dur)*.5) var(--ease), filter .2s, box-shadow .2s; display:inline-flex; align-items:center; justify-content:center; gap:6px}
+.btn:hover{filter:brightness(1.06)}
+.btn:active{transform:scale(.96)}
+.btn:focus-visible{outline:2px solid var(--a-ink); outline-offset:2px}
+.btn.ghost{background:transparent; color:var(--a-accent-ink); box-shadow:inset 0 0 0 1.5px var(--a-line)}
+.btn[disabled]{opacity:.45; cursor:not-allowed}
+.btn.block{display:flex; width:100%}
+.chip{display:inline-flex; align-items:center; gap:5px; font-size:11.5px; font-weight:700; padding:4px 10px; border-radius:var(--rb); background:var(--soft); color:var(--a-accent-ink)}
+.tnum{font-variant-numeric:tabular-nums}
+
+/* Accueil */
+.row2{display:grid; grid-template-columns:1fr 1fr; gap:12px}
+.count-boxes{display:flex; gap:6px; margin-top:8px}
+.count-boxes div{flex:1; background:var(--soft); border-radius:calc(var(--r)*.6); padding:6px 0; text-align:center; display:flex; flex-direction:column}
+.count-boxes b{font-family:var(--hfont); font-size:calc(20px * min(var(--hs),1.2)); line-height:1.1; color:var(--a-accent-ink)}
+.count-boxes span{font-size:10px; color:var(--a-muted)}
+.lbl{font-size:11px; color:var(--a-muted); font-weight:600; text-transform:uppercase; letter-spacing:.08em}
+.count-title{font-weight:700; margin-top:2px; font-size:13px}
+.streak{display:flex; flex-direction:column; gap:6px}
+.streak .big{font-family:var(--hfont); font-size:calc(28px * min(var(--hs),1.2)); line-height:1}
+.flame{width:30px; height:30px; color:#f08a24}
+.app[data-anim="ludique"] .flame{animation:flick 1.4s ease-in-out infinite; transform-origin:50% 90%}
+@keyframes flick{0%,100%{transform:scale(1) rotate(-2deg)}50%{transform:scale(1.12) rotate(3deg)}}
+.week{display:flex; gap:4px}
+.week span{flex:1; text-align:center; font-size:10px; color:var(--a-muted); display:flex; flex-direction:column; align-items:center; gap:2px}
+.week span i{width:14px; height:14px; border-radius:50%; background:var(--a-line); display:block}
+.week span.on i{background:var(--a-accent)}
+.resume{display:flex; align-items:center; gap:12px}
+.resume .grow{flex:1; min-width:0}
+.caps{height:10px; border-radius:99px; background:var(--a-line); overflow:hidden; margin-top:7px; position:relative}
+.caps > i{display:block; height:100%; width:0; border-radius:inherit; background:linear-gradient(90deg, var(--a-accent), var(--a-accent2)); transition:width calc(var(--dur)*2.2) var(--ease); position:relative; overflow:hidden}
+.caps > i::after{content:""; position:absolute; inset:0 0 50% 0; background:rgba(255,255,255,.28); border-radius:99px}
+.sec-h{display:flex; align-items:baseline; justify-content:space-between; gap:8px; margin-top:2px}
+.mods{display:grid; grid-template-columns:repeat(2, minmax(0,1fr)); gap:10px}
+.app[data-device="desktop"] .mods{grid-template-columns:repeat(3, minmax(0,1fr))}
+@container (max-width:640px){ .app[data-device="desktop"] .mods{grid-template-columns:repeat(2, minmax(0,1fr))} }
+.mod{display:flex; flex-direction:column; align-items:flex-start; gap:6px; padding:12px; cursor:pointer; transition:transform calc(var(--dur)*.6) var(--ease), box-shadow .2s}
+.mod:hover{transform:translateY(-3px)}
+.mod .g{width:52px; height:60px}
+.mod .g svg{width:100%; height:100%; overflow:visible}
+.mod .mn{font-weight:700; font-size:13px; line-height:1.2}
+.mod .mp{font-size:11.5px; color:var(--a-muted)}
+.mod .mp b{color:var(--mc-ink); font-weight:800}
+.mod-head{display:flex; align-items:flex-end; justify-content:space-between; width:100%}
+.mod-head .pct{font-family:var(--hfont); font-weight:800; font-size:calc(18px * min(var(--hs),1.2)); color:var(--mc-ink)}
+.liq{transition:transform calc(var(--dur)*2.6) var(--ease)}
+.wave{animation:wave 3s linear infinite}
+.app[data-anim="sobre"] .wave{animation:none}
+@keyframes wave{to{transform:translateX(30px)}}
+.bub{opacity:0}
+.app[data-anim="normal"] .mod:hover .bub, .app[data-anim="ludique"] .bub{animation:bub 2.2s ease-in infinite}
+.bub:nth-of-type(2){animation-delay:.7s !important} .bub:nth-of-type(3){animation-delay:1.4s !important}
+@keyframes bub{0%{opacity:0; transform:translateY(0)}20%{opacity:.9}100%{opacity:0; transform:translateY(-34px)}}
+.today{display:flex; gap:8px; flex-wrap:wrap; align-items:center}
+.today .h2{flex-basis:100%}
+
+/* QCM */
+.qhead{display:flex; flex-direction:column; gap:8px}
+.crumb{font-size:12px; color:var(--a-muted)}
+.qmeta{display:flex; align-items:center; justify-content:space-between; gap:8px; font-size:12.5px}
+.badge{display:inline-flex; align-items:center; gap:6px; font-size:11.5px; font-weight:700; padding:5px 10px; border-radius:var(--rb); background:color-mix(in oklab, var(--a-accent2) 18%, var(--a-surface)); color:var(--a-ink); border:1px solid color-mix(in oklab, var(--a-accent2) 40%, transparent)}
+.badge svg{width:14px; height:14px}
+.stem{font-family:var(--hfont); font-weight:700; font-size:calc(17px * min(var(--hs),1.25)); line-height:1.3; margin:0}
+.instr{font-size:12.5px; color:var(--a-muted); font-style:italic; margin-top:-6px}
+.opts{display:flex; flex-direction:column; gap:8px; margin:0; padding:0; list-style:none}
+.opt{all:unset; box-sizing:border-box; display:flex; gap:12px; align-items:flex-start; padding:11px 12px; border:1.5px solid var(--a-line); border-radius:var(--r); background:var(--a-surface); cursor:pointer; transition:border-color .2s, background .2s, box-shadow .25s, opacity .3s; position:relative; width:100%; font-size:13.5px; line-height:1.4}
+.opt:hover{border-color:color-mix(in oklab, var(--a-accent) 50%, var(--a-line))}
+.opt:focus-visible{outline:2px solid var(--a-accent); outline-offset:2px}
+.opt .key{flex:none; width:26px; height:26px; border-radius:calc(var(--r) * .55 + 2px); display:grid; place-items:center; font-weight:800; font-size:13px; border:1.5px solid var(--a-line); color:var(--a-muted); transition:all .2s; font-family:var(--hfont)}
+.opt[aria-checked="true"]{border-color:var(--a-accent); background:var(--soft)}
+.opt[aria-checked="true"] .key{background:var(--a-accent); border-color:var(--a-accent); color:var(--on-accent)}
+.opt .tag{position:absolute; right:10px; top:-9px; font-size:10px; font-weight:800; padding:2px 8px; border-radius:99px; background:var(--ok); color:#fff; display:none}
+.opt.is-right{border-color:var(--ok); background:color-mix(in oklab, var(--ok) 12%, var(--a-surface)); box-shadow:0 0 0 3px color-mix(in oklab, var(--ok) 22%, transparent), 0 0 22px color-mix(in oklab, var(--ok) 30%, transparent); animation:pop calc(var(--dur)*1.1) var(--ease)}
+.opt.is-right .key{background:var(--ok); border-color:var(--ok); color:#fff}
+.opt.is-wrong{border-color:var(--ko); background:color-mix(in oklab, var(--ko) 11%, var(--a-surface)); animation:shake .5s ease}
+.opt.is-wrong .key{background:var(--ko); border-color:var(--ko); color:#fff}
+.opt.is-missed{border-style:dashed; border-color:var(--ok); animation:reveal calc(var(--dur)*1.4) ease .35s both}
+.opt.is-missed .tag{display:block}
+.opt.is-neutral{opacity:.6}
+.app[data-anim="ludique"] .opt.is-right{animation-name:popBig}
+.app[data-anim="ludique"] .opt.is-wrong{animation-name:shakeBig}
+.app[data-anim="sobre"] .opt.is-right, .app[data-anim="sobre"] .opt.is-wrong, .app[data-anim="sobre"] .opt.is-missed{animation:none}
+@keyframes pop{0%{transform:scale(1)}45%{transform:scale(1.025)}100%{transform:scale(1)}}
+@keyframes popBig{0%{transform:scale(1)}40%{transform:scale(1.06) rotate(-.6deg)}70%{transform:scale(.99)}100%{transform:scale(1)}}
+@keyframes shake{0%,100%{transform:translateX(0)}20%{transform:translateX(-5px)}40%{transform:translateX(5px)}60%{transform:translateX(-3px)}80%{transform:translateX(3px)}}
+@keyframes shakeBig{0%,100%{transform:translateX(0) rotate(0)}15%{transform:translateX(-9px) rotate(-1deg)}35%{transform:translateX(8px) rotate(1deg)}55%{transform:translateX(-6px)}75%{transform:translateX(4px)}}
+@keyframes reveal{from{box-shadow:0 0 0 0 color-mix(in oklab, var(--ok) 40%, transparent)}to{box-shadow:0 0 0 6px transparent}}
+.qactions{display:flex; gap:8px; align-items:center}
+.qactions .btn{flex:1}
+.kbd{font-size:11px; color:var(--a-muted); text-align:center}
+.fb{display:flex; flex-direction:column; gap:10px; animation:fbIn calc(var(--dur)*1.2) var(--ease) both}
+.app[data-anim="sobre"] .fb{animation:none}
+@keyframes fbIn{from{opacity:0; transform:translateY(10px)}to{opacity:1; transform:none}}
+.score-chip{display:flex; align-items:center; gap:10px}
+.score-chip .sc{font-family:var(--hfont); font-weight:800; font-size:calc(22px * min(var(--hs),1.2)); padding:4px 14px; border-radius:var(--rb); background:var(--soft); color:var(--a-accent-ink)}
+.score-chip .sc.full{background:color-mix(in oklab, var(--ok) 18%, var(--a-surface)); color:var(--ok-ink)}
+.score-chip .sc.zero{background:color-mix(in oklab, var(--ko) 15%, var(--a-surface)); color:var(--ko-ink)}
+.formula{font-size:11.5px; color:var(--a-muted)}
+.expl p{margin:6px 0 0; font-size:13px}
+.src{display:flex; justify-content:space-between; align-items:center; gap:8px; font-size:12.5px; margin-top:10px; padding-top:10px; border-top:1px dashed var(--a-line)}
+.src a{color:var(--a-accent-ink); font-weight:600; text-decoration:none}
+.report{all:unset; cursor:pointer; font-size:12px; color:var(--a-muted)}
+.burst{position:absolute; pointer-events:none; z-index:30}
+
+/* Résultats */
+.res-top{display:flex; flex-direction:column; align-items:center; text-align:center; gap:6px; padding:18px 14px}
+.ring{width:150px; height:150px; position:relative}
+.ring svg{width:100%; height:100%; transform:rotate(-90deg)}
+.ring .rv{position:absolute; inset:0; display:flex; flex-direction:column; align-items:center; justify-content:center}
+.ring .rv b{font-family:var(--hfont); font-size:calc(36px * min(var(--hs),1.15)); line-height:1; font-weight:800}
+.ring .rv span{font-size:12px; color:var(--a-muted)}
+.mention{font-family:var(--hfont); font-weight:700; font-size:calc(16px * min(var(--hs),1.2)); color:var(--a-accent-ink)}
+.stats{display:flex; gap:6px; flex-wrap:wrap; justify-content:center}
+.stats span{font-size:11.5px; padding:3px 9px; border-radius:99px; border:1px solid var(--a-line)}
+.stats .s-ok{color:var(--ok-ink)} .stats .s-ko{color:var(--ko-ink)}
+.brk{display:flex; flex-direction:column; gap:12px}
+.brk-row{display:flex; flex-direction:column; gap:4px}
+.brk-row .t{display:flex; justify-content:space-between; font-size:13px}
+.brk-row .t b{font-variant-numeric:tabular-nums}
+.simul{display:flex; align-items:center; gap:8px; flex-wrap:wrap; font-size:12px; color:var(--a-muted)}
+.simul button{all:unset; cursor:pointer; padding:4px 10px; border-radius:var(--rb); border:1px solid var(--a-line); font-weight:700; color:var(--a-ink)}
+.simul button[aria-pressed="true"]{background:var(--a-accent); color:var(--on-accent); border-color:var(--a-accent)}
+.simul button:focus-visible{outline:2px solid var(--a-accent)}
+.confetti{position:absolute; inset:0; pointer-events:none; overflow:hidden; z-index:40}
+.confetti i{position:absolute; top:-20px; width:16px; height:7px; border-radius:4px; display:block}
+
+/* Flashcard */
+.fc-info{display:flex; justify-content:space-between; align-items:center; font-size:12.5px}
+.fc-wrap{perspective:1100px}
+.fc{position:relative; height:260px; transform-style:preserve-3d; transition:transform calc(var(--dur)*1.5) var(--ease); cursor:pointer}
+.fc.flipped{transform:rotateY(180deg)}
+.fc-face{position:absolute; inset:0; backface-visibility:hidden; -webkit-backface-visibility:hidden; display:flex; flex-direction:column; justify-content:center; gap:12px; padding:22px; text-align:center; border-radius:var(--r); background:var(--a-surface); border:1px solid var(--a-line); box-shadow:0 14px 30px -18px rgba(0,0,0,.35)}
+.fc-back{transform:rotateY(180deg); text-align:left; justify-content:flex-start}
+.fc-q{font-family:var(--hfont); font-weight:700; font-size:calc(19px * min(var(--hs),1.25)); line-height:1.3}
+.fc-a{font-size:13.5px}
+.fc-hint{font-size:11.5px; color:var(--a-muted)}
+.fc.out{animation:cardOut calc(var(--dur)*1.1) ease forwards}
+.fc.in{animation:cardIn calc(var(--dur)*1.1) var(--ease)}
+@keyframes cardOut{to{transform:rotateY(180deg) translateX(-60%) rotate(-6deg); opacity:0}}
+@keyframes cardIn{from{transform:translateY(30px) scale(.94); opacity:0}to{transform:none; opacity:1}}
+.srs{display:grid; grid-template-columns:repeat(4, minmax(0,1fr)); gap:6px}
+.srs button{all:unset; box-sizing:border-box; cursor:pointer; text-align:center; padding:9px 4px; border-radius:var(--rb); font-weight:700; font-size:12.5px; border:1.5px solid var(--sc); color:var(--sc-ink); background:color-mix(in oklab, var(--sc) 12%, var(--a-surface)); display:flex; flex-direction:column; gap:1px; transition:transform .15s}
+.srs button small{font-weight:500; font-size:10.5px; opacity:.8}
+.srs button:active{transform:scale(.95)}
+.srs button:focus-visible{outline:2px solid var(--a-ink)}
+.stack-hint{height:10px; margin:0 14px; border-radius:0 0 var(--r) var(--r); background:var(--a-surface); border:1px solid var(--a-line); border-top:0; opacity:.7}
+.stack-hint.s2{margin:0 26px; opacity:.4}
+
+/* ===== Direction 1 : Officine moderne ===== */
+.app[data-dir="1"] .app-bg{background:var(--a-accent); opacity:.07; -webkit-mask:var(--hexmask) 0 0/42px 72px; mask:var(--hexmask) 0 0/42px 72px}
+.app[data-dir="1"] .card{border-color:transparent; box-shadow:0 1px 2px rgba(10,40,30,.06), 0 8px 24px -14px rgba(10,60,45,.25)}
+.app[data-dir="1"][data-mode="dark"] .card{border-color:var(--a-line); box-shadow:none}
+.app[data-dir="1"] .count{background:linear-gradient(135deg, var(--a-accent), var(--a-accent2)); color:var(--on-accent); border:0}
+.app[data-dir="1"] .count .lbl, .app[data-dir="1"] .count .count-boxes span{color:inherit; opacity:.8}
+.app[data-dir="1"] .count .count-boxes div{background:rgba(255,255,255,.18)}
+.app[data-dir="1"] .count .count-boxes b{color:inherit}
+
+/* ===== Direction 2 : Carnet de labo ===== */
+.app[data-dir="2"] .app-bg{background-image:linear-gradient(var(--a-line) 1px, transparent 1px), linear-gradient(90deg, color-mix(in oklab, var(--a-line) 55%, transparent) 1px, transparent 1px); background-size:20px 20px}
+.app[data-dir="2"] .app-bg::after{content:""; position:absolute; top:0; bottom:0; left:12px; width:2px; background:color-mix(in oklab, var(--a-accent2) 55%, transparent)}
+.app[data-dir="2"] .doodle{position:absolute; color:var(--a-accent); opacity:.22; fill:none; stroke:currentColor; stroke-width:1.6; stroke-linecap:round; stroke-linejoin:round}
+.app[data-dir="2"] .card{border:1.5px solid var(--a-ink); box-shadow:3px 3px 0 color-mix(in oklab, var(--a-ink) 85%, transparent)}
+.app[data-dir="2"][data-mode="dark"] .card{border-color:color-mix(in oklab, var(--a-ink) 55%, transparent); box-shadow:3px 3px 0 color-mix(in oklab, var(--a-ink) 30%, transparent)}
+.app[data-dir="2"] .mod:nth-child(odd){transform:rotate(-.6deg)} .app[data-dir="2"] .mod:nth-child(even){transform:rotate(.5deg)}
+.app[data-dir="2"] .mod:hover{transform:rotate(0) translateY(-3px)}
+.app[data-dir="2"] .count::before, .app[data-dir="2"] .fc-face::before{content:""; position:absolute; top:-9px; left:50%; width:60px; height:18px; transform:translateX(-50%) rotate(-3deg); background:color-mix(in oklab, var(--a-accent2) 30%, transparent); border-radius:2px}
+.app[data-dir="2"] .btn{box-shadow:3px 3px 0 var(--a-ink); border:1.5px solid var(--a-ink)}
+.app[data-dir="2"] .btn:active{box-shadow:1px 1px 0 var(--a-ink); transform:translate(2px,2px)}
+.app[data-dir="2"] .btn.ghost{background:var(--a-surface); color:var(--a-ink)}
+.app[data-dir="2"] .opt{border-color:color-mix(in oklab, var(--a-ink) 40%, transparent); border-style:solid}
+.app[data-dir="2"] .h1, .app[data-dir="2"] .h2{text-decoration:underline wavy color-mix(in oklab, var(--a-accent2) 60%, transparent); text-underline-offset:5px; text-decoration-thickness:1.5px}
+.app[data-dir="2"] .app-side, .app[data-dir="2"] .app-tabs{background:color-mix(in oklab, var(--a-surface) 85%, transparent)}
+
+/* ===== Direction 3 : Néon moléculaire ===== */
+.app[data-dir="3"] .app-bg{background:radial-gradient(500px 300px at 85% 0%, color-mix(in oklab, var(--a-accent) 22%, transparent), transparent 70%), radial-gradient(400px 300px at 0% 100%, color-mix(in oklab, var(--a-accent2) 22%, transparent), transparent 70%)}
+.app[data-dir="3"] .app-bg::before{content:""; position:absolute; inset:0; background:var(--a-accent); opacity:.13; -webkit-mask:var(--hexmask) 0 0/56px 96px; mask:var(--hexmask) 0 0/56px 96px}
+.app[data-dir="3"] .card, .app[data-dir="3"] .opt, .app[data-dir="3"] .fc-face{background:color-mix(in oklab, var(--a-surface) 82%, transparent); border-color:color-mix(in oklab, var(--a-accent) 28%, var(--a-line)); box-shadow:inset 0 1px 0 color-mix(in oklab, var(--a-accent) 15%, transparent), 0 0 24px -12px color-mix(in oklab, var(--a-accent) 60%, transparent); backdrop-filter:blur(6px)}
+.app[data-dir="3"] .h1, .app[data-dir="3"] .eyebrow, .app[data-dir="3"] .lbl{text-transform:uppercase; letter-spacing:.06em}
+.app[data-dir="3"][data-mode="dark"] .h1, .app[data-dir="3"][data-mode="dark"] .ring .rv b, .app[data-dir="3"][data-mode="dark"] .mod-head .pct{text-shadow:0 0 18px color-mix(in oklab, var(--a-accent) 70%, transparent)}
+.app[data-dir="3"] .btn{background:linear-gradient(90deg, var(--a-accent), var(--a-accent2)); box-shadow:0 0 22px -4px color-mix(in oklab, var(--a-accent) 70%, transparent)}
+.app[data-dir="3"] .btn.ghost{background:transparent; box-shadow:inset 0 0 0 1.5px color-mix(in oklab, var(--a-accent) 60%, transparent)}
+.app[data-dir="3"] .g svg, .app[data-dir="3"] .ring svg{filter:drop-shadow(0 0 6px color-mix(in oklab, var(--mc, var(--a-accent)) 70%, transparent))}
+.app[data-dir="3"] .app-side, .app[data-dir="3"] .app-tabs{background:color-mix(in oklab, var(--a-surface) 70%, transparent); backdrop-filter:blur(8px)}
+.app[data-dir="3"][data-anim="ludique"] .app-bg::before{animation:hexpulse 5s ease-in-out infinite}
+@keyframes hexpulse{50%{opacity:.22}}
+
+/* ===== Direction 4 : Pastel doux ===== */
+.app[data-dir="4"] .app-bg{background:radial-gradient(220px 220px at 90% 8%, color-mix(in oklab, var(--a-accent2) 35%, transparent), transparent 70%), radial-gradient(260px 260px at 5% 55%, color-mix(in oklab, var(--a-accent) 22%, transparent), transparent 70%), radial-gradient(200px 200px at 80% 95%, color-mix(in oklab, var(--a-accent2) 25%, transparent), transparent 70%)}
+.app[data-dir="4"][data-anim="ludique"] .app-bg{animation:drift 9s ease-in-out infinite alternate}
+@keyframes drift{to{background-position:-30px 20px, 30px -20px, -20px -30px}}
+.app[data-dir="4"] .card{border:0; box-shadow:0 10px 30px -16px color-mix(in oklab, var(--a-accent) 45%, transparent)}
+.app[data-dir="4"] .mod{background:color-mix(in oklab, var(--mc) 26%, var(--a-surface))}
+.app[data-dir="4"] .opt{border-color:transparent; background:color-mix(in oklab, var(--a-accent) 6%, var(--a-surface)); box-shadow:0 4px 14px -10px rgba(40,30,80,.35)}
+.app[data-dir="4"] .opt[aria-checked="true"]{border-color:var(--a-accent)}
+.app[data-dir="4"] .btn.ghost{background:var(--soft); box-shadow:none}
+
+@media (prefers-reduced-motion: reduce){
+  .app *, .app *::before, .app *::after, .dcard{animation-duration:.01ms !important; animation-iteration-count:1 !important; transition-duration:.01ms !important}
+  .wave, .bub{animation:none !important}
+}
+</style>
+
+<div class="wrap">
+  <header class="hero">
+    <span class="eyebrow-o">PharmaRévision · choix du design</span>
+    <h1>Quatre directions pour l’interface</h1>
+    <p>Chaque direction est montrée sur les quatre écrans clés de l’application : l’accueil, le lecteur de QCM, les résultats et les flashcards. Choisissez une direction, testez les écrans (le QCM et les cartes sont interactifs), puis réglez les détails dans le panneau de droite et copiez le récapitulatif.</p>
+  </header>
+
+  <section class="dirs" id="dirs" aria-label="Directions de design"></section>
+
+  <section class="work">
+    <div class="stagebox">
+      <div class="toolbar">
+        <div class="seg" id="screens" role="group" aria-label="Écran affiché"></div>
+        <div class="seg" id="devices" role="group" aria-label="Format">
+          <button type="button" id="dev-mobile" data-dev="mobile">Mobile</button>
+          <button type="button" id="dev-desktop" data-dev="desktop">Ordinateur</button>
+        </div>
+      </div>
+      <div class="stage" id="stage"></div>
+    </div>
+
+    <aside class="panel" id="panel" aria-label="Configuration"></aside>
+  </section>
+
+  <p class="foot-o">Maquettes de présentation : les données (scores, dates, progression) sont des exemples. Réalisé par Aymen Zouad.</p>
+</div>
+
+<script>
+(function(){
+const RM = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+const HEX = "url(\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='42' height='72' viewBox='0 0 42 72'%3E%3Cpath d='M21 2 39 12.5v21L21 44 3 33.5v-21z M21 44v28 M3 12.5 -15 2 M39 12.5 57 2 M3 33.5-15 44 M39 33.5 57 44' fill='none' stroke='black' stroke-width='1.6'/%3E%3C/svg%3E\")";
+document.documentElement.style.setProperty('--hexmask', HEX);
+
+const DIRS = {
+  1:{ name:'Officine moderne',
+      line:'Le comptoir d’une pharmacie récente : vert émeraude, surfaces nettes et boutons en forme de gélule.',
+      pros:['Très lisible, crédible et rassurant','Proche du plan initial'], cons:['Le plus classique des quatre'],
+      body:"'Inter', system-ui, sans-serif", fonts:['Nunito','Manrope','Outfit'], gauge:'flask',
+      palettes:{'Émeraude':['#0f9d76','#0e6f78'],'Menthe':['#25b58b','#33aeb0'],'Sarcelle':['#0b7f8a','#1f5f86'],'Jade':['#2f8f5b','#6c8a24']},
+      light:{bg:'#f4f8f6',surface:'#ffffff',ink:'#12251e',muted:'#5a6d65',line:'#dbe6e1'},
+      dark:{bg:'#0c1613',surface:'#13201c',ink:'#e3f1eb',muted:'#8ea69c',line:'#24362f'},
+      mods:['#3b82f6','#3fa34d','#f08a24','#8b5cf6','#4f46e5','#e0517a'],
+      def:{palette:'Émeraude',mode:'clair',font:'Nunito',radius:'fort',anim:'normal',modColors:true,pattern:true}},
+  2:{ name:'Carnet de labo',
+      line:'Le cahier de TP : papier quadrillé, encre, titres manuscrits et molécules griffonnées dans la marge.',
+      pros:['Forte personnalité, mémorable','On a l’impression de relire ses propres notes'], cons:['Titres manuscrits moins lisibles en petit'],
+      body:"'Source Sans 3', system-ui, sans-serif", fonts:['Caveat','Kalam','Patrick Hand'], gauge:'tube',
+      palettes:{'Encre bleue':['#1f4fa3','#c2412d'],'Sépia':['#7a4b22','#b5452c'],'Crayon vert':['#2f6f4a','#b0472f'],'Menthe':['#1d8a6f','#d0563b']},
+      light:{bg:'#f6f4ec',surface:'#fffdf7',ink:'#252f3e',muted:'#676d78',line:'#cfd9e8'},
+      dark:{bg:'#1a1e26',surface:'#222835',ink:'#ebe6d9',muted:'#a5a8b0',line:'#323a4b'},
+      mods:['#2f5fb3','#4f8a3a','#c46a1f','#7a4fb0','#3d3fa0','#c2416b'],
+      def:{palette:'Encre bleue',mode:'clair',font:'Caveat',radius:'moyen',anim:'normal',modColors:true,pattern:true}},
+  3:{ name:'Néon moléculaire',
+      line:'Sombre par défaut, hexagones lumineux et lueurs néon : pensé pour les révisions tard le soir.',
+      pros:['Confortable la nuit, effet « waouh »','Ambiance jeu, motive les séries'], cons:['Lueurs à doser, mode clair moins naturel'],
+      body:"'IBM Plex Sans', system-ui, sans-serif", fonts:['Space Grotesk','Chakra Petch','Orbitron'], gauge:'hex',
+      palettes:{'Cyan':['#22e3ff','#7c5cff'],'Magenta':['#ff4fd8','#5b8cff'],'Ultraviolet':['#a78bfa','#22d3ee'],'Ambre':['#ffb547','#ff5f6d']},
+      light:{bg:'#eef2fb',surface:'#ffffff',ink:'#0d1530',muted:'#55617f',line:'#d3dbef'},
+      dark:{bg:'#070b16',surface:'#0e1528',ink:'#e6f0ff',muted:'#8796b8',line:'#1e2a48'},
+      mods:['#4da3ff','#3dffa2','#ffa040','#b77bff','#7b7bff','#ff5c9a'],
+      def:{palette:'Cyan',mode:'sombre',font:'Space Grotesk',radius:'moyen',anim:'ludique',modColors:true,pattern:true}},
+  4:{ name:'Pastel doux',
+      line:'Formes très arrondies, une couleur pastel par module et un rythme calme pour réduire le stress avant l’EMD.',
+      pros:['Apaisant, modules très faciles à repérer','Agréable sur mobile'], cons:['Peut paraître enfantin en mode Ludique'],
+      body:"'Nunito', system-ui, sans-serif", fonts:['Fredoka','Quicksand','Baloo 2'], gauge:'capsule',
+      palettes:{'Lavande':['#8b7fd6','#f2a7c3'],'Pêche':['#e9875f','#f3c063'],'Ciel':['#5fa8d3','#8fd3bf'],'Sauge':['#6fa587','#c3b0e0']},
+      light:{bg:'#f7f5fb',surface:'#ffffff',ink:'#2d2a3e',muted:'#75718a',line:'#e7e3f0'},
+      dark:{bg:'#1c1a26',surface:'#272435',ink:'#ece9f6',muted:'#a8a3bc',line:'#37334b'},
+      mods:['#9dbef3','#ace0a2','#f7c391','#cdb6f4','#aeb4f2','#f4adc6'],
+      def:{palette:'Lavande',mode:'clair',font:'Fredoka',radius:'fort',anim:'normal',modColors:true,pattern:true}}
+};
+const HSCALE = {'Caveat':1.38,'Kalam':1.08,'Patrick Hand':1.18,'Orbitron':.84,'Chakra Petch':1.02,'Baloo 2':1.06};
+const HWEIGHT = {'Patrick Hand':400};
+const RAD = {faible:[5,7],moyen:[12,12],fort:[22,999]};
+const ANIMD = {sobre:.16,normal:.42,ludique:.62};
+const MODULES = [
+  {n:'Pharmacologie',c:10,p:.68},{n:'Pharmacognosie',c:4,p:.42},{n:'Pharmacie galénique',c:12,p:.25},
+  {n:'Chimie analytique',c:5,p:.81},{n:'Chimie thérapeutique',c:7,p:.54},{n:'Sémiologie',c:7,p:.12}
+];
+const QCM = {
+  stem:'Concernant l’administration des médicaments par voie rectale :',
+  correct:['b','d'],
+  opts:[
+    ['a','Elle permet d’éviter totalement l’effet de premier passage hépatique.'],
+    ['b','Elle est utile chez le patient qui vomit ou qui ne peut pas avaler.'],
+    ['c','L’absorption y est toujours plus rapide et plus régulière que par voie orale.'],
+    ['d','Une partie du médicament rejoint directement la circulation générale par les veines hémorroïdales inférieures et moyennes.'],
+    ['e','Les suppositoires conviennent bien aux grosses molécules protéiques.']
+  ],
+  expl:'La voie rectale est utile chez le nourrisson, le patient inconscient ou qui vomit (b). Les veines hémorroïdales inférieures et moyennes rejoignent la veine cave inférieure : cette fraction échappe à l’effet de premier passage (d). En revanche, la veine hémorroïdale supérieure draine vers la veine porte, donc l’évitement n’est que partiel (a faux). L’absorption est souvent irrégulière et incomplète (c faux), et les protéines sont mal absorbées par la muqueuse rectale (e faux).',
+  src:'Les voies d’administration, p. 12'
+};
+const SCORES = {
+  '11,5':{v:11.5, rows:[['Voies d’administration',3.5,6],['Absorption',3,5],['Distribution',3,5],['Métabolisme',2,4]], st:[9,5,6]},
+  '16,5':{v:16.5, rows:[['Voies d’administration',5,6],['Absorption',4.5,5],['Distribution',4,5],['Métabolisme',3,4]], st:[14,5,1]},
+  '19':{v:19, rows:[['Voies d’administration',6,6],['Absorption',4.5,5],['Distribution',5,5],['Métabolisme',3.5,4]], st:[18,2,0]}
+};
+const CARDS = [
+  {q:'Biodisponibilité absolue (F) : définition ?', a:'Fraction de la dose administrée qui atteint la circulation générale sous forme inchangée, par comparaison avec la voie intraveineuse (F = 1 en IV).', s:'Biodisponibilité, p. 4'},
+  {q:'Qu’est-ce que l’effet de premier passage hépatique ?', a:'Perte d’une partie du médicament lors de son premier passage par le foie (via la veine porte) avant d’atteindre la circulation générale, ce qui diminue sa biodisponibilité.', s:'Absorption, p. 9'},
+  {q:'Voie sublinguale : principal avantage ?', a:'Absorption rapide par la muqueuse buccale, drainée vers la veine cave supérieure : pas d’effet de premier passage hépatique.', s:'Les voies d’administration, p. 7'}
+];
+const SCREENS = [['accueil','Accueil'],['qcm','Lecteur QCM'],['resultats','Résultats'],['flash','Flashcard']];
+
+let state = {dir:1, screen:'accueil', device:'mobile', cfg:{}};
+for (const k in DIRS) state.cfg[k] = Object.assign({}, DIRS[k].def);
+try { const s = JSON.parse(localStorage.getItem('pr-dirs-v1')||'null'); if (s && s.cfg) { state = Object.assign(state, s); for (const k in DIRS) state.cfg[k] = Object.assign({}, DIRS[k].def, s.cfg[k]||{}); } } catch(e){}
+function save(){ try { localStorage.setItem('pr-dirs-v1', JSON.stringify(state)); } catch(e){} }
+
+let qSel = new Set(), qDone = false, resKey = '16,5', fcIdx = 0, fcFlipped = false, fcLeft = 12;
+
+/* ---------- utilitaires ---------- */
+function hexToRgb(h){ h=h.replace('#',''); return [0,2,4].map(i=>parseInt(h.substr(i,2),16)/255); }
+function lum(h){ const c=hexToRgb(h).map(v=> v<=.03928? v/12.92 : Math.pow((v+.055)/1.055,2.4)); return .2126*c[0]+.7152*c[1]+.0722*c[2]; }
+function onColor(h){ return lum(h) > .42 ? '#10151f' : '#ffffff'; }
+function fr(n){ return n.toLocaleString('fr-FR',{maximumFractionDigits:2}); }
+const $ = (s, r=document) => r.querySelector(s);
+
+const IC = {
+  home:'<path d="M3 11 12 4l9 7v9a1 1 0 0 1-1 1h-5v-6h-6v6H4a1 1 0 0 1-1-1z"/>',
+  qcm:'<rect x="4" y="3" width="16" height="18" rx="3"/><path d="m8 9 1.5 1.5L12 8M8 15l1.5 1.5L12 14M14 9.5h3M14 15.5h3"/>',
+  chart:'<path d="M4 20V10M10 20V4M16 20v-7M22 20H2"/>',
+  cards:'<rect x="3" y="6" width="14" height="15" rx="2.5"/><path d="M7 3h11.5A2.5 2.5 0 0 1 21 5.5V17"/>',
+  search:'<circle cx="11" cy="11" r="6.5"/><path d="m20 20-4-4"/>',
+  moon:'<path d="M20 14.5A8 8 0 1 1 9.5 4a6.5 6.5 0 0 0 10.5 10.5z"/>',
+  multi:'<rect x="3" y="3" width="8" height="8" rx="2"/><rect x="13" y="13" width="8" height="8" rx="2"/><path d="m5.5 7 1.5 1.5L9.5 6M15.5 17l1.5 1.5 2.5-2.5"/>',
+  book:'<path d="M4 5a2 2 0 0 1 2-2h13v16H6a2 2 0 0 0-2 2zM4 21V5"/>'
+};
+function ic(n){ return `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">${IC[n]}</svg>`; }
+const LOGO = '<svg viewBox="0 0 32 32" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 14h22a11 11 0 0 1-22 0z"/><path d="M11 27h10M18 14 25 4"/><circle cx="25.5" cy="3.8" r="1.6" fill="currentColor"/></svg>';
+const FLAME = '<svg class="flame" viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M12 2c1 3.5 5 5.7 5 11a5 5 0 0 1-10 0c0-2.2 1-3.6 2-4.6.2 1.6 1 2.6 2 3.1-.6-3.4.2-6.4 1-9.5z"/><path fill="#ffd166" d="M12 13c.6 1.4 2.2 2.1 2.2 4a2.2 2.2 0 0 1-4.4 0c0-1.2.8-2 1.4-2.4 0 .8.3 1.3.8 1.6z"/></svg>';
+
+let uidN = 0;
+function attrs(h){ return h.replace(/ (fill|stroke|stop-color)="([^"]*(?:var|color-mix)\([^"]*)"/g, ' style="$1:$2"'); }
+function gauge(shape, p, anim){
+  const id = 'g'+(++uidN);
+  const S = {
+    flask:{d:'M23 5h14v19l15 30c2.4 5-1 11-7 11H15c-6 0-9.4-6-7-11l15-30z', y0:9, y1:65},
+    tube:{d:'M20 4h20v51a10 10 0 0 1-20 0z', y0:7, y1:65},
+    hex:{d:'M30 4l25 14.5v29L30 62 5 47.5v-29z', y0:6, y1:62},
+    capsule:{d:'M30 3a15 15 0 0 1 15 15v34a15 15 0 0 1-30 0V18A15 15 0 0 1 30 3z', y0:4, y1:67}
+  }[shape];
+  const ty = S.y1 - (S.y1 - S.y0) * p;
+  let defs = `<clipPath id="c${id}"><path d="${S.d}"/></clipPath>`;
+  let fill = 'var(--mc)';
+  if (shape==='tube'){ defs += `<pattern id="h${id}" width="5" height="5" patternUnits="userSpaceOnUse" patternTransform="rotate(40)"><rect width="5" height="5" fill="var(--mc)" fill-opacity=".35"/><path d="M0 0v5" stroke="var(--mc)" stroke-width="2.2"/></pattern>`; fill = `url(#h${id})`; }
+  const back = shape==='capsule' ? `<path d="${S.d}" fill="color-mix(in oklab, var(--mc) 18%, var(--a-surface))"/>` : `<path d="${S.d}" fill="color-mix(in oklab, var(--mc) 9%, transparent)"/>`;
+  const extra = shape==='capsule' ? `<path d="M15 35h30" stroke="var(--a-surface)" stroke-width="2.5" opacity=".9"/>` : shape==='flask' ? `<path d="M20 5h20" stroke="var(--mc)" stroke-width="3" stroke-linecap="round"/>` : '';
+  const sketch = shape==='tube' ? `<path d="${S.d}" fill="none" stroke="var(--a-ink)" stroke-width="1.1" transform="translate(1.2 .8)" opacity=".45"/><path d="M17 4h26" stroke="var(--a-ink)" stroke-width="2" stroke-linecap="round"/>` : '';
+  const stroke = shape==='tube' ? 'var(--a-ink)' : 'var(--mc)';
+  return attrs(`<svg viewBox="0 0 60 70" aria-hidden="true"><defs>${defs}</defs>${back}
+    <g clip-path="url(#c${id})"><g class="liq" style="transform:translateY(${anim?72:ty}px)" data-ty="${ty}">
+      <path class="wave" d="M-60 0q7.5-3.5 15 0t15 0 15 0 15 0 15 0 15 0 15 0 15 0V80H-60z" fill="${fill}"/>
+      <circle class="bub" cx="24" cy="12" r="2" fill="var(--a-surface)"/><circle class="bub" cx="34" cy="18" r="1.5" fill="var(--a-surface)"/><circle class="bub" cx="29" cy="22" r="2.4" fill="var(--a-surface)"/>
+    </g></g>${extra}<path d="${S.d}" fill="none" stroke="${stroke}" stroke-width="2.2" stroke-linejoin="round"/>${sketch}</svg>`);
+}
+
+/* ---------- couleurs de la maquette ---------- */
+function appVars(){
+  const d = DIRS[state.dir], c = state.cfg[state.dir];
+  const base = c.mode==='sombre' ? d.dark : d.light;
+  const [a, b] = d.palettes[c.palette] || Object.values(d.palettes)[0];
+  const dark = c.mode==='sombre';
+  const [r, rb] = RAD[c.radius];
+  let accentInk = a;
+  if (!dark && lum(a) > .3) accentInk = `color-mix(in oklab, ${a} 62%, #000)`;
+  if (dark && lum(a) < .12) accentInk = `color-mix(in oklab, ${a} 55%, #fff)`;
+  const ok = state.dir==3 ? (dark?'#3dffa2':'#0f9d58') : (dark?'#4ade80':'#16a34a');
+  const ko = state.dir==3 ? (dark?'#ff5c7a':'#e11d48') : (dark?'#f87171':'#dc2626');
+  const v = {
+    '--a-bg':base.bg,'--a-surface':base.surface,'--a-ink':base.ink,'--a-muted':base.muted,'--a-line':base.line,
+    '--a-accent':a,'--a-accent2':b,'--a-accent-ink':accentInk,'--on-accent':onColor(a),
+    '--ok':ok,'--ko':ko,'--ok-ink':dark?ok:`color-mix(in oklab, ${ok} 80%, #000)`,'--ko-ink':dark?ko:`color-mix(in oklab, ${ko} 85%, #000)`,
+    '--hfont':`'${c.font}', ${d.body}`,'--bfont':d.body,'--hs':HSCALE[c.font]||1,
+    '--r':r+'px','--rb':rb+'px','--dur':ANIMD[c.anim]+'s'
+  };
+  return {v, d, c, dark, a, b};
+}
+function modColor(i, ctx){
+  const col = ctx.c.modColors ? ctx.d.mods[i] : ctx.a;
+  let ink = col;
+  if (!ctx.dark && lum(col) > .28) ink = `color-mix(in oklab, ${col} 55%, #000)`;
+  if (ctx.dark && lum(col) < .1) ink = `color-mix(in oklab, ${col} 55%, #fff)`;
+  return `--mc:${col}; --mc-ink:${ink}`;
+}
+
+/* ---------- écrans ---------- */
+function scrAccueil(ctx){
+  const now = new Date();
+  const target = new Date(2026, 11, 14, 8, 30);
+  let diff = Math.max(0, target - now); if (diff === 0) diff = 23*864e5 + 5*36e5;
+  const days = Math.floor(diff/864e5), hours = Math.floor(diff%864e5/36e5), mins = Math.floor(diff%36e5/6e4);
+  const dstr = now.toLocaleDateString('fr-FR',{weekday:'long', day:'numeric', month:'long'});
+  const wk = ['L','M','M','J','V','S','D'].map((l,i)=>`<span class="${i<5?'on':''}"><i></i>${l}</span>`).join('');
+  const mods = MODULES.map((m,i)=>`
+    <div class="card mod" style="${modColor(i,ctx)}" tabindex="0" role="button" aria-label="${m.n}, ${Math.round(m.p*100)} % maîtrisé">
+      <div class="mod-head"><div class="g">${gauge(ctx.d.gauge, m.p, true)}</div><span class="pct tnum">${Math.round(m.p*100)} %</span></div>
+      <div class="mn">${m.n}</div>
+      <div class="mp">${m.c} cours · maîtrise</div>
+    </div>`).join('');
+  return `
+    <div><div class="eyebrow">${dstr}</div><h2 class="h1">Bonjour, prêt·e à réviser ?</h2></div>
+    <div class="row2">
+      <div class="card count">
+        <div class="lbl">Prochain examen</div>
+        <div class="count-title">EMD1 · Pharmacologie</div>
+        <div class="count-boxes tnum"><div><b>${days}</b><span>jours</span></div><div><b>${hours}</b><span>heures</span></div><div><b>${mins}</b><span>min</span></div></div>
+      </div>
+      <div class="card streak">
+        <div class="lbl">Série</div>
+        <div style="display:flex;align-items:center;gap:8px">${FLAME}<div><b class="big tnum">7</b> <span class="muted">jours d’affilée</span></div></div>
+        <div class="week">${wk}</div>
+      </div>
+    </div>
+    <div class="card resume">
+      <div class="grow">
+        <div class="lbl">Reprendre</div>
+        <div style="font-weight:700;font-size:13.5px">Pharmacologie › Voies d’administration</div>
+        <div class="muted" style="font-size:12px">Entraînement · question 4 sur 20</div>
+        <div class="caps"><i data-w="20%"></i></div>
+      </div>
+      <button class="btn" type="button" data-go="qcm">Reprendre</button>
+    </div>
+    <div class="sec-h"><h3 class="h2">Mes modules</h3><span class="muted" style="font-size:12px">maîtrise moyenne 47 %</span></div>
+    <div class="mods">${mods}</div>
+    <div class="card today">
+      <h3 class="h2">À réviser aujourd’hui</h3>
+      <button class="chip" type="button" data-go="flash" style="border:0;cursor:pointer">${ic('cards').replace('<svg','<svg width="14" height="14"')} 12 cartes</button>
+      <span class="chip">5 erreurs à refaire</span>
+      <span class="chip">2 nouveaux cours</span>
+    </div>`;
+}
+function scrQcm(ctx){
+  const opts = QCM.opts.map(([k,t])=>`
+    <li><button type="button" class="opt" role="checkbox" aria-checked="${qSel.has(k)}" data-k="${k}">
+      <span class="key">${k}</span><span>${t}</span><span class="tag">Réponse attendue</span>
+    </button></li>`).join('');
+  return `
+    <div class="qhead">
+      <div class="crumb">Pharmacologie › 2. Voies d’administration</div>
+      <div class="qmeta"><b class="tnum">Question 4 / 20</b><span class="badge">${ic('multi')} Plusieurs réponses</span></div>
+      <div class="caps"><i data-w="20%"></i></div>
+    </div>
+    <p class="stem">4. ${QCM.stem}</p>
+    <div class="instr">Cochez la ou les proposition(s) correcte(s)</div>
+    <ul class="opts" id="opts">${opts}</ul>
+    <div class="qactions">
+      <button class="btn" type="button" id="qv" ${qSel.size?'':'disabled'}>Valider</button>
+    </div>
+    <div class="kbd">Raccourcis clavier : touches A à E, puis Entrée</div>
+    <div id="fb"></div>`;
+}
+function scrResultats(ctx){
+  const s = SCORES[resKey];
+  const rows = s.rows.map(([n,v,t])=>`
+    <div class="brk-row"><div class="t"><span>${n}</span><b>${fr(v)} / ${t}</b></div><div class="caps"><i data-w="${v/t*100}%"></i></div></div>`).join('');
+  const mention = s.v>=16 ? 'Très bien, continue comme ça !' : s.v>=14 ? 'Bien' : 'Encore un effort';
+  const simul = Object.keys(SCORES).map(k=>`<button type="button" data-res="${k}" aria-pressed="${k===resKey}">${k}</button>`).join('');
+  return `
+    <div><div class="eyebrow">Session terminée</div><h2 class="h1">Résultats</h2><div class="muted" style="font-size:12.5px">Pharmacologie · Entraînement · 20 questions</div></div>
+    <div class="card res-top">
+      <div class="ring">
+        <svg viewBox="0 0 120 120"><circle cx="60" cy="60" r="52" fill="none" style="stroke:var(--a-line)" stroke-width="10"/>
+          <circle id="ringc" cx="60" cy="60" r="52" fill="none" stroke="url(#rg)" stroke-width="10" stroke-linecap="round" stroke-dasharray="326.7" stroke-dashoffset="326.7" style="transition:stroke-dashoffset calc(var(--dur)*3.5) var(--ease)"/>
+          <defs><linearGradient id="rg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" style="stop-color:var(--a-accent)"/><stop offset="1" style="stop-color:var(--a-accent2)"/></linearGradient></defs></svg>
+        <div class="rv"><b class="tnum" id="ringv">0</b><span>sur 20</span></div>
+      </div>
+      <div class="mention">${mention}</div>
+      <div class="stats"><span class="s-ok">${s.st[0]} justes</span><span>${s.st[1]} partielles</span><span class="s-ko">${s.st[2]} fausses</span></div>
+    </div>
+    <div class="card brk"><h3 class="h2">Par cours</h3>${rows}</div>
+    <div class="qactions"><button class="btn" type="button" data-go="qcm">Refaire mes erreurs</button><button class="btn ghost" type="button" id="replay">Rejouer</button></div>
+    <div class="simul">Exemple de score : ${simul} <span>(confettis à partir de 16/20)</span></div>`;
+}
+function scrFlash(ctx){
+  const c = CARDS[fcIdx % CARDS.length];
+  const btns = fcFlipped ? `<div class="srs" id="srs">
+      <button type="button" data-g="0" style="--sc:var(--ko);--sc-ink:var(--ko-ink)">À revoir<small>1 min</small></button>
+      <button type="button" data-g="1" style="--sc:#e8890c;--sc-ink:${ctx.dark?'#f5a623':'#9a5a06'}">Difficile<small>10 min</small></button>
+      <button type="button" data-g="2" style="--sc:var(--ok);--sc-ink:var(--ok-ink)">Bien<small>1 jour</small></button>
+      <button type="button" data-g="3" style="--sc:var(--a-accent2);--sc-ink:var(--a-accent-ink)">Facile<small>4 jours</small></button>
+    </div>` : `<button class="btn block" type="button" id="flipb">Afficher la réponse</button>`;
+  return `
+    <div><div class="eyebrow">Flashcards · Pharmacologie</div><h2 class="h1">Révision du jour</h2></div>
+    <div class="fc-info"><span class="tnum"><b>${fcLeft}</b> cartes à revoir</span><span class="chip">Biodisponibilité</span></div>
+    <div>
+      <div class="fc-wrap"><div class="fc ${fcFlipped?'flipped':''}" id="fc" tabindex="0" role="button" aria-label="Retourner la carte">
+        <div class="fc-face fc-front"><div class="eyebrow">Question</div><div class="fc-q">${c.q}</div><div class="fc-hint">Touchez la carte pour la retourner</div></div>
+        <div class="fc-face fc-back"><div class="eyebrow">Réponse</div><div class="fc-a">${c.a}</div><div class="src" style="margin-top:auto"><span>📄 ${c.s}</span></div></div>
+      </div></div>
+      <div class="stack-hint"></div><div class="stack-hint s2"></div>
+    </div>
+    ${btns}`;
+}
+
+/* ---------- rendu ---------- */
+function renderApp(){
+  const ctx = appVars();
+  const sc = {accueil:scrAccueil, qcm:scrQcm, resultats:scrResultats, flash:scrFlash}[state.screen](ctx);
+  const nav = [['accueil','Accueil','home'],['qcm','QCM','qcm'],['flash','Cartes','cards'],['resultats','Résultats','chart']];
+  const tabs = nav.map(([k,l,i])=>`<button type="button" data-go="${k}" aria-current="${state.screen===k}">${ic(i)}<span>${l}</span></button>`).join('');
+  const doodles = state.dir==2 ? `
+    <svg class="doodle" style="right:10px;top:70px;width:90px" viewBox="0 0 90 80"><path d="M30 10l20 11.5v23L30 56 10 44.5v-23z"/><path d="M33 17l13 7.5M46 41.5 33 49M14 27v15"/><path d="M50 21.5 68 12M68 12l10 6M30 56v14M30 70l-8 6"/><text x="70" y="10" font-size="8" fill="currentColor" stroke="none" font-family="Caveat">OH</text></svg>
+    <svg class="doodle" style="left:20px;bottom:120px;width:70px" viewBox="0 0 70 60"><path d="M10 30l14-8 14 8v16l-14 8-14-8z"/><path d="M38 30l14-8 14 8M24 22V8"/><text x="18" y="7" font-size="8" fill="currentColor" stroke="none" font-family="Caveat">NH2</text></svg>` : '';
+  const app = `
+    <div class="app" data-dir="${state.dir}" data-mode="${ctx.dark?'dark':'light'}" data-anim="${ctx.c.anim}" data-pattern="${ctx.c.pattern?'on':'off'}" data-device="${state.device}" id="app">
+      <div class="app-bg">${doodles}</div>
+      <aside class="app-side">
+        <div class="brand">${LOGO} PharmaRévision</div>
+        <nav class="side-nav">${tabs}</nav>
+        <div class="side-foot">3ème année · Faculté de Pharmacie d’Alger</div>
+      </aside>
+      <div class="app-main">
+        <div class="app-top"><div class="brand">${LOGO} <span>PharmaRévision</span></div><div class="top-ic"><span class="icbtn">${ic('search')}</span><span class="icbtn">${ic('moon')}</span></div></div>
+        <div class="app-body" id="abody">${sc}<footer class="app-foot">Réalisé par Aymen Zouad</footer></div>
+        <nav class="app-tabs">${tabs}</nav>
+      </div>
+    </div>`;
+  const frame = state.device==='mobile'
+    ? `<div class="phone"><div class="notch"></div><div class="screen">${app}</div></div>`
+    : `<div class="browser"><div class="bar"><i></i><i></i><i></i><span class="url">pharmarevision.vercel.app</span></div><div class="screen">${app}</div></div>`;
+  $('#stage').innerHTML = frame;
+  const el = $('#app');
+  for (const k in ctx.v) el.style.setProperty(k, ctx.v[k]);
+  bindApp(el, ctx);
+  requestAnimationFrame(()=>requestAnimationFrame(()=>{
+    el.querySelectorAll('.liq').forEach(g=> g.style.transform = `translateY(${g.dataset.ty}px)`);
+    el.querySelectorAll('.caps > i').forEach(i=> i.style.width = i.dataset.w);
+    if (state.screen==='resultats') runResults(el, ctx);
+  }));
+}
+
+function bindApp(el, ctx){
+  el.querySelectorAll('[data-go]').forEach(b=> b.addEventListener('click', ()=> setScreen(b.dataset.go)));
+  el.querySelectorAll('.mod').forEach(m=> m.addEventListener('keydown', e=>{ if(e.key==='Enter') setScreen('qcm'); }));
+  el.querySelectorAll('.mod').forEach(m=> m.addEventListener('click', ()=> setScreen('qcm')));
+  if (state.screen==='qcm'){
+    el.querySelectorAll('.opt').forEach(o=> o.addEventListener('click', ()=> toggleOpt(o.dataset.k)));
+    $('#qv', el).addEventListener('click', ()=> qDone ? resetQcm() : validate());
+    if (qDone) applyValidation(el, ctx, false);
+  }
+  if (state.screen==='resultats'){
+    el.querySelectorAll('[data-res]').forEach(b=> b.addEventListener('click', ()=>{ resKey=b.dataset.res; renderApp(); }));
+    $('#replay', el).addEventListener('click', ()=> renderApp());
+  }
+  if (state.screen==='flash'){
+    const fc = $('#fc', el);
+    const flip = ()=>{ fcFlipped = !fcFlipped; fc.classList.toggle('flipped', fcFlipped); refreshSrs(el, ctx); };
+    fc.addEventListener('click', flip);
+    fc.addEventListener('keydown', e=>{ if(e.key==='Enter'||e.key===' '){ e.preventDefault(); flip(); } });
+    refreshSrs(el, ctx, true);
+  }
+}
+function refreshSrs(el, ctx, initial){
+  if (!initial){
+    const body = $('#abody', el); const keep = body.scrollTop;
+    const tmp = document.createElement('div'); tmp.innerHTML = scrFlash(ctx);
+    const newCtl = tmp.querySelector('#srs') || tmp.querySelector('#flipb');
+    const old = el.querySelector('#srs') || el.querySelector('#flipb');
+    old.replaceWith(newCtl); body.scrollTop = keep;
+  }
+  const fb = el.querySelector('#flipb'); if (fb) fb.addEventListener('click', ()=>{ fcFlipped = true; $('#fc', el).classList.add('flipped'); refreshSrs(el, ctx); });
+  el.querySelectorAll('#srs button').forEach(b=> b.addEventListener('click', ()=>{
+    const fc = $('#fc', el);
+    const next = ()=>{ fcIdx++; fcFlipped=false; fcLeft = Math.max(1, fcLeft - (b.dataset.g==='0'?0:1)); renderApp(); const nf = $('#fc'); if(nf && !RM && ctx.c.anim!=='sobre'){ nf.classList.add('in'); } };
+    if (RM || ctx.c.anim==='sobre'){ next(); return; }
+    fc.classList.add('out'); setTimeout(next, ANIMD[ctx.c.anim]*1100);
+  }));
+}
+
+function toggleOpt(k){
+  if (qDone) return;
+  qSel.has(k) ? qSel.delete(k) : qSel.add(k);
+  const el = $('#app'); const o = el.querySelector(`.opt[data-k="${k}"]`);
+  o.setAttribute('aria-checked', qSel.has(k));
+  const ctx = appVars();
+  if (ctx.c.anim==='ludique' && !RM && qSel.has(k)) o.querySelector('.key').animate([{transform:'scale(1)'},{transform:'scale(1.3)'},{transform:'scale(1)'}],{duration:280, easing:'ease-out'});
+  $('#qv', el).disabled = qSel.size===0;
+}
+function computeScore(){
+  let good=0, bad=0; qSel.forEach(k=> QCM.correct.includes(k) ? good++ : bad++);
+  return { good, bad, s: Math.max(0, (good - bad) / QCM.correct.length) };
+}
+function validate(){ if(!qSel.size) return; qDone = true; const el=$('#app'); applyValidation(el, appVars(), true); }
+function resetQcm(){ qSel = new Set(); qDone=false; renderApp(); }
+function applyValidation(el, ctx, fresh){
+  const {good, bad, s} = computeScore();
+  el.querySelectorAll('.opt').forEach(o=>{
+    const k=o.dataset.k, sel=qSel.has(k), ok=QCM.correct.includes(k);
+    o.classList.add(sel&&ok?'is-right': sel&&!ok?'is-wrong': !sel&&ok?'is-missed':'is-neutral');
+    if (!fresh) o.style.animation='none';
+    o.setAttribute('aria-disabled','true');
+  });
+  const btn = $('#qv', el); btn.textContent = 'Réessayer'; btn.disabled=false;
+  const cls = s===1?'full': s===0?'zero':'';
+  $('#fb', el).innerHTML = `
+    <div class="fb" ${fresh?'':'style="animation:none"'}>
+      <div class="score-chip"><span class="sc tnum ${cls}" id="scv">${fr(s)} / 1</span>
+        <span class="formula">(${good} cochée${good>1?'s':''} juste${good>1?'s':''} − ${bad} cochée${bad>1?'s':''} fausse${bad>1?'s':''}) ÷ 2 réponses justes${(good-bad)<0?', ramené à 0':''}</span></div>
+      <div class="card expl"><h3 class="h2">Explication</h3><p>${QCM.expl}</p>
+        <div class="src"><a href="#" onclick="return false">📄 ${QCM.src}</a><button class="report" type="button">⚑ Signaler</button></div></div>
+      <button class="btn ghost block" type="button" data-go="resultats">Question suivante</button>
+    </div>`;
+  $('#fb', el).querySelector('[data-go]').addEventListener('click', ()=> setScreen('resultats'));
+  if (fresh){
+    if (s===1 && ctx.c.anim!=='sobre' && !RM) pillBurst(el, btn, ctx, ctx.c.anim==='ludique'?18:10);
+    setTimeout(()=>{ const f=$('#fb', el); if(f) f.scrollIntoView({behavior: RM?'auto':'smooth', block:'nearest'}); }, 250);
+  }
+}
+
+function pillColors(ctx){ return ctx.c.modColors ? [ctx.a, ctx.b, ...ctx.d.mods] : [ctx.a, ctx.b, '#ffffff']; }
+function pillBurst(el, anchor, ctx, n){
+  const r = anchor.getBoundingClientRect(), ar = el.getBoundingClientRect();
+  const cols = pillColors(ctx);
+  for (let i=0;i<n;i++){
+    const p = document.createElement('i');
+    const c1 = cols[i%cols.length], c2 = cols[(i+3)%cols.length];
+    p.className='burst'; p.style.cssText = `left:${r.left-ar.left+r.width/2}px; top:${r.top-ar.top+r.height/2}px; width:14px; height:6px; border-radius:3px; background:linear-gradient(90deg, ${c1} 50%, ${c2} 50%)`;
+    el.appendChild(p);
+    const ang = Math.random()*Math.PI*2, dist = 50 + Math.random()*70;
+    p.animate([{transform:'translate(-50%,-50%) rotate(0)', opacity:1},{transform:`translate(${Math.cos(ang)*dist}px, ${Math.sin(ang)*dist - 30}px) rotate(${Math.random()*540}deg)`, opacity:0}], {duration:700+Math.random()*400, easing:'cubic-bezier(.2,.8,.2,1)'}).onfinish=()=>p.remove();
+  }
+}
+function runResults(el, ctx){
+  const s = SCORES[resKey].v;
+  const circ = 326.7, c = $('#ringc', el), v = $('#ringv', el);
+  c.style.strokeDashoffset = circ * (1 - s/20);
+  const dur = RM ? 0 : ANIMD[ctx.c.anim]*3500;
+  const t0 = performance.now();
+  (function step(t){ const k = dur ? Math.min(1, (t-t0)/dur) : 1; const e = 1-Math.pow(1-k,3); v.textContent = fr(Math.round(s*e*2)/2); if(k<1) requestAnimationFrame(step); })(t0);
+  if (s>=16 && ctx.c.anim!=='sobre' && !RM){
+    const box = document.createElement('div'); box.className='confetti'; el.appendChild(box);
+    const n = ctx.c.anim==='ludique' ? 90 : 45; const cols = pillColors(ctx);
+    for (let i=0;i<n;i++){
+      const p = document.createElement('i');
+      p.style.left = Math.random()*100+'%';
+      p.style.background = `linear-gradient(90deg, ${cols[i%cols.length]} 50%, ${cols[(i+2)%cols.length]} 50%)`;
+      box.appendChild(p);
+      const H = el.clientHeight + 40, drift = (Math.random()-.5)*120;
+      p.animate([{transform:`translate(0,0) rotate(${Math.random()*180}deg)`},{transform:`translate(${drift}px, ${H}px) rotate(${360+Math.random()*720}deg)`}],
+        {duration:1800+Math.random()*1600, delay:200+Math.random()*700, easing:'cubic-bezier(.3,.5,.6,1)', fill:'both'});
+    }
+    setTimeout(()=> box.remove(), 4800);
+  }
+}
+
+function setScreen(s){ state.screen = s; if (s!=='qcm') { /* garde l’état du QCM */ } renderScreens(); renderApp(); save(); }
+
+/* ---------- interface externe ---------- */
+function renderDirs(){
+  $('#dirs').innerHTML = Object.entries(DIRS).map(([k,d])=>{
+    const base = d.def.mode==='sombre' ? d.dark : d.light;
+    const pal = d.palettes[d.def.palette];
+    return `<button type="button" class="dcard" data-dir="${k}" aria-pressed="${state.dir==k}">
+      <div class="dprev" style="background:${base.bg}; color:${base.ink}">
+        <span class="aa" style="font-family:'${d.def.font}'; font-weight:${HWEIGHT[d.def.font]||700}">Aa</span>
+        <span style="--mc:${pal[0]}; --a-surface:${base.surface}; --a-ink:${base.ink}">${gauge(d.gauge, .62, false)}</span>
+        <span class="sw"><i style="background:${pal[0]}"></i><i style="background:${pal[1]}"></i><i style="background:${d.mods[0]}"></i><i style="background:${d.mods[5]}"></i></span>
+      </div>
+      <div class="dbody">
+        <span class="dnum">Direction ${k}</span>
+        <h2 class="dname">${d.name}</h2>
+        <p class="dline">${d.line}</p>
+        <ul class="dpros">${d.pros.map(p=>`<li>${p}</li>`).join('')}${d.cons.map(p=>`<li class="minus">${p}</li>`).join('')}</ul>
+      </div>
+    </button>`;
+  }).join('');
+  document.querySelectorAll('.dcard').forEach(b=> b.addEventListener('click', ()=>{ state.dir = +b.dataset.dir; save(); renderAll(); }));
+}
+function renderScreens(){
+  $('#screens').innerHTML = SCREENS.map(([k,l])=>`<button type="button" id="scr-${k}" data-scr="${k}" aria-pressed="${state.screen===k}">${l}</button>`).join('');
+  document.querySelectorAll('[data-scr]').forEach(b=> b.addEventListener('click', ()=> setScreen(b.dataset.scr)));
+  document.querySelectorAll('[data-dev]').forEach(b=> b.setAttribute('aria-pressed', state.device===b.dataset.dev));
+}
+function segHTML(id, key, opts, cur, extraCls){
+  return `<div class="seg full" role="group" id="${id}">${opts.map(([v,l,st])=>`<button type="button" class="${extraCls||''}" data-k="${key}" data-v="${v}" aria-pressed="${cur===v}" ${st?`style="${st}"`:''}>${l}</button>`).join('')}</div>`;
+}
+function renderPanel(){
+  const d = DIRS[state.dir], c = state.cfg[state.dir];
+  const pals = Object.entries(d.palettes).map(([n,[a,b]])=>`<button type="button" class="pal" data-k="palette" data-v="${n}" aria-pressed="${c.palette===n}"><span class="d"><i style="background:${a}"></i><i style="background:${b}"></i></span>${n}</button>`).join('');
+  $('#panel').innerHTML = `
+    <h2>Configurer « ${d.name} »</h2>
+    <p class="sub">Les réglages s’appliquent en direct à la maquette.</p>
+    <div class="ctl"><span class="ctl-l">Palette</span><div class="pals">${pals}</div></div>
+    <div class="ctl"><span class="ctl-l">Mode</span>${segHTML('c-mode','mode',[['clair','Clair'],['sombre','Sombre']],c.mode)}</div>
+    <div class="ctl"><span class="ctl-l">Police des titres</span>${segHTML('c-font','font',d.fonts.map(f=>[f,f,`font-family:'${f}'; font-weight:${HWEIGHT[f]||700}`]),c.font,'fontbtn')}</div>
+    <div class="ctl"><span class="ctl-l">Arrondi des coins</span>${segHTML('c-rad','radius',[['faible','Faible'],['moyen','Moyen'],['fort','Fort']],c.radius)}</div>
+    <div class="ctl"><span class="ctl-l">Animations</span>${segHTML('c-anim','anim',[['sobre','Sobre'],['normal','Normal'],['ludique','Ludique']],c.anim)}</div>
+    <div class="ctl">
+      <label class="sw-row" for="c-modc"><span>Une couleur par module</span><span class="switch"><input type="checkbox" id="c-modc" data-k="modColors" ${c.modColors?'checked':''}><span></span></span></label>
+      <label class="sw-row" for="c-pat"><span>Motif de fond</span><span class="switch"><input type="checkbox" id="c-pat" data-k="pattern" ${c.pattern?'checked':''}><span></span></span></label>
+    </div>
+    ${RM ? '<p class="note">Votre système demande de réduire les animations : la maquette les affiche donc de façon minimale, quel que soit le réglage.</p>' : ''}
+    <div class="summary">
+      <span class="ctl-l">Récapitulatif à copier</span>
+      <textarea class="sumtxt" id="sumtxt" rows="4" readonly></textarea>
+      <div class="sumbtns"><button type="button" class="obtn primary" id="copyb">Copier</button><button type="button" class="obtn" id="resetb">Réinitialiser</button></div>
+    </div>`;
+  $('#panel').querySelectorAll('button[data-k]').forEach(b=> b.addEventListener('click', ()=>{ c[b.dataset.k] = b.dataset.v; changed(); }));
+  $('#panel').querySelectorAll('input[data-k]').forEach(i=> i.addEventListener('change', ()=>{ c[i.dataset.k] = i.checked; changed(); }));
+  $('#copyb').addEventListener('click', copySummary);
+  $('#resetb').addEventListener('click', ()=>{ state.cfg[state.dir] = Object.assign({}, d.def); changed(); });
+  renderSummary();
+}
+function summary(){
+  const d = DIRS[state.dir], c = state.cfg[state.dir];
+  const cap = s => s.charAt(0).toUpperCase()+s.slice(1);
+  return `Direction ${state.dir} (${d.name}) · Palette ${c.palette} · ${cap(c.mode)} · Police ${c.font} · Arrondi ${c.radius} · Animations ${cap(c.anim)} · Couleurs par module ${c.modColors?'oui':'non'} · Motif de fond ${c.pattern?'oui':'non'}`;
+}
+function renderSummary(){ $('#sumtxt').value = summary(); }
+function copySummary(){
+  const t = summary(), b = $('#copyb');
+  const done = ok => { b.textContent = ok ? 'Copié' : 'Texte sélectionné'; setTimeout(()=> b.textContent='Copier', 1600); };
+  try {
+    navigator.clipboard.writeText(t).then(()=>done(true)).catch(()=>{ const ta=$('#sumtxt'); ta.focus(); ta.select(); done(false); });
+  } catch(e){ const ta=$('#sumtxt'); ta.focus(); ta.select(); done(false); }
+}
+function changed(){ save(); renderPanel(); renderApp(); }
+function renderAll(){ renderDirs(); renderScreens(); renderPanel(); renderApp(); }
+
+document.querySelectorAll('[data-dev]').forEach(b=> b.addEventListener('click', ()=>{ state.device = b.dataset.dev; save(); renderScreens(); renderApp(); }));
+document.addEventListener('keydown', e=>{
+  if (state.screen!=='qcm') return;
+  const a = document.activeElement;
+  if (a && (a.tagName==='TEXTAREA' || a.tagName==='INPUT')) return;
+  if (a && a!==document.body && !$('#stage').contains(a)) return;
+  const k = e.key.toLowerCase();
+  if ('abcde'.includes(k) && k.length===1){ e.preventDefault(); toggleOpt(k); }
+  else if (e.key==='Enter' && !qDone && qSel.size && (!a || a===document.body)){ e.preventDefault(); validate(); }
+});
+
+renderAll();
+})();
+</script>

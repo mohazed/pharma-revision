@@ -1,0 +1,170 @@
+[
+  {
+    "id": "pharmacie-galenique/07-melange-des-poudres/flashcard-001",
+    "recto": "Définition du mélange (opération)",
+    "verso": "Opération fondamentale qui consiste à rendre aussi homogène que possible une association de plusieurs produits.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/07-melange-des-poudres/flashcard-002",
+    "recto": "Trois intérêts d'un mélange homogène",
+    "verso": "Dosage précis, efficacité du traitement, sécurité du patient.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/07-melange-des-poudres/flashcard-003",
+    "recto": "Quatre critères de qualité d'un mélange",
+    "verso": "Homogène ; bien s'écouler sans ségrégation ; non contaminé par des substances étrangères ; stable (conserver son intégralité dans le temps).",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/07-melange-des-poudres/flashcard-004",
+    "recto": "États de mélange d'un système binaire par uniformité croissante",
+    "verso": "Non-mélange (démélange) → ségrégation → mélange réel (imparfait) → mélange idéal (parfait).",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/07-melange-des-poudres/flashcard-005",
+    "recto": "Conséquence de la ségrégation",
+    "verso": "Variabilité de teneur des comprimés, gélules et poudres à usage parentéral.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/07-melange-des-poudres/flashcard-006",
+    "recto": "Trois catégories de variables influençant la qualité d'un mélange",
+    "verso": "Propriétés des solides pulvérulents, conditions opératoires, matériels utilisés.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/07-melange-des-poudres/flashcard-007",
+    "recto": "Facteurs liés au système pulvérulent",
+    "verso": "Ténuité, densité, proportions des composants ; autres : forme, état de surface, humidité, écoulement.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/07-melange-des-poudres/flashcard-008",
+    "recto": "Effet de l'écart de taille entre particules",
+    "verso": "Plus l'écart est grand, plus la ségrégation par la taille est importante ; il faut mélanger des particules de mêmes dimensions.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/07-melange-des-poudres/flashcard-009",
+    "recto": "Effet d'une différence de densité",
+    "verso": "Défavorable au mélange.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/07-melange-des-poudres/flashcard-010",
+    "recto": "Prémélange",
+    "verso": "Mélanger les matières en faible quantité, ajouter la même proportion de matières en grande quantité, puis le reste fraction par fraction.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/07-melange-des-poudres/flashcard-011",
+    "recto": "Particules sphériques",
+    "verso": "Écoulement plus rapide, mais forte tendance à ségréger par diminution des points de contact (glissement).",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/07-melange-des-poudres/flashcard-012",
+    "recto": "Rugosité de surface",
+    "verso": "Favorise l'adhésion et empêche le glissement des particules.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/07-melange-des-poudres/flashcard-013",
+    "recto": "Humidité forte",
+    "verso": "Empêche le glissement des particules.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/07-melange-des-poudres/flashcard-014",
+    "recto": "Vitesse de rotation trop lente / trop rapide",
+    "verso": "Trop lente : abrasion des particules. Trop rapide : force centrifuge qui casse les particules.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/07-melange-des-poudres/flashcard-015",
+    "recto": "Charge d'un mélangeur",
+    "verso": "40 à 60 % de la capacité totale (laisser un espace résiduel).",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/07-melange-des-poudres/flashcard-016",
+    "recto": "Temps de mélange trop prolongé",
+    "verso": "Peut conduire au démélange.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/07-melange-des-poudres/flashcard-017",
+    "recto": "Variables liées au matériel",
+    "verso": "Dimension, géométrie, mode de fonctionnement.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/07-melange-des-poudres/flashcard-018",
+    "recto": "Mélange au mortier en officine",
+    "verso": "Mouvements circulaires alternant avec des mouvements en trèfle et en « 8 ».",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/07-melange-des-poudres/flashcard-019",
+    "recto": "Trois classes de mélangeurs industriels",
+    "verso": "Chute libre (cuves mobiles), convectifs/malaxeurs (cuves fixes), statiques (fluidisation).",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/07-melange-des-poudres/flashcard-020",
+    "recto": "Mélangeur en V",
+    "verso": "Enceinte fermée tournant autour d'un axe ; les particules roulent les unes sur les autres à la surface ; couramment utilisé en industrie.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/07-melange-des-poudres/flashcard-021",
+    "recto": "Mélangeur cubique vs cylindrique",
+    "verso": "Cubique : parfaite homogénéité, très répandu. Cylindrique : peu efficace.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/07-melange-des-poudres/flashcard-022",
+    "recto": "Intérêt du vide dans un tambour mélangeur",
+    "verso": "Poudres sensibles à l'action de l'oxygène.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/07-melange-des-poudres/flashcard-023",
+    "recto": "Mélangeur planétaire",
+    "verso": "Homogénéisation des milieux visqueux ; coût élevé, nettoyage difficile.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/07-melange-des-poudres/flashcard-024",
+    "recto": "Mélangeur type pétrin",
+    "verso": "Deux bras de forme complexe tournant en sens inverse autour d'axes parallèles et horizontaux.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/07-melange-des-poudres/flashcard-025",
+    "recto": "Mélangeur à projection et tourbillonnement",
+    "verso": "Cylindre horizontal, pales en socs de charrue en spirale tournant à grande vitesse, projection de la périphérie vers le centre ; très efficace.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/07-melange-des-poudres/flashcard-026",
+    "recto": "Mélangeur à fluidisation : caractéristiques",
+    "verso": "Grande efficacité sans ségrégation, durée 2 min, volume important ; fines si produit friable.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/07-melange-des-poudres/flashcard-027",
+    "recto": "Silo-mélangeur",
+    "verso": "Mélange par injection d'air comprimé ; une ou plusieurs trémies internes.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/07-melange-des-poudres/flashcard-028",
+    "recto": "Contrôle de l'homogénéité",
+    "verso": "Dosage du PA sur un nombre suffisant d'échantillons prélevés à différents niveaux (moyen le plus sûr) ; à l'officine, examen visuel pour poudres de couleurs différentes.",
+    "tags": []
+  }
+]

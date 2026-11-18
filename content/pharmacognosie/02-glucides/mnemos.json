@@ -1,0 +1,38 @@
+[
+  {
+    "id": "pharmacognosie/02-glucides/mnemo-001",
+    "titre": "Cyclodextrines",
+    "moyen": "« Alpha a 6 doigts, Bêta 7 jours, Gamma 8 pattes »",
+    "explication": "α-CD = 6, β-CD = 7, γ-CD = 8 unités de glucose."
+  },
+  {
+    "id": "pharmacognosie/02-glucides/mnemo-002",
+    "titre": "Algues et polysaccharides",
+    "moyen": "« Brun = Alginate, Rouge = Carraghénane et Agar »",
+    "explication": "Phéophycées (brunes) → alginates ; Rhodophycées (rouges) → carraghénanes, agar-agar."
+  },
+  {
+    "id": "pharmacognosie/02-glucides/mnemo-003",
+    "titre": "Codes E des polyols",
+    "moyen": "« Sorbitol vingt, Mannitol vingt-et-un, Xylitol neuf-six-sept »",
+    "explication": "E420 sorbitol, E421 mannitol, E967 xylitol."
+  },
+  {
+    "id": "pharmacognosie/02-glucides/mnemo-004",
+    "titre": "Réactions colorées des oses",
+    "moyen": "« Sélivanoff Cétose, Orcinol Pentose, Keller Désoxy, Tollens Uronique »",
+    "explication": "Sélivanoff → cétoses ; orcinol → pentoses ; Keller-Kiliani → 2-désoxyoses ; Tollens (naphtorésorcinol) → acides uroniques."
+  },
+  {
+    "id": "pharmacognosie/02-glucides/mnemo-005",
+    "titre": "Dextranes",
+    "moyen": "« 70 remplit, 40 fluidifie »",
+    "explication": "Dextran 70 : succédané du plasma ; Dextran 40 : microcirculation."
+  },
+  {
+    "id": "pharmacognosie/02-glucides/mnemo-006",
+    "titre": "Mucilages acides",
+    "moyen": "« Pour Ils Lisent, Gui Mange Tout »",
+    "explication": "Psyllium, Ispaghul, Lin, Guimauve, Mauve, Tilleul."
+  }
+]

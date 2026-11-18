@@ -1,0 +1,26 @@
+[
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/mnemo-001",
+    "titre": "Radicaux de taille",
+    "moyen": "« IR ET OL IN EP OC ON » : 3-4-5-6-7-8-9",
+    "explication": "Lire les syllabes dans l'ordre croissant des chaînons : -ir- (3), -et- (4), -ol- (5), -in- (6), -ep- (7), -oc- (8), -on- (9)."
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/mnemo-002",
+    "titre": "Ordre de nomination des hétéroatomes",
+    "moyen": "« O.S.N. » : Oxa, Soufre (thia), Nitrogène (aza)",
+    "explication": "Dans un monocycle à hétéroatomes différents : O > S > -N > =N-."
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/mnemo-003",
+    "titre": "Choix du cycle fondamental",
+    "moyen": "« N-O-S : le Nord passe avant l'Ouest et le Sud »",
+    "explication": "Pour deux hétérocycles accolés d'hétéroatomes différents : N > O > S."
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/mnemo-004",
+    "titre": "Diazines",
+    "moyen": "« pyriDAZine = 1,2 ; pyriMIDine = 1,3 (au MILIEU) ; pyRAZine = 1,4 (opposés) »",
+    "explication": "Les trois diazines selon la position relative des deux azotes."
+  }
+]

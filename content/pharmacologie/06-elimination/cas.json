@@ -1,0 +1,365 @@
+[
+  {
+    "id": "pharmacologie/06-elimination/cas-01",
+    "titre": "Mère allaitante sous traitement",
+    "enonce": "Mme K., 28 ans, allaite son nourrisson de 3 semaines. Elle doit débuter un traitement par un AINS. Elle demande au pharmacien d'officine si elle peut continuer d'allaiter et comment organiser ses prises.",
+    "questions": [
+      {
+        "id": "pharmacologie/06-elimination/cas-01-q1",
+        "type": "multiple",
+        "enonce": "Concernant le passage de ce médicament dans le lait maternel :",
+        "options": [
+          "L'élimination lactée est une voie accessoire d'élimination chez la femme",
+          "En général, moins de 1 % de la dose ingérée passe dans le lait en 24 h",
+          "Les AINS font partie des médicaments excrétés dans le lait pouvant présenter un danger pour le nouveau-né",
+          "Le passage se fait exclusivement par transport actif",
+          "Le passage est sans aucun risque pour le nouveau-né"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "a), b) et c) Justes selon le cours (voie accessoire, < 1 % en 24 h en général, AINS cités parmi les médicaments dangereux pour le nouveau-né). d) Fausse : les mécanismes sont actifs et passifs. e) Fausse : l'élimination lactée peut constituer un danger pour le nouveau-né.",
+        "difficulte": 1,
+        "tags": [
+          "élimination lactée"
+        ],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacologie/06-elimination/cas-01-q2",
+        "type": "multiple",
+        "enonce": "Le passage de l'AINS dans le lait sera d'autant plus important que :",
+        "options": [
+          "La molécule est lipophile",
+          "La molécule est peu liée aux protéines plasmatiques",
+          "La molécule est de petit poids moléculaire",
+          "Le gradient de concentration sang – lait est important",
+          "Toutes les propositions sont correctes"
+        ],
+        "correctes": [
+          4
+        ],
+        "explication": "Le cours cite ces quatre facteurs favorisant le passage dans le lait : lipophilie, faible liaison aux protéines plasmatiques, petit PM, gradient sang–lait important. Toutes les propositions sont correctes.",
+        "difficulte": 1,
+        "tags": [
+          "élimination lactée"
+        ],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacologie/06-elimination/cas-01-q3",
+        "type": "multiple",
+        "enonce": "Les conseils à donner à Mme K. sont :",
+        "options": [
+          "Allaiter juste avant la prise du médicament",
+          "Préférer une forme galénique à libération prolongée",
+          "Éviter les pics de concentration trop importants",
+          "Allaiter juste après la prise du médicament",
+          "Préférer une injection IV rapide"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "Le cours recommande d'allaiter juste avant la prise, de préférer les formes à libération prolongée et d'éviter les pics de concentration (comme après les IV rapides). d) et e) sont donc fausses.",
+        "difficulte": 2,
+        "tags": [
+          "allaitement"
+        ],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacologie/06-elimination/cas-01-q4",
+        "type": "multiple",
+        "enonce": "Le risque d'accident chez ce nourrisson dépend :",
+        "options": [
+          "De la dose administrée à la mère",
+          "De la durée du traitement de la mère",
+          "De l'âge du nourrisson, en raison de la maturation de ses systèmes enzymatiques",
+          "Uniquement du poids de la mère",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "Les accidents chez le nouveau-né dépendent des modalités d'administration à la mère (dose et durée) et de l'âge du nourrisson (maturation des systèmes enzymatiques). À 3 semaines, ces systèmes sont immatures. d) Fausse, e) Fausse.",
+        "difficulte": 2,
+        "tags": [
+          "nouveau-né"
+        ],
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "pharmacologie/06-elimination/cas-02",
+    "titre": "Pénicilline G et probénécide",
+    "enonce": "Un patient de 45 ans est traité par pénicilline G. Le médecin associe du probénécide afin de prolonger l'action de l'antibiotique. L'étudiant en stage s'interroge sur le mécanisme rénal en jeu.",
+    "questions": [
+      {
+        "id": "pharmacologie/06-elimination/cas-02-q1",
+        "type": "unique",
+        "enonce": "L'interaction pénicilline G – probénécide se situe au niveau de :",
+        "options": [
+          "La filtration glomérulaire",
+          "La sécrétion tubulaire",
+          "La réabsorption tubulaire passive",
+          "L'excrétion biliaire",
+          "L'élimination pulmonaire"
+        ],
+        "correctes": [
+          1
+        ],
+        "explication": "Le cours illustre la sécrétion tubulaire (mécanisme actif avec transporteurs sélectifs, saturation, compétition) par l'exemple probénécide / pénicilline G.",
+        "difficulte": 1,
+        "tags": [
+          "sécrétion tubulaire"
+        ],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacologie/06-elimination/cas-02-q2",
+        "type": "multiple",
+        "enonce": "Le mécanisme impliqué :",
+        "options": [
+          "Est actif",
+          "Fait intervenir des transporteurs sélectifs",
+          "Est saturable et sujet à compétition",
+          "Se situe au niveau du TCP",
+          "Est passif et non saturable"
+        ],
+        "correctes": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explication": "La sécrétion tubulaire est un mécanisme actif (transporteurs sélectifs, saturation, compétition) au niveau du TCP. e) Fausse : c'est la filtration glomérulaire qui est passive.",
+        "difficulte": 2,
+        "tags": [
+          "sécrétion tubulaire"
+        ],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacologie/06-elimination/cas-02-q3",
+        "type": "unique",
+        "enonce": "La conséquence de l'association sur la pénicilline G est :",
+        "options": [
+          "Une accélération de son élimination",
+          "Un retard de son élimination",
+          "Aucune modification",
+          "Une augmentation de sa filtration glomérulaire",
+          "Sa transformation en glucuronide"
+        ],
+        "correctes": [
+          1
+        ],
+        "explication": "Selon le cours, le probénécide retarde l'élimination de la pénicilline G.",
+        "difficulte": 1,
+        "tags": [
+          "sécrétion tubulaire",
+          "interactions"
+        ],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacologie/06-elimination/cas-02-q4",
+        "type": "multiple",
+        "enonce": "La sécrétion tubulaire concerne :",
+        "options": [
+          "La fraction hydrosoluble ionisée",
+          "Le transport du liquide péritubulaire vers le liquide tubulaire",
+          "La fraction liposoluble non ionisée",
+          "Le passage de la lumière tubulaire vers le sang",
+          "Toutes les propositions sont fausses"
+        ],
+        "correctes": [
+          0,
+          1
+        ],
+        "explication": "a) et b) Justes : définition et fraction concernée. c) Fausse : fraction concernée par la réabsorption passive. d) Fausse : définition de la réabsorption. e) Fausse.",
+        "difficulte": 2,
+        "tags": [
+          "sécrétion tubulaire"
+        ],
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "pharmacologie/06-elimination/cas-03",
+    "titre": "Cycle entéro-hépatique et cholestyramine",
+    "enonce": "Un patient traité par rifampicine présente une durée d'action prolongée du médicament. Le pharmacien rappelle que cet antibiotique subit un cycle entéro-hépatique et qu'il est aussi excrété activement dans la bile.",
+    "questions": [
+      {
+        "id": "pharmacologie/06-elimination/cas-03-q1",
+        "type": "multiple",
+        "enonce": "Concernant le cycle entéro-hépatique de la rifampicine :",
+        "options": [
+          "Les glucuronides de PM > 300 Da sont excrétés dans la bile",
+          "Ils sont déconjugués dans l'intestin par les bactéries du côlon",
+          "Les dérivés déconjugués liposolubles sont réabsorbés",
+          "Le chloramphénicol et la tétracycline subissent aussi ce cycle",
+          "Toutes les propositions sont correctes"
+        ],
+        "correctes": [
+          4
+        ],
+        "explication": "Toutes les propositions reprennent le cours : glucuronides PM > 300 Da → bile, déconjugaison bactérienne colique, réabsorption des dérivés liposolubles ; chloramphénicol, rifampicine, tétracycline sont cités.",
+        "difficulte": 2,
+        "tags": [
+          "cycle entéro-hépatique"
+        ],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacologie/06-elimination/cas-03-q2",
+        "type": "multiple",
+        "enonce": "La durée d'action prolongée s'explique par :",
+        "options": [
+          "Une augmentation du Vd du médicament",
+          "Une augmentation de la durée de séjour du PA dans l'organisme",
+          "Une diminution du Vd",
+          "Une accélération de la filtration glomérulaire",
+          "Une élimination définitive immédiate dans les fèces"
+        ],
+        "correctes": [
+          0,
+          1
+        ],
+        "explication": "Les conséquences du cycle entéro-hépatique sont l'augmentation du Vd et de la durée de séjour du PA. c), d), e) Fausses.",
+        "difficulte": 2,
+        "tags": [
+          "cycle entéro-hépatique"
+        ],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacologie/06-elimination/cas-03-q3",
+        "type": "unique",
+        "enonce": "Pour interrompre ce cycle, on peut administrer :",
+        "options": [
+          "Du probénécide",
+          "De la cholestyramine",
+          "De l'α-méthyldopa",
+          "De l'halotane",
+          "De l'atropine"
+        ],
+        "correctes": [
+          1
+        ],
+        "explication": "La cholestyramine, résine échangeuse d'ions, fixe certains PA dans l'intestin et met fin au cycle entéro-hépatique.",
+        "difficulte": 1,
+        "tags": [
+          "cholestyramine"
+        ],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacologie/06-elimination/cas-03-q4",
+        "type": "multiple",
+        "enonce": "L'excrétion biliaire active de la rifampicine :",
+        "options": [
+          "Conduit à une concentration biliaire >>> concentration plasmatique",
+          "Est saturable et sujette à compétition",
+          "Peut entrer en compétition avec le transport actif de la bilirubine et entraîner un ictère",
+          "Se fait par diffusion passive comme pour la streptomycine",
+          "Conduit à une concentration biliaire ≤ concentration plasmatique"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "a), b), c) Justes : l'excrétion active biliaire (ATB dont rifampicine) donne [ ]bile >>> [ ]plasma, est saturable, avec compétition, notamment avec la bilirubine → ictère. d) et e) décrivent la diffusion passive (streptomycine).",
+        "difficulte": 3,
+        "tags": [
+          "élimination biliaire",
+          "ictère"
+        ],
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "pharmacologie/06-elimination/cas-04",
+    "titre": "Insuffisance rénale et choix du rythme d'administration",
+    "enonce": "Une patiente de 70 ans atteinte d'insuffisance rénale reçoit un médicament acide faible (pKa = 5) éliminé essentiellement par voie rénale, de demi-vie courte. Le pharmacien hospitalier analyse le dossier.",
+    "questions": [
+      {
+        "id": "pharmacologie/06-elimination/cas-04-q1",
+        "type": "multiple",
+        "enonce": "Chez cette patiente insuffisante rénale :",
+        "options": [
+          "L'élimination du médicament est ralentie",
+          "Il existe un risque d'accumulation du produit",
+          "Il existe un risque d'effets toxiques",
+          "L'élimination est accélérée",
+          "Le risque d'accumulation est nul"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "Le cours : toute insuffisance de l'organe d'élimination (ex. IR) → ralentissement de l'élimination → accumulation → effets toxiques. d) et e) Fausses.",
+        "difficulte": 1,
+        "tags": [
+          "insuffisance rénale"
+        ],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacologie/06-elimination/cas-04-q2",
+        "type": "unique",
+        "enonce": "Pour ce médicament acide de pKa = 5, la réabsorption tubulaire passive :",
+        "options": [
+          "Est nulle quel que soit le pH",
+          "Est intense et permanente quel que soit le pH",
+          "Est fortement influencée par les variations du pH urinaire",
+          "Se fait au niveau du TCP",
+          "Est active"
+        ],
+        "correctes": [
+          2
+        ],
+        "explication": "Un acide de pKa compris entre 2,5 et 7,5 se situe dans la zone d'influence du pH : sa réabsorption passive (TCD, TC) varie fortement avec le pH urinaire.",
+        "difficulte": 2,
+        "tags": [
+          "pKa",
+          "pH urinaire"
+        ],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacologie/06-elimination/cas-04-q3",
+        "type": "multiple",
+        "enonce": "Concernant la demi-vie courte de ce médicament :",
+        "options": [
+          "Elle impose un nombre de prises par jour plus important",
+          "Elle impose une fréquence d'administration plus rapprochée",
+          "Elle s'exprime en unité de temps",
+          "Elle correspond au volume épuré par unité de temps",
+          "Elle permet une prise unique hebdomadaire"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "Plus la demi-vie est courte, plus le nombre de prises par jour est important et la fréquence rapprochée ; elle s'exprime en unité de temps. d) définit la clairance. e) Fausse.",
+        "difficulte": 1,
+        "tags": [
+          "demi-vie"
+        ],
+        "origine": "genere"
+      }
+    ]
+  }
+]

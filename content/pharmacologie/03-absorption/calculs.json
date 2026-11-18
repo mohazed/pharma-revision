@@ -1,0 +1,110 @@
+[
+  {
+    "id": "pharmacologie/03-absorption/calcul-01",
+    "titre": "Fraction non ionisée d'un acide faible",
+    "enonce": "Un acide faible de pKa = {pka} se trouve dans un milieu de pH = {ph}. Calculez le pourcentage de forme non ionisée.",
+    "variables": {
+      "pka": {
+        "min": 3,
+        "max": 7,
+        "pas": 0.5,
+        "unite": ""
+      },
+      "ph": {
+        "min": 1,
+        "max": 8,
+        "pas": 0.5,
+        "unite": ""
+      }
+    },
+    "formule": "100 / (1 + Math.pow(10, ph - pka))",
+    "unite": "%",
+    "decimales": 2,
+    "etapes": [
+      "Acide : pH = pKa + log [I]/[NI] ⇒ [I]/[NI] = 10^(pH − pKa)",
+      "% non ionisée = 100 / (1 + [I]/[NI]) = 100 / (1 + 10^(pH − pKa))"
+    ],
+    "rappel": "Pour un acide : pH = pKa + log [forme ionisée]/[forme non ionisée]. Seule la fraction non ionisée traverse les membranes."
+  },
+  {
+    "id": "pharmacologie/03-absorption/calcul-02",
+    "titre": "Fraction non ionisée d'une base faible",
+    "enonce": "Une base faible de pKa = {pka} se trouve dans un milieu de pH = {ph}. Calculez le pourcentage de forme non ionisée.",
+    "variables": {
+      "pka": {
+        "min": 5,
+        "max": 11,
+        "pas": 0.5,
+        "unite": ""
+      },
+      "ph": {
+        "min": 1,
+        "max": 8,
+        "pas": 0.5,
+        "unite": ""
+      }
+    },
+    "formule": "100 / (1 + Math.pow(10, pka - ph))",
+    "unite": "%",
+    "decimales": 2,
+    "etapes": [
+      "Base : pH = pKa + log [NI]/[I] ⇒ [I]/[NI] = 10^(pKa − pH)",
+      "% non ionisée = 100 / (1 + 10^(pKa − pH))"
+    ],
+    "rappel": "Pour une base : pH = pKa + log [forme non ionisée]/[forme ionisée]."
+  },
+  {
+    "id": "pharmacologie/03-absorption/calcul-03",
+    "titre": "Rapport forme ionisée / forme non ionisée d'un acide",
+    "enonce": "Un acide faible de pKa = {pka} est placé dans un milieu de pH = {ph}. Calculez le rapport [forme ionisée]/[forme non ionisée].",
+    "variables": {
+      "pka": {
+        "min": 3,
+        "max": 7,
+        "pas": 1,
+        "unite": ""
+      },
+      "ph": {
+        "min": 1,
+        "max": 8,
+        "pas": 1,
+        "unite": ""
+      }
+    },
+    "formule": "Math.pow(10, ph - pka)",
+    "unite": "",
+    "decimales": 4,
+    "etapes": [
+      "log([I]/[NI]) = pH − pKa",
+      "[I]/[NI] = 10^(pH − pKa)"
+    ],
+    "rappel": "Henderson-Hasselbalch (acide) : pH = pKa + log [forme ionisée]/[forme non ionisée]."
+  },
+  {
+    "id": "pharmacologie/03-absorption/calcul-04",
+    "titre": "Quantité atteignant la circulation générale",
+    "enonce": "Un médicament de biodisponibilité F = {f} % est administré à la dose de {dose} mg. Quelle quantité atteint la circulation générale ?",
+    "variables": {
+      "f": {
+        "min": 10,
+        "max": 100,
+        "pas": 5,
+        "unite": "%"
+      },
+      "dose": {
+        "min": 50,
+        "max": 1000,
+        "pas": 50,
+        "unite": "mg"
+      }
+    },
+    "formule": "dose * f / 100",
+    "unite": "mg",
+    "decimales": 1,
+    "etapes": [
+      "La biodisponibilité est le pourcentage de la dose atteignant la circulation générale",
+      "Quantité = Dose × F / 100"
+    ],
+    "rappel": "Biodisponibilité = 60 % ⇒ 60 % de la dose administrée est présente dans la circulation générale."
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "id": "semiologie/01-semiologie-generale",
+  "module": "semiologie",
+  "ordre": 1,
+  "titre": "Signes fonctionnels, signes physiques et critères de gravité",
+  "type": "cours",
+  "source": {
+    "driveId": "1j1RKvhqMg_4WSqvH2Ks1eCtxbH59WLqV",
+    "fichier": "1. Semiologie generale.pdf",
+    "modifiedTime": "2026-11-13T13:55:32.135Z"
+  },
+  "resume": "Définitions de base de la sémiologie, les trois familles de signes, les étapes de l'examen clinique (interrogatoire, examen physique en 4 temps, examens complémentaires) et les critères de gravité imposant une orientation."
+}

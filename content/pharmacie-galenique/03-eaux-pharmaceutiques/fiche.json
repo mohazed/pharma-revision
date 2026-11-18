@@ -1,0 +1,59 @@
+{
+  "id": "pharmacie-galenique/03-eaux-pharmaceutiques/fiche",
+  "titre": "Les eaux pharmaceutiques",
+  "sections": [
+    {
+      "titre": "Généralités et contaminants",
+      "points": [
+        "L'eau est l'**utilité la plus utilisée** (excipient, reconstitution, synthèse, nettoyage).",
+        "Qualités distinguées par la pureté **chimique et microbiologique**.",
+        "Contaminants : minéraux (Ca²⁺, Mg²⁺ = dureté), organiques, gaz (O₂, CO₂, N₂), micro-organismes et **pyrogènes** (hyperthermie), particules (supports bactériens)."
+      ]
+    },
+    {
+      "titre": "Qualités d'eaux",
+      "points": [
+        "**EP** : médicaments non stériles ; eau distillée, déminéralisée.",
+        "**EHP** : qualité biologique élevée (hémodialyse : sans aluminium).",
+        "**EPPI vrac** : préparation des parentérales ; **EPPI stérilisée** : ampoules/flacons stérilisés à la chaleur.",
+        "**Irrigation** : stérile, grands volumes, flacon versable non adaptable à la perfusion, < 0,5 UI/ml endotoxines, ne pas injecter."
+      ]
+    },
+    {
+      "titre": "Méthodes de purification",
+      "points": [
+        "**Échangeurs d'ions** : H⁺/OH⁻ ; lits séparés ou mélangés ; peu coûteux ; n'enlèvent ni particules ni bactéries ni organiques.",
+        "**Osmose inverse** : procédé physique, membrane semi-perméable, pression > pression osmotique ; 90 % pour ions monovalents.",
+        "**Distillation** : apyrogène et stérile 3 h ; sauf volatils ; O₂ → barbotage d'azote ; coût, primage (déflecteur), contamination.",
+        "Simple effet ; effets multiples (récupération de calories) ; thermocompression (sans eau de réfrigération).",
+        "**Filtration** : micro < ultra < nano ; profondeur (fibreux, adsorption) vs surface (pores calibrés, écrans)."
+      ]
+    },
+    {
+      "titre": "Usages",
+      "points": [
+        "EP : granulés, comprimés, enrobage, lyophilisation non stérile ; formes orales, nasales, otiques, cutanées, rectales, vaginales.",
+        "EPPI : lyophilisation stérile, parentérales, hémodialyse, nébulisation (cas spéciaux)."
+      ]
+    },
+    {
+      "titre": "Contrôles et stockage",
+      "points": [
+        "COT < 0,5 mg/l pour tous ; conductivité EP 4,3, EHP et EPPI vrac 1,1 µS/cm.",
+        "Germes : 100 / 10 / 10 UFC/ml / stérile.",
+        "EPPI stockée en système clos > 70 °C, UV, acier inoxydable."
+      ]
+    }
+  ],
+  "aRetenir": [
+    "Distillation = seule méthode +++ pour tout.",
+    "Ultrafiltration : 0 sur les sels.",
+    "Échangeurs d'ions : +++ sur les sels, 0 sur colloïdes, particules, germes, pyrogènes."
+  ],
+  "pieges": [
+    "Lyophilisation stérile = EPPI ; non stérile = EP.",
+    "L'eau distillée n'est stérile que 3 heures.",
+    "L'osmose inverse est physique et retient endotoxines et micro-organismes.",
+    "Irrigation : orifice NON adaptable à la perfusion ; < 0,5 UI/ml (et non 0,25)."
+  ]
+}

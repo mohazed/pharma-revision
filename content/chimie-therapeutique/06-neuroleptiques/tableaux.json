@@ -1,0 +1,204 @@
+[
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/tableau-001",
+    "titre": "Classification chimique des neuroleptiques",
+    "colonnes": [
+      "Génération",
+      "Classe",
+      "Exemples (spécialité)"
+    ],
+    "lignes": [
+      [
+        "1re",
+        "Phénothiazines",
+        "Chlorpromazine (Largactil), lévomépromazine (Nozinan), pipotiazine (Piportil), fluphénazine (Moditen)"
+      ],
+      [
+        "1re",
+        "Thioxanthènes",
+        "Zuclopenthixol (Clopixol), flupentixol (Fluanxol)"
+      ],
+      [
+        "1re",
+        "Butyrophénones",
+        "Halopéridol (Haldol), fluanisone (Sédalande), pimozide (Orap)"
+      ],
+      [
+        "1re",
+        "Benzamides",
+        "Sulpiride (Dogmatil®), amisulpride (Solian®), sultopride, tiapride"
+      ],
+      [
+        "2e",
+        "Dibenzodiazépines",
+        "Clozapine, olanzapine, quétiapine"
+      ],
+      [
+        "2e",
+        "Benzisoxazoles",
+        "Rispéridone (Risperdal), sertindole"
+      ]
+    ]
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/tableau-002",
+    "titre": "Les trois groupes de phénothiazines",
+    "colonnes": [
+      "Groupe",
+      "Exemple (ND)",
+      "Substituant en 2",
+      "Activité relative"
+    ],
+    "lignes": [
+      [
+        "Chaîne ouverte (aliphatique)",
+        "Chlorpromazine (Largactil), lévomépromazine (Nozinan)",
+        "Cl ; OCH3",
+        "La plus faible"
+      ],
+      [
+        "Chaîne pipéridinique",
+        "Pipotiazine (Piportil)",
+        "SO2N(CH3)2",
+        "Intermédiaire"
+      ],
+      [
+        "Chaîne pipérazinique",
+        "Fluphénazine (Moditen)",
+        "CF3",
+        "La plus forte"
+      ]
+    ]
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/tableau-003",
+    "titre": "Voies dopaminergiques et conséquences du blocage D2",
+    "colonnes": [
+      "Voie",
+      "Rôle",
+      "Conséquence du blocage"
+    ],
+    "lignes": [
+      [
+        "Mésolimbique",
+        "Symptômes positifs des psychoses",
+        "Effet thérapeutique antipsychotique"
+      ],
+      [
+        "Mésocorticale",
+        "Motivation, fonctions exécutives",
+        "Accentuation des symptômes négatifs"
+      ],
+      [
+        "Nigrostriée",
+        "Contrôle de la motricité involontaire",
+        "Symptomatologie extrapyramidale"
+      ],
+      [
+        "Tubéro-infundibulaire",
+        "Inhibition de la prolactine",
+        "Troubles neuro-endocriniens : aménorrhée-galactorrhée"
+      ]
+    ]
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/tableau-004",
+    "titre": "Relations structure-activité par classe",
+    "colonnes": [
+      "Classe",
+      "Éléments essentiels"
+    ],
+    "lignes": [
+      [
+        "Phénothiazines",
+        "Électroattracteur en 2 ; chaîne à 3 C ; amine tertiaire ; pipérazine/pipéridine favorables"
+      ],
+      [
+        "Thioxanthènes",
+        "Azote du noyau remplacé par un carbone sp2 (analogues des phénothiazines)"
+      ],
+      [
+        "Butyrophénones",
+        "Chaîne à 4 C ; carbonyle (ou second p-fluorophényle) ; pipéridine/pipérazine ; fluor en para"
+      ],
+      [
+        "Benzamides",
+        "Amide en C1, méthoxy en ortho, amine tertiaire cyclique, carbone asymétrique"
+      ]
+    ]
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/carte-005",
+    "type": "carte",
+    "titre": "Les neuroleptiques",
+    "racine": {
+      "label": "Neuroleptiques",
+      "enfants": [
+        {
+          "label": "1re génération (typiques)",
+          "enfants": [
+            {
+              "label": "Phénothiazines",
+              "enfants": []
+            },
+            {
+              "label": "Thioxanthènes",
+              "enfants": []
+            },
+            {
+              "label": "Butyrophénones",
+              "enfants": []
+            },
+            {
+              "label": "Benzamides",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "2e génération (atypiques)",
+          "enfants": [
+            {
+              "label": "Dibenzodiazépines",
+              "enfants": []
+            },
+            {
+              "label": "Benzisoxazoles",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Mécanisme",
+          "enfants": [
+            {
+              "label": "Blocage D2",
+              "enfants": []
+            },
+            {
+              "label": "Antagonisme 5-HT2A (atypiques)",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Effets indésirables",
+          "enfants": [
+            {
+              "label": "Extrapyramidaux (nigrostriée)",
+              "enfants": []
+            },
+            {
+              "label": "Neuro-endocriniens (tubéro-infundibulaire)",
+              "enfants": []
+            },
+            {
+              "label": "Symptômes négatifs (mésocorticale)",
+              "enfants": []
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

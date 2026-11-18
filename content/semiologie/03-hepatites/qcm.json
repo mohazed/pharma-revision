@@ -1,0 +1,2184 @@
+[
+  {
+    "id": "semiologie/03-hepatites/qcm-001",
+    "type": "multiple",
+    "enonce": "Concernant la définition d'une hépatite, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "C'est une inflammation du parenchyme hépatique",
+      "Elle s'accompagne d'une nécrose des hépatocytes",
+      "Elle est définie quelle qu'en soit la cause",
+      "Elle est aiguë si elle évolue depuis moins de 6 mois",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "L'hépatite est une inflammation du parenchyme hépatique avec nécrose des hépatocytes, quelle qu'en soit la cause ; elle est aiguë avant 6 mois, chronique au-delà.",
+    "source": {
+      "page": 3,
+      "extrait": "Inflammation du parenchyme hépatique avec nécrose des hépatocytes, quelle qu'en soit la cause."
+    },
+    "difficulte": 1,
+    "tags": [
+      "définition"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/03-hepatites/qcm-002",
+    "type": "unique",
+    "enonce": "Une hépatite est dite chronique lorsqu'elle évolue depuis plus de :",
+    "options": [
+      "1 mois",
+      "3 mois",
+      "6 mois",
+      "12 mois",
+      "2 ans"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Hépatite aiguë < 6 mois ; hépatite chronique > 6 mois.",
+    "source": {
+      "page": 3,
+      "extrait": "< 6 mois Hépatite aiguë ; > 6 mois Hépatite chronique"
+    },
+    "difficulte": 1,
+    "tags": [
+      "définition"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/03-hepatites/qcm-003",
+    "type": "multiple",
+    "enonce": "Les cinq groupes de causes d'hépatite cités dans le cours sont :",
+    "options": [
+      "Virus",
+      "Médicaments et toxiques",
+      "Alcool",
+      "Auto-immunité",
+      "Métabolisme"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Le cours cite cinq groupes de causes : virus, médicaments et toxiques, alcool, auto-immunité, métabolisme.",
+    "source": {
+      "page": 3,
+      "extrait": "Cinq groupes de causes : Virus, Médicaments et toxiques, Alcool, Auto-immunité, Métabolisme"
+    },
+    "difficulte": 1,
+    "tags": [
+      "causes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/03-hepatites/qcm-004",
+    "type": "multiple",
+    "enonce": "L'altération de la fonction de synthèse hépatique (albumine, facteurs de coagulation) se traduit par :",
+    "options": [
+      "Des œdèmes",
+      "Une ascite",
+      "Des saignements",
+      "Une baisse du TP",
+      "Un prurit"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Le défaut de synthèse donne œdèmes, ascite, saignements et baisse du TP. Le prurit traduit une atteinte de la sécrétion biliaire (cholestase).",
+    "source": {
+      "page": 4,
+      "extrait": "Synthèse (albumine, facteurs de coagulation) — Œdèmes, ascite, saignements, baisse du TP"
+    },
+    "difficulte": 2,
+    "tags": [
+      "fonctions du foie"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/03-hepatites/qcm-005",
+    "type": "multiple",
+    "enonce": "Associez correctement la fonction hépatique altérée et sa traduction clinique :",
+    "options": [
+      "Épuration — encéphalopathie, surdosage médicamenteux",
+      "Conjugaison et excrétion de la bilirubine — ictère",
+      "Sécrétion biliaire — cholestase, prurit, selles décolorées",
+      "Régulation glycémique — hypoglycémie dans les formes graves",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Les quatre associations correspondent au tableau des fonctions du foie.",
+    "source": {
+      "page": 4,
+      "extrait": "Épuration (ammoniac, médicaments, hormones) — Encéphalopathie, surdosage médicamenteux"
+    },
+    "difficulte": 2,
+    "tags": [
+      "fonctions du foie"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/03-hepatites/qcm-006",
+    "type": "unique",
+    "enonce": "L'hypoglycémie au cours d'une hépatite traduit l'altération de la fonction de :",
+    "options": [
+      "Synthèse",
+      "Épuration",
+      "Sécrétion biliaire",
+      "Régulation glycémique",
+      "Conjugaison"
+    ],
+    "correctes": [
+      3
+    ],
+    "explication": "Régulation glycémique : hypoglycémie dans les formes graves.",
+    "source": {
+      "page": 4,
+      "extrait": "Régulation glycémique — Hypoglycémie dans les formes graves"
+    },
+    "difficulte": 1,
+    "tags": [
+      "fonctions du foie"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/03-hepatites/qcm-007",
+    "type": "multiple",
+    "enonce": "La fonction d'épuration du foie concerne :",
+    "options": [
+      "L'ammoniac",
+      "Les médicaments",
+      "Les hormones",
+      "L'albumine",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "L'épuration porte sur l'ammoniac, les médicaments et les hormones ; l'albumine relève de la synthèse.",
+    "source": {
+      "page": 4,
+      "extrait": "Épuration (ammoniac, médicaments, hormones)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "fonctions du foie"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/03-hepatites/qcm-008",
+    "type": "multiple",
+    "enonce": "Concernant le métabolisme de la bilirubine :",
+    "options": [
+      "L'hème est dégradé en bilirubine non conjuguée",
+      "La bilirubine non conjuguée est liposoluble et liée à l'albumine",
+      "La conjugaison se fait dans l'hépatocyte grâce à l'UGT1A1",
+      "La bilirubine conjuguée est hydrosoluble et excrétée dans la bile",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Hème → bilirubine non conjuguée (liposoluble, liée à l'albumine) → captation et conjugaison hépatocytaire (UGT1A1) → bilirubine conjuguée hydrosoluble excrétée dans la bile → stercobiline dans l'intestin.",
+    "source": {
+      "page": 5,
+      "extrait": "Bilirubine conjuguée, hydrosoluble, excrétée dans la bile"
+    },
+    "difficulte": 2,
+    "tags": [
+      "bilirubine"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/03-hepatites/qcm-009",
+    "type": "multiple",
+    "enonce": "Concernant la bilirubine :",
+    "options": [
+      "La bilirubine non conjuguée est hydrosoluble",
+      "La bilirubine conjuguée explique les urines foncées",
+      "La stercobiline colore les selles",
+      "La stercobiline est formée dans l'intestin",
+      "La conjugaison est assurée par l'UGT1A1"
+    ],
+    "correctes": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "La bilirubine NON conjuguée est liposoluble ; c'est la bilirubine conjuguée, hydrosoluble, qui passe dans les urines et les fonce. Dans l'intestin, elle donne la stercobiline qui colore les selles.",
+    "source": {
+      "page": 5,
+      "extrait": "Dans l'intestin : stercobiline, qui colore les selles"
+    },
+    "difficulte": 2,
+    "tags": [
+      "bilirubine"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/03-hepatites/qcm-010",
+    "type": "unique",
+    "enonce": "La bilirubine totale normale est, selon le cours :",
+    "options": [
+      "< 7 µmol/L",
+      "< 17 µmol/L",
+      "< 30 µmol/L",
+      "< 50 µmol/L",
+      "< 70 µmol/L"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Bilirubine totale normale < 17 µmol/L ; subictère conjonctival ≈ 30 µmol/L ; ictère franc > 50 µmol/L.",
+    "source": {
+      "page": 5,
+      "extrait": "< 17 µmol/L Bilirubine totale normale"
+    },
+    "difficulte": 1,
+    "tags": [
+      "bilirubine"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/03-hepatites/qcm-011",
+    "type": "multiple",
+    "enonce": "Concernant les seuils de bilirubine totale :",
+    "options": [
+      "Un subictère conjonctival apparaît vers 30 µmol/L",
+      "L'ictère franc apparaît au-delà de 50 µmol/L",
+      "La valeur normale est < 17 µmol/L",
+      "L'ictère franc apparaît dès 17 µmol/L",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Normal < 17 µmol/L ; subictère conjonctival ≈ 30 µmol/L ; ictère franc > 50 µmol/L.",
+    "source": {
+      "page": 5,
+      "extrait": "≈ 30 µmol/L Subictère conjonctival ; > 50 µmol/L Ictère franc"
+    },
+    "difficulte": 2,
+    "tags": [
+      "bilirubine"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/03-hepatites/qcm-012",
+    "type": "multiple",
+    "enonce": "Concernant l'incubation de l'hépatite aiguë ictérique :",
+    "options": [
+      "Elle dure 2 à 6 semaines pour le VHA et le VHE",
+      "Elle dure 1 à 6 mois pour le VHB et le VHC",
+      "Elle ne comporte aucun signe",
+      "Elle dure 3 à 10 jours",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Incubation : 2 à 6 semaines (VHA, VHE), 1 à 6 mois (VHB, VHC), sans aucun signe. 3 à 10 jours correspond à la phase pré-ictérique.",
+    "source": {
+      "page": 6,
+      "extrait": "Incubation 2 à 6 semaines (VHA, VHE) 1 à 6 mois (VHB, VHC) Aucun signe"
+    },
+    "difficulte": 2,
+    "tags": [
+      "phases"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/03-hepatites/qcm-013",
+    "type": "multiple",
+    "enonce": "La phase pré-ictérique de l'hépatite aiguë :",
+    "options": [
+      "Dure 3 à 10 jours",
+      "Comporte asthénie, anorexie, nausées",
+      "Peut réaliser un syndrome pseudo-grippal",
+      "Peut comporter arthralgies et myalgies",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "La phase pré-ictérique dure 3 à 10 jours : asthénie, anorexie, nausées, syndrome pseudo-grippal, arthralgies, myalgies.",
+    "source": {
+      "page": 6,
+      "extrait": "Pré-ictérique 3 à 10 jours Asthénie, anorexie, nausées, syndrome pseudo-grippal, arthralgies, myalgies"
+    },
+    "difficulte": 2,
+    "tags": [
+      "phases"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/03-hepatites/qcm-014",
+    "type": "multiple",
+    "enonce": "La phase ictérique de l'hépatite aiguë :",
+    "options": [
+      "Dure 2 à 6 semaines",
+      "Associe ictère, urines foncées, selles décolorées",
+      "Comporte un prurit inconstant",
+      "S'accompagne d'une disparition de la fièvre",
+      "S'accompagne d'une majoration de la fièvre"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Phase ictérique : 2 à 6 semaines ; ictère, urines foncées, selles décolorées, prurit inconstant ; la fièvre DISPARAÎT.",
+    "source": {
+      "page": 6,
+      "extrait": "Ictère, urines foncées, selles décolorées, prurit inconstant ; la fièvre disparaît"
+    },
+    "difficulte": 2,
+    "tags": [
+      "phases"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/03-hepatites/qcm-015",
+    "type": "multiple",
+    "enonce": "La phase de convalescence :",
+    "options": [
+      "Dure plusieurs semaines",
+      "Comporte une régression de l'ictère",
+      "Comporte une asthénie prolongée",
+      "Dure 3 à 10 jours",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "La convalescence dure plusieurs semaines avec régression de l'ictère et asthénie prolongée.",
+    "source": {
+      "page": 6,
+      "extrait": "Convalescence Plusieurs semaines Régression de l'ictère, asthénie prolongée"
+    },
+    "difficulte": 1,
+    "tags": [
+      "phases"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/03-hepatites/qcm-016",
+    "type": "unique",
+    "enonce": "Selon le cours, la majorité des hépatites aiguës sont :",
+    "options": [
+      "Ictériques",
+      "Fulminantes",
+      "Asymptomatiques ou anictériques",
+      "Cholestatiques",
+      "À rechute"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "La majorité des hépatites aiguës restent asymptomatiques ou anictériques.",
+    "source": {
+      "page": 6,
+      "extrait": "La majorité des hépatites aiguës restent asymptomatiques ou anictériques."
+    },
+    "difficulte": 1,
+    "tags": [
+      "formes cliniques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/03-hepatites/qcm-017",
+    "type": "unique",
+    "enonce": "L'ordre chronologique des phases de l'hépatite aiguë ictérique est :",
+    "options": [
+      "Pré-ictérique, incubation, ictérique, convalescence",
+      "Incubation, pré-ictérique, ictérique, convalescence",
+      "Incubation, ictérique, pré-ictérique, convalescence",
+      "Incubation, ictérique, convalescence, pré-ictérique",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Les quatre phases sont : incubation, pré-ictérique, ictérique, convalescence.",
+    "source": {
+      "page": 6,
+      "extrait": "L'hépatite aiguë ictérique évolue en quatre phases"
+    },
+    "difficulte": 1,
+    "tags": [
+      "phases"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/03-hepatites/qcm-018",
+    "type": "multiple",
+    "enonce": "Concernant l'ictère :",
+    "options": [
+      "Il correspond à une coloration jaune de la peau et des muqueuses",
+      "Il se recherche sur les conjonctives",
+      "Il se recherche à la lumière du jour",
+      "Il se recherche à la lumière artificielle de préférence",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "L'ictère (peau et muqueuses jaunes) est à rechercher sur les conjonctives, à la lumière du jour.",
+    "source": {
+      "page": 7,
+      "extrait": "Peau et muqueuses jaunes ; à chercher sur les conjonctives, à la lumière du jour"
+    },
+    "difficulte": 1,
+    "tags": [
+      "signes cliniques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/03-hepatites/qcm-019",
+    "type": "multiple",
+    "enonce": "Concernant les urines foncées au cours d'une hépatite :",
+    "options": [
+      "Elles sont dues à la bilirubine conjuguée dans les urines",
+      "Elles précèdent souvent l'ictère",
+      "Elles sont dues à la bilirubine non conjuguée",
+      "Elles apparaissent toujours après la disparition de l'ictère",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Les urines foncées traduisent la présence de bilirubine conjuguée (hydrosoluble) dans les urines et précèdent souvent l'ictère.",
+    "source": {
+      "page": 7,
+      "extrait": "Bilirubine conjuguée dans les urines ; précèdent souvent l'ictère"
+    },
+    "difficulte": 2,
+    "tags": [
+      "signes cliniques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/03-hepatites/qcm-020",
+    "type": "multiple",
+    "enonce": "Concernant les signes cliniques des hépatites :",
+    "options": [
+      "Les selles décolorées traduisent l'absence d'arrivée de bilirubine dans l'intestin",
+      "Le prurit oriente vers une cholestase",
+      "L'asthénie est le signe le plus constant, souvent le seul",
+      "Le foie est normal ou un peu gros et sensible",
+      "La splénomégalie est constante"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "La splénomégalie est INCONSTANTE. Les autres propositions reprennent les six signes du cours.",
+    "source": {
+      "page": 7,
+      "extrait": "Foie normal ou un peu gros, sensible ; splénomégalie inconstante"
+    },
+    "difficulte": 2,
+    "tags": [
+      "signes cliniques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/03-hepatites/qcm-021",
+    "type": "unique",
+    "enonce": "Le signe le plus constant d'une hépatite, souvent le seul, est :",
+    "options": [
+      "L'ictère",
+      "Le prurit",
+      "L'asthénie",
+      "Les urines foncées",
+      "La splénomégalie"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "L'asthénie est le signe le plus constant, souvent le seul.",
+    "source": {
+      "page": 7,
+      "extrait": "Asthénie — Signe le plus constant, souvent le seul"
+    },
+    "difficulte": 1,
+    "tags": [
+      "signes cliniques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/03-hepatites/qcm-022",
+    "type": "multiple",
+    "enonce": "La triade ictérique comprend :",
+    "options": [
+      "Ictère",
+      "Urines foncées",
+      "Selles décolorées",
+      "Prurit",
+      "Fièvre"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Triade ictérique : ictère, urines foncées, selles décolorées.",
+    "source": {
+      "page": 25,
+      "extrait": "Triade ictérique : ictère, urines foncées, selles décolorées"
+    },
+    "difficulte": 1,
+    "tags": [
+      "signes cliniques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/03-hepatites/qcm-023",
+    "type": "multiple",
+    "enonce": "Concernant les formes cliniques des hépatites aiguës :",
+    "options": [
+      "La forme anictérique ou asymptomatique est la plus fréquente",
+      "La forme anictérique est découverte sur un bilan biologique",
+      "La forme cholestatique associe ictère intense et prolongé et prurit marqué",
+      "La forme fulminante est fréquente",
+      "La forme prolongée ou à rechute survient surtout avec le VHA"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explication": "La forme fulminante est RARE (TP < 50 % et encéphalopathie). Les autres propositions sont exactes.",
+    "source": {
+      "page": 8,
+      "extrait": "Fulminante Rare ; TP inférieur à 50 % et encéphalopathie"
+    },
+    "difficulte": 2,
+    "tags": [
+      "formes cliniques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/03-hepatites/qcm-024",
+    "type": "unique",
+    "enonce": "La forme prolongée ou à rechute de l'hépatite aiguë s'observe surtout avec :",
+    "options": [
+      "Le VHA",
+      "Le VHB",
+      "Le VHC",
+      "Le VHD",
+      "Le VHE"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Forme prolongée ou à rechute : surtout avec le virus de l'hépatite A.",
+    "source": {
+      "page": 8,
+      "extrait": "Prolongée ou à rechute — Surtout avec le virus de l'hépatite A"
+    },
+    "difficulte": 2,
+    "tags": [
+      "formes cliniques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/03-hepatites/qcm-025",
+    "type": "multiple",
+    "enonce": "Les quatre syndromes biologiques du bilan hépatique sont :",
+    "options": [
+      "Cytolyse",
+      "Cholestase",
+      "Insuffisance hépatocellulaire",
+      "Syndrome inflammatoire",
+      "Syndrome néphrotique"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Le bilan hépatique se lit en quatre syndromes : cytolyse, cholestase, insuffisance hépatocellulaire, syndrome inflammatoire.",
+    "source": {
+      "page": 9,
+      "extrait": "Quatre syndromes : cytolyse, cholestase, insuffisance hépatocellulaire, inflammation"
+    },
+    "difficulte": 1,
+    "tags": [
+      "syndromes biologiques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/03-hepatites/qcm-026",
+    "type": "multiple",
+    "enonce": "Concernant les syndromes biologiques hépatiques :",
+    "options": [
+      "La cytolyse associe une augmentation des ALAT et ASAT",
+      "La cytolyse traduit la destruction des hépatocytes",
+      "La cholestase associe une augmentation des PAL, γGT et bilirubine conjuguée",
+      "La cholestase traduit un défaut d'écoulement de la bile",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Cytolyse = ALAT/ASAT ↑ (destruction hépatocytaire) ; cholestase = PAL, γGT, bilirubine conjuguée ↑ (défaut d'écoulement biliaire).",
+    "source": {
+      "page": 9,
+      "extrait": "PAL, γGT et bilirubine conjuguée augmentées — Défaut d'écoulement de la bile"
+    },
+    "difficulte": 1,
+    "tags": [
+      "syndromes biologiques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/03-hepatites/qcm-027",
+    "type": "multiple",
+    "enonce": "L'insuffisance hépatocellulaire se traduit biologiquement par :",
+    "options": [
+      "Une diminution du TP",
+      "Une diminution du facteur V",
+      "Une diminution de l'albumine",
+      "Une augmentation des ALAT",
+      "Une hypergammaglobulinémie polyclonale"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "IHC : TP, facteur V et albumine diminués (défaut de synthèse, marqueur de gravité).",
+    "source": {
+      "page": 9,
+      "extrait": "TP, facteur V et albumine diminués — Défaut de synthèse : marqueur de gravité"
+    },
+    "difficulte": 2,
+    "tags": [
+      "syndromes biologiques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/03-hepatites/qcm-028",
+    "type": "unique",
+    "enonce": "Le syndrome inflammatoire au cours des hépatites se traduit par :",
+    "options": [
+      "Une hypogammaglobulinémie",
+      "Une hypergammaglobulinémie polyclonale",
+      "Une hypergammaglobulinémie monoclonale",
+      "Une baisse du facteur V",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Syndrome inflammatoire : hypergammaglobulinémie polyclonale, surtout dans les formes chroniques.",
+    "source": {
+      "page": 9,
+      "extrait": "Hypergammaglobulinémie polyclonale — Surtout dans les formes chroniques"
+    },
+    "difficulte": 2,
+    "tags": [
+      "syndromes biologiques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/03-hepatites/qcm-029",
+    "type": "multiple",
+    "enonce": "Concernant les transaminases :",
+    "options": [
+      "L'ALAT est plus spécifique du foie",
+      "L'ASAT existe aussi dans le muscle et le cœur",
+      "Un rapport ASAT/ALAT > 1 fait penser à l'alcool ou à la cirrhose",
+      "Le taux des transaminases reflète la gravité",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Le taux des transaminases ne reflète PAS la gravité ; celle-ci se juge sur le TP et l'encéphalopathie.",
+    "source": {
+      "page": 10,
+      "extrait": "Le taux des transaminases ne reflète pas la gravité"
+    },
+    "difficulte": 2,
+    "tags": [
+      "cytolyse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/03-hepatites/qcm-030",
+    "type": "multiple",
+    "enonce": "Le profil type d'une hépatite aiguë comporte :",
+    "options": [
+      "ALAT à 30 N",
+      "ASAT à 20 N",
+      "PAL et γGT peu élevées",
+      "TP normal",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Profil type : ALAT 30 N, ASAT 20 N, PAL et γGT peu élevées, TP normal.",
+    "source": {
+      "page": 10,
+      "extrait": "Profil type : ALAT 30 N, ASAT 20 N, PAL et γGT peu élevées, TP normal"
+    },
+    "difficulte": 2,
+    "tags": [
+      "cytolyse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/03-hepatites/qcm-031",
+    "type": "multiple",
+    "enonce": "Concernant l'interprétation du taux de transaminases :",
+    "options": [
+      "Une cytolyse > 10 N oriente vers une hépatite aiguë",
+      "Dans l'hépatite aiguë, ALAT > ASAT",
+      "Une cytolyse < 5 à 10 N, fluctuante, oriente vers une hépatite chronique",
+      "Dans l'hépatite aiguë virale typique, ASAT > ALAT",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "> 10 N avec ALAT > ASAT : hépatite aiguë ; < 5 à 10 N fluctuante : hépatite chronique. ASAT > ALAT oriente vers l'alcool ou la cirrhose.",
+    "source": {
+      "page": 10,
+      "extrait": "> 10 N Hépatite aiguë, ALAT > ASAT ; < 5 à 10 N Hépatite chronique, fluctuante"
+    },
+    "difficulte": 2,
+    "tags": [
+      "cytolyse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/03-hepatites/qcm-032",
+    "type": "unique",
+    "enonce": "Un rapport ASAT/ALAT > 1 doit faire penser à :",
+    "options": [
+      "Une hépatite A",
+      "Une hépatite médicamenteuse cholestatique",
+      "L'alcool ou la cirrhose",
+      "Une carence en vitamine K",
+      "Une grossesse"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "ASAT/ALAT > 1 : penser à l'alcool ou à la cirrhose.",
+    "source": {
+      "page": 10,
+      "extrait": "ASAT/ALAT > 1 : penser à l'alcool ou à la cirrhose"
+    },
+    "difficulte": 1,
+    "tags": [
+      "cytolyse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/03-hepatites/qcm-033",
+    "type": "multiple",
+    "enonce": "Concernant la cholestase :",
+    "options": [
+      "PAL et γGT augmentent ensemble",
+      "Une PAL isolée peut être d'origine osseuse",
+      "Une PAL isolée peut s'observer au cours de la grossesse",
+      "Une γGT isolée peut être due à l'alcool, aux inducteurs enzymatiques ou à une stéatose",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Dans la cholestase, PAL et γGT augmentent ensemble ; PAL isolée : os, grossesse ; γGT isolée : alcool, inducteurs enzymatiques, stéatose.",
+    "source": {
+      "page": 11,
+      "extrait": "PAL isolée : os, grossesse ; γGT isolée : alcool, inducteurs enzymatiques, stéatose"
+    },
+    "difficulte": 2,
+    "tags": [
+      "cholestase"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/03-hepatites/qcm-034",
+    "type": "unique",
+    "enonce": "Une élévation isolée de la γGT (PAL normales) peut s'expliquer par :",
+    "options": [
+      "Une grossesse",
+      "Une atteinte osseuse",
+      "Des inducteurs enzymatiques",
+      "Une carence en vitamine K",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "γGT isolée : alcool, inducteurs enzymatiques, stéatose. La grossesse et l'os expliquent une PAL isolée.",
+    "source": {
+      "page": 11,
+      "extrait": "γGT isolée : alcool, inducteurs enzymatiques, stéatose"
+    },
+    "difficulte": 2,
+    "tags": [
+      "cholestase"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/03-hepatites/qcm-035",
+    "type": "multiple",
+    "enonce": "Concernant l'insuffisance hépatocellulaire :",
+    "options": [
+      "Le TP est le paramètre clé du pronostic",
+      "TP bas et facteur V bas : insuffisance hépatique",
+      "TP bas et facteur V normal : carence en vitamine K",
+      "L'albumine baisse surtout dans les atteintes chroniques",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le TP est le paramètre pronostique clé ; le facteur V distingue insuffisance hépatique (V bas) et carence en vitamine K (V normal) ; l'albumine baisse surtout dans les atteintes chroniques.",
+    "source": {
+      "page": 11,
+      "extrait": "TP bas et facteur V normal : carence en vitamine K"
+    },
+    "difficulte": 2,
+    "tags": [
+      "insuffisance hépatocellulaire"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/03-hepatites/qcm-036",
+    "type": "unique",
+    "enonce": "Un patient a un TP bas avec un facteur V normal. Selon le cours, il s'agit de :",
+    "options": [
+      "Une insuffisance hépatique",
+      "Une carence en vitamine K",
+      "Une hépatite fulminante",
+      "Une cholestase isolée",
+      "Une cytolyse"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "TP bas et facteur V normal : carence en vitamine K ; TP et facteur V bas : insuffisance hépatique.",
+    "source": {
+      "page": 11,
+      "extrait": "TP bas et facteur V normal : carence en vitamine K"
+    },
+    "difficulte": 3,
+    "tags": [
+      "insuffisance hépatocellulaire"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/03-hepatites/qcm-037",
+    "type": "unique",
+    "enonce": "Le paramètre qui définit la gravité d'une hépatite aiguë est :",
+    "options": [
+      "Le taux d'ALAT",
+      "Le taux de prothrombine (TP)",
+      "La bilirubine totale",
+      "La γGT",
+      "Les PAL"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "La gravité se juge sur le TP et l'encéphalopathie, pas sur les transaminases.",
+    "source": {
+      "page": 12,
+      "extrait": "La gravité se juge sur le TP et l'encéphalopathie"
+    },
+    "difficulte": 1,
+    "tags": [
+      "gravité"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/03-hepatites/qcm-038",
+    "type": "multiple",
+    "enonce": "Concernant les formes graves d'hépatite aiguë :",
+    "options": [
+      "L'hépatite aiguë sévère est définie par un TP < 50 %",
+      "L'hépatite fulminante associe TP < 50 % et encéphalopathie dans les 2 semaines suivant l'ictère",
+      "L'hépatite subfulminante comporte une encéphalopathie entre 2 et 12 semaines après l'ictère",
+      "Toute hépatite aiguë impose un dosage du TP",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Les définitions de l'hépatite sévère, fulminante et subfulminante sont celles du cours ; toute hépatite aiguë impose un dosage du TP.",
+    "source": {
+      "page": 12,
+      "extrait": "Hépatite fulminante TP inférieur à 50 % et encéphalopathie dans les 2 semaines suivant l'ictère"
+    },
+    "difficulte": 2,
+    "tags": [
+      "gravité"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/03-hepatites/qcm-039",
+    "type": "unique",
+    "enonce": "Une encéphalopathie survenant 5 semaines après le début de l'ictère définit une hépatite :",
+    "options": [
+      "Aiguë sévère sans encéphalopathie",
+      "Fulminante",
+      "Subfulminante",
+      "Chronique",
+      "Cholestatique"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Encéphalopathie entre 2 et 12 semaines après l'ictère = hépatite subfulminante ; dans les 2 premières semaines = fulminante.",
+    "source": {
+      "page": 12,
+      "extrait": "Hépatite subfulminante Encéphalopathie entre 2 et 12 semaines après l'ictère"
+    },
+    "difficulte": 3,
+    "tags": [
+      "gravité"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/03-hepatites/qcm-040",
+    "type": "multiple",
+    "enonce": "Parmi les signes d'alerte d'une hépatite grave, on cite :",
+    "options": [
+      "Somnolence, inversion du rythme veille-sommeil",
+      "Confusion, astérixis, puis coma",
+      "Saignements des gencives, du nez, ecchymoses",
+      "Fœtor hepaticus",
+      "Hypoglycémie"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Tous ces signes figurent parmi les signes d'alerte.",
+    "source": {
+      "page": 13,
+      "extrait": "Somnolence, inversion du rythme veille-sommeil ; Confusion, astérixis, puis coma"
+    },
+    "difficulte": 2,
+    "tags": [
+      "gravité",
+      "signes d'alerte"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/03-hepatites/qcm-041",
+    "type": "multiple",
+    "enonce": "Devant des signes d'alerte d'hépatite grave, la conduite à tenir comprend :",
+    "options": [
+      "Une hospitalisation en urgence",
+      "Un contact avec un centre de transplantation hépatique",
+      "L'arrêt de tout médicament hépatotoxique ou sédatif",
+      "L'arrêt du paracétamol, des AINS et des benzodiazépines",
+      "La prescription de benzodiazépines contre l'agitation"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Conduite : hospitalisation en urgence, contact avec un centre de transplantation, arrêt des médicaments hépatotoxiques ou sédatifs (paracétamol, AINS, benzodiazépines).",
+    "source": {
+      "page": 13,
+      "extrait": "Arrêt de tout médicament hépatotoxique ou sédatif : paracétamol, AINS, benzodiazépines"
+    },
+    "difficulte": 2,
+    "tags": [
+      "gravité",
+      "conduite à tenir"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/03-hepatites/qcm-042",
+    "type": "multiple",
+    "enonce": "Concernant l'hépatite chronique :",
+    "options": [
+      "Elle reste longtemps silencieuse",
+      "Elle peut se limiter à une asthénie isolée",
+      "La cytolyse est modérée, fluctuante, découverte fortuitement ou au dépistage",
+      "La fibrose est évaluée par élastométrie, scores biologiques ou biopsie",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "L'hépatite chronique reste longtemps silencieuse ; cytolyse modérée et fluctuante ; fibrose évaluée par élastométrie, scores biologiques ou biopsie.",
+    "source": {
+      "page": 14,
+      "extrait": "Cytolyse modérée, fluctuante, découverte fortuitement ou au dépistage"
+    },
+    "difficulte": 1,
+    "tags": [
+      "hépatite chronique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/03-hepatites/qcm-043",
+    "type": "multiple",
+    "enonce": "Parmi les manifestations extra-hépatiques suivantes, associez correctement au virus :",
+    "options": [
+      "Cryoglobulinémie — VHC",
+      "Vascularite — VHC",
+      "Périartérite noueuse — VHB",
+      "Glomérulonéphrite — VHB",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Cryoglobulinémie et vascularite (VHC) ; périartérite noueuse et glomérulonéphrite (VHB).",
+    "source": {
+      "page": 14,
+      "extrait": "cryoglobulinémie et vascularite (VHC), périartérite noueuse et glomérulonéphrite (VHB)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "hépatite chronique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/03-hepatites/qcm-044",
+    "type": "unique",
+    "enonce": "L'évolution naturelle de l'hépatite chronique décrite dans le cours est :",
+    "options": [
+      "Hépatite chronique → cirrhose → fibrose → carcinome",
+      "Hépatite chronique → fibrose → cirrhose → carcinome hépatocellulaire",
+      "Fibrose → hépatite chronique → carcinome → cirrhose",
+      "Hépatite chronique → carcinome → cirrhose",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Hépatite chronique → fibrose → cirrhose → carcinome hépatocellulaire.",
+    "source": {
+      "page": 14,
+      "extrait": "Hépatite chronique → Fibrose → Cirrhose → Carcinome hépatocellulaire"
+    },
+    "difficulte": 1,
+    "tags": [
+      "hépatite chronique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/03-hepatites/qcm-045",
+    "type": "multiple",
+    "enonce": "Au stade de cirrhose, les signes d'insuffisance hépatocellulaire comprennent :",
+    "options": [
+      "Angiomes stellaires",
+      "Érythrose palmaire",
+      "Ongles blancs",
+      "Gynécomastie",
+      "Splénomégalie"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Angiomes stellaires, érythrose palmaire, ongles blancs, ictère, gynécomastie, encéphalopathie relèvent de l'IHC. La splénomégalie relève de l'hypertension portale.",
+    "source": {
+      "page": 15,
+      "extrait": "Angiomes stellaires, érythrose palmaire, ongles blancs ; Ictère, gynécomastie, encéphalopathie"
+    },
+    "difficulte": 2,
+    "tags": [
+      "cirrhose"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/03-hepatites/qcm-046",
+    "type": "multiple",
+    "enonce": "Au stade de cirrhose, les signes d'hypertension portale comprennent :",
+    "options": [
+      "Splénomégalie",
+      "Circulation veineuse collatérale",
+      "Ascite",
+      "Varices œsophagiennes",
+      "Thrombopénie et leucopénie (hypersplénisme)"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Tous ces signes sont classés dans l'hypertension portale.",
+    "source": {
+      "page": 15,
+      "extrait": "Splénomégalie, circulation veineuse collatérale ; Ascite, varices œsophagiennes"
+    },
+    "difficulte": 2,
+    "tags": [
+      "cirrhose"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/03-hepatites/qcm-047",
+    "type": "multiple",
+    "enonce": "Concernant la cirrhose, cochez les propositions exactes :",
+    "options": [
+      "Le foie est dur à bord inférieur tranchant",
+      "L'électrophorèse montre un bloc bêta-gamma",
+      "Les angiomes stellaires sont un signe d'hypertension portale",
+      "La thrombopénie est liée à l'hypersplénisme",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      0,
+      1,
+      3
+    ],
+    "explication": "Les angiomes stellaires relèvent de l'insuffisance hépatocellulaire. Foie dur à bord tranchant, bloc bêta-gamma et thrombopénie d'hypersplénisme sont exacts.",
+    "source": {
+      "page": 15,
+      "extrait": "Foie dur à bord inférieur tranchant ; bloc bêta-gamma à l'électrophorèse."
+    },
+    "difficulte": 3,
+    "tags": [
+      "cirrhose"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/03-hepatites/qcm-048",
+    "type": "multiple",
+    "enonce": "Parmi les virus suivants, lesquels se transmettent par voie féco-orale ?",
+    "options": [
+      "VHA",
+      "VHB",
+      "VHC",
+      "VHD",
+      "VHE"
+    ],
+    "correctes": [
+      0,
+      4
+    ],
+    "explication": "VHA (féco-orale) et VHE (féco-orale, alimentaire). VHB, VHC, VHD se transmettent par le sang (± sexuelle, mère-enfant).",
+    "source": {
+      "page": 17,
+      "extrait": "VHA (ARN) Féco-orale ; VHE (ARN) Féco-orale, alimentaire"
+    },
+    "difficulte": 1,
+    "tags": [
+      "virus"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/03-hepatites/qcm-049",
+    "type": "unique",
+    "enonce": "Parmi les virus des hépatites, lequel est à ADN ?",
+    "options": [
+      "VHA",
+      "VHB",
+      "VHC",
+      "VHD",
+      "VHE"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Seul le VHB est un virus à ADN ; VHA, VHC, VHD et VHE sont à ARN.",
+    "source": {
+      "page": 17,
+      "extrait": "VHB (ADN) Sang, sexuelle, mère-enfant"
+    },
+    "difficulte": 1,
+    "tags": [
+      "virus"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/03-hepatites/qcm-050",
+    "type": "multiple",
+    "enonce": "Concernant le VHA :",
+    "options": [
+      "C'est un virus à ARN",
+      "Sa transmission est féco-orale",
+      "Son incubation est de 15 à 45 jours",
+      "Il n'évolue jamais vers la chronicité",
+      "Son diagnostic repose sur les IgM anti-VHA"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Toutes les propositions correspondent au tableau des virus ; un vaccin existe également.",
+    "source": {
+      "page": 17,
+      "extrait": "VHA (ARN) Féco-orale 15 à 45 jours Jamais IgM anti-VHA Oui"
+    },
+    "difficulte": 1,
+    "tags": [
+      "VHA"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/03-hepatites/qcm-051",
+    "type": "multiple",
+    "enonce": "Concernant le VHB :",
+    "options": [
+      "Il se transmet par voie sanguine, sexuelle et mère-enfant",
+      "Son incubation est de 1 à 6 mois",
+      "Le passage à la chronicité est de 5 à 10 % chez l'adulte",
+      "Le passage à la chronicité est de 90 % chez le nouveau-né",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "VHB : sang, sexuelle, mère-enfant ; incubation 1 à 6 mois ; chronicité 5–10 % chez l'adulte, 90 % chez le nouveau-né ; diagnostic Ag HBs, IgM anti-HBc ; vaccin disponible.",
+    "source": {
+      "page": 17,
+      "extrait": "1 à 6 mois 5 à 10 % adulte, 90 % nouveau-né Ag HBs, IgM anti-HBc Oui"
+    },
+    "difficulte": 2,
+    "tags": [
+      "VHB"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/03-hepatites/qcm-052",
+    "type": "multiple",
+    "enonce": "Concernant le VHC :",
+    "options": [
+      "Il se transmet par le sang",
+      "Il évolue vers la chronicité dans environ 70 % des cas",
+      "Le diagnostic repose sur les Ac anti-VHC, puis l'ARN",
+      "Il existe un vaccin",
+      "Son incubation va de 2 semaines à 6 mois"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explication": "Il n'existe PAS de vaccin contre le VHC. Les autres données sont celles du tableau.",
+    "source": {
+      "page": 17,
+      "extrait": "VHC (ARN) Sang 2 semaines à 6 mois Environ 70 % Ac anti-VHC, puis ARN Non"
+    },
+    "difficulte": 2,
+    "tags": [
+      "VHC"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/03-hepatites/qcm-053",
+    "type": "unique",
+    "enonce": "Le virus des hépatites dont le taux de passage à la chronicité est d'environ 70 % est :",
+    "options": [
+      "VHA",
+      "VHB chez l'adulte",
+      "VHC",
+      "VHE",
+      "VHD en co-infection"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "La chronicité du VHC est d'environ 70 %.",
+    "source": {
+      "page": 17,
+      "extrait": "VHC (ARN) Sang 2 semaines à 6 mois Environ 70 %"
+    },
+    "difficulte": 1,
+    "tags": [
+      "VHC"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/03-hepatites/qcm-054",
+    "type": "multiple",
+    "enonce": "Concernant le VHD :",
+    "options": [
+      "C'est un virus à ARN",
+      "Il se transmet par le sang et la voie sexuelle",
+      "Il est associé au VHB",
+      "La chronicité est fréquente en surinfection",
+      "La prévention repose sur le vaccin anti-VHB"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "VHD : ARN, sang et sexuelle, avec le VHB ; chronicité fréquente en surinfection ; diagnostic Ac anti-VHD ; prévention par le vaccin anti-VHB.",
+    "source": {
+      "page": 17,
+      "extrait": "VHD (ARN) Sang, sexuelle ; avec le VHB 1 à 6 mois Fréquente en surinfection Ac anti-VHD Anti-VHB"
+    },
+    "difficulte": 2,
+    "tags": [
+      "VHD"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/03-hepatites/qcm-055",
+    "type": "multiple",
+    "enonce": "Concernant le VHE :",
+    "options": [
+      "Sa transmission est féco-orale et alimentaire",
+      "Son incubation est de 15 à 60 jours",
+      "Il n'évolue vers la chronicité que chez l'immunodéprimé",
+      "Le diagnostic repose sur les IgM anti-VHE",
+      "Il existe un vaccin selon le tableau du cours"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Selon le tableau, il n'y a pas de vaccin pour le VHE (« Non »). Chronicité seulement chez l'immunodéprimé.",
+    "source": {
+      "page": 17,
+      "extrait": "VHE (ARN) Féco-orale, alimentaire 15 à 60 jours Immunodéprimé seulement IgM anti-VHE Non"
+    },
+    "difficulte": 2,
+    "tags": [
+      "VHE"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/03-hepatites/qcm-056",
+    "type": "multiple",
+    "enonce": "Selon le tableau du cours, un vaccin est disponible contre :",
+    "options": [
+      "VHA",
+      "VHB",
+      "VHC",
+      "VHE",
+      "VHD (via le vaccin anti-VHB)"
+    ],
+    "correctes": [
+      0,
+      1,
+      4
+    ],
+    "explication": "Vaccin : oui pour VHA et VHB ; anti-VHB pour le VHD ; non pour VHC et VHE.",
+    "source": {
+      "page": 17,
+      "extrait": "Vaccin … Oui … Oui … Non … Anti-VHB … Non"
+    },
+    "difficulte": 2,
+    "tags": [
+      "virus",
+      "vaccin"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/03-hepatites/qcm-057",
+    "type": "multiple",
+    "enonce": "Les marqueurs sérologiques du diagnostic viral cités dans les points clés sont :",
+    "options": [
+      "IgM anti-VHA",
+      "Ag HBs",
+      "Ac anti-VHC",
+      "IgM anti-VHE",
+      "IgG anti-VHA"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Diagnostic viral sérologique : IgM anti-VHA, Ag HBs, Ac anti-VHC, IgM anti-VHE.",
+    "source": {
+      "page": 25,
+      "extrait": "Diagnostic viral sérologique : IgM anti-VHA, Ag HBs, Ac anti-VHC, IgM anti-VHE"
+    },
+    "difficulte": 1,
+    "tags": [
+      "virus"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/03-hepatites/qcm-058",
+    "type": "unique",
+    "enonce": "Quel profil sérologique correspond à un sujet vacciné contre l'hépatite B ?",
+    "options": [
+      "Ag HBs +, IgM anti-HBc +",
+      "Ag HBs −, Ac anti-HBc +, Ac anti-HBs +",
+      "Ag HBs −, Ac anti-HBc −, Ac anti-HBs +",
+      "Ag HBs +, Ac anti-HBs +",
+      "Tous les marqueurs négatifs"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Le sujet vacciné n'a que des Ac anti-HBs (pas d'anti-HBc, qui traduit un contact avec le virus).",
+    "source": {
+      "page": 18,
+      "extrait": "− − + Sujet vacciné"
+    },
+    "difficulte": 2,
+    "tags": [
+      "marqueurs VHB"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/03-hepatites/qcm-059",
+    "type": "unique",
+    "enonce": "Le profil Ag HBs +, IgM anti-HBc +, Ac anti-HBs − correspond à :",
+    "options": [
+      "Une hépatite B aiguë",
+      "Une infection chronique",
+      "Une infection ancienne guérie",
+      "Un sujet vacciné",
+      "Un sujet non immunisé"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Ag HBs + avec IgM anti-HBc = hépatite B aiguë.",
+    "source": {
+      "page": 18,
+      "extrait": "+ + (IgM) − Hépatite B aiguë"
+    },
+    "difficulte": 2,
+    "tags": [
+      "marqueurs VHB"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/03-hepatites/qcm-060",
+    "type": "unique",
+    "enonce": "Le profil Ag HBs − , Ac anti-HBc +, Ac anti-HBs + correspond à :",
+    "options": [
+      "Une hépatite B aiguë",
+      "Une infection chronique",
+      "Une infection ancienne guérie",
+      "Un sujet vacciné",
+      "Un sujet à vacciner"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Anti-HBc + et anti-HBs + sans Ag HBs = infection ancienne guérie.",
+    "source": {
+      "page": 18,
+      "extrait": "− + + Infection ancienne guérie"
+    },
+    "difficulte": 2,
+    "tags": [
+      "marqueurs VHB"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/03-hepatites/qcm-061",
+    "type": "multiple",
+    "enonce": "Concernant l'infection chronique par le VHB :",
+    "options": [
+      "L'Ag HBs est positif depuis plus de 6 mois",
+      "Les Ac anti-HBc sont de type IgG",
+      "Les Ac anti-HBs sont négatifs",
+      "Les Ac anti-HBc sont de type IgM exclusivement",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Infection chronique : Ag HBs + (> 6 mois), anti-HBc IgG +, anti-HBs −.",
+    "source": {
+      "page": 18,
+      "extrait": "+ (plus de 6 mois) + (IgG) − Infection chronique"
+    },
+    "difficulte": 2,
+    "tags": [
+      "marqueurs VHB"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/03-hepatites/qcm-062",
+    "type": "multiple",
+    "enonce": "Concernant les marqueurs viraux :",
+    "options": [
+      "Tous les marqueurs VHB négatifs signent un sujet non immunisé, à vacciner",
+      "L'ADN viral et le système HBe témoignent de la réplication du VHB",
+      "Pour le VHC, seul l'ARN viral affirme l'infection active",
+      "Les Ac anti-VHC suffisent à affirmer l'infection active",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Pour le VHC, seul l'ARN viral affirme l'infection active ; les Ac anti-VHC ne suffisent pas.",
+    "source": {
+      "page": 18,
+      "extrait": "Pour le VHC, seul l'ARN viral affirme l'infection active."
+    },
+    "difficulte": 3,
+    "tags": [
+      "marqueurs"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/03-hepatites/qcm-063",
+    "type": "multiple",
+    "enonce": "Associez la cause d'hépatite à ses éléments d'orientation, selon le cours :",
+    "options": [
+      "Alcool — ASAT > ALAT, γGT élevée, macrocytose",
+      "Hépatite auto-immune — femme, hypergammaglobulinémie IgG, auto-anticorps",
+      "Stéatohépatite métabolique — obésité, diabète, dyslipidémie",
+      "Maladie de Wilson — sujet jeune, céruloplasmine basse",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Les quatre associations correspondent au tableau des autres causes.",
+    "source": {
+      "page": 19,
+      "extrait": "Hépatite auto-immune Femme, hypergammaglobulinémie IgG, auto-anticorps"
+    },
+    "difficulte": 2,
+    "tags": [
+      "autres causes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/03-hepatites/qcm-064",
+    "type": "unique",
+    "enonce": "Une cytolyse massive et brève dans un contexte de choc ou d'insuffisance cardiaque évoque :",
+    "options": [
+      "Une hépatite auto-immune",
+      "Une ischémie hépatique",
+      "Une maladie de Wilson",
+      "Une stéatohépatite métabolique",
+      "Une hépatite alcoolique"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Ischémie hépatique : choc, insuffisance cardiaque, cytolyse massive et brève.",
+    "source": {
+      "page": 19,
+      "extrait": "Ischémie hépatique Choc, insuffisance cardiaque, cytolyse massive et brève"
+    },
+    "difficulte": 2,
+    "tags": [
+      "autres causes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/03-hepatites/qcm-065",
+    "type": "unique",
+    "enonce": "Une hépatite chez un sujet jeune avec céruloplasmine basse évoque :",
+    "options": [
+      "Une hépatite auto-immune",
+      "Une maladie de Wilson",
+      "Une hépatite E",
+      "Une ischémie hépatique",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Maladie de Wilson : sujet jeune, céruloplasmine basse.",
+    "source": {
+      "page": 19,
+      "extrait": "Maladie de Wilson Sujet jeune, céruloplasmine basse"
+    },
+    "difficulte": 1,
+    "tags": [
+      "autres causes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/03-hepatites/qcm-066",
+    "type": "multiple",
+    "enonce": "Parmi les « autres virus » pouvant donner une hépatite, le cours cite :",
+    "options": [
+      "EBV",
+      "CMV",
+      "Herpès",
+      "VIH",
+      "Grippe"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Autres virus : EBV, CMV, herpès.",
+    "source": {
+      "page": 19,
+      "extrait": "Autres virus EBV, CMV, herpès"
+    },
+    "difficulte": 2,
+    "tags": [
+      "autres causes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/03-hepatites/qcm-067",
+    "type": "multiple",
+    "enonce": "Concernant la toxicité hépatique directe des médicaments :",
+    "options": [
+      "Elle est dose-dépendante",
+      "Elle est prévisible",
+      "Son délai est court, quelques jours",
+      "Le paracétamol en est l'exemple",
+      "Son délai est de 5 à 90 jours"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Toxicité directe : dose-dépendante, prévisible, délai court (quelques jours), ex. paracétamol. Le délai de 5 à 90 jours caractérise l'idiosyncrasie.",
+    "source": {
+      "page": 20,
+      "extrait": "Toxicité directe Dose-dépendante et prévisible Délai court, quelques jours Exemple : paracétamol"
+    },
+    "difficulte": 2,
+    "tags": [
+      "hépatite médicamenteuse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/03-hepatites/qcm-068",
+    "type": "multiple",
+    "enonce": "Concernant l'hépatotoxicité par idiosyncrasie :",
+    "options": [
+      "Elle est imprévisible",
+      "Elle est indépendante de la dose",
+      "Son délai est de 5 à 90 jours",
+      "L'isoniazide et l'amoxicilline-acide clavulanique en sont des exemples",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Idiosyncrasie : imprévisible, indépendante de la dose, délai 5 à 90 jours ; exemples : isoniazide, amoxicilline-acide clavulanique.",
+    "source": {
+      "page": 20,
+      "extrait": "Imprévisible, indépendante de la dose Délai de 5 à 90 jours"
+    },
+    "difficulte": 2,
+    "tags": [
+      "hépatite médicamenteuse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/03-hepatites/qcm-069",
+    "type": "unique",
+    "enonce": "Selon le cours, est suspect de responsabilité dans une hépatite tout médicament, plante ou complément alimentaire pris dans les :",
+    "options": [
+      "7 derniers jours",
+      "15 derniers jours",
+      "3 derniers mois",
+      "6 derniers mois",
+      "12 derniers mois"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Tout médicament, plante ou complément alimentaire pris dans les 3 derniers mois est suspect.",
+    "source": {
+      "page": 20,
+      "extrait": "Tout médicament, plante ou complément alimentaire pris dans les 3 derniers mois est suspect."
+    },
+    "difficulte": 1,
+    "tags": [
+      "hépatite médicamenteuse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/03-hepatites/qcm-070",
+    "type": "multiple",
+    "enonce": "Concernant le rapport R des hépatites médicamenteuses :",
+    "options": [
+      "R = (ALAT/N) / (PAL/N)",
+      "R ≥ 5 définit un profil cytolytique",
+      "2 < R < 5 définit un profil mixte",
+      "R ≤ 2 définit un profil cholestatique",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "R = (ALAT/N)/(PAL/N) : R ≥ 5 cytolytique, 2 < R < 5 mixte, R ≤ 2 cholestatique.",
+    "source": {
+      "page": 21,
+      "extrait": "R = (ALAT / N) / (PAL / N) R≥5 2<R<5 R≤2 Cytolytique Mixte Cholestatique"
+    },
+    "difficulte": 2,
+    "tags": [
+      "rapport R"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/03-hepatites/qcm-071",
+    "type": "multiple",
+    "enonce": "Parmi les médicaments suivants, lesquels donnent un profil cytolytique selon le cours ?",
+    "options": [
+      "Paracétamol",
+      "Isoniazide",
+      "Valproate",
+      "Chlorpromazine",
+      "Carbamazépine"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Cytolytique : paracétamol, isoniazide, pyrazinamide, AINS, valproate, kétoconazole. Chlorpromazine = cholestatique ; carbamazépine = mixte.",
+    "source": {
+      "page": 21,
+      "extrait": "Cytolytique Paracétamol, isoniazide, pyrazinamide, AINS, valproate, kétoconazole"
+    },
+    "difficulte": 2,
+    "tags": [
+      "rapport R"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/03-hepatites/qcm-072",
+    "type": "multiple",
+    "enonce": "Parmi les médicaments suivants, lesquels donnent un profil cholestatique selon le cours ?",
+    "options": [
+      "Amoxicilline-acide clavulanique",
+      "Chlorpromazine",
+      "Œstrogènes",
+      "Macrolides",
+      "Pyrazinamide"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Cholestatique : amoxicilline-acide clavulanique, chlorpromazine, œstrogènes, macrolides. Le pyrazinamide est cytolytique.",
+    "source": {
+      "page": 21,
+      "extrait": "Cholestatique Amoxicilline-acide clavulanique, chlorpromazine, œstrogènes, macrolides"
+    },
+    "difficulte": 2,
+    "tags": [
+      "rapport R"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/03-hepatites/qcm-073",
+    "type": "multiple",
+    "enonce": "Parmi les médicaments suivants, lesquels donnent un profil mixte selon le cours ?",
+    "options": [
+      "Carbamazépine",
+      "Phénytoïne",
+      "Sulfamides",
+      "Allopurinol",
+      "Kétoconazole"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Mixte : carbamazépine, phénytoïne, sulfamides, allopurinol. Le kétoconazole est cytolytique.",
+    "source": {
+      "page": 21,
+      "extrait": "Mixte Carbamazépine, phénytoïne, sulfamides, allopurinol"
+    },
+    "difficulte": 2,
+    "tags": [
+      "rapport R"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/03-hepatites/qcm-074",
+    "type": "unique",
+    "enonce": "Un patient présente ALAT = 12 N et PAL = 2 N. Le profil biologique est :",
+    "options": [
+      "Cytolytique",
+      "Mixte",
+      "Cholestatique",
+      "Ininterprétable",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "R = 12/2 = 6 ≥ 5 : profil cytolytique.",
+    "source": {
+      "page": 21,
+      "extrait": "R = (ALAT / N) / (PAL / N) R≥5 Cytolytique"
+    },
+    "difficulte": 3,
+    "tags": [
+      "rapport R"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/03-hepatites/qcm-075",
+    "type": "unique",
+    "enonce": "Un patient présente ALAT = 3 N et PAL = 2 N. Le profil biologique est :",
+    "options": [
+      "Cytolytique",
+      "Mixte",
+      "Cholestatique",
+      "Fulminant",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "R = 3/2 = 1,5 ≤ 2 : profil cholestatique.",
+    "source": {
+      "page": 21,
+      "extrait": "R≤2 Cholestatique"
+    },
+    "difficulte": 3,
+    "tags": [
+      "rapport R"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/03-hepatites/qcm-076",
+    "type": "multiple",
+    "enonce": "Les critères du diagnostic d'hépatite médicamenteuse (diagnostic d'élimination) comprennent :",
+    "options": [
+      "Un délai compatible entre le début du traitement et les signes",
+      "Une amélioration à l'arrêt du médicament",
+      "L'élimination des autres causes (virus, alcool, obstacle biliaire)",
+      "L'hépatotoxicité connue du produit",
+      "La réintroduction systématique pour confirmer"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "La réintroduction est CONTRE-INDIQUÉE. Les quatre autres éléments fondent le diagnostic chronologique.",
+    "source": {
+      "page": 22,
+      "extrait": "Réintroduction contre-indiquée"
+    },
+    "difficulte": 2,
+    "tags": [
+      "hépatite médicamenteuse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/03-hepatites/qcm-077",
+    "type": "multiple",
+    "enonce": "Les signes de gravité d'une hépatite médicamenteuse sont :",
+    "options": [
+      "ALAT > 3 N avec bilirubine > 2 N",
+      "Fièvre",
+      "Éruption",
+      "Hyperéosinophilie",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Signes de gravité : ALAT > 3 N avec bilirubine > 2 N ; fièvre, éruption, hyperéosinophilie.",
+    "source": {
+      "page": 22,
+      "extrait": "Signes de gravité : ALAT > 3 N avec bilirubine > 2 N ; fièvre, éruption, hyperéosinophilie."
+    },
+    "difficulte": 2,
+    "tags": [
+      "hépatite médicamenteuse",
+      "gravité"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/03-hepatites/qcm-078",
+    "type": "multiple",
+    "enonce": "Concernant l'hépatotoxicité du paracétamol :",
+    "options": [
+      "La dose maximale chez l'adulte est de 4 g/jour",
+      "La dose maximale est de 3 g/jour en cas de facteur de risque",
+      "Le seuil toxique en prise unique est de 150 mg/kg",
+      "L'antidote est la N-acétylcystéine, à donner tôt",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "4 g/j (3 g si facteur de risque) ; seuil toxique 150 mg/kg en prise unique ; antidote NAC précoce.",
+    "source": {
+      "page": 23,
+      "extrait": "4 g / jour 150 mg/kg NAC Dose maximale adulte ; 3 g si facteur de risque"
+    },
+    "difficulte": 1,
+    "tags": [
+      "paracétamol"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/03-hepatites/qcm-079",
+    "type": "multiple",
+    "enonce": "Concernant le mécanisme et les facteurs de risque de l'hépatotoxicité du paracétamol :",
+    "options": [
+      "Le métabolite réactif NAPQI épuise le glutathion hépatique",
+      "Le seuil toxique est abaissé en cas d'alcoolisme chronique",
+      "Le seuil est abaissé en cas de dénutrition ou de jeûne",
+      "Il faut se méfier des spécialités associées contenant du paracétamol",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le NAPQI épuise le glutathion ; seuil abaissé par l'alcoolisme chronique, la dénutrition, le jeûne ; attention aux associations cachées.",
+    "source": {
+      "page": 23,
+      "extrait": "Mécanisme : le métabolite réactif (NAPQI) épuise le glutathion hépatique"
+    },
+    "difficulte": 2,
+    "tags": [
+      "paracétamol"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/03-hepatites/qcm-080",
+    "type": "unique",
+    "enonce": "Le seuil toxique du paracétamol en prise unique est, selon le cours, de :",
+    "options": [
+      "50 mg/kg",
+      "100 mg/kg",
+      "150 mg/kg",
+      "200 mg/kg",
+      "4 g quel que soit le poids"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Seuil toxique en prise unique : 150 mg/kg.",
+    "source": {
+      "page": 23,
+      "extrait": "150 mg/kg Seuil toxique en prise unique"
+    },
+    "difficulte": 1,
+    "tags": [
+      "paracétamol"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/03-hepatites/qcm-081",
+    "type": "multiple",
+    "enonce": "Le rôle du pharmacien face aux hépatites comprend :",
+    "options": [
+      "Reconstituer toutes les prises : automédication, plantes, compléments",
+      "Repérer ictère, urines foncées, prurit ou asthénie sous traitement",
+      "Orienter en urgence si somnolence, confusion ou saignements",
+      "Déclarer au CPM et promouvoir vaccin anti-VHB et hygiène",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le cours liste six actions dont ces quatre, ainsi que le contrôle du paracétamol et le rappel du suivi hépatique (antituberculeux, méthotrexate).",
+    "source": {
+      "page": 24,
+      "extrait": "Reconstituer toutes les prises : automédication, plantes, compléments"
+    },
+    "difficulte": 1,
+    "tags": [
+      "pharmacien"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/03-hepatites/qcm-082",
+    "type": "multiple",
+    "enonce": "Une hépatite cholestatique (ictère + prurit) survient après 3 semaines d'amoxicilline-acide clavulanique. Cochez les propositions exactes :",
+    "options": [
+      "Le profil attendu est cholestatique",
+      "Le traitement doit être interrompu",
+      "La réintroduction doit être tentée pour confirmer",
+      "Les sérologies virales restent nécessaires",
+      "Le cas doit être déclaré en pharmacovigilance"
+    ],
+    "correctes": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "explication": "Amoxicilline-acide clavulanique = profil cholestatique ; arrêt du médicament, élimination des autres causes (sérologies), déclaration ; la réintroduction est contre-indiquée.",
+    "source": {
+      "page": 30,
+      "extrait": "Ictère avec prurit après 3 semaines d'amoxicilline-acide clavulanique"
+    },
+    "difficulte": 3,
+    "tags": [
+      "hépatite médicamenteuse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/03-hepatites/qcm-083",
+    "type": "multiple",
+    "enonce": "Au cours d'une hépatite aiguë ictérique, on observe habituellement :",
+    "options": [
+      "Des urines foncées",
+      "Des selles décolorées",
+      "Une bilirubine exclusivement non conjuguée",
+      "Des transaminases supérieures à 10 N",
+      "Une disparition de la fièvre à l'apparition de l'ictère"
+    ],
+    "correctes": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "explication": "La bilirubine augmentée est conjuguée (urines foncées). Urines foncées, selles décolorées, transaminases > 10 N et disparition de la fièvre sont exactes.",
+    "source": {
+      "page": 27,
+      "extrait": "Au cours d'une hépatite aiguë ictérique, on observe habituellement"
+    },
+    "difficulte": 2,
+    "tags": [
+      "synthèse"
+    ],
+    "origine": "genere"
+  }
+]

@@ -1,0 +1,2229 @@
+[
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/qcm-001",
+    "type": "multiple",
+    "enonce": "Concernant l'origine des grandes classes de métabolites secondaires, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Les composés phénoliques sont issus de l'aromagénèse",
+      "Les terpénoïdes sont issus de la biogenèse des terpénoïdes",
+      "Les alcaloïdes sont issus du métabolisme secondaire des acides aminés",
+      "Les composés phénoliques sont des métabolites primaires",
+      "Les alcaloïdes sont issus de l'aromagénèse"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Composés phénoliques = aromagénèse ; terpénoïdes = biogenèse des terpénoïdes ; alcaloïdes = métabolisme secondaire des acides aminés. Ce sont des métabolites secondaires.",
+    "source": {
+      "page": 3,
+      "extrait": "Les composés phénoliques constituent une vaste famille de métabolites secondaires issus de l'aromagénèse."
+    },
+    "difficulte": 1,
+    "tags": [
+      "introduction"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/qcm-002",
+    "type": "multiple",
+    "enonce": "Concernant la définition des composés phénoliques, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Ils possèdent un ou plusieurs noyaux aromatiques portant un ou plusieurs groupements hydroxyles",
+      "Un composé phénolique possède au moins une fonction phénolique",
+      "Les polyphénols comportent plusieurs fonctions phénoliques",
+      "Le phénol est un noyau benzénique portant un groupe hydroxyle",
+      "Un polyphénol ne comporte qu'une seule fonction phénolique"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Un polyphénol comporte plusieurs fonctions phénoliques.",
+    "source": {
+      "page": 4,
+      "extrait": "Un polyphénol : un composé comportant plusieurs fonctions phénoliques."
+    },
+    "difficulte": 1,
+    "tags": [
+      "définition"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/qcm-003",
+    "type": "multiple",
+    "enonce": "Concernant la diversité structurale des composés phénoliques, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "L'acide gallique et l'acide caféique sont des molécules simples",
+      "Les flavonoïdes et les stilbènes possèdent plusieurs noyaux aromatiques",
+      "Les tanins condensés sont des structures polymérisées",
+      "La procyanidine est un dimère flavanique",
+      "La quercétine est un acide phénolique simple"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "La quercétine est un flavonoïde.",
+    "source": {
+      "page": 5,
+      "extrait": "Molécules simples : acide gallique, acide caféique."
+    },
+    "difficulte": 1,
+    "tags": [
+      "définition"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/qcm-004",
+    "type": "multiple",
+    "enonce": "Concernant la distribution des composés phénoliques chez les végétaux, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "On les trouve dans les feuilles (thé, olivier)",
+      "On les trouve dans les écorces (chêne, saule)",
+      "On les trouve dans les racines et rhizomes (curcuma, gingembre)",
+      "Ils sont souvent plus concentrés dans les tissus externes",
+      "Chez la pomme, la chair est plus riche que la peau"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Chez la pomme, la peau présente une concentration nettement supérieure à celle de la chair.",
+    "source": {
+      "page": 6,
+      "extrait": "chez la pomme, la peau présente une concentration en composés phénoliques nettement supérieure à celle de la chair"
+    },
+    "difficulte": 1,
+    "tags": [
+      "distribution"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/qcm-005",
+    "type": "multiple",
+    "enonce": "Les rôles des composés phénoliques chez le végétal sont, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "La pigmentation des fleurs et des fruits",
+      "La protection contre les rayonnements UV",
+      "La défense contre les pathogènes et les herbivores",
+      "La réponse aux stress biotiques et abiotiques",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes exactes, avec l'intervention dans certains processus de croissance et de développement.",
+    "source": {
+      "page": 7,
+      "extrait": "Protection contre les rayonnements UV."
+    },
+    "difficulte": 1,
+    "tags": [
+      "rôles"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/qcm-006",
+    "type": "multiple",
+    "enonce": "Concernant l'origine biosynthétique des composés phénoliques, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Ils sont issus principalement de l'aromagénèse",
+      "La voie de l'acide shikimique est une des plus fréquentes",
+      "La voie mixte est une des plus fréquentes",
+      "La voie de l'acétate est moins fréquente chez les végétaux",
+      "La voie de l'acétate est la plus fréquente chez les végétaux"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Shikimate et voie mixte sont les plus fréquentes ; l'acétate est moins fréquente chez les végétaux.",
+    "source": {
+      "page": 8,
+      "extrait": "la voie de l'acétate, moins fréquente chez les végétaux."
+    },
+    "difficulte": 2,
+    "tags": [
+      "biosynthèse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/qcm-007",
+    "type": "multiple",
+    "enonce": "Sont issus de la voie du shikimate, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Les phénols simples",
+      "Les acides phénoliques",
+      "Les coumarines",
+      "Les lignanes et lignines",
+      "Les phloroglucinols"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Les phloroglucinols sont issus de la voie de l'acétate.",
+    "source": {
+      "page": 8,
+      "extrait": "Voie du shikimate Phénols simples Acides phénoliques Coumarines Lignanes Lignines"
+    },
+    "difficulte": 2,
+    "tags": [
+      "biosynthèse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/qcm-008",
+    "type": "multiple",
+    "enonce": "Sont issus de la voie mixte, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Les flavonoïdes",
+      "Les stilbènes",
+      "Les tanins",
+      "Les anthocyanes",
+      "Les lignanes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Les lignanes sont issus de la voie du shikimate.",
+    "source": {
+      "page": 21,
+      "extrait": "Composés phénoliques issus de la voie mixte Stilbènes C₆–C₂–C₆"
+    },
+    "difficulte": 2,
+    "tags": [
+      "biosynthèse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/qcm-009",
+    "type": "multiple",
+    "enonce": "Concernant la voie de l'acide shikimique (schéma du cours), cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Elle débute par la condensation du phosphoénolpyruvate (PEP) et de l'érythrose 4-phosphate",
+      "La DAHP synthétase intervient dans la première étape",
+      "Le chorismate est transformé en préphénate par la chorismate mutase",
+      "La phénylalanine ammonia-lyase (PAL) transforme la phénylalanine en acide cinnamique",
+      "L'acide salicylique dérive de l'acide isochorismique"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Toutes exactes : PEP + érythrose-4-P → DAHP → shikimate → chorismate → préphénate → phénylpyruvate → phénylalanine → (PAL) acide cinnamique → (hydroxylase) acide p-coumarique ; chorismate → isochorismate → acide salicylique.",
+    "source": {
+      "page": 9,
+      "extrait": "Phényl-alanine ammonia-lyase"
+    },
+    "difficulte": 3,
+    "tags": [
+      "shikimate"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/qcm-010",
+    "type": "unique",
+    "enonce": "L'enzyme qui transforme la phénylalanine en acide cinnamique est :",
+    "options": [
+      "La DAHP synthétase",
+      "La chorismate mutase",
+      "La phénylalanine ammonia-lyase (PAL)",
+      "L'hydroxylase",
+      "La polyphénol oxydase"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "La PAL désamine la phénylalanine en acide cinnamique ; une hydroxylase donne ensuite l'acide p-coumarique.",
+    "source": {
+      "page": 9,
+      "extrait": "PAL** Ac. cinnamique"
+    },
+    "difficulte": 2,
+    "tags": [
+      "shikimate"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/qcm-011",
+    "type": "unique",
+    "enonce": "L'acide p-coumarique est obtenu à partir de l'acide cinnamique par :",
+    "options": [
+      "Une désamination",
+      "Une hydroxylation",
+      "Une condensation de Claisen",
+      "Une décarboxylation",
+      "Une méthylation"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Acide cinnamique → (hydroxylase) → acide para-coumarique.",
+    "source": {
+      "page": 9,
+      "extrait": "Hydroxylase Ac. para-coumarique"
+    },
+    "difficulte": 2,
+    "tags": [
+      "shikimate"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/qcm-012",
+    "type": "multiple",
+    "enonce": "Concernant la voie de l'acétate (exemple du phloroglucinol), cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Elle fait intervenir des condensations de Claisen d'unités acétate",
+      "Elle aboutit à un poly-acétate qui se cyclise",
+      "Elle permet la formation du phloroglucinol",
+      "Le phloroglucinol est le principe actif du Spasfon®",
+      "Elle passe par le shikimate et le chorismate"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Shikimate et chorismate appartiennent à la voie de l'acide shikimique.",
+    "source": {
+      "page": 10,
+      "extrait": "Aromagenèse par la voie de l'acétate (Exemple du phloroglucinol)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "acétate"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/qcm-013",
+    "type": "multiple",
+    "enonce": "Les critères de classification des composés phénoliques sont, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "L'origine biosynthétique",
+      "Le degré de polymérisation",
+      "La structure carbonée",
+      "La couleur de la plante d'origine",
+      "Le pH de l'extrait"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Trois critères : origine biosynthétique, degré de polymérisation (mono-, oligo-, polymères), structure carbonée (C6, C6-C1, C6-C3…).",
+    "source": {
+      "page": 11,
+      "extrait": "Leur origine biosynthétique; • Leur degré de polymérisation"
+    },
+    "difficulte": 1,
+    "tags": [
+      "classification"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/qcm-014",
+    "type": "multiple",
+    "enonce": "Associez correctement la classe à son squelette carboné, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Phénols simples – C6",
+      "Acides hydroxybenzoïques – C6–C1",
+      "Acides hydroxycinnamiques – C6–C3",
+      "Stilbènes – C6–C2–C6",
+      "Flavonoïdes – C6–C1–C6"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Les flavonoïdes sont en C6–C3–C6.",
+    "source": {
+      "page": 12,
+      "extrait": "C₆–C₃–C₆ 15"
+    },
+    "difficulte": 2,
+    "tags": [
+      "classification"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/qcm-015",
+    "type": "multiple",
+    "enonce": "Concernant le nombre de carbones des squelettes de base, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Les phénols simples ont 6 carbones",
+      "Les acides hydroxybenzoïques ont 7 carbones",
+      "Les coumarines ont 9 carbones",
+      "Les stilbènes ont 14 carbones",
+      "Les flavonoïdes ont 18 carbones"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Flavonoïdes : 15 C ; ce sont les lignanes qui ont 18 C.",
+    "source": {
+      "page": 12,
+      "extrait": "C₆–C₂–C₆ 14 Stilbènes"
+    },
+    "difficulte": 3,
+    "tags": [
+      "classification"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/qcm-016",
+    "type": "unique",
+    "enonce": "Les lignanes ont un squelette :",
+    "options": [
+      "C6–C1",
+      "C6–C3",
+      "(C6–C3)2",
+      "C6–C2–C6",
+      "(C6–C3)n"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Lignanes = dimères (C6–C3)2, 18 C ; lignines = polymères (C6–C3)n.",
+    "source": {
+      "page": 19,
+      "extrait": "Les lignanes : dimères (C₆–C₃)₂"
+    },
+    "difficulte": 2,
+    "tags": [
+      "classification"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/qcm-017",
+    "type": "multiple",
+    "enonce": "Associez la classe à son exemple, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Phénols simples – catéchol, hydroquinone",
+      "Acides hydroxycinnamiques – acides caféique, férulique",
+      "Coumarines – ombelliférone",
+      "Lignanes – sésamine, pinorésinol",
+      "Stilbènes – amentoflavone"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Le stilbène cité est le resvératrol ; l'amentoflavone est un biflavonoïde.",
+    "source": {
+      "page": 12,
+      "extrait": "Stilbènes Resvératrol"
+    },
+    "difficulte": 2,
+    "tags": [
+      "classification"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/qcm-018",
+    "type": "multiple",
+    "enonce": "Concernant les acides hydroxybenzoïques et leurs dérivés, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Ils possèdent un noyau benzénique portant une fonction –COOH et un ou plusieurs –OH",
+      "Les acides salicylique et p-hydroxybenzoïque en sont des exemples",
+      "La vanilline est un dérivé aldéhydique",
+      "La saligénine (alcool salicylique) est un dérivé alcoolique",
+      "Ils ont une structure C6–C3"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Les acides hydroxybenzoïques sont en C6–C1.",
+    "source": {
+      "page": 16,
+      "extrait": "Vanilline Dérivé aldéhydique Saligénine Dérivé alcoolique"
+    },
+    "difficulte": 2,
+    "tags": [
+      "acides phénols"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/qcm-019",
+    "type": "multiple",
+    "enonce": "Concernant les acides hydroxycinnamiques, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Ils possèdent un noyau aromatique portant une chaîne latérale à trois carbones",
+      "La chaîne latérale comporte une fonction acide carboxylique",
+      "Ils ont un squelette C6–C3",
+      "L'acide caféique en est un exemple",
+      "L'acide gallique en est un exemple"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "L'acide gallique est un acide hydroxybenzoïque (C6–C1).",
+    "source": {
+      "page": 17,
+      "extrait": "Les acides hydroxycinnamiques possèdent un noyau aromatique portant une chaîne latérale à trois carbones"
+    },
+    "difficulte": 2,
+    "tags": [
+      "acides phénols"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/qcm-020",
+    "type": "multiple",
+    "enonce": "Concernant les coumarines, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Elles sont caractérisées par un squelette benzopyrone",
+      "Elles sont constituées d'un noyau benzénique fusionné à une lactone α-pyrone",
+      "Leur squelette est de type C6–C3 cyclisé",
+      "L'ombelliférone est un exemple",
+      "Elles sont issues de la voie de l'acétate"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Les coumarines sont issues de la voie du shikimate.",
+    "source": {
+      "page": 18,
+      "extrait": "squelette benzopyrone, constitué d'un noyau benzénique fusionné à une lactone α-pyrone"
+    },
+    "difficulte": 2,
+    "tags": [
+      "coumarines"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/qcm-021",
+    "type": "multiple",
+    "enonce": "Concernant les lignanes et les lignines, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Les lignanes résultent de l'association de deux unités phénylpropanoïdes",
+      "Les lignines sont des polymères (C6–C3)n",
+      "Les lignines sont un composant majeur de la paroi secondaire végétale",
+      "Les lignines résultent de la polymérisation oxydative de monolignols",
+      "Les monolignols sont reliés uniquement par des liaisons ester"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Les monolignols sont reliés par différentes liaisons, notamment éther et carbone-carbone.",
+    "source": {
+      "page": 20,
+      "extrait": "reliées entre elles par différentes liaisons, notamment éther et carbone-carbone"
+    },
+    "difficulte": 2,
+    "tags": [
+      "lignanes",
+      "lignines"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/qcm-022",
+    "type": "multiple",
+    "enonce": "Concernant les stilbènes, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Ils sont constitués de deux noyaux aromatiques reliés par une chaîne de deux carbones",
+      "Leur squelette est C6–C2–C6",
+      "Le resvératrol en est un exemple",
+      "Ils sont issus de la voie mixte",
+      "Ils comportent 15 carbones"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Les stilbènes comportent 14 carbones (C6–C2–C6).",
+    "source": {
+      "page": 21,
+      "extrait": "Constitués de deux noyaux aromatiques reliés par une chaîne de deux carbones."
+    },
+    "difficulte": 2,
+    "tags": [
+      "stilbènes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/qcm-023",
+    "type": "multiple",
+    "enonce": "Concernant la structure des flavonoïdes, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Ils comportent deux noyaux aromatiques A et B",
+      "Une chaîne à trois carbones forme généralement un hétérocycle oxygéné (cycle C)",
+      "Le cycle A est généralement issu de la voie des polyacétates",
+      "Le cycle B et l'unité C3 sont issus de la voie du shikimate via les phénylpropanoïdes",
+      "Le cycle A est issu de la voie du shikimate"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Cycle A : polyacétates ; cycle B + C3 : shikimate. D'où l'origine « mixte ».",
+    "source": {
+      "page": 22,
+      "extrait": "Le cycle A, généralement issu de la voie des polyacétates."
+    },
+    "difficulte": 3,
+    "tags": [
+      "flavonoïdes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/qcm-024",
+    "type": "unique",
+    "enonce": "Le cycle qui permet de distinguer les principales classes de flavonoïdes est :",
+    "options": [
+      "Le cycle A",
+      "Le cycle B",
+      "Le cycle C",
+      "Le noyau benzopyrone des coumarines",
+      "Le noyau cyclopenténique"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Le cycle C permet de distinguer les classes selon sa structure, son degré d'oxydation et la saturation de la chaîne.",
+    "source": {
+      "page": 22,
+      "extrait": "Le cycle C, qui permet de distinguer les principales classes de flavonoïdes"
+    },
+    "difficulte": 2,
+    "tags": [
+      "flavonoïdes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/qcm-025",
+    "type": "multiple",
+    "enonce": "Associez la classe de flavonoïdes à son exemple, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Flavonols – quercétine, kaempférol",
+      "Flavones – lutéoline, apigénine",
+      "Flavanones – naringénine, hespérétine",
+      "Isoflavones – génistéine, daidzéine",
+      "Flavanols – cyanidine, delphinidine"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Flavanols = catéchine, épicatéchine ; cyanidine et delphinidine sont des anthocyanidines.",
+    "source": {
+      "page": 23,
+      "extrait": "Flavanols Catéchine, épicatéchine Anthocyanidines Cyanidine, delphinidine"
+    },
+    "difficulte": 2,
+    "tags": [
+      "flavonoïdes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/qcm-026",
+    "type": "unique",
+    "enonce": "La génistéine est :",
+    "options": [
+      "Un flavonol",
+      "Une flavone",
+      "Une isoflavone",
+      "Un flavanol",
+      "Une anthocyanidine"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Isoflavones : génistéine, daidzéine.",
+    "source": {
+      "page": 23,
+      "extrait": "Isoflavones Génistéine, daidzéine"
+    },
+    "difficulte": 2,
+    "tags": [
+      "flavonoïdes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/qcm-027",
+    "type": "unique",
+    "enonce": "La naringénine appartient aux :",
+    "options": [
+      "Flavanones",
+      "Flavonols",
+      "Isoflavones",
+      "Stilbènes",
+      "Coumarines"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Flavanones : naringénine, hespérétine.",
+    "source": {
+      "page": 23,
+      "extrait": "Flavanones Naringénine, hespérétine"
+    },
+    "difficulte": 2,
+    "tags": [
+      "flavonoïdes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/qcm-028",
+    "type": "multiple",
+    "enonce": "Concernant les biflavonoïdes, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Ils sont constitués de deux unités flavonoïdiques associées",
+      "Leur squelette est (C6–C3–C6)2",
+      "L'amentoflavone en est un exemple",
+      "Ils comportent 30 carbones",
+      "Ils sont issus de la voie du shikimate seule"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Les biflavonoïdes appartiennent aux composés de la voie mixte.",
+    "source": {
+      "page": 24,
+      "extrait": "Biflavonoïdes (C₆–C₃–C₆)₂ Constitués de deux unités flavonoïdiques associées."
+    },
+    "difficulte": 2,
+    "tags": [
+      "biflavonoïdes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/qcm-029",
+    "type": "multiple",
+    "enonce": "Concernant les tanins, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Ils sont caractérisés par leur capacité à précipiter les protéines",
+      "Les tanins hydrolysables libèrent de l'acide gallique ou ellagique après hydrolyse",
+      "Les tanins condensés sont aussi appelés tanins catéchiques ou proanthocyanidines",
+      "Les tanins condensés sont des oligomères ou polymères de flavanols",
+      "Les gallotanins sont des tanins condensés"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Gallotanins et ellagitanins sont des tanins hydrolysables.",
+    "source": {
+      "page": 25,
+      "extrait": "Tanins hydrolysables: Libèrent l'acide gallique ou l'acide ellagique après hydrolyse."
+    },
+    "difficulte": 2,
+    "tags": [
+      "tanins"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/qcm-030",
+    "type": "unique",
+    "enonce": "Les procyanidines et prodelphinidines sont des :",
+    "options": [
+      "Tanins hydrolysables",
+      "Tanins condensés (proanthocyanidines)",
+      "Lignanes",
+      "Coumarines",
+      "Phloroglucinols"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Tanins condensés : proanthocyanidines (procyanidines, prodelphinidines).",
+    "source": {
+      "page": 12,
+      "extrait": "Proanthocyanidines : procyanidines, prodelphinidines"
+    },
+    "difficulte": 2,
+    "tags": [
+      "tanins"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/qcm-031",
+    "type": "multiple",
+    "enonce": "Composés phénoliques dérivés des polyacétates — associez le composé à sa source, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Humulone, lupulone – cônes femelles du houblon (Humulus lupulus)",
+      "Olivétol – Cannabis sativa",
+      "Juglone – feuilles de noyer (Juglans regia)",
+      "Lawsone – feuilles de henné (Lawsonia inermis)",
+      "Hypéricine – racines de rhubarbe"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "L'hypéricine provient des sommités fleuries du millepertuis ; la rhéine des racines et rhizomes de rhubarbe.",
+    "source": {
+      "page": 27,
+      "extrait": "Juglone : feuilles de noyer Juglans regia Lawsone : feuilles de henné Lawsonia inermis"
+    },
+    "difficulte": 2,
+    "tags": [
+      "polyacétates"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/qcm-032",
+    "type": "multiple",
+    "enonce": "Concernant les dérivés des polyacétates, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Humulone et lupulone sont des phloroglucinols",
+      "L'olivétol est un orcinol précurseur des cannabinoïdes",
+      "Juglone et lawsone sont des naphtoquinones",
+      "L'hypéricine est une naphtodianthrone",
+      "La rhéine est une naphtoquinone"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "La rhéine est un dérivé du 1,8-dihydroxyanthracène.",
+    "source": {
+      "page": 27,
+      "extrait": "Orcinols Olivétol Précurseur de la biosynthèse des cannabinoïdes"
+    },
+    "difficulte": 3,
+    "tags": [
+      "polyacétates"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/qcm-033",
+    "type": "unique",
+    "enonce": "L'hypéricine, naphtodianthrone, est présente dans :",
+    "options": [
+      "Les cônes de houblon",
+      "Les sommités fleuries du millepertuis (Hypericum perforatum)",
+      "Les feuilles de henné",
+      "Les racines de rhubarbe",
+      "Les feuilles de noyer"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Hypéricine : sommités fleuries du millepertuis.",
+    "source": {
+      "page": 27,
+      "extrait": "Hypéricine Sommités fleuries du millepertuis Hypericum perforatum"
+    },
+    "difficulte": 2,
+    "tags": [
+      "polyacétates"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/qcm-034",
+    "type": "multiple",
+    "enonce": "Concernant la solubilité des composés phénoliques, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Elle dépend du nombre et de la nature des groupements hydroxyles",
+      "Elle dépend du degré de glycosylation",
+      "Les flavonoïdes glycosylés sont plus hydrosolubles que leurs aglycones",
+      "Les acides phénoliques sont généralement polaires",
+      "Les tanins sont insolubles dans l'eau"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Les tanins sont solubles dans l'eau et les mélanges hydroalcooliques selon leur structure et leur masse.",
+    "source": {
+      "page": 28,
+      "extrait": "Flavonoïdes glycosylés Plus hydrosolubles que leurs aglycones"
+    },
+    "difficulte": 2,
+    "tags": [
+      "solubilité"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/qcm-035",
+    "type": "multiple",
+    "enonce": "Concernant les propriétés colorantes, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Les flavones et flavonols sont généralement incolores à jaune pâle",
+      "Les chalcones et aurones sont jaune à orangé",
+      "Les anthocyanes sont rouges, violettes ou bleues selon le pH",
+      "Les catéchines sont généralement incolores",
+      "Les catéchines sont rouge vif"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Les catéchines sont généralement incolores.",
+    "source": {
+      "page": 29,
+      "extrait": "Anthocyanes Rouge, violet ou bleu selon le pH"
+    },
+    "difficulte": 2,
+    "tags": [
+      "coloration"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/qcm-036",
+    "type": "unique",
+    "enonce": "Les chalcones et aurones présentent une coloration :",
+    "options": [
+      "Incolore",
+      "Jaune à orangé",
+      "Rouge à bleu selon le pH",
+      "Vert noirâtre",
+      "Brune"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Chalcones et aurones : jaune à orangé.",
+    "source": {
+      "page": 29,
+      "extrait": "Chalcones et aurones Jaune à orangé"
+    },
+    "difficulte": 2,
+    "tags": [
+      "coloration"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/qcm-037",
+    "type": "multiple",
+    "enonce": "Concernant les propriétés optiques des composés phénoliques, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "De nombreux composés phénoliques absorbent dans l'UV entre 240 et 280 nm",
+      "Les systèmes conjugués étendus peuvent absorber dans le visible",
+      "Les anthocyanes absorbent dans le domaine visible",
+      "Ces propriétés sont liées aux systèmes aromatiques et au degré de conjugaison",
+      "Aucun composé phénolique n'absorbe dans le visible"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Les anthocyanes absorbent dans le visible, d'où leur coloration.",
+    "source": {
+      "page": 29,
+      "extrait": "Absorption UV principalement entre 240 et 280 nm pour de nombreux composés phénoliques."
+    },
+    "difficulte": 2,
+    "tags": [
+      "propriétés optiques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/qcm-038",
+    "type": "multiple",
+    "enonce": "Concernant la précipitation des macromolécules, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Elle concerne particulièrement les tanins",
+      "Les tanins complexent les protéines et la gélatine",
+      "Les tanins peuvent complexer les alcaloïdes",
+      "Les tanins peuvent complexer certains polysaccharides",
+      "Ces complexes sont toujours solubles"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "L'interaction peut conduire à des complexes insolubles et à leur précipitation.",
+    "source": {
+      "page": 30,
+      "extrait": "former des complexes avec différentes macromolécules : protéines, gélatine, alcaloïdes, certains polysaccharides"
+    },
+    "difficulte": 2,
+    "tags": [
+      "précipitation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/qcm-039",
+    "type": "multiple",
+    "enonce": "Concernant l'acidité des composés phénoliques, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Les fonctions hydroxyles aromatiques (Ar–OH) ont un caractère acide faible",
+      "En présence d'une base forte, l'–OH libère un proton H+",
+      "Il se forme des ions phénolates (Ar–O−)",
+      "Les fonctions phénoliques sont fortement acides",
+      "Les phénolates se forment en milieu acide fort"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Fonctions faiblement acides ; phénolates formés en présence d'une base forte.",
+    "source": {
+      "page": 31,
+      "extrait": "présentant un caractère acide faible. Le groupement –OH peut libérer un proton H⁺ en présence d'une base forte"
+    },
+    "difficulte": 2,
+    "tags": [
+      "acidité"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/qcm-040",
+    "type": "multiple",
+    "enonce": "Les facteurs favorisant l'oxydation des composés phénoliques sont, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "L'oxygène de l'air",
+      "La lumière",
+      "Certains ions métalliques, notamment Fe3+",
+      "Des conditions de pH favorables à la formation des phénolates",
+      "L'obscurité et l'absence d'oxygène"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "O2, lumière, Fe3+, pH favorisant les phénolates.",
+    "source": {
+      "page": 32,
+      "extrait": "Certains ions métalliques, notamment Fe³⁺."
+    },
+    "difficulte": 2,
+    "tags": [
+      "oxydation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/qcm-041",
+    "type": "multiple",
+    "enonce": "Concernant la chélation des ions métalliques, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Certains composés phénoliques forment des complexes avec les ions métalliques",
+      "Elle est favorisée par des groupements hydroxyles et carbonyles convenablement positionnés",
+      "L'ajout de sels ferriques donne des colorations caractéristiques",
+      "La chélation est impossible en présence de groupements carbonyles",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "La chélation est favorisée par des OH et carbonyles bien positionnés ; sels ferriques → colorations.",
+    "source": {
+      "page": 33,
+      "extrait": "favorisée par la présence de groupements hydroxyles et carbonyles convenablement positionnés"
+    },
+    "difficulte": 2,
+    "tags": [
+      "chélation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/qcm-042",
+    "type": "multiple",
+    "enonce": "Concernant le choix du solvant d'extraction des composés phénoliques, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "L'eau, l'éthanol, le méthanol et l'acétone sont des solvants courants",
+      "Les mélanges hydroalcooliques sont fréquemment utilisés",
+      "Les mélanges hydroalcooliques utilisés sont souvent à 70–80 %",
+      "L'hexane est le solvant de référence",
+      "Le CO2 supercritique est surtout adapté aux composés très polaires"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Le CO2 supercritique convient surtout aux composés peu polaires.",
+    "source": {
+      "page": 35,
+      "extrait": "Les mélanges hydroalcooliques (souvent 70–80 %) sont fréquemment utilisés."
+    },
+    "difficulte": 2,
+    "tags": [
+      "extraction"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/qcm-043",
+    "type": "multiple",
+    "enonce": "Concernant les méthodes conventionnelles d'extraction, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "La macération est un contact prolongé à température ambiante ou modérée",
+      "La décoction est une ébullition dans l'eau pendant 10 à 30 minutes",
+      "Le Soxhlet réalise des cycles répétés de solvant chaud à reflux",
+      "Le Soxhlet est une extraction continue",
+      "La macération se fait à ébullition"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "La macération se fait à température ambiante ou modérée.",
+    "source": {
+      "page": 36,
+      "extrait": "DÉCOCTION Ébullition dans l'eau pendant 10–30 min"
+    },
+    "difficulte": 2,
+    "tags": [
+      "extraction"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/qcm-044",
+    "type": "multiple",
+    "enonce": "Concernant les techniques d'extraction assistées ou avancées, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Les ultrasons agissent par cavitation, facilitant la rupture des structures cellulaires",
+      "L'extraction par ultrasons est rapide et consomme moins de solvant",
+      "Les micro-ondes provoquent un chauffage rapide facilitant le transfert des composés",
+      "Le CO2 supercritique permet un temps réduit et convient surtout aux composés peu polaires",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes exactes.",
+    "source": {
+      "page": 36,
+      "extrait": "CO₂ sous pression à l'état supercritique Temps réduit Surtout composés peu polaires"
+    },
+    "difficulte": 2,
+    "tags": [
+      "extraction"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/qcm-045",
+    "type": "multiple",
+    "enonce": "Concernant la caractérisation des composés phénoliques, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "La réaction générale utilise FeCl3",
+      "FeCl3 donne des complexes colorés bleus à vert noirâtre",
+      "La réaction à la cyanidine est ciblée sur les flavonoïdes",
+      "Les anthocyanes sont caractérisées par un virage de couleur selon le pH",
+      "La réaction de Bate-Smith est ciblée sur les tanins condensés"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Toutes exactes ; le réactif de Stiasny précipite les tanins condensés (différenciation des tanins).",
+    "source": {
+      "page": 37,
+      "extrait": "Réaction à la cyanidine"
+    },
+    "difficulte": 2,
+    "tags": [
+      "caractérisation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/qcm-046",
+    "type": "unique",
+    "enonce": "Le réactif de Stiasny permet :",
+    "options": [
+      "De doser les polyphénols totaux",
+      "De précipiter les tanins condensés",
+      "De caractériser les flavonoïdes",
+      "De mesurer l'activité antioxydante",
+      "De doser les flavonoïdes totaux"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Réactif de Stiasny : précipitation des tanins condensés (différenciation des tanins).",
+    "source": {
+      "page": 37,
+      "extrait": "Réactif de Stiasny : précipitation des tanins condensés"
+    },
+    "difficulte": 2,
+    "tags": [
+      "caractérisation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/qcm-047",
+    "type": "unique",
+    "enonce": "La réaction à la cyanidine est une réaction de caractérisation :",
+    "options": [
+      "Des tanins condensés",
+      "Des flavonoïdes",
+      "Des anthocyanes",
+      "Des lignanes",
+      "Des coumarines"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Flavonoïdes : réaction à la cyanidine ; anthocyanes : virage selon le pH ; tanins condensés : Bate-Smith.",
+    "source": {
+      "page": 37,
+      "extrait": "Flavonoïdes Réaction à la cyanidine"
+    },
+    "difficulte": 2,
+    "tags": [
+      "caractérisation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/qcm-048",
+    "type": "multiple",
+    "enonce": "Concernant le dosage des composés phénoliques, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "La méthode de Folin-Ciocalteu dose les polyphénols totaux",
+      "La méthode à AlCl3 dose les flavonoïdes totaux",
+      "Les résultats sont exprimés en équivalents d'un standard (ex. mg EAG/g)",
+      "L'HPLC-DAD permet la séparation et la quantification des molécules",
+      "L'HPLC-MS permet une identification structurale plus poussée"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Toutes exactes.",
+    "source": {
+      "page": 38,
+      "extrait": "Folin–Ciocalteu Polyphénols totaux AlCl₃ Flavonoïdes totaux"
+    },
+    "difficulte": 2,
+    "tags": [
+      "dosage"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/qcm-049",
+    "type": "unique",
+    "enonce": "Le dosage des flavonoïdes totaux se fait par la méthode :",
+    "options": [
+      "De Folin-Ciocalteu",
+      "Au chlorure d'aluminium (AlCl3)",
+      "Au DPPH",
+      "De Stiasny",
+      "De Bate-Smith"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "AlCl3 : flavonoïdes totaux ; Folin-Ciocalteu : polyphénols totaux.",
+    "source": {
+      "page": 38,
+      "extrait": "AlCl₃ Flavonoïdes totaux"
+    },
+    "difficulte": 2,
+    "tags": [
+      "dosage"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/qcm-050",
+    "type": "multiple",
+    "enonce": "Concernant l'évaluation de l'activité antioxydante, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Le test DPPH mesure le piégeage du radical DPPH•",
+      "Le test ABTS mesure le piégeage du radical cation ABTS•+",
+      "Le test FRAP mesure le pouvoir réducteur du fer",
+      "Ces tests évaluent une propriété fonctionnelle de l'extrait",
+      "Ces tests mesurent directement la teneur en polyphénols"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Ils évaluent une propriété fonctionnelle de l'extrait, et non sa teneur en polyphénols.",
+    "source": {
+      "page": 38,
+      "extrait": "Évalue une propriété fonctionnelle de l'extrait, et non sa teneur en polyphénols."
+    },
+    "difficulte": 3,
+    "tags": [
+      "activité antioxydante"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/qcm-051",
+    "type": "multiple",
+    "enonce": "Concernant les propriétés biologiques des composés phénoliques, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "L'activité antioxydante correspond à la neutralisation des radicaux libres",
+      "La curcumine, le resvératrol et les flavonoïdes sont cités comme anti-inflammatoires",
+      "Certains dérivés du 1,8-dihydroxyanthracène stimulent le transit (sennosides du séné)",
+      "Des activités antibactériennes et antivirales ont été mises en évidence",
+      "Les catéchines du thé vert sont citées pour des effets métaboliques"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Toutes exactes.",
+    "source": {
+      "page": 39,
+      "extrait": "Exemple : sennosides du séné."
+    },
+    "difficulte": 2,
+    "tags": [
+      "propriétés biologiques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/qcm-052",
+    "type": "unique",
+    "enonce": "L'activité laxative citée pour certains composés phénoliques concerne :",
+    "options": [
+      "Les catéchines du thé vert",
+      "Les dérivés du 1,8-dihydroxyanthracène (sennosides du séné)",
+      "La curcumine",
+      "Les tanins de la noix de galle",
+      "Le resvératrol"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Stimulation du transit par certains dérivés du 1,8-dihydroxyanthracène : sennosides du séné.",
+    "source": {
+      "page": 39,
+      "extrait": "Stimulation du transit intestinal par certains dérivés du 1,8dihydroxyanthracène"
+    },
+    "difficulte": 2,
+    "tags": [
+      "propriétés biologiques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/qcm-053",
+    "type": "multiple",
+    "enonce": "Les applications potentielles de l'activité antioxydante citées sont, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Cosmétologie antiâge",
+      "Protection contre les effets des UV",
+      "Prévention de certaines maladies cardiovasculaires",
+      "Prévention de certains cancers et maladies neurodégénératives",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes citées.",
+    "source": {
+      "page": 39,
+      "extrait": "Effets préventifs possibles vis-à-vis de certaines maladies cardiovasculaires, cancers et maladies neurodégénératives."
+    },
+    "difficulte": 1,
+    "tags": [
+      "propriétés biologiques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/qcm-054",
+    "type": "multiple",
+    "enonce": "Concernant la busserole, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "C'est Arctostaphylos uva-ursi (Ericaceae)",
+      "La drogue est constituée des feuilles séchées",
+      "Elle contient 6 à 10 % d'arbutoside (arbutine)",
+      "Elle contient du méthyl-arbutoside",
+      "Elle contient des tanins principalement ellagiques"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Les tanins de la busserole sont principalement galliques.",
+    "source": {
+      "page": 41,
+      "extrait": "Arbutoside (arbutine) : 6 à 10 %."
+    },
+    "difficulte": 2,
+    "tags": [
+      "busserole"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/qcm-055",
+    "type": "unique",
+    "enonce": "La teneur en arbutoside de la feuille de busserole est de :",
+    "options": [
+      "0,5 à 1 %",
+      "1,5 % minimum",
+      "6 à 10 %",
+      "18 à 25 %",
+      "50 à 60 %"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Arbutoside : 6 à 10 %.",
+    "source": {
+      "page": 41,
+      "extrait": "Arbutoside (arbutine) : 6 à 10 %."
+    },
+    "difficulte": 2,
+    "tags": [
+      "busserole"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/qcm-056",
+    "type": "multiple",
+    "enonce": "Concernant la pharmacocinétique de l'arbutine, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Elle est absorbée au niveau intestinal",
+      "Elle est métabolisée en dérivés de l'hydroquinone",
+      "L'hydroquinone subit une gluco- et sulfoconjugaison hépatique",
+      "Les métabolites sont éliminés par voie urinaire",
+      "Elle est éliminée exclusivement par voie biliaire"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Élimination urinaire : une partie importante de la dose est retrouvée dans les urines sous forme de dérivés conjugués de l'hydroquinone.",
+    "source": {
+      "page": 42,
+      "extrait": "L'hydroquinone subit principalement une gluco et sulfoconjugaison hépatique."
+    },
+    "difficulte": 2,
+    "tags": [
+      "busserole"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/qcm-057",
+    "type": "unique",
+    "enonce": "L'activité antibactérienne de la busserole est attribuée principalement à :",
+    "options": [
+      "L'arbutoside non hydrolysé",
+      "L'hydroquinone libérée, notamment au niveau urinaire",
+      "Les flavonoïdes",
+      "Les triterpènes",
+      "Les tanins galliques"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Activité antibactérienne attribuée à l'hydroquinone libérée de l'arbutine, notamment au niveau urinaire.",
+    "source": {
+      "page": 43,
+      "extrait": "attribuée principalement à l'hydroquinone libérée à partir de l'arbutine, notamment au niveau urinaire"
+    },
+    "difficulte": 2,
+    "tags": [
+      "busserole"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/qcm-058",
+    "type": "multiple",
+    "enonce": "Concernant l'emploi de la feuille de busserole, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Usage traditionnel dans les infections urinaires basses légères et récidivantes chez la femme adulte",
+      "Durée maximale d'utilisation : 7 jours",
+      "Déconseillée chez les moins de 18 ans, pendant la grossesse et l'allaitement",
+      "Contre-indiquée en cas de maladie rénale",
+      "Utilisable sans limite de durée"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Durée maximale : 7 jours.",
+    "source": {
+      "page": 44,
+      "extrait": "Durée maximale : 7 jours. Déconseillée chez les moins de 18 ans, pendant la grossesse et l'allaitement."
+    },
+    "difficulte": 2,
+    "tags": [
+      "busserole"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/qcm-059",
+    "type": "multiple",
+    "enonce": "Concernant l'hydroquinone et ses dérivés en dermatologie, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Ils ont une action dépigmentante",
+      "Ils peuvent exercer une action cytotoxique sur les mélanocytes",
+      "Ils exposent à un risque d'irritation cutanée et d'ochronose exogène en usage prolongé",
+      "Leur usage comme dépigmentant cosmétique est interdit dans l'Union européenne",
+      "Ils sont autorisés sans restriction dans les cosmétiques européens"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "L'hydroquinone est fortement réglementée et interdite dans l'UE comme ingrédient dépigmentant cosmétique.",
+    "source": {
+      "page": 44,
+      "extrait": "Risque d'irritation cutanée et d'ochronose exogène en cas d'utilisation prolongée."
+    },
+    "difficulte": 2,
+    "tags": [
+      "hydroquinone"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/qcm-060",
+    "type": "multiple",
+    "enonce": "Concernant l'arbousier, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "C'est Arbutus unedo (Ericaceae)",
+      "La drogue est constituée des sommités fleuries",
+      "Sa teneur en arbutoside est faible comparativement à la busserole",
+      "Il contient des proanthocyanidols, flavonoïdes et tanins",
+      "Il est plus riche en arbutoside que la busserole"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "L'arbousier contient peu d'arbutoside comparativement à la busserole.",
+    "source": {
+      "page": 45,
+      "extrait": "Faible teneur en arbutoside (arbutine), comparativement à la busserole."
+    },
+    "difficulte": 2,
+    "tags": [
+      "arbousier"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/qcm-061",
+    "type": "multiple",
+    "enonce": "Concernant la reine-des-prés, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "C'est Filipendula ulmaria (Rosaceae)",
+      "La drogue est constituée des sommités fleuries séchées",
+      "C'est une plante herbacée vivace des milieux humides",
+      "Elle contient du monotropitoside (hétéroside salicylé)",
+      "Elle appartient aux Salicaceae"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "La reine-des-prés est une Rosaceae ; le saule est une Salicaceae.",
+    "source": {
+      "page": 47,
+      "extrait": "Hétérosides phénoliques salicylés Monotropitoside"
+    },
+    "difficulte": 2,
+    "tags": [
+      "reine-des-prés"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/qcm-062",
+    "type": "multiple",
+    "enonce": "Associez le constituant de la reine-des-prés à sa famille chimique, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Monotropitoside – hétéroside phénolique salicylé",
+      "Salicylate de méthyle – dérivé salicylé",
+      "Spiréoside – flavonoïde",
+      "Ellagitanins – tanins",
+      "Salicylaldéhyde – flavonoïde"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Le salicylaldéhyde est un constituant de l'huile essentielle.",
+    "source": {
+      "page": 47,
+      "extrait": "Flavonoïdes Spiréoside Tanins Éllagitanins Huile essentielle Salicylaldéhyde"
+    },
+    "difficulte": 3,
+    "tags": [
+      "reine-des-prés"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/qcm-063",
+    "type": "multiple",
+    "enonce": "Concernant les propriétés et emplois de la reine-des-prés, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Activités anti-inflammatoire et analgésique",
+      "Activité diurétique",
+      "Activité antimicrobienne (in vitro)",
+      "Traitement adjuvant du rhume et soulagement des douleurs articulaires mineures",
+      "Recommandée chez l'enfant de moins de 18 ans"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Elle est déconseillée chez les moins de 18 ans.",
+    "source": {
+      "page": 48,
+      "extrait": "Déconseillée chez les moins de 18 ans"
+    },
+    "difficulte": 2,
+    "tags": [
+      "reine-des-prés"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/qcm-064",
+    "type": "multiple",
+    "enonce": "Les précautions d'emploi de la reine-des-prés sont, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Contre-indiquée en cas d'allergie aux salicylés",
+      "Déconseillée pendant la grossesse et l'allaitement",
+      "Déconseillée chez les moins de 18 ans",
+      "Prudence avec les AINS et les autres salicylés",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Toutes ces précautions figurent sur la diapositive.",
+    "source": {
+      "page": 48,
+      "extrait": "Contre-indiquée en cas d'allergie aux salicylés"
+    },
+    "difficulte": 2,
+    "tags": [
+      "reine-des-prés"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/qcm-065",
+    "type": "multiple",
+    "enonce": "Concernant le saule, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Les espèces citées sont Salix alba, S. purpurea, S. daphnoides et S. fragilis",
+      "Il appartient aux Salicaceae",
+      "Ce sont des arbres ou arbustes généralement dioïques",
+      "La drogue est l'écorce séchée de jeunes rameaux",
+      "La drogue est constituée des sommités fleuries"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "La drogue est l'écorce séchée, entière ou fragmentée, de jeunes rameaux.",
+    "source": {
+      "page": 49,
+      "extrait": "Écorce séchée, entière ou fragmentée, de jeunes rameaux."
+    },
+    "difficulte": 2,
+    "tags": [
+      "saule"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/qcm-066",
+    "type": "multiple",
+    "enonce": "Concernant la composition de l'écorce de saule, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Elle contient de la salicine (salicoside)",
+      "Elle contient de la salicortine et de la trémulacine",
+      "Elle contient des proanthocyanidols (tanins condensés)",
+      "Elle doit contenir au minimum 1,5 % de dérivés salicylés totaux exprimés en salicine",
+      "Elle contient naturellement de l'acide acétylsalicylique"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "L'aspirine est obtenue par acétylation chimique de l'acide salicylique ; elle n'est pas un constituant naturel de l'écorce.",
+    "source": {
+      "page": 50,
+      "extrait": "Elle n'est pas un constituant naturel de l'écorce de saule."
+    },
+    "difficulte": 2,
+    "tags": [
+      "saule"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/qcm-067",
+    "type": "unique",
+    "enonce": "La teneur minimale en dérivés salicylés totaux de l'écorce de saule, exprimée en salicine, est de :",
+    "options": [
+      "0,5 %",
+      "1 %",
+      "1,5 %",
+      "6 %",
+      "10 %"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Au minimum 1,5 % de dérivés salicylés totaux, exprimés en salicine, rapportés à la drogue desséchée.",
+    "source": {
+      "page": 50,
+      "extrait": "au minimum 1,5 % de dérivés salicylés totaux, exprimés en salicine"
+    },
+    "difficulte": 2,
+    "tags": [
+      "saule"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/qcm-068",
+    "type": "multiple",
+    "enonce": "Concernant les propriétés et emplois du saule, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Activités anti-inflammatoire, antalgique et antipyrétique",
+      "Usage traditionnel : douleurs articulaires mineures, fièvre du rhume, céphalées",
+      "Usage médical bien établi : traitement symptomatique à court terme des lombalgies (extraits secs standardisés)",
+      "Contre-indiqué au troisième trimestre de la grossesse",
+      "Indiqué chez l'enfant fébrile de moins de 18 ans"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "À éviter chez les enfants et adolescents de moins de 18 ans.",
+    "source": {
+      "page": 51,
+      "extrait": "Usage médical bien établi : traitement symptomatique à court terme des lombalgies"
+    },
+    "difficulte": 2,
+    "tags": [
+      "saule"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/qcm-069",
+    "type": "unique",
+    "enonce": "L'usage médical bien établi de l'écorce de saule concerne :",
+    "options": [
+      "Les infections urinaires basses",
+      "Le traitement symptomatique à court terme des lombalgies",
+      "Les troubles dyspeptiques",
+      "L'hypertrophie bénigne de la prostate",
+      "La dépigmentation cutanée"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Usage bien établi : lombalgies, traitement court avec extraits secs standardisés.",
+    "source": {
+      "page": 51,
+      "extrait": "traitement symptomatique à court terme des lombalgies avec certains extraits secs standardisés"
+    },
+    "difficulte": 2,
+    "tags": [
+      "saule"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/qcm-070",
+    "type": "multiple",
+    "enonce": "Concernant l'artichaut, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "C'est Cynara scolymus (syn. Cynara cardunculus), Asteraceae",
+      "La drogue est la feuille séchée, entière ou coupée",
+      "Il contient de l'acide chlorogénique (monocaféoylquinique)",
+      "Il contient de la cynarine (dicaféoylquinique)",
+      "La cynarine est un acide monocaféoylquinique"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Cynarine = acide dicaféoylquinique ; acide chlorogénique = monocaféoylquinique.",
+    "source": {
+      "page": 52,
+      "extrait": "acide chlorogénique (monocaféoylquinique) et cynarine (di-caféoylquinique)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "artichaut"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/qcm-071",
+    "type": "multiple",
+    "enonce": "Associez le constituant de l'artichaut à sa classe, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Acide chlorogénique – acide phénolique",
+      "Cynarine – acide phénolique",
+      "Cynaroside – flavonoïde (dérivé de la lutéoline)",
+      "Cynaropicrine – lactone sesquiterpénique",
+      "Cynaropicrine – flavonoïde"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "La cynaropicrine est une lactone sesquiterpénique.",
+    "source": {
+      "page": 52,
+      "extrait": "Lactones sesquiterpéniques : notamment la cynaropicrine."
+    },
+    "difficulte": 3,
+    "tags": [
+      "artichaut"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/qcm-072",
+    "type": "multiple",
+    "enonce": "Concernant les propriétés et emplois de l'artichaut, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Activité cholérétique (stimulation de la sécrétion biliaire)",
+      "Activité antioxydante",
+      "Activité hypolipémiante potentielle, notamment sur le cholestérol",
+      "Usage traditionnel dans les troubles digestifs fonctionnels (dyspepsie, ballonnements, flatulences)",
+      "Usage dans les infections urinaires"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "L'infection urinaire relève de la busserole.",
+    "source": {
+      "page": 53,
+      "extrait": "Activité cholérétique (stimulation de la sécrétion biliaire), observée expérimentalement."
+    },
+    "difficulte": 2,
+    "tags": [
+      "artichaut"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/qcm-073",
+    "type": "multiple",
+    "enonce": "Concernant le romarin, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "C'est Salvia rosmarinus (anciennement Rosmarinus officinalis), Lamiaceae",
+      "La drogue est la feuille entière séchée",
+      "Son huile essentielle est à cinéole et à bornéol",
+      "Il contient de l'acide rosmarinique et de l'acide caféique",
+      "Il appartient aux Asteraceae"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Le romarin est une Lamiaceae ; l'artichaut est une Asteraceae.",
+    "source": {
+      "page": 54,
+      "extrait": "H.E (à cinéole et à bornéol)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "romarin"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/qcm-074",
+    "type": "multiple",
+    "enonce": "Concernant la composition du romarin, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Diterpènes phénoliques : acide carnosique et carnosol",
+      "Flavonoïdes : dérivés de la lutéoline et de l'apigénine",
+      "Dérivés hydroxycinnamiques : acide rosmarinique",
+      "Hétérosides salicylés : salicine",
+      "Lactone sesquiterpénique : cynaropicrine"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "La salicine appartient au saule, la cynaropicrine à l'artichaut.",
+    "source": {
+      "page": 54,
+      "extrait": "Diterpènes phénoliques : acide carnosique, carnosol."
+    },
+    "difficulte": 2,
+    "tags": [
+      "romarin"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/qcm-075",
+    "type": "multiple",
+    "enonce": "Concernant les propriétés et emplois du romarin, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Activité cholérétique et cholagogue",
+      "Activité antioxydante et antispasmodique",
+      "Troubles dyspeptiques et spasmes digestifs légers",
+      "Douleurs musculaires et articulaires mineures en usage externe",
+      "Troubles circulatoires périphériques mineurs en usage externe"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Toutes exactes.",
+    "source": {
+      "page": 55,
+      "extrait": "Troubles circulatoires périphériques mineurs (usage externe)."
+    },
+    "difficulte": 2,
+    "tags": [
+      "romarin"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/qcm-076",
+    "type": "multiple",
+    "enonce": "Associez chaque drogue à sa famille botanique, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Busserole – Ericaceae",
+      "Reine-des-prés – Rosaceae",
+      "Saule – Salicaceae",
+      "Artichaut – Asteraceae",
+      "Romarin – Rosaceae"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Le romarin est une Lamiaceae.",
+    "source": {
+      "page": 54,
+      "extrait": "Le Romarin, Salvia rosmarinus Spenn. Ex. Rosmarinus officinalis L., Lamiaceae"
+    },
+    "difficulte": 2,
+    "tags": [
+      "familles"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/qcm-077",
+    "type": "multiple",
+    "enonce": "Associez chaque drogue à sa partie utilisée, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Busserole – feuilles séchées",
+      "Arbousier – sommités fleuries",
+      "Reine-des-prés – sommités fleuries séchées",
+      "Saule – écorce de jeunes rameaux",
+      "Artichaut – racine"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Artichaut : feuille séchée, entière ou coupée.",
+    "source": {
+      "page": 52,
+      "extrait": "Drogue : Feuille séchée, entière ou coupée."
+    },
+    "difficulte": 2,
+    "tags": [
+      "drogues"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/qcm-078",
+    "type": "multiple",
+    "enonce": "Parmi les drogues suivantes, lesquelles sont des drogues à dérivés salicylés ?",
+    "options": [
+      "Reine-des-prés",
+      "Saule",
+      "Busserole",
+      "Artichaut",
+      "Arbousier"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Drogues à dérivés salicylés : reine-des-prés et saule. Busserole et arbousier sont des drogues à phénols simples ; artichaut à acides phénols cinnamiques.",
+    "source": {
+      "page": 40,
+      "extrait": "Drogues à dérivés salicylés (dérivés de l'acide benzoïque)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "drogues"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/qcm-079",
+    "type": "multiple",
+    "enonce": "Parmi les drogues suivantes, lesquelles sont classées « drogues à acides phénols cinnamiques » ?",
+    "options": [
+      "Artichaut",
+      "Romarin",
+      "Saule",
+      "Busserole",
+      "Reine-des-prés"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Artichaut et romarin.",
+    "source": {
+      "page": 40,
+      "extrait": "Drogues à acides phénols cinnamiques Artichaut (Cynara scolymus) Romarin"
+    },
+    "difficulte": 1,
+    "tags": [
+      "drogues"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/qcm-080",
+    "type": "multiple",
+    "enonce": "Parmi les drogues suivantes, lesquelles ont une activité cholérétique citée ?",
+    "options": [
+      "Artichaut",
+      "Romarin",
+      "Busserole",
+      "Saule",
+      "Arbousier"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Artichaut (cholérétique) et romarin (cholérétique et cholagogue).",
+    "source": {
+      "page": 55,
+      "extrait": "Activité cholérétique et cholagogue."
+    },
+    "difficulte": 2,
+    "tags": [
+      "drogues"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/qcm-081",
+    "type": "multiple",
+    "enonce": "Les drogues déconseillées ou à éviter chez les moins de 18 ans selon le cours sont, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Busserole",
+      "Reine-des-prés",
+      "Saule",
+      "Romarin",
+      "Artichaut"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Busserole, reine-des-prés et saule comportent cette précaution.",
+    "source": {
+      "page": 51,
+      "extrait": "Éviter chez les enfants et adolescents de moins de 18 ans."
+    },
+    "difficulte": 3,
+    "tags": [
+      "précautions"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/qcm-082",
+    "type": "multiple",
+    "enonce": "Concernant les tableaux de propriétés physicochimiques, quelles propositions sont fausses ?",
+    "options": [
+      "Les anthocyanes absorbent uniquement dans l'UV",
+      "Les fonctions phénoliques sont fortement acides",
+      "Les composés phénoliques s'oxydent au contact de l'air et de la lumière",
+      "Les tanins précipitent les protéines",
+      "La solubilité dépend de la glycosylation"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Fausses : les anthocyanes absorbent aussi dans le visible ; les fonctions phénoliques sont faiblement acides.",
+    "source": {
+      "page": 34,
+      "extrait": "Fonctions phénoliques faiblement acides"
+    },
+    "difficulte": 3,
+    "tags": [
+      "propriétés"
+    ],
+    "origine": "genere"
+  }
+]

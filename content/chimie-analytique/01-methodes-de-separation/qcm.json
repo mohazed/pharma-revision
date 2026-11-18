@@ -1,0 +1,1555 @@
+[
+  {
+    "id": "chimie-analytique/01-methodes-de-separation/qcm-001",
+    "type": "multiple",
+    "enonce": "Concernant les méthodes de séparation en chimie analytique :",
+    "options": [
+      "Elles correspondent à la partie la plus anciennement connue de la chimie analytique",
+      "Elles étaient autrefois appelées analyse immédiate",
+      "Elles ont permis d'isoler des corps gras, des alcaloïdes et des hétérosides",
+      "Les méthodes chromatographiques et électrophorétiques font partie des techniques nouvelles",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le cours précise que les méthodes de séparation sont la partie la plus anciennement connue de la chimie analytique, autrefois appelée analyse immédiate, qu'elles ont permis d'isoler corps gras, alcaloïdes, hétérosides, et que les méthodes chromatographiques ou électrophorétiques figurent parmi les techniques nouvelles. Toutes les propositions sont donc justes.",
+    "source": {
+      "page": 1,
+      "extrait": "la partie la plus anciennement connue de la chimie analytique, autrefois appelée analyse immédiate"
+    },
+    "difficulte": 1,
+    "tags": [
+      "généralités"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/01-methodes-de-separation/qcm-002",
+    "type": "multiple",
+    "enonce": "Les progrès des techniques de séparation ont permis l'isolement de :",
+    "options": [
+      "Vitamines",
+      "Hormones",
+      "Antibiotiques",
+      "Corps gras uniquement",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Le cours cite l'isolement de vitamines, d'hormones et d'antibiotiques grâce aux techniques nouvelles. Les corps gras ont été isolés dès les méthodes anciennes, mais pas « uniquement ».",
+    "source": {
+      "page": 1,
+      "extrait": "avec l'isolement de vitamines, d'hormones, d'antibiotiques"
+    },
+    "difficulte": 1,
+    "tags": [
+      "généralités"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/01-methodes-de-separation/qcm-003",
+    "type": "multiple",
+    "enonce": "Selon le cours, le produit de départ de l'analyse immédiate peut être :",
+    "options": [
+      "Une solution homogène issue de l'extraction d'un mélange naturel",
+      "Une solution homogène issue d'une réaction de synthèse",
+      "Un mélange hétérogène tel qu'un organe végétal ou animal",
+      "Uniquement un gaz",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Le produit de départ est soit une solution homogène (extraction d'un mélange naturel ou réaction de synthèse), soit un mélange hétérogène (organes végétaux ou animaux). Le cas d'un gaz n'est pas évoqué.",
+    "source": {
+      "page": 1,
+      "extrait": "une solution homogène : issue de l'extraction d'un mélange naturel ou d'une réaction de synthèse"
+    },
+    "difficulte": 1,
+    "tags": [
+      "analyse immédiate"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/01-methodes-de-separation/qcm-004",
+    "type": "multiple",
+    "enonce": "Concernant la définition des mélanges :",
+    "options": [
+      "Un mélange homogène se présente sous une seule phase à l'œil nu",
+      "Un mélange hétérogène présente au moins deux phases distinguables à l'œil nu",
+      "Un mélange homogène présente au moins deux phases à l'œil nu",
+      "Un organe végétal est un exemple de mélange hétérogène",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      0,
+      1,
+      3
+    ],
+    "explication": "Homogène = une seule phase à l'œil nu ; hétérogène = au moins deux phases à l'œil nu. Les organes végétaux ou animaux sont cités comme mélanges hétérogènes. La proposition c inverse les définitions.",
+    "source": {
+      "page": 1,
+      "extrait": "Un mélange hétérogène est un mélange dans lequel on distingue au moins deux phases à l'œil nu"
+    },
+    "difficulte": 1,
+    "tags": [
+      "mélange homogène",
+      "mélange hétérogène"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/01-methodes-de-separation/qcm-005",
+    "type": "multiple",
+    "enonce": "Pour séparer un mélange présentant une phase solide et une phase liquide, les deux moyens les plus classiques sont :",
+    "options": [
+      "La filtration",
+      "La décantation en ampoule",
+      "La centrifugation",
+      "Le relargage",
+      "La lévigation"
+    ],
+    "correctes": [
+      0,
+      2
+    ],
+    "explication": "Le cours indique : « Les deux moyens les plus classiques sont la filtration et la centrifugation » pour un mélange solide/liquide. La décantation concerne deux liquides non miscibles, la lévigation les mélanges de solides, le relargage les phases homogènes.",
+    "source": {
+      "page": 1,
+      "extrait": "Les deux moyens les plus classiques sont la filtration et la centrifugation"
+    },
+    "difficulte": 1,
+    "tags": [
+      "filtration",
+      "centrifugation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/01-methodes-de-separation/qcm-006",
+    "type": "multiple",
+    "enonce": "Filtrer un mélange, c'est le faire passer à travers une membrane poreuse :",
+    "options": [
+      "Perméable aux liquides",
+      "Imperméable aux solides en suspension",
+      "Perméable aux solides en suspension",
+      "Imperméable aux liquides",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Définition du cours : membrane poreuse perméable aux liquides et imperméable aux solides en suspension.",
+    "source": {
+      "page": 1,
+      "extrait": "perméable aux liquides et imperméable aux solides en suspension"
+    },
+    "difficulte": 1,
+    "tags": [
+      "filtration"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/01-methodes-de-separation/qcm-007",
+    "type": "multiple",
+    "enonce": "Les qualités requises pour une matière filtrante, souvent difficiles à réunir, sont :",
+    "options": [
+      "Résistance mécanique",
+      "Efficacité",
+      "Rapidité",
+      "Pouvoir adsorbant élevé",
+      "Solubilité dans les solvants organiques"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Le cours cite trois qualités : résistance mécanique, efficacité, rapidité. Le pouvoir adsorbant est un inconvénient en filtration (exploité en chromatographie) et la solubilité dans les solvants organiques est un inconvénient des polymères.",
+    "source": {
+      "page": 1,
+      "extrait": "résistance mécanique, efficacité, rapidité"
+    },
+    "difficulte": 1,
+    "tags": [
+      "matières filtrantes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/01-methodes-de-separation/qcm-008",
+    "type": "multiple",
+    "enonce": "Concernant le papier filtre et la pâte de cellulose :",
+    "options": [
+      "Ce sont des matières filtrantes organiques à base de cellulose",
+      "Ils sont attaqués par les solutions très acides ou très alcalines",
+      "Ils forment alors des alcali-celluloses solubles",
+      "Leur pouvoir adsorbant est exploité dans les méthodes chromatographiques",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes les affirmations sont dans le cours : produits à base de cellulose, attaqués par solutions très acides ou très alcalines (formation d'alcali-cellulose solubles), pouvoir adsorbant non négligeable, inconvénient en filtration mais utilisé en chromatographie.",
+    "source": {
+      "page": 2,
+      "extrait": "Ils présentent en outre un pouvoir adsorbant non négligeable"
+    },
+    "difficulte": 1,
+    "tags": [
+      "papier filtre"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/01-methodes-de-separation/qcm-009",
+    "type": "multiple",
+    "enonce": "Le pouvoir adsorbant non négligeable du papier filtre :",
+    "options": [
+      "Est un inconvénient au niveau de la filtration",
+      "Est utilisé dans les méthodes chromatographiques",
+      "Est un avantage au niveau de la filtration",
+      "Est nul",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Selon le cours, ce pouvoir adsorbant est un inconvénient en filtration, mais il est utilisé dans les méthodes chromatographiques.",
+    "source": {
+      "page": 2,
+      "extrait": "s'il est un inconvénient au niveau de la filtration, est utilisé dans les méthodes chromatographiques"
+    },
+    "difficulte": 2,
+    "tags": [
+      "papier filtre"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/01-methodes-de-separation/qcm-010",
+    "type": "multiple",
+    "enonce": "Concernant les disques en polymères organiques utilisés en filtration :",
+    "options": [
+      "Ils ont une porosité parfaitement définie du fait de leur fabrication",
+      "Ils permettent de filtrer jusqu'aux bactéries",
+      "Ils sont solubles dans un certain nombre de solvants organiques",
+      "Ils sont fragiles vis-à-vis des solutions fortement alcalines qui les dissolvent sous forme de silicates",
+      "Ils sont préparés en chauffant une poudre de verre"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Les polymères organiques ont une porosité parfaitement définie, permettent de filtrer jusqu'aux bactéries, mais sont solubles dans certains solvants organiques. La dissolution en silicates et la préparation à partir de poudre de verre concernent le verre fritté.",
+    "source": {
+      "page": 2,
+      "extrait": "Ils ont cependant l'inconvénient d'être solubles dans un certain nombre de solvants organiques"
+    },
+    "difficulte": 2,
+    "tags": [
+      "polymères organiques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/01-methodes-de-separation/qcm-011",
+    "type": "multiple",
+    "enonce": "Les matières filtrantes minérales sont essentiellement :",
+    "options": [
+      "Des dérivés de la silice",
+      "Le coton de verre",
+      "Le verre fritté",
+      "La pâte de cellulose",
+      "Les polymères organiques"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Les substances minérales sont essentiellement des dérivés de la silice : coton de verre, mais surtout verre fritté. Cellulose et polymères sont des matières organiques.",
+    "source": {
+      "page": 2,
+      "extrait": "Sont essentiellement des dérivés de la silice, coton de verre, mais surtout verre fritté"
+    },
+    "difficulte": 1,
+    "tags": [
+      "matières filtrantes minérales"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/01-methodes-de-separation/qcm-012",
+    "type": "multiple",
+    "enonce": "Concernant le verre fritté :",
+    "options": [
+      "Il est préparé en chauffant légèrement une poudre de verre de granulation définie",
+      "Le chauffage soude les particules entre elles en laissant des lacunes",
+      "Sa porosité est notée de 0 à 5",
+      "Le n° 0 correspond à des pores très fins",
+      "Il est fragile vis-à-vis des solutions fortement acides"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Le verre fritté est obtenu en chauffant légèrement une poudre de verre, ce qui soude les particules en laissant des lacunes ; la porosité est notée de 0 à 5. Le n° 0 correspond à des pores très larges (≈200 µ). Sa fragilité concerne les solutions fortement alcalines (et non acides).",
+    "source": {
+      "page": 2,
+      "extrait": "On obtient des filtres de porosité différente notée de 0 à 5"
+    },
+    "difficulte": 2,
+    "tags": [
+      "verre fritté"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/01-methodes-de-separation/qcm-013",
+    "type": "multiple",
+    "enonce": "Un filtre en verre fritté n° 5 :",
+    "options": [
+      "Possède des pores très fins d'environ 1 µ",
+      "Possède des pores très larges d'environ 200 µ",
+      "Est plus efficace qu'un filtre n° 0",
+      "Est plus rapide qu'un filtre n° 0",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      2
+    ],
+    "explication": "N° 5 = pores très fins (≈1 µ). L'efficacité augmente avec le numéro, mais la rapidité décroît : le n° 5 est donc plus efficace mais plus lent que le n° 0.",
+    "source": {
+      "page": 2,
+      "extrait": "L'efficacité augmente donc avec le numéro, mais la rapidité décroît"
+    },
+    "difficulte": 2,
+    "tags": [
+      "verre fritté"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/01-methodes-de-separation/qcm-014",
+    "type": "unique",
+    "enonce": "Lorsque le numéro de porosité d'un verre fritté augmente :",
+    "options": [
+      "L'efficacité augmente et la rapidité augmente",
+      "L'efficacité augmente et la rapidité diminue",
+      "L'efficacité diminue et la rapidité augmente",
+      "L'efficacité diminue et la rapidité diminue",
+      "L'efficacité et la rapidité ne varient pas"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Le cours : « L'efficacité augmente donc avec le numéro, mais la rapidité décroît ».",
+    "source": {
+      "page": 2,
+      "extrait": "L'efficacité augmente donc avec le numéro, mais la rapidité décroît"
+    },
+    "difficulte": 1,
+    "tags": [
+      "verre fritté"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/01-methodes-de-separation/qcm-015",
+    "type": "unique",
+    "enonce": "L'inconvénient principal des filtres en verre fritté est :",
+    "options": [
+      "Leur solubilité dans les solvants organiques",
+      "Leur attaque par les solutions très acides avec formation d'alcali-cellulose",
+      "Leur fragilité vis-à-vis des solutions fortement alcalines qui peuvent les dissoudre sous forme de silicates",
+      "Leur pouvoir adsorbant élevé",
+      "Leur porosité mal définie"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Le cours précise que l'inconvénient de ces filtres est leur fragilité vis-à-vis des solutions fortement alcalines, qui peuvent les dissoudre sous forme de silicates.",
+    "source": {
+      "page": 2,
+      "extrait": "leur fragilité vis-à-vis des solutions fortement alcalines qui peuvent les dissoudre sous forme de silicates"
+    },
+    "difficulte": 1,
+    "tags": [
+      "verre fritté"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/01-methodes-de-separation/qcm-016",
+    "type": "multiple",
+    "enonce": "La filtration peut être opérée :",
+    "options": [
+      "Sous pression normale",
+      "En s'aidant d'une surpression (filtre presse)",
+      "En s'aidant d'une dépression (filtration sous vide)",
+      "Uniquement sous vide",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Les trois techniques sont citées : pression normale, surpression (filtre presse), dépression (filtration sous vide).",
+    "source": {
+      "page": 2,
+      "extrait": "en s'aidant d'une surpression (filtre presse) ou d'une dépression (filtration sous vide)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "techniques de filtration"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/01-methodes-de-separation/qcm-017",
+    "type": "multiple",
+    "enonce": "Concernant la filtration sous vide :",
+    "options": [
+      "Le liquide est recueilli dans une fiole conique à ajustage latéral reliée à une trompe à vide",
+      "Cette fiole est appelée fiole de Kitasato",
+      "Le système filtrant peut être un creuset en verre fritté",
+      "Le système filtrant peut être un disque poreux placé sur un support en porcelaine : l'entonnoir de Buchner",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes ces affirmations sont dans le cours : fiole de Kitasato à ajustage latéral reliée à une trompe à vide ; filtre = creuset en verre fritté ou disque poreux sur support en porcelaine (entonnoir de Buchner).",
+    "source": {
+      "page": 2,
+      "extrait": "c'est la fiole de kitasato"
+    },
+    "difficulte": 1,
+    "tags": [
+      "filtration sous vide",
+      "Buchner",
+      "Kitasato"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/01-methodes-de-separation/qcm-018",
+    "type": "unique",
+    "enonce": "Le filtre presse correspond à une filtration :",
+    "options": [
+      "Sous pression normale",
+      "Par surpression",
+      "Par dépression",
+      "Par centrifugation",
+      "Sous vide"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Le cours : « en s'aidant d'une surpression (filtre presse) ».",
+    "source": {
+      "page": 2,
+      "extrait": "en s'aidant d'une surpression (filtre presse)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "filtre presse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/01-methodes-de-separation/qcm-019",
+    "type": "multiple",
+    "enonce": "La centrifugation :",
+    "options": [
+      "Sépare les composants d'un mélange en fonction de leur densité",
+      "Soumet le mélange à une force centrifuge",
+      "Sépare les composants en fonction de leur solubilité",
+      "Accélère une sédimentation naturelle",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      0,
+      1,
+      3
+    ],
+    "explication": "Définition du cours : séparation des composants d'un mélange en fonction de leur densité en les soumettant à une force centrifuge ; en analyse médicale, elle accélère une sédimentation naturelle. La solubilité n'intervient pas.",
+    "source": {
+      "page": 4,
+      "extrait": "séparer les différents composants d'un mélange d'une solution en fonction de leur densité"
+    },
+    "difficulte": 1,
+    "tags": [
+      "centrifugation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/01-methodes-de-separation/qcm-020",
+    "type": "multiple",
+    "enonce": "La force centrifuge F s'exerçant sur une masse m tournant sur une circonférence de rayon R à n tours par seconde s'écrit :",
+    "options": [
+      "F = m·γ avec γ = V²/R",
+      "V = 2πRn",
+      "F = 4π²·R·n²·m",
+      "F = 2π·R·n·m",
+      "F = 4π²·R²·n·m"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Le cours donne F = mγ, γ = V²/R, V = 2πRn, d'où F = 4π²Rn²m. Les propositions d et e sont des formules erronées.",
+    "source": {
+      "page": 4,
+      "extrait": "F = 4π2R n2 m"
+    },
+    "difficulte": 2,
+    "tags": [
+      "centrifugation",
+      "force centrifuge"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/01-methodes-de-separation/qcm-021",
+    "type": "multiple",
+    "enonce": "L'efficacité de la centrifugation dépend :",
+    "options": [
+      "Du rayon R, compris entre 10 et 30 cm",
+      "Surtout du nombre de tours n, qui intervient à la puissance 2",
+      "Surtout du rayon R, qui intervient à la puissance 2",
+      "De la masse m de la particule",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "L'efficacité dépend du rayon R (10 à 30 cm) mais surtout du nombre de tours n qui intervient au carré (F = 4π²Rn²m). R n'intervient qu'à la puissance 1. Le cours ne cite que R et n comme facteurs d'efficacité.",
+    "source": {
+      "page": 4,
+      "extrait": "mais surtout du nombre de tours n qui intervient à la puissance 2"
+    },
+    "difficulte": 2,
+    "tags": [
+      "centrifugation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/01-methodes-de-separation/qcm-022",
+    "type": "unique",
+    "enonce": "Si l'on double le nombre de tours par seconde d'une centrifugeuse (R et m constants), la force centrifuge est :",
+    "options": [
+      "Doublée",
+      "Multipliée par 4",
+      "Divisée par 2",
+      "Inchangée",
+      "Multipliée par 8"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "F = 4π²Rn²m : n intervient au carré, donc doubler n multiplie F par 2² = 4.",
+    "source": {
+      "page": 4,
+      "extrait": "du nombre de tours n qui intervient à la puissance 2"
+    },
+    "difficulte": 2,
+    "tags": [
+      "centrifugation",
+      "calcul"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/01-methodes-de-separation/qcm-023",
+    "type": "multiple",
+    "enonce": "Concernant les vitesses et performances des centrifugeuses :",
+    "options": [
+      "Une centrifugeuse simple tourne à environ 3000 tr/min",
+      "Une ultracentrifugeuse peut atteindre 50 000 tr/min et même plus",
+      "Une centrifugeuse simple atteint 1500 g",
+      "Une ultracentrifugeuse peut aller de 250 000 g à 1 000 000 g",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes les valeurs sont celles du cours : 3000 tr/min (centrifugeuse simple) à 50 000 tr/min et plus (ultracentrifugeuse) ; 1500 g pour une centrifugeuse simple, 250 000 à 1 000 000 g pour une ultracentrifugeuse.",
+    "source": {
+      "page": 5,
+      "extrait": "une ultracentrifugeuse peut aller de 250.000 g à 1000.000 g"
+    },
+    "difficulte": 2,
+    "tags": [
+      "centrifugation",
+      "ultracentrifugation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/01-methodes-de-separation/qcm-024",
+    "type": "unique",
+    "enonce": "La performance d'une centrifugeuse exprimée en « nombre de g » correspond au rapport :",
+    "options": [
+      "Force de pesanteur / force centrifuge",
+      "γ/g, soit force centrifuge / force de pesanteur",
+      "n/R",
+      "R/n²",
+      "m/γ"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Le nombre de g correspond au rapport entre force centrifuge et force de pesanteur, soit γ/g.",
+    "source": {
+      "page": 5,
+      "extrait": "rapport entre force centrifuge et force de pesanteur soit γ/g"
+    },
+    "difficulte": 2,
+    "tags": [
+      "centrifugation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/01-methodes-de-separation/qcm-025",
+    "type": "multiple",
+    "enonce": "Au laboratoire d'analyses médicales, la centrifugation est principalement utilisée pour :",
+    "options": [
+      "Séparer le plasma ou le sérum à partir de prélèvements sanguins",
+      "Obtenir un sédiment urinaire",
+      "Doser les alcaloïdes",
+      "Évaporer les solvants organiques",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Le cours : elle sert principalement à séparer le plasma ou le sérum à partir de prélèvements sanguins, ou à obtenir un sédiment urinaire.",
+    "source": {
+      "page": 5,
+      "extrait": "séparer le plasma ou le sérum à partir de prélèvements sanguins ou pour obtenir un sédiment urinaire"
+    },
+    "difficulte": 1,
+    "tags": [
+      "centrifugation",
+      "analyse médicale"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/01-methodes-de-separation/qcm-026",
+    "type": "multiple",
+    "enonce": "Lors de la centrifugation d'un prélèvement sanguin :",
+    "options": [
+      "Les composants les plus lourds sont entraînés au fond du tube",
+      "Le surnageant est du plasma si le sang a été anticoagulé",
+      "Le surnageant est du sérum si le sang a coagulé naturellement",
+      "Le surnageant est du sérum si le sang a été anticoagulé",
+      "Les composants les plus légers sont entraînés au fond du tube"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Les composants les plus lourds descendent au fond ; le surnageant est du plasma (sang anticoagulé) ou du sérum (sang coagulé naturellement). La proposition d inverse plasma et sérum.",
+    "source": {
+      "page": 5,
+      "extrait": "du plasma s'il s'agit de sang anticoagulé ou du sérum si le sang a coagulé naturellement"
+    },
+    "difficulte": 2,
+    "tags": [
+      "plasma",
+      "sérum"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/01-methodes-de-separation/qcm-027",
+    "type": "multiple",
+    "enonce": "Avantages de la centrifugation cités dans le cours :",
+    "options": [
+      "Méthode rapide et efficace",
+      "Destruction des émulsions formées entre deux liquides de densités différentes",
+      "L'ultracentrifugation peut séparer des molécules de même nature (protéines) selon leur masse moléculaire",
+      "Séparation des énantiomères",
+      "Élimination du solvant à basse température"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "La centrifugation est rapide et efficace, détruit les émulsions entre deux liquides de densités différentes, et l'ultracentrifugation sépare des protéines selon leur masse moléculaire. La séparation des énantiomères (Pasteur) et l'élimination du solvant ne relèvent pas de la centrifugation.",
+    "source": {
+      "page": 5,
+      "extrait": "L'ultracentrifugation peut séparer des constituants d'un mélange de molécule de même nature (protéines)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "centrifugation",
+      "ultracentrifugation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/01-methodes-de-separation/qcm-028",
+    "type": "unique",
+    "enonce": "L'ultracentrifugation permet de séparer des protéines en fonction de leur :",
+    "options": [
+      "Charge électrique",
+      "Solubilité",
+      "Masse moléculaire",
+      "Point isoélectrique",
+      "Coefficient de partage"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Le cours : l'ultracentrifugation peut séparer des constituants de même nature (protéines) en fonction de leur masse moléculaire.",
+    "source": {
+      "page": 5,
+      "extrait": "en fonction de leur masse moléculaire"
+    },
+    "difficulte": 1,
+    "tags": [
+      "ultracentrifugation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/01-methodes-de-separation/qcm-029",
+    "type": "multiple",
+    "enonce": "La séparation d'un mélange de deux liquides non miscibles :",
+    "options": [
+      "Se fait par décantation dans une ampoule à décanter",
+      "Consiste à laisser reposer le liquide jusqu'à séparation des deux phases",
+      "Est souvent gênée par l'existence d'émulsions",
+      "Se fait par lévigation",
+      "Permet aussi la mise en œuvre d'une extraction"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explication": "Deux liquides non miscibles se séparent par décantation (ampoule à décanter, repos jusqu'à séparation), gênée par les émulsions ; la décantation en ampoule permet aussi une extraction. La lévigation concerne les mélanges de solides.",
+    "source": {
+      "page": 5,
+      "extrait": "Elle se fait par décantation dans une ampoule à décanter"
+    },
+    "difficulte": 1,
+    "tags": [
+      "décantation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/01-methodes-de-separation/qcm-030",
+    "type": "multiple",
+    "enonce": "Les émulsions gênant la décantation peuvent être détruites par :",
+    "options": [
+      "Chauffage",
+      "Modification du pH",
+      "Addition d'un agent tensioactif",
+      "Centrifugation",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Les quatre moyens sont cités : chauffage, modification de pH, addition d'un agent tensioactif, centrifugation.",
+    "source": {
+      "page": 5,
+      "extrait": "Chauffage. - modification de PH (les émulsions sont stables en milieu alcalin)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "émulsions"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/01-methodes-de-separation/qcm-031",
+    "type": "unique",
+    "enonce": "Selon le cours, les émulsions sont stables en milieu :",
+    "options": [
+      "Acide",
+      "Alcalin",
+      "Neutre",
+      "Tamponné à pH 7",
+      "Organique anhydre"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Le cours précise entre parenthèses : « les émulsions sont stables en milieu alcalin ».",
+    "source": {
+      "page": 5,
+      "extrait": "les émulsions sont stables en milieu alcalin"
+    },
+    "difficulte": 2,
+    "tags": [
+      "émulsions"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/01-methodes-de-separation/qcm-032",
+    "type": "multiple",
+    "enonce": "Concernant la séparation d'un mélange de phases solides :",
+    "options": [
+      "Vers 1860, Pasteur sépara manuellement des cristaux énantiomères d'acide tartrique",
+      "Pasteur utilisa une petite pince et une loupe",
+      "La lévigation est fondée sur la différence de densité des constituants",
+      "Le tamisage isole un constituant solide d'une dimension déterminée",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes les propositions figurent dans le cours (Pasteur et l'acide tartrique chiral, lévigation selon la densité, tamisage selon la dimension).",
+    "source": {
+      "page": 6,
+      "extrait": "Pasteur sépare manuellement avec une petite pince et une loupe, des cristaux d'acide tartrique énantiomères"
+    },
+    "difficulte": 1,
+    "tags": [
+      "Pasteur",
+      "lévigation",
+      "tamisage"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/01-methodes-de-separation/qcm-033",
+    "type": "multiple",
+    "enonce": "La lévigation :",
+    "options": [
+      "Est utilisée dans l'industrie minière",
+      "Est fondée sur une différence de densité des constituants",
+      "Fait appel à l'entraînement des fractions les moins denses par un courant de liquide non solvant",
+      "Fait appel à l'entraînement des fractions les plus denses par un courant de liquide solvant",
+      "Est fondée sur la différence de taille des particules"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Lévigation : procédé de l'industrie minière, fondé sur la différence de densité, avec entraînement par un courant de liquide non solvant des fractions les moins denses. La taille est le critère du tamisage.",
+    "source": {
+      "page": 6,
+      "extrait": "l'entraînement par un courant de liquide non solvant, des fractions les moins denses"
+    },
+    "difficulte": 2,
+    "tags": [
+      "lévigation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/01-methodes-de-separation/qcm-034",
+    "type": "unique",
+    "enonce": "La séparation de cristaux d'acide tartrique énantiomères par Pasteur illustre la séparation :",
+    "options": [
+      "De deux liquides non miscibles",
+      "D'un mélange de phases solides",
+      "D'une phase solide et d'une phase liquide",
+      "Par relargage",
+      "Par rupture de phase"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Cet exemple est donné dans la partie « Cas d'un mélange de phases solides ».",
+    "source": {
+      "page": 6,
+      "extrait": "Cas d'un mélange de phases solides"
+    },
+    "difficulte": 1,
+    "tags": [
+      "Pasteur"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/01-methodes-de-separation/qcm-035",
+    "type": "multiple",
+    "enonce": "Le plus souvent, un mélange de phases solides :",
+    "options": [
+      "Est rendu le plus homogène possible par un moyen mécanique",
+      "Est ensuite traité comme une phase solide homogène",
+      "Est toujours séparé manuellement à la pince",
+      "Est dissous dans l'eau puis relargué",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Le cours : « Beaucoup plus généralement, un tel mélange est rendu le plus homogène possible par un moyen mécanique, il sera traité par la suite comme une phase solide homogène ».",
+    "source": {
+      "page": 6,
+      "extrait": "un tel mélange est rendu le plus homogène possible par un moyen mécanique"
+    },
+    "difficulte": 2,
+    "tags": [
+      "mélange de solides"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/01-methodes-de-separation/qcm-036",
+    "type": "multiple",
+    "enonce": "La séparation par rupture de phase d'une solution liquide homogène peut être réalisée :",
+    "options": [
+      "En augmentant la concentration des substances par élimination du solvant",
+      "En modifiant leur solubilité dans le milieu liquide",
+      "Par filtration sur verre fritté",
+      "Par lévigation",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "On réalise une rupture de l'homogénéité soit en éliminant le solvant (augmentation de concentration), soit en modifiant la solubilité des substances. Filtration et lévigation concernent les mélanges hétérogènes.",
+    "source": {
+      "page": 7,
+      "extrait": "soit en augmentant la concentration des substances par élimination du solvant, soit en modifiant leur solubilité"
+    },
+    "difficulte": 2,
+    "tags": [
+      "rupture de phase"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/01-methodes-de-separation/qcm-037",
+    "type": "multiple",
+    "enonce": "L'élimination du solvant à la pression atmosphérique :",
+    "options": [
+      "Nécessite une élévation importante de température",
+      "Entraîne un risque d'oxydation à l'air des substances fragiles",
+      "Entraîne un risque d'altération des produits thermolabiles",
+      "Se fait à l'abri de l'air",
+      "Se fait à une température plus basse que sous pression réduite"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "À pression atmosphérique, il faut une forte élévation de température, d'où un risque d'oxydation à l'air et d'altération des produits thermolabiles. Ce sont les avantages de l'élimination sous pression réduite qui figurent en d et e (à l'abri de l'air, température plus basse).",
+    "source": {
+      "page": 7,
+      "extrait": "risque d'oxydation à l'air de substances fragiles, et d'altération de produits thermolabiles"
+    },
+    "difficulte": 2,
+    "tags": [
+      "élimination du solvant"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/01-methodes-de-separation/qcm-038",
+    "type": "multiple",
+    "enonce": "L'élimination du solvant sous pression réduite :",
+    "options": [
+      "Opère par distillation, donc à l'abri de l'air",
+      "Opère à une température plus basse qu'à pression atmosphérique",
+      "Utilise généralement un évaporateur rotatif",
+      "Augmente la température d'ébullition du solvant",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Le double avantage : distillation à l'abri de l'air et température plus basse ; on utilise généralement un évaporateur rotatif. Plus la pression diminue, plus la température d'ébullition diminue (d est faux).",
+    "source": {
+      "page": 7,
+      "extrait": "Elle a le double avantage d'opérer par distillation donc à l'abri de l'air et à une température plus basse"
+    },
+    "difficulte": 2,
+    "tags": [
+      "évaporateur rotatif"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/01-methodes-de-separation/qcm-039",
+    "type": "multiple",
+    "enonce": "Concernant l'évaporateur rotatif :",
+    "options": [
+      "Il permet une distillation rapide et efficace du solvant",
+      "Il évite d'exposer les molécules fragiles à un chauffage trop important grâce à une diminution de la pression",
+      "Plus la pression diminue, plus la température d'ébullition du solvant diminue",
+      "La rotation du ballon augmente la surface de contact avec la source thermique et homogénéise le chauffage",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes les affirmations reprennent le cours sur l'évaporateur rotatif.",
+    "source": {
+      "page": 7,
+      "extrait": "La rotation du ballon a pour effet d'augmenter la surface de contact avec la source thermique"
+    },
+    "difficulte": 1,
+    "tags": [
+      "évaporateur rotatif"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/01-methodes-de-separation/qcm-040",
+    "type": "unique",
+    "enonce": "Dans un évaporateur rotatif, la rotation du ballon a pour rôle :",
+    "options": [
+      "De diminuer la pression",
+      "D'augmenter la surface de contact avec la source thermique et d'homogénéiser le chauffage",
+      "D'éviter la formation d'émulsions",
+      "De condenser le solvant",
+      "D'augmenter la température d'ébullition"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Le cours : la rotation augmente la surface de contact avec la source thermique et homogénéise ainsi le chauffage.",
+    "source": {
+      "page": 7,
+      "extrait": "augmenter la surface de contact avec la source thermique et ainsi d'homogénéiser le chauffage"
+    },
+    "difficulte": 1,
+    "tags": [
+      "évaporateur rotatif"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/01-methodes-de-separation/qcm-041",
+    "type": "multiple",
+    "enonce": "La précipitation par diminution du pouvoir solvant peut être réalisée par :",
+    "options": [
+      "Variation de température",
+      "Addition d'un non solvant",
+      "Addition d'un agent tensioactif",
+      "Centrifugation",
+      "Filtration"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Les deux modes cités pour la précipitation sont la variation de température (cristallisation par refroidissement) et l'addition d'un non solvant.",
+    "source": {
+      "page": 8,
+      "extrait": "Variation de température"
+    },
+    "difficulte": 1,
+    "tags": [
+      "précipitation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/01-methodes-de-separation/qcm-042",
+    "type": "multiple",
+    "enonce": "Concernant la précipitation par variation de température :",
+    "options": [
+      "Le plus souvent, la solubilité augmente avec la température",
+      "Par refroidissement, des cristaux du corps dissous apparaissent",
+      "Ce phénomène correspond à une cristallisation",
+      "Le plus souvent, la solubilité diminue avec la température",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Le cours : la solubilité varie le plus souvent et augmente avec la température ; par refroidissement apparaissent des cristaux (cristallisation).",
+    "source": {
+      "page": 8,
+      "extrait": "le plus souvent la solubilité varie et augmente avec la température"
+    },
+    "difficulte": 1,
+    "tags": [
+      "cristallisation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/01-methodes-de-separation/qcm-043",
+    "type": "multiple",
+    "enonce": "L'addition d'un non solvant pour provoquer une précipitation implique un second liquide :",
+    "options": [
+      "Miscible au premier",
+      "N'ayant aucun pouvoir de dissolution pour la substance",
+      "Non miscible au premier",
+      "Ayant un fort pouvoir de dissolution pour la substance",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Le non solvant est un second liquide miscible au premier et n'ayant aucun pouvoir de dissolution pour la substance.",
+    "source": {
+      "page": 8,
+      "extrait": "l'addition d'un second liquide miscible au premier et n'ayant aucun pouvoir de dissolution pour la substance"
+    },
+    "difficulte": 2,
+    "tags": [
+      "non solvant"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/01-methodes-de-separation/qcm-044",
+    "type": "multiple",
+    "enonce": "Exemples de précipitation par addition d'un non solvant cités dans le cours :",
+    "options": [
+      "Solution alcoolique d'acide salicylique + eau",
+      "Solution chloroformique de digitaline + éther de pétrole",
+      "Solution méthanolique d'alcaloïde + éther éthylique",
+      "Solution aqueuse d'acétone + sulfate d'ammonium",
+      "Solution aqueuse de protéines + sulfate d'ammonium"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "a, b, c sont les trois exemples de précipitation par non solvant. L'acétone + sulfate d'ammonium et les protéines + sels illustrent le relargage (addition d'un soluté, pas d'un liquide non solvant).",
+    "source": {
+      "page": 8,
+      "extrait": "une solution chloroformique de digitaline précipite par addition d'éther de pétrole"
+    },
+    "difficulte": 2,
+    "tags": [
+      "non solvant",
+      "exemples"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/01-methodes-de-separation/qcm-045",
+    "type": "unique",
+    "enonce": "Une solution chloroformique de digitaline précipite par addition :",
+    "options": [
+      "D'eau",
+      "D'éther de pétrole",
+      "D'éther éthylique",
+      "De sulfate d'ammonium",
+      "De méthanol"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Exemple du cours : digitaline en solution chloroformique + éther de pétrole.",
+    "source": {
+      "page": 8,
+      "extrait": "une solution chloroformique de digitaline précipite par addition d'éther de pétrole"
+    },
+    "difficulte": 1,
+    "tags": [
+      "digitaline"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/01-methodes-de-separation/qcm-046",
+    "type": "unique",
+    "enonce": "Une solution méthanolique d'alcaloïde précipite par addition :",
+    "options": [
+      "D'eau",
+      "D'éther de pétrole",
+      "D'éther éthylique",
+      "De chlorure de sodium",
+      "De chloroforme"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Exemple du cours : solution méthanolique d'alcaloïde + éther éthylique.",
+    "source": {
+      "page": 8,
+      "extrait": "Une solution méthanolique d'alcaloïde précipite par addition d'éther éthylique"
+    },
+    "difficulte": 1,
+    "tags": [
+      "alcaloïde"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/01-methodes-de-separation/qcm-047",
+    "type": "multiple",
+    "enonce": "Concernant la précipitation par addition d'un non solvant, le cours remarque que :",
+    "options": [
+      "La méthode est brutale",
+      "Elle risque d'entraîner des impuretés",
+      "C'est une méthode très douce",
+      "Elle ne fait intervenir aucune élévation de température et c'est son principal avantage",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Remarque du cours : « Cette méthode est brutale et risque d'entraîner des impuretés ». La méthode « très douce » est le relargage.",
+    "source": {
+      "page": 8,
+      "extrait": "Cette méthode est brutale et risque d'entraîner des impuretés"
+    },
+    "difficulte": 2,
+    "tags": [
+      "non solvant"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/01-methodes-de-separation/qcm-048",
+    "type": "multiple",
+    "enonce": "Le relargage :",
+    "options": [
+      "Consiste à ajouter à la solution un nouveau soluté qui entraîne la séparation d'un solide ou d'un liquide",
+      "Est observé le plus souvent avec des solutions aqueuses",
+      "Le composé relargué est le plus souvent organique",
+      "Le relargant est le plus souvent un sel minéral",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes les affirmations sont la définition du relargage selon le cours.",
+    "source": {
+      "page": 9,
+      "extrait": "Le composé relargué est le plus souvent organique, le relargant est un sel minéral"
+    },
+    "difficulte": 1,
+    "tags": [
+      "relargage"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/01-methodes-de-separation/qcm-049",
+    "type": "multiple",
+    "enonce": "Concernant les composés relargables :",
+    "options": [
+      "Ils peuvent être des molécules de faible masse moléculaire",
+      "Ils peuvent être des macromolécules de structure colloïdale",
+      "Une molécule est d'autant plus facile à relarguer qu'elle présente un pôle hydrophobe plus important",
+      "Une molécule est d'autant plus facile à relarguer qu'elle présente un pôle hydrophile plus important",
+      "L'acétone, miscible à l'eau, est relarguée par addition de sulfate d'ammonium"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explication": "Les composés relargables vont des petites molécules aux macromolécules colloïdales ; le relargage est d'autant plus facile que le pôle hydrophobe est important (pas hydrophile). L'acétone est relarguée par le sulfate d'ammonium.",
+    "source": {
+      "page": 9,
+      "extrait": "Une molécule est d'autant plus facile à relarguer, quand elle présente un pôle hydrophobe plus important"
+    },
+    "difficulte": 2,
+    "tags": [
+      "composés relargables"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/01-methodes-de-separation/qcm-050",
+    "type": "unique",
+    "enonce": "L'acétone, miscible à l'eau, peut être relarguée par addition de :",
+    "options": [
+      "Éther de pétrole",
+      "Sulfate d'ammonium",
+      "Éther éthylique",
+      "Eau",
+      "Chloroforme"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Exemple du cours : l'acétone est relarguée par addition d'un sel tel que le sulfate d'ammonium.",
+    "source": {
+      "page": 9,
+      "extrait": "l'acétone miscible à l'eau est relarguée par addition d'un sel tel que le sulfate d'ammonium"
+    },
+    "difficulte": 1,
+    "tags": [
+      "relargage",
+      "acétone"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/01-methodes-de-separation/qcm-051",
+    "type": "multiple",
+    "enonce": "Concernant les agents relargants :",
+    "options": [
+      "Ce sont essentiellement des sels minéraux",
+      "Leur choix est guidé par leur solubilité dans le solvant",
+      "On utilise essentiellement le sulfate d'ammonium ou le chlorure de sodium",
+      "Ils sont classés par ordre décroissant selon les séries de Hofmeister",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes les affirmations correspondent au cours sur les agents relargants.",
+    "source": {
+      "page": 9,
+      "extrait": "On utilise essentiellement le sulfate d'ammonium ou le chlorure de sodium"
+    },
+    "difficulte": 1,
+    "tags": [
+      "agents relargants",
+      "Hofmeister"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/01-methodes-de-separation/qcm-052",
+    "type": "multiple",
+    "enonce": "Selon la série de Hofmeister des anions (ordre décroissant de pouvoir relargant) :",
+    "options": [
+      "F⁻ est plus relargant que SO₄²⁻",
+      "SO₄²⁻ est plus relargant que Cl⁻",
+      "Le citrate est plus relargant que le tartrate",
+      "Br⁻ est plus relargant que Cl⁻",
+      "Cl⁻ est plus relargant que F⁻"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Série des anions : F⁻ > SO₄²⁻ > citrate > tartrate > Cl⁻ > Br⁻. Br⁻ est donc le moins relargant ; Cl⁻ est moins relargant que F⁻.",
+    "source": {
+      "page": 9,
+      "extrait": "Anions: F- > SO42- > citrate > tartrate > Cl- > Br-"
+    },
+    "difficulte": 3,
+    "tags": [
+      "Hofmeister"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/01-methodes-de-separation/qcm-053",
+    "type": "multiple",
+    "enonce": "Selon la série de Hofmeister des cations (ordre décroissant) :",
+    "options": [
+      "Li⁺ > Na⁺",
+      "Na⁺ > K⁺",
+      "K⁺ > NH₄⁺",
+      "NH₄⁺ > Mg²⁺",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Série des cations : Li⁺ > Na⁺ > K⁺ > NH₄⁺ > Mg²⁺. Toutes les comparaisons proposées sont justes.",
+    "source": {
+      "page": 9,
+      "extrait": "Cations: Li+ > Na+ > K+ > NH4+ > Mg2+"
+    },
+    "difficulte": 3,
+    "tags": [
+      "Hofmeister"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/01-methodes-de-separation/qcm-054",
+    "type": "unique",
+    "enonce": "Dans la série de Hofmeister des cations donnée en cours, le cation le moins relargant est :",
+    "options": [
+      "Li⁺",
+      "Na⁺",
+      "K⁺",
+      "NH₄⁺",
+      "Mg²⁺"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Série décroissante : Li⁺ > Na⁺ > K⁺ > NH₄⁺ > Mg²⁺ ; Mg²⁺ est en dernière position.",
+    "source": {
+      "page": 9,
+      "extrait": "Cations: Li+ > Na+ > K+ > NH4+ > Mg2+"
+    },
+    "difficulte": 2,
+    "tags": [
+      "Hofmeister"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/01-methodes-de-separation/qcm-055",
+    "type": "multiple",
+    "enonce": "Avantages du relargage :",
+    "options": [
+      "Méthode de séparation très douce",
+      "Ne fait pas intervenir d'élévation de température",
+      "Grand intérêt en biochimie (relargage des protéines)",
+      "Méthode brutale risquant d'entraîner des impuretés",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Le relargage est très doux, sans élévation de température, d'un grand intérêt en biochimie (protéines). « Brutale » qualifie l'addition d'un non solvant.",
+    "source": {
+      "page": 9,
+      "extrait": "C'est une méthode de séparation très douce. Qui ne fait pas intervenir d'élévation de température"
+    },
+    "difficulte": 1,
+    "tags": [
+      "relargage"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/01-methodes-de-separation/qcm-056",
+    "type": "multiple",
+    "enonce": "Le relargage sélectif de différentes protéines (globulines) peut être obtenu à l'aide de solutions diversement concentrées de sels de :",
+    "options": [
+      "Lithium",
+      "Magnésium",
+      "Ammonium",
+      "Fluor",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Le cours cite le relargage sélectif des globulines par des solutions diversement concentrées de lithium, de magnésium ou d'ammonium.",
+    "source": {
+      "page": 9,
+      "extrait": "à l'aide de solutions diversement concentrées de lithium, de magnésium ou d'ammonium"
+    },
+    "difficulte": 2,
+    "tags": [
+      "protéines",
+      "relargage"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/01-methodes-de-separation/qcm-057",
+    "type": "multiple",
+    "enonce": "Associez correctement technique et type de mélange :",
+    "options": [
+      "Filtration : phase solide + phase liquide",
+      "Décantation : deux liquides non miscibles",
+      "Tamisage : mélange de phases solides",
+      "Relargage : solution liquide homogène",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes les associations respectent le plan du cours : filtration/centrifugation pour solide-liquide, décantation pour liquides non miscibles, lévigation/tamisage pour solides, rupture de phase (dont relargage) pour la phase homogène.",
+    "source": {
+      "page": 7,
+      "extrait": "Séparation par rupture de phase : cas d’une solution liquide homogène"
+    },
+    "difficulte": 2,
+    "tags": [
+      "synthèse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/01-methodes-de-separation/qcm-058",
+    "type": "multiple",
+    "enonce": "Parmi les méthodes suivantes, lesquelles sont des méthodes de rupture de phase d'une solution homogène ?",
+    "options": [
+      "Élimination du solvant",
+      "Précipitation par addition d'un non solvant",
+      "Relargage",
+      "Centrifugation",
+      "Lévigation"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "La rupture de phase regroupe l'élimination du solvant, la précipitation (température, non solvant) et le relargage. Centrifugation et lévigation traitent des mélanges hétérogènes.",
+    "source": {
+      "page": 7,
+      "extrait": "on réalise une rupture de l'homogénéité"
+    },
+    "difficulte": 2,
+    "tags": [
+      "rupture de phase"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/01-methodes-de-separation/qcm-059",
+    "type": "multiple",
+    "enonce": "Concernant les inconvénients des matières filtrantes :",
+    "options": [
+      "Papier filtre : attaqué par les solutions très acides ou très alcalines",
+      "Polymères organiques : solubles dans certains solvants organiques",
+      "Verre fritté : dissous par les solutions fortement alcalines sous forme de silicates",
+      "Verre fritté : soluble dans les solvants organiques",
+      "Polymères organiques : porosité mal définie"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Chaque matière a son inconvénient : cellulose (acides/bases forts), polymères (solvants organiques), verre fritté (alcalins forts → silicates). Les polymères ont au contraire une porosité parfaitement définie.",
+    "source": {
+      "page": 2,
+      "extrait": "L'inconvénient de ces filtres est leur fragilité vis-à-vis des solutions fortement alcalines"
+    },
+    "difficulte": 3,
+    "tags": [
+      "matières filtrantes",
+      "synthèse"
+    ],
+    "origine": "genere"
+  }
+]

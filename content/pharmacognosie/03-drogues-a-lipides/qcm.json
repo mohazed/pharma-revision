@@ -1,0 +1,2098 @@
+[
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/qcm-001",
+    "type": "multiple",
+    "enonce": "Concernant la définition des lipides, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Le terme vient du grec « lipos » : graisse",
+      "Ce sont des esters d'acides gras et d'un alcool ou polyol",
+      "Ils jouent un rôle de constituants de structure cellulaire, d'éléments de revêtement et de substances de réserve",
+      "Ils sont hydrophobes, parfois amphiphiles",
+      "Ils sont volatils"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Les lipides sont non volatils (ce qui les distingue des huiles essentielles).",
+    "source": {
+      "page": 4,
+      "extrait": "Hydrophobes, parfois amphiphiles. • Non volatiles."
+    },
+    "difficulte": 1,
+    "tags": [
+      "définition"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/qcm-002",
+    "type": "unique",
+    "enonce": "Les termes « huile », « beurre », « graisse » et « cire » désignent :",
+    "options": [
+      "La composition en acides gras",
+      "L'origine animale ou végétale",
+      "L'état physique à température ambiante",
+      "Le degré de siccativité",
+      "La teneur en insaponifiable"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Ces termes désignent l'état physique à température ambiante.",
+    "source": {
+      "page": 4,
+      "extrait": "Les termes huiles, beurre, graisse, cire désignent l'état physique à T° ambiante."
+    },
+    "difficulte": 1,
+    "tags": [
+      "définition"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/qcm-003",
+    "type": "multiple",
+    "enonce": "Concernant la classification structurale des lipides, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Les lipides simples comprennent les glycérides, les stérides et les cérides",
+      "Les lipides complexes contiennent des groupes phosphate, sulfate ou glucidique",
+      "Les phospholipides et glycolipides sont des lipides complexes",
+      "Les composés à caractère lipidique sont dépourvus d'acides gras",
+      "Les cérides sont des lipides complexes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Les cérides sont des lipides simples (vrais), avec glycérides et stérides.",
+    "source": {
+      "page": 5,
+      "extrait": "Simples Glycérides Stérides Vrais Lipides Cérides Complexes"
+    },
+    "difficulte": 2,
+    "tags": [
+      "classification"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/qcm-004",
+    "type": "multiple",
+    "enonce": "Concernant les triacylglycérols (TAG), cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Ce sont des glycérides, lipides simples",
+      "Ils résultent de l'estérification du glycérol par des acides gras",
+      "La tristéarine est un TAG simple",
+      "Un TAG mixte comporte des acides gras différents",
+      "La tristéarine est un TAG mixte"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "La tristéarine (3 acides stéariques) est un TAG simple ; un TAG mixte associe des AG différents (ex. myristique, stéarique, palmitoléique).",
+    "source": {
+      "page": 6,
+      "extrait": "Tristéarine (TAG simple)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "glycérides"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/qcm-005",
+    "type": "multiple",
+    "enonce": "Concernant les acides gras courants (tableau du cours), cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "L'acide palmitique possède 16 carbones et aucune double liaison",
+      "L'acide stéarique possède 18 carbones et aucune double liaison",
+      "L'acide oléique est un C18 à une double liaison cis-Δ9",
+      "L'acide linoléique est un C18 à deux doubles liaisons",
+      "L'acide arachidonique est un C20 à quatre doubles liaisons"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Toutes exactes : palmitate 16:0, stéarate 18:0, oléate 18:1 (cis-Δ9), linoléate 18:2 (Δ9,12), linolénate 18:3, arachidonate 20:4 (Δ5,8,11,14).",
+    "source": {
+      "page": 7,
+      "extrait": "Oléate cis-Δ9-Octadécénoate"
+    },
+    "difficulte": 2,
+    "tags": [
+      "acides gras"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/qcm-006",
+    "type": "unique",
+    "enonce": "L'acide linolénique est un acide gras :",
+    "options": [
+      "C16 à 1 double liaison",
+      "C18 à 2 doubles liaisons",
+      "C18 à 3 doubles liaisons",
+      "C20 à 4 doubles liaisons",
+      "C18 saturé"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Linolénate : tout cis-Δ9,12,15-octadécatriénoate (C18:3).",
+    "source": {
+      "page": 7,
+      "extrait": "Linolénate tout cis-Δ9,12,15-Octadécatriénoate"
+    },
+    "difficulte": 2,
+    "tags": [
+      "acides gras"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/qcm-007",
+    "type": "multiple",
+    "enonce": "Concernant le point de fusion des acides gras (tableau du cours), cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Il augmente avec la longueur de chaîne des acides gras saturés",
+      "L'acide stéarique (18:0) fond à une température plus élevée que l'acide oléique (18:1)",
+      "L'acide arachidonique a le point de fusion le plus bas des acides cités",
+      "L'introduction de doubles liaisons abaisse le point de fusion",
+      "L'acide laurique fond à une température plus élevée que l'acide stéarique"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Laurate 44 °C < stéarate 70 °C ; oléate 13 °C, linoléate −9 °C, linolénate −17 °C, arachidonate −49 °C.",
+    "source": {
+      "page": 7,
+      "extrait": "Stearate Octadécanoate 70"
+    },
+    "difficulte": 3,
+    "tags": [
+      "acides gras"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/qcm-008",
+    "type": "multiple",
+    "enonce": "Concernant les acides gras particuliers, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "L'acide ricinoléique est un AG hydroxylé à fonction alcool secondaire",
+      "L'acide ricinoléique représente 90 % des AG de l'huile de ricin",
+      "Les acides hydnocarpique et chaulmoogrique sont des AG cycliques à noyau cyclopenténique",
+      "L'acide ricinoléique est un AG cyclique",
+      "L'acide chaulmoogrique est un AG hydroxylé"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Ricinoléique = hydroxylé (alcool secondaire) ; hydnocarpique et chaulmoogrique = cycliques cyclopenténiques.",
+    "source": {
+      "page": 8,
+      "extrait": "le plus important est l'acide ricinoléique (90% des AG de l'huile de ricin)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "acides gras"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/qcm-009",
+    "type": "multiple",
+    "enonce": "Concernant les cérides, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Ce sont les principaux constituants des cires",
+      "Ce sont des monoesters d'acides gras et d'alcools aliphatiques à longue chaîne",
+      "Les alcools sont en général primaires, à nombre pair de carbones",
+      "Les alcools sont saturés et non ramifiés",
+      "Ce sont des esters d'acides gras et de stérols"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Les esters d'AG et de stérols sont les stérides.",
+    "source": {
+      "page": 9,
+      "extrait": "Monoesters d'acides gras et d'alcools aliphatiques à longue chaîne"
+    },
+    "difficulte": 2,
+    "tags": [
+      "cérides"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/qcm-010",
+    "type": "multiple",
+    "enonce": "Concernant les stérides, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Ils résultent de l'estérification d'acides gras par des stérols",
+      "Ils sont très rares dans le règne végétal",
+      "L'ergostérol est cité en exemple",
+      "Ils sont les principaux constituants des cires",
+      "Ils sont très abondants dans les graines de légumineuses"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Les stérides sont très rares chez les végétaux (ergostérol) ; les cires sont formées de cérides ; les légumineuses sont riches en lécithines.",
+    "source": {
+      "page": 9,
+      "extrait": "Ils résultent de l'estérification d'acides gras par des stérols. Très rares dans le règne végétal"
+    },
+    "difficulte": 2,
+    "tags": [
+      "stérides"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/qcm-011",
+    "type": "multiple",
+    "enonce": "Concernant les lipides complexes, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Ce sont des hétérolipides",
+      "Ils contiennent des groupes phosphate, sulfate ou glucidique",
+      "Ils comprennent phospholipides et glycolipides",
+      "Ils sont constitutifs des membranes vivantes",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes exactes.",
+    "source": {
+      "page": 10,
+      "extrait": "On trouve les phospholipides et glycolipides. Ils sont constitutifs des membranes vivantes."
+    },
+    "difficulte": 1,
+    "tags": [
+      "lipides complexes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/qcm-012",
+    "type": "multiple",
+    "enonce": "Concernant les lécithines et céphalines, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Dans les lécithines, deux fonctions alcool du glycérol sont estérifiées par des AG",
+      "La troisième fonction est estérifiée par l'acide phosphorique, lui-même estérifiant la choline",
+      "Les lécithines sont abondantes dans les graines de légumineuses (1 à 2 % dans le soja)",
+      "Dans les céphalines, la choline est remplacée par l'éthanolamine",
+      "Les céphalines sont plus répandues chez les plantes que les lécithines"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Les céphalines sont MOINS répandues chez les plantes que les lécithines.",
+    "source": {
+      "page": 11,
+      "extrait": "Elles sont moins répandues chez les plantes que les lécithines."
+    },
+    "difficulte": 2,
+    "tags": [
+      "lécithines"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/qcm-013",
+    "type": "unique",
+    "enonce": "Dans les céphalines, la choline des lécithines est remplacée par :",
+    "options": [
+      "La sérine",
+      "L'éthanolamine",
+      "L'inositol",
+      "Le glycérol",
+      "Le galactose"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Les céphalines ont une structure voisine, la choline étant remplacée par l'éthanolamine.",
+    "source": {
+      "page": 11,
+      "extrait": "la choline étant remplacée par l'éthanol-amine"
+    },
+    "difficulte": 1,
+    "tags": [
+      "lécithines"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/qcm-014",
+    "type": "multiple",
+    "enonce": "Concernant les composés à caractère lipidique, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Ce sont des composés naturels dépourvus d'acides gras",
+      "Ils ont les propriétés physiques des lipides, notamment leur solubilité",
+      "Les icosanoïdes dérivent de l'acide arachidonique",
+      "Les isoprénoïdes dérivent de l'isoprène (terpènes, dérivés du stérol)",
+      "Ce sont des esters d'acides gras et de glycérol"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Ils sont dépourvus d'AG : ce ne sont donc pas des esters d'AG.",
+    "source": {
+      "page": 13,
+      "extrait": "Composés naturels dépourvus d'acides gras, mais qui ont les propriétés physiques des lipides"
+    },
+    "difficulte": 2,
+    "tags": [
+      "composés lipidiques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/qcm-015",
+    "type": "unique",
+    "enonce": "Les icosanoïdes dérivent de :",
+    "options": [
+      "L'acide oléique",
+      "L'acide arachidonique",
+      "L'isoprène",
+      "L'acide ricinoléique",
+      "Le glycérol"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Icosanoïdes : dérivés de l'AG polyinsaturé arachidonique ; isoprénoïdes : dérivés de l'isoprène.",
+    "source": {
+      "page": 13,
+      "extrait": "icosanoïdes : dérivés de l'acide gras polyinsaturé arachidonique."
+    },
+    "difficulte": 1,
+    "tags": [
+      "composés lipidiques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/qcm-016",
+    "type": "multiple",
+    "enonce": "Concernant l'état naturel et la localisation des lipides végétaux, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Ils sont stockés sous forme d'inclusions huileuses appelées oléosomes",
+      "Les oléosomes sont issus du réticulum endoplasmique",
+      "Certains fruits concentrent les triacylglycérols dans leur péricarpe : olive, avocat, baie de laurier",
+      "Les AG les plus communs ont de 14 à 20 carbones, surtout 16 ou 18",
+      "Les AG à plus de 24 carbones se trouvent surtout dans le lait et le beurre"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "C < 12 : lait et beurre ; C > 24 : cires des plantes, bactéries et insectes.",
+    "source": {
+      "page": 15,
+      "extrait": "C < 12 : lait et beurre. C > 24 : cires des plantes, bactéries et insectes."
+    },
+    "difficulte": 2,
+    "tags": [
+      "localisation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/qcm-017",
+    "type": "unique",
+    "enonce": "Les acides gras à moins de 12 carbones se rencontrent surtout dans :",
+    "options": [
+      "Les cires des plantes",
+      "Le lait et le beurre",
+      "Les cires d'insectes",
+      "L'huile de ricin",
+      "Les graines de soja"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "C < 12 : lait et beurre ; C > 24 : cires.",
+    "source": {
+      "page": 15,
+      "extrait": "C < 12 : lait et beurre."
+    },
+    "difficulte": 2,
+    "tags": [
+      "localisation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/qcm-018",
+    "type": "multiple",
+    "enonce": "Concernant les propriétés des triglycérides, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Ils forment des émulsions instables",
+      "Ils sont saponifiables",
+      "Ils subissent une auto-oxydation à l'air libre",
+      "L'oxydation biologique fait intervenir les UV et les radicaux libres",
+      "Le rancissement conduit à des peroxydes, des aldéhydes et une mauvaise odeur"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Toutes exactes : émulsions instables, saponification, auto-oxydation (rancissement, siccativation), oxydation biologique.",
+    "source": {
+      "page": 17,
+      "extrait": "L'auto-oxydation à l'air libre. • Oxydation biologique ( UV , radicaux libres)."
+    },
+    "difficulte": 2,
+    "tags": [
+      "propriétés"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/qcm-019",
+    "type": "multiple",
+    "enonce": "Concernant les propriétés des acides gras, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "À température ordinaire, les AG à moins de 10 carbones sont liquides",
+      "À température ordinaire, les AG à plus de 10 carbones sont solides",
+      "Les AG insaturés absorbent dans l'UV",
+      "Ils forment des sels utilisés dans l'industrie des savons et détergents",
+      "Leurs esters sont moins volatils que les acides"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Les esters d'AG ont une volatilité SUPÉRIEURE aux acides, d'où leur analyse par CPG.",
+    "source": {
+      "page": 17,
+      "extrait": "Estérifiables ( volatilité supérieure aux acides : CPG)."
+    },
+    "difficulte": 2,
+    "tags": [
+      "propriétés"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/qcm-020",
+    "type": "unique",
+    "enonce": "L'estérification des acides gras avant analyse par CPG se justifie par :",
+    "options": [
+      "Une meilleure solubilité dans l'eau",
+      "Une volatilité supérieure des esters",
+      "Une absorption UV plus forte",
+      "Une meilleure saponification",
+      "Une diminution de l'indice d'iode"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Les esters ont une volatilité supérieure à celle des acides : ils sont analysés par CPG.",
+    "source": {
+      "page": 17,
+      "extrait": "Estérifiables ( volatilité supérieure aux acides : CPG)."
+    },
+    "difficulte": 2,
+    "tags": [
+      "propriétés"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/qcm-021",
+    "type": "multiple",
+    "enonce": "Concernant l'obtention des huiles végétales, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Elle débute par le contrôle de la matière première",
+      "L'extraction par pression se fait après cuisson des graines oléagineuses",
+      "On utilise des presses à vis",
+      "L'extraction par solvants fournit un miscella et une farine déshuilée",
+      "L'extraction par solvants fournit un scourtin"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Le scourtin intervient dans la pression des olives ; l'extraction par solvant donne miscella et farine déshuilée.",
+    "source": {
+      "page": 18,
+      "extrait": "Extraction par pression: après cuisson des graines oléagineuses. On utilise des presses à vis."
+    },
+    "difficulte": 2,
+    "tags": [
+      "obtention"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/qcm-022",
+    "type": "multiple",
+    "enonce": "Les étapes du raffinage de l'huile brute citées sont, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "La démucilagination (dégommage)",
+      "La neutralisation",
+      "La décoloration",
+      "Le décirage et la désodorisation",
+      "La saponification totale"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Raffinage : démucilagination, neutralisation, décoloration, décirage, désodorisation. La saponification n'en fait pas partie.",
+    "source": {
+      "page": 19,
+      "extrait": "Démucilagination (dégommage): Eliminer les lécithines, les protéines"
+    },
+    "difficulte": 2,
+    "tags": [
+      "raffinage"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/qcm-023",
+    "type": "multiple",
+    "enonce": "Concernant les étapes du raffinage, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "La démucilagination élimine les lécithines, protéines et autres constituants en dispersion colloïdale",
+      "La décoloration se fait par passage sur terres adsorbantes ou charbon actif",
+      "Le décirage concerne les huiles riches en cires (tournesol, maïs, coton)",
+      "La désodorisation élimine aldéhydes et cétones par injection de vapeur d'eau dans l'huile portée à 200 °C",
+      "La désodorisation se fait par passage sur charbon actif à froid"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "La désodorisation utilise la vapeur d'eau dans l'huile à 200 °C ; le charbon actif sert à la décoloration.",
+    "source": {
+      "page": 19,
+      "extrait": "Élimination des aldéhydes et cétones par injection de vapeurs d'eau dans l'huile portée à 200 °C."
+    },
+    "difficulte": 2,
+    "tags": [
+      "raffinage"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/qcm-024",
+    "type": "unique",
+    "enonce": "L'étape du raffinage qui élimine les lécithines et protéines en dispersion colloïdale est :",
+    "options": [
+      "La neutralisation",
+      "La démucilagination (dégommage)",
+      "La décoloration",
+      "Le décirage",
+      "La désodorisation"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "La démucilagination (dégommage) élimine lécithines, protéines et autres constituants colloïdaux.",
+    "source": {
+      "page": 19,
+      "extrait": "Démucilagination (dégommage): Eliminer les lécithines, les protéines"
+    },
+    "difficulte": 1,
+    "tags": [
+      "raffinage"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/qcm-025",
+    "type": "unique",
+    "enonce": "Le décirage concerne particulièrement les huiles de :",
+    "options": [
+      "Olive, ricin, amande",
+      "Tournesol, maïs, coton",
+      "Arachide, soja, coco",
+      "Onagre, bourrache, argan",
+      "Avocat, cacao, coprah"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Décirage : huiles brutes contenant beaucoup de cires (tournesol, maïs, coton).",
+    "source": {
+      "page": 19,
+      "extrait": "Les huiles brutes qui contiennent beaucoup de cires (tournesol, maïs, coton, etc.)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "raffinage"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/qcm-026",
+    "type": "multiple",
+    "enonce": "Concernant le contrôle des drogues à huiles végétales, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Elles donnent une tache grasse sur papier buvard qui résiste à l'étuve à 105 °C",
+      "Les coupes microscopiques sont colorées au rouge Soudan III",
+      "Le dosage de l'huile se fait par extraction puis pesée (gravimétrie)",
+      "La tache grasse disparaît à l'étuve à 105 °C",
+      "Le dosage se fait par titrage à la potasse"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "La tache grasse des huiles fixes RÉSISTE à 105 °C ; le dosage est gravimétrique.",
+    "source": {
+      "page": 20,
+      "extrait": "tache grasse (papier buvard) qui résiste à l'étuve à 105°C."
+    },
+    "difficulte": 2,
+    "tags": [
+      "contrôle"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/qcm-027",
+    "type": "multiple",
+    "enonce": "Les méthodes physiques de contrôle des huiles fixes comprennent, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "La densité",
+      "Le point de fusion, de solidification et de congélation",
+      "L'indice de réfraction",
+      "La viscosité et la température critique de dissolution",
+      "L'indice d'iode"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "L'indice d'iode est une méthode chimique.",
+    "source": {
+      "page": 20,
+      "extrait": "densité, point de fusion, points de solidification et de congélation; l'indice de réfraction"
+    },
+    "difficulte": 2,
+    "tags": [
+      "contrôle"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/qcm-028",
+    "type": "multiple",
+    "enonce": "Concernant l'indice d'acide, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "C'est le nombre de milligrammes de KOH nécessaires pour neutraliser l'acidité libre d'un gramme de matière grasse",
+      "On titre le produit dissous par une solution alcaline alcoolique",
+      "Le titrage se fait en présence de phénolphtaléine",
+      "Il mesure l'acidité libre de la matière grasse",
+      "Il s'exprime en grammes d'iode pour 100 g"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Les grammes d'iode pour 100 g définissent l'indice d'iode.",
+    "source": {
+      "page": 21,
+      "extrait": "Le nombre de milligrammes de potasse caustique KOH nécessaire pour neutraliser l'acidité libre de un gramme"
+    },
+    "difficulte": 2,
+    "tags": [
+      "indices"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/qcm-029",
+    "type": "multiple",
+    "enonce": "Concernant l'indice de saponification, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "C'est le nombre de mg de KOH nécessaires pour transformer en savon les AG et glycérides d'un gramme de corps gras",
+      "Il permet de déterminer la teneur pour cent en acides gras totaux",
+      "Il renseigne sur la longueur des chaînes",
+      "Il mesure uniquement l'acidité libre",
+      "Il mesure le degré d'insaturation"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "L'acidité libre relève de l'indice d'acide ; le degré d'insaturation de l'indice d'iode.",
+    "source": {
+      "page": 22,
+      "extrait": "Il permet de déterminer la teneur pour cent en acides gras totaux et la longueur des chaînes."
+    },
+    "difficulte": 2,
+    "tags": [
+      "indices"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/qcm-030",
+    "type": "multiple",
+    "enonce": "Concernant l'indice d'iode, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "C'est le nombre de grammes d'iode fixés sur les doubles liaisons de 100 g de corps gras",
+      "Il renseigne sur le degré d'insaturation des AG",
+      "Les huiles siccatives ont un indice compris entre 150 et 190",
+      "Les huiles demi-siccatives ont un indice compris entre 100 et 150",
+      "Les huiles non siccatives ont un indice compris entre 150 et 190"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Non siccatives : 75–100.",
+    "source": {
+      "page": 23,
+      "extrait": "huiles siccatives (indice d'iode compris entre 150 et 190) -- demi-siccatives ( 100-150) -- non siccatives (75-100)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "indices"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/qcm-031",
+    "type": "unique",
+    "enonce": "Une huile dont l'indice d'iode est de 130 est classée :",
+    "options": [
+      "Siccative",
+      "Demi-siccative",
+      "Non siccative",
+      "Insaponifiable",
+      "Rancie"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Demi-siccatives : 100–150.",
+    "source": {
+      "page": 23,
+      "extrait": "demi-siccatives ( 100-150)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "indices"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/qcm-032",
+    "type": "unique",
+    "enonce": "Une huile dont l'indice d'iode est de 85 est classée :",
+    "options": [
+      "Siccative",
+      "Demi-siccative",
+      "Non siccative",
+      "Hautement insaturée",
+      "Peroxydée"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Non siccatives : 75–100.",
+    "source": {
+      "page": 23,
+      "extrait": "non siccatives (75-100)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "indices"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/qcm-033",
+    "type": "multiple",
+    "enonce": "Concernant l'indice de peroxyde, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Il correspond à la quantité d'oxygène fixée par 1 g de corps gras",
+      "Il décèle très tôt le rancissement du corps gras",
+      "Il mesure la longueur des chaînes d'acides gras",
+      "Il mesure la quantité d'iode fixée",
+      "Il est inutile pour évaluer l'altération des huiles"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "L'indice de peroxyde (oxygène fixé par 1 g de corps gras, en µg selon le cours) décèle très tôt le rancissement.",
+    "source": {
+      "page": 24,
+      "extrait": "Décele très tôt le rancissement du corps gras."
+    },
+    "difficulte": 2,
+    "tags": [
+      "indices"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/qcm-034",
+    "type": "multiple",
+    "enonce": "Associez chaque indice à son renseignement, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Indice d'acide – acidité libre",
+      "Indice de saponification – AG totaux et longueur des chaînes",
+      "Indice d'iode – degré d'insaturation",
+      "Indice de peroxyde – rancissement précoce",
+      "Indice d'iode – longueur des chaînes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "La longueur des chaînes est appréciée par l'indice de saponification, pas l'indice d'iode.",
+    "source": {
+      "page": 22,
+      "extrait": "Il permet de déterminer la teneur pour cent en acides gras totaux et la longueur des chaînes."
+    },
+    "difficulte": 3,
+    "tags": [
+      "indices"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/qcm-035",
+    "type": "multiple",
+    "enonce": "Concernant l'insaponifiable, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Ce sont des substances non volatiles à 100–105 °C",
+      "Elles sont obtenues par extraction avec un solvant organique après saponification",
+      "Le solvant d'extraction n'est pas miscible à l'eau",
+      "On vérifie l'absence de quantité significative d'acides gras dans le résidu",
+      "Le résidu est pesé après évaporation du solvant"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Toutes exactes : saponification, extraction par solvant non miscible à l'eau, évaporation, pesée, vérification de l'absence d'AG.",
+    "source": {
+      "page": 25,
+      "extrait": "Substances, non volatiles à 100-105° C, obtenues par extraction, avec un solvant organique"
+    },
+    "difficulte": 2,
+    "tags": [
+      "insaponifiable"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/qcm-036",
+    "type": "unique",
+    "enonce": "Dans la détermination de l'insaponifiable, l'étape qui suit la saponification est :",
+    "options": [
+      "La pesée du résidu",
+      "L'extraction par un solvant non miscible à l'eau",
+      "L'évaporation du solvant",
+      "La neutralisation à la phénolphtaléine",
+      "La fixation d'iode"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Ordre : saponification → extraction par solvant non miscible à l'eau → évaporation → pesée → vérification de l'absence d'AG.",
+    "source": {
+      "page": 25,
+      "extrait": "1- Saponification. 2- Extraire la fraction par un solvant non miscible à l'eau."
+    },
+    "difficulte": 2,
+    "tags": [
+      "insaponifiable"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/qcm-037",
+    "type": "multiple",
+    "enonce": "Les intérêts des huiles végétales en pharmacie cités sont, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Excipients pour solutés huileux injectables",
+      "Huiles pour perfusion (alimentation parentérale)",
+      "Huiles riches en acides gras essentiels",
+      "Excipients de suppositoires et dermopharmacie",
+      "Insaponifiables et composés apparentés"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Six rubriques : solutés injectables, perfusion, AGE, insaponifiables, suppositoires, dermopharmacie.",
+    "source": {
+      "page": 26,
+      "extrait": "Excipients pour les solutés huileux injectables."
+    },
+    "difficulte": 1,
+    "tags": [
+      "emplois"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/qcm-038",
+    "type": "multiple",
+    "enonce": "Concernant l'huile d'olive, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Elle est obtenue à partir des drupes mûres d'Olea europaea (Oleaceae)",
+      "L'huile vierge est obtenue par pression à froid",
+      "Un antioxydant approprié peut être ajouté à l'huile raffinée",
+      "La drogue comprend les feuilles et les fruits",
+      "Elle est obtenue à partir des graines décortiquées"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Les graines décortiquées concernent l'huile d'arachide.",
+    "source": {
+      "page": 27,
+      "extrait": "obtenue à partir des drupes mûres d'Olea europea L. Oleaceae par pression à froid"
+    },
+    "difficulte": 2,
+    "tags": [
+      "olive"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/qcm-039",
+    "type": "multiple",
+    "enonce": "Concernant la composition de l'huile d'olive, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "L'acide oléique représente 56 à 85 %",
+      "L'acide palmitique représente 7,5 à 20 %",
+      "L'acide linolénique représente environ 1 %",
+      "L'insaponifiable est inférieur à 1,5 %",
+      "L'acide ricinoléique est majoritaire"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "L'AG majoritaire est l'acide oléique ; le ricinoléique caractérise l'huile de ricin.",
+    "source": {
+      "page": 28,
+      "extrait": "Acide oléique 56-85%"
+    },
+    "difficulte": 2,
+    "tags": [
+      "olive"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/qcm-040",
+    "type": "unique",
+    "enonce": "L'acide gras majoritaire de l'huile d'olive est :",
+    "options": [
+      "L'acide palmitique",
+      "L'acide linoléique",
+      "L'acide oléique",
+      "L'acide ricinoléique",
+      "L'acide γ-linolénique"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Acide oléique 56–85 %.",
+    "source": {
+      "page": 28,
+      "extrait": "Acide oléique 56-85%"
+    },
+    "difficulte": 1,
+    "tags": [
+      "olive"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/qcm-041",
+    "type": "multiple",
+    "enonce": "L'insaponifiable de l'huile d'olive contient, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Des stérols",
+      "Des tocophérols",
+      "Des triterpènes",
+      "Des carotènes et chlorophylles",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Insaponifiable < 1,5 % : stérols, tocophérols, triterpènes, carotènes, chlorophylles.",
+    "source": {
+      "page": 28,
+      "extrait": "L'insaponifiable <1,5% (stérols, tocophérols, triterpènes, carotènes, chlorophylles)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "olive"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/qcm-042",
+    "type": "multiple",
+    "enonce": "Concernant les étapes d'obtention de l'huile d'olive, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Récolte, effeuillage et lavage",
+      "Broyage par meule en pierre ou système à lames, donnant une pâte d'olive",
+      "Malaxage pour réunir les gouttelettes d'huile en film",
+      "Pression (scourtins) et/ou centrifugation, puis séparation des phases",
+      "Extraction par solvant donnant un miscella"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "L'huile d'olive est obtenue par voie mécanique ; le miscella résulte d'une extraction par solvant.",
+    "source": {
+      "page": 31,
+      "extrait": "Malaxage: réunir les gouttelettes d'huile en film."
+    },
+    "difficulte": 2,
+    "tags": [
+      "olive"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/qcm-043",
+    "type": "unique",
+    "enonce": "Dans l'obtention de l'huile d'olive, le malaxage a pour but de :",
+    "options": [
+      "Laver les olives",
+      "Broyer les noyaux",
+      "Réunir les gouttelettes d'huile en film",
+      "Séparer les phases",
+      "Éliminer les cires"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Malaxage : réunir les gouttelettes d'huile en film.",
+    "source": {
+      "page": 30,
+      "extrait": "Malaxage: réunir les gouttelettes d'huile en film."
+    },
+    "difficulte": 1,
+    "tags": [
+      "olive"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/qcm-044",
+    "type": "multiple",
+    "enonce": "Concernant les emplois de l'huile d'olive, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Traditionnellement cholérétique et cholagogue",
+      "En usage externe : adoucissant et émollient",
+      "Contre les maladies cardiovasculaires",
+      "Raffinée, solvant pour préparations injectables",
+      "Purgatif drastique"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Le purgatif drastique est l'huile de ricin.",
+    "source": {
+      "page": 34,
+      "extrait": "Raffinée, c'est un solvant pour préparations injectables."
+    },
+    "difficulte": 1,
+    "tags": [
+      "olive"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/qcm-045",
+    "type": "multiple",
+    "enonce": "Concernant l'huile d'arachide, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Elle est obtenue à partir des graines décortiquées d'Arachis hypogaea (Fabaceae)",
+      "La plante est originaire de la zone tropicale sud-américaine",
+      "C'est une herbacée annuelle à fructification particulière (« cacahuète »)",
+      "65 % de son insaponifiable est représenté par l'α-tocophérol",
+      "Elle est obtenue par pression à froid des drupes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Les drupes concernent l'olive.",
+    "source": {
+      "page": 36,
+      "extrait": "65% de l'insaponifiable est représenté par l'alpha- tocophérol."
+    },
+    "difficulte": 2,
+    "tags": [
+      "arachide"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/qcm-046",
+    "type": "multiple",
+    "enonce": "Concernant la composition et les emplois de l'huile d'arachide, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Elle contient de l'acide arachidique (1–3 %)",
+      "L'acide oléique représente 35–72 %",
+      "Sa composition varie selon l'origine géographique",
+      "Elle sert d'excipient, par exemple pour la mébévérine et l'allopurinol",
+      "La pharmacotechnie utilise aussi l'huile d'arachide hydrogénée"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Toutes exactes.",
+    "source": {
+      "page": 36,
+      "extrait": "Exps de médicaments où il est utilisé comme excipient : mébéverine, allopurinol."
+    },
+    "difficulte": 2,
+    "tags": [
+      "arachide"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/qcm-047",
+    "type": "multiple",
+    "enonce": "Concernant l'huile de ricin, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Elle est obtenue par pression à froid des graines de Ricinus communis (Euphorbiaceae)",
+      "La plante est originaire d'Éthiopie",
+      "Elle contient 90 % d'acide ricinoléique",
+      "Elle est cultivée en Inde, en Chine et au Brésil",
+      "Elle appartient aux Fabaceae"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Ricinus communis appartient aux Euphorbiaceae.",
+    "source": {
+      "page": 37,
+      "extrait": "Obtenue à partir des graines de Ricinus communis L. ( Euphorbiaceae) par pression à froid"
+    },
+    "difficulte": 2,
+    "tags": [
+      "ricin"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/qcm-048",
+    "type": "multiple",
+    "enonce": "Concernant les emplois de l'huile de ricin, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "C'est un purgatif drastique dont l'usage est à proscrire formellement",
+      "L'huile polyoxyéthylénée est utilisée en pharmacotechnie",
+      "L'huile hydrogénée polyoxyéthylénée sert de véhicule pour préparations injectables",
+      "Elle est utilisée pour renforcer et allonger les cils et sourcils",
+      "C'est le solvant de référence des émulsions pour alimentation parentérale"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "L'alimentation parentérale utilise l'huile de soja (émulsion H/E 10 ou 20 %).",
+    "source": {
+      "page": 38,
+      "extrait": "Purgatif drastique dont l'usage est à proscrire formellement ."
+    },
+    "difficulte": 2,
+    "tags": [
+      "ricin"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/qcm-049",
+    "type": "multiple",
+    "enonce": "Concernant la toxicité de l'huile de ricin selon le cours, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "C'est un toxique violent",
+      "Elle bloque la synthèse protéique",
+      "Par voie injectable, elle est très toxique (DL50 souris = 0,1 µg)",
+      "Elle est moins toxique per os, avec des troubles gastro-intestinaux",
+      "Elle est dépourvue de toxicité par voie injectable"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Très toxique par voie injectable, moins per os.",
+    "source": {
+      "page": 39,
+      "extrait": "Toxique violent. Elle bloque la synthèse protéïque."
+    },
+    "difficulte": 2,
+    "tags": [
+      "ricin",
+      "toxicité"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/qcm-050",
+    "type": "multiple",
+    "enonce": "Concernant l'huile de soja, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Elle est obtenue à partir des graines de Glycine soja et Glycine max (Fabaceae)",
+      "La plante est une herbacée annuelle",
+      "Elle est la principale source de lécithines (liposomes)",
+      "Elle est utilisée en alimentation parentérale sous forme d'émulsion H/E à 10 ou 20 %",
+      "Elle appartient aux Euphorbiaceae"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Le soja appartient aux Fabaceae.",
+    "source": {
+      "page": 42,
+      "extrait": "La forme d'emploi est une émulsion H/E à 10 ou 20% (Intralipide"
+    },
+    "difficulte": 2,
+    "tags": [
+      "soja"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/qcm-051",
+    "type": "unique",
+    "enonce": "En alimentation parentérale, l'huile de soja est administrée sous forme :",
+    "options": [
+      "D'émulsion E/H à 50 %",
+      "D'émulsion H/E à 10 ou 20 %",
+      "De solution huileuse pure",
+      "De suppositoire",
+      "De soluté aqueux à 5 %"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Émulsion H/E à 10 ou 20 % (Intralipide), pour l'apport calorique et en AG essentiels.",
+    "source": {
+      "page": 42,
+      "extrait": "La forme d'emploi est une émulsion H/E à 10 ou 20%"
+    },
+    "difficulte": 2,
+    "tags": [
+      "soja"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/qcm-052",
+    "type": "multiple",
+    "enonce": "Concernant la composition des graines de soja, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Plus de 35 % de glucides",
+      "35–40 % de protéines",
+      "15–20 % de lipides",
+      "L'insaponifiable renferme des tocophérols, le γ étant majoritaire (44–60 %)",
+      "L'α-tocophérol est le tocophérol majoritaire du soja"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Dans le soja, le γ-tocophérol est majoritaire (44–60 %), l'α ne représente que 5–10 %. (C'est dans l'arachide que l'α-tocophérol domine l'insaponifiable.)",
+    "source": {
+      "page": 42,
+      "extrait": "γ (44-60 %), δ(30-43%), α (5-10 %) β(2-3 %)"
+    },
+    "difficulte": 3,
+    "tags": [
+      "soja"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/qcm-053",
+    "type": "multiple",
+    "enonce": "Concernant l'origine et les usages du soja selon le cours, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Il serait originaire d'Australie",
+      "Il aurait été introduit en Chine par les oiseaux migrateurs",
+      "Il est utilisé depuis longtemps en Asie (tonyu, tofu)",
+      "C'est une source importante de protéines avec diminution du cholestérol, des TG et du LDL-cholestérol",
+      "Il a été introduit très tôt en Europe"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Il n'a été introduit que tardivement en Europe.",
+    "source": {
+      "page": 41,
+      "extrait": "elle n'a été introduite que tardivement en Europe."
+    },
+    "difficulte": 2,
+    "tags": [
+      "soja"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/qcm-054",
+    "type": "multiple",
+    "enonce": "Concernant l'onagre, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "C'est Oenothera biennis (Onagraceae)",
+      "Elle est originaire d'Amérique du Nord",
+      "Elle est cultivée au Royaume-Uni pour ses graines",
+      "Ses graines, riches en AG insaturés, se conservent très mal",
+      "Son huile est utilisée en cosmétique pour préserver l'élasticité de l'épiderme et prévenir les rides"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Toutes exactes.",
+    "source": {
+      "page": 45,
+      "extrait": "Graines riches en AGI : se conserve donc très mal."
+    },
+    "difficulte": 2,
+    "tags": [
+      "onagre"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/qcm-055",
+    "type": "multiple",
+    "enonce": "Concernant la bourrache, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "C'est Borago officinalis (Boraginaceae)",
+      "Ses fleurs et sommités fleuries sont traditionnellement utilisées contre les affections bronchiques",
+      "Ses fleurs contiennent des alcaloïdes pyrrolizidiniques",
+      "Son huile contient 18 à 25 % d'acide γ-linolénique",
+      "Elle est cultivée pour ses fruits charnus"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "La bourrache est maintenant cultivée pour la production de graines oléagineuses.",
+    "source": {
+      "page": 47,
+      "extrait": "acide γ-linolénique (18-25 %)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "bourrache"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/qcm-056",
+    "type": "multiple",
+    "enonce": "Concernant l'huile de bourrache, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Sa teneur varie de 13 à 33 % selon le mode d'extraction et la maturité",
+      "Elle contient de l'acide linoléique (30–40 %)",
+      "Elle contient de l'acide oléique (15–19 %)",
+      "Des essais ont porté sur l'eczéma atopique et l'arthrite rhumatoïde",
+      "Ses emplois sont comparables à ceux de l'huile d'onagre"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Toutes exactes (« Emplois : idem onagre »).",
+    "source": {
+      "page": 47,
+      "extrait": "des essais ont été faits sur son activité sur l'eczéma atopique et l'arthrite rhumatoïde"
+    },
+    "difficulte": 2,
+    "tags": [
+      "bourrache"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/qcm-057",
+    "type": "unique",
+    "enonce": "L'huile riche en acides gras essentiels dont les sommités fleuries renferment des alcaloïdes pyrrolizidiniques est :",
+    "options": [
+      "L'onagre",
+      "La bourrache",
+      "L'argan",
+      "L'avocat",
+      "Le soja"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "La bourrache (Borago officinalis) : fleurs à alcaloïdes pyrrolizidiniques, graines riches en acide γ-linolénique.",
+    "source": {
+      "page": 46,
+      "extrait": "affections bronchiques (alcaloïdes pyrrolyzidiniques)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "bourrache"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/qcm-058",
+    "type": "multiple",
+    "enonce": "Concernant l'avocatier, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "C'est Persea americana (Lauraceae)",
+      "Il est originaire d'Amérique du Sud",
+      "Le mésocarpe charnu fournit une huile visqueuse vert brunâtre à odeur fruitée",
+      "La teneur en insaponifiable atteint 1 %",
+      "L'insaponifiable est utilisé dans les parodontopathies et les douleurs arthrosiques"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Toutes exactes : stomatologie (parodontopathies) et rhumatologie (douleurs arthrosiques).",
+    "source": {
+      "page": 49,
+      "extrait": "Utilisé en stomatologie dans le traitement de fond des parodontopathies"
+    },
+    "difficulte": 2,
+    "tags": [
+      "avocat"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/qcm-059",
+    "type": "multiple",
+    "enonce": "Concernant les tocophérols, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Ce sont des dérivés prénylés du benzodihydropyrane",
+      "L'α-tocophérol est le plus actif biologiquement",
+      "C'est un antioxydant liposoluble naturel",
+      "Il protège in vitro les AG insaturés contre le rancissement",
+      "C'est un antioxydant hydrosoluble"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "L'α-tocophérol est liposoluble.",
+    "source": {
+      "page": 50,
+      "extrait": "a-tocophérol, antioxydant liposoluble naturel"
+    },
+    "difficulte": 2,
+    "tags": [
+      "tocophérols"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/qcm-060",
+    "type": "multiple",
+    "enonce": "Les utilisations des tocophérols citées sont la prévention ou le traitement de, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "L'athérosclérose",
+      "Certains cancers",
+      "La malabsorption intestinale",
+      "Certaines maladies neurologiques (Parkinson)",
+      "L'hypertrophie bénigne de la prostate"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "L'HBP relève du Prunier d'Afrique et du Palmier de Floride.",
+    "source": {
+      "page": 50,
+      "extrait": "Utilisé pour la prévention d'athérosclérose, des cancers, malabsorption intestinale"
+    },
+    "difficulte": 2,
+    "tags": [
+      "tocophérols"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/qcm-061",
+    "type": "multiple",
+    "enonce": "Concernant le Prunier d'Afrique, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "C'est Prunus africana (Rosaceae)",
+      "C'est un grand arbre des forêts d'Afrique centrale",
+      "La drogue est l'écorce, qui dégage une faible odeur d'acide cyanhydrique",
+      "On utilise un complexe lipido-stérolique obtenu par solvant organique",
+      "Il est commercialisé sous le nom de Permixon"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Prunier d'Afrique = Tadenan ; Permixon = Serenoa repens.",
+    "source": {
+      "page": 52,
+      "extrait": "Il est commercialisé sous le nom de TADENAN"
+    },
+    "difficulte": 2,
+    "tags": [
+      "prunier d'Afrique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/qcm-062",
+    "type": "unique",
+    "enonce": "L'activité de l'extrait de Prunier d'Afrique est attribuée à :",
+    "options": [
+      "L'inhibition de la 5-α-réductase",
+      "L'inhibition de la 5-lipoxygénase des polynucléaires infiltrant la prostate",
+      "Le blocage de la synthèse protéique",
+      "L'effet laxatif osmotique",
+      "Le piégeage des radicaux libres uniquement"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Inhibition de la 5-lipoxygénase des polynucléaires qui infiltrent le tissu prostatique (extrait anti-inflammatoire).",
+    "source": {
+      "page": 52,
+      "extrait": "l'inhibition de la 5-lipoxygénase des polynucléaires qui infiltrent le tissu prostatique"
+    },
+    "difficulte": 3,
+    "tags": [
+      "prunier d'Afrique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/qcm-063",
+    "type": "multiple",
+    "enonce": "Concernant le Palmier de Floride, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "C'est Serenoa repens, ou palmier-scie",
+      "Il est spontané dans le sud des États-Unis",
+      "La drogue est le fruit globuleux monoséminé, bleuâtre à noir à maturité",
+      "L'extrait hexanique lipido-stérolique est commercialisé sous le nom de Permixon",
+      "Il est indiqué dans les troubles mictionnels modérés liés à l'HBP"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Toutes exactes.",
+    "source": {
+      "page": 55,
+      "extrait": "L'extrait hexanique lipido-stérolique commercial (PERMIXON)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "palmier de Floride"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/qcm-064",
+    "type": "multiple",
+    "enonce": "Associez la drogue à sa spécialité ou à son emploi, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Prunus africana – Tadenan",
+      "Serenoa repens – Permixon",
+      "Huile de soja – Intralipide",
+      "Alginate de calcium – Permixon",
+      "Prunus africana – émulsion parentérale"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Tadenan (Prunier d'Afrique), Permixon (Palmier de Floride), Intralipide (huile de soja).",
+    "source": {
+      "page": 55,
+      "extrait": "L'extrait hexanique lipido-stérolique commercial (PERMIXON)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "spécialités"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/qcm-065",
+    "type": "multiple",
+    "enonce": "Concernant les excipients de suppositoires d'origine lipidique, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Le beurre de cacao est obtenu à partir des graines de Theobroma cacao (Sterculiaceae)",
+      "On préfère maintenant au beurre de cacao les glycérides semi-synthétiques",
+      "L'huile de coco est utilisée pour l'obtention de glycérides semi-synthétiques",
+      "L'huile de coco provient de l'albumen solide desséché de Cocos nucifera (Arecaceae)",
+      "Le beurre de cacao est obtenu à partir de l'albumen de cocotier"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Le beurre de cacao provient des graines de cacaoyer.",
+    "source": {
+      "page": 57,
+      "extrait": "En pharmacie elle est utilisée pour l'obtention de glycérides semi-synthétiques."
+    },
+    "difficulte": 2,
+    "tags": [
+      "suppositoires"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/qcm-066",
+    "type": "multiple",
+    "enonce": "Concernant le cocotier et le coprah, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "L'albumen de la graine est en partie liquide (lait de coco) et en partie solide (coprah)",
+      "Le coprah contient 65 % de lipides",
+      "Au-dessous de 25 °C, l'huile de coprah forme une masse blanche insipide et inodore",
+      "Le cocotier est largement cultivé en Indonésie, aux Philippines et en Inde",
+      "Le coprah est la partie liquide de l'albumen"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Le coprah est la partie solide de l'albumen.",
+    "source": {
+      "page": 57,
+      "extrait": "Le coprah :65% de lipides. Au dessous de 25°C l'huile de coprah forme une masse blanche"
+    },
+    "difficulte": 2,
+    "tags": [
+      "coco"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/qcm-067",
+    "type": "multiple",
+    "enonce": "Concernant l'huile d'amande, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Elle est obtenue par pression à froid des graines mûres de Prunus dulcis",
+      "Elle peut provenir de la variété dulcis, de la variété amara ou de leur mélange",
+      "L'amandier appartient aux Rosaceae",
+      "Les graines sont riches en huile (50–60 %)",
+      "L'amandier appartient aux Lauraceae"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "L'amandier est une Rosaceae ; l'avocatier est une Lauraceae.",
+    "source": {
+      "page": 60,
+      "extrait": "Les graines des deux variétés amara et dulcis, riches en huile (50-60 %)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "amande"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/qcm-068",
+    "type": "multiple",
+    "enonce": "Concernant l'amygdaloside, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "C'est un hétéroside cyanogène présent chez la variété amara",
+      "C'est le gentiobioside du mandélonitrile",
+      "Son hydrolyse fournit deux molécules de glucose",
+      "La décomposition du nitrile mandélique libère de l'aldéhyde benzoïque et de l'acide cyanhydrique",
+      "Il est présent dans la variété dulcis et absent de la variété amara"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "L'amygdaloside caractérise la variété amara (amande amère).",
+    "source": {
+      "page": 60,
+      "extrait": "l'amygdaloside. Son hydrolyse fournit deux molécules de glucose"
+    },
+    "difficulte": 3,
+    "tags": [
+      "amande"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/qcm-069",
+    "type": "multiple",
+    "enonce": "Concernant les emplois de l'amande, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Une fraction protéique de faible masse moléculaire associée à des glucides diminuerait l'irritation cutanée",
+      "Elle entre dans des formulations après-solaires, après-rasage et démaquillantes",
+      "Les amandes amères servent à obtenir l'essence d'amande amère",
+      "L'essence d'amande amère sert à l'aromatisation, principalement dans l'agroalimentaire",
+      "L'huile d'amande est un purgatif drastique"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Le purgatif drastique est l'huile de ricin.",
+    "source": {
+      "page": 61,
+      "extrait": "Les amandes amères sont aussi employées pour l'obtention de l'essence d'amande amère."
+    },
+    "difficulte": 2,
+    "tags": [
+      "amande"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/qcm-070",
+    "type": "multiple",
+    "enonce": "Concernant l'huile d'argan, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "L'arganier est Argania spinosa, espèce du sud-ouest marocain",
+      "Le fruit charnu est traditionnellement utilisé pour l'alimentation du bétail",
+      "L'huile est nettement insaturée : acide oléique 45 %, acide linoléique 35 %",
+      "Elle est appliquée pour assouplir la peau, nourrir les cheveux et prévenir les vergetures",
+      "Elle est obtenue à partir du mésocarpe charnu"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "L'huile d'argan est fournie par la graine ; le mésocarpe sert à l'huile d'avocat.",
+    "source": {
+      "page": 62,
+      "extrait": "La graine fournit une huile nettement insaturée (acide oléique, 45 %, acide linoléique, 35 %)."
+    },
+    "difficulte": 2,
+    "tags": [
+      "argan"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/qcm-071",
+    "type": "multiple",
+    "enonce": "Associez la drogue à sa famille botanique, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Olivier – Oleaceae",
+      "Arachide – Fabaceae",
+      "Ricin – Euphorbiaceae",
+      "Avocatier – Lauraceae",
+      "Bourrache – Onagraceae"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Bourrache = Boraginaceae ; onagre = Onagraceae.",
+    "source": {
+      "page": 46,
+      "extrait": "BOURRACHE, Borago officinalis, Boraginaceae"
+    },
+    "difficulte": 2,
+    "tags": [
+      "familles"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/qcm-072",
+    "type": "multiple",
+    "enonce": "Associez la drogue à sa famille botanique, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Prunier d'Afrique – Rosaceae",
+      "Cocotier – Arecaceae",
+      "Cacaoyer – Sterculiaceae",
+      "Amandier – Rosaceae",
+      "Soja – Euphorbiaceae"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Le soja est une Fabaceae.",
+    "source": {
+      "page": 56,
+      "extrait": "Theobroma cacao (Sterculiaceae)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "familles"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/qcm-073",
+    "type": "multiple",
+    "enonce": "Parmi les huiles suivantes, lesquelles sont obtenues par pression à froid selon le cours ?",
+    "options": [
+      "Huile d'olive vierge",
+      "Huile de ricin",
+      "Huile d'amande",
+      "Huile de soja raffinée",
+      "Huile d'arachide raffinée"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Olive vierge, ricin et amande : pression à froid. Soja et arachide sont décrites comme huiles grasses raffinées.",
+    "source": {
+      "page": 58,
+      "extrait": "l'huile grasse obtenue par pression à froid à partir de graines mûres de Prunus dulcis"
+    },
+    "difficulte": 3,
+    "tags": [
+      "obtention"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/qcm-074",
+    "type": "multiple",
+    "enonce": "Parmi les drogues suivantes, lesquelles sont indiquées dans les troubles mictionnels liés à l'HBP ?",
+    "options": [
+      "Écorce de Prunus africana",
+      "Fruit de Serenoa repens",
+      "Huile d'onagre",
+      "Insaponifiable d'avocat",
+      "Huile de coco"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Tadenan (Prunier d'Afrique) et Permixon (Palmier de Floride).",
+    "source": {
+      "page": 53,
+      "extrait": "traitement des troubles mictionnels modérés liés à l'hypertrophie bénigne de la prostate"
+    },
+    "difficulte": 2,
+    "tags": [
+      "HBP"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/qcm-075",
+    "type": "multiple",
+    "enonce": "Parmi les huiles suivantes, lesquelles sont classées « riches en acides gras essentiels » dans le cours ?",
+    "options": [
+      "Onagre",
+      "Bourrache",
+      "Ricin",
+      "Coco",
+      "Olive"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Rubrique 4-3 : onagre et bourrache.",
+    "source": {
+      "page": 44,
+      "extrait": "Huiles riches en acides gras essentiels ❖ONAGRE"
+    },
+    "difficulte": 1,
+    "tags": [
+      "AGE"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/qcm-076",
+    "type": "multiple",
+    "enonce": "Concernant les huiles excipients de solutés huileux injectables, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "L'huile d'olive raffinée",
+      "L'huile d'arachide",
+      "L'huile de ricin (dérivés polyoxyéthylénés)",
+      "L'huile de coco",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Le cours classe olive, arachide et ricin parmi les excipients des solutés huileux injectables ; le coco est classé parmi les excipients de suppositoires.",
+    "source": {
+      "page": 27,
+      "extrait": "Excipients pour les solutés huileux injectables ❖ Huile d'olive"
+    },
+    "difficulte": 2,
+    "tags": [
+      "emplois"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/qcm-077",
+    "type": "unique",
+    "enonce": "L'insaponifiable dominé à 65 % par l'α-tocophérol est celui de l'huile :",
+    "options": [
+      "D'olive",
+      "D'arachide",
+      "De soja",
+      "D'avocat",
+      "De ricin"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Arachide : 65 % de l'insaponifiable est l'α-tocophérol. Dans le soja, le γ-tocophérol domine.",
+    "source": {
+      "page": 36,
+      "extrait": "65% de l'insaponifiable est représenté par l'alpha- tocophérol."
+    },
+    "difficulte": 3,
+    "tags": [
+      "arachide"
+    ],
+    "origine": "genere"
+  }
+]

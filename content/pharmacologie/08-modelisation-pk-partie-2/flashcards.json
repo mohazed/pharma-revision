@@ -1,0 +1,182 @@
+[
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/flash-001",
+    "recto": "Équation du modèle bicompartimental IV",
+    "verso": "Cp = D·e^(−kd·t) + E·e^(−ke·t)",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/flash-002",
+    "recto": "Phases de la courbe bicompartimentale IV",
+    "verso": "Phase initiale : élimination + distribution ; phase terminale : élimination.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/flash-003",
+    "recto": "Calcul de kd (bicompartimental IV)",
+    "verso": "kd = −2,303 × (log D2 − log D1)/(t2 − t1), sur la droite des résidus D = |C'p − Cexp|.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/flash-004",
+    "recto": "Calcul de ke (bicompartimental IV)",
+    "verso": "ke = −2,303 × (log C'2 − log C'1)/(t2 − t1), sur la droite d'élimination.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/flash-005",
+    "recto": "t1/2 de distribution",
+    "verso": "ln2/kd",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/flash-006",
+    "recto": "AUC0→∞ bicompartimental IV",
+    "verso": "AUC = D/kd + E/ke",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/flash-007",
+    "recto": "Clairance et Vd (bicompartimental IV)",
+    "verso": "Cl = Q(dose IV)/AUC ; Vd = Cl/ke",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/flash-008",
+    "recto": "Constantes du modèle bicompartimental oral",
+    "verso": "Ka (absorption), Kd (distribution), Ke (élimination).",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/flash-009",
+    "recto": "Équation du bicompartimental oral",
+    "verso": "C = E·e^(−ke·t) + D·e^(−kd·t) − A·e^(−ka·t)",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/flash-010",
+    "recto": "AUC0→∞ bicompartimental oral",
+    "verso": "AUC = E/ke + D/kd − A/ka",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/flash-011",
+    "recto": "Deux types d'administration répétée",
+    "verso": "Continue (perfusion IV) et réitérée (IV ou orale).",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/flash-012",
+    "recto": "Équation de la perfusion",
+    "verso": "Vd × dC/dt = R0 − (Cl × Cp)",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/flash-013",
+    "recto": "Condition d'équilibre (perfusion)",
+    "verso": "Vitesse d'apport = vitesse d'élimination : R0 = Cl × Css",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/flash-014",
+    "recto": "Css en perfusion",
+    "verso": "Css = R0 / Cl",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/flash-015",
+    "recto": "Concentration pendant la perfusion",
+    "verso": "Cperf = Css(1 − e^(−ke·T)) = Css[1 − (1/2)^n], n = T/T1/2",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/flash-016",
+    "recto": "Délai d'atteinte du plateau",
+    "verso": "En pratique 5 T1/2 (97 %) ; ne dépend que de la demi-vie.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/flash-017",
+    "recto": "Dose de charge en perfusion",
+    "verso": "DC = Vd × Css = R0/Ke (si t1/2 long).",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/flash-018",
+    "recto": "Vd à partir de T1/2 et Cl",
+    "verso": "Vd = T1/2 × Cl / 0,693",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/flash-019",
+    "recto": "Intervalle thérapeutique",
+    "verso": "Zone de concentration où le plus grand nombre de malades est traité efficacement avec le minimum d'effets indésirables.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/flash-020",
+    "recto": "Index thérapeutique",
+    "verso": "Rapport entre les concentrations limites de l'intervalle thérapeutique.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/flash-021",
+    "recto": "Cmoy en administration réitérée",
+    "verso": "Cmoy = F × D / (τ × Cl)",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/flash-022",
+    "recto": "Facteurs du plateau (réitérée)",
+    "verso": "Proportionnel à la dose et à F ; inversement proportionnel à τ et à Cl.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/flash-023",
+    "recto": "Intervalle usuel entre deux prises",
+    "verso": "En règle une demi-vie.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/flash-024",
+    "recto": "Intervalle posologique τ",
+    "verso": "τ = ln(Cmax/Cmin)/ke (de Cmin = Cmax·e^(−ke·τ)).",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/flash-025",
+    "recto": "Dose d'entretien maximale",
+    "verso": "DE max = (Cmax − Cmin) × Vd / F",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/flash-026",
+    "recto": "Concentration moyenne à l'équilibre C̄",
+    "verso": "C̄ = (Cmax − Cmin)/ln(Cmax/Cmin) ; DE = Cl × C̄ × τ / F",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/flash-027",
+    "recto": "Vitesse d'administration moyenne",
+    "verso": "Va = DE / τ",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/flash-028",
+    "recto": "Dose de charge en administration réitérée",
+    "verso": "DC = Cmax × Vd / F ; pour T1/2 intermédiaire, longue ou très longue.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/flash-029",
+    "recto": "Paramètres nécessaires au schéma posologique",
+    "verso": "Clt, Vd, T1/2, F, Ke, Ka (+ Cp min et Cp max).",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/08-modelisation-pk-partie-2/flash-030",
+    "recto": "Intérêts de l'étude des paramètres PK (conclusion)",
+    "verso": "Orientation thérapeutique, schéma posologique, choix de la voie, biodisponibilité/bioéquivalence, suivi des médicaments à index étroit.",
+    "tags": []
+  }
+]

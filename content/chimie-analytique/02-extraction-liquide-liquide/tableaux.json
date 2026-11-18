@@ -1,0 +1,68 @@
+[
+  {
+    "id": "chimie-analytique/02-extraction-liquide-liquide/tableau-001",
+    "titre": "Grandeurs de l'extraction liquide-liquide",
+    "colonnes": [
+      "Grandeur",
+      "Expression",
+      "Constante ?",
+      "Remarque"
+    ],
+    "lignes": [
+      [
+        "Coefficient de partage λ",
+        "CB/CA = SB/SA",
+        "Oui (à T constante)",
+        "Forme qui participe au partage"
+      ],
+      [
+        "Taux de distribution D",
+        "CB totale/CA totale",
+        "Selon les conditions",
+        "D = λ si forme unique"
+      ],
+      [
+        "Rapport de quantité α",
+        "QB/QA = λ·VB/VA",
+        "Non",
+        "Dépend des volumes"
+      ],
+      [
+        "Rendement ρ (simple)",
+        "QB/QA0 = α/(1+α)",
+        "Non",
+        "Jamais égal à 100 %"
+      ],
+      [
+        "Fraction restante",
+        "QA1/QA0 = 1/(1+α)",
+        "Non",
+        "= 1 − ρ"
+      ]
+    ]
+  },
+  {
+    "id": "chimie-analytique/02-extraction-liquide-liquide/tableau-002",
+    "titre": "Exemple de la pénicilline (λ = 15, CA0 = 1000 U/cm³)",
+    "colonnes": [
+      "VB/VA",
+      "α",
+      "CA1 (U/cm³)",
+      "ρ"
+    ],
+    "lignes": [
+      [
+        "1/5",
+        "3",
+        "250",
+        "75 %"
+      ],
+      [
+        "3/5",
+        "9",
+        "100",
+        "90 %"
+      ]
+    ]
+  }
+]

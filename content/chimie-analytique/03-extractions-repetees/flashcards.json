@@ -1,0 +1,122 @@
+[
+  {
+    "id": "chimie-analytique/03-extractions-repetees/flash-001",
+    "recto": "Principe de l'extraction répétée",
+    "verso": "Ré-extraire le raffiné par un nouveau volume de solvant pur, répéter jusqu'à rendement satisfaisant, réunir et concentrer les extraits.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/03-extractions-repetees/flash-002",
+    "recto": "Autres noms de l'extraction répétée",
+    "verso": "Extractions multiples, extraction à plusieurs étages, extraction à n étages.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/03-extractions-repetees/flash-003",
+    "recto": "Hypothèses de l'étude quantitative",
+    "verso": "Étages théoriques, aucune perte de solvants, volumes VB égaux ou non.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/03-extractions-repetees/flash-004",
+    "recto": "Qu'est-ce qui alimente chaque étage ?",
+    "verso": "Le raffiné de l'étage précédent (solution) et du solvant pur (extraction).",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/03-extractions-repetees/flash-005",
+    "recto": "Bilan global de matière",
+    "verso": "QA0 = ΣQB + QAn.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/03-extractions-repetees/flash-006",
+    "recto": "QAn (cas général)",
+    "verso": "QAn = QA0/[(1+α1)(1+α2)…(1+αn)].",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/03-extractions-repetees/flash-007",
+    "recto": "ρ (cas général)",
+    "verso": "ρ = 1 − 1/[(1+α1)…(1+αn)].",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/03-extractions-repetees/flash-008",
+    "recto": "ρ (volumes égaux)",
+    "verso": "ρ = 1 − 1/(1+α)ⁿ = 1 − 1/(1 + λVB/VA)ⁿ.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/03-extractions-repetees/flash-009",
+    "recto": "ρ en présence de plusieurs formes",
+    "verso": "ρ = 1 − 1/(1 + D·VB/VA)ⁿ.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/03-extractions-repetees/flash-010",
+    "recto": "Pourquoi ρ croît avec n ?",
+    "verso": "Car 1 + λVB/VA > 1 : sa puissance n croît et son inverse diminue.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/03-extractions-repetees/flash-011",
+    "recto": "Exemple pénicilline à 3 étages",
+    "verso": "λ = 15, VB/VA = 1/5, α = 3 : ρ = 1 − 1/4³ = 98,40 % (contre 90 % en une fois avec 3/5).",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/03-extractions-repetees/flash-012",
+    "recto": "Inconvénient majeur de l'extraction répétée",
+    "verso": "Grandes quantités de solvant à évaporer ensuite.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/03-extractions-repetees/flash-013",
+    "recto": "ρ à volume total limité",
+    "verso": "ρ = 1 − 1/(1 + λVB/(nVA))ⁿ avec VB = n·vB.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/03-extractions-repetees/flash-014",
+    "recto": "Pourquoi optimiser ?",
+    "verso": "Le rendement croît avec n mais le temps perdu aussi.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/03-extractions-repetees/flash-015",
+    "recto": "Équation d'optimisation",
+    "verso": "log(1 − ρ) = −n·log(1 + λVB/(nVA)).",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/03-extractions-repetees/flash-016",
+    "recto": "Courbes d'optimisation",
+    "verso": "log(1−ρ) = f(VB) à n constant et log(1−ρ) = f(n) à VB constant.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/03-extractions-repetees/flash-017",
+    "recto": "Méthode graphique (irrégulière)",
+    "verso": "Droites de conservation successives parallèles (pente −VA/VB) coupant la courbe d'équilibre en M1, M2… Mn.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/03-extractions-repetees/flash-018",
+    "recto": "Extraction continue",
+    "verso": "Apport continuel de solvant neuf, distillé puis retombant dans la solution à extraire.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/03-extractions-repetees/flash-019",
+    "recto": "Perforateurs de Jalade",
+    "verso": "Appareils d'extraction continue, deux types (solvant plus lourd ou plus léger).",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/03-extractions-repetees/flash-020",
+    "recto": "Avantage / inconvénient de l'extraction continue",
+    "verso": "Réduction du solvant / extrait chauffé (altération des substances fragiles).",
+    "tags": []
+  }
+]

@@ -1,0 +1,554 @@
+[
+  {
+    "id": "semiologie/02-cephalees-douleurs-faciales/cas-001",
+    "titre": "Céphalée brutale « en coup de tonnerre »",
+    "enonce": "Une femme de 45 ans, sans antécédent de céphalées, est amenée aux urgences pour une céphalée d'apparition brutale, inhabituelle et intense, survenue il y a 2 heures. L'examen retrouve une raideur méningée. Elle est apyrétique.",
+    "questions": [
+      {
+        "id": "semiologie/02-cephalees-douleurs-faciales/cas-001-q1",
+        "type": "unique",
+        "enonce": "Le premier diagnostic à envisager est :",
+        "options": [
+          "Une migraine sans aura",
+          "Une hémorragie sous-arachnoïdienne",
+          "Une névralgie du trijumeau",
+          "Une céphalée de tension",
+          "Une artérite de Horton"
+        ],
+        "correctes": [
+          1
+        ],
+        "explication": "L'hémorragie sous-arachnoïdienne est le premier diagnostic devant une céphalée inhabituelle à début brutal.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/02-cephalees-douleurs-faciales/cas-001-q2",
+        "type": "unique",
+        "enonce": "L'examen à réaliser en urgence en premier est :",
+        "options": [
+          "Une ponction lombaire",
+          "Un scanner cérébral sans injection",
+          "Une biopsie de l'artère temporale",
+          "Un échodoppler cervical",
+          "Une IRM d'emblée systématique"
+        ],
+        "correctes": [
+          1
+        ],
+        "explication": "Scanner cérébral sans injection en urgence ; la PL est réalisée après le scanner.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/02-cephalees-douleurs-faciales/cas-001-q3",
+        "type": "multiple",
+        "enonce": "Au scanner, le sang frais se traduit par :",
+        "options": [
+          "Une hyperdensité spontanée",
+          "Une hypodensité",
+          "Une image dans les espaces sous-arachnoïdiens",
+          "Un œdème papillaire",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0,
+          2
+        ],
+        "explication": "Le scanner recherche une hyperdensité spontanée témoin du sang frais dans les espaces sous-arachnoïdiens.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/02-cephalees-douleurs-faciales/cas-001-q4",
+        "type": "multiple",
+        "enonce": "Si le scanner est normal :",
+        "options": [
+          "Le diagnostic est éliminé",
+          "Une ponction lombaire doit être réalisée",
+          "On recherche du sang dans le LCR par la PL",
+          "On conclut à une migraine",
+          "Toutes les propositions sont fausses"
+        ],
+        "correctes": [
+          1,
+          2
+        ],
+        "explication": "Si le scanner est normal, une ponction lombaire est réalisée à la recherche de sang.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/02-cephalees-douleurs-faciales/cas-001-q5",
+        "type": "multiple",
+        "enonce": "Cette céphalée est :",
+        "options": [
+          "Secondaire",
+          "Grave, nécessitant explorations et traitement en urgence",
+          "Primaire",
+          "De diagnostic uniquement clinique",
+          "Toutes les propositions sont fausses"
+        ],
+        "correctes": [
+          0,
+          1
+        ],
+        "explication": "Il s'agit d'une céphalée secondaire grave.",
+        "difficulte": 2,
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "semiologie/02-cephalees-douleurs-faciales/cas-002",
+    "titre": "Céphalée et fièvre chez un jeune homme",
+    "enonce": "Un étudiant de 20 ans consulte pour une céphalée intense apparue depuis 24 heures, associée à une fièvre à 39 °C et des vomissements. L'examen neurologique retrouve un syndrome méningé, sans signe de focalisation, conscience normale.",
+    "questions": [
+      {
+        "id": "semiologie/02-cephalees-douleurs-faciales/cas-002-q1",
+        "type": "unique",
+        "enonce": "Ce tableau oriente d'emblée vers :",
+        "options": [
+          "Une méningite infectieuse",
+          "Une migraine",
+          "Une encéphalopathie hypertensive",
+          "Une névralgie essentielle",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Céphalée fébrile + syndrome méningé = méningite infectieuse.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/02-cephalees-douleurs-faciales/cas-002-q2",
+        "type": "unique",
+        "enonce": "L'examen qui confirme le diagnostic est :",
+        "options": [
+          "La ponction lombaire",
+          "La VS",
+          "La biopsie temporale",
+          "L'échodoppler cervical",
+          "Le fond d'œil"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "La ponction lombaire confirme le diagnostic.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/02-cephalees-douleurs-faciales/cas-002-q3",
+        "type": "multiple",
+        "enonce": "Lors de l'examen de ce patient, l'examen neurologique comprend :",
+        "options": [
+          "L'état de conscience",
+          "La recherche d'un syndrome méningé",
+          "Le fond d'œil",
+          "La recherche d'un signe de focalisation",
+          "Toutes les propositions sont correctes"
+        ],
+        "correctes": [
+          4
+        ],
+        "explication": "Tous ces éléments font partie de l'examen neurologique d'un céphalalgique.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/02-cephalees-douleurs-faciales/cas-002-q4",
+        "type": "unique",
+        "enonce": "Avant la ponction lombaire, le cours indique de réaliser :",
+        "options": [
+          "Un scanner cérébral",
+          "Une biopsie temporale",
+          "Une angio-IRM systématique",
+          "Rien, la PL est toujours première",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "La ponction lombaire est effectuée après le scanner.",
+        "difficulte": 2,
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "semiologie/02-cephalees-douleurs-faciales/cas-003",
+    "titre": "Céphalée chez un homme âgé",
+    "enonce": "Un homme de 72 ans consulte pour une céphalée temporale récente et inhabituelle depuis 3 semaines. Il signale une fatigue, une perte de poids, une fébricule, des douleurs en mâchant et des douleurs des épaules. La palpation retrouve une artère temporale indurée et douloureuse.",
+    "questions": [
+      {
+        "id": "semiologie/02-cephalees-douleurs-faciales/cas-003-q1",
+        "type": "unique",
+        "enonce": "Le diagnostic à évoquer est :",
+        "options": [
+          "Une artérite temporale de Horton",
+          "Une hypertension intracrânienne bénigne",
+          "Une migraine sans aura",
+          "Une névralgie essentielle du trijumeau",
+          "Une dissection vertébrale"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Céphalée récente et inhabituelle après 60 ans avec AEG, fièvre, claudication de la mâchoire, signes inflammatoires temporaux, douleurs des ceintures = Horton.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/02-cephalees-douleurs-faciales/cas-003-q2",
+        "type": "unique",
+        "enonce": "Les douleurs en mâchant correspondent à :",
+        "options": [
+          "Une claudication de la mâchoire",
+          "Une zone gâchette",
+          "Un déficit du V3 moteur",
+          "Une névralgie V2",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "La claudication de la mâchoire est un signe associé de la maladie de Horton.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/02-cephalees-douleurs-faciales/cas-003-q3",
+        "type": "multiple",
+        "enonce": "Les examens permettant le diagnostic sont :",
+        "options": [
+          "VS",
+          "CRP",
+          "Biopsie de l'artère temporale",
+          "Ponction lombaire",
+          "EEG"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "Le diagnostic repose sur la VS, la CRP et la biopsie de l'artère temporale.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/02-cephalees-douleurs-faciales/cas-003-q4",
+        "type": "unique",
+        "enonce": "Le traitement de cette affection est :",
+        "options": [
+          "La corticothérapie",
+          "Un antalgique simple seul",
+          "La chirurgie",
+          "Une antibiothérapie",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Le traitement de la maladie de Horton est la corticothérapie.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/02-cephalees-douleurs-faciales/cas-003-q5",
+        "type": "multiple",
+        "enonce": "Parmi les signes associés pouvant compliquer cette maladie, on cite :",
+        "options": [
+          "Des troubles visuels",
+          "Des douleurs articulaires des ceintures",
+          "Une fièvre",
+          "Une altération de l'état général",
+          "Toutes les propositions sont correctes"
+        ],
+        "correctes": [
+          4
+        ],
+        "explication": "Tous ces signes sont cités pour l'artérite de Horton.",
+        "difficulte": 2,
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "semiologie/02-cephalees-douleurs-faciales/cas-004",
+    "titre": "Céphalées récurrentes d'une jeune femme",
+    "enonce": "Une femme de 29 ans consulte pour des céphalées évoluant par crises depuis plusieurs années (plus de 10 crises). Chaque crise dure environ une journée sans traitement, la douleur est hémicrânienne, pulsatile, sévère, aggravée par la montée des escaliers, avec nausées et gêne à la lumière et au bruit. Les crises surviennent souvent pendant ses règles. La veille, elle se sent irritable et somnolente. L'examen neurologique est normal.",
+    "questions": [
+      {
+        "id": "semiologie/02-cephalees-douleurs-faciales/cas-004-q1",
+        "type": "unique",
+        "enonce": "Le diagnostic le plus probable est :",
+        "options": [
+          "Une migraine sans aura",
+          "Une hypertension intracrânienne",
+          "Une hémorragie sous-arachnoïdienne",
+          "Une névralgie du trijumeau",
+          "Une méningite"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Céphalées récurrentes répondant aux critères IHS (≥ 5 crises, 4–72 h, unilatérale, pulsatile, sévère, aggravée par l'effort, nausées, photophobie-phonophobie) avec examen normal.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/02-cephalees-douleurs-faciales/cas-004-q2",
+        "type": "unique",
+        "enonce": "L'irritabilité et la somnolence de la veille correspondent à :",
+        "options": [
+          "Une phase prodromale",
+          "Une aura",
+          "Un signe d'alerte imposant un scanner",
+          "Une zone gâchette",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "La céphalée migraineuse est souvent précédée d'une phase prodromale (irritabilité, asthénie, somnolence…).",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/02-cephalees-douleurs-faciales/cas-004-q3",
+        "type": "unique",
+        "enonce": "La survenue des crises pendant les règles définit une migraine :",
+        "options": [
+          "Cataméniale",
+          "De week-end",
+          "Symptomatique",
+          "Avec aura",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Facteurs hormonaux : règles : migraines cataméniales.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/02-cephalees-douleurs-faciales/cas-004-q4",
+        "type": "multiple",
+        "enonce": "Concernant les examens complémentaires chez cette patiente :",
+        "options": [
+          "Aucune investigation n'est nécessaire si la sémiologie est typique",
+          "Un scanner est obligatoire",
+          "Une PL est indispensable",
+          "Le diagnostic repose sur l'interrogatoire et l'examen normal",
+          "Toutes les propositions sont fausses"
+        ],
+        "correctes": [
+          0,
+          3
+        ],
+        "explication": "Le diagnostic de migraine repose sur l'interrogatoire et un examen neurologique normal, sans investigation si la sémiologie est typique.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/02-cephalees-douleurs-faciales/cas-004-q5",
+        "type": "multiple",
+        "enonce": "Quel élément ferait reconsidérer le diagnostic et imposerait des explorations ?",
+        "options": [
+          "Une céphalée brutale immédiatement reconnue comme différente des crises habituelles",
+          "L'apparition d'un signe focal",
+          "Une crise d'épilepsie associée",
+          "Une altération de la conscience",
+          "Toutes les propositions sont correctes"
+        ],
+        "correctes": [
+          4
+        ],
+        "explication": "Une céphalée différente des crises habituelles ou associée à un symptôme neurologique doit être considérée comme secondaire.",
+        "difficulte": 2,
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "semiologie/02-cephalees-douleurs-faciales/cas-005",
+    "titre": "Douleur faciale fulgurante",
+    "enonce": "Une femme de 63 ans décrit des douleurs de la joue droite et de la lèvre supérieure, à type de décharges électriques de quelques secondes, survenant en salves plusieurs fois par jour, déclenchées par le brossage des dents et l'effleurement de l'aile du nez. Entre les salves, elle ne souffre pas. Elle ne mange presque plus. L'examen neurologique est normal, le réflexe cornéen est présent.",
+    "questions": [
+      {
+        "id": "semiologie/02-cephalees-douleurs-faciales/cas-005-q1",
+        "type": "unique",
+        "enonce": "Le diagnostic évoqué est :",
+        "options": [
+          "Une névralgie essentielle du trijumeau",
+          "Une névralgie trijéminale symptomatique",
+          "Une migraine",
+          "Une sinusite",
+          "Une algie vasculaire de la face"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Femme > 50 ans, décharges électriques brèves en salves avec intervalles libres, zone gâchette, examen normal.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/02-cephalees-douleurs-faciales/cas-005-q2",
+        "type": "unique",
+        "enonce": "La zone dont l'effleurement déclenche la douleur est appelée :",
+        "options": [
+          "Zone gâchette",
+          "Zone d'hypoesthésie",
+          "Territoire V1",
+          "Aura",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Il s'agit de la zone gâchette, à l'origine des comportements d'évitement.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/02-cephalees-douleurs-faciales/cas-005-q3",
+        "type": "unique",
+        "enonce": "Le fait qu'elle ne mange presque plus traduit :",
+        "options": [
+          "Un comportement d'évitement",
+          "Une altération de l'état général de cause tumorale",
+          "Un déficit du V3 moteur",
+          "Une claudication de la mâchoire",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "La zone gâchette amène le patient à de véritables comportements d'évitement (ne mange plus, ne se rase plus).",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/02-cephalees-douleurs-faciales/cas-005-q4",
+        "type": "unique",
+        "enonce": "Le mécanisme le plus souvent en cause est :",
+        "options": [
+          "Une compression de la racine du V par une artère issue de la basilaire",
+          "Une tumeur cérébrale",
+          "Une méningite",
+          "Une dissection carotidienne",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "La névralgie essentielle correspond souvent à une compression de la racine du trijumeau par une artère issue de la basilaire (cérébelleuse supérieure).",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/02-cephalees-douleurs-faciales/cas-005-q5",
+        "type": "multiple",
+        "enonce": "Quels signes feraient suspecter une forme symptomatique ?",
+        "options": [
+          "Un fond douloureux persistant entre les accès",
+          "Une hypoesthésie dans le territoire douloureux",
+          "Une atteinte du territoire V1",
+          "Une atteinte d'autres nerfs crâniens",
+          "Toutes les propositions sont correctes"
+        ],
+        "correctes": [
+          4
+        ],
+        "explication": "Ces quatre éléments caractérisent les névralgies trijéminales secondaires et imposent des investigations.",
+        "difficulte": 2,
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "semiologie/02-cephalees-douleurs-faciales/cas-006",
+    "titre": "Céphalées progressives chez une jeune femme obèse",
+    "enonce": "Une femme de 26 ans, obèse, consulte pour des céphalées progressives depuis un mois, aggravées par la toux, avec nausées, vomissements et épisodes de vision brièvement voilée. Elle voit double sur le plan horizontal. Le fond d'œil retrouve un œdème papillaire bilatéral.",
+    "questions": [
+      {
+        "id": "semiologie/02-cephalees-douleurs-faciales/cas-006-q1",
+        "type": "unique",
+        "enonce": "Ce tableau évoque :",
+        "options": [
+          "Une hypertension intracrânienne",
+          "Une migraine sans aura",
+          "Une névralgie du trijumeau",
+          "Une artérite de Horton",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Céphalées progressives aggravées par la toux, nausées, vomissements, œdème papillaire bilatéral, diplopie horizontale, éclipses visuelles = HTIC.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/02-cephalees-douleurs-faciales/cas-006-q2",
+        "type": "unique",
+        "enonce": "La diplopie horizontale s'explique par :",
+        "options": [
+          "Une paralysie du VI",
+          "Une paralysie du V3",
+          "Une atteinte du V1",
+          "Un signe de Claude-Bernard-Horner",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Diplopie horizontale par paralysie du VI.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/02-cephalees-douleurs-faciales/cas-006-q3",
+        "type": "multiple",
+        "enonce": "Avant de conclure à une HTIC « bénigne », il faut :",
+        "options": [
+          "Éliminer une tumeur",
+          "Éliminer un abcès",
+          "Éliminer un hématome sous-dural",
+          "Réaliser une IRM",
+          "Toutes les propositions sont correctes"
+        ],
+        "correctes": [
+          4
+        ],
+        "explication": "Ce n'est qu'après avoir éliminé ces causes par IRM que l'on conclut à une HTIC dite bénigne.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/02-cephalees-douleurs-faciales/cas-006-q4",
+        "type": "unique",
+        "enonce": "Si aucune cause n'est retrouvée, la forme la plus probable chez cette patiente est :",
+        "options": [
+          "Une HTIC idiopathique",
+          "Une HTIC toxicomédicamenteuse obligatoirement",
+          "Une migraine",
+          "Une méningite",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "L'HTIC bénigne est le plus souvent idiopathique chez la jeune femme obèse.",
+        "difficulte": 2,
+        "origine": "genere"
+      }
+    ]
+  }
+]

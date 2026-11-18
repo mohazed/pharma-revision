@@ -1,0 +1,146 @@
+[
+  {
+    "id": "pharmacologie/09-biodisponibilite/flash-001",
+    "recto": "Biophase",
+    "verso": "Environnement où agit un principe actif ; la concentration y est en relation directe avec les concentrations sanguines.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/09-biodisponibilite/flash-002",
+    "recto": "Définition de la biodisponibilité",
+    "verso": "Quantité relative de PA absorbé à partir d'une forme pharmaceutique qui atteint la circulation systémique et vitesse de ce phénomène.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/09-biodisponibilite/flash-003",
+    "recto": "Deux paramètres définissant la biodisponibilité",
+    "verso": "Quantité absorbée (% de la dose) et vitesse d'absorption.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/09-biodisponibilite/flash-004",
+    "recto": "Vitesse d'arrivée normale / rapide / lente",
+    "verso": "Réponse pharmacologique / effets secondaires voire toxiques / inefficacité ou retard.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/09-biodisponibilite/flash-005",
+    "recto": "Origine de la notion de biodisponibilité",
+    "verso": "Accidents toxiques (surdosages) ou inefficacité (sous-dosages).",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/09-biodisponibilite/flash-006",
+    "recto": "Phase et sujets des études de biodisponibilité",
+    "verso": "Phase I, volontaires sains, mesure in vivo.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/09-biodisponibilite/flash-007",
+    "recto": "Durée de suivi des concentrations",
+    "verso": "Au moins 3 à 5 T1/2 après administration unique.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/09-biodisponibilite/flash-008",
+    "recto": "Paramètres quantitatifs",
+    "verso": "AUC (SSC) et Cmax.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/09-biodisponibilite/flash-009",
+    "recto": "Paramètres cinétiques",
+    "verso": "Ka, Tmax, Cmax.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/09-biodisponibilite/flash-010",
+    "recto": "Paramètre le plus important de la biodisponibilité",
+    "verso": "L'AUC, proportionnelle à la quantité de PA dans la circulation générale.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/09-biodisponibilite/flash-011",
+    "recto": "Tmax",
+    "verso": "Temps d'obtention de Cmax ; inversement proportionnel à la vitesse d'absorption.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/09-biodisponibilite/flash-012",
+    "recto": "Biodisponibilité absolue",
+    "verso": "Rendement absolu de l'absorption : comparaison à une solution IV (F = 1).",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/09-biodisponibilite/flash-013",
+    "recto": "Formule de F (doses égales)",
+    "verso": "F = ASC orale / ASC IV (clairance identique pour les deux voies).",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/09-biodisponibilite/flash-014",
+    "recto": "Formule de F (doses différentes)",
+    "verso": "F = (ASC orale × dose IV)/(ASC IV × dose orale), si PK linéaire.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/09-biodisponibilite/flash-015",
+    "recto": "Quantité atteignant la circulation générale",
+    "verso": "Q = dose × F",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/09-biodisponibilite/flash-016",
+    "recto": "Limite inférieure acceptable de F",
+    "verso": "0,75 (dépend de l'index thérapeutique).",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/09-biodisponibilite/flash-017",
+    "recto": "F proche de 0",
+    "verso": "La voie étudiée ne convient pas à l'administration.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/09-biodisponibilite/flash-018",
+    "recto": "Biodisponibilité relative",
+    "verso": "Comparaison à une forme pharmaceutique de référence (absence de voie IV) ; exprimée en %.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/09-biodisponibilite/flash-019",
+    "recto": "Formule de la biodisponibilité relative",
+    "verso": "BR = ASC forme 1 / ASC forme réf × 100",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/09-biodisponibilite/flash-020",
+    "recto": "Indications obligatoires de la BR",
+    "verso": "Changement de formulation, nouvelle forme galénique, avant commercialisation d'un générique.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/09-biodisponibilite/flash-021",
+    "recto": "Critères d'évaluation de la BR",
+    "verso": "Comparaison des AUC, égalité des Cmax et Tmax, temps de latence.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/09-biodisponibilite/flash-022",
+    "recto": "Temps de latence",
+    "verso": "Temps d'apparition du PA dans le sang à concentration thérapeutique.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/09-biodisponibilite/flash-023",
+    "recto": "Pourquoi l'AUC seule ne suffit pas ?",
+    "verso": "Deux AUC égales peuvent être non superposables, sous la CME ou dans la zone toxique.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/09-biodisponibilite/flash-024",
+    "recto": "Intérêts de la BR",
+    "verso": "Comparer deux voies d'administration ; bioéquivalence générique/princeps.",
+    "tags": []
+  }
+]

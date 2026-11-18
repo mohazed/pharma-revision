@@ -1,0 +1,26 @@
+[
+  {
+    "id": "pharmacologie/02-voies-administration/mnemo-01",
+    "titre": "Volumes injectables",
+    "moyen": "« Sous 2, Muscle 5, Veine 20 »",
+    "explication": "SC : 0,5 à 2 mL ; IM : 2 à 5 mL ; IV directe : 5 à 20 mL."
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/mnemo-02",
+    "titre": "Exigences des solutions vasculaires",
+    "moyen": "« SLANI » : Stériles, Limpides, Apyrogènes, Neutres, Isotoniques",
+    "explication": "Qualités exigées pour les voies IV, IA et IC (pas de solutions huileuses ni de suspensions)."
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/mnemo-03",
+    "titre": "Voies locales sans effraction",
+    "moyen": "« CO-ANV » : Cutanée, Oculaire, Auriculaire, Nasale, Vaginale",
+    "explication": "Les cinq voies à visée locale du 2e groupe."
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/mnemo-04",
+    "titre": "Voies extravasculaires à action locale",
+    "moyen": "« DRAS » : intra-Dermique, intra-Rachidienne, intra-Articulaire, intra-Séreuses",
+    "explication": "Voies parentérales extravasculaires à action locale."
+  }
+]

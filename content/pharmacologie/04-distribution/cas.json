@@ -1,0 +1,303 @@
+[
+  {
+    "id": "pharmacologie/04-distribution/cas-01",
+    "titre": "Personne âgée polymédiquée et déplacement protéique",
+    "enonce": "Mme K., 82 ans, dénutrie, présente une hypoalbuminémie. Elle reçoit un médicament A fixé à plus de 90 % à l'albumine, au volume de distribution faible et à index thérapeutique étroit. On lui ajoute un médicament B, lui aussi fortement fixé à l'albumine et ayant une plus forte affinité pour celle-ci.",
+    "questions": [
+      {
+        "id": "pharmacologie/04-distribution/cas-01-q1",
+        "type": "multiple",
+        "enonce": "Concernant l'hypoalbuminémie de Mme K. :",
+        "options": [
+          "Le cours cite l'hypoalbuminémie comme facteur physiologique chez la personne âgée",
+          "Elle réduit la concentration de protéine liante disponible",
+          "Elle peut augmenter la fraction libre du médicament A",
+          "Elle augmente la fraction liée du médicament A",
+          "Elle n'a aucune influence sur la fixation protéique"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "La personne âgée présente une hypoalbuminémie selon le cours (a juste). La fixation dépend de la concentration de la protéine liante (b juste) : moins d'albumine signifie moins de fraction liée et plus de fraction libre (c juste, d fausse). Elle influence donc la fixation (e fausse).",
+        "difficulte": 2,
+        "tags": [
+          "sujet âgé",
+          "hypoalbuminémie"
+        ],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacologie/04-distribution/cas-01-q2",
+        "type": "multiple",
+        "enonce": "Le risque d'interaction par déplacement entre A et B est ici élevé car :",
+        "options": [
+          "A est fixé à plus de 90 %",
+          "A a un volume de distribution faible",
+          "A a un index thérapeutique étroit",
+          "A a un volume de distribution élevé",
+          "Toutes les propositions sont correctes"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "Le cours indique que le risque d'interaction est d'autant plus élevé que le pourcentage de fixation est > 90 % (a), le Vd faible < 0,14 l/kg (b) et l'index thérapeutique étroit (c). Un Vd élevé n'est pas un facteur de risque (d fausse), donc e est fausse.",
+        "difficulte": 2,
+        "tags": [
+          "interactions médicamenteuses"
+        ],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacologie/04-distribution/cas-01-q3",
+        "type": "multiple",
+        "enonce": "Après ajout de B, on peut attendre pour le médicament A :",
+        "options": [
+          "Une augmentation de sa fraction libre",
+          "Une augmentation de sa fraction pharmacologiquement active",
+          "Une modification possible de son Vd et de sa demi-vie d'élimination",
+          "Une diminution de sa fraction libre",
+          "Une diminution de sa fraction éliminable"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "B, de plus forte affinité, déplace A de l'albumine : la fraction libre de A augmente (a juste, d fausse), or seule la fraction libre est active (b juste) et éliminable (e fausse). Toute variation de la fixation modifie le Vd et la T1/2 (c juste).",
+        "difficulte": 3,
+        "tags": [
+          "déplacement",
+          "fraction libre"
+        ],
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "pharmacologie/04-distribution/cas-02",
+    "titre": "Nouveau-né et bilirubine",
+    "enonce": "Un nouveau-né de 3 jours présente un ictère. Le pédiatre hésite à lui prescrire un médicament fortement fixé à l'albumine.",
+    "questions": [
+      {
+        "id": "pharmacologie/04-distribution/cas-02-q1",
+        "type": "multiple",
+        "enonce": "Concernant la fixation protéique chez ce nouveau-né :",
+        "options": [
+          "L'albumine présente une modification structurale",
+          "Le taux de bilirubine est augmenté",
+          "Les acides gras sont augmentés",
+          "La bilirubine et les acides gras diminuent la fixation protéique des médicaments",
+          "Toutes les propositions sont correctes"
+        ],
+        "correctes": [
+          4
+        ],
+        "explication": "Chez le nouveau-né, le cours cite une modification structurale de l'albumine (a) et une augmentation de la bilirubine et des acides gras (b, c). Acides gras libres et bilirubine diminuent la fixation protéique des médicaments (d). Toutes les propositions sont correctes.",
+        "difficulte": 2,
+        "tags": [
+          "nouveau-né",
+          "bilirubine"
+        ],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacologie/04-distribution/cas-02-q2",
+        "type": "multiple",
+        "enonce": "Concernant la barrière hémato-méningée de ce nouveau-né :",
+        "options": [
+          "Sa perméabilité est physiologiquement accrue à la naissance",
+          "Elle explique le risque d'ictère nucléaire par passage de bilirubine",
+          "Elle est totalement imperméable à la naissance",
+          "Seuls les médicaments hydrophiles ionisés la traversent",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0,
+          1
+        ],
+        "explication": "La perméabilité de la barrière hémato-méningée est physiologiquement accrue à la naissance (a juste, c fausse), ce qui explique l'ictère nucléaire par passage de bilirubine (b juste). Ce sont les PA liposolubles et non ionisés qui traversent la barrière (d fausse). e est fausse.",
+        "difficulte": 2,
+        "tags": [
+          "ictère nucléaire",
+          "barrière hémato-encéphalique"
+        ],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacologie/04-distribution/cas-02-q3",
+        "type": "unique",
+        "enonce": "Pour le médicament fortement fixé à l'albumine envisagé, la conséquence attendue chez ce nouveau-né est :",
+        "options": [
+          "Une augmentation de sa fraction libre",
+          "Une augmentation de sa fraction liée",
+          "Aucune modification de la fixation",
+          "Une fixation covalente irréversible",
+          "Une fixation exclusive aux leucocytes"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "La bilirubine et les acides gras augmentés, ainsi que la modification structurale de l'albumine, diminuent la fixation protéique : la fraction libre augmente (a juste, b et c fausses). La fixation covalente est rare (d fausse) et les leucocytes n'interviennent pas dans le transport (e fausse).",
+        "difficulte": 2,
+        "tags": [
+          "nouveau-né",
+          "fraction libre"
+        ],
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "pharmacologie/04-distribution/cas-03",
+    "titre": "Femme enceinte traitée",
+    "enonce": "Mme S., 28 ans, enceinte de 5 mois, doit recevoir un médicament lipophile de faible poids moléculaire, fixé à l'albumine.",
+    "questions": [
+      {
+        "id": "pharmacologie/04-distribution/cas-03-q1",
+        "type": "multiple",
+        "enonce": "Concernant la fixation protéique de ce médicament chez Mme S. :",
+        "options": [
+          "La grossesse s'accompagne d'une hypoalbuminémie de dilution",
+          "La fixation à l'albumine peut être diminuée",
+          "La fraction libre peut être augmentée",
+          "La grossesse s'accompagne d'une hyperalbuminémie",
+          "La fraction liée sera forcément augmentée"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "La grossesse entraîne une hypoalbuminémie de dilution (a juste, d fausse). La fixation dépendant de la concentration de la protéine liante, elle peut diminuer (b juste) avec augmentation de la fraction libre (c juste) et non de la fraction liée (e fausse).",
+        "difficulte": 2,
+        "tags": [
+          "grossesse"
+        ],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacologie/04-distribution/cas-03-q2",
+        "type": "multiple",
+        "enonce": "Concernant le passage placentaire de ce médicament :",
+        "options": [
+          "Il peut se faire par diffusion passive",
+          "Il nécessite obligatoirement un transport actif",
+          "Le transport actif concerne les acides aminés et les électrolytes",
+          "Le placenta arrête totalement les médicaments lipophiles",
+          "Toutes les propositions sont correctes"
+        ],
+        "correctes": [
+          0,
+          2
+        ],
+        "explication": "Les molécules lipophiles de faible poids moléculaire traversent le placenta par diffusion passive (a juste, b et d fausses). Le transport actif concerne les acides aminés et les électrolytes (c juste). e est fausse.",
+        "difficulte": 2,
+        "tags": [
+          "placenta"
+        ],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacologie/04-distribution/cas-03-q3",
+        "type": "multiple",
+        "enonce": "Les risques liés au passage transplacentaire de ce médicament sont :",
+        "options": [
+          "Un effet tératogène (malformation congénitale)",
+          "Une intoxication du nouveau-né à la naissance",
+          "Aucun risque car la fixation protéique empêche tout passage",
+          "Un ictère nucléaire maternel",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0,
+          1
+        ],
+        "explication": "Le cours cite le risque de malformation congénitale (effet tératogène) (a juste) et le risque d'intoxication du nouveau-né à la naissance (b juste). La fraction libre peut diffuser, la fixation n'empêche donc pas tout passage (c fausse). L'ictère nucléaire concerne le nouveau-né, non la mère (d fausse). e est fausse.",
+        "difficulte": 1,
+        "tags": [
+          "placenta",
+          "effet tératogène"
+        ],
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "pharmacologie/04-distribution/cas-04",
+    "titre": "Méningite et anticancéreux",
+    "enonce": "M. B., 45 ans, traité par un anticancéreux substrat de la P-glycoprotéine, développe une méningite bactérienne.",
+    "questions": [
+      {
+        "id": "pharmacologie/04-distribution/cas-04-q1",
+        "type": "multiple",
+        "enonce": "En dehors de la méningite, le passage de l'anticancéreux vers le SNC est limité par :",
+        "options": [
+          "Les cellules endothéliales très serrées des capillaires cérébraux",
+          "La P-glycoprotéine qui le rejette dans les capillaires",
+          "Des phénomènes enzymatiques dégradant certaines substances",
+          "Une vascularisation cérébrale très faible",
+          "Toutes les propositions sont correctes"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "La BHE est constituée de cellules endothéliales très serrées (a juste) ; la PGP rejette dans les capillaires des substances, en particulier les anticancéreux (b juste) ; des phénomènes enzymatiques dégradent certaines substances (c juste). Le cerveau est un tissu richement vascularisé (d fausse), donc e est fausse.",
+        "difficulte": 2,
+        "tags": [
+          "P-glycoprotéine",
+          "barrière hémato-encéphalique"
+        ],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacologie/04-distribution/cas-04-q2",
+        "type": "unique",
+        "enonce": "Au cours de la méningite, la perméabilité de la barrière hémato-méningée est :",
+        "options": [
+          "Accrue",
+          "Diminuée",
+          "Inchangée",
+          "Nulle",
+          "Accrue uniquement chez le nouveau-né"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Le cours précise que la perméabilité de la barrière hémato-méningée est accrue pathologiquement en cas de méningite (a juste, b, c, d fausses). Elle est aussi accrue physiologiquement à la naissance, mais pas uniquement (e fausse).",
+        "difficulte": 1,
+        "tags": [
+          "méningite"
+        ],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacologie/04-distribution/cas-04-q3",
+        "type": "multiple",
+        "enonce": "En règle générale, les principes actifs qui traversent la barrière hémato-encéphalique sont :",
+        "options": [
+          "Liposolubles",
+          "Non ionisés",
+          "Hydrophiles",
+          "Ionisés",
+          "Fortement liés aux protéines plasmatiques"
+        ],
+        "correctes": [
+          0,
+          1
+        ],
+        "explication": "Seuls les principes actifs liposolubles et non ionisés traversent la barrière hémato-encéphalique (a, b justes ; c, d fausses). Seule la forme libre peut diffuser vers les tissus, la forme liée ne traverse pas (e fausse).",
+        "difficulte": 1,
+        "tags": [
+          "barrière hémato-encéphalique"
+        ],
+        "origine": "genere"
+      }
+    ]
+  }
+]

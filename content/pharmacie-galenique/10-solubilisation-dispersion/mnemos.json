@@ -1,0 +1,26 @@
+[
+  {
+    "id": "pharmacie-galenique/10-solubilisation-dispersion/mnemo-001",
+    "titre": "Six méthodes de solubilisation",
+    "moyen": "« Cocotte Hydro, pH Mijote, Complexe Dispersé »",
+    "explication": "Co-solvants, Hydrotropie, pH, Micelles, Complexation, Dispersion solide."
+  },
+  {
+    "id": "pharmacie-galenique/10-solubilisation-dispersion/mnemo-002",
+    "titre": "Cyclodextrines",
+    "moyen": "« α-β-γ = 6-7-8 »",
+    "explication": "α-cyclodextrine 6 unités, β 7, γ 8 : l'ordre alphabétique grec suit l'ordre croissant."
+  },
+  {
+    "id": "pharmacie-galenique/10-solubilisation-dispersion/mnemo-003",
+    "titre": "Types de dispersions",
+    "moyen": "« Émue Liquide, Suspendue Solide, Mousse Gazeuse, Aérosol dans l'Air »",
+    "explication": "Émulsion : liquide dans liquide ; suspension : solide dans liquide ; mousse : gaz dans liquide ; aérosol : solide ou liquide dans un gaz."
+  },
+  {
+    "id": "pharmacie-galenique/10-solubilisation-dispersion/mnemo-004",
+    "titre": "Échelle de solubilité",
+    "moyen": "« 1 – 10 – 30 – 100 – 1 000 – 10 000 »",
+    "explication": "Seuils successifs : très soluble < 1 ; facilement 1–10 ; soluble 10–30 ; assez 30–100 ; peu 100–1 000 ; très peu 1 000–10 000 ; pratiquement insoluble > 10 000."
+  }
+]

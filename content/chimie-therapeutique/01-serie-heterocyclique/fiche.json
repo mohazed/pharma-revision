@@ -1,0 +1,71 @@
+{
+  "id": "chimie-therapeutique/01-serie-heterocyclique/fiche",
+  "titre": "Série hétérocyclique : l'essentiel",
+  "sections": [
+    {
+      "titre": "Définition et classification",
+      "points": [
+        "Hétérocycle : composé organique **cyclique** avec C + au moins **un** hétéroatome (O, N, S…)",
+        "Classement : **nature** de l'hétéroatome, **taille**, **degré d'insaturation**"
+      ]
+    },
+    {
+      "titre": "Nomenclature de Widman-Hantzsch",
+      "points": [
+        "Nom = **Préfixe** (nature/nombre d'hétéroatomes) – **Racine** (taille) – **Suffixe** (insaturation)",
+        "Préfixes : oxa (O), thia (S), selena (Se), aza (N), phospha (P), arsa (As), stiba (Sb)",
+        "Radicaux : -ir- 3, -et- 4, -ol- 5, -in- 6, -ep- 7, -oc- 8, -on- 9",
+        "5 chaînons : azoté -ole/-olidine ; non azoté -ole/-olane",
+        "6 chaînons : azoté -ine/-inane ; non azoté -ine/-ane",
+        "Exemples : oxirane, thiirane, aziridine, oxétane, thiétane, azétidine, oxolane, thiolane, azolidine"
+      ]
+    },
+    {
+      "titre": "Nomenclature triviale",
+      "points": [
+        "Consacrée à l'usage pour les hétérocycles courants : furane, thiophène, pyrrole…",
+        "Pyridazine (1,2-diazine), pyrimidine (1,3-diazine), pyrazine (1,4-diazine)",
+        "Pyrazole (1,2-diazole), imidazole (1,3-diazole)",
+        "Indole, benzimidazole, purine (numérotation triviale), quinoléine, isoquinoléine"
+      ]
+    },
+    {
+      "titre": "Numérotation des monocycles",
+      "points": [
+        "Un hétéroatome → n° 1",
+        "Même nature → plus petits indices aux hétéroatomes, puis aux substituants",
+        "Natures différentes → **O > S > -N > =N-**",
+        "Partiellement saturé : nom de l'insaturé au maximum + « hydro »"
+      ]
+    },
+    {
+      "titre": "Bicycles",
+      "points": [
+        "Hétérocycle + benzène : l'hétérocycle est fondamental, préfixe **benzo-**",
+        "Deux hétérocycles différents : fondamental selon **N > O > S**",
+        "Même hétéroatome : le **plus grand** cycle est prioritaire",
+        "Jonction : lettres pour le prioritaire, deux chiffres pour le substituant (ex. Furo(2,3-b)pyrrole)",
+        "Carbones de jonction : n° précédent + a ; hétéroatomes prioritaires O > S > -NH > -N="
+      ]
+    },
+    {
+      "titre": "Hétérocycles à usage thérapeutique",
+      "points": [
+        "3 chaînons : aziridines → agents alkylants de l'ADN (mitomycine C)",
+        "5 chaînons : furadantine (antibactérien urinaire), acide ascorbique",
+        "7 chaînons : benzodiazépines → anxiolytiques, hypnotiques, anticonvulsivants"
+      ]
+    }
+  ],
+  "aRetenir": [
+    "Préfixe = nature, racine = taille, suffixe = insaturation",
+    "Pyrimidine = 1,3-diazine ; imidazole = 1,3-diazole",
+    "Monocycle : O > S > N ; bicycle (choix du fondamental) : N > O > S"
+  ],
+  "pieges": [
+    "Ne pas confondre l'ordre de nomination (O > S > N) avec la priorité du cycle fondamental (N > O > S)",
+    "-olane = non azoté saturé, -olidine = azoté saturé",
+    "-ep- = 7, -oc- = 8",
+    "Dans Furo(2,3-b)pyrrole, la lettre se rapporte au pyrrole (prioritaire)"
+  ]
+}

@@ -1,0 +1,2347 @@
+[
+  {
+    "id": "pharmacologie/04-distribution/qcm-001",
+    "type": "multiple",
+    "enonce": "Concernant la distribution des médicaments :",
+    "options": [
+      "Elle se définit comme le processus de répartition du médicament dans l'ensemble des tissus et organes",
+      "Elle comprend une phase plasmatique et une phase tissulaire",
+      "La phase plasmatique correspond au transport sanguin",
+      "La phase tissulaire correspond à la diffusion tissulaire",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le cours définit la distribution comme « le processus de répartition du médicament dans l'ensemble des tissus et organes » (a juste). Elle comprend deux phases (b juste) : la phase plasmatique, qui correspond au transport sanguin (c juste), et la phase tissulaire, qui correspond à la diffusion tissulaire (d juste). Toutes les propositions sont donc correctes.",
+    "source": {
+      "page": 1,
+      "extrait": "La distribution comprend donc deux phases: -Phase plasmatique (transport sanguin)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "définition",
+      "phases de la distribution"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/04-distribution/qcm-002",
+    "type": "multiple",
+    "enonce": "Dans l'espace vasculaire, après résorption :",
+    "options": [
+      "Les médicaments se fixent sur les protéines plasmatiques par des liaisons irréversibles",
+      "Certains médicaments se fixent également sur les éléments figurés du sang",
+      "La fraction libre est en équilibre avec la fraction liée",
+      "C'est la fraction liée qui quitte la circulation sanguine pour diffuser dans les tissus",
+      "La fraction libre diffuse dans les tissus et les compartiments liquidiens"
+    ],
+    "correctes": [
+      1,
+      2,
+      4
+    ],
+    "explication": "Les médicaments se fixent sur les protéines plasmatiques par des liaisons réversibles, et non irréversibles (a fausse). Certains se fixent aussi sur les éléments figurés du sang (b juste). La fraction libre est en équilibre avec la fraction liée (c juste) et c'est elle, et non la fraction liée, qui quitte la circulation pour diffuser dans les tissus et les compartiments liquidiens (d fausse, e juste).",
+    "source": {
+      "page": 1,
+      "extrait": "La fraction libre du médicament, qui est en équilibre avec la fraction liée, va quitter la circulation sanguine"
+    },
+    "difficulte": 1,
+    "tags": [
+      "introduction",
+      "fraction libre"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/04-distribution/qcm-003",
+    "type": "multiple",
+    "enonce": "La fixation des médicaments sur les protéines plasmatiques :",
+    "options": [
+      "Est un phénomène réversible",
+      "Répond à la loi d'action de masse",
+      "Dépend de la concentration de la protéine liante",
+      "Dépend de l'affinité du médicament pour la protéine",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Selon le cours, la fixation des médicaments sur les protéines plasmatiques est un phénomène réversible (a juste) qui répond à la loi d'action de masse (b juste). Elle dépend de la concentration de la protéine liante (c juste) ainsi que de l'affinité du médicament pour cette protéine (d juste). La proposition e est donc fausse.",
+    "source": {
+      "page": 2,
+      "extrait": "Cette fixation dépend de la concentration de la protéine liante ainsi que de l'affinité du médicament pour cette protéine."
+    },
+    "difficulte": 1,
+    "tags": [
+      "fixation protéique",
+      "loi d'action de masse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/04-distribution/qcm-004",
+    "type": "multiple",
+    "enonce": "Concernant la fraction libre d'un médicament dans le plasma :",
+    "options": [
+      "Elle est diffusible",
+      "Elle est active pharmacologiquement",
+      "Elle est éliminable",
+      "Elle constitue la forme de transport et de réserve transitoire",
+      "Elle ne peut pas atteindre son lieu d'action"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Le cours précise que seule la fraction libre est diffusible, active pharmacologiquement et éliminable (a, b, c justes). La forme de transport et de réserve transitoire est la forme liée, pas la forme libre (d fausse). C'est la forme liée qui ne peut diffuser pour atteindre son lieu d'action (e fausse).",
+    "source": {
+      "page": 2,
+      "extrait": "Seule la fraction libre du médicament est diffusible, active pharmacologiquement et eliminable."
+    },
+    "difficulte": 1,
+    "tags": [
+      "fraction libre"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/04-distribution/qcm-005",
+    "type": "multiple",
+    "enonce": "La forme liée d'un médicament aux protéines plasmatiques :",
+    "options": [
+      "Est une forme de transport et de réserve transitoire",
+      "Est inactive pharmacologiquement",
+      "Peut diffuser librement pour atteindre son lieu d'action",
+      "Est définitivement inactive",
+      "Est éliminée directement par le rein"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "La forme liée est une forme de transport et de réserve transitoire (a juste) et elle est inactive pharmacologiquement (b juste). Elle ne peut pas diffuser pour atteindre son lieu d'action (c fausse). Son inactivité n'est que temporaire car les formes liée et libre sont en équilibre réversible (d fausse). Seule la fraction libre est éliminable (e fausse).",
+    "source": {
+      "page": 2,
+      "extrait": "La forme liée (forme de transport et de réserve transitoire) est inactive pharmacologiquement"
+    },
+    "difficulte": 1,
+    "tags": [
+      "fraction liée"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/04-distribution/qcm-006",
+    "type": "unique",
+    "enonce": "Au fur et à mesure de la disparition de la forme libre d'un médicament (par diffusion tissulaire ou élimination) :",
+    "options": [
+      "Il y a passage de la forme liée vers la forme libre",
+      "Il y a passage de la forme libre vers la forme liée",
+      "La forme liée reste définitivement fixée",
+      "L'équilibre entre forme liée et forme libre est rompu de façon irréversible",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Les formes liée et libre sont en équilibre réversible : au fur et à mesure de la disparition de la forme libre, il y a passage de la forme liée vers la forme libre (a juste, b fausse). La forme liée n'est donc pas définitivement fixée (c fausse) et l'équilibre n'est pas rompu de façon irréversible (d fausse). La proposition e est fausse puisque a est juste.",
+    "source": {
+      "page": 2,
+      "extrait": "Au fur et à mesure de la disparition de la forme libre"
+    },
+    "difficulte": 1,
+    "tags": [
+      "équilibre libre-lié"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/04-distribution/qcm-007",
+    "type": "multiple",
+    "enonce": "Les liaisons impliquées dans la fixation réversible des médicaments aux protéines plasmatiques sont de type :",
+    "options": [
+      "Van Der Waals",
+      "Ioniques",
+      "Hydrogènes",
+      "Covalentes, très fréquentes et réversibles",
+      "Disulfures exclusivement"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Le cours cite les liaisons de Van Der Waals, ioniques et hydrogènes (a, b, c justes). Les liaisons covalentes sont rares et en général irréversibles, et non fréquentes et réversibles (d fausse). Les liaisons disulfures ne sont pas citées (e fausse).",
+    "source": {
+      "page": 2,
+      "extrait": "de liaisons de type: - Van Der Waals,"
+    },
+    "difficulte": 1,
+    "tags": [
+      "nature de la liaison"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/04-distribution/qcm-008",
+    "type": "multiple",
+    "enonce": "Concernant les liaisons covalentes entre médicaments et protéines plasmatiques :",
+    "options": [
+      "Elles sont en général irréversibles",
+      "Elles sont rares",
+      "Elles constituent le mode de fixation le plus fréquent",
+      "Elles sont toujours réversibles",
+      "Elles répondent à la loi d'action de masse comme les autres liaisons réversibles"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Le cours indique : « Covalentes (en général irréversible): rare » (a et b justes). Elles ne sont donc pas le mode le plus fréquent (c fausse) ni toujours réversibles (d fausse). Étant en général irréversibles, elles ne correspondent pas à l'équilibre réversible décrit par la loi d'action de masse (e fausse).",
+    "source": {
+      "page": 2,
+      "extrait": "Covalentes (en général irréversible): rare"
+    },
+    "difficulte": 2,
+    "tags": [
+      "nature de la liaison"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/04-distribution/qcm-009",
+    "type": "multiple",
+    "enonce": "Concernant les caractéristiques de la liaison médicament-protéine plasmatique :",
+    "options": [
+      "L'affinité est exprimée par la constante d'affinité ou d'association Ka",
+      "Plus Ka est élevé, plus la liaison est stable",
+      "Plus Ka est élevé, moins la liaison est stable",
+      "Les sites de fixation sur une protéine peuvent être restreints ou nombreux",
+      "Le pourcentage de fixation permet de classer les médicaments en fortement, moyennement et faiblement fixés"
+    ],
+    "correctes": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "explication": "L'affinité est exprimée par la constante d'affinité ou d'association Ka (a juste) ; plus Ka est élevé, plus la liaison est stable (b juste, c fausse). Les sites de fixation peuvent être restreints ou nombreux (d juste). Le pourcentage de fixation permet de classer les médicaments en fortement, moyennement et faiblement fixés (e juste).",
+    "source": {
+      "page": 2,
+      "extrait": "Exprimé par la Constante d'affinité ou d'association Ka"
+    },
+    "difficulte": 1,
+    "tags": [
+      "affinité",
+      "Ka",
+      "caractéristiques de la liaison"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/04-distribution/qcm-010",
+    "type": "multiple",
+    "enonce": "Concernant la spécificité des sites de fixation des protéines plasmatiques :",
+    "options": [
+      "Il existe des sites spécifiques pour les substances anioniques",
+      "Il existe des sites spécifiques pour les substances cationiques",
+      "Il existe sur l'albumine un site spécifique pour le diazépam",
+      "Il existe sur l'albumine un site spécifique pour la warfarine",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le cours mentionne des sites spécifiques pour les substances anioniques (a juste) et cationiques (b juste). Il existe aussi des sites spécifiques pour certains médicaments, par exemple sur l'albumine : site pour le diazépam (c juste), site pour la warfarine (d juste), site pour la digitoxine. Toutes les propositions sont donc correctes.",
+    "source": {
+      "page": 3,
+      "extrait": "Ex : sur l'albumine => site pour diazépam,site pour warfarine; site-pour digitoxine"
+    },
+    "difficulte": 1,
+    "tags": [
+      "spécificité",
+      "albumine"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/04-distribution/qcm-011",
+    "type": "multiple",
+    "enonce": "Parmi les exemples suivants, lequel (lesquels) est (sont) cité(s) par le cours comme disposant d'un site de fixation spécifique sur l'albumine ?",
+    "options": [
+      "Diazépam",
+      "Warfarine",
+      "Digitoxine",
+      "Cyclosporine",
+      "Bilirubine"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Le cours cite comme exemples de sites spécifiques sur l'albumine ceux du diazépam, de la warfarine et de la digitoxine (a, b, c justes). La cyclosporine est citée pour sa fixation sur les éléments figurés du sang (dosage sur sang total), pas pour un site sur l'albumine (d fausse). La bilirubine est citée comme substance endogène diminuant la fixation des médicaments, pas comme exemple de site spécifique (e fausse).",
+    "source": {
+      "page": 3,
+      "extrait": "site pour diazépam,site pour warfarine; site-pour digitoxine"
+    },
+    "difficulte": 2,
+    "tags": [
+      "albumine",
+      "sites spécifiques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/04-distribution/qcm-012",
+    "type": "multiple",
+    "enonce": "Les principales protéines plasmatiques impliquées dans la fixation des médicaments sont :",
+    "options": [
+      "L'albumine",
+      "L'α1 glycoprotéine acide",
+      "Les globulines α, β, γ",
+      "Les lipoprotéines (HDL, LDL, VLDL)",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le cours liste l'albumine, l'α1 glycoprotéine acide, les globulines (α, β, γ) et les lipoprotéines (HDL, LDL, VLDL) parmi les protéines plasmatiques impliquées dans la fixation des médicaments. Les quatre propositions a à d sont justes, donc la proposition e l'est également.",
+    "source": {
+      "page": 3,
+      "extrait": "L'albumine ✓ L' α1 glycoprotéine acide ✓ Les globulines (α, β,γ )"
+    },
+    "difficulte": 1,
+    "tags": [
+      "protéines plasmatiques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/04-distribution/qcm-013",
+    "type": "unique",
+    "enonce": "Les deux principales protéines impliquées dans la fixation des médicaments sont :",
+    "options": [
+      "L'albumine et les lipoprotéines",
+      "L'albumine et l'α1 glycoprotéine acide",
+      "Les globulines et l'α1 glycoprotéine acide",
+      "L'hémoglobine et l'albumine",
+      "Les lipoprotéines HDL et LDL"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Le cours précise que l'albumine et l'α1 glycoprotéine acide sont les deux principales protéines impliquées dans la fixation des médicaments (b juste). Les lipoprotéines et les globulines participent mais ne sont pas les principales (a, c, e fausses). L'hémoglobine n'est pas citée comme protéine plasmatique de fixation (d fausse).",
+    "source": {
+      "page": 3,
+      "extrait": "L'albumine et l' α1 glycoprotéine acide sont les deux principales protéines impliquées"
+    },
+    "difficulte": 1,
+    "tags": [
+      "albumine",
+      "α1 glycoprotéine acide"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/04-distribution/qcm-014",
+    "type": "multiple",
+    "enonce": "Concernant la fixation des médicaments aux protéines plasmatiques :",
+    "options": [
+      "Elle dépend des caractéristiques acido-basiques des médicaments",
+      "Seuls quelques médicaments se fixent aux protéines plasmatiques",
+      "Tous les médicaments se fixent aux protéines plasmatiques d'une manière réversible",
+      "Elle conduit à la formation d'un complexe [protéine-médicament]",
+      "Elle distingue une forme libre et une forme liée du médicament"
+    ],
+    "correctes": [
+      0,
+      2,
+      3,
+      4
+    ],
+    "explication": "La fixation dépend des caractéristiques acido-basiques des médicaments (a juste). Le cours affirme que tous les médicaments se fixent aux protéines plasmatiques de manière réversible, et non seulement quelques-uns (b fausse, c juste). Il en résulte un complexe [protéine-médicament] (d juste) permettant de distinguer une forme libre et une forme liée (e juste).",
+    "source": {
+      "page": 2,
+      "extrait": "Tous les médicaments se fixent aux protéines plasmatiques, d'une manière réversible"
+    },
+    "difficulte": 2,
+    "tags": [
+      "fixation protéique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/04-distribution/qcm-015",
+    "type": "unique",
+    "enonce": "Certaines protéines plasmatiques possèdent la propriété de fixer :",
+    "options": [
+      "Uniquement des substances endogènes",
+      "Uniquement des médicaments",
+      "Des substances endogènes mais également des produits exogènes comme les médicaments",
+      "Exclusivement des substances cationiques",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Le cours indique que certaines protéines plasmatiques fixent des substances endogènes mais également des produits exogènes comme les médicaments (c juste). Les propositions « uniquement » sont donc fausses (a, b). Il existe des sites pour les substances anioniques et cationiques, pas exclusivement cationiques (d fausse). e est fausse puisque c est juste.",
+    "source": {
+      "page": 2,
+      "extrait": "fixer des substances endogènes mais également des produits exogènes comme les médicaments"
+    },
+    "difficulte": 1,
+    "tags": [
+      "protéines plasmatiques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/04-distribution/qcm-016",
+    "type": "multiple",
+    "enonce": "Parmi les facteurs influençant la fixation protéique des médicaments, le cours cite :",
+    "options": [
+      "Le pH sanguin",
+      "La concentration du médicament et la saturation des sites de fixation",
+      "La nature du médicament (% de fixation, affinité)",
+      "Les interactions avec les substances endogènes",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le cours cite parmi les facteurs influençant la fixation protéique : le pH sanguin (a), la concentration du médicament et la saturation des sites (b), la nature du médicament – % de fixation et affinité (c), les interactions avec les substances endogènes (d), ainsi que les interactions médicamenteuses et les facteurs pathologiques et physiologiques. Toutes les propositions sont correctes.",
+    "source": {
+      "page": 4,
+      "extrait": "1.4. Les facteurs influençant.la fixation protéique"
+    },
+    "difficulte": 1,
+    "tags": [
+      "facteurs de variation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/04-distribution/qcm-017",
+    "type": "multiple",
+    "enonce": "Concernant l'influence du pH sanguin sur la fixation protéique :",
+    "options": [
+      "Toute variation du pH sanguin s'accompagne d'un déplacement du médicament entre les milieux intra et extracellulaire",
+      "Lors de l'acidose métabolique, l'affinité médicament-protéine peut être altérée",
+      "L'altération de l'affinité en acidose s'explique par une modification de la conformation de la protéine",
+      "La modification de conformation est liée à la fixation des protons",
+      "Le pH sanguin n'a aucune influence sur la fixation protéique"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Toute variation du pH sanguin s'accompagne d'un déplacement du médicament entre milieux intra et extracellulaire (a juste). En acidose métabolique, l'affinité entre médicament et protéine liante peut être altérée (b juste) par modification de la conformation de la protéine (c juste) due à la fixation des protons (d juste). Le pH est bien un facteur influençant la fixation (e fausse).",
+    "source": {
+      "page": 4,
+      "extrait": "l'affinité entre le médicament et la protéine liante peut être altérée par modification de la conformation de la protéine (fixation des protons)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "pH sanguin",
+      "acidose métabolique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/04-distribution/qcm-018",
+    "type": "multiple",
+    "enonce": "La saturation des sites de fixation protéique est observée lorsque :",
+    "options": [
+      "Le nombre de sites est restreint",
+      "Le nombre de sites est illimité",
+      "La concentration molaire de la protéine liante est égale à celle du médicament",
+      "La concentration molaire de la protéine est très supérieure à celle du médicament",
+      "Le médicament est faiblement fixé"
+    ],
+    "correctes": [
+      0,
+      2
+    ],
+    "explication": "Le cours indique que la saturation est observée lorsque le nombre de sites est restreint (a juste, b fausse) et que la concentration molaire de la protéine liante est égale à celle du médicament (c juste, d fausse). Le caractère faiblement fixé du médicament n'est pas cité comme condition (e fausse).",
+    "source": {
+      "page": 4,
+      "extrait": "lorsque le nombre de sites est restreint et la concentration molaire de la protéine liante est égale à celle du médicament"
+    },
+    "difficulte": 2,
+    "tags": [
+      "saturation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/04-distribution/qcm-019",
+    "type": "multiple",
+    "enonce": "Concernant les interactions avec les substances endogènes :",
+    "options": [
+      "Leur influence sur la fixation plasmatique des médicaments peut être importante",
+      "Les acides gras libres diminuent la fixation protéique plasmatique des médicaments",
+      "La bilirubine augmente la fixation protéique plasmatique des médicaments",
+      "La bilirubine diminue la fixation protéique plasmatique des médicaments",
+      "Les acides gras libres augmentent la fraction liée des médicaments"
+    ],
+    "correctes": [
+      0,
+      1,
+      3
+    ],
+    "explication": "L'influence des substances endogènes sur la fixation plasmatique peut être importante (a juste). Les acides gras libres et la bilirubine entraînent une diminution de la fixation protéique plasmatique des médicaments (b et d justes). La bilirubine n'augmente donc pas la fixation (c fausse) et les acides gras libres n'augmentent pas la fraction liée (e fausse).",
+    "source": {
+      "page": 4,
+      "extrait": "Acides gras libres et Bilirubine→ diminution de la fixation protéique plasmatique des médicaments"
+    },
+    "difficulte": 2,
+    "tags": [
+      "substances endogènes",
+      "bilirubine",
+      "acides gras libres"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/04-distribution/qcm-020",
+    "type": "multiple",
+    "enonce": "Une augmentation des acides gras libres plasmatiques entraîne, pour un médicament fixé à l'albumine :",
+    "options": [
+      "Une diminution de sa fixation protéique",
+      "Une augmentation de sa fraction liée",
+      "Une augmentation de sa fraction libre",
+      "Aucune modification de sa fixation",
+      "Une fixation covalente irréversible"
+    ],
+    "correctes": [
+      0,
+      2
+    ],
+    "explication": "Les acides gras libres diminuent la fixation protéique plasmatique des médicaments (a juste, b fausse). La fraction liée diminuant, la fraction libre (en équilibre) augmente (c juste). Il y a donc bien une modification (d fausse) et aucune notion de liaison covalente n'est associée (e fausse).",
+    "source": {
+      "page": 4,
+      "extrait": "Acides gras libres et Bilirubine→ diminution de la fixation protéique plasmatique"
+    },
+    "difficulte": 2,
+    "tags": [
+      "acides gras libres",
+      "fraction libre"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/04-distribution/qcm-021",
+    "type": "multiple",
+    "enonce": "Concernant les interactions médicamenteuses par déplacement de la fixation protéique :",
+    "options": [
+      "Le déplacement d'un médicament lié à l'albumine entraîne toujours des conséquences cliniques",
+      "Ce n'est que dans quelques cas particuliers que ce déplacement entraîne des conséquences cliniques",
+      "Le risque est d'autant plus élevé que le pourcentage de fixation est > 90 %",
+      "Le risque est d'autant plus élevé que le volume de distribution est faible (< 0,14 l/kg)",
+      "Le risque est d'autant plus élevé que l'index thérapeutique est étroit"
+    ],
+    "correctes": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Le cours précise que ce n'est que dans quelques cas particuliers que le déplacement d'un médicament lié à l'albumine entraîne des conséquences cliniques (a fausse, b juste). Le risque d'interaction est d'autant plus élevé que le pourcentage de fixation est > 90 % (c juste), que le volume de distribution est faible, < 0,14 l/kg (d juste), et que l'index thérapeutique est étroit (e juste).",
+    "source": {
+      "page": 4,
+      "extrait": "Ce n'est que dans quelques cas particuliers que le déplacement d'un médicament lié à l'albumine plasmatique, entraîne des conséquences"
+    },
+    "difficulte": 2,
+    "tags": [
+      "interactions médicamenteuses",
+      "déplacement"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/04-distribution/qcm-022",
+    "type": "unique",
+    "enonce": "Le risque d'interaction médicamenteuse par déplacement de la fixation protéique est d'autant plus élevé que :",
+    "options": [
+      "Le pourcentage de fixation est < 50 %",
+      "Le volume de distribution est élevé (> 0,14 l/kg)",
+      "L'index thérapeutique est large",
+      "Le pourcentage de fixation est > 90 %",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      3
+    ],
+    "explication": "Le risque est d'autant plus élevé que le pourcentage de fixation est > 90 % (d juste), et non < 50 % (a fausse). Il est majoré par un volume de distribution faible (< 0,14 l/kg), et non élevé (b fausse), et par un index thérapeutique étroit, et non large (c fausse). La proposition e est donc fausse.",
+    "source": {
+      "page": 4,
+      "extrait": "Le pourcentage de fixation > 90 % ;"
+    },
+    "difficulte": 2,
+    "tags": [
+      "interactions médicamenteuses"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/04-distribution/qcm-023",
+    "type": "unique",
+    "enonce": "Selon le cours, la valeur seuil du volume de distribution en dessous de laquelle le risque d'interaction par déplacement protéique est majoré est :",
+    "options": [
+      "0,14 l/kg",
+      "1,4 l/kg",
+      "14 l/kg",
+      "0,014 l/kg",
+      "0,41 l/kg"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Le cours indique que le risque d'interaction est d'autant plus élevé que le volume de distribution est faible, inférieur à 0,14 l/kg (a juste). Les autres valeurs sont des chiffres modifiés (b, c, d, e fausses).",
+    "source": {
+      "page": 4,
+      "extrait": "Le volume de distribution faible (< 0,14 1/kg) ;"
+    },
+    "difficulte": 2,
+    "tags": [
+      "volume de distribution",
+      "interactions médicamenteuses"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/04-distribution/qcm-024",
+    "type": "multiple",
+    "enonce": "Concernant les facteurs physiologiques modifiant la fixation protéique :",
+    "options": [
+      "Chez le nouveau-né, on observe une modification structurale de l'albumine",
+      "Chez le nouveau-né, la bilirubine et les acides gras sont augmentés",
+      "Chez la personne âgée, on observe une hypoalbuminémie",
+      "Au cours de la grossesse, on observe une hyperalbuminémie",
+      "Au cours de la grossesse, l'hypoalbuminémie est une hypoalbuminémie de dilution"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explication": "Chez le nouveau-né, le cours cite une modification structurale de l'albumine (a juste) et une augmentation de la bilirubine et des acides gras (b juste). La personne âgée présente une hypoalbuminémie (c juste). Au cours de la grossesse, il s'agit d'une hypoalbuminémie (et non d'une hyperalbuminémie) de dilution (d fausse, e juste).",
+    "source": {
+      "page": 5,
+      "extrait": "Nouveau né → Modification structurale de l'albumine + ↑ bilirubine et acides gras"
+    },
+    "difficulte": 2,
+    "tags": [
+      "facteurs physiologiques",
+      "nouveau-né",
+      "grossesse",
+      "sujet âgé"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/04-distribution/qcm-025",
+    "type": "unique",
+    "enonce": "Une hypoalbuminémie de dilution est classiquement associée, selon le cours, à :",
+    "options": [
+      "La grossesse",
+      "Le nouveau-né",
+      "La personne âgée",
+      "L'acidose métabolique",
+      "La méningite"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Le cours précise : « Grossesse → Hypoalbuminémie (de dilution) » (a juste). Chez le nouveau-né, il s'agit d'une modification structurale de l'albumine avec augmentation de la bilirubine et des acides gras (b fausse). Chez la personne âgée, une hypoalbuminémie est citée mais sans mention de dilution (c fausse). L'acidose et la méningite ne sont pas associées à une hypoalbuminémie dans le cours (d, e fausses).",
+    "source": {
+      "page": 5,
+      "extrait": "Grossesse → Hypoalbuminémie (de dilution)."
+    },
+    "difficulte": 2,
+    "tags": [
+      "grossesse",
+      "hypoalbuminémie"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/04-distribution/qcm-026",
+    "type": "multiple",
+    "enonce": "Les facteurs pathologiques influençant la fixation protéique :",
+    "options": [
+      "Influencent le taux des différentes protéines plasmatiques",
+      "N'ont aucune influence sur les protéines plasmatiques",
+      "Font partie des facteurs influençant la fixation protéique cités par le cours",
+      "Agissent exclusivement sur les éléments figurés du sang",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      2
+    ],
+    "explication": "Le cours indique que les facteurs pathologiques influencent le taux des différentes protéines plasmatiques (a juste, b fausse) et les classe parmi les facteurs influençant la fixation protéique (c juste). Ils n'agissent pas exclusivement sur les éléments figurés du sang (d fausse). e est fausse.",
+    "source": {
+      "page": 5,
+      "extrait": "Ils Influencent le taux des différentes protéines plasmatiques"
+    },
+    "difficulte": 1,
+    "tags": [
+      "facteurs pathologiques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/04-distribution/qcm-027",
+    "type": "multiple",
+    "enonce": "Sur le plan pharmacocinétique, toute variation de la fixation aux protéines plasmatiques entraîne une modification :",
+    "options": [
+      "Du volume de distribution (Vd)",
+      "Du temps de demi-vie d'élimination (T1/2)",
+      "Du volume de distribution uniquement",
+      "Du temps de demi-vie uniquement",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Le cours indique que toute variation de la fixation aux protéines plasmatiques entraîne une modification des paramètres pharmacocinétiques, à savoir le volume de distribution (a juste) et le temps de demi-vie d'élimination (b juste). Les deux sont modifiés, les propositions « uniquement » sont donc fausses (c, d). e est fausse.",
+    "source": {
+      "page": 5,
+      "extrait": "entraine une modification des paramètres pharmacocinétiques à savoir : - Le volume de distribution [Vd]"
+    },
+    "difficulte": 1,
+    "tags": [
+      "conséquences pharmacocinétiques",
+      "Vd",
+      "demi-vie"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/04-distribution/qcm-028",
+    "type": "multiple",
+    "enonce": "Sur le plan thérapeutique, une variation de la fixation protéique peut modifier l'effet des médicaments caractérisés par :",
+    "options": [
+      "Une forte liaison aux protéines plasmatiques",
+      "Un volume de distribution faible",
+      "Un index thérapeutique étroit",
+      "Une faible liaison aux protéines plasmatiques",
+      "Un volume de distribution élevé"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Le cours précise que toute variation de la fixation protéique peut modifier l'effet thérapeutique des médicaments caractérisés par une forte liaison aux protéines plasmatiques (a juste), un volume de distribution faible (b juste) et un index thérapeutique étroit (c juste). Une faible liaison et un Vd élevé ne correspondent pas à ces critères (d, e fausses).",
+    "source": {
+      "page": 6,
+      "extrait": "- Une forte liaison aux protéines plasmatiques . - Un volume de distribution faible - Un index thérapeutique étroit"
+    },
+    "difficulte": 2,
+    "tags": [
+      "conséquences thérapeutiques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/04-distribution/qcm-029",
+    "type": "multiple",
+    "enonce": "Concernant les conséquences pharmacologiques de la fixation protéique :",
+    "options": [
+      "La forme liée est une forme de transport et de stockage au niveau plasmatique",
+      "La forme libre est une forme active",
+      "La forme libre peut diffuser à travers les tissus et les compartiments liquidiens",
+      "La forme liée est la forme active qui diffuse dans les tissus",
+      "La forme libre est une forme de stockage"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Sur le plan pharmacologique, la forme liée est une forme de transport et de stockage plasmatique (a juste) ; la forme libre est active (b juste) et peut diffuser à travers les tissus et les compartiments liquidiens (c juste). La forme liée n'est pas active et ne diffuse pas (d fausse). La forme de stockage est la forme liée, pas la forme libre (e fausse).",
+    "source": {
+      "page": 5,
+      "extrait": "La forme liée est une forme de transport et de stockage au niveau plasmatique."
+    },
+    "difficulte": 1,
+    "tags": [
+      "conséquences pharmacologiques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/04-distribution/qcm-030",
+    "type": "multiple",
+    "enonce": "Concernant la fixation des médicaments aux éléments figurés du sang :",
+    "options": [
+      "Les leucocytes interviennent de façon majeure dans le transport des médicaments",
+      "Les hématies interviennent dans le transport des médicaments",
+      "Les leucocytes n'interviennent pas dans le transport des médicaments",
+      "Pour ces médicaments, les paramètres pharmacocinétiques doivent être exprimés en données plasmatiques",
+      "La cyclosporine est dosée sur le sang total"
+    ],
+    "correctes": [
+      1,
+      2,
+      4
+    ],
+    "explication": "Les leucocytes n'interviennent pas dans le transport des médicaments, contrairement aux hématies (a fausse, b et c justes). Pour les médicaments fixés aux éléments figurés, les paramètres pharmacocinétiques doivent être exprimés en données sanguines et non plasmatiques (d fausse), comme pour la cyclosporine dosée sur le sang total (e juste).",
+    "source": {
+      "page": 6,
+      "extrait": "Les leucocytes n'interviennent pas dans le transport des médicaments contrairement aux hématies."
+    },
+    "difficulte": 2,
+    "tags": [
+      "éléments figurés du sang",
+      "cyclosporine",
+      "hématies"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/04-distribution/qcm-031",
+    "type": "multiple",
+    "enonce": "Pour un médicament qui se fixe sur les éléments figurés du sang, comme la cyclosporine :",
+    "options": [
+      "Les paramètres pharmacocinétiques doivent être exprimés en données sanguines",
+      "Les paramètres pharmacocinétiques doivent être exprimés en données plasmatiques",
+      "Le dosage se fait sur le sang total",
+      "Le dosage se fait sur le plasma uniquement",
+      "La fixation se fait principalement sur les leucocytes"
+    ],
+    "correctes": [
+      0,
+      2
+    ],
+    "explication": "Le cours précise que la valeur des paramètres pharmacocinétiques des médicaments fixés aux éléments figurés doit être exprimée en données sanguines et non plasmatiques (a juste, b fausse) ; la cyclosporine est dosée sur le sang total (c juste, d fausse). Les leucocytes n'interviennent pas dans le transport des médicaments (e fausse).",
+    "source": {
+      "page": 6,
+      "extrait": "doit être exprimée en données sanguines et non phsmtique (cas de cyclosporine qui est dosé sur le sang total)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "cyclosporine",
+      "sang total"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/04-distribution/qcm-032",
+    "type": "multiple",
+    "enonce": "Concernant la diffusion tissulaire des médicaments :",
+    "options": [
+      "Elle correspond au passage du médicament des vaisseaux dans les tissus",
+      "On distingue des passages réversibles vers les lieux d'action et de stockage",
+      "On distingue des passages irréversibles vers les lieux de transformation et d'élimination",
+      "Les passages vers les lieux de stockage sont irréversibles",
+      "Les passages vers les lieux d'élimination sont réversibles"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Le passage du médicament des vaisseaux dans les tissus constitue sa diffusion (a juste). On distingue des passages réversibles vers les lieux d'action et de stockage (b juste, d fausse) et des passages irréversibles vers les lieux de transformation et d'élimination (c juste, e fausse).",
+    "source": {
+      "page": 7,
+      "extrait": "des passages réversibles vers les lieux d'action et les lieux de stockage et des passages irréversibles"
+    },
+    "difficulte": 2,
+    "tags": [
+      "diffusion tissulaire"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/04-distribution/qcm-033",
+    "type": "multiple",
+    "enonce": "Les passages irréversibles du médicament lors de la diffusion tissulaire se font vers :",
+    "options": [
+      "Les lieux d'action",
+      "Les lieux de stockage",
+      "Les lieux de transformation",
+      "Les lieux d'élimination",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      2,
+      3
+    ],
+    "explication": "Le cours distingue des passages réversibles vers les lieux d'action et de stockage (a, b fausses) et des passages irréversibles vers les lieux de transformation et d'élimination (c, d justes). La proposition e est donc fausse.",
+    "source": {
+      "page": 7,
+      "extrait": "des passages irréversibles vers des lieux de transformation et des lieux d'élimination"
+    },
+    "difficulte": 2,
+    "tags": [
+      "diffusion tissulaire"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/04-distribution/qcm-034",
+    "type": "multiple",
+    "enonce": "Concernant les mécanismes de la diffusion tissulaire :",
+    "options": [
+      "Le passage plasma-tissus nécessite le franchissement de membranes cellulaires de nature phospholipidique",
+      "Les molécules liposolubles non ionisées franchissent la barrière sang/tissu par diffusion passive",
+      "Les molécules hydrophiles passent grâce à des transporteurs spécifiques si l'affinité pour ces transporteurs est élevée",
+      "Le passage des molécules hydrophiles peut se faire par transport actif ou diffusion facilitée",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le passage du plasma vers les tissus nécessite le franchissement de membranes phospholipidiques (a juste). Les molécules liposolubles non ionisées passent par diffusion passive (b juste). Les molécules hydrophiles passent grâce à des transporteurs spécifiques si leur affinité est élevée (c juste), par transport actif ou diffusion facilitée (d juste). Toutes les propositions sont correctes.",
+    "source": {
+      "page": 7,
+      "extrait": "possible pour les molécules liposolubles non ionisée (diffusion passive)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "mécanismes de diffusion",
+      "diffusion passive",
+      "transport actif"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/04-distribution/qcm-035",
+    "type": "unique",
+    "enonce": "Le franchissement de la barrière sang/tissu par diffusion passive concerne :",
+    "options": [
+      "Les molécules liposolubles non ionisées",
+      "Les molécules hydrophiles ionisées",
+      "Les molécules liposolubles ionisées",
+      "Les molécules hydrophiles ayant une forte affinité pour un transporteur",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Le cours indique que la diffusion passive concerne les molécules liposolubles non ionisées (a juste). Les molécules hydrophiles passent via des transporteurs spécifiques (transport actif ou diffusion facilitée), pas par diffusion passive (b, d fausses). Seule la fraction non ionisée traverse la membrane (c fausse). e est fausse.",
+    "source": {
+      "page": 7,
+      "extrait": "Le franchissement de la barrière sang/tissu sera possible pour les molécules liposolubles non ionisée (diffusion passive)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "diffusion passive"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/04-distribution/qcm-036",
+    "type": "multiple",
+    "enonce": "Parmi les facteurs influençant la diffusion tissulaire, le cours cite :",
+    "options": [
+      "La fixation aux protéines plasmatiques",
+      "Les caractéristiques physico-chimiques des principes actifs",
+      "L'irrigation des organes",
+      "L'affinité particulière des organes pour les médicaments",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le cours cite comme facteurs influençant la diffusion tissulaire : la fixation aux protéines plasmatiques (a), les caractéristiques physico-chimiques des principes actifs (b), l'irrigation des organes et distribution tissulaire (c) et l'affinité particulière des organes pour les médicaments (d). Toutes les propositions sont correctes.",
+    "source": {
+      "page": 7,
+      "extrait": "2. Facteurs influençant ou modifiant la diffusion tissulaire"
+    },
+    "difficulte": 1,
+    "tags": [
+      "facteurs de la diffusion tissulaire"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/04-distribution/qcm-037",
+    "type": "multiple",
+    "enonce": "Concernant l'influence de la fixation protéique sur la diffusion tissulaire :",
+    "options": [
+      "Seule la forme libre peut diffuser vers les tissus",
+      "La forme liée diffuse plus facilement vers les tissus",
+      "L'intensité de la liaison constitue un facteur modulant la diffusion tissulaire",
+      "Une faible fixation aux protéines plasmatiques favorise la distribution",
+      "Une forte fixation aux protéines plasmatiques favorise la distribution"
+    ],
+    "correctes": [
+      0,
+      2,
+      3
+    ],
+    "explication": "Seule la forme libre peut diffuser vers les tissus (a juste, b fausse) et l'intensité de la liaison est un facteur modulant la diffusion tissulaire (c juste). Le résumé du cours indique qu'un médicament est d'autant mieux distribué qu'il présente une faible fixation aux protéines plasmatiques (d juste, e fausse).",
+    "source": {
+      "page": 7,
+      "extrait": "Seule la forme libre peut diffuser vers les tissus. L'intensité de la liaison constitue un facteur modulant"
+    },
+    "difficulte": 1,
+    "tags": [
+      "fixation protéique",
+      "diffusion tissulaire"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/04-distribution/qcm-038",
+    "type": "multiple",
+    "enonce": "Concernant les caractéristiques physico-chimiques des principes actifs et la diffusion tissulaire :",
+    "options": [
+      "Seule la fraction liposoluble et non ionisée traverse la membrane cellulaire",
+      "La fraction ionisée traverse facilement la membrane cellulaire",
+      "La diffusion à travers la membrane lipidique est un facteur limitant la diffusion tissulaire",
+      "Une liposolubilité importante favorise la distribution du médicament",
+      "La liposolubilité n'a aucune influence sur la distribution"
+    ],
+    "correctes": [
+      0,
+      2,
+      3
+    ],
+    "explication": "Seule la fraction liposoluble et non ionisée traverse la membrane cellulaire (a juste, b fausse). La diffusion à travers la membrane lipidique est un facteur limitant (c juste). Le résumé précise qu'une liposolubilité importante favorise la distribution, car elle traduit la capacité à franchir les parois vasculaires et cellulaires (d juste, e fausse).",
+    "source": {
+      "page": 7,
+      "extrait": "Seule la fraction liposoluble et non ionisée traverse la membrane cellulaire."
+    },
+    "difficulte": 1,
+    "tags": [
+      "liposolubilité",
+      "ionisation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/04-distribution/qcm-039",
+    "type": "multiple",
+    "enonce": "Concernant l'irrigation des organes et la distribution tissulaire :",
+    "options": [
+      "L'obstacle membranaire n'existe pas pour les molécules liposolubles et de faible masse molaire",
+      "La distribution est identique dans tous les organes",
+      "Il existe une corrélation entre la vitesse d'irrigation tissulaire et la vitesse de distribution vers ce tissu",
+      "L'irrigation des tissus constitue un facteur limitant de la distribution tissulaire",
+      "Une baisse du débit régional entraîne une moindre fixation du médicament dans l'organe intéressé"
+    ],
+    "correctes": [
+      0,
+      2,
+      3,
+      4
+    ],
+    "explication": "L'obstacle membranaire n'existe pas pour les molécules liposolubles et de faible masse molaire (a juste), mais la distribution varie d'un organe à l'autre du fait des différents débits sanguins (b fausse). Il existe une corrélation entre vitesse d'irrigation et vitesse de distribution (c juste) ; l'irrigation est donc un facteur limitant (d juste) et une baisse du débit régional entraîne une moindre fixation dans l'organe (e juste).",
+    "source": {
+      "page": 7,
+      "extrait": "Il existe une corrélation entre la vitesse d'irrigation tissulaire et la vitesse de distribution vers ce même tissu."
+    },
+    "difficulte": 2,
+    "tags": [
+      "irrigation",
+      "débit sanguin"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/04-distribution/qcm-040",
+    "type": "unique",
+    "enonce": "Une baisse du débit sanguin régional, quelle qu'en soit la cause, entraîne :",
+    "options": [
+      "Une moindre fixation du médicament dans l'organe intéressé",
+      "Une fixation accrue du médicament dans l'organe intéressé",
+      "Aucune modification de la distribution vers cet organe",
+      "Une accélération de la distribution vers cet organe",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Le cours indique qu'une baisse du débit régional, quelle qu'en soit la cause, entraîne une moindre fixation du médicament dans l'organe intéressé (a juste). La fixation n'est donc pas accrue (b fausse), il y a bien une modification (c fausse) et la vitesse de distribution, corrélée à l'irrigation, diminue (d fausse). e est fausse.",
+    "source": {
+      "page": 7,
+      "extrait": "Une baisse du débit régional, quelle qu'en soit la cause, entraîne une moindre fixation du médicament dans l'organe intéressé."
+    },
+    "difficulte": 1,
+    "tags": [
+      "débit sanguin"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/04-distribution/qcm-041",
+    "type": "multiple",
+    "enonce": "Parmi les tissus suivants, lesquels sont classés comme richement vascularisés ?",
+    "options": [
+      "Cœur",
+      "Poumons",
+      "Foie et reins",
+      "Cerveau et glandes endocrines",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le cours classe parmi les tissus richement vascularisés : cœur, poumons, foie, reins, cerveau et glandes endocrines. Les propositions a à d sont toutes justes, donc e l'est également.",
+    "source": {
+      "page": 7,
+      "extrait": "tissus richement vascularisés : Cœur, poumons, foie, réins, cerveau, glandes endocrines"
+    },
+    "difficulte": 1,
+    "tags": [
+      "vascularisation des tissus"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/04-distribution/qcm-042",
+    "type": "multiple",
+    "enonce": "Concernant la classification des tissus selon leur vascularisation :",
+    "options": [
+      "La peau et les muscles sont des tissus moyennement vascularisés",
+      "Le tissu adipeux est un tissu richement vascularisé",
+      "La moelle et le tissu adipeux sont des tissus peu vascularisés",
+      "Les os, les dents et les tendons sont des tissus très peu vascularisés",
+      "Le cerveau est un tissu peu vascularisé"
+    ],
+    "correctes": [
+      0,
+      2,
+      3
+    ],
+    "explication": "Selon le cours, la peau et les muscles sont moyennement vascularisés (a juste). La moelle et le tissu adipeux sont peu vascularisés, le tissu adipeux n'est donc pas richement vascularisé (b fausse, c juste). Les os, dents, tendons, ligaments, cartilages et phanères sont très peu vascularisés (d juste). Le cerveau est richement vascularisé (e fausse).",
+    "source": {
+      "page": 7,
+      "extrait": "tissus moyennement vascularisés : peau, muscles ✓ tissus peu vascularisés : moelle, tissu adipeux"
+    },
+    "difficulte": 2,
+    "tags": [
+      "vascularisation des tissus"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/04-distribution/qcm-043",
+    "type": "unique",
+    "enonce": "On classe les tissus, du point de vue de leur vascularisation, en :",
+    "options": [
+      "2 groupes",
+      "3 groupes",
+      "4 groupes",
+      "5 groupes",
+      "6 groupes"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Le cours classe les tissus en 4 groupes : richement vascularisés, moyennement vascularisés, peu vascularisés et très peu vascularisés (c juste). Les autres nombres sont faux.",
+    "source": {
+      "page": 7,
+      "extrait": "On classe les tissus au point de vue de leur vascularisation, en 4 groupes"
+    },
+    "difficulte": 1,
+    "tags": [
+      "vascularisation des tissus"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/04-distribution/qcm-044",
+    "type": "multiple",
+    "enonce": "Parmi les tissus suivants, lequel (lesquels) est (sont) classé(s) comme très peu vascularisé(s) ?",
+    "options": [
+      "Cartilages",
+      "Phanères",
+      "Ligaments",
+      "Muscles",
+      "Moelle"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Les tissus très peu vascularisés sont : os, dents, tendons, ligaments, cartilages et phanères (a, b, c justes). Les muscles sont moyennement vascularisés (d fausse) et la moelle est peu vascularisée (e fausse).",
+    "source": {
+      "page": 7,
+      "extrait": "tissus très peu vascularisés : os, dents, tendons, ligaments, cartilages, phanères"
+    },
+    "difficulte": 2,
+    "tags": [
+      "vascularisation des tissus"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/04-distribution/qcm-045",
+    "type": "multiple",
+    "enonce": "Concernant le volume d'un tissu et la distribution d'un médicament :",
+    "options": [
+      "Plus un tissu est volumineux, plus la quantité totale de médicament qu'il contient sera élevée",
+      "Plus un tissu est volumineux, plus la quantité totale de médicament qu'il contient sera faible",
+      "Le volume du tissu n'intervient pas dans la quantité de médicament qu'il contient",
+      "Le volume tissulaire est cité dans le cours comme élément de la distribution tissulaire",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      3
+    ],
+    "explication": "Le cours indique que plus un tissu est volumineux, plus la quantité totale de médicament qu'il contient sera élevée (a juste, b et c fausses). Le volume est bien cité comme élément intervenant dans la distribution tissulaire (d juste). e est fausse.",
+    "source": {
+      "page": 8,
+      "extrait": "plus un tissu est volumineux, plus la quantité totale de médicament qu'il contient sera élevée."
+    },
+    "difficulte": 1,
+    "tags": [
+      "volume tissulaire"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/04-distribution/qcm-046",
+    "type": "multiple",
+    "enonce": "Concernant l'affinité particulière des organes pour les médicaments :",
+    "options": [
+      "Pour un même médicament, la quantité fixée est identique dans tous les organes",
+      "Les médicaments peuvent se fixer préférentiellement là où ils sont censés exercer leur activité",
+      "Les anti-inflammatoires sont attirés par le siège de l'inflammation",
+      "La majorité des médicaments se concentrent au niveau du foie, siège d'une intense activité métabolique",
+      "La majorité des médicaments se concentrent au niveau du rein, siège d'une activité excrétrice"
+    ],
+    "correctes": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Pour un même médicament, la quantité fixée diffère d'un organe à l'autre (a fausse). Cela s'explique par un tropisme vers le site d'action (b juste), par exemple les anti-inflammatoires attirés par le siège de l'inflammation (c juste), et par une activité métabolique et excrétrice : la majorité des médicaments se concentrent au niveau du foie (d juste) et du rein (e juste).",
+    "source": {
+      "page": 8,
+      "extrait": "La majorité des médicaments se concentrent, au niveau du foie (siège. d'une intense activité métabolique) et du rein"
+    },
+    "difficulte": 2,
+    "tags": [
+      "affinité tissulaire",
+      "tropisme"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/04-distribution/qcm-047",
+    "type": "unique",
+    "enonce": "L'exemple cité par le cours pour illustrer le tropisme d'un médicament vers son site d'action est :",
+    "options": [
+      "Les anti-inflammatoires attirés par le siège de l'inflammation",
+      "Les anticancéreux rejetés par la P-glycoprotéine",
+      "La bilirubine traversant la barrière hémato-encéphalique du nouveau-né",
+      "La cyclosporine fixée sur les hématies",
+      "Le diazépam fixé sur l'albumine"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Le cours illustre le tropisme vers le site d'action par les anti-inflammatoires, attirés par le siège de l'inflammation (a juste). Les anticancéreux et la PGP concernent la barrière hémato-encéphalique (b fausse), la bilirubine l'ictère nucléaire du nouveau-né (c fausse), la cyclosporine la fixation aux éléments figurés (d fausse) et le diazépam un site spécifique sur l'albumine (e fausse).",
+    "source": {
+      "page": 8,
+      "extrait": "Exemple : les anti-inflammatoires sont attirés par le siège de l'inflammation."
+    },
+    "difficulte": 1,
+    "tags": [
+      "tropisme"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/04-distribution/qcm-048",
+    "type": "multiple",
+    "enonce": "Un médicament est d'autant mieux distribué qu'il présente :",
+    "options": [
+      "Une faible fixation aux protéines plasmatiques",
+      "Une forte affinité pour les protéines tissulaires",
+      "Une liposolubilité importante",
+      "Une bonne irrigation des tissus ou organes concernés",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le résumé du cours indique qu'un médicament est d'autant mieux distribué qu'il présente une faible fixation aux protéines plasmatiques (a), une forte affinité pour les protéines tissulaires (b), une liposolubilité importante (c) et une bonne irrigation des tissus ou organes concernés (d). Toutes les propositions sont correctes.",
+    "source": {
+      "page": 8,
+      "extrait": "Un médicament est d'autant mieux distribué qu'il présente ✓ Une faible fixation aux protéines plasmatiques"
+    },
+    "difficulte": 1,
+    "tags": [
+      "résumé",
+      "distribution"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/04-distribution/qcm-049",
+    "type": "multiple",
+    "enonce": "Un médicament sera MAL distribué s'il présente :",
+    "options": [
+      "Une forte fixation aux protéines plasmatiques",
+      "Une faible affinité pour les protéines tissulaires",
+      "Une faible liposolubilité",
+      "Une destination vers des tissus très peu vascularisés",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Par opposition au résumé du cours (faible fixation plasmatique, forte affinité tissulaire, liposolubilité importante et bonne irrigation favorisent la distribution), une forte fixation plasmatique (a), une faible affinité tissulaire (b), une faible liposolubilité (c) et une faible irrigation des tissus (d) défavorisent la distribution. Toutes les propositions sont correctes.",
+    "source": {
+      "page": 8,
+      "extrait": "Une forte affinité pour les protéines tissulaires, ✓ Une liposolubilité importante"
+    },
+    "difficulte": 3,
+    "tags": [
+      "résumé",
+      "distribution"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/04-distribution/qcm-050",
+    "type": "multiple",
+    "enonce": "Concernant les barrières tissulaires :",
+    "options": [
+      "Certains organes disposent de structures propres qui limitent la diffusion des médicaments",
+      "Le terme de « barrière » tissulaire décrit ces structures",
+      "La barrière hémato-encéphalique en est un exemple",
+      "La barrière fœto-placentaire en est un exemple",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le cours indique que certains organes disposent de structures propres limitant la diffusion des médicaments (a juste), décrites par le terme de « barrière » tissulaire (b juste), par exemple la barrière hémato-encéphalique (c juste) et la barrière fœto-placentaire (d juste). Toutes les propositions sont correctes.",
+    "source": {
+      "page": 8,
+      "extrait": "Certains organes disposent de structures propres qui limitent la diffusion des médicaments."
+    },
+    "difficulte": 1,
+    "tags": [
+      "barrières tissulaires"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/04-distribution/qcm-051",
+    "type": "multiple",
+    "enonce": "Concernant la barrière hémato-encéphalique :",
+    "options": [
+      "Elle isole le système nerveux central de la circulation sanguine",
+      "Elle protège les cellules nerveuses d'influences externes",
+      "Ses capillaires sont constitués de cellules endothéliales très serrées",
+      "Seuls les principes actifs liposolubles et non ionisés la traversent",
+      "Les principes actifs hydrophiles ionisés la traversent facilement"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "La barrière hémato-encéphalique isole le SNC de la circulation sanguine (a juste) pour protéger les cellules nerveuses d'influences externes (b juste). Ses capillaires sont constitués de cellules endothéliales très serrées (c juste). Seuls les principes actifs liposolubles et non ionisés la traversent (d juste), les hydrophiles ionisés ne la traversent donc pas facilement (e fausse).",
+    "source": {
+      "page": 8,
+      "extrait": "Les capillaires sont constitués de cellules endothéliales très serrées."
+    },
+    "difficulte": 1,
+    "tags": [
+      "barrière hémato-encéphalique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/04-distribution/qcm-052",
+    "type": "multiple",
+    "enonce": "Les phénomènes pouvant ralentir ou empêcher le passage des médicaments à travers la barrière hémato-encéphalique sont :",
+    "options": [
+      "Des phénomènes enzymatiques qui dégradent certaines substances",
+      "Le système de la P-glycoprotéine",
+      "La fixation aux leucocytes",
+      "L'hypoalbuminémie",
+      "L'inversion du gradient de concentration"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Le cours cite deux phénomènes : des phénomènes enzymatiques qui dégradent certaines substances (a juste) et le système de la P-glycoprotéine (b juste). La fixation aux leucocytes (qui n'interviennent pas dans le transport), l'hypoalbuminémie et l'inversion du gradient (redistribution) ne sont pas cités à ce niveau (c, d, e fausses).",
+    "source": {
+      "page": 8,
+      "extrait": "des phénomènes enzymatiques qui dégradent certaines substances"
+    },
+    "difficulte": 2,
+    "tags": [
+      "barrière hémato-encéphalique",
+      "P-glycoprotéine"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/04-distribution/qcm-053",
+    "type": "multiple",
+    "enonce": "Concernant la P-glycoprotéine (PGP) au niveau de la barrière hémato-encéphalique :",
+    "options": [
+      "C'est une pompe",
+      "Elle rejette dans les capillaires des substances ayant pénétré dans la cellule",
+      "Elle concerne en particulier les anticancéreux",
+      "Elle favorise le passage des médicaments vers le cerveau",
+      "Elle est une enzyme qui dégrade les médicaments"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "La PGP est une pompe (a juste) qui rejette dans les capillaires des substances ayant pénétré dans la cellule (b juste), en particulier des anticancéreux (c juste). Elle ralentit ou empêche donc le passage, au lieu de le favoriser (d fausse). La dégradation enzymatique est un phénomène distinct de la PGP (e fausse).",
+    "source": {
+      "page": 8,
+      "extrait": "pompe qui rejette dans les capillaires des substances (en particulier des anticancéreux) ayant pénétré dans la cellule"
+    },
+    "difficulte": 2,
+    "tags": [
+      "P-glycoprotéine",
+      "anticancéreux"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/04-distribution/qcm-054",
+    "type": "multiple",
+    "enonce": "La perméabilité de la barrière hémato-méningée est accrue :",
+    "options": [
+      "Physiologiquement à la naissance",
+      "Pathologiquement en cas de méningite",
+      "Physiologiquement chez la personne âgée",
+      "Pathologiquement en cas d'acidose métabolique",
+      "Au cours de la grossesse"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Le cours indique que la perméabilité de la barrière hémato-méningée est accrue physiologiquement à la naissance (a juste) et pathologiquement en cas de méningite (b juste). La personne âgée, l'acidose métabolique et la grossesse ne sont pas citées à ce propos (c, d, e fausses).",
+    "source": {
+      "page": 9,
+      "extrait": "physiologiquement à la naissance, ce qui explique l'ictère nucléaire chez nouveau né par passage de bilirubine"
+    },
+    "difficulte": 1,
+    "tags": [
+      "barrière hémato-encéphalique",
+      "méningite",
+      "nouveau-né"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/04-distribution/qcm-055",
+    "type": "multiple",
+    "enonce": "L'ictère nucléaire du nouveau-né s'explique par :",
+    "options": [
+      "Une perméabilité accrue de la barrière hémato-méningée à la naissance",
+      "Le passage de bilirubine vers le système nerveux central",
+      "Une imperméabilité totale de la barrière hémato-encéphalique",
+      "Une hyperalbuminémie du nouveau-né",
+      "Le système de la P-glycoprotéine"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Le cours explique l'ictère nucléaire du nouveau-né par la perméabilité physiologiquement accrue de la barrière hémato-méningée à la naissance (a juste), permettant le passage de bilirubine (b juste). La barrière n'est donc pas imperméable (c fausse). Le cours ne parle pas d'hyperalbuminémie mais d'une modification structurale de l'albumine chez le nouveau-né (d fausse). La PGP n'est pas impliquée dans cette explication (e fausse).",
+    "source": {
+      "page": 9,
+      "extrait": "ce qui explique l'ictère nucléaire chez nouveau né par passage de bilirubine."
+    },
+    "difficulte": 2,
+    "tags": [
+      "ictère nucléaire",
+      "bilirubine",
+      "nouveau-né"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/04-distribution/qcm-056",
+    "type": "multiple",
+    "enonce": "Concernant le passage transplacentaire des médicaments :",
+    "options": [
+      "Il fait intervenir la diffusion passive pour les molécules lipophiles de faible poids moléculaire",
+      "Il fait intervenir le transport actif pour les acides aminés",
+      "Il fait intervenir le transport actif pour les électrolytes",
+      "Le placenta est totalement imperméable aux médicaments",
+      "Il fait intervenir la diffusion passive pour les molécules hydrophiles de poids moléculaire élevé"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "La diffusion transplacentaire fait intervenir la diffusion passive pour les molécules lipophiles et de faible poids moléculaire (a juste, e fausse) et le transport actif pour les acides aminés et les électrolytes (b, c justes). Le placenta n'est pas imperméable puisque des médicaments le traversent, avec des risques tératogènes et toxiques (d fausse).",
+    "source": {
+      "page": 9,
+      "extrait": "la diffusion passive pour les molécules médicamenteuses lipophiles et à faible poids moléculaire, le transport actif pour les acides aminés"
+    },
+    "difficulte": 2,
+    "tags": [
+      "placenta",
+      "barrière fœto-placentaire"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/04-distribution/qcm-057",
+    "type": "multiple",
+    "enonce": "Les conséquences du passage transplacentaire des médicaments citées par le cours sont :",
+    "options": [
+      "Un risque de malformation congénitale (effet tératogène)",
+      "Un risque d'intoxication du nouveau-né à la naissance",
+      "Un ictère nucléaire systématique",
+      "Une hypoalbuminémie fœtale de dilution",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Le cours cite deux conséquences : le risque de malformation congénitale, c'est-à-dire l'effet tératogène (a juste), et le risque d'intoxication du nouveau-né à la naissance (b juste). L'ictère nucléaire est lié à la perméabilité de la barrière hémato-méningée à la naissance et non au passage placentaire (c fausse). L'hypoalbuminémie de dilution concerne la mère enceinte (d fausse). e est fausse.",
+    "source": {
+      "page": 9,
+      "extrait": "→ Risque de malformation congénital : effet tératogène. → Risque d'intoxication à la naissance du nouveau-né."
+    },
+    "difficulte": 1,
+    "tags": [
+      "placenta",
+      "effet tératogène"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/04-distribution/qcm-058",
+    "type": "multiple",
+    "enonce": "Le transport actif à travers le placenta concerne, selon le cours :",
+    "options": [
+      "Les molécules médicamenteuses lipophiles",
+      "Les molécules de faible poids moléculaire",
+      "Les acides aminés",
+      "Les électrolytes",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      2,
+      3
+    ],
+    "explication": "Le cours précise que le transport actif concerne les acides aminés et les électrolytes (c, d justes). Les molécules lipophiles de faible poids moléculaire passent par diffusion passive (a, b fausses). La proposition e est donc fausse.",
+    "source": {
+      "page": 9,
+      "extrait": "le transport actif pour les acides aminés et les électrolytes."
+    },
+    "difficulte": 2,
+    "tags": [
+      "placenta",
+      "transport actif"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/04-distribution/qcm-059",
+    "type": "multiple",
+    "enonce": "Concernant le phénomène de redistribution :",
+    "options": [
+      "Le gradient de concentration est un des facteurs essentiels réglant la répartition plasma-tissus",
+      "Il concerne certains médicaments liposolubles",
+      "Il survient dans des organes à fort débit sanguin",
+      "Il correspond à une inversion du gradient avec des concentrations tissulaires plus élevées que plasmatiques",
+      "Il aboutit au retour du médicament du tissu vers le plasma"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Le gradient de concentration est un facteur essentiel de la répartition plasma-tissus (a juste). Pour certains médicaments liposolubles (b juste), la distribution peut être si rapide et intense dans certains organes à fort débit sanguin (c juste) qu'il y a inversion du gradient, avec des concentrations tissulaires plus élevées que plasmatiques (d juste), d'où le retour du médicament vers le plasma (e juste).",
+    "source": {
+      "page": 9,
+      "extrait": "on assiste à une inversion du gradient de concentration avec des concentrations plus élevées dans le tissu que dans le plasma"
+    },
+    "difficulte": 2,
+    "tags": [
+      "redistribution",
+      "gradient de concentration"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/04-distribution/qcm-060",
+    "type": "unique",
+    "enonce": "Le phénomène de redistribution concerne surtout :",
+    "options": [
+      "Des médicaments hydrophiles dans des tissus peu vascularisés",
+      "Des médicaments liposolubles dans des organes à fort débit sanguin",
+      "Des médicaments fortement liés aux leucocytes",
+      "Des médicaments éliminés par le rein sans diffusion tissulaire",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Le cours décrit la redistribution pour certains médicaments liposolubles dont la distribution est rapide et intense dans certains organes à fort débit sanguin (b juste). Les médicaments hydrophiles et les tissus peu vascularisés ne correspondent pas (a fausse). Les leucocytes n'interviennent pas dans le transport (c fausse). La proposition d n'a pas de rapport avec la redistribution. e est fausse.",
+    "source": {
+      "page": 9,
+      "extrait": "Pour certains médicaments liposolubles, la distribution tissulaire peut être si rapide et intense dans certains organes à fort débit sanguin"
+    },
+    "difficulte": 1,
+    "tags": [
+      "redistribution"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/04-distribution/qcm-061",
+    "type": "unique",
+    "enonce": "Lors du phénomène de redistribution, le sens du mouvement du médicament est :",
+    "options": [
+      "Du plasma vers le tissu, car la concentration plasmatique reste toujours supérieure",
+      "Du tissu vers le plasma, après inversion du gradient de concentration",
+      "Du tissu vers les éléments figurés du sang exclusivement",
+      "Du plasma vers les leucocytes",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "La redistribution correspond au retour du médicament du tissu vers le plasma, après inversion du gradient de concentration (concentrations tissulaires supérieures aux concentrations plasmatiques) (b juste, a fausse). Les propositions c et d ne correspondent pas au phénomène décrit. e est fausse.",
+    "source": {
+      "page": 9,
+      "extrait": "d'où le retour de ces médicaments vers le plasma."
+    },
+    "difficulte": 2,
+    "tags": [
+      "redistribution"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/04-distribution/qcm-062",
+    "type": "multiple",
+    "enonce": "Concernant la fixation des médicaments aux protéines plasmatiques :",
+    "options": [
+      "Elle est toujours irréversible",
+      "La forme liée est la seule forme éliminable",
+      "La forme liée est la forme active pharmacologiquement",
+      "Les leucocytes en sont les principaux transporteurs",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "La fixation est réversible (a fausse). Seule la fraction libre est éliminable (b fausse) et active pharmacologiquement (c fausse), la forme liée étant inactive. Les leucocytes n'interviennent pas dans le transport des médicaments, et il ne s'agit d'ailleurs pas de protéines plasmatiques (d fausse). Toutes les propositions a à d sont fausses, donc e est juste.",
+    "source": {
+      "page": 2,
+      "extrait": "La fixation des médicaments [M] sur les protéines plasmatiques [P] est un phénomène réversible"
+    },
+    "difficulte": 2,
+    "tags": [
+      "fixation protéique",
+      "piège"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/04-distribution/qcm-063",
+    "type": "multiple",
+    "enonce": "Concernant la barrière hémato-encéphalique :",
+    "options": [
+      "Ses capillaires sont formés de cellules endothéliales très lâches",
+      "Les principes actifs ionisés la traversent librement",
+      "La P-glycoprotéine favorise l'entrée des anticancéreux dans le cerveau",
+      "Sa perméabilité est diminuée en cas de méningite",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Les capillaires sont constitués de cellules endothéliales très serrées, et non lâches (a fausse). Seuls les principes actifs liposolubles et non ionisés la traversent (b fausse). La PGP rejette dans les capillaires les substances, en particulier les anticancéreux, ayant pénétré dans la cellule (c fausse). La perméabilité est accrue, et non diminuée, en cas de méningite (d fausse). Aucune proposition a–d n'est juste : e est juste.",
+    "source": {
+      "page": 8,
+      "extrait": "Seule les principes actifs liposolubles et non ionisée traversent cette barrière."
+    },
+    "difficulte": 2,
+    "tags": [
+      "barrière hémato-encéphalique",
+      "piège"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/04-distribution/qcm-064",
+    "type": "multiple",
+    "enonce": "Concernant les facteurs physiologiques de variation de la fixation protéique :",
+    "options": [
+      "Le nouveau-né présente une diminution de la bilirubine",
+      "La personne âgée présente une hyperalbuminémie",
+      "La grossesse s'accompagne d'une hyperalbuminémie",
+      "Chez le nouveau-né, l'albumine est structurellement identique à celle de l'adulte",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le nouveau-né présente une augmentation (et non une diminution) de la bilirubine et des acides gras (a fausse) ainsi qu'une modification structurale de l'albumine (d fausse). La personne âgée présente une hypoalbuminémie (b fausse) et la grossesse une hypoalbuminémie de dilution (c fausse). Toutes les propositions a–d sont fausses : e est juste.",
+    "source": {
+      "page": 5,
+      "extrait": "Personne âgé → Hypoalbuminémie."
+    },
+    "difficulte": 2,
+    "tags": [
+      "facteurs physiologiques",
+      "piège"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/04-distribution/qcm-065",
+    "type": "multiple",
+    "enonce": "Une hypoalbuminémie chez une personne âgée traitée par un médicament fortement fixé à l'albumine peut entraîner :",
+    "options": [
+      "Une diminution de la fraction liée du médicament",
+      "Une augmentation de la fraction libre, active, du médicament",
+      "Une modification possible du volume de distribution et de la demi-vie d'élimination",
+      "Une diminution de la fraction pharmacologiquement active",
+      "Aucune modification de l'effet du médicament"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "L'hypoalbuminémie de la personne âgée réduit la concentration de protéine liante, dont dépend la fixation : la fraction liée diminue (a juste) et la fraction libre, seule active, augmente (b juste, d fausse). Toute variation de la fixation modifie le Vd et la T1/2 (c juste). Pour un médicament fortement fixé, l'effet thérapeutique peut être modifié (e fausse).",
+    "source": {
+      "page": 5,
+      "extrait": "Personne âgé → Hypoalbuminémie."
+    },
+    "difficulte": 3,
+    "tags": [
+      "sujet âgé",
+      "hypoalbuminémie",
+      "fraction libre"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/04-distribution/qcm-066",
+    "type": "multiple",
+    "enonce": "La fixation aux protéines plasmatiques dépend :",
+    "options": [
+      "De la concentration de la protéine liante",
+      "De l'affinité du médicament pour la protéine",
+      "Des caractéristiques acido-basiques du médicament",
+      "Du pH sanguin",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le cours indique que la fixation dépend de la concentration de la protéine liante (a) et de l'affinité du médicament (b), ainsi que des caractéristiques acido-basiques des médicaments (c). Le pH sanguin est également un facteur influençant la fixation (d). Toutes les propositions sont correctes.",
+    "source": {
+      "page": 3,
+      "extrait": "La fixation aux protéines plasmatiques dépend des caractéristiques.:acido-basiques des médicaments."
+    },
+    "difficulte": 2,
+    "tags": [
+      "fixation protéique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/04-distribution/qcm-067",
+    "type": "multiple",
+    "enonce": "Parmi les propositions suivantes concernant le volume de distribution (Vd) dans ce cours, quelle(s) affirmation(s) est (sont) juste(s) ?",
+    "options": [
+      "Le Vd est modifié par toute variation de la fixation aux protéines plasmatiques",
+      "Un Vd faible (< 0,14 l/kg) majore le risque d'interaction par déplacement protéique",
+      "Un Vd faible est l'une des caractéristiques des médicaments dont l'effet thérapeutique est sensible aux variations de fixation",
+      "Un Vd élevé majore le risque d'interaction par déplacement protéique",
+      "Le Vd n'est pas un paramètre pharmacocinétique"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Toute variation de la fixation protéique modifie le Vd (a juste). Le risque d'interaction est d'autant plus élevé que le Vd est faible, < 0,14 l/kg (b juste, d fausse). Un Vd faible fait partie des caractéristiques des médicaments dont l'effet thérapeutique peut être modifié par une variation de fixation (c juste). Le cours cite le Vd parmi les paramètres pharmacocinétiques (e fausse).",
+    "source": {
+      "page": 5,
+      "extrait": "entraine une modification des paramètres pharmacocinétiques à savoir : - Le volume de distribution"
+    },
+    "difficulte": 2,
+    "tags": [
+      "volume de distribution"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/04-distribution/qcm-068",
+    "type": "multiple",
+    "enonce": "Concernant la fixation des médicaments sur l'albumine :",
+    "options": [
+      "L'albumine est l'une des deux principales protéines de fixation des médicaments",
+      "L'albumine possède des sites spécifiques pour certains médicaments",
+      "Le déplacement d'un médicament lié à l'albumine entraîne systématiquement des conséquences cliniques",
+      "Les acides gras libres et la bilirubine peuvent diminuer la fixation des médicaments",
+      "Chez le nouveau-né, l'albumine présente une modification structurale"
+    ],
+    "correctes": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "explication": "L'albumine est, avec l'α1 glycoprotéine acide, l'une des deux principales protéines de fixation (a juste) et possède des sites spécifiques (diazépam, warfarine, digitoxine) (b juste). Le déplacement n'entraîne des conséquences cliniques que dans quelques cas particuliers (c fausse). Acides gras libres et bilirubine diminuent la fixation (d juste). Chez le nouveau-né, l'albumine présente une modification structurale (e juste).",
+    "source": {
+      "page": 3,
+      "extrait": "Il existe des sites de fixation spécifique pour certains médicaments."
+    },
+    "difficulte": 2,
+    "tags": [
+      "albumine"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/04-distribution/qcm-069",
+    "type": "multiple",
+    "enonce": "Deux médicaments fortement liés (> 90 %) à l'albumine sont associés. Le médicament A, ayant la plus forte affinité, déplace le médicament B. On peut s'attendre à :",
+    "options": [
+      "Une augmentation de la fraction libre de B",
+      "Une augmentation de la fraction active de B",
+      "Un risque d'autant plus élevé que B a un index thérapeutique étroit",
+      "Un risque d'autant plus élevé que B a un volume de distribution faible",
+      "Une diminution de la fraction libre de B"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Le déplacement de B lié à l'albumine libère B : sa fraction libre, seule active, augmente (a, b justes ; e fausse). Le cours précise que le risque d'interaction est d'autant plus élevé que le pourcentage de fixation est > 90 %, que le Vd est faible (d juste) et que l'index thérapeutique est étroit (c juste).",
+    "source": {
+      "page": 4,
+      "extrait": "Le risque d'interaction entre les médicaments est d'autant plus élevé que"
+    },
+    "difficulte": 3,
+    "tags": [
+      "interactions médicamenteuses",
+      "déplacement",
+      "fraction libre"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/04-distribution/qcm-070",
+    "type": "multiple",
+    "enonce": "Concernant l'α1 glycoprotéine acide :",
+    "options": [
+      "Elle fait partie des deux principales protéines impliquées dans la fixation des médicaments",
+      "C'est une lipoprotéine de type HDL",
+      "Elle est une protéine plasmatique",
+      "Elle est un élément figuré du sang",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      0,
+      2
+    ],
+    "explication": "L'α1 glycoprotéine acide est, avec l'albumine, l'une des deux principales protéines de fixation (a juste) ; c'est une protéine plasmatique (c juste). Le cours la distingue des lipoprotéines (HDL, LDL, VLDL), listées séparément (b fausse). Ce n'est pas un élément figuré du sang (d fausse). e est donc fausse.",
+    "source": {
+      "page": 3,
+      "extrait": "L'albumine et l' α1 glycoprotéine acide sont les deux principales protéines impliquées"
+    },
+    "difficulte": 1,
+    "tags": [
+      "α1 glycoprotéine acide"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/04-distribution/qcm-071",
+    "type": "multiple",
+    "enonce": "Lors d'une acidose métabolique :",
+    "options": [
+      "L'affinité entre le médicament et la protéine liante peut être altérée",
+      "La conformation de la protéine liante peut être modifiée",
+      "La modification est liée à la fixation des protons sur la protéine",
+      "Il peut y avoir un déplacement du médicament entre milieux intra et extracellulaire",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "En acidose métabolique, l'affinité médicament-protéine peut être altérée (a) par modification de la conformation de la protéine (b) due à la fixation des protons (c). Plus généralement, toute variation du pH sanguin s'accompagne d'un déplacement du médicament entre milieux intra et extracellulaire (d). Toutes les propositions sont correctes.",
+    "source": {
+      "page": 4,
+      "extrait": "Exemple : Lors de l'acidose métabolique, l'affinité entre le médicament et la protéine liante peut être altérée"
+    },
+    "difficulte": 2,
+    "tags": [
+      "acidose métabolique",
+      "pH sanguin"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/04-distribution/qcm-072",
+    "type": "unique",
+    "enonce": "Le passage du médicament dans les tissus nécessite le franchissement des membranes cellulaires qui sont de nature :",
+    "options": [
+      "Phospholipidique",
+      "Exclusivement protéique",
+      "Glucidique",
+      "Aqueuse poreuse sans lipides",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Le cours précise que le passage des molécules du plasma vers les tissus nécessite le franchissement des membranes cellulaires de nature phospholipidique (a juste). Les autres natures proposées ne correspondent pas au cours (b, c, d fausses). e est fausse.",
+    "source": {
+      "page": 7,
+      "extrait": "nécessite le franchissement des membranes cellulaires de nature phospholipidique"
+    },
+    "difficulte": 1,
+    "tags": [
+      "membranes",
+      "mécanismes de diffusion"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/04-distribution/qcm-073",
+    "type": "multiple",
+    "enonce": "Concernant les molécules hydrophiles et la diffusion tissulaire :",
+    "options": [
+      "Elles traversent la membrane par diffusion passive",
+      "Leur passage est possible grâce à des transporteurs spécifiques",
+      "Le passage nécessite une affinité élevée pour ces transporteurs",
+      "Le passage peut se faire par transport actif",
+      "Le passage peut se faire par diffusion facilitée"
+    ],
+    "correctes": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "La diffusion passive concerne les molécules liposolubles non ionisées, pas les hydrophiles (a fausse). Pour les molécules hydrophiles, le passage est possible grâce à des transporteurs spécifiques (b juste) si l'affinité à ces transporteurs est élevée (c juste), par transport actif (d juste) ou par diffusion facilitée (e juste).",
+    "source": {
+      "page": 7,
+      "extrait": "pour les molécules hydrophiles, le passage Sera possible grâce aux transporteurs spécifiques si l'affinité à ces transporteurs est élevée"
+    },
+    "difficulte": 2,
+    "tags": [
+      "molécules hydrophiles",
+      "transporteurs"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/04-distribution/qcm-074",
+    "type": "multiple",
+    "enonce": "Concernant la distribution vers le foie et le rein :",
+    "options": [
+      "Le foie est le siège d'une intense activité métabolique",
+      "Le rein est le siège d'une activité excrétrice",
+      "La majorité des médicaments se concentrent au niveau du foie et du rein",
+      "Le foie et le rein sont des tissus richement vascularisés",
+      "Le foie et le rein sont des tissus peu vascularisés"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Le foie est le siège d'une intense activité métabolique (a juste) et le rein d'une activité excrétrice (b juste) ; la majorité des médicaments s'y concentrent (c juste). Ces deux organes font partie des tissus richement vascularisés (d juste, e fausse).",
+    "source": {
+      "page": 8,
+      "extrait": "au niveau du foie (siège. d'une intense activité métabolique) et du rein (siège d'une activité excrétrice)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "foie",
+      "rein",
+      "affinité tissulaire"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/04-distribution/qcm-075",
+    "type": "multiple",
+    "enonce": "Un médicament est administré à une femme enceinte. Selon le cours :",
+    "options": [
+      "Une hypoalbuminémie de dilution peut modifier sa fixation protéique",
+      "Les molécules lipophiles de faible poids moléculaire peuvent traverser le placenta par diffusion passive",
+      "Il existe un risque d'effet tératogène",
+      "Il existe un risque d'intoxication du nouveau-né à la naissance",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "La grossesse s'accompagne d'une hypoalbuminémie de dilution pouvant modifier la fixation (a juste). Les molécules lipophiles de faible poids moléculaire traversent le placenta par diffusion passive (b juste), avec un risque de malformation congénitale, effet tératogène (c juste), et d'intoxication du nouveau-né à la naissance (d juste). Toutes les propositions sont correctes.",
+    "source": {
+      "page": 9,
+      "extrait": "La diffusion transplacentaire fait intervenir la diffusion passive pour les molécules médicamenteuses lipophiles"
+    },
+    "difficulte": 2,
+    "tags": [
+      "grossesse",
+      "placenta"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/04-distribution/qcm-076",
+    "type": "multiple",
+    "enonce": "Le pourcentage de fixation aux protéines plasmatiques :",
+    "options": [
+      "Permet de classer les médicaments en fortement, moyennement et faiblement fixés",
+      "Fait partie de la nature du médicament influençant la fixation",
+      "Lorsqu'il est > 90 %, majore le risque d'interaction par déplacement",
+      "Lorsqu'il est faible, majore le risque d'interaction par déplacement",
+      "Est identique pour tous les médicaments"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Le pourcentage de fixation permet de classer les médicaments en fortement, moyennement et faiblement fixés (a juste). La nature du médicament (% de fixation, affinité) est un facteur influençant la fixation (b juste). Un pourcentage > 90 % majore le risque d'interaction (c juste, d fausse). Il varie d'un médicament à l'autre puisqu'il permet de les classer (e fausse).",
+    "source": {
+      "page": 3,
+      "extrait": "Permet de classer les médicaments en : fortement fixés, moÿennement fixés et faiblement fixés."
+    },
+    "difficulte": 2,
+    "tags": [
+      "pourcentage de fixation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/04-distribution/qcm-077",
+    "type": "multiple",
+    "enonce": "Concernant l'irrigation tissulaire :",
+    "options": [
+      "La vitesse de distribution vers un tissu est corrélée à sa vitesse d'irrigation",
+      "Le cœur et le cerveau reçoivent rapidement les médicaments car ils sont richement vascularisés",
+      "Les os et les dents sont des tissus très peu vascularisés",
+      "Le tissu adipeux est moyennement vascularisé",
+      "Les muscles sont peu vascularisés"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Il existe une corrélation entre la vitesse d'irrigation tissulaire et la vitesse de distribution (a juste) ; le cœur et le cerveau, richement vascularisés, reçoivent donc rapidement les médicaments (b juste). Les os et les dents sont très peu vascularisés (c juste). Le tissu adipeux est peu vascularisé, et non moyennement (d fausse). Les muscles sont moyennement vascularisés, et non peu (e fausse).",
+    "source": {
+      "page": 7,
+      "extrait": "Il existe une corrélation entre la vitesse d'irrigation tissulaire et la vitesse de distribution"
+    },
+    "difficulte": 3,
+    "tags": [
+      "irrigation",
+      "vascularisation des tissus"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/04-distribution/qcm-078",
+    "type": "multiple",
+    "enonce": "Concernant la loi d'action de masse appliquée à la fixation protéique :",
+    "options": [
+      "La fixation [M] + [P] ⇌ [M-P] est réversible",
+      "La fraction libre est en équilibre avec la fraction liée",
+      "La disparition de la forme libre déplace l'équilibre vers la libération de la forme liée",
+      "La forme liée ne peut jamais redevenir libre",
+      "La fixation dépend de la concentration de la protéine liante"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explication": "La fixation du médicament [M] sur la protéine [P] est un phénomène réversible qui répond à la loi d'action de masse (a juste). Les fractions libre et liée sont en équilibre (b juste) : quand la forme libre disparaît, il y a passage de la forme liée vers la forme libre (c juste, d fausse). La fixation dépend de la concentration de la protéine liante (e juste).",
+    "source": {
+      "page": 2,
+      "extrait": "est un phénomène réversible qui répond à la loi d'actio de masse."
+    },
+    "difficulte": 2,
+    "tags": [
+      "loi d'action de masse",
+      "équilibre libre-lié"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/04-distribution/qcm-079",
+    "type": "multiple",
+    "enonce": "Parmi les propositions suivantes, quelle(s) affirmation(s) est (sont) juste(s) ?",
+    "options": [
+      "Les hématies interviennent dans le transport des médicaments",
+      "Seule la fraction libre est éliminable",
+      "La forme liée constitue une réserve transitoire",
+      "Le tissu adipeux est richement vascularisé",
+      "Le placenta laisse passer les acides aminés par diffusion passive"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Les hématies interviennent dans le transport des médicaments, contrairement aux leucocytes (a juste). Seule la fraction libre est éliminable (b juste) et la forme liée est une forme de transport et de réserve transitoire (c juste). Le tissu adipeux est peu vascularisé (d fausse). Les acides aminés traversent le placenta par transport actif (e fausse).",
+    "source": {
+      "page": 6,
+      "extrait": "Les leucocytes n'interviennent pas dans le transport des médicaments contrairement aux hématies."
+    },
+    "difficulte": 2,
+    "tags": [
+      "synthèse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/04-distribution/qcm-080",
+    "type": "multiple",
+    "enonce": "Parmi les propositions suivantes, quelle(s) affirmation(s) est (sont) juste(s) ?",
+    "options": [
+      "La distribution est le processus de répartition du médicament dans l'ensemble des tissus et organes",
+      "La redistribution correspond au retour du médicament vers le plasma",
+      "Les passages vers les lieux d'action sont réversibles",
+      "La P-glycoprotéine est une pompe d'efflux vers les capillaires",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "La distribution se définit comme le processus de répartition du médicament dans l'ensemble des tissus et organes (a juste). La redistribution est le retour du médicament vers le plasma après inversion du gradient (b juste). Les passages vers les lieux d'action et de stockage sont réversibles (c juste). La PGP est une pompe qui rejette dans les capillaires des substances ayant pénétré dans la cellule (d juste). Toutes les propositions sont correctes.",
+    "source": {
+      "page": 9,
+      "extrait": "C'est le phénoméne de redistribution de ces médicaments vers le plasma."
+    },
+    "difficulte": 2,
+    "tags": [
+      "synthèse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/04-distribution/qcm-081",
+    "type": "multiple",
+    "enonce": "Parmi les propositions suivantes, quelle(s) affirmation(s) est (sont) fausse(s) ?",
+    "options": [
+      "Les liaisons covalentes sont le type de liaison le plus fréquent entre médicament et protéine",
+      "Seule la fraction libre est active pharmacologiquement",
+      "La personne âgée présente une hypoalbuminémie",
+      "Les muscles sont des tissus richement vascularisés",
+      "Le cerveau est un tissu richement vascularisé"
+    ],
+    "correctes": [
+      0,
+      3
+    ],
+    "explication": "La question demande les affirmations fausses. Les liaisons covalentes sont rares et en général irréversibles (a est fausse, donc à cocher). Seule la fraction libre est active (b vraie). La personne âgée présente une hypoalbuminémie (c vraie). Les muscles sont moyennement vascularisés (d est fausse, donc à cocher). Le cerveau est richement vascularisé (e vraie).",
+    "source": {
+      "page": 7,
+      "extrait": "tissus moyennement vascularisés : peau, muscles"
+    },
+    "difficulte": 3,
+    "tags": [
+      "synthèse",
+      "piège"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/04-distribution/qcm-082",
+    "type": "multiple",
+    "enonce": "Concernant la phase plasmatique de la distribution :",
+    "options": [
+      "Elle correspond au transport sanguin du médicament",
+      "Elle comprend la fixation aux protéines plasmatiques",
+      "Elle comprend la fixation aux éléments figurés du sang",
+      "Elle correspond à la diffusion du médicament dans les tissus",
+      "Elle se déroule avant la résorption du médicament"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "La phase plasmatique correspond au transport sanguin (a juste) et comprend la fixation aux protéines plasmatiques (b juste) et aux éléments figurés du sang (c juste). La diffusion tissulaire correspond à la phase tissulaire (d fausse). Le médicament se retrouve dans la circulation générale après résorption, et non avant (e fausse).",
+    "source": {
+      "page": 2,
+      "extrait": "II. La phase plasmatique (transport sanguin)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "phase plasmatique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/04-distribution/qcm-083",
+    "type": "multiple",
+    "enonce": "Un médicament M est faiblement fixé aux protéines plasmatiques, très liposoluble, non ionisé et possède une forte affinité pour les protéines tissulaires. On peut en déduire que :",
+    "options": [
+      "Sa distribution tissulaire sera importante",
+      "Il traverse facilement les membranes cellulaires par diffusion passive",
+      "Il est susceptible de franchir la barrière hémato-encéphalique",
+      "Il ne peut pas traverser le placenta",
+      "Sa distribution sera limitée par sa fixation plasmatique"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Selon le résumé du cours, une faible fixation plasmatique, une forte affinité tissulaire et une liposolubilité importante favorisent la distribution (a juste, e fausse). Une molécule liposoluble non ionisée franchit les membranes par diffusion passive (b juste) et peut traverser la BHE, que seuls les PA liposolubles non ionisés franchissent (c juste). Les molécules lipophiles de faible poids moléculaire traversent le placenta par diffusion passive (d fausse).",
+    "source": {
+      "page": 8,
+      "extrait": "Une liposolubilité importante (Capacité du médicament à franchir les parois vasculaires et cellulaires)."
+    },
+    "difficulte": 3,
+    "tags": [
+      "résumé",
+      "raisonnement"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/04-distribution/qcm-084",
+    "type": "unique",
+    "enonce": "Selon le cours, la liposolubilité importante d'un médicament traduit :",
+    "options": [
+      "Sa capacité à franchir les parois vasculaires et cellulaires",
+      "Son incapacité à franchir les membranes",
+      "Sa forte fixation aux protéines plasmatiques",
+      "Son caractère ionisé",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Le résumé du cours définit la liposolubilité importante comme la capacité du médicament à franchir les parois vasculaires et cellulaires (a juste, b fausse). Elle n'est pas définie par la fixation protéique (c fausse) et seule la fraction non ionisée traverse les membranes (d fausse). e est fausse.",
+    "source": {
+      "page": 8,
+      "extrait": "Capacité du médicament à franchir les parois vasculaires et cellulaires"
+    },
+    "difficulte": 1,
+    "tags": [
+      "liposolubilité"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/04-distribution/qcm-085",
+    "type": "multiple",
+    "enonce": "Concernant l'influence des facteurs pathologiques et de l'état du patient sur la distribution :",
+    "options": [
+      "Les facteurs pathologiques influencent le taux des protéines plasmatiques",
+      "La méningite augmente la perméabilité de la barrière hémato-méningée",
+      "Une baisse du débit régional diminue la fixation du médicament dans l'organe concerné",
+      "L'acidose métabolique peut altérer l'affinité médicament-protéine",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Les facteurs pathologiques influencent le taux des protéines plasmatiques (a juste). La méningite accroît pathologiquement la perméabilité de la barrière hémato-méningée (b juste). Une baisse du débit régional entraîne une moindre fixation dans l'organe (c juste). L'acidose métabolique peut altérer l'affinité par modification de conformation de la protéine (d juste). Toutes les propositions sont correctes.",
+    "source": {
+      "page": 9,
+      "extrait": "pathologiquement, en cas de méningite."
+    },
+    "difficulte": 2,
+    "tags": [
+      "facteurs pathologiques",
+      "synthèse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/04-distribution/qcm-086",
+    "type": "multiple",
+    "enonce": "Le rôle de la barrière hémato-encéphalique est de :",
+    "options": [
+      "Protéger les cellules nerveuses d'influences externes",
+      "Isoler le système nerveux central de la circulation sanguine",
+      "Faciliter l'entrée de toutes les substances dans le cerveau",
+      "Stocker les médicaments hydrophiles",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "La barrière hémato-encéphalique isole le SNC de la circulation sanguine (b juste) pour protéger les cellules nerveuses d'influences externes (a juste). Elle limite la diffusion des médicaments au lieu de la faciliter (c fausse) et n'a pas de rôle de stockage décrit (d fausse). e est fausse.",
+    "source": {
+      "page": 8,
+      "extrait": "isole le système nerveux central de la circulation sanguine pour protéger les cellules nerveuses d'influences externes"
+    },
+    "difficulte": 1,
+    "tags": [
+      "barrière hémato-encéphalique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/04-distribution/qcm-087",
+    "type": "multiple",
+    "enonce": "La fixation protéique et l'élimination d'un médicament :",
+    "options": [
+      "Seule la fraction libre est éliminable",
+      "La fraction liée est éliminée en priorité",
+      "L'élimination de la forme libre entraîne la libération progressive de la forme liée",
+      "Toute variation de la fixation peut modifier le temps de demi-vie d'élimination",
+      "La forme liée constitue une réserve transitoire"
+    ],
+    "correctes": [
+      0,
+      2,
+      3,
+      4
+    ],
+    "explication": "Seule la fraction libre est éliminable (a juste, b fausse). Au fur et à mesure de sa disparition par élimination, la forme liée passe vers la forme libre (c juste), la forme liée étant une réserve transitoire (e juste). Toute variation de la fixation modifie la T1/2 d'élimination (d juste).",
+    "source": {
+      "page": 2,
+      "extrait": "Au fur et à mesure de la disparition de la forme libre (par diffusion vers les tissus ou elimination)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "élimination",
+      "fraction libre"
+    ],
+    "origine": "genere"
+  }
+]

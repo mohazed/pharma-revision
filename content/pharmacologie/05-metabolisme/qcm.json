@@ -1,0 +1,2910 @@
+[
+  {
+    "id": "pharmacologie/05-metabolisme/qcm-001",
+    "type": "multiple",
+    "enonce": "Concernant le devenir du médicament dans l'organisme :",
+    "options": [
+      "Il comprend l'absorption, la distribution, le métabolisme et l'élimination",
+      "Après leur absorption, les médicaments sont distribués dans différentes zones de l'organisme",
+      "Tous les médicaments subissent obligatoirement une biotransformation",
+      "Certains médicaments sont éliminés tels quels, sans biotransformation",
+      "La plupart des médicaments ne subissent aucune biotransformation"
+    ],
+    "correctes": [
+      0,
+      1,
+      3
+    ],
+    "explication": "a) Juste : le devenir du médicament regroupe absorption, distribution, métabolisme et élimination. b) Juste : c'est ce que précise l'introduction. c) Fausse : certains médicaments ne subissent pas de biotransformation. d) Juste. e) Fausse : la plupart des médicaments en subissent une.",
+    "source": {
+      "page": 3,
+      "extrait": "Certains médicaments ne subissent pas de biotransformation dans l'organisme et sont éliminés tels quels, mais la plupart en subissent"
+    },
+    "difficulte": 1,
+    "tags": [
+      "introduction",
+      "ADME"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/qcm-002",
+    "type": "multiple",
+    "enonce": "Le métabolisme des médicaments (biotransformation) :",
+    "options": [
+      "Correspond à la transformation enzymatique d'un médicament",
+      "Donne un ou plusieurs composés appelés métabolites",
+      "Donne toujours des métabolites inactifs",
+      "Peut donner des métabolites toxiques",
+      "Est une transformation non enzymatique spontanée"
+    ],
+    "correctes": [
+      0,
+      1,
+      3
+    ],
+    "explication": "a) et b) Justes : c'est la définition du cours. c) Fausse : les métabolites peuvent être actifs, inactifs ou parfois toxiques. d) Juste. e) Fausse : il s'agit d'une transformation enzymatique.",
+    "source": {
+      "page": 4,
+      "extrait": "transformation enzymatique d'un médicament en un ou plusieurs composés, dits métabolites"
+    },
+    "difficulte": 1,
+    "tags": [
+      "définition"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/qcm-003",
+    "type": "multiple",
+    "enonce": "Les métabolites issus de la biotransformation peuvent être :",
+    "options": [
+      "Actifs pharmacologiquement",
+      "Inactifs pharmacologiquement",
+      "Parfois toxiques",
+      "Plus polaires que la molécule mère",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Selon la définition, les métabolites peuvent être actifs, inactifs ou parfois toxiques (a, b, c justes). Le métabolisme rend les substances plus polaires et plus hydrosolubles, donc plus facilement éliminées (d juste). Toutes les propositions sont donc correctes.",
+    "source": {
+      "page": 4,
+      "extrait": "Qui peuvent être actifs pharmacologiquement, inactifs pharmacologiquement ou parfois toxiques"
+    },
+    "difficulte": 1,
+    "tags": [
+      "définition",
+      "métabolites"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/qcm-004",
+    "type": "multiple",
+    "enonce": "Concernant le lieu du métabolisme des médicaments :",
+    "options": [
+      "La biotransformation a lieu exclusivement au niveau du foie",
+      "Le foie est le site principal de la biotransformation",
+      "Les reins, les poumons, l'intestin et la peau peuvent y participer",
+      "Le plasma ne participe pas à la biotransformation",
+      "Le cerveau et les glandes surrénales peuvent y participer"
+    ],
+    "correctes": [
+      1,
+      2,
+      4
+    ],
+    "explication": "a) Fausse : la biotransformation a lieu dans de nombreux tissus et organes. b) Juste : le foie en 1er lieu. c) Juste. d) Fausse : le plasma fait partie des organes participants cités (il contient aussi des estérases). e) Juste : glandes surrénales et cerveau sont cités.",
+    "source": {
+      "page": 5,
+      "extrait": "d'autres organes y participent : les reins, poumons, l'estomac, l'intestin, le plasma, la peau glandes surrénales, le cerveau"
+    },
+    "difficulte": 1,
+    "tags": [
+      "lieu du métabolisme"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/qcm-005",
+    "type": "multiple",
+    "enonce": "Le foie est le principal organe de biotransformation en raison de :",
+    "options": [
+      "Sa vascularisation",
+      "Son débit sanguin important",
+      "Sa localisation anatomique entre le tube digestif et le reste de l'organisme",
+      "Sa richesse en enzymes microsomales",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le cours cite quatre raisons : la localisation anatomique (rôle de « douane »), le débit sanguin, la vascularisation et la richesse en enzymes microsomales. Toutes les propositions sont correctes.",
+    "source": {
+      "page": 5,
+      "extrait": "sa localisation anatomique ... son débit sanguin ... sa vascularisation et sa richesse en enzymes microsomales"
+    },
+    "difficulte": 1,
+    "tags": [
+      "foie",
+      "lieu du métabolisme"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/qcm-006",
+    "type": "multiple",
+    "enonce": "Concernant la vascularisation hépatique décrite dans le cours :",
+    "options": [
+      "Le foie reçoit environ 1,5 L/min de sang par la veine porte",
+      "Le foie reçoit environ 350 mL/min de sang par l'artère hépatique",
+      "Le foie reçoit environ 1,5 L/min de sang par l'artère hépatique",
+      "Le foie reçoit environ 350 mL/min de sang par la veine porte",
+      "Le foie reçoit environ 15 L/min de sang par la veine porte"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "a) et b) Justes : veine porte ≈ 1,5 L/min et artère hépatique ≈ 350 mL/min. c) et d) Fausses : les valeurs sont inversées. e) Fausse : le chiffre est multiplié par dix.",
+    "source": {
+      "page": 5,
+      "extrait": "il reçoit par la veine porte environ 1.5L/min du sang et environ 350ml/mn du sang par l'artère hépatique"
+    },
+    "difficulte": 2,
+    "tags": [
+      "foie",
+      "débit sanguin"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/qcm-007",
+    "type": "unique",
+    "enonce": "Le rôle de « douane » attribué au foie signifie qu'il :",
+    "options": [
+      "Contrôle lors de leur premier passage toutes les molécules absorbées",
+      "Empêche toute molécule d'atteindre la circulation générale",
+      "Élimine exclusivement les métabolites de phase II",
+      "Contrôle uniquement les médicaments administrés par voie intraveineuse",
+      "Synthétise les protéines plasmatiques de transport"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "a) Juste : placé entre le tube digestif et le reste de l'organisme, le foie contrôle lors de leur premier passage toutes les molécules absorbées. b) Fausse : il n'empêche pas toute molécule de passer. c) Fausse : rien de tel dans le cours. d) Fausse : la voie IV ne subit pas d'EPP hépatique. e) Fausse : hors sujet.",
+    "source": {
+      "page": 5,
+      "extrait": "le foie joue le rôle de « douane » pour contrôler lors de leur premier passage toutes les molécules absorbées"
+    },
+    "difficulte": 1,
+    "tags": [
+      "foie",
+      "EPP"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/qcm-008",
+    "type": "multiple",
+    "enonce": "Au niveau cellulaire, la métabolisation des médicaments a lieu :",
+    "options": [
+      "Dans le réticulum endoplasmique (enzymes microsomales)",
+      "Dans le cytosol (enzymes cytosoliques)",
+      "Principalement au niveau du noyau cellulaire",
+      "À moindre degré dans les mitochondries",
+      "À moindre degré au niveau de la membrane nucléaire et de la membrane cytoplasmique"
+    ],
+    "correctes": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "explication": "a) et b) Justes : RE (enzymes microsomales) et cytosol (enzymes cytosoliques). c) Fausse : le noyau n'est pas un site principal ; seule la membrane nucléaire intervient à moindre degré. d) et e) Justes : mitochondries, membrane nucléaire et cytoplasmique à moindre degré.",
+    "source": {
+      "page": 7,
+      "extrait": "la métabolisation a lieu dans le R.E (enzymes microsomales) et dans le cytosol (enzymes cytosoliques), et à moindre degré dans les mitochondries"
+    },
+    "difficulte": 2,
+    "tags": [
+      "lieu du métabolisme",
+      "cellule"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/qcm-009",
+    "type": "multiple",
+    "enonce": "Les enzymes microsomales sont localisées :",
+    "options": [
+      "Dans le cytosol",
+      "Dans le réticulum endoplasmique",
+      "Dans les lysosomes",
+      "Dans les mitochondries",
+      "Dans le noyau"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Selon le cours, les enzymes microsomales sont celles du R.E ; le cytosol contient les enzymes cytosoliques. Les mitochondries ne participent qu'à moindre degré, les lysosomes ne sont pas cités et le noyau n'est pas un site de métabolisation.",
+    "source": {
+      "page": 7,
+      "extrait": "Au niveau cellulaire la métabolisation a lieu dans le R.E (enzymes microsomales)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "enzymes microsomales"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/qcm-010",
+    "type": "multiple",
+    "enonce": "L'intérêt du métabolisme des médicaments est de :",
+    "options": [
+      "Diminuer la liposolubilité des molécules",
+      "Augmenter l'hydrosolubilité des molécules",
+      "Rendre les substances plus polaires",
+      "Faciliter l'élimination des substances",
+      "Augmenter la liposolubilité pour favoriser la réabsorption"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Le métabolisme diminue la liposolubilité et augmente l'hydrosolubilité, rendant les substances plus polaires et plus facilement éliminées (a à d justes). e) Fausse : c'est l'inverse.",
+    "source": {
+      "page": 8,
+      "extrait": "Substances plus polaires Plus facilement éliminées"
+    },
+    "difficulte": 1,
+    "tags": [
+      "intérêt du métabolisme"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/qcm-011",
+    "type": "multiple",
+    "enonce": "D'après la conclusion du cours, le métabolisme :",
+    "options": [
+      "Participe à l'élimination des médicaments de l'organisme",
+      "Transforme des principes actifs liposolubles en molécules hydrosolubles",
+      "Facilite l'élimination par des milieux aqueux comme l'urine, la bile ou la salive",
+      "Conditionne la voie d'administration, le rythme d'administration et la posologie",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes ces affirmations figurent dans la conclusion : le métabolisme participe à l'élimination, transforme les PA liposolubles en molécules hydrosolubles éliminées par l'urine, la bile ou la salive, et conditionne voie, rythme d'administration et posologie.",
+    "source": {
+      "page": 39,
+      "extrait": "transformer les principes actifs liposolubles en molécules hydrosolubles facilement éliminées par les milieux aqueux tels que l'urine, la bile ou la salive"
+    },
+    "difficulte": 1,
+    "tags": [
+      "conclusion",
+      "intérêt du métabolisme"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/qcm-012",
+    "type": "multiple",
+    "enonce": "Concernant les conséquences du métabolisme :",
+    "options": [
+      "La spironolactone donne un métabolite actif, la canrénone",
+      "Le paracétamol donne un métabolite toxique, la NAPQI",
+      "La carbamazépine (active) donne un métabolite actif, l'époxycarbamazépine",
+      "Le phénobarbital (actif) donne un métabolite inactif, l'hydroxyphénobarbital",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Les quatre exemples sont ceux du cours : spironolactone → canrénone (actif à partir d'une molécule initialement inactive), carbamazépine → époxycarbamazépine (actif à partir d'actif), phénobarbital → hydroxyphénobarbital (inactif à partir d'actif), paracétamol → NAPQI (toxique). Toutes sont correctes.",
+    "source": {
+      "page": 9,
+      "extrait": "Formation de métabolite actif à partir d'une molécule active : Carbamazépine Epoxycarbamazépine"
+    },
+    "difficulte": 2,
+    "tags": [
+      "conséquences du métabolisme"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/qcm-013",
+    "type": "unique",
+    "enonce": "Exemple de formation d'un métabolite actif à partir d'une molécule initialement inactive :",
+    "options": [
+      "Spironolactone → canrénone",
+      "Carbamazépine → époxycarbamazépine",
+      "Phénobarbital → hydroxyphénobarbital",
+      "Paracétamol → NAPQI",
+      "Aspirine → acide salicylique"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "a) Juste : c'est l'exemple du cours pour la formation d'un métabolite actif à partir d'une molécule initialement inactive. b) Fausse : actif à partir d'actif. c) Fausse : inactif à partir d'actif. d) Fausse : métabolite toxique. e) Fausse : exemple d'hydrolyse, non classé ainsi dans le cours.",
+    "source": {
+      "page": 9,
+      "extrait": "Formation d'un métabolite actif à partir d'une molécule initialement inactive : Spironolactone Conrenone"
+    },
+    "difficulte": 2,
+    "tags": [
+      "conséquences du métabolisme",
+      "prodrogue"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/qcm-014",
+    "type": "unique",
+    "enonce": "La transformation du phénobarbital en hydroxyphénobarbital illustre :",
+    "options": [
+      "La formation d'un métabolite actif à partir d'une molécule active",
+      "La formation d'un métabolite réactif toxique",
+      "Une réaction de glucuroconjugaison",
+      "La formation d'un métabolite actif à partir d'une molécule inactive",
+      "La formation d'un métabolite inactif à partir d'une molécule active"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le cours classe phénobarbital → hydroxyphénobarbital comme formation d'un métabolite inactif à partir d'une molécule active. Les autres catégories correspondent respectivement à la carbamazépine, la spironolactone et le paracétamol ; la glucuroconjugaison n'est pas évoquée ici.",
+    "source": {
+      "page": 9,
+      "extrait": "Formation d'un métabolite inactif à partir d'une molécule active : Phénobarbital Hydroxyphénnobarbital"
+    },
+    "difficulte": 2,
+    "tags": [
+      "conséquences du métabolisme"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/qcm-015",
+    "type": "multiple",
+    "enonce": "Concernant le métabolite toxique du paracétamol :",
+    "options": [
+      "Il s'agit de la N-acétyl-p-benzoquinone imine (NAPQI)",
+      "Il est responsable d'une hépatite cytotoxique",
+      "Il se fixe par des liaisons covalentes aux protéines tissulaires du foie",
+      "Aux doses thérapeutiques, il est neutralisé par le glutathion",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes les affirmations sont dans le cours : la NAPQI, métabolite réactif du paracétamol, est responsable de l'hépatite cytotoxique par fixation covalente aux protéines hépatiques ; aux doses thérapeutiques elle est neutralisée par le glutathion.",
+    "source": {
+      "page": 9,
+      "extrait": "Aux doses thérapeutiques, le N-acétyl-p-benzo-quinone-imine est neutralisé par le glutathion"
+    },
+    "difficulte": 1,
+    "tags": [
+      "paracétamol",
+      "métabolites réactifs"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/qcm-016",
+    "type": "multiple",
+    "enonce": "En cas de surdosage en paracétamol :",
+    "options": [
+      "Le système de détoxication glutathionique se trouve saturé et dépassé",
+      "Une nécrose hépatique peut apparaître",
+      "La NAPQI est entièrement neutralisée par le glutathion",
+      "La toxicité est due à une liaison réversible de la NAPQI à l'albumine plasmatique",
+      "Aucun métabolite réactif n'est formé"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "a) et b) Justes : le système glutathionique est saturé et dépassé, d'où la nécrose hépatique. c) Fausse : c'est le cas aux doses thérapeutiques seulement. d) Fausse : la NAPQI se fixe par liaisons covalentes aux protéines tissulaires du foie. e) Fausse.",
+    "source": {
+      "page": 9,
+      "extrait": "En cas de surdosage par le paracétamol, le système de détoxication glutathionique se trouve saturé et dépassé d'où apparition de nécrose hépatique"
+    },
+    "difficulte": 2,
+    "tags": [
+      "paracétamol",
+      "toxicité"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/qcm-017",
+    "type": "multiple",
+    "enonce": "Les métabolites réactifs :",
+    "options": [
+      "Sont des dérivés toxiques issus du métabolisme de certains médicaments",
+      "Ne sont jamais formés à partir de médicaments actifs",
+      "Sont illustrés par la NAPQI du paracétamol",
+      "Se fixent exclusivement par des liaisons faibles réversibles",
+      "Sont toujours neutralisés quelle que soit la dose"
+    ],
+    "correctes": [
+      0,
+      2
+    ],
+    "explication": "a) Juste : le cours appelle métabolites réactifs les dérivés toxiques du métabolisme. b) Fausse : le paracétamol, molécule active, donne la NAPQI. c) Juste. d) Fausse : la NAPQI se fixe par liaisons covalentes. e) Fausse : en surdosage le glutathion est dépassé.",
+    "source": {
+      "page": 9,
+      "extrait": "le métabolisme de certains médicaments donne naissance à des dérivés toxiques qu'on appelle métabolites réactifs"
+    },
+    "difficulte": 2,
+    "tags": [
+      "métabolites réactifs"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/qcm-018",
+    "type": "multiple",
+    "enonce": "Concernant les voies métaboliques :",
+    "options": [
+      "On distingue deux grandes phases : phase I et phase II",
+      "La phase I correspond aux réactions de fonctionnalisation",
+      "La phase II correspond aux réactions de conjugaison",
+      "La phase I est obligatoire avant toute réaction de phase II",
+      "Certains médicaments peuvent subir directement la phase II"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explication": "a), b), c) Justes : phase I = fonctionnalisation, phase II = conjugaison. d) Fausse : la phase I n'est pas obligatoire. e) Juste : certains médicaments subissent directement la phase II.",
+    "source": {
+      "page": 10,
+      "extrait": "La phase I n'est pas obligatoire , certains mdts peuvent subir directement la phase II"
+    },
+    "difficulte": 1,
+    "tags": [
+      "voies métaboliques",
+      "phase I",
+      "phase II"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/qcm-019",
+    "type": "multiple",
+    "enonce": "Les réactions de phase I :",
+    "options": [
+      "Visent à créer sur les molécules des sites de conjugaison",
+      "Donnent naissance à des métabolites actifs, inactifs ou toxiques",
+      "Modifient la structure primaire de la drogue",
+      "Introduisent ou démasquent des groupes fonctionnels",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes ces caractéristiques sont citées par le cours : les réactions de phase I introduisent ou démasquent des groupes fonctionnels, modifient la structure primaire, donnent des métabolites actifs, inactifs ou toxiques et créent des sites de conjugaison.",
+    "source": {
+      "page": 10,
+      "extrait": "Phase I:Introduisent ou démasquent des groupes fonctionnels"
+    },
+    "difficulte": 1,
+    "tags": [
+      "phase I"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/qcm-020",
+    "type": "multiple",
+    "enonce": "Les réactions de phase I comprennent :",
+    "options": [
+      "L'oxydation",
+      "La réduction",
+      "L'hydrolyse",
+      "La glucuroconjugaison",
+      "L'acétylation"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Les réactions de phase I sont l'oxydation, la réduction et l'hydrolyse (a, b, c justes). La glucuroconjugaison et l'acétylation sont des réactions de phase II (conjugaison).",
+    "source": {
+      "page": 12,
+      "extrait": "On trouve les réactions d'oxydation, de réduction et d'hydrolyse"
+    },
+    "difficulte": 1,
+    "tags": [
+      "phase I"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/qcm-021",
+    "type": "multiple",
+    "enonce": "Les réactions de phase I aboutissent à :",
+    "options": [
+      "La formation de métabolites à groupements polaires",
+      "La création de sites de conjugaison",
+      "Des métabolites toujours inactifs",
+      "Des métabolites porteurs de groupes OH, NH2 ou COOH",
+      "La fixation obligatoire d'acide glucuronique"
+    ],
+    "correctes": [
+      0,
+      1,
+      3
+    ],
+    "explication": "a) et b) Justes. c) Fausse : les métabolites de phase I peuvent être actifs, inactifs ou toxiques. d) Juste : groupes hydroxyles, amines ou carboxyles. e) Fausse : la fixation d'acide glucuronique est une réaction de phase II, non obligatoire.",
+    "source": {
+      "page": 16,
+      "extrait": "Les métabolites formés par les réactions de phase I ont des groupes fonctionnels hydroxyles (OH), amines (NH2) ou carboxyles (COOH)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "phase I"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/qcm-022",
+    "type": "multiple",
+    "enonce": "Concernant la réaction d'oxydation :",
+    "options": [
+      "C'est la réaction la plus importante de la phase I",
+      "Elle fait intervenir des mono-oxygénases",
+      "Les enzymes impliquées sont principalement réparties dans le RE du foie",
+      "Les enzymes impliquées sont présentes exclusivement dans le foie",
+      "Elle est peu courante"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "a), b), c) Justes. d) Fausse : les mono-oxygénases sont principalement dans le RE du foie mais aussi dans d'autres tissus. e) Fausse : c'est la réduction qui est peu courante.",
+    "source": {
+      "page": 13,
+      "extrait": "C'est la réaction la plus importante de la phase I"
+    },
+    "difficulte": 1,
+    "tags": [
+      "oxydation",
+      "phase I"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/qcm-023",
+    "type": "multiple",
+    "enonce": "Les cytochromes P450 (CYP450) :",
+    "options": [
+      "Catalysent l'oxydation par l'oxygène moléculaire",
+      "Forment une superfamille d'isoenzymes",
+      "Sont des hémoprotéines membranaires",
+      "Ont une localisation microsomale",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Selon le cours, le CYP est une hémoprotéine membranaire de localisation microsomale formant une superfamille d'isoenzymes qui catalysent l'oxydation par l'oxygène moléculaire. Toutes les propositions sont correctes.",
+    "source": {
+      "page": 13,
+      "extrait": "CYP: est une hémoproteine membranaire de localisation microsomale et forme une superfamille d'isoenzymes"
+    },
+    "difficulte": 1,
+    "tags": [
+      "CYP450"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/qcm-024",
+    "type": "multiple",
+    "enonce": "La classification des cytochromes P450 en familles et sous-familles repose sur :",
+    "options": [
+      "Leur localisation tissulaire",
+      "L'homologie des séquences d'acides aminés",
+      "Leur poids moléculaire",
+      "Le substrat qu'ils métabolisent",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Les isoenzymes CYP se subdivisent en familles et sous-familles en fonction de l'homologie des séquences d'acides aminés (a juste). Les autres critères ne sont pas ceux du cours.",
+    "source": {
+      "page": 13,
+      "extrait": "se subdivisent en différentes familles et sous-familles en fonction de l'homologie des séquences d'Acides aminés"
+    },
+    "difficulte": 2,
+    "tags": [
+      "CYP450",
+      "nomenclature"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/qcm-025",
+    "type": "multiple",
+    "enonce": "Les familles de CYP450 principalement concernées par le métabolisme des médicaments sont :",
+    "options": [
+      "CYP2",
+      "CYP11",
+      "CYP1",
+      "CYP4",
+      "CYP3"
+    ],
+    "correctes": [
+      0,
+      2,
+      4
+    ],
+    "explication": "Les familles CYP1, CYP2 et CYP3 sont les principales concernées par le métabolisme des médicaments ; les autres sont impliquées dans la synthèse ou le métabolisme des stéroïdes ou des acides gras et dérivés.",
+    "source": {
+      "page": 13,
+      "extrait": "Les familles CYP1, CYP2 et CYP3 sont les principales concernées par le métabolisme des médicaments"
+    },
+    "difficulte": 1,
+    "tags": [
+      "CYP450"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/qcm-026",
+    "type": "multiple",
+    "enonce": "Les familles de CYP450 autres que CYP1, CYP2 et CYP3 :",
+    "options": [
+      "Sont impliquées dans la synthèse ou le métabolisme des stéroïdes",
+      "Sont impliquées dans le métabolisme des acides gras et dérivés",
+      "Sont les principales responsables du métabolisme des médicaments",
+      "N'existent pas",
+      "Sont toutes de localisation mitochondriale exclusive"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "a) et b) Justes : les autres familles sont impliquées dans la synthèse ou le métabolisme des stéroïdes ou des acides gras. c) Fausse : ce sont CYP1, 2 et 3. d) Fausse. e) Fausse : non mentionné ; le CYP est décrit comme microsomal.",
+    "source": {
+      "page": 13,
+      "extrait": "les autres sont impliquées dans la synthèse ou le métabolisme des stéroïdes ou des acides gras et dérivés"
+    },
+    "difficulte": 2,
+    "tags": [
+      "CYP450"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/qcm-027",
+    "type": "multiple",
+    "enonce": "Dans la nomenclature « CYP3A4 » :",
+    "options": [
+      "« 3 » désigne la famille",
+      "« A » désigne la sous-famille",
+      "« 4 » désigne le gène",
+      "« A » désigne la famille",
+      "« 3 » désigne le gène"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Selon le tableau du cours : CYP = P450, 3 = famille, A = sous-famille, 4 = gène. d) et e) inversent les rôles.",
+    "source": {
+      "page": 14,
+      "extrait": "CYP 3 A 4 P450 famille Sous-famille gène"
+    },
+    "difficulte": 2,
+    "tags": [
+      "CYP450",
+      "nomenclature"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/qcm-028",
+    "type": "multiple",
+    "enonce": "Parmi les isoenzymes suivantes, lesquelles sont citées par le cours comme CYP impliqués dans l'oxydation des médicaments ?",
+    "options": [
+      "CYP3A4",
+      "CYP2C9",
+      "CYP2C19",
+      "CYP1A2",
+      "CYP2D6"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Le cours cite CYP3A4, CYP2D6, CYP2C9, CYP2C19 et CYP1A2 : toutes les propositions sont justes.",
+    "source": {
+      "page": 14,
+      "extrait": "CYP 3A4, CYP2D6, CYP2C9,CYP2C19, CYP1A2"
+    },
+    "difficulte": 1,
+    "tags": [
+      "CYP450"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/qcm-029",
+    "type": "multiple",
+    "enonce": "Concernant la réaction de réduction (phase I) :",
+    "options": [
+      "La transformation de la prednisone en prednisolone en est un exemple",
+      "Elle est peu courante",
+      "Les enzymes impliquées sont des réductases",
+      "Elle concerne les aldéhydes, les cétones et les composés nitrés",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes les affirmations figurent dans le cours : la réduction est peu courante, concerne aldéhydes, cétones, composés nitrés et azotés, est catalysée par des réductases ; exemple : prednisone → prednisolone.",
+    "source": {
+      "page": 15,
+      "extrait": "Les composés possédant des fonctions susceptibles d'être réduites: aldéhydes, cétones, composés nitrés (-NO2), composés azotés"
+    },
+    "difficulte": 1,
+    "tags": [
+      "réduction",
+      "phase I"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/qcm-030",
+    "type": "unique",
+    "enonce": "La transformation prednisone → prednisolone est un exemple de :",
+    "options": [
+      "Oxydation",
+      "Réduction",
+      "Acétylation",
+      "Glucuroconjugaison",
+      "Hydrolyse"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Le cours donne prednisone → prednisolone comme exemple de réaction de réduction catalysée par des réductases.",
+    "source": {
+      "page": 15,
+      "extrait": "Les enzymes sont des réductases. Exp: Prednisone Prednisolone"
+    },
+    "difficulte": 1,
+    "tags": [
+      "réduction"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/qcm-031",
+    "type": "multiple",
+    "enonce": "Concernant la réaction d'hydrolyse (phase I) :",
+    "options": [
+      "Elle concerne des liaisons esters, amides et des composés phosphorés",
+      "Elle est catalysée par des estérases non spécifiques et des amidases",
+      "L'aspirine est hydrolysée en acide salicylique et acide acétique",
+      "Le plasma contient de grandes quantités d'estérases",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes les propositions sont dans le cours : liaisons sensibles (esters, amides, composés phosphorés), estérases non spécifiques et amidases présentes dans les tissus des mammifères y compris le plasma, exemple de l'aspirine.",
+    "source": {
+      "page": 16,
+      "extrait": "Les tissus des mammifères, y copris le plasma, contiennent de grandes quantités d'estérases non spécifiques et d'amidases"
+    },
+    "difficulte": 1,
+    "tags": [
+      "hydrolyse",
+      "phase I"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/qcm-032",
+    "type": "multiple",
+    "enonce": "L'hydrolyse de l'aspirine donne :",
+    "options": [
+      "Du glutathion",
+      "De l'acide acétique",
+      "De la prednisolone",
+      "De l'acide glucuronique",
+      "De l'acide salicylique"
+    ],
+    "correctes": [
+      1,
+      4
+    ],
+    "explication": "Le cours donne : aspirine → acide salicylique + acide acétique. Les autres composés n'en sont pas issus.",
+    "source": {
+      "page": 16,
+      "extrait": "Exp: Aspirine Acide salicilique + acide acétique"
+    },
+    "difficulte": 1,
+    "tags": [
+      "hydrolyse",
+      "aspirine"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/qcm-033",
+    "type": "multiple",
+    "enonce": "Les enzymes responsables des hydrolyses des médicaments :",
+    "options": [
+      "Sont des estérases non spécifiques",
+      "Sont des amidases",
+      "Sont absentes du plasma",
+      "Sont des mono-oxygénases à cytochrome P450",
+      "Sont des transférases nécessitant de l'ATP"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "a) et b) Justes. c) Fausse : le plasma contient de grandes quantités d'estérases. d) Fausse : les mono-oxygénases catalysent l'oxydation. e) Fausse : les transférases catalysent la phase II.",
+    "source": {
+      "page": 16,
+      "extrait": "contiennent de grandes quantités d'estérases non spécifiques et d'amidases responsables de ces hydrolyses"
+    },
+    "difficulte": 2,
+    "tags": [
+      "hydrolyse",
+      "enzymes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/qcm-034",
+    "type": "multiple",
+    "enonce": "Si les produits de phase I ne sont pas éliminés rapidement dans l'urine :",
+    "options": [
+      "Ils réagissent avec des composés endogènes",
+      "Ils forment des conjugués hautement solubles dans l'eau",
+      "Ils subissent des réactions de phase II",
+      "Ils deviennent systématiquement plus liposolubles",
+      "Ils sont obligatoirement stockés dans le tissu adipeux"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "a), b), c) Justes : ils réagissent avec des composés endogènes pour former des conjugués hautement hydrosolubles (phase II). d) et e) Fausses : la conjugaison augmente l'hydrosolubilité.",
+    "source": {
+      "page": 16,
+      "extrait": "ils vont réagir avec des composés endogènes pour former des conjugués hautement solubles dans l'eau"
+    },
+    "difficulte": 2,
+    "tags": [
+      "phase I",
+      "phase II"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/qcm-035",
+    "type": "multiple",
+    "enonce": "Parmi les associations réaction / type suivantes, lesquelles sont exactes ?",
+    "options": [
+      "Oxydation → phase I",
+      "Hydrolyse → phase II",
+      "Sulfoconjugaison → phase II",
+      "Réduction → phase I",
+      "Acétylation → phase I"
+    ],
+    "correctes": [
+      0,
+      2,
+      3
+    ],
+    "explication": "Oxydation, réduction et hydrolyse appartiennent à la phase I ; sulfoconjugaison et acétylation à la phase II. b) et e) sont donc fausses.",
+    "source": {
+      "page": 12,
+      "extrait": "R° d'Oxydation R° de Réduction R° d'Hydrolyse"
+    },
+    "difficulte": 1,
+    "tags": [
+      "phase I",
+      "phase II"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/qcm-036",
+    "type": "multiple",
+    "enonce": "Les réactions de biotransformation de phase II :",
+    "options": [
+      "Sont des réactions de conjugaison",
+      "Consistent en le rattachement de petites molécules polaires endogènes",
+      "Peuvent porter sur le médicament lui-même ou sur les métabolites de la phase I",
+      "Sont des réactions de fonctionnalisation",
+      "Font toujours suite à des réactions de phase I"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "a), b), c) Justes : la phase II rattache de petites molécules polaires endogènes (acide glucuronique, sulfate, acides aminés) au médicament ou aux métabolites de phase I. d) Fausse : la fonctionnalisation est la phase I. e) Fausse : la phase I n'est pas obligatoire.",
+    "source": {
+      "page": 18,
+      "extrait": "rattachement de petites molécules polaires endogènes comme: l'acide glucuronique, le sulfate, les aminoacides au médicament ou aux métabolites de la phase I"
+    },
+    "difficulte": 1,
+    "tags": [
+      "phase II"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/qcm-037",
+    "type": "multiple",
+    "enonce": "Les réactions de phase II :",
+    "options": [
+      "Produisent des métabolites plus solubles dans l'eau, rapidement excrétés",
+      "Sont catalysées par des transférases spécifiques",
+      "Produisent des métabolites très souvent inactifs",
+      "Nécessitent un apport énergétique (ATP)",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes les propositions sont dans le cours : transférases spécifiques, besoin d'ATP, métabolites très souvent inactifs, plus hydrosolubles et rapidement excrétés.",
+    "source": {
+      "page": 22,
+      "extrait": "Les réactions sont catalysées par des transférases spécifiques et nécessitent un apport énergétique (ATP)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "phase II"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/qcm-038",
+    "type": "multiple",
+    "enonce": "Les métabolites issus des réactions de phase II sont généralement :",
+    "options": [
+      "Polaires",
+      "Hydrosolubles",
+      "Rapidement excrétés",
+      "Plus liposolubles que la molécule de départ",
+      "Toujours toxiques"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Le schéma du cours décrit les conjugués comme inactifs, polaires et hydrosolubles ; ils sont rapidement excrétés (a, b, c justes). d) Fausse : ils sont plus hydrosolubles. e) Fausse : ils sont très souvent inactifs.",
+    "source": {
+      "page": 22,
+      "extrait": "Les métabolites produits très souvent inactifs sont plus solubles dans l'eau et seront rapidement excrétés"
+    },
+    "difficulte": 1,
+    "tags": [
+      "phase II"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/qcm-039",
+    "type": "multiple",
+    "enonce": "Parmi les molécules endogènes utilisées dans les réactions de conjugaison, le cours cite :",
+    "options": [
+      "Les acides aminés",
+      "L'acide glucuronique",
+      "Le glutathion",
+      "Le sulfate",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le cours cite l'acide glucuronique, l'ion sulfate, les acides aminés (glycine, glutamine), le glutathion, ainsi que l'acétate et le groupement méthyle. Toutes les propositions sont correctes.",
+    "source": {
+      "page": 18,
+      "extrait": "Acide glucuronique Ion sulfate Glutathion"
+    },
+    "difficulte": 1,
+    "tags": [
+      "phase II",
+      "conjugaison"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/qcm-040",
+    "type": "multiple",
+    "enonce": "Concernant la glucuroconjugaison :",
+    "options": [
+      "L'enzyme impliquée est une enzyme microsomale",
+      "C'est la conjugaison la plus importante (+++)",
+      "Elle est catalysée par l'UDP-glucuronyl-transférase",
+      "L'oxazépam et l'aspirine en sont des exemples",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Selon le cours : glucuroconjugaison +++, enzyme = UDP glucuronyl-transférase (uridine diphosphate glucuronyl transférase), enzyme microsomale ; exemples : oxazépam, aspirine. Toutes les propositions sont correctes.",
+    "source": {
+      "page": 19,
+      "extrait": "L'enzyme : UDP glucuronyl-transférase, (uridine diphosphate glucuronyl transférase) enzyme microsomale"
+    },
+    "difficulte": 1,
+    "tags": [
+      "glucuroconjugaison"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/qcm-041",
+    "type": "unique",
+    "enonce": "L'UDP-glucuronyl-transférase est :",
+    "options": [
+      "Une estérase plasmatique",
+      "Une mono-oxygénase à cytochrome P450",
+      "Une enzyme mitochondriale",
+      "Une enzyme microsomale",
+      "Une enzyme cytosolique exclusive"
+    ],
+    "correctes": [
+      3
+    ],
+    "explication": "Le cours précise que l'UDP glucuronyl-transférase (uridine diphosphate glucuronyl transférase) est une enzyme microsomale, catalysant la glucuroconjugaison.",
+    "source": {
+      "page": 19,
+      "extrait": "uridine diphosphate glucuronyl transférase) enzyme microsomale"
+    },
+    "difficulte": 2,
+    "tags": [
+      "glucuroconjugaison",
+      "enzymes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/qcm-042",
+    "type": "multiple",
+    "enonce": "Associez correctement réaction de conjugaison et enzyme :",
+    "options": [
+      "Conjugaison au glutathion → glutathion-S-transférase",
+      "N-transméthylation → méthyltransférase",
+      "Sulfoconjugaison → sulfotransférase",
+      "Acétylation → N-acétyl-transférase",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes les associations sont exactes d'après le cours : sulfotransférase, N-acétyle-transférase, méthyltransférase et glutathion-S-transférase.",
+    "source": {
+      "page": 20,
+      "extrait": "L'enzyme: Glutathion-S-transférase. Exp: Paracétamol"
+    },
+    "difficulte": 2,
+    "tags": [
+      "phase II",
+      "enzymes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/qcm-043",
+    "type": "multiple",
+    "enonce": "Associez correctement réaction de conjugaison et exemple du cours :",
+    "options": [
+      "Sulfoconjugaison → stéroïdes",
+      "Acétylation → isoniazide",
+      "N-transméthylation → morphine",
+      "Conjugaison au glutathion → paracétamol",
+      "Conjugaison aux acides aminés → oxazépam"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "a) à d) Justes d'après le cours. e) Fausse : l'exemple de conjugaison aux acides aminés est les salicylates ; l'oxazépam est un exemple de glucuroconjugaison.",
+    "source": {
+      "page": 20,
+      "extrait": "Conjugaison avec des acides aminés Exp : Salicylates"
+    },
+    "difficulte": 2,
+    "tags": [
+      "phase II",
+      "exemples"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/qcm-044",
+    "type": "unique",
+    "enonce": "L'acétylation de l'isoniazide est catalysée par :",
+    "options": [
+      "La N-acétyl-transférase",
+      "L'UDP-glucuronyl-transférase",
+      "Le CYP3A4",
+      "La méthyltransférase",
+      "La sulfotransférase"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Le cours indique pour l'acétylation : enzyme N-acétyle-transférase, exemple isoniazide.",
+    "source": {
+      "page": 19,
+      "extrait": "L'acétylation L'enzyme: N-acétyle-transférase Exp: Isoniazide"
+    },
+    "difficulte": 1,
+    "tags": [
+      "acétylation",
+      "isoniazide"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/qcm-045",
+    "type": "multiple",
+    "enonce": "La conjugaison avec des acides aminés :",
+    "options": [
+      "Fait intervenir principalement la glycine et la glutamine",
+      "Fait intervenir la glycine N-acétyltransférase",
+      "Fait intervenir la glutamine N-acétyltransférase",
+      "A pour exemple les salicylates",
+      "A pour exemple la morphine"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "a) à d) Justes : glycine et glutamine, enzymes glycine N-acétyltransférase et glutamine N-acétyltransférase, exemple : salicylates. e) Fausse : la morphine est l'exemple de N-transméthylation.",
+    "source": {
+      "page": 20,
+      "extrait": "Principalement la glycine, la glutamine. Enzymes: la glycine N-acétyltransférase et la glutamine N-acétyltransférase"
+    },
+    "difficulte": 2,
+    "tags": [
+      "conjugaison aux acides aminés"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/qcm-046",
+    "type": "unique",
+    "enonce": "La morphine est donnée dans le cours comme exemple de :",
+    "options": [
+      "Sulfoconjugaison",
+      "N-transméthylation",
+      "Acétylation",
+      "Conjugaison au glutathion",
+      "Hydrolyse"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Le cours cite la morphine comme exemple de N-transméthylation catalysée par une méthyltransférase.",
+    "source": {
+      "page": 20,
+      "extrait": "N-transméthylation L'enzyme : Méthyltransférase. Exp: Morphine"
+    },
+    "difficulte": 1,
+    "tags": [
+      "N-transméthylation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/qcm-047",
+    "type": "multiple",
+    "enonce": "Concernant le paracétamol, le cours indique :",
+    "options": [
+      "Qu'il subit une conjugaison avec le glutathion",
+      "Que la glutathion-S-transférase intervient dans sa conjugaison",
+      "Que sa NAPQI est neutralisée par le glutathion aux doses thérapeutiques",
+      "Qu'il ne forme jamais de métabolite toxique",
+      "Que sa toxicité hépatique apparaît en cas de surdosage"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explication": "a), b), c) Justes : conjugaison au glutathion par la glutathion-S-transférase, neutralisation de la NAPQI aux doses thérapeutiques. d) Fausse : il forme la NAPQI, métabolite toxique. e) Juste : nécrose hépatique en cas de surdosage.",
+    "source": {
+      "page": 20,
+      "extrait": "Conjugaison avec le glutathion L'enzyme: Glutathion-S-transférase. Exp: Paracétamol"
+    },
+    "difficulte": 2,
+    "tags": [
+      "paracétamol",
+      "glutathion"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/qcm-048",
+    "type": "multiple",
+    "enonce": "Les réactions de glucuroconjugaison :",
+    "options": [
+      "Catalysent le transfert d'un acide glucuronique sur un groupement polaire du médicament",
+      "Sont catalysées par l'UDP-glucuronyl-transférase",
+      "Sont des réactions de fonctionnalisation",
+      "Nécessitent un apport énergétique",
+      "Sont catalysées par une enzyme mitochondriale"
+    ],
+    "correctes": [
+      0,
+      1,
+      3
+    ],
+    "explication": "a) Juste : la phase II rattache une petite molécule polaire endogène (acide glucuronique) au groupement fonctionnel du médicament ou du métabolite de phase I. b) Juste. c) Fausse : ce sont des réactions de conjugaison (phase II). d) Juste : les réactions de phase II nécessitent de l'ATP. e) Fausse : l'UDP glucuronyl-transférase est microsomale.",
+    "source": {
+      "page": 19,
+      "extrait": "Glucuroconjugaison +++ Exp : Oxazépam, Aspirine"
+    },
+    "difficulte": 2,
+    "tags": [
+      "glucuroconjugaison"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/qcm-049",
+    "type": "multiple",
+    "enonce": "Quelles réactions appartiennent à la phase II ?",
+    "options": [
+      "La N-transméthylation",
+      "La conjugaison avec le glutathion",
+      "La conjugaison avec des acides aminés",
+      "La sulfoconjugaison",
+      "La réduction"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "La phase II comprend glucuroconjugaison, sulfoconjugaison, acétylation, conjugaison aux acides aminés, N-transméthylation et conjugaison au glutathion (a à d justes). La réduction appartient à la phase I.",
+    "source": {
+      "page": 20,
+      "extrait": "N-transméthylation L'enzyme : Méthyltransférase"
+    },
+    "difficulte": 1,
+    "tags": [
+      "phase II"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/qcm-050",
+    "type": "multiple",
+    "enonce": "Comparaison phase I / phase II :",
+    "options": [
+      "La phase I introduit ou démasque des groupes fonctionnels",
+      "Les métabolites de phase II sont très souvent inactifs",
+      "La phase II rattache de petites molécules polaires endogènes",
+      "Les métabolites de phase I peuvent être actifs ou toxiques",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes les affirmations sont conformes au cours : la phase I crée ou démasque des groupes fonctionnels et peut donner des métabolites actifs, inactifs ou toxiques ; la phase II conjugue de petites molécules polaires et donne des métabolites très souvent inactifs.",
+    "source": {
+      "page": 22,
+      "extrait": "Les métabolites produits très souvent inactifs sont plus solubles dans l'eau"
+    },
+    "difficulte": 2,
+    "tags": [
+      "phase I",
+      "phase II"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/qcm-051",
+    "type": "multiple",
+    "enonce": "L'effet de premier passage (EPP) :",
+    "options": [
+      "Consiste en une perte de médicament par métabolisme",
+      "Se produit avant l'arrivée du médicament dans la circulation générale",
+      "Se produit dès le premier contact avec l'organe responsable de la biotransformation",
+      "Se produit après la distribution du médicament dans les organes périphériques",
+      "Correspond à une perte par élimination rénale"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "a), b), c) Justes : définition du cours. d) Fausse : il survient avant l'arrivée dans la circulation générale. e) Fausse : c'est une perte par métabolisme.",
+    "source": {
+      "page": 23,
+      "extrait": "consiste en une perte de médicament par métabolisme, avant son arrivée dans la circulation générale"
+    },
+    "difficulte": 1,
+    "tags": [
+      "EPP"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/qcm-052",
+    "type": "multiple",
+    "enonce": "Le cours distingue les effets de premier passage suivants :",
+    "options": [
+      "Intestinal (EPPI)",
+      "Pulmonaire (EPPP)",
+      "Cutané",
+      "Hépatique (EPPH)",
+      "Rénal"
+    ],
+    "correctes": [
+      0,
+      1,
+      3
+    ],
+    "explication": "Le cours décrit trois effets de premier passage : intestinal, hépatique et pulmonaire. Les EPP rénal et cutané ne sont pas mentionnés.",
+    "source": {
+      "page": 23,
+      "extrait": "Effet du premier passage intestinal (EPPI). Effet du premier passage hépatique (EPPH). Effet du premier passage pulmonaire (EPPP)."
+    },
+    "difficulte": 1,
+    "tags": [
+      "EPP"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/qcm-053",
+    "type": "multiple",
+    "enonce": "Après administration par voie orale, le médicament peut subir un effet de premier passage :",
+    "options": [
+      "Intestinal",
+      "Hépatique",
+      "Pulmonaire",
+      "Uniquement hépatique",
+      "Absent"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Selon le tableau du cours, la voie orale expose aux EPP intestinal, hépatique et pulmonaire. d) et e) sont donc fausses.",
+    "source": {
+      "page": 24,
+      "extrait": "Orale intestinal, hépatique, pulmonaire."
+    },
+    "difficulte": 1,
+    "tags": [
+      "EPP",
+      "voie orale"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/qcm-054",
+    "type": "multiple",
+    "enonce": "Concernant l'EPP après administration par voie rectale :",
+    "options": [
+      "Les veines hémorroïdales inférieures et moyennes conduisent à un EPP pulmonaire",
+      "Les veines hémorroïdales supérieures conduisent à un EPP hépatique et pulmonaire",
+      "Les veines hémorroïdales inférieures et moyennes conduisent à un EPP hépatique",
+      "La voie rectale ne présente jamais d'EPP",
+      "Les veines hémorroïdales supérieures conduisent à un EPP uniquement pulmonaire"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "a) et b) Justes d'après le tableau du cours. c) et e) Fausses : les territoires veineux sont inversés. d) Fausse : il existe au minimum un EPP pulmonaire.",
+    "source": {
+      "page": 24,
+      "extrait": "Les veines hémorroïdales supérieures =>hépatique et pulmonaire"
+    },
+    "difficulte": 3,
+    "tags": [
+      "EPP",
+      "voie rectale"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/qcm-055",
+    "type": "multiple",
+    "enonce": "Les voies intraveineuse, intramusculaire et sous-cutanée :",
+    "options": [
+      "Sont dépourvues de tout effet de premier passage",
+      "Exposent à un effet de premier passage intestinal",
+      "Exposent à un effet de premier passage hépatique",
+      "Exposent à un effet de premier passage pulmonaire",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      3
+    ],
+    "explication": "Selon le tableau du cours, les voies IV, IM et SC n'exposent qu'à un EPP pulmonaire (a juste). Elles évitent les EPP intestinal et hépatique ; elles ne sont pas pour autant dépourvues de tout EPP.",
+    "source": {
+      "page": 24,
+      "extrait": "I.V – I.M - S/C pulmonaire."
+    },
+    "difficulte": 2,
+    "tags": [
+      "EPP",
+      "voies parentérales"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/qcm-056",
+    "type": "multiple",
+    "enonce": "Les voies d'administration dépourvues d'effet de premier passage selon le cours sont :",
+    "options": [
+      "La voie locale",
+      "La voie intra-artérielle",
+      "La voie intraveineuse",
+      "La voie orale",
+      "La voie sous-cutanée"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Le tableau indique « Locale – I.A : absence » d'EPP (a, b justes). Les voies IV et SC exposent à l'EPP pulmonaire ; la voie orale aux EPP intestinal, hépatique et pulmonaire.",
+    "source": {
+      "page": 24,
+      "extrait": "Locale - I.A Absence."
+    },
+    "difficulte": 2,
+    "tags": [
+      "EPP",
+      "voies d'administration"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/qcm-057",
+    "type": "unique",
+    "enonce": "Quelle voie d'administration expose au plus grand nombre d'effets de premier passage ?",
+    "options": [
+      "La voie intramusculaire",
+      "La voie intra-artérielle",
+      "La voie intraveineuse",
+      "La voie orale",
+      "La voie locale"
+    ],
+    "correctes": [
+      3
+    ],
+    "explication": "La voie orale expose aux trois EPP (intestinal, hépatique, pulmonaire). Les voies IV et IM n'exposent qu'à l'EPP pulmonaire ; les voies locale et intra-artérielle en sont dépourvues.",
+    "source": {
+      "page": 24,
+      "extrait": "Orale intestinal, hépatique, pulmonaire."
+    },
+    "difficulte": 1,
+    "tags": [
+      "EPP",
+      "voie orale"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/qcm-058",
+    "type": "multiple",
+    "enonce": "Concernant la voie d'administration comme facteur modifiant le métabolisme :",
+    "options": [
+      "Plus de métabolites se forment après administration orale qu'après administration intraveineuse",
+      "La voie IV permet de distribuer le médicament aux organes périphériques avant tout contact avec les enzymes hépatiques",
+      "Par voie orale, le médicament est soumis aux enzymes des bactéries du tractus gastro-intestinal",
+      "Ce phénomène est dû à l'effet de premier passage lors de l'administration orale",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes les propositions sont dans le cours : plus de métabolites par voie orale du fait de l'EPP ; le médicament oral est soumis aux enzymes des bactéries digestives, de la paroi intestinale et du foie ; la voie IV distribue le médicament avant son contact avec les enzymes hépatiques.",
+    "source": {
+      "page": 31,
+      "extrait": "plus de métabolites se forment lorsque le médicament est administré par la voie orale que lorsqu'il l'est par voie intraveineuse"
+    },
+    "difficulte": 2,
+    "tags": [
+      "voie d'administration",
+      "EPP"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/qcm-059",
+    "type": "multiple",
+    "enonce": "Avant d'atteindre la circulation sanguine, un médicament pris par voie orale est soumis à l'action des systèmes enzymatiques présents dans :",
+    "options": [
+      "Les bactéries du tractus gastro-intestinal",
+      "La paroi intestinale",
+      "Le foie",
+      "Les glandes salivaires uniquement",
+      "Le rein"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Le cours énumère les bactéries du tractus gastro-intestinal, la paroi intestinale et le foie (a, b, c justes). Les glandes salivaires et le rein ne sont pas cités dans ce trajet.",
+    "source": {
+      "page": 31,
+      "extrait": "soumis à l'action des systèmes enzymatiques présents dans les bactéries du tractus gastro-intestinal, la paroi intestinale et le foie"
+    },
+    "difficulte": 2,
+    "tags": [
+      "voie orale",
+      "EPP"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/qcm-060",
+    "type": "multiple",
+    "enonce": "Concernant la posologie comme facteur modifiant le métabolisme :",
+    "options": [
+      "Elle fait partie des facteurs extrinsèques modifiant le métabolisme",
+      "En cas de dose élevée, certaines voies métaboliques peuvent être saturées",
+      "Elle n'a aucune influence sur le métabolisme",
+      "La saturation de la voie glutathionique du paracétamol en surdosage en est une illustration",
+      "Une dose élevée augmente toujours proportionnellement la quantité de métabolites inactifs"
+    ],
+    "correctes": [
+      0,
+      1,
+      3
+    ],
+    "explication": "a) Juste : la posologie figure parmi les facteurs extrinsèques. b) Juste : une dose élevée peut saturer certaines voies métaboliques. c) Fausse. d) Juste : en surdosage, le système glutathionique est saturé. e) Fausse : la saturation empêche une augmentation proportionnelle.",
+    "source": {
+      "page": 31,
+      "extrait": "Si dose élevée possibilité de saturation de certaines voies métaboliques"
+    },
+    "difficulte": 2,
+    "tags": [
+      "posologie",
+      "saturation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/qcm-061",
+    "type": "multiple",
+    "enonce": "Les facteurs modifiant le métabolisme se répartissent en :",
+    "options": [
+      "Facteurs intrinsèques, physiologiques et pathologiques",
+      "Facteurs extrinsèques, pharmacodynamiques et biochimiques",
+      "Facteurs exclusivement génétiques",
+      "Facteurs extrinsèques uniquement",
+      "Facteurs intrinsèques uniquement"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "a) Juste : les facteurs intrinsèques comprennent les facteurs physiologiques et pathologiques. b) Juste : les facteurs extrinsèques comprennent les facteurs pharmacodynamiques et biochimiques (IAM). c), d), e) Fausses : la classification comporte les deux catégories.",
+    "source": {
+      "page": 25,
+      "extrait": "Facteurs intrinsèques Facteurs extrinsèques Facteurs physiologiques Facteurs pathologiques"
+    },
+    "difficulte": 2,
+    "tags": [
+      "facteurs de variation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/qcm-062",
+    "type": "multiple",
+    "enonce": "Parmi les facteurs physiologiques modifiant le métabolisme, le cours cite :",
+    "options": [
+      "L'âge",
+      "Le sexe",
+      "La constitution génétique",
+      "L'insuffisance hépatique",
+      "L'induction enzymatique"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Les facteurs physiologiques sont l'âge, le sexe et la constitution génétique (a, b, c justes). L'insuffisance hépatique est un facteur pathologique ; l'induction enzymatique un facteur extrinsèque biochimique.",
+    "source": {
+      "page": 26,
+      "extrait": "Facteurs physiologiques Facteurs pathologiques Age: Sexe: Constitution génétique: IH: IC:"
+    },
+    "difficulte": 1,
+    "tags": [
+      "facteurs physiologiques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/qcm-063",
+    "type": "multiple",
+    "enonce": "Parmi les facteurs extrinsèques modifiant le métabolisme :",
+    "options": [
+      "La voie d'administration",
+      "L'inhibition enzymatique",
+      "L'induction enzymatique",
+      "La posologie",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Les facteurs extrinsèques comprennent les facteurs pharmacodynamiques (voie d'administration, posologie) et biochimiques ou IAM (induction et inhibition enzymatiques). Toutes les propositions sont correctes.",
+    "source": {
+      "page": 30,
+      "extrait": "Facteurs pharmacodynamiques Facteurs biochimiques (IAM) Voie d'administration La posologie Induction enzymatique Inhibition enzymatique"
+    },
+    "difficulte": 1,
+    "tags": [
+      "facteurs extrinsèques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/qcm-064",
+    "type": "multiple",
+    "enonce": "Concernant l'influence de l'âge sur le métabolisme :",
+    "options": [
+      "Chez le nouveau-né, l'immaturité de l'équipement enzymatique ralentit l'activité métabolique",
+      "Chez le sujet âgé, l'activité métabolique diminue",
+      "Chez le nouveau-né, l'activité métabolique est accélérée",
+      "Chez le sujet âgé, l'activité métabolique augmente",
+      "L'âge n'a aucune influence sur le métabolisme"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "a) et b) Justes d'après le cours. c) Fausse : elle est ralentie. d) Fausse : elle diminue. e) Fausse : l'âge est un facteur physiologique de variation.",
+    "source": {
+      "page": 27,
+      "extrait": "N.né: immaturité de l'équipement enzymatique conduit à un ralentissement de l'activité métabolique"
+    },
+    "difficulte": 1,
+    "tags": [
+      "âge",
+      "nouveau-né",
+      "sujet âgé"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/qcm-065",
+    "type": "multiple",
+    "enonce": "Les modifications physiologiques observées au cours du vieillissement sont :",
+    "options": [
+      "Une diminution de la masse hépatique",
+      "Une diminution du flux sanguin hépatique",
+      "Une diminution du pouvoir métabolique hépatique",
+      "Une augmentation de la masse hépatique",
+      "Une augmentation du flux sanguin hépatique"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Le cours cite la diminution de la masse hépatique, du flux sanguin hépatique et du pouvoir métabolique hépatique (a, b, c justes). d) et e) sont des inversions.",
+    "source": {
+      "page": 27,
+      "extrait": "Diminution de la masse hépatique - Diminution du flux sanguin hépatique"
+    },
+    "difficulte": 1,
+    "tags": [
+      "sujet âgé"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/qcm-066",
+    "type": "multiple",
+    "enonce": "Chiffres associés au vieillissement hépatique selon le cours :",
+    "options": [
+      "Le flux sanguin hépatique diminue de 0,3 % à 1,5 % par an après 25 ans",
+      "Le pouvoir métabolique hépatique diminue de plus de 30 % après 70 ans",
+      "Le flux sanguin hépatique diminue de 3 % à 15 % par an après 25 ans",
+      "Le pouvoir métabolique hépatique diminue de plus de 30 % après 50 ans",
+      "Le flux sanguin hépatique diminue de 0,3 % à 1,5 % par an après 70 ans"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "a) et b) Justes : diminution de 0,3 % à 1,5 % par an après 25 ans du flux sanguin hépatique ; plus de 30 % de baisse du pouvoir métabolique après 70 ans. c), d), e) Fausses : chiffres ou âges modifiés.",
+    "source": {
+      "page": 27,
+      "extrait": "Diminution du pouvoir métabolique hépatique (diminution de plus de 30% après 70 ans)"
+    },
+    "difficulte": 3,
+    "tags": [
+      "sujet âgé",
+      "chiffres"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/qcm-067",
+    "type": "unique",
+    "enonce": "Concernant l'influence du sexe sur le métabolisme, le cours indique que :",
+    "options": [
+      "L'homme présente généralement un métabolisme plus faible que celui de la femme",
+      "Le métabolisme de la femme est exclusivement rénal",
+      "La femme présente toujours un métabolisme plus rapide que celui de l'homme",
+      "La femme présente généralement un métabolisme plus faible que celui de l'homme",
+      "Le sexe n'a aucune influence sur le métabolisme"
+    ],
+    "correctes": [
+      3
+    ],
+    "explication": "Le cours précise : « La femme présente généralement un métabolisme plus faible que celui de l'homme ». Les autres propositions sont des inversions ou des affirmations absentes du cours.",
+    "source": {
+      "page": 27,
+      "extrait": "La femme présente généralement un métabolisme plus faible que celui de l'homme"
+    },
+    "difficulte": 1,
+    "tags": [
+      "sexe"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/qcm-068",
+    "type": "multiple",
+    "enonce": "Concernant la constitution génétique comme facteur de variation du métabolisme :",
+    "options": [
+      "L'activité de certaines voies métaboliques est contrôlée génétiquement",
+      "L'acétylation de l'isoniazide en est un exemple",
+      "L'efficacité du métabolisme varie alors selon les individus",
+      "Le déficit en G6PD en est un exemple",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes les propositions sont dans le cours : certaines voies sont contrôlées génétiquement, d'où une variabilité interindividuelle ; exemples : acétylation de l'isoniazide et déficit en G6PD.",
+    "source": {
+      "page": 28,
+      "extrait": "L'activité de certaines voies métaboliques est contrôlée génétiquement. Dans ce cas l'efficacité du métabolisme varie selon les individus"
+    },
+    "difficulte": 1,
+    "tags": [
+      "génétique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/qcm-069",
+    "type": "multiple",
+    "enonce": "Concernant l'acétylation de l'isoniazide :",
+    "options": [
+      "L'isoniazide (RIMIFON®) est un antituberculeux",
+      "La vitesse d'acétylation est étroitement liée à l'appartenance ethnique du malade",
+      "On distingue des acétyleurs lents, rapides et intermédiaires",
+      "Les asiatiques sont des acétyleurs rapides",
+      "Les européens sont des acétyleurs rapides"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "a), b), c), d) Justes d'après le cours. e) Fausse : les européens (population caucasienne) sont des acétyleurs lents.",
+    "source": {
+      "page": 28,
+      "extrait": "Les asiatiques (race jaune)acétyleurs rapides"
+    },
+    "difficulte": 2,
+    "tags": [
+      "isoniazide",
+      "acétylation",
+      "génétique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/qcm-070",
+    "type": "multiple",
+    "enonce": "Chez un acétyleur rapide traité par isoniazide :",
+    "options": [
+      "Le taux d'acétyl-transférase est élevé",
+      "Il faut augmenter la posologie",
+      "Il faut diminuer la posologie",
+      "Le taux d'acétyl-transférase est bas",
+      "Ce phénotype est cité chez les asiatiques"
+    ],
+    "correctes": [
+      0,
+      1,
+      4
+    ],
+    "explication": "a), b) Justes : les acétyleurs rapides ont un taux élevé d'acétyl-transférase, donc il faut augmenter la posologie. c) et d) Fausses : cela concerne les acétyleurs lents. e) Juste : les asiatiques sont acétyleurs rapides.",
+    "source": {
+      "page": 28,
+      "extrait": "acétyleurs rapides (taux élevé d'acétyl transférase donc il faut augmenter la posologie)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "isoniazide",
+      "acétyleurs rapides"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/qcm-071",
+    "type": "multiple",
+    "enonce": "Chez un acétyleur lent traité par isoniazide :",
+    "options": [
+      "Le taux d'acétyl-transférase est bas",
+      "Il faut diminuer la posologie",
+      "Ce phénotype est cité chez les européens (population caucasienne)",
+      "Il faut augmenter la posologie",
+      "Ce phénotype est cité chez les asiatiques"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "a), b), c) Justes : les acétyleurs lents (européens) ont un taux bas d'acétyl-transférase, d'où une diminution de la posologie. d) Fausse. e) Fausse : les asiatiques sont acétyleurs rapides.",
+    "source": {
+      "page": 28,
+      "extrait": "acétyleurs lents (taux bas d'acétyl transférase donc il faut diminuer la posologie)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "isoniazide",
+      "acétyleurs lents"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/qcm-072",
+    "type": "multiple",
+    "enonce": "Concernant le déficit en glucose-6-phosphate déshydrogénase (G6PD) :",
+    "options": [
+      "Les hémolyses peuvent être favorisées par les antimalariques, l'aspirine et les sulfamides",
+      "Il est retrouvé chez 50 % des Kurdes selon le cours",
+      "Sa fréquence est très variable selon la race",
+      "Il peut entraîner des hémolyses",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes les propositions sont dans le cours : le déficit en G6PD peut entraîner des hémolyses favorisées par certains médicaments (antimalariques, aspirine, sulfamides) ; il est très variable selon la race (Esquimaux 0 %, Noirs 2–30 %, Kurdes 50 %).",
+    "source": {
+      "page": 28,
+      "extrait": "Le déficit en glucose-6-phosphate déshydrogénase (G6PD) peut entrainer des hémolyses"
+    },
+    "difficulte": 2,
+    "tags": [
+      "G6PD",
+      "génétique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/qcm-073",
+    "type": "multiple",
+    "enonce": "Fréquences du déficit en G6PD citées par le cours :",
+    "options": [
+      "Esquimaux : 0 %",
+      "Noirs : 2 à 30 %",
+      "Kurdes : 50 %",
+      "Esquimaux : 50 %",
+      "Kurdes : 0 %"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Le cours indique : Esquimaux 0 %, Noirs 2–30 %, Kurdes 50 %. d) et e) inversent les valeurs.",
+    "source": {
+      "page": 28,
+      "extrait": "Esquimaux 0% Noirs 2-30% Kurdes 50%"
+    },
+    "difficulte": 3,
+    "tags": [
+      "G6PD",
+      "chiffres"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/qcm-074",
+    "type": "multiple",
+    "enonce": "Médicaments cités comme pouvant favoriser une hémolyse en cas de déficit en G6PD :",
+    "options": [
+      "L'isoniazide",
+      "Les antimalariques",
+      "Les sulfamides",
+      "La cimétidine",
+      "L'aspirine"
+    ],
+    "correctes": [
+      1,
+      2,
+      4
+    ],
+    "explication": "Le cours cite les antimalariques, l'aspirine et les sulfamides. L'isoniazide et la cimétidine ne sont pas cités dans ce contexte.",
+    "source": {
+      "page": 28,
+      "extrait": "favorisées par la prise de certains médicaments tels que les antimalariques, l'aspirine, les sulfamides"
+    },
+    "difficulte": 2,
+    "tags": [
+      "G6PD"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/qcm-075",
+    "type": "multiple",
+    "enonce": "Au cours de l'insuffisance hépatique (IH) :",
+    "options": [
+      "L'effet de premier passage hépatique diminue",
+      "L'activité enzymatique du foie diminue",
+      "L'activité hépatocytaire est fortement modifiée",
+      "La concentration plasmatique des médicaments augmente (risque de surdosage)",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes les propositions sont dans le cours : en cas d'IH, l'activité hépatocytaire est fortement modifiée, l'activité enzymatique et l'EPPH diminuent, d'où une augmentation des concentrations plasmatiques et un risque de surdosage.",
+    "source": {
+      "page": 29,
+      "extrait": "diminution de l'activité enzymatique du foie, diminution de l'EPPH, et aboutit donc à une augmentation de la concentration plasmatique"
+    },
+    "difficulte": 1,
+    "tags": [
+      "insuffisance hépatique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/qcm-076",
+    "type": "multiple",
+    "enonce": "Concernant l'insuffisance hépatique :",
+    "options": [
+      "Elle expose à un risque de sous-dosage",
+      "Elle augmente l'effet de premier passage hépatique",
+      "Elle augmente l'activité enzymatique du foie",
+      "Elle diminue la concentration plasmatique des médicaments",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes les propositions sont fausses : l'IH diminue l'EPPH et l'activité enzymatique du foie, ce qui augmente la concentration plasmatique des médicaments et expose à un risque de surdosage (et non de sous-dosage).",
+    "source": {
+      "page": 29,
+      "extrait": "aboutit donc à une augmentation de la concentration plasmatique des médicaments (risque de surdosage)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "insuffisance hépatique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/qcm-077",
+    "type": "unique",
+    "enonce": "L'insuffisance cardiaque (IC) modifie le métabolisme hépatique :",
+    "options": [
+      "En limitant le flux sanguin arrivant au foie, ce qui altère les capacités métaboliques",
+      "Elle n'a aucune influence sur le métabolisme",
+      "En augmentant la masse hépatique",
+      "En induisant le CYP3A4",
+      "En augmentant le flux sanguin hépatique"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Le cours indique que l'IC limite le flux sanguin arrivant au foie, ce qui altère les capacités métaboliques. Les autres propositions ne figurent pas dans le cours ou le contredisent.",
+    "source": {
+      "page": 29,
+      "extrait": "En limitant le flux sanguin arrivant au foie => altération des capacités métaboliques"
+    },
+    "difficulte": 2,
+    "tags": [
+      "insuffisance cardiaque"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/qcm-078",
+    "type": "multiple",
+    "enonce": "Concernant les facteurs biochimiques (interactions médicamenteuses) :",
+    "options": [
+      "Le métabolisme hépatique d'un médicament peut être modifié par d'autres médicaments administrés simultanément",
+      "Ces IAM peuvent entraîner une diminution d'activité de l'un des médicaments associés",
+      "Ces IAM peuvent entraîner une augmentation d'activité de l'un des médicaments associés",
+      "L'activité des enzymes peut être induite ou inhibée par des substances chimiques",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes les propositions sont dans le cours : le métabolisme hépatique peut être modifié par des médicaments co-administrés (IAM), avec augmentation ou diminution d'activité ; l'activité enzymatique peut être induite ou inhibée par des substances chimiques ou des médicaments.",
+    "source": {
+      "page": 32,
+      "extrait": "il s'agit d'IAM pouvant entrainer une augmentation ou une diminution d'activité de l'un des médicaments associés"
+    },
+    "difficulte": 1,
+    "tags": [
+      "IAM"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/qcm-079",
+    "type": "multiple",
+    "enonce": "Les inducteurs enzymatiques :",
+    "options": [
+      "Augmentent l'activité des enzymes de biotransformation",
+      "Accélèrent le métabolisme des médicaments",
+      "Ont pour exemple le phénobarbital",
+      "Ont pour exemple la cimétidine",
+      "Diminuent l'activité des enzymes de biotransformation"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "a), b), c) Justes : les inducteurs augmentent l'activité enzymatique et accélèrent le métabolisme ; exemple : phénobarbital (anticonvulsivant). d) Fausse : la cimétidine est un inhibiteur. e) Fausse : c'est la définition des inhibiteurs.",
+    "source": {
+      "page": 32,
+      "extrait": "Les substances ou médicaments augmentant l'activité des enzymes sont des INDUCTEURS ENZYMATIQUES. Exemple : Phénobarbital"
+    },
+    "difficulte": 1,
+    "tags": [
+      "induction enzymatique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/qcm-080",
+    "type": "multiple",
+    "enonce": "Les inhibiteurs enzymatiques :",
+    "options": [
+      "Diminuent l'activité des enzymes de biotransformation",
+      "Ralentissent le métabolisme des médicaments",
+      "Ont pour exemple la cimétidine (antihistaminique H2)",
+      "Ont pour exemple le phénobarbital",
+      "Accélèrent le métabolisme des médicaments"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "a), b), c) Justes : les inhibiteurs diminuent l'activité enzymatique et ralentissent le métabolisme ; exemple : cimétidine (anti-H2). d) Fausse : le phénobarbital est un inducteur. e) Fausse.",
+    "source": {
+      "page": 32,
+      "extrait": "Les substances ou médicaments diminuant l'activité des enzymes sont des INHIBITEURS ENZYMATIQUES. Exemple : Cimétidine"
+    },
+    "difficulte": 1,
+    "tags": [
+      "inhibition enzymatique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/qcm-081",
+    "type": "multiple",
+    "enonce": "D'après le schéma du cours sur le CYP3A4, l'administration d'un inducteur du CYP3A4 entraîne :",
+    "options": [
+      "Une diminution de l'exposition au médicament",
+      "Une augmentation de l'exposition au métabolite",
+      "Une augmentation de l'exposition au médicament",
+      "Une diminution de l'exposition au métabolite",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "L'induction accélère la transformation du médicament en métabolite : l'exposition au médicament diminue et l'exposition au métabolite augmente (a, b justes). c) et d) correspondent à l'inhibition.",
+    "source": {
+      "page": 33,
+      "extrait": "Inducteur CYP3A4 Exposition au médicament Exposition au métabolite"
+    },
+    "difficulte": 2,
+    "tags": [
+      "induction enzymatique",
+      "CYP3A4"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/qcm-082",
+    "type": "multiple",
+    "enonce": "D'après le schéma du cours sur le CYP3A4, l'administration d'un inhibiteur du CYP3A4 entraîne :",
+    "options": [
+      "Une augmentation de l'exposition au médicament",
+      "Une diminution de l'exposition au métabolite",
+      "Une diminution de l'exposition au médicament",
+      "Une augmentation de l'exposition au métabolite",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "L'inhibition ralentit la formation du métabolite : l'exposition au médicament augmente et celle au métabolite diminue (a, b justes). c) et d) correspondent à l'induction.",
+    "source": {
+      "page": 33,
+      "extrait": "inhibiteur CYP3A4 Exposition au médicament Exposition au métabolite"
+    },
+    "difficulte": 2,
+    "tags": [
+      "inhibition enzymatique",
+      "CYP3A4"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/qcm-083",
+    "type": "multiple",
+    "enonce": "L'induction enzymatique :",
+    "options": [
+      "Peut accroître la durée de l'effet thérapeutique si les métabolites sont actifs",
+      "Peut entraîner des effets indésirables si les métabolites sont toxiques",
+      "Est une accélération du métabolisme suite à la stimulation des systèmes enzymatiques",
+      "Raccourcit la durée de l'effet thérapeutique si les métabolites sont inactifs",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes les propositions sont conformes au cours : l'induction accélère le métabolisme ; selon la nature des métabolites, elle raccourcit l'effet (métabolites inactifs), entraîne des effets indésirables (métabolites toxiques) ou accroît la durée de l'effet (métabolites actifs).",
+    "source": {
+      "page": 34,
+      "extrait": "C'est une accélération du métabolisme des médicaments suite à la stimulation des systèmes enzymatiques par un médicament inducteur"
+    },
+    "difficulte": 2,
+    "tags": [
+      "induction enzymatique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/qcm-084",
+    "type": "multiple",
+    "enonce": "Lorsqu'un médicament dont les métabolites sont inactifs est associé à un inducteur enzymatique :",
+    "options": [
+      "La durée de l'effet thérapeutique est raccourcie",
+      "La durée de l'effet thérapeutique est accrue",
+      "Le risque de toxicité par accumulation du médicament augmente",
+      "L'activité enzymatique est augmentée",
+      "La formation des métabolites est ralentie"
+    ],
+    "correctes": [
+      0,
+      3
+    ],
+    "explication": "a) et d) Justes : l'inducteur augmente l'activité enzymatique ; si les métabolites sont inactifs, la durée de l'effet est raccourcie. b) Fausse : cela concerne les métabolites actifs. c) Fausse : le médicament est plus vite éliminé. e) Fausse : la formation est accélérée.",
+    "source": {
+      "page": 34,
+      "extrait": "Augmenter l' activité enzymatique Inactifs Durée de l'effet thérapeutique raccourcie"
+    },
+    "difficulte": 2,
+    "tags": [
+      "induction enzymatique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/qcm-085",
+    "type": "multiple",
+    "enonce": "L'inhibition enzymatique :",
+    "options": [
+      "Est un ralentissement du métabolisme suite à l'inhibition des systèmes enzymatiques",
+      "Peut entraîner une toxicité",
+      "Augmente la concentration et la demi-vie plasmatique du médicament",
+      "Ralentit la formation des métabolites",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes les propositions figurent dans le cours : l'inhibition ralentit le métabolisme, augmente la concentration et la demi-vie plasmatique du principe actif, ralentit la formation des métabolites et peut être source de toxicité.",
+    "source": {
+      "page": 36,
+      "extrait": "Augmenter: concentration + demi-vie plasmatique"
+    },
+    "difficulte": 2,
+    "tags": [
+      "inhibition enzymatique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/qcm-086",
+    "type": "multiple",
+    "enonce": "Lorsqu'un médicament dont les métabolites sont inactifs est associé à un inhibiteur enzymatique :",
+    "options": [
+      "La concentration du principe actif et l'effet thérapeutique sont accrus",
+      "Un risque de toxicité peut apparaître",
+      "La demi-vie plasmatique du médicament diminue",
+      "L'effet thérapeutique est diminué",
+      "L'activité enzymatique augmente"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "a) et b) Justes : avec des métabolites inactifs, l'inhibition accroît la concentration du PA et l'effet thérapeutique, avec risque de toxicité. c) Fausse : la demi-vie augmente. d) Fausse : la diminution de l'effet concerne les médicaments à métabolites actifs. e) Fausse.",
+    "source": {
+      "page": 36,
+      "extrait": "Concentration du P.A + effet thérapeutique accrus"
+    },
+    "difficulte": 3,
+    "tags": [
+      "inhibition enzymatique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/qcm-087",
+    "type": "unique",
+    "enonce": "Selon le cours, l'inhibition enzymatique d'un médicament dont les métabolites sont actifs conduit à :",
+    "options": [
+      "Une diminution de l'effet thérapeutique",
+      "Un raccourcissement de la demi-vie plasmatique",
+      "Aucune modification",
+      "Une augmentation de l'effet thérapeutique",
+      "Une accélération de la formation des métabolites"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Le schéma du cours associe aux métabolites actifs une diminution de l'effet thérapeutique en cas d'inhibition, puisque la formation des métabolites (actifs) est ralentie. Les autres propositions sont fausses.",
+    "source": {
+      "page": 36,
+      "extrait": "Ralentissement de la formation de métabolites"
+    },
+    "difficulte": 3,
+    "tags": [
+      "inhibition enzymatique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/qcm-088",
+    "type": "multiple",
+    "enonce": "Interaction entre la cyclosporine et les inducteurs du CYP3A4 :",
+    "options": [
+      "Le millepertuis et la rifampicine sont des inducteurs du CYP450 3A4",
+      "L'élimination de la cyclosporine est accélérée",
+      "Il faut augmenter la dose de cyclosporine pour éviter le rejet",
+      "Il faut diminuer la dose de cyclosporine",
+      "L'élimination de la cyclosporine est ralentie"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "a), b), c) Justes d'après l'exemple du cours : millepertuis et rifampicine induisent le CYP3A4, l'élimination de la cyclosporine est accélérée et il faut augmenter la dose pour éviter le rejet. d) et e) sont des inversions.",
+    "source": {
+      "page": 35,
+      "extrait": "élimination de cyclosporine accélérée augmenter la dose pour éviter rejet"
+    },
+    "difficulte": 2,
+    "tags": [
+      "cyclosporine",
+      "induction enzymatique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/qcm-089",
+    "type": "multiple",
+    "enonce": "Interaction des statines avec les inhibiteurs du CYP3A4 :",
+    "options": [
+      "Le risque est une rhabdomyolyse",
+      "L'érythromycine et le diltiazem sont cités comme inhibiteurs",
+      "Le kétoconazole et l'itraconazole sont cités comme inhibiteurs",
+      "Le pamplemousse est cité comme inhibiteur",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes les propositions sont dans l'exemple du cours : kétoconazole, itraconazole, érythromycine, diltiazem et pamplemousse inhibent le CYP3A4, augmentent le taux plasmatique de statines (simvastatine) et exposent à une rhabdomyolyse.",
+    "source": {
+      "page": 37,
+      "extrait": "simvastatine (pravastatine) Ketoconazole itraconazole erythromycine diltiazem pamplemousse"
+    },
+    "difficulte": 2,
+    "tags": [
+      "statines",
+      "inhibition enzymatique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/qcm-090",
+    "type": "multiple",
+    "enonce": "L'association de la simvastatine à un inhibiteur du CYP3A4 :",
+    "options": [
+      "Augmente le taux plasmatique de la statine",
+      "Expose à une rhabdomyolyse",
+      "Diminue le taux plasmatique de la statine",
+      "Accélère l'élimination de la statine",
+      "Est sans risque"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "a) et b) Justes : l'inhibition du CYP3A4 augmente le taux plasmatique de statines, avec risque de rhabdomyolyse. c), d), e) Fausses.",
+    "source": {
+      "page": 37,
+      "extrait": "Taux plasmatique de statines Rhabdomyolyse"
+    },
+    "difficulte": 2,
+    "tags": [
+      "statines",
+      "rhabdomyolyse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/qcm-091",
+    "type": "multiple",
+    "enonce": "Selon le tableau du cours, sont des médicaments inducteurs enzymatiques :",
+    "options": [
+      "Le phénobarbital",
+      "La phénytoïne",
+      "La rifampicine",
+      "La carbamazépine",
+      "La cimétidine"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Le tableau des inducteurs cite les barbituriques (phénobarbital), la phénytoïne, la primidone, la rifampicine, la carbamazépine, la griséofulvine et la phénylbutazone (a à d justes). La cimétidine est un inhibiteur.",
+    "source": {
+      "page": 38,
+      "extrait": "Barbituriques: PhénobarbitalPhénytoinePrimidoneRifampicine CarbamazépineGriséofulvinePhénylbutazone"
+    },
+    "difficulte": 1,
+    "tags": [
+      "inducteurs enzymatiques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/qcm-092",
+    "type": "multiple",
+    "enonce": "Selon le tableau du cours, sont des médicaments inhibiteurs enzymatiques :",
+    "options": [
+      "La cimétidine",
+      "Le chloramphénicol",
+      "Le disulfirame",
+      "Les macrolides",
+      "La griséofulvine"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Le tableau des inhibiteurs cite cimétidine, chloramphénicol, disulfirame, isoniazide, macrolides et antifongiques azolés (a à d justes). La griséofulvine est un inducteur.",
+    "source": {
+      "page": 38,
+      "extrait": "Cimétidine ChloramphénicolDisulfiramIsoniazideMacrolidesAntifongiques azolés"
+    },
+    "difficulte": 1,
+    "tags": [
+      "inhibiteurs enzymatiques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/qcm-093",
+    "type": "multiple",
+    "enonce": "Parmi les médicaments suivants, lesquels sont des inhibiteurs enzymatiques selon le cours ?",
+    "options": [
+      "La phénylbutazone",
+      "L'isoniazide",
+      "La griséofulvine",
+      "La primidone",
+      "Les antifongiques azolés"
+    ],
+    "correctes": [
+      1,
+      4
+    ],
+    "explication": "L'isoniazide et les antifongiques azolés figurent parmi les inhibiteurs. La primidone, la phénylbutazone et la griséofulvine sont des inducteurs enzymatiques.",
+    "source": {
+      "page": 38,
+      "extrait": "Cimétidine ChloramphénicolDisulfiramIsoniazideMacrolidesAntifongiques azolés"
+    },
+    "difficulte": 2,
+    "tags": [
+      "inhibiteurs enzymatiques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/qcm-094",
+    "type": "multiple",
+    "enonce": "Concernant la carbamazépine, le cours indique qu'elle :",
+    "options": [
+      "Est un inducteur enzymatique",
+      "Est transformée en époxycarbamazépine, métabolite actif",
+      "Diminue l'activité des enzymes du métabolisme",
+      "Est un inhibiteur enzymatique",
+      "Est une molécule initialement inactive (prodrogue)"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "a) Juste : la carbamazépine figure dans le tableau des inducteurs enzymatiques. b) Juste : carbamazépine → époxycarbamazépine (actif à partir d'actif). c) et d) Fausses : un inducteur augmente l'activité enzymatique. e) Fausse : c'est une molécule active.",
+    "source": {
+      "page": 38,
+      "extrait": "PhénobarbitalPhénytoinePrimidoneRifampicine CarbamazépineGriséofulvinePhénylbutazone"
+    },
+    "difficulte": 2,
+    "tags": [
+      "carbamazépine",
+      "inducteurs enzymatiques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/qcm-095",
+    "type": "multiple",
+    "enonce": "Parmi les couples suivants, lesquels associent correctement un médicament à son statut ?",
+    "options": [
+      "Rifampicine → inducteur enzymatique",
+      "Érythromycine (macrolide) → inhibiteur enzymatique",
+      "Phénytoïne → inhibiteur enzymatique",
+      "Cimétidine → inducteur enzymatique",
+      "Kétoconazole (antifongique azolé) → inhibiteur enzymatique"
+    ],
+    "correctes": [
+      0,
+      1,
+      4
+    ],
+    "explication": "a) Juste : la rifampicine est un inducteur. b) Juste : les macrolides (érythromycine) sont des inhibiteurs. c) Fausse : la phénytoïne est un inducteur. d) Fausse : la cimétidine est un inhibiteur. e) Juste : les antifongiques azolés sont des inhibiteurs.",
+    "source": {
+      "page": 38,
+      "extrait": "Médicaments inducteurs enzymatiques Médicaments inhibiteurs enzymatiques"
+    },
+    "difficulte": 2,
+    "tags": [
+      "inducteurs enzymatiques",
+      "inhibiteurs enzymatiques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/qcm-096",
+    "type": "multiple",
+    "enonce": "Le phénobarbital :",
+    "options": [
+      "Appartient aux barbituriques",
+      "Est un anticonvulsivant",
+      "Est un inducteur enzymatique",
+      "Est transformé en hydroxyphénobarbital inactif",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes les propositions sont dans le cours : phénobarbital (anticonvulsivant, barbiturique) est l'exemple type d'inducteur enzymatique et il est métabolisé en hydroxyphénobarbital, métabolite inactif.",
+    "source": {
+      "page": 32,
+      "extrait": "Exemple : Phénobarbital (anti-convulsivant)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "phénobarbital"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/qcm-097",
+    "type": "multiple",
+    "enonce": "Selon la conclusion du cours, du fait des variations possibles du métabolisme :",
+    "options": [
+      "Des ajustements de posologie peuvent être nécessaires",
+      "Un suivi thérapeutique (mesure des Cp) peut être nécessaire",
+      "Le métabolisme permet d'éviter ou de mettre à profit des interactions entre médicaments",
+      "Il est important de connaître les différents inducteurs et inhibiteurs enzymatiques",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes les propositions figurent dans la conclusion : importance de connaître inducteurs et inhibiteurs, ajustements de posologie, suivi thérapeutique (mesure des Cp), et prise en compte des interactions médicamenteuses.",
+    "source": {
+      "page": 39,
+      "extrait": "le recours dans certains cas à des ajustements de posologie et si nécessaire au suivi thérapeutique (mesure des Cp)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "conclusion"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/qcm-098",
+    "type": "multiple",
+    "enonce": "Parmi les propositions suivantes concernant le métabolisme, quelle(s) affirmation(s) est (sont) juste(s) ?",
+    "options": [
+      "Le métabolisme transforme les molécules liposolubles en molécules hydrosolubles",
+      "Le métabolisme augmente la polarité des molécules",
+      "Le métabolisme participe à l'élimination des médicaments",
+      "Le métabolisme rend toujours le médicament inactif",
+      "Le métabolisme a lieu uniquement après administration orale"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "a), b), c) Justes : le métabolisme transforme les PA liposolubles en molécules hydrosolubles plus polaires, facilement éliminées. d) Fausse : les métabolites peuvent être actifs ou toxiques. e) Fausse : le métabolisme concerne toutes les voies d'administration.",
+    "source": {
+      "page": 8,
+      "extrait": "La liposolubilité L'hydrosolubilité Substances plus polaires Plus facilement éliminées"
+    },
+    "difficulte": 1,
+    "tags": [
+      "intérêt du métabolisme"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/qcm-099",
+    "type": "multiple",
+    "enonce": "Concernant les enzymes du métabolisme des médicaments :",
+    "options": [
+      "Les mono-oxygénases à CYP450 catalysent les réactions d'oxydation",
+      "Les réductases catalysent les réactions de réduction",
+      "Les transférases catalysent les réactions de conjugaison",
+      "Les estérases et amidases catalysent les hydrolyses",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes les associations enzyme / réaction sont celles du cours : mono-oxygénases à CYP450 pour l'oxydation, réductases pour la réduction, estérases et amidases pour l'hydrolyse, transférases spécifiques pour la conjugaison.",
+    "source": {
+      "page": 22,
+      "extrait": "Les réactions sont catalysées par des transférases spécifiques"
+    },
+    "difficulte": 2,
+    "tags": [
+      "enzymes",
+      "phase I",
+      "phase II"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/qcm-100",
+    "type": "multiple",
+    "enonce": "Concernant le CYP3A4 :",
+    "options": [
+      "Il appartient à la famille CYP3",
+      "Il est impliqué dans le métabolisme de la cyclosporine",
+      "Il est impliqué dans le métabolisme de la simvastatine",
+      "Il est induit par la rifampicine et le millepertuis",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes les propositions découlent du cours : CYP3A4 appartient à la famille CYP3 (3 = famille, A = sous-famille, 4 = gène) ; il métabolise la cyclosporine et les statines, et il est induit par la rifampicine et le millepertuis.",
+    "source": {
+      "page": 35,
+      "extrait": "Cyclosporine Millepertuis ++ rifampicine ++ CYP 450 3A4"
+    },
+    "difficulte": 2,
+    "tags": [
+      "CYP3A4"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/qcm-101",
+    "type": "multiple",
+    "enonce": "Le jus de pamplemousse, selon le cours :",
+    "options": [
+      "Est un inhibiteur du CYP3A4",
+      "Augmente le taux plasmatique des statines",
+      "Est un inducteur du CYP3A4",
+      "Accélère l'élimination de la simvastatine",
+      "Protège du risque de rhabdomyolyse"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "a) et b) Justes : le pamplemousse figure parmi les inhibiteurs du CYP3A4 qui augmentent le taux plasmatique de statines. c), d), e) Fausses : il expose au contraire à la rhabdomyolyse.",
+    "source": {
+      "page": 37,
+      "extrait": "pamplemousse CYP 450 3A4 Taux plasmatique de statines Rhabdomyolyse"
+    },
+    "difficulte": 2,
+    "tags": [
+      "pamplemousse",
+      "inhibition enzymatique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/qcm-102",
+    "type": "multiple",
+    "enonce": "Quelles affirmations sur l'EPP sont exactes ?",
+    "options": [
+      "Il diminue en cas d'insuffisance hépatique",
+      "Il explique la formation d'une plus grande quantité de métabolites par voie orale",
+      "Il est absent par voie intra-artérielle",
+      "Il augmente la quantité de médicament atteignant la circulation générale",
+      "Il correspond à une perte de médicament par métabolisme"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explication": "a) Juste : l'IH diminue l'EPPH. b) Juste. c) Juste : absence par voie locale et intra-artérielle. d) Fausse : l'EPP est une perte de médicament avant l'arrivée dans la circulation générale. e) Juste.",
+    "source": {
+      "page": 23,
+      "extrait": "consiste en une perte de médicament par métabolisme, avant son arrivée dans la circulation générale"
+    },
+    "difficulte": 2,
+    "tags": [
+      "EPP"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/qcm-103",
+    "type": "multiple",
+    "enonce": "Concernant les variations interindividuelles du métabolisme :",
+    "options": [
+      "Elles peuvent être d'origine génétique",
+      "Elles peuvent justifier un ajustement de posologie",
+      "Elles peuvent justifier un suivi thérapeutique par mesure des concentrations plasmatiques",
+      "Elles sont indépendantes de l'âge",
+      "Elles sont indépendantes des médicaments associés"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "a), b), c) Justes : contrôle génétique de certaines voies, ajustements de posologie et suivi thérapeutique (mesure des Cp). d) Fausse : l'âge est un facteur physiologique majeur. e) Fausse : les IAM modifient le métabolisme.",
+    "source": {
+      "page": 39,
+      "extrait": "le recours dans certains cas à des ajustements de posologie et si nécessaire au suivi thérapeutique"
+    },
+    "difficulte": 2,
+    "tags": [
+      "facteurs de variation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/qcm-104",
+    "type": "multiple",
+    "enonce": "Parmi les propositions suivantes concernant les réactions de phase I et II :",
+    "options": [
+      "Les réactions de phase I précèdent obligatoirement celles de phase II",
+      "Les réactions de phase II peuvent porter directement sur le médicament",
+      "Les réactions de phase I créent des sites de conjugaison",
+      "Les réactions de phase II nécessitent de l'énergie",
+      "Les réactions de phase I sont toujours des oxydations"
+    ],
+    "correctes": [
+      1,
+      2,
+      3
+    ],
+    "explication": "a) Fausse : la phase I n'est pas obligatoire. b) Juste : la conjugaison peut porter sur le médicament ou sur les métabolites de phase I. c) Juste. d) Juste : apport d'ATP. e) Fausse : l'oxydation est la plus importante mais il existe aussi réduction et hydrolyse.",
+    "source": {
+      "page": 10,
+      "extrait": "La phase I n'est pas obligatoire , certains mdts peuvent subir directement la phase II"
+    },
+    "difficulte": 3,
+    "tags": [
+      "phase I",
+      "phase II"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/qcm-105",
+    "type": "multiple",
+    "enonce": "Un patient insuffisant hépatique recevant un médicament à fort EPP hépatique :",
+    "options": [
+      "Voit son EPP hépatique diminué",
+      "Risque un surdosage",
+      "Présente une activité enzymatique hépatique diminuée",
+      "Voit sa concentration plasmatique augmentée",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes les propositions découlent du cours : en cas d'IH, l'activité enzymatique du foie et l'EPPH diminuent, d'où une augmentation des concentrations plasmatiques et un risque de surdosage.",
+    "source": {
+      "page": 29,
+      "extrait": "diminution de l'activité enzymatique du foie, diminution de l'EPPH"
+    },
+    "difficulte": 2,
+    "tags": [
+      "insuffisance hépatique",
+      "EPP"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/qcm-106",
+    "type": "multiple",
+    "enonce": "Concernant les prodrogues et métabolites actifs d'après le cours :",
+    "options": [
+      "La spironolactone est une molécule initialement inactive",
+      "La canrénone est le métabolite actif de la spironolactone",
+      "L'époxycarbamazépine est un métabolite actif",
+      "L'hydroxyphénobarbital est un métabolite actif",
+      "La NAPQI est un métabolite inactif"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "a), b), c) Justes d'après les exemples du cours. d) Fausse : l'hydroxyphénobarbital est un métabolite inactif. e) Fausse : la NAPQI est un métabolite toxique (réactif).",
+    "source": {
+      "page": 9,
+      "extrait": "Formation d'un métabolite actif à partir d'une molécule initialement inactive : Spironolactone Conrenone"
+    },
+    "difficulte": 2,
+    "tags": [
+      "conséquences du métabolisme"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/qcm-107",
+    "type": "multiple",
+    "enonce": "À propos du métabolisme, quelle(s) affirmation(s) est (sont) fausse(s) ?",
+    "options": [
+      "Le foie est le principal organe de biotransformation",
+      "L'oxydation est la réaction la plus importante de la phase I",
+      "La réduction est une réaction fréquente du métabolisme",
+      "La glucuroconjugaison est la conjugaison la plus importante",
+      "Les réactions de conjugaison sont catalysées par des transférases"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Seule la proposition c est fausse : le cours qualifie la réduction de « peu courante ». Les autres affirmations sont exactes : foie en 1er lieu, oxydation la plus importante de la phase I, glucuroconjugaison +++, transférases pour la conjugaison.",
+    "source": {
+      "page": 15,
+      "extrait": "R° de Réduction Peu courante."
+    },
+    "difficulte": 2,
+    "tags": [
+      "phase I",
+      "réduction"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/qcm-108",
+    "type": "multiple",
+    "enonce": "Concernant l'association d'un inducteur enzymatique à un médicament actif dont les métabolites sont toxiques :",
+    "options": [
+      "L'activité enzymatique est augmentée",
+      "La formation des métabolites toxiques est accrue",
+      "Des effets indésirables peuvent apparaître",
+      "La formation des métabolites est ralentie",
+      "L'effet thérapeutique est toujours augmenté"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "a), b), c) Justes : l'induction augmente l'activité enzymatique, donc la formation des métabolites ; si ceux-ci sont toxiques, des effets indésirables apparaissent. d) Fausse : cela correspond à l'inhibition. e) Fausse : l'effet dépend de la nature des métabolites.",
+    "source": {
+      "page": 34,
+      "extrait": "Toxiques Effets indésirables"
+    },
+    "difficulte": 2,
+    "tags": [
+      "induction enzymatique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/qcm-109",
+    "type": "multiple",
+    "enonce": "Concernant le rôle du plasma dans le métabolisme :",
+    "options": [
+      "Le plasma participe à la biotransformation des médicaments",
+      "Le plasma contient de grandes quantités d'estérases non spécifiques",
+      "Le plasma contient des amidases",
+      "Le plasma est le site principal des réactions d'oxydation",
+      "Le plasma est dépourvu d'activité enzymatique"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "a), b), c) Justes : le plasma est cité parmi les organes participant à la biotransformation et contient de grandes quantités d'estérases non spécifiques et d'amidases. d) Fausse : l'oxydation se fait surtout dans le RE hépatique. e) Fausse.",
+    "source": {
+      "page": 16,
+      "extrait": "Les tissus des mammifères, y copris le plasma, contiennent de grandes quantités d'estérases non spécifiques"
+    },
+    "difficulte": 2,
+    "tags": [
+      "hydrolyse",
+      "plasma"
+    ],
+    "origine": "genere"
+  }
+]

@@ -1,0 +1,74 @@
+{
+  "id": "pharmacognosie/01-generalites/fiche-001",
+  "titre": "Généralités sur la pharmacognosie",
+  "sections": [
+    {
+      "titre": "Définition et historique",
+      "points": [
+        "**Pharmacognosie** : « pharmacon » + « gnosis » ; étude des matières premières naturelles (végétales ou animales) d'intérêt médical.",
+        "Sumériens : premier texte sur **plaques d'argile** (~3000 av. J.-C.) ; Égyptiens : **papyrus** (3e millénaire).",
+        "Hippocrate, Aristote : narcotiques (**opium, jusquiame, mandragore**) ; Théophraste : *Histoire des plantes*.",
+        "**Dioscoride** = véritable ancêtre des pharmacognostes (77 ap. J.-C., *De Materia medica*, **500 drogues**).",
+        "**Razès** (865-925), **Avicenne** (Ibn Sina, 980-1037, *El Kanoun fi Tib*).",
+        "**Paracelse** : herboristerie → pharmacie ; **théorie des signatures**. Puis période scientifique (observation, expérimentation)."
+      ]
+    },
+    {
+      "titre": "Buts, drogue végétale, recherche",
+      "points": [
+        "Buts : matières premières identifiées, de qualité, en quantité suffisante ; étude des drogues utilisées ; nouvelles substances.",
+        "**Drogue végétale** : matériel végétal thérapeutique sans préparation pharmaceutique (plante entière, partie, suc).",
+        "Formes : en nature (poudres, tisanes), galéniques (teintures, extraits, sirops), matières premières de médicaments.",
+        "Voies de recherche : **empirique**, **criblage (screening)**, **inductive**, + hasard."
+      ]
+    },
+    {
+      "titre": "Production et sources",
+      "points": [
+        "Production inconstante, milliers de tonnes/an : Inde (séné, opium), Chili (boldo), Brésil (café).",
+        "Cueillette : dispersion, croissance irrégulière, qualité inégale.",
+        "Culture : abondante, homogène, mécanisée, peu de falsifications ; facteurs extrinsèques (climat, sol) et intrinsèques (génétique)."
+      ]
+    },
+    {
+      "titre": "Récolte",
+      "points": [
+        "Souterraines : hors pleine végétation (printemps/automne) ; écorces : printemps ou automne ; feuilles : **début de floraison** ; fleurs : **avant complet épanouissement** ; fruits : maturité ; graines : mûres.",
+        "Plantes saines, temps sec ; plantes à H.E. : **le matin avant le lever du soleil**.",
+        "Manuelle : fleurs, souterrains, écorces, gommes, résines, latex ; mécanisée : parties aériennes, sommités, fruits, graines."
+      ]
+    },
+    {
+      "titre": "Conservation",
+      "points": [
+        "Dégradations **enzymatiques** (hydrolyses, polymérisations, isomérisations) nécessitant de l'**eau**.",
+        "**Dessiccation** : couche mince ; soleil (UV altèrent), ombre (long, artisanal), **air chaud** (le plus répandu), sous vide (chaud), lyophilisation (froid).",
+        "**Stabilisation** (dénature les enzymes) : Bourquelot (alcool bouillant), Perrot-Goris (vapeurs d'alcool 95°, autoclave), Goris-Arnould (vapeurs d'eau), chaleur sèche quelques minutes.",
+        "Stockage : limiter air, humidité, lumière."
+      ]
+    },
+    {
+      "titre": "Normalisation et essais",
+      "points": [
+        "Normes aux pharmacopées pour les plantes importantes, sinon organismes de standardisation.",
+        "Essai = identité + pureté + qualité ; botanique, physicochimique, physiologique.",
+        "Botanique : morphologie, organoleptique, microscopie → premier contrôle d'identité et de pureté.",
+        "Physicochimique : qualitatif (UV, colorations, CCM, CPG, HPLC) ; quantitatif (eau **< 10 %**, cendres = minéraux, PA).",
+        "Physiologique : toxicité aiguë (DMM, DL50), chronique ; contrôle d'activité."
+      ]
+    }
+  ],
+  "aRetenir": [
+    "Dioscoride = ancêtre des pharmacognostes ; Paracelse = théorie des signatures.",
+    "Fleurs récoltées AVANT complet épanouissement ; feuilles au DÉBUT de la floraison.",
+    "La dessiccation n'est pas la stabilisation : seule la stabilisation détruit les enzymes.",
+    "Teneur en eau d'une drogue < 10 %."
+  ],
+  "pieges": [
+    "« Histoire des plantes » = Théophraste, pas Dioscoride.",
+    "Séchage le plus répandu = air chaud, pas soleil.",
+    "Perrot-Goris = vapeurs d'alcool ; Goris-Arnould = vapeurs d'eau ; Bourquelot = alcool bouillant.",
+    "Graines = récolte mécanisée ; écorces et organes souterrains = récolte manuelle.",
+    "Les cendres évaluent les éléments minéraux, pas les principes actifs."
+  ]
+}

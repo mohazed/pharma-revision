@@ -1,0 +1,75 @@
+{
+  "id": "pharmacognosie/02-glucides/fiche-001",
+  "titre": "Les glucides",
+  "sections": [
+    {
+      "titre": "Généralités",
+      "points": [
+        "Glucides = saccharides = hydrates de carbone Cn(H2O)n ; **métabolites primaires**, universels.",
+        "Animaux ≈ 5 % du poids sec, végétaux jusqu'à **70 %** ; origine : **photosynthèse**.",
+        "Rôles : énergétique (glucose, amidon), biosynthétique, structural (cellulose)."
+      ]
+    },
+    {
+      "titre": "Classification",
+      "points": [
+        "**Oses** (n = 3 à 9, aldoses/cétoses) : glycéraldéhyde, DHA, érythrose, érythrulose, ribose, xylulose, glucose (aldohexose), fructose (cétohexose).",
+        "**Holosides** : homogènes (maltose Glc α1→4 Glc) ou hétérogènes (saccharose Glc α1→2 Fru) ; di- (2), oligo- (3–10, gentianose), poly- (> 10, cellulose).",
+        "**Hétérosides** : O (saponosides, flavonoïdes glycosylés), S (glucosinolates), N (nucléosides), C (aloïne)."
+      ]
+    },
+    {
+      "titre": "Propriétés et analyse",
+      "points": [
+        "Solubilité : oses solubles dans l'eau, peu dans l'alcool absolu ; oligosides solubles dans l'alcool 70–80° ; polysaccharides précipités par l'alcool.",
+        "Séries D/L : OH du C asymétrique le plus éloigné du carbonyle ; pouvoir rotatoire indépendant (D-fructose lévogyre).",
+        "Hydroxyles : esters, éthers, **acides uroniques** (oxydation), **désoxy-sucres** (rhamnose).",
+        "Carbonyles : réducteur (**Fehling** → Cu2O rouge brique ; miroir d'argent), **itols**, osazones, furfural (Sélivanoff = cétoses, orcinol = pentoses, Molish, Bertrand), hémiacétals.",
+        "Caractérisation : Keller-Kiliani (2-désoxyoses), Tollens-naphtorésorcinol (acides uroniques), iode (amidon), indice de gonflement (gommes, mucilages), acidimétrie (alginique), soufre (carraghénane).",
+        "Dosage : Fehling (Cu2O pesé), notatine (glucose-oxydase)."
+      ]
+    },
+    {
+      "titre": "Oses et dérivés",
+      "points": [
+        "**Glucose** : hydrolyse de l'amidon (α-amylase → amyloglucosidase), perfusion 5 %, matière première du sorbitol et de la vitamine C.",
+        "**Galactose** : algues, gommes, mucilages ; Levovist® (échographie).",
+        "**Fructose** : fruits, miel, inuline (Inula helenium) ; excipient ; usage parentéral abandonné.",
+        "**Mannitol** (E421) : manne de Fraxinus ornus ; diurétique osmotique IV.",
+        "**Sorbitol** (E420) : hydrogénation du glucose ; laxatif osmotique, vitamine C.",
+        "**Xylitol** (E967) : xylanes du bouleau ; anticarieux.",
+        "**Vitamine C** : hydrosoluble, non synthétisée par l'homme ; acérola, cynorhodon, argousier ; collagène, fer, scorbut."
+      ]
+    },
+    {
+      "titre": "Holosides",
+      "points": [
+        "**Saccharose** : canne (Poaceae, pressage des tiges), betterave (Amaranthaceae, cossettes + eau chaude) ; sirops, masquage de l'amertume.",
+        "**Cyclodextrines** α/β/γ = 6/7/8 Glc α(1→4) ; cavité hydrophobe, surface hydrophile.",
+        "**Dextranes** (Leuconostoc, α1→6) : Dextran 70 succédané du plasma, Dextran 40 microcirculation, sulfate anticoagulant.",
+        "**Alginates** (algues brunes ; M + G) : Na soluble, Ca insoluble, gel egg-box ; anti-reflux, Coalgan.",
+        "**Carraghénanes** (algues rouges, sulfatés) ; **agar** (Gelidium, Gracilaria ; agarose/agaropectine) : laxatif de lest, milieux de culture.",
+        "**Amidon** : amylose 15–30 % (α1→4), amylopectine 70–85 % (α1→6) ; gélatinisation → empesage ; excipient.",
+        "**Cellulose** : ~300 β-D-Glc (1→4) ; coton ; dérivés (CMC, oxycellulose hémostatique, HPMC).",
+        "**Gommes** (exsudats) : Sterculia/karaya, arabique (Acacia, incompatible avec les phénols), adragante (Astragalus).",
+        "**Mucilages** : neutres (caroube antiémétique, guar), acides (psyllium, ispaghul, lin, guimauve, mauve, tilleul).",
+        "**Pectines** : polygalacturonanes ; pommes et citrons ; antidiarrhéiques, hémostatiques."
+      ]
+    }
+  ],
+  "aRetenir": [
+    "Le pouvoir rotatoire ne dépend pas de la série D/L.",
+    "Cyclodextrines α 6, β 7, γ 8 ; cavité hydrophobe.",
+    "Dextran 70 = plasma ; Dextran 40 = microcirculation.",
+    "Alginates = algues brunes ; carraghénanes et agar = algues rouges.",
+    "Amidon = α-glucose ; cellulose = β-glucose."
+  ],
+  "pieges": [
+    "Mannitol E421, sorbitol E420, xylitol E967.",
+    "Manioc = Euphorbiaceae ; patate douce = Convolvulaceae.",
+    "Gélatinisation AVANT empesage.",
+    "Gommes = exsudats après traumatisme ; mucilages = constituants normaux.",
+    "L'hydrosolubilité des pectines augmente avec la méthylation.",
+    "Alginate : solubilisé en milieu ALCALIN, récupéré par acidification."
+  ]
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "pharmacie-galenique/12-sterilisation-partie-2/mnemo-001",
+    "titre": "Gaz stérilisants",
+    "moyen": "« OF-AP » : Oxyde d'éthylène, Formaldéhyde, Acide peracétique, Plasma",
+    "explication": "Quatre gaz ; tous toxiques sauf le Plasma (H2O2)."
+  },
+  {
+    "id": "pharmacie-galenique/12-sterilisation-partie-2/mnemo-002",
+    "titre": "OE : 2 et 1",
+    "moyen": "« 2 dans l'objet, 1 dans le nez »",
+    "explication": "OE résiduel dans le matériel < 2 ppm ; exposition des opérateurs ≤ 1 ppm sur 8 h."
+  },
+  {
+    "id": "pharmacie-galenique/12-sterilisation-partie-2/mnemo-003",
+    "titre": "Indicateurs par procédé",
+    "moyen": "« Vapeur-Stéaro, Sec-Subtilis, Rayons-Pumilus, Filtre-Diminuta »",
+    "explication": "G. stearothermophilus (chaleur humide), B. subtilis (chaleur sèche), B. pumilus (radiations), P. diminuta (filtration)."
+  },
+  {
+    "id": "pharmacie-galenique/12-sterilisation-partie-2/mnemo-004",
+    "titre": "Milieux de l'essai de stérilité",
+    "moyen": "« Thio-Trente pour les sans-air, Soja-Vingt pour les champignons »",
+    "explication": "Thioglycolate à 30–35 °C : aérobies et anaérobies ; caséine-soja à 20–25 °C : aérobies et champignons ; 14 jours."
+  },
+  {
+    "id": "pharmacie-galenique/12-sterilisation-partie-2/mnemo-005",
+    "titre": "Chiffres de la filtration",
+    "moyen": "« 0,22 filtre, 0,3 teste, 99,97 respire »",
+    "explication": "Membrane ≤ 0,22 µm ; P. diminuta 0,3 µm ; HEPA ≥ 99,97 % des particules de DOP."
+  }
+]

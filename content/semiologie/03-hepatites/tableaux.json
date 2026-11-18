@@ -1,0 +1,299 @@
+[
+  {
+    "id": "semiologie/03-hepatites/tableau-001",
+    "titre": "Virus des hépatites",
+    "colonnes": [
+      "Virus",
+      "Transmission",
+      "Incubation",
+      "Chronicité",
+      "Diagnostic",
+      "Vaccin"
+    ],
+    "lignes": [
+      [
+        "VHA (ARN)",
+        "Féco-orale",
+        "15 à 45 jours",
+        "Jamais",
+        "IgM anti-VHA",
+        "Oui"
+      ],
+      [
+        "VHB (ADN)",
+        "Sang, sexuelle, mère-enfant",
+        "1 à 6 mois",
+        "5–10 % adulte, 90 % nouveau-né",
+        "Ag HBs, IgM anti-HBc",
+        "Oui"
+      ],
+      [
+        "VHC (ARN)",
+        "Sang",
+        "2 semaines à 6 mois",
+        "≈ 70 %",
+        "Ac anti-VHC puis ARN",
+        "Non"
+      ],
+      [
+        "VHD (ARN)",
+        "Sang, sexuelle ; avec le VHB",
+        "1 à 6 mois",
+        "Fréquente en surinfection",
+        "Ac anti-VHD",
+        "Anti-VHB"
+      ],
+      [
+        "VHE (ARN)",
+        "Féco-orale, alimentaire",
+        "15 à 60 jours",
+        "Immunodéprimé seulement",
+        "IgM anti-VHE",
+        "Non"
+      ]
+    ]
+  },
+  {
+    "id": "semiologie/03-hepatites/tableau-002",
+    "titre": "Interprétation des marqueurs du VHB",
+    "colonnes": [
+      "Ag HBs",
+      "Ac anti-HBc",
+      "Ac anti-HBs",
+      "Interprétation"
+    ],
+    "lignes": [
+      [
+        "+",
+        "+ (IgM)",
+        "−",
+        "Hépatite B aiguë"
+      ],
+      [
+        "+ (> 6 mois)",
+        "+ (IgG)",
+        "−",
+        "Infection chronique"
+      ],
+      [
+        "−",
+        "+",
+        "+",
+        "Infection ancienne guérie"
+      ],
+      [
+        "−",
+        "−",
+        "+",
+        "Sujet vacciné"
+      ],
+      [
+        "−",
+        "−",
+        "−",
+        "Non immunisé, à vacciner"
+      ]
+    ]
+  },
+  {
+    "id": "semiologie/03-hepatites/tableau-003",
+    "titre": "Bilan hépatique : anomalie / orientation",
+    "colonnes": [
+      "Anomalie biologique",
+      "Syndrome ou cause",
+      "Orientation"
+    ],
+    "lignes": [
+      [
+        "ALAT, ASAT ↑ (> 10 N, ALAT > ASAT)",
+        "Cytolyse",
+        "Hépatite aiguë"
+      ],
+      [
+        "Cytolyse < 5–10 N fluctuante",
+        "Cytolyse",
+        "Hépatite chronique"
+      ],
+      [
+        "ASAT/ALAT > 1",
+        "Cytolyse",
+        "Alcool ou cirrhose"
+      ],
+      [
+        "PAL + γGT + bilirubine conjuguée ↑",
+        "Cholestase",
+        "Défaut d'écoulement biliaire"
+      ],
+      [
+        "PAL isolée",
+        "—",
+        "Os, grossesse"
+      ],
+      [
+        "γGT isolée",
+        "—",
+        "Alcool, inducteurs enzymatiques, stéatose"
+      ],
+      [
+        "TP et facteur V bas",
+        "Insuffisance hépatocellulaire",
+        "Insuffisance hépatique (gravité)"
+      ],
+      [
+        "TP bas, facteur V normal",
+        "—",
+        "Carence en vitamine K"
+      ],
+      [
+        "Hypergammaglobulinémie polyclonale",
+        "Syndrome inflammatoire",
+        "Surtout formes chroniques"
+      ]
+    ]
+  },
+  {
+    "id": "semiologie/03-hepatites/tableau-004",
+    "titre": "Hépatites médicamenteuses selon le rapport R",
+    "colonnes": [
+      "Profil",
+      "Rapport R",
+      "Médicaments"
+    ],
+    "lignes": [
+      [
+        "Cytolytique",
+        "R ≥ 5",
+        "Paracétamol, isoniazide, pyrazinamide, AINS, valproate, kétoconazole"
+      ],
+      [
+        "Mixte",
+        "2 < R < 5",
+        "Carbamazépine, phénytoïne, sulfamides, allopurinol"
+      ],
+      [
+        "Cholestatique",
+        "R ≤ 2",
+        "Amoxicilline-acide clavulanique, chlorpromazine, œstrogènes, macrolides"
+      ]
+    ]
+  },
+  {
+    "id": "semiologie/03-hepatites/carte-001",
+    "type": "carte",
+    "titre": "Sémiologie des hépatites",
+    "racine": {
+      "label": "Hépatite",
+      "enfants": [
+        {
+          "label": "Clinique",
+          "enfants": [
+            {
+              "label": "Asthénie (constante)",
+              "enfants": []
+            },
+            {
+              "label": "Triade ictérique",
+              "enfants": []
+            },
+            {
+              "label": "Prurit (cholestase)",
+              "enfants": []
+            },
+            {
+              "label": "4 phases",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Biologie",
+          "enfants": [
+            {
+              "label": "Cytolyse",
+              "enfants": []
+            },
+            {
+              "label": "Cholestase",
+              "enfants": []
+            },
+            {
+              "label": "Insuffisance hépatocellulaire",
+              "enfants": []
+            },
+            {
+              "label": "Syndrome inflammatoire",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Gravité",
+          "enfants": [
+            {
+              "label": "TP < 50 %",
+              "enfants": []
+            },
+            {
+              "label": "Encéphalopathie",
+              "enfants": []
+            },
+            {
+              "label": "Fulminante / subfulminante",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Causes",
+          "enfants": [
+            {
+              "label": "Virus A à E",
+              "enfants": []
+            },
+            {
+              "label": "Médicaments (rapport R)",
+              "enfants": []
+            },
+            {
+              "label": "Alcool",
+              "enfants": []
+            },
+            {
+              "label": "Auto-immune",
+              "enfants": []
+            },
+            {
+              "label": "Métabolique",
+              "enfants": []
+            },
+            {
+              "label": "Wilson",
+              "enfants": []
+            },
+            {
+              "label": "Ischémie",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Chronique",
+          "enfants": [
+            {
+              "label": "Fibrose",
+              "enfants": []
+            },
+            {
+              "label": "Cirrhose (IHC + HTP)",
+              "enfants": []
+            },
+            {
+              "label": "Carcinome hépatocellulaire",
+              "enfants": []
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

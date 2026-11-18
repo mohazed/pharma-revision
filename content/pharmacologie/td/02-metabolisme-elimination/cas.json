@@ -1,0 +1,190 @@
+[
+  {
+    "id": "pharmacologie/td/02-metabolisme-elimination/cas-001",
+    "titre": "Insuffisance hépatique et propranolol (exercice 1)",
+    "enonce": "Un patient âgé insuffisant hépatique, hypertendu, reçoit du propranolol sans que le médecin connaisse son IH. Il présente une hypotension avec syncope.",
+    "questions": [
+      {
+        "id": "pharmacologie/td/02-metabolisme-elimination/cas-001-q1",
+        "type": "multiple",
+        "enonce": "Mécanisme principal :",
+        "options": [
+          "Augmentation de la Cp",
+          "Induction enzymatique",
+          "Augmentation de la clairance hépatique",
+          "Diminution du métabolisme hépatique",
+          "Diminution de l'EPPH"
+        ],
+        "correctes": [
+          0,
+          3,
+          4
+        ],
+        "explication": "IH → ↓ activité enzymatique et ↓ EPPH → ↑ Cp → surdosage.",
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacologie/td/02-metabolisme-elimination/cas-001-q2",
+        "type": "multiple",
+        "enonce": "L'âge intervient car :",
+        "options": [
+          "Le sujet âgé est acétyleur rapide",
+          "La masse hépatique diminue",
+          "Le pouvoir métabolique diminue",
+          "L'activité enzymatique augmente",
+          "Le flux sanguin hépatique diminue"
+        ],
+        "correctes": [
+          1,
+          2,
+          4
+        ],
+        "explication": "Vieillissement : ↓ masse hépatique, ↓ flux sanguin hépatique, ↓ pouvoir métabolique.",
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacologie/td/02-metabolisme-elimination/cas-001-q3",
+        "type": "multiple",
+        "enonce": "Conduite à tenir :",
+        "options": [
+          "Signaler l'IH au prescripteur",
+          "Augmenter la dose",
+          "Diminuer la posologie",
+          "Associer de la rifampicine",
+          "Suivi thérapeutique si nécessaire"
+        ],
+        "correctes": [
+          0,
+          2,
+          4
+        ],
+        "explication": "Ajustement posologique et suivi thérapeutique, en tenant compte de l'IH.",
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "pharmacologie/td/02-metabolisme-elimination/cas-002",
+    "titre": "Contraceptif et phénobarbital (exercice 2)",
+    "enonce": "Une femme sous contraceptif oral reçoit du phénobarbital pour une épilepsie ; elle tombe enceinte.",
+    "questions": [
+      {
+        "id": "pharmacologie/td/02-metabolisme-elimination/cas-002-q1",
+        "type": "multiple",
+        "enonce": "Le phénobarbital est :",
+        "options": [
+          "Un inducteur enzymatique",
+          "Un acide faible",
+          "Sans effet sur le métabolisme",
+          "Un antihistaminique H2",
+          "Un inhibiteur enzymatique"
+        ],
+        "correctes": [
+          0,
+          1
+        ],
+        "explication": "Phénobarbital : inducteur enzymatique (anticonvulsivant) et acide faible.",
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacologie/td/02-metabolisme-elimination/cas-002-q2",
+        "type": "multiple",
+        "enonce": "Conséquence sur le contraceptif :",
+        "options": [
+          "Effet raccourci → inefficacité",
+          "Effet prolongé",
+          "Métabolisme accéléré",
+          "Concentrations diminuées",
+          "Accumulation toxique"
+        ],
+        "correctes": [
+          0,
+          2,
+          3
+        ],
+        "explication": "L'induction accélère le métabolisme vers des métabolites inactifs : effet raccourci.",
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacologie/td/02-metabolisme-elimination/cas-002-q3",
+        "type": "unique",
+        "enonce": "Un exemple comparable cité dans le cours est :",
+        "options": [
+          "Probénécide et pénicilline G",
+          "Kétoconazole et simvastatine",
+          "Pamplemousse et statines",
+          "Rifampicine et ciclosporine",
+          "Cimétidine et phénobarbital"
+        ],
+        "correctes": [
+          3
+        ],
+        "explication": "Rifampicine/millepertuis (inducteurs CYP3A4) accélèrent l'élimination de la ciclosporine. Kétoconazole et pamplemousse sont des inhibiteurs ; probénécide/pénicilline G est une compétition tubulaire.",
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "pharmacologie/td/02-metabolisme-elimination/cas-003",
+    "titre": "Fonction rénale et clairance (exercices 3 à 5)",
+    "enonce": "Le médicament A, non métabolisé et éliminé par le rein, a une t1/2 de 20 min chez une patiente de 25 ans et de 30 min chez une dame de 60 ans. Par ailleurs, un patient sous digoxine émet 100 ml d'urine en 1 h (U = 80 µg/ml ; P = 2 µg/ml). Un enfant intoxiqué au phénobarbital reçoit du bicarbonate.",
+    "questions": [
+      {
+        "id": "pharmacologie/td/02-metabolisme-elimination/cas-003-q1",
+        "type": "multiple",
+        "enonce": "Chez la dame de 60 ans :",
+        "options": [
+          "La ke de A est augmentée",
+          "La fonction rénale est diminuée",
+          "Il y a risque d'accumulation",
+          "Le métabolisme hépatique de A est en cause",
+          "L'élimination de A est ralentie"
+        ],
+        "correctes": [
+          1,
+          2,
+          4
+        ],
+        "explication": "A n'est pas métabolisé : l'allongement de t1/2 reflète une baisse de la fonction rénale.",
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacologie/td/02-metabolisme-elimination/cas-003-q2",
+        "type": "multiple",
+        "enonce": "La clairance de la digoxine est :",
+        "options": [
+          "≈ 66,7 ml/min",
+          "160 ml/min",
+          "40 ml/min",
+          "1,6 ml/h",
+          "4000 ml/h"
+        ],
+        "correctes": [
+          0,
+          4
+        ],
+        "explication": "Cl = 80 × 100/2 = 4000 ml/h ≈ 66,7 ml/min.",
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacologie/td/02-metabolisme-elimination/cas-003-q3",
+        "type": "multiple",
+        "enonce": "Le bicarbonate :",
+        "options": [
+          "Ionise le phénobarbital",
+          "Alcalinise l'urine",
+          "Acidifie l'urine",
+          "Augmente sa réabsorption",
+          "Diminue sa réabsorption tubulaire"
+        ],
+        "correctes": [
+          0,
+          1,
+          4
+        ],
+        "explication": "pH urinaire ↑ → acide faible ionisé → ↓ réabsorption passive → ↑ élimination.",
+        "origine": "genere"
+      }
+    ]
+  }
+]

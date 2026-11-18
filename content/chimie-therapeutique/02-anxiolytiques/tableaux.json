@@ -1,0 +1,255 @@
+[
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/tableau-001",
+    "titre": "Benzodiazépines : classes chimiques et exemples",
+    "colonnes": [
+      "Groupe chimique",
+      "Caractéristique structurale",
+      "Exemples (spécialité)"
+    ],
+    "lignes": [
+      [
+        "Diazépines",
+        "Pas de carbonyle en 2 ; N-oxyde en 4",
+        "Chlordiazépoxyde (Librium®)"
+      ],
+      [
+        "Diazépinones 7-halogénées",
+        "C=O en 2, halogène en 7",
+        "Diazépam (Valium®), prazépam (Lysanxia®), bromazépam (Lexomil®), tétrazépam (Myolastan®), nordazépam (Nordaz®)"
+      ],
+      [
+        "Diazépinones 7-nitrées",
+        "C=O en 2, NO2 en 7",
+        "Hypnotiques (nitrazépam, flunitrazépam), antiépileptique (clonazépam)"
+      ],
+      [
+        "Diazépinolone",
+        "OH en 3",
+        "Témazépam (Normison®), oxazépam (Seresta®), lorazépam (Temesta®), lormétazépam (Noctamide®)"
+      ],
+      [
+        "Diazépinone carboxylique",
+        "COOR en 3",
+        "Clorazépate (Tranxène®), loflazépate (Victan®)"
+      ],
+      [
+        "Triazolo / imidazo-BZD",
+        "Cycle triazolé ou imidazolé fusionné",
+        "Estazolam (Nuctalon®), alprazolam (Xanax®), triazolam (Halcion®), flumazénil (Anexate®)"
+      ],
+      [
+        "Autres BZD",
+        "1,5-BZD ou thiéno-diazépine",
+        "Clobazam (Urbanyl®), clotiazépam (Veratran®)"
+      ]
+    ]
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/tableau-002",
+    "titre": "Dérivés 7-halogénés : substituants",
+    "colonnes": [
+      "DCI",
+      "Spécialité",
+      "X (position 7)",
+      "R1 (N1)",
+      "R2 (position 5)"
+    ],
+    "lignes": [
+      [
+        "Diazépam",
+        "Valium®",
+        "Cl",
+        "CH3",
+        "C6H5"
+      ],
+      [
+        "Prazépam",
+        "Lysanxia®",
+        "Cl",
+        "Cyclopropylméthyle",
+        "C6H5"
+      ],
+      [
+        "Bromazépam",
+        "Lexomil®",
+        "Br",
+        "H",
+        "Pyridyl-2"
+      ],
+      [
+        "Tétrazépam",
+        "Myolastan®",
+        "Cl",
+        "CH3",
+        "Cyclohexényle"
+      ],
+      [
+        "Nordazépam",
+        "Nordaz®",
+        "Cl",
+        "H",
+        "C6H5"
+      ]
+    ]
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/tableau-003",
+    "titre": "Relations structure-activité des 1,4-benzodiazépines",
+    "colonnes": [
+      "Position",
+      "Exigence",
+      "Conséquence"
+    ],
+    "lignes": [
+      [
+        "Cycle A",
+        "Aromaticité nécessaire",
+        "Phényle ou thiophène (clotiazépam : affinité augmentée)"
+      ],
+      [
+        "C7 (X)",
+        "Groupe électroattracteur",
+        "Activité ↑ avec l'électronégativité ; C6/C8/C9 → activité ↓"
+      ],
+      [
+        "C7 nitré / halogéné",
+        "NO2 ou halogène",
+        "Nitré : hypnotique ou antiépileptique ; halogéné : anxiolytique"
+      ],
+      [
+        "N1",
+        "Azote méthylé ou non",
+        "CH3 augmente l'activité"
+      ],
+      [
+        "C2",
+        "Électroattracteur (C=O)",
+        "Parfois méthyle ou cycle coiffant 1-2 (estazolam)"
+      ],
+      [
+        "C3",
+        "CH2, OH ou COOH",
+        "OH (oxazépam) / COOH (clorazépate, prodrogue) : sels hydrosolubles"
+      ],
+      [
+        "N4",
+        "Imine ou N-oxyde",
+        "Déplacement de l'azote possible (clobazam, 1,5-BZD)"
+      ],
+      [
+        "Cycle C",
+        "Cycle requis pour la lipophilie",
+        "Cyclohexène → myorelaxant ; ortho-halogène F > Cl > H"
+      ]
+    ]
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/tableau-004",
+    "titre": "Anxiolytiques non benzodiazépiniques",
+    "colonnes": [
+      "Médicament",
+      "Classe",
+      "Mécanisme / particularité",
+      "Usage"
+    ],
+    "lignes": [
+      [
+        "Méprobamate",
+        "Carbamate",
+        "Inducteur enzymatique, pas d'antidote en cas de surdosage",
+        "Très peu utilisé (400 mg/cp)"
+      ],
+      [
+        "Hydroxyzine (Atarax®)",
+        "Antihistaminique",
+        "Anticholinergique",
+        "Anxiétés mineures"
+      ],
+      [
+        "Buspirone",
+        "Azaspirodécanedione",
+        "Agoniste 5-HT1A présynaptique ; délai 1-3 semaines, sans dépendance",
+        "Anxiété"
+      ],
+      [
+        "Clonidine",
+        "Agoniste α2 adrénergique",
+        "Inhibe la libération de noradrénaline",
+        "Troubles paniques, sevrage nicotine/opiacés"
+      ],
+      [
+        "Propranolol",
+        "Bêtabloquant",
+        "Blocage des récepteurs β-adrénergiques",
+        "Symptômes neurovégétatifs de l'anxiété"
+      ]
+    ]
+  },
+  {
+    "id": "chimie-therapeutique/02-anxiolytiques/carte-005",
+    "type": "carte",
+    "titre": "Les anxiolytiques",
+    "racine": {
+      "label": "Anxiolytiques",
+      "enfants": [
+        {
+          "label": "Benzodiazépines",
+          "enfants": [
+            {
+              "label": "Noyau 3H-benzo(e)diazépine-1,4",
+              "enfants": []
+            },
+            {
+              "label": "6 classes chimiques",
+              "enfants": []
+            },
+            {
+              "label": "Mécanisme GABAA",
+              "enfants": []
+            },
+            {
+              "label": "RSA (7, N1, C2, C3, N4, cycle C)",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Carbamates",
+          "enfants": [
+            {
+              "label": "Méprobamate",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Hydroxyzine",
+          "enfants": []
+        },
+        {
+          "label": "Buspirone",
+          "enfants": [
+            {
+              "label": "Agoniste 5-HT1A",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Bêtabloquants et α2",
+          "enfants": [
+            {
+              "label": "Propranolol",
+              "enfants": []
+            },
+            {
+              "label": "Clonidine",
+              "enfants": []
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "pharmacie-galenique/04-materiaux-conditionnement/mnemo-001",
+    "titre": "Composition du verre",
+    "moyen": "« Si Na Ca : Vitrifie, Fond, Stabilise »",
+    "explication": "SiO₂ = vitrifiant, oxyde de sodium = fondant, CaO = stabilisant."
+  },
+  {
+    "id": "pharmacie-galenique/04-materiaux-conditionnement/mnemo-002",
+    "titre": "Types de verre",
+    "moyen": "« 1 pour Tous, 2 Sauf Basiques, 3 Sec ou poudre, 4 Non stérile »",
+    "explication": "I : toutes préparations ; II : toutes sauf basiques ; III : stérilisables non aqueuses et poudres stériles ; IV : non stériles."
+  },
+  {
+    "id": "pharmacie-galenique/04-materiaux-conditionnement/mnemo-003",
+    "titre": "Adjuvants des plastomères",
+    "moyen": "« Pas d'Actrice Sans Fan, Chère Couturière » : Plastifiant, Antioxydant, Stabilisant, antiFongique, Charge, Colorant",
+    "explication": "Les six adjuvants des plastomères cités dans le cours."
+  },
+  {
+    "id": "pharmacie-galenique/04-materiaux-conditionnement/mnemo-004",
+    "titre": "Densité des polyéthylènes",
+    "moyen": "« Haute densité = Basse pression = rigide »",
+    "explication": "PEHD = PEBP (récipient rigide) ; PEBD = PEHP (récipient souple)."
+  }
+]

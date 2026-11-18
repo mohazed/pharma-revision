@@ -1,0 +1,164 @@
+[
+  {
+    "id": "pharmacie-galenique/10-solubilisation-dispersion/flashcard-001",
+    "recto": "Solubilité (définition)",
+    "verso": "Quantité maximale de soluté dissous dans une certaine quantité de solvant, à une température donnée.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/10-solubilisation-dispersion/flashcard-002",
+    "recto": "Lien solubilité / biodisponibilité",
+    "verso": "Une faible solubilité peut entraîner une mauvaise biodisponibilité.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/10-solubilisation-dispersion/flashcard-003",
+    "recto": "Très soluble / facilement soluble",
+    "verso": "Très soluble : < 1 volume de solvant ; facilement soluble : 1 à 10.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/10-solubilisation-dispersion/flashcard-004",
+    "recto": "Soluble / assez soluble",
+    "verso": "Soluble : 10 à 30 ; assez soluble : 30 à 100 volumes.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/10-solubilisation-dispersion/flashcard-005",
+    "recto": "Peu soluble / très peu soluble / pratiquement insoluble",
+    "verso": "100–1 000 ; 1 000–10 000 ; > 10 000 volumes.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/10-solubilisation-dispersion/flashcard-006",
+    "recto": "Solubilisation (définition)",
+    "verso": "Préparer une solution thermodynamiquement stable à partir d'une substance insoluble ou peu soluble par addition d'une ou plusieurs substances.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/10-solubilisation-dispersion/flashcard-007",
+    "recto": "Six méthodes pour augmenter la solubilité",
+    "verso": "Co-solvants, hydrotropie, ajustement du pH, solubilisation micellaire, complexation, dispersion solide.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/10-solubilisation-dispersion/flashcard-008",
+    "recto": "Co-solvant (définition)",
+    "verso": "Solvant organique miscible à l'eau utilisé dans les formulations liquides pour augmenter la solubilité des substances peu solubles dans l'eau.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/10-solubilisation-dispersion/flashcard-009",
+    "recto": "Exemples de co-solvants",
+    "verso": "Éthanol, glycérine, propylène glycol, polyéthylène glycol.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/10-solubilisation-dispersion/flashcard-010",
+    "recto": "Avantages des co-solvants",
+    "verso": "↑ solubilité des PA peu polaires ; ↓ dégradation des PA hydrolysables.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/10-solubilisation-dispersion/flashcard-011",
+    "recto": "Inconvénients des co-solvants",
+    "verso": "Toxicité potentielle ; ↓ solubilité des PA ioniques ou polaires.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/10-solubilisation-dispersion/flashcard-012",
+    "recto": "Solution injectable de phénobarbital",
+    "verso": "Phénobarbital, propylène glycol, alcool, NaOH (pH), eau PPI.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/10-solubilisation-dispersion/flashcard-013",
+    "recto": "Hydrotropie",
+    "verso": "↑ solubilité dans l'eau grâce à de grandes quantités d'additifs (ex : benzoate de sodium + caféine).",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/10-solubilisation-dispersion/flashcard-014",
+    "recto": "Excipients du Valium® injectable",
+    "verso": "Propylèneglycol, éthanol, benzoate de sodium, NaOH qsp pH 6,5, alcool benzylique, eau ppi.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/10-solubilisation-dispersion/flashcard-015",
+    "recto": "CMC",
+    "verso": "Concentration micellaire critique : concentration de tensioactif à partir de laquelle se forment les micelles.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/10-solubilisation-dispersion/flashcard-016",
+    "recto": "Micelle",
+    "verso": "Agrégat sphéroïdal de molécules amphiphiles (tensioactifs), 1 à 200 nm, auto-assemblé en solution aqueuse.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/10-solubilisation-dispersion/flashcard-017",
+    "recto": "Solubilisation micellaire",
+    "verso": "Incorporation des substances dans ou sur les micelles (cœur lipophile).",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/10-solubilisation-dispersion/flashcard-018",
+    "recto": "Complexe d'inclusion",
+    "verso": "Association d'au moins deux molécules : l'invité (substrat) est encapsulé totalement ou partiellement par l'hôte (récepteur).",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/10-solubilisation-dispersion/flashcard-019",
+    "recto": "Obtention des cyclodextrines",
+    "verso": "Dégradation de l'amylose (pomme de terre, blé dégraissé) par la CGTase (Bacillus macerans, Klebsiella pneumoniae, B. stearothermophilus).",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/10-solubilisation-dispersion/flashcard-020",
+    "recto": "Nombre d'unités α, β, γ-cyclodextrines",
+    "verso": "α = 6, β = 7, γ = 8.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/10-solubilisation-dispersion/flashcard-021",
+    "recto": "Structure des cyclodextrines",
+    "verso": "OH en C2, C3 et C6 à l'extérieur ; cavité intérieure relativement apolaire et hydrophobe.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/10-solubilisation-dispersion/flashcard-022",
+    "recto": "Facteurs de formation du complexe d'inclusion",
+    "verso": "Taille de la molécule invitée ; diamètre de la cavité.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/10-solubilisation-dispersion/flashcard-023",
+    "recto": "Ratios des complexes",
+    "verso": "1/1 : PA bien ajusté ; 1/2 : PA très large ; 2/1 : cavité large avec deux PA.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/10-solubilisation-dispersion/flashcard-024",
+    "recto": "Dispersion solide",
+    "verso": "Un ou plusieurs PA dispersés à l'état solide (molécules ou particules) dans un véhicule inerte ; petite taille + véhicule hydrosoluble.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/10-solubilisation-dispersion/flashcard-025",
+    "recto": "Dispersion (opération)",
+    "verso": "Division en fines particules d'un produit dans un liquide ou un gaz où il est insoluble → préparation biphasique.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/10-solubilisation-dispersion/flashcard-026",
+    "recto": "Émulsion / suspension",
+    "verso": "Émulsion : liquide dans liquide ; suspension : solide dans liquide.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/10-solubilisation-dispersion/flashcard-027",
+    "recto": "Mousse / aérosol",
+    "verso": "Mousse : gaz dans liquide ; aérosol : solide ou liquide dans un gaz.",
+    "tags": []
+  }
+]

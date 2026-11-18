@@ -1,0 +1,123 @@
+[
+  {
+    "id": "pharmacologie/td/02-metabolisme-elimination/calc-001",
+    "titre": "Clairance rénale (exercice 4)",
+    "enonce": "Un patient urine {v} ml en 1 h ; concentration urinaire = {u} µg/ml ; concentration plasmatique = {p} µg/ml. Calculer la clairance rénale en ml/min.",
+    "variables": {
+      "v": {
+        "min": 50,
+        "max": 200,
+        "pas": 10,
+        "unite": "ml"
+      },
+      "u": {
+        "min": 10,
+        "max": 200,
+        "pas": 10,
+        "unite": "µg/ml"
+      },
+      "p": {
+        "min": 0.5,
+        "max": 10,
+        "pas": 0.5,
+        "unite": "µg/ml"
+      }
+    },
+    "formule": "u * v / p / 60",
+    "unite": "ml/min",
+    "decimales": 1,
+    "etapes": [
+      "Cl = U × V / P",
+      "Cl = {u} × {v} / {p} (ml/h, urine recueillie en 1 h)",
+      "Diviser par 60 → ml/min"
+    ],
+    "rappel": "Cl = U × V / P"
+  },
+  {
+    "id": "pharmacologie/td/02-metabolisme-elimination/calc-002",
+    "titre": "Demi-vie à partir de deux concentrations",
+    "enonce": "Après injection IV, la concentration passe de {c1} mg/L à {c2} mg/L en {dt} min. Calculer t1/2 (en min).",
+    "variables": {
+      "c1": {
+        "min": 0.1,
+        "max": 0.2,
+        "pas": 0.01,
+        "unite": "mg/L"
+      },
+      "c2": {
+        "min": 0.02,
+        "max": 0.09,
+        "pas": 0.01,
+        "unite": "mg/L"
+      },
+      "dt": {
+        "min": 10,
+        "max": 60,
+        "pas": 5,
+        "unite": "min"
+      }
+    },
+    "formule": "Math.LN2 * dt / Math.log(c1 / c2)",
+    "unite": "min",
+    "decimales": 1,
+    "etapes": [
+      "ke = ln(C1/C2) / Δt",
+      "t1/2 = ln2 / ke = 0,693 × {dt} / ln({c1}/{c2})"
+    ],
+    "rappel": "ke·t = ln(C1/C2) ; t1/2 = ln2/ke"
+  },
+  {
+    "id": "pharmacologie/td/02-metabolisme-elimination/calc-003",
+    "titre": "Constante d'élimination à partir de la demi-vie",
+    "enonce": "Un médicament a une demi-vie de {t} min. Calculer ke (min⁻¹).",
+    "variables": {
+      "t": {
+        "min": 5,
+        "max": 120,
+        "pas": 5,
+        "unite": "min"
+      }
+    },
+    "formule": "Math.LN2 / t",
+    "unite": "min⁻¹",
+    "decimales": 4,
+    "etapes": [
+      "ke = ln2 / t1/2",
+      "ke = 0,693 / {t}"
+    ],
+    "rappel": "t1/2 = ln2/ke"
+  },
+  {
+    "id": "pharmacologie/td/02-metabolisme-elimination/calc-004",
+    "titre": "Concentration restante après n demi-vies",
+    "enonce": "La concentration initiale est de {c0} mg/L et la demi-vie de {t} min. Quelle est la concentration après {dt} min ?",
+    "variables": {
+      "c0": {
+        "min": 0.05,
+        "max": 1,
+        "pas": 0.01,
+        "unite": "mg/L"
+      },
+      "t": {
+        "min": 10,
+        "max": 60,
+        "pas": 5,
+        "unite": "min"
+      },
+      "dt": {
+        "min": 10,
+        "max": 180,
+        "pas": 10,
+        "unite": "min"
+      }
+    },
+    "formule": "c0 * Math.pow(0.5, dt / t)",
+    "unite": "mg/L",
+    "decimales": 4,
+    "etapes": [
+      "n = Δt / t1/2 = {dt} / {t}",
+      "C = C0 × (1/2)^n"
+    ],
+    "rappel": "C = C0·e^(−ke·t), soit C0 × (1/2)^n"
+  }
+]

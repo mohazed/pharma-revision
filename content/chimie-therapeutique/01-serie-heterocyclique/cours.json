@@ -1,0 +1,12 @@
+{
+  "id": "chimie-therapeutique/01-serie-heterocyclique",
+  "module": "chimie-therapeutique",
+  "ordre": 1,
+  "titre": "La série hétérocyclique à intérêt thérapeutique",
+  "type": "cours",
+  "source": {
+    "driveId": "1BJxMPrestpkzNrPL_D3vJOUfI0PTYolP",
+    "fichier": "1. La Série Hétérocyclique à Intérêt Thérapeutique.pdf"
+  },
+  "resume": "Définition, classification et nomenclature (Widman-Hantzsch, noms triviaux, hétérocycles accolés) des hétérocycles et exemples d'hétérocycles à usage thérapeutique."
+}

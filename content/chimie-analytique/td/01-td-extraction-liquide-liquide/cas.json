@@ -1,0 +1,81 @@
+[
+  {
+    "id": "chimie-analytique/td/01-td-extraction-liquide-liquide/cas-001",
+    "titre": "Dosage d'une solution injectable de caféine et de benzoate de sodium (TD 1, ex. 8)",
+    "enonce": "Le volume de trois ampoules de 1 mL est complété à 100 mL par HCl 0,5 M. 5 mL sont extraits deux fois par 5 mL d'éther ; les extraits réunis sont évaporés et repris par 10 mL d'eau : 4,27 g/L d'acide benzoïque (M = 122 g/mol ; benzoate de sodium M = 144 g/mol). Rendement : 96,77 %.",
+    "questions": [
+      {
+        "type": "unique",
+        "enonce": "Rôle de l'acide chlorhydrique :",
+        "options": [
+          "Transformer le benzoate en acide benzoïque neutre extractible",
+          "Extraire la caféine",
+          "Former une paire d'ions",
+          "Rompre les émulsions",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Seules les molécules neutres sont extraites ; à pH bas l'acide benzoïque (pKa 4,2) est moléculaire.",
+        "difficulte": 1,
+        "origine": "genere",
+        "id": "chimie-analytique/td/01-td-extraction-liquide-liquide/cas-001-q1"
+      },
+      {
+        "type": "unique",
+        "enonce": "La masse d'acide benzoïque extraite est de :",
+        "options": [
+          "4,27 mg",
+          "42,7 mg",
+          "427 mg",
+          "21,4 mg",
+          "85,4 mg"
+        ],
+        "correctes": [
+          1
+        ],
+        "explication": "4,27 g/L × 10 mL = 42,7 mg.",
+        "difficulte": 1,
+        "origine": "genere",
+        "id": "chimie-analytique/td/01-td-extraction-liquide-liquide/cas-001-q2"
+      },
+      {
+        "type": "unique",
+        "enonce": "Le coefficient de partage éther/eau vaut environ :",
+        "options": [
+          "4,56",
+          "30,96",
+          "0,97",
+          "2,3",
+          "5,56"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "(1 + λ)² = 1/(1 − 0,9677) ≈ 30,96 → λ ≈ 4,56.",
+        "difficulte": 2,
+        "origine": "genere",
+        "id": "chimie-analytique/td/01-td-extraction-liquide-liquide/cas-001-q3"
+      },
+      {
+        "type": "unique",
+        "enonce": "La masse de benzoate de sodium par ampoule est d'environ :",
+        "options": [
+          "347 mg",
+          "294 mg",
+          "882 mg",
+          "44 mg",
+          "1041 mg"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "44,1 mg/5 mL → 882,5 mg/100 mL → 294,2 mg d'acide par ampoule → 347 mg de benzoate.",
+        "difficulte": 3,
+        "origine": "genere",
+        "id": "chimie-analytique/td/01-td-extraction-liquide-liquide/cas-001-q4"
+      }
+    ]
+  }
+]

@@ -1,0 +1,13 @@
+---
+import Base from "../layouts/Base.astro";
+import EnTete from "../components/EnTete.astro";
+import Flashcards from "../islands/Flashcards";
+import { getModules, getTousLesCours } from "../lib/content";
+const modules = getModules().filter((m) => getTousLesCours().some((c) => c.module === m.slug && c.flashcards.length)).map((m) => ({ slug: m.slug, titre: m.titre }));
+---
+<Base titre="Flashcards" description="Flashcards à répétition espacée (SRS) : révisez au bon moment les notions de chaque cours." etroit>
+  <EnTete surtitre="Flashcards" titre="Révision du jour" sousTitre="Retournez la carte, puis dites si c'était à revoir, difficile, bien ou facile : la prochaine révision est programmée en conséquence." />
+  <Flashcards client:only="react" modules={modules}>
+    <p slot="fallback" class="text-ink-muted">Chargement des flashcards…</p>
+  </Flashcards>
+</Base>

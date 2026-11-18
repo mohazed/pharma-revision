@@ -1,0 +1,209 @@
+[
+  {
+    "id": "pharmacologie/04-distribution/tableau-01",
+    "titre": "Facteurs influençant la fixation protéique",
+    "colonnes": [
+      "Facteur",
+      "Effet / précision du cours"
+    ],
+    "lignes": [
+      [
+        "pH sanguin",
+        "Déplacement intra/extracellulaire ; acidose métabolique : altération de l'affinité (conformation, fixation des protons)"
+      ],
+      [
+        "Concentration / saturation",
+        "Saturation si sites restreints et concentration molaire protéine = médicament"
+      ],
+      [
+        "Nature du médicament",
+        "% de fixation, affinité"
+      ],
+      [
+        "Substances endogènes",
+        "Acides gras libres et bilirubine → ↓ fixation"
+      ],
+      [
+        "Interactions médicamenteuses",
+        "Conséquences cliniques rares ; risque si fixation > 90 %, Vd < 0,14 l/kg, index thérapeutique étroit"
+      ],
+      [
+        "Facteurs pathologiques",
+        "Modifient le taux des protéines plasmatiques"
+      ],
+      [
+        "Nouveau-né",
+        "Albumine modifiée structurellement + ↑ bilirubine et acides gras"
+      ],
+      [
+        "Personne âgée",
+        "Hypoalbuminémie"
+      ],
+      [
+        "Grossesse",
+        "Hypoalbuminémie de dilution"
+      ]
+    ]
+  },
+  {
+    "id": "pharmacologie/04-distribution/tableau-02",
+    "titre": "Classification des tissus selon leur vascularisation",
+    "colonnes": [
+      "Vascularisation",
+      "Tissus"
+    ],
+    "lignes": [
+      [
+        "Richement vascularisés",
+        "Cœur, poumons, foie, reins, cerveau, glandes endocrines"
+      ],
+      [
+        "Moyennement vascularisés",
+        "Peau, muscles"
+      ],
+      [
+        "Peu vascularisés",
+        "Moelle, tissu adipeux"
+      ],
+      [
+        "Très peu vascularisés",
+        "Os, dents, tendons, ligaments, cartilages, phanères"
+      ]
+    ]
+  },
+  {
+    "id": "pharmacologie/04-distribution/tableau-03",
+    "titre": "Forme libre vs forme liée",
+    "colonnes": [
+      "Propriété",
+      "Forme libre",
+      "Forme liée"
+    ],
+    "lignes": [
+      [
+        "Diffusion tissulaire",
+        "Oui",
+        "Non"
+      ],
+      [
+        "Activité pharmacologique",
+        "Active",
+        "Inactive (temporairement)"
+      ],
+      [
+        "Élimination",
+        "Éliminable",
+        "Non éliminable directement"
+      ],
+      [
+        "Rôle",
+        "Forme active",
+        "Transport et réserve transitoire"
+      ],
+      [
+        "Équilibre",
+        "En équilibre réversible avec la forme liée",
+        "Libère la forme libre quand celle-ci disparaît"
+      ]
+    ]
+  },
+  {
+    "id": "pharmacologie/04-distribution/carte-01",
+    "type": "carte",
+    "titre": "Distribution des médicaments",
+    "racine": {
+      "label": "Distribution",
+      "enfants": [
+        {
+          "label": "Phase plasmatique",
+          "enfants": [
+            {
+              "label": "Protéines plasmatiques",
+              "enfants": [
+                {
+                  "label": "Albumine, α1 glycoprotéine acide (principales)",
+                  "enfants": []
+                },
+                {
+                  "label": "Globulines, lipoprotéines",
+                  "enfants": []
+                },
+                {
+                  "label": "Liaisons : VdW, ioniques, H (covalentes rares)",
+                  "enfants": []
+                }
+              ]
+            },
+            {
+              "label": "Facteurs de variation",
+              "enfants": [
+                {
+                  "label": "pH, saturation, nature du médicament",
+                  "enfants": []
+                },
+                {
+                  "label": "Acides gras libres, bilirubine",
+                  "enfants": []
+                },
+                {
+                  "label": "Interactions (> 90 %, Vd < 0,14 l/kg, IT étroit)",
+                  "enfants": []
+                },
+                {
+                  "label": "Nouveau-né, sujet âgé, grossesse",
+                  "enfants": []
+                }
+              ]
+            },
+            {
+              "label": "Conséquences : Vd, T1/2, effet thérapeutique",
+              "enfants": []
+            },
+            {
+              "label": "Éléments figurés : hématies (cyclosporine, sang total)",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Phase tissulaire",
+          "enfants": [
+            {
+              "label": "Mécanismes : diffusion passive, transporteurs",
+              "enfants": []
+            },
+            {
+              "label": "Facteurs : fixation, liposolubilité, irrigation, volume, affinité",
+              "enfants": []
+            },
+            {
+              "label": "4 groupes de vascularisation",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Passages particuliers",
+          "enfants": [
+            {
+              "label": "BHE : endothélium serré, enzymes, PGP",
+              "enfants": []
+            },
+            {
+              "label": "Perméabilité ↑ : naissance, méningite",
+              "enfants": []
+            },
+            {
+              "label": "Placenta : tératogénicité, intoxication du nouveau-né",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Redistribution : inversion du gradient",
+          "enfants": []
+        }
+      ]
+    }
+  }
+]

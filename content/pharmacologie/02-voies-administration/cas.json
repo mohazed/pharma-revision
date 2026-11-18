@@ -1,0 +1,203 @@
+[
+  {
+    "id": "pharmacologie/02-voies-administration/cas-01",
+    "titre": "Gastro-entérite avec vomissements itératifs",
+    "enonce": "Mlle B.A., 24 ans, présente une gastro-entérite avec vomissements itératifs. Un anti-émétique (métoclopramide, Primpéran®) doit être prescrit. Formes disponibles : comprimé, suppositoire, injectable, solution buvable.",
+    "questions": [
+      {
+        "id": "pharmacologie/02-voies-administration/cas-01-q1",
+        "type": "multiple",
+        "enonce": "Concernant les formes orales (comprimé, solution buvable) chez cette patiente :",
+        "options": [
+          "Elles nécessitent la coopérativité du sujet",
+          "Elles présentent une latence d'action",
+          "Elles sont compromises par les vomissements itératifs",
+          "Elles assurent une biodisponibilité précise",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "La voie orale exige la coopérativité du sujet, présente une latence d'action et une biodisponibilité imprécise ; des vomissements itératifs compromettent la prise. Le cours cite à l'inverse l'IV et la voie rectale comme utilisables en cas de vomissement.",
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacologie/02-voies-administration/cas-01-q2",
+        "type": "multiple",
+        "enonce": "Concernant la forme suppositoire :",
+        "options": [
+          "La voie rectale est pratique en cas de vomissements",
+          "L'EPPH est plus réduit que par voie orale",
+          "La résorption est souvent incomplète et variable",
+          "La voie rectale serait inutile si une diarrhée importante était associée",
+          "Toutes les propositions sont correctes"
+        ],
+        "correctes": [
+          4
+        ],
+        "explication": "Tous ces points figurent dans le cours (avantages et inconvénients de la voie rectale). La présence de diarrhée, fréquente dans les gastro-entérites, limite l'intérêt du suppositoire.",
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacologie/02-voies-administration/cas-01-q3",
+        "type": "multiple",
+        "enonce": "Concernant la forme injectable par voie intraveineuse :",
+        "options": [
+          "Elle est utilisable en cas de vomissements",
+          "Elle offre une rapidité d'action",
+          "Elle évite l'interaction principe actif – tube digestif",
+          "Elle nécessite un personnel qualifié",
+          "Toutes les propositions sont correctes"
+        ],
+        "correctes": [
+          4
+        ],
+        "explication": "Le cours cite tous ces éléments parmi les avantages (vomissement, rapidité, absence d'interaction avec le tube digestif) et inconvénients (personnel qualifié) de l'IV.",
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/cas-02",
+    "titre": "Lésions cutanées étendues chez une enfant",
+    "enonce": "Mlle M.K., 10 ans, présente d'importantes lésions cutanées sur les avant-bras nécessitant un traitement par anti-inflammatoire stéroïdien (corticoïde). Choix entre comprimés et crème.",
+    "questions": [
+      {
+        "id": "pharmacologie/02-voies-administration/cas-02-q1",
+        "type": "multiple",
+        "enonce": "En faveur de la crème (voie cutanée) :",
+        "options": [
+          "La localisation de la maladie est cutanée et une action locale est recherchée",
+          "La couche cornée constitue un site de stockage (effet réservoir)",
+          "Les effets superficiels des corticoïdes persistent",
+          "La voie cutanée évite toute irritation locale",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "La localisation de la maladie et l'action locale recherchée sont des critères de choix ; l'effet réservoir et la persistance des effets superficiels (corticoïdes) sont des avantages de la voie cutanée. L'irritation locale reste un inconvénient.",
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacologie/02-voies-administration/cas-02-q2",
+        "type": "multiple",
+        "enonce": "Les inconvénients possibles de la voie cutanée sont :",
+        "options": [
+          "Le frottement des habits",
+          "L'irritation locale",
+          "Des effets systémiques indésirables, surtout sur peau fine (nouveau-né)",
+          "Un effet de premier passage hépatique important",
+          "Une latence liée à la déglutition"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "Le cours cite le frottement des habits, l'irritation locale et les effets systémiques sur peau fine. L'EPPH et la déglutition concernent la voie orale.",
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacologie/02-voies-administration/cas-02-q3",
+        "type": "multiple",
+        "enonce": "Les critères de choix de la voie liés au malade, pertinents ici, sont :",
+        "options": [
+          "La localisation de la maladie",
+          "L'action locale ou générale recherchée",
+          "L'observance et la facilité de prise",
+          "La particularité du malade (enfant)",
+          "Toutes les propositions sont correctes"
+        ],
+        "correctes": [
+          4
+        ],
+        "explication": "Tous ces critères figurent dans la colonne « en fonction du malade » des critères de choix du cours.",
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "pharmacologie/02-voies-administration/cas-03",
+    "titre": "Arrêt cardiaque et urgences",
+    "enonce": "Aux urgences, un patient inconscient est admis en arrêt cardiaque. L'équipe discute de la voie d'administration de l'adrénaline et, plus tard, de la mise en place d'une perfusion de grands volumes.",
+    "questions": [
+      {
+        "id": "pharmacologie/02-voies-administration/cas-03-q1",
+        "type": "multiple",
+        "enonce": "La voie intracardiaque :",
+        "options": [
+          "Est exceptionnelle, réservée aux cas désespérés",
+          "A pour exemple l'adrénaline dans l'arrêt cardiaque",
+          "Accepte des suspensions",
+          "Nécessite des solutions stériles, limpides, apyrogènes, neutres, isotoniques",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0,
+          1,
+          3
+        ],
+        "explication": "Le cours cite l'IC comme exceptionnelle (adrénaline, arrêt cardiaque) avec les mêmes exigences que les autres voies vasculaires ; suspensions et solutions huileuses sont exclues.",
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacologie/02-voies-administration/cas-03-q2",
+        "type": "multiple",
+        "enonce": "Chez ce patient inconscient, la voie intraveineuse :",
+        "options": [
+          "Est utilisable chez un patient inconscient",
+          "Offre une rapidité d'action adaptée à l'urgence",
+          "Permet l'injection de grands volumes en perfusion",
+          "Expose à des réactions anaphylactiques",
+          "Toutes les propositions sont correctes"
+        ],
+        "correctes": [
+          4
+        ],
+        "explication": "Toutes ces propositions figurent dans le cours (avantages, modalités et inconvénients de l'IV).",
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacologie/02-voies-administration/cas-03-q3",
+        "type": "multiple",
+        "enonce": "Voies non adaptées ici selon le cours :",
+        "options": [
+          "Voie orale (non adaptée aux urgences, coopérativité requise)",
+          "Voie percutanée (non indiquée dans l'urgence)",
+          "IV directe",
+          "Voie intracardiaque",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0,
+          1
+        ],
+        "explication": "Le cours qualifie la voie orale de non adaptée aux urgences et la percutanée de non indiquée dans l'urgence ; l'IV directe et l'IC sont des voies d'urgence.",
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      }
+    ]
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "id": "pharmacie-galenique/12-sterilisation-partie-2/tableau-001",
+    "titre": "Comparaison des gaz stérilisants",
+    "colonnes": [
+      "Gaz",
+      "Pénétration",
+      "Toxicité",
+      "Points clés"
+    ],
+    "lignes": [
+      [
+        "Oxyde d'éthylène",
+        "Très pénétrant",
+        "Cancérigène, explosif",
+        "Large spectre ; désorption longue (< 2 ppm)"
+      ],
+      [
+        "Acide peracétique",
+        "Très faible",
+        "Toxique, corrosif",
+        "Isolateurs, bulles plastiques"
+      ],
+      [
+        "Formaldéhyde",
+        "Faible",
+        "Irritant, toxique",
+        "Désinfection de surface"
+      ],
+      [
+        "Gaz plasma (H2O2)",
+        "Petits volumes",
+        "Faible",
+        "Sans désorption, 40–60 °C"
+      ]
+    ]
+  },
+  {
+    "id": "pharmacie-galenique/12-sterilisation-partie-2/tableau-002",
+    "titre": "Choix du procédé de stérilisation",
+    "colonnes": [
+      "Procédé",
+      "Principe",
+      "Indications",
+      "Limite"
+    ],
+    "lignes": [
+      [
+        "Chaleur humide 121 °C",
+        "Dénaturation des protéines",
+        "Solutions aqueuses, matériel",
+        "Thermolabiles ; pyrogènes"
+      ],
+      [
+        "Chaleur sèche 160–170 °C",
+        "Déshydratation, oxydation",
+        "Métal, verre, poudres, huiles",
+        "Haute température ; ATNC"
+      ],
+      [
+        "Oxyde d'éthylène",
+        "Alkylation",
+        "Matériel thermosensible",
+        "Toxicité, désorption"
+      ],
+      [
+        "Gaz plasma",
+        "Radicaux libres",
+        "Endoscopes, matériel fragile",
+        "Petits volumes"
+      ],
+      [
+        "Radiations β/γ (25 kGy)",
+        "Lésions de l'ADN",
+        "Matériel à usage unique",
+        "Centres spécialisés"
+      ],
+      [
+        "Filtration 0,22 µm",
+        "Élimination physique",
+        "Liquides thermosensibles, air",
+        "Pas de destruction"
+      ],
+      [
+        "Préparation aseptique",
+        "Maîtrise de l'environnement",
+        "Poudres injectables, vaccins",
+        "Pas de stérilisation finale"
+      ]
+    ]
+  },
+  {
+    "id": "pharmacie-galenique/12-sterilisation-partie-2/tableau-003",
+    "titre": "Indicateurs et milieux",
+    "colonnes": [
+      "Procédé / essai",
+      "Indicateur ou milieu",
+      "Détail"
+    ],
+    "lignes": [
+      [
+        "Chaleur humide",
+        "Geobacillus stearothermophilus",
+        "IB vapeur"
+      ],
+      [
+        "Radiostérilisation",
+        "Bacillus pumilus",
+        "Souche radiorésistante"
+      ],
+      [
+        "Filtration stérilisante",
+        "Pseudomonas diminuta",
+        "Diamètre 0,3 µm"
+      ],
+      [
+        "Essai de stérilité",
+        "Thioglycolate",
+        "30–35 °C ; aérobies et anaérobies"
+      ],
+      [
+        "Essai de stérilité",
+        "Peptones de caséine de soja",
+        "20–25 °C ; aérobies et champignons"
+      ]
+    ]
+  }
+]

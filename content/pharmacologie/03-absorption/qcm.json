@@ -1,0 +1,2738 @@
+[
+  {
+    "id": "pharmacologie/03-absorption/qcm-001",
+    "type": "multiple",
+    "enonce": "Concernant la phase biopharmaceutique :",
+    "options": [
+      "Elle comprend la libération du principe actif à partir de la forme pharmaceutique",
+      "Elle comprend l'absorption du principe actif",
+      "Elle correspond à l'interaction médicament–organisme",
+      "Elle comprend la dissolution du principe actif",
+      "La libération concerne l'administration extravasculaire d'une forme pharmaceutique solide"
+    ],
+    "correctes": [
+      0,
+      3,
+      4
+    ],
+    "explication": "La phase biopharmaceutique va de la forme pharmaceutique au passage du PA en solution : elle comprend la libération (a, e) et la dissolution (d). L'absorption appartient à la phase pharmacocinétique (ADME), donc b est fausse. L'interaction médicament–organisme correspond à la phase pharmacodynamique (c fausse).",
+    "source": {
+      "page": 3,
+      "extrait": "Libération : mise à disposition du PA (principe actif) après l'administration extravasculaire d'une forme pharmaceutique solide."
+    },
+    "difficulte": 1,
+    "tags": [
+      "phase biopharmaceutique",
+      "introduction"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/03-absorption/qcm-002",
+    "type": "unique",
+    "enonce": "Pour pouvoir traverser les membranes, le principe actif doit être :",
+    "options": [
+      "Obligatoirement sous forme ionisée",
+      "Dispersé à l'état de solution",
+      "Lié à une protéine plasmatique",
+      "Sous forme solide non désagrégée",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Le cours précise que pour traverser les membranes, le PA doit être dispersé à l'état de solution (b). C'est au contraire la fraction non ionisée qui traverse les membranes (a fausse). Une forme solide doit d'abord être libérée puis dissoute (d fausse). La liaison aux protéines plasmatiques n'est pas une condition de passage évoquée (c fausse).",
+    "source": {
+      "page": 3,
+      "extrait": "Pour pouvoir traverser les membranes, le PA doit être dispersé à l'état de solution."
+    },
+    "difficulte": 1,
+    "tags": [
+      "dissolution",
+      "phase biopharmaceutique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/03-absorption/qcm-003",
+    "type": "multiple",
+    "enonce": "La phase pharmacocinétique comprend :",
+    "options": [
+      "L'absorption",
+      "La distribution",
+      "L'élimination",
+      "Le métabolisme",
+      "La libération du principe actif"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "La phase pharmacocinétique décrit le devenir du médicament dans l'organisme : Absorption, Distribution, Métabolisme, Élimination (ADME), donc a, b, d et c sont justes. La libération appartient à la phase biopharmaceutique (e fausse).",
+    "source": {
+      "page": 4,
+      "extrait": "Absorption Distribution Métabolisme Elimination"
+    },
+    "difficulte": 1,
+    "tags": [
+      "phase pharmacocinétique",
+      "ADME"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/03-absorption/qcm-004",
+    "type": "unique",
+    "enonce": "L'absorption d'un médicament se définit comme :",
+    "options": [
+      "Une condition toujours nécessaire à l'effet thérapeutique",
+      "Le transfert du médicament de son site d'administration vers la circulation générale",
+      "La transformation du médicament en métabolites",
+      "Le transfert du médicament de la circulation générale vers les tissus",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "L'absorption est le transfert des médicaments de leur site d'administration vers la circulation générale (b). Le passage du sang vers les tissus correspond à la distribution (d fausse), la transformation en métabolites au métabolisme (c fausse). L'absorption n'est pas une condition nécessaire à l'effet thérapeutique, par exemple pour les topiques intestinaux (a fausse), donc e est fausse.",
+    "source": {
+      "page": 6,
+      "extrait": "Transfert des médicaments de leur site d'administration vers la circulation générale"
+    },
+    "difficulte": 1,
+    "tags": [
+      "définition"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/03-absorption/qcm-005",
+    "type": "unique",
+    "enonce": "Les topiques intestinaux :",
+    "options": [
+      "Doivent obligatoirement être absorbés pour agir",
+      "Sont un exemple d'absorption par transport actif",
+      "Illustrent que l'absorption n'est pas une condition nécessaire à l'effet thérapeutique",
+      "Agissent après passage dans la circulation générale",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Le cours cite les topiques intestinaux comme exemple montrant que l'absorption n'est pas une condition nécessaire à l'effet thérapeutique (c). Ils n'ont donc pas besoin d'être absorbés ni de rejoindre la circulation générale (a, d fausses). Ils ne sont pas cités comme exemple de transport actif (b fausse).",
+    "source": {
+      "page": 6,
+      "extrait": "L'absorption n'est pas une condition nécessaire à l'effet thérapeutique Ex: les topiques intestinaux"
+    },
+    "difficulte": 1,
+    "tags": [
+      "définition"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/03-absorption/qcm-006",
+    "type": "multiple",
+    "enonce": "Concernant la diffusion passive :",
+    "options": [
+      "Elle concerne la fraction liposoluble et non ionisée",
+      "Elle se fait dans le sens du gradient de concentration",
+      "Elle nécessite de l'énergie",
+      "Elle se fait par dissolution dans la membrane",
+      "Elle fait intervenir un transporteur"
+    ],
+    "correctes": [
+      0,
+      1,
+      3
+    ],
+    "explication": "La diffusion passive se fait par pénétration par dissolution (d), dans le sens du gradient de concentration (b), et concerne la fraction liposoluble et non ionisée (a). Elle ne nécessite pas d'énergie (c fausse) et ne fait pas intervenir de transporteur (e fausse).",
+    "source": {
+      "page": 8,
+      "extrait": "Dans le sens du gradient de concentration , Concerne la fraction liposoluble et non ionisée"
+    },
+    "difficulte": 1,
+    "tags": [
+      "diffusion passive",
+      "mécanismes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/03-absorption/qcm-007",
+    "type": "multiple",
+    "enonce": "La diffusion passive :",
+    "options": [
+      "Ne nécessite pas de transporteur",
+      "Présente un phénomène de saturation",
+      "Présente une spécificité",
+      "Est soumise à la compétition",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "La diffusion passive se fait sans transporteur (a), donc il n'y a pas de phénomène de saturation, de compétition ni de spécificité (b, d, c fausses). La proposition e est donc fausse.",
+    "source": {
+      "page": 8,
+      "extrait": "Pas de transporteurs: pas de phénomène de saturation; compétition et de spécificité."
+    },
+    "difficulte": 1,
+    "tags": [
+      "diffusion passive",
+      "mécanismes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/03-absorption/qcm-008",
+    "type": "multiple",
+    "enonce": "Concernant la diffusion facilitée :",
+    "options": [
+      "Elle se fait dans le sens du gradient de concentration",
+      "Elle présente un phénomène de saturation, de spécificité et de compétition",
+      "Elle nécessite de l'énergie",
+      "La résorption duodénale des ions Ca++ en est un exemple",
+      "Elle nécessite un transporteur"
+    ],
+    "correctes": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "explication": "La diffusion facilitée se fait dans le sens du gradient de concentration (a), nécessite un transporteur (e), présente saturation, spécificité et compétition (b) ; l'exemple cité est la résorption duodénale des ions Ca++ (d). Elle ne nécessite pas d'énergie (c fausse).",
+    "source": {
+      "page": 8,
+      "extrait": "Exp : résorption duodénale des ions Ca++."
+    },
+    "difficulte": 1,
+    "tags": [
+      "diffusion facilitée",
+      "mécanismes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/03-absorption/qcm-009",
+    "type": "multiple",
+    "enonce": "Concernant le transport actif :",
+    "options": [
+      "Il ne présente pas de phénomène de saturation",
+      "Il se fait contre le gradient de concentration",
+      "La méthyldopa et la vitamine B12 en sont des exemples",
+      "Il nécessite un transporteur spécifique",
+      "Il nécessite de l'énergie fournie par l'hydrolyse de l'ATP"
+    ],
+    "correctes": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Le transport actif se fait contre le gradient de concentration (b), nécessite un transporteur spécifique (d) et de l'énergie par hydrolyse de l'ATP (e). Les exemples cités sont la méthyldopa et la vitamine B12 (c). Il présente au contraire saturation, spécificité et compétition (a fausse).",
+    "source": {
+      "page": 10,
+      "extrait": "Nécessite de l'énergie (hydrolyse de l'ATP), Phénomène de saturation ;spécificité et compétition. Exp: la méthyldopa, vitamine B12."
+    },
+    "difficulte": 1,
+    "tags": [
+      "transport actif",
+      "mécanismes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/03-absorption/qcm-010",
+    "type": "unique",
+    "enonce": "Le seul mécanisme de passage transmembranaire se faisant contre le gradient de concentration, parmi les suivants, est :",
+    "options": [
+      "La pinocytose",
+      "Le transport actif",
+      "La filtration",
+      "La diffusion facilitée",
+      "La diffusion passive"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Seul le transport actif se fait contre le gradient de concentration, grâce à l'énergie fournie par l'hydrolyse de l'ATP. La diffusion passive et la diffusion facilitée se font dans le sens du gradient ; la filtration dépend de la pression osmotique (hydrostatique) ; la pinocytose est une forme d'endocytose pour les liquides.",
+    "source": {
+      "page": 10,
+      "extrait": "Se fait contre le gradient de concentration,"
+    },
+    "difficulte": 1,
+    "tags": [
+      "transport actif",
+      "mécanismes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/03-absorption/qcm-011",
+    "type": "multiple",
+    "enonce": "Caractéristique(s) commune(s) à la diffusion facilitée et au transport actif :",
+    "options": [
+      "Passage contre le gradient de concentration",
+      "Nécessité d'un transporteur",
+      "Phénomène de saturation",
+      "Consommation d'énergie",
+      "Phénomène de compétition"
+    ],
+    "correctes": [
+      1,
+      2,
+      4
+    ],
+    "explication": "Les deux mécanismes nécessitent un transporteur (b) et présentent saturation, spécificité et compétition (c, e). Seul le transport actif consomme de l'énergie (d fausse) et se fait contre le gradient de concentration (a fausse) ; la diffusion facilitée se fait dans le sens du gradient sans énergie.",
+    "source": {
+      "page": 10,
+      "extrait": "Nécessite un transporteur spécifique, Nécessite de l'énergie (hydrolyse de l'ATP), Phénomène de saturation ;spécificité et compétition."
+    },
+    "difficulte": 2,
+    "tags": [
+      "diffusion facilitée",
+      "transport actif",
+      "comparaison"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/03-absorption/qcm-012",
+    "type": "multiple",
+    "enonce": "Caractéristique(s) commune(s) à la diffusion passive et à la diffusion facilitée :",
+    "options": [
+      "Passage dans le sens du gradient de concentration",
+      "Phénomène de saturation",
+      "Présence d'un transporteur",
+      "Absence de consommation d'énergie",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      0,
+      3
+    ],
+    "explication": "La diffusion passive et la diffusion facilitée se font toutes deux dans le sens du gradient de concentration (a) et sans énergie (d). Seule la diffusion facilitée nécessite un transporteur et présente une saturation (c, b fausses), donc e est fausse.",
+    "source": {
+      "page": 8,
+      "extrait": "Se fait dans le sens du gradient de concentration, Nécessite un transporteur, Pas d'énergie,"
+    },
+    "difficulte": 2,
+    "tags": [
+      "diffusion passive",
+      "diffusion facilitée",
+      "comparaison"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/03-absorption/qcm-013",
+    "type": "multiple",
+    "enonce": "Concernant les cinétiques des diffusions simple et facilitée :",
+    "options": [
+      "La vitesse de la diffusion facilitée tend vers une vitesse maximale (Vmax)",
+      "La diffusion simple est non saturable car elle ne fait pas intervenir de transporteur",
+      "La saturation de la diffusion facilitée s'explique par l'intervention d'un transporteur",
+      "La vitesse de la diffusion simple atteint un plateau lorsque la concentration augmente",
+      "Le Km correspond à la concentration pour laquelle la vitesse est égale à Vmax/2"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explication": "Sur le graphique du cours, la diffusion facilitée par un transporteur atteint une Vmax, et le Km correspond à la concentration donnant Vmax/2 (a, e). Cette saturation est due au transporteur (c). La diffusion simple, sans transporteur, n'est pas saturable : sa vitesse ne présente pas de plateau (d fausse, b juste).",
+    "source": {
+      "page": 9,
+      "extrait": "Vitesse de transport Vmax Vmax/2 Diffusion simple Diffusion facilitée par un transporteur Km"
+    },
+    "difficulte": 2,
+    "tags": [
+      "cinétique",
+      "diffusion facilitée"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/03-absorption/qcm-014",
+    "type": "multiple",
+    "enonce": "Concernant la filtration :",
+    "options": [
+      "Elle concerne les grosses molécules",
+      "Elle se fait à travers les pores membranaires",
+      "Elle nécessite l'hydrolyse de l'ATP",
+      "Elle se fait selon la pression osmotique (hydrostatique)",
+      "Elle permet le passage de l'eau et de petites molécules"
+    ],
+    "correctes": [
+      1,
+      3,
+      4
+    ],
+    "explication": "La filtration est le passage de l'eau et de petites molécules (e) à travers les pores membranaires (b), selon la pression osmotique (hydrostatique) (d). Les grosses molécules passent par endocytose (phagocytose), pas par filtration (a fausse). L'hydrolyse de l'ATP caractérise le transport actif (c fausse).",
+    "source": {
+      "page": 11,
+      "extrait": "Filtration: passage de l'eau et de petites molécules à travers les pores membranaires , selon la pression osmotique (hydrostatique)."
+    },
+    "difficulte": 1,
+    "tags": [
+      "filtration",
+      "mécanismes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/03-absorption/qcm-015",
+    "type": "multiple",
+    "enonce": "Concernant l'endocytose :",
+    "options": [
+      "Elle correspond au passage de l'eau à travers les pores membranaires",
+      "La phagocytose concerne les liquides",
+      "Elle correspond au passage de particules",
+      "La pinocytose concerne les liquides",
+      "La phagocytose concerne les grosses molécules"
+    ],
+    "correctes": [
+      2,
+      3,
+      4
+    ],
+    "explication": "L'endocytose est le passage de particules (c) : phagocytose pour les grosses molécules (e) et pinocytose pour les liquides (d). La phagocytose ne concerne pas les liquides (b fausse). Le passage de l'eau à travers les pores correspond à la filtration (a fausse).",
+    "source": {
+      "page": 11,
+      "extrait": "Endocytose: passage des particules : Grosses molécules : phagocytose. Liquides : pinocytose."
+    },
+    "difficulte": 1,
+    "tags": [
+      "endocytose",
+      "mécanismes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/03-absorption/qcm-016",
+    "type": "unique",
+    "enonce": "Associez : le passage des liquides par endocytose porte le nom de :",
+    "options": [
+      "Diffusion facilitée",
+      "Phagocytose",
+      "Transport actif",
+      "Pinocytose",
+      "Filtration"
+    ],
+    "correctes": [
+      3
+    ],
+    "explication": "Selon le cours, l'endocytose des liquides est la pinocytose ; la phagocytose concerne les grosses molécules. La filtration, la diffusion facilitée et le transport actif sont d'autres mécanismes de passage transmembranaire.",
+    "source": {
+      "page": 11,
+      "extrait": "Liquides : pinocytose."
+    },
+    "difficulte": 1,
+    "tags": [
+      "endocytose"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/03-absorption/qcm-017",
+    "type": "multiple",
+    "enonce": "Les facteurs liés aux propriétés physico-chimiques des médicaments impliqués dans les passages transmembranaires sont :",
+    "options": [
+      "L'état d'ionisation",
+      "La surface de contact membranaire",
+      "L'épaisseur de la membrane",
+      "La taille de la molécule",
+      "Le caractère de solubilité"
+    ],
+    "correctes": [
+      0,
+      3,
+      4
+    ],
+    "explication": "Les facteurs physico-chimiques liés au médicament sont le caractère de solubilité, la taille de la molécule et l'état d'ionisation (e, d, a). La surface de contact et l'épaisseur de la membrane sont des facteurs liés aux propriétés de la membrane et du milieu (b, c fausses).",
+    "source": {
+      "page": 12,
+      "extrait": "Caractère de solubilité Taille de la molécule État D'ionisation"
+    },
+    "difficulte": 1,
+    "tags": [
+      "facteurs physico-chimiques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/03-absorption/qcm-018",
+    "type": "multiple",
+    "enonce": "Concernant le caractère de solubilité d'un médicament :",
+    "options": [
+      "Plus un médicament est hydrosoluble, mieux il traverse toujours les membranes lipidiques",
+      "Un état d'équilibre doit exister entre hydrosolubilité et liposolubilité",
+      "La liposolubilité est portée par la fraction ionisée",
+      "La liposolubilité permet de traverser par diffusion la membrane de nature lipidique",
+      "Afin d'être résorbée, toute substance doit être en solution"
+    ],
+    "correctes": [
+      1,
+      3,
+      4
+    ],
+    "explication": "Toute substance doit être en solution pour être résorbée (e, hydrosolubilité) et la liposolubilité permet de traverser la membrane lipidique par diffusion (d). Un équilibre entre les deux est nécessaire (b), donc a est fausse. La liposolubilité est portée par la fraction non ionisée (c fausse).",
+    "source": {
+      "page": 13,
+      "extrait": "Un état d'équilibre doit exister entre l'hydrosolubilité et la liposolubilité."
+    },
+    "difficulte": 1,
+    "tags": [
+      "solubilité",
+      "facteurs physico-chimiques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/03-absorption/qcm-019",
+    "type": "multiple",
+    "enonce": "Le coefficient de partage Ks :",
+    "options": [
+      "Renseigne sur la liposolubilité du médicament",
+      "Plus il est élevé, plus le principe actif passe une membrane lipidique",
+      "Plus il est élevé, plus le médicament est hydrosoluble",
+      "Renseigne sur une liposolubilité portée par la fraction non ionisée",
+      "Plus il est élevé, plus le médicament est liposoluble"
+    ],
+    "correctes": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "explication": "Le Ks renseigne sur la liposolubilité, portée par la fraction non ionisée (a, d). Plus il est élevé, plus le médicament est liposoluble et plus il passe une membrane lipidique (e, b). Un Ks élevé ne traduit donc pas une hydrosolubilité élevée (c fausse).",
+    "source": {
+      "page": 13,
+      "extrait": "Plus le Ks est élevé, plus le médicament est liposoluble. Plus le Ks est élevé, plus le PA passe une membrane lipidique"
+    },
+    "difficulte": 1,
+    "tags": [
+      "coefficient de partage",
+      "solubilité"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/03-absorption/qcm-020",
+    "type": "multiple",
+    "enonce": "Deux principes actifs A (Ks élevé) et B (Ks faible) sont comparés. Toutes choses égales par ailleurs :",
+    "options": [
+      "A traverse mieux une membrane lipidique que B",
+      "A est plus liposoluble que B",
+      "Le Ks ne renseigne pas sur la liposolubilité",
+      "B est plus liposoluble que A",
+      "A et B traversent identiquement les membranes"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Plus le Ks est élevé, plus le médicament est liposoluble et plus il passe une membrane lipidique : A est donc plus liposoluble (b) et traverse mieux la membrane (a). d, c et e contredisent cette règle.",
+    "source": {
+      "page": 13,
+      "extrait": "Plus le Ks est élevé, plus le PA passe une membrane lipidique"
+    },
+    "difficulte": 2,
+    "tags": [
+      "coefficient de partage"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/03-absorption/qcm-021",
+    "type": "unique",
+    "enonce": "Concernant la taille de la molécule (poids moléculaire) :",
+    "options": [
+      "L'augmentation de la taille de la molécule diminue son absorption",
+      "La taille de la molécule n'a aucune influence sur l'absorption",
+      "L'augmentation de la taille de la molécule augmente son absorption",
+      "La taille de la molécule est un facteur lié aux propriétés de la membrane",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Le cours présente la taille (PM) comme un facteur physico-chimique du médicament : plus la taille augmente, plus l'absorption diminue (a juste, c et b fausses). Il s'agit d'un facteur lié au médicament et non à la membrane (d fausse).",
+    "source": {
+      "page": 14,
+      "extrait": "Taille (PM) Absorption"
+    },
+    "difficulte": 2,
+    "tags": [
+      "taille",
+      "facteurs physico-chimiques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/03-absorption/qcm-022",
+    "type": "multiple",
+    "enonce": "Concernant l'état d'ionisation des médicaments :",
+    "options": [
+      "Les médicaments sont soit des acides faibles soit des bases faibles",
+      "L'état d'ionisation dépend du pH du milieu",
+      "Seule la fraction non ionisée traverse les membranes",
+      "Ils sont caractérisés par leur pKa",
+      "Seule la fraction ionisée traverse les membranes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Les médicaments sont des acides faibles ou des bases faibles (a), caractérisés par leur pKa (d) ; leur état d'ionisation dépend du pH du milieu (b). Seule la fraction non ionisée traverse les membranes (c juste, e fausse).",
+    "source": {
+      "page": 15,
+      "extrait": "Seule la fraction non ionisée traverse les membranes."
+    },
+    "difficulte": 1,
+    "tags": [
+      "ionisation",
+      "pKa"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/03-absorption/qcm-023",
+    "type": "multiple",
+    "enonce": "Selon l'équation de Henderson-Hasselbalch, pour un acide faible R-COOH :",
+    "options": [
+      "pH = pKa + log [forme ionisée] / [forme non ionisée]",
+      "Lorsque pH = pKa, les formes ionisée et non ionisée sont en quantités égales",
+      "La forme non ionisée est R-COOH",
+      "La forme ionisée est R-COO−",
+      "pH = pKa + log [forme non ionisée] / [forme ionisée]"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Pour un acide : R-COOH ⇌ R-COO− + H+, avec pH = pKa + log [ionisée]/[non ionisée] (a juste, e fausse : c'est la formule de la base). R-COO− est la forme ionisée (d) et R-COOH la forme non ionisée (c). Si pH = pKa, le log vaut 0, donc le rapport vaut 1 (b).",
+    "source": {
+      "page": 16,
+      "extrait": "Pour un acide : R-COOH R-COO- +H + [forme ionisée] PH= pKa + log [forme non ionisée]"
+    },
+    "difficulte": 2,
+    "tags": [
+      "Henderson-Hasselbalch",
+      "acide faible"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/03-absorption/qcm-024",
+    "type": "multiple",
+    "enonce": "Selon l'équation de Henderson-Hasselbalch, pour une base faible R-NH2 :",
+    "options": [
+      "La forme non ionisée est R-NH3+",
+      "La base capte un proton H+ pour s'ioniser",
+      "pH = pKa + log [forme ionisée] / [forme non ionisée]",
+      "La forme ionisée est R-NH3+",
+      "pH = pKa + log [forme non ionisée] / [forme ionisée]"
+    ],
+    "correctes": [
+      1,
+      3,
+      4
+    ],
+    "explication": "Pour une base : R-NH2 + H+ ⇌ R-NH3+, avec pH = pKa + log [non ionisée]/[ionisée] (e juste, c fausse). R-NH3+ est la forme ionisée (d juste, a fausse), obtenue par captation d'un proton (b).",
+    "source": {
+      "page": 16,
+      "extrait": "Pour une base: R-NH2+H + R-NH3+ [forme non ionisée] PH=PKa+log [forme ionisée]"
+    },
+    "difficulte": 2,
+    "tags": [
+      "Henderson-Hasselbalch",
+      "base faible"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/03-absorption/qcm-025",
+    "type": "multiple",
+    "enonce": "Un acide faible de pKa = 4 se trouve dans un milieu de pH = 2. D'après Henderson-Hasselbalch :",
+    "options": [
+      "Le passage transmembranaire par diffusion passive est favorisé",
+      "Le rapport [ionisée]/[non ionisée] vaut 100",
+      "Le rapport [ionisée]/[non ionisée] vaut 1/100",
+      "La forme non ionisée est largement majoritaire",
+      "La forme ionisée est largement majoritaire"
+    ],
+    "correctes": [
+      0,
+      2,
+      3
+    ],
+    "explication": "Pour un acide : log([I]/[NI]) = pH − pKa = 2 − 4 = −2, donc [I]/[NI] = 10⁻² = 1/100 (c juste, b fausse). La forme non ionisée est majoritaire (d juste, e fausse) ; or seule la fraction non ionisée traverse les membranes, ce qui favorise le passage (a).",
+    "source": {
+      "page": 16,
+      "extrait": "PH= pKa + log [forme ionisée] [forme non ionisée]"
+    },
+    "difficulte": 3,
+    "tags": [
+      "Henderson-Hasselbalch",
+      "calcul",
+      "acide faible"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/03-absorption/qcm-026",
+    "type": "multiple",
+    "enonce": "Une base faible de pKa = 9 se trouve dans un milieu de pH = 7. D'après Henderson-Hasselbalch :",
+    "options": [
+      "La forme non ionisée est majoritaire",
+      "Le rapport [non ionisée]/[ionisée] vaut 1/100",
+      "Environ 99 % de la base est sous forme ionisée",
+      "Son passage transmembranaire est limité dans ce milieu",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      1,
+      2,
+      3
+    ],
+    "explication": "Pour une base : log([NI]/[I]) = pH − pKa = 7 − 9 = −2, donc [NI]/[I] = 1/100 (b). La forme ionisée représente 100/101 ≈ 99 % (c), donc la forme non ionisée est minoritaire (a fausse). Seule la fraction non ionisée traversant les membranes, le passage est limité (d).",
+    "source": {
+      "page": 16,
+      "extrait": "PH=PKa+log [forme non ionisée] [forme ionisée]"
+    },
+    "difficulte": 3,
+    "tags": [
+      "Henderson-Hasselbalch",
+      "calcul",
+      "base faible"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/03-absorption/qcm-027",
+    "type": "unique",
+    "enonce": "Selon la théorie de diffusion par le pH, l'absorption d'un acide fort (pKa < 2,5) est :",
+    "options": [
+      "Limitée",
+      "Dépendante du pH",
+      "Maximale au niveau gastrique",
+      "Indépendante du pH et excellente",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "D'après la théorie de diffusion par le pH, les acides forts (pKa < 2,5) ont une absorption limitée (a). L'absorption dépendante du pH concerne les acides faibles (2,5 < pKa < 7,5) (b fausse), et l'absorption indépendante du pH les acides très faibles (pKa > 7,5) (d fausse).",
+    "source": {
+      "page": 17,
+      "extrait": "Acide fort pKa<2.5 Abs limitée"
+    },
+    "difficulte": 2,
+    "tags": [
+      "théorie de diffusion par le pH",
+      "pKa"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/03-absorption/qcm-028",
+    "type": "multiple",
+    "enonce": "Selon la théorie de diffusion par le pH :",
+    "options": [
+      "Bases faibles (5 < pKa < 11) : absorption dépendante du pH",
+      "Acides très faibles (pKa > 7,5) : absorption indépendante du pH",
+      "Acides faibles (2,5 < pKa < 7,5) : absorption dépendante du pH",
+      "Bases fortes (pKa > 11) : absorption limitée",
+      "Bases très faibles (pKa < 5) : absorption indépendante du pH"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Toutes les propositions reprennent exactement le tableau de la théorie de diffusion par le pH du cours : acides faibles et bases faibles ont une absorption dépendante du pH ; acides très faibles et bases très faibles une absorption indépendante du pH ; acides forts et bases fortes une absorption limitée.",
+    "source": {
+      "page": 18,
+      "extrait": "Bases faibles 5<pKa<11 Abs dépend du pH Bases fortes pKa>11 Abs limitée"
+    },
+    "difficulte": 2,
+    "tags": [
+      "théorie de diffusion par le pH",
+      "pKa"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/03-absorption/qcm-029",
+    "type": "multiple",
+    "enonce": "Selon la théorie de diffusion par le pH, une base de pKa = 3 :",
+    "options": [
+      "A une absorption dépendante du pH",
+      "Est une base forte à absorption limitée",
+      "A une absorption indépendante du pH",
+      "Est une base faible",
+      "Est une base très faible"
+    ],
+    "correctes": [
+      2,
+      4
+    ],
+    "explication": "Une base de pKa < 5 est une base très faible (e), dont l'absorption est indépendante du pH (c). Les bases fortes ont un pKa > 11 (b fausse) et les bases faibles, à absorption dépendante du pH, ont un pKa entre 5 et 11 (a, d fausses).",
+    "source": {
+      "page": 17,
+      "extrait": "Bases très faibles pKa<5 Abs indépendante du pH"
+    },
+    "difficulte": 3,
+    "tags": [
+      "théorie de diffusion par le pH",
+      "pKa"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/03-absorption/qcm-030",
+    "type": "multiple",
+    "enonce": "Selon la théorie de diffusion par le pH, un acide de pKa = 9 :",
+    "options": [
+      "A une absorption limitée",
+      "Est un acide fort",
+      "Est un acide très faible",
+      "Est un acide faible à absorption dépendante du pH",
+      "A une absorption indépendante du pH"
+    ],
+    "correctes": [
+      2,
+      4
+    ],
+    "explication": "Un acide de pKa > 7,5 est un acide très faible (c) dont l'absorption est indépendante du pH (e). L'absorption limitée concerne les acides forts (pKa < 2,5) (a, b fausses) ; l'absorption dépendante du pH les acides faibles (2,5 < pKa < 7,5) (d fausse).",
+    "source": {
+      "page": 18,
+      "extrait": "Acide très faibles pKa>7.5 Abs indépendante du pH"
+    },
+    "difficulte": 3,
+    "tags": [
+      "théorie de diffusion par le pH",
+      "pKa"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/03-absorption/qcm-031",
+    "type": "multiple",
+    "enonce": "Concernant le comportement d'un acide faible selon le pH :",
+    "options": [
+      "L'estomac est un site favorable à son passage",
+      "Il s'ionise plus en milieu acide",
+      "Il s'ionise plus en milieu alcalin, ce qui limite son passage transmembranaire",
+      "Peu ionisé en milieu acide, il diffuse d'autant mieux que le pH est faible",
+      "En milieu acide, la concentration de sa forme non ionisée est élevée"
+    ],
+    "correctes": [
+      0,
+      2,
+      3,
+      4
+    ],
+    "explication": "Un acide faible s'ionise plus en milieu alcalin, ce qui limite son passage (c juste, b fausse). Peu ionisé en milieu acide, il diffuse d'autant mieux que le pH est faible (d), car la forme non ionisée y est élevée (e) : le cours cite l'estomac (a).",
+    "source": {
+      "page": 19,
+      "extrait": "Un acide faible peu ionisé en milieu acide, diffusera d'autant mieux que le pH est faible."
+    },
+    "difficulte": 2,
+    "tags": [
+      "théorie de diffusion par le pH",
+      "acide faible"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/03-absorption/qcm-032",
+    "type": "multiple",
+    "enonce": "Concernant le comportement d'une base faible selon le pH :",
+    "options": [
+      "Elle s'ionise plus en milieu acide, ce qui limite son passage transmembranaire",
+      "Peu ionisée en milieu alcalin, elle diffuse d'autant mieux que le pH est élevé",
+      "En milieu alcalin, la concentration de sa forme non ionisée est élevée",
+      "Elle diffuse d'autant mieux que le pH est faible",
+      "L'intestin est un site favorable à son passage"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explication": "Une base faible s'ionise plus en milieu acide, ce qui limite son passage (a). Peu ionisée en milieu alcalin, elle diffuse d'autant mieux que le pH est élevé (b juste, d fausse), car sa forme non ionisée y est élevée (c) : le cours cite l'intestin (e).",
+    "source": {
+      "page": 19,
+      "extrait": "Une base faible peu ionisée en milieu alcalin diffuse d'autant mieux que le pH est élevé"
+    },
+    "difficulte": 2,
+    "tags": [
+      "théorie de diffusion par le pH",
+      "base faible"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/03-absorption/qcm-033",
+    "type": "multiple",
+    "enonce": "Concernant l'estomac comme élément anatomique de la résorption digestive :",
+    "options": [
+      "Sa surface d'absorption est petite (environ 1 m²)",
+      "Son débit sanguin est d'environ 1 l/min",
+      "Il est constitué d'une membrane épaisse",
+      "Son rôle dans l'absorption du médicament est modeste",
+      "Dans des conditions normales, la vidange gastrique est rapide"
+    ],
+    "correctes": [
+      0,
+      2,
+      3,
+      4
+    ],
+    "explication": "L'estomac est constitué d'une membrane épaisse (c) avec une petite surface d'absorption de 1 m² (a) ; la vidange gastrique étant normalement rapide (e), son rôle dans l'absorption est modeste (d). Sa vascularisation est faible avec un débit de 0,2 l/min ; 1 l/min est le débit de l'intestin grêle (b fausse).",
+    "source": {
+      "page": 20,
+      "extrait": "Constitué d'une membrane épaisse avec une petite surface d'absorption (1 m²)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "estomac",
+      "anatomie digestive"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/03-absorption/qcm-034",
+    "type": "multiple",
+    "enonce": "Concernant le duodénum :",
+    "options": [
+      "Il présente une surface d'échange importante",
+      "Son pH est d'environ 4 à 5",
+      "Sa vascularisation est faible",
+      "La bile favorise la résorption des principes actifs dans le duodénum",
+      "La présence de la bile favorise la dissolution des principes actifs"
+    ],
+    "correctes": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "explication": "Le duodénum a une surface d'échange importante (a) ; la bile y favorise la dissolution des PA et donc leur résorption (e, d). Son pH est de 4 à 5 (b) et sa vascularisation est importante (c fausse).",
+    "source": {
+      "page": 20,
+      "extrait": "Présence de la bile favorisant la dissolution des principes actifs favorise leur résorption dans le duodénum"
+    },
+    "difficulte": 2,
+    "tags": [
+      "duodénum",
+      "anatomie digestive"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/03-absorption/qcm-035",
+    "type": "multiple",
+    "enonce": "Concernant l'intestin grêle :",
+    "options": [
+      "Sa membrane est fine",
+      "C'est le site le plus important pour l'absorption du médicament",
+      "Son pH est compris entre 1 et 3",
+      "Sa surface absorbante est très grande (environ 200 m²) grâce aux microvillosités",
+      "Son débit sanguin est d'environ 1 l/min"
+    ],
+    "correctes": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "explication": "L'intestin grêle a une membrane fine (a), une très grande surface absorbante de 200 m² grâce aux microvillosités (d) ; c'est donc le site le plus important pour l'absorption (b). Sa vascularisation est très importante (1 l/min) (e). Son pH est de 5 à 8 ; le pH 1–3 est celui de l'estomac (c fausse).",
+    "source": {
+      "page": 20,
+      "extrait": "L'intestin grêle est donc le site le plus important pour l'absorption du médicament"
+    },
+    "difficulte": 1,
+    "tags": [
+      "intestin grêle",
+      "anatomie digestive"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/03-absorption/qcm-036",
+    "type": "unique",
+    "enonce": "Le site le plus important pour l'absorption digestive des médicaments est :",
+    "options": [
+      "L'estomac",
+      "Le côlon",
+      "L'œsophage",
+      "La bouche",
+      "L'intestin grêle"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le cours indique que l'intestin grêle, avec sa membrane fine et sa très grande surface absorbante (200 m²), est le site le plus important pour l'absorption du médicament. L'œsophage assure seulement le transit, la bouche et l'estomac ont une surface faible, et le côlon une faible surface d'échange sans villosités.",
+    "source": {
+      "page": 20,
+      "extrait": "L'intestin grêle est donc le site le plus important pour l'absorption du médicament"
+    },
+    "difficulte": 1,
+    "tags": [
+      "intestin grêle"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/03-absorption/qcm-037",
+    "type": "multiple",
+    "enonce": "Comparaison estomac / intestin grêle : quelle(s) proposition(s) est (sont) juste(s) ?",
+    "options": [
+      "La muqueuse gastrique est plus épaisse que celle de l'intestin grêle",
+      "L'estomac est le site principal d'absorption des médicaments",
+      "La surface d'absorption de l'estomac (1 m²) est très inférieure à celle de l'intestin grêle (200 m²)",
+      "Le débit sanguin gastrique (0,2 l/min) est inférieur au débit intestinal (1 l/min)",
+      "Le pH gastrique est plus élevé que le pH intestinal"
+    ],
+    "correctes": [
+      0,
+      2,
+      3
+    ],
+    "explication": "L'estomac a une petite surface (1 m²), une faible vascularisation (0,2 l/min) et une membrane épaisse, alors que l'intestin grêle a une membrane fine, 200 m² et 1 l/min (c, d, a justes). Le pH gastrique (1–3 / 1,5–3,5) est plus faible que le pH intestinal (5–8) (e fausse) et l'intestin grêle est le site principal (b fausse).",
+    "source": {
+      "page": 20,
+      "extrait": "Faible (débit sanguin = 0,2 l/min)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "estomac",
+      "intestin grêle",
+      "comparaison"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/03-absorption/qcm-038",
+    "type": "multiple",
+    "enonce": "Concernant les facteurs liés aux propriétés de la membrane et du milieu :",
+    "options": [
+      "Une diminution de l'épaisseur de la membrane augmente l'absorption",
+      "L'épaisseur de la membrane est presque constante",
+      "L'augmentation de la surface de contact membranaire augmente l'absorption",
+      "Une diminution de l'épaisseur de la membrane diminue l'absorption",
+      "La muqueuse intestinale est un exemple de grande surface de contact"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explication": "L'augmentation de la surface de contact augmente l'absorption, par exemple au niveau de la muqueuse intestinale (c, e). L'épaisseur de la membrane est presque constante (b), mais une éventuelle diminution entraîne une augmentation de l'absorption (a juste, d fausse).",
+    "source": {
+      "page": 21,
+      "extrait": "Elle est presque constante, mais une éventuelle diminution introduit une augmentation de l'absorption."
+    },
+    "difficulte": 1,
+    "tags": [
+      "facteurs membranaires"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/03-absorption/qcm-039",
+    "type": "multiple",
+    "enonce": "L'effet de premier passage (EPP) :",
+    "options": [
+      "Peut être intestinal, hépatique ou pulmonaire",
+      "Se produit avant l'arrivée du médicament dans la circulation générale",
+      "Se produit exclusivement au niveau hépatique",
+      "Se produit dès le premier contact avec l'organe responsable de la biotransformation",
+      "Consiste en une perte de médicament par métabolisme"
+    ],
+    "correctes": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "explication": "L'EPP est une perte de médicament par métabolisme (e), avant son arrivée dans la circulation générale (b), dès son premier contact avec l'organe de biotransformation (d). Il peut être intestinal (EPPI), hépatique (EPPH) ou pulmonaire (EPPP) (a), donc il n'est pas exclusivement hépatique (c fausse).",
+    "source": {
+      "page": 26,
+      "extrait": "L'EPP: consiste en une perte de médicament par métabolisme, avant son arrivée dans la circulation générale"
+    },
+    "difficulte": 1,
+    "tags": [
+      "effet de premier passage"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/03-absorption/qcm-040",
+    "type": "multiple",
+    "enonce": "Les types d'effet de premier passage cités dans le cours sont :",
+    "options": [
+      "L'effet de premier passage hépatique (EPPH)",
+      "L'effet de premier passage intestinal (EPPI)",
+      "L'effet de premier passage cutané",
+      "L'effet de premier passage rénal",
+      "L'effet de premier passage pulmonaire (EPPP)"
+    ],
+    "correctes": [
+      0,
+      1,
+      4
+    ],
+    "explication": "Le cours distingue trois EPP : intestinal (EPPI), hépatique (EPPH) et pulmonaire (EPPP). Aucun effet de premier passage rénal ou cutané n'est mentionné.",
+    "source": {
+      "page": 26,
+      "extrait": "Effet du premier passage intestinal (EPPI). Effet du premier passage hépatique (EPPH). Effet du premier passage pulmonaire (EPPP)."
+    },
+    "difficulte": 1,
+    "tags": [
+      "effet de premier passage"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/03-absorption/qcm-041",
+    "type": "multiple",
+    "enonce": "Après administration par voie orale, le médicament peut subir un effet de premier passage :",
+    "options": [
+      "Uniquement pulmonaire",
+      "Aucun effet de premier passage",
+      "Intestinal",
+      "Hépatique",
+      "Pulmonaire"
+    ],
+    "correctes": [
+      2,
+      3,
+      4
+    ],
+    "explication": "Selon le tableau EPP et voies d'administration, la voie orale expose aux effets de premier passage intestinal, hépatique et pulmonaire (c, d, e). Il est donc faux de dire qu'il n'y en a aucun ou qu'il est uniquement pulmonaire (b, a).",
+    "source": {
+      "page": 27,
+      "extrait": "Orale intestinal, hépatique, pulmonaire."
+    },
+    "difficulte": 1,
+    "tags": [
+      "effet de premier passage",
+      "voie orale"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/03-absorption/qcm-042",
+    "type": "multiple",
+    "enonce": "Concernant l'effet de premier passage après administration par voie rectale :",
+    "options": [
+      "Les veines hémorroïdales inférieures et moyennes conduisent à un EPP hépatique",
+      "La voie rectale supprime totalement tout effet de premier passage",
+      "Les veines hémorroïdales supérieures ne conduisent à aucun EPP",
+      "Les veines hémorroïdales inférieures et moyennes conduisent à un EPP pulmonaire",
+      "Les veines hémorroïdales supérieures conduisent à un EPP hépatique et pulmonaire"
+    ],
+    "correctes": [
+      3,
+      4
+    ],
+    "explication": "Selon le cours, les veines hémorroïdales inférieures et moyennes conduisent à un EPP pulmonaire (d juste, a fausse), et les veines hémorroïdales supérieures à un EPP hépatique et pulmonaire (e juste, c fausse). Le premier passage hépatique est donc seulement réduit et non supprimé (b fausse).",
+    "source": {
+      "page": 27,
+      "extrait": "Les veines hémorroïdales supérieures => hépatique et pulmonaire."
+    },
+    "difficulte": 2,
+    "tags": [
+      "effet de premier passage",
+      "voie rectale"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/03-absorption/qcm-043",
+    "type": "multiple",
+    "enonce": "Les voies d'administration exposant uniquement à un effet de premier passage pulmonaire sont :",
+    "options": [
+      "La voie intramusculaire",
+      "La voie sous-cutanée",
+      "La voie sublinguale",
+      "La voie orale",
+      "La voie intraveineuse"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explication": "Dans le tableau du cours, les voies I.V, I.M, S/C et sublinguale ne sont soumises qu'à un EPP pulmonaire (e, a, b, c). La voie orale expose aux EPP intestinal, hépatique et pulmonaire (d fausse).",
+    "source": {
+      "page": 27,
+      "extrait": "I.V – I.M - S/C Sublinguale pulmonaire."
+    },
+    "difficulte": 2,
+    "tags": [
+      "effet de premier passage",
+      "voies d'administration"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/03-absorption/qcm-044",
+    "type": "multiple",
+    "enonce": "Les voies d'administration ne présentant pas d'effet de premier passage sont :",
+    "options": [
+      "La voie intra-artérielle",
+      "La voie locale",
+      "La voie rectale",
+      "La voie intraveineuse",
+      "La voie sublinguale"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "D'après le cours, les voies locale et intra-artérielle (I.A) sont caractérisées par une absence d'EPP (b, a). Les voies IV et sublinguale exposent à un EPP pulmonaire, et la voie rectale à un EPP pulmonaire et/ou hépatique (d, e, c fausses).",
+    "source": {
+      "page": 27,
+      "extrait": "Locale - I.A Absence."
+    },
+    "difficulte": 2,
+    "tags": [
+      "effet de premier passage",
+      "voies d'administration"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/03-absorption/qcm-045",
+    "type": "unique",
+    "enonce": "Concernant l'effet de premier passage et la voie intraveineuse :",
+    "options": [
+      "La voie IV expose à un effet de premier passage intestinal",
+      "La voie IV expose à un effet de premier passage hépatique",
+      "La voie IV expose à un effet de premier passage pulmonaire",
+      "La voie IV n'expose à aucun effet de premier passage",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Selon le tableau du cours, les voies I.V, I.M, S/C et sublinguale exposent à un EPP pulmonaire (c). L'absence d'EPP est réservée aux voies locale et intra-artérielle (d fausse) ; les EPP intestinal et hépatique concernent la voie orale (b, a fausses).",
+    "source": {
+      "page": 27,
+      "extrait": "I.V – I.M - S/C Sublinguale pulmonaire."
+    },
+    "difficulte": 3,
+    "tags": [
+      "effet de premier passage",
+      "voie intraveineuse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/03-absorption/qcm-046",
+    "type": "multiple",
+    "enonce": "La biodisponibilité :",
+    "options": [
+      "Est caractéristique d'un médicament donné",
+      "Résulte de la conjonction de la résorption, des effets de premier passage et de la glycoprotéine P",
+      "Est le pourcentage de la dose administrée qui atteint la circulation générale",
+      "Tient compte de la vitesse avec laquelle le médicament atteint la circulation générale",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "La biodisponibilité est le pourcentage de la dose administrée qui atteint la circulation générale et la vitesse avec laquelle elle l'atteint (c, d) ; elle est caractéristique d'un médicament donné (a) et résulte de la conjonction de la résorption, des effets de premier passage et de la glycoprotéine P (b). Toutes les propositions sont donc correctes (e).",
+    "source": {
+      "page": 28,
+      "extrait": "Pourcentage de la dose administrée qui atteint la circulation générale et la vitesse avec laquelle elle l'atteint."
+    },
+    "difficulte": 1,
+    "tags": [
+      "biodisponibilité"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/03-absorption/qcm-047",
+    "type": "multiple",
+    "enonce": "Un médicament a une biodisponibilité de 60 %. Cela signifie que :",
+    "options": [
+      "La biodisponibilité ne dépend que de la vitesse d'absorption",
+      "60 % de la dose est éliminée avant d'atteindre la circulation générale",
+      "60 % de la dose administrée est présente dans la circulation générale",
+      "100 % de la dose atteint la circulation générale",
+      "40 % de la dose administrée n'atteint pas la circulation générale"
+    ],
+    "correctes": [
+      2,
+      4
+    ],
+    "explication": "Selon l'exemple du cours, une biodisponibilité de 60 % signifie que 60 % de la dose administrée est présente dans la circulation générale (c) ; les 40 % restants ne l'atteignent pas (e). b et d sont contradictoires avec cette définition ; la biodisponibilité tient compte de la quantité et de la vitesse (a fausse).",
+    "source": {
+      "page": 28,
+      "extrait": "biodisponibilité = 60% ; 60% de la dose administrée est présente dans la circulation générale."
+    },
+    "difficulte": 1,
+    "tags": [
+      "biodisponibilité",
+      "calcul"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/03-absorption/qcm-048",
+    "type": "multiple",
+    "enonce": "Les phénomènes dont la conjonction détermine la biodisponibilité sont :",
+    "options": [
+      "Les effets de premier passage",
+      "La résorption",
+      "La filtration glomérulaire",
+      "La glycoprotéine P",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      3
+    ],
+    "explication": "Le cours précise que la biodisponibilité résulte de la conjonction de la résorption, des effets de premier passage et de la glycoprotéine P (b, a, d). La filtration glomérulaire n'est pas citée dans ce cours (c fausse).",
+    "source": {
+      "page": 28,
+      "extrait": "Conjonction de plusieurs phénomènes: - Résorption. - Effets de 1er passage. - Glycoprotéine P."
+    },
+    "difficulte": 1,
+    "tags": [
+      "biodisponibilité"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/03-absorption/qcm-049",
+    "type": "multiple",
+    "enonce": "Concernant la glycoprotéine P (P-gp) :",
+    "options": [
+      "Son équipement est identique chez tous les individus",
+      "C'est une pompe présente dans les membranes de certaines cellules",
+      "Elle est responsable d'un phénomène d'efflux",
+      "Elle expulse hors de la cellule toutes sortes de substrats, dont des médicaments",
+      "Elle est présente en grande quantité dans les intestins"
+    ],
+    "correctes": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "La P-gp est une pompe membranaire (b) qui expulse hors de la cellule divers substrats dont des médicaments (d) : c'est le phénomène d'efflux (c). Elle est abondante dans les intestins (e). L'équipement en P-gp varie d'une personne à une autre (a fausse).",
+    "source": {
+      "page": 30,
+      "extrait": "L'équipement en glycoprotéine P varie d'une personne à une autre."
+    },
+    "difficulte": 1,
+    "tags": [
+      "glycoprotéine P",
+      "efflux"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/03-absorption/qcm-050",
+    "type": "multiple",
+    "enonce": "La glycoprotéine P est présente en grande quantité au niveau :",
+    "options": [
+      "Des intestins",
+      "De la barrière hémato-méningée",
+      "Des tubules rénaux",
+      "Des voies biliaires",
+      "Toutes les réponses sont justes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le cours indique que la P-gp est présente en grande quantité dans les intestins, la barrière hémato-méningée, les voies biliaires et les tubules rénaux. Toutes les réponses sont donc justes.",
+    "source": {
+      "page": 30,
+      "extrait": "présente en grande quantité dans les intestins, la barrière hémato méningée, les voies biliaires, les tubules rénaux"
+    },
+    "difficulte": 1,
+    "tags": [
+      "glycoprotéine P"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/03-absorption/qcm-051",
+    "type": "multiple",
+    "enonce": "Concernant le phénomène d'efflux par la glycoprotéine P :",
+    "options": [
+      "Il expulse les substrats hors de la cellule",
+      "Il ne concerne jamais les médicaments",
+      "Il fait entrer activement les médicaments dans la cellule",
+      "Il intervient dans la biodisponibilité",
+      "Il est identique d'un individu à l'autre"
+    ],
+    "correctes": [
+      0,
+      3
+    ],
+    "explication": "La P-gp expulse les substrats hors de la cellule (a juste, c fausse) et fait partie des phénomènes déterminant la biodisponibilité (d). Son équipement varie d'une personne à une autre (e fausse) et ses substrats incluent des médicaments (b fausse).",
+    "source": {
+      "page": 30,
+      "extrait": "expulse hors de la cellule toutes sortes de substrats, dont des médicaments."
+    },
+    "difficulte": 2,
+    "tags": [
+      "glycoprotéine P",
+      "efflux",
+      "biodisponibilité"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/03-absorption/qcm-052",
+    "type": "multiple",
+    "enonce": "Concernant l'absorption au niveau de la bouche (voie orale) :",
+    "options": [
+      "La surface d'absorption est faible",
+      "Le temps de contact est souvent court",
+      "Les quantités absorbées sont importantes grâce à une grande surface",
+      "Elle se fait par diffusion passive à travers la muqueuse buccale",
+      "Les quantités absorbées sont limitées"
+    ],
+    "correctes": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "explication": "Au niveau de la bouche, l'absorption se fait par diffusion passive à travers la muqueuse buccale (d), sur une surface faible (a), avec un temps de contact souvent court (b) : les quantités absorbées sont donc limitées (e juste, c fausse).",
+    "source": {
+      "page": 34,
+      "extrait": "Diffusion passive la muqueuse buccale; Surface faible; Temps de contact souvent court; Quantités absorbées sont limitées."
+    },
+    "difficulte": 1,
+    "tags": [
+      "voie orale",
+      "bouche"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/03-absorption/qcm-053",
+    "type": "unique",
+    "enonce": "Le rôle de l'œsophage dans l'absorption des médicaments administrés par voie orale est :",
+    "options": [
+      "D'assurer le transit vers l'estomac",
+      "D'assurer un effet de premier passage hépatique",
+      "D'absorber les acides faibles par transport actif",
+      "D'être le site principal d'absorption",
+      "D'absorber les bases faibles"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Le cours attribue à l'œsophage le seul rôle d'assurer le transit vers l'estomac (a). Le site principal d'absorption est l'intestin grêle (d fausse) ; les autres propositions ne sont pas mentionnées pour l'œsophage.",
+    "source": {
+      "page": 34,
+      "extrait": "Au niveau de l'oesophage: Assurer le transit vers l'estomac."
+    },
+    "difficulte": 1,
+    "tags": [
+      "voie orale",
+      "œsophage"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/03-absorption/qcm-054",
+    "type": "multiple",
+    "enonce": "L'estomac est un lieu peu favorable à l'absorption en raison de :",
+    "options": [
+      "La dégradation de certains composés comme la pénicilline G",
+      "Sa muqueuse épaisse",
+      "Son pH acide (1,5 à 3,5)",
+      "Sa surface de contact faible",
+      "Sa faible vascularisation (0,2 l/min)"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Le cours énumère toutes ces raisons pour lesquelles l'estomac est un lieu peu favorable : muqueuse épaisse, surface de contact faible, faible vascularisation (0,2 l/min), pH acide de 1,5 à 3,5 et dégradation de certains composés (ex. péni G).",
+    "source": {
+      "page": 35,
+      "extrait": "Muqueuse épaisse - Surface de contact faible - Faible vascularisation (0.2 l/min) - pH acide: 1,5 à 3,5"
+    },
+    "difficulte": 1,
+    "tags": [
+      "voie orale",
+      "estomac"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/03-absorption/qcm-055",
+    "type": "multiple",
+    "enonce": "L'estomac est un lieu favorable :",
+    "options": [
+      "Pour les médicaments acides faibles, présents sous forme non ionisée liposoluble",
+      "Pour les bases faibles, présentes sous forme non ionisée liposoluble",
+      "Pour la pénicilline G, protégée par l'acidité",
+      "Pour certains médicaments bases faibles, grâce à une meilleure dissolution",
+      "Pour la transformation de certains principes actifs"
+    ],
+    "correctes": [
+      0,
+      3,
+      4
+    ],
+    "explication": "L'estomac est favorable pour les acides faibles (forme non ionisée liposoluble) (a), pour certaines bases faibles grâce à une meilleure dissolution (d) et pour la transformation de certains PA (e). Les bases faibles y sont ionisées : c'est l'intestin qui favorise leur forme non ionisée (b fausse). La péni G est dégradée dans l'estomac (c fausse).",
+    "source": {
+      "page": 35,
+      "extrait": "Pour certains médicaments bases faibles (meilleure dissolution). - Pour la transformation de certains principes actifs."
+    },
+    "difficulte": 2,
+    "tags": [
+      "voie orale",
+      "estomac"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/03-absorption/qcm-056",
+    "type": "multiple",
+    "enonce": "Dans l'estomac, une base faible :",
+    "options": [
+      "Est majoritairement sous forme ionisée",
+      "Diffuse d'autant mieux que le pH est faible",
+      "Peut bénéficier d'une meilleure dissolution",
+      "Est sous forme non ionisée liposoluble majoritaire",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      0,
+      2
+    ],
+    "explication": "Une base faible s'ionise plus en milieu acide (a), ce qui limite son passage ; l'estomac peut toutefois être favorable à certaines bases faibles grâce à une meilleure dissolution (c). La forme non ionisée liposoluble majoritaire est le cas des acides faibles dans l'estomac (d fausse). Une base faible diffuse d'autant mieux que le pH est élevé (b fausse).",
+    "source": {
+      "page": 35,
+      "extrait": "Pour certains médicaments bases faibles (meilleure dissolution)."
+    },
+    "difficulte": 2,
+    "tags": [
+      "estomac",
+      "base faible"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/03-absorption/qcm-057",
+    "type": "unique",
+    "enonce": "Un exemple de composé dégradé dans l'estomac cité dans le cours est :",
+    "options": [
+      "Les ions Ca++",
+      "La vitamine B12",
+      "La pénicilline G",
+      "La méthyldopa",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Le cours cite la dégradation de certains composés dans l'estomac, par exemple la péni G. La méthyldopa et la vitamine B12 sont des exemples de transport actif, et les ions Ca++ un exemple de diffusion facilitée (résorption duodénale).",
+    "source": {
+      "page": 35,
+      "extrait": "Dégradation de certains composés (ex péni G)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "estomac",
+      "exemples"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/03-absorption/qcm-058",
+    "type": "multiple",
+    "enonce": "L'intestin grêle est un lieu très favorable à l'absorption grâce à :",
+    "options": [
+      "La bile et les surfactants qui accroissent la solubilisation des PA",
+      "Une surface et une longueur élevées (200 m², 4–5 m)",
+      "Un pH de 5 à 8 favorisant la forme non ionisée",
+      "La présence de transporteurs actifs",
+      "Une forte vascularisation (1 l/min), des villosités et des capillaires lymphatiques"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Toutes les propositions sont citées dans le cours : surface et longueur élevées (200 m², 4–5 m), forte vascularisation (1 l/min) avec villosités et capillaires lymphatiques, pH 5 à 8 favorisant la forme non ionisée, transporteurs actifs, bile et surfactant accroissant la solubilisation.",
+    "source": {
+      "page": 36,
+      "extrait": "Surface, longueur: élevées (200 m2, 4-5 m) - Forte vascularisation (1 l/min) , villosités, capillaires lymphatiques"
+    },
+    "difficulte": 1,
+    "tags": [
+      "voie orale",
+      "intestin grêle"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/03-absorption/qcm-059",
+    "type": "multiple",
+    "enonce": "Au niveau de l'intestin grêle :",
+    "options": [
+      "Il n'existe aucun transporteur actif",
+      "La bile diminue la solubilisation des principes actifs",
+      "L'absorption est favorable aux bases faibles (forme non ionisée liposoluble)",
+      "L'absorption est aussi possible pour les acides faibles",
+      "La longueur est d'environ 4 à 5 m"
+    ],
+    "correctes": [
+      2,
+      3,
+      4
+    ],
+    "explication": "L'intestin grêle est favorable aux bases faibles (forme non ionisée liposoluble +++) et aux acides faibles (c, d) ; sa longueur est de 4 à 5 m (e). La bile et les surfactants accroissent la solubilisation des PA (b fausse) et des transporteurs actifs y sont présents (a fausse).",
+    "source": {
+      "page": 36,
+      "extrait": "Pour les médicaments bases faibles (forme non ionisée liposoluble +++) et acides faibles."
+    },
+    "difficulte": 2,
+    "tags": [
+      "intestin grêle",
+      "base faible"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/03-absorption/qcm-060",
+    "type": "multiple",
+    "enonce": "Concernant l'absorption au niveau du côlon :",
+    "options": [
+      "La surface d'échange est faible",
+      "L'absorption y est plus rapide que dans l'intestin grêle",
+      "L'absorption y est plus lente",
+      "La surface d'échange est supérieure à celle de l'intestin grêle",
+      "Il n'y a pas de villosités"
+    ],
+    "correctes": [
+      0,
+      2,
+      4
+    ],
+    "explication": "Le côlon présente une faible surface d'échange (a) car il n'a pas de villosités (e) ; l'absorption y est plus lente (c). d et b sont donc fausses.",
+    "source": {
+      "page": 37,
+      "extrait": "Faible surface d'échange (pas de villosités); Absorption plus lente!"
+    },
+    "difficulte": 1,
+    "tags": [
+      "voie orale",
+      "côlon"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/03-absorption/qcm-061",
+    "type": "multiple",
+    "enonce": "Parmi les facteurs influençant l'absorption orale, les caractéristiques du médicament sont :",
+    "options": [
+      "La solubilité",
+      "La formulation (forme et excipients)",
+      "Le poids moléculaire",
+      "Le degré d'ionisation (pKa)",
+      "Le fait d'être substrat de transporteurs (P-gp)"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Le cours liste parmi les caractéristiques du médicament : solubilité, degré d'ionisation (pKa), poids moléculaire, substrat de transporteurs (P-gp) et formulation (forme et excipients). Toutes les propositions sont justes.",
+    "source": {
+      "page": 37,
+      "extrait": "Solubilité, Degré d'ionisation (pKa), Poids moléculaire, Substrat de transporteurs (P-gp), Formulation (forme et excipients)."
+    },
+    "difficulte": 1,
+    "tags": [
+      "voie orale",
+      "facteurs"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/03-absorption/qcm-062",
+    "type": "multiple",
+    "enonce": "Parmi les facteurs influençant l'absorption orale, les caractéristiques de l'individu sont :",
+    "options": [
+      "Le pH digestif",
+      "La prise d'aliments",
+      "Le poids moléculaire du principe actif",
+      "La prise concomitante de médicaments",
+      "La vitesse de vidange gastrique et le transit"
+    ],
+    "correctes": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "explication": "Les caractéristiques de l'individu citées sont : pH digestif, vitesse de vidange gastrique et transit, prise d'aliments, prise concomitante de médicaments, débit sanguin et états pathologiques du tube digestif (a, e, b, d). Le poids moléculaire est une caractéristique du médicament (c fausse).",
+    "source": {
+      "page": 38,
+      "extrait": "pH digestif, Vitesse de vidange gastrique, transit, Prise d'aliments, Prise concomitante de médicaments,"
+    },
+    "difficulte": 2,
+    "tags": [
+      "voie orale",
+      "facteurs"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/03-absorption/qcm-063",
+    "type": "unique",
+    "enonce": "Parmi les propositions suivantes, laquelle est une caractéristique de l'individu (et non du médicament) influençant l'absorption orale ?",
+    "options": [
+      "La solubilité",
+      "Le pKa",
+      "Le caractère de substrat de la P-gp",
+      "La formulation",
+      "Les états pathologiques du tube digestif"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Les états pathologiques du tube digestif font partie des caractéristiques de l'individu, avec le pH digestif, la vidange gastrique, les aliments, les médicaments associés et le débit sanguin. La formulation, le pKa, la solubilité et le fait d'être substrat de la P-gp sont des caractéristiques du médicament.",
+    "source": {
+      "page": 38,
+      "extrait": "Débit sanguin, États pathologiques du tube digestif."
+    },
+    "difficulte": 2,
+    "tags": [
+      "voie orale",
+      "facteurs"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/03-absorption/qcm-064",
+    "type": "multiple",
+    "enonce": "Concernant la voie perlinguale :",
+    "options": [
+      "L'absorption est rapide",
+      "La muqueuse est riche en vascularisation",
+      "La surface est grande, permettant d'absorber de grandes quantités",
+      "L'absorption se fait par diffusion passive",
+      "Le pH est faiblement acide"
+    ],
+    "correctes": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "explication": "La voie perlinguale associe un pH faiblement acide et une riche vascularisation (e, b), une absorption par diffusion passive (d) et rapide (a). La surface est limitée, d'où une quantité réduite (c fausse).",
+    "source": {
+      "page": 39,
+      "extrait": "pH faiblement acide + Riche en vascularisation, Absorption par diffusion passive, Surface limitée quantité réduite, Absorption rapide."
+    },
+    "difficulte": 1,
+    "tags": [
+      "voie perlinguale"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/03-absorption/qcm-065",
+    "type": "multiple",
+    "enonce": "La voie perlinguale permet d'éviter :",
+    "options": [
+      "L'acidité gastrique",
+      "Les enzymes digestives",
+      "Le premier passage hépatique",
+      "La flore bactérienne",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le cours indique que la voie perlinguale évite l'acidité gastrique, les enzymes digestives, la flore bactérienne et le premier passage hépatique. Toutes les propositions sont donc correctes.",
+    "source": {
+      "page": 39,
+      "extrait": "Cette voie évite: Acidité gastrique, Enzymes digestifs, Flore bactérienne, Premier passage hépatique"
+    },
+    "difficulte": 1,
+    "tags": [
+      "voie perlinguale",
+      "effet de premier passage"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/03-absorption/qcm-066",
+    "type": "unique",
+    "enonce": "La voie perlinguale évite le premier passage hépatique car :",
+    "options": [
+      "Le sang de la bouche rejoint directement la veine porte",
+      "La muqueuse buccale est dépourvue de vaisseaux",
+      "Le médicament est absorbé par transport actif",
+      "Les veines jugulaires externes qui drainent la bouche se jettent dans la veine cave supérieure",
+      "Le médicament est absorbé par voie lymphatique uniquement"
+    ],
+    "correctes": [
+      3
+    ],
+    "explication": "Le cours explique que les veines jugulaires externes qui drainent la bouche se jettent dans la veine cave supérieure, court-circuitant le foie (d). Le sang ne passe pas par la veine porte (a fausse) ; la muqueuse est au contraire riche en vascularisation (b fausse) et l'absorption se fait par diffusion passive (c fausse).",
+    "source": {
+      "page": 39,
+      "extrait": "les veines jugulaires externes qui drainent la bouche se jettent dans la veine cave supérieure"
+    },
+    "difficulte": 2,
+    "tags": [
+      "voie perlinguale",
+      "effet de premier passage"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/03-absorption/qcm-067",
+    "type": "multiple",
+    "enonce": "Concernant l'absorption par voie rectale :",
+    "options": [
+      "Elle est irrégulière",
+      "Les médicaments ne sont pas altérés par les enzymes digestives",
+      "Elle se fait par diffusion passive",
+      "Le phénomène de premier passage hépatique est réduit",
+      "Le phénomène de premier passage hépatique est totalement supprimé"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "La voie rectale se caractérise par une absorption par diffusion passive (c), irrégulière (a), sans altération par les enzymes digestives (b), avec un premier passage hépatique réduit (d). Il n'est pas supprimé, car les veines hémorroïdales supérieures conduisent au foie (e fausse).",
+    "source": {
+      "page": 40,
+      "extrait": "Phénomène de premier passage hépatique est réduit."
+    },
+    "difficulte": 1,
+    "tags": [
+      "voie rectale"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/03-absorption/qcm-068",
+    "type": "multiple",
+    "enonce": "Concernant l'administration des médicaments par voie rectale :",
+    "options": [
+      "L'absorption est régulière et prévisible",
+      "Les veines hémorroïdales supérieures rejoignent le système porte (foie)",
+      "Les veines hémorroïdales inférieures et moyennes évitent le foie",
+      "L'absorption se fait par transport actif",
+      "Les enzymes digestives dégradent fortement les médicaments"
+    ],
+    "correctes": [
+      1,
+      2
+    ],
+    "explication": "D'après le tableau EPP, les veines hémorroïdales supérieures exposent aux EPP hépatique et pulmonaire (b), alors que les veines inférieures et moyennes n'exposent qu'à l'EPP pulmonaire, évitant le foie (c). L'absorption rectale est irrégulière (a fausse), par diffusion passive (d fausse), sans altération par les enzymes digestives (e fausse).",
+    "source": {
+      "page": 40,
+      "extrait": "Absorption irrégulière, Pas d'altération des médicaments par les enzymes digestives,"
+    },
+    "difficulte": 2,
+    "tags": [
+      "voie rectale",
+      "effet de premier passage"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/03-absorption/qcm-069",
+    "type": "multiple",
+    "enonce": "L'absorption par voie pulmonaire est favorisée par :",
+    "options": [
+      "Une épaisseur importante de l'épithélium",
+      "Un débit sanguin intense",
+      "Une épaisseur réduite de l'épithélium",
+      "Le fait qu'elle évite le foie",
+      "Une grande surface d'échange alvéolaire"
+    ],
+    "correctes": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Le cours cite la grande surface d'échange alvéolaire (e), le débit sanguin intense (b), l'épaisseur réduite de l'épithélium (c) et le fait d'éviter le foie (d). L'épithélium est réduit et non épais (a fausse).",
+    "source": {
+      "page": 41,
+      "extrait": "Grande surface d'échange alvéolaire, Le débit sanguin intense, Épaisseur réduite de l'épithélium , Evite le foie,"
+    },
+    "difficulte": 1,
+    "tags": [
+      "voie pulmonaire"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/03-absorption/qcm-070",
+    "type": "multiple",
+    "enonce": "Concernant l'influence de la taille des particules sur l'absorption pulmonaire :",
+    "options": [
+      "L'absorption pulmonaire est indépendante de la taille des particules",
+      "Les aérosols > 3 µm exercent une action locale",
+      "Les aérosols > 3 µm atteignent les alvéoles et passent dans le sang",
+      "Les particules de 0,2 à 2 µm atteignent les alvéoles et passent dans le sang",
+      "Les aérosols > 3 µm ne passent pas dans le sang"
+    ],
+    "correctes": [
+      1,
+      3,
+      4
+    ],
+    "explication": "L'absorption pulmonaire dépend de la taille des particules (a fausse) : entre 0,2 et 2 µm, elles atteignent les alvéoles et passent dans le sang (d) ; les aérosols > 3 µm ne passent pas et ont une action locale (e, b justes, c fausse).",
+    "source": {
+      "page": 41,
+      "extrait": "taille des particules entre 0.2 et 2µm alvéoles passe dans sang. Aérosols >3µm ne passe pas action locale."
+    },
+    "difficulte": 2,
+    "tags": [
+      "voie pulmonaire",
+      "aérosols"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/03-absorption/qcm-071",
+    "type": "multiple",
+    "enonce": "Un aérosol dont les particules mesurent 5 µm :",
+    "options": [
+      "Exerce une action locale",
+      "Atteint les alvéoles et passe dans le sang",
+      "Subit un effet de premier passage hépatique",
+      "Ne passe pas dans le sang",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      0,
+      3
+    ],
+    "explication": "Selon le cours, les aérosols > 3 µm ne passent pas dans le sang et exercent une action locale (d, a) ; seules les particules entre 0,2 et 2 µm passent dans le sang (b fausse). La voie pulmonaire évite le foie (c fausse).",
+    "source": {
+      "page": 41,
+      "extrait": "Aérosols >3µm ne passe pas action locale."
+    },
+    "difficulte": 2,
+    "tags": [
+      "voie pulmonaire",
+      "aérosols"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/03-absorption/qcm-072",
+    "type": "multiple",
+    "enonce": "Concernant la voie percutanée :",
+    "options": [
+      "La vitesse d'absorption est identique quel que soit le site d'application",
+      "La vitesse d'absorption dépend du site d'application",
+      "La résorption se fait par transport actif",
+      "La résorption se fait par diffusion passive à travers les couches cellulaires de la peau",
+      "La peau est moins perméable, avec souvent un effet local superficiel"
+    ],
+    "correctes": [
+      1,
+      3,
+      4
+    ],
+    "explication": "La peau est moins perméable, d'où souvent un effet local superficiel (e). La résorption se fait par diffusion passive à travers les couches cellulaires (d juste, c fausse). La vitesse d'absorption est fonction du site d'application : épaisseur, vascularisation, état de la peau (b juste, a fausse).",
+    "source": {
+      "page": 42,
+      "extrait": "La peau est moins perméable souvent un effet local superficiel ."
+    },
+    "difficulte": 1,
+    "tags": [
+      "voie percutanée"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/03-absorption/qcm-073",
+    "type": "multiple",
+    "enonce": "Les éléments du site d'application qui conditionnent la vitesse d'absorption percutanée sont :",
+    "options": [
+      "La vascularisation",
+      "L'état de la peau",
+      "La taille des particules entre 0,2 et 2 µm",
+      "L'épaisseur",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      3
+    ],
+    "explication": "La vitesse d'absorption percutanée est fonction du site d'application : épaisseur, vascularisation et état de la peau (d, a, b). La taille des particules (0,2–2 µm) concerne la voie pulmonaire (c fausse).",
+    "source": {
+      "page": 42,
+      "extrait": "La vitesse d'absorption est fonction du site d'application: - Épaisseur. - Vascularisation. - État de la peau."
+    },
+    "difficulte": 1,
+    "tags": [
+      "voie percutanée"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/03-absorption/qcm-074",
+    "type": "multiple",
+    "enonce": "Les facteurs susceptibles d'augmenter l'absorption percutanée sont :",
+    "options": [
+      "L'hydratation de la peau",
+      "Une peau sèche et intacte",
+      "Les lésions cutanées",
+      "L'augmentation de l'épaisseur de la peau",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      0,
+      2
+    ],
+    "explication": "Le cours cite comme facteurs augmentant l'absorption percutanée l'hydratation de la peau et les lésions cutanées (a, c). Une peau sèche et intacte ou plus épaisse ne fait pas partie de ces facteurs (b, d fausses), donc e est fausse.",
+    "source": {
+      "page": 42,
+      "extrait": "Les facteurs susceptibles d'augmenter l'absorption: - Hydratation de la peau - Les lésions cutanées"
+    },
+    "difficulte": 1,
+    "tags": [
+      "voie percutanée"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/03-absorption/qcm-075",
+    "type": "multiple",
+    "enonce": "Concernant la voie sous-cutanée :",
+    "options": [
+      "La résorption est plus lente que par voie IM",
+      "Les solutions huileuses sont absorbées par pinocytose",
+      "La résorption est plus rapide que par voie IM",
+      "La résorption est irrégulière",
+      "Une solution aqueuse diffuse passivement"
+    ],
+    "correctes": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "explication": "Par voie S/C, la résorption est irrégulière (d) et plus lente que l'IM (a juste, c fausse). Une solution aqueuse diffuse passivement (e) tandis que les solutions huileuses sont absorbées par pinocytose (b).",
+    "source": {
+      "page": 43,
+      "extrait": "Résorption: irrégulière et (+lente que l'IM): Solution aqueuse diffuse passivement; Solutions huileuses =>l'absorption par pinocytose."
+    },
+    "difficulte": 1,
+    "tags": [
+      "voie sous-cutanée"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/03-absorption/qcm-076",
+    "type": "unique",
+    "enonce": "Par voie sous-cutanée, les solutions huileuses sont absorbées par :",
+    "options": [
+      "Pinocytose",
+      "Diffusion facilitée",
+      "Diffusion passive",
+      "Transport actif",
+      "Filtration"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Selon le cours, par voie S/C les solutions aqueuses diffusent passivement, tandis que l'absorption des solutions huileuses se fait par pinocytose.",
+    "source": {
+      "page": 43,
+      "extrait": "Solutions huileuses =>l'absorption par pinocytose."
+    },
+    "difficulte": 2,
+    "tags": [
+      "voie sous-cutanée",
+      "pinocytose"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/03-absorption/qcm-077",
+    "type": "multiple",
+    "enonce": "La vitesse d'absorption par voie sous-cutanée ou intramusculaire peut être augmentée par :",
+    "options": [
+      "Une vasodilatation chimique (vasodilatateurs)",
+      "Une vasoconstriction",
+      "Une vasodilatation mécanique (friction)",
+      "L'utilisation d'une forme retard",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      2
+    ],
+    "explication": "Pour les voies S/C et IM, la vitesse d'absorption peut être augmentée par vasodilatation chimique (vasodilatateurs) ou mécanique (friction) (a, c). Une forme retard ralentit au contraire l'absorption IM (d fausse) ; la vasoconstriction n'est pas citée et va dans le sens opposé (b fausse).",
+    "source": {
+      "page": 43,
+      "extrait": "La vitesse d'absorption peut être augmentée: Par vasodilatation chimique (vasodilatateurs); ou mécanique (friction)."
+    },
+    "difficulte": 1,
+    "tags": [
+      "voie sous-cutanée",
+      "voie intramusculaire"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/03-absorption/qcm-078",
+    "type": "multiple",
+    "enonce": "Concernant la voie intramusculaire :",
+    "options": [
+      "L'injection se fait le plus souvent dans le deltoïde",
+      "La résorption est rapide en raison de la forte vascularisation",
+      "Le deltoïde est utilisé plus rarement, notamment pour les vaccins",
+      "La résorption se fait par diffusion passive",
+      "La résorption peut être ralentie par une forme retard"
+    ],
+    "correctes": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Par voie IM, la résorption se fait par diffusion passive (d), rapide en raison de la forte vascularisation (b), et peut être ralentie par une forme retard (e). L'injection se fait au sein de la masse musculaire de la fesse, plus rarement du deltoïde (vaccins) (c juste, a fausse).",
+    "source": {
+      "page": 43,
+      "extrait": "L'injection se fait au sein de la masse musculaire de la fesse, plus rarement du deltoïde (vaccins)."
+    },
+    "difficulte": 2,
+    "tags": [
+      "voie intramusculaire"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/03-absorption/qcm-079",
+    "type": "multiple",
+    "enonce": "Comparaison des voies S/C et IM : quelle(s) proposition(s) est (sont) juste(s) ?",
+    "options": [
+      "La résorption IM est rapide en raison de la forte vascularisation musculaire",
+      "La résorption S/C est irrégulière",
+      "La résorption S/C est plus lente que la résorption IM",
+      "Les deux voies peuvent voir leur vitesse d'absorption augmentée par friction",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "La résorption S/C est irrégulière et plus lente que l'IM (c, b) ; la résorption IM est rapide grâce à la forte vascularisation (a) ; pour les deux voies, la vitesse peut être augmentée par vasodilatation chimique ou mécanique (friction) (d). Toutes les propositions sont donc correctes.",
+    "source": {
+      "page": 43,
+      "extrait": "Résorption par diffusion passive rapide => en raison de la forte vascularisation, ralentie (forme retard),"
+    },
+    "difficulte": 2,
+    "tags": [
+      "voie sous-cutanée",
+      "voie intramusculaire",
+      "comparaison"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/03-absorption/qcm-080",
+    "type": "multiple",
+    "enonce": "Concernant l'absorption à travers la muqueuse vaginale :",
+    "options": [
+      "La résorption est rare et faible",
+      "Elle est à visée locale",
+      "Elle est la voie de référence pour les effets généraux",
+      "La résorption est rapide et importante",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "La muqueuse vaginale est utilisée à visée locale (b) et la résorption y est rare et faible (a). d et c sont donc fausses.",
+    "source": {
+      "page": 44,
+      "extrait": "Muqueuse vaginale: A visée locale, Résorption: rare et faible."
+    },
+    "difficulte": 1,
+    "tags": [
+      "autres muqueuses",
+      "voie vaginale"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/03-absorption/qcm-081",
+    "type": "multiple",
+    "enonce": "Concernant la muqueuse nasale :",
+    "options": [
+      "Des effets généraux sont possibles",
+      "L'action locale est la plus recherchée",
+      "L'absorption y est rare et faible",
+      "Aucun effet général n'est possible",
+      "L'absorption à travers la muqueuse est rapide"
+    ],
+    "correctes": [
+      0,
+      1,
+      4
+    ],
+    "explication": "Pour la muqueuse nasale, l'action locale est la plus recherchée (b), mais des effets généraux sont possibles (a juste, d fausse) car l'absorption à travers la muqueuse est rapide (e). La résorption rare et faible caractérise la muqueuse vaginale (c fausse).",
+    "source": {
+      "page": 44,
+      "extrait": "Muqueuse nasale: Action locale: La plus recherchée Possibilité d'effets généraux : Absorption rapide à travers la muqueuse."
+    },
+    "difficulte": 1,
+    "tags": [
+      "autres muqueuses",
+      "voie nasale"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/03-absorption/qcm-082",
+    "type": "multiple",
+    "enonce": "Concernant la muqueuse oculaire et la voie auriculaire :",
+    "options": [
+      "Pour la muqueuse oculaire, l'action locale est la plus recherchée (cornée, conjonctive, paupière)",
+      "La voie auriculaire est utilisée pour obtenir des effets généraux",
+      "Des effets généraux sont possibles après administration oculaire",
+      "La voie auriculaire est à visée locale",
+      "La voie oculaire exclut toute possibilité d'effet général"
+    ],
+    "correctes": [
+      0,
+      2,
+      3
+    ],
+    "explication": "Pour la muqueuse oculaire, l'action locale (cornée, conjonctive, paupière) est la plus recherchée (a), mais des effets généraux sont possibles (c juste, e fausse). La voie auriculaire est à visée locale (d juste, b fausse).",
+    "source": {
+      "page": 44,
+      "extrait": "Muqueuse oculaire: Action locale: La plus recherchée (cornée, conjonctive ,paupière), Possibilité d'effets généraux."
+    },
+    "difficulte": 1,
+    "tags": [
+      "autres muqueuses",
+      "voie oculaire"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/03-absorption/qcm-083",
+    "type": "unique",
+    "enonce": "La voie intrapéritonéale (IP) :",
+    "options": [
+      "A une vitesse de résorption très inférieure à celle de la voie S/C",
+      "Présente une résorption rare et faible",
+      "A une vitesse de résorption équivalente à celle de la voie IV",
+      "Est une voie à visée exclusivement locale",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Le cours indique que la vitesse de résorption par voie intrapéritonéale est équivalente à celle de l'IV (c). Les autres propositions ne correspondent pas à ce qui est décrit pour la voie IP.",
+    "source": {
+      "page": 44,
+      "extrait": "Voie Intra-péritonéale (IP): Vitesse de résorption équivalente à l'IV."
+    },
+    "difficulte": 1,
+    "tags": [
+      "voie intrapéritonéale"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/03-absorption/qcm-084",
+    "type": "multiple",
+    "enonce": "En conclusion, l'absorption :",
+    "options": [
+      "Peut être modifiée par plusieurs facteurs",
+      "Détermine la quantité de médicament qui passe dans le sang (biodisponibilité)",
+      "Doit être prise en compte dans le choix de la voie d'administration pour un effet pharmacologique optimal",
+      "Est la première étape de l'ADME",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "La conclusion du cours rappelle que l'absorption est la 1re étape de l'ADME (d), détermine la quantité passant dans le sang, c'est-à-dire la biodisponibilité (b), peut être modifiée par plusieurs facteurs (a), et qu'un bon choix de la voie d'administration en tenant compte de l'absorption assure l'effet pharmacologique optimal (c). Toutes les propositions sont correctes.",
+    "source": {
+      "page": 45,
+      "extrait": "Détermine la quantité du médicament qui passe dans le sang (Biodisponibilité)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "conclusion",
+      "biodisponibilité"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/03-absorption/qcm-085",
+    "type": "multiple",
+    "enonce": "Parmi les propositions suivantes, quelle(s) affirmation(s) est (sont) juste(s) ?",
+    "options": [
+      "La filtration concerne les grosses molécules",
+      "Le transport actif ne présente aucune spécificité",
+      "La diffusion passive nécessite l'hydrolyse de l'ATP",
+      "La diffusion facilitée se fait contre le gradient de concentration",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "La diffusion passive ne nécessite pas d'énergie (c fausse) ; la diffusion facilitée se fait dans le sens du gradient (d fausse) ; le transport actif nécessite un transporteur spécifique et présente une spécificité (b fausse) ; la filtration concerne l'eau et les petites molécules (a fausse). Toutes les propositions sont donc fausses.",
+    "source": {
+      "page": 10,
+      "extrait": "Nécessite un transporteur spécifique,"
+    },
+    "difficulte": 2,
+    "tags": [
+      "mécanismes",
+      "synthèse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/03-absorption/qcm-086",
+    "type": "multiple",
+    "enonce": "Un médicament acide faible administré par voie orale :",
+    "options": [
+      "Est sous forme majoritairement ionisée dans l'estomac",
+      "Peut être absorbé au niveau gastrique",
+      "S'ionise davantage lorsque le pH augmente",
+      "Peut aussi être absorbé au niveau de l'intestin grêle",
+      "Est peu ionisé dans l'estomac"
+    ],
+    "correctes": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Un acide faible est peu ionisé en milieu acide (e juste, a fausse), d'où une absorption possible dans l'estomac, lieu favorable aux acides faibles (b). Il s'ionise plus en milieu alcalin (c). L'intestin grêle reste favorable aux bases faibles et aux acides faibles (d).",
+    "source": {
+      "page": 35,
+      "extrait": "Pour les médicaments acides faibles (forme non ionisée liposoluble +++)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "acide faible",
+      "voie orale",
+      "pH"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/03-absorption/qcm-087",
+    "type": "multiple",
+    "enonce": "Concernant la fraction d'un médicament capable de franchir les membranes par diffusion passive :",
+    "options": [
+      "Il s'agit de la fraction non ionisée",
+      "Il s'agit de la fraction liposoluble",
+      "Il s'agit de la fraction ionisée",
+      "Cette fraction dépend du pH du milieu et du pKa du médicament",
+      "Cette fraction est indépendante du pH pour tous les médicaments"
+    ],
+    "correctes": [
+      0,
+      1,
+      3
+    ],
+    "explication": "La diffusion passive concerne la fraction liposoluble et non ionisée (a, b ; c fausse). L'état d'ionisation dépend du pH du milieu et du pKa (d). L'absorption n'est indépendante du pH que pour certaines classes (acides très faibles, bases très faibles), pas pour tous les médicaments (e fausse).",
+    "source": {
+      "page": 8,
+      "extrait": "Concerne la fraction liposoluble et non ionisée"
+    },
+    "difficulte": 2,
+    "tags": [
+      "diffusion passive",
+      "ionisation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/03-absorption/qcm-088",
+    "type": "multiple",
+    "enonce": "Un médicament subit un important effet de premier passage hépatique. Pour l'éviter, on peut utiliser :",
+    "options": [
+      "La voie orale",
+      "La voie perlinguale",
+      "La voie pulmonaire",
+      "La voie intraveineuse",
+      "La voie intramusculaire"
+    ],
+    "correctes": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "La voie perlinguale évite le premier passage hépatique (b). Les voies IV et IM n'exposent qu'à un EPP pulmonaire (d, e) et la voie pulmonaire évite le foie (c). La voie orale expose aux EPP intestinal, hépatique et pulmonaire (a fausse).",
+    "source": {
+      "page": 27,
+      "extrait": "I.V – I.M - S/C Sublinguale pulmonaire."
+    },
+    "difficulte": 2,
+    "tags": [
+      "effet de premier passage",
+      "voies d'administration"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/03-absorption/qcm-089",
+    "type": "multiple",
+    "enonce": "Les mécanismes de passage transmembranaire présentant un phénomène de saturation sont :",
+    "options": [
+      "La diffusion passive",
+      "Le transport actif",
+      "La diffusion facilitée",
+      "La filtration",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      1,
+      2
+    ],
+    "explication": "Seuls les mécanismes faisant intervenir un transporteur sont saturables : diffusion facilitée et transport actif (c, b). La diffusion passive, sans transporteur, n'est pas saturable (a fausse). La filtration se fait à travers les pores selon la pression osmotique, sans saturation décrite (d fausse).",
+    "source": {
+      "page": 9,
+      "extrait": "Phénomène de saturation ;spécificité et compétition."
+    },
+    "difficulte": 2,
+    "tags": [
+      "mécanismes",
+      "saturation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/03-absorption/qcm-090",
+    "type": "multiple",
+    "enonce": "Concernant les voies de drainage veineux représentées dans le schéma des voies d'administration :",
+    "options": [
+      "Le sang issu de la voie sublinguale rejoint la veine porte",
+      "Le sang issu du tube digestif rejoint le foie par la veine porte",
+      "Le sang des veines hémorroïdales inférieure et moyenne rejoint le système cave",
+      "Le sang de la veine hémorroïdale supérieure rejoint le foie",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      1,
+      2,
+      3
+    ],
+    "explication": "Le schéma montre la veine porte drainant le tube digestif vers le foie (b), la veine hémorroïdale supérieure rejoignant le foie (d, EPP hépatique et pulmonaire) et les veines hémorroïdales inférieure et moyenne rejoignant le système cave (c, EPP pulmonaire seul). La voie sublinguale rejoint la veine cave supérieure via les jugulaires externes (a fausse).",
+    "source": {
+      "page": 31,
+      "extrait": "v. porte foie système cave"
+    },
+    "difficulte": 3,
+    "tags": [
+      "voies d'administration",
+      "effet de premier passage"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/03-absorption/qcm-091",
+    "type": "multiple",
+    "enonce": "Une base faible (pKa = 8) est administrée par voie orale. Parmi les propositions suivantes :",
+    "options": [
+      "Elle est plus ionisée dans l'estomac que dans l'intestin grêle",
+      "Elle diffuse d'autant mieux que le pH est faible",
+      "C'est une base forte à absorption limitée",
+      "Elle est préférentiellement absorbée au niveau de l'intestin grêle",
+      "Son absorption dépend du pH"
+    ],
+    "correctes": [
+      0,
+      3,
+      4
+    ],
+    "explication": "Une base de pKa compris entre 5 et 11 est une base faible à absorption dépendante du pH (e juste, c fausse). Elle s'ionise plus en milieu acide, donc davantage dans l'estomac (a), et diffuse d'autant mieux que le pH est élevé (b fausse), d'où une absorption préférentielle dans l'intestin grêle (d).",
+    "source": {
+      "page": 19,
+      "extrait": "Base faible s'ionise plus en milieu acide ce qui limite son passage transmembranaire."
+    },
+    "difficulte": 3,
+    "tags": [
+      "base faible",
+      "pKa",
+      "voie orale"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/03-absorption/qcm-092",
+    "type": "multiple",
+    "enonce": "Un acide faible (pKa = 4) se trouve dans l'intestin grêle à pH = 7. D'après Henderson-Hasselbalch :",
+    "options": [
+      "Sa forme non ionisée représente environ 0,1 %",
+      "Le rapport [ionisée]/[non ionisée] vaut 1000",
+      "Il est majoritairement non ionisé",
+      "Il est majoritairement ionisé",
+      "Le rapport [ionisée]/[non ionisée] vaut 1/1000"
+    ],
+    "correctes": [
+      0,
+      1,
+      3
+    ],
+    "explication": "Pour un acide : log([I]/[NI]) = pH − pKa = 7 − 4 = 3, donc [I]/[NI] = 10³ = 1000 (b juste, e fausse). Il est donc majoritairement ionisé (d juste, c fausse) ; la forme non ionisée vaut 1/1001 ≈ 0,1 % (a).",
+    "source": {
+      "page": 16,
+      "extrait": "PH= pKa + log [forme ionisée] [forme non ionisée]"
+    },
+    "difficulte": 3,
+    "tags": [
+      "Henderson-Hasselbalch",
+      "calcul",
+      "acide faible"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/03-absorption/qcm-093",
+    "type": "multiple",
+    "enonce": "Lorsque le pH du milieu est égal au pKa d'un médicament :",
+    "options": [
+      "50 % du médicament est sous forme ionisée",
+      "Le rapport forme ionisée / forme non ionisée vaut 1",
+      "Le médicament est totalement ionisé",
+      "50 % du médicament est sous forme non ionisée",
+      "Ceci n'est vrai que pour les bases"
+    ],
+    "correctes": [
+      0,
+      1,
+      3
+    ],
+    "explication": "Si pH = pKa, le terme log du rapport vaut 0, donc le rapport vaut 1 : 50 % de forme ionisée et 50 % de forme non ionisée (a, d, b). Ce résultat découle de l'équation pour les acides comme pour les bases (e fausse) ; le médicament n'est pas totalement ionisé (c fausse).",
+    "source": {
+      "page": 16,
+      "extrait": "PH= pKa + log [forme ionisée] [forme non ionisée]"
+    },
+    "difficulte": 2,
+    "tags": [
+      "Henderson-Hasselbalch",
+      "pKa"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/03-absorption/qcm-094",
+    "type": "multiple",
+    "enonce": "Parmi les voies suivantes, celles dont l'absorption se fait par diffusion passive selon le cours sont :",
+    "options": [
+      "La voie rectale",
+      "La voie perlinguale",
+      "La voie percutanée",
+      "La voie intramusculaire",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le cours précise une absorption par diffusion passive pour les voies perlinguale, rectale, percutanée (à travers les couches de la peau) et intramusculaire. Toutes les propositions sont donc correctes.",
+    "source": {
+      "page": 40,
+      "extrait": "Absorption par diffusion passive,"
+    },
+    "difficulte": 2,
+    "tags": [
+      "voies d'administration",
+      "diffusion passive"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/03-absorption/qcm-095",
+    "type": "multiple",
+    "enonce": "Concernant la vascularisation des sites d'absorption digestifs :",
+    "options": [
+      "Le débit sanguin gastrique est supérieur au débit intestinal",
+      "La vascularisation gastrique est très importante",
+      "Le débit sanguin gastrique est de 0,2 l/min",
+      "La vascularisation du duodénum est importante",
+      "Le débit sanguin de l'intestin grêle est de 1 l/min"
+    ],
+    "correctes": [
+      2,
+      3,
+      4
+    ],
+    "explication": "Selon le cours, l'estomac a une vascularisation faible (0,2 l/min) (c ; b et a fausses), le duodénum une vascularisation importante (d) et l'intestin grêle une vascularisation très importante (1 l/min) (e).",
+    "source": {
+      "page": 20,
+      "extrait": "Très Importante 5-8 (débit sanguin = 1 l/min)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "anatomie digestive",
+      "vascularisation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/03-absorption/qcm-096",
+    "type": "multiple",
+    "enonce": "Concernant les pH du tube digestif rapportés dans le cours :",
+    "options": [
+      "Le pH gastrique est acide (1,5 à 3,5)",
+      "Le pH de l'intestin grêle favorise la forme non ionisée",
+      "Le pH de l'intestin grêle est de 5 à 8",
+      "Le pH duodénal est d'environ 4 à 5",
+      "Le pH gastrique est neutre"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Le pH gastrique est acide, de 1,5 à 3,5 (a ; e fausse) ; le pH duodénal est de 4 à 5 (d) et celui de l'intestin grêle de 5 à 8 (c), ce qui favorise la forme non ionisée (b).",
+    "source": {
+      "page": 36,
+      "extrait": "pH 5 à 8 : favorise la forme non ionisée."
+    },
+    "difficulte": 2,
+    "tags": [
+      "pH",
+      "anatomie digestive"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/03-absorption/qcm-097",
+    "type": "multiple",
+    "enonce": "Parmi les propositions suivantes concernant les exemples du cours, quelle(s) association(s) est (sont) correcte(s) ?",
+    "options": [
+      "Vitamine B12 – transport actif",
+      "Topiques intestinaux – absorption indispensable à l'effet",
+      "Pénicilline G – dégradée dans l'estomac",
+      "Ions Ca++ – diffusion facilitée (résorption duodénale)",
+      "Méthyldopa – transport actif"
+    ],
+    "correctes": [
+      0,
+      2,
+      3,
+      4
+    ],
+    "explication": "Le cours cite la résorption duodénale des ions Ca++ pour la diffusion facilitée (d), la méthyldopa et la vitamine B12 pour le transport actif (e, a), la péni G comme composé dégradé dans l'estomac (c). Les topiques intestinaux montrent au contraire que l'absorption n'est pas nécessaire à l'effet (b fausse).",
+    "source": {
+      "page": 10,
+      "extrait": "Exp: la méthyldopa, vitamine B12."
+    },
+    "difficulte": 2,
+    "tags": [
+      "exemples",
+      "mécanismes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/03-absorption/qcm-098",
+    "type": "multiple",
+    "enonce": "Concernant les voies d'administration à visée principalement locale :",
+    "options": [
+      "La voie auriculaire est à visée locale",
+      "Pour la muqueuse oculaire, aucun effet général n'est possible",
+      "La muqueuse vaginale est à visée locale",
+      "La voie percutanée a souvent un effet local superficiel",
+      "Pour la muqueuse nasale, l'action locale est la plus recherchée"
+    ],
+    "correctes": [
+      0,
+      2,
+      3,
+      4
+    ],
+    "explication": "Les muqueuses vaginale et auriculaire sont à visée locale (c, a), l'action locale est la plus recherchée pour la muqueuse nasale (e), et la peau, moins perméable, donne souvent un effet local superficiel (d). Pour la muqueuse oculaire, des effets généraux restent possibles (b fausse).",
+    "source": {
+      "page": 44,
+      "extrait": "Voie auriculaire : A visée locale."
+    },
+    "difficulte": 2,
+    "tags": [
+      "autres muqueuses",
+      "voie percutanée"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/03-absorption/qcm-099",
+    "type": "multiple",
+    "enonce": "Concernant les grandeurs chiffrées du cours :",
+    "options": [
+      "Les aérosols > 3 µm passent dans le sang",
+      "La surface d'absorption de l'estomac est d'environ 1 m²",
+      "Les particules inhalées de 0,2 à 2 µm passent dans le sang",
+      "La surface d'absorption de l'intestin grêle est d'environ 200 m²",
+      "La longueur de l'intestin grêle est de 4 à 5 m"
+    ],
+    "correctes": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Le cours donne 200 m² et 4–5 m pour l'intestin grêle (d, e), 1 m² pour l'estomac (b) et indique que les particules de 0,2 à 2 µm atteignent les alvéoles et passent dans le sang (c), alors que les aérosols > 3 µm ne passent pas (a fausse).",
+    "source": {
+      "page": 41,
+      "extrait": "taille des particules entre 0.2 et 2µm alvéoles passe dans sang."
+    },
+    "difficulte": 2,
+    "tags": [
+      "chiffres clés"
+    ],
+    "origine": "genere"
+  }
+]

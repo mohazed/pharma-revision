@@ -1,0 +1,182 @@
+[
+  {
+    "id": "pharmacologie/td/01-absorption-distribution/cas-001",
+    "titre": "Absorption d'un acide faible (exercice 1)",
+    "enonce": "Un médicament acide de pKa = 3 est administré par voie orale. pH gastrique = 2 ; pH intestinal = 6 ; pH sanguin = 7. Le patient prend en même temps un antiacide.",
+    "questions": [
+      {
+        "id": "pharmacologie/td/01-absorption-distribution/cas-001-q1",
+        "type": "unique",
+        "enonce": "Sans antiacide, le site d'absorption principal est :",
+        "options": [
+          "L'intestin grêle",
+          "L'estomac",
+          "La bouche",
+          "Le rectum",
+          "Le côlon"
+        ],
+        "correctes": [
+          1
+        ],
+        "explication": "À pH 2, [I]/[NI] = 0,1 : forme non ionisée liposoluble majoritaire, absorption gastrique.",
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacologie/td/01-absorption-distribution/cas-001-q2",
+        "type": "unique",
+        "enonce": "Dans l'intestin, la fraction non ionisée est :",
+        "options": [
+          "≈ 9 %",
+          "100 %",
+          "≈ 91 %",
+          "≈ 0,1 %",
+          "≈ 50 %"
+        ],
+        "correctes": [
+          3
+        ],
+        "explication": "[I]/[NI] = 1000 → NI = 1/1001 ≈ 0,1 %.",
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacologie/td/01-absorption-distribution/cas-001-q3",
+        "type": "multiple",
+        "enonce": "L'antiacide :",
+        "options": [
+          "Diminue son absorption gastrique",
+          "Ne modifie rien",
+          "Augmente l'ionisation de l'acide",
+          "Augmente son absorption",
+          "Élève le pH gastrique"
+        ],
+        "correctes": [
+          0,
+          2,
+          4
+        ],
+        "explication": "pH gastrique ↑ → acide plus ionisé → moins de forme non ionisée → absorption diminuée.",
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "pharmacologie/td/01-absorption-distribution/cas-002",
+    "titre": "Biodisponibilité et voies d'administration (exercice 2)",
+    "enonce": "Le médicament X (100 mg) a : f = 0,9 ; E intestinal = 0,1 ; E hépatique = 0,3 ; E pulmonaire = 0,1.",
+    "questions": [
+      {
+        "id": "pharmacologie/td/01-absorption-distribution/cas-002-q1",
+        "type": "unique",
+        "enonce": "Par voie orale, F vaut :",
+        "options": [
+          "0,9",
+          "0,81",
+          "0,5103",
+          "0,63",
+          "0,7"
+        ],
+        "correctes": [
+          2
+        ],
+        "explication": "0,9 × 0,9 × 0,7 × 0,9 = 0,5103.",
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacologie/td/01-absorption-distribution/cas-002-q2",
+        "type": "unique",
+        "enonce": "La quantité atteignant la circulation par voie orale est d'environ :",
+        "options": [
+          "90 mg",
+          "63 mg",
+          "70 mg",
+          "100 mg",
+          "51 mg"
+        ],
+        "correctes": [
+          4
+        ],
+        "explication": "100 × 0,5103 ≈ 51 mg.",
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacologie/td/01-absorption-distribution/cas-002-q3",
+        "type": "multiple",
+        "enonce": "Par voie intra-artérielle :",
+        "options": [
+          "F = 51 %",
+          "EPP pulmonaire seul",
+          "Absence d'EPP",
+          "F = 90 %",
+          "F = 100 %"
+        ],
+        "correctes": [
+          2,
+          4
+        ],
+        "explication": "Voie IA : absence d'effet de premier passage, F = 1.",
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "pharmacologie/td/01-absorption-distribution/cas-003",
+    "titre": "Dose de charge et volume de distribution (exercices 4 et 5)",
+    "enonce": "Patient A (80 kg) : on vise Cp = 1 mg/L avec un médicament de Vd = 15 L/kg. Patient B (70 kg) : 500 mg IV donnent une Cp initiale de 2 mg/L.",
+    "questions": [
+      {
+        "id": "pharmacologie/td/01-absorption-distribution/cas-003-q1",
+        "type": "unique",
+        "enonce": "La dose pour le patient A est :",
+        "options": [
+          "1200 mg",
+          "1,2 mg",
+          "15 mg",
+          "120 mg",
+          "80 mg"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Q = 1 × 15 × 80 = 1200 mg.",
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacologie/td/01-absorption-distribution/cas-003-q2",
+        "type": "multiple",
+        "enonce": "Pour le patient B, le Vd vaut :",
+        "options": [
+          "250 L",
+          "0,28 L/kg",
+          "1000 L",
+          "3,57 L/kg",
+          "35 L"
+        ],
+        "correctes": [
+          0,
+          3
+        ],
+        "explication": "Vd = 500/2 = 250 L, soit 3,57 L/kg.",
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacologie/td/01-absorption-distribution/cas-003-q3",
+        "type": "multiple",
+        "enonce": "Interprétation pour le patient B :",
+        "options": [
+          "Vd compatible avec les compartiments physiologiques",
+          "Distribution élevée",
+          "Distribution limitée au sang",
+          "Vd > volume total de l'organisme",
+          "Classe 200–1000 l comme la digoxine"
+        ],
+        "correctes": [
+          1,
+          3,
+          4
+        ],
+        "explication": "250 L dépasse largement le volume de l'organisme : distribution tissulaire élevée (classe de la digoxine).",
+        "origine": "genere"
+      }
+    ]
+  }
+]

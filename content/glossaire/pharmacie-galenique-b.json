@@ -1,0 +1,352 @@
+[
+  {
+    "terme": "Mélange",
+    "definition": "Opération fondamentale consistant à rendre aussi homogène que possible une association de plusieurs produits ; désigne aussi la préparation obtenue.",
+    "cours": "pharmacie-galenique/07-melange-des-poudres"
+  },
+  {
+    "terme": "Ségrégation",
+    "definition": "Séparation des constituants d'un mélange (par la taille, la forme…) entraînant une variabilité de teneur des unités (comprimés, gélules, poudres parentérales).",
+    "cours": "pharmacie-galenique/07-melange-des-poudres"
+  },
+  {
+    "terme": "Démélange",
+    "definition": "Synonyme de non-mélange ; peut résulter d'un prolongement excessif de l'opération de mélange.",
+    "cours": "pharmacie-galenique/07-melange-des-poudres"
+  },
+  {
+    "terme": "Prémélange",
+    "definition": "Mélange des matières présentes en faible quantité avec une même proportion de matières en grande quantité, le reste étant ajouté fraction par fraction.",
+    "cours": "pharmacie-galenique/07-melange-des-poudres"
+  },
+  {
+    "terme": "Ténuité",
+    "definition": "Granulométrie (finesse) des composants d'une poudre ; facteur important de l'homogénéité d'un mélange.",
+    "cours": "pharmacie-galenique/07-melange-des-poudres"
+  },
+  {
+    "terme": "Mélangeur à chute libre",
+    "definition": "Mélangeur à cuve mobile (enceinte close tournant sur elle-même) : cylindre, V, Y, cube, tambour.",
+    "cours": "pharmacie-galenique/07-melange-des-poudres"
+  },
+  {
+    "terme": "Mélangeur malaxeur",
+    "definition": "Mélangeur convectif à cuve fixe où les produits sont malaxés par des bras, hélices ou raclettes.",
+    "cours": "pharmacie-galenique/07-melange-des-poudres"
+  },
+  {
+    "terme": "Silo-mélangeur",
+    "definition": "Mélangeur à fluidisation où le mélange se fait par injection d'air comprimé, avec une ou plusieurs trémies internes.",
+    "cours": "pharmacie-galenique/07-melange-des-poudres"
+  },
+  {
+    "terme": "Dissolution",
+    "definition": "Division à l'état moléculaire d'une substance (solide, liquide, gaz) dans un liquide, donnant une préparation homogène.",
+    "cours": "pharmacie-galenique/08-dissolution-filtration"
+  },
+  {
+    "terme": "Soluté médicamenteux",
+    "definition": "Préparation liquide homogène et limpide obtenue par dissolution d'une ou plusieurs substances médicamenteuses dans un solvant approprié.",
+    "cours": "pharmacie-galenique/08-dissolution-filtration"
+  },
+  {
+    "terme": "Solubilité",
+    "definition": "Volume de solvant nécessaire pour dissoudre une quantité donnée de soluté dans des conditions fixées.",
+    "cours": "pharmacie-galenique/08-dissolution-filtration"
+  },
+  {
+    "terme": "Dissolution extractive",
+    "definition": "Dissolution partielle appliquée aux drogues végétales ou animales pour en extraire les PA ; laisse un résidu.",
+    "cours": "pharmacie-galenique/08-dissolution-filtration"
+  },
+  {
+    "terme": "Macération",
+    "definition": "Contact de la drogue avec l'eau potable à température ambiante (30 min–4 h), pour les PA thermolabiles.",
+    "cours": "pharmacie-galenique/08-dissolution-filtration"
+  },
+  {
+    "terme": "Digestion",
+    "definition": "Contact de la drogue avec l'eau à température inférieure à l'ébullition (60 °C) pendant 1 h à 15 h.",
+    "cours": "pharmacie-galenique/08-dissolution-filtration"
+  },
+  {
+    "terme": "Décoction",
+    "definition": "Contact de la drogue avec l'eau à ébullition pendant 15 à 30 min, pour les drogues compactes thermostables.",
+    "cours": "pharmacie-galenique/08-dissolution-filtration"
+  },
+  {
+    "terme": "Infusion",
+    "definition": "Eau bouillante versée sur la drogue puis refroidissement, pour les produits à tissus délicats.",
+    "cours": "pharmacie-galenique/08-dissolution-filtration"
+  },
+  {
+    "terme": "Percolation (lixiviation)",
+    "definition": "Passage lent, de haut en bas et à froid, d'un solvant à travers une drogue pulvérisée dans un percolateur.",
+    "cours": "pharmacie-galenique/08-dissolution-filtration"
+  },
+  {
+    "terme": "Filtrat",
+    "definition": "Fluide ayant traversé le milieu filtrant lors d'une filtration.",
+    "cours": "pharmacie-galenique/08-dissolution-filtration"
+  },
+  {
+    "terme": "Filtration tangentielle",
+    "definition": "Filtration où le fluide circule parallèlement à la membrane, le balayage empêchant la formation du gâteau.",
+    "cours": "pharmacie-galenique/08-dissolution-filtration"
+  },
+  {
+    "terme": "Criblage",
+    "definition": "Mécanisme de rétention de surface par arrêt mécanique des particules plus grandes que les pores ; caractérise les membranes absolues.",
+    "cours": "pharmacie-galenique/08-dissolution-filtration"
+  },
+  {
+    "terme": "Point de bulle",
+    "definition": "Test d'intégrité d'un filtre humecté : la pression d'apparition des premières bulles donne le diamètre des plus larges pores (d = K·4α/p).",
+    "cours": "pharmacie-galenique/08-dissolution-filtration"
+  },
+  {
+    "terme": "Granulation",
+    "definition": "Opération transformant des particules fines en agrégats solides, denses, résistants et poreux appelés granulés.",
+    "cours": "pharmacie-galenique/09-granulation"
+  },
+  {
+    "terme": "Pont liquide",
+    "definition": "Film de liquide entre particules assurant la cohésion du granulé humide par tension superficielle et succion capillaire.",
+    "cours": "pharmacie-galenique/09-granulation"
+  },
+  {
+    "terme": "Pont solide",
+    "definition": "Liaison entre particules formée au séchage d'un liant, par recristallisation d'un soluté ou par fusion-refroidissement d'un liant.",
+    "cours": "pharmacie-galenique/09-granulation"
+  },
+  {
+    "terme": "État capillaire",
+    "definition": "État de répartition du liquide où les pores sont saturés et la cohésion maximale ; recherché en voie humide.",
+    "cours": "pharmacie-galenique/09-granulation"
+  },
+  {
+    "terme": "Surmouillage",
+    "definition": "État goutte : liquide en excès, masse pâteuse et collante, granulé inexploitable.",
+    "cours": "pharmacie-galenique/09-granulation"
+  },
+  {
+    "terme": "Sur-granulation",
+    "definition": "Croissance incontrôlée des granulés (gros agglomérats) due à un excès de liant ou une granulation trop longue.",
+    "cours": "pharmacie-galenique/09-granulation"
+  },
+  {
+    "terme": "Granulateur à haut taux de cisaillement",
+    "definition": "Appareil à cuve fermée muni d'une pale (impeller) et d'un couteau (chopper), donnant rapidement des granulés denses.",
+    "cours": "pharmacie-galenique/09-granulation"
+  },
+  {
+    "terme": "Mono-pot",
+    "definition": "Granulateur réalisant mélange, mouillage, granulation et séchage sous vide dans une même cuve.",
+    "cours": "pharmacie-galenique/09-granulation"
+  },
+  {
+    "terme": "Slugging (briquetage)",
+    "definition": "Technique de voie sèche par double compression : briquettes broyées puis recomprimées.",
+    "cours": "pharmacie-galenique/09-granulation"
+  },
+  {
+    "terme": "Test de la boule",
+    "definition": "Test du point final de granulation : la masse humide serrée forme une boule qui se brise sous légère pression.",
+    "cours": "pharmacie-galenique/09-granulation"
+  },
+  {
+    "terme": "Indice de Hausner",
+    "definition": "Rapport ρtassée / ρapparente ; supérieur à 1,25, il annonce un écoulement difficile.",
+    "cours": "pharmacie-galenique/09-granulation"
+  },
+  {
+    "terme": "Indice de Carr",
+    "definition": "IC = 100 × (ρtassée − ρapparente) / ρtassée ; ≤ 10 % pour un écoulement excellent.",
+    "cours": "pharmacie-galenique/09-granulation"
+  },
+  {
+    "terme": "Angle de repos",
+    "definition": "Angle formé par un tas de poudre (tg α = h/r) ; plus il est petit, meilleur est l'écoulement.",
+    "cours": "pharmacie-galenique/09-granulation"
+  },
+  {
+    "terme": "CPP / CQA",
+    "definition": "Paramètres critiques du procédé (réglés par l'opérateur) / attributs qualité critiques (recherchés pour le produit).",
+    "cours": "pharmacie-galenique/09-granulation"
+  },
+  {
+    "terme": "Solubilisation",
+    "definition": "Opération préparant une solution thermodynamiquement stable à partir d'une substance insoluble ou peu soluble par addition d'une ou plusieurs substances.",
+    "cours": "pharmacie-galenique/10-solubilisation-dispersion"
+  },
+  {
+    "terme": "Co-solvant",
+    "definition": "Solvant organique miscible à l'eau augmentant la solubilité des substances peu solubles dans l'eau (éthanol, glycérine, propylène glycol, PEG).",
+    "cours": "pharmacie-galenique/10-solubilisation-dispersion"
+  },
+  {
+    "terme": "Hydrotropie",
+    "definition": "Augmentation de la solubilité dans l'eau d'une substance grâce à de grandes quantités d'additifs (ex : benzoate de sodium et caféine).",
+    "cours": "pharmacie-galenique/10-solubilisation-dispersion"
+  },
+  {
+    "terme": "Concentration micellaire critique (CMC)",
+    "definition": "Concentration de tensioactif à partir de laquelle se forment les micelles.",
+    "cours": "pharmacie-galenique/10-solubilisation-dispersion"
+  },
+  {
+    "terme": "Micelle",
+    "definition": "Agrégat sphéroïdal de molécules amphiphiles (1 à 200 nm) au cœur lipophile.",
+    "cours": "pharmacie-galenique/10-solubilisation-dispersion"
+  },
+  {
+    "terme": "Complexe d'inclusion",
+    "definition": "Association d'au moins deux molécules où l'invité est encapsulé totalement ou partiellement par l'hôte.",
+    "cours": "pharmacie-galenique/10-solubilisation-dispersion"
+  },
+  {
+    "terme": "Cyclodextrine",
+    "definition": "Molécule cyclique obtenue par dégradation de l'amylose par la CGTase (α : 6, β : 7, γ : 8 unités) à cavité apolaire, complexant des molécules lipophiles.",
+    "cours": "pharmacie-galenique/10-solubilisation-dispersion"
+  },
+  {
+    "terme": "Dispersion solide",
+    "definition": "Système où un ou plusieurs PA sont dispersés à l'état solide dans un véhicule inerte.",
+    "cours": "pharmacie-galenique/10-solubilisation-dispersion"
+  },
+  {
+    "terme": "Dispersion",
+    "definition": "Division en fines particules d'un produit dans un milieu où il est insoluble, conduisant à une préparation biphasique.",
+    "cours": "pharmacie-galenique/10-solubilisation-dispersion"
+  },
+  {
+    "terme": "Stérilisation",
+    "definition": "Opération visant à priver un objet ou un produit des micro-organismes viables qui le souillent, quelles que soient leur nature ou leur forme.",
+    "cours": "pharmacie-galenique/11-sterilisation-partie-1"
+  },
+  {
+    "terme": "Stérilité",
+    "definition": "Absence de micro-organismes viables.",
+    "cours": "pharmacie-galenique/11-sterilisation-partie-1"
+  },
+  {
+    "terme": "Niveau d'assurance de stérilité (NAS)",
+    "definition": "Probabilité de présence d'un micro-organisme viable après traitement ; généralement 10⁻⁶ en stérilisation terminale.",
+    "cours": "pharmacie-galenique/11-sterilisation-partie-1"
+  },
+  {
+    "terme": "ATNC",
+    "definition": "Agents transmissibles non conventionnels, dont les prions ; inactivés par la chaleur humide à 134 °C pendant 18 min.",
+    "cours": "pharmacie-galenique/11-sterilisation-partie-1"
+  },
+  {
+    "terme": "Stérilisation terminale",
+    "definition": "Destruction des germes dans le produit déjà conditionné ; stratégie à privilégier.",
+    "cours": "pharmacie-galenique/11-sterilisation-partie-1"
+  },
+  {
+    "terme": "Temps de réduction décimale (D)",
+    "definition": "Temps nécessaire pour réduire d'un facteur 10 (90 %) une population microbienne à température constante.",
+    "cours": "pharmacie-galenique/11-sterilisation-partie-1"
+  },
+  {
+    "terme": "Paramètre z",
+    "definition": "Élévation de température qui divise D par 10 ; 10 °C pour G. stearothermophilus.",
+    "cours": "pharmacie-galenique/11-sterilisation-partie-1"
+  },
+  {
+    "terme": "Valeur stérilisatrice (F)",
+    "definition": "Durée équivalente à 121 °C d'un traitement thermique : FT = t × 10^((T − 121)/z) ; F0 minimal 8 min.",
+    "cours": "pharmacie-galenique/11-sterilisation-partie-1"
+  },
+  {
+    "terme": "Autoclave",
+    "definition": "Récipient sous pression en acier inoxydable permettant la stérilisation par la vapeur d'eau saturée.",
+    "cours": "pharmacie-galenique/11-sterilisation-partie-1"
+  },
+  {
+    "terme": "Indicateur biologique",
+    "definition": "Système contenant une souche pure de résistance connue (G. stearothermophilus pour la vapeur) pour tester l'efficacité d'un procédé.",
+    "cours": "pharmacie-galenique/11-sterilisation-partie-1"
+  },
+  {
+    "terme": "Indicateur chimique",
+    "definition": "Témoin changeant de couleur ou d'aspect après exposition à une température pendant une durée prédéterminée.",
+    "cours": "pharmacie-galenique/11-sterilisation-partie-1"
+  },
+  {
+    "terme": "Four tunnel",
+    "definition": "Four à chaleur sèche continu, à tapis roulant et flux d'air laminaire filtré HEPA.",
+    "cours": "pharmacie-galenique/11-sterilisation-partie-1"
+  },
+  {
+    "terme": "Pyrogènes",
+    "definition": "Substances capables de provoquer une fièvre ; les endotoxines (LPS des bactéries Gram négatif) en sont la source majeure.",
+    "cours": "pharmacie-galenique/11-sterilisation-partie-1"
+  },
+  {
+    "terme": "Dépyrogénation",
+    "definition": "Destruction des endotoxines par chaleur sèche à plus de 220 °C avec réduction d'au moins 3 log₁₀.",
+    "cours": "pharmacie-galenique/11-sterilisation-partie-1"
+  },
+  {
+    "terme": "Oxyde d'éthylène",
+    "definition": "Gaz stérilisant alkylant, très pénétrant, explosif, cancérigène, nécessitant une désorption (résiduel < 2 ppm).",
+    "cours": "pharmacie-galenique/12-sterilisation-partie-2"
+  },
+  {
+    "terme": "Désorption",
+    "definition": "Phase d'aération éliminant l'oxyde d'éthylène résiduel de la charge (12 à 72 h à 50–60 °C).",
+    "cours": "pharmacie-galenique/12-sterilisation-partie-2"
+  },
+  {
+    "terme": "Acide peracétique",
+    "definition": "Gaz stérilisant oxydant, très peu pénétrant et corrosif, réservé aux bulles et isolateurs plastiques.",
+    "cours": "pharmacie-galenique/12-sterilisation-partie-2"
+  },
+  {
+    "terme": "Gaz plasma",
+    "definition": "Vapeur de peroxyde d'hydrogène activée par un champ électromagnétique, générant des radicaux libres stérilisants ; sans désorption.",
+    "cours": "pharmacie-galenique/12-sterilisation-partie-2"
+  },
+  {
+    "terme": "Rayonnement ionisant",
+    "definition": "Rayonnement (X, γ, β) d'énergie suffisante pour éjecter des électrons et léser l'ADN ; utilisé pour stériliser.",
+    "cours": "pharmacie-galenique/12-sterilisation-partie-2"
+  },
+  {
+    "terme": "Dimère de thymine",
+    "definition": "Lésion de l'ADN provoquée par les UV, responsable de leur effet désinfectant.",
+    "cours": "pharmacie-galenique/12-sterilisation-partie-2"
+  },
+  {
+    "terme": "Radiostérilisation",
+    "definition": "Stérilisation par rayons γ (⁶⁰Co, ¹³⁷Cs) ou β, dose de référence 25 kGy, indicateur Bacillus pumilus.",
+    "cours": "pharmacie-galenique/12-sterilisation-partie-2"
+  },
+  {
+    "terme": "Filtration stérilisante",
+    "definition": "Élimination physique des micro-organismes sur membrane de porosité ≤ 0,22 µm, validée avec Pseudomonas diminuta.",
+    "cours": "pharmacie-galenique/12-sterilisation-partie-2"
+  },
+  {
+    "terme": "Filtre HEPA",
+    "definition": "Filtre « absolu » (Haute Efficacité pour Particules de l'Air) en fibres de verre retenant ≥ 99,97 % des particules de DOP.",
+    "cours": "pharmacie-galenique/12-sterilisation-partie-2"
+  },
+  {
+    "terme": "Zone à atmosphère contrôlée (ZAC)",
+    "definition": "Zone dont la contamination particulaire et microbienne est définie ; classes A à D.",
+    "cours": "pharmacie-galenique/12-sterilisation-partie-2"
+  },
+  {
+    "terme": "Préparation aseptique",
+    "definition": "Préparation de produits non stérilisables dans leur contenant final à partir de composants stériles, en classe A dans une salle de classe B.",
+    "cours": "pharmacie-galenique/12-sterilisation-partie-2"
+  },
+  {
+    "terme": "Essai de stérilité",
+    "definition": "Essai par filtration sur membrane ou ensemencement direct en milieux thioglycolate et caséine-soja, incubation de 14 jours.",
+    "cours": "pharmacie-galenique/12-sterilisation-partie-2"
+  }
+]

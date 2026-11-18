@@ -1,0 +1,2461 @@
+[
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/qcm-001",
+    "type": "multiple",
+    "enonce": "Concernant le domaine d'application de l'extraction liquide-liquide :",
+    "options": [
+      "Il est très large",
+      "Toute espèce présente dans une phase liquide peut être extraite par une autre phase liquide non miscible",
+      "L'extraction peut être directe",
+      "L'extraction peut se faire après création d'une entité extractible douée d'une plus grande affinité pour le solvant extracteur",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes les propositions reprennent l'introduction du cours.",
+    "source": {
+      "page": 1,
+      "extrait": "Soit après création d'entité extractible douée d'une plus grande affinité pour le solvant extracteur"
+    },
+    "difficulte": 1,
+    "tags": [
+      "introduction"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/qcm-002",
+    "type": "multiple",
+    "enonce": "Après extraction liquide-liquide, l'extrait :",
+    "options": [
+      "Est récupéré puis concentré par évaporation partielle ou complète",
+      "Est repris pour être analysé par des méthodes spectrales",
+      "Est repris pour être analysé par des méthodes chromatographiques",
+      "Est toujours analysé sans concentration préalable",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "L'extrait est récupéré, concentré par évaporation partielle ou complète, puis repris pour analyse spectrale ou chromatographique.",
+    "source": {
+      "page": 1,
+      "extrait": "L'extrait est récupéré puis concentré par évaporation partielle ou complète"
+    },
+    "difficulte": 1,
+    "tags": [
+      "introduction"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/qcm-003",
+    "type": "multiple",
+    "enonce": "Dans le schéma général de l'extraction liquide-liquide présenté en cours :",
+    "options": [
+      "On distingue le partage simple et l'extraction après masquage de charges",
+      "Les ions minéraux sont extraits par formation de chélates métalliques extractibles",
+      "Les ions organiques sont extraits par transformation quantitative en acides ou bases extractibles ou par formation de paires d'ions",
+      "Les ions minéraux sont extraits par formation de paires d'ions uniquement",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Partage simple ou extraction après masquage de charges ; ions minéraux → chélation ; ions organiques → transformation en acides/bases extractibles ou paires d'ions.",
+    "source": {
+      "page": 2,
+      "extrait": "Formation de Chélates métalliques extractibles"
+    },
+    "difficulte": 2,
+    "tags": [
+      "masquage de charges"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/qcm-004",
+    "type": "multiple",
+    "enonce": "Concernant l'extraction simple de molécules :",
+    "options": [
+      "Elle n'est pas strictement spécifique d'une molécule",
+      "Le solvant peut extraire toutes les molécules ayant des propriétés physico-chimiques proches",
+      "Cette caractéristique permet d'extraire en une seule étape un groupe de molécules de la même famille chimique",
+      "Exemples : les benzodiazépines, les lipides",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes les propositions sont dans le cours : non spécificité exploitée pour extraire en une étape une famille (benzodiazépines, lipides).",
+    "source": {
+      "page": 2,
+      "extrait": "pas strictement spécifiques d'une molécule car le solvant employé peut extraire de la matrice toutes les molécules"
+    },
+    "difficulte": 1,
+    "tags": [
+      "extraction simple"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/qcm-005",
+    "type": "multiple",
+    "enonce": "Les extractions répétées sont employées lorsque :",
+    "options": [
+      "Le rendement d'extraction simple n'est pas satisfaisant",
+      "L'extrait n'est pas suffisamment purifié",
+      "Le solvant est trop volatil",
+      "Le soluté est sous forme ionisée",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Deux cas : rendement d'extraction simple insuffisant ; extrait insuffisamment purifié.",
+    "source": {
+      "page": 2,
+      "extrait": "Le rendement d'extraction simple n'est pas satisfaisant 2. L'extrait n'est pas suffisamment purifié"
+    },
+    "difficulte": 1,
+    "tags": [
+      "extraction répétée"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/qcm-006",
+    "type": "multiple",
+    "enonce": "Critères de choix du solvant d'extraction cités dans ce cours :",
+    "options": [
+      "Un grand pouvoir dissolvant",
+      "La polarité du couple soluté/solvant",
+      "La non miscibilité des deux solvants",
+      "Une densité du solvant organique différente de celle de la phase aqueuse",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Les six critères sont : pouvoir dissolvant, polarité, non miscibilité, densité différente, volatilité, non toxicité.",
+    "source": {
+      "page": 2,
+      "extrait": "La densité du solvant organique différente de celle de la phase aqueuse"
+    },
+    "difficulte": 1,
+    "tags": [
+      "choix du solvant"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/qcm-007",
+    "type": "multiple",
+    "enonce": "Associez correctement substance et solvant d'extraction (exemples du cours) :",
+    "options": [
+      "Cl₂, Br₂ et I₂ : tétrachlorure de carbone, chloroforme",
+      "HBO₃ : octanol, benzène",
+      "Acide benzoïque : diéthyl éther",
+      "Acides gras : hexane",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Tous ces couples sont donnés en exemple dans le cours.",
+    "source": {
+      "page": 2,
+      "extrait": "Acide benzoïque : Diéthyl éther"
+    },
+    "difficulte": 2,
+    "tags": [
+      "choix du solvant"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/qcm-008",
+    "type": "unique",
+    "enonce": "Selon le cours, les barbituriques et les antibiotiques sont extraits par :",
+    "options": [
+      "L'hexane",
+      "Le diéthyl éther",
+      "L'acétate d'amyle",
+      "L'octanol",
+      "Le tétrachlorure de carbone"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Exemple : barbituriques, antibiotiques → acétate d'amyle.",
+    "source": {
+      "page": 2,
+      "extrait": "Barbituriques , antibiotiques : Acétate d'amyle"
+    },
+    "difficulte": 1,
+    "tags": [
+      "choix du solvant"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/qcm-009",
+    "type": "unique",
+    "enonce": "Selon le cours, les acides gras sont extraits de préférence par :",
+    "options": [
+      "L'hexane",
+      "Le benzène",
+      "L'acétate d'amyle",
+      "L'eau",
+      "L'octanol"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Exemple du cours : acide gras → hexane.",
+    "source": {
+      "page": 2,
+      "extrait": "Acide gras : Hexane"
+    },
+    "difficulte": 1,
+    "tags": [
+      "choix du solvant"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/qcm-010",
+    "type": "multiple",
+    "enonce": "Influence de la structure du soluté sur le coefficient de partage :",
+    "options": [
+      "λ augmente avec la longueur de la chaîne carbonée",
+      "Dans une série homologue, l'addition d'un –CH₂– augmente λ d'environ 4 unités",
+      "λ d'une molécule ramifiée est inférieur à λ de la molécule linéaire",
+      "λ d'une molécule insaturée est inférieur à λ de l'isomère saturé",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes ces relations structure–partage figurent dans le cours.",
+    "source": {
+      "page": 2,
+      "extrait": "Dans chaque série homologue l'addition d'un -CH2-λ augmente d'environ 4 unités"
+    },
+    "difficulte": 2,
+    "tags": [
+      "structure"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/qcm-011",
+    "type": "multiple",
+    "enonce": "Concernant l'influence de la structure sur λ (phase organique/phase aqueuse) :",
+    "options": [
+      "λ (substituant phényle) < λ (isomère cyclohexyle)",
+      "Un groupement hydrophile (C=O, OH, NH) diminue le coefficient de partage",
+      "La présence d'un atome de chlore favorise le passage en phase organique",
+      "Un atome de chlore diminue le coefficient de partage",
+      "Une ramification augmente λ"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Phényle < cyclohexyle ; groupement hydrophile ↓ λ ; halogène Cl ↑ λ. Une ramification diminue λ (ramifiée < linéaire).",
+    "source": {
+      "page": 3,
+      "extrait": "La présence d'un atome d'halogène Cl favorise le passage dans la phase organique"
+    },
+    "difficulte": 2,
+    "tags": [
+      "structure"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/qcm-012",
+    "type": "unique",
+    "enonce": "Parmi ces modifications structurales, laquelle augmente le coefficient de partage ?",
+    "options": [
+      "Ajout d'un groupement hydroxyle",
+      "Ramification de la chaîne",
+      "Introduction d'une insaturation",
+      "Ajout d'un atome de chlore",
+      "Ajout d'une fonction amine"
+    ],
+    "correctes": [
+      3
+    ],
+    "explication": "Le chlore favorise le passage en phase organique (λ ↑) ; OH, NH, insaturation et ramification diminuent λ.",
+    "source": {
+      "page": 3,
+      "extrait": "Le coefficient de partage augmente"
+    },
+    "difficulte": 2,
+    "tags": [
+      "structure"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/qcm-013",
+    "type": "unique",
+    "enonce": "Si un composé d'une série homologue a λ = 10, le terme supérieur (un –CH₂– de plus) aura un λ d'environ :",
+    "options": [
+      "6",
+      "10",
+      "14",
+      "40",
+      "2,5"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Le cours : dans chaque série homologue, l'addition d'un –CH₂– augmente λ d'environ 4 unités.",
+    "source": {
+      "page": 2,
+      "extrait": "l'addition d'un -CH2-λ augmente d'environ 4 unités"
+    },
+    "difficulte": 2,
+    "tags": [
+      "structure"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/qcm-014",
+    "type": "multiple",
+    "enonce": "Influence de l'association des molécules entre elles ou avec le solvant :",
+    "options": [
+      "Les acides carboxyliques forment des dimères en phase organique",
+      "Ces dimères sont liés par des liaisons hydrogène",
+      "Une dimérisation en phase organique augmente D",
+      "Une dimérisation en phase aqueuse diminue D",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Acides carboxyliques : dimères par liaisons hydrogène en phase organique (D ↑) ; dimérisation en phase aqueuse : D ↓.",
+    "source": {
+      "page": 3,
+      "extrait": "S'il y a une dimérisation ou formation d'association en phase organique : D↑"
+    },
+    "difficulte": 2,
+    "tags": [
+      "dimérisation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/qcm-015",
+    "type": "unique",
+    "enonce": "Pour un acide carboxylique HA qui se dimérise en phase organique, le taux de distribution s'écrit :",
+    "options": [
+      "D = [AH]org/[AH]aq",
+      "D = ([AH]monomère org + [AH]dimère org)/[AH]aq",
+      "D = [AH]aq/([AH]org + [(AH)₂]org)",
+      "D = K₂·[AH]org",
+      "D = λ/(1 + K₂)"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "D = Σ CB/Σ CA : on additionne monomère et dimère en phase organique au numérateur.",
+    "source": {
+      "page": 3,
+      "extrait": "D = [AH]monoère Org + [AH]dim ère Org / [AH]aq"
+    },
+    "difficulte": 2,
+    "tags": [
+      "dimérisation",
+      "taux de distribution"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/qcm-016",
+    "type": "multiple",
+    "enonce": "Pour un acide se dimérisant en phase organique (constante d'association K₂) :",
+    "options": [
+      "λ = [AH]org/[AH]aq",
+      "K₂ = [(AH)₂]org/[AH]²org",
+      "D = λ(1 + 2K₂[AH]org)",
+      "D diminue quand K₂ augmente",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "λ = [AH]org/[AH]aq ; K₂ = [(AH)₂]org/[AH]²org ; D = λ(1 + 2K₂[AH]org). D augmente quand K₂ augmente.",
+    "source": {
+      "page": 4,
+      "extrait": "D = λ (1 + 2 K2 [AH] org)"
+    },
+    "difficulte": 3,
+    "tags": [
+      "dimérisation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/qcm-017",
+    "type": "multiple",
+    "enonce": "D'après le cours, dans le cas de la dimérisation de l'acide en phase organique :",
+    "options": [
+      "Quand D augmente, le rendement d'extraction ρ augmente",
+      "D augmente quand la constante d'association (de dimérisation) K₂ augmente",
+      "ρ = 1 − 1/(1 + D·VB/VA)",
+      "D diminue quand la constante K₂ augmente",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "D = λ(1 + 2K₂[AH]org) augmente avec K₂ et ρ = 1 − 1/(1 + D·VB/VA) augmente avec D.",
+    "source": {
+      "page": 4,
+      "extrait": "Le taux de distribution D augmente quand la constante d'association K2 ( de dimérisation ) augmente"
+    },
+    "difficulte": 2,
+    "tags": [
+      "dimérisation",
+      "rendement"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/qcm-018",
+    "type": "unique",
+    "enonce": "Selon le cours, les solvants organiques comme l'hexane ou les solvants perhalogénés (tétrachlorure de carbone) :",
+    "options": [
+      "Donnent des liaisons hydrogène avec l'acide",
+      "Ne donnent pas de liaisons hydrogène permettant la dimérisation",
+      "Sont miscibles à l'eau",
+      "Sont très dissociants",
+      "Empêchent tout partage"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Le cours précise que l'hexane et les solvants perhalogénés (CCl₄) ne donnent pas de liaisons hydrogène permettant la dimérisation.",
+    "source": {
+      "page": 4,
+      "extrait": "ne donnent pas de liaisons hydrogènes permettant la dimérisation"
+    },
+    "difficulte": 3,
+    "tags": [
+      "dimérisation",
+      "solvants"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/qcm-019",
+    "type": "multiple",
+    "enonce": "Influence de l'inclusion d'une molécule dans un complexe chargé :",
+    "options": [
+      "On obtient une forme ionique plus rigoureusement retenue par l'eau",
+      "Cette forme a une faible affinité pour le solvant organique",
+      "Exemple : extraction de l'iode I₂ d'une solution aqueuse par l'hexane, le tétrachlorure de carbone ou le chloroforme",
+      "En présence d'iodure, I₂ + I⁻ ⇌ I₃⁻",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes ces propositions illustrent l'effet d'un complexe chargé (I₃⁻) retenu en phase aqueuse.",
+    "source": {
+      "page": 4,
+      "extrait": "Obtention d'une forme ionique plus rigoureusement retenue par l'eau"
+    },
+    "difficulte": 2,
+    "tags": [
+      "complexe chargé",
+      "iode"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/qcm-020",
+    "type": "multiple",
+    "enonce": "Extraction de l'iode en présence d'iodure :",
+    "options": [
+      "K = λ = [I₂]org/[I₂]aq",
+      "Ks = [I₃⁻]/([I₂][I⁻])",
+      "D = [I₂]org/([I₂]aq + [I₃⁻]aq)",
+      "D = k/(1 + Ks[I⁻]aq)",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes ces expressions sont dans le cours ; D = λ/(1 + Ks[I⁻]).",
+    "source": {
+      "page": 5,
+      "extrait": "D = k / (1 + ks [I-]aq)"
+    },
+    "difficulte": 3,
+    "tags": [
+      "iode"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/qcm-021",
+    "type": "multiple",
+    "enonce": "Dans l'extraction de l'iode en présence d'ions iodure :",
+    "options": [
+      "Le taux de distribution augmente quand [I⁻] est faible",
+      "Un bon rendement nécessite une concentration [I⁻] minimale",
+      "Quand D augmente, le rendement augmente",
+      "Ajouter de l'iodure améliore l'extraction de I₂",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "D = k/(1 + Ks[I⁻]) : D est maximal pour [I⁻] faible ; ajouter de l'iodure forme I₃⁻ retenu par l'eau et diminue D.",
+    "source": {
+      "page": 5,
+      "extrait": "Un bon rendement = une concentration [I-] minimale"
+    },
+    "difficulte": 2,
+    "tags": [
+      "iode"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/qcm-022",
+    "type": "unique",
+    "enonce": "Pour l'iode, λ = 80, Ks = 700 L/mol et [I⁻] = 0,01 mol/L. Le taux de distribution D vaut :",
+    "options": [
+      "80",
+      "10",
+      "8",
+      "0,8",
+      "560"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "D = λ/(1 + Ks[I⁻]) = 80/(1 + 7) = 10.",
+    "source": {
+      "page": 5,
+      "extrait": "D = k / (1 + ks [I-]aq)"
+    },
+    "difficulte": 3,
+    "tags": [
+      "calcul",
+      "iode"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/qcm-023",
+    "type": "multiple",
+    "enonce": "Influence du pH sur l'extraction des molécules :",
+    "options": [
+      "Seules les molécules neutres sont extractibles par les solvants organiques",
+      "Certains ions organiques à caractère acide ou basique faible peuvent être transférés en phase organique",
+      "Leur caractère ionique est supprimé par simple modification du pH",
+      "Exemples : anions d'acides gras, cations dérivés d'amines",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes ces propositions sont dans le cours (diapositive 18).",
+    "source": {
+      "page": 5,
+      "extrait": "Seules les molécules neutres sont extractibles par les solvants organiques"
+    },
+    "difficulte": 1,
+    "tags": [
+      "pH"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/qcm-024",
+    "type": "multiple",
+    "enonce": "Pour l'extraction d'un acide organique faible :",
+    "options": [
+      "La diminution du pH provoque un recul d'ionisation",
+      "Il se forme des molécules d'acide neutres solubles en phase organique",
+      "On a intérêt à travailler en milieu acide",
+      "On a intérêt à travailler en milieu basique",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Lors de la diminution du pH, recul d'ionisation et formation de molécules d'acide neutres extractibles.",
+    "source": {
+      "page": 5,
+      "extrait": "lors de la diminution du pH il y a recul d'ionisation et formation de molécules d'acide neutre"
+    },
+    "difficulte": 1,
+    "tags": [
+      "acides",
+      "pH"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/qcm-025",
+    "type": "multiple",
+    "enonce": "Pour l'extraction d'une base organique faible :",
+    "options": [
+      "Les cations dérivés de bases faibles passent à la forme moléculaire en milieu basique",
+      "La forme moléculaire est directement extractible en phase organique",
+      "On a intérêt à travailler en milieu acide",
+      "Le pH est le seul facteur qui détermine le rendement d'extraction pour ce type de substances",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      3
+    ],
+    "explication": "Cations de bases faibles → forme moléculaire extractible en milieu basique ; pour ces substances, le pH est le seul facteur qui détermine le rendement.",
+    "source": {
+      "page": 5,
+      "extrait": "Pour l'extraction analytique de ce type de substance l'étude est focalisée sur le choix du pH"
+    },
+    "difficulte": 1,
+    "tags": [
+      "bases",
+      "pH"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/qcm-026",
+    "type": "unique",
+    "enonce": "Le taux de distribution d'un acide faible AH (constante d'acidité Ka) s'écrit :",
+    "options": [
+      "D = λ/(1 + [H₃O⁺]/Ka)",
+      "D = λ/(1 + Ka/[H₃O⁺])",
+      "D = λ·(1 + Ka/[H₃O⁺])",
+      "D = λ + Ka",
+      "D = λ·Ka/[H₃O⁺]"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "D = [AH]org/([AH]aq + [A⁻]aq) = λ/(1 + Ka/[H₃O⁺]).",
+    "source": {
+      "page": 5,
+      "extrait": "D = λ / (1 + Ka/[H3O+]aq)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "acides",
+      "formule"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/qcm-027",
+    "type": "unique",
+    "enonce": "Le taux de distribution d'une base faible B (Ka du couple BH⁺/B) s'écrit :",
+    "options": [
+      "D = λ/(1 + [H₃O⁺]/Ka)",
+      "D = λ/(1 + Ka/[H₃O⁺])",
+      "D = λ·[H₃O⁺]/Ka",
+      "D = λ/(1 + Ka)",
+      "D = λ − pKa + pH"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "D = [B]org/([B]aq + [BH⁺]aq) = λ/(1 + [H₃O⁺]/Ka).",
+    "source": {
+      "page": 6,
+      "extrait": "D = λ / (1 + [H3O+]aq/Ka)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "bases",
+      "formule"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/qcm-028",
+    "type": "multiple",
+    "enonce": "Pour un acide faible, log D = log λ − log(1 + Ka/10⁻ᵖᴴ) :",
+    "options": [
+      "À pH très bas, Ka/10⁻ᵖᴴ est négligeable devant 1 et log D = log λ",
+      "À pH très élevé, 1 est négligeable devant Ka/10⁻ᵖᴴ et log D = log λ + pKa − pH",
+      "À pH très élevé, log D = log λ",
+      "À pH très bas, log D = log λ − pKa + pH",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Acide : pH très bas → log D = log λ (plateau) ; pH très élevé → log D = log λ + pKa − pH (droite de pente −1).",
+    "source": {
+      "page": 6,
+      "extrait": "Deuxième approximation (pH très élevée) 1 devient négligeable devant ka/10-pH"
+    },
+    "difficulte": 3,
+    "tags": [
+      "acides",
+      "approximations"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/qcm-029",
+    "type": "multiple",
+    "enonce": "Pour une base faible, log D = log λ − log(1 + 10⁻ᵖᴴ/Ka) :",
+    "options": [
+      "À pH très élevé, log D = log λ",
+      "À pH très bas, log D = log λ − pKa + pH",
+      "À pH très bas, log D = log λ",
+      "À pH très élevé, log D = log λ + pKa − pH",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Base : pH très élevé → plateau log D = log λ ; pH très bas → log D = log λ − pKa + pH (pente +1).",
+    "source": {
+      "page": 6,
+      "extrait": "Deuxième approximation (pH très bas) : 1 devient négligeable devant ka/10-pH"
+    },
+    "difficulte": 3,
+    "tags": [
+      "bases",
+      "approximations"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/qcm-030",
+    "type": "multiple",
+    "enonce": "Concernant les courbes log D = f(pH) présentées en cours :",
+    "options": [
+      "L'ibuprofène (pKa = 4,6) est un acide faible dont log D diminue aux pH élevés",
+      "L'amitriptyline (pKa = 9,45) est une base faible dont log D augmente avec le pH",
+      "Les zones de transition sont repérées autour de pKa ± 2",
+      "Pour l'ibuprofène, log D est maximal aux pH bas",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Ibuprofène (acide, pKa 4,6) : plateau à pH bas puis décroissance ; amitriptyline (base, pKa 9,45) : croissance puis plateau à pH élevé ; repère pKa ± 2.",
+    "source": {
+      "page": 6,
+      "extrait": "Extraction d'un acide faible (ibuprofene) en fonction du pH (pKa = 4,6)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "ibuprofène",
+      "amitriptyline"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/qcm-031",
+    "type": "unique",
+    "enonce": "Un acide faible (λ = 5, Ka = 10⁻⁴) est en phase aqueuse à pH = 4. Son taux de distribution vaut :",
+    "options": [
+      "5",
+      "2,5",
+      "0,05",
+      "10",
+      "1"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "D = λ/(1 + Ka/[H₃O⁺]) = 5/(1 + 10⁻⁴/10⁻⁴) = 5/2 = 2,5. À pH = pKa, D = λ/2.",
+    "source": {
+      "page": 5,
+      "extrait": "D = λ / (1 + Ka/[H3O+]aq)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "calcul",
+      "acides"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/qcm-032",
+    "type": "unique",
+    "enonce": "Un acide faible (λ = 5, Ka = 10⁻⁴) en phase aqueuse à pH = 7 a un taux de distribution d'environ :",
+    "options": [
+      "5",
+      "2,5",
+      "5·10⁻³",
+      "5·10⁻⁵",
+      "0,5"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Ka/[H₃O⁺] = 10⁻⁴/10⁻⁷ = 1000 ; D = 5/1001 ≈ 5·10⁻³.",
+    "source": {
+      "page": 5,
+      "extrait": "D = λ / (1 + Ka/[H3O+]aq)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "calcul",
+      "acides"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/qcm-033",
+    "type": "unique",
+    "enonce": "Une base faible (λ = 25, pKa = 8) en phase aqueuse à pH = 5 a un taux de distribution d'environ :",
+    "options": [
+      "25",
+      "12,5",
+      "0,025",
+      "2,5·10⁻⁵",
+      "250"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "[H₃O⁺]/Ka = 10⁻⁵/10⁻⁸ = 1000 ; D = 25/1001 ≈ 0,025.",
+    "source": {
+      "page": 6,
+      "extrait": "D = λ / (1 + [H3O+]aq/Ka)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "calcul",
+      "bases"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/qcm-034",
+    "type": "unique",
+    "enonce": "Pour un acide faible, à pH = pKa, le taux de distribution est égal à :",
+    "options": [
+      "λ",
+      "λ/2",
+      "2λ",
+      "λ/10",
+      "0"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Ka/[H₃O⁺] = 1 → D = λ/2. Il en est de même pour une base à pH = pKa.",
+    "source": {
+      "page": 5,
+      "extrait": "D = λ / (1 + Ka/[H3O+]aq)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "acides"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/qcm-035",
+    "type": "multiple",
+    "enonce": "Pour extraire quantitativement l'ibuprofène (acide faible, pKa = 4,6) d'une phase aqueuse :",
+    "options": [
+      "On se place à pH ≤ pKa − 2, soit pH ≤ 2,6 environ",
+      "On se place à pH élevé, supérieur à 6,6",
+      "À pH bas, log D ≈ log λ",
+      "À pH élevé, la forme ionisée prédomine et n'est pas extractible",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      2,
+      3
+    ],
+    "explication": "Pour un acide, l'extraction est optimale à pH bas (≤ pKa − 2), où D ≈ λ ; à pH élevé, la forme ionisée A⁻ prédomine et n'est pas extraite.",
+    "source": {
+      "page": 6,
+      "extrait": "Première approximation (pH très bas) : ka/10-pH devient négligeable devant 1"
+    },
+    "difficulte": 3,
+    "tags": [
+      "ibuprofène",
+      "pH"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/qcm-036",
+    "type": "multiple",
+    "enonce": "Applications pharmaceutiques de l'extraction des molécules simples :",
+    "options": [
+      "Contrôle qualité : éliminer les interférences des excipients",
+      "Pharmacologie",
+      "Toxicologie",
+      "Biochimie",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le cours cite le contrôle qualité (élimination des interférences des excipients de comprimés, gélules, sirops…), la pharmacologie, la toxicologie et la biochimie.",
+    "source": {
+      "page": 6,
+      "extrait": "Eliminer les interférences des excipients (comprimés, gélules, sirop, suspension, pommade, crème…)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "applications"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/qcm-037",
+    "type": "multiple",
+    "enonce": "Concernant l'extraction des chélates métalliques :",
+    "options": [
+      "C'est l'une des applications les plus importantes de l'extraction liquide-liquide",
+      "Elle permet l'extraction sélective des ions métalliques",
+      "Elle utilise un agent chélateur",
+      "Un chélate est un complexe cyclique",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes ces propositions sont dans l'introduction sur les chélates.",
+    "source": {
+      "page": 7,
+      "extrait": "l'extraction sélective des ions métalliques en utilisant un agent chélateur"
+    },
+    "difficulte": 1,
+    "tags": [
+      "chélates"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/qcm-038",
+    "type": "unique",
+    "enonce": "Un chélate est un complexe cyclique formé lorsqu'un cation est lié :",
+    "options": [
+      "Par un seul groupement donneur",
+      "Par au moins deux groupements donneurs portés par un seul ligand",
+      "Par deux ligands différents portant chacun un groupement donneur",
+      "Par une liaison hydrogène",
+      "Par un contre-ion hydrophobe"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Définition : cation lié par au moins deux groupements donneurs portés par un seul ligand.",
+    "source": {
+      "page": 7,
+      "extrait": "lorsqu'un cation est lié par au moins deux groupement donneurs portés par un seule ligand"
+    },
+    "difficulte": 1,
+    "tags": [
+      "chélate"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/qcm-039",
+    "type": "multiple",
+    "enonce": "Principe de l'extraction des chélates métalliques :",
+    "options": [
+      "Le cation Mⁿ⁺ est présent dans une phase aqueuse qui en contient plusieurs",
+      "Un extractant chélateur (molécule organique) est contenu dans la phase organique",
+      "Il se forme un chélate [MLn], molécule organométallique non chargée facilement extractible",
+      "Il y a masquage, c'est-à-dire élimination du caractère ionique du métal",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes ces étapes décrivent le principe : formation d'un chélate neutre [MLn] par masquage du caractère ionique.",
+    "source": {
+      "page": 7,
+      "extrait": "Il se forme alors un chélate [MLn] = molécule organométallique non chargée facilement extractible"
+    },
+    "difficulte": 1,
+    "tags": [
+      "principe",
+      "masquage"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/qcm-040",
+    "type": "multiple",
+    "enonce": "Concernant l'oxine (XOH) :",
+    "options": [
+      "C'est l'hydroxy-8-quinoléine",
+      "Dans les solvants organiques, elle est à l'état moléculaire",
+      "Dans l'eau, à pH < 5 elle existe sous forme XOH₂⁺",
+      "Dans l'eau, à pH > 5 elle existe sous forme XO⁻",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Oxine = hydroxy-8-quinoléine ; moléculaire en solvant organique ; dans l'eau : XOH₂⁺ (pH < 5), XO⁻ (pH > 5), XOH (pH neutre).",
+    "source": {
+      "page": 7,
+      "extrait": "Dans l'eau : pH < 5 =>XOH2+ pH > 5 =>XO- pH neutre =>XOH"
+    },
+    "difficulte": 2,
+    "tags": [
+      "oxine"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/qcm-041",
+    "type": "multiple",
+    "enonce": "Concernant la dithizone :",
+    "options": [
+      "Sa formule abrégée est H₂Dz",
+      "C'est la diphénylthiocarbazone",
+      "Elle se comporte dans l'eau comme un diacide",
+      "Elle est utilisée pour le dosage du plomb",
+      "Elle se comporte dans l'eau comme une base forte"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Dithizone (H₂Dz) = diphénylthiocarbazone, diacide dans l'eau ; application : dosage du plomb par la dithizone.",
+    "source": {
+      "page": 7,
+      "extrait": "La dithizone se comporte dans l'eau comme un diacide"
+    },
+    "difficulte": 2,
+    "tags": [
+      "dithizone"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/qcm-042",
+    "type": "multiple",
+    "enonce": "Équilibres intervenant dans l'extraction d'un chélate :",
+    "options": [
+      "Équilibre de partage de l'acide HL",
+      "Équilibre de partage du chélate [MLn]",
+      "Équilibre acido-basique de l'acide HL",
+      "Équilibre de complexation formant [MLn]",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le cours décrit quatre équilibres : partage du chélateur HL (1), acido-basique de HL (2), complexation (3), partage du chélate (4).",
+    "source": {
+      "page": 8,
+      "extrait": "Équilibre de partage Équilibre acido-basique Équilibre de compléxation"
+    },
+    "difficulte": 2,
+    "tags": [
+      "équilibres"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/qcm-043",
+    "type": "multiple",
+    "enonce": "Constantes des équilibres de l'extraction des chélates :",
+    "options": [
+      "λH = [HL]org/[HL]aq",
+      "Ka = [L⁻][H₃O⁺]/[HL]aq",
+      "Ks = [MLn]/([Mⁿ⁺][L⁻]ⁿ)",
+      "λM = [MLn]org/[MLn]aq",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Ce sont les constantes (1) à (4) du cours.",
+    "source": {
+      "page": 8,
+      "extrait": "Ks = lMLnI / lMn+I IL-In"
+    },
+    "difficulte": 2,
+    "tags": [
+      "constantes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/qcm-044",
+    "type": "unique",
+    "enonce": "L'équilibre total d'extraction d'un chélate s'écrit :",
+    "options": [
+      "n HLorg + Mⁿ⁺ ⇌ [MLn]org + n H⁺",
+      "HLorg ⇌ HLaq",
+      "Mⁿ⁺ + n L⁻ ⇌ MLn",
+      "[MLn]aq ⇌ [MLn]org",
+      "HL + H₂O ⇌ H₃O⁺ + L⁻"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Équilibre total : n HLorg + Mⁿ⁺ ⇌ [MLn]org + n H⁺, de constante KEX.",
+    "source": {
+      "page": 8,
+      "extrait": "n HLorg + M n+ [MLn]org + nH+"
+    },
+    "difficulte": 2,
+    "tags": [
+      "équilibre total"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/qcm-045",
+    "type": "unique",
+    "enonce": "La constante d'extraction du chélate KEX s'écrit :",
+    "options": [
+      "KEX = [MLn]org·[H⁺]ⁿ/([HLorg]ⁿ·[Mⁿ⁺])",
+      "KEX = [MLn]org/[MLn]aq",
+      "KEX = [HLorg]ⁿ[Mⁿ⁺]/([MLn]org[H⁺]ⁿ)",
+      "KEX = λH·Ka·Ks",
+      "KEX = [L⁻][H₃O⁺]/[HL]"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "KEX = [MLn]org·[H⁺]ⁿ/([HLorg]ⁿ·[Mⁿ⁺]) (équation 5).",
+    "source": {
+      "page": 8,
+      "extrait": "KEX = [MLn]org . [H+ ] n / [HLorg]n . [M n+]"
+    },
+    "difficulte": 2,
+    "tags": [
+      "KEX"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/qcm-046",
+    "type": "multiple",
+    "enonce": "La constante d'extraction s'exprime par KEX = λM·Kaⁿ·Ks/λHⁿ. Donc KEX augmente quand :",
+    "options": [
+      "λM augmente",
+      "Ks augmente",
+      "Ka augmente",
+      "λH diminue",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "λM, Ks et Ka sont au numérateur, λH au dénominateur : KEX ↑ si λM ↑, Ks ↑, Ka ↑ ou λH ↓.",
+    "source": {
+      "page": 9,
+      "extrait": "KEX = λM . Kan .Ks / λHn"
+    },
+    "difficulte": 2,
+    "tags": [
+      "KEX"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/qcm-047",
+    "type": "multiple",
+    "enonce": "Taux de distribution de l'ion métallique :",
+    "options": [
+      "D = [MLn]org/([Mⁿ⁺] + [MLn])",
+      "D = λM/(1 + 1/(Ks[L⁻]ⁿ))",
+      "D = λM/(1 + λHⁿ[H⁺]ⁿ/(Ks·Cⁿ·Kaⁿ))",
+      "D = λH·[H⁺]ⁿ",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Formules du cours : D = [MLn]org/([Mⁿ⁺] + [MLn]) = λM/(1 + 1/(Ks[L⁻]ⁿ)) = λM/(1 + λHⁿ[H⁺]ⁿ/(KsCⁿKaⁿ)).",
+    "source": {
+      "page": 9,
+      "extrait": "Taux de distribution de l'ion métallique"
+    },
+    "difficulte": 3,
+    "tags": [
+      "taux de distribution",
+      "chélates"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/qcm-048",
+    "type": "multiple",
+    "enonce": "Dans l'expression log D = log λM − log[1 + (λH/(Ka·C))ⁿ·(1/Ks)·[H⁺]ⁿ] :",
+    "options": [
+      "λH, Ka et C sont des paramètres liés au chélateur",
+      "Ks est un paramètre lié à la nature de l'ion métallique",
+      "[H⁺] traduit le pH du milieu",
+      "D doit avoir une valeur maximale",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le cours classe les paramètres : liés au chélateur (λH, Ka, C), à l'ion métallique (Ks), au pH ([H⁺]) ; D doit être maximal.",
+    "source": {
+      "page": 9,
+      "extrait": "Paramètres liés au chélateur"
+    },
+    "difficulte": 3,
+    "tags": [
+      "facteurs",
+      "chélates"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/qcm-049",
+    "type": "multiple",
+    "enonce": "Pour que le taux de distribution d'un chélate métallique soit élevé, il faut :",
+    "options": [
+      "λH faible",
+      "Un pKa de HL relativement bas (Ka élevé)",
+      "Une phase aqueuse basique, pH ≥ pKa + 2",
+      "Une concentration élevée du ligand en phase organique",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Conditions du cours : λH faible, pKa bas, phase aqueuse basique (pH ≥ pKa + 2, [H₃O⁺] faible), [ligand] élevée, chélate stable (Ks élevé).",
+    "source": {
+      "page": 9,
+      "extrait": "La phase aqueuse doit être basique >= pka+2"
+    },
+    "difficulte": 2,
+    "tags": [
+      "facteurs",
+      "chélates"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/qcm-050",
+    "type": "multiple",
+    "enonce": "Concernant l'influence du pH sur l'extraction d'un chélate métallique (n = 2) :",
+    "options": [
+      "Quand le pH augmente, [H⁺]ⁿ diminue",
+      "Quand le pH augmente, D augmente",
+      "Passer de pH 1 à pH 3 divise le terme [H⁺]² par 10⁴",
+      "Le pH est sans influence",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "D = λM/(1 + λHⁿ[H⁺]ⁿ/(KsCⁿKaⁿ)) : D augmente quand [H⁺] diminue ; avec n = 2, passer de pH 1 à 3 divise [H⁺]² par (10²)² = 10⁴.",
+    "source": {
+      "page": 9,
+      "extrait": "pH élevé donc [H3O+] soit faible"
+    },
+    "difficulte": 3,
+    "tags": [
+      "pH",
+      "chélates"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/qcm-051",
+    "type": "unique",
+    "enonce": "Le rendement d'une extraction simple de chélate se calcule par :",
+    "options": [
+      "ρ = 1 − 1/(1 + D·VB/VA)",
+      "ρ = D/(1 + D)ⁿ",
+      "ρ = KEX/(1 + KEX)",
+      "ρ = λM·VA/VB",
+      "ρ = 1 − (α − 1)/(αⁿ⁺¹ − 1)"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Le rendement est calculé à partir de D : ρ = 1 − 1/(1 + D·VB/VA).",
+    "source": {
+      "page": 10,
+      "extrait": "Le rendement ρ est calculé à partir du D (cas d'une extraction simple)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "rendement"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/qcm-052",
+    "type": "multiple",
+    "enonce": "Modalités pratiques de l'extraction des chélates :",
+    "options": [
+      "Le chélateur doit avoir un caractère hydrophobe prononcé",
+      "Le solvant extracteur doit être un bon solvant du chélateur",
+      "Exemples de solvants : CHCl₃, CCl₄",
+      "Le chélateur doit être très hydrophile",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Choix du chélateur : caractère hydrophobe prononcé ; solvant : bon solvant du chélateur (CHCl₃, CCl₄…).",
+    "source": {
+      "page": 10,
+      "extrait": "Choix du chélateur => Doit avoir un caractère hydrophobe prononcé"
+    },
+    "difficulte": 1,
+    "tags": [
+      "modalités pratiques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/qcm-053",
+    "type": "multiple",
+    "enonce": "Applications de l'extraction des chélates métalliques citées dans le cours :",
+    "options": [
+      "Dosage du cuivre sous forme de complexe avec l'ion diéthyldithiocarbamate",
+      "Dosage du cuivre sous forme de complexe avec la néocuproïne",
+      "Dosage du fer sous forme de 8-hydroxyquinoléate",
+      "Dosage du plomb par la dithizone",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Les cinq applications citées sont : Cu–diéthyldithiocarbamate, Cu–néocuproïne, Fe–8-hydroxyquinoléate, Pb–dithizone et essais limites des impuretés.",
+    "source": {
+      "page": 10,
+      "extrait": "DOSAGE DU PLOMB PAR LA DITHIZONE"
+    },
+    "difficulte": 1,
+    "tags": [
+      "applications"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/qcm-054",
+    "type": "unique",
+    "enonce": "Le fer est dosé, selon le cours, sous forme de :",
+    "options": [
+      "Diéthyldithiocarbamate",
+      "Néocuproïne",
+      "8-hydroxyquinoléate",
+      "Dithizonate",
+      "Paire d'ions avec le DOSS"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Application : dosage du fer sous forme de 8-hydroxyquinoléate (oxine).",
+    "source": {
+      "page": 10,
+      "extrait": "DOSAGE DU FER SOUS FORME DE 8-HYDROXYQUINOLEATE"
+    },
+    "difficulte": 1,
+    "tags": [
+      "applications"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/qcm-055",
+    "type": "multiple",
+    "enonce": "La formation de paires d'ions :",
+    "options": [
+      "A pour objectif d'éliminer ou de masquer la charge d'un ion",
+      "Est utilisée lorsque le rendement d'extraction est insuffisant",
+      "Concerne des anions ou cations organiques à pôle hydrophobe assez important",
+      "Réalise une association ionique",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes ces propositions sont dans l'introduction sur les paires d'ions.",
+    "source": {
+      "page": 10,
+      "extrait": "La formation de paire d'ions à pour objectifs : D'ÉLIMINER ou MASQUER la charge d'un ion"
+    },
+    "difficulte": 1,
+    "tags": [
+      "paires d'ions"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/qcm-056",
+    "type": "multiple",
+    "enonce": "Caractères ionisant et dissociant d'un solvant :",
+    "options": [
+      "Un solvant dissout bien un composé qui lui ressemble",
+      "La dissociation ne peut se produire que s'il y a eu ionisation",
+      "MA ⇌ {M⁺A⁻} ⇌ M⁺ + A⁻",
+      "Une paire d'ions est globalement neutre mais ionisée",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes ces propositions figurent dans le cours (ionisation puis dissociation, paire d'ions globalement neutre mais ionisée).",
+    "source": {
+      "page": 11,
+      "extrait": "Paire d'ions : globalement neutre , mais ionisée"
+    },
+    "difficulte": 2,
+    "tags": [
+      "ionisation",
+      "dissociation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/qcm-057",
+    "type": "multiple",
+    "enonce": "En fonction de la constante diélectrique relative εr du solvant :",
+    "options": [
+      "Si εr < 15, la paire d'ions n'est pas dissociée",
+      "Si 15 < εr < 40, la dissociation est partielle et des paires d'ions coexistent avec des ions séparés",
+      "Si εr > 40, il n'existe plus de paires d'ions : la dissociation est totale",
+      "Si εr > 40, la paire d'ions est très stable",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "εr < 15 : pas de dissociation ; 15–40 : dissociation partielle ; > 40 : dissociation totale, plus de paires d'ions.",
+    "source": {
+      "page": 11,
+      "extrait": "Si ε r > 40 il n'existe plus de paires d'ions, la dissociation est totale"
+    },
+    "difficulte": 2,
+    "tags": [
+      "constante diélectrique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/qcm-058",
+    "type": "unique",
+    "enonce": "L'eau, de constante diélectrique ε = 80, est un solvant :",
+    "options": [
+      "Peu dissociant où les paires d'ions sont stables",
+      "Dissociant, où il n'y a pas de paires d'ions",
+      "Apolaire",
+      "Partiellement dissociant (15 < ε < 40)",
+      "Non ionisant"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Dans les solvants dissociants (H₂O, ε = 80), composés ioniques/polaires hydrophiles : pas de paires d'ions.",
+    "source": {
+      "page": 11,
+      "extrait": "Comportement dans les solvants dissociant (H2O) ε = 80"
+    },
+    "difficulte": 1,
+    "tags": [
+      "constante diélectrique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/qcm-059",
+    "type": "multiple",
+    "enonce": "Dans les solvants peu dissociants (faible ε) :",
+    "options": [
+      "Les composés hydrophobes existent sous forme de paires d'ions",
+      "Plus ε est faible, plus la paire d'ions est stable",
+      "Il n'existe aucune paire d'ions",
+      "Les paires d'ions sont totalement dissociées",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Solvants peu dissociants : paires d'ions, d'autant plus stables que ε est faible.",
+    "source": {
+      "page": 11,
+      "extrait": "Plus la ε est faible plus la paire d'ion est stable"
+    },
+    "difficulte": 2,
+    "tags": [
+      "constante diélectrique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/qcm-060",
+    "type": "multiple",
+    "enonce": "D'après le tableau du cours, les solvants suivants ont une constante diélectrique relative inférieure à 15 :",
+    "options": [
+      "Cyclohexane (2)",
+      "Chloroforme (4,8)",
+      "Toluène (2,4)",
+      "Chlorobenzène (5,63)",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Tous les solvants du tableau (cyclohexane 2, chloroforme 4,8, toluène 2,4, chlorobenzène 5,63, benzène 2,27) ont εr < 15 : les paires d'ions n'y sont pas dissociées.",
+    "source": {
+      "page": 11,
+      "extrait": "Si εr < 15 la paire d'ion n'est pas dissociées"
+    },
+    "difficulte": 2,
+    "tags": [
+      "constante diélectrique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/qcm-061",
+    "type": "multiple",
+    "enonce": "Mécanisme d'extraction des paires d'ions :",
+    "options": [
+      "L'addition d'un réactif A⁻ à une solution aqueuse de B⁺ forme la paire d'ions A⁻B⁺",
+      "Au contact d'un solvant organique non dissociant, un équilibre de partage de la paire s'établit",
+      "La paire d'ions est plus soluble dans le solvant organique que dans le solvant aqueux (k élevée)",
+      "La paire d'ions passe dans le solvant organique",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes ces étapes décrivent le mécanisme d'extraction (formation de la paire puis partage vers la phase organique).",
+    "source": {
+      "page": 12,
+      "extrait": "La paire d'ions est plus soluble dans le solvant organique que dans le solvant aqueux (k élevée)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "mécanisme"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/qcm-062",
+    "type": "multiple",
+    "enonce": "Stabilité d'une paire d'ions A⁻ + B⁺ ⇌ A⁻B⁺ :",
+    "options": [
+      "Kd = [A⁻][B⁺]/[A⁻B⁺]",
+      "La relation pKd = −log Kd = A + C/ε a été établie par Bjerrum puis simplifiée par Denison et Ramsay",
+      "A et C sont des constantes dépendant de la nature des ions et de leurs charges",
+      "ε est la constante diélectrique du solvant organique",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes ces propositions sont dans le cours (relation de Bjerrum, Denison et Ramsay).",
+    "source": {
+      "page": 12,
+      "extrait": "Une relation établie par Bjerrum puis simplifiée par Denison et Ramsay"
+    },
+    "difficulte": 3,
+    "tags": [
+      "stabilité",
+      "Bjerrum"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/qcm-063",
+    "type": "multiple",
+    "enonce": "Une paire d'ions est d'autant plus stable que :",
+    "options": [
+      "Kd est faible",
+      "pKd est élevé",
+      "Le solvant organique est peu dissociant (ε faible)",
+      "ε est élevé",
+      "Kd est élevé"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Paire stable : Kd faible (pKd élevé) et solvant peu dissociant ; d'après pKd = A + C/ε, pKd augmente quand ε diminue.",
+    "source": {
+      "page": 12,
+      "extrait": "Une paire d'ions est d'autant plus stable lorsque Kd est faible (pKd élevée)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "stabilité"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/qcm-064",
+    "type": "multiple",
+    "enonce": "Les ions qui composent une paire d'ions à caractère extractible doivent être :",
+    "options": [
+      "Volumineux",
+      "De masse moléculaire élevée",
+      "Porteurs d'un nombre de groupements hydrophobes suffisant",
+      "Petits et très hydratés",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Structure favorable : ions volumineux, masse moléculaire élevée, groupements hydrophobes suffisants → moins retenus par l'eau, associés au solvant organique par leur pôle hydrophobe.",
+    "source": {
+      "page": 12,
+      "extrait": "Volumineux. 2. Masse moléculaire élevée. 3. Nombre de groupement hydrophobes suffisant"
+    },
+    "difficulte": 1,
+    "tags": [
+      "structure des ions"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/qcm-065",
+    "type": "unique",
+    "enonce": "Le déplacement mutuel en extraction de paires d'ions repose sur :",
+    "options": [
+      "La formation d'un chélate",
+      "Un ion C⁻ susceptible de former une paire d'ions plus stable",
+      "Une dimérisation en phase organique",
+      "La variation de température",
+      "Le relargage"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Un ion C⁻ capable de former une paire d'ions plus stable déplace le partenaire ; ce principe débouche sur la séparation chromatographique.",
+    "source": {
+      "page": 12,
+      "extrait": "C- susceptible de former une paire d'ion plus stable"
+    },
+    "difficulte": 2,
+    "tags": [
+      "déplacement mutuel"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/qcm-066",
+    "type": "multiple",
+    "enonce": "Principaux anions extractibles sous forme de paires d'ions :",
+    "options": [
+      "Tensioactifs anioniques : lauryl sulfate de sodium (SDS ou LSS)",
+      "Sulfonates : DOSS (dioctyl sulfosuccinate de sodium, Manoxol)",
+      "Tétraphénylborate",
+      "Anions de colorants acides (dérivés de phtaléine, fluorescéines)",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Tous figurent dans la liste des anions : tensioactifs anioniques (LSS, DOSS), tétraphénylborate, colorants acides, anions d'ampholytes.",
+    "source": {
+      "page": 13,
+      "extrait": "Sulfonate : DOSS( dioctyl sulfosuccinate de sodium : Manoxol"
+    },
+    "difficulte": 2,
+    "tags": [
+      "anions"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/qcm-067",
+    "type": "unique",
+    "enonce": "Selon le cours, le DOSS est :",
+    "options": [
+      "Moins hydrophobe que le lauryl sulfate",
+      "Plus hydrophobe que le lauryl sulfate",
+      "Un ammonium quaternaire",
+      "Un colorant basique",
+      "Un chélateur"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Le cours précise que le DOSS (C₂₂H₃₄O₄SO₃Na) est plus hydrophobe que le lauryl sulfate.",
+    "source": {
+      "page": 13,
+      "extrait": "plus hydrophobe que lauryl sulfate"
+    },
+    "difficulte": 2,
+    "tags": [
+      "DOSS"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/qcm-068",
+    "type": "unique",
+    "enonce": "L'hélianthine sous forme basique est citée comme :",
+    "options": [
+      "Anion d'ampholyte",
+      "Cation de colorant basique",
+      "Ammonium quaternaire",
+      "Chélateur",
+      "Tensioactif cationique"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Anions d'ampholytes : colorants ampholytes = hélianthine sous forme basique ; extraction des acides aminés à l'état d'anions.",
+    "source": {
+      "page": 13,
+      "extrait": "Colorants ampholyte = Hélianthine s.f basique"
+    },
+    "difficulte": 2,
+    "tags": [
+      "anions"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/qcm-069",
+    "type": "multiple",
+    "enonce": "Principaux cations extractibles sous forme de paires d'ions :",
+    "options": [
+      "Ammoniums quaternaires à longue chaîne (cétyl triméthyl ammonium, benzyl trialkylammonium, cétyl pyridinium)",
+      "Dérivés d'amine de masse moléculaire élevée (nombreux alcaloïdes, phénothiazine, prométhazine)",
+      "Cations de colorants basiques (vert de méthyle, jaune de méthyle)",
+      "Tétraphénylborate",
+      "Lauryl sulfate"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Cations : dérivés azotés (ammoniums tertiaires/quaternaires hydrophobes) : ammoniums quaternaires à longue chaîne, amines de MM élevée, colorants basiques. Tétraphénylborate et lauryl sulfate sont des anions.",
+    "source": {
+      "page": 13,
+      "extrait": "Ce sont des dérivés azotés: Ion ammonium tertiaire /quaternaire à caractère hydrophobe"
+    },
+    "difficulte": 2,
+    "tags": [
+      "cations"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/qcm-070",
+    "type": "unique",
+    "enonce": "Les ammoniums quaternaires à longue chaîne sont facilement extraits en phase :",
+    "options": [
+      "Aqueuse acide",
+      "Chloroformique ou benzénique",
+      "Hexanique uniquement",
+      "Méthanolique",
+      "Aqueuse alcaline"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Le cours : « Facilement extraite en phase chloroformique ou benzénique ».",
+    "source": {
+      "page": 13,
+      "extrait": "Facilement extraite en phase chloroformique ou benzénique"
+    },
+    "difficulte": 2,
+    "tags": [
+      "cations"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/qcm-071",
+    "type": "unique",
+    "enonce": "Le vert de méthyle est un cation de colorant basique dérivé :",
+    "options": [
+      "Du triphénylméthane",
+      "Des azoïques",
+      "Des phtaléines",
+      "Des fluorescéines",
+      "Des phénothiazines"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Dérivés du triphénylméthane : vert de méthyle ; azoïques : jaune de méthyle.",
+    "source": {
+      "page": 13,
+      "extrait": "Dérivés du triphénylméthane: Vert de méthyle"
+    },
+    "difficulte": 2,
+    "tags": [
+      "colorants basiques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/qcm-072",
+    "type": "unique",
+    "enonce": "Selon la remarque du cours, un chélate chargé peut être extrait :",
+    "options": [
+      "En l'associant, grâce à sa charge résiduelle, avec un antagoniste pour former une paire d'ions",
+      "Par dimérisation",
+      "Uniquement par l'eau",
+      "Par relargage seul",
+      "Il n'est jamais extractible"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Remarque : formation de paires d'ions avec un chélate chargé : associer un chélate grâce à sa charge résiduelle avec un antagoniste = extractible.",
+    "source": {
+      "page": 13,
+      "extrait": "Associer à un chélate grâce à sa charge résiduelle avec un antagoniste = extractible"
+    },
+    "difficulte": 2,
+    "tags": [
+      "chélate chargé"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/qcm-073",
+    "type": "multiple",
+    "enonce": "Facteurs influençant l'extraction des paires d'ions :",
+    "options": [
+      "Nature et concentration du contre-ion",
+      "Température",
+      "Nature du solvant et présence d'ion commun",
+      "Agents relargants (électrolyte hétéroionique éliminant la couche d'hydratation) et pH",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Six facteurs : contre-ion, température, solvant, ion commun, agents relargants, pH.",
+    "source": {
+      "page": 13,
+      "extrait": "Agents relargant : électrolyte héteroionique pour éliminer la couche d'hydratation"
+    },
+    "difficulte": 1,
+    "tags": [
+      "facteurs"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/qcm-074",
+    "type": "multiple",
+    "enonce": "Influence du pH sur l'extraction des paires d'ions :",
+    "options": [
+      "1er cas : anion et cation conjugués à des protolytes forts : pH sans influence",
+      "Exemple du 1er cas : ion ammonium quaternaire + sulfate acide d'alcoyle",
+      "2e cas : l'un des ions se comporte comme un acide ou une base réel vis-à-vis de l'eau",
+      "Dans le 2e cas, l'ion peut se transformer en molécule neutre et ne plus former la paire d'ions",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes ces propositions décrivent les deux cas du cours (protolytes forts : pH sans influence ; acide/base réel : risque de neutralisation, ex. alcaloïdes à pH élevé, éosinates à pH bas).",
+    "source": {
+      "page": 14,
+      "extrait": "Anion et cation susceptible de s'associer sont tous les deux conjuguées à des protolytes forts dans l'eau"
+    },
+    "difficulte": 2,
+    "tags": [
+      "pH",
+      "paires d'ions"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/qcm-075",
+    "type": "multiple",
+    "enonce": "Exemples du 2e cas (ion se comportant comme un acide ou une base réel) où la paire d'ions ne peut se former :",
+    "options": [
+      "Alcaloïdes à pH élevé",
+      "Éosinates en milieu à pH bas",
+      "Ammonium quaternaire à tout pH",
+      "Sulfate acide d'alcoyle à tout pH",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "À pH élevé, l'alcaloïde perd son proton (base neutre) ; à pH bas, l'éosinate est protoné (acide neutre) : la paire ne se forme pas.",
+    "source": {
+      "page": 14,
+      "extrait": "Alcaloïdes à pH élevé • Eosinates en milieu à pH bas"
+    },
+    "difficulte": 2,
+    "tags": [
+      "pH",
+      "paires d'ions"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/qcm-076",
+    "type": "multiple",
+    "enonce": "Méthodes colorimétriques d'extraction de paires d'ions :",
+    "options": [
+      "On associe l'ion à doser à un ion antagoniste coloré pour former une paire d'ions colorée",
+      "Le colorant à l'état de molécule neutre ne doit pas être extractible dans le solvant",
+      "L'extraction de la paire d'ions doit être quantitative",
+      "On utilise un excès de colorant choisi pour son insolubilité en milieu organique",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Deux conditions (colorant neutre non extractible, extraction quantitative) et deux conséquences (excès de colorant insoluble en milieu organique, choix judicieux du pH).",
+    "source": {
+      "page": 14,
+      "extrait": "Le colorant lui-même à l'état de molécule neutres ne soit pas extractibles dans le solvant"
+    },
+    "difficulte": 2,
+    "tags": [
+      "colorimétrie"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/qcm-077",
+    "type": "multiple",
+    "enonce": "Modalités de lecture en colorimétrie des paires d'ions :",
+    "options": [
+      "On peut déterminer directement l'absorbance de la solution organique",
+      "La lecture directe a pour inconvénient l'absorption propre et la volatilité du solvant",
+      "On peut pratiquer une nouvelle extraction par une solution polaire (aqueuse ou hydroalcoolique)",
+      "Cette réextraction se fait en milieu nettement alcalin (pH 13) si le colorant est anionique",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes ces propositions sont dans la diapositive « Modalité de lecture » ; la réextraction se fait en milieu nettement acide si le colorant est cationique.",
+    "source": {
+      "page": 14,
+      "extrait": "en milieu nettement alcalin pH 13 si le colorant est anionique"
+    },
+    "difficulte": 2,
+    "tags": [
+      "colorimétrie",
+      "lecture"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/qcm-078",
+    "type": "unique",
+    "enonce": "En colorimétrie, la réextraction d'un colorant cationique de la phase organique se fait :",
+    "options": [
+      "En milieu nettement alcalin (pH 13)",
+      "En milieu nettement acide",
+      "En milieu neutre",
+      "Dans le chloroforme",
+      "Sans changement de phase"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Colorant anionique → milieu nettement alcalin (pH 13) ; colorant cationique → milieu nettement acide.",
+    "source": {
+      "page": 14,
+      "extrait": "en milieu nettement acide s'il est cationique"
+    },
+    "difficulte": 2,
+    "tags": [
+      "colorimétrie"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/qcm-079",
+    "type": "multiple",
+    "enonce": "D'après le tableau des applications colorimétriques :",
+    "options": [
+      "Méthadone/atropine : pH 5,5, pourpre de bromocrésol, toluène, lecture après réextraction dans la soude diluée",
+      "Quinine : pH 7, éosine, chloroforme, lecture directe en phase organique",
+      "Traces d'ammonium quaternaire antiseptiques : pH 10, hélianthine, chloroforme, lecture après passage en phase aqueuse chlorhydrique",
+      "Quinine : pH 10, hélianthine, toluène",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Ce sont les trois colonnes du tableau. La quinine est dosée à pH 7 avec l'éosine dans le chloroforme.",
+    "source": {
+      "page": 15,
+      "extrait": "Extraction quantitative de la Quinine"
+    },
+    "difficulte": 3,
+    "tags": [
+      "colorimétrie",
+      "tableau"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/qcm-080",
+    "type": "unique",
+    "enonce": "Selon le tableau du cours, le dosage de la méthadone et de l'atropine par colorimétrie utilise :",
+    "options": [
+      "L'éosine à pH 7",
+      "Le pourpre de bromocrésol à pH 5,5",
+      "L'hélianthine à pH 10",
+      "Le jaune de méthyle",
+      "Le DOSS"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Méthadone/atropine : pH 5,5, pourpre de bromocrésol, toluène, lecture après réextraction dans la soude diluée.",
+    "source": {
+      "page": 15,
+      "extrait": "Dosage de Méthadone/Atropine"
+    },
+    "difficulte": 2,
+    "tags": [
+      "colorimétrie"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/qcm-081",
+    "type": "multiple",
+    "enonce": "Les méthodes volumétriques par extraction de paires d'ions permettent de doser :",
+    "options": [
+      "Des bases organiques (alcaloïdes) associées à des anions tétraphénylborate mais surtout laurylsulfate ou DOSS",
+      "Des anions, notamment tensioactifs, associés à des cations tels que les ammoniums quaternaires à longue chaîne",
+      "Des ions métalliques sous forme de chélates uniquement",
+      "Des anions associés à certains dérivés hétérocycliques azotés basiques",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      3
+    ],
+    "explication": "Volumétrie : bases organiques (avec tétraphénylborate, surtout LSS ou DOSS) et anions tensioactifs (avec ammoniums quaternaires à longue chaîne ou dérivés hétérocycliques azotés basiques).",
+    "source": {
+      "page": 15,
+      "extrait": "en les associant sous forme de cation, à des anions Tétraphénylborate mais surtout Laurylsulfate ou DOSS"
+    },
+    "difficulte": 2,
+    "tags": [
+      "volumétrie"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/qcm-082",
+    "type": "multiple",
+    "enonce": "Solutions titrées et étalons en volumétrie de paires d'ions :",
+    "options": [
+      "Solution titrée : laurylsulfate de sodium (LSS) 0,01 M",
+      "Solution titrée : DOSS 0,01 M",
+      "Étalons : la papavérine et ses sels",
+      "Étalons : les phénothiazines (prométhazine ou chlorpromazine)",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes ces données figurent dans le tableau « Solutions titrées et étalons ».",
+    "source": {
+      "page": 15,
+      "extrait": "Solution 0,01 M de Laurylsulfate de sodium LSS"
+    },
+    "difficulte": 2,
+    "tags": [
+      "volumétrie",
+      "étalons"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/qcm-083",
+    "type": "multiple",
+    "enonce": "Indicateurs utilisés en volumétrie de paires d'ions :",
+    "options": [
+      "Ce sont des colorants basiques existant sous forme de cation",
+      "Le jaune de méthyle (para diméthyl amino benzène), en solution acido-alcoolique",
+      "Le jaune de méthyle associé à une aminoanthraquinone, le bleu Oracet B (solution chloroformique)",
+      "Le bleu Oracet B sert à sensibiliser le virage",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes ces propositions sont dans la diapositive « Indicateurs ».",
+    "source": {
+      "page": 15,
+      "extrait": "Jaune de méthyl associé à une AminoAnthraQuinone: le Bleu Oracet B"
+    },
+    "difficulte": 2,
+    "tags": [
+      "indicateurs"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/qcm-084",
+    "type": "multiple",
+    "enonce": "Mécanisme de virage de l'indicateur en volumétrie de paires d'ions :",
+    "options": [
+      "La méthode est fondée sur la stabilité des différentes paires d'ions",
+      "L'indicateur doit donner avec le réactif titrant une paire d'ions moins stable que le cation à doser",
+      "λ2 >> λ1 >> λ3",
+      "L'indicateur doit donner avec le réactif titrant une paire d'ions plus stable que le cation à doser",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Principe fondé sur la stabilité des paires ; l'indicateur forme avec le titrant une paire MOINS stable que celle du cation à doser (sinon il virerait avant l'équivalence) ; relation λ2 >> λ1 >> λ3.",
+    "source": {
+      "page": 16,
+      "extrait": "Donne avec le réactifs titrant une paire d'ions moins stable que le cation à doser"
+    },
+    "difficulte": 3,
+    "tags": [
+      "mécanisme de virage"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/qcm-085",
+    "type": "multiple",
+    "enonce": "Avant l'addition du réactif titrant en volumétrie de paires d'ions :",
+    "options": [
+      "L'indicateur se trouve essentiellement sous forme moléculaire basique (B) en phase organique",
+      "Il est en faible proportion sous forme ionisée (BH⁺) en milieu aqueux",
+      "L'indicateur est entièrement sous forme BH⁺R⁻",
+      "La phase organique a déjà sa couleur de fin de dosage",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Avant titrage : B en phase organique, faible proportion de BH⁺ en phase aqueuse.",
+    "source": {
+      "page": 16,
+      "extrait": "L'indicateur se trouve essentiellement sous forme moléculaire basique (B) en phase organique"
+    },
+    "difficulte": 3,
+    "tags": [
+      "mécanisme de virage"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/qcm-086",
+    "type": "multiple",
+    "enonce": "Au cours du titrage volumétrique (au fur et à mesure de l'addition du réactif) :",
+    "options": [
+      "Le colorant quitte la phase organique",
+      "Il passe transitoirement par la phase aqueuse",
+      "Il retourne vers la phase chloroformique sous forme de paire d'ions BH⁺R⁻",
+      "La phase chloroformique change de couleur lors de la formation de la paire colorant–réactif",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes ces étapes sont décrites dans le cours.",
+    "source": {
+      "page": 16,
+      "extrait": "Retourne vers la phase chloroformique s.f de paire d'ions (BH+R-)"
+    },
+    "difficulte": 3,
+    "tags": [
+      "mécanisme de virage"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/qcm-087",
+    "type": "multiple",
+    "enonce": "Avec le jaune de méthyle comme indicateur :",
+    "options": [
+      "Le virage se fait du jaune au rouge",
+      "La phase aqueuse reste pratiquement incolore",
+      "Le virage se fait du rouge au jaune",
+      "La phase aqueuse se colore fortement en rouge",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Jaune de méthyle : virage du jaune au rouge, phase aqueuse pratiquement incolore.",
+    "source": {
+      "page": 16,
+      "extrait": "Dans le cas du jaune de méthyle le virage se fait :du jaune au rouge"
+    },
+    "difficulte": 2,
+    "tags": [
+      "jaune de méthyle"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/qcm-088",
+    "type": "multiple",
+    "enonce": "Exemples de cations dosables par volumétrie par extraction de paires d'ions :",
+    "options": [
+      "Ammoniums quaternaires : benzalkonium (antiseptique), cétrimonium, néostigmine",
+      "Alcaloïdes : codéine, quinine, atropine, papavérine",
+      "Bases organiques diverses : chlorpromazine, méthadone, procaïne, thiamine",
+      "Cocaïne",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes ces substances figurent dans le tableau des cations dosables.",
+    "source": {
+      "page": 16,
+      "extrait": "Exemples de Cations dosables par volumétrie par extraction de paires d'ions"
+    },
+    "difficulte": 2,
+    "tags": [
+      "exemples"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/qcm-089",
+    "type": "unique",
+    "enonce": "Dans le tableau des cations dosables, le benzalkonium est présenté comme :",
+    "options": [
+      "Un antiseptique (ammonium quaternaire)",
+      "Un antitussif central (alcaloïde)",
+      "Un antipaludéen",
+      "Un anticholinestérasique",
+      "Un antihypotenseur"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Benzalkonium : ammonium quaternaire, antiseptique. La néostigmine est anticholinestérasique, la codéine antitussif central, la quinine antipaludéen.",
+    "source": {
+      "page": 16,
+      "extrait": "Benzalkonium: Antiseptique"
+    },
+    "difficulte": 1,
+    "tags": [
+      "exemples"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/qcm-090",
+    "type": "multiple",
+    "enonce": "Avantages de l'extraction liquide-liquide (conclusion) :",
+    "options": [
+      "Coût : pas d'investissement en gros matériel ou réactifs",
+      "Concentration des échantillons par évaporation de solvants volatils",
+      "Purification : limiter les effets de matrice en chromatographie liquide",
+      "Possibilité de travailler sur des matrices très variées (sang total, viscères, cheveux)",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes ces propositions sont des avantages listés dans la conclusion, avec la gamme très étendue de molécules extractibles.",
+    "source": {
+      "page": 17,
+      "extrait": "La possibilité de travailler sur des matrices très variées (sang total, viscères ou cheveux)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "conclusion",
+      "avantages"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/qcm-091",
+    "type": "multiple",
+    "enonce": "Inconvénients de l'extraction liquide-liquide (conclusion) :",
+    "options": [
+      "Consommation de volumes importants de solvants, surtout en extractions multiples",
+      "Toxicité des solvants",
+      "Difficulté d'extraire les molécules très polaires",
+      "Techniques manuelles, consommatrices de temps et de personnel, peu automatisables",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Ce sont les quatre inconvénients cités en conclusion.",
+    "source": {
+      "page": 17,
+      "extrait": "Ce sont des techniques manuelles, consommatrices de temps et de personnel car peu automatisables"
+    },
+    "difficulte": 1,
+    "tags": [
+      "conclusion",
+      "inconvénients"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/qcm-092",
+    "type": "unique",
+    "enonce": "La difficulté d'extraire les molécules très polaires par ELL s'explique par :",
+    "options": [
+      "Le coût des solvants",
+      "Les caractéristiques chimiques des solvants organiques (apolaires et aprotiques)",
+      "La volatilité des solvants",
+      "L'absence d'automatisation",
+      "La formation de chélates"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Le cours : difficultés d'extraire les molécules très polaires de par les caractéristiques des solvants organiques (apolaires et aprotiques).",
+    "source": {
+      "page": 17,
+      "extrait": "de part les caractéristiques chimiques des solvants organiques (apolaires et aprotiques)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "conclusion"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/qcm-093",
+    "type": "multiple",
+    "enonce": "L'extraction liquide-liquide couvre des applications dans les industries :",
+    "options": [
+      "Pharmaceutique",
+      "Nucléaire",
+      "Pétrochimique",
+      "Aucune industrie",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "La conclusion cite l'industrie pharmaceutique, nucléaire et pétrochimique.",
+    "source": {
+      "page": 17,
+      "extrait": "(industrie pharmaceutique, nucléaire, pétrochimique . . . )"
+    },
+    "difficulte": 1,
+    "tags": [
+      "conclusion"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/qcm-094",
+    "type": "multiple",
+    "enonce": "Parmi les situations suivantes, lesquelles diminuent le taux de distribution d'un soluté vers la phase organique ?",
+    "options": [
+      "Dimérisation du soluté en phase aqueuse",
+      "Formation d'un complexe chargé (I₃⁻) en phase aqueuse",
+      "Ionisation d'un acide faible à pH élevé",
+      "Dimérisation de l'acide en phase organique",
+      "Ajout d'un atome de chlore sur la molécule"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Dimérisation en phase aqueuse, complexe chargé retenu par l'eau et ionisation diminuent D ; dimérisation en phase organique et chloration l'augmentent.",
+    "source": {
+      "page": 4,
+      "extrait": "Dans le cas où il y a dimérisation en phase aqueuse : D↓"
+    },
+    "difficulte": 3,
+    "tags": [
+      "synthèse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/qcm-095",
+    "type": "multiple",
+    "enonce": "Associez la technique d'extraction et le type d'ion visé :",
+    "options": [
+      "Chélation : ions minéraux (métalliques)",
+      "Paires d'ions : ions organiques à pôle hydrophobe important",
+      "Modification du pH : acides et bases organiques faibles",
+      "Chélation : alcaloïdes uniquement",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Ions minéraux → chélates ; ions organiques → transformation en acides/bases neutres (pH) ou paires d'ions.",
+    "source": {
+      "page": 2,
+      "extrait": "Transformation quantitative en acides ou bases extractibles"
+    },
+    "difficulte": 2,
+    "tags": [
+      "synthèse"
+    ],
+    "origine": "genere"
+  }
+]

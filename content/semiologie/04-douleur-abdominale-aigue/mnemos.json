@@ -1,0 +1,26 @@
+[
+  {
+    "id": "semiologie/04-douleur-abdominale-aigue/mnemo-001",
+    "titre": "Signes d'alerte à l'interrogatoire",
+    "moyen": "« Poignard, Frissons, Sang, Stop »",
+    "explication": "Douleur en coup de Poignard ; Fièvre-Frissons ; Saignement digestif (hématémèse, méléna, rectorragie) ; Stop = arrêt des matières et gaz / vomissements incoercibles."
+  },
+  {
+    "id": "semiologie/04-douleur-abdominale-aigue/mnemo-002",
+    "titre": "Défense vs contracture",
+    "moyen": "« La Défense se négocie, la Contracture ne cède jamais »",
+    "explication": "Défense : vaincue par une palpation douce. Contracture : invincible, ventre de bois, péritonite."
+  },
+  {
+    "id": "semiologie/04-douleur-abdominale-aigue/mnemo-003",
+    "titre": "Penché en avant",
+    "moyen": "« Le reflux remonte quand on se penche, le pancréas se calme en chien de fusil »",
+    "explication": "Pyrosis augmenté penché en avant ; douleur pancréatique calmée penché en avant."
+  },
+  {
+    "id": "semiologie/04-douleur-abdominale-aigue/mnemo-004",
+    "titre": "Ulcère",
+    "moyen": "« L'ulcère a faim » ",
+    "explication": "Douleur à distance des repas, jusqu'au prochain repas, calmée par l'alimentation."
+  }
+]

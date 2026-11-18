@@ -1,0 +1,68 @@
+[
+  {
+    "id": "pharmacologie/td/02-metabolisme-elimination/flash-001",
+    "recto": "IH et médicament à métabolisme hépatique",
+    "verso": "↓ activité enzymatique, ↓ EPPH → ↑ Cp → risque de surdosage.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/td/02-metabolisme-elimination/flash-002",
+    "recto": "Exercice 1 (TD2) : explication",
+    "verso": "IH + sujet âgé → ↓ métabolisme/EPPH du propranolol → surdosage → hypotension, syncope.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/td/02-metabolisme-elimination/flash-003",
+    "recto": "Exercice 2 (TD2) : explication",
+    "verso": "Phénobarbital inducteur enzymatique → métabolisme du contraceptif accéléré → inefficacité → grossesse.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/td/02-metabolisme-elimination/flash-004",
+    "recto": "Inducteurs enzymatiques cités",
+    "verso": "Phénobarbital, phénytoïne, primidone, rifampicine, carbamazépine, griséofulvine, phénylbutazone.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/td/02-metabolisme-elimination/flash-005",
+    "recto": "Inhibiteurs enzymatiques cités",
+    "verso": "Cimétidine, chloramphénicol, disulfirame, isoniazide, macrolides, antifongiques azolés.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/td/02-metabolisme-elimination/flash-006",
+    "recto": "Exercice 3 (TD2) : t1/2",
+    "verso": "25 ans : 20 min ; 60 ans : 30 min → baisse de la fonction rénale (A éliminé par le rein, non métabolisé).",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/td/02-metabolisme-elimination/flash-007",
+    "recto": "Clairance rénale",
+    "verso": "Cl = U × V / P",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/td/02-metabolisme-elimination/flash-008",
+    "recto": "Exercice 4 (TD2) : clairance de la digoxine",
+    "verso": "80 × 100/2 = 4000 ml/h ≈ 66,7 ml/min.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/td/02-metabolisme-elimination/flash-009",
+    "recto": "Exercice 5 (TD2) : bicarbonate",
+    "verso": "Alcalinisation urinaire → phénobarbital (acide faible) ionisé → ↓ réabsorption → ↑ élimination.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/td/02-metabolisme-elimination/flash-010",
+    "recto": "Réabsorption tubulaire passive",
+    "verso": "Concerne les formes liposolubles non ionisées ; dépend du pH urinaire et du pKa.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/td/02-metabolisme-elimination/flash-011",
+    "recto": "Conséquence d'une insuffisance de l'organe d'élimination",
+    "verso": "Ralentissement de l'élimination → accumulation → effets toxiques.",
+    "tags": []
+  }
+]

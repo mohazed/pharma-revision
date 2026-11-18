@@ -1,0 +1,247 @@
+[
+  {
+    "id": "pharmacie-galenique/02-excipients/tableau-001",
+    "titre": "Dérivés de la cellulose",
+    "colonnes": [
+      "Dérivé",
+      "Solubilité",
+      "Emplois"
+    ],
+    "lignes": [
+      [
+        "Cellulose microcristalline",
+        "Pratiquement insoluble",
+        "Diluant, liant, compression directe, désintégrant, absorbant"
+      ],
+      [
+        "CMC-Na",
+        "Soluble dans l'eau",
+        "Viscosifiant, épaississant, stabilisant des suspensions"
+      ],
+      [
+        "Méthylcellulose (MC)",
+        "Soluble dans l'eau froide",
+        "Épaississant, liant, agent de suspension"
+      ],
+      [
+        "HPMC",
+        "—",
+        "Liant, filmogène, matrice hydrophile à libération prolongée"
+      ],
+      [
+        "HEC",
+        "—",
+        "Épaississant, stabilisant des gels et préparations aqueuses"
+      ],
+      [
+        "Éthylcellulose (EC)",
+        "Insoluble dans l'eau",
+        "Enrobage, contrôle de la libération"
+      ],
+      [
+        "Acétophtalate (CAP)",
+        "Insoluble en milieu acide, soluble au-dessus d'un certain pH",
+        "Polymère gastro-résistant"
+      ]
+    ]
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/tableau-002",
+    "titre": "Valeurs de HLB et emplois",
+    "colonnes": [
+      "Emploi",
+      "HLB"
+    ],
+    "lignes": [
+      [
+        "Émulsionnants H/L",
+        "3 à 6"
+      ],
+      [
+        "Mouillants",
+        "7 à 9"
+      ],
+      [
+        "Antimoussants",
+        "< 8 (surtout 1,5 à 3)"
+      ],
+      [
+        "Émulsionnants L/H",
+        "8 à 18"
+      ],
+      [
+        "Équilibre hydrophile/lipophile",
+        "≈ 10"
+      ]
+    ]
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/tableau-003",
+    "titre": "Classification des tensioactifs",
+    "colonnes": [
+      "Type",
+      "Caractéristique",
+      "Exemples"
+    ],
+    "lignes": [
+      [
+        "Anioniques",
+        "S'ionisent ; orientent vers L/H",
+        "Laurylsulfate de sodium, stéarate de triéthanolamine"
+      ],
+      [
+        "Cationiques",
+        "S'ionisent",
+        "Sels d'ammonium, sels d'amines (chlorure de stéaryl ammonium)"
+      ],
+      [
+        "Amphotères",
+        "Charges + et − selon le pH ; compatibles pH 5-8",
+        "Dérivés de bétaïne"
+      ],
+      [
+        "Non ioniques",
+        "Non ionisables ; liaison ester, éther, amide",
+        "Stéarates de glycols, Spans®, Tween®"
+      ],
+      [
+        "Naturels",
+        "—",
+        "Cholestérol, lécithine, caséine"
+      ]
+    ]
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/carte-001",
+    "type": "carte",
+    "titre": "Grandes classes d'excipients",
+    "racine": {
+      "label": "Excipients",
+      "enfants": [
+        {
+          "label": "Liquides",
+          "enfants": [
+            {
+              "label": "Eau",
+              "enfants": []
+            },
+            {
+              "label": "Alcool 95°",
+              "enfants": []
+            },
+            {
+              "label": "Propylène glycol",
+              "enfants": []
+            },
+            {
+              "label": "Glycérine",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Cires",
+          "enfants": [
+            {
+              "label": "Animales",
+              "enfants": []
+            },
+            {
+              "label": "Végétales",
+              "enfants": []
+            },
+            {
+              "label": "Minérales",
+              "enfants": []
+            },
+            {
+              "label": "Synthétiques",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Hydrocarbures et silicones",
+          "enfants": [
+            {
+              "label": "Vaseline, paraffine",
+              "enfants": []
+            },
+            {
+              "label": "Silicones",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Sucres et macromolécules",
+          "enfants": [
+            {
+              "label": "Sucres",
+              "enfants": []
+            },
+            {
+              "label": "Amidons, gommes, gélatine",
+              "enfants": []
+            },
+            {
+              "label": "Cellulose et dérivés",
+              "enfants": []
+            },
+            {
+              "label": "PVP, PEG, carbomères",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Minéraux",
+          "enfants": [
+            {
+              "label": "Silice, talc",
+              "enfants": []
+            },
+            {
+              "label": "Kaolin, bentonites",
+              "enfants": []
+            },
+            {
+              "label": "TiO₂",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Glycérides",
+          "enfants": [
+            {
+              "label": "Naturels",
+              "enfants": []
+            },
+            {
+              "label": "Dérivés (hydrogénés, semi-synthétiques, macrogolglycérides)",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Surfactifs",
+          "enfants": [
+            {
+              "label": "Ioniques",
+              "enfants": []
+            },
+            {
+              "label": "Non ioniques",
+              "enfants": []
+            },
+            {
+              "label": "Naturels",
+              "enfants": []
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

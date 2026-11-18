@@ -1,0 +1,8 @@
+[
+  { "slug": "pharmacologie", "titre": "Pharmacologie", "couleur": "bleu", "driveFolder": "1mEtqPWQSrv5HMmhwPtJCn5sH8xAKWPmX" },
+  { "slug": "pharmacognosie", "titre": "Pharmacognosie", "couleur": "vert", "driveFolder": "1mFUNf11Ww6bdSmltgg1KQUY0KopBv7Bt" },
+  { "slug": "pharmacie-galenique", "titre": "Pharmacie galénique", "couleur": "orange", "driveFolder": "1mGa4Mq2mwaYvj2xNZPwr90GwIxMTgY56" },
+  { "slug": "chimie-analytique", "titre": "Chimie analytique", "couleur": "violet", "driveFolder": "1mIGkjSb06oXufUu5oVwwvNMmk1Qs73m7" },
+  { "slug": "chimie-therapeutique", "titre": "Chimie thérapeutique", "couleur": "indigo", "driveFolder": "1mIVeiZdfu_bqhU6tO9D8Q2GRNjetXZbJ" },
+  { "slug": "semiologie", "titre": "Sémiologie", "couleur": "rose", "driveFolder": "1mPhbiDGuUh868e8MAzlaPNoUvaIckExO" }
+]

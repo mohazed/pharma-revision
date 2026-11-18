@@ -1,0 +1,215 @@
+[
+  {
+    "id": "semiologie/07-troubles-du-transit/tableau-001",
+    "titre": "Diarrhées chroniques : type de selles / mécanisme / causes",
+    "colonnes": [
+      "Mécanisme",
+      "Caractères des selles",
+      "Causes"
+    ],
+    "lignes": [
+      [
+        "Malabsorption",
+        "Abondantes (bouse de vache), graisseuses, pâteuses, décolorées, malodorantes ; anorexie, amaigrissement",
+        "Maladie cœliaque, Whipple, lymphome, giardiose, pancréatite chronique, cancer du pancréas, insuffisance en sels biliaires"
+      ],
+      [
+        "Motrice",
+        "Nombreuses, peu abondantes, débris alimentaires, post-prandiales précoces, impérieuses, coliques, état général conservé",
+        "Diabète, hyperthyroïdie, carcinoïde, VIPome, amylose, gastrectomie, colectomie, iatrogène"
+      ],
+      [
+        "Sécrétoire",
+        "Profuses, abondantes, diurnes, persistant au jeûne",
+        "Polypose adénomateuse colique, colchicine, digitaliques, laxatifs irritants"
+      ],
+      [
+        "Osmotique",
+        "Abondance variable, liquidiennes, sans horaire, cédant au jeûne, jamais de sang ni de pus",
+        "Surtout laxatifs"
+      ]
+    ]
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/tableau-002",
+    "titre": "Diarrhées aiguës : présentation / causes",
+    "colonnes": [
+      "Présentation",
+      "Causes"
+    ],
+    "lignes": [
+      [
+        "Hydro-électrolytique (aqueuse)",
+        "Virales (adénovirus, rotavirus), TIAC (staphylocoque doré, salmonelle), E. coli, choléra, stress"
+      ],
+      [
+        "Glairo-sanglante",
+        "Shigelle, yersiniose, post-antibiotiques (C. difficile), ischémique"
+      ],
+      [
+        "Syndrome dysentérique (selles afécales)",
+        "Dysenterie amibienne, bacillaire, recto-colite hémorragique"
+      ]
+    ]
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/tableau-003",
+    "titre": "Constipation : progression vs évacuation",
+    "colonnes": [
+      "Critère",
+      "Anomalie de progression",
+      "Anomalie d'évacuation"
+    ],
+    "lignes": [
+      [
+        "Besoin",
+        "Pas de besoin entre les exonérations",
+        "Souvent présent"
+      ],
+      [
+        "Selles",
+        "Dures, < 3/semaine",
+        "Difficulté d'exonération"
+      ],
+      [
+        "Toucher rectal",
+        "—",
+        "Matières présentes"
+      ],
+      [
+        "Signes",
+        "± ballonnement, ± douleur",
+        "Manœuvres digitales"
+      ],
+      [
+        "Causes",
+        "Inertie colique, côlon spastique",
+        "Anisme, mégarectum, rectocèle, procidence interne, anomalie de sensibilité rectale, plancher pelvien descendant"
+      ]
+    ]
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/tableau-004",
+    "titre": "Constipation organique : causes",
+    "colonnes": [
+      "Groupe",
+      "Causes"
+    ],
+    "lignes": [
+      [
+        "Digestives",
+        "Cancer colorectal, tumeurs bénignes, sténoses, mégacôlon congénital, fissure, séquelles de chirurgie anorectale, compressions extrinsèques"
+      ],
+      [
+        "Endocriniennes et métaboliques",
+        "Hypothyroïdie, hyperparathyroïdie, insuffisance rénale, hypokaliémie, porphyrie"
+      ],
+      [
+        "Neurologiques et psychogènes",
+        "Dysautonomie (diabète, amylose), Parkinson, SEP, AVC, tumeur cérébrale, dépression, démence, psychose"
+      ],
+      [
+        "Médicamenteuses",
+        "Opiacés, anticholinergiques, anticonvulsivants, neuroleptiques"
+      ]
+    ]
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/carte-001",
+    "type": "carte",
+    "titre": "Troubles du transit",
+    "racine": {
+      "label": "Troubles du transit",
+      "enfants": [
+        {
+          "label": "Diarrhée aiguë (< 2 sem)",
+          "enfants": [
+            {
+              "label": "Hydro-électrolytique",
+              "enfants": []
+            },
+            {
+              "label": "Glairo-sanglante",
+              "enfants": []
+            },
+            {
+              "label": "Signes de gravité",
+              "enfants": []
+            },
+            {
+              "label": "Coproculture",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Diarrhée chronique (> 1 mois)",
+          "enfants": [
+            {
+              "label": "Malabsorption",
+              "enfants": []
+            },
+            {
+              "label": "Motrice",
+              "enfants": []
+            },
+            {
+              "label": "Sécrétoire",
+              "enfants": []
+            },
+            {
+              "label": "Osmotique",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Diagnostics différentiels",
+          "enfants": [
+            {
+              "label": "Fausse diarrhée du constipé",
+              "enfants": []
+            },
+            {
+              "label": "Syndrome dysentérique",
+              "enfants": []
+            },
+            {
+              "label": "Incontinence fécale",
+              "enfants": []
+            },
+            {
+              "label": "Syndrome rectal",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Constipation",
+          "enfants": [
+            {
+              "label": "Rome IV",
+              "enfants": []
+            },
+            {
+              "label": "Progression",
+              "enfants": []
+            },
+            {
+              "label": "Évacuation",
+              "enfants": []
+            },
+            {
+              "label": "Drapeaux rouges",
+              "enfants": []
+            },
+            {
+              "label": "Causes organiques",
+              "enfants": []
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

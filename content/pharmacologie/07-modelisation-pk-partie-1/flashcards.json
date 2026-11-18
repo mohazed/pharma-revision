@@ -1,0 +1,236 @@
+[
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/flash-001",
+    "recto": "Définition de la pharmacocinétique",
+    "verso": "Étude du devenir d'un médicament dans l'organisme en fonction du temps (action de l'organisme sur le médicament : système ADME).",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/flash-002",
+    "recto": "Deux volets de la pharmacocinétique",
+    "verso": "Descriptive (décrit l'action de l'organisme sur le médicament) et quantitative (quantifie les processus par modélisation mathématique).",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/flash-003",
+    "recto": "Intérêts de la pharmacocinétique quantitative",
+    "verso": "Schéma posologique, suivi (monitoring) thérapeutique, adaptation des posologies, évaluation de la bioéquivalence.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/flash-004",
+    "recto": "Définition d'un modèle pharmacocinétique",
+    "verso": "Représentation mathématique du comportement d'un médicament dans l'organisme.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/flash-005",
+    "recto": "Approche non compartimentale",
+    "verso": "Corps humain ≠ compartiments ; paramètres déduits de points expérimentaux (Cmax, Tmax) et de formules simples, sans modèle.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/flash-006",
+    "recto": "Définition d'un compartiment",
+    "verso": "Ensemble de molécules ayant la même probabilité d'être affectées au même moment par le même événement.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/flash-007",
+    "recto": "Exemples de compartiments périphériques",
+    "verso": "Superficiels : muscle ; profonds : os.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/flash-008",
+    "recto": "Coefficient de résorption f",
+    "verso": "Fraction (%) de la dose administrée ayant été résorbée.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/flash-009",
+    "recto": "Ka (unité, définition)",
+    "verso": "1/h ; constante de vitesse du transfert total du médicament de l'extérieur vers l'intérieur de l'organisme à travers toute membrane.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/flash-010",
+    "recto": "Coefficient d'extraction E",
+    "verso": "Fraction (%) extraite par un organe à chaque passage et soustraite à la circulation générale.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/flash-011",
+    "recto": "Biodisponibilité absolue F",
+    "verso": "Fraction (%) d'un médicament qui, après administration, passe dans la circulation générale.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/flash-012",
+    "recto": "Unité de l'AUC",
+    "verso": "µg.h/ml",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/flash-013",
+    "recto": "Volume apparent de distribution",
+    "verso": "Volume fictif ; rapport quantité dans l'organisme / concentration plasmatique à l'équilibre (l ou l/kg).",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/flash-014",
+    "recto": "Kd",
+    "verso": "Constante de vitesse (1/h) du passage du compartiment central vers les autres compartiments.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/flash-015",
+    "recto": "Vd < 10 l (< 0,15 l/kg) : signification et exemples",
+    "verso": "Distribution limitée à la circulation sanguine ; warfarine, phénylbutazone.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/flash-016",
+    "recto": "Vd 10–50 l : signification et exemples",
+    "verso": "Volumes compatibles avec les compartiments physiologiques ; amoxicilline, furosémide.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/flash-017",
+    "recto": "Vd 50–200 l : exemples",
+    "verso": "Digitaline, phénobarbital (distribution élevée).",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/flash-018",
+    "recto": "Vd 200–1000 l : exemples",
+    "verso": "Digoxine, péthidine.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/flash-019",
+    "recto": "Vd 1000–5000 l : exemples",
+    "verso": "Chlorpromazine, halopéridol.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/flash-020",
+    "recto": "Vd > 5000 l : exemple",
+    "verso": "Chloroquine.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/flash-021",
+    "recto": "Clairance totale (définition, unité)",
+    "verso": "Volume sanguin totalement débarrassé d'une substance par unité de temps (ml/min) ; capacité d'épuration.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/flash-022",
+    "recto": "Classes de T1/2",
+    "verso": "< 2 h très courte ; 2–6 courte ; 6–12 intermédiaire ; 12–30 longue ; > 30 très longue.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/flash-023",
+    "recto": "Équation du modèle monocompartimental IV",
+    "verso": "C = C0·e^(−ke·t) ; log C = log C0 − (ke/2,303)·t",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/flash-024",
+    "recto": "Calcul de ke à partir de la pente a",
+    "verso": "ke = −2,303 × a, avec a = (log C2 − log C1)/(t2 − t1)",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/flash-025",
+    "recto": "Temps de demi-vie d'élimination",
+    "verso": "t1/2 = ln2/ke = 0,693/ke ; graphiquement t2 − t1 quand C2 = C1/2.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/flash-026",
+    "recto": "AUC par la méthode des trapèzes",
+    "verso": "Aire n°1 = (C1 + C2)/2 × (t2 − t1) ; aire totale = somme des aires.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/flash-027",
+    "recto": "AUC0→∞ (mono IV, méthode mathématique)",
+    "verso": "AUC = Cp0 / ke",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/flash-028",
+    "recto": "Volume de distribution (mono IV)",
+    "verso": "Vd = Q / Cp0",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/flash-029",
+    "recto": "Clairance totale (décomposition)",
+    "verso": "Cl totale = Cl rénale + Cl extrarénale",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/flash-030",
+    "recto": "Clairance rénale",
+    "verso": "Cl = U × V / Cp (U concentration urinaire, V diurèse).",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/flash-031",
+    "recto": "Relation clairance – ke – Vd",
+    "verso": "Cl = ke × Vd",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/flash-032",
+    "recto": "Équation du modèle monocompartimental oral",
+    "verso": "Cp = E·e^(−ke·t) − A·e^(−ka·t)",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/flash-033",
+    "recto": "Méthode des résidus",
+    "verso": "Résidus A = |C'p extrapolée − Cexp| ; tracés en log, ils donnent la droite d'absorption → ka.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/flash-034",
+    "recto": "t1/2 d'absorption",
+    "verso": "t1/2a = ln2 / ka",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/flash-035",
+    "recto": "Biodisponibilité selon f et E",
+    "verso": "F = f(1 − E)",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/flash-036",
+    "recto": "AUC0→∞ (mono oral)",
+    "verso": "AUC = E/ke − A/ka",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/flash-037",
+    "recto": "Clairance (voie orale)",
+    "verso": "Cl = Q × F / AUC",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/flash-038",
+    "recto": "Vd à partir de Cl",
+    "verso": "Vd = Cl / ke",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/flash-039",
+    "recto": "Papier millimétrique vs semi-logarithmique",
+    "verso": "Millimétrique : on porte log C ; semi-log : on porte directement C (cycles 1–10, 10–100, 100–1000).",
+    "tags": []
+  }
+]

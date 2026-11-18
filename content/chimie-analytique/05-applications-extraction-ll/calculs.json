@@ -1,0 +1,244 @@
+[
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/calcul-001",
+    "titre": "Taux de distribution d'un acide faible",
+    "enonce": "Un acide faible a un coefficient de partage λ = {lam} et un pKa = {pKa}. Calculer D lorsque la phase aqueuse est à pH = {pH}.",
+    "variables": {
+      "lam": {
+        "min": 1,
+        "max": 50,
+        "pas": 1,
+        "unite": ""
+      },
+      "pKa": {
+        "min": 3,
+        "max": 6,
+        "pas": 0.5,
+        "unite": ""
+      },
+      "pH": {
+        "min": 1,
+        "max": 9,
+        "pas": 0.5,
+        "unite": ""
+      }
+    },
+    "formule": "lam/(1+Math.pow(10,-pKa)/Math.pow(10,-pH))",
+    "unite": "",
+    "decimales": 4,
+    "etapes": [
+      "Étape 1 : Ka = 10^(−pKa) et [H₃O⁺] = 10^(−pH)",
+      "Étape 2 : D = λ/(1 + Ka/[H₃O⁺])"
+    ],
+    "rappel": "Acide : D = λ/(1 + Ka/[H₃O⁺])."
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/calcul-002",
+    "titre": "Taux de distribution d'une base faible",
+    "enonce": "Une base faible a un coefficient de partage λ = {lam} et un pKa (BH⁺/B) = {pKa}. Calculer D à pH = {pH}.",
+    "variables": {
+      "lam": {
+        "min": 1,
+        "max": 50,
+        "pas": 1,
+        "unite": ""
+      },
+      "pKa": {
+        "min": 7,
+        "max": 10,
+        "pas": 0.5,
+        "unite": ""
+      },
+      "pH": {
+        "min": 4,
+        "max": 13,
+        "pas": 0.5,
+        "unite": ""
+      }
+    },
+    "formule": "lam/(1+Math.pow(10,-pH)/Math.pow(10,-pKa))",
+    "unite": "",
+    "decimales": 4,
+    "etapes": [
+      "Étape 1 : Ka = 10^(−pKa) et [H₃O⁺] = 10^(−pH)",
+      "Étape 2 : D = λ/(1 + [H₃O⁺]/Ka)"
+    ],
+    "rappel": "Base : D = λ/(1 + [H₃O⁺]/Ka)."
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/calcul-003",
+    "titre": "Rendement d'extraction d'un acide selon le pH",
+    "enonce": "Un acide faible (λ = {lam}, pKa = {pKa}) dans {VA} mL d'eau à pH {pH} est extrait une fois par {VB} mL de solvant. Calculer le rendement en %.",
+    "variables": {
+      "lam": {
+        "min": 2,
+        "max": 50,
+        "pas": 1,
+        "unite": ""
+      },
+      "pKa": {
+        "min": 3,
+        "max": 6,
+        "pas": 0.5,
+        "unite": ""
+      },
+      "pH": {
+        "min": 1,
+        "max": 7,
+        "pas": 0.5,
+        "unite": ""
+      },
+      "VA": {
+        "min": 20,
+        "max": 100,
+        "pas": 10,
+        "unite": "mL"
+      },
+      "VB": {
+        "min": 10,
+        "max": 100,
+        "pas": 10,
+        "unite": "mL"
+      }
+    },
+    "formule": "100*(1-1/(1+lam/(1+Math.pow(10,pH-pKa))*VB/VA))",
+    "unite": "%",
+    "decimales": 2,
+    "etapes": [
+      "Étape 1 : D = λ/(1 + Ka/[H₃O⁺]) = λ/(1 + 10^(pH − pKa))",
+      "Étape 2 : ρ = 1 − 1/(1 + D·VB/VA)",
+      "Étape 3 : ×100"
+    ],
+    "rappel": "ρ = 1 − 1/(1 + D·VB/VA)."
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/calcul-004",
+    "titre": "Taux de distribution de l'iode en présence d'iodure",
+    "enonce": "λ(I₂) = {lam}, Ks(I₃⁻) = {Ks} L/mol, [I⁻] = {I} mol/L. Calculer D.",
+    "variables": {
+      "lam": {
+        "min": 20,
+        "max": 100,
+        "pas": 5,
+        "unite": ""
+      },
+      "Ks": {
+        "min": 100,
+        "max": 1000,
+        "pas": 50,
+        "unite": "L/mol"
+      },
+      "I": {
+        "min": 0.001,
+        "max": 0.1,
+        "pas": 0.001,
+        "unite": "mol/L"
+      }
+    },
+    "formule": "lam/(1+Ks*I)",
+    "unite": "",
+    "decimales": 3,
+    "etapes": [
+      "Étape 1 : D = [I₂]org/([I₂]aq + [I₃⁻]aq)",
+      "Étape 2 : D = λ/(1 + Ks[I⁻])"
+    ],
+    "rappel": "Un bon rendement nécessite [I⁻] minimale."
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/calcul-005",
+    "titre": "Taux de distribution d'un acide dimérisé",
+    "enonce": "Un acide (λ = {lam}) se dimérise en phase organique avec K₂ = {K2} L/mol ; [AH]org = {C} mol/L. Calculer D.",
+    "variables": {
+      "lam": {
+        "min": 1,
+        "max": 20,
+        "pas": 1,
+        "unite": ""
+      },
+      "K2": {
+        "min": 10,
+        "max": 500,
+        "pas": 10,
+        "unite": "L/mol"
+      },
+      "C": {
+        "min": 0.001,
+        "max": 0.1,
+        "pas": 0.001,
+        "unite": "mol/L"
+      }
+    },
+    "formule": "lam*(1+2*K2*C)",
+    "unite": "",
+    "decimales": 3,
+    "etapes": [
+      "Étape 1 : D = ([AH]org + 2[(AH)₂]org)/[AH]aq",
+      "Étape 2 : D = λ(1 + 2K₂[AH]org)"
+    ],
+    "rappel": "La dimérisation en phase organique augmente D."
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/calcul-006",
+    "titre": "Rendement d'extraction d'un chélate (n = 2)",
+    "enonce": "λM = {lM}, λH = {lH}, Ka(HL) = {Ka}, Ks = {Ks}, [HL]org = C = {C} mol/L, pH = {pH}, VA = {VA} mL, VB = {VB} mL. Calculer le rendement en %.",
+    "variables": {
+      "lM": {
+        "min": 10000,
+        "max": 100000,
+        "pas": 10000,
+        "unite": ""
+      },
+      "lH": {
+        "min": 1000,
+        "max": 10000,
+        "pas": 1000,
+        "unite": ""
+      },
+      "Ka": {
+        "min": 1e-05,
+        "max": 0.0001,
+        "pas": 1e-05,
+        "unite": ""
+      },
+      "Ks": {
+        "min": 1000000000000000.0,
+        "max": 1e+17,
+        "pas": 5000000000000000.0,
+        "unite": ""
+      },
+      "C": {
+        "min": 0.0001,
+        "max": 0.001,
+        "pas": 0.0001,
+        "unite": "mol/L"
+      },
+      "pH": {
+        "min": 1,
+        "max": 5,
+        "pas": 0.5,
+        "unite": ""
+      },
+      "VA": {
+        "min": 50,
+        "max": 200,
+        "pas": 10,
+        "unite": "mL"
+      },
+      "VB": {
+        "min": 5,
+        "max": 50,
+        "pas": 5,
+        "unite": "mL"
+      }
+    },
+    "formule": "100*(1-1/(1+lM/(1+Math.pow(lH,2)*Math.pow(10,-2*pH)/(Ks*C*C*Ka*Ka))*VB/VA))",
+    "unite": "%",
+    "decimales": 2,
+    "etapes": [
+      "Étape 1 : [H⁺] = 10^(−pH)",
+      "Étape 2 : D = λM/(1 + λH²[H⁺]²/(Ks·C²·Ka²))",
+      "Étape 3 : ρ = 1 − 1/(1 + D·VB/VA), ×100"
+    ],
+    "rappel": "D = λM/(1 + λHⁿ[H⁺]ⁿ/(KsCⁿKaⁿ)) ; ρ = 1 − 1/(1 + D·VB/VA)."
+  }
+]

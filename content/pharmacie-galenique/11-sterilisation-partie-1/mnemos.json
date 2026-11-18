@@ -1,0 +1,32 @@
+[
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/mnemo-001",
+    "titre": "Trois verbes de la stérilisation",
+    "moyen": "« DIE » : Détruire, Inactiver, Éliminer",
+    "explication": "Détruire (tuer), Inactiver (rendre non viable de façon permanente), Éliminer (retirer physiquement, filtration)."
+  },
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/mnemo-002",
+    "titre": "Barèmes thermiques",
+    "moyen": "« 121-15, 134-18, 160-2 h, 170-1 h 30, 250-30 »",
+    "explication": "Chaleur humide 121 °C 15–20 min ; ATNC 134 °C 18 min ; chaleur sèche 160 °C 2–3 h ou 170 °C 1,5–2 h ; dépyrogénation 250 °C 30–60 min."
+  },
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/mnemo-003",
+    "titre": "D et z",
+    "moyen": "« D comme Durée, z comme zone de température »",
+    "explication": "D est un temps (min) pour diviser la population par 10 ; z est une élévation de température (°C) pour diviser D par 10."
+  },
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/mnemo-004",
+    "titre": "Indicateur biologique vapeur",
+    "moyen": "« Mauve = Mort des spores ; Jaune = Jamais stérile »",
+    "explication": "Mauve : spores détruites, stérilisation réussie ; jaune : acidification par spores survivantes, échec."
+  },
+  {
+    "id": "pharmacie-galenique/11-sterilisation-partie-1/mnemo-005",
+    "titre": "Germes de référence",
+    "moyen": "« Stéaro à la vapeur, Subtilis au sec »",
+    "explication": "G. stearothermophilus pour la chaleur humide ; B. subtilis pour la chaleur sèche."
+  }
+]

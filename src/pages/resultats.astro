@@ -1,0 +1,9 @@
+---
+import Base from "../layouts/Base.astro";
+import Resultats from "../islands/qcm/Resultats";
+---
+<Base titre="Résultats" description="Votre note sur 20, le détail par cours et la correction question par question." etroit>
+  <Resultats client:only="react">
+    <p slot="fallback" class="py-16 text-center text-ink-muted">Calcul des résultats…</p>
+  </Resultats>
+</Base>

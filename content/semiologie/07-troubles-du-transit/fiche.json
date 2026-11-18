@@ -1,0 +1,57 @@
+{
+  "id": "semiologie/07-troubles-du-transit/fiche",
+  "titre": "Troubles du transit : diarrhées et constipation",
+  "sections": [
+    {
+      "titre": "Transit normal",
+      "points": [
+        "24 h ; 1–2 selles/j ; 78 % d'eau ; pH neutre ; couleur par le stercobilinogène.",
+        "Selles rouges (betterave), noires (fer, bismuth, charbon)."
+      ]
+    },
+    {
+      "titre": "Diarrhée",
+      "points": [
+        "Selles trop liquides, ≥ 3/j ou > 250 g/j ; selles normales fréquentes ≠ diarrhée.",
+        "Mécanismes : hyperkinésie, hypersécrétion, malabsorption, maldigestion ; infectieuses = hypersécrétion + hypermotricité.",
+        "Différentiels : fausse diarrhée du constipé, syndrome dysentérique (épreintes, ténesme), incontinence, syndrome rectal."
+      ]
+    },
+    {
+      "titre": "Diarrhée aiguë (< 2 semaines)",
+      "points": [
+        "Gravité : terrain, déshydratation, sepsis, fièvre au retour de zone palustre.",
+        "Examens : coproculture, parasitologie, recto-sigmoïdoscopie.",
+        "Hydro-électrolytique : virus (le plus souvent), TIAC, E. coli, choléra ; glairo-sanglante : shigelle, yersinia, C. difficile, ischémie.",
+        "ATB dans les 3 mois → toxines de C. difficile."
+      ]
+    },
+    {
+      "titre": "Diarrhée chronique (> 1 mois)",
+      "points": [
+        "Organicité : récente < 3 mois, nocturne, amaigrissement.",
+        "Malabsorption (bouse de vache), motrice (post-prandiale, impérieuse), sécrétoire (persiste au jeûne), osmotique (cède au jeûne, laxatifs)."
+      ]
+    },
+    {
+      "titre": "Constipation",
+      "points": [
+        "< 3 selles/sem (OMS) ; Rome IV : ≥ 2 symptômes, 3 mois sur 6, ≥ 25 % des défécations.",
+        "Progression (pas de besoin, inertie colique) vs évacuation (besoin présent, matières au TR, anisme, rectocèle).",
+        "Drapeaux rouges : AEG, rectorragies, méléna, constipation résistante, syndrome rectal, masse.",
+        "Coloscopie : > 50 ans récente, AEG, rectorragies/anémie, haut risque."
+      ]
+    }
+  ],
+  "aRetenir": [
+    "La majorité des diarrhées aiguës sont infectieuses et spontanément résolutives.",
+    "Rechercher les signes de gravité.",
+    "Bristol 1–2 = constipation."
+  ],
+  "pieges": [
+    "Hypothyroïdie = constipation ; hyperthyroïdie = diarrhée motrice.",
+    "La polypose adénomateuse donne une diarrhée sécrétoire.",
+    "Pancréatite chronique = malabsorption pancréatique (pas atteinte du grêle).",
+    "Les objectifs citent les syndromes cholériforme et gastroentéritique, mais le corps du cours ne les détaille pas."
+  ]
+}

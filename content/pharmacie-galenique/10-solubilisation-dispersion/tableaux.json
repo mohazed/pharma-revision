@@ -1,0 +1,112 @@
+[
+  {
+    "id": "pharmacie-galenique/10-solubilisation-dispersion/tableau-001",
+    "titre": "Termes descriptifs de la solubilité",
+    "colonnes": [
+      "Terme descriptif",
+      "Volumes approximatifs de solvant"
+    ],
+    "lignes": [
+      [
+        "Très soluble",
+        "Moins de 1"
+      ],
+      [
+        "Facilement soluble",
+        "De 1 à 10"
+      ],
+      [
+        "Soluble",
+        "De 10 à 30"
+      ],
+      [
+        "Assez soluble",
+        "De 30 à 100"
+      ],
+      [
+        "Peu soluble",
+        "De 100 à 1 000"
+      ],
+      [
+        "Très peu soluble",
+        "De 1 000 à 10 000"
+      ],
+      [
+        "Pratiquement insoluble",
+        "Plus de 10 000"
+      ]
+    ]
+  },
+  {
+    "id": "pharmacie-galenique/10-solubilisation-dispersion/tableau-002",
+    "titre": "Méthodes pour augmenter la solubilité",
+    "colonnes": [
+      "Méthode",
+      "Principe",
+      "Exemple"
+    ],
+    "lignes": [
+      [
+        "Co-solvants",
+        "Solvant organique miscible à l'eau",
+        "Éthanol, glycérine, propylène glycol, PEG (phénobarbital injectable)"
+      ],
+      [
+        "Hydrotropie",
+        "Grandes quantités d'additifs",
+        "Benzoate de sodium + caféine"
+      ],
+      [
+        "Ajustement du pH",
+        "Acides/bases faibles : solubilité dépendante du pH",
+        "NaOH (phénobarbital, Valium® qsp pH 6,5)"
+      ],
+      [
+        "Solubilisation micellaire",
+        "Incorporation dans/sur des micelles au-delà de la CMC",
+        "Tensioactifs"
+      ],
+      [
+        "Complexation",
+        "Complexe d'inclusion soluble (hôte/invité)",
+        "Cyclodextrines"
+      ],
+      [
+        "Dispersion solide",
+        "PA dispersé à l'état solide dans un véhicule inerte hydrosoluble",
+        "—"
+      ]
+    ]
+  },
+  {
+    "id": "pharmacie-galenique/10-solubilisation-dispersion/tableau-003",
+    "titre": "Types de dispersions",
+    "colonnes": [
+      "Type",
+      "Phase dispersée",
+      "Milieu dispersant"
+    ],
+    "lignes": [
+      [
+        "Émulsion",
+        "Liquide",
+        "Liquide"
+      ],
+      [
+        "Suspension",
+        "Solide",
+        "Liquide"
+      ],
+      [
+        "Mousse",
+        "Gaz",
+        "Liquide"
+      ],
+      [
+        "Aérosol",
+        "Solide ou liquide",
+        "Gaz"
+      ]
+    ]
+  }
+]

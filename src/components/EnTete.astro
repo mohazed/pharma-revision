@@ -1,0 +1,11 @@
+---
+// En-tête de page : surtitre, titre, sous-titre.
+interface Props { surtitre?: string; titre: string; sousTitre?: string }
+const { surtitre, titre, sousTitre } = Astro.props;
+---
+<div class="mb-5 flex flex-col gap-1">
+  {surtitre && <p class="surtitre">{surtitre}</p>}
+  <h1 class="text-2xl sm:text-3xl">{titre}</h1>
+  {sousTitre && <p class="max-w-2xl text-ink-muted">{sousTitre}</p>}
+  <slot />
+</div>

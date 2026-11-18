@@ -1,0 +1,149 @@
+/*
+ * PharmaRévision — jetons de design (design tokens)
+ * =================================================
+ * Direction retenue : « Officine moderne » · palette Émeraude · clair par défaut
+ * (mode sombre dans Paramètres) · titres Nunito · arrondi fort · animations normales ·
+ * une couleur par module · motif hexagonal en fond.
+ * Référence : design/directions.html (Direction 1).
+ *
+ * TOUTE l'identité visuelle passe par ces variables : pour changer de direction,
+ * modifiez ce fichier (et les composants de src/styles/composants.css si besoin).
+ *
+ * Attributs posés sur <html> (voir src/layouts/Base.astro) :
+ *   data-theme="light" | "dark"     → thème clair (défaut) / sombre
+ *   data-motion="full" | "reduced"  → animations normales / réduites (réglage ou prefers-reduced-motion)
+ *
+ * Accessibilité : l'émeraude de la maquette (#0f9d76) n'atteint que 3,4:1 avec du texte
+ * blanc. Elle est donc utilisée pour les aplats décoratifs (jauges, dégradés, anneaux),
+ * tandis que les boutons et le texte coloré utilisent des teintes plus profondes
+ * (--pr-btn-bg, --pr-primary-ink) qui respectent le contraste AA.
+ */
+
+:root {
+  /* ---------- Typographie ---------- */
+  --pr-font-heading: "Nunito Variable", "Nunito", ui-rounded, system-ui, sans-serif;
+  --pr-font-body: "Inter Variable", "Inter", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --pr-font-mono: ui-monospace, "SF Mono", Menlo, Consolas, monospace;
+  --pr-heading-weight: 800;
+  --pr-heading-tracking: -0.01em;
+
+  /* ---------- Surfaces & texte (Officine moderne, clair) ---------- */
+  --pr-bg: #f4f8f6;
+  --pr-surface: #ffffff;
+  --pr-surface-2: #e9f3ef;      /* = « soft » : accent 14 % sur surface, figé pour la lisibilité */
+  --pr-border: #dbe6e1;
+  --pr-text: #12251e;
+  --pr-text-muted: #5a6d65;
+
+  /* ---------- Marque : palette Émeraude ---------- */
+  --pr-primary: #0f9d76;        /* accent (aplats, jauges, dégradés) */
+  --pr-primary-2: #0e6f78;      /* accent secondaire (fin des dégradés) */
+  --pr-primary-ink: #0b7f60;    /* texte coloré sur fond clair (AA) */
+  --pr-primary-strong: #0a6e53; /* survol */
+  --pr-btn-bg: #0b7f60;         /* fond des boutons gélule (AA avec texte blanc) */
+  --pr-on-primary: #ffffff;
+  --pr-soft: color-mix(in oklab, var(--pr-primary) 14%, var(--pr-surface));
+  --pr-accent: #0e6f78;
+  --pr-on-accent: #ffffff;
+  --pr-gradient: linear-gradient(135deg, var(--pr-primary), var(--pr-primary-2));
+  --pr-gradient-h: linear-gradient(90deg, var(--pr-primary), var(--pr-primary-2));
+
+  /* ---------- États (juste / faux) ---------- */
+  --pr-success: #16a34a;
+  --pr-success-ink: color-mix(in oklab, #16a34a 80%, #000);
+  --pr-success-soft: color-mix(in oklab, #16a34a 12%, #fff);
+  --pr-danger: #dc2626;
+  --pr-danger-ink: color-mix(in oklab, #dc2626 85%, #000);
+  --pr-danger-soft: color-mix(in oklab, #dc2626 11%, #fff);
+  --pr-warning: #e8890c;
+  --pr-warning-ink: #9a5a06;
+  --pr-warning-soft: color-mix(in oklab, #e8890c 14%, #fff);
+  --pr-info: #1d6fb8;
+  --pr-info-soft: color-mix(in oklab, #3b82f6 13%, #fff);
+
+  /* ---------- Une couleur par module (content/modules.json → "couleur") ---------- */
+  --pr-mod-bleu: #3b82f6;       /* Pharmacologie */
+  --pr-mod-vert: #3fa34d;       /* Pharmacognosie */
+  --pr-mod-orange: #f08a24;     /* Pharmacie galénique */
+  --pr-mod-violet: #8b5cf6;     /* Chimie analytique */
+  --pr-mod-indigo: #4f46e5;     /* Chimie thérapeutique */
+  --pr-mod-rose: #e0517a;       /* Sémiologie */
+  --pr-mod-gris: #64748b;
+  --pr-mod-ink-mix: 68%;        /* texte coloré du module = couleur mêlée de noir (contraste) */
+  --pr-mod-ink-base: #000;
+
+  /* ---------- Formes : arrondi fort ---------- */
+  --pr-radius-sm: 14px;         /* touches A–E, petites boîtes */
+  --pr-radius-md: 13px;         /* boîtes internes (≈ 0,6 × carte) */
+  --pr-radius-lg: 22px;         /* cartes, propositions */
+  --pr-radius-pill: 999px;      /* boutons « gélule », puces */
+  --pr-border-width: 1px;
+
+  /* ---------- Ombres ---------- */
+  --pr-card-border: transparent;
+  --pr-shadow-sm: 0 1px 2px rgba(10, 40, 30, 0.06), 0 8px 24px -14px rgba(10, 60, 45, 0.25);
+  --pr-shadow-md: 0 2px 4px rgba(10, 40, 30, 0.06), 0 14px 30px -16px rgba(10, 60, 45, 0.3);
+  --pr-shadow-lg: 0 14px 30px -18px rgba(0, 0, 0, 0.35), 0 4px 12px rgba(10, 40, 30, 0.08);
+
+  /* ---------- Focus ---------- */
+  --pr-focus: #0b7f60;
+  --pr-focus-width: 2px;
+
+  /* ---------- Mouvement : normal ---------- */
+  --pr-motion-scale: 1;
+  --pr-dur: 0.42s;              /* durée de référence (les composants en prennent des multiples) */
+  --pr-duration-fast: 0.18s;
+  --pr-duration-base: 0.42s;
+  --pr-duration-slow: 0.9s;
+  --pr-ease: cubic-bezier(0.2, 0.8, 0.2, 1);
+
+  /* ---------- Motif de fond : hexagones ---------- */
+  --pr-pattern-opacity: 0.07;   /* 0 pour désactiver */
+  --pr-pattern-size: 42px 72px;
+  --pr-pattern-mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='42' height='72' viewBox='0 0 42 72'%3E%3Cpath d='M21 2 39 12.5v21L21 44 3 33.5v-21z M21 44v28 M3 12.5 -15 2 M39 12.5 57 2 M3 33.5-15 44 M39 33.5 57 44' fill='none' stroke='black' stroke-width='1.6'/%3E%3C/svg%3E");
+
+  color-scheme: light;
+}
+
+[data-theme="dark"] {
+  --pr-bg: #0c1613;
+  --pr-surface: #13201c;
+  --pr-surface-2: #183029;
+  --pr-border: #24362f;
+  --pr-text: #e3f1eb;
+  --pr-text-muted: #8ea69c;
+
+  --pr-primary-ink: #2fc497;
+  --pr-primary-strong: #0a6e53;
+  --pr-focus: #2fc497;
+
+  --pr-success: #4ade80;
+  --pr-success-ink: #4ade80;
+  --pr-success-soft: color-mix(in oklab, #4ade80 12%, #13201c);
+  --pr-danger: #f87171;
+  --pr-danger-ink: #f87171;
+  --pr-danger-soft: color-mix(in oklab, #f87171 11%, #13201c);
+  --pr-warning: #f5a623;
+  --pr-warning-ink: #f5a623;
+  --pr-warning-soft: color-mix(in oklab, #f5a623 13%, #13201c);
+  --pr-info: #7db4f5;
+  --pr-info-soft: color-mix(in oklab, #3b82f6 18%, #13201c);
+
+  --pr-mod-ink-mix: 70%;
+  --pr-mod-ink-base: #fff;
+
+  --pr-card-border: var(--pr-border);
+  --pr-shadow-sm: none;
+  --pr-shadow-md: 0 8px 24px -14px rgba(0, 0, 0, 0.6);
+  --pr-shadow-lg: 0 14px 30px -18px rgba(0, 0, 0, 0.7);
+
+  color-scheme: dark;
+}
+
+[data-motion="reduced"] {
+  --pr-motion-scale: 0;
+  --pr-dur: 0s;
+  --pr-duration-fast: 0s;
+  --pr-duration-base: 0s;
+  --pr-duration-slow: 0s;
+}

@@ -1,0 +1,123 @@
+[
+  {
+    "id": "pharmacologie/09-biodisponibilite/cas-001",
+    "titre": "Développement d'une nouvelle forme orale",
+    "enonce": "Un laboratoire développe un comprimé d'un nouveau PA. Chez 12 volontaires sains, on administre 100 mg IV puis, après wash-out, 200 mg par voie orale. ASC IV = 20 mg.h/L ; ASC orale = 28 mg.h/L. La pharmacocinétique est linéaire.",
+    "questions": [
+      {
+        "id": "pharmacologie/09-biodisponibilite/cas-001-q1",
+        "type": "unique",
+        "enonce": "Il s'agit de déterminer :",
+        "options": [
+          "La clairance rénale",
+          "La biodisponibilité relative",
+          "La bioéquivalence",
+          "La biodisponibilité absolue",
+          "L'index thérapeutique"
+        ],
+        "correctes": [
+          3
+        ],
+        "explication": "La référence est la voie IV : biodisponibilité absolue (nouveau médicament).",
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacologie/09-biodisponibilite/cas-001-q2",
+        "type": "unique",
+        "enonce": "F vaut :",
+        "options": [
+          "0,7",
+          "1,4",
+          "0,56",
+          "0,35",
+          "0,28"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "F = (28 × 100)/(20 × 200) = 2800/4000 = 0,7.",
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacologie/09-biodisponibilite/cas-001-q3",
+        "type": "multiple",
+        "enonce": "Interprétation :",
+        "options": [
+          "F est proche de 0 : voie inutilisable",
+          "F est inférieure à la limite acceptable de 0,75",
+          "La biodisponibilité orale est totale",
+          "Pour 200 mg, 140 mg atteignent la circulation générale",
+          "L'acceptabilité dépend aussi de l'index thérapeutique du PA"
+        ],
+        "correctes": [
+          1,
+          3,
+          4
+        ],
+        "explication": "0,7 < 0,75, mais l'acceptabilité dépend de l'index thérapeutique ; Q = 200 × 0,7 = 140 mg.",
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "pharmacologie/09-biodisponibilite/cas-002",
+    "titre": "Changement de forme galénique",
+    "enonce": "Un PA commercialisé en comprimé doit être proposé en gélule. La gélule donne ASC = 95 mg.h/L, Cmax = 8 mg/L, Tmax = 3 h ; le comprimé de référence donne ASC = 100 mg.h/L, Cmax = 12 mg/L, Tmax = 1,5 h, à la même dose.",
+    "questions": [
+      {
+        "id": "pharmacologie/09-biodisponibilite/cas-002-q1",
+        "type": "unique",
+        "enonce": "Quelle étude est obligatoire ?",
+        "options": [
+          "Essai de phase III",
+          "Pharmacovigilance seule",
+          "Biodisponibilité relative",
+          "Biodisponibilité absolue",
+          "Aucune"
+        ],
+        "correctes": [
+          2
+        ],
+        "explication": "Le passage de comprimé à gélule est une nouvelle forme galénique : biodisponibilité relative obligatoire.",
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacologie/09-biodisponibilite/cas-002-q2",
+        "type": "unique",
+        "enonce": "La biodisponibilité relative de la gélule est :",
+        "options": [
+          "66 %",
+          "200 %",
+          "5 %",
+          "95 %",
+          "105 %"
+        ],
+        "correctes": [
+          3
+        ],
+        "explication": "BR = 95/100 × 100 = 95 %.",
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacologie/09-biodisponibilite/cas-002-q3",
+        "type": "multiple",
+        "enonce": "Interprétation :",
+        "options": [
+          "La gélule risque un délai d'action plus long",
+          "Les Cmax et Tmax diffèrent : la comparaison des AUC seule ne suffit pas",
+          "Les AUC sont proches",
+          "La vitesse d'absorption de la gélule est plus lente (Tmax plus long)",
+          "Les deux formes sont forcément interchangeables"
+        ],
+        "correctes": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explication": "AUC proches mais Cmax plus faible et Tmax doublé : absorption plus lente et délai d'action plus long ; l'égalité des AUC ne suffit pas.",
+        "origine": "genere"
+      }
+    ]
+  }
+]

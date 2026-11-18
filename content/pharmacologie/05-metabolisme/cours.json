@@ -1,0 +1,13 @@
+{
+  "id": "pharmacologie/05-metabolisme",
+  "module": "pharmacologie",
+  "ordre": 5,
+  "titre": "Métabolisme des médicaments",
+  "type": "cours",
+  "source": {
+    "driveId": "1smpcwoaRbIVkXz1pswDFTRQKm_bSuo36",
+    "fichier": "4. Métabolisme Des Médicaments.pptx",
+    "modifiedTime": "2026-11-13T14:45:44.651Z"
+  },
+  "resume": "Transformation enzymatique des médicaments en métabolites : lieux (foie +++), intérêt, conséquences, réactions de phase I (oxydation à CYP450, réduction, hydrolyse) et de phase II (conjugaisons), effet de premier passage et facteurs modifiant le métabolisme (âge, sexe, génétique, insuffisances, induction et inhibition enzymatiques)."
+}

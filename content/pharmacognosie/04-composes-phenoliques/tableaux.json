@@ -1,0 +1,260 @@
+[
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/tableau-001",
+    "titre": "Drogues à dérivés phénoliques simples",
+    "colonnes": [
+      "Drogue",
+      "Origine botanique",
+      "Partie utilisée",
+      "Constituants",
+      "Emplois"
+    ],
+    "lignes": [
+      [
+        "Busserole",
+        "Arctostaphylos uva-ursi (Ericaceae)",
+        "Feuilles séchées",
+        "Arbutoside 6–10 %, méthyl-arbutoside, tanins galliques, flavonoïdes, triterpènes",
+        "Infections urinaires basses légères et récidivantes de la femme (7 j max)"
+      ],
+      [
+        "Arbousier",
+        "Arbutus unedo (Ericaceae)",
+        "Sommités fleuries (feuilles étudiées)",
+        "Peu d'arbutoside, proanthocyanidols, flavonoïdes, tanins",
+        "—"
+      ],
+      [
+        "Reine-des-prés",
+        "Filipendula ulmaria (Rosaceae)",
+        "Sommités fleuries séchées",
+        "Monotropitoside, salicylate de méthyle, spiréoside, ellagitanins, salicylaldéhyde (H.E.)",
+        "Adjuvant du rhume, douleurs articulaires mineures, élimination rénale de l'eau"
+      ],
+      [
+        "Saule",
+        "Salix alba, S. purpurea, S. daphnoides, S. fragilis (Salicaceae)",
+        "Écorce de jeunes rameaux",
+        "Salicine, salicortine, trémulacine (≥ 1,5 % en salicine), proanthocyanidols, flavonoïdes",
+        "Douleurs articulaires, fièvre, céphalées ; lombalgies (usage bien établi)"
+      ],
+      [
+        "Artichaut",
+        "Cynara scolymus (Asteraceae)",
+        "Feuille séchée",
+        "Acide chlorogénique, cynarine, cynaroside, cynaropicrine",
+        "Cholérétique ; troubles digestifs fonctionnels"
+      ],
+      [
+        "Romarin",
+        "Salvia rosmarinus (Lamiaceae)",
+        "Feuille entière séchée",
+        "H.E. (cinéole, bornéol), acides rosmarinique et caféique, acide carnosique, carnosol, flavonoïdes",
+        "Dyspepsie, spasmes digestifs ; usage externe : douleurs, troubles circulatoires"
+      ]
+    ]
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/tableau-002",
+    "titre": "Classes de composés phénoliques",
+    "colonnes": [
+      "Squelette",
+      "Nombre de C",
+      "Classe",
+      "Exemples",
+      "Voie"
+    ],
+    "lignes": [
+      [
+        "C6",
+        "6",
+        "Phénols simples",
+        "Catéchol, hydroquinone",
+        "Shikimate"
+      ],
+      [
+        "C6–C1",
+        "7",
+        "Acides hydroxybenzoïques et dérivés",
+        "Acides salicylique, p-hydroxybenzoïque, gallique ; vanilline, saligénine",
+        "Shikimate"
+      ],
+      [
+        "C6–C3",
+        "9",
+        "Acides hydroxycinnamiques",
+        "Acides caféique, férulique",
+        "Shikimate"
+      ],
+      [
+        "C6–C3 cyclisé",
+        "9",
+        "Coumarines",
+        "Coumarine, ombelliférone",
+        "Shikimate"
+      ],
+      [
+        "(C6–C3)2",
+        "18",
+        "Lignanes",
+        "Sésamine, pinorésinol",
+        "Shikimate"
+      ],
+      [
+        "(C6–C3)n",
+        "> 30",
+        "Lignines",
+        "Polymères de la paroi",
+        "Shikimate"
+      ],
+      [
+        "C6–C2–C6",
+        "14",
+        "Stilbènes",
+        "Resvératrol",
+        "Mixte"
+      ],
+      [
+        "C6–C3–C6",
+        "15",
+        "Flavonoïdes",
+        "Quercétine, lutéoline, naringénine, génistéine, catéchine, cyanidine",
+        "Mixte"
+      ],
+      [
+        "(C6–C3–C6)2",
+        "30",
+        "Biflavonoïdes",
+        "Amentoflavone",
+        "Mixte"
+      ],
+      [
+        "(C6–C3–C6)n",
+        "> 30",
+        "Tanins condensés",
+        "Procyanidines, prodelphinidines",
+        "Mixte"
+      ]
+    ]
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/tableau-003",
+    "titre": "Méthodes d'analyse des composés phénoliques",
+    "colonnes": [
+      "Méthode",
+      "Cible / principe"
+    ],
+    "lignes": [
+      [
+        "FeCl3",
+        "Réaction générale : complexes bleus à vert noirâtre"
+      ],
+      [
+        "Réaction à la cyanidine",
+        "Flavonoïdes"
+      ],
+      [
+        "Virage selon le pH",
+        "Anthocyanes"
+      ],
+      [
+        "Bate-Smith",
+        "Tanins condensés"
+      ],
+      [
+        "Stiasny",
+        "Précipitation des tanins condensés"
+      ],
+      [
+        "Folin-Ciocalteu",
+        "Polyphénols totaux (mg EAG/g)"
+      ],
+      [
+        "AlCl3",
+        "Flavonoïdes totaux"
+      ],
+      [
+        "HPLC-DAD / HPLC-MS",
+        "Séparation, quantification / identification structurale"
+      ],
+      [
+        "DPPH, ABTS, FRAP",
+        "Activité antioxydante (propriété fonctionnelle)"
+      ]
+    ]
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/tableau-004",
+    "type": "carte",
+    "titre": "Composés phénoliques",
+    "racine": {
+      "label": "Composés phénoliques",
+      "enfants": [
+        {
+          "label": "Voie du shikimate",
+          "enfants": [
+            {
+              "label": "Phénols simples, acides phénols",
+              "enfants": []
+            },
+            {
+              "label": "Coumarines",
+              "enfants": []
+            },
+            {
+              "label": "Lignanes, lignines",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Voie mixte",
+          "enfants": [
+            {
+              "label": "Flavonoïdes",
+              "enfants": []
+            },
+            {
+              "label": "Stilbènes",
+              "enfants": []
+            },
+            {
+              "label": "Tanins",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Voie de l'acétate",
+          "enfants": [
+            {
+              "label": "Phloroglucinols, orcinols",
+              "enfants": []
+            },
+            {
+              "label": "Quinones",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Drogues",
+          "enfants": [
+            {
+              "label": "Phénols simples : busserole, arbousier",
+              "enfants": []
+            },
+            {
+              "label": "Salicylés : reine-des-prés, saule",
+              "enfants": []
+            },
+            {
+              "label": "Cinnamiques : artichaut, romarin",
+              "enfants": []
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,224 @@
+[
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/tableau-001",
+    "titre": "Drogues à lipides d'intérêt pharmaceutique",
+    "colonnes": [
+      "Drogue",
+      "Origine botanique",
+      "Partie utilisée",
+      "Constituants",
+      "Emplois"
+    ],
+    "lignes": [
+      [
+        "Huile d'olive",
+        "Olea europaea (Oleaceae)",
+        "Drupes mûres (drogue : feuilles, fruits)",
+        "Ac. oléique 56–85 %, palmitique, linoléique ; insaponifiable < 1,5 %",
+        "Cholérétique, cholagogue, émollient ; raffinée : solvant injectable"
+      ],
+      [
+        "Huile d'arachide",
+        "Arachis hypogaea (Fabaceae)",
+        "Graines décortiquées",
+        "Oléique 35–72 %, linoléique, arachidique ; α-tocophérol 65 % de l'insaponifiable",
+        "Excipient (mébévérine, allopurinol), huile hydrogénée"
+      ],
+      [
+        "Huile de ricin",
+        "Ricinus communis (Euphorbiaceae)",
+        "Graines (pression à froid)",
+        "Acide ricinoléique 90 %",
+        "Purgatif drastique proscrit ; dérivés polyoxyéthylénés (véhicule) ; cils"
+      ],
+      [
+        "Huile de soja",
+        "Glycine soja, G. max (Fabaceae)",
+        "Graines",
+        "Lipides 15–20 %, protéines 35–40 % ; tocophérols (γ majoritaire)",
+        "Alimentation parentérale (émulsion H/E 10–20 %), lécithines"
+      ],
+      [
+        "Onagre",
+        "Oenothera biennis (Onagraceae)",
+        "Graines",
+        "AG insaturés",
+        "Cosmétique : élasticité de l'épiderme, rides"
+      ],
+      [
+        "Bourrache",
+        "Borago officinalis (Boraginaceae)",
+        "Graines (fleurs : usage bronchique)",
+        "Linoléique 30–40 %, γ-linolénique 18–25 %",
+        "Idem onagre ; eczéma atopique, arthrite rhumatoïde"
+      ],
+      [
+        "Avocatier",
+        "Persea americana (Lauraceae)",
+        "Mésocarpe",
+        "Insaponifiable ≈ 1 %",
+        "Parodontopathies, douleurs arthrosiques"
+      ],
+      [
+        "Prunier d'Afrique",
+        "Prunus africana (Rosaceae)",
+        "Écorce",
+        "Complexe lipido-stérolique",
+        "Tadenan : HBP (inhibition de la 5-lipoxygénase)"
+      ],
+      [
+        "Palmier de Floride",
+        "Serenoa repens",
+        "Fruit",
+        "Extrait hexanique lipido-stérolique",
+        "Permixon : HBP"
+      ],
+      [
+        "Beurre de cacao",
+        "Theobroma cacao (Sterculiaceae)",
+        "Graines",
+        "Corps gras",
+        "Excipient de suppositoires"
+      ],
+      [
+        "Huile de coco",
+        "Cocos nucifera (Arecaceae)",
+        "Albumen solide desséché (coprah)",
+        "65 % de lipides dans le coprah",
+        "Glycérides semi-synthétiques"
+      ],
+      [
+        "Huile d'amande",
+        "Prunus dulcis var. dulcis / amara (Rosaceae)",
+        "Graines mûres (pression à froid)",
+        "Huile 50–60 % ; amara : amygdaloside",
+        "Dermopharmacie (après-solaires…), essence d'amande amère"
+      ],
+      [
+        "Huile d'argan",
+        "Argania spinosa",
+        "Graine",
+        "Oléique 45 %, linoléique 35 %",
+        "Peau, cheveux, vergetures, varicelle"
+      ]
+    ]
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/tableau-002",
+    "titre": "Indices chimiques des corps gras",
+    "colonnes": [
+      "Indice",
+      "Définition",
+      "Renseignement"
+    ],
+    "lignes": [
+      [
+        "Acide",
+        "mg KOH pour neutraliser l'acidité libre de 1 g",
+        "Acidité libre"
+      ],
+      [
+        "Saponification",
+        "mg KOH pour saponifier 1 g",
+        "AG totaux, longueur des chaînes"
+      ],
+      [
+        "Iode",
+        "g d'iode fixés par 100 g",
+        "Insaturation : siccative 150–190, demi 100–150, non 75–100"
+      ],
+      [
+        "Peroxyde",
+        "Oxygène fixé par 1 g",
+        "Rancissement précoce"
+      ],
+      [
+        "Insaponifiable",
+        "Résidu non volatil extrait après saponification",
+        "Stérols, tocophérols…"
+      ]
+    ]
+  },
+  {
+    "id": "pharmacognosie/03-drogues-a-lipides/tableau-003",
+    "type": "carte",
+    "titre": "Drogues à lipides",
+    "racine": {
+      "label": "Lipides",
+      "enfants": [
+        {
+          "label": "Structure",
+          "enfants": [
+            {
+              "label": "Simples : glycérides, stérides, cérides",
+              "enfants": []
+            },
+            {
+              "label": "Complexes : phospho-, glycolipides",
+              "enfants": []
+            },
+            {
+              "label": "Caractère lipidique : icosanoïdes, isoprénoïdes",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Obtention",
+          "enfants": [
+            {
+              "label": "Pression / solvants",
+              "enfants": []
+            },
+            {
+              "label": "Raffinage (5 étapes)",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Contrôle",
+          "enfants": [
+            {
+              "label": "Indices acide, saponification, iode, peroxyde",
+              "enfants": []
+            },
+            {
+              "label": "Insaponifiable",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Emplois",
+          "enfants": [
+            {
+              "label": "Injectables : olive, arachide, ricin",
+              "enfants": []
+            },
+            {
+              "label": "Parentéral : soja",
+              "enfants": []
+            },
+            {
+              "label": "AGE : onagre, bourrache",
+              "enfants": []
+            },
+            {
+              "label": "Insaponifiables : avocat, prunier, palmier",
+              "enfants": []
+            },
+            {
+              "label": "Suppositoires : cacao, coco",
+              "enfants": []
+            },
+            {
+              "label": "Dermo : amande, argan",
+              "enfants": []
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

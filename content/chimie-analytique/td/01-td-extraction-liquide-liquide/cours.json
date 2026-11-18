@@ -1,0 +1,13 @@
+{
+  "id": "chimie-analytique/td/01-td-extraction-liquide-liquide",
+  "module": "chimie-analytique",
+  "ordre": 1,
+  "titre": "TD 1 – Extraction liquide-liquide",
+  "type": "td",
+  "source": {
+    "driveId": "1d98pc3q14L1wPfv7nri_81uCFWzfyhF6",
+    "fichier": "1. TD 1 Extraction Liquide Liquide.pdf",
+    "modifiedTime": "2026-10-25T12:05:55.019Z"
+  },
+  "resume": "Exercices d'application (et fiche de rappel) : coefficient de partage, extraction simple, extractions répétées, influence du pH sur acides et bases, dosage caféine/benzoate."
+}

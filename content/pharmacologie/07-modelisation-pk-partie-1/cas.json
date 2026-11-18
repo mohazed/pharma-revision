@@ -1,0 +1,158 @@
+[
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/cas-001",
+    "titre": "Détermination des paramètres après injection IV",
+    "enonce": "Un médicament éliminé exclusivement par voie rénale est injecté par voie IV à la dose de 600 mg. La droite log C = f(t) donne une Cp0 extrapolée de 12 mg/L ; la concentration est de 6 mg/L à 4 h.",
+    "questions": [
+      {
+        "id": "pharmacologie/07-modelisation-pk-partie-1/cas-001-q1",
+        "type": "unique",
+        "enonce": "Le volume de distribution vaut :",
+        "options": [
+          "7,2 L",
+          "50 L",
+          "72 L",
+          "500 L",
+          "0,02 L"
+        ],
+        "correctes": [
+          1
+        ],
+        "explication": "Vd = Q/Cp0 = 600/12 = 50 L.",
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacologie/07-modelisation-pk-partie-1/cas-001-q2",
+        "type": "multiple",
+        "enonce": "Le temps de demi-vie d'élimination et ke valent :",
+        "options": [
+          "ke ≈ 0,347 h⁻¹",
+          "ke = 4 h⁻¹",
+          "t1/2 = 4 h",
+          "ke ≈ 0,173 h⁻¹",
+          "t1/2 = 2 h"
+        ],
+        "correctes": [
+          2,
+          3
+        ],
+        "explication": "La concentration passe de 12 à 6 mg/L (moitié) en 4 h : t1/2 = 4 h ; ke = 0,693/4 ≈ 0,173 h⁻¹.",
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacologie/07-modelisation-pk-partie-1/cas-001-q3",
+        "type": "multiple",
+        "enonce": "La clairance et l'AUC0→∞ valent :",
+        "options": [
+          "AUC ≈ 69,3 mg.h/L",
+          "AUC ≈ 2,08 mg.h/L",
+          "Cl rénale = Cl totale",
+          "Cl ≈ 8,66 L/h",
+          "Cl ≈ 289 L/h"
+        ],
+        "correctes": [
+          0,
+          2,
+          3
+        ],
+        "explication": "Cl = ke × Vd = 0,173 × 50 ≈ 8,66 L/h ; AUC = Cp0/ke = 12/0,173 ≈ 69,3 mg.h/L ; élimination exclusivement rénale donc Cl totale = Cl rénale.",
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacologie/07-modelisation-pk-partie-1/cas-001-q4",
+        "type": "unique",
+        "enonce": "Selon la classification du cours, la T1/2 de ce médicament est :",
+        "options": [
+          "Intermédiaire",
+          "Courte",
+          "Très longue",
+          "Très courte",
+          "Longue"
+        ],
+        "correctes": [
+          1
+        ],
+        "explication": "T1/2 = 4 h : 2 < T1/2 ≤ 6 h → T1/2 courte.",
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "pharmacologie/07-modelisation-pk-partie-1/cas-002",
+    "titre": "Médicament administré par voie orale",
+    "enonce": "Un médicament (f = 0,9 ; E = 0,2) est administré par voie orale à la dose de 500 mg. L'AUC orale est de 36 mg.h/L ; la ke est de 0,1 h⁻¹. La courbe montre une phase ascendante puis une phase terminale linéaire en coordonnées semi-logarithmiques.",
+    "questions": [
+      {
+        "id": "pharmacologie/07-modelisation-pk-partie-1/cas-002-q1",
+        "type": "unique",
+        "enonce": "La biodisponibilité F vaut :",
+        "options": [
+          "0,18",
+          "0,72",
+          "0,7",
+          "1,1",
+          "0,9"
+        ],
+        "correctes": [
+          1
+        ],
+        "explication": "F = f(1 − E) = 0,9 × 0,8 = 0,72.",
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacologie/07-modelisation-pk-partie-1/cas-002-q2",
+        "type": "unique",
+        "enonce": "La clairance vaut :",
+        "options": [
+          "13,9 L/h",
+          "0,1 L/h",
+          "10 L/h",
+          "100 L/h",
+          "7,2 L/h"
+        ],
+        "correctes": [
+          2
+        ],
+        "explication": "Cl = Q × F / AUC = 500 × 0,72/36 = 10 L/h.",
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacologie/07-modelisation-pk-partie-1/cas-002-q3",
+        "type": "unique",
+        "enonce": "Le volume de distribution vaut :",
+        "options": [
+          "10 L",
+          "72 L",
+          "1 L",
+          "100 L",
+          "1000 L"
+        ],
+        "correctes": [
+          3
+        ],
+        "explication": "Vd = Cl/ke = 10/0,1 = 100 L.",
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacologie/07-modelisation-pk-partie-1/cas-002-q4",
+        "type": "multiple",
+        "enonce": "Pour déterminer ka, il faut :",
+        "options": [
+          "Calculer les résidus |C'p − Cexp|",
+          "Utiliser la pente de la phase terminale",
+          "Tracer la droite des résidus en log",
+          "Calculer ka = −2,303 × pente de la droite des résidus",
+          "Extrapoler la droite d'élimination"
+        ],
+        "correctes": [
+          0,
+          2,
+          3,
+          4
+        ],
+        "explication": "ka se calcule par la méthode des résidus ; la pente de la phase terminale donne ke, pas ka.",
+        "origine": "genere"
+      }
+    ]
+  }
+]

@@ -1,0 +1,2142 @@
+[
+  {
+    "id": "semiologie/07-troubles-du-transit/qcm-001",
+    "type": "multiple",
+    "enonce": "Concernant le transit digestif normal, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "La durée normale du transit digestif est de 24 heures",
+      "Les selles normales sont émises 1 à 2 fois par jour",
+      "Elles sont homogènes et moulées",
+      "Leur pH est neutre",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Transit de 24 heures ; selles 1 à 2 fois/jour, homogènes, moulées, pH neutre.",
+    "source": {
+      "page": 4,
+      "extrait": "La durée normale du transit digestif est de 24 heures."
+    },
+    "difficulte": 1,
+    "tags": [
+      "transit normal"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/qcm-002",
+    "type": "unique",
+    "enonce": "Les selles normales sont composées de :",
+    "options": [
+      "50 % d'eau et 50 % de matières sèches",
+      "78 % d'eau et 22 % de matières sèches",
+      "90 % d'eau et 10 % de matières sèches",
+      "22 % d'eau et 78 % de matières sèches",
+      "60 % d'eau et 40 % de matières sèches"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Les selles normales sont formées de 78 % d'eau et 22 % de matières sèches.",
+    "source": {
+      "page": 4,
+      "extrait": "formées de 78 % d'eau et de 22 % de matières sèches"
+    },
+    "difficulte": 1,
+    "tags": [
+      "transit normal"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/qcm-003",
+    "type": "multiple",
+    "enonce": "Concernant la composition et la couleur des selles normales :",
+    "options": [
+      "Les matières sèches sont des résidus cellulosiques indigestibles",
+      "Elles comprennent les produits de la desquamation muqueuse",
+      "La couleur est donnée par le stercobilinogène",
+      "Le stercobilinogène est un produit de dégradation de la bilirubine",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Matières sèches : résidus cellulosiques et desquamation muqueuse ; couleur due au stercobilinogène, produit de dégradation de la bilirubine.",
+    "source": {
+      "page": 4,
+      "extrait": "leur couleur est donnée par le stercobilinogène (produit de dégradation de la bilirubine)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "transit normal"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/qcm-004",
+    "type": "multiple",
+    "enonce": "La couleur des selles peut varier :",
+    "options": [
+      "Rougeâtre après ingestion de betteraves",
+      "Noirâtre sous fer",
+      "Noirâtre sous bismuth",
+      "Noirâtre sous charbon",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Betteraves : selles rougeâtres ; fer, bismuth, charbon : selles noirâtres.",
+    "source": {
+      "page": 4,
+      "extrait": "fer, bismuth et charbon, les selles sont alors noirâtres"
+    },
+    "difficulte": 1,
+    "tags": [
+      "transit normal"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/qcm-005",
+    "type": "multiple",
+    "enonce": "La diarrhée se définit par :",
+    "options": [
+      "Une accélération du transit",
+      "Des selles trop liquides",
+      "Des selles trop fréquentes (≥ 3)",
+      "Des selles trop volumineuses (> 250 g/jour)",
+      "L'évacuation fréquente de selles normales"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "L'évacuation fréquente de selles normales n'est PAS une diarrhée.",
+    "source": {
+      "page": 5,
+      "extrait": "L'évacuation fréquente de selles normales n'est pas une diarrhée."
+    },
+    "difficulte": 2,
+    "tags": [
+      "définition"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/qcm-006",
+    "type": "unique",
+    "enonce": "Selon le cours, des selles sont trop volumineuses lorsqu'elles dépassent :",
+    "options": [
+      "100 g par jour",
+      "150 g par jour",
+      "200 g par jour",
+      "250 g par jour",
+      "500 g par jour"
+    ],
+    "correctes": [
+      3
+    ],
+    "explication": "Selles trop volumineuses : supérieures à 250 g par jour.",
+    "source": {
+      "page": 5,
+      "extrait": "trop volumineuses (supérieures à 250 g par jour)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "définition"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/qcm-007",
+    "type": "multiple",
+    "enonce": "Concernant les mécanismes physiopathologiques des diarrhées :",
+    "options": [
+      "Un trouble de la motilité donne une diarrhée par hyperkinésie",
+      "Un trouble des sécrétions donne une diarrhée par hypersécrétion",
+      "Une lésion de la muqueuse donne une diarrhée par malabsorption",
+      "Une insuffisance enzymatique donne une diarrhée par maldigestion",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Quatre mécanismes : hyperkinésie, hypersécrétion, malabsorption (lésion muqueuse), maldigestion (insuffisance enzymatique ou anomalie de la flore).",
+    "source": {
+      "page": 6,
+      "extrait": "Trouble de la digestion proprement dite : c'est la diarrhée par maldigestion due à une insuffisance enzymatique"
+    },
+    "difficulte": 2,
+    "tags": [
+      "physiopathologie"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/qcm-008",
+    "type": "multiple",
+    "enonce": "Les mécanismes retrouvés dans les diarrhées infectieuses sont :",
+    "options": [
+      "Hypersécrétion",
+      "Hypermotricité",
+      "Malabsorption",
+      "Maldigestion",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Les deux premiers mécanismes, hypersécrétion et hypermotricité, sont retrouvés dans les diarrhées infectieuses.",
+    "source": {
+      "page": 6,
+      "extrait": "Les deux premiers mécanismes, hypersécrétion et hypermotricité, sont retrouvés dans les diarrhées infectieuses."
+    },
+    "difficulte": 2,
+    "tags": [
+      "physiopathologie"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/qcm-009",
+    "type": "unique",
+    "enonce": "La diarrhée par maldigestion peut être due à :",
+    "options": [
+      "Une hyperkinésie",
+      "Une hypersécrétion",
+      "Une anomalie de la flore microbienne",
+      "Une lésion muqueuse isolée",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Maldigestion : insuffisance enzymatique ou anomalie de la flore microbienne.",
+    "source": {
+      "page": 6,
+      "extrait": "due à une insuffisance enzymatique ou à une anomalie de la flore microbienne"
+    },
+    "difficulte": 2,
+    "tags": [
+      "physiopathologie"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/qcm-010",
+    "type": "multiple",
+    "enonce": "L'interrogatoire d'un patient diarrhéique précise :",
+    "options": [
+      "La date de début",
+      "Le nombre de selles par 24 heures",
+      "L'horaire : matinal, post-prandial, nocturne",
+      "L'aspect des selles",
+      "Les signes accompagnateurs"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Tous ces caractères sont à préciser à l'interrogatoire.",
+    "source": {
+      "page": 7,
+      "extrait": "Le nombre de selles par 24 heures. L'horaire : matinal, post-prandial, nocturne."
+    },
+    "difficulte": 1,
+    "tags": [
+      "interrogatoire"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/qcm-011",
+    "type": "multiple",
+    "enonce": "Concernant l'aspect des selles diarrhéiques :",
+    "options": [
+      "Il est important de voir la selle du malade",
+      "La présence de graisse confère un aspect luisant",
+      "On recherche des éléments anormaux : sang, pus, glaires",
+      "Les glaires peuvent enrober la selle ou l'accompagner",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes les propositions sont dans le cours.",
+    "source": {
+      "page": 7,
+      "extrait": "pâteuse avec parfois présence de graisse qui confère aux selles un aspect luisant"
+    },
+    "difficulte": 1,
+    "tags": [
+      "interrogatoire"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/qcm-012",
+    "type": "multiple",
+    "enonce": "L'examen clinique d'un patient diarrhéique a pour objectifs :",
+    "options": [
+      "Rechercher le retentissement sur l'état général",
+      "Rechercher la cause",
+      "Rechercher des signes de déshydratation dans les diarrhées aiguës",
+      "Rechercher des signes de dénutrition dans les diarrhées chroniques",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Deux objectifs : retentissement (déshydratation au cours des aiguës, dénutrition au cours des chroniques) et recherche de la cause.",
+    "source": {
+      "page": 8,
+      "extrait": "Signes de dénutrition avec amaigrissement et parfois œdèmes carentiels retrouvés au cours des diarrhées chroniques."
+    },
+    "difficulte": 2,
+    "tags": [
+      "examen clinique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/qcm-013",
+    "type": "unique",
+    "enonce": "Les œdèmes carentiels sont retrouvés au cours :",
+    "options": [
+      "Des diarrhées aiguës",
+      "Des diarrhées chroniques",
+      "De la fausse diarrhée du constipé",
+      "De l'incontinence fécale",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Signes de dénutrition avec amaigrissement et parfois œdèmes carentiels : diarrhées chroniques.",
+    "source": {
+      "page": 8,
+      "extrait": "parfois œdèmes carentiels retrouvés au cours des diarrhées chroniques"
+    },
+    "difficulte": 2,
+    "tags": [
+      "examen clinique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/qcm-014",
+    "type": "multiple",
+    "enonce": "La fausse diarrhée du constipé :",
+    "options": [
+      "Survient après quelques jours de constipation",
+      "Est une selle de constipation diluée dans un liquide d'hypersécrétion",
+      "Le liquide provient de la muqueuse irritée par la stase",
+      "Est une vraie diarrhée",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "La fausse diarrhée du constipé est un diagnostic différentiel : selle de constipation diluée dans un liquide d'hypersécrétion de la muqueuse irritée par la stase.",
+    "source": {
+      "page": 9,
+      "extrait": "c'est une selle de constipation diluée dans un liquide d'hypersécrétion provenant de la muqueuse irritée par la stase"
+    },
+    "difficulte": 2,
+    "tags": [
+      "diagnostic différentiel"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/qcm-015",
+    "type": "multiple",
+    "enonce": "Le syndrome dysentérique se caractérise par :",
+    "options": [
+      "L'émission de selles afécales",
+      "Des selles faites de glaires, de pus et de sang",
+      "Des épreintes",
+      "Un ténesme",
+      "Des selles volumineuses fécales"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Syndrome dysentérique : selles afécales (glaires, pus, sang), épreintes, ténesme.",
+    "source": {
+      "page": 9,
+      "extrait": "L'émission de selles afécales faites de glaires, de pus et de sang."
+    },
+    "difficulte": 1,
+    "tags": [
+      "dysentérie"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/qcm-016",
+    "type": "unique",
+    "enonce": "Le besoin irrésistible d'exonérer, suivi ou non d'une selle dysentérique, définit :",
+    "options": [
+      "Le ténesme",
+      "L'épreinte",
+      "La dyschésie",
+      "L'anisme",
+      "L'incontinence"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Épreinte : besoin irrésistible d'exonérer suivi ou non d'une selle dysentérique (faux besoin).",
+    "source": {
+      "page": 9,
+      "extrait": "d'épreinte : besoin irrésistible d'exonérer suivi ou non de l'émission d'une selle dysentérique : faux besoin"
+    },
+    "difficulte": 2,
+    "tags": [
+      "dysentérie"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/qcm-017",
+    "type": "unique",
+    "enonce": "La sensation douloureuse de tension ou de corps étranger intra-rectal définit :",
+    "options": [
+      "L'épreinte",
+      "Le ténesme",
+      "La dyschésie",
+      "La rectocèle",
+      "Le fécalome"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Ténesme : sensation douloureuse de tension ou sensation de corps étranger intra-rectal.",
+    "source": {
+      "page": 9,
+      "extrait": "ténesme : sensation douloureuse de tension ou sensation de corps étranger intra-rectal"
+    },
+    "difficulte": 2,
+    "tags": [
+      "dysentérie"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/qcm-018",
+    "type": "multiple",
+    "enonce": "Les causes du syndrome dysentérique citées sont :",
+    "options": [
+      "Dysenterie amibienne",
+      "Dysenterie bacillaire",
+      "Recto-colite hémorragique",
+      "Hyperthyroïdie",
+      "Laxatifs osmotiques"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Causes : dysenterie amibienne, dysenterie bacillaire, recto-colite hémorragique.",
+    "source": {
+      "page": 9,
+      "extrait": "Les causes : dysenterie amibienne, dysenterie bacillaire, recto-colite hémorragique."
+    },
+    "difficulte": 1,
+    "tags": [
+      "dysentérie"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/qcm-019",
+    "type": "multiple",
+    "enonce": "La diarrhée doit être différenciée de :",
+    "options": [
+      "La fausse diarrhée du constipé",
+      "Le syndrome dysentérique",
+      "L'incontinence fécale",
+      "Le syndrome rectal ou poly-exonération",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Quatre diagnostics différentiels sont cités.",
+    "source": {
+      "page": 9,
+      "extrait": "La diarrhée doit être différenciée"
+    },
+    "difficulte": 1,
+    "tags": [
+      "diagnostic différentiel"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/qcm-020",
+    "type": "multiple",
+    "enonce": "Concernant l'incontinence fécale et le syndrome rectal :",
+    "options": [
+      "L'incontinence fécale est la perte involontaire de gaz et/ou de selles par l'anus",
+      "Le syndrome rectal est secondaire à un trouble du plancher pelvien",
+      "Dans le syndrome rectal, la consistance des selles est normale",
+      "Le syndrome rectal peut associer dyschésie et/ou prolapsus",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes les propositions sont exactes.",
+    "source": {
+      "page": 9,
+      "extrait": "Syndrome rectal ou poly-exonération secondaire à un trouble du plancher pelvien […] La consistance des selles est normale."
+    },
+    "difficulte": 2,
+    "tags": [
+      "diagnostic différentiel"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/qcm-021",
+    "type": "unique",
+    "enonce": "La diarrhée aiguë est définie par une évolution depuis moins de :",
+    "options": [
+      "3 jours",
+      "1 semaine",
+      "2 semaines",
+      "1 mois",
+      "3 mois"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Diarrhées aiguës : évoluant depuis moins de 2 semaines.",
+    "source": {
+      "page": 10,
+      "extrait": "Définition : diarrhées évoluant depuis moins de 2 semaines."
+    },
+    "difficulte": 1,
+    "tags": [
+      "diarrhée aiguë"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/qcm-022",
+    "type": "multiple",
+    "enonce": "L'interrogatoire d'une diarrhée aiguë précise :",
+    "options": [
+      "Un début souvent brutal",
+      "Des selles aqueuses abondantes ou glaireuses et/ou sanglantes",
+      "Les signes accompagnateurs : nausées, vomissements, douleurs, fièvre, asthénie",
+      "La notion de voyage en zone endémique, de cas similaires, de prise médicamenteuse",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes ces données sont à rechercher.",
+    "source": {
+      "page": 10,
+      "extrait": "De voyage en zone endémique. Des cas similaires dans l'entourage. Une prise médicamenteuse."
+    },
+    "difficulte": 1,
+    "tags": [
+      "diarrhée aiguë"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/qcm-023",
+    "type": "multiple",
+    "enonce": "Les signes de gravité d'une diarrhée aiguë comprennent :",
+    "options": [
+      "Un terrain fragile : enfant, vieillard, immunodéprimé",
+      "Une déshydratation",
+      "Un syndrome septicémique et un collapsus",
+      "Une diarrhée fébrile au retour d'un pays d'endémie palustre",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Tous ces éléments sont des signes de gravité.",
+    "source": {
+      "page": 10,
+      "extrait": "Diarrhée fébrile au retour d'un pays d'endémie palustre."
+    },
+    "difficulte": 1,
+    "tags": [
+      "gravité"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/qcm-024",
+    "type": "multiple",
+    "enonce": "Les signes de déshydratation au cours d'une diarrhée aiguë sont :",
+    "options": [
+      "Soif",
+      "Perte de poids",
+      "Pli cutané",
+      "Sécheresse des muqueuses",
+      "Hypotension, tachycardie"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Déshydratation : soif, perte de poids, pli cutané, sécheresse des muqueuses, hypotension, tachycardie.",
+    "source": {
+      "page": 10,
+      "extrait": "Déshydratation : soif, perte de poids, pli cutané, sècheresse des muqueuses, hypotension, tachycardie."
+    },
+    "difficulte": 1,
+    "tags": [
+      "gravité"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/qcm-025",
+    "type": "multiple",
+    "enonce": "Le syndrome septicémique avec collapsus associe :",
+    "options": [
+      "Hypo ou hyperthermie",
+      "Hypotension",
+      "Oligurie",
+      "Marbrures",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Syndrome septicémique et collapsus : hypo ou hyperthermie, hypotension, oligurie, marbrures.",
+    "source": {
+      "page": 10,
+      "extrait": "Syndrome septicémique et collapsus : hypo ou hyperthermie, hypotension, oligurie, marbrures"
+    },
+    "difficulte": 2,
+    "tags": [
+      "gravité"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/qcm-026",
+    "type": "multiple",
+    "enonce": "Les examens complémentaires d'une diarrhée aiguë sont :",
+    "options": [
+      "La coproculture",
+      "La parasitologie des selles",
+      "La recto-sigmoïdoscopie",
+      "La biopsie du grêle systématique",
+      "L'entérocoloscanner systématique"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Examens d'une diarrhée aiguë : coproculture, parasitologie des selles, recto-sigmoïdoscopie.",
+    "source": {
+      "page": 11,
+      "extrait": "La coproculture des selles; La parasitologie des selles; La recto-sigmoïdoscopie."
+    },
+    "difficulte": 2,
+    "tags": [
+      "examens"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/qcm-027",
+    "type": "multiple",
+    "enonce": "Les indications d'une copro-parasitologie des selles au cours d'une diarrhée aiguë sont :",
+    "options": [
+      "Diarrhée fébrile",
+      "Immunodépression",
+      "Signes de gravité",
+      "Retour d'une zone endémique",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Indications : diarrhées fébriles, immunodépression, signes de gravité, retour d'une zone endémique.",
+    "source": {
+      "page": 11,
+      "extrait": "Diarrhées fébriles, immunodépression, signes de gravité, retour d'une zone endémique"
+    },
+    "difficulte": 2,
+    "tags": [
+      "examens"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/qcm-028",
+    "type": "multiple",
+    "enonce": "Les étiologies des diarrhées aiguës hydro-électrolytiques sont :",
+    "options": [
+      "Virales (le plus souvent) : adénovirus, rotavirus",
+      "TIAC (staphylocoque doré, salmonelle)",
+      "Bactériennes : E. coli, choléra",
+      "Stress",
+      "Shigelle"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Hydro-électrolytiques : virales, TIAC, E. coli, choléra, stress. La shigelle donne une diarrhée glairo-sanglante.",
+    "source": {
+      "page": 11,
+      "extrait": "Virales (le plus souvent); adénovirus, rotavirus"
+    },
+    "difficulte": 2,
+    "tags": [
+      "étiologies aiguës"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/qcm-029",
+    "type": "multiple",
+    "enonce": "Les étiologies des diarrhées aiguës glairo-sanglantes sont :",
+    "options": [
+      "Bactériennes : shigelle, yersiniose",
+      "Post-médicamenteuses : antibiotiques (Clostridium difficile)",
+      "Ischémiques",
+      "Rotavirus",
+      "Stress"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Glairo-sanglantes : shigelle, yersiniose, post-antibiotiques (C. difficile), ischémiques.",
+    "source": {
+      "page": 11,
+      "extrait": "Bactériennes : shigelle, yersiniose… Post médicamenteuses : antibiotiques (clostridium difficile)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "étiologies aiguës"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/qcm-030",
+    "type": "unique",
+    "enonce": "La cause la plus fréquente des diarrhées aiguës hydro-électrolytiques est :",
+    "options": [
+      "Bactérienne",
+      "Virale",
+      "Parasitaire",
+      "Médicamenteuse",
+      "Ischémique"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Virales (le plus souvent) : adénovirus, rotavirus.",
+    "source": {
+      "page": 11,
+      "extrait": "Virales (le plus souvent); adénovirus, rotavirus"
+    },
+    "difficulte": 1,
+    "tags": [
+      "étiologies aiguës"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/qcm-031",
+    "type": "unique",
+    "enonce": "Toute diarrhée survenant pendant ou dans les 3 mois suivant une antibiothérapie doit faire rechercher :",
+    "options": [
+      "Une salmonelle",
+      "Les toxines de Clostridioides difficile",
+      "Un rotavirus",
+      "Une giardiose",
+      "Une maladie cœliaque"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Toute diarrhée pendant ou dans les 3 mois suivant la prise d'antibiotiques doit faire rechercher les toxines de C. difficile.",
+    "source": {
+      "page": 11,
+      "extrait": "Toute diarrhée survenant pendant ou dans les 3 mois suivant la prise d'antibiotiques doit faire rechercher les toxines de Clostridioides difficile."
+    },
+    "difficulte": 2,
+    "tags": [
+      "Clostridioides difficile"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/qcm-032",
+    "type": "unique",
+    "enonce": "La diarrhée chronique est définie par une évolution depuis plus de :",
+    "options": [
+      "2 semaines",
+      "1 mois",
+      "3 mois",
+      "6 mois",
+      "1 an"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Diarrhées chroniques : évoluant depuis plus de 1 mois.",
+    "source": {
+      "page": 12,
+      "extrait": "Définition : diarrhées évoluant depuis plus de 1 mois."
+    },
+    "difficulte": 1,
+    "tags": [
+      "diarrhée chronique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/qcm-033",
+    "type": "multiple",
+    "enonce": "Les mécanismes possibles d'une diarrhée chronique sont :",
+    "options": [
+      "Sécrétoire",
+      "Motrice",
+      "Osmotique",
+      "Par malabsorption",
+      "Lésionnelle"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Mécanismes : sécrétoire, motrice, osmotique, par malabsorption ou lésionnelle.",
+    "source": {
+      "page": 12,
+      "extrait": "sécrétoire, motrice, osmotique, par malabsorption ou lésionnelle"
+    },
+    "difficulte": 1,
+    "tags": [
+      "diarrhée chronique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/qcm-034",
+    "type": "multiple",
+    "enonce": "Sont en faveur d'une cause organique d'une diarrhée chronique :",
+    "options": [
+      "Une apparition récente (< 3 mois)",
+      "Un caractère nocturne ou circadien",
+      "Un amaigrissement associé",
+      "Un début toujours brutal",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "En faveur d'une cause organique : apparition récente (< 3 mois), nocturne ou circadienne, avec amaigrissement. Le début de la diarrhée chronique est souvent insidieux.",
+    "source": {
+      "page": 12,
+      "extrait": "En faveur de cause organique: diarrhée d'apparition récente (< 3 mois), nocturne ou circadienne associé à un amaigrissement."
+    },
+    "difficulte": 2,
+    "tags": [
+      "diarrhée chronique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/qcm-035",
+    "type": "multiple",
+    "enonce": "Les antécédents personnels recherchés devant une diarrhée chronique comprennent :",
+    "options": [
+      "Chirurgie digestive (bariatrique, cholécystectomie, résection)",
+      "Maladies auto-immunes, thyroïde, diabète",
+      "Radiothérapie",
+      "SEP",
+      "Rapports sexuels non protégés"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Tous ces antécédents sont listés.",
+    "source": {
+      "page": 13,
+      "extrait": "Chirurgie digestive (bariatrique, cholécystectomie, résection), auto-immuns, thyroïde, diabète, radiothérapie, SEP"
+    },
+    "difficulte": 2,
+    "tags": [
+      "diarrhée chronique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/qcm-036",
+    "type": "multiple",
+    "enonce": "Les antécédents familiaux recherchés devant une diarrhée chronique sont :",
+    "options": [
+      "Cancer",
+      "MICI",
+      "Maladie cœliaque",
+      "Hypertension artérielle",
+      "Asthme"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Antécédents familiaux : cancer, MICI, maladie cœliaque.",
+    "source": {
+      "page": 13,
+      "extrait": "Antécédents familiaux: Cancer, MICI, maladie cœliaque."
+    },
+    "difficulte": 1,
+    "tags": [
+      "diarrhée chronique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/qcm-037",
+    "type": "multiple",
+    "enonce": "Parmi les médicaments à rechercher devant une diarrhée chronique, le cours cite :",
+    "options": [
+      "Metformine et iDPP4",
+      "Magnésium",
+      "IEC",
+      "Lansoprazole",
+      "Théophylline et furosémide"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Traitements : antibiotique, AINS, magnésium, IEC, metformine, iDPP4, lansoprazole, théophylline, furosémide, antiarythmique, anticancéreux.",
+    "source": {
+      "page": 13,
+      "extrait": "Antibiotique, AINS, magnésium, IEC, metformine, iDPP4, lansoprazole, théophylline, furosémide, antiarythmique, anticancéreux."
+    },
+    "difficulte": 2,
+    "tags": [
+      "iatrogénie"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/qcm-038",
+    "type": "multiple",
+    "enonce": "L'interrogatoire d'une diarrhée chronique recherche aussi :",
+    "options": [
+      "La consommation de café, boissons énergisantes, lait, sorbitol, fructose",
+      "Une intolérance au lactose ou au gluten",
+      "Le rythme nycthéméral et l'effet du jeûne",
+      "Une consommation éthylique",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Tous ces éléments figurent dans l'interrogatoire de la diarrhée chronique.",
+    "source": {
+      "page": 13,
+      "extrait": "Degré de consommation de café, boissons énergisantes, lait, sorbitol, fructose"
+    },
+    "difficulte": 2,
+    "tags": [
+      "diarrhée chronique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/qcm-039",
+    "type": "multiple",
+    "enonce": "L'examen clinique d'une diarrhée chronique comprend :",
+    "options": [
+      "Poids, taille, IMC et variations",
+      "Examen abdominal avec toucher rectal",
+      "Recherche d'une fonte musculaire",
+      "Signes généraux : syndrome anémique, thyrotoxicose, glossite",
+      "Recherche d'œdèmes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Tous ces éléments sont à rechercher.",
+    "source": {
+      "page": 14,
+      "extrait": "Signes généraux : Syndrome anémique ou hémorragique, thyrotoxicose, glossite"
+    },
+    "difficulte": 1,
+    "tags": [
+      "diarrhée chronique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/qcm-040",
+    "type": "multiple",
+    "enonce": "Les selles de malabsorption sont :",
+    "options": [
+      "Abondantes (« bouse de vache »)",
+      "Graisseuses, pâteuses",
+      "Décolorées et malodorantes",
+      "Accompagnées d'anorexie et d'amaigrissement",
+      "Riches en sang et en pus"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Selles de malabsorption : abondantes, graisseuses, pâteuses, décolorées, malodorantes, avec anorexie et amaigrissement.",
+    "source": {
+      "page": 15,
+      "extrait": "Selles abondantes (bouse de vache), graisseuses, pâteuses et décolorées malodorantes"
+    },
+    "difficulte": 1,
+    "tags": [
+      "types de selles"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/qcm-041",
+    "type": "multiple",
+    "enonce": "Les selles des diarrhées motrices sont :",
+    "options": [
+      "Nombreuses et peu abondantes",
+      "Avec débris alimentaires ou végétaux",
+      "Post-prandiales immédiates ou précoces (30 min à 1 h)",
+      "Impérieuses, avec coliques",
+      "Sans retentissement sur l'état général"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Toutes les propositions décrivent la diarrhée motrice.",
+    "source": {
+      "page": 15,
+      "extrait": "post prandiale immédiate ou précoce 30 minutes à 1 heure après le repas, elle est impérieuse"
+    },
+    "difficulte": 2,
+    "tags": [
+      "types de selles"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/qcm-042",
+    "type": "multiple",
+    "enonce": "Concernant les diarrhées sécrétoires et osmotiques :",
+    "options": [
+      "La diarrhée sécrétoire persiste après un jeûne",
+      "La diarrhée osmotique cède au jeûne",
+      "La diarrhée sécrétoire est profuse, abondante, diurne",
+      "La diarrhée osmotique ne comporte jamais de sang ni de pus",
+      "La diarrhée sécrétoire cède au jeûne"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Sécrétoire : persiste au jeûne ; osmotique : cède au jeûne, jamais de sang ni pus.",
+    "source": {
+      "page": 15,
+      "extrait": "Selles profuses, abondantes, diurnes, persistantes après un jeun."
+    },
+    "difficulte": 3,
+    "tags": [
+      "types de selles"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/qcm-043",
+    "type": "unique",
+    "enonce": "Une diarrhée liquidienne, sans horaire particulier, qui cède au jeûne, sans sang ni pus, est de mécanisme :",
+    "options": [
+      "Sécrétoire",
+      "Osmotique",
+      "Motrice",
+      "Par malabsorption",
+      "Lésionnelle"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Diarrhée osmotique : abondance variable, liquidienne, sans horaire, cédant au jeûne, jamais de sang ni pus.",
+    "source": {
+      "page": 15,
+      "extrait": "Abondance variable, selles liquidienne, sans horaire particuliere, cèdant au jeune, jamais de sang ni de pus."
+    },
+    "difficulte": 2,
+    "tags": [
+      "types de selles"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/qcm-044",
+    "type": "unique",
+    "enonce": "Une diarrhée post-prandiale précoce, impérieuse, avec débris alimentaires et sans altération de l'état général évoque une diarrhée :",
+    "options": [
+      "Motrice",
+      "Sécrétoire",
+      "Osmotique",
+      "De malabsorption",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Ce sont les caractères des selles des diarrhées motrices.",
+    "source": {
+      "page": 15,
+      "extrait": "Selles nombreuses, peu abondantes, avec débris alimentaires ou végétaux"
+    },
+    "difficulte": 2,
+    "tags": [
+      "types de selles"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/qcm-045",
+    "type": "multiple",
+    "enonce": "Les examens complémentaires d'une diarrhée chronique comprennent :",
+    "options": [
+      "La parasitologie des selles",
+      "Un bilan de malabsorption : NFS, protides, calcémie, stéatorrhée",
+      "FOGD, rectosigmoïdoscopie, coloscopie",
+      "Entérocoloscanner, angioscanner abdominal",
+      "Biopsie du grêle"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Tous ces examens peuvent être demandés selon l'étiologie suspectée.",
+    "source": {
+      "page": 16,
+      "extrait": "Bilan de malabsorption : NFS, taux de protide, calcémie, stéatorrhée."
+    },
+    "difficulte": 2,
+    "tags": [
+      "examens"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/qcm-046",
+    "type": "multiple",
+    "enonce": "Parmi les causes de diarrhée de malabsorption par atteinte du grêle, on cite :",
+    "options": [
+      "Maladie cœliaque",
+      "Maladie de Whipple",
+      "Lymphomes",
+      "Lambliase (giardiose)",
+      "Pancréatite chronique"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "La pancréatite chronique est une cause de malabsorption par atteinte du PANCRÉAS, pas du grêle.",
+    "source": {
+      "page": 17,
+      "extrait": "Atteinte du grêle : maladie coeliaque, maladie de Whipple, lymphomes, lambliase (Giardiose)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "étiologies chroniques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/qcm-047",
+    "type": "multiple",
+    "enonce": "Les causes de diarrhée de malabsorption comprennent aussi :",
+    "options": [
+      "Pancréatite chronique",
+      "Cancer du pancréas",
+      "Insuffisance en sels biliaires",
+      "Hyperthyroïdie",
+      "Colchicine"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Atteinte pancréatique (pancréatite chronique, cancer) et insuffisance en sels biliaires. Hyperthyroïdie : motrice ; colchicine : sécrétoire.",
+    "source": {
+      "page": 17,
+      "extrait": "Atteinte du pancréas : pancréatite chronique, cancer du pancréas. Insuffisance en sels biliaires."
+    },
+    "difficulte": 2,
+    "tags": [
+      "étiologies chroniques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/qcm-048",
+    "type": "multiple",
+    "enonce": "Les causes de diarrhée motrice citées sont :",
+    "options": [
+      "Diabète, hyperthyroïdie",
+      "Tumeur carcinoïde, VIPome",
+      "Amylose",
+      "Gastrectomie, colectomie",
+      "Polypose adénomateuse colique"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "La polypose adénomateuse colique est une cause de diarrhée SÉCRÉTOIRE.",
+    "source": {
+      "page": 17,
+      "extrait": "Endocrinopathies : diabète, hyperthyroïdie. Tumeur carcinoïde ; VIPome. Amylose. Gastrectomie, colectomie."
+    },
+    "difficulte": 2,
+    "tags": [
+      "étiologies chroniques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/qcm-049",
+    "type": "multiple",
+    "enonce": "Les causes de diarrhée sécrétoire citées sont :",
+    "options": [
+      "Polypose adénomateuse colique",
+      "Colchicine",
+      "Digitaliques",
+      "Laxatifs irritants (phénolphtaléine, anthraquinone)",
+      "Maladie cœliaque"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Sécrétoires : polypose adénomateuse colique, colchicine, digitaliques, laxatifs irritants. La maladie cœliaque est une malabsorption.",
+    "source": {
+      "page": 17,
+      "extrait": "Polypose adénomateuse colique, Médicaments : colchicine, digitaliques, laxatifs irritants"
+    },
+    "difficulte": 2,
+    "tags": [
+      "étiologies chroniques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/qcm-050",
+    "type": "unique",
+    "enonce": "La principale cause de diarrhée osmotique citée est :",
+    "options": [
+      "La colchicine",
+      "La prise de laxatifs",
+      "L'hyperthyroïdie",
+      "La maladie cœliaque",
+      "Le VIPome"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Diarrhées osmotiques : surtout la prise de laxatifs.",
+    "source": {
+      "page": 17,
+      "extrait": "Diarrhées osmotiques : -Surtout la prise de laxatifs."
+    },
+    "difficulte": 1,
+    "tags": [
+      "étiologies chroniques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/qcm-051",
+    "type": "multiple",
+    "enonce": "Selon le cours, la metformine et les iDPP4 sont rangés parmi les causes iatrogènes de diarrhée :",
+    "options": [
+      "Motrice",
+      "Sécrétoire",
+      "Osmotique",
+      "De malabsorption",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "La liste iatrogène (antibiotique, AINS, magnésium, IEC, metformine, iDPP4…) est classée dans les diarrhées motrices.",
+    "source": {
+      "page": 17,
+      "extrait": "Iatrogène: Antibiotique, anti-inflammatoires AINS, magnésium, IEC, metformine - iDPP4"
+    },
+    "difficulte": 3,
+    "tags": [
+      "iatrogénie"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/qcm-052",
+    "type": "multiple",
+    "enonce": "Concernant la constipation :",
+    "options": [
+      "C'est un retard de l'évacuation des résidus fécaux",
+      "Le transit est prolongé avec surdigestion des résidus",
+      "Les selles sont surdigérées et déshydratées",
+      "Selon l'OMS, elle correspond à < 3 selles par semaine",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Constipation : retard d'évacuation, transit prolongé, surdigestion, selles déshydratées ; < 3 selles/semaine (OMS).",
+    "source": {
+      "page": 18,
+      "extrait": "selles surdigérées et déshydratées (< 3 selles / semaine selon OMS)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "constipation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/qcm-053",
+    "type": "multiple",
+    "enonce": "Selon les critères de Rome IV, la constipation chronique associe deux ou plus des symptômes suivants :",
+    "options": [
+      "Selles peu fréquentes (< 3 par semaine)",
+      "Selles dures",
+      "Efforts de poussée",
+      "Sensation d'évacuation incomplète ou de blocage ano-rectal",
+      "Manœuvres digitales pour faciliter l'exonération"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Tous ces symptômes font partie des critères de Rome IV (pour au moins 25 % des défécations).",
+    "source": {
+      "page": 18,
+      "extrait": "Selles peu fréquentes (< 3 par semaine), selles dures, efforts de poussée, sensation d'évacuation incomplète"
+    },
+    "difficulte": 2,
+    "tags": [
+      "Rome IV"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/qcm-054",
+    "type": "unique",
+    "enonce": "Selon Rome IV, les symptômes doivent évoluer depuis :",
+    "options": [
+      "1 mois, apparus lors des 3 derniers mois",
+      "3 mois, apparus lors des 6 derniers mois",
+      "6 mois, apparus lors de la dernière année",
+      "2 semaines",
+      "1 an"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Durée de trois mois, apparus lors des 6 derniers mois.",
+    "source": {
+      "page": 18,
+      "extrait": "d'une durée de trois mois apparus lors des 6 derniers mois"
+    },
+    "difficulte": 2,
+    "tags": [
+      "Rome IV"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/qcm-055",
+    "type": "unique",
+    "enonce": "Dans les critères de Rome IV, les symptômes doivent concerner au moins :",
+    "options": [
+      "10 % des défécations",
+      "25 % des défécations",
+      "50 % des défécations",
+      "75 % des défécations",
+      "Toutes les défécations"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Pour au moins 25 % des défécations.",
+    "source": {
+      "page": 18,
+      "extrait": "(pour au moins 25% des défécations)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "Rome IV"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/qcm-056",
+    "type": "multiple",
+    "enonce": "Les deux mécanismes de la constipation sont :",
+    "options": [
+      "Anomalie de la progression par stase colique",
+      "Retard à l'évacuation par dyschésie pelvi-rectale",
+      "Hypersécrétion colique",
+      "Hyperkinésie",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Constipation de progression (motilité colique diminuée) ou d'évacuation (dyschésie, stagnation dans le sigmoïde et le rectum).",
+    "source": {
+      "page": 19,
+      "extrait": "Par anomalie de la progression : par stase colique […] Par retard à l'évacuation : dyschésie pelvi-rectale"
+    },
+    "difficulte": 2,
+    "tags": [
+      "physiopathologie"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/qcm-057",
+    "type": "unique",
+    "enonce": "La dyschésie est :",
+    "options": [
+      "Une diarrhée motrice",
+      "Une difficulté à évacuer le contenu rectal dans les conditions simples",
+      "Une perte involontaire de selles",
+      "Une hernie du rectum dans le vagin",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Dyschésie : difficulté à évacuer le contenu rectal dans les conditions simples.",
+    "source": {
+      "page": 19,
+      "extrait": "Dyschésie: est une difficulté à évacuer le contenu rectale dans les conditions simples."
+    },
+    "difficulte": 1,
+    "tags": [
+      "vocabulaire"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/qcm-058",
+    "type": "multiple",
+    "enonce": "Les antécédents personnels recherchés devant une constipation sont :",
+    "options": [
+      "Syndrome de l'intestin irritable",
+      "Hypothyroïdie",
+      "Maladie neurologique (Parkinson, SEP, AVC)",
+      "Prolapsus génital",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Antécédents : intestin irritable, hypothyroïdie, neurologique, prolapsus génital.",
+    "source": {
+      "page": 20,
+      "extrait": "Syndrome de l'intestin irritable, hypothyroïdie, neurologique (Parkinson, SEP, AVC …), prolapsus génital"
+    },
+    "difficulte": 1,
+    "tags": [
+      "constipation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/qcm-059",
+    "type": "multiple",
+    "enonce": "Chez l'enfant constipé, on recherche :",
+    "options": [
+      "Un retard d'émission du méconium (> 48 heures)",
+      "Une énurésie primaire",
+      "Les courbes de croissance",
+      "Une hypertension artérielle",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Enfant : retard d'émission du méconium (> 48 h), énurésie primaire ; courbes de croissance à l'examen.",
+    "source": {
+      "page": 20,
+      "extrait": "Enfant: retard d'émission du méconium (> 48 heures), énurésie primaire."
+    },
+    "difficulte": 2,
+    "tags": [
+      "constipation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/qcm-060",
+    "type": "multiple",
+    "enonce": "Parmi les médicaments à rechercher devant une constipation, le cours cite :",
+    "options": [
+      "Fer",
+      "Antalgiques",
+      "Antidiarrhéiques",
+      "Anticholinergiques et antidépresseurs",
+      "Furosémide"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Traitements : fer, antalgiques, antidiarrhéiques, anticholinergiques, antidépresseur, furosémide.",
+    "source": {
+      "page": 20,
+      "extrait": "Fer, antalgiques, antidiarrhéiques, anticholinergiques, antidépresseur, furosémide"
+    },
+    "difficulte": 2,
+    "tags": [
+      "iatrogénie"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/qcm-061",
+    "type": "unique",
+    "enonce": "Selon l'échelle de Bristol, les selles de constipation correspondent aux types :",
+    "options": [
+      "1 ou 2",
+      "3 ou 4",
+      "5 ou 6",
+      "6 ou 7",
+      "4 uniquement"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Consistance type 1 ou 2 selon l'échelle de Bristol.",
+    "source": {
+      "page": 21,
+      "extrait": "Consistance type 1 ou 2 selon l'échelle de Bristol"
+    },
+    "difficulte": 2,
+    "tags": [
+      "constipation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/qcm-062",
+    "type": "multiple",
+    "enonce": "Les signes d'alarme (drapeaux rouges) d'une constipation sont :",
+    "options": [
+      "AEG",
+      "Rectorragies, méléna",
+      "Constipation sévère persistante et résistante sans cause évidente",
+      "Syndrome rectal (épreinte, ténesme, faux besoins)",
+      "Masse abdominale ou rectale"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Tous sont des drapeaux rouges.",
+    "source": {
+      "page": 21,
+      "extrait": "AEG, rectorragies, méléna, constipation sévère persistante et résistante sans cause évidente"
+    },
+    "difficulte": 1,
+    "tags": [
+      "signes d'alarme"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/qcm-063",
+    "type": "multiple",
+    "enonce": "L'examen physique d'un patient constipé comprend :",
+    "options": [
+      "Poids, taille, IMC",
+      "Recherche de douleurs en fosse iliaque gauche et d'un météorisme",
+      "Inspection périnéale (hémorroïdes, fissure anale)",
+      "Toucher rectal (fécalome, rectocèle, tonus sphinctérien)",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Tous ces éléments sont cités.",
+    "source": {
+      "page": 22,
+      "extrait": "toucher rectal (fécalome, rectocèle*, tonus sphinctérien)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "examen"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/qcm-064",
+    "type": "multiple",
+    "enonce": "Le bilan d'une constipation chronique vise à :",
+    "options": [
+      "Éliminer une cause métabolique",
+      "Éliminer une anémie",
+      "Éliminer une maladie cœliaque",
+      "Rechercher un cancer colorectal",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le bilan vise à éliminer une cause métabolique, une anémie, une maladie cœliaque et rechercher un cancer colorectal.",
+    "source": {
+      "page": 23,
+      "extrait": "éliminer une cause métabolique, une anémie et une maladie cœliaque (adulte et enfant) et à rechercher un Kc colorectale"
+    },
+    "difficulte": 1,
+    "tags": [
+      "examens"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/qcm-065",
+    "type": "multiple",
+    "enonce": "La biologie d'une constipation chronique comprend :",
+    "options": [
+      "NFS, CRP",
+      "Glycémie à jeun",
+      "± TSH",
+      "± Calcémie, ferritine",
+      "IgA anti-transglutaminase et IgA totales"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Biologie : NFS, CRP, glycémie, ± TSH, ± créatininémie, ionogramme, calcémie, ferritine, IgA anti-transglutaminase, IgA totales.",
+    "source": {
+      "page": 23,
+      "extrait": "± Calcémie, ± Ferritine, IgA anti-transglutaminase, IgA totales"
+    },
+    "difficulte": 2,
+    "tags": [
+      "examens"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/qcm-066",
+    "type": "multiple",
+    "enonce": "Les indications de la coloscopie pour constipation sont :",
+    "options": [
+      "Apparition ou modification récente des symptômes après 50 ans",
+      "AEG",
+      "Rectorragies ou anémie",
+      "Haut risque de cancer colorectal",
+      "Toute constipation chez l'adulte jeune"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Indications : symptômes récents après 50 ans, AEG, rectorragies ou anémie, haut risque de cancer colorectal.",
+    "source": {
+      "page": 23,
+      "extrait": "Apparition ou modification récente des symptômes après 50 ans"
+    },
+    "difficulte": 2,
+    "tags": [
+      "coloscopie"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/qcm-067",
+    "type": "multiple",
+    "enonce": "Parmi les causes digestives de constipation organique, on cite :",
+    "options": [
+      "Cancer colorectal",
+      "Sténoses coliques ou anorectales",
+      "Mégacôlon congénital",
+      "Fissure",
+      "Compressions extrinsèques"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Causes digestives : cancer colorectal, tumeurs bénignes, sténoses, mégacôlon congénital, fissure, séquelles de chirurgie anorectale, compressions extrinsèques.",
+    "source": {
+      "page": 24,
+      "extrait": "Cancer colorectal, tumeurs bénignes colorectales, sténoses coliques ou anorectale, mégacôlon congénital"
+    },
+    "difficulte": 1,
+    "tags": [
+      "étiologies constipation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/qcm-068",
+    "type": "multiple",
+    "enonce": "Les causes endocriniennes et métaboliques de constipation sont :",
+    "options": [
+      "Hypothyroïdie",
+      "Hyperparathyroïdie",
+      "Insuffisance rénale",
+      "Hypokaliémie",
+      "Porphyrie"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Toutes figurent dans la liste.",
+    "source": {
+      "page": 24,
+      "extrait": "Hypothyroïdie • Hyperparathyroïdie • Insuffisance rénale • Hypokaliémie • Porphyrie"
+    },
+    "difficulte": 2,
+    "tags": [
+      "étiologies constipation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/qcm-069",
+    "type": "unique",
+    "enonce": "Parmi les endocrinopathies suivantes, laquelle est une cause de constipation (et non de diarrhée) selon le cours ?",
+    "options": [
+      "Hyperthyroïdie",
+      "Hypothyroïdie",
+      "VIPome",
+      "Tumeur carcinoïde",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Hypothyroïdie : constipation ; hyperthyroïdie, VIPome, tumeur carcinoïde : diarrhée motrice.",
+    "source": {
+      "page": 24,
+      "extrait": "Hypothyroïdie"
+    },
+    "difficulte": 2,
+    "tags": [
+      "pièges"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/qcm-070",
+    "type": "multiple",
+    "enonce": "Les causes neurologiques et psychogènes de constipation comprennent :",
+    "options": [
+      "Dysautonomie du diabète et de l'amylose",
+      "Maladie de Parkinson",
+      "Sclérose en plaques, AVC, tumeur cérébrale",
+      "Dépression, démence, psychose",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes ces causes sont citées.",
+    "source": {
+      "page": 25,
+      "extrait": "Dysautonomie au cours du diabète et de l'amylose"
+    },
+    "difficulte": 2,
+    "tags": [
+      "étiologies constipation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/qcm-071",
+    "type": "multiple",
+    "enonce": "Parmi les médicaments constipants cités, on retrouve :",
+    "options": [
+      "Opiacés",
+      "Anticholinergiques",
+      "Anticonvulsivants",
+      "Neuroleptiques",
+      "Laxatifs osmotiques"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Médicaments constipants : opiacés, anticholinergiques, anticonvulsivants, neuroleptiques.",
+    "source": {
+      "page": 25,
+      "extrait": "opiaces, anticholinergiques, anti convulsivants, neuroleptiques"
+    },
+    "difficulte": 1,
+    "tags": [
+      "iatrogénie"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/qcm-072",
+    "type": "multiple",
+    "enonce": "La constipation par anomalie de progression se caractérise par :",
+    "options": [
+      "Souvent moins de 3 selles par semaine",
+      "Pas de besoin entre les exonérations",
+      "Des selles dures",
+      "± ballonnement et douleur abdominale",
+      "Des matières présentes au TR avec besoin présent"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Anomalie de progression : < 3 selles/sem, pas de besoin, selles dures, ± ballonnement/douleur ; causes : inertie colique, côlon spastique. Le besoin présent avec matières au TR caractérise l'anomalie d'évacuation.",
+    "source": {
+      "page": 26,
+      "extrait": "Pas de besoin entre les exonérations • Selles dures"
+    },
+    "difficulte": 2,
+    "tags": [
+      "constipation maladie"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/qcm-073",
+    "type": "multiple",
+    "enonce": "La constipation par anomalie d'évacuation se caractérise par :",
+    "options": [
+      "Un besoin souvent présent",
+      "Une difficulté d'exonération",
+      "Des matières présentes au TR",
+      "L'utilisation fréquente de manœuvres digitales",
+      "L'absence de besoin"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Anomalie d'évacuation : besoin présent, difficulté d'exonération, matières au TR, manœuvres digitales.",
+    "source": {
+      "page": 27,
+      "extrait": "Souvent le besoin est présent ; Difficulté d'exonération ; Au TR : matières présentes"
+    },
+    "difficulte": 2,
+    "tags": [
+      "constipation maladie"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/qcm-074",
+    "type": "multiple",
+    "enonce": "Les causes de constipation par anomalie d'évacuation sont :",
+    "options": [
+      "Anisme",
+      "Mégarectum",
+      "Rectocèle",
+      "Procidence interne du rectum",
+      "Inertie colique"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Anomalie d'évacuation : anisme, mégarectum, rectocèle, procidence interne, anomalie de sensibilité rectale, plancher pelvien descendant. L'inertie colique relève de l'anomalie de progression.",
+    "source": {
+      "page": 27,
+      "extrait": "Anisme • Méga rectum • Rectocèle • Procidence interne du rectum"
+    },
+    "difficulte": 2,
+    "tags": [
+      "constipation maladie"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/qcm-075",
+    "type": "unique",
+    "enonce": "Les causes de constipation par anomalie de progression sont :",
+    "options": [
+      "Anisme et rectocèle",
+      "Inertie colique et côlon spastique",
+      "Mégarectum et plancher pelvien descendant",
+      "Procidence interne",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Anomalie de progression : inertie colique, côlon spastique.",
+    "source": {
+      "page": 26,
+      "extrait": "Les causes : * Inertie colique * Colon spastique"
+    },
+    "difficulte": 2,
+    "tags": [
+      "constipation maladie"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/qcm-076",
+    "type": "unique",
+    "enonce": "L'échec de la relaxation normale des muscles du plancher pelvien lors d'une tentative de défécation définit :",
+    "options": [
+      "Le mégarectum",
+      "L'anisme (défécation dyssynergique)",
+      "La rectocèle",
+      "La procidence interne",
+      "Le plancher pelvien descendant"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "L'anisme ou défécation dyssynergique est l'échec de la relaxation normale des muscles du plancher pelvien.",
+    "source": {
+      "page": 28,
+      "extrait": "L'anisme ou défécation dyssynergique: est l'échec de la relaxation normale des muscles du plancher pelvien"
+    },
+    "difficulte": 2,
+    "tags": [
+      "vocabulaire"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/qcm-077",
+    "type": "multiple",
+    "enonce": "Concernant la rectocèle :",
+    "options": [
+      "C'est une hernie formée par la paroi antérieure du rectum dans le vagin",
+      "Elle est liée à des contraintes mécaniques importantes",
+      "Elle peut résulter d'une fragilité de la cloison séparant le côlon du vagin",
+      "Elle se recherche au toucher rectal",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Rectocèle : hernie de la paroi antérieure du rectum dans le vagin, recherchée au TR.",
+    "source": {
+      "page": 28,
+      "extrait": "est une hernie formée par la paroi antérieure du rectum dans le vagin"
+    },
+    "difficulte": 2,
+    "tags": [
+      "vocabulaire"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/qcm-078",
+    "type": "multiple",
+    "enonce": "Concernant la procidence interne du rectum :",
+    "options": [
+      "Elle est aussi appelée prolapsus rectal occulte ou intussusception",
+      "C'est une invagination de la paroi rectale qui ne sort pas de l'anus",
+      "Elle est souvent asymptomatique à bas grade",
+      "Elle peut entraîner dyschésie, incontinence anale, fausses envies",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes les propositions sont exactes.",
+    "source": {
+      "page": 29,
+      "extrait": "est une invagination de la paroi rectale qui ne sort pas de l'anus"
+    },
+    "difficulte": 2,
+    "tags": [
+      "vocabulaire"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/qcm-079",
+    "type": "multiple",
+    "enonce": "Concernant le plancher pelvien descendant :",
+    "options": [
+      "C'est une descente des organes pelviens (vessie, utérus, rectum)",
+      "Il est dû à un affaiblissement des muscles et ligaments du plancher pelvien",
+      "Il est souvent causé par la grossesse et l'accouchement",
+      "La toux chronique et le surpoids peuvent le favoriser",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes les propositions correspondent à la définition du cours.",
+    "source": {
+      "page": 29,
+      "extrait": "souvent causé par la grossesse et l'accouchement, mais aussi par la constipation chronique, la toux chronique, le surpoids"
+    },
+    "difficulte": 2,
+    "tags": [
+      "vocabulaire"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/qcm-080",
+    "type": "multiple",
+    "enonce": "Concernant le mégarectum :",
+    "options": [
+      "Le rectum est anormalement large",
+      "Il est souvent dû à des anomalies nerveuses ou à une dysfonction musculaire",
+      "Il peut être causé par une constipation chronique sévère avec fécalome",
+      "C'est une hernie rectale dans le vagin",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "La hernie rectale dans le vagin est la rectocèle.",
+    "source": {
+      "page": 28,
+      "extrait": "Méga rectum: est une condition où le rectum est anormalement large"
+    },
+    "difficulte": 2,
+    "tags": [
+      "vocabulaire"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/07-troubles-du-transit/qcm-081",
+    "type": "multiple",
+    "enonce": "En conclusion du cours :",
+    "options": [
+      "La majorité des diarrhées aiguës sont d'origine infectieuse",
+      "La grande majorité des diarrhées sont spontanément résolutives",
+      "Le but est de rechercher les signes de gravité et d'identifier les rares diarrhées nécessitant des examens",
+      "La constipation chronique de l'adulte est un symptôme fréquent d'étiologies multiples",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Ce sont les points de la conclusion.",
+    "source": {
+      "page": 30,
+      "extrait": "La majorité des diarrhées aigues sont d'origine infectieuse."
+    },
+    "difficulte": 1,
+    "tags": [
+      "conclusion"
+    ],
+    "origine": "genere"
+  }
+]

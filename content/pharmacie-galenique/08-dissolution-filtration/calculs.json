@@ -1,0 +1,151 @@
+[
+  {
+    "id": "pharmacie-galenique/08-dissolution-filtration/calcul-001",
+    "titre": "Vitesse de dissolution (Noyes-Whitney)",
+    "enonce": "Un PA se dissout avec une constante K = {k} cm⁻²·min⁻¹, une surface S = {s} cm², une solubilité à saturation Cs = {cs} mg/mL et une concentration au temps t Ct = {ct} mg/mL. Calculez dC/dt.",
+    "variables": {
+      "k": {
+        "min": 0.001,
+        "max": 0.01,
+        "pas": 0.001,
+        "unite": "cm⁻²·min⁻¹"
+      },
+      "s": {
+        "min": 50,
+        "max": 500,
+        "pas": 50,
+        "unite": "cm²"
+      },
+      "cs": {
+        "min": 10,
+        "max": 50,
+        "pas": 5,
+        "unite": "mg/mL"
+      },
+      "ct": {
+        "min": 0,
+        "max": 5,
+        "pas": 1,
+        "unite": "mg/mL"
+      }
+    },
+    "formule": "k * s * (cs - ct)",
+    "unite": "mg/mL/min",
+    "decimales": 3,
+    "etapes": [
+      "Écrire dC/dt = K·S·(Cs − Ct)",
+      "Calculer (Cs − Ct)",
+      "Multiplier par K puis par S"
+    ],
+    "rappel": "dC/dt = K·S·(Cs − Ct), avec K = D/hV."
+  },
+  {
+    "id": "pharmacie-galenique/08-dissolution-filtration/calcul-002",
+    "titre": "Constante K de dissolution",
+    "enonce": "Calculez K = D/(h·V) pour D = {d} cm²/min, h = {h} cm et V = {v} mL (cm³).",
+    "variables": {
+      "d": {
+        "min": 0.0005,
+        "max": 0.005,
+        "pas": 0.0005,
+        "unite": "cm²/min"
+      },
+      "h": {
+        "min": 0.001,
+        "max": 0.01,
+        "pas": 0.001,
+        "unite": "cm"
+      },
+      "v": {
+        "min": 100,
+        "max": 1000,
+        "pas": 100,
+        "unite": "mL"
+      }
+    },
+    "formule": "d / (h * v)",
+    "unite": "cm⁻²·min⁻¹",
+    "decimales": 5,
+    "etapes": [
+      "K = D / (h × V)",
+      "Calculer h × V",
+      "Diviser D par ce produit"
+    ],
+    "rappel": "K = D/hV : D augmente avec la température et diminue avec la viscosité ; h diminue avec l'agitation."
+  },
+  {
+    "id": "pharmacie-galenique/08-dissolution-filtration/calcul-003",
+    "titre": "Effet de la micronisation sur la vitesse de dissolution",
+    "enonce": "La micronisation multiplie la surface spécifique d'un PA par {f}, les autres paramètres restant constants. Par combien la vitesse de dissolution initiale est-elle multipliée ?",
+    "variables": {
+      "f": {
+        "min": 2,
+        "max": 20,
+        "pas": 1,
+        "unite": ""
+      }
+    },
+    "formule": "f",
+    "unite": "fois",
+    "decimales": 0,
+    "etapes": [
+      "dC/dt est proportionnelle à S",
+      "Si S est multipliée par f, dC/dt est multipliée par f"
+    ],
+    "rappel": "La vitesse de dissolution croît avec le degré de division (surface S)."
+  },
+  {
+    "id": "pharmacie-galenique/08-dissolution-filtration/calcul-004",
+    "titre": "Débit de filtration",
+    "enonce": "Un volume de {vol} mL est filtré en {t} min. Calculez le débit Φ.",
+    "variables": {
+      "vol": {
+        "min": 100,
+        "max": 5000,
+        "pas": 100,
+        "unite": "mL"
+      },
+      "t": {
+        "min": 2,
+        "max": 60,
+        "pas": 1,
+        "unite": "min"
+      }
+    },
+    "formule": "vol / t",
+    "unite": "mL/min",
+    "decimales": 1,
+    "etapes": [
+      "Φ = volume filtré / temps",
+      "Diviser le volume par la durée"
+    ],
+    "rappel": "Φ (mL/min) = volume filtré / temps."
+  },
+  {
+    "id": "pharmacie-galenique/08-dissolution-filtration/calcul-005",
+    "titre": "Point de bulle : rapport des diamètres de pores",
+    "enonce": "Deux membranes humectées par le même liquide (même K, même α) donnent un point de bulle de p1 = {p1} bar et p2 = {p2} bar. Calculez le rapport d1/d2 des diamètres des plus larges pores.",
+    "variables": {
+      "p1": {
+        "min": 1,
+        "max": 5,
+        "pas": 0.5,
+        "unite": "bar"
+      },
+      "p2": {
+        "min": 2,
+        "max": 6,
+        "pas": 0.5,
+        "unite": "bar"
+      }
+    },
+    "formule": "p2 / p1",
+    "unite": "",
+    "decimales": 2,
+    "etapes": [
+      "d = K·4α/p, donc d est inversement proportionnel à p",
+      "d1/d2 = p2/p1"
+    ],
+    "rappel": "d = K·4α/p : plus le point de bulle est élevé, plus les pores sont petits."
+  }
+]

@@ -1,0 +1,36 @@
+---
+import Base from "../layouts/Base.astro";
+import EnTete from "../components/EnTete.astro";
+import { getIndex } from "../lib/content";
+import { DEPOT } from "../lib/signaler";
+const index = getIndex();
+const nbCours = index.modules.reduce((t, m) => t + m.cours.length, 0);
+---
+<Base titre="À propos" description="PharmaRévision : un site gratuit, sans compte et sans cookies, pour réviser la 3e année de pharmacie à Alger." etroit>
+  <EnTete titre="À propos de PharmaRévision" />
+  <div class="flex flex-col gap-4">
+    <section class="carte p-5">
+      <h2 class="mb-2 text-lg">Le projet</h2>
+      <p>PharmaRévision est un site <strong>gratuit</strong> pour préparer les EMD de <strong>3e année de pharmacie</strong> (Faculté de Pharmacie d'Alger, promotion 2026/2027). Il propose actuellement {nbCours} cours et {index.totalQcm} QCM corrigés, des flashcards, des fiches, des cas cliniques, des calculs et des examens blancs.</p>
+      <p class="mt-2">Tout le contenu est rédigé <strong>uniquement à partir des supports de cours</strong> : chaque question cite sa source (cours et page). Une erreur ? Utilisez le bouton « ⚑ Signaler » sous la question, ou ouvrez un ticket sur <a href={`${DEPOT}/issues`} class="text-primary-ink underline" target="_blank" rel="noopener noreferrer">GitHub</a>.</p>
+    </section>
+    <section class="carte p-5">
+      <h2 class="mb-2 text-lg">Vie privée</h2>
+      <ul class="list-disc space-y-1.5 pl-5">
+        <li><strong>Aucun compte, aucune connexion, aucun cookie.</strong></li>
+        <li>Votre progression (réponses, flashcards, résultats, dates d'examen) est enregistrée <strong>uniquement dans votre navigateur</strong>. Personne d'autre, pas même nous, ne peut la voir.</li>
+        <li>Pour changer d'appareil, utilisez « Exporter / Importer » dans les <a href="/parametres/" class="text-primary-ink underline">Paramètres</a>.</li>
+        <li>Nous mesurons uniquement le nombre de visites, de façon anonyme et sans cookies (Vercel Web Analytics). Aucune donnée personnelle n'est collectée.</li>
+      </ul>
+    </section>
+    <section class="carte p-5">
+      <h2 class="mb-2 text-lg">Barème utilisé</h2>
+      <p>Chaque question vaut 1 point. Réponse unique : 1 ou 0. Réponses multiples : (bonnes cochées − fausses cochées) ÷ nombre de bonnes réponses, sans descendre sous 0. La note est ramenée sur 20.</p>
+    </section>
+    <section class="carte p-5">
+      <h2 class="mb-2 text-lg">Installer l'application</h2>
+      <p>Sur téléphone, ouvrez le menu du navigateur puis « Ajouter à l'écran d'accueil ». Le site fonctionne ensuite comme une application, même hors ligne pour les pages déjà consultées.</p>
+    </section>
+    <p class="text-center font-semibold">Réalisé par Aymen Zouad</p>
+  </div>
+</Base>

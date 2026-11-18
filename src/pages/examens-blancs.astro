@@ -1,0 +1,13 @@
+---
+import Base from "../layouts/Base.astro";
+import EnTete from "../components/EnTete.astro";
+import ExamensBlancs from "../islands/ExamensBlancs";
+import { getIndex } from "../lib/content";
+const index = getIndex();
+---
+<Base titre="Examens blancs" description="Examens blancs par module, comme l'EMD : 30 questions, 60 minutes, notation sur 20.">
+  <EnTete surtitre="Comme le jour J" titre="Examens blancs" sousTitre="30 questions tirées au hasard dans le module, 60 minutes, correction et note sur 20 à la fin — comme l'EMD." />
+  <ExamensBlancs client:only="react" index={index}>
+    <p slot="fallback" class="text-ink-muted">Chargement…</p>
+  </ExamensBlancs>
+</Base>

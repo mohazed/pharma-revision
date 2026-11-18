@@ -1,0 +1,200 @@
+[
+  {
+    "id": "semiologie/03-hepatites/flashcard-001",
+    "recto": "Hépatite (définition)",
+    "verso": "Inflammation du parenchyme hépatique avec nécrose des hépatocytes, quelle qu'en soit la cause ; aiguë < 6 mois, chronique > 6 mois.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/03-hepatites/flashcard-002",
+    "recto": "5 groupes de causes d'hépatite",
+    "verso": "Virus, médicaments et toxiques, alcool, auto-immunité, métabolisme.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/03-hepatites/flashcard-003",
+    "recto": "Traduction de l'altération de la synthèse hépatique",
+    "verso": "Œdèmes, ascite, saignements, baisse du TP.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/03-hepatites/flashcard-004",
+    "recto": "Traduction de l'altération de la sécrétion biliaire",
+    "verso": "Cholestase, prurit, selles décolorées.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/03-hepatites/flashcard-005",
+    "recto": "Seuils de bilirubine totale",
+    "verso": "Normale < 17 µmol/L ; subictère conjonctival ≈ 30 ; ictère franc > 50 µmol/L.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/03-hepatites/flashcard-006",
+    "recto": "Pourquoi les urines sont-elles foncées ?",
+    "verso": "Bilirubine conjuguée, hydrosoluble, excrétée dans les urines ; précèdent souvent l'ictère.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/03-hepatites/flashcard-007",
+    "recto": "Pourquoi les selles sont-elles décolorées ?",
+    "verso": "La bilirubine n'arrive plus dans l'intestin (pas de stercobiline).",
+    "tags": []
+  },
+  {
+    "id": "semiologie/03-hepatites/flashcard-008",
+    "recto": "4 phases de l'hépatite aiguë ictérique",
+    "verso": "Incubation (aucun signe), pré-ictérique (3–10 j), ictérique (2–6 sem), convalescence (plusieurs semaines).",
+    "tags": []
+  },
+  {
+    "id": "semiologie/03-hepatites/flashcard-009",
+    "recto": "Phase pré-ictérique",
+    "verso": "Asthénie, anorexie, nausées, syndrome pseudo-grippal, arthralgies, myalgies.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/03-hepatites/flashcard-010",
+    "recto": "Signe le plus constant de l'hépatite",
+    "verso": "L'asthénie, souvent le seul.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/03-hepatites/flashcard-011",
+    "recto": "4 formes cliniques d'hépatite aiguë",
+    "verso": "Anictérique (la plus fréquente), cholestatique, prolongée/à rechute (VHA), fulminante (rare).",
+    "tags": []
+  },
+  {
+    "id": "semiologie/03-hepatites/flashcard-012",
+    "recto": "4 syndromes biologiques",
+    "verso": "Cytolyse (ALAT, ASAT), cholestase (PAL, γGT, BC), insuffisance hépatocellulaire (TP, V, albumine ↓), inflammatoire (hypergammaglobulinémie polyclonale).",
+    "tags": []
+  },
+  {
+    "id": "semiologie/03-hepatites/flashcard-013",
+    "recto": "ASAT/ALAT > 1",
+    "verso": "Penser à l'alcool ou à la cirrhose.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/03-hepatites/flashcard-014",
+    "recto": "Transaminases et gravité",
+    "verso": "Le taux ne reflète pas la gravité ; la gravité = TP et encéphalopathie.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/03-hepatites/flashcard-015",
+    "recto": "PAL isolée / γGT isolée",
+    "verso": "PAL isolée : os, grossesse. γGT isolée : alcool, inducteurs enzymatiques, stéatose.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/03-hepatites/flashcard-016",
+    "recto": "TP bas + facteur V bas / normal",
+    "verso": "V bas : insuffisance hépatique ; V normal : carence en vitamine K.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/03-hepatites/flashcard-017",
+    "recto": "Hépatite aiguë sévère / fulminante / subfulminante",
+    "verso": "TP < 50 % / TP < 50 % + encéphalopathie < 2 sem après ictère / encéphalopathie entre 2 et 12 sem.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/03-hepatites/flashcard-018",
+    "recto": "Signes d'alerte d'hépatite grave",
+    "verso": "Somnolence, inversion du rythme veille-sommeil, confusion, astérixis, coma, saignements, fœtor hepaticus, hypoglycémie.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/03-hepatites/flashcard-019",
+    "recto": "Conduite devant une hépatite grave",
+    "verso": "Hospitalisation en urgence, contact centre de transplantation, arrêt paracétamol/AINS/benzodiazépines.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/03-hepatites/flashcard-020",
+    "recto": "Manifestations extra-hépatiques VHC / VHB",
+    "verso": "VHC : cryoglobulinémie, vascularite. VHB : périartérite noueuse, glomérulonéphrite.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/03-hepatites/flashcard-021",
+    "recto": "Cirrhose : signes d'IHC",
+    "verso": "Angiomes stellaires, érythrose palmaire, ongles blancs, ictère, gynécomastie, encéphalopathie, TP/V bas, hypoalbuminémie.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/03-hepatites/flashcard-022",
+    "recto": "Cirrhose : signes d'hypertension portale",
+    "verso": "Splénomégalie, circulation veineuse collatérale, ascite, varices œsophagiennes, thrombopénie/leucopénie.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/03-hepatites/flashcard-023",
+    "recto": "VHA",
+    "verso": "ARN, féco-orale, incubation 15–45 j, jamais chronique, IgM anti-VHA, vaccin.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/03-hepatites/flashcard-024",
+    "recto": "VHB",
+    "verso": "ADN, sang/sexuelle/mère-enfant, 1–6 mois, chronicité 5–10 % adulte et 90 % nouveau-né, Ag HBs + IgM anti-HBc, vaccin.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/03-hepatites/flashcard-025",
+    "recto": "VHC",
+    "verso": "ARN, sang, 2 sem–6 mois, chronicité ≈ 70 %, Ac anti-VHC puis ARN, pas de vaccin.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/03-hepatites/flashcard-026",
+    "recto": "VHD",
+    "verso": "ARN, sang/sexuelle avec le VHB, chronicité fréquente en surinfection, Ac anti-VHD, prévention par vaccin anti-VHB.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/03-hepatites/flashcard-027",
+    "recto": "VHE",
+    "verso": "ARN, féco-orale/alimentaire, 15–60 j, chronique chez l'immunodéprimé seulement, IgM anti-VHE, pas de vaccin.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/03-hepatites/flashcard-028",
+    "recto": "Sujet vacciné contre le VHB",
+    "verso": "Ag HBs −, anti-HBc −, anti-HBs +.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/03-hepatites/flashcard-029",
+    "recto": "Infection VHB ancienne guérie",
+    "verso": "Ag HBs −, anti-HBc +, anti-HBs +.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/03-hepatites/flashcard-030",
+    "recto": "Toxicité directe vs idiosyncrasie",
+    "verso": "Directe : dose-dépendante, prévisible, quelques jours (paracétamol). Idiosyncrasie : imprévisible, 5–90 j (isoniazide, amoxicilline-acide clavulanique).",
+    "tags": []
+  },
+  {
+    "id": "semiologie/03-hepatites/flashcard-031",
+    "recto": "Rapport R",
+    "verso": "R = (ALAT/N)/(PAL/N) ; ≥ 5 cytolytique, 2–5 mixte, ≤ 2 cholestatique.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/03-hepatites/flashcard-032",
+    "recto": "Paracétamol : chiffres clés",
+    "verso": "4 g/j (3 g si facteur de risque), seuil toxique 150 mg/kg, antidote NAC ; NAPQI épuise le glutathion.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/03-hepatites/flashcard-033",
+    "recto": "Gravité d'une hépatite médicamenteuse",
+    "verso": "ALAT > 3 N + bilirubine > 2 N ; fièvre, éruption, hyperéosinophilie.",
+    "tags": []
+  }
+]

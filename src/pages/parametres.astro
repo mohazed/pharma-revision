@@ -1,0 +1,11 @@
+---
+import Base from "../layouts/Base.astro";
+import EnTete from "../components/EnTete.astro";
+import Parametres from "../islands/Parametres";
+---
+<Base titre="Paramètres" description="Thème clair ou sombre, dates d'examen, export et import de votre progression." etroit>
+  <EnTete titre="Paramètres" />
+  <Parametres client:only="react">
+    <p slot="fallback" class="text-ink-muted">Chargement…</p>
+  </Parametres>
+</Base>

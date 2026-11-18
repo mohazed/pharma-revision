@@ -1,0 +1,380 @@
+[
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/structure-001",
+    "nom": "Phénol",
+    "smiles": "Oc1ccccc1",
+    "classe": "Phénol (C6)",
+    "question": "Cette molécule, noyau benzénique portant un hydroxyle, est :",
+    "options": [
+      "Le phénol",
+      "Le catéchol",
+      "L'hydroquinone",
+      "L'acide salicylique",
+      "La coumarine"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Le phénol est un noyau benzénique portant un seul groupe hydroxyle."
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/structure-002",
+    "nom": "Catéchol",
+    "smiles": "Oc1ccccc1O",
+    "classe": "Phénol simple (C6)",
+    "question": "Ce diphénol à OH adjacents appartient aux :",
+    "options": [
+      "Phénols simples (C6)",
+      "Acides hydroxybenzoïques (C6–C1)",
+      "Coumarines",
+      "Stilbènes",
+      "Flavonoïdes"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Le catéchol est cité comme exemple de phénol simple en C6."
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/structure-003",
+    "nom": "Hydroquinone",
+    "smiles": "Oc1ccc(O)cc1",
+    "classe": "Phénol simple (C6)",
+    "question": "Ce diphénol para est le métabolite actif de :",
+    "options": [
+      "L'arbutine de la busserole",
+      "La salicine du saule",
+      "La cynarine de l'artichaut",
+      "Le carnosol du romarin",
+      "Le spiréoside"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "L'arbutine est métabolisée en dérivés de l'hydroquinone, responsable de l'activité antibactérienne urinaire."
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/structure-004",
+    "nom": "Phloroglucinol",
+    "smiles": "Oc1cc(O)cc(O)c1",
+    "classe": "Phloroglucinol (voie de l'acétate)",
+    "question": "Ce trihydroxybenzène (Spasfon®) est issu de :",
+    "options": [
+      "La voie de l'acétate",
+      "La voie du shikimate",
+      "La voie mixte",
+      "La PAL",
+      "La chorismate mutase"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Le phloroglucinol est l'exemple de l'aromagénèse par la voie de l'acétate."
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/structure-005",
+    "nom": "Acide gallique",
+    "smiles": "OC(=O)c1cc(O)c(O)c(O)c1",
+    "classe": "Acide hydroxybenzoïque (C6–C1)",
+    "question": "Cette molécule libérée par l'hydrolyse de certains tanins est :",
+    "options": [
+      "L'acide gallique",
+      "L'acide caféique",
+      "L'acide salicylique",
+      "La vanilline",
+      "L'ombelliférone"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Acide gallique : C6–C1 ; libéré par les tanins hydrolysables galliques."
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/structure-006",
+    "nom": "Acide salicylique",
+    "smiles": "OC(=O)c1ccccc1O",
+    "classe": "Acide hydroxybenzoïque (C6–C1)",
+    "question": "Cet acide dérive dans la plante de :",
+    "options": [
+      "L'acide isochorismique",
+      "L'acide cinnamique",
+      "Le phloroglucinol",
+      "L'acide p-coumarique",
+      "Le phénylpyruvate"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Chorismate → acide isochorismique → acide salicylique."
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/structure-007",
+    "nom": "Acide p-hydroxybenzoïque",
+    "smiles": "OC(=O)c1ccc(O)cc1",
+    "classe": "Acide hydroxybenzoïque (C6–C1)",
+    "question": "Le squelette de cette molécule est :",
+    "options": [
+      "C6–C1",
+      "C6",
+      "C6–C3",
+      "C6–C2–C6",
+      "C6–C3–C6"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Noyau benzénique + COOH + OH : acide hydroxybenzoïque en C6–C1."
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/structure-008",
+    "nom": "Vanilline",
+    "smiles": "COc1cc(C=O)ccc1O",
+    "classe": "Dérivé aldéhydique d'acide hydroxybenzoïque",
+    "question": "La vanilline est :",
+    "options": [
+      "Un dérivé aldéhydique des acides hydroxybenzoïques",
+      "Un dérivé alcoolique",
+      "Une coumarine",
+      "Un acide hydroxycinnamique",
+      "Un stilbène"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Vanilline = dérivé aldéhydique ; saligénine = dérivé alcoolique."
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/structure-009",
+    "nom": "Saligénine (alcool salicylique)",
+    "smiles": "OCc1ccccc1O",
+    "classe": "Dérivé alcoolique d'acide hydroxybenzoïque",
+    "question": "La saligénine est :",
+    "options": [
+      "Un dérivé alcoolique des acides hydroxybenzoïques",
+      "Un dérivé aldéhydique",
+      "Un phénol simple C6",
+      "Une lactone",
+      "Un flavanol"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Saligénine = alcool salicylique, dérivé alcoolique en C6–C1."
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/structure-010",
+    "nom": "Salicylaldéhyde",
+    "smiles": "O=Cc1ccccc1O",
+    "classe": "Dérivé salicylé",
+    "question": "Ce composé est un constituant de l'huile essentielle de :",
+    "options": [
+      "La reine-des-prés",
+      "Le romarin",
+      "La busserole",
+      "L'artichaut",
+      "L'arbousier"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "L'huile essentielle de reine-des-prés contient du salicylaldéhyde."
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/structure-011",
+    "nom": "Salicylate de méthyle",
+    "smiles": "COC(=O)c1ccccc1O",
+    "classe": "Dérivé salicylé",
+    "question": "Ce dérivé salicylé est cité dans la composition de :",
+    "options": [
+      "La reine-des-prés",
+      "Le saule",
+      "L'artichaut",
+      "La busserole",
+      "Le romarin"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Salicylate de méthyle : dérivé salicylé de la reine-des-prés."
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/structure-012",
+    "nom": "Acide cinnamique",
+    "smiles": "OC(=O)/C=C/c1ccccc1",
+    "classe": "Phénylpropanoïde (C6–C3)",
+    "question": "Cet acide est formé à partir de la phénylalanine par :",
+    "options": [
+      "La PAL",
+      "La chorismate mutase",
+      "La DAHP synthétase",
+      "Une hydroxylase",
+      "Une condensation de Claisen"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "La phénylalanine ammonia-lyase donne l'acide cinnamique."
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/structure-013",
+    "nom": "Acide p-coumarique",
+    "smiles": "OC(=O)/C=C/c1ccc(O)cc1",
+    "classe": "Acide hydroxycinnamique (C6–C3)",
+    "question": "Cet acide est obtenu à partir de l'acide cinnamique par :",
+    "options": [
+      "Une hydroxylation",
+      "Une désamination",
+      "Une cyclisation lactonique",
+      "Une méthylation",
+      "Une glycosylation"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Acide cinnamique → (hydroxylase) → acide p-coumarique."
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/structure-014",
+    "nom": "Acide caféique",
+    "smiles": "OC(=O)/C=C/c1ccc(O)c(O)c1",
+    "classe": "Acide hydroxycinnamique (C6–C3)",
+    "question": "Cette molécule appartient aux :",
+    "options": [
+      "Acides hydroxycinnamiques",
+      "Acides hydroxybenzoïques",
+      "Coumarines",
+      "Lignanes",
+      "Flavonoïdes"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Acide caféique : C6–C3, chaîne latérale à 3 C avec COOH."
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/structure-015",
+    "nom": "Acide férulique",
+    "smiles": "COc1cc(/C=C/C(=O)O)ccc1O",
+    "classe": "Acide hydroxycinnamique (C6–C3)",
+    "question": "Le squelette de l'acide férulique est :",
+    "options": [
+      "C6–C3",
+      "C6–C1",
+      "C6",
+      "(C6–C3)2",
+      "C6–C3–C6"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "L'acide férulique est cité avec l'acide caféique parmi les acides hydroxycinnamiques."
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/structure-016",
+    "nom": "Coumarine",
+    "smiles": "O=C1C=Cc2ccccc2O1",
+    "classe": "Coumarine (C6–C3 cyclisé)",
+    "question": "Ce squelette benzopyrone est celui des :",
+    "options": [
+      "Coumarines",
+      "Flavonoïdes",
+      "Stilbènes",
+      "Lignanes",
+      "Tanins"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Noyau benzénique fusionné à une lactone α-pyrone : coumarine."
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/structure-017",
+    "nom": "Ombelliférone",
+    "smiles": "O=C1C=Cc2ccc(O)cc2O1",
+    "classe": "Coumarine",
+    "question": "L'ombelliférone est :",
+    "options": [
+      "Une coumarine",
+      "Un flavonol",
+      "Un acide phénol",
+      "Un stilbène",
+      "Une naphtoquinone"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "L'ombelliférone est l'exemple de coumarine du cours."
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/structure-018",
+    "nom": "Resvératrol",
+    "smiles": "Oc1ccc(/C=C/c2cc(O)cc(O)c2)cc1",
+    "classe": "Stilbène (C6–C2–C6)",
+    "question": "Le resvératrol appartient aux :",
+    "options": [
+      "Stilbènes",
+      "Flavonoïdes",
+      "Coumarines",
+      "Lignanes",
+      "Phénols simples"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Deux noyaux aromatiques reliés par une chaîne à 2 C : stilbène (C6–C2–C6)."
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/structure-019",
+    "nom": "Quercétine",
+    "smiles": "O=c1c(O)c(-c2ccc(O)c(O)c2)oc2cc(O)cc(O)c12",
+    "classe": "Flavonol (C6–C3–C6)",
+    "question": "La quercétine est un :",
+    "options": [
+      "Flavonol",
+      "Flavanol",
+      "Isoflavone",
+      "Stilbène",
+      "Tanin hydrolysable"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Flavonols : quercétine, kaempférol."
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/structure-020",
+    "nom": "Juglone",
+    "smiles": "O=C1C=CC(=O)c2c(O)cccc12",
+    "classe": "Naphtoquinone (polyacétates)",
+    "question": "La juglone est une naphtoquinone des feuilles de :",
+    "options": [
+      "Noyer (Juglans regia)",
+      "Henné (Lawsonia inermis)",
+      "Millepertuis",
+      "Rhubarbe",
+      "Houblon"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Juglone : feuilles de noyer ; lawsone : feuilles de henné."
+  },
+  {
+    "id": "pharmacognosie/04-composes-phenoliques/structure-021",
+    "nom": "Lawsone",
+    "smiles": "OC1=CC(=O)c2ccccc2C1=O",
+    "classe": "Naphtoquinone (polyacétates)",
+    "question": "La lawsone provient des feuilles de :",
+    "options": [
+      "Henné (Lawsonia inermis)",
+      "Noyer",
+      "Busserole",
+      "Romarin",
+      "Saule"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "La lawsone est la naphtoquinone du henné."
+  }
+]

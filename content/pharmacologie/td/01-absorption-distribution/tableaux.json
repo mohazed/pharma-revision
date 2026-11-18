@@ -1,0 +1,62 @@
+[
+  {
+    "id": "pharmacologie/td/01-absorption-distribution/tab-001",
+    "titre": "Ionisation de l'acide (pKa = 3) selon le milieu",
+    "colonnes": [
+      "Milieu",
+      "pH",
+      "pH − pKa",
+      "[I]/[NI]",
+      "Conséquence"
+    ],
+    "lignes": [
+      [
+        "Estomac",
+        "2",
+        "−1",
+        "0,1",
+        "NI majoritaire (≈ 91 %) → absorption"
+      ],
+      [
+        "Intestin",
+        "6",
+        "3",
+        "1000",
+        "Ionisé → absorption limitée"
+      ],
+      [
+        "Sang",
+        "7",
+        "4",
+        "10 000",
+        "Très ionisé"
+      ]
+    ]
+  },
+  {
+    "id": "pharmacologie/td/01-absorption-distribution/tab-002",
+    "titre": "Effet de premier passage selon la voie",
+    "colonnes": [
+      "Voie",
+      "Nature de l'EPP"
+    ],
+    "lignes": [
+      [
+        "Orale",
+        "Intestinal, hépatique, pulmonaire"
+      ],
+      [
+        "Rectale",
+        "Veines hémorroïdales inférieures et moyennes → pulmonaire ; supérieures → hépatique et pulmonaire"
+      ],
+      [
+        "IV – IM – SC, sublinguale",
+        "Pulmonaire"
+      ],
+      [
+        "Locale – intra-artérielle",
+        "Absence"
+      ]
+    ]
+  }
+]

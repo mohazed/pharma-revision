@@ -1,0 +1,1169 @@
+[
+  {
+    "id": "pharmacie-galenique/10-solubilisation-dispersion/qcm-001",
+    "type": "multiple",
+    "enonce": "Selon l'introduction du cours :",
+    "options": [
+      "Une faible solubilité peut conduire à une mauvaise biodisponibilité",
+      "La solubilisation vise à pallier la faible solubilité de certaines substances",
+      "Une faible solubilité améliore toujours la biodisponibilité",
+      "La solubilité n'a aucun lien avec la biodisponibilité",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "L'introduction relie faible solubilité et mauvaise biodisponibilité, d'où l'intérêt des méthodes de solubilisation.",
+    "source": {
+      "page": 2,
+      "extrait": "Faible solubilité … Mauvaise biodisponibilité"
+    },
+    "difficulte": 1,
+    "tags": [
+      "introduction"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/10-solubilisation-dispersion/qcm-002",
+    "type": "unique",
+    "enonce": "La solubilité d'une substance, à une température donnée, est définie comme :",
+    "options": [
+      "La quantité maximale de soluté dissous dans une certaine quantité de solvant",
+      "La quantité minimale de solvant évaporé",
+      "La vitesse à laquelle le soluté se dissout",
+      "Le nombre de phases obtenues après mélange",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "La solubilité est la quantité maximale de soluté dissous dans une certaine quantité de solvant, à une température donnée.",
+    "source": {
+      "page": 3,
+      "extrait": "la quantité maximale de soluté dissous dans une certaine quantité de solvant."
+    },
+    "difficulte": 1,
+    "tags": [
+      "solubilité"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/10-solubilisation-dispersion/qcm-003",
+    "type": "multiple",
+    "enonce": "Concernant la courbe de solubilité présentée dans le cours :",
+    "options": [
+      "Avant le point de saturation, tout le soluté ajouté se dissout",
+      "Au point de saturation, on atteint la solubilité réelle C0",
+      "Au-delà du point de saturation, la concentration dissoute reste constante (solubilité à saturation)",
+      "Au-delà du point de saturation, la concentration dissoute continue d'augmenter linéairement",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "La courbe montre une phase où tout le soluté se dissout, puis un plateau à la solubilité réelle C0 à partir du point de saturation.",
+    "source": {
+      "page": 4,
+      "extrait": "Tout le soluté se dissout … Point de saturation … Solubilité à saturation"
+    },
+    "difficulte": 2,
+    "tags": [
+      "solubilité",
+      "saturation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/10-solubilisation-dispersion/qcm-004",
+    "type": "multiple",
+    "enonce": "D'après les termes descriptifs de la solubilité (volumes approximatifs de solvant) :",
+    "options": [
+      "Très soluble : moins de 1",
+      "Facilement soluble : de 1 à 10",
+      "Soluble : de 10 à 30",
+      "Assez soluble : de 30 à 100",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Ces correspondances sont celles du tableau du cours.",
+    "source": {
+      "page": 5,
+      "extrait": "Très soluble Moins de 1 Facilement soluble De 1 à 10 Soluble De 10 à 30 Assez soluble De 30 à 100"
+    },
+    "difficulte": 2,
+    "tags": [
+      "termes descriptifs"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/10-solubilisation-dispersion/qcm-005",
+    "type": "multiple",
+    "enonce": "Concernant les termes descriptifs de la solubilité :",
+    "options": [
+      "Peu soluble : de 100 à 1 000 volumes de solvant",
+      "Très peu soluble : de 1 000 à 10 000 volumes",
+      "Pratiquement insoluble : plus de 10 000 volumes",
+      "Très peu soluble : de 100 à 1 000 volumes",
+      "Pratiquement insoluble : de 1 000 à 10 000 volumes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Peu soluble : 100–1 000 ; très peu soluble : 1 000–10 000 ; pratiquement insoluble : > 10 000.",
+    "source": {
+      "page": 5,
+      "extrait": "Peu soluble De 100 à 1000 Très peu soluble De 1000 à 10000 Pratiquement insoluble Plus de 10000"
+    },
+    "difficulte": 2,
+    "tags": [
+      "termes descriptifs"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/10-solubilisation-dispersion/qcm-006",
+    "type": "unique",
+    "enonce": "Une substance nécessitant de 30 à 100 volumes de solvant est dite :",
+    "options": [
+      "Assez soluble",
+      "Soluble",
+      "Peu soluble",
+      "Facilement soluble",
+      "Très peu soluble"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "30 à 100 volumes de solvant correspondent au terme « assez soluble ».",
+    "source": {
+      "page": 5,
+      "extrait": "Assez soluble De 30 à 100"
+    },
+    "difficulte": 2,
+    "tags": [
+      "termes descriptifs"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/10-solubilisation-dispersion/qcm-007",
+    "type": "unique",
+    "enonce": "Une substance nécessitant de 10 à 30 volumes de solvant est dite :",
+    "options": [
+      "Soluble",
+      "Assez soluble",
+      "Facilement soluble",
+      "Très soluble",
+      "Peu soluble"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "10 à 30 volumes : soluble ; 1 à 10 : facilement soluble ; 30 à 100 : assez soluble.",
+    "source": {
+      "page": 5,
+      "extrait": "Soluble De 10 à 30"
+    },
+    "difficulte": 2,
+    "tags": [
+      "termes descriptifs"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/10-solubilisation-dispersion/qcm-008",
+    "type": "multiple",
+    "enonce": "La solubilisation est :",
+    "options": [
+      "Une opération servant à préparer une solution thermodynamiquement stable",
+      "Réalisée à partir d'une substance insoluble ou faiblement soluble",
+      "Obtenue par addition d'une ou de plusieurs substances",
+      "Une opération conduisant à une préparation biphasique",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "La solubilisation prépare une solution thermodynamiquement stable à partir d'une substance insoluble ou peu soluble par addition d'une ou plusieurs substances. La préparation biphasique caractérise la dispersion.",
+    "source": {
+      "page": 6,
+      "extrait": "Opération qui sert à préparer une solution thermodynamiquement stable à partir d'une substance insoluble ou faiblement soluble"
+    },
+    "difficulte": 1,
+    "tags": [
+      "solubilisation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/10-solubilisation-dispersion/qcm-009",
+    "type": "multiple",
+    "enonce": "Les méthodes citées pour augmenter la solubilité sont :",
+    "options": [
+      "L'utilisation de co-solvants",
+      "L'hydrotropie",
+      "L'ajustement du pH",
+      "La solubilisation micellaire",
+      "La lyophilisation"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Le cours cite six méthodes : co-solvants, hydrotropie, ajustement du pH, solubilisation micellaire, complexation et dispersion solide. La lyophilisation n'en fait pas partie.",
+    "source": {
+      "page": 7,
+      "extrait": "Utilisation de co-solvants Hydrotropie Ajustement du pH Solubilisation micellaire Complexation Dispersion solide"
+    },
+    "difficulte": 1,
+    "tags": [
+      "méthodes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/10-solubilisation-dispersion/qcm-010",
+    "type": "multiple",
+    "enonce": "Parmi les propositions suivantes, lesquelles sont des méthodes pour augmenter la solubilité ?",
+    "options": [
+      "La complexation",
+      "La dispersion solide",
+      "La solubilisation micellaire",
+      "La filtration",
+      "La granulation"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Complexation, dispersion solide et solubilisation micellaire font partie des six méthodes ; filtration et granulation non.",
+    "source": {
+      "page": 7,
+      "extrait": "Solubilisation micellaire Complexation Dispersion solide"
+    },
+    "difficulte": 1,
+    "tags": [
+      "méthodes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/10-solubilisation-dispersion/qcm-011",
+    "type": "multiple",
+    "enonce": "Un co-solvant est :",
+    "options": [
+      "Un solvant organique",
+      "Miscible à l'eau",
+      "Utilisé dans les formulations liquides",
+      "Destiné à augmenter la solubilité des substances peu solubles dans l'eau",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le co-solvant est un solvant organique miscible à l'eau utilisé dans les formulations liquides pour augmenter la solubilité des substances peu solubles dans l'eau.",
+    "source": {
+      "page": 8,
+      "extrait": "Solvant organique miscible à l'eau utilisé dans les formulations liquides pour augmenter la solubilité des substances peu solubles dans l'eau."
+    },
+    "difficulte": 1,
+    "tags": [
+      "co-solvant"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/10-solubilisation-dispersion/qcm-012",
+    "type": "multiple",
+    "enonce": "Les avantages des co-solvants sont :",
+    "options": [
+      "L'augmentation de la solubilité des PA peu polaires",
+      "La diminution de la dégradation des PA dégradés par hydrolyse",
+      "L'augmentation de la solubilité des PA ioniques ou polaires",
+      "L'absence totale de toxicité",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Avantages : ↑ solubilité des PA peu polaires et ↓ dégradation des PA hydrolysables. La solubilité des PA ioniques ou polaires DIMINUE et la toxicité potentielle est un inconvénient.",
+    "source": {
+      "page": 9,
+      "extrait": "Augmentation de la solubilité des PA peu polaires. • Diminution de la dégradation des PA dégradés par hydrolyse."
+    },
+    "difficulte": 2,
+    "tags": [
+      "co-solvant"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/10-solubilisation-dispersion/qcm-013",
+    "type": "multiple",
+    "enonce": "Les inconvénients des co-solvants sont :",
+    "options": [
+      "Leur toxicité potentielle",
+      "La diminution de la solubilité des PA ioniques ou polaires",
+      "La diminution de la solubilité des PA peu polaires",
+      "L'augmentation de l'hydrolyse des PA",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Inconvénients : toxicité potentielle et diminution de la solubilité des PA ioniques ou polaires. Les co-solvants augmentent la solubilité des PA peu polaires et diminuent l'hydrolyse.",
+    "source": {
+      "page": 9,
+      "extrait": "Toxicité potentielle des co-salvants. • Diminution de la solubilité des PA ioniques ou polaires."
+    },
+    "difficulte": 2,
+    "tags": [
+      "co-solvant"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/10-solubilisation-dispersion/qcm-014",
+    "type": "multiple",
+    "enonce": "Parmi les substances suivantes, lesquelles sont citées comme co-solvants ?",
+    "options": [
+      "L'éthanol",
+      "La glycérine",
+      "Le propylène glycol",
+      "Le polyéthylène glycol",
+      "Le benzoate de sodium"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Les co-solvants cités sont l'éthanol, la glycérine, le propylène glycol et le polyéthylène glycol. Le benzoate de sodium est un agent hydrotrope.",
+    "source": {
+      "page": 10,
+      "extrait": "Ethanol • Glycérine • Propylène glycol • Polyéthylène glycol"
+    },
+    "difficulte": 1,
+    "tags": [
+      "co-solvant"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/10-solubilisation-dispersion/qcm-015",
+    "type": "multiple",
+    "enonce": "La solution injectable de phénobarbital donnée en exemple contient :",
+    "options": [
+      "Du propylène glycol",
+      "De l'alcool",
+      "De la NaOH pour ajuster le pH",
+      "De l'eau PPI",
+      "Des cyclodextrines"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "La formule citée : phénobarbital, propylène glycol, alcool, NaOH (ajustement du pH), eau PPI. Elle illustre l'emploi de co-solvants.",
+    "source": {
+      "page": 11,
+      "extrait": "Phénobarbital - Propylène glycol - Alcool - NaOH pour ajuster le pH - Eau PPI"
+    },
+    "difficulte": 2,
+    "tags": [
+      "co-solvant",
+      "exemple"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/10-solubilisation-dispersion/qcm-016",
+    "type": "multiple",
+    "enonce": "Concernant l'hydrotropie :",
+    "options": [
+      "C'est l'augmentation de la solubilité dans l'eau de diverses substances",
+      "Elle est due à la présence de grandes quantités d'additifs",
+      "Exemple : amélioration de la solubilité de la caféine par de fortes concentrations de benzoate de sodium",
+      "Elle nécessite seulement de très faibles quantités d'additifs",
+      "Elle repose sur la formation de micelles à partir de la CMC"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "L'hydrotropie repose sur de GRANDES quantités d'additifs (ex : benzoate de sodium pour la caféine). La CMC concerne la solubilisation micellaire.",
+    "source": {
+      "page": 12,
+      "extrait": "Augmentation de la solubilité dans l'eau de diverses substances grâce à la présence de grandes quantités d'additifs."
+    },
+    "difficulte": 1,
+    "tags": [
+      "hydrotropie"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/10-solubilisation-dispersion/qcm-017",
+    "type": "unique",
+    "enonce": "L'amélioration de la solubilité de la caféine par l'ajout d'une grande concentration de benzoate de sodium est un exemple de :",
+    "options": [
+      "Hydrotropie",
+      "Complexation",
+      "Solubilisation micellaire",
+      "Dispersion solide",
+      "Co-solvance"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Le cours cite cet exemple pour illustrer l'hydrotropie.",
+    "source": {
+      "page": 13,
+      "extrait": "Amélioration de la solubilité de la caféine par l'ajout de grande concentration de benzoate de sodium."
+    },
+    "difficulte": 1,
+    "tags": [
+      "hydrotropie"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/10-solubilisation-dispersion/qcm-018",
+    "type": "multiple",
+    "enonce": "Dans la composition du Valium® injectable (diazépam) présentée dans le cours, on trouve :",
+    "options": [
+      "Du propylèneglycol et de l'éthanol (co-solvants)",
+      "Du benzoate de sodium (agent hydrotrope)",
+      "De l'hydroxyde de sodium qsp pH 6,5",
+      "De l'alcool benzylique et de l'eau ppi",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Les excipients du Valium® injectable sont : propylèneglycol, éthanol, benzoate de sodium, hydroxyde de sodium qsp pH 6,5, alcool benzylique, eau ppi.",
+    "source": {
+      "page": 14,
+      "extrait": "Excipients : propylèneglycol, éthanol, benzoate de sodium, hydroxyde de sodium qsp pH 6,5, alcool benzylique, eau ppi."
+    },
+    "difficulte": 3,
+    "tags": [
+      "hydrotropie",
+      "exemple"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/10-solubilisation-dispersion/qcm-019",
+    "type": "multiple",
+    "enonce": "Concernant l'ajustement du pH :",
+    "options": [
+      "La plupart des substances sont des acides ou des bases faibles",
+      "La solubilité est influencée par le pH du milieu",
+      "La NaOH est utilisée pour ajuster le pH dans la solution injectable de phénobarbital",
+      "Le pH n'a aucune influence sur la solubilité des acides faibles",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "La plupart des substances sont des acides ou bases faibles dont la solubilité dépend du pH ; la NaOH ajuste le pH dans l'exemple du phénobarbital.",
+    "source": {
+      "page": 15,
+      "extrait": "La plupart des substances sont généralement des acides ou des bases faibles. • La solubilité es influencée par le pH du milieu."
+    },
+    "difficulte": 1,
+    "tags": [
+      "pH"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/10-solubilisation-dispersion/qcm-020",
+    "type": "multiple",
+    "enonce": "Concernant la solubilisation micellaire :",
+    "options": [
+      "La solution contient une forte concentration de tensioactifs et une forte proportion d'eau",
+      "Les micelles se forment à partir de la CMC (concentration micellaire critique)",
+      "C'est le processus d'incorporation des substances dans ou sur les micelles",
+      "Les micelles se forment à toute concentration de tensioactif",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Les micelles se forment à partir de la CMC, pas à toute concentration.",
+    "source": {
+      "page": 16,
+      "extrait": "une formation de micelles à partir de la CMC : concentration micellaire critique."
+    },
+    "difficulte": 1,
+    "tags": [
+      "micelles",
+      "CMC"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/10-solubilisation-dispersion/qcm-021",
+    "type": "unique",
+    "enonce": "La CMC désigne :",
+    "options": [
+      "La concentration micellaire critique",
+      "La concentration minimale de cyclodextrine",
+      "La constante de miscibilité du co-solvant",
+      "La concentration maximale de complexe",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "La CMC est la concentration micellaire critique à partir de laquelle se forment les micelles.",
+    "source": {
+      "page": 16,
+      "extrait": "CMC : concentration micellaire critique."
+    },
+    "difficulte": 1,
+    "tags": [
+      "CMC"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/10-solubilisation-dispersion/qcm-022",
+    "type": "multiple",
+    "enonce": "Une micelle est :",
+    "options": [
+      "Un agrégat sphéroïdal",
+      "Formée de molécules amphiphiles (tensioactifs)",
+      "Un système qui s'auto-assemble spontanément en solution aqueuse",
+      "De taille de l'ordre de 1 à 200 nm",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "La micelle est un agrégat sphéroïdal de molécules amphiphiles ; les systèmes micellaires s'auto-assemblent spontanément en solution aqueuse, de l'ordre de 1 à 200 nm.",
+    "source": {
+      "page": 18,
+      "extrait": "Est un agrégat sphéroïdal de molécules amphiphiles (tensioactifs)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "micelles"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/10-solubilisation-dispersion/qcm-023",
+    "type": "unique",
+    "enonce": "Les systèmes micellaires s'auto-assemblent spontanément en solution aqueuse avec une taille de l'ordre de :",
+    "options": [
+      "1 à 200 nm",
+      "1 à 200 µm",
+      "1 à 200 mm",
+      "0,001 à 0,01 nm",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Les systèmes micellaires sont de l'ordre de 1 à 200 nm.",
+    "source": {
+      "page": 20,
+      "extrait": "Systèmes micellaires s'auto-assemblent spontanément en solution aqueuse de l'ordre de 1 à 200 nm."
+    },
+    "difficulte": 2,
+    "tags": [
+      "micelles"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/10-solubilisation-dispersion/qcm-024",
+    "type": "multiple",
+    "enonce": "Dans le schéma de la solubilisation micellaire :",
+    "options": [
+      "La matière non hydrosoluble est incorporée dans le cœur lipophile de la micelle",
+      "Les tensioactifs sont orientés vers l'environnement aqueux par leur partie polaire",
+      "En dessous de la CMC, les monomères de tensioactif se placent à la surface (air/eau)",
+      "Les monomères peuvent s'organiser en micelles ou en bicouches",
+      "Le cœur de la micelle est hydrophile"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Le schéma montre la matière non hydrosoluble dans le cœur lipophile, les têtes polaires vers l'environnement aqueux, l'adsorption des monomères à la surface puis la formation de micelles à la CMC, et l'organisation des monomères en micelles ou bicouches.",
+    "source": {
+      "page": 19,
+      "extrait": "Matière non hydrosoluble … Coeur lipophile de la micelle … Environnement aqueux"
+    },
+    "difficulte": 3,
+    "tags": [
+      "micelles"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/10-solubilisation-dispersion/qcm-025",
+    "type": "multiple",
+    "enonce": "Concernant le complexe d'inclusion :",
+    "options": [
+      "C'est une association d'au moins deux molécules",
+      "Le substrat (« invité ») est encapsulé par le récepteur (« hôte »)",
+      "L'encapsulation peut être totale ou partielle",
+      "Le récepteur est appelé « invité »",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Dans un complexe d'inclusion, l'invité (substrat) est encapsulé totalement ou partiellement par l'hôte (récepteur).",
+    "source": {
+      "page": 22,
+      "extrait": "le substrat (ou « invité ») est encapsulée de façon totale ou partielle par l'autre, le récepteur (ou « hôte »)."
+    },
+    "difficulte": 1,
+    "tags": [
+      "complexation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/10-solubilisation-dispersion/qcm-026",
+    "type": "multiple",
+    "enonce": "Concernant la complexation :",
+    "options": [
+      "Elle forme un complexe soluble pour augmenter la solubilité",
+      "Les cyclodextrines sont des complexants pour molécules lipophiles",
+      "Dans le complexe, la cyclodextrine joue le rôle d'hôte",
+      "Les cyclodextrines sont des complexants pour molécules ioniques exclusivement",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "La complexation forme un complexe soluble ; les cyclodextrines complexent les molécules lipophiles en les encapsulant (rôle d'hôte).",
+    "source": {
+      "page": 23,
+      "extrait": "Formation de complexe soluble pour augmenter la solubilité. • Complexant pour molécules lipophiles: cyclodextrines."
+    },
+    "difficulte": 2,
+    "tags": [
+      "complexation",
+      "cyclodextrines"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/10-solubilisation-dispersion/qcm-027",
+    "type": "multiple",
+    "enonce": "Concernant l'obtention des cyclodextrines :",
+    "options": [
+      "Elles proviennent de la dégradation de l'amylose par la CGTase",
+      "L'amylose peut provenir de la pomme de terre ou du blé dégraissé",
+      "La CGTase est produite par Bacillus macerans, Klebsiella pneumoniae ou Bacillus stearothermophilus",
+      "Elles proviennent de la dégradation de la cellulose",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Les cyclodextrines sont obtenues par dégradation enzymatique (CGTase) de l'amylose (pomme de terre, blé dégraissé) ; la CGTase est d'origine bactérienne.",
+    "source": {
+      "page": 24,
+      "extrait": "Amylose … CGT ase … •Pomme de terre •Blé dégraissé … •Bacillus macerans •Klebsiella pneumoniae"
+    },
+    "difficulte": 3,
+    "tags": [
+      "cyclodextrines"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/10-solubilisation-dispersion/qcm-028",
+    "type": "multiple",
+    "enonce": "Concernant le nombre d'unités des cyclodextrines :",
+    "options": [
+      "α-cyclodextrine : 6",
+      "β-cyclodextrine : 7",
+      "γ-cyclodextrine : 8",
+      "α-cyclodextrine : 8",
+      "β-cyclodextrine : 6"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Le schéma du cours indique α = 6, β = 7 et γ = 8 unités.",
+    "source": {
+      "page": 24,
+      "extrait": "α= 6 β= 7 … = 8"
+    },
+    "difficulte": 2,
+    "tags": [
+      "cyclodextrines"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/10-solubilisation-dispersion/qcm-029",
+    "type": "multiple",
+    "enonce": "Concernant la structure des cyclodextrines :",
+    "options": [
+      "Des groupes hydroxyle sont portés par les carbones C2 et C3",
+      "Des groupes hydroxyle sont portés par les carbones C6",
+      "L'intérieur de la cavité est relativement apolaire et hydrophobe",
+      "L'intérieur de la cavité est polaire et hydrophile",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Les hydroxyles sont portés par C2, C3 (d'un côté) et C6 (de l'autre) ; l'intérieur de la cavité est relativement apolaire et hydrophobe, ce qui permet d'inclure des molécules lipophiles.",
+    "source": {
+      "page": 25,
+      "extrait": "L'intérieur de la cavité relativement apolaire et hydrophobe"
+    },
+    "difficulte": 2,
+    "tags": [
+      "cyclodextrines",
+      "structure"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/10-solubilisation-dispersion/qcm-030",
+    "type": "multiple",
+    "enonce": "Les paramètres influant sur la formation du complexe d'inclusion sont :",
+    "options": [
+      "La taille de la molécule invitée",
+      "Le diamètre de la cavité de la cyclodextrine",
+      "La couleur de la molécule invitée",
+      "La présence obligatoire d'un tensioactif au-delà de la CMC",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Le cours cite la taille de la molécule invitée (différentes stœchiométries possibles) et le diamètre de la cavité de la cyclodextrine.",
+    "source": {
+      "page": 26,
+      "extrait": "1-La taille de la molécule invitée … 2- Le diamètre de la cavité de la cyclodextrine."
+    },
+    "difficulte": 1,
+    "tags": [
+      "complexation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/10-solubilisation-dispersion/qcm-031",
+    "type": "multiple",
+    "enonce": "Concernant la stœchiométrie des complexes PA/cyclodextrine :",
+    "options": [
+      "Si le PA s'ajuste bien dans la cavité, un complexe de ratio 1/1 est formé",
+      "Si le PA est très large, plusieurs cyclodextrines peuvent l'entourer (ratio 1/2 ou complexes plus grands)",
+      "Si la cavité est suffisamment large, deux molécules de PA peuvent s'y infiltrer (ratio 2/1)",
+      "Un PA très large forme toujours un complexe de ratio 2/1",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Ratio 1/1 : PA bien ajusté ; 1/2 : PA très large entouré par plusieurs cyclodextrines ; 2/1 : cavité large accueillant deux PA.",
+    "source": {
+      "page": 27,
+      "extrait": "Si le principe actif peut bien s'ajuster dans la cavité de la cyclodextrine, un complexe de ratio 1/1 est formé."
+    },
+    "difficulte": 2,
+    "tags": [
+      "complexation",
+      "stœchiométrie"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/10-solubilisation-dispersion/qcm-032",
+    "type": "unique",
+    "enonce": "Un principe actif très large, entouré de plusieurs molécules de cyclodextrine, forme un complexe de ratio :",
+    "options": [
+      "1/2 ou des complexes plus grands",
+      "1/1",
+      "2/1",
+      "0/1",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Si le PA est très large, plusieurs cyclodextrines l'entourent : ratio 1/2 ou plus grand.",
+    "source": {
+      "page": 28,
+      "extrait": "plusieurs molécules de cyclodextrines peuvent l'entourer pour la formation d'un complexe de ratio 1/2"
+    },
+    "difficulte": 2,
+    "tags": [
+      "stœchiométrie"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/10-solubilisation-dispersion/qcm-033",
+    "type": "unique",
+    "enonce": "Lorsque la cavité de la cyclodextrine est suffisamment large pour accueillir deux molécules de PA, le complexe formé est de ratio :",
+    "options": [
+      "2/1",
+      "1/1",
+      "1/2",
+      "1/3",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Deux molécules de PA dans une même cavité donnent un complexe de ratio 2/1.",
+    "source": {
+      "page": 29,
+      "extrait": "deux molécules de principes actifs peuvent s'y infiltrer et le complexe résultant est de ratio 2/1."
+    },
+    "difficulte": 2,
+    "tags": [
+      "stœchiométrie"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/10-solubilisation-dispersion/qcm-034",
+    "type": "multiple",
+    "enonce": "Concernant les dispersions solides :",
+    "options": [
+      "Ce sont des systèmes constitués d'un ou plusieurs PA dispersés à l'état solide",
+      "Le PA y est sous forme de molécules ou de particules",
+      "Le PA est dispersé dans un support ou véhicule inerte (transporteur inerte)",
+      "Elles réunissent diminution de la taille des particules et hydrophilisation dans un véhicule hydrosoluble",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes les propositions correspondent à la définition et au principe des dispersions solides.",
+    "source": {
+      "page": 30,
+      "extrait": "un ou plusieurs principes actifs dispersés à l'état solide (sous forme de molécules ou de particules) dans un support ou véhicule inerte"
+    },
+    "difficulte": 2,
+    "tags": [
+      "dispersion solide"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/10-solubilisation-dispersion/qcm-035",
+    "type": "multiple",
+    "enonce": "Pour améliorer la vitesse de dissolution, selon le cours, on peut :",
+    "options": [
+      "Diminuer la taille des particules",
+      "« Hydrophiliser » leur surface",
+      "Réunir les deux moyens en diminuant la taille des particules au sein d'un véhicule hydrosoluble",
+      "Augmenter la taille des particules",
+      "Rendre la surface plus hydrophobe"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "La vitesse de dissolution est améliorée en diminuant la taille et en hydrophilisant la surface ; les dispersions solides combinent les deux.",
+    "source": {
+      "page": 31,
+      "extrait": "en diminuant la taille des particules, - en « hydrophilisant » leur surface."
+    },
+    "difficulte": 1,
+    "tags": [
+      "dispersion solide",
+      "vitesse de dissolution"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/10-solubilisation-dispersion/qcm-036",
+    "type": "multiple",
+    "enonce": "Concernant la dispersion (opération pharmaceutique) :",
+    "options": [
+      "C'est la division en fines particules d'un produit dans un liquide ou un gaz",
+      "Le produit est insoluble dans le milieu dispersant",
+      "Elle conduit à une préparation biphasique",
+      "Elle conduit à une seule phase, comme la dissolution",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "À la différence de la dissolution (une seule phase), la dispersion d'un produit insoluble conduit à une préparation biphasique.",
+    "source": {
+      "page": 33,
+      "extrait": "À la différence de la dissolution qui aboutit à une seule phase, la dispersion … conduit à une préparation biphasique."
+    },
+    "difficulte": 1,
+    "tags": [
+      "dispersion"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/10-solubilisation-dispersion/qcm-037",
+    "type": "multiple",
+    "enonce": "Associez correctement le type de dispersion :",
+    "options": [
+      "Émulsion : dispersion d'un liquide dans un autre liquide",
+      "Suspension : dispersion d'un solide dans un liquide",
+      "Mousse : dispersion d'un gaz dans un liquide",
+      "Aérosol : dispersion d'un solide ou d'un liquide dans un gaz",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Ce sont les quatre définitions du cours.",
+    "source": {
+      "page": 34,
+      "extrait": "Une émulsion : dispersion d'un liquide dans un autre liquide ; Une suspension : dispersion d'un solide dans un liquide"
+    },
+    "difficulte": 1,
+    "tags": [
+      "dispersion"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/10-solubilisation-dispersion/qcm-038",
+    "type": "unique",
+    "enonce": "La dispersion d'un solide dans un liquide est :",
+    "options": [
+      "Une suspension",
+      "Une émulsion",
+      "Une mousse",
+      "Un aérosol",
+      "Une solution"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Suspension = solide dans liquide ; émulsion = liquide dans liquide ; mousse = gaz dans liquide ; aérosol = solide ou liquide dans un gaz.",
+    "source": {
+      "page": 34,
+      "extrait": "Une suspension : dispersion d'un solide dans un liquide"
+    },
+    "difficulte": 1,
+    "tags": [
+      "dispersion",
+      "suspension"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/10-solubilisation-dispersion/qcm-039",
+    "type": "unique",
+    "enonce": "La dispersion d'un gaz dans un liquide est :",
+    "options": [
+      "Une mousse",
+      "Un aérosol",
+      "Une émulsion",
+      "Une suspension",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "La mousse est la dispersion d'un gaz dans un liquide ; l'aérosol est la dispersion d'un solide ou d'un liquide dans un gaz.",
+    "source": {
+      "page": 34,
+      "extrait": "Une mousse : dispersion d'un gaz dans un liquide"
+    },
+    "difficulte": 1,
+    "tags": [
+      "dispersion",
+      "mousse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/10-solubilisation-dispersion/qcm-040",
+    "type": "multiple",
+    "enonce": "Un aérosol est la dispersion :",
+    "options": [
+      "D'un solide dans un gaz",
+      "D'un liquide dans un gaz",
+      "D'un gaz dans un liquide",
+      "D'un liquide dans un liquide",
+      "D'un solide dans un liquide"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "L'aérosol est la dispersion d'un solide ou d'un liquide dans un gaz.",
+    "source": {
+      "page": 34,
+      "extrait": "Un aérosol : dispersion d'un solide ou d'un liquide dans un gaz."
+    },
+    "difficulte": 1,
+    "tags": [
+      "aérosol"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/10-solubilisation-dispersion/qcm-041",
+    "type": "multiple",
+    "enonce": "Comparaison solubilisation / dispersion :",
+    "options": [
+      "La solubilisation conduit à une solution thermodynamiquement stable",
+      "La dispersion conduit à une préparation biphasique",
+      "Dans la dispersion, le produit est insoluble dans le milieu",
+      "La solubilisation conduit à une préparation biphasique",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "La solubilisation donne une solution (une phase) thermodynamiquement stable ; la dispersion d'un produit insoluble donne une préparation biphasique.",
+    "source": {
+      "page": 33,
+      "extrait": "la dispersion ou division en fines particules d'un produit dans un liquide ou un gaz dans lequel il est insoluble, conduit à une préparation biphasique."
+    },
+    "difficulte": 2,
+    "tags": [
+      "solubilisation",
+      "dispersion"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/10-solubilisation-dispersion/qcm-042",
+    "type": "multiple",
+    "enonce": "Parmi les associations méthode/exemple suivantes, lesquelles sont correctes ?",
+    "options": [
+      "Co-solvant : propylène glycol",
+      "Hydrotropie : benzoate de sodium pour la caféine",
+      "Complexation : cyclodextrines",
+      "Solubilisation micellaire : tensioactifs au-delà de la CMC",
+      "Dispersion solide : NaOH"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "La NaOH sert à l'ajustement du pH, non à la dispersion solide (PA dispersé dans un véhicule inerte).",
+    "source": {
+      "page": 7,
+      "extrait": "Utilisation de co-solvants Hydrotropie Ajustement du pH Solubilisation micellaire Complexation Dispersion solide"
+    },
+    "difficulte": 2,
+    "tags": [
+      "méthodes",
+      "synthèse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/10-solubilisation-dispersion/qcm-043",
+    "type": "unique",
+    "enonce": "Un PA peu polaire, dégradé par hydrolyse, doit être formulé en solution. La méthode qui présente ces deux avantages est :",
+    "options": [
+      "L'utilisation d'un co-solvant",
+      "L'ajout de grandes quantités d'eau",
+      "L'hydrotropie au benzoate de sodium uniquement",
+      "La dispersion dans un gaz",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Les co-solvants augmentent la solubilité des PA peu polaires et diminuent la dégradation des PA hydrolysables.",
+    "source": {
+      "page": 9,
+      "extrait": "Augmentation de la solubilité des PA peu polaires. • Diminution de la dégradation des PA dégradés par hydrolyse."
+    },
+    "difficulte": 2,
+    "tags": [
+      "co-solvant"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/10-solubilisation-dispersion/qcm-044",
+    "type": "multiple",
+    "enonce": "Concernant les tensioactifs dans la solubilisation micellaire :",
+    "options": [
+      "Ce sont des molécules amphiphiles",
+      "Ils forment des micelles à partir de la CMC",
+      "Les micelles nécessitent une forte proportion d'eau",
+      "Ils incorporent les substances dans ou sur les micelles",
+      "Ce sont des molécules strictement hydrophiles"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Les tensioactifs sont amphiphiles (non strictement hydrophiles) ; en présence d'une forte proportion d'eau, ils forment des micelles à partir de la CMC.",
+    "source": {
+      "page": 18,
+      "extrait": "La solubilisation micellaire est le processus d'incorporation des substances dans ou sur les micelles."
+    },
+    "difficulte": 2,
+    "tags": [
+      "tensioactifs"
+    ],
+    "origine": "genere"
+  }
+]

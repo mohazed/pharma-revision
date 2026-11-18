@@ -1,0 +1,74 @@
+[
+  {
+    "id": "chimie-analytique/td/01-td-extraction-liquide-liquide/flash-001",
+    "recto": "Exercice 1 : piège",
+    "verso": "Convertir 5,6 mg/100 mL en 0,056 mg/mL avant de calculer λ = S(éther)/S(eau) ≈ 0,102.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/td/01-td-extraction-liquide-liquide/flash-002",
+    "recto": "Exercice 2 : masse de résidu",
+    "verso": "α = 1,6 ; QB = 1,6/2,6 × 5·10⁻⁴ mol × 240 g/mol ≈ 73,8 mg.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/td/01-td-extraction-liquide-liquide/flash-003",
+    "recto": "Exercice 3 : rendements pour VB = 1, 5, 10 mL",
+    "verso": "60 % ; 88,2 % ; 93,75 % (volume ×10 ≠ rendement ×10).",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/td/01-td-extraction-liquide-liquide/flash-004",
+    "recto": "Exercice 4 : choix du solvant",
+    "verso": "Acétate d'amyle (λ = 7 > chloroforme 6,5 > éther 0,83).",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/td/01-td-extraction-liquide-liquide/flash-005",
+    "recto": "Exercice 4 : nombre d'extractions",
+    "verso": "4,5ⁿ = 24/1,185 = 20,25 → n = 2.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/td/01-td-extraction-liquide-liquide/flash-006",
+    "recto": "Exercice 4 : volume pour 23 mg en une fois",
+    "verso": "α = 23 → VB = 23 × 40/7 ≈ 131,4 mL.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/td/01-td-extraction-liquide-liquide/flash-007",
+    "recto": "Exercice 5 : rendements 1×40, 2×20, 4×10, 8×5 mL",
+    "verso": "87,8 % ; 95,3 % ; 98,4 % ; 99,4 %.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/td/01-td-extraction-liquide-liquide/flash-008",
+    "recto": "Exercice 6 : pH pour D = λ/2",
+    "verso": "pH = pKa = 4.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/td/01-td-extraction-liquide-liquide/flash-009",
+    "recto": "Exercice 7 : conditions pour 99 %",
+    "verso": "pH ≥ 10 (pKa + 2), D ≈ 25, VB/VA = 3,96.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/td/01-td-extraction-liquide-liquide/flash-010",
+    "recto": "Exercice 7 : rendement à pH 5",
+    "verso": "D ≈ 0,025 → ρ ≈ 9 %.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/td/01-td-extraction-liquide-liquide/flash-011",
+    "recto": "Exercice 8 : λ de l'acide benzoïque",
+    "verso": "(1 + λ)² = 1/0,0323 → λ ≈ 4,56.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/td/01-td-extraction-liquide-liquide/flash-012",
+    "recto": "Exercice 8 : benzoate de sodium par ampoule",
+    "verso": "≈ 294 mg d'acide benzoïque × 144/122 ≈ 347 mg.",
+    "tags": []
+  }
+]

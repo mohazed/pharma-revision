@@ -1,0 +1,144 @@
+[
+  {
+    "id": "pharmacologie/09-biodisponibilite/calc-001",
+    "titre": "Biodisponibilité absolue (doses égales)",
+    "enonce": "La même dose est administrée par voie orale et IV au même sujet. ASC orale = {aor} mg.h/L ; ASC IV = {aiv} mg.h/L. Calculer F (en %).",
+    "variables": {
+      "aor": {
+        "min": 5,
+        "max": 60,
+        "pas": 1,
+        "unite": "mg.h/L"
+      },
+      "aiv": {
+        "min": 60,
+        "max": 120,
+        "pas": 5,
+        "unite": "mg.h/L"
+      }
+    },
+    "formule": "aor / aiv * 100",
+    "unite": "%",
+    "decimales": 1,
+    "etapes": [
+      "F = ASC orale / ASC IV",
+      "F = {aor} / {aiv}",
+      "× 100 pour exprimer en %"
+    ],
+    "rappel": "F = ASC orale / ASC IV"
+  },
+  {
+    "id": "pharmacologie/09-biodisponibilite/calc-002",
+    "titre": "Biodisponibilité absolue (doses différentes)",
+    "enonce": "On administre {dor} mg par voie orale (ASC = {aor} mg.h/L) et {div} mg par voie IV (ASC = {aiv} mg.h/L). La pharmacocinétique est linéaire. Calculer F (en %).",
+    "variables": {
+      "dor": {
+        "min": 200,
+        "max": 1000,
+        "pas": 50,
+        "unite": "mg"
+      },
+      "aor": {
+        "min": 10,
+        "max": 80,
+        "pas": 2,
+        "unite": "mg.h/L"
+      },
+      "div": {
+        "min": 50,
+        "max": 200,
+        "pas": 10,
+        "unite": "mg"
+      },
+      "aiv": {
+        "min": 20,
+        "max": 60,
+        "pas": 2,
+        "unite": "mg.h/L"
+      }
+    },
+    "formule": "(aor * div) / (aiv * dor) * 100",
+    "unite": "%",
+    "decimales": 1,
+    "etapes": [
+      "F = (ASC orale × dose IV) / (ASC IV × dose orale)",
+      "F = ({aor} × {div}) / ({aiv} × {dor})"
+    ],
+    "rappel": "F = ASC orale × dose IV / (ASC IV × dose orale)"
+  },
+  {
+    "id": "pharmacologie/09-biodisponibilite/calc-003",
+    "titre": "Quantité atteignant la circulation générale",
+    "enonce": "Un médicament de biodisponibilité F = {F} est administré à la dose de {d} mg. Quelle quantité atteint la circulation générale ?",
+    "variables": {
+      "F": {
+        "min": 0.1,
+        "max": 1,
+        "pas": 0.05,
+        "unite": ""
+      },
+      "d": {
+        "min": 50,
+        "max": 1000,
+        "pas": 50,
+        "unite": "mg"
+      }
+    },
+    "formule": "d * F",
+    "unite": "mg",
+    "decimales": 1,
+    "etapes": [
+      "Q = dose × F",
+      "Q = {d} × {F}"
+    ],
+    "rappel": "Q = dose × F"
+  },
+  {
+    "id": "pharmacologie/09-biodisponibilite/calc-004",
+    "titre": "Biodisponibilité relative",
+    "enonce": "À dose égale, l'ASC du produit testé est de {at} mg.h/L et celle de la forme de référence de {ar} mg.h/L. Calculer la biodisponibilité relative.",
+    "variables": {
+      "at": {
+        "min": 50,
+        "max": 120,
+        "pas": 1,
+        "unite": "mg.h/L"
+      },
+      "ar": {
+        "min": 80,
+        "max": 110,
+        "pas": 1,
+        "unite": "mg.h/L"
+      }
+    },
+    "formule": "at / ar * 100",
+    "unite": "%",
+    "decimales": 1,
+    "etapes": [
+      "BR = ASC forme 1 / ASC forme réf × 100",
+      "BR = {at} / {ar} × 100"
+    ],
+    "rappel": "BR = ASC forme 1 / ASC forme réf × 100"
+  },
+  {
+    "id": "pharmacologie/09-biodisponibilite/calc-005",
+    "titre": "Durée minimale de suivi des concentrations",
+    "enonce": "Un PA a une T1/2 de {t} h. Calculer la durée minimale (borne basse 3 T1/2) de suivi de la concentration plasmatique dans une étude de biodisponibilité.",
+    "variables": {
+      "t": {
+        "min": 1,
+        "max": 24,
+        "pas": 1,
+        "unite": "h"
+      }
+    },
+    "formule": "3 * t",
+    "unite": "h",
+    "decimales": 0,
+    "etapes": [
+      "Suivi pendant au moins 3 à 5 T1/2",
+      "Borne basse = 3 × {t}"
+    ],
+    "rappel": "La concentration plasmatique doit être suivie pendant au moins 3 à 5 T1/2."
+  }
+]

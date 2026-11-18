@@ -1,0 +1,66 @@
+[
+  {
+    "id": "chimie-analytique/td/02-td-applications-extraction-ll/calcul-001",
+    "titre": "TD2 Ex.1 – Rendement d'extraction du chélate ML₂ selon le pH",
+    "enonce": "λH = 10⁴, λM = 7·10⁴, Ka = 5·10⁻⁵, β = 2,5·10¹⁶, [HL]org = 10⁻⁴ M, VA = 100 mL, VB = 10 mL. Calculer le rendement à pH = {pH}.",
+    "variables": {
+      "pH": {
+        "min": 1,
+        "max": 5,
+        "pas": 0.5,
+        "unite": ""
+      }
+    },
+    "formule": "100*(1-1/(1+7e4/(1+1e8*Math.pow(10,-2*pH)/(2.5e16*1e-8*2.5e-9))*0.1))",
+    "unite": "%",
+    "decimales": 2,
+    "etapes": [
+      "Étape 1 : [H⁺] = 10^(−pH)",
+      "Étape 2 : β·C²·Ka² = 2,5·10¹⁶ × 10⁻⁸ × 2,5·10⁻⁹ = 0,625",
+      "Étape 3 : D = λM/(1 + λH²[H⁺]²/0,625)",
+      "Étape 4 : ρ = 1 − 1/(1 + D × 10/100)"
+    ],
+    "rappel": "D = λM/(1 + λHⁿ[H⁺]ⁿ/(KsCⁿKaⁿ)) ; ρ = 1 − 1/(1 + D·VB/VA)."
+  },
+  {
+    "id": "chimie-analytique/td/02-td-applications-extraction-ll/calcul-002",
+    "titre": "TD2 Ex.2 – Pureté d'un chlorhydrate par titrage au DOSS",
+    "enonce": "Prise d'essai : {m} mg ; DOSS {C} mol/L ; chute de burette {V} mL ; masse molaire exprimée {M} g/mol (stœchiométrie 1:1). Calculer la pureté en %.",
+    "variables": {
+      "m": {
+        "min": 25,
+        "max": 40,
+        "pas": 0.1,
+        "unite": "mg"
+      },
+      "C": {
+        "min": 0.01,
+        "max": 0.02,
+        "pas": 0.0001,
+        "unite": "mol/L"
+      },
+      "V": {
+        "min": 4,
+        "max": 7,
+        "pas": 0.05,
+        "unite": "mL"
+      },
+      "M": {
+        "min": 270.8,
+        "max": 288.82,
+        "pas": 18.02,
+        "unite": "g/mol"
+      }
+    },
+    "formule": "100*C*V*M/m",
+    "unite": "%",
+    "decimales": 2,
+    "etapes": [
+      "Étape 1 : n(DOSS) = C × V (mmol si V en mL)",
+      "Étape 2 : n(lidocaïne) = n(DOSS) (1:1)",
+      "Étape 3 : masse dosée = n × M (mg)",
+      "Étape 4 : pureté = masse dosée/prise d'essai × 100"
+    ],
+    "rappel": "Volumétrie par extraction de paires d'ions : solution titrée de DOSS."
+  }
+]

@@ -1,0 +1,72 @@
+{
+  "id": "chimie-analytique/05-applications-extraction-ll/fiche-001",
+  "titre": "Applications de l'extraction liquide-liquide",
+  "sections": [
+    {
+      "titre": "Molécules simples",
+      "points": [
+        "Extraction non strictement spécifique : groupe d'une même famille en une étape (benzodiazépines, lipides).",
+        "Structure : λ ↑ avec la chaîne (+≈4 par CH₂), Cl ↑ ; ramification, insaturation, phényle, groupements hydrophiles ↓.",
+        "Dimérisation en phase organique : **D = λ(1 + 2K₂[AH]org)** ↑ ; en phase aqueuse : D ↓.",
+        "Complexe chargé (I₂/I₃⁻) : **D = λ/(1 + Ks[I⁻])** → [I⁻] minimale."
+      ]
+    },
+    {
+      "titre": "Influence du pH",
+      "points": [
+        "Seules les **molécules neutres** sont extraites.",
+        "Acide : **D = λ/(1 + Ka/[H₃O⁺])** → extraire à pH bas (≤ pKa − 2).",
+        "Base : **D = λ/(1 + [H₃O⁺]/Ka)** → extraire à pH élevé (≥ pKa + 2).",
+        "Ibuprofène pKa 4,6 ; amitriptyline pKa 9,45."
+      ]
+    },
+    {
+      "titre": "Chélates métalliques",
+      "points": [
+        "Chélate = complexe cyclique, ≥ 2 groupements donneurs d'un seul ligand ; [MLn] neutre (masquage).",
+        "Oxine (hydroxy-8-quinoléine), dithizone (H₂Dz, diacide).",
+        "**KEX = λM·Kaⁿ·Ks/λHⁿ** ; **D = λM/(1 + λHⁿ[H⁺]ⁿ/(KsCⁿKaⁿ))**.",
+        "D élevé : λH faible, pKa bas, pH ≥ pKa + 2, C élevée, Ks élevé.",
+        "ρ = 1 − 1/(1 + D·VB/VA).",
+        "Applications : Cu (diéthyldithiocarbamate, néocuproïne), Fe (8-hydroxyquinoléate), Pb (dithizone), essais limites."
+      ]
+    },
+    {
+      "titre": "Paires d'ions",
+      "points": [
+        "Masquer la charge d'ions organiques à pôle hydrophobe.",
+        "εr < 15 : paires non dissociées ; > 40 : dissociation totale (eau ε = 80).",
+        "**pKd = A + C/ε** (Bjerrum, Denison et Ramsay) : stable si Kd faible et ε faible.",
+        "Anions : LSS, DOSS, tétraphénylborate, colorants acides ; cations : ammoniums quaternaires, alcaloïdes, colorants basiques.",
+        "pH : sans influence si protolytes forts ; sinon risque de neutralisation (alcaloïdes à pH élevé, éosinates à pH bas)."
+      ]
+    },
+    {
+      "titre": "Dosages",
+      "points": [
+        "Colorimétrie : colorant antagoniste en excès, insoluble en phase organique ; lecture directe ou après réextraction (pH 13 si anionique, acide si cationique).",
+        "Volumétrie : titrant LSS/DOSS 0,01 M ; étalons papavérine, phénothiazines ; indicateurs jaune de méthyle (± bleu Oracet B), virage jaune → rouge.",
+        "Indicateur : paire avec le titrant MOINS stable que celle du cation dosé."
+      ]
+    },
+    {
+      "titre": "Bilan",
+      "points": [
+        "Avantages : coût, concentration, purification, matrices variées, large gamme.",
+        "Inconvénients : solvants (volume, toxicité), molécules très polaires, manuel."
+      ]
+    }
+  ],
+  "aRetenir": [
+    "Acide → pH bas ; base → pH élevé (pKa ± 2).",
+    "Chélate : pH élevé favorise D.",
+    "Paire d'ions : solvant peu dissociant (ε < 15)."
+  ],
+  "pieges": [
+    "Dimérisation en phase AQUEUSE diminue D.",
+    "Ajouter de l'iodure DIMINUE l'extraction de I₂.",
+    "Pour un acide, à pH élevé : log D = log λ + pKa − pH (et non − pKa + pH).",
+    "λH doit être FAIBLE pour un bon D du chélate.",
+    "L'indicateur forme une paire MOINS stable que le cation dosé."
+  ]
+}

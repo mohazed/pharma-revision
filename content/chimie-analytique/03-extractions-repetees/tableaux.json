@@ -1,0 +1,68 @@
+[
+  {
+    "id": "chimie-analytique/03-extractions-repetees/tableau-001",
+    "titre": "Comparaison des modes d'extraction (λ = 9, VA = 50 mL, VB total = 40 mL)",
+    "colonnes": [
+      "Mode",
+      "α par étage",
+      "Fraction restante",
+      "Rendement"
+    ],
+    "lignes": [
+      [
+        "1 × 40 mL",
+        "7,2",
+        "1/8,2",
+        "≈ 87,8 %"
+      ],
+      [
+        "2 × 20 mL",
+        "3,6",
+        "1/4,6²",
+        "≈ 95,3 %"
+      ],
+      [
+        "4 × 10 mL",
+        "1,8",
+        "1/2,8⁴",
+        "≈ 98,4 %"
+      ],
+      [
+        "8 × 5 mL",
+        "0,9",
+        "1/1,9⁸",
+        "≈ 99,4 %"
+      ]
+    ]
+  },
+  {
+    "id": "chimie-analytique/03-extractions-repetees/tableau-002",
+    "titre": "Formules de rendement",
+    "colonnes": [
+      "Situation",
+      "Formule"
+    ],
+    "lignes": [
+      [
+        "Extraction simple",
+        "ρ = α/(1+α)"
+      ],
+      [
+        "Répétée, volumes différents",
+        "ρ = 1 − 1/[(1+α1)…(1+αn)]"
+      ],
+      [
+        "Répétée, volumes égaux",
+        "ρ = 1 − 1/(1 + λVB/VA)ⁿ"
+      ],
+      [
+        "Répétée, volume total limité",
+        "ρ = 1 − 1/(1 + λVB/(nVA))ⁿ"
+      ],
+      [
+        "Plusieurs formes",
+        "remplacer λ par D"
+      ]
+    ]
+  }
+]

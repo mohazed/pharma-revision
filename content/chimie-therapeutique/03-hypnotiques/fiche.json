@@ -1,0 +1,105 @@
+{
+  "id": "chimie-therapeutique/03-hypnotiques/fiche",
+  "titre": "Les hypnotiques : l'essentiel",
+  "sections": [
+    {
+      "titre": "Généralités",
+      "points": [
+        "Hypnotiques (somnifères) : facilitent l'**installation** et le **maintien** du sommeil",
+        "Petite dose : calme, somnolence, bien-être ; forte dose : intoxication, coma, mort",
+        "Psycholeptiques nooleptiques (classification de Delay et Deniker)"
+      ]
+    },
+    {
+      "titre": "Sommeil et insomnie",
+      "points": [
+        "Sommeil : état naturel réversible, perte de conscience, baisse de l'activité sensorielle, repos musculaire",
+        "Cycle : 1 h 30, 4 à 6 cycles par nuit (sommeil lent léger, lent profond, paradoxal)",
+        "Insomnie : difficultés d'endormissement, réveils multiples, réveil précoce ; **chronique** si > 3 fois/semaine depuis > 3 mois"
+      ]
+    },
+    {
+      "titre": "Historique",
+      "points": [
+        "Opium puis laudanum (XVIIe siècle)",
+        "Bromures, paraldéhyde, hydrate de chloral",
+        "Barbituriques en **1903** (barbital)",
+        "Antihistaminiques H1 pendant la Deuxième Guerre mondiale",
+        "Chlordiazépoxide (Librium®) en **1960** : Leo Sternbach"
+      ]
+    },
+    {
+      "titre": "Classification",
+      "points": [
+        "Barbituriques",
+        "Benzodiazépines hypnotiques",
+        "Apparentés aux benzodiazépines",
+        "Antihistaminiques hypnotiques"
+      ]
+    },
+    {
+      "titre": "Benzodiazépines hypnotiques",
+      "points": [
+        "Noyau : benzène (A) + diazépine à 7 atomes (B) ; molécules **basiques et lipophiles** ; majorité de type **1,4**",
+        "A. Diazépinones 7-nitrées : nitrazépam (Mogadan®), flunitrazépam (Rohypnol®, retiré en 2013)",
+        "B. Diazépinolone (OH en 3) : lormétazépam (Noctamide®, X = Cl), témazépam (Normison®, X = H)",
+        "C. Imidazolés : loprazolam (Havlane®) ; triazolés : triazolam (Halcion®)"
+      ]
+    },
+    {
+      "titre": "Synthèse du nitrazépam",
+      "points": [
+        "Départ : ortho-aminobenzophénone avec X = NO2",
+        "1. Acylation par le bromure (ou chlorure) de bromoacétyle (–HBr)",
+        "2. Substitution nucléophile par NH3",
+        "3. Cyclisation avec perte d'une molécule d'eau → nitrazépam"
+      ]
+    },
+    {
+      "titre": "RSA",
+      "points": [
+        "Substituants en 7 toujours **électroattracteurs** ; autre position → activité diminuée",
+        "**NO2** → hypnotique ; **Cl** → anxiolytique",
+        "Radical alkyle sur N1 : augmente l'activité s'il n'est pas trop encombré (CH3)",
+        "Groupe électroattracteur nécessaire en 2 (O ou N) ; CH2, OH ou COOH sur le carbone voisin",
+        "Cycle triazolé ou imidazolé fusionné : protection de l'oxydation + augmentation de l'activité"
+      ]
+    },
+    {
+      "titre": "Mode d'action et tolérance",
+      "points": [
+        "Fixation sur le récepteur **GABAA** : potentialisation du GABA, affinité accrue, probabilité d'ouverture du canal Cl⁻ augmentée",
+        "Traitement bref (quelques jours à 4 semaines), arrêt progressif",
+        "Effets : somnolence, vertiges, faiblesse musculaire ; à long terme : dépendance, troubles de la mémoire et de l'apprentissage"
+      ]
+    },
+    {
+      "titre": "Apparentés aux BZD",
+      "points": [
+        "Pharmacologiquement apparentés, chimiquement différents",
+        "Zolpidem : imidazopyridine ; zaleplon : pyrazolopyrimidine ; zopiclone : cyclopyrrolone",
+        "Durée et qualité du sommeil améliorées, réveils diminués"
+      ]
+    },
+    {
+      "titre": "Antihistaminiques hypnotiques",
+      "points": [
+        "Phénothiazines : prométhazine (Phénergan®)",
+        "Éther du benzhydrol : doxylamine (Donormyl®/Sulamine®)",
+        "Effet sédatif central histaminergique et adrénolytique ; moins de troubles amnésiques, dépendance faible",
+        "Officine : anti-H1 sans ordonnance ; plantes : valériane, passiflore, aubépine"
+      ]
+    }
+  ],
+  "aRetenir": [
+    "NO2 en 7 = hypnotique, Cl en 7 = anxiolytique",
+    "Nitrazépam = 7-nitro-5-phényl-1,4-benzodiazépin-2-one, non substitué sur N1",
+    "Zolpidem / zaleplon / zopiclone : imidazopyridine / pyrazolopyrimidine / cyclopyrrolone"
+  ],
+  "pieges": [
+    "La durée maximale est de 4 semaines pour un hypnotique BZD (12 semaines pour l'anxiolytique)",
+    "Le loprazolam est imidazolé, le triazolam est triazolé",
+    "Les apparentés aux BZD ne sont pas des benzodiazépines chimiquement",
+    "Flunitrazépam : retiré du marché en 2013"
+  ]
+}

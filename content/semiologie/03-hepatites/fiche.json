@@ -1,0 +1,58 @@
+{
+  "id": "semiologie/03-hepatites/fiche",
+  "titre": "Sémiologie des hépatites",
+  "sections": [
+    {
+      "titre": "Définition et fonctions",
+      "points": [
+        "Inflammation du parenchyme + nécrose hépatocytaire ; aiguë < 6 mois, chronique > 6 mois.",
+        "5 causes : virus, médicaments/toxiques, alcool, auto-immunité, métabolisme.",
+        "Bilirubine : normale < 17, subictère ≈ 30, ictère franc > 50 µmol/L."
+      ]
+    },
+    {
+      "titre": "Clinique",
+      "points": [
+        "4 phases : incubation, pré-ictérique (3–10 j, pseudo-grippal), ictérique (2–6 sem, fièvre disparaît), convalescence.",
+        "Majorité asymptomatiques ou anictériques ; **asthénie = signe le plus constant**.",
+        "Triade ictérique : ictère, urines foncées (précèdent l'ictère), selles décolorées ; prurit = cholestase."
+      ]
+    },
+    {
+      "titre": "Biologie",
+      "points": [
+        "Cytolyse (ALAT > ASAT, > 10 N si aiguë) ; ASAT/ALAT > 1 = alcool/cirrhose.",
+        "Cholestase : PAL + γGT + BC ; PAL isolée = os, grossesse ; γGT isolée = alcool, inducteurs, stéatose.",
+        "IHC : TP, V, albumine ↓ ; V normal = carence en vitamine K.",
+        "Transaminases ≠ gravité."
+      ]
+    },
+    {
+      "titre": "Gravité",
+      "points": [
+        "Sévère : TP < 50 % ; fulminante : + encéphalopathie < 2 sem ; subfulminante : 2–12 sem.",
+        "Alerte : somnolence, confusion, astérixis, saignements, fœtor, hypoglycémie → hospitalisation, transplantation, arrêt paracétamol/AINS/BZD."
+      ]
+    },
+    {
+      "titre": "Étiologies",
+      "points": [
+        "VHA/VHE féco-orale ; VHB ADN (chronicité 90 % nouveau-né) ; VHC 70 % chronicité, pas de vaccin ; VHD avec VHB.",
+        "Vacciné VHB : anti-HBs seul ; guéri : anti-HBc + anti-HBs.",
+        "Hépatite médicamenteuse : R = (ALAT/N)/(PAL/N) ; réintroduction contre-indiquée ; paracétamol 4 g/j, 150 mg/kg, NAC."
+      ]
+    }
+  ],
+  "aRetenir": [
+    "Toute hépatite aiguë impose un dosage du TP.",
+    "Tout médicament, plante ou complément des 3 derniers mois est suspect.",
+    "Pour le VHC, seul l'ARN affirme l'infection active."
+  ],
+  "pieges": [
+    "La fièvre disparaît à la phase ictérique.",
+    "Splénomégalie inconstante.",
+    "Angiomes stellaires = IHC, pas hypertension portale.",
+    "Pas de vaccin contre le VHC ni le VHE.",
+    "La réintroduction du médicament suspect est contre-indiquée."
+  ]
+}

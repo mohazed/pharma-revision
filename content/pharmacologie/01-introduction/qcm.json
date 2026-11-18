@@ -1,0 +1,1728 @@
+[
+  {
+    "id": "pharmacologie/01-introduction/qcm-001",
+    "type": "multiple",
+    "enonce": "Concernant la pharmacologie :",
+    "options": [
+      "Elle tire son nom du mot grec « Pharmakon » qui veut dire remède mais aussi drogue",
+      "Elle est définie comme « la science du médicament »",
+      "Elle étudie les effets des produits biologiquement actifs sur l'organisme et comment ce dernier réagit à ces drogues",
+      "Elle est « la science des effets et du devenir dans l'organisme des médicaments »",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Les quatre propositions reprennent mot pour mot les définitions du cours : origine grecque « Pharmakon » (remède mais aussi drogue), science du médicament, étude des effets des produits biologiquement actifs et de la réaction de l'organisme, science des effets et du devenir des médicaments. La proposition e est donc juste.",
+    "source": {
+      "page": 3,
+      "extrait": "mot grec “ Pharmakon ” qui veut dire remède mais aussi drogue"
+    },
+    "difficulte": 1,
+    "tags": [
+      "définition",
+      "pharmacologie"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/01-introduction/qcm-002",
+    "type": "unique",
+    "enonce": "Le mot grec « Pharmakon », à l'origine du terme pharmacologie, signifie :",
+    "options": [
+      "Science des plantes",
+      "Remède mais aussi drogue",
+      "Remède uniquement",
+      "Poison uniquement",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Le cours précise que « Pharmakon » veut dire remède mais aussi drogue : les deux sens coexistent. « Remède uniquement » est donc un piège (mot « uniquement »).",
+    "source": {
+      "page": 3,
+      "extrait": "Pharmakon ” qui veut dire remède mais aussi drogue"
+    },
+    "difficulte": 1,
+    "tags": [
+      "étymologie"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/01-introduction/qcm-003",
+    "type": "multiple",
+    "enonce": "La pharmacovigilance :",
+    "options": [
+      "Est la surveillance des effets indésirables des médicaments",
+      "Est l'étude du prix des médicaments",
+      "Est l'étude de l'influence du génotype sur la variabilité de la réponse à un traitement",
+      "Est synonyme d'essais cliniques",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "La pharmacovigilance est la surveillance des effets indésirables des médicaments. L'étude du prix est la pharmacoéconomie, l'influence du génotype la pharmacogénétique et le synonyme d'essais cliniques la pharmacologie clinique.",
+    "source": {
+      "page": 4,
+      "extrait": "C’est la surveillance des effets indésirables des médicaments."
+    },
+    "difficulte": 1,
+    "tags": [
+      "branches",
+      "pharmacovigilance"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/01-introduction/qcm-004",
+    "type": "multiple",
+    "enonce": "La pharmacogénétique :",
+    "options": [
+      "Est l'étude de l'influence du génotype sur la variabilité de la réponse à un traitement médicamenteux",
+      "Est l'étude des effets des médicaments chez l'Homme",
+      "Est la surveillance des effets indésirables",
+      "Est l'étude des effets des médicaments sur des modèles d'animaux spécifiques",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "La pharmacogénétique étudie l'influence du génotype sur la variabilité de la réponse au traitement. Les effets chez l'Homme relèvent de la pharmacologie clinique, la surveillance des effets indésirables de la pharmacovigilance et les modèles animaux de la pharmacologie expérimentale.",
+    "source": {
+      "page": 4,
+      "extrait": "l'étude de l’influence du génotype sur la variabilité de la réponse à un traitement médicamenteux"
+    },
+    "difficulte": 1,
+    "tags": [
+      "branches",
+      "pharmacogénétique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/01-introduction/qcm-005",
+    "type": "multiple",
+    "enonce": "La pharmacologie clinique :",
+    "options": [
+      "Est l'étude des effets des médicaments chez l'Homme",
+      "Est un terme synonyme d'essais cliniques",
+      "Est l'étude de l'effet des médicaments sur des cultures cellulaires in vitro",
+      "Est l'étude de l'effet des médicaments sur des modèles d'animaux in vivo",
+      "Est l'étude du prix des médicaments"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "La pharmacologie clinique étudie les effets des médicaments chez l'Homme et ce terme est synonyme d'essais cliniques. Les cultures cellulaires et les modèles animaux relèvent de la pharmacologie expérimentale ; le prix relève de la pharmacoéconomie.",
+    "source": {
+      "page": 4,
+      "extrait": "C’est l’étude des effets des médicaments chez l’Homme. Ce terme est synonyme d’essais cliniques."
+    },
+    "difficulte": 1,
+    "tags": [
+      "branches",
+      "pharmacologie clinique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/01-introduction/qcm-006",
+    "type": "multiple",
+    "enonce": "La pharmacologie expérimentale étudie l'effet des médicaments :",
+    "options": [
+      "Sur des cultures cellulaires, in vitro",
+      "Sur des organes entiers, in vitro",
+      "Sur des modèles d'animaux spécifiques, in vivo",
+      "Chez l'Homme, dans le cadre des essais cliniques",
+      "Sur le prix de revient du médicament"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Selon le cours, la pharmacologie expérimentale porte sur les cultures cellulaires ou organes entiers in vitro, ou sur des modèles d'animaux spécifiques in vivo. L'étude chez l'Homme correspond à la pharmacologie clinique, le prix à la pharmacoéconomie.",
+    "source": {
+      "page": 4,
+      "extrait": "sur des cultures cellulaires ou organes entiers, in vitro, ou sur des modèles d’animaux spécifiques, in vivo"
+    },
+    "difficulte": 2,
+    "tags": [
+      "branches",
+      "pharmacologie expérimentale"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/01-introduction/qcm-007",
+    "type": "unique",
+    "enonce": "La pharmacoéconomie est :",
+    "options": [
+      "La surveillance des effets indésirables des médicaments",
+      "L'étude du prix des médicaments",
+      "L'étude des effets des médicaments chez l'Homme",
+      "L'étude de l'influence du génotype sur la réponse au traitement",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Le cours définit la pharmacoéconomie comme l'étude du prix des médicaments. Les autres propositions correspondent respectivement à la pharmacovigilance, à la pharmacologie clinique et à la pharmacogénétique.",
+    "source": {
+      "page": 4,
+      "extrait": "C’est l’étude du prix des médicaments."
+    },
+    "difficulte": 1,
+    "tags": [
+      "branches",
+      "pharmacoéconomie"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/01-introduction/qcm-008",
+    "type": "multiple",
+    "enonce": "Parmi les branches de la pharmacologie citées dans le cours, on trouve :",
+    "options": [
+      "La pharmacovigilance",
+      "La pharmacogénétique",
+      "La pharmacoéconomie",
+      "La pharmacologie expérimentale",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le cours cite cinq branches : pharmacologie expérimentale, pharmacologie clinique, pharmacovigilance, pharmacogénétique et pharmacoéconomie. Les quatre propositions a–d en font partie, donc e est juste.",
+    "source": {
+      "page": 4,
+      "extrait": "La pharmacologie expérimentale La pharmacologie clinique La pharmacovigilance La pharmacogénétique La pharmacoéconomie"
+    },
+    "difficulte": 1,
+    "tags": [
+      "branches"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/01-introduction/qcm-009",
+    "type": "multiple",
+    "enonce": "Parmi les associations branche / définition suivantes, lesquelles sont correctes ?",
+    "options": [
+      "Pharmacovigilance – surveillance des effets indésirables",
+      "Pharmacogénétique – étude du prix des médicaments",
+      "Pharmacologie clinique – synonyme d'essais cliniques",
+      "Pharmacoéconomie – influence du génotype sur la réponse au traitement",
+      "Pharmacologie expérimentale – modèles d'animaux spécifiques in vivo"
+    ],
+    "correctes": [
+      0,
+      2,
+      4
+    ],
+    "explication": "a, c et e sont conformes au cours. b est fausse : le prix relève de la pharmacoéconomie. d est fausse : l'influence du génotype relève de la pharmacogénétique (les deux définitions ont été inversées).",
+    "source": {
+      "page": 4,
+      "extrait": "C’est l’étude du prix des médicaments."
+    },
+    "difficulte": 2,
+    "tags": [
+      "branches"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/01-introduction/qcm-010",
+    "type": "multiple",
+    "enonce": "Selon la définition de l'OMS, le médicament est :",
+    "options": [
+      "Toute substance ou composition présentée comme possédant des propriétés curatives ou préventives à l'égard des maladies humaines ou animales",
+      "Toute substance possédant des propriétés curatives à l'égard des maladies humaines uniquement",
+      "Tout produit pouvant être administré à l'homme ou à l'animal en vue d'établir un diagnostic médical",
+      "Tout produit administré en vue de restaurer, corriger et modifier ses fonctions physiologiques",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      0,
+      2,
+      3
+    ],
+    "explication": "La définition de l'OMS couvre les propriétés curatives ou préventives à l'égard des maladies humaines ou animales, le diagnostic médical et la restauration, correction ou modification des fonctions physiologiques. b est fausse car elle exclut les maladies animales et la prévention (« uniquement »), donc e est fausse.",
+    "source": {
+      "page": 6,
+      "extrait": "propriétés curatives ou préventives à l’égard des maladies humaines ou animales"
+    },
+    "difficulte": 2,
+    "tags": [
+      "médicament",
+      "définition OMS"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/01-introduction/qcm-011",
+    "type": "multiple",
+    "enonce": "Concernant les fonctions du médicament :",
+    "options": [
+      "Le médicament peut avoir une fonction diagnostique",
+      "La fonction thérapeutique peut être préventive",
+      "La fonction thérapeutique peut être curative",
+      "La fonction thérapeutique est la plus habituelle",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le cours distingue la fonction thérapeutique (la plus habituelle), qui peut être préventive ou curative, et la fonction diagnostique (opacifiants, traceurs). Toutes les propositions sont donc justes.",
+    "source": {
+      "page": 7,
+      "extrait": "Fonction thérapeutique: c’est la plus habituelle ; elle peut être : Préventive Curative"
+    },
+    "difficulte": 1,
+    "tags": [
+      "fonctions"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/01-introduction/qcm-012",
+    "type": "multiple",
+    "enonce": "La fonction thérapeutique curative du médicament peut être :",
+    "options": [
+      "Étiologique",
+      "Diagnostique",
+      "Substitutive",
+      "Symptomatique",
+      "Préventive"
+    ],
+    "correctes": [
+      0,
+      2,
+      3
+    ],
+    "explication": "Le cours précise que la fonction curative peut être étiologique, substitutive ou symptomatique. La fonction diagnostique est une fonction distincte, et la prévention est l'autre versant de la fonction thérapeutique, pas une forme de curatif.",
+    "source": {
+      "page": 7,
+      "extrait": "Curative : étiologique, substitutive ou symptomatique."
+    },
+    "difficulte": 2,
+    "tags": [
+      "fonctions",
+      "curatif"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/01-introduction/qcm-013",
+    "type": "multiple",
+    "enonce": "La fonction diagnostique du médicament :",
+    "options": [
+      "Peut faire appel à des traceurs",
+      "Est la fonction la plus habituelle du médicament",
+      "Est une forme de fonction curative symptomatique",
+      "Concerne des produits utilisés pour des explorations fonctionnelles",
+      "Peut faire appel à des opacifiants"
+    ],
+    "correctes": [
+      0,
+      3,
+      4
+    ],
+    "explication": "La fonction diagnostique fait intervenir des opacifiants et des traceurs utilisés pour des explorations fonctionnelles. La fonction la plus habituelle est la fonction thérapeutique, et le diagnostic n'est pas une forme de curatif.",
+    "source": {
+      "page": 7,
+      "extrait": "Fonction diagnostique: il peut s’agir d’opacifiants, de traceurs, utilisés pour des explorations fonctionnelles."
+    },
+    "difficulte": 1,
+    "tags": [
+      "fonctions",
+      "diagnostic"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/01-introduction/qcm-014",
+    "type": "multiple",
+    "enonce": "L'effet thérapeutique d'un médicament est aussi désigné par les termes :",
+    "options": [
+      "Efficacité thérapeutique",
+      "Effet favorable",
+      "Effet bénéfique",
+      "Effet clinique",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le cours liste comme équivalents de l'effet thérapeutique : efficacité thérapeutique, effet favorable, effet bénéfique ou effet clinique. Toutes les propositions sont justes.",
+    "source": {
+      "page": 8,
+      "extrait": "Efficacité thérapeutique, effet favorable, effet bénéfique, ou effet clinique"
+    },
+    "difficulte": 1,
+    "tags": [
+      "effets"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/01-introduction/qcm-015",
+    "type": "multiple",
+    "enonce": "Les effets indésirables d'un médicament peuvent être qualifiés de :",
+    "options": [
+      "Notoires",
+      "Secondaires",
+      "Latéraux",
+      "Toxiques",
+      "Cliniques"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Le cours qualifie les effets indésirables de notoires, secondaires, latéraux ou toxiques. « Effet clinique » est au contraire un synonyme d'effet thérapeutique.",
+    "source": {
+      "page": 8,
+      "extrait": "Effets indésirables: Notoire, secondaire, Latéral, toxique."
+    },
+    "difficulte": 2,
+    "tags": [
+      "effets",
+      "effets indésirables"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/01-introduction/qcm-016",
+    "type": "multiple",
+    "enonce": "La pharmacodynamie :",
+    "options": [
+      "Correspond à l'action du médicament sur l'organisme",
+      "Correspond à l'action de l'organisme sur le médicament",
+      "Comprend l'absorption et la distribution du médicament",
+      "Correspond à la phase d'interaction médicament-organisme aboutissant à l'effet pharmacologique",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      3
+    ],
+    "explication": "La pharmacodynamie est l'action du médicament sur l'organisme ; dans le schéma des phases, elle correspond à l'interaction médicament-organisme et à l'effet pharmacologique. L'action de l'organisme sur le médicament et l'absorption/distribution relèvent de la pharmacocinétique.",
+    "source": {
+      "page": 9,
+      "extrait": "Pharmacodynamie Action du médicament sur l’organisme"
+    },
+    "difficulte": 1,
+    "tags": [
+      "phases",
+      "pharmacodynamie"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/01-introduction/qcm-017",
+    "type": "multiple",
+    "enonce": "La pharmacocinétique :",
+    "options": [
+      "Correspond à l'action du médicament sur l'organisme",
+      "Comprend le passage du principe actif en solution",
+      "Comprend l'absorption, la distribution, le métabolisme et l'élimination",
+      "Correspond à l'action de l'organisme sur le médicament",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      2,
+      3
+    ],
+    "explication": "La pharmacocinétique est l'action de l'organisme sur le médicament et regroupe absorption, distribution, métabolisme et élimination. Le passage du PA en solution appartient à la phase biopharmaceutique ; l'action du médicament sur l'organisme est la pharmacodynamie.",
+    "source": {
+      "page": 10,
+      "extrait": "Absorption Distribution Métabolisme Elimination"
+    },
+    "difficulte": 1,
+    "tags": [
+      "phases",
+      "pharmacocinétique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/01-introduction/qcm-018",
+    "type": "multiple",
+    "enonce": "La phase biopharmaceutique comprend :",
+    "options": [
+      "L'effet pharmacologique",
+      "L'absorption",
+      "La forme pharmaceutique",
+      "Le passage du principe actif en solution",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      2,
+      3
+    ],
+    "explication": "D'après le schéma du cours, la phase biopharmaceutique comprend la forme pharmaceutique et le passage du PA en solution. L'absorption ouvre la phase pharmacocinétique et l'effet pharmacologique termine la phase pharmacodynamique.",
+    "source": {
+      "page": 10,
+      "extrait": "Forme pharmaceutique Passage du PA en solution"
+    },
+    "difficulte": 2,
+    "tags": [
+      "phases",
+      "biopharmaceutique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/01-introduction/qcm-019",
+    "type": "unique",
+    "enonce": "Dans le devenir d'un médicament, l'ordre chronologique des phases est :",
+    "options": [
+      "Biopharmaceutique → pharmacocinétique → pharmacodynamique",
+      "Pharmacocinétique → biopharmaceutique → pharmacodynamique",
+      "Biopharmaceutique → pharmacodynamique → pharmacocinétique",
+      "Pharmacodynamique → pharmacocinétique → biopharmaceutique",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Le schéma du cours enchaîne la phase biopharmaceutique (forme pharmaceutique, mise en solution), la phase pharmacocinétique (ADME) puis la phase pharmacodynamique (interaction médicament-organisme, effet).",
+    "source": {
+      "page": 10,
+      "extrait": "PHASE BIOPHARMACEUTIQUE PHASE PHARMACOCINETIQUE PHASE PHARMACODYNAMIQUE"
+    },
+    "difficulte": 1,
+    "tags": [
+      "phases"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/01-introduction/qcm-020",
+    "type": "unique",
+    "enonce": "Les étapes de la phase pharmacocinétique, dans l'ordre, sont :",
+    "options": [
+      "Passage en solution, absorption, distribution, élimination",
+      "Distribution, absorption, métabolisme, élimination",
+      "Absorption, métabolisme, distribution, élimination",
+      "Absorption, distribution, métabolisme, élimination",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      3
+    ],
+    "explication": "Le cours présente la phase pharmacocinétique dans l'ordre : absorption, distribution, métabolisme, élimination. Le passage en solution appartient à la phase biopharmaceutique.",
+    "source": {
+      "page": 10,
+      "extrait": "Absorption Distribution Métabolisme Elimination"
+    },
+    "difficulte": 1,
+    "tags": [
+      "phases",
+      "ADME"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/01-introduction/qcm-021",
+    "type": "multiple",
+    "enonce": "Selon leur origine, les médicaments peuvent être :",
+    "options": [
+      "D'origine naturelle",
+      "D'origine semi-synthétique",
+      "D'origine synthétique",
+      "D'origine biotechnologique",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le cours décrit les origines naturelle, semi-synthétique et synthétique, et ajoute l'origine biotechnologique (génie génétique). Toutes les propositions sont justes.",
+    "source": {
+      "page": 11,
+      "extrait": "Semi-synthétique Naturelle Synthétique Origine"
+    },
+    "difficulte": 1,
+    "tags": [
+      "origine"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/01-introduction/qcm-022",
+    "type": "multiple",
+    "enonce": "Les principes actifs d'origine naturelle appartiennent aux règnes :",
+    "options": [
+      "Animal",
+      "Végétal",
+      "Minéral",
+      "Synthétique",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Le cours précise que les principes actifs d'origine naturelle appartiennent aux règnes animal, végétal et minéral. « Synthétique » n'est pas un règne mais une autre origine.",
+    "source": {
+      "page": 11,
+      "extrait": "Les principes actifs d’origine naturelle appartiennent aux règnes animal, végétal et minéral."
+    },
+    "difficulte": 1,
+    "tags": [
+      "origine",
+      "naturelle"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/01-introduction/qcm-023",
+    "type": "multiple",
+    "enonce": "Concernant la morphine :",
+    "options": [
+      "Elle est extraite à partir de Papaver somniferum",
+      "Elle est douée d'activité analgésique centrale",
+      "C'est un principe actif d'origine végétale",
+      "C'est un principe actif d'origine semi-synthétique",
+      "Elle est moins toxique que la codéine"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "La morphine est extraite de Papaver somniferum (origine végétale) et douée d'activité analgésique centrale. C'est la codéine, dérivé de la morphine, qui est semi-synthétique et moins toxique.",
+    "source": {
+      "page": 12,
+      "extrait": "La morphine, extraite à partir de Papaver somniferum, est douée d’activité analgésique centrale."
+    },
+    "difficulte": 1,
+    "tags": [
+      "origine",
+      "végétale",
+      "morphine"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/01-introduction/qcm-024",
+    "type": "multiple",
+    "enonce": "Les médicaments d'origine animale :",
+    "options": [
+      "Sont des principes actifs obtenus par extraction",
+      "Sont essentiellement des hormones et des enzymes",
+      "Comprennent l'héparine extraite du poumon de bœuf",
+      "Comprennent la morphine",
+      "Sont obtenus par synthèse chimique totale"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Le cours décrit les PA d'origine animale comme obtenus par extraction (hormones et enzymes essentiellement), avec l'exemple de l'héparine extraite du poumon de bœuf. La morphine est végétale ; la synthèse chimique totale définit l'origine synthétique.",
+    "source": {
+      "page": 12,
+      "extrait": "Principes actifs obtenus par extraction (hormones et enzymes essentiellement). Exp: héparine (extraite du poumon de bœuf)."
+    },
+    "difficulte": 1,
+    "tags": [
+      "origine",
+      "animale",
+      "héparine"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/01-introduction/qcm-025",
+    "type": "multiple",
+    "enonce": "L'héparine :",
+    "options": [
+      "Est extraite du poumon de bœuf",
+      "Est un exemple de principe actif d'origine animale",
+      "Est un exemple de principe actif d'origine minérale",
+      "Est extraite du foie de bœuf",
+      "Est obtenue par génie génétique selon le cours"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Le cours cite l'héparine, extraite du poumon de bœuf, comme exemple d'origine animale. Le mot piège est « foie » (d) ; elle n'est ni minérale ni présentée comme issue du génie génétique.",
+    "source": {
+      "page": 12,
+      "extrait": "Exp: héparine (extraite du poumon de bœuf)."
+    },
+    "difficulte": 1,
+    "tags": [
+      "origine",
+      "héparine"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/01-introduction/qcm-026",
+    "type": "multiple",
+    "enonce": "Les produits minéraux naturels employés en pharmacie :",
+    "options": [
+      "Sont employés comme principes actifs ou comme excipients",
+      "Sont employés uniquement comme excipients",
+      "Comprennent l'eau, le talc et l'argile",
+      "Comprennent le bicarbonate de sodium et le sulfate de magnésium",
+      "Comprennent l'héparine"
+    ],
+    "correctes": [
+      0,
+      2,
+      3
+    ],
+    "explication": "Le cours indique que les produits minéraux naturels sont employés comme PA ou excipients (eau, talc, argile, bicarbonate de sodium, sulfate de magnésium). « Uniquement comme excipients » est faux et l'héparine est d'origine animale.",
+    "source": {
+      "page": 12,
+      "extrait": "Produits minéraux naturels employés comme principes actifs ou excipients de médicaments (Eau, Talc, Argile, Bicarbonate de sodium, Sulfate de magnésium)."
+    },
+    "difficulte": 2,
+    "tags": [
+      "origine",
+      "minérale"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/01-introduction/qcm-027",
+    "type": "unique",
+    "enonce": "Le cours cite comme exemple de médicament à base d'argile :",
+    "options": [
+      "L'héparine",
+      "Le vaccin BCG",
+      "Smecta*",
+      "La codéine",
+      "L'insuline"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Le cours donne Smecta* comme exemple de médicament à base d'argile (origine minérale). Les autres exemples relèvent des origines animale, microbiologique, semi-synthétique et biotechnologique.",
+    "source": {
+      "page": 12,
+      "extrait": "Exp: de médicament à base d’argile : Simiticone ( Smecta*)."
+    },
+    "difficulte": 1,
+    "tags": [
+      "origine",
+      "minérale"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/01-introduction/qcm-028",
+    "type": "multiple",
+    "enonce": "Les médicaments d'origine microbiologique (vaccins) :",
+    "options": [
+      "Sont obtenus à partir de bactéries ou de virus atténués ou tués",
+      "Confèrent après injection une immunité contre les infections correspondantes",
+      "Ont pour exemple le vaccin BCG contre la tuberculose",
+      "Font partie des médicaments d'origine naturelle",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le cours classe les vaccins, obtenus à partir de bactéries ou virus atténués ou tués, parmi les médicaments d'origine naturelle (origine microbiologique) ; ils confèrent une immunité après injection ; exemple : BCG contre la tuberculose.",
+    "source": {
+      "page": 11,
+      "extrait": "Obtenus à partir de bactéries ou de virus atténués ou tués, ils confèrent après injection une immunité"
+    },
+    "difficulte": 1,
+    "tags": [
+      "origine",
+      "vaccins"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/01-introduction/qcm-029",
+    "type": "unique",
+    "enonce": "Les médicaments d'origine semi-synthétique sont obtenus par :",
+    "options": [
+      "Adjonction de groupements chimiques sur des substances naturelles",
+      "Synthèse chimique totale sans dérivation d'une substance naturelle",
+      "Génie génétique",
+      "Simple extraction à partir de plantes",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "L'origine semi-synthétique correspond à l'adjonction de groupements chimiques sur des substances naturelles. La synthèse chimique totale définit l'origine synthétique, le génie génétique l'origine biotechnologique, et l'extraction de plantes l'origine végétale.",
+    "source": {
+      "page": 13,
+      "extrait": "Adjonction de groupements chimiques sur des substances naturelles"
+    },
+    "difficulte": 1,
+    "tags": [
+      "origine",
+      "semi-synthétique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/01-introduction/qcm-030",
+    "type": "multiple",
+    "enonce": "L'adjonction de groupements chimiques sur des substances naturelles (hémisynthèse) a pour but :",
+    "options": [
+      "D'améliorer les propriétés pharmacocinétiques",
+      "D'améliorer les propriétés pharmacodynamiques",
+      "De diminuer la toxicité",
+      "D'obtenir des molécules qu'on ne trouve pas dans la nature et qui ne dérivent pas de substances naturelles",
+      "D'obtenir des vaccins"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Le cours précise que ces modifications visent à améliorer les propriétés pharmacocinétiques et pharmacodynamiques et/ou à diminuer la toxicité. Des molécules ne dérivant pas de substances naturelles définissent l'origine synthétique.",
+    "source": {
+      "page": 13,
+      "extrait": "afin d’améliorer les propriétés pharmacocinétiques et pharmacodynamiques, et/ou de diminuer la toxicité"
+    },
+    "difficulte": 2,
+    "tags": [
+      "origine",
+      "semi-synthétique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/01-introduction/qcm-031",
+    "type": "multiple",
+    "enonce": "Concernant la codéine :",
+    "options": [
+      "C'est l'ester méthylique de la morphine",
+      "Elle est douée d'activité analgésique centrale et antitussive",
+      "Elle est plus toxique que la morphine",
+      "C'est un exemple de médicament d'origine semi-synthétique",
+      "C'est un exemple de médicament d'origine synthétique"
+    ],
+    "correctes": [
+      0,
+      1,
+      3
+    ],
+    "explication": "Le cours présente la codéine comme ester méthylique de la morphine, analgésique central et antitussif mais moins toxique : c'est l'exemple de l'origine semi-synthétique. « Plus toxique » et « synthétique » sont des pièges.",
+    "source": {
+      "page": 13,
+      "extrait": "La codéine ester méthylique de la morphine douée d’activité analgésique centrale et antitussive mais moins toxique."
+    },
+    "difficulte": 2,
+    "tags": [
+      "origine",
+      "codéine"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/01-introduction/qcm-032",
+    "type": "multiple",
+    "enonce": "Les médicaments d'origine synthétique :",
+    "options": [
+      "Constituent la principale source de production des médicaments modernes",
+      "Sont des molécules nouvelles qu'on ne trouve pas dans la nature",
+      "Dérivent de substances naturelles par adjonction de groupements chimiques",
+      "Sont obtenus par synthèse chimique totale",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      0,
+      1,
+      3
+    ],
+    "explication": "Le cours décrit les médicaments synthétiques comme la principale source des médicaments modernes : molécules nouvelles absentes de la nature, ne dérivant pas de substances naturelles, obtenues par synthèse chimique totale. c décrit l'origine semi-synthétique, donc e est fausse.",
+    "source": {
+      "page": 14,
+      "extrait": "C’est la principale source de production des médicaments modernes."
+    },
+    "difficulte": 2,
+    "tags": [
+      "origine",
+      "synthétique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/01-introduction/qcm-033",
+    "type": "unique",
+    "enonce": "Selon le cours, les anti-inflammatoires non stéroïdiens sont d'origine :",
+    "options": [
+      "Végétale",
+      "Animale",
+      "Semi-synthétique",
+      "Synthétique",
+      "Biotechnologique"
+    ],
+    "correctes": [
+      3
+    ],
+    "explication": "Le cours cite les AINS comme exemple de médicaments d'origine synthétique.",
+    "source": {
+      "page": 14,
+      "extrait": "Exp: Les anti-inflammatoires non stéroidiens sont d’origine synthétique."
+    },
+    "difficulte": 1,
+    "tags": [
+      "origine",
+      "AINS"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/01-introduction/qcm-034",
+    "type": "multiple",
+    "enonce": "Les médicaments d'origine biotechnologique :",
+    "options": [
+      "Sont fabriqués par des méthodes de génie génétique",
+      "Sont des substances naturelles polypeptidiques ayant toutes les caractéristiques de leur modèle humain",
+      "Comprennent des hormones comme l'insuline",
+      "Sont obtenus par synthèse chimique totale",
+      "Comprennent des cytokines (IL2, INF…) et des facteurs de croissance hématopoïétiques"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explication": "Le génie génétique permet de fabriquer des substances naturelles polypeptidiques identiques à leur modèle humain : hormones (insuline), facteurs de croissance hématopoïétiques, cytokines (IL2, INF). La synthèse chimique totale définit l'origine synthétique.",
+    "source": {
+      "page": 14,
+      "extrait": "Par des méthodes de génie génétique, on fabrique des substances naturelles polypeptidiques"
+    },
+    "difficulte": 2,
+    "tags": [
+      "origine",
+      "biotechnologie"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/01-introduction/qcm-035",
+    "type": "multiple",
+    "enonce": "Parmi les associations exemple / origine suivantes, lesquelles sont correctes ?",
+    "options": [
+      "Héparine – origine animale",
+      "Smecta* – origine minérale",
+      "Codéine – origine synthétique",
+      "Vaccin BCG – origine microbiologique",
+      "Insuline (génie génétique) – origine biotechnologique"
+    ],
+    "correctes": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "explication": "Toutes les associations sont conformes au cours sauf c : la codéine est l'exemple de l'origine semi-synthétique (ester méthylique de la morphine).",
+    "source": {
+      "page": 13,
+      "extrait": "La codéine ester méthylique de la morphine"
+    },
+    "difficulte": 2,
+    "tags": [
+      "origine",
+      "exemples"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/01-introduction/qcm-036",
+    "type": "multiple",
+    "enonce": "La préparation magistrale est un médicament :",
+    "options": [
+      "Préparé extemporanément",
+      "Préparé sous prescription médicale qui en précise la formule détaillée",
+      "Destiné à un malade particulier",
+      "Préparé à l'avance en pharmacie",
+      "Caractérisé par une dénomination spéciale"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "La préparation magistrale est préparée extemporanément, sur prescription médicale précisant la formule détaillée, pour un malade particulier. La préparation à l'avance définit la préparation officinale et la dénomination spéciale la spécialité pharmaceutique.",
+    "source": {
+      "page": 15,
+      "extrait": "médicament préparé extemporanément (juste avant son emploi) , sous prescription médicale qui en précise la formule détaillée"
+    },
+    "difficulte": 1,
+    "tags": [
+      "catégories",
+      "préparation magistrale"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/01-introduction/qcm-037",
+    "type": "unique",
+    "enonce": "Le terme « extemporanément » signifie :",
+    "options": [
+      "Juste avant son emploi",
+      "Sous conditionnement particulier",
+      "Sous prescription hospitalière",
+      "Préparé à l'avance",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Le cours précise entre parenthèses qu'extemporanément veut dire juste avant son emploi.",
+    "source": {
+      "page": 15,
+      "extrait": "préparé extemporanément (juste avant son emploi)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "catégories"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/01-introduction/qcm-038",
+    "type": "multiple",
+    "enonce": "La préparation officinale :",
+    "options": [
+      "Est tout médicament préparé en pharmacie à l'avance",
+      "A pour exemple le soluté de Dakin",
+      "Est préparée extemporanément pour un malade particulier",
+      "Est présentée sous un conditionnement particulier avec une dénomination spéciale",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "La préparation officinale est préparée en pharmacie à l'avance (exemple : soluté de Dakin). c définit la préparation magistrale et d la spécialité pharmaceutique.",
+    "source": {
+      "page": 15,
+      "extrait": "Préparation officinale : tout médicament préparé en pharmacie à l’avance (exp: soluté de Dakin)."
+    },
+    "difficulte": 1,
+    "tags": [
+      "catégories",
+      "préparation officinale"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/01-introduction/qcm-039",
+    "type": "unique",
+    "enonce": "Le soluté de Dakin est cité dans le cours comme exemple de :",
+    "options": [
+      "Préparation magistrale",
+      "Médicament générique",
+      "Préparation officinale",
+      "Spécialité pharmaceutique",
+      "Préparation hospitalière"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Le cours donne le soluté de Dakin comme exemple de préparation officinale.",
+    "source": {
+      "page": 15,
+      "extrait": "(exp: soluté de Dakin)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "catégories"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/01-introduction/qcm-040",
+    "type": "multiple",
+    "enonce": "La préparation hospitalière :",
+    "options": [
+      "Est réalisée sous prescription hospitalière",
+      "Peut être réalisée à l'avance ou extemporanément",
+      "Est réalisée lorsqu'il n'existe pas de spécialité pharmaceutique disponible ou adaptée",
+      "Est toujours réalisée extemporanément",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Le cours définit la préparation hospitalière comme réalisée sous prescription hospitalière, à l'avance ou extemporanément, en l'absence de spécialité disponible ou adaptée. « Toujours extemporanément » est faux.",
+    "source": {
+      "page": 15,
+      "extrait": "réalisée sous prescription hospitalière à l’avance ou extemporanément dans le cas où il n’existe pas de spécialité"
+    },
+    "difficulte": 2,
+    "tags": [
+      "catégories",
+      "préparation hospitalière"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/01-introduction/qcm-041",
+    "type": "multiple",
+    "enonce": "La spécialité pharmaceutique :",
+    "options": [
+      "Est tout médicament préparé à l'avance",
+      "Est présentée sous un conditionnement particulier",
+      "Est caractérisée par une dénomination spéciale de la molécule",
+      "Est destinée à un malade particulier",
+      "Est préparée juste avant son emploi"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "La spécialité pharmaceutique est préparée à l'avance, présentée sous un conditionnement particulier et caractérisée par une dénomination spéciale. Le malade particulier et la préparation juste avant l'emploi caractérisent la préparation magistrale.",
+    "source": {
+      "page": 15,
+      "extrait": "tout médicament préparé à l'avance, présenté sous un conditionnement particulier et caractérisé par une dénomination spéciale"
+    },
+    "difficulte": 1,
+    "tags": [
+      "catégories",
+      "spécialité"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/01-introduction/qcm-042",
+    "type": "multiple",
+    "enonce": "Parmi les catégories de médicaments, laquelle (lesquelles) peut (peuvent) être préparée(s) à l'avance ?",
+    "options": [
+      "La préparation magistrale",
+      "La préparation officinale",
+      "La préparation hospitalière",
+      "La spécialité pharmaceutique",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      1,
+      2,
+      3
+    ],
+    "explication": "La préparation officinale et la spécialité sont préparées à l'avance ; la préparation hospitalière peut l'être (à l'avance ou extemporanément). La préparation magistrale est préparée extemporanément, donc e est fausse.",
+    "source": {
+      "page": 15,
+      "extrait": "Préparation hospitalière: préparation réalisée sous prescription hospitalière à l’avance ou extemporanément"
+    },
+    "difficulte": 3,
+    "tags": [
+      "catégories"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/01-introduction/qcm-043",
+    "type": "multiple",
+    "enonce": "Concernant la composition d'un médicament :",
+    "options": [
+      "Médicament = principe actif + excipients",
+      "Le principe actif est la partie responsable de ses effets",
+      "Les excipients constituent la partie inactive",
+      "Les excipients sont responsables des effets du médicament",
+      "Le principe actif est la partie inactive"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Le cours écrit Médicament = PA + excipients : le principe actif est la partie responsable des effets, les excipients la partie inactive. d et e inversent ces rôles.",
+    "source": {
+      "page": 17,
+      "extrait": "Médicament = PA + Excipients Partie responsable de ses effets Partie inactive"
+    },
+    "difficulte": 1,
+    "tags": [
+      "composition",
+      "excipients"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/01-introduction/qcm-044",
+    "type": "multiple",
+    "enonce": "Concernant la dénomination des médicaments :",
+    "options": [
+      "Chaque médicament fait l'objet d'une dénomination",
+      "La dénomination répondant à la nomenclature internationale est souvent trop compliquée pour la pratique courante",
+      "La DCI correspond à la Dénomination Commune Internationale",
+      "La nomenclature chimique est la plus pratique pour l'usage courant",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Le cours indique que chaque médicament fait l'objet d'une dénomination ; celle répondant à la nomenclature internationale (chimique) est souvent trop compliquée pour la pratique courante, d'où la DCI. d contredit le cours.",
+    "source": {
+      "page": 19,
+      "extrait": "Répondant à la nomenclature internationale mais souvent trop compliquée pour être utilisée en pratique courante"
+    },
+    "difficulte": 2,
+    "tags": [
+      "dénomination",
+      "DCI"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/01-introduction/qcm-045",
+    "type": "multiple",
+    "enonce": "Parmi les formes galéniques suivantes, lesquelles sont des formes solides destinées à la voie orale ?",
+    "options": [
+      "Comprimé",
+      "Émulsion",
+      "Sirop",
+      "Soluté buvable",
+      "Gélule"
+    ],
+    "correctes": [
+      0,
+      4
+    ],
+    "explication": "Le cours classe comprimés et gélules parmi les formes orales solides ; soluté buvable, émulsion et sirops sont des formes orales liquides.",
+    "source": {
+      "page": 21,
+      "extrait": "Solides Comprimé, Gélule"
+    },
+    "difficulte": 1,
+    "tags": [
+      "formes galéniques",
+      "voie orale"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/01-introduction/qcm-046",
+    "type": "multiple",
+    "enonce": "Parmi les formes galéniques suivantes, lesquelles sont des formes liquides destinées à la voie orale ?",
+    "options": [
+      "Soluté buvable",
+      "Suppositoire",
+      "Gélule",
+      "Sirop",
+      "Émulsion"
+    ],
+    "correctes": [
+      0,
+      3,
+      4
+    ],
+    "explication": "Soluté buvable, émulsion et sirops sont les formes orales liquides citées. La gélule est une forme orale solide et le suppositoire une forme rectale.",
+    "source": {
+      "page": 21,
+      "extrait": "Soluté buvable, Émulsion, sirops"
+    },
+    "difficulte": 1,
+    "tags": [
+      "formes galéniques",
+      "voie orale"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/01-introduction/qcm-047",
+    "type": "multiple",
+    "enonce": "Les formes destinées à la voie parentérale citées dans le cours sont :",
+    "options": [
+      "L'ovule",
+      "Le flacon en verre + solvant",
+      "Le patch transdermique",
+      "Le collyre",
+      "Les ampoules"
+    ],
+    "correctes": [
+      1,
+      4
+    ],
+    "explication": "Le cours cite ampoules et flacon en verre + solvant pour la voie parentérale. Le collyre est oculaire, l'ovule vaginal et le patch cutané.",
+    "source": {
+      "page": 22,
+      "extrait": "Ampoules Flacon en verre + solvant"
+    },
+    "difficulte": 1,
+    "tags": [
+      "formes galéniques",
+      "parentérale"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/01-introduction/qcm-048",
+    "type": "multiple",
+    "enonce": "Parmi les associations voie transmuqueuse / forme galénique suivantes, lesquelles sont correctes ?",
+    "options": [
+      "Oculaire – collyre",
+      "Sublinguale – comprimé",
+      "Vaginale – ovule",
+      "Rectale – suppositoire",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le cours classe parmi les formes transmuqueuses : comprimé sublingual, suppositoire rectal, ovule vaginal, collyre oculaire. Toutes les associations sont justes.",
+    "source": {
+      "page": 23,
+      "extrait": "Sublinguale Comprimé Rectale Pommade rectale, Solution à usage rectal, Suppositoire"
+    },
+    "difficulte": 1,
+    "tags": [
+      "formes galéniques",
+      "transmuqueuse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/01-introduction/qcm-049",
+    "type": "multiple",
+    "enonce": "Les formes destinées à la voie rectale comprennent :",
+    "options": [
+      "La pommade rectale",
+      "Le suppositoire",
+      "L'ovule",
+      "Le collutoire",
+      "La solution à usage rectal"
+    ],
+    "correctes": [
+      0,
+      1,
+      4
+    ],
+    "explication": "Le cours cite pommade rectale, solution à usage rectal et suppositoire. L'ovule est une forme vaginale et le collutoire une forme ORL.",
+    "source": {
+      "page": 23,
+      "extrait": "Rectale Pommade rectale, Solution à usage rectal, Suppositoire"
+    },
+    "difficulte": 1,
+    "tags": [
+      "formes galéniques",
+      "rectale"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/01-introduction/qcm-050",
+    "type": "multiple",
+    "enonce": "Les formes galéniques destinées à la sphère ORL comprennent :",
+    "options": [
+      "Les gouttes auriculaires",
+      "La capsule vaginale",
+      "Le collyre",
+      "Le collutoire",
+      "Les gouttes nasales"
+    ],
+    "correctes": [
+      0,
+      3,
+      4
+    ],
+    "explication": "Le cours liste collutoire, gouttes auriculaires et gouttes nasales pour l'ORL. Le collyre est une forme oculaire et la capsule vaginale une forme vaginale.",
+    "source": {
+      "page": 23,
+      "extrait": "ORL Collutoire, Gouttes auriculaires, Gouttes nasales"
+    },
+    "difficulte": 1,
+    "tags": [
+      "formes galéniques",
+      "ORL"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/01-introduction/qcm-051",
+    "type": "multiple",
+    "enonce": "Les formes galéniques destinées à la voie vaginale comprennent :",
+    "options": [
+      "Le comprimé vaginal",
+      "L'ovule",
+      "Le suppositoire",
+      "La capsule vaginale",
+      "La pommade ophtalmique"
+    ],
+    "correctes": [
+      0,
+      1,
+      3
+    ],
+    "explication": "Le cours cite capsule vaginale, comprimé vaginal et ovule. La pommade ophtalmique est oculaire et le suppositoire rectal.",
+    "source": {
+      "page": 23,
+      "extrait": "vaginale Capsule vaginale, Comprimé vaginal, Ovule"
+    },
+    "difficulte": 1,
+    "tags": [
+      "formes galéniques",
+      "vaginale"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/01-introduction/qcm-052",
+    "type": "multiple",
+    "enonce": "Les formes galéniques destinées à la voie oculaire sont :",
+    "options": [
+      "La pommade ophtalmique",
+      "Le collutoire",
+      "Les gouttes nasales",
+      "Le collyre",
+      "Les gouttes auriculaires"
+    ],
+    "correctes": [
+      0,
+      3
+    ],
+    "explication": "Le cours cite collyre et pommade ophtalmique pour la voie oculaire. Les gouttes auriculaires, le collutoire et les gouttes nasales relèvent de l'ORL.",
+    "source": {
+      "page": 23,
+      "extrait": "Oculaire Collyre, Pommade ophtalmique"
+    },
+    "difficulte": 1,
+    "tags": [
+      "formes galéniques",
+      "oculaire"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/01-introduction/qcm-053",
+    "type": "multiple",
+    "enonce": "Les formes galéniques destinées à la voie cutanée comprennent :",
+    "options": [
+      "La crème",
+      "La pommade",
+      "Les patchs transdermiques",
+      "La poudre à usage externe",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le tableau du cours range crème, pommade et poudre à usage externe parmi les solides, la solution à usage externe parmi les liquides et les patchs transdermiques parmi les pansements ou adhésifs. Toutes sont des formes cutanées.",
+    "source": {
+      "page": 24,
+      "extrait": "Solution à usage externe | Patchstransdermiques"
+    },
+    "difficulte": 1,
+    "tags": [
+      "formes galéniques",
+      "cutanée"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/01-introduction/qcm-054",
+    "type": "multiple",
+    "enonce": "Dans la classification des formes destinées à la voie cutanée :",
+    "options": [
+      "Les patchs transdermiques sont des pansements ou adhésifs",
+      "Le collyre est une forme cutanée",
+      "La solution à usage externe est une forme liquide",
+      "La crème est classée parmi les formes solides",
+      "La poudre à usage externe est une forme liquide"
+    ],
+    "correctes": [
+      0,
+      2,
+      3
+    ],
+    "explication": "Le tableau du cours classe crème, pommade et poudre à usage externe en solides, la solution à usage externe en liquide et les patchs transdermiques en pansements ou adhésifs. La poudre n'est pas liquide et le collyre est oculaire.",
+    "source": {
+      "page": 24,
+      "extrait": "Solides | Liquides | Pansements ou adhésifs"
+    },
+    "difficulte": 2,
+    "tags": [
+      "formes galéniques",
+      "cutanée"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/01-introduction/qcm-055",
+    "type": "multiple",
+    "enonce": "Un produit pharmaceutique générique est considéré comme essentiellement similaire au produit original lorsqu'il :",
+    "options": [
+      "A la même composition qualitative en principe(s) actif(s)",
+      "A la même composition quantitative en principe(s) actif(s)",
+      "Est présenté sous la même forme pharmaceutique",
+      "A démontré, lorsque nécessaire, sa bioéquivalence par des études appropriées de biodisponibilité",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "La définition du cours réunit ces quatre critères : même composition qualitative et quantitative en PA, même forme pharmaceutique et, lorsque nécessaire, bioéquivalence démontrée par des études de biodisponibilité.",
+    "source": {
+      "page": 25,
+      "extrait": "même composition qualitative et quantitative en principe(s) actif(s), qu'il est présenté sous la même forme pharmaceutique"
+    },
+    "difficulte": 1,
+    "tags": [
+      "générique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/01-introduction/qcm-056",
+    "type": "multiple",
+    "enonce": "Concernant le médicament générique :",
+    "options": [
+      "Il peut avoir une composition quantitative en principe actif différente de celle du produit original",
+      "Il peut être présenté sous une forme pharmaceutique différente de celle du produit original",
+      "Sa bioéquivalence avec le produit original est démontrée, lorsque nécessaire, par des études de biodisponibilité",
+      "Il est considéré comme essentiellement similaire au produit pharmaceutique original",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      2,
+      3
+    ],
+    "explication": "Le générique est essentiellement similaire à l'original : même composition qualitative ET quantitative, même forme pharmaceutique, bioéquivalence démontrée lorsque nécessaire. a et b contredisent la définition.",
+    "source": {
+      "page": 25,
+      "extrait": "la bioéquivalence avec le premier produit a été démontrée par des études appropriées de biodisponibilité"
+    },
+    "difficulte": 2,
+    "tags": [
+      "générique",
+      "bioéquivalence"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/01-introduction/qcm-057",
+    "type": "multiple",
+    "enonce": "Le résumé des caractéristiques du produit (RCP) :",
+    "options": [
+      "A pour destinataire principal les professionnels de santé",
+      "Présente un contenu très détaillé et technique",
+      "Contient les caractéristiques pharmacologiques : pharmacodynamie, pharmacocinétique, données précliniques",
+      "A pour destinataire principal le patient",
+      "Présente les effets indésirables dans un langage accessible au patient"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Le RCP s'adresse aux professionnels de santé, avec un contenu très détaillé et technique incluant les caractéristiques pharmacologiques. Le patient et le langage accessible caractérisent la notice.",
+    "source": {
+      "page": 26,
+      "extrait": "Destinataire principal | Professionnels de santé | Patient / utilisateur"
+    },
+    "difficulte": 1,
+    "tags": [
+      "sources d'information",
+      "RCP"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/01-introduction/qcm-058",
+    "type": "multiple",
+    "enonce": "La notice du médicament :",
+    "options": [
+      "A pour destinataire principal le patient / utilisateur",
+      "Présente un contenu plus simple et vulgarisé",
+      "Ne contient généralement pas, ou très peu, de caractéristiques pharmacologiques",
+      "Présente une liste détaillée des effets indésirables avec leur fréquence et des précisions cliniques",
+      "Vise à fournir les informations scientifiques et réglementaires nécessaires à l'utilisation du médicament"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "La notice s'adresse au patient, avec un contenu simple et vulgarisé ; les caractéristiques pharmacologiques y sont généralement absentes ou très limitées. d et e décrivent le RCP.",
+    "source": {
+      "page": 26,
+      "extrait": "Caractéristiques pharmacologiques | Présentes : pharmacodynamie, pharmacocinétique, données précliniques… | Généralement absentes ou très limitées"
+    },
+    "difficulte": 2,
+    "tags": [
+      "sources d'information",
+      "notice"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/01-introduction/qcm-059",
+    "type": "multiple",
+    "enonce": "En comparant le RCP et la notice :",
+    "options": [
+      "La posologie est détaillée dans le RCP, avec adaptations selon les situations",
+      "Les interactions sont présentées dans la notice sous forme d'informations détaillées destinées au prescripteur",
+      "Le RCP détaille l'utilisation chez certaines populations (grossesse, allaitement, insuffisance rénale/hépatique, sujet âgé)",
+      "Les contre-indications sont reformulées dans la notice pour être comprises par le patient",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      0,
+      2,
+      3
+    ],
+    "explication": "a, c et d sont conformes au tableau du cours. b est fausse : les informations détaillées destinées au prescripteur figurent dans le RCP, la notice donnant des informations pratiques pour le patient. e est donc fausse.",
+    "source": {
+      "page": 26,
+      "extrait": "Interactions | Informations détaillées destinées au prescripteur | Informations pratiques pour le patient"
+    },
+    "difficulte": 2,
+    "tags": [
+      "sources d'information",
+      "RCP",
+      "notice"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/01-introduction/qcm-060",
+    "type": "unique",
+    "enonce": "L'objectif de la notice est :",
+    "options": [
+      "Fournir les informations scientifiques et réglementaires nécessaires à l'utilisation du médicament",
+      "Expliquer au patient comment utiliser le médicament correctement et en toute sécurité",
+      "Détailler les données précliniques du médicament",
+      "Informer le prescripteur des interactions détaillées",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Selon le tableau du cours, l'objectif de la notice est d'expliquer au patient comment utiliser le médicament correctement et en toute sécurité ; a est l'objectif du RCP.",
+    "source": {
+      "page": 26,
+      "extrait": "Expliquer au patient comment utiliser le médicament correctement et en toute sécurité"
+    },
+    "difficulte": 1,
+    "tags": [
+      "sources d'information",
+      "notice"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/01-introduction/qcm-061",
+    "type": "multiple",
+    "enonce": "Parmi les propositions suivantes, quelle(s) affirmation(s) est (sont) juste(s) ?",
+    "options": [
+      "La pharmacoéconomie est l'étude du prix des médicaments",
+      "La codéine est moins toxique que la morphine",
+      "Le soluté de Dakin est une spécialité pharmaceutique",
+      "Le vaccin BCG est dirigé contre la tuberculose",
+      "Toutes les réponses sont justes"
+    ],
+    "correctes": [
+      0,
+      1,
+      3
+    ],
+    "explication": "a, b et d sont conformes au cours. c est fausse : le soluté de Dakin est l'exemple de préparation officinale. e est donc fausse.",
+    "source": {
+      "page": 15,
+      "extrait": "Préparation officinale : tout médicament préparé en pharmacie à l’avance (exp: soluté de Dakin)."
+    },
+    "difficulte": 2,
+    "tags": [
+      "synthèse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/01-introduction/qcm-062",
+    "type": "multiple",
+    "enonce": "Parmi les propositions suivantes, quelle(s) affirmation(s) est (sont) juste(s) ?",
+    "options": [
+      "L'héparine est extraite du foie de porc",
+      "La morphine est extraite de Papaver somniferum",
+      "Les AINS sont d'origine semi-synthétique",
+      "Le talc est un produit minéral naturel employé comme principe actif ou excipient",
+      "La pharmacocinétique est l'action du médicament sur l'organisme"
+    ],
+    "correctes": [
+      1,
+      3
+    ],
+    "explication": "b et d sont conformes au cours. a : l'héparine est extraite du poumon de bœuf. c : les AINS sont d'origine synthétique. e : la pharmacocinétique est l'action de l'organisme sur le médicament.",
+    "source": {
+      "page": 12,
+      "extrait": "Produits minéraux naturels employés comme principes actifs ou excipients de médicaments (Eau, Talc, Argile"
+    },
+    "difficulte": 2,
+    "tags": [
+      "synthèse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/01-introduction/qcm-063",
+    "type": "multiple",
+    "enonce": "Parmi les propositions suivantes, quelle(s) affirmation(s) est (sont) juste(s) ?",
+    "options": [
+      "Le passage du principe actif en solution fait partie de la phase pharmacocinétique",
+      "L'élimination fait partie de la phase pharmacodynamique",
+      "La préparation magistrale est destinée à un malade particulier",
+      "L'insuline citée par le cours est un exemple d'origine animale",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Seule c est juste. a : le passage en solution relève de la phase biopharmaceutique. b : l'élimination relève de la pharmacocinétique. d : le cours cite l'insuline comme exemple d'origine biotechnologique.",
+    "source": {
+      "page": 15,
+      "extrait": "destinée à un malade particulier"
+    },
+    "difficulte": 3,
+    "tags": [
+      "synthèse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/01-introduction/qcm-064",
+    "type": "multiple",
+    "enonce": "Parmi les propositions suivantes, quelle(s) affirmation(s) est (sont) juste(s) ?",
+    "options": [
+      "La fonction diagnostique est la fonction la plus habituelle du médicament",
+      "Un effet « latéral » est un effet indésirable",
+      "Les excipients sont la partie active du médicament",
+      "La pharmacologie clinique est l'étude du médicament sur des organes entiers in vitro",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Seule b est juste (latéral figure parmi les qualificatifs des effets indésirables). a : la fonction la plus habituelle est thérapeutique. c : les excipients sont la partie inactive. d : les organes entiers in vitro relèvent de la pharmacologie expérimentale.",
+    "source": {
+      "page": 8,
+      "extrait": "Effets indésirables: Notoire, secondaire, Latéral, toxique."
+    },
+    "difficulte": 3,
+    "tags": [
+      "synthèse"
+    ],
+    "origine": "genere"
+  }
+]

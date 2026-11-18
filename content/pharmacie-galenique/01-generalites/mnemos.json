@@ -1,0 +1,26 @@
+[
+  {
+    "id": "pharmacie-galenique/01-generalites/mnemo-001",
+    "titre": "3 critères de l'AMM",
+    "moyen": "« QSE » : Qualité, Sécurité, Efficacité",
+    "explication": "Q = qualité, S = sécurité, E = efficacité, évaluées pour établir le rapport bénéfice/risque avant l'AMM."
+  },
+  {
+    "id": "pharmacie-galenique/01-generalites/mnemo-002",
+    "titre": "Chapitres BPF",
+    "moyen": "« Si Peu Lisent Des Protocoles, Contrôle, Externalise, Rappelle, Inspecte »",
+    "explication": "S système qualité (1), P personnel (2), L locaux et matériel (3), D documentation (4), P production (5), C contrôle qualité (6), E activités externalisées (7), R réclamations/rappels (8), I auto-inspection (9)."
+  },
+  {
+    "id": "pharmacie-galenique/01-generalites/mnemo-003",
+    "titre": "Phases cliniques",
+    "moyen": "« Toxique, Dose, Duel » (I, II, III)",
+    "explication": "Phase I : toxicité ; phase II : bonne dose et effets indésirables ; phase III : duel d'efficacité face aux traitements existants ou au placebo."
+  },
+  {
+    "id": "pharmacie-galenique/01-generalites/mnemo-004",
+    "titre": "Mentions de l'ordonnancier",
+    "moyen": "« DMN-FN » : Date, Médecin, Nom/adresse du malade, Formule, Nombre",
+    "explication": "Date, nom du médecin, nom et adresse du malade, formule détaillée, nombre d'unités préparées."
+  }
+]

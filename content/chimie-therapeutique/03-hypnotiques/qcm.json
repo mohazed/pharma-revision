@@ -1,0 +1,1787 @@
+[
+  {
+    "id": "chimie-therapeutique/03-hypnotiques/qcm-001",
+    "type": "multiple",
+    "enonce": "Les médicaments hypnotiques (somnifères) :",
+    "options": [
+      "Sont utilisés pour faciliter l'installation du sommeil",
+      "Facilitent le maintien du sommeil",
+      "À petite dose, donnent une sensation de calme, de somnolence et de bien-être",
+      "À forte dose, peuvent provoquer intoxication, coma et mort",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Les hypnotiques facilitent l'installation et le maintien du sommeil ; à petite dose : calme, somnolence, bien-être ; à forte dose : intoxication, coma et mort.",
+    "source": {
+      "page": 3,
+      "extrait": "À forte dose : intoxication, coma et mort"
+    },
+    "difficulte": 1,
+    "tags": [
+      "définition"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/03-hypnotiques/qcm-002",
+    "type": "unique",
+    "enonce": "Dans la classification des psychotropes, les hypnotiques sont des :",
+    "options": [
+      "Psycholeptiques nooleptiques",
+      "Psycholeptiques thymoleptiques",
+      "Psychoanaleptiques nooanaleptiques",
+      "Psycho-isoleptiques",
+      "Psychodysleptiques"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Les hypnotiques abaissent la vigilance : psycholeptiques nooleptiques.",
+    "source": {
+      "page": 2,
+      "extrait": "Vigilance Nooleptiques Hypnotiques"
+    },
+    "difficulte": 2,
+    "tags": [
+      "classification psychotropes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/03-hypnotiques/qcm-003",
+    "type": "multiple",
+    "enonce": "Concernant la physiologie du sommeil :",
+    "options": [
+      "C'est un état naturel",
+      "Il comporte une perte de conscience",
+      "Il comporte une diminution de l'activité sensorielle",
+      "Il s'accompagne d'un repos musculaire",
+      "C'est un état irréversible"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Le sommeil est un état naturel, réversible, avec perte de conscience, diminution de l'activité sensorielle et repos musculaire.",
+    "source": {
+      "page": 4,
+      "extrait": "Perte de conscience, une diminution de l'activité sensorielle . Un repos musculaire. Il est réversible"
+    },
+    "difficulte": 1,
+    "tags": [
+      "sommeil"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/03-hypnotiques/qcm-004",
+    "type": "multiple",
+    "enonce": "Concernant le cycle du sommeil :",
+    "options": [
+      "Un cycle dure 1 h 30 en moyenne",
+      "Une nuit comporte 4 à 6 cycles",
+      "Il comprend le sommeil lent léger et le sommeil lent profond",
+      "Il comprend le sommeil paradoxal",
+      "Un cycle dure 3 heures en moyenne"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Cycle du sommeil : latence, endormissement, sommeil lent léger, sommeil lent profond, sommeil paradoxal, réveil ; un cycle de 1 h 30 en moyenne, 4 à 6 cycles par nuit.",
+    "source": {
+      "page": 5,
+      "extrait": "Un cycle 1h30 en moyenne Une nuit 4 à 6 cycles"
+    },
+    "difficulte": 2,
+    "tags": [
+      "sommeil"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/03-hypnotiques/qcm-005",
+    "type": "multiple",
+    "enonce": "L'insomnie se définit par :",
+    "options": [
+      "Un sommeil de mauvaise qualité",
+      "Des difficultés d'endormissement",
+      "Des réveils multiples dans la nuit ou un réveil trop précoce le matin",
+      "Un caractère chronique si les troubles surviennent plus de 3 fois par semaine depuis plus de 3 mois",
+      "Un caractère chronique dès la première semaine"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Insomnie : sommeil de mauvaise qualité (difficultés d'endormissement, réveils multiples ou réveil précoce) ; chronique si > 3 fois par semaine depuis plus de 3 mois.",
+    "source": {
+      "page": 6,
+      "extrait": "chronique si les troubles surviennent plus de 3 fois par semaine, depuis plus de 3 mois"
+    },
+    "difficulte": 1,
+    "tags": [
+      "insomnie"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/03-hypnotiques/qcm-006",
+    "type": "unique",
+    "enonce": "L'insomnie est dite chronique lorsque les troubles surviennent :",
+    "options": [
+      "Plus de 3 fois par semaine depuis plus de 3 mois",
+      "Plus de 2 fois par semaine depuis 1 mois",
+      "Toutes les nuits depuis 1 semaine",
+      "Plus de 3 fois par mois depuis 3 ans",
+      "Plus de 5 fois par semaine depuis 6 mois"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Définition du cours : > 3 fois par semaine depuis plus de 3 mois.",
+    "source": {
+      "page": 6,
+      "extrait": "plus de 3 fois par semaine, depuis plus de 3 mois"
+    },
+    "difficulte": 1,
+    "tags": [
+      "insomnie"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/03-hypnotiques/qcm-007",
+    "type": "multiple",
+    "enonce": "Concernant l'historique des hypnotiques :",
+    "options": [
+      "L'opium était largement utilisé depuis des millénaires",
+      "Au XVIIe siècle, il était utilisé en solution dans l'alcool (laudanum)",
+      "Les bromures et le paraldéhyde ont été utilisés ensuite",
+      "L'hydrate de chloral et certains alcools ont suivi",
+      "Le laudanum est une solution aqueuse d'opium"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "L'opium (laudanum = solution dans l'alcool au XVIIe siècle), puis bromures, paraldéhyde, hydrate de chloral et certains alcools.",
+    "source": {
+      "page": 7,
+      "extrait": "au XVIIe siècle en solution dans l'alcool (Laudanum)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "historique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/03-hypnotiques/qcm-008",
+    "type": "unique",
+    "enonce": "Les premiers composés barbituriques (acide diéthylbarbiturique ou barbital) ont été introduits en thérapeutique en :",
+    "options": [
+      "1860",
+      "1903",
+      "1930",
+      "1960",
+      "1945"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Les premiers barbituriques ont été introduits en 1903.",
+    "source": {
+      "page": 8,
+      "extrait": "ont été introduits en thérapeutique en 1903"
+    },
+    "difficulte": 1,
+    "tags": [
+      "historique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/03-hypnotiques/qcm-009",
+    "type": "unique",
+    "enonce": "Les antihistaminiques classiques (antagonistes H1) ont été introduits en thérapeutique :",
+    "options": [
+      "En 1903",
+      "Pendant la Première Guerre mondiale",
+      "Pendant la Deuxième Guerre mondiale",
+      "En 1960",
+      "En 1980"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Les antihistaminiques classiques ont été introduits pendant la deuxième guerre mondiale.",
+    "source": {
+      "page": 8,
+      "extrait": "introduits en thérapeutique pendant la deuxième guerre mondiale"
+    },
+    "difficulte": 2,
+    "tags": [
+      "historique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/03-hypnotiques/qcm-010",
+    "type": "multiple",
+    "enonce": "Concernant la découverte des benzodiazépines :",
+    "options": [
+      "Le chlordiazépoxide a été découvert par hasard par Leo Sternbach",
+      "La découverte a eu lieu lors de recherches sur de nouveaux colorants alimentaires",
+      "Le Librium® a été introduit sur le marché en 1960",
+      "Le chlordiazépoxide est la première benzodiazépine",
+      "Le chlordiazépoxide a été synthétisé volontairement comme anxiolytique"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Découverte fortuite par le chimiste Leo Sternbach lors de la recherche de colorants alimentaires ; Librium® commercialisé en 1960.",
+    "source": {
+      "page": 12,
+      "extrait": "découvert par hasard par le chimiste Leo Sternbach"
+    },
+    "difficulte": 1,
+    "tags": [
+      "historique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/03-hypnotiques/qcm-011",
+    "type": "unique",
+    "enonce": "Le chef de file de la classe des benzodiazépines, apparu en 1960, est :",
+    "options": [
+      "Le diazépam",
+      "Le chlordiazépoxide",
+      "Le nitrazépam",
+      "Le zolpidem",
+      "Le triazolam"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "En 1960 apparaît le chlordiazépoxide, chef de file d'une nouvelle classe (BZD).",
+    "source": {
+      "page": 9,
+      "extrait": "En 1960 apparait le chlordiazépoxide, chef de fil d'une nouvelle classe (BZD)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "historique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/03-hypnotiques/qcm-012",
+    "type": "multiple",
+    "enonce": "La classification des hypnotiques comprend :",
+    "options": [
+      "Les barbituriques",
+      "Les benzodiazépines hypnotiques",
+      "Les apparentés aux benzodiazépines",
+      "Les antihistaminiques hypnotiques",
+      "Les neuroleptiques"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Quatre groupes : barbituriques, benzodiazépines hypnotiques, apparentés aux BZD, antihistaminiques hypnotiques.",
+    "source": {
+      "page": 10,
+      "extrait": "Barbituriques Antihistaminiques hypnotiques Benzodiazépines hypnotiques Apparentes aux benzodiazépines"
+    },
+    "difficulte": 1,
+    "tags": [
+      "classification"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/03-hypnotiques/qcm-013",
+    "type": "multiple",
+    "enonce": "Le noyau benzodiazépine est constitué de :",
+    "options": [
+      "Un cycle benzène (benzo) : cycle A",
+      "Un hétérocycle azoté à 7 atomes (azépine) : cycle B",
+      "Deux atomes d'azote (diaza)",
+      "Un cycle à 6 chaînons portant deux azotes",
+      "Trois atomes d'azote"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Benzodiazépine = benzo (cycle A) + diaza (deux azotes) + azépine (hétérocycle à 7 atomes, cycle B).",
+    "source": {
+      "page": 13,
+      "extrait": "Un cycle benzène (benzo): cycle A. Deux atomes d'azote (diaza) : cycle B. Et un cycle azoté à 7 atomes"
+    },
+    "difficulte": 1,
+    "tags": [
+      "structure"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/03-hypnotiques/qcm-014",
+    "type": "multiple",
+    "enonce": "Les benzodiazépines sont des molécules :",
+    "options": [
+      "Basiques",
+      "Lipophiles",
+      "Acides",
+      "Hydrophiles",
+      "Neutres et insolubles dans les lipides"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Ce sont des molécules basiques et lipophiles.",
+    "source": {
+      "page": 13,
+      "extrait": "Ce sont des molécules basiques et lipophiles"
+    },
+    "difficulte": 1,
+    "tags": [
+      "propriétés physico-chimiques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/03-hypnotiques/qcm-015",
+    "type": "unique",
+    "enonce": "La plus grande majorité des benzodiazépines actuellement utilisées en thérapeutique sont de type :",
+    "options": [
+      "1,2",
+      "1,3",
+      "1,4",
+      "1,5",
+      "2,3"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "La plus grande majorité des BZD utilisées sont de type 1,4.",
+    "source": {
+      "page": 14,
+      "extrait": "la plus grande majorité des BZD actuellement utilisées en thérapeutique sont de type 1,4"
+    },
+    "difficulte": 1,
+    "tags": [
+      "structure"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/03-hypnotiques/qcm-016",
+    "type": "multiple",
+    "enonce": "La classification des benzodiazépines hypnotiques comprend :",
+    "options": [
+      "Les dérivés de la diazépinone",
+      "Les dérivés de la diazépinolone",
+      "Les triazolo et imidazolo-1,4-benzodiazépines",
+      "Les dérivés de la diazépinone carboxylique",
+      "Les 1,5-benzodiazépines"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Trois groupes pour les BZD hypnotiques : diazépinone, diazépinolone, triazolo et imidazolo-1,4-benzodiazépines.",
+    "source": {
+      "page": 15,
+      "extrait": "A-Dérivés de la diazépinone B-Dérivés de la diazépinolone. C-Triazolo et imidazolo-1,4-Benzodiazépines"
+    },
+    "difficulte": 1,
+    "tags": [
+      "classification"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/03-hypnotiques/qcm-017",
+    "type": "multiple",
+    "enonce": "Dérivés nitrés en 7 de la 1,4-benzodiazépinone :",
+    "options": [
+      "Nitrazépam : Mogadan®, R1 = H, X = H, hypnotique",
+      "Flunitrazépam : Rohypnol®, R1 = CH3, X = F, hypnotique",
+      "Le flunitrazépam a été retiré du marché en 2013",
+      "Le nitrazépam est un anxiolytique pur",
+      "Le flunitrazépam porte un chlore en position 2'"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Tableau des dérivés 7-nitrés : nitrazépam (Mogadan®, H, H) et flunitrazépam (Rohypnol®, CH3, F), tous deux hypnotiques ; le flunitrazépam a été retiré du marché en 2013.",
+    "source": {
+      "page": 16,
+      "extrait": "Retiré du marché en 2013"
+    },
+    "difficulte": 2,
+    "tags": [
+      "diazépinone"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/03-hypnotiques/qcm-018",
+    "type": "multiple",
+    "enonce": "Concernant le nitrazépam :",
+    "options": [
+      "Son nom chimique est 7-nitro-5-phényl-1,4-benzodiazépin-2-one",
+      "Sa dénomination commerciale est Mogadan®",
+      "Il n'est pas substitué sur l'azote N1",
+      "Il est substitué par un méthyle sur N1",
+      "C'est un dérivé halogéné en 7"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Nitrazépam : 7-nitro-5-phényl-1,4-benzodiazépin-2-one (Mogadan®), non substitué sur N1 ; il est nitré, non halogéné, en 7.",
+    "source": {
+      "page": 17,
+      "extrait": "7-nitro-5-phényl-1,4-benzodiazépin-2-one DCI: Nitrazépam NC: MOGADAN"
+    },
+    "difficulte": 1,
+    "tags": [
+      "nitrazépam"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/03-hypnotiques/qcm-019",
+    "type": "unique",
+    "enonce": "La synthèse des 1,4-benzodiazépin-2-ones non substituées sur N part :",
+    "options": [
+      "D'une ortho-aminobenzophénone substituée par X = NO2",
+      "D'une ortho-aminobenzophénone substituée par X = Cl",
+      "De l'acide anthranilique",
+      "D'un ortho-nitrophénol",
+      "D'une benzophénone non substituée"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "La synthèse part d'une ortho-aminobenzophénone substituée par un X = NO2.",
+    "source": {
+      "page": 9,
+      "extrait": "À partir d'une ortho-aminobenzophénone substituée par un X= NO2"
+    },
+    "difficulte": 1,
+    "tags": [
+      "synthèse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/03-hypnotiques/qcm-020",
+    "type": "multiple",
+    "enonce": "Étapes de la synthèse du nitrazépam :",
+    "options": [
+      "Traitement par le bromure ou le chlorure de bromoacétyle",
+      "Libération de HBr lors de cette acylation",
+      "Substitution nucléophile par l'ammoniac (NH3)",
+      "Cyclisation avec perte d'une molécule d'eau",
+      "Méthylation finale par l'iodure de méthyle"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "1) acylation par le bromure (ou chlorure) de bromoacétyle (–HBr), 2) substitution nucléophile par NH3, 3) cyclisation avec perte d'eau donnant le nitrazépam. Pas de méthylation : le nitrazépam n'est pas substitué sur N1.",
+    "source": {
+      "page": 10,
+      "extrait": "3. Puis cyclisation avec perte d'une molécule d'eau"
+    },
+    "difficulte": 2,
+    "tags": [
+      "synthèse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/03-hypnotiques/qcm-021",
+    "type": "unique",
+    "enonce": "Dans la synthèse du nitrazépam, l'ammoniac intervient :",
+    "options": [
+      "Dans l'acylation initiale",
+      "Dans une substitution nucléophile du brome",
+      "Dans la cyclisation",
+      "Dans la méthylation",
+      "Dans la nitration"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Étape 2 : substitution nucléophile (SN) du brome par NH3, avec libération de HBr.",
+    "source": {
+      "page": 10,
+      "extrait": "2. Puis par SN"
+    },
+    "difficulte": 2,
+    "tags": [
+      "synthèse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/03-hypnotiques/qcm-022",
+    "type": "unique",
+    "enonce": "L'étape finale de la synthèse du nitrazépam est :",
+    "options": [
+      "Une nitration",
+      "Une cyclisation avec perte d'eau",
+      "Une méthylation",
+      "Une halogénation",
+      "Une oxydation"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "La cyclisation s'accompagne de la perte d'une molécule d'eau et donne le nitrazépam.",
+    "source": {
+      "page": 11,
+      "extrait": "3. Puis cyclisation avec perte d'une molécule d'eau"
+    },
+    "difficulte": 1,
+    "tags": [
+      "synthèse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/03-hypnotiques/qcm-023",
+    "type": "multiple",
+    "enonce": "Dérivés de la diazépinolone hypnotiques :",
+    "options": [
+      "Ils portent un CHOH en position 3 (dérivés hydroxylés)",
+      "R1 = CH3 correspond aux dérivés méthylés",
+      "Lormétazépam (Noctamide®) : X = Cl",
+      "Témazépam (Normison®) : X = H",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Les dérivés de la diazépinolone portent un CHOH en 3 ; R1 = CH3 (méthylés) ; lormétazépam X = Cl, témazépam X = H.",
+    "source": {
+      "page": 22,
+      "extrait": "Lormetazepam (Noctamide®) X = Cl Témazepam (Normison®) X=H"
+    },
+    "difficulte": 2,
+    "tags": [
+      "diazépinolone"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/03-hypnotiques/qcm-024",
+    "type": "unique",
+    "enonce": "Le lormétazépam diffère du témazépam par :",
+    "options": [
+      "Un chlore en ortho du phényle en 5",
+      "L'absence de méthyle sur N1",
+      "Un nitro en 7",
+      "Un carboxyle en 3",
+      "Un cycle triazolé"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Lormétazépam : X = Cl ; témazépam : X = H (tous deux R1 = CH3, OH en 3).",
+    "source": {
+      "page": 22,
+      "extrait": "Lormetazepam (Noctamide®) X = Cl Témazepam (Normison®) X=H"
+    },
+    "difficulte": 2,
+    "tags": [
+      "diazépinolone"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/03-hypnotiques/qcm-025",
+    "type": "multiple",
+    "enonce": "Concernant les imidazolo-1,4-benzodiazépines hypnotiques :",
+    "options": [
+      "Le loprazolam (Havlane®) en est l'exemple du cours",
+      "La fusion d'un cycle imidazolé accroît l'activité",
+      "La fusion d'un cycle imidazolé protège de l'oxydation",
+      "La fusion d'un cycle imidazolé diminue l'activité",
+      "Le triazolam en est l'exemple"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Loprazolam (Havlane®) : imidazolé ; la fusion d'un cycle imidazolé accroît l'activité et la protège de l'oxydation. Le triazolam est un triazolé.",
+    "source": {
+      "page": 24,
+      "extrait": "La fusion d'un cycle imidazolé accroit l'activité et la protège de l'oxydation"
+    },
+    "difficulte": 2,
+    "tags": [
+      "imidazolés"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/03-hypnotiques/qcm-026",
+    "type": "multiple",
+    "enonce": "Concernant les triazolo-1,4-benzodiazépines hypnotiques :",
+    "options": [
+      "Le triazolam (Halcion®) en est l'exemple du cours",
+      "La fusion d'un cycle triazolé protège de l'oxydation",
+      "La fusion d'un cycle triazolé augmente l'activité",
+      "Le loprazolam en est l'exemple",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Triazolam (Halcion®) ; la fusion d'un triazole sur le côté de la benzodiazépine permet une protection de l'oxydation et une augmentation de l'activité.",
+    "source": {
+      "page": 25,
+      "extrait": "une protection de l'oxydation et une augmentation de l'activité"
+    },
+    "difficulte": 1,
+    "tags": [
+      "triazolés"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/03-hypnotiques/qcm-027",
+    "type": "multiple",
+    "enonce": "Relations structure-activité des benzodiazépines (hypnotiques) :",
+    "options": [
+      "Les substituants en 7 sont toujours électroattracteurs",
+      "La fixation du substituant X sur une autre position que 7 diminue l'activité",
+      "Un groupe NO2 en 7 oriente vers l'activité hypnotique",
+      "Un chlore en 7 oriente vers l'activité anxiolytique",
+      "Un groupe donneur d'électrons en 7 augmente l'activité"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "X doit être électroattracteur en 7 ; ailleurs l'activité diminue. NO2 : hypnotique ; Cl : activité anxiolytique.",
+    "source": {
+      "page": 26,
+      "extrait": "X: électroattracteur en 7,sa fixation sur autre position→ diminue l'activité NO2: hypnotique Cl :activité anxiolytique"
+    },
+    "difficulte": 1,
+    "tags": [
+      "RSA"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/03-hypnotiques/qcm-028",
+    "type": "multiple",
+    "enonce": "RSA : substituant R sur l'azote en position 1 :",
+    "options": [
+      "Le radical alkyle augmente l'activité",
+      "Cela n'est vrai qu'à condition que le radical ne soit pas trop encombré",
+      "Le CH3 est un exemple de radical convenable",
+      "Un radical très encombré augmente encore l'activité",
+      "Tout radical alkyle abolit l'activité"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Le radical alkyle augmente l'activité à condition qu'il ne soit pas trop encombré (CH3).",
+    "source": {
+      "page": 26,
+      "extrait": "Le radical alkyl augmente l'activité à condition que ça ne soit pas trop encombré(CH3)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "RSA"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/03-hypnotiques/qcm-029",
+    "type": "multiple",
+    "enonce": "RSA : positions 2 et 4 du noyau benzodiazépine :",
+    "options": [
+      "Un groupe électroattracteur est nécessaire en 2 (O ou N)",
+      "La position 4 porte souvent un CH2",
+      "La position 4 peut porter un OH ou un COOH",
+      "La position 2 doit porter un groupe donneur d'électrons",
+      "La position 4 est toujours un carbonyle"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "En 2 : groupe électroattracteur nécessaire (O ou N) ; souvent un CH2 en position 4 (3 selon la numérotation du schéma), pouvant porter un OH ou un COOH.",
+    "source": {
+      "page": 26,
+      "extrait": "Un groupe électroattracteur est nécessaire (O ou N) Souvent un CH2 , peut un OH ou un COOH"
+    },
+    "difficulte": 3,
+    "tags": [
+      "RSA"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/03-hypnotiques/qcm-030",
+    "type": "multiple",
+    "enonce": "Mode d'action des benzodiazépines hypnotiques :",
+    "options": [
+      "Fixation sur le récepteur GABAA",
+      "Potentialisation de l'action du GABA",
+      "Augmentation de l'affinité du GABA pour son récepteur",
+      "Augmentation de la probabilité d'ouverture du canal Cl⁻",
+      "Blocage du canal chlorure"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Les BZD se fixent sur le récepteur GABAA, potentialisent le GABA en augmentant son affinité et la probabilité d'ouverture du canal Cl⁻.",
+    "source": {
+      "page": 28,
+      "extrait": "augmentant la probabilité d'ouverture du canal en Cl-"
+    },
+    "difficulte": 1,
+    "tags": [
+      "mécanisme"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/03-hypnotiques/qcm-031",
+    "type": "multiple",
+    "enonce": "Concernant le récepteur GABAA présenté dans le cours :",
+    "options": [
+      "Il comporte un site de liaison des benzodiazépines",
+      "Il comporte un site de liaison du GABA",
+      "Il possède des sous-unités alpha et une sous-unité gamma",
+      "Il est situé sur la membrane post-synaptique",
+      "Il laisse entrer les ions calcium"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Le récepteur GABAA post-synaptique comporte sites GABA et BZD, des sous-unités alpha et gamma, et laisse passer les ions chlorure.",
+    "source": {
+      "page": 27,
+      "extrait": "site de liaison Benzodiazépine (BDZ) sous-unité gamma"
+    },
+    "difficulte": 2,
+    "tags": [
+      "mécanisme"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/03-hypnotiques/qcm-032",
+    "type": "multiple",
+    "enonce": "Effets secondaires et maniement des benzodiazépines hypnotiques :",
+    "options": [
+      "Le traitement doit être aussi bref que possible, de quelques jours à 4 semaines",
+      "L'arrêt doit être progressif avec décroissance sur plusieurs jours",
+      "Les effets indésirables peuvent varier d'une personne à l'autre",
+      "Le traitement peut être arrêté brutalement sans risque",
+      "La durée recommandée est de 6 mois"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Traitement bref (quelques jours à 4 semaines) et arrêt progressif avec décroissance sur plusieurs jours.",
+    "source": {
+      "page": 29,
+      "extrait": "de quelques jours à 4 semaines. L'arrêt du traitement doit être progressif"
+    },
+    "difficulte": 1,
+    "tags": [
+      "effets indésirables"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/03-hypnotiques/qcm-033",
+    "type": "multiple",
+    "enonce": "Effets indésirables à court terme des benzodiazépines hypnotiques :",
+    "options": [
+      "Somnolence, baisse de vigilance",
+      "Vertiges, troubles de l'équilibre",
+      "Sensation de fatigue, de faiblesse musculaire",
+      "Dépendance",
+      "Altération progressive de la mémorisation"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Effets immédiats : somnolence, baisse de vigilance, vertiges, troubles de l'équilibre, fatigue, faiblesse musculaire. Dépendance et troubles mnésiques sont des effets à plus long terme.",
+    "source": {
+      "page": 29,
+      "extrait": "Somnolence, baisse de vigilance ; Vertiges, troubles de l'équilibre"
+    },
+    "difficulte": 2,
+    "tags": [
+      "effets indésirables"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/03-hypnotiques/qcm-034",
+    "type": "multiple",
+    "enonce": "Effets à plus long terme des benzodiazépines hypnotiques :",
+    "options": [
+      "Dépendance",
+      "Altération progressive des capacités de mémorisation",
+      "Altération progressive des capacités d'apprentissage",
+      "Vertiges immédiats",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Effets à long terme : dépendance, altération progressive des capacités de mémorisation et d'apprentissage.",
+    "source": {
+      "page": 29,
+      "extrait": "Les effets à plus long terme sont : Dépendance; altération progressive des capacités de mémorisation et d'apprentissage"
+    },
+    "difficulte": 1,
+    "tags": [
+      "effets indésirables"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/03-hypnotiques/qcm-035",
+    "type": "unique",
+    "enonce": "La durée maximale du traitement par un hypnotique benzodiazépinique indiquée dans le cours est de :",
+    "options": [
+      "1 semaine",
+      "4 semaines",
+      "12 semaines",
+      "6 mois",
+      "Illimitée"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Le traitement doit être aussi bref que possible, de quelques jours à 4 semaines.",
+    "source": {
+      "page": 29,
+      "extrait": "aussi bref possible, de quelques jours à 4 semaines"
+    },
+    "difficulte": 1,
+    "tags": [
+      "maniement"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/03-hypnotiques/qcm-036",
+    "type": "multiple",
+    "enonce": "Les apparentés aux benzodiazépines :",
+    "options": [
+      "Constituent une nouvelle classe thérapeutique",
+      "Sont pharmacologiquement apparentés aux benzodiazépines",
+      "Sont chimiquement différents des benzodiazépines",
+      "Possèdent un noyau 1,4-benzodiazépine",
+      "Ont des propriétés pharmacologiques voisines de celles des BZD"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explication": "Les apparentés aux BZD sont pharmacologiquement apparentés mais chimiquement différents ; leurs propriétés pharmacologiques sont voisines de celles des BZD.",
+    "source": {
+      "page": 33,
+      "extrait": "Pharmacologiquement apparenté aux benzodiazépines Chimiquement différent"
+    },
+    "difficulte": 1,
+    "tags": [
+      "apparentés"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/03-hypnotiques/qcm-037",
+    "type": "multiple",
+    "enonce": "Associez chaque apparenté aux BZD à sa structure chimique :",
+    "options": [
+      "Zolpidem : imidazopyridine",
+      "Zaleplon : pyrazolopyrimidine",
+      "Zopiclone : cyclopyrrolone",
+      "Zolpidem : cyclopyrrolone",
+      "Zopiclone : imidazopyridine"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Zolpidem = imidazopyridine ; zaleplon = pyrazolopyrimidine ; zopiclone = cyclopyrrolone.",
+    "source": {
+      "page": 31,
+      "extrait": "Imidazopyridine zolpidem Pyrazolopyrimidine zaleplon Cyclopyrrolone zopiclone"
+    },
+    "difficulte": 1,
+    "tags": [
+      "apparentés"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/03-hypnotiques/qcm-038",
+    "type": "unique",
+    "enonce": "Le zolpidem appartient chimiquement aux :",
+    "options": [
+      "Imidazopyridines",
+      "Pyrazolopyrimidines",
+      "Cyclopyrrolones",
+      "Benzodiazépines",
+      "Phénothiazines"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Le zolpidem est une imidazopyridine.",
+    "source": {
+      "page": 31,
+      "extrait": "Imidazopyridine zolpidem"
+    },
+    "difficulte": 1,
+    "tags": [
+      "zolpidem"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/03-hypnotiques/qcm-039",
+    "type": "unique",
+    "enonce": "La zopiclone appartient chimiquement aux :",
+    "options": [
+      "Imidazopyridines",
+      "Pyrazolopyrimidines",
+      "Cyclopyrrolones",
+      "Benzodiazépines",
+      "Carbamates"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "La zopiclone est une cyclopyrrolone.",
+    "source": {
+      "page": 31,
+      "extrait": "Cyclopyrrolone zopiclone"
+    },
+    "difficulte": 1,
+    "tags": [
+      "zopiclone"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/03-hypnotiques/qcm-040",
+    "type": "unique",
+    "enonce": "Le zaleplon appartient chimiquement aux :",
+    "options": [
+      "Imidazopyridines",
+      "Pyrazolopyrimidines",
+      "Cyclopyrrolones",
+      "Éthers du benzhydrol",
+      "Phénothiazines"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Le zaleplon est une pyrazolopyrimidine.",
+    "source": {
+      "page": 31,
+      "extrait": "Pyrazolopyrimidine zaleplon"
+    },
+    "difficulte": 1,
+    "tags": [
+      "zaleplon"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/03-hypnotiques/qcm-041",
+    "type": "multiple",
+    "enonce": "Propriétés pharmacologiques des apparentés aux BZD :",
+    "options": [
+      "Elles sont voisines de celles des benzodiazépines",
+      "La durée du sommeil est augmentée",
+      "La qualité du sommeil est améliorée",
+      "Le nombre de réveils nocturnes ou précoces est diminué",
+      "Le nombre de réveils nocturnes est augmenté"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Propriétés voisines des BZD : durée du sommeil augmentée, qualité améliorée, réveils nocturnes ou précoces diminués.",
+    "source": {
+      "page": 32,
+      "extrait": "La durée du sommeil est augmentée et la qualité est améliorée"
+    },
+    "difficulte": 1,
+    "tags": [
+      "apparentés"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/03-hypnotiques/qcm-042",
+    "type": "multiple",
+    "enonce": "Les antihistaminiques sédatifs ou hypnotiques :",
+    "options": [
+      "La plupart des antihistaminiques H1 possèdent une activité sédative ou hypnotique",
+      "Les phénothiazines en font partie",
+      "Les éthers du benzhydrol en font partie",
+      "Ils agissent sur le récepteur GABAA",
+      "Ils sont dépourvus d'activité sédative"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "La plupart des anti-H1 ont une activité sédative ou hypnotique ; les composés utilisés sont les phénothiazines (prométhazine) et les éthers du benzhydrol (doxylamine).",
+    "source": {
+      "page": 35,
+      "extrait": "Pour la plus part, les antihistaminiques H1 possèdent une activité sédative ou hypnotique"
+    },
+    "difficulte": 1,
+    "tags": [
+      "antihistaminiques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/03-hypnotiques/qcm-043",
+    "type": "multiple",
+    "enonce": "Concernant la prométhazine :",
+    "options": [
+      "C'est une phénothiazine",
+      "Sa spécialité est le Phénergan®",
+      "Son nom chimique est N,N-diméthyl-1-méthyl-2-(phénothiazin-10-yl)éthylamine",
+      "C'est un éther du benzhydrol",
+      "Sa spécialité est le Donormyl®"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Prométhazine (Phénergan®) : N,N-diméthyl-1-méthyl-2-(phénothiazin-10-yl)éthylamine, phénothiazine.",
+    "source": {
+      "page": 35,
+      "extrait": "N,N- diméthyl-1-méthyl-2-(phénothiazin-10-yl)éthylamine Prométhazine PHENERGAN"
+    },
+    "difficulte": 2,
+    "tags": [
+      "prométhazine"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/03-hypnotiques/qcm-044",
+    "type": "multiple",
+    "enonce": "Concernant la doxylamine :",
+    "options": [
+      "C'est un éther du benzhydrol",
+      "Ses spécialités sont Donormyl® et Sulamine®",
+      "C'est une phénothiazine",
+      "Elle est utilisée pour son effet sédatif",
+      "Elle comporte un noyau pyridine"
+    ],
+    "correctes": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "explication": "La doxylamine (Donormyl®, Sulamine®) est un éther du benzhydrol comportant un phényle, un méthyle et une pyridine sur le carbone porteur de l'oxygène ; elle est utilisée pour son effet sédatif.",
+    "source": {
+      "page": 36,
+      "extrait": "DOXYLAMINE DONORMYL*/ SULAMINE*"
+    },
+    "difficulte": 2,
+    "tags": [
+      "doxylamine"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/03-hypnotiques/qcm-045",
+    "type": "multiple",
+    "enonce": "Propriétés et mécanisme d'action des antihistaminiques hypnotiques :",
+    "options": [
+      "L'effet sédatif s'explique par un effet central d'origine histaminergique",
+      "L'effet sédatif comporte une composante adrénolytique",
+      "Ils entraînent moins de troubles amnésiques que les BZD",
+      "Le risque de dépendance est faible",
+      "Le risque de dépendance est supérieur à celui des BZD"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Effet sédatif d'origine histaminergique et adrénolytique centrale, moins de troubles amnésiques que les BZD, risque de dépendance faible.",
+    "source": {
+      "page": 37,
+      "extrait": "effet central d'origine histaminergique et adrénolytique. Moins de troubles amnésique que les BZD"
+    },
+    "difficulte": 2,
+    "tags": [
+      "antihistaminiques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/03-hypnotiques/qcm-046",
+    "type": "multiple",
+    "enonce": "Prise en charge de l'insomnie à l'officine (conseil allopathique) :",
+    "options": [
+      "Des antihistaminiques H1 sont disponibles sans ordonnance",
+      "La doxylamine est l'un de ces antihistaminiques",
+      "La prométhazine est l'un de ces antihistaminiques",
+      "Ils sont utilisés pour leur effet sédatif",
+      "Les benzodiazépines sont disponibles sans ordonnance"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "À l'officine, des anti-H1 (doxylamine, prométhazine) sont disponibles sans ordonnance et utilisés pour leur effet sédatif.",
+    "source": {
+      "page": 38,
+      "extrait": "des antihistaminiques H1 sont disponibles sans ordonnance et sont utilisés pour leur effet sédatif"
+    },
+    "difficulte": 1,
+    "tags": [
+      "officine"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/03-hypnotiques/qcm-047",
+    "type": "multiple",
+    "enonce": "Plantes employées dans les troubles du sommeil citées dans le cours :",
+    "options": [
+      "La valériane (Valeriana officinalis)",
+      "La passiflore (Passiflora incarnata)",
+      "L'aubépine (Crataegus oxyacantha)",
+      "Le pavot somnifère",
+      "Le millepertuis"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Plantes sédatives citées : valériane, passiflore, aubépine.",
+    "source": {
+      "page": 38,
+      "extrait": "telles que la valériane, la passiflore, l'aubépine"
+    },
+    "difficulte": 1,
+    "tags": [
+      "phytothérapie"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/03-hypnotiques/qcm-048",
+    "type": "unique",
+    "enonce": "La passiflore employée dans les troubles du sommeil appartient à la famille des :",
+    "options": [
+      "Valerianaceae",
+      "Passifloraceae",
+      "Rosaceae",
+      "Papaveraceae",
+      "Lamiaceae"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Passiflore, Passiflora incarnata, Passifloraceae.",
+    "source": {
+      "page": 39,
+      "extrait": "Passiflore, Passiflora incarnata, Passifloraceae"
+    },
+    "difficulte": 2,
+    "tags": [
+      "phytothérapie"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/03-hypnotiques/qcm-049",
+    "type": "unique",
+    "enonce": "L'aubépine (Crataegus oxyacantha) appartient à la famille des :",
+    "options": [
+      "Rosaceae",
+      "Valerianaceae",
+      "Passifloraceae",
+      "Asteraceae",
+      "Fabaceae"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Aubépine, Crataegus oxyacantha, Rosaceae.",
+    "source": {
+      "page": 40,
+      "extrait": "Aubépine, Crataegus oxyacantha, Rosaceae"
+    },
+    "difficulte": 2,
+    "tags": [
+      "phytothérapie"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/03-hypnotiques/qcm-050",
+    "type": "unique",
+    "enonce": "La valériane utilisée comme sédatif est :",
+    "options": [
+      "Valeriana officinalis, Valerianaceae",
+      "Crataegus oxyacantha, Rosaceae",
+      "Passiflora incarnata, Passifloraceae",
+      "Papaver somniferum, Papaveraceae",
+      "Melissa officinalis, Lamiaceae"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Valériane, Valeriana officinalis, Valerianaceae.",
+    "source": {
+      "page": 39,
+      "extrait": "Valériane, Valeriana officinalis,Valerianaceae"
+    },
+    "difficulte": 1,
+    "tags": [
+      "phytothérapie"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/03-hypnotiques/qcm-051",
+    "type": "multiple",
+    "enonce": "Parmi les benzodiazépines suivantes, lesquelles sont hypnotiques selon ce cours ?",
+    "options": [
+      "Nitrazépam",
+      "Flunitrazépam",
+      "Lormétazépam",
+      "Témazépam",
+      "Chlordiazépoxide"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Nitrazépam et flunitrazépam (7-nitrés), lormétazépam et témazépam (diazépinolone) sont hypnotiques ; le chlordiazépoxide est le chef de file anxiolytique.",
+    "source": {
+      "page": 16,
+      "extrait": "Nitrazépam Mogadan® H H Hypnotique"
+    },
+    "difficulte": 2,
+    "tags": [
+      "transversal"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/03-hypnotiques/qcm-052",
+    "type": "multiple",
+    "enonce": "Quelles molécules hypnotiques ne sont pas des benzodiazépines ?",
+    "options": [
+      "Zolpidem",
+      "Zopiclone",
+      "Zaleplon",
+      "Doxylamine",
+      "Loprazolam"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Zolpidem, zopiclone et zaleplon sont des apparentés chimiquement différents ; la doxylamine est un antihistaminique. Le loprazolam est une imidazobenzodiazépine.",
+    "source": {
+      "page": 31,
+      "extrait": "Imidazopyridine Pyrazolopyrimidine Cyclopyrrolone"
+    },
+    "difficulte": 2,
+    "tags": [
+      "transversal"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/03-hypnotiques/qcm-053",
+    "type": "multiple",
+    "enonce": "Associez correctement molécule et spécialité :",
+    "options": [
+      "Nitrazépam : Mogadan®",
+      "Flunitrazépam : Rohypnol®",
+      "Triazolam : Halcion®",
+      "Loprazolam : Havlane®",
+      "Témazépam : Noctamide®"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Témazépam = Normison® ; Noctamide® = lormétazépam.",
+    "source": {
+      "page": 22,
+      "extrait": "Lormetazepam (Noctamide®) Témazepam (Normison®)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "spécialités"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/03-hypnotiques/qcm-054",
+    "type": "multiple",
+    "enonce": "Quels éléments structuraux protègent la benzodiazépine de l'oxydation ?",
+    "options": [
+      "La fusion d'un cycle triazolé",
+      "La fusion d'un cycle imidazolé",
+      "Un hydroxyle en position 3",
+      "Un nitro en position 7",
+      "Un chlore en position 7"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Les cycles triazolé et imidazolé fusionnés protègent de l'oxydation et augmentent l'activité.",
+    "source": {
+      "page": 24,
+      "extrait": "La fusion d'un cycle imidazolé accroit l'activité et la protège de l'oxydation"
+    },
+    "difficulte": 2,
+    "tags": [
+      "RSA"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/03-hypnotiques/qcm-055",
+    "type": "multiple",
+    "enonce": "Quelle(s) différence(s) existe(nt) entre le nitrazépam et le flunitrazépam ?",
+    "options": [
+      "Le flunitrazépam est méthylé sur N1",
+      "Le flunitrazépam porte un fluor en position 2' du cycle C",
+      "Le nitrazépam n'est pas substitué sur N1",
+      "Les deux sont des dérivés 7-nitrés",
+      "Le nitrazépam porte un fluor"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Nitrazépam : R1 = H, X = H ; flunitrazépam : R1 = CH3, X = F ; les deux sont nitrés en 7.",
+    "source": {
+      "page": 16,
+      "extrait": "Nitrazépam Mogadan® H H Flunitrazépam Rohypnol® CH3 F"
+    },
+    "difficulte": 2,
+    "tags": [
+      "transversal"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/03-hypnotiques/qcm-056",
+    "type": "multiple",
+    "enonce": "Comparaison antihistaminiques hypnotiques / benzodiazépines :",
+    "options": [
+      "Les antihistaminiques entraînent moins de troubles amnésiques",
+      "Le risque de dépendance est faible avec les antihistaminiques",
+      "Les antihistaminiques agissent par effet histaminergique et adrénolytique central",
+      "Les benzodiazépines agissent sur le récepteur GABAA",
+      "Les antihistaminiques agissent sur le récepteur GABAA"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Les anti-H1 agissent par un effet central histaminergique et adrénolytique, avec moins de troubles mnésiques et peu de dépendance ; les BZD agissent sur le récepteur GABAA.",
+    "source": {
+      "page": 37,
+      "extrait": "Moins de troubles amnésique que les BZD. Le risque de dépendance est faible"
+    },
+    "difficulte": 2,
+    "tags": [
+      "transversal"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/03-hypnotiques/qcm-057",
+    "type": "unique",
+    "enonce": "Le médicament hypnotique dont la molécule résulte de la fusion d'un cycle imidazolé portant une chaîne méthylpipérazinylméthylène est :",
+    "options": [
+      "Loprazolam (Havlane®)",
+      "Triazolam (Halcion®)",
+      "Nitrazépam (Mogadan®)",
+      "Zolpidem",
+      "Zopiclone"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Le loprazolam (Havlane®) est l'imidazolo-1,4-benzodiazépine du cours, portant une chaîne méthylpipérazinyl-méthylène.",
+    "source": {
+      "page": 24,
+      "extrait": "Loprazolam : Havlane"
+    },
+    "difficulte": 3,
+    "tags": [
+      "imidazolés"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/03-hypnotiques/qcm-058",
+    "type": "multiple",
+    "enonce": "Concernant les effets des hypnotiques selon la dose :",
+    "options": [
+      "À petite dose : sensation de calme",
+      "À petite dose : somnolence et bien-être",
+      "À forte dose : intoxication",
+      "À forte dose : coma et mort",
+      "À forte dose : simple sédation sans danger"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "À petite dose : calme, somnolence, bien-être ; à forte dose : intoxication, coma et mort.",
+    "source": {
+      "page": 3,
+      "extrait": "À forte dose : intoxication, coma et mort"
+    },
+    "difficulte": 1,
+    "tags": [
+      "définition"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/03-hypnotiques/qcm-059",
+    "type": "multiple",
+    "enonce": "Parmi les hypnotiques historiques cités avant les barbituriques :",
+    "options": [
+      "L'opium",
+      "Les bromures",
+      "Le paraldéhyde",
+      "L'hydrate de chloral",
+      "Le zolpidem"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Avant les barbituriques : opium (laudanum), bromures, paraldéhyde, hydrate de chloral et certains alcools. Le zolpidem est très récent.",
+    "source": {
+      "page": 7,
+      "extrait": "Par la suite, les bromures et le paraldéhyde suivis par l'hydrate de chloral et de certains alcools"
+    },
+    "difficulte": 2,
+    "tags": [
+      "historique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/03-hypnotiques/qcm-060",
+    "type": "unique",
+    "enonce": "Le premier barbiturique introduit en thérapeutique est :",
+    "options": [
+      "Le phénobarbital",
+      "Le barbital (acide diéthylbarbiturique)",
+      "Le nitrazépam",
+      "Le paraldéhyde",
+      "L'hydrate de chloral"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Les premiers composés barbituriques (acide diéthylbarbiturique ou barbital) ont été introduits en 1903.",
+    "source": {
+      "page": 8,
+      "extrait": "acide diéthylbarbutrique ou barbital"
+    },
+    "difficulte": 2,
+    "tags": [
+      "historique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/03-hypnotiques/qcm-061",
+    "type": "multiple",
+    "enonce": "Concernant la structure et les propriétés physico-chimiques des benzodiazépines :",
+    "options": [
+      "Le cycle A est un benzène",
+      "Le cycle B est un hétérocycle azoté à 7 atomes",
+      "Elles contiennent deux atomes d'azote",
+      "Ce sont des molécules basiques et lipophiles",
+      "Ce sont des acides forts hydrosolubles"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Benzo (cycle A) + diaza + azépine (cycle B) ; molécules basiques et lipophiles.",
+    "source": {
+      "page": 13,
+      "extrait": "Ce sont des molécules basiques et lipophiles"
+    },
+    "difficulte": 1,
+    "tags": [
+      "structure"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/03-hypnotiques/qcm-062",
+    "type": "multiple",
+    "enonce": "Dans la classification des BZD hypnotiques, à quel groupe appartiennent les molécules suivantes ?",
+    "options": [
+      "Nitrazépam : dérivés de la diazépinone",
+      "Témazépam : dérivés de la diazépinolone",
+      "Triazolam : triazolo-1,4-benzodiazépines",
+      "Loprazolam : imidazolo-1,4-benzodiazépines",
+      "Lormétazépam : triazolés"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Le lormétazépam est un dérivé de la diazépinolone (CHOH en 3), non un triazolé.",
+    "source": {
+      "page": 22,
+      "extrait": "B-Dérivés de la diazépinolone"
+    },
+    "difficulte": 2,
+    "tags": [
+      "classification"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/03-hypnotiques/qcm-063",
+    "type": "unique",
+    "enonce": "Dans la synthèse du nitrazépam, le réactif qui acyle l'amine aromatique est :",
+    "options": [
+      "Le bromure (ou chlorure) de bromoacétyle",
+      "L'iodure de méthyle",
+      "Le phosgène",
+      "L'ammoniac",
+      "Le chlorure de thionyle"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "La première étape traite l'ortho-aminobenzophénone nitrée par le bromure ou le chlorure de bromoacétyle.",
+    "source": {
+      "page": 9,
+      "extrait": "Traitée par du bromure ou du chlorure de bromacétyle"
+    },
+    "difficulte": 2,
+    "tags": [
+      "synthèse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/03-hypnotiques/qcm-064",
+    "type": "multiple",
+    "enonce": "Comparaison des dérivés 7-nitrés et des dérivés de la diazépinolone hypnotiques :",
+    "options": [
+      "Les 7-nitrés portent un groupe NO2 en position 7",
+      "Les diazépinolones portent un OH en position 3",
+      "Le nitrazépam est un 7-nitré",
+      "Le témazépam est une diazépinolone",
+      "Les diazépinolones portent un NO2 en 7"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "7-nitrés : nitrazépam, flunitrazépam ; diazépinolones (OH en 3) : témazépam, lormétazépam.",
+    "source": {
+      "page": 22,
+      "extrait": "Dérivés hydroxylés"
+    },
+    "difficulte": 1,
+    "tags": [
+      "classification"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/03-hypnotiques/qcm-065",
+    "type": "multiple",
+    "enonce": "Concernant le maniement des hypnotiques benzodiazépiniques :",
+    "options": [
+      "Le traitement doit être aussi bref que possible",
+      "La durée va de quelques jours à 4 semaines",
+      "L'arrêt se fait par décroissance sur plusieurs jours",
+      "Les effets indésirables varient d'une personne à l'autre",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes ces règles figurent dans le cours sur les effets secondaires et le maniement.",
+    "source": {
+      "page": 29,
+      "extrait": "Le traitement doit être aussi bref possible, de quelques jours à 4 semaines"
+    },
+    "difficulte": 1,
+    "tags": [
+      "maniement"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/03-hypnotiques/qcm-066",
+    "type": "multiple",
+    "enonce": "Quels sont les points communs entre les apparentés aux BZD et les benzodiazépines hypnotiques ?",
+    "options": [
+      "Des propriétés pharmacologiques voisines",
+      "L'augmentation de la durée du sommeil",
+      "L'amélioration de la qualité du sommeil",
+      "Une structure chimique identique",
+      "La diminution des réveils nocturnes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explication": "Les apparentés ont des propriétés voisines (durée et qualité du sommeil améliorées, réveils diminués) mais sont chimiquement différents.",
+    "source": {
+      "page": 32,
+      "extrait": "Les propriétés pharmacologiques sont voisines de celles des BZD"
+    },
+    "difficulte": 2,
+    "tags": [
+      "apparentés"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/03-hypnotiques/qcm-067",
+    "type": "multiple",
+    "enonce": "Concernant le conseil officinal dans l'insomnie :",
+    "options": [
+      "Des anti-H1 sont disponibles sans ordonnance",
+      "La doxylamine est un éther du benzhydrol",
+      "La prométhazine est une phénothiazine",
+      "Les plantes conseillées ont des propriétés sédatives",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Conseil allopathique : doxylamine (éther du benzhydrol) et prométhazine (phénothiazine) sans ordonnance ; plantes sédatives : valériane, passiflore, aubépine.",
+    "source": {
+      "page": 38,
+      "extrait": "Les plantes employées dans les troubles du sommeil sont des plantes aux propriétés sédatives (calmantes)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "officine"
+    ],
+    "origine": "genere"
+  }
+]

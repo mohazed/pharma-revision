@@ -1,0 +1,12 @@
+{
+  "id": "chimie-therapeutique/05-antidepresseurs-partie-2",
+  "module": "chimie-therapeutique",
+  "ordre": 5,
+  "titre": "Les antidépresseurs – Partie 2",
+  "type": "cours",
+  "source": {
+    "driveId": "1s4gH1xmyvUomcjHb0-sMg7zwtsQzx6mZ",
+    "fichier": "4.2 Antidepresseurs - Partie 2.pdf"
+  },
+  "resume": "Mécanisme d'action et relations structure-activité des antidépresseurs tricycliques, effets indésirables, IMAO (iproniazide, moclobémide), antidépresseurs de 2e génération (ISRS, IRSNA) et antidépresseurs atypiques (miansérine, mirtazapine)."
+}

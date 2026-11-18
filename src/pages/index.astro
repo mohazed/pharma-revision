@@ -1,0 +1,22 @@
+---
+import Base from "../layouts/Base.astro";
+import Accueil from "../islands/Accueil";
+import { getIndex } from "../lib/content";
+const index = getIndex();
+---
+<Base titre="Accueil">
+  <Accueil client:only="react" index={index}>
+    <div slot="fallback" class="flex flex-col gap-4">
+      <div>
+        <p class="surtitre">PharmaRévision</p>
+        <h1 class="text-2xl sm:text-3xl">Bonjour, prêt·e à réviser ?</h1>
+      </div>
+      <p class="text-ink-muted">QCM corrigés, flashcards, fiches et examens blancs pour la 3e année de pharmacie, tirés uniquement des cours.</p>
+      <ul class="grid grid-cols-2 gap-2.5 md:grid-cols-3">
+        {index.modules.map((m) => (
+          <li><a href={`/modules/${m.slug}/`} class="carte block p-4 font-bold text-ink no-underline">{m.titre}</a></li>
+        ))}
+      </ul>
+    </div>
+  </Accueil>
+</Base>

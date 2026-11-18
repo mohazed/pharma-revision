@@ -1,0 +1,145 @@
+[
+  {
+    "id": "chimie-analytique/td/01-td-extraction-liquide-liquide/calcul-001",
+    "titre": "TD1 Ex.2 – Masse de résidu après extraction",
+    "enonce": "Un alcaloïde (M = {M} g/mol, λ = {lam}) est en solution aqueuse à {C} mol/L ({VA} mL). On l'extrait une fois par {VB} mL de chloroforme puis on évapore. Calculer la masse du résidu.",
+    "variables": {
+      "M": {
+        "min": 150,
+        "max": 400,
+        "pas": 10,
+        "unite": "g/mol"
+      },
+      "lam": {
+        "min": 2,
+        "max": 20,
+        "pas": 1,
+        "unite": ""
+      },
+      "C": {
+        "min": 0.005,
+        "max": 0.05,
+        "pas": 0.005,
+        "unite": "mol/L"
+      },
+      "VA": {
+        "min": 20,
+        "max": 100,
+        "pas": 10,
+        "unite": "mL"
+      },
+      "VB": {
+        "min": 5,
+        "max": 50,
+        "pas": 5,
+        "unite": "mL"
+      }
+    },
+    "formule": "1000*M*C*VA/1000*(lam*VB/VA)/(1+lam*VB/VA)",
+    "unite": "mg",
+    "decimales": 2,
+    "etapes": [
+      "Étape 1 : QA0 = C × VA (en mol)",
+      "Étape 2 : α = λ·VB/VA",
+      "Étape 3 : QB = α·QA0/(1 + α)",
+      "Étape 4 : m = QB × M (convertir en mg)"
+    ],
+    "rappel": "QB1 = α·QA0/(1 + α)."
+  },
+  {
+    "id": "chimie-analytique/td/01-td-extraction-liquide-liquide/calcul-002",
+    "titre": "TD1 Ex.4 – Nombre d'extractions nécessaires",
+    "enonce": "{VA} mL d'eau contiennent {Q0} mg de A. On extrait par portions de {VB} mL de solvant (λ = {lam}). Combien d'extractions (nombre entier) faut-il pour qu'il reste au plus {Qr} mg ?",
+    "variables": {
+      "VA": {
+        "min": 20,
+        "max": 100,
+        "pas": 10,
+        "unite": "mL"
+      },
+      "Q0": {
+        "min": 10,
+        "max": 50,
+        "pas": 2,
+        "unite": "mg"
+      },
+      "VB": {
+        "min": 5,
+        "max": 30,
+        "pas": 5,
+        "unite": "mL"
+      },
+      "lam": {
+        "min": 2,
+        "max": 10,
+        "pas": 1,
+        "unite": ""
+      },
+      "Qr": {
+        "min": 0.5,
+        "max": 5,
+        "pas": 0.5,
+        "unite": "mg"
+      }
+    },
+    "formule": "Math.max(1,Math.ceil(Math.log(Q0/Qr)/Math.log(1+lam*VB/VA)))",
+    "unite": "extractions",
+    "decimales": 0,
+    "etapes": [
+      "Étape 1 : α = λ·VB/VA",
+      "Étape 2 : QAn = QA0/(1 + α)ⁿ ≤ Qr",
+      "Étape 3 : n ≥ log(QA0/Qr)/log(1 + α), arrondir à l'entier supérieur"
+    ],
+    "rappel": "QAn = QA0/(1+α)ⁿ."
+  },
+  {
+    "id": "chimie-analytique/td/01-td-extraction-liquide-liquide/calcul-003",
+    "titre": "TD1 Ex.7 – Rapport de volumes pour un rendement visé (base à pH ≥ pKa + 2)",
+    "enonce": "Une amine (λ = {lam}) est extraite à pH ≥ pKa + 2 (D ≈ λ). Quel rapport VB/VA faut-il pour un rendement de {rho} % en une extraction ?",
+    "variables": {
+      "lam": {
+        "min": 5,
+        "max": 50,
+        "pas": 1,
+        "unite": ""
+      },
+      "rho": {
+        "min": 80,
+        "max": 99.5,
+        "pas": 0.5,
+        "unite": "%"
+      }
+    },
+    "formule": "(rho/100)/(1-rho/100)/lam",
+    "unite": "",
+    "decimales": 3,
+    "etapes": [
+      "Étape 1 : à pH ≥ pKa + 2, D ≈ λ",
+      "Étape 2 : ρ = 1 − 1/(1 + D·VB/VA) ⟹ D·VB/VA = ρ/(1 − ρ)",
+      "Étape 3 : VB/VA = ρ/[(1 − ρ)·D]"
+    ],
+    "rappel": "Base : log D = log λ à pH élevé."
+  },
+  {
+    "id": "chimie-analytique/td/01-td-extraction-liquide-liquide/calcul-004",
+    "titre": "TD1 Ex.8 – Coefficient de partage à partir du rendement de deux extractions",
+    "enonce": "Deux extractions successives avec VB = VA donnent un rendement de {rho} %. Calculer λ.",
+    "variables": {
+      "rho": {
+        "min": 80,
+        "max": 99.5,
+        "pas": 0.01,
+        "unite": "%"
+      }
+    },
+    "formule": "1/Math.sqrt(1-rho/100)-1",
+    "unite": "",
+    "decimales": 2,
+    "etapes": [
+      "Étape 1 : VB = VA ⟹ α = λ",
+      "Étape 2 : 1 − ρ = 1/(1 + λ)²",
+      "Étape 3 : λ = 1/√(1 − ρ) − 1"
+    ],
+    "rappel": "Extraction répétée : ρ = 1 − 1/(1 + α)ⁿ."
+  }
+]

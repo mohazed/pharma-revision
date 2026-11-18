@@ -1,0 +1,117 @@
+[
+  {
+    "id": "chimie-analytique/04-extraction-contre-courant/calcul-001",
+    "titre": "Rendement d'une extraction à contre-courant",
+    "enonce": "Une extraction à contre-courant comporte {n} étages théoriques avec α = {a}. Calculer le rendement en %.",
+    "variables": {
+      "n": {
+        "min": 1,
+        "max": 10,
+        "pas": 1,
+        "unite": "étages"
+      },
+      "a": {
+        "min": 1.5,
+        "max": 5,
+        "pas": 0.5,
+        "unite": ""
+      }
+    },
+    "formule": "100*(1-(a-1)/(Math.pow(a,n+1)-1))",
+    "unite": "%",
+    "decimales": 2,
+    "etapes": [
+      "Étape 1 : fraction restante QAn/QA0 = (α − 1)/(αⁿ⁺¹ − 1)",
+      "Étape 2 : ρ = 1 − (α − 1)/(αⁿ⁺¹ − 1)",
+      "Étape 3 : ×100"
+    ],
+    "rappel": "ρ = (αⁿ⁺¹ − α)/(αⁿ⁺¹ − 1)."
+  },
+  {
+    "id": "chimie-analytique/04-extraction-contre-courant/calcul-002",
+    "titre": "Quantité dans le raffiné final (contre-courant)",
+    "enonce": "QA0 = {Q0} mg sont traités dans une colonne à contre-courant de {n} étages théoriques, avec α = {a}. Calculer QAn.",
+    "variables": {
+      "Q0": {
+        "min": 50,
+        "max": 500,
+        "pas": 10,
+        "unite": "mg"
+      },
+      "n": {
+        "min": 1,
+        "max": 8,
+        "pas": 1,
+        "unite": "étages"
+      },
+      "a": {
+        "min": 1.5,
+        "max": 5,
+        "pas": 0.5,
+        "unite": ""
+      }
+    },
+    "formule": "Q0*(a-1)/(Math.pow(a,n+1)-1)",
+    "unite": "mg",
+    "decimales": 3,
+    "etapes": [
+      "Étape 1 : QAn = QA0·(α − 1)/(αⁿ⁺¹ − 1)",
+      "Étape 2 : QB1 = QA0 − QAn si demandé"
+    ],
+    "rappel": "QAn = QA0(α − 1)/(αⁿ⁺¹ − 1)."
+  },
+  {
+    "id": "chimie-analytique/04-extraction-contre-courant/calcul-003",
+    "titre": "Nombre d'étages théoriques nécessaires",
+    "enonce": "Avec α = {a}, quel nombre d'étages théoriques (valeur calculée, non arrondie) faut-il pour obtenir un rendement de {rho} % ?",
+    "variables": {
+      "a": {
+        "min": 1.5,
+        "max": 5,
+        "pas": 0.5,
+        "unite": ""
+      },
+      "rho": {
+        "min": 80,
+        "max": 99.5,
+        "pas": 0.5,
+        "unite": "%"
+      }
+    },
+    "formule": "(Math.log10(a-rho/100)-Math.log10(1-rho/100))/Math.log10(a)-1",
+    "unite": "étages",
+    "decimales": 2,
+    "etapes": [
+      "Étape 1 : ρ(αⁿ⁺¹ − 1) = αⁿ⁺¹ − α ⟹ αⁿ⁺¹(1 − ρ) = α − ρ",
+      "Étape 2 : (n+1)·log α = log(α − ρ) − log(1 − ρ)",
+      "Étape 3 : n = [log(α − ρ) − log(1 − ρ)]/log α − 1"
+    ],
+    "rappel": "n = [log(α − ρ) − log(1 − ρ)]/log α − 1."
+  },
+  {
+    "id": "chimie-analytique/04-extraction-contre-courant/calcul-004",
+    "titre": "Hauteur équivalente à un étage théorique",
+    "enonce": "Une colonne d'extraction de {L} cm comporte {n} étages théoriques. Calculer la HEET.",
+    "variables": {
+      "L": {
+        "min": 50,
+        "max": 300,
+        "pas": 10,
+        "unite": "cm"
+      },
+      "n": {
+        "min": 5,
+        "max": 60,
+        "pas": 5,
+        "unite": "étages"
+      }
+    },
+    "formule": "L/n",
+    "unite": "cm",
+    "decimales": 2,
+    "etapes": [
+      "Étape 1 : HEET = L/n"
+    ],
+    "rappel": "HEET = longueur de la colonne/nombre d'étages théoriques."
+  }
+]

@@ -1,0 +1,94 @@
+{
+  "id": "pharmacologie/04-distribution/fiche",
+  "titre": "Distribution des médicaments",
+  "sections": [
+    {
+      "titre": "Introduction et définition",
+      "points": [
+        "La distribution est « le processus de répartition du médicament dans l'ensemble des tissus et organes ».",
+        "Après résorption, le médicament gagne la circulation générale et se fixe **réversiblement** aux protéines plasmatiques (et parfois aux éléments figurés du sang).",
+        "Deux phases : **phase plasmatique** (transport sanguin) et **phase tissulaire** (diffusion tissulaire).",
+        "La **fraction libre**, en équilibre avec la fraction liée, quitte la circulation pour diffuser dans les tissus et compartiments liquidiens."
+      ]
+    },
+    {
+      "titre": "Fixation aux protéines plasmatiques",
+      "points": [
+        "Phénomène **réversible** obéissant à la **loi d'action de masse** ; dépend de la concentration de la protéine liante et de l'affinité du médicament.",
+        "**Seule la fraction libre** est diffusible, active pharmacologiquement et éliminable.",
+        "La forme liée = forme de **transport et de réserve transitoire**, inactive ; inactivité temporaire (équilibre libre ⇌ lié).",
+        "Liaisons : Van Der Waals, ioniques, hydrogènes ; covalentes **rares** et en général irréversibles.",
+        "Caractéristiques : affinité (**Ka** ↑ = liaison plus stable), nombre de sites (restreints ou nombreux), spécificité (sites anioniques, cationiques, sites spécifiques sur l'albumine : diazépam, warfarine, digitoxine), pourcentage de fixation (fortement / moyennement / faiblement fixés).",
+        "Protéines : albumine, α1 glycoprotéine acide, globulines (α, β, γ), lipoprotéines (HDL, LDL, VLDL). **Albumine et α1 glycoprotéine acide** = les deux principales.",
+        "La fixation dépend des caractéristiques acido-basiques des médicaments."
+      ]
+    },
+    {
+      "titre": "Facteurs influençant la fixation protéique",
+      "points": [
+        "**pH sanguin** : déplacement intra/extracellulaire ; en acidose métabolique, altération de l'affinité (conformation de la protéine, fixation des protons).",
+        "**Saturation** : nombre de sites restreint et concentration molaire protéine = médicament.",
+        "**Nature du médicament** : % de fixation, affinité.",
+        "**Substances endogènes** : acides gras libres et bilirubine → ↓ fixation.",
+        "**Interactions médicamenteuses** : conséquences cliniques seulement dans quelques cas ; risque majoré si fixation > 90 %, Vd faible (< 0,14 l/kg), index thérapeutique étroit.",
+        "**Facteurs pathologiques** : modifient le taux des protéines plasmatiques.",
+        "**Facteurs physiologiques** : nouveau-né (albumine modifiée, ↑ bilirubine et acides gras), personne âgée (hypoalbuminémie), grossesse (hypoalbuminémie de dilution)."
+      ]
+    },
+    {
+      "titre": "Conséquences des variations de fixation",
+      "points": [
+        "Pharmacologiques : la forme liée transporte et stocke, la forme libre agit et diffuse.",
+        "Pharmacocinétiques : modification du **Vd** et de la **T1/2** d'élimination.",
+        "Thérapeutiques : effet modifié pour les médicaments à forte liaison, Vd faible et index thérapeutique étroit."
+      ]
+    },
+    {
+      "titre": "Fixation aux éléments figurés du sang",
+      "points": [
+        "Les **hématies** transportent des médicaments, pas les **leucocytes**.",
+        "Paramètres à exprimer en données **sanguines** (ex. cyclosporine dosée sur sang total)."
+      ]
+    },
+    {
+      "titre": "Diffusion tissulaire",
+      "points": [
+        "Passages **réversibles** (lieux d'action, de stockage) et **irréversibles** (lieux de transformation, d'élimination).",
+        "Membranes phospholipidiques : molécules liposolubles non ionisées → **diffusion passive** ; hydrophiles → **transporteurs** (transport actif, diffusion facilitée) si affinité élevée.",
+        "Facteurs : fixation protéique (seule la forme libre diffuse), caractéristiques physico-chimiques (fraction liposoluble non ionisée), irrigation (facteur limitant, corrélation vitesse d'irrigation/vitesse de distribution), volume du tissu, affinité des organes (tropisme vers le site d'action, foie et rein).",
+        "Vascularisation : riche (cœur, poumons, foie, reins, cerveau, glandes endocrines) ; moyenne (peau, muscles) ; faible (moelle, tissu adipeux) ; très faible (os, dents, tendons, ligaments, cartilages, phanères)."
+      ]
+    },
+    {
+      "titre": "Passages particuliers",
+      "points": [
+        "**BHE** : cellules endothéliales très serrées ; seuls les PA liposolubles non ionisés passent ; freins : enzymes + **P-glycoprotéine** (pompe d'efflux, anticancéreux).",
+        "Perméabilité accrue : à la naissance (ictère nucléaire par passage de bilirubine) et en cas de méningite.",
+        "**Placenta** : diffusion passive (lipophiles, faible PM), transport actif (acides aminés, électrolytes) ; risques tératogène et d'intoxication du nouveau-né."
+      ]
+    },
+    {
+      "titre": "Redistribution",
+      "points": [
+        "Le gradient de concentration règle la répartition plasma/tissus.",
+        "Médicaments liposolubles + organes à fort débit → inversion du gradient (tissu > plasma) → retour vers le plasma."
+      ]
+    }
+  ],
+  "aRetenir": [
+    "Seule la fraction libre est diffusible, active et éliminable.",
+    "Albumine et α1 glycoprotéine acide : les deux principales protéines de fixation.",
+    "Risque d'interaction par déplacement : fixation > 90 %, Vd < 0,14 l/kg, index thérapeutique étroit.",
+    "Bonne distribution = faible fixation plasmatique + forte affinité tissulaire + liposolubilité + bonne irrigation.",
+    "BHE : seuls les PA liposolubles non ionisés ; PGP = pompe d'efflux."
+  ],
+  "pieges": [
+    "Les liaisons covalentes sont rares et en général irréversibles (pas le mode habituel).",
+    "Le déplacement protéique n'a des conséquences cliniques que dans quelques cas particuliers, pas toujours.",
+    "Grossesse et personne âgée : hypoalbuminémie (pas hyperalbuminémie) ; « de dilution » pour la grossesse.",
+    "Ce sont les hématies, et non les leucocytes, qui transportent des médicaments.",
+    "Tissu adipeux = peu vascularisé ; muscles et peau = moyennement vascularisés.",
+    "Placenta : les acides aminés et électrolytes passent par transport actif, pas par diffusion passive.",
+    "Perméabilité de la BHE accrue (et non diminuée) en cas de méningite et à la naissance."
+  ]
+}

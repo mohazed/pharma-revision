@@ -1,0 +1,113 @@
+[
+  {
+    "id": "pharmacologie/05-metabolisme/tableau-01",
+    "titre": "Réactions de phase I et de phase II : enzymes et exemples",
+    "colonnes": ["Phase", "Réaction", "Enzyme(s)", "Exemple du cours"],
+    "lignes": [
+      ["Phase I (fonctionnalisation)", "Oxydation (la plus importante)", "Mono-oxygénases à cytochromes P450 (CYP1, CYP2, CYP3)", "CYP3A4, CYP2D6, CYP2C9, CYP2C19, CYP1A2"],
+      ["Phase I", "Réduction (peu courante)", "Réductases", "Prednisone → prednisolone"],
+      ["Phase I", "Hydrolyse", "Estérases non spécifiques, amidases", "Aspirine → acide salicylique + acide acétique"],
+      ["Phase II (conjugaison)", "Glucuroconjugaison (+++)", "UDP-glucuronyl-transférase (microsomale)", "Oxazépam, aspirine"],
+      ["Phase II", "Sulfoconjugaison", "Sulfotransférase", "Stéroïdes"],
+      ["Phase II", "Acétylation", "N-acétyl-transférase", "Isoniazide"],
+      ["Phase II", "Conjugaison aux acides aminés (glycine, glutamine)", "Glycine N-acétyltransférase, glutamine N-acétyltransférase", "Salicylates"],
+      ["Phase II", "N-transméthylation", "Méthyltransférase", "Morphine"],
+      ["Phase II", "Conjugaison au glutathion", "Glutathion-S-transférase", "Paracétamol"]
+    ]
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/tableau-02",
+    "titre": "Effet de premier passage selon la voie d'administration",
+    "colonnes": ["Voie d'administration", "Nature de l'effet du 1er passage"],
+    "lignes": [
+      ["Orale", "Intestinal, hépatique, pulmonaire"],
+      ["Rectale (veines hémorroïdales inférieures et moyennes)", "Pulmonaire"],
+      ["Rectale (veines hémorroïdales supérieures)", "Hépatique et pulmonaire"],
+      ["I.V – I.M – S/C", "Pulmonaire"],
+      ["Locale – I.A", "Absence"]
+    ]
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/tableau-03",
+    "titre": "Médicaments inducteurs et inhibiteurs enzymatiques",
+    "colonnes": ["Inducteurs enzymatiques", "Inhibiteurs enzymatiques"],
+    "lignes": [
+      ["Phénobarbital (barbituriques)", "Cimétidine"],
+      ["Phénytoïne", "Chloramphénicol"],
+      ["Primidone", "Disulfirame"],
+      ["Rifampicine", "Isoniazide"],
+      ["Carbamazépine", "Macrolides"],
+      ["Griséofulvine", "Antifongiques azolés"],
+      ["Phénylbutazone", "—"]
+    ]
+  },
+  {
+    "id": "pharmacologie/05-metabolisme/carte-01",
+    "type": "carte",
+    "titre": "Carte mentale — Métabolisme des médicaments",
+    "racine": {
+      "label": "Métabolisme des médicaments",
+      "enfants": [
+        {
+          "label": "Définition et intérêt",
+          "enfants": [
+            { "label": "Transformation enzymatique → métabolites", "enfants": [] },
+            { "label": "Métabolites actifs / inactifs / toxiques", "enfants": [] },
+            { "label": "Liposoluble → hydrosoluble, plus polaire, éliminé", "enfants": [] }
+          ]
+        },
+        {
+          "label": "Lieu",
+          "enfants": [
+            { "label": "Foie +++ (douane, 1,5 L/min veine porte, enzymes microsomales)", "enfants": [] },
+            { "label": "Autres : reins, poumons, intestin, plasma, peau, surrénales, cerveau", "enfants": [] },
+            { "label": "Cellule : RE (microsomales), cytosol (cytosoliques)", "enfants": [] }
+          ]
+        },
+        {
+          "label": "Conséquences",
+          "enfants": [
+            { "label": "Spironolactone → canrénone (actif à partir d'inactif)", "enfants": [] },
+            { "label": "Carbamazépine → époxycarbamazépine (actif)", "enfants": [] },
+            { "label": "Phénobarbital → hydroxyphénobarbital (inactif)", "enfants": [] },
+            { "label": "Paracétamol → NAPQI (toxique)", "enfants": [] }
+          ]
+        },
+        {
+          "label": "Phase I : fonctionnalisation",
+          "enfants": [
+            { "label": "Oxydation (CYP450, la plus importante)", "enfants": [] },
+            { "label": "Réduction (peu courante, réductases)", "enfants": [] },
+            { "label": "Hydrolyse (estérases, amidases)", "enfants": [] }
+          ]
+        },
+        {
+          "label": "Phase II : conjugaison",
+          "enfants": [
+            { "label": "Glucuroconjugaison +++ (UDP-glucuronyl-transférase)", "enfants": [] },
+            { "label": "Sulfoconjugaison, acétylation", "enfants": [] },
+            { "label": "Acides aminés, méthylation, glutathion", "enfants": [] },
+            { "label": "Transférases + ATP → métabolites inactifs hydrosolubles", "enfants": [] }
+          ]
+        },
+        {
+          "label": "Effet de premier passage",
+          "enfants": [
+            { "label": "Intestinal, hépatique, pulmonaire", "enfants": [] },
+            { "label": "Orale : les trois ; IV/IM/SC : pulmonaire", "enfants": [] },
+            { "label": "Locale et I.A : absence", "enfants": [] }
+          ]
+        },
+        {
+          "label": "Facteurs modifiants",
+          "enfants": [
+            { "label": "Intrinsèques physiologiques : âge, sexe, génétique", "enfants": [] },
+            { "label": "Intrinsèques pathologiques : IH, IC", "enfants": [] },
+            { "label": "Extrinsèques pharmacodynamiques : voie, posologie", "enfants": [] },
+            { "label": "Extrinsèques biochimiques : induction, inhibition", "enfants": [] }
+          ]
+        }
+      ]
+    }
+  }
+]

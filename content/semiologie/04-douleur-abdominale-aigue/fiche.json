@@ -1,0 +1,57 @@
+{
+  "id": "semiologie/04-douleur-abdominale-aigue/fiche",
+  "titre": "Douleur abdominale aiguë",
+  "sections": [
+    {
+      "titre": "Démarche",
+      "points": [
+        "Aiguë = ≤ 7 jours ; d'abord la gravité, ensuite le diagnostic.",
+        "Interrogatoire = temps essentiel ; examens complémentaires pour confirmer, jamais remplacer.",
+        "Terrain : ulcère, lithiase, tabac, alcool, AINS, aspirine, anticoagulants, chirurgie, grossesse/DDR."
+      ]
+    },
+    {
+      "titre": "Caractériser la douleur",
+      "points": [
+        "Siège (9 régions), début, type, intensité (EVA), horaire, rythme, facteurs déclenchants/calmants, irradiations.",
+        "Douleur fonctionnelle : non insomniante."
+      ]
+    },
+    {
+      "titre": "Signes d'alerte",
+      "points": [
+        "Interrogatoire : coup de poignard, fièvre/frissons, hémorragie digestive, vomissements incoercibles, arrêt des matières et gaz.",
+        "Examen : défense/contracture, pâleur, tachycardie, hypotension.",
+        "Femme jeune : GEU ; sujet âgé/immunodéprimé : signes discrets."
+      ]
+    },
+    {
+      "titre": "Examen physique",
+      "points": [
+        "Palpation en commençant par les zones non douloureuses.",
+        "Défense (vaincue) / contracture (invincible, péritonite) / rebond (irritation péritonéale) / Murphy (cholécystite).",
+        "Matité déclive = ascite ; sus-pubienne = globe ; silence = iléus/péritonite ; souffle = aorte."
+      ]
+    },
+    {
+      "titre": "Causes fréquentes",
+      "points": [
+        "Ulcère : épigastre, crampe, calmé par l'alimentation ; perforation = coup de poignard + contracture.",
+        "RGO : pyrosis augmenté penché en avant ; pancréatite : transfixiante, calmée en chien de fusil.",
+        "Colique hépatique : HCD, repas gras, en bretelle, antispasmodiques.",
+        "Vasculaires : infarctus mésentérique, rupture d'anévrisme, infarctus du myocarde."
+      ]
+    }
+  ],
+  "aRetenir": [
+    "Ne jamais manquer une urgence chirurgicale.",
+    "ECG devant toute douleur épigastrique.",
+    "Gastro-entérite et constipation : seulement après avoir écarté une urgence."
+  ],
+  "pieges": [
+    "Fièvre/frissons = signe d'alerte de l'interrogatoire ; défense = signe de l'examen.",
+    "Diverticulite sigmoïdienne = FIG ; diverticulite du cæcum = FID.",
+    "L'ulcère n'atteint pas la musculeuse.",
+    "L'irradiation de l'ulcère est peu marquée."
+  ]
+}

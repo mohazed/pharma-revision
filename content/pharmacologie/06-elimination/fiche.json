@@ -1,0 +1,83 @@
+{
+  "id": "pharmacologie/06-elimination/fiche",
+  "titre": "Élimination des médicaments",
+  "sections": [
+    {
+      "titre": "Introduction",
+      "points": [
+        "Élimination = **ensemble des processus par lesquels le PA disparaît de l'organisme**.",
+        "Concerne le **PA inchangé**, ses **métabolites** ou **les 2 formes**.",
+        "Dernière étape du devenir du médicament (absorption → distribution → métabolisme → élimination)."
+      ]
+    },
+    {
+      "titre": "Élimination rénale (voie principale)",
+      "points": [
+        "Apport sanguin important **≈ 1400 ml/min** ; unité fonctionnelle : **néphron**.",
+        "**Filtration glomérulaire** : dépend de la taille (**PM < 68 000 Da**), **seule la fraction libre** est filtrée, mécanisme **passif**.",
+        "**Sécrétion tubulaire** : liquide péritubulaire → liquide tubulaire, au **TCP**, fraction **hydrosoluble ionisée**, mécanisme **actif** (transporteurs sélectifs, saturation, compétition). Ex. : **probénécide retarde l'élimination de la pénicilline G**.",
+        "**Réabsorption tubulaire** : lumière tubulaire → sang. **Active** au TCP (énergie ; Na, K, acide urique, glucose, AA ; **α-méthyldopa**). **Passive** au TCD et TC : molécules **liposolubles non ionisées**, dépend du **pH urinaire** et du **pKa**."
+      ]
+    },
+    {
+      "titre": "Réabsorption passive, pH et pKa",
+      "points": [
+        "**Acides** : forts (pKa < 2,5) ionisés → jamais réabsorbés ; **2,5 ≤ pKa ≤ 7,5** zone d'influence du pH ; très faibles (pKa > 7,5) non ionisés → réabsorption intense et permanente.",
+        "**Bases** : fortes (pKa > 12) ionisées → jamais réabsorbées ; **6 ≤ pKa ≤ 12** zone d'influence du pH ; très faibles (pKa < 6) et non polaires → réabsorption intense et permanente."
+      ]
+    },
+    {
+      "titre": "Élimination digestive",
+      "points": [
+        "**Salivaire** : peu importante ; diffusion passive (morphine, sulfamide, pénicilline) ; transport actif (lithium, phénytoïne) ; les **anticholinergiques** inhibent la sécrétion salivaire.",
+        "**Gastro-intestinale** : bases faibles partiellement excrétées dans l'estomac (**quinine**) ; **digoxine** dans les sécrétions intestinales.",
+        "**Biliaire** : excrétion dans l'intestin puis élimination définitive dans les fèces ; favorisée par **PM > 300 D**, grande polarité, fractions ionisables.",
+        "Diffusion passive : [ ]bile ≤ [ ]plasma (**streptomycine**). Excrétion active : [ ]bile >>> [ ]plasma, saturation, compétition (érythromycine, spiramycine, ampicilline, rifampicine, chlorothiazide) ; compétition avec la **bilirubine → ictère**.",
+        "**Cycle entéro-hépatique** : glucuronides PM < 300 Da → urines, PM > 300 Da → bile → déconjugaison par les bactéries du côlon → dérivés liposolubles réabsorbés (chloramphénicol, rifampicine, tétracycline). **↑ Vd → ↑ durée de séjour**. La **cholestyramine** y met fin."
+      ]
+    },
+    {
+      "titre": "Autres voies",
+      "points": [
+        "**Pulmonaire** : grande surface d'échange, débit sanguin élevé, équipement enzymatique important ; produits **volatils** dans l'air expiré : **halotane (60 %)**, **eucalyptol**.",
+        "**Lactée** : voie accessoire ; en général **< 1 %** de la dose en 24 h (**I131 → 5 %**) ; mécanismes actif et passif ; passage ↑ si lipophile, peu lié, petit PM, gradient sang–lait important ; danger pour le nouveau-né (AVK, psychotropes, AINS) ; éviter les pics (IV rapide), préférer la libération prolongée, **allaiter juste avant la prise**.",
+        "**Sudorale** (accessoire, traces) : I, Br, éthanol, acide salicylique, sulfamides.",
+        "**Lacrymale** (très accessoire) : I, Br, atropine, rifampicine, sulfamides.",
+        "**Autres** : dents – tétracyclines ; sécrétions bronchiques – iodures ; cheveux – arsenic."
+      ]
+    },
+    {
+      "titre": "Paramètres pharmacocinétiques",
+      "points": [
+        "**Demi-vie** : temps pour éliminer la **moitié** de la quantité de PA ; en **unité de temps** ; plus elle est courte, plus les prises sont nombreuses et rapprochées.",
+        "**Clairance** : **volume** de liquide complètement épuré du PA dans un temps donné ; s'applique à tous les organes.",
+        "**Clairance totale = ∑ clairances partielles** (rénale, hépatique, pulmonaire, intestinale)."
+      ]
+    },
+    {
+      "titre": "Conclusion",
+      "points": [
+        "Insuffisance d'un organe d'élimination (IR, IH) → ralentissement de l'élimination → **accumulation** → effets toxiques.",
+        "La pharmacocinétique permet de définir la voie, la dose et le rythme d'administration."
+      ]
+    }
+  ],
+  "aRetenir": [
+    "Filtration : passive, fraction libre, PM < 68 000 Da.",
+    "Sécrétion : active, TCP, fraction hydrosoluble ionisée (probénécide ↔ pénicilline G).",
+    "Réabsorption passive : TCD/TC, liposoluble non ionisé ; zones pH : acides 2,5–7,5, bases 6–12.",
+    "Bile : PM > 300 D ; cycle entéro-hépatique ↑ durée de séjour ; cholestyramine l'interrompt.",
+    "Lait : < 1 % en 24 h, allaiter juste avant la prise.",
+    "Clairance totale = somme des clairances partielles ; demi-vie en unité de temps."
+  ],
+  "pieges": [
+    "Filtration glomérulaire : PM **<** 68 000 Da (pas >) et mécanisme **passif** (pas actif).",
+    "La sécrétion tubulaire concerne la fraction **ionisée hydrosoluble** ; la réabsorption passive la fraction **non ionisée liposoluble**.",
+    "Acides et bases **forts** ne sont **jamais** réabsorbés ; ce sont les **très faibles** qui sont intensément réabsorbés.",
+    "Le probénécide **retarde** (et non accélère) l'élimination de la pénicilline G.",
+    "Streptomycine = diffusion **passive** dans la bile ; ictère = compétition par excrétion **active**.",
+    "Cycle entéro-hépatique : **augmente** Vd et durée de séjour ; les dérivés déconjugués sont **liposolubles**.",
+    "Allaiter **juste avant** la prise ; préférer la **libération prolongée**.",
+    "Demi-vie = unité de **temps** ; clairance = **volume / temps**."
+  ]
+}

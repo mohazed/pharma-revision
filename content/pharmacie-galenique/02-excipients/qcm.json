@@ -1,0 +1,2732 @@
+[
+  {
+    "id": "pharmacie-galenique/02-excipients/qcm-001",
+    "type": "multiple",
+    "enonce": "Les excipients :",
+    "options": [
+      "Peuvent influencer la biodisponibilité d'un principe actif",
+      "Sont aussi nommés « véhicules » ou « adjuvants »",
+      "Sont des substances inactives par elles-mêmes",
+      "Facilitent l'administration et la conservation du principe médicamenteux",
+      "Peuvent influencer l'activité du principe actif"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Les excipients, nommés aussi véhicules ou adjuvants, sont inactifs par eux-mêmes et facilitent l'administration et la conservation. Ils peuvent influencer la biodisponibilité d'un PA mais pas son activité.",
+    "source": {
+      "page": 1,
+      "extrait": "Les excipients peuvent influencer la biodisponibilité d'un principe actif mais pas son activité"
+    },
+    "difficulte": 1,
+    "tags": [
+      "définition"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/qcm-002",
+    "type": "multiple",
+    "enonce": "Concernant l'étymologie et les nuances de vocabulaire :",
+    "options": [
+      "« Adjuvare » signifie aider, seconder, assister",
+      "Un adjuvant renforce l'activité d'un principe actif",
+      "Un véhicule assure le transport du principe actif dans l'organisme",
+      "« Excipere » signifie recevoir",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le cours précise : excipere = recevoir ; un adjuvant (adjuvare : aider, seconder, assister) renforce l'activité d'un PA ; un véhicule assure le transport du PA dans l'organisme.",
+    "source": {
+      "page": 1,
+      "extrait": "Un adjuvant renforce l'activité d'un principe actif (adjuvare : aider seconder, assister)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "définition"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/qcm-003",
+    "type": "multiple",
+    "enonce": "La qualité principale recherchée pour un excipient est :",
+    "options": [
+      "L'inertie vis-à-vis de l'organisme (innocuité parfaite)",
+      "L'inertie vis-à-vis des principes actifs",
+      "Une activité pharmacologique propre",
+      "L'inertie vis-à-vis des matériaux de conditionnement",
+      "Une réactivité chimique élevée"
+    ],
+    "correctes": [
+      0,
+      1,
+      3
+    ],
+    "explication": "Qualité principale : inertie vis-à-vis des PA, des matériaux de conditionnement et de l'organisme (innocuité parfaite).",
+    "source": {
+      "page": 1,
+      "extrait": "Inertie vis-à-vis des principes actifs, des matériaux de conditionnement et de l'organisme (innocuité parfaite)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "qualités"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/qcm-004",
+    "type": "multiple",
+    "enonce": "Les principaux rôles des excipients consistent à :",
+    "options": [
+      "Faciliter la conservation des médicaments",
+      "Faciliter l'administration des médicaments",
+      "Modifier l'action du principe actif",
+      "Faciliter la préparation des médicaments",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Quatre grands rôles : faciliter la préparation, la conservation, l'administration, et modifier l'action du PA.",
+    "source": {
+      "page": 1,
+      "extrait": "Excipients destinés à modifier l'action du principe actif"
+    },
+    "difficulte": 1,
+    "tags": [
+      "rôles"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/qcm-005",
+    "type": "multiple",
+    "enonce": "Les excipients à effet notoire :",
+    "options": [
+      "Sont mal tolérés chez les patients sensibles",
+      "Sont dépourvus de tout risque chez tous les patients",
+      "Ne nécessitent aucune évaluation de sécurité",
+      "Nécessitent certaines précautions d'emploi",
+      "Concernent notamment les patients allergiques ou présentant un syndrome d'intolérance"
+    ],
+    "correctes": [
+      0,
+      3,
+      4
+    ],
+    "explication": "Ils ont la particularité d'être mal tolérés chez les patients sensibles (allergiques ou intolérants) et nécessitent des précautions d'emploi ; une évaluation rigoureuse de la sécurité est nécessaire.",
+    "source": {
+      "page": 1,
+      "extrait": "ont la particularité d'être mal tolérés chez les patients sensibles"
+    },
+    "difficulte": 1,
+    "tags": [
+      "effet notoire"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/qcm-006",
+    "type": "multiple",
+    "enonce": "Les excipients sont de natures et d'origines très diverses. Ils peuvent être :",
+    "options": [
+      "Uniquement hydrophiles",
+      "Lipophiles ou hydrophiles",
+      "Uniquement d'origine minérale",
+      "Liquides ou solides",
+      "Naturels ou synthétiques"
+    ],
+    "correctes": [
+      1,
+      3,
+      4
+    ],
+    "explication": "Les excipients sont liquides, solides, lipophiles, hydrophiles, naturels, synthétiques…",
+    "source": {
+      "page": 1,
+      "extrait": "liquides, solides, lipophiles, hydrophiles, naturels, synthétiques"
+    },
+    "difficulte": 1,
+    "tags": [
+      "classification"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/qcm-007",
+    "type": "multiple",
+    "enonce": "Parmi les grandes classes d'excipients citées, on trouve :",
+    "options": [
+      "Les excipients liquides",
+      "Les glycérides",
+      "Les hydrocarbures et silicones",
+      "Les produits minéraux",
+      "Les cires"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Sept classes : liquides, glycérides, cires, hydrocarbures et silicones, sucres/dérivés/macromolécules hydrophiles, produits minéraux, surfactifs.",
+    "source": {
+      "page": 1,
+      "extrait": "Les hydrocarbures et silicones : huiles de vaseline, paraffine, huiles de silicones"
+    },
+    "difficulte": 1,
+    "tags": [
+      "classification"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/qcm-008",
+    "type": "multiple",
+    "enonce": "Associez l'excipient à sa grande classe :",
+    "options": [
+      "Kaolin : produits minéraux",
+      "Polyvidone : sucres, dérivés et macromolécules hydrophiles",
+      "Paraffine : hydrocarbures",
+      "Lanoline : cires",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le cours classe la lanoline dans les cires, la paraffine dans les hydrocarbures, le kaolin dans les minéraux (silicates), la polyvidone dans les macromolécules hydrophiles (produits de synthèse).",
+    "source": {
+      "page": 1,
+      "extrait": "produits de synthèse (polyvidone, P.E.G.)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "classification"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/qcm-009",
+    "type": "multiple",
+    "enonce": "Concernant l'eau comme excipient :",
+    "options": [
+      "C'est l'excipient le plus utilisé en pharmacie",
+      "Elle appartient aux excipients liquides",
+      "Elle est classée parmi les glycérides",
+      "Elle est classée parmi les cires",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "L'eau est l'excipient le plus utilisé en pharmacie ; c'est un excipient liquide.",
+    "source": {
+      "page": 2,
+      "extrait": "L'eau est l'excipient le plus utilisé en pharmacie"
+    },
+    "difficulte": 1,
+    "tags": [
+      "excipients liquides"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/qcm-010",
+    "type": "unique",
+    "enonce": "L'alcool officinal inscrit à la Pharmacopée est :",
+    "options": [
+      "L'alcool éthylique à 70°",
+      "Le propylène glycol",
+      "L'alcool méthylique",
+      "L'alcool éthylique à 95°",
+      "L'alcool cétylique"
+    ],
+    "correctes": [
+      3
+    ],
+    "explication": "Dans la Pharmacopée figurent l'alcool officinal (alcool éthylique à 95°) et l'alcool absolu.",
+    "source": {
+      "page": 2,
+      "extrait": "l'alcool officinal qui est l'alcool éthylique à 95c et l'alcool absolu"
+    },
+    "difficulte": 2,
+    "tags": [
+      "alcool"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/qcm-011",
+    "type": "multiple",
+    "enonce": "Concernant l'alcool éthylique comme excipient :",
+    "options": [
+      "Dans les préparations pour usage interne, il favorise la conservation",
+      "Il empêche le développement des micro-organismes dans les préparations internes",
+      "Il est utilisé comme solvant, seul ou associé à d'autres solvants miscibles",
+      "Dans les solutés pour usage externe, il ajoute ses propriétés d'antiseptique",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "L'alcool est solvant ; à usage externe il est aussi antiseptique ; à usage interne il favorise la conservation en empêchant le développement des micro-organismes.",
+    "source": {
+      "page": 2,
+      "extrait": "Dans les solutés pour usage externe, l'alcool ajoute à ses qualités de solvant ses propriétés d'antiseptique"
+    },
+    "difficulte": 1,
+    "tags": [
+      "alcool"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/qcm-012",
+    "type": "multiple",
+    "enonce": "Le propylène glycol est employé comme solvant notamment pour les principes actifs :",
+    "options": [
+      "Instables en solution aqueuse",
+      "Gazeux",
+      "Volatils uniquement",
+      "Insolubles dans l'eau",
+      "Très solubles dans l'eau et stables"
+    ],
+    "correctes": [
+      0,
+      3
+    ],
+    "explication": "Le propylène glycol est employé comme solvant, notamment pour les PA insolubles dans l'eau ou instables en solution aqueuse.",
+    "source": {
+      "page": 2,
+      "extrait": "dans le cas de principes actifs insolubles dans l'eau ou instables en solution aqueuse"
+    },
+    "difficulte": 1,
+    "tags": [
+      "propylène glycol"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/qcm-013",
+    "type": "multiple",
+    "enonce": "La glycérine officinale (glycérol) :",
+    "options": [
+      "Entre dans la composition des enveloppes des capsules molles",
+      "Est utilisée dans certaines pommades ou suppositoires pour éviter leur dessiccation",
+      "Possède une importante hydrophilie",
+      "Possède un pouvoir solvant très étendu",
+      "Est utilisée comme agent de conservation"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Grâce à son pouvoir solvant étendu et son hydrophilie, la glycérine est utilisée comme solvant (usage externe ou interne), agent de conservation, et dans les enveloppes des capsules molles et certaines pommades/suppositoires pour éviter leur dessiccation.",
+    "source": {
+      "page": 2,
+      "extrait": "Entre dans la composition des enveloppes des capsules molles et dans celle de certaines pommades ou suppositoires pour éviter leur dessiccation"
+    },
+    "difficulte": 2,
+    "tags": [
+      "glycérine"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/qcm-014",
+    "type": "unique",
+    "enonce": "Dans certaines pommades ou suppositoires, la glycérine est ajoutée pour :",
+    "options": [
+      "Éviter leur dessiccation",
+      "Diminuer leur hydrophilie",
+      "Les colorer",
+      "Les rendre opaques",
+      "Augmenter leur dureté"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "La glycérine entre dans la composition des capsules molles et de certaines pommades ou suppositoires pour éviter leur dessiccation.",
+    "source": {
+      "page": 2,
+      "extrait": "pour éviter leur dessiccation"
+    },
+    "difficulte": 2,
+    "tags": [
+      "glycérine"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/qcm-015",
+    "type": "multiple",
+    "enonce": "Concernant les cires :",
+    "options": [
+      "Elles sont utilisées comme agents de consistance et protecteurs",
+      "Ce sont des substances hydrophiles liquides",
+      "Ce sont des substances lipophiles",
+      "Elles sont généralement solides à température ambiante",
+      "On en distingue quatre catégories"
+    ],
+    "correctes": [
+      0,
+      2,
+      3,
+      4
+    ],
+    "explication": "Les cires sont lipophiles, généralement solides à température ambiante, utilisées comme agents de consistance, protecteurs… ; quatre catégories : animales, végétales, minérales (fossiles), synthétiques.",
+    "source": {
+      "page": 2,
+      "extrait": "Les cires sont des substances lipophiles, généralement solides à température ambiante"
+    },
+    "difficulte": 1,
+    "tags": [
+      "cires"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/qcm-016",
+    "type": "multiple",
+    "enonce": "Parmi les cires suivantes, lesquelles sont d'origine animale ?",
+    "options": [
+      "Paraffine",
+      "Cire blanche",
+      "Cire microcristalline",
+      "Cire de carnauba",
+      "Lanoline"
+    ],
+    "correctes": [
+      1,
+      4
+    ],
+    "explication": "Cires animales : cire blanche (cire d'abeille blanchie) et lanoline (laine de mouton). Carnauba : végétale ; paraffine et cire microcristalline : minérales.",
+    "source": {
+      "page": 2,
+      "extrait": "Lanoline : substance cireuse issue de la laine de mouton"
+    },
+    "difficulte": 1,
+    "tags": [
+      "cires"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/qcm-017",
+    "type": "multiple",
+    "enonce": "La lanoline :",
+    "options": [
+      "Est une substance cireuse issue de la laine de mouton",
+      "Est une cire végétale extraite des feuilles d'un palmier",
+      "Est une cire minérale issue du pétrole",
+      "Favorise l'incorporation de l'eau dans les préparations grasses",
+      "Est utilisée comme émollient"
+    ],
+    "correctes": [
+      0,
+      3,
+      4
+    ],
+    "explication": "La lanoline, cire animale issue de la laine de mouton, est émolliente et favorise l'incorporation de l'eau dans les préparations grasses. La cire extraite des feuilles d'un palmier est la carnauba.",
+    "source": {
+      "page": 2,
+      "extrait": "utilisée comme émollient et agent favorisant l'incorporation de l'eau dans les préparations grasses"
+    },
+    "difficulte": 1,
+    "tags": [
+      "lanoline"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/qcm-018",
+    "type": "multiple",
+    "enonce": "La cire de carnauba :",
+    "options": [
+      "Est extraite des feuilles d'un palmier",
+      "Est issue de la laine de mouton",
+      "Est utilisée comme agent de consistance",
+      "Est utilisée pour le polissage des comprimés",
+      "Est une cire végétale"
+    ],
+    "correctes": [
+      0,
+      2,
+      3,
+      4
+    ],
+    "explication": "Cire végétale extraite des feuilles d'un palmier, utilisée comme agent de consistance et de polissage des comprimés.",
+    "source": {
+      "page": 2,
+      "extrait": "extraite des feuilles d'un palmier, utilisée comme agent de consistance et de polissage des comprimés"
+    },
+    "difficulte": 1,
+    "tags": [
+      "carnauba"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/qcm-019",
+    "type": "multiple",
+    "enonce": "La cire blanche est :",
+    "options": [
+      "Une cire végétale",
+      "Extraite du pétrole",
+      "Utilisée comme agent de consistance",
+      "Une cire d'abeille blanchie",
+      "Une cire synthétique"
+    ],
+    "correctes": [
+      2,
+      3
+    ],
+    "explication": "La cire blanche est une cire d'abeille blanchie (animale), utilisée comme agent de consistance.",
+    "source": {
+      "page": 2,
+      "extrait": "Cire blanche : cire d'abeille blanchie, utilisée comme agent de consistance"
+    },
+    "difficulte": 1,
+    "tags": [
+      "cires"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/qcm-020",
+    "type": "multiple",
+    "enonce": "Les cires minérales (ou fossiles) :",
+    "options": [
+      "Sont principalement issues du pétrole",
+      "Comprennent la cire microcristalline",
+      "Sont issues de la laine de mouton",
+      "Comprennent la paraffine",
+      "Servent à ajuster la consistance des préparations"
+    ],
+    "correctes": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "explication": "Cires minérales ou fossiles : principalement issues du pétrole (paraffine, cire microcristalline), utilisées pour ajuster la consistance.",
+    "source": {
+      "page": 2,
+      "extrait": "principalement issues du pétrole, comme la paraffine et la cire microcristalline"
+    },
+    "difficulte": 1,
+    "tags": [
+      "cires"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/qcm-021",
+    "type": "multiple",
+    "enonce": "Les cires synthétiques :",
+    "options": [
+      "Sont issues d'abeilles",
+      "Sont utilisées comme lubrifiants",
+      "Sont utilisées comme agents de consistance",
+      "Sont extraites des feuilles de palmier",
+      "Sont obtenues par synthèse chimique"
+    ],
+    "correctes": [
+      1,
+      2,
+      4
+    ],
+    "explication": "Les cires synthétiques, obtenues par synthèse chimique, sont utilisées comme agents de consistance ou lubrifiants.",
+    "source": {
+      "page": 2,
+      "extrait": "obtenues par synthèse chimique, elles sont utilisées notamment comme agents de consistance ou lubrifiants"
+    },
+    "difficulte": 2,
+    "tags": [
+      "cires"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/qcm-022",
+    "type": "multiple",
+    "enonce": "Les huiles de vaseline, la vaseline et la paraffine :",
+    "options": [
+      "Sont des surfactifs amphiphiles",
+      "Présentent une grande inertie chimique",
+      "Sont des glycérides d'origine végétale",
+      "Sont obtenues par traitement de certaines fractions d'un pétrole brut",
+      "Présentent une grande stabilité"
+    ],
+    "correctes": [
+      1,
+      3,
+      4
+    ],
+    "explication": "Elles sont obtenues par traitement approprié de fractions de pétrole brut et ont pour intérêt commun leur inertie chimique et donc leur grande stabilité.",
+    "source": {
+      "page": 2,
+      "extrait": "leur inertie chimique et donc leur grande stabilité"
+    },
+    "difficulte": 1,
+    "tags": [
+      "hydrocarbures"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/qcm-023",
+    "type": "unique",
+    "enonce": "Pour diminuer la consistance d'une préparation trop ferme, on utilise :",
+    "options": [
+      "La cire blanche",
+      "Le talc",
+      "Les huiles de vaseline",
+      "La paraffine",
+      "La cire de carnauba"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Les huiles de vaseline (fluide et épaisse) servent à diminuer la consistance des préparations trop fermes ; la paraffine sert à ajuster celle des préparations trop fluides.",
+    "source": {
+      "page": 2,
+      "extrait": "Les huiles de vaseline (fluide et épaisse) servent à diminuer la consistance des préparations trop fermes"
+    },
+    "difficulte": 2,
+    "tags": [
+      "hydrocarbures"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/qcm-024",
+    "type": "multiple",
+    "enonce": "Concernant les hydrocarbures :",
+    "options": [
+      "Les huiles de vaseline servent à ajuster les préparations trop fluides",
+      "La paraffine a une consistance solide",
+      "La paraffine sert à diminuer la consistance des préparations trop fermes",
+      "La paraffine sert à ajuster la consistance des préparations trop fluides",
+      "La vaseline a une consistance onctueuse qui permet de l'employer seule"
+    ],
+    "correctes": [
+      1,
+      3,
+      4
+    ],
+    "explication": "Paraffine : consistance solide, ajuste les préparations trop fluides. Vaseline : onctueuse, employable seule. Huiles de vaseline : diminuent la consistance des préparations trop fermes.",
+    "source": {
+      "page": 2,
+      "extrait": "La paraffine : consistance solide, sert à ajuster celle des préparations trop fluides"
+    },
+    "difficulte": 2,
+    "tags": [
+      "hydrocarbures"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/qcm-025",
+    "type": "multiple",
+    "enonce": "Les silicones :",
+    "options": [
+      "Sont utilisées comme matériaux de conditionnement",
+      "Servent d'excipients pour des pommades protectrices hydrophobes",
+      "Sont des cires animales",
+      "Sont des excipients hydrophiles pour gels aqueux",
+      "Existent sous forme d'huiles, de « graisses », de « résines » et de « caoutchoucs »"
+    ],
+    "correctes": [
+      0,
+      1,
+      4
+    ],
+    "explication": "Les silicones (huiles, graisses, résines, caoutchoucs) sont utilisées comme excipients de pommades protectrices hydrophobes et comme matériaux de conditionnement.",
+    "source": {
+      "page": 2,
+      "extrait": "excipients pour diverses pommades protectrices hydrophobes et comme matériaux de conditionnement"
+    },
+    "difficulte": 1,
+    "tags": [
+      "silicones"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/qcm-026",
+    "type": "multiple",
+    "enonce": "Le saccharose (sucre blanc officinal) :",
+    "options": [
+      "Est utilisé comme diluant",
+      "Est un édulcorant recommandé pour les diabétiques",
+      "Est utilisé comme édulcorant",
+      "Présente l'inconvénient d'être hygroscopique",
+      "Est destiné à des formes solides et liquides pour la voie orale"
+    ],
+    "correctes": [
+      0,
+      2,
+      3,
+      4
+    ],
+    "explication": "Le sucre blanc est utilisé comme diluant (malgré son caractère hygroscopique) et comme édulcorant dans des formes orales solides et liquides. Pour les diabétiques, le cours cite le D-fructose et le sorbitol.",
+    "source": {
+      "page": 3,
+      "extrait": "utilisé comme diluant (malgré son inconvénient d'être hygroscopique) et comme édulcorant"
+    },
+    "difficulte": 1,
+    "tags": [
+      "saccharose"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/qcm-027",
+    "type": "multiple",
+    "enonce": "Le lactose (sucre de lait) est surtout employé :",
+    "options": [
+      "Comme diluant",
+      "Comme lubrifiant",
+      "Dans des poudres antibiotiques destinées à être appliquées sur les plaies",
+      "Comme agent de consistance des pommades",
+      "Comme surfactif"
+    ],
+    "correctes": [
+      0,
+      2
+    ],
+    "explication": "Le lactose est surtout employé comme diluant et dans les poudres antibiotiques pour plaies.",
+    "source": {
+      "page": 3,
+      "extrait": "Dans la préparation de poudres antibiotiques destinées à être appliquées sur les plaies"
+    },
+    "difficulte": 1,
+    "tags": [
+      "lactose"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/qcm-028",
+    "type": "multiple",
+    "enonce": "Dans les poudres antibiotiques pour plaies, l'intérêt du lactose est qu'il :",
+    "options": [
+      "Se dissout dans les liquides de la plaie",
+      "Est insoluble dans l'eau",
+      "Permet la diffusion rapide de l'antibiotique",
+      "Retarde la libération de l'antibiotique",
+      "Possède une activité antiseptique propre"
+    ],
+    "correctes": [
+      0,
+      2
+    ],
+    "explication": "Le lactose se dissout dans les liquides de la plaie, permettant la diffusion rapide de l'antibiotique.",
+    "source": {
+      "page": 3,
+      "extrait": "le lactose se dissout dans les liquides de la plaie, permettant la diffusion rapide de l'antibiotique"
+    },
+    "difficulte": 2,
+    "tags": [
+      "lactose"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/qcm-029",
+    "type": "multiple",
+    "enonce": "Le glucose liquide :",
+    "options": [
+      "Est obtenu par hydrolyse du collagène",
+      "Est obtenu par hydrolyse ménagée de l'amidon alimentaire",
+      "Est une solution aqueuse purifiée et concentrée",
+      "Permet aux pâtes officinales de rester molles",
+      "Entre dans la composition des pâtes officinales"
+    ],
+    "correctes": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Le glucose liquide est une solution aqueuse purifiée et concentrée obtenue par hydrolyse ménagée de l'amidon ; il permet aux pâtes officinales de rester molles. L'hydrolyse du collagène donne la gélatine.",
+    "source": {
+      "page": 3,
+      "extrait": "Il entre dans la composition des pâtes officinales auxquelles il permet de rester molles"
+    },
+    "difficulte": 2,
+    "tags": [
+      "glucose"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/qcm-030",
+    "type": "unique",
+    "enonce": "Parmi ces sucres, lequel est cité comme présentant l'inconvénient d'être légèrement laxatif ?",
+    "options": [
+      "Le lactose",
+      "Le sorbitol",
+      "Le glucose liquide",
+      "Le D-fructose",
+      "Le saccharose"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Le sorbitol, utilisé en solution comme édulcorant, peut remplacer le saccharose chez les diabétiques mais il est légèrement laxatif.",
+    "source": {
+      "page": 3,
+      "extrait": "il a l'inconvénient d'être légèrement laxatif"
+    },
+    "difficulte": 1,
+    "tags": [
+      "sorbitol"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/qcm-031",
+    "type": "multiple",
+    "enonce": "Peuvent être utilisés comme édulcorants chez le diabétique selon le cours :",
+    "options": [
+      "Le sorbitol",
+      "Le lactose",
+      "Le D-fructose",
+      "Le saccharose",
+      "Le glucose liquide"
+    ],
+    "correctes": [
+      0,
+      2
+    ],
+    "explication": "Le D-fructose est un édulcorant pour diabétiques ; le sorbitol peut remplacer le saccharose chez les diabétiques.",
+    "source": {
+      "page": 3,
+      "extrait": "D-fructose ou sucre de fruit : Édulcorant pour diabétiques"
+    },
+    "difficulte": 2,
+    "tags": [
+      "édulcorants"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/qcm-032",
+    "type": "multiple",
+    "enonce": "Les amidons inscrits à la Pharmacopée sont :",
+    "options": [
+      "L'amidon de maïs",
+      "L'amidon de riz",
+      "L'amidon de blé",
+      "L'amidon ou fécule de pomme de terre",
+      "L'amidon de manioc"
+    ],
+    "correctes": [
+      0,
+      2,
+      3
+    ],
+    "explication": "À la Pharmacopée figurent l'amidon de blé, l'amidon de maïs et l'amidon (fécule) de pomme de terre.",
+    "source": {
+      "page": 3,
+      "extrait": "l'amidon de blé, l'amidon de maïs, et l'amidon ou fécule de pomme de terre"
+    },
+    "difficulte": 2,
+    "tags": [
+      "amidons"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/qcm-033",
+    "type": "multiple",
+    "enonce": "Concernant les propriétés des amidons :",
+    "options": [
+      "Ce sont des poudres blanches très fines",
+      "Ils sont très solubles dans l'eau froide",
+      "Ils sont insolubles dans l'eau à froid",
+      "Ils gonflent dans l'eau au-dessus de 80 °C sans se dissoudre totalement",
+      "Ils donnent une sorte de gelée appelée empois d'amidon"
+    ],
+    "correctes": [
+      0,
+      2,
+      3,
+      4
+    ],
+    "explication": "Les amidons sont des poudres blanches très fines, insolubles dans l'eau à froid, qui gonflent au-dessus de 80 °C sans se dissoudre totalement pour donner l'empois d'amidon.",
+    "source": {
+      "page": 3,
+      "extrait": "elles gonflent dans l'eau au- dessus de 80° sans se dissoudre totalement, pour donner une sorte de gelée : l'empois d'amidon"
+    },
+    "difficulte": 1,
+    "tags": [
+      "amidons"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/qcm-034",
+    "type": "multiple",
+    "enonce": "Sous forme de poudre, les amidons sont utilisés dans la fabrication des comprimés comme :",
+    "options": [
+      "Diluant",
+      "Délitant",
+      "Opacifiant",
+      "Liant",
+      "Lubrifiant"
+    ],
+    "correctes": [
+      0,
+      1,
+      4
+    ],
+    "explication": "Sous forme de poudre : diluant, lubrifiant et délitant. C'est sous forme d'empois qu'ils servent de liant (et d'excipient pour pommades).",
+    "source": {
+      "page": 3,
+      "extrait": "Sous forme de poudre : Dans la fabrication des comprimés, comme diluant, lubrifiant et délitant"
+    },
+    "difficulte": 2,
+    "tags": [
+      "amidons"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/qcm-035",
+    "type": "multiple",
+    "enonce": "Sous forme d'empois, l'amidon est utilisé comme :",
+    "options": [
+      "Délitant",
+      "Excipient pour pommades",
+      "Lubrifiant",
+      "Diluant",
+      "Liant dans la fabrication des comprimés"
+    ],
+    "correctes": [
+      1,
+      4
+    ],
+    "explication": "Sous forme d'empois : excipient pour pommades et liant dans la fabrication des comprimés.",
+    "source": {
+      "page": 3,
+      "extrait": "Sous forme d'empois : - excipients pour pommades. - liant dans la fabrication des comprimés"
+    },
+    "difficulte": 2,
+    "tags": [
+      "amidons"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/qcm-036",
+    "type": "multiple",
+    "enonce": "Les gommes :",
+    "options": [
+      "Sont des exsudats de plantes se solidifiant par dessiccation",
+      "Ont toutes la même viscosité",
+      "Sont utilisées comme liant et délitant pour comprimés",
+      "Servent de stabilisant pour émulsions et suspensions",
+      "Trois gommes figurent à la Pharmacopée"
+    ],
+    "correctes": [
+      0,
+      2,
+      3,
+      4
+    ],
+    "explication": "Les gommes sont des exsudats de plantes se solidifiant par dessiccation ; trois figurent à la Pharmacopée et leur viscosité est différente. Emplois : liant et délitant, stabilisant d'émulsions et suspensions, enrobage.",
+    "source": {
+      "page": 3,
+      "extrait": "Les gommes sont des exsudats de plantes se solidifiant par dessiccation"
+    },
+    "difficulte": 2,
+    "tags": [
+      "gommes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/qcm-037",
+    "type": "multiple",
+    "enonce": "Les trois gommes officinales inscrites à la Pharmacopée sont :",
+    "options": [
+      "La gomme de Sterculia (gomme Karaya)",
+      "La gomme Guar",
+      "La gélose (agar-agar)",
+      "La gomme arabique",
+      "La gomme adragante"
+    ],
+    "correctes": [
+      0,
+      3,
+      4
+    ],
+    "explication": "Les trois gommes de la Pharmacopée : arabique, adragante, Sterculia (Karaya). Guar, pectines, alginates, carraghénates, gélose sont des polyosides divers ajoutés à cette liste.",
+    "source": {
+      "page": 3,
+      "extrait": "La gomme arabique, la gomme adragante, la gomme de Sterculia (ou gomme Karaya)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "gommes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/qcm-038",
+    "type": "unique",
+    "enonce": "Dans l'enrobage des comprimés, les gommes sont utilisées pour :",
+    "options": [
+      "Polir les comprimés",
+      "Colorer l'enrobage",
+      "Que l'enrobage adhère au comprimé",
+      "Opacifier l'enrobage",
+      "Rendre l'enrobage gastro-résistant"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Les gommes sont employées dans l'enrobage pour que celui-ci adhère au comprimé.",
+    "source": {
+      "page": 3,
+      "extrait": "Enrobage pour que celui-ci adhère au comprimé"
+    },
+    "difficulte": 2,
+    "tags": [
+      "gommes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/qcm-039",
+    "type": "multiple",
+    "enonce": "Parmi les polyosides divers cités en complément des gommes officinales, on trouve :",
+    "options": [
+      "Les alginates",
+      "La gélose (agar-agar)",
+      "Les pectines",
+      "Les carraghénates",
+      "La gomme Guar"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Le cours cite : gomme Guar, pectines, alginates, carraghénates, gélose ou agar-agar.",
+    "source": {
+      "page": 3,
+      "extrait": "la gomme Guar, les pectines, les alginates, les carraghénates, la gélose ou Agar-agar"
+    },
+    "difficulte": 2,
+    "tags": [
+      "polyosides"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/qcm-040",
+    "type": "multiple",
+    "enonce": "La gélatine :",
+    "options": [
+      "Est utilisée comme liant dans les comprimés",
+      "Est un excipient pour suppositoires et ovules",
+      "Est obtenue par hydrolyse du collagène",
+      "Sert à fabriquer les enveloppes des gélules et des capsules molles",
+      "Provient de la peau et des os des animaux"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "La gélatine est obtenue par hydrolyse du collagène (peau et os des animaux). Emplois : excipient pour suppositoires et ovules, enveloppes des gélules et capsules molles, liant dans les comprimés.",
+    "source": {
+      "page": 3,
+      "extrait": "La gélatine : obtenue par hydrolyse du collagène (peau et os des animaux)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "gélatine"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/qcm-041",
+    "type": "multiple",
+    "enonce": "La cellulose microcristalline :",
+    "options": [
+      "Est un agent filmogène gastro-résistant",
+      "Est une poudre blanche pratiquement insoluble dans l'eau",
+      "Est un agent de compression directe",
+      "Est un diluant et liant dans les comprimés",
+      "Présente de bonnes propriétés de compressibilité"
+    ],
+    "correctes": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "La cellulose microcristalline (polysaccharide végétal) est une poudre blanche pratiquement insoluble dans l'eau, bien compressible : diluant et liant, agent de compression directe, favorise la désintégration, absorbe certains liquides. Le polymère gastro-résistant est l'acétophtalate de cellulose.",
+    "source": {
+      "page": 3,
+      "extrait": "présentant de bonnes propriétés de compressibilité"
+    },
+    "difficulte": 2,
+    "tags": [
+      "cellulose"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/qcm-042",
+    "type": "multiple",
+    "enonce": "Parmi les emplois de la cellulose microcristalline :",
+    "options": [
+      "Absorbant de certains liquides",
+      "Diluant et liant",
+      "Agent favorisant la désintégration des comprimés",
+      "Agent de compression directe",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Emplois de la cellulose microcristalline : diluant et liant, agent de compression directe, agent favorisant la désintégration, absorbant de certains liquides.",
+    "source": {
+      "page": 3,
+      "extrait": "Agent favorisant la désintégration des comprimés. Absorbant de certains liquides"
+    },
+    "difficulte": 2,
+    "tags": [
+      "cellulose"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/qcm-043",
+    "type": "unique",
+    "enonce": "Parmi les dérivés de la cellulose, lequel est insoluble dans l'eau et utilisé comme agent d'enrobage et de contrôle de la libération ?",
+    "options": [
+      "L'éthylcellulose (EC)",
+      "La méthylcellulose (MC)",
+      "L'hydroxypropylméthylcellulose (HPMC)",
+      "L'hydroxyéthylcellulose (HEC)",
+      "La carboxyméthylcellulose sodique (CMC-Na)"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "L'éthylcellulose est insoluble dans l'eau ; agent d'enrobage et de contrôle de la libération du PA.",
+    "source": {
+      "page": 4,
+      "extrait": "Éthylcellulose (EC) : Insoluble dans l'eau ; agent d'enrobage et de contrôle de la libération"
+    },
+    "difficulte": 2,
+    "tags": [
+      "dérivés cellulose"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/qcm-044",
+    "type": "multiple",
+    "enonce": "L'acétophtalate de cellulose (CAP) :",
+    "options": [
+      "Est soluble en milieu acide",
+      "Est soluble dans l'eau froide quel que soit le pH",
+      "Est soluble au-dessus d'un certain pH",
+      "Est insoluble en milieu acide",
+      "Est un polymère gastro-résistant"
+    ],
+    "correctes": [
+      2,
+      3,
+      4
+    ],
+    "explication": "Le CAP est un polymère gastro-résistant, insoluble en milieu acide et soluble au-dessus d'un certain pH.",
+    "source": {
+      "page": 4,
+      "extrait": "Polymère gastro-résistant, insoluble en milieu acide et soluble au-dessus d'un certain pH"
+    },
+    "difficulte": 2,
+    "tags": [
+      "dérivés cellulose"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/qcm-045",
+    "type": "multiple",
+    "enonce": "L'hydroxypropylméthylcellulose (HPMC) est utilisée comme :",
+    "options": [
+      "Polymère gastro-résistant insoluble en milieu acide",
+      "Matrice hydrophile pour la libération prolongée",
+      "Liant",
+      "Agent opacifiant",
+      "Agent filmogène"
+    ],
+    "correctes": [
+      1,
+      2,
+      4
+    ],
+    "explication": "HPMC : liant, agent filmogène et matrice hydrophile pour la libération prolongée.",
+    "source": {
+      "page": 4,
+      "extrait": "Liant, agent filmogène et matrice hydrophile pour la libération prolongée"
+    },
+    "difficulte": 2,
+    "tags": [
+      "dérivés cellulose"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/qcm-046",
+    "type": "multiple",
+    "enonce": "Concernant les dérivés hydrosolubles de la cellulose :",
+    "options": [
+      "La méthylcellulose est un épaississant, liant et agent de suspension",
+      "L'HEC est un épaississant et stabilisant des gels et préparations aqueuses",
+      "La méthylcellulose est soluble dans l'eau froide",
+      "La CMC-Na est soluble dans l'eau ; viscosifiant, épaississant et stabilisant des suspensions",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes ces propriétés sont celles décrites dans le cours pour la CMC-Na, la MC et l'HEC.",
+    "source": {
+      "page": 4,
+      "extrait": "Méthylcellulose (MC) : Soluble dans l'eau froide ; épaississant, liant et agent de suspension"
+    },
+    "difficulte": 2,
+    "tags": [
+      "dérivés cellulose"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/qcm-047",
+    "type": "multiple",
+    "enonce": "Parmi les dérivés de la cellulose suivants, lesquels sont décrits comme solubles dans l'eau ?",
+    "options": [
+      "Carboxyméthylcellulose sodique",
+      "Méthylcellulose",
+      "Cellulose microcristalline",
+      "Acétophtalate de cellulose en milieu acide",
+      "Éthylcellulose"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "La CMC-Na est soluble dans l'eau et la MC dans l'eau froide. L'EC est insoluble, le CAP insoluble en milieu acide, la cellulose microcristalline pratiquement insoluble.",
+    "source": {
+      "page": 4,
+      "extrait": "Carboxyméthylcellulose sodique (CMC-Na) : Soluble dans l'eau"
+    },
+    "difficulte": 3,
+    "tags": [
+      "dérivés cellulose"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/qcm-048",
+    "type": "multiple",
+    "enonce": "La polyvidone (polyvinylpyrrolidone, PVP) :",
+    "options": [
+      "Est généralement soluble dans l'eau et dans certains solvants organiques",
+      "Est un polymère synthétique",
+      "Est un polymère naturel extrait du collagène",
+      "Est utilisée comme liant en granulation humide",
+      "Améliore la cohésion des granulés et la résistance mécanique des comprimés"
+    ],
+    "correctes": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "explication": "La PVP est un polymère synthétique soluble dans l'eau et certains solvants organiques ; liant en granulation humide (cohésion des granulés, résistance mécanique), agent filmogène, stabilisant de suspensions.",
+    "source": {
+      "page": 4,
+      "extrait": "Liant : utilisé en granulation humide pour améliorer la cohésion des granulés et la résistance mécanique des comprimés"
+    },
+    "difficulte": 1,
+    "tags": [
+      "PVP"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/qcm-049",
+    "type": "multiple",
+    "enonce": "Les emplois de la PVP cités dans le cours sont :",
+    "options": [
+      "Agent gastro-résistant",
+      "Opacifiant",
+      "Liant",
+      "Agent filmogène",
+      "Stabilisant de certaines suspensions"
+    ],
+    "correctes": [
+      2,
+      3,
+      4
+    ],
+    "explication": "PVP : liant (granulation humide), agent filmogène, stabilisant dans certaines suspensions.",
+    "source": {
+      "page": 4,
+      "extrait": "Agent filmogène : utilisé dans certaines formulations. Stabilisant : dans certaines suspensions"
+    },
+    "difficulte": 2,
+    "tags": [
+      "PVP"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/qcm-050",
+    "type": "multiple",
+    "enonce": "Concernant les polyéthylèneglycols (PEG) ou macrogols :",
+    "options": [
+      "Leurs propriétés varient selon leur masse moléculaire",
+      "Les PEG 4000 et 6000 sont solides",
+      "Lorsque la masse moléculaire augmente, la consistance évolue du solide vers le liquide",
+      "Les PEG 200, 300 et 400 sont liquides",
+      "Ce sont des polymères synthétiques"
+    ],
+    "correctes": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "explication": "Les PEG sont synthétiques, aux propriétés dépendant de la masse moléculaire : PEG 200-400 liquides, PEG 4000-6000 solides. Quand la masse moléculaire augmente, la consistance évolue du liquide vers le solide (et non l'inverse).",
+    "source": {
+      "page": 4,
+      "extrait": "lorsque la masse moléculaire augmente, la consistance évolue généralement du liquide vers le solide"
+    },
+    "difficulte": 1,
+    "tags": [
+      "PEG"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/qcm-051",
+    "type": "unique",
+    "enonce": "Les PEG 200, 300 et 400 sont utilisés comme :",
+    "options": [
+      "Opacifiants",
+      "Bases pour suppositoires",
+      "Solvants et cosolvants",
+      "Gélifiants après neutralisation",
+      "Lubrifiants hydrosolubles solides"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "PEG 200, 300 et 400 : liquides, solvants et cosolvants. Les PEG 4000 et 6000 (solides) servent de bases pour suppositoires, composants de pommades, liants ou lubrifiants hydrosolubles.",
+    "source": {
+      "page": 4,
+      "extrait": "PEG 200, 300 et 400 : Liquides : solvants et cosolvants"
+    },
+    "difficulte": 2,
+    "tags": [
+      "PEG"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/qcm-052",
+    "type": "multiple",
+    "enonce": "Les PEG 4000 et 6000 :",
+    "options": [
+      "Sont des composants de pommades",
+      "Sont des bases pour suppositoires",
+      "Sont solides",
+      "Sont des solvants liquides",
+      "Peuvent servir de liants ou de lubrifiants hydrosolubles"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explication": "PEG 4000 et 6000 : solides ; bases pour suppositoires, composants de pommades, liants ou lubrifiants hydrosolubles selon la formulation.",
+    "source": {
+      "page": 4,
+      "extrait": "PEG 4000 et 6000 : Solides : bases pour suppositoires, composants de pommades"
+    },
+    "difficulte": 2,
+    "tags": [
+      "PEG"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/qcm-053",
+    "type": "multiple",
+    "enonce": "Les carbomères (Carbopols) :",
+    "options": [
+      "Développent une viscosité élevée après neutralisation par une base adaptée",
+      "Gonflent dans l'eau",
+      "Se présentent sous forme de poudres blanches",
+      "Ont une viscosité indépendante du pH",
+      "Sont des polymères synthétiques réticulés de l'acide acrylique"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explication": "Carbomères : polymères synthétiques réticulés de l'acide acrylique, poudres blanches, gonflent dans l'eau et deviennent très visqueux après neutralisation par une base. Leur viscosité dépend du pH, de la concentration et des électrolytes.",
+    "source": {
+      "page": 4,
+      "extrait": "Gonflent dans l'eau et développent une viscosité élevée après neutralisation par une base adaptée"
+    },
+    "difficulte": 2,
+    "tags": [
+      "carbomères"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/qcm-054",
+    "type": "multiple",
+    "enonce": "La viscosité des carbomères dépend :",
+    "options": [
+      "De la couleur du flacon",
+      "De la concentration",
+      "Du pH",
+      "De la présence d'électrolytes",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      1,
+      2,
+      3
+    ],
+    "explication": "La viscosité des carbomères dépend du pH, de la concentration et de la présence d'électrolytes.",
+    "source": {
+      "page": 4,
+      "extrait": "Leur viscosité dépend du pH, de la concentration et de la présence d'électrolytes"
+    },
+    "difficulte": 2,
+    "tags": [
+      "carbomères"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/qcm-055",
+    "type": "multiple",
+    "enonce": "Les carbomères sont employés comme :",
+    "options": [
+      "Stabilisants dans certaines émulsions et suspensions",
+      "Gélifiants",
+      "Agents de libération modifiée dans certaines formulations",
+      "Épaississants",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Emplois des carbomères : gélifiants (gels pharmaceutiques et dermocosmétiques), épaississants, stabilisants, agents de libération modifiée.",
+    "source": {
+      "page": 4,
+      "extrait": "Gélifiants : préparation de gels pharmaceutiques et dermocosmétiques"
+    },
+    "difficulte": 2,
+    "tags": [
+      "carbomères"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/qcm-056",
+    "type": "multiple",
+    "enonce": "La silice (notamment la silice colloïdale anhydre) est utilisée comme :",
+    "options": [
+      "Stabilisant dans certaines émulsions et suspensions",
+      "Absorbant dans les poudres dermatologiques",
+      "Opacifiant à fort pouvoir couvrant",
+      "Absorbant pour l'incorporation de liquides dans les poudres",
+      "Agent d'écoulement améliorant l'écoulement des poudres"
+    ],
+    "correctes": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "explication": "La silice est absorbante (poudres dermatologiques, incorporation de liquides), agent d'écoulement (fabrication des comprimés et gélules) et stabilisant. L'opacifiant est le dioxyde de titane.",
+    "source": {
+      "page": 4,
+      "extrait": "Agent d'écoulement : améliore l'écoulement des poudres lors de la fabrication des comprimés et des gélules"
+    },
+    "difficulte": 1,
+    "tags": [
+      "silice"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/qcm-057",
+    "type": "multiple",
+    "enonce": "Le talc :",
+    "options": [
+      "Est un silicate de magnésium hydraté d'origine naturelle",
+      "Est un polymère synthétique",
+      "Se présente sous forme d'une poudre blanche, douce au toucher",
+      "Est pratiquement insoluble dans l'eau",
+      "Est un silicate hydraté d'aluminium"
+    ],
+    "correctes": [
+      0,
+      2,
+      3
+    ],
+    "explication": "Le talc est un silicate de magnésium hydraté naturel, poudre blanche douce au toucher, pratiquement insoluble dans l'eau. Le silicate hydraté d'aluminium est le kaolin.",
+    "source": {
+      "page": 4,
+      "extrait": "Le talc est un silicate de magnésium hydraté d'origine naturelle"
+    },
+    "difficulte": 1,
+    "tags": [
+      "talc"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/qcm-058",
+    "type": "multiple",
+    "enonce": "Les emplois du talc cités dans le cours sont :",
+    "options": [
+      "Agent d'écoulement dans la fabrication des comprimés",
+      "Gélifiant des pommades",
+      "Poudres dermatologiques (toucher doux, facilite l'étalement)",
+      "Lubrifiant dans la fabrication des comprimés",
+      "Opacifiant des enrobages"
+    ],
+    "correctes": [
+      0,
+      2,
+      3
+    ],
+    "explication": "Talc : poudres dermatologiques ; fabrication des comprimés comme lubrifiant ou agent d'écoulement selon la formulation.",
+    "source": {
+      "page": 5,
+      "extrait": "Fabrication des comprimés : utilisé comme lubrifiant ou agent d'écoulement, selon la formulation"
+    },
+    "difficulte": 2,
+    "tags": [
+      "talc"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/qcm-059",
+    "type": "multiple",
+    "enonce": "Le kaolin :",
+    "options": [
+      "Est utilisé en usage externe dans certaines poudres",
+      "Est un silicate hydraté d'aluminium d'origine naturelle",
+      "Est utilisé comme agent de charge",
+      "Est un silicate de magnésium hydraté",
+      "Est utilisé comme absorbant"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explication": "Kaolin : silicate hydraté d'aluminium naturel ; absorbant, agent de charge, usage externe (poudres et préparations dermatologiques). Le silicate de magnésium hydraté est le talc.",
+    "source": {
+      "page": 5,
+      "extrait": "Le kaolin est un silicate hydraté d'aluminium d'origine naturelle"
+    },
+    "difficulte": 2,
+    "tags": [
+      "kaolin"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/qcm-060",
+    "type": "multiple",
+    "enonce": "Les bentonites :",
+    "options": [
+      "Sont gélifiantes et épaississantes dans certaines pommades",
+      "Sont capables de gonfler au contact de l'eau",
+      "Stabilisent les émulsions et suspensions en augmentant la viscosité",
+      "Sont des polymères synthétiques de l'acide acrylique",
+      "Sont des argiles naturelles riches en montmorillonite"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explication": "Bentonites : argiles naturelles riches en montmorillonite, gonflant au contact de l'eau ; gélifiants/épaississants et stabilisants (augmentation de viscosité). Les polymères de l'acide acrylique sont les carbomères.",
+    "source": {
+      "page": 5,
+      "extrait": "Les bentonites sont des argiles naturelles riches en montmorillonite, capables de gonfler au contact de l'eau"
+    },
+    "difficulte": 2,
+    "tags": [
+      "bentonites"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/qcm-061",
+    "type": "multiple",
+    "enonce": "Le dioxyde de titane (TiO₂) :",
+    "options": [
+      "Est un agent d'écoulement",
+      "Possède un fort pouvoir opacifiant",
+      "Est utilisé comme colorant dans certaines enveloppes de gélules",
+      "Est une poudre blanche insoluble dans l'eau",
+      "Est utilisé comme opacifiant et pigment blanc dans certains enrobages"
+    ],
+    "correctes": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "TiO₂ : poudre blanche insoluble, fort pouvoir opacifiant ; opacifiant et pigment blanc des enrobages, colorant de gélules et comprimés, préparations topiques.",
+    "source": {
+      "page": 5,
+      "extrait": "Le dioxyde de titane est une poudre blanche, insoluble dans l'eau, possédant un fort pouvoir opacifiant"
+    },
+    "difficulte": 1,
+    "tags": [
+      "dioxyde de titane"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/qcm-062",
+    "type": "unique",
+    "enonce": "Parmi les excipients minéraux suivants, lequel est décrit comme un agent d'écoulement améliorant l'écoulement des poudres pour comprimés et gélules ?",
+    "options": [
+      "Le dioxyde de titane",
+      "Le kaolin",
+      "La silice",
+      "La bentonite",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "La silice est décrite comme agent d'écoulement (le talc peut aussi l'être selon la formulation, mais il n'est pas proposé ici).",
+    "source": {
+      "page": 4,
+      "extrait": "Agent d'écoulement : améliore l'écoulement des poudres"
+    },
+    "difficulte": 2,
+    "tags": [
+      "minéraux"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/qcm-063",
+    "type": "multiple",
+    "enonce": "Parmi les glycérides naturels cités :",
+    "options": [
+      "Huile d'amande douce (crèmes, laits)",
+      "Huile de vaseline",
+      "Huiles de maïs, de tournesol, de soja",
+      "Huile d'olive (solvant pour préparations injectables)",
+      "Beurre de cacao (graisse solide)"
+    ],
+    "correctes": [
+      0,
+      2,
+      3,
+      4
+    ],
+    "explication": "Glycérides naturels : huile d'amande douce, huile d'olive, huiles de maïs, tournesol, soja, beurre de cacao. L'huile de vaseline est un hydrocarbure.",
+    "source": {
+      "page": 5,
+      "extrait": "Huile d'olive : solvant pour préparations injectables"
+    },
+    "difficulte": 1,
+    "tags": [
+      "glycérides"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/qcm-064",
+    "type": "unique",
+    "enonce": "L'huile d'olive est citée comme :",
+    "options": [
+      "Graisse solide",
+      "Solvant pour préparations injectables",
+      "Surfactif",
+      "Excipient obtenu par glycérolyse",
+      "Excipient de crèmes et laits"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Huile d'olive : solvant pour préparations injectables. L'huile d'amande douce sert pour crèmes et laits ; le beurre de cacao est une graisse solide.",
+    "source": {
+      "page": 5,
+      "extrait": "Huile d'olive : solvant pour préparations injectables"
+    },
+    "difficulte": 2,
+    "tags": [
+      "glycérides"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/qcm-065",
+    "type": "multiple",
+    "enonce": "Les macrogolglycérides insaturés (glycérides polyoxyéthylénés glycosylés) :",
+    "options": [
+      "Sont des solides cireux hydrophobes",
+      "Sont des huiles facilement dispersibles dans l'eau",
+      "Servent de véhicules dans les gouttes nasales huileuses",
+      "Sont obtenus à partir d'huiles riches en acides gras insaturés et de macrogols",
+      "Servent de véhicules dans les solutés huileux buvables et injectables"
+    ],
+    "correctes": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Ce sont des huiles facilement dispersibles dans l'eau, obtenues à partir d'huiles riches en acides gras insaturés et de PEG ; véhicules des gouttes nasales huileuses et solutés huileux buvables et injectables.",
+    "source": {
+      "page": 5,
+      "extrait": "Obtenus à partir d'huiles riches en acides gras insaturés et de macrogols (PEG)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "glycérides"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/qcm-066",
+    "type": "multiple",
+    "enonce": "Les huiles hydrogénées :",
+    "options": [
+      "Sont des solides cireux",
+      "Présentent l'avantage d'être hydrodispersibles",
+      "Présentent l'inconvénient d'être hydrophobes",
+      "Sont obtenues par hydrogénation d'huiles végétales en présence d'un catalyseur",
+      "Sont des excipients pour suppositoires"
+    ],
+    "correctes": [
+      0,
+      2,
+      3,
+      4
+    ],
+    "explication": "Huiles hydrogénées : hydrogénation (catalyseur) d'huiles végétales → solides cireux, excipients pour suppositoires, inconvénient : hydrophobes. Ce sont les glycérides semi-synthétiques qui sont hydrodispersibles.",
+    "source": {
+      "page": 6,
+      "extrait": "les huiles hydrogénées présentent l'inconvénient d'être hydrophobes"
+    },
+    "difficulte": 2,
+    "tags": [
+      "glycérides"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/qcm-067",
+    "type": "multiple",
+    "enonce": "Les glycérides semi-synthétiques :",
+    "options": [
+      "Sont obtenus par glycérolyse des huiles hydrogénées",
+      "Présentent l'avantage d'être hydrodispersibles",
+      "Sont des excipients pour suppositoires",
+      "Sont des solides cireux",
+      "Sont obtenus par hydrogénation directe des huiles végétales"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Glycérides semi-synthétiques : glycérolyse des huiles hydrogénées → solides cireux, excipients pour suppositoires, avantage : hydrodispersibles.",
+    "source": {
+      "page": 6,
+      "extrait": "les glycérides semi- synthétiques présentent l'avantage d'être hydrodispersibles"
+    },
+    "difficulte": 2,
+    "tags": [
+      "glycérides"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/qcm-068",
+    "type": "unique",
+    "enonce": "Pour obtenir des glycérides semi-synthétiques, l'ordre des étapes est :",
+    "options": [
+      "Huiles hydrogénées → hydrogénation → huiles végétales",
+      "Collagène → hydrolyse → glycérides",
+      "Amidon → hydrolyse ménagée → glycérides",
+      "Huiles végétales → glycérolyse → hydrogénation",
+      "Huiles végétales → hydrogénation → huiles hydrogénées → glycérolyse"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Les huiles végétales sont hydrogénées (catalyseur) en huiles hydrogénées, puis la glycérolyse des huiles hydrogénées donne les glycérides semi-synthétiques.",
+    "source": {
+      "page": 6,
+      "extrait": "Glycérolyse Huiles hydrogénées Glycérides semi-synthétiques"
+    },
+    "difficulte": 3,
+    "tags": [
+      "glycérides"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/qcm-069",
+    "type": "multiple",
+    "enonce": "Les macrogolglycérides saturés (huiles hydrogénées et polyoxyéthylénées) :",
+    "options": [
+      "Utilisent des macrogols de PM 200 à 2000",
+      "Sont des excipients pour pommades en association avec l'huile de vaseline",
+      "Sont facilement dispersibles dans l'eau",
+      "Sont des excipients pour suppositoires",
+      "Sont des solides cireux"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "On utilise des macrogols de PM 200-2000 ; solides cireux facilement dispersibles dans l'eau ; excipients pour suppositoires et pour pommades (avec l'huile de vaseline…).",
+    "source": {
+      "page": 6,
+      "extrait": "On utilise des Macrogols de P.M : 200-2000 , solides cireux, facilement dispersibles dans l'eau"
+    },
+    "difficulte": 3,
+    "tags": [
+      "glycérides"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/qcm-070",
+    "type": "multiple",
+    "enonce": "Comparaison huiles hydrogénées / glycérides semi-synthétiques :",
+    "options": [
+      "Les huiles hydrogénées sont hydrophobes",
+      "Les deux sont des excipients pour suppositoires",
+      "Les glycérides semi-synthétiques sont hydrodispersibles",
+      "Les deux sont des solides cireux",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Les deux sont des solides cireux pour suppositoires ; huiles hydrogénées : inconvénient hydrophobe ; semi-synthétiques : avantage hydrodispersible.",
+    "source": {
+      "page": 6,
+      "extrait": "Huiles hydrogénées (solides cireux)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "glycérides"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/qcm-071",
+    "type": "multiple",
+    "enonce": "Les produits dérivés des glycérides utilisés comme excipients pour pommades sont :",
+    "options": [
+      "L'alcool stéarylique",
+      "L'alcool cétylique",
+      "L'alcool cétostéarylique",
+      "Le propylène glycol",
+      "L'alcool éthylique à 95°"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Produits dérivés des glycérides : alcools cétylique, stéarylique et cétostéarylique, excipients pour pommades.",
+    "source": {
+      "page": 6,
+      "extrait": "Alcool cétylique. Alcool stéarylique. Alcool cétostéarylique. Excipients pour pommades"
+    },
+    "difficulte": 2,
+    "tags": [
+      "glycérides"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/qcm-072",
+    "type": "multiple",
+    "enonce": "Les surfactifs (agents de surface, tensioactifs) :",
+    "options": [
+      "Sont exclusivement d'origine synthétique",
+      "Orientent leur partie hydrophile dans l'eau et leur partie hydrophobe dans l'huile",
+      "Se placent à l'interface de deux phases liquides non miscibles",
+      "Sont caractérisés par leur caractère amphiphile",
+      "Possèdent une partie hydrophile et une partie hydrophobe"
+    ],
+    "correctes": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Les surfactifs sont amphiphiles et se placent à l'interface eau/huile, partie hydrophile dans l'eau, partie hydrophobe dans l'huile. Il existe des tensioactifs synthétiques et naturels.",
+    "source": {
+      "page": 7,
+      "extrait": "ils viennent donc se placer à l'interface où ils s'orientent de telle sorte que la partie hydrophile se trouve dans l'eau"
+    },
+    "difficulte": 1,
+    "tags": [
+      "surfactifs"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/qcm-073",
+    "type": "multiple",
+    "enonce": "En pharmacie galénique, les surfactifs sont employés comme :",
+    "options": [
+      "Solubilisants",
+      "Détergents",
+      "Émulsionnants",
+      "Mouillants et moussants",
+      "Agents de suspension"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Emplois : émulsionnants, agents de suspension, solubilisants, anti-moussants, mouillants, moussants, détergents.",
+    "source": {
+      "page": 7,
+      "extrait": "ils sont employés notamment comme émulsionnants, agents de suspension, solubilisants, anti-moussants mouillants, moussants, ou détergents"
+    },
+    "difficulte": 1,
+    "tags": [
+      "surfactifs"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/qcm-074",
+    "type": "multiple",
+    "enonce": "Les tensioactifs anioniques :",
+    "options": [
+      "Orientent les émulsions dans le sens H/L",
+      "S'ionisent en solution aqueuse",
+      "Ont pour exemple le stéarate de triéthanolamine",
+      "Ont pour exemple le laurylsulfate de sodium",
+      "Orientent les émulsions dans le sens L/H"
+    ],
+    "correctes": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Tensioactifs ioniques : s'ionisent en solution aqueuse. Anioniques : laurylsulfate de sodium, stéarate de triéthanolamine, qui orientent les émulsions dans le sens L/H.",
+    "source": {
+      "page": 8,
+      "extrait": "Lauryl sulfate de sodium, stéarate de triéthanolamine qui orientent les émulsions dans le sens L/H"
+    },
+    "difficulte": 2,
+    "tags": [
+      "surfactifs ioniques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/qcm-075",
+    "type": "multiple",
+    "enonce": "Les tensioactifs cationiques comprennent :",
+    "options": [
+      "Les sels d'ammonium",
+      "Les polysorbates",
+      "Le laurylsulfate de sodium",
+      "Les dérivés de bétaïne",
+      "Les sels d'amines"
+    ],
+    "correctes": [
+      0,
+      4
+    ],
+    "explication": "Cationiques : sels d'ammonium et sels d'amines. Laurylsulfate : anionique ; bétaïne : amphotère ; polysorbates : non ioniques.",
+    "source": {
+      "page": 8,
+      "extrait": "Tensioactifs cathioniques Les sels d'ammonium et les sels d'amines"
+    },
+    "difficulte": 2,
+    "tags": [
+      "surfactifs ioniques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/qcm-076",
+    "type": "multiple",
+    "enonce": "Les tensioactifs amphotères :",
+    "options": [
+      "Sont compatibles avec tous les types de tensioactifs lorsque le pH est compris entre 5 et 8",
+      "Ont pour exemple les dérivés de bétaïne",
+      "Ont une partie hydrophile portant une charge négative et une charge positive",
+      "Ne sont pas ionisables",
+      "Ont une charge dont la nature varie en fonction du pH"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explication": "Amphotères : partie hydrophile portant une charge négative et une positive, variant selon le pH ; compatibles avec tous les tensioactifs entre pH 5 et 8 ; ex : dérivés de bétaïne. Ce sont les non ioniques qui ne sont pas ionisables.",
+    "source": {
+      "page": 8,
+      "extrait": "Ils sont compatibles avec tous les types de tensioactifs lorsque le pH du milieu est compris entre 5 et 8"
+    },
+    "difficulte": 2,
+    "tags": [
+      "amphotères"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/qcm-077",
+    "type": "unique",
+    "enonce": "Les tensioactifs amphotères sont compatibles avec tous les types de tensioactifs lorsque le pH du milieu est compris entre :",
+    "options": [
+      "5 et 8",
+      "3 et 5",
+      "10 et 14",
+      "8 et 12",
+      "1 et 3"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Compatibilité des amphotères avec tous les types de tensioactifs pour un pH compris entre 5 et 8.",
+    "source": {
+      "page": 8,
+      "extrait": "lorsque le pH du milieu est compris entre 5 et 8"
+    },
+    "difficulte": 2,
+    "tags": [
+      "amphotères"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/qcm-078",
+    "type": "multiple",
+    "enonce": "Les tensioactifs non ioniques :",
+    "options": [
+      "Sont exclusivement d'origine naturelle",
+      "Peuvent avoir une liaison de nature ester, éther ou amide",
+      "Ne sont pas ionisables",
+      "Sont classés d'après la nature de la liaison unissant la partie hydrophile à la partie lipophile",
+      "S'ionisent en solution aqueuse"
+    ],
+    "correctes": [
+      1,
+      2,
+      3
+    ],
+    "explication": "Non ioniques : non ionisables, classés selon la liaison (ester, éther, amide…) entre parties hydrophile et lipophile.",
+    "source": {
+      "page": 8,
+      "extrait": "Ils sont classés d'après la nature de la liaison qui unit la partie hydrophile à la partie lipophile"
+    },
+    "difficulte": 2,
+    "tags": [
+      "non ioniques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/qcm-079",
+    "type": "multiple",
+    "enonce": "Parmi les tensioactifs non ioniques à liaison ester, sont classés émulsionnants H/L :",
+    "options": [
+      "Le stéarate de diéthylène glycol",
+      "Le stéarate de propylène glycol",
+      "Le stéarate d'éthylène-glycol",
+      "Le stéarate de glycérol",
+      "Le stéarate de PEG 300"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Stéarates d'éthylène-glycol, de propylène glycol, de diéthylène glycol et de glycérol : H/L. Le stéarate de PEG 300 : L/H.",
+    "source": {
+      "page": 8,
+      "extrait": "stéarate de PEG 300 L / H"
+    },
+    "difficulte": 3,
+    "tags": [
+      "non ioniques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/qcm-080",
+    "type": "multiple",
+    "enonce": "Les esters de sorbitan (Spans®) :",
+    "options": [
+      "Sont utilisés comme émulsionnants L/H",
+      "Sont des surfactifs hydrophiles",
+      "Sont des surfactifs lipophiles",
+      "Sont utilisés comme émulsionnants H/L",
+      "Sont des tensioactifs cationiques"
+    ],
+    "correctes": [
+      2,
+      3
+    ],
+    "explication": "Les Spans® sont des surfactifs lipophiles utilisés comme émulsionnants H/L, contrairement aux Tween® hydrophiles (L/H).",
+    "source": {
+      "page": 8,
+      "extrait": "Ester de Sorbitan : Spans®, ce sont des surfactifs lipophiles utilisés comme émulsionnants H/L"
+    },
+    "difficulte": 1,
+    "tags": [
+      "Span Tween"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/qcm-081",
+    "type": "multiple",
+    "enonce": "Les polysorbates (Tween®) :",
+    "options": [
+      "Sont des surfactifs hydrophiles",
+      "Résultent de la condensation de molécules d'oxyde d'éthylène sur les OH libres des esters de sorbitan",
+      "Sont employés comme émulsionnants L/H, agents de suspension et solubilisants",
+      "Sont des surfactifs lipophiles émulsionnants H/L",
+      "Sont des esters de sorbitan polyhydroxyéthylés"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explication": "Tween® : esters de sorbitan sur les OH libres desquels sont condensées des molécules d'oxyde d'éthylène ; hydrophiles, émulsionnants L/H, agents de suspension et solubilisants.",
+    "source": {
+      "page": 8,
+      "extrait": "Contrairement aux Spans les Tween sont des surfactifs hydrophiles employés comme émulsionnants L/H"
+    },
+    "difficulte": 2,
+    "tags": [
+      "Span Tween"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/qcm-082",
+    "type": "multiple",
+    "enonce": "Parmi les tensioactifs d'origine naturelle :",
+    "options": [
+      "Le cholestérol entre dans la composition des liposomes",
+      "Le laurylsulfate de sodium est d'origine naturelle",
+      "La lécithine est un lipide complexe (jaune d'œuf ou soja)",
+      "La caséine est une protéine du lait jouant le rôle de stabilisateur de dispersions",
+      "La lécithine entre dans la composition des liposomes"
+    ],
+    "correctes": [
+      0,
+      2,
+      3,
+      4
+    ],
+    "explication": "Tensioactifs naturels : cholestérol et lécithine (liposomes), caséine (stabilisateur de dispersions). Le laurylsulfate de sodium est un tensioactif synthétique anionique.",
+    "source": {
+      "page": 8,
+      "extrait": "la lécithine : lipide complexe (jaune d'œuf ou soja). Entre dans la composition des liposomes"
+    },
+    "difficulte": 2,
+    "tags": [
+      "tensioactifs naturels"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/qcm-083",
+    "type": "multiple",
+    "enonce": "La caséine :",
+    "options": [
+      "Est un tensioactif cationique synthétique",
+      "Joue un rôle de stabilisateur de dispersions",
+      "Est un tensioactif d'origine naturelle",
+      "Entre dans la composition des liposomes",
+      "Est une protéine extraite du lait"
+    ],
+    "correctes": [
+      1,
+      2,
+      4
+    ],
+    "explication": "La caséine est une protéine du lait, tensioactif naturel stabilisateur de dispersions. Le cours cite le cholestérol et la lécithine pour les liposomes.",
+    "source": {
+      "page": 8,
+      "extrait": "la caséine : protéine extraite du lait, a pour rôle de stabilisateur de de dispersions"
+    },
+    "difficulte": 2,
+    "tags": [
+      "tensioactifs naturels"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/qcm-084",
+    "type": "multiple",
+    "enonce": "Concernant la balance hydrophile-lipophile (HLB) :",
+    "options": [
+      "Les surfactifs ont un PM > 200 et un HLB compris entre 1 et 50",
+      "C'est un système de classification des surfactifs mis au point par Griffin",
+      "La valeur du HLB est une fonction directe de l'importance de la partie hydrophile",
+      "La valeur de HLB est d'autant plus élevée que la molécule est hydrophile",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "HLB : classification de Griffin ; fonction directe de la partie hydrophile ; d'autant plus élevé que la molécule est hydrophile ; surfactifs de PM > 200 et HLB entre 1 et 50.",
+    "source": {
+      "page": 8,
+      "extrait": "La valeur du HLB d'un surfactif est une fonction directe de l'importance de la partie hydrophile dans sa molécule"
+    },
+    "difficulte": 1,
+    "tags": [
+      "HLB"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/qcm-085",
+    "type": "multiple",
+    "enonce": "Un surfactif de HLB égal à 4 :",
+    "options": [
+      "Est idéal comme émulsionnant L/H",
+      "Présente un équilibre parfait entre groupements hydrophiles et lipophiles",
+      "Est à prédominance lipophile",
+      "Peut être utilisé comme émulsionnant H/L",
+      "Est à prédominance hydrophile"
+    ],
+    "correctes": [
+      2,
+      3
+    ],
+    "explication": "HLB < 10 : prédominance lipophile ; les émulsionnants H/L ont un HLB de 3 à 6. L'équilibre se situe aux environs de 10 ; les émulsionnants L/H ont un HLB de 8 à 18.",
+    "source": {
+      "page": 9,
+      "extrait": "Emulsionnants H/L……………………..3 à 6"
+    },
+    "difficulte": 2,
+    "tags": [
+      "HLB"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/qcm-086",
+    "type": "multiple",
+    "enonce": "Un surfactif de HLB égal à 15 :",
+    "options": [
+      "Est un antimoussant typique",
+      "Est à prédominance lipophile",
+      "Est un émulsionnant H/L",
+      "Peut être utilisé comme émulsionnant L/H",
+      "Est à prédominance hydrophile"
+    ],
+    "correctes": [
+      3,
+      4
+    ],
+    "explication": "HLB > 10 : prédominance hydrophile ; émulsionnants L/H : 8 à 18. Les antimoussants ont un HLB < 8 (surtout 1,5 à 3) et les émulsionnants H/L 3 à 6.",
+    "source": {
+      "page": 9,
+      "extrait": "Emulsionnants L/H…………….………..8 à 18"
+    },
+    "difficulte": 2,
+    "tags": [
+      "HLB"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/qcm-087",
+    "type": "unique",
+    "enonce": "Les surfactifs utilisés comme mouillants ont un HLB compris entre :",
+    "options": [
+      "20 et 50",
+      "7 et 9",
+      "3 et 6",
+      "8 et 18",
+      "1,5 et 3"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Mouillants : HLB 7 à 9. Émulsionnants H/L : 3 à 6 ; L/H : 8 à 18 ; antimoussants : < 8 (surtout 1,5 à 3).",
+    "source": {
+      "page": 9,
+      "extrait": "Mouillants………………………………7 à 9"
+    },
+    "difficulte": 2,
+    "tags": [
+      "HLB"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/qcm-088",
+    "type": "multiple",
+    "enonce": "Concernant les valeurs de HLB des antimoussants :",
+    "options": [
+      "Elles se situent surtout entre 1,5 et 3",
+      "Elles se situent entre 8 et 18",
+      "Elles sont supérieures à 18",
+      "Elles sont inférieures à 8",
+      "Elles sont égales à 10"
+    ],
+    "correctes": [
+      0,
+      3
+    ],
+    "explication": "Antimoussants : HLB < 8, surtout 1,5 à 3.",
+    "source": {
+      "page": 9,
+      "extrait": "Antimoussants……………….………….< 8 (surtout 1.5 à 3)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "HLB"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/qcm-089",
+    "type": "multiple",
+    "enonce": "Concernant les propriétés générales du HLB :",
+    "options": [
+      "Sa connaissance facilite le choix d'un surfactif au moment de l'emploi",
+      "Aux environs de 10, il y a équilibre entre groupements hydrophiles et lipophiles",
+      "Lorsque des surfactifs sont mélangés, leurs valeurs de HLB sont additives",
+      "La valeur du HLB peut être déterminée par calcul ou expérimentalement",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes ces propriétés figurent dans le cours.",
+    "source": {
+      "page": 8,
+      "extrait": "Lorsque des surfactifs sont mélangés leurs valeurs de HLB sont additives"
+    },
+    "difficulte": 2,
+    "tags": [
+      "HLB"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/qcm-090",
+    "type": "unique",
+    "enonce": "Concernant le HLB, une seule proposition est fausse. Laquelle ?",
+    "options": [
+      "Un HLB < 10 traduit une prédominance lipophile",
+      "Un HLB > 10 traduit une prédominance hydrophile",
+      "Plus le HLB est élevé, plus la molécule est lipophile",
+      "Le système HLB a été mis au point par Griffin",
+      "Les HLB de surfactifs mélangés sont additifs"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Le HLB est d'autant plus élevé que la molécule est hydrophile : la première proposition est fausse.",
+    "source": {
+      "page": 8,
+      "extrait": "La valeur de HLB est d'autant plus élevée que la molécule est hydrophile"
+    },
+    "difficulte": 2,
+    "tags": [
+      "HLB"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/qcm-091",
+    "type": "multiple",
+    "enonce": "Le chlorure de stéaryl ammonium :",
+    "options": [
+      "Est utilisé comme désinfectant du matériel chirurgical",
+      "Est utilisé comme antiseptique sur la peau, les tissus et les muqueuses",
+      "Est un tensioactif non ionique à liaison ester",
+      "Est un tensioactif cationique",
+      "Est un tensioactif anionique"
+    ],
+    "correctes": [
+      0,
+      1,
+      3
+    ],
+    "explication": "N.B. du cours : certains surfactifs sont antiseptiques et désinfectants, comme le chlorure de stéaryl ammonium, tensioactif cationique.",
+    "source": {
+      "page": 9,
+      "extrait": "c'est le cas par exemple du Chlorure de stéaryl ammonium qui est un tensioactif cationique"
+    },
+    "difficulte": 2,
+    "tags": [
+      "cationiques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/qcm-092",
+    "type": "multiple",
+    "enonce": "Les propriétés chimiques prises en compte pour caractériser un excipient incluent :",
+    "options": [
+      "Densité tassée",
+      "Stabilité chimique",
+      "Identité et composition",
+      "Pureté et teneur en impuretés",
+      "Compatibilité avec le principe actif"
+    ],
+    "correctes": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Propriétés chimiques : identité, composition, pureté, impuretés, stabilité chimique, compatibilité avec le PA. La densité tassée est une propriété technologique.",
+    "source": {
+      "page": 9,
+      "extrait": "Propriétés chimiques : identité, composition, pureté, teneur en impuretés, stabilité chimique et compatibilité avec le principe actif"
+    },
+    "difficulte": 2,
+    "tags": [
+      "caractérisation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/qcm-093",
+    "type": "multiple",
+    "enonce": "Parmi les propriétés suivantes, lesquelles sont des propriétés technologiques des excipients ?",
+    "options": [
+      "Polymorphisme",
+      "Densité apparente et densité tassée",
+      "Porosité et surface spécifique",
+      "Aptitude à l'écoulement, au mélange, à la granulation et à la compression",
+      "Granulométrie et distribution de la taille des particules"
+    ],
+    "correctes": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Propriétés technologiques : granulométrie, densités, porosité, surface spécifique, aptitudes à l'écoulement, au mélange, à la granulation et à la compression. Le polymorphisme est une propriété physique/physicochimique.",
+    "source": {
+      "page": 9,
+      "extrait": "Propriétés technologiques : granulométrie et distribution de la taille des particules, densité apparente et densité tassée"
+    },
+    "difficulte": 2,
+    "tags": [
+      "caractérisation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/qcm-094",
+    "type": "multiple",
+    "enonce": "Sont classées parmi les propriétés physiques et physicochimiques des excipients :",
+    "options": [
+      "L'état cristallin ou amorphe",
+      "La teneur en eau et l'hygroscopicité",
+      "La solubilité dans les milieux appropriés",
+      "La présence d'hydrates ou de solvates",
+      "Le polymorphisme"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Propriétés physiques et physicochimiques : état cristallin/amorphe, polymorphisme, hydrates/solvates, teneur en eau, hygroscopicité, solubilité…",
+    "source": {
+      "page": 9,
+      "extrait": "état cristallin ou amorphe, polymorphisme, présence d'hydrates ou de solvates, teneur en eau, hygroscopicité"
+    },
+    "difficulte": 2,
+    "tags": [
+      "caractérisation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/qcm-095",
+    "type": "multiple",
+    "enonce": "Les propriétés rhéologiques d'un excipient concernent :",
+    "options": [
+      "La teneur en nitrites",
+      "Le polymorphisme",
+      "La viscosité",
+      "Le comportement à l'écoulement",
+      "La pureté chimique"
+    ],
+    "correctes": [
+      2,
+      3
+    ],
+    "explication": "Propriétés rhéologiques : viscosité et comportement à l'écoulement.",
+    "source": {
+      "page": 9,
+      "extrait": "Propriétés rhéologiques : viscosité et comportement à l'écoulement"
+    },
+    "difficulte": 1,
+    "tags": [
+      "caractérisation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/qcm-096",
+    "type": "multiple",
+    "enonce": "Concernant le risque de contamination par les nitrosamines :",
+    "options": [
+      "Il faut prendre en compte la présence éventuelle de nitrites dans les excipients",
+      "Les nitrites sont des agents nitrosants",
+      "Les nitrosamines peuvent se former lorsque des amines réagissent avec des agents nitrosants",
+      "Les nitrosamines sont des impuretés potentiellement cancérogènes",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Les nitrosamines se forment par réaction d'amines avec des agents nitrosants (notamment nitrites) ; potentiellement cancérogènes, leur formation doit être maîtrisée en évaluant les nitrites des excipients et autres sources.",
+    "source": {
+      "page": 9,
+      "extrait": "Étant considérées comme des impuretés potentiellement cancérogènes, leur formation doit être maîtrisée"
+    },
+    "difficulte": 2,
+    "tags": [
+      "nitrosamines"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/qcm-097",
+    "type": "multiple",
+    "enonce": "Concernant la place des excipients dans la formulation :",
+    "options": [
+      "Leur choix ne dépend que de leur coût",
+      "Leur rôle ne doit pas être sous-estimé",
+      "Ils représentent toujours une part négligeable de la formulation",
+      "Ils représentent souvent une proportion majoritaire de la formulation",
+      "Leur choix repose sur plusieurs critères"
+    ],
+    "correctes": [
+      1,
+      3,
+      4
+    ],
+    "explication": "Les excipients représentent souvent une proportion majoritaire ; leur choix repose sur des critères chimiques, physiques, technologiques, rhéologiques et le risque nitrosamines ; leur rôle ne doit pas être sous-estimé.",
+    "source": {
+      "page": 9,
+      "extrait": "Les excipients représentent souvent une proportion majoritaire de la formulation"
+    },
+    "difficulte": 1,
+    "tags": [
+      "caractérisation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/qcm-098",
+    "type": "multiple",
+    "enonce": "Associez correctement l'excipient à un emploi cité dans le cours :",
+    "options": [
+      "Silice : agent d'écoulement",
+      "Carnauba : polissage des comprimés",
+      "Gélatine : enveloppes des gélules",
+      "Lactose : poudres antibiotiques pour plaies",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes les associations sont exactes d'après le cours.",
+    "source": {
+      "page": 3,
+      "extrait": "Fabrication des enveloppes des gélules et (des capsules molles)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "synthèse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/qcm-099",
+    "type": "multiple",
+    "enonce": "Cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Les PEG 4000 sont liquides",
+      "Les huiles hydrogénées sont hydrodispersibles",
+      "Le talc est un silicate hydraté d'aluminium",
+      "Les Spans® sont hydrophiles",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le talc est un silicate de magnésium hydraté ; les Spans® sont lipophiles ; les huiles hydrogénées sont hydrophobes ; les PEG 4000 sont solides. Les quatre propositions sont donc fausses.",
+    "source": {
+      "page": 4,
+      "extrait": "Le talc est un silicate de magnésium hydraté d'origine naturelle"
+    },
+    "difficulte": 3,
+    "tags": [
+      "synthèse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/qcm-100",
+    "type": "multiple",
+    "enonce": "Concernant les excipients utilisés dans les suppositoires selon le cours :",
+    "options": [
+      "Les glycérides semi-synthétiques sont des excipients pour suppositoires",
+      "Les PEG 4000 et 6000 sont des bases pour suppositoires",
+      "La gélatine est un excipient pour suppositoires et ovules",
+      "Les huiles hydrogénées sont des excipients pour suppositoires",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le cours cite comme excipients de suppositoires : gélatine, PEG 4000/6000, huiles hydrogénées, glycérides semi-synthétiques, macrogolglycérides saturés.",
+    "source": {
+      "page": 6,
+      "extrait": "Excipients pour suppositoires"
+    },
+    "difficulte": 2,
+    "tags": [
+      "synthèse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/qcm-101",
+    "type": "multiple",
+    "enonce": "Parmi ces excipients, lesquels sont cités comme liants pour comprimés ?",
+    "options": [
+      "La polyvidone",
+      "L'empois d'amidon",
+      "Le dioxyde de titane",
+      "Les gommes",
+      "La gélatine"
+    ],
+    "correctes": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "explication": "Liants cités : empois d'amidon, gélatine, PVP, gommes (ainsi que cellulose microcristalline, MC, HPMC). Le TiO₂ est opacifiant.",
+    "source": {
+      "page": 3,
+      "extrait": "Liant et délitant pour comprimés"
+    },
+    "difficulte": 2,
+    "tags": [
+      "synthèse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/02-excipients/qcm-102",
+    "type": "multiple",
+    "enonce": "Parmi ces excipients, lesquels sont cités comme épaississants ou viscosifiants ?",
+    "options": [
+      "Carboxyméthylcellulose sodique",
+      "Hydroxyéthylcellulose",
+      "Méthylcellulose",
+      "Carbomères",
+      "Talc"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "CMC-Na (viscosifiant, épaississant), MC (épaississant), HEC (épaississant), carbomères (épaississants). Le talc est lubrifiant ou agent d'écoulement.",
+    "source": {
+      "page": 4,
+      "extrait": "Hydroxyéthylcellulose (HEC) : Épaississant et stabilisant des gels et préparations aqueuses"
+    },
+    "difficulte": 2,
+    "tags": [
+      "synthèse"
+    ],
+    "origine": "genere"
+  }
+]

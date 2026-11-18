@@ -1,0 +1,182 @@
+[
+  {
+    "id": "semiologie/02-cephalees-douleurs-faciales/flashcard-001",
+    "recto": "Céphalée primaire",
+    "verso": "Sans lésion causale ; très fréquente, récurrente et chronique ; diagnostic uniquement clinique (ex. migraine, céphalée de tension, algie vasculaire de la face).",
+    "tags": []
+  },
+  {
+    "id": "semiologie/02-cephalees-douleurs-faciales/flashcard-002",
+    "recto": "Céphalée secondaire",
+    "verso": "Associée à une lésion sous-jacente ; récente et inhabituelle ; nécessite des examens complémentaires.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/02-cephalees-douleurs-faciales/flashcard-003",
+    "recto": "Trois situations à distinguer devant un céphalalgique",
+    "verso": "Primaire (antalgique + suivi), secondaire bénigne (ex. syndrome grippal), secondaire grave en urgence (hémorragie méningée, méningite, HTIC).",
+    "tags": []
+  },
+  {
+    "id": "semiologie/02-cephalees-douleurs-faciales/flashcard-004",
+    "recto": "Argument principal pour explorer une céphalée",
+    "verso": "Caractère récent, installation rapide ou brusque, de novo ou différente des céphalées habituelles.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/02-cephalees-douleurs-faciales/flashcard-005",
+    "recto": "L'intensité permet-elle de distinguer primaire/secondaire ?",
+    "verso": "Non ; mais une céphalée soudaine et sévère doit être explorée.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/02-cephalees-douleurs-faciales/flashcard-006",
+    "recto": "Antécédents orientant l'étiologie d'une céphalée",
+    "verso": "HTA/cardiovasculaire → AVC ; post-partum → thrombose veineuse cérébrale ; néoplasme → métastases ; VIH → toxoplasmose.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/02-cephalees-douleurs-faciales/flashcard-007",
+    "recto": "Symptômes associés imposant de considérer une céphalée comme secondaire",
+    "verso": "Signe focal, crise d'épilepsie, altération de la conscience. L'absence de symptôme associé n'élimine pas une céphalée secondaire.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/02-cephalees-douleurs-faciales/flashcard-008",
+    "recto": "Examens de base devant une céphalée récente, inhabituelle et persistante",
+    "verso": "Scanner cérébral sans injection puis ponction lombaire.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/02-cephalees-douleurs-faciales/flashcard-009",
+    "recto": "Ce que recherche le scanner cérébral",
+    "verso": "Hyperdensité spontanée (sang frais), hydrocéphalie, effet de masse, œdème (tumeur, abcès).",
+    "tags": []
+  },
+  {
+    "id": "semiologie/02-cephalees-douleurs-faciales/flashcard-010",
+    "recto": "Premier diagnostic devant une céphalée inhabituelle à début brutal",
+    "verso": "Hémorragie sous-arachnoïdienne : scanner sans injection en urgence, puis PL si scanner normal.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/02-cephalees-douleurs-faciales/flashcard-011",
+    "recto": "Céphalée des AVC",
+    "verso": "Souvent au second plan, tableau dominé par les signes focaux ; AVC œdémateux sous-tentoriel : céphalée intense + vomissements abondants.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/02-cephalees-douleurs-faciales/flashcard-012",
+    "recto": "Dissections artérielles",
+    "verso": "Céphalée cervicale (carotide) ou rétroauriculaire (vertébrale) ± Claude-Bernard-Horner ; échodoppler cervical + angio-IRM.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/02-cephalees-douleurs-faciales/flashcard-013",
+    "recto": "Encéphalopathie hypertensive",
+    "verso": "Céphalée brutale, PA > 240/120 mmHg, troubles visuels bilatéraux, crises comitiales, rétinopathie hypertensive au fond d'œil.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/02-cephalees-douleurs-faciales/flashcard-014",
+    "recto": "Céphalées de l'HTIC",
+    "verso": "Progressives, aggravées par la toux et la poussée abdominale, nausées, vomissements, œdème papillaire bilatéral, diplopie (VI), éclipses visuelles.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/02-cephalees-douleurs-faciales/flashcard-015",
+    "recto": "HTIC « bénigne »",
+    "verso": "Après élimination des masses par IRM : toxicomédicamenteuse ou idiopathique (jeune femme obèse).",
+    "tags": []
+  },
+  {
+    "id": "semiologie/02-cephalees-douleurs-faciales/flashcard-016",
+    "recto": "Méningite",
+    "verso": "Céphalée fébrile + syndrome méningé ; la ponction lombaire confirme.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/02-cephalees-douleurs-faciales/flashcard-017",
+    "recto": "Artérite temporale de Horton",
+    "verso": "Céphalée récente > 60 ans, AEG, fièvre, claudication de la mâchoire, artères temporales inflammatoires, douleurs des ceintures, troubles visuels ; VS, CRP, biopsie ; corticothérapie.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/02-cephalees-douleurs-faciales/flashcard-018",
+    "recto": "Épidémiologie de la migraine",
+    "verso": "10–15 % de la population, surtout femmes, vers 30 ans.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/02-cephalees-douleurs-faciales/flashcard-019",
+    "recto": "Diagnostic de migraine",
+    "verso": "Interrogatoire + examen neurologique normal ; pas d'examen si sémiologie typique.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/02-cephalees-douleurs-faciales/flashcard-020",
+    "recto": "Prodromes de la migraine",
+    "verso": "Quelques heures : trouble de l'humeur, irritabilité, asthénie, somnolence, tendance dépressive ou euphorique.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/02-cephalees-douleurs-faciales/flashcard-021",
+    "recto": "Critères IHS migraine sans aura (A, B)",
+    "verso": "A : ≥ 5 crises ; B : durée 4–72 h sans traitement.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/02-cephalees-douleurs-faciales/flashcard-022",
+    "recto": "Critères IHS migraine sans aura (C)",
+    "verso": "≥ 2 parmi : unilatérale, pulsatile, modérée ou sévère, aggravée par l'effort physique de routine.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/02-cephalees-douleurs-faciales/flashcard-023",
+    "recto": "Critères IHS migraine sans aura (D, E)",
+    "verso": "D : nausées/vomissements ou photophobie + phonophobie ; E : non attribuable à une autre affection.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/02-cephalees-douleurs-faciales/flashcard-024",
+    "recto": "Facteurs favorisants de la migraine",
+    "verso": "Stress ou détente brutale (week-end), règles (cataméniale), chocolat, alcool, bruit, odeurs.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/02-cephalees-douleurs-faciales/flashcard-025",
+    "recto": "Névralgie essentielle du trijumeau : terrain et cause",
+    "verso": "Femme après 50 ans ; compression de la racine du V par une artère issue de la basilaire (cérébelleuse supérieure).",
+    "tags": []
+  },
+  {
+    "id": "semiologie/02-cephalees-douleurs-faciales/flashcard-026",
+    "recto": "Siège de la névralgie essentielle du V",
+    "verso": "Toujours unilatéral : V2 40 %, V3 20 %, V1 exceptionnel (10 %), jamais les trois branches.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/02-cephalees-douleurs-faciales/flashcard-027",
+    "recto": "Douleur de la névralgie essentielle du V",
+    "verso": "Décharges électriques fulgurantes de quelques secondes (tic douloureux), en salves avec intervalles libres.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/02-cephalees-douleurs-faciales/flashcard-028",
+    "recto": "Zone gâchette",
+    "verso": "Zone cutanée ou muqueuse limitée dont l'effleurement déclenche la névralgie ; entraîne des comportements d'évitement.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/02-cephalees-douleurs-faciales/flashcard-029",
+    "recto": "Examen dans la névralgie essentielle du V",
+    "verso": "Normal : pas d'hypoesthésie, pas de déficit moteur V3, réflexe cornéen normal.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/02-cephalees-douleurs-faciales/flashcard-030",
+    "recto": "Névralgie trijéminale symptomatique",
+    "verso": "Douleur moins intense, territoire V1, fond douloureux persistant, hypoesthésie, déficit V3 moteur, atteinte d'autres nerfs crâniens.",
+    "tags": []
+  }
+]

@@ -1,0 +1,2052 @@
+[
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/qcm-001",
+    "type": "unique",
+    "enonce": "Dans la classification des psychotropes, les neuroleptiques sont des :",
+    "options": [
+      "Nooanaleptiques",
+      "Thymoanaleptiques",
+      "Nooleptiques",
+      "Thymoleptiques",
+      "Psychodysleptiques"
+    ],
+    "correctes": [
+      3
+    ],
+    "explication": "Les neuroleptiques figurent parmi les psycholeptiques thymoleptiques.",
+    "source": {
+      "page": 2,
+      "extrait": "Psycholeptique Thymoleptique neuroleptiques"
+    },
+    "difficulte": 2,
+    "tags": [
+      "classification psychotropes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/qcm-002",
+    "type": "multiple",
+    "enonce": "Caractéristiques de la psychose décrites dans le cours :",
+    "options": [
+      "Affection mentale avec dysfonctionnement du cerveau",
+      "Perte de contact avec la réalité",
+      "Trouble de la personnalité et de la pensée",
+      "Le patient est inconscient de ces troubles",
+      "Le patient a pleinement conscience de ses troubles"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Psychose : affection mentale, dysfonctionnement cérébral, perte de contact avec la réalité, trouble de la personnalité et de la pensée, le patient étant inconscient de ses troubles.",
+    "source": {
+      "page": 3,
+      "extrait": "Le patient est inconscient de ces troubles"
+    },
+    "difficulte": 1,
+    "tags": [
+      "psychose"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/qcm-003",
+    "type": "multiple",
+    "enonce": "Concernant la schizophrénie :",
+    "options": [
+      "C'est la catégorie diagnostiquée la plus courante des troubles psychotiques chroniques",
+      "Elle est caractérisée par une dissociation mentale",
+      "Elle comporte des hallucinations",
+      "Elle comporte un délire",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "La schizophrénie est le trouble psychotique chronique le plus courant, caractérisé par une dissociation mentale, des hallucinations et un délire.",
+    "source": {
+      "page": 3,
+      "extrait": "caractérisée par la présence d'une dissociation mentale , d'hallucinations et de délire"
+    },
+    "difficulte": 1,
+    "tags": [
+      "schizophrénie"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/qcm-004",
+    "type": "multiple",
+    "enonce": "Symptômes positifs de la schizophrénie :",
+    "options": [
+      "Hallucinations et délires",
+      "Transformation de la réalité",
+      "Agitation",
+      "Appauvrissement affectif",
+      "Retrait social"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Symptômes positifs : hallucinations et délires, transformation de la réalité, agitation. Appauvrissement affectif et retrait social sont des symptômes négatifs.",
+    "source": {
+      "page": 4,
+      "extrait": "Symptômes positifs hallucinations et délires la transformation de la réalité agitation"
+    },
+    "difficulte": 2,
+    "tags": [
+      "schizophrénie"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/qcm-005",
+    "type": "multiple",
+    "enonce": "Symptômes négatifs de la schizophrénie :",
+    "options": [
+      "Appauvrissement affectif",
+      "Retrait social",
+      "Déficit émotionnel",
+      "Hallucinations",
+      "Troubles d'apprentissage"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Symptômes négatifs : appauvrissement affectif, retrait social, déficit émotionnel. Les troubles de la pensée et d'apprentissage sont des symptômes cognitifs.",
+    "source": {
+      "page": 4,
+      "extrait": "l'appauvrissement affectif . le retrait social. déficit émotionnel"
+    },
+    "difficulte": 2,
+    "tags": [
+      "schizophrénie"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/qcm-006",
+    "type": "multiple",
+    "enonce": "Symptômes cognitifs de la schizophrénie :",
+    "options": [
+      "Trouble de la pensée",
+      "Troubles d'apprentissage",
+      "Hallucinations",
+      "Agitation",
+      "Retrait social"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Symptômes cognitifs : trouble de la pensée et troubles d'apprentissage.",
+    "source": {
+      "page": 4,
+      "extrait": "trouble de la pensée, Troubles d'apprentissage. Symptômes cognitifs"
+    },
+    "difficulte": 2,
+    "tags": [
+      "schizophrénie"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/qcm-007",
+    "type": "multiple",
+    "enonce": "Selon la théorie dopaminergique de la schizophrénie :",
+    "options": [
+      "Une augmentation de la libération de dopamine dans la région mésolimbique explique les symptômes positifs",
+      "Une diminution du tonus dopaminergique mésocortical explique les symptômes négatifs",
+      "La diminution mésocorticale se traduit par une perte de motivation",
+      "La diminution mésocorticale perturbe les fonctions exécutives",
+      "L'hyperdopaminergie mésocorticale explique les symptômes négatifs"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Hyperdopaminergie mésolimbique → symptômes positifs ; hypodopaminergie mésocorticale → symptômes négatifs (perte de motivation, perturbation des fonctions exécutives).",
+    "source": {
+      "page": 7,
+      "extrait": "Une augmentation de la libération de dopamine dans la région mésolimbique « symptômes positifs »"
+    },
+    "difficulte": 2,
+    "tags": [
+      "théorie dopaminergique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/qcm-008",
+    "type": "multiple",
+    "enonce": "Selon la théorie sérotoninergique de la schizophrénie :",
+    "options": [
+      "Il existe un déséquilibre sous-cortical",
+      "Il existe une hyperactivité sérotoninergique nigrostriée",
+      "Il existe une hyperactivité sérotoninergique mésocorticale",
+      "Il existe une hypoactivité sérotoninergique globale",
+      "La sérotonine n'intervient pas"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Théorie sérotoninergique : déséquilibre sous-cortical avec hyperactivité sérotoninergique nigrostriée et mésocorticale.",
+    "source": {
+      "page": 8,
+      "extrait": "Déséquilibre sous-cortical hyperactivité sérotoninergique nigrostriée et mésocorticale"
+    },
+    "difficulte": 2,
+    "tags": [
+      "théorie sérotoninergique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/qcm-009",
+    "type": "multiple",
+    "enonce": "La définition des neuroleptiques par Delay et Deniker (1957) repose sur :",
+    "options": [
+      "La création d'un état d'indifférence psychomotrice",
+      "La diminution de l'agressivité et de l'agitation",
+      "Une action réductrice des psychoses aiguës et chroniques",
+      "Des effets secondaires neurologiques et végétatifs",
+      "Une action sous-corticale prédominante"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Les cinq points de Delay et Deniker (1957) : indifférence psychomotrice, diminution de l'agressivité et de l'agitation, action réductrice des psychoses, effets secondaires neurologiques et végétatifs, action sous-corticale prédominante.",
+    "source": {
+      "page": 9,
+      "extrait": "En 1957, Delay et Deniker ont défini les neuroleptiques en se basant sur 5 points"
+    },
+    "difficulte": 1,
+    "tags": [
+      "définition"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/qcm-010",
+    "type": "unique",
+    "enonce": "La définition des neuroleptiques par Delay et Deniker date de :",
+    "options": [
+      "1952",
+      "1957",
+      "1960",
+      "1967",
+      "1972"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Delay et Deniker ont défini les neuroleptiques en 1957.",
+    "source": {
+      "page": 9,
+      "extrait": "En 1957, Delay et Deniker ont défini les neuroleptiques"
+    },
+    "difficulte": 1,
+    "tags": [
+      "définition"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/qcm-011",
+    "type": "unique",
+    "enonce": "Selon Delay et Deniker, l'action des neuroleptiques est :",
+    "options": [
+      "Corticale prédominante",
+      "Sous-corticale prédominante",
+      "Médullaire",
+      "Périphérique",
+      "Hypophysaire exclusive"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Cinquième point : action sous-corticale prédominante.",
+    "source": {
+      "page": 9,
+      "extrait": "Action sous-corticale prédominante"
+    },
+    "difficulte": 1,
+    "tags": [
+      "définition"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/qcm-012",
+    "type": "multiple",
+    "enonce": "Neuroleptiques de première génération :",
+    "options": [
+      "Phénothiazines (ex. lévomépromazine)",
+      "Thioxanthènes (ex. flupentixol)",
+      "Butyrophénones (ex. halopéridol)",
+      "Benzamides (ex. sulpiride)",
+      "Benzisoxazoles (ex. rispéridone)"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Première génération : phénothiazines, thioxanthènes, butyrophénones, benzamides. Les benzisoxazoles sont de seconde génération.",
+    "source": {
+      "page": 10,
+      "extrait": "NL de première génération: phénothiazines thioxanthènes butyrophénones benzamides"
+    },
+    "difficulte": 1,
+    "tags": [
+      "classification"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/qcm-013",
+    "type": "multiple",
+    "enonce": "Neuroleptiques de seconde génération :",
+    "options": [
+      "Dibenzodiazépines : clozapine",
+      "Dibenzodiazépines : olanzapine et quétiapine",
+      "Benzisoxazoles : rispéridone",
+      "Benzisoxazoles : sertindole",
+      "Butyrophénones : halopéridol"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Seconde génération : dibenzodiazépines (clozapine, olanzapine, quétiapine) et benzisoxazoles (rispéridone, sertindole).",
+    "source": {
+      "page": 10,
+      "extrait": "NL de seconde génération: dibenzodiazépines (clozapine, olanzapine et quétiapine) benzisoxazoles (rispéridone et sertindole)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "classification"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/qcm-014",
+    "type": "unique",
+    "enonce": "Le flupentixol appartient à la classe des :",
+    "options": [
+      "Phénothiazines",
+      "Thioxanthènes",
+      "Butyrophénones",
+      "Benzamides",
+      "Benzisoxazoles"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Le flupentixol est un thioxanthène (NL de première génération).",
+    "source": {
+      "page": 10,
+      "extrait": "thioxanthènes (ex: flupentixol)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "classification"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/qcm-015",
+    "type": "unique",
+    "enonce": "Le sulpiride appartient à la classe des :",
+    "options": [
+      "Phénothiazines",
+      "Thioxanthènes",
+      "Butyrophénones",
+      "Benzamides",
+      "Dibenzodiazépines"
+    ],
+    "correctes": [
+      3
+    ],
+    "explication": "Le sulpiride est un benzamide.",
+    "source": {
+      "page": 10,
+      "extrait": "benzamides (ex: sulpiride)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "classification"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/qcm-016",
+    "type": "multiple",
+    "enonce": "Concernant la structure des phénothiazines :",
+    "options": [
+      "Elles forment une famille structurale très homogène",
+      "Elles possèdent une structure tricyclique",
+      "Elles résultent de la fusion d'un cycle thiazine-1,4 avec deux cycles benzéniques",
+      "Le noyau est aussi appelé dibenzoparathiazine",
+      "Elles résultent de la fusion d'une diazépine avec deux benzènes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Phénothiazines : famille homogène, tricyclique, fusion d'un cycle thiazine-1,4 avec deux benzènes (10H-phénothiazine ou dibenzoparathiazine).",
+    "source": {
+      "page": 11,
+      "extrait": "structure tricyclique correspondant à la fusion d'un cycle thiazine-1,4 avec deux cycles benzéniques"
+    },
+    "difficulte": 1,
+    "tags": [
+      "phénothiazines"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/qcm-017",
+    "type": "multiple",
+    "enonce": "Exigences structurales des phénothiazines neuroleptiques :",
+    "options": [
+      "En position 2 : un groupement attracteur d'électrons de faible encombrement (Cl, CN, CF3)",
+      "Sur l'azote 10 : une chaîne alkylamine à 3 atomes de carbone",
+      "L'amine terminale est tertiaire",
+      "En position 2 : un groupement donneur d'électrons volumineux",
+      "La chaîne porte 2 atomes de carbone"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Position 2 : groupe électroattracteur peu encombré (Cl, CN, CF3) ; N10 : chaîne alkylamine à 3 carbones avec amine tertiaire.",
+    "source": {
+      "page": 12,
+      "extrait": "Un groupement attracteur d'électrons, de faible encombrement : Cl, CN, CF3"
+    },
+    "difficulte": 1,
+    "tags": [
+      "phénothiazines"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/qcm-018",
+    "type": "unique",
+    "enonce": "Pour la DCI, les phénothiazines se terminent par le suffixe :",
+    "options": [
+      "-azine",
+      "-tixol",
+      "-péridol",
+      "-pride",
+      "-apine"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Les phénothiazines se terminent par le suffixe « azine ».",
+    "source": {
+      "page": 12,
+      "extrait": "les phénothiazines se terminent par le suffixe « azine »"
+    },
+    "difficulte": 1,
+    "tags": [
+      "phénothiazines"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/qcm-019",
+    "type": "multiple",
+    "enonce": "Les phénothiazines neuroleptiques sont classées en trois groupes :",
+    "options": [
+      "Phénothiazines à chaîne ouverte (aliphatique)",
+      "Phénothiazines à chaîne pipéridinique",
+      "Phénothiazines à chaîne pipérazinique",
+      "Phénothiazines à chaîne morpholinique",
+      "Phénothiazines à chaîne imidazolique"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Trois groupes : chaîne ouverte (aliphatique), chaîne pipéridinique, chaîne pipérazinique.",
+    "source": {
+      "page": 13,
+      "extrait": "1. Phénothiazines à chaine ouverte (aliphatique). 2. Phénothiazines à chaine pipéridinique. 3. Phénothiazines à chaine pipérazinique"
+    },
+    "difficulte": 1,
+    "tags": [
+      "phénothiazines"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/qcm-020",
+    "type": "unique",
+    "enonce": "L'activité neuroleptique des phénothiazines augmente dans l'ordre :",
+    "options": [
+      "Pipéraziniques < pipéridiniques < aliphatiques",
+      "Aliphatiques < pipéridiniques < pipéraziniques",
+      "Pipéridiniques < aliphatiques < pipéraziniques",
+      "Aliphatiques < pipéraziniques < pipéridiniques",
+      "L'activité est identique dans les trois groupes"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "On admet que l'activité neuroleptique augmente en passant des composés aliphatiques aux pipéridiniques puis aux pipéraziniques.",
+    "source": {
+      "page": 13,
+      "extrait": "l'activité neuroleptique augmente lorsque l'on passe des composés aliphatiques aux composés pipéridiniques puis aux pipéraziniques"
+    },
+    "difficulte": 2,
+    "tags": [
+      "phénothiazines"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/qcm-021",
+    "type": "multiple",
+    "enonce": "Concernant la chlorpromazine :",
+    "options": [
+      "Son nom IUPAC est 3-(2-chloro-10H-phénothiazin-10-yl)-N,N-diméthylpropan-1-amine",
+      "Son nom déposé est Largactil",
+      "C'est une phénothiazine à chaîne ouverte",
+      "Elle porte un chlore en position 2",
+      "C'est une phénothiazine à chaîne pipérazinique"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Chlorpromazine (Largactil) : phénothiazine à chaîne ouverte, chlore en 2, chaîne diméthylaminopropyle.",
+    "source": {
+      "page": 14,
+      "extrait": "IUPAC : 3-(2-chloro-10H-phénothiazin-10-yl)-N,N-diméthylpropan-1-amine DCI : Chlorpromazine. ND : Largactil"
+    },
+    "difficulte": 1,
+    "tags": [
+      "chlorpromazine"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/qcm-022",
+    "type": "multiple",
+    "enonce": "Concernant la lévomépromazine :",
+    "options": [
+      "Son nom déposé est Nozinan",
+      "C'est une phénothiazine à chaîne ouverte",
+      "Elle porte un groupement méthoxy en position 2",
+      "Sa chaîne latérale porte un méthyle supplémentaire",
+      "Elle porte un chlore en position 2"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Lévomépromazine (Nozinan) : 3-(2-méthoxy-10H-phénothiazin-10-yl)-N,N,2-triméthylpropan-1-amine, chaîne ouverte avec méthyle sur la chaîne.",
+    "source": {
+      "page": 15,
+      "extrait": "IUPAC : 3-(2-méthoxy-10H-phénothiazin-10-yl)-N,N,2-triméthylpropan-1-amine. DCI : Lévomépromazine. ND : Nozinan"
+    },
+    "difficulte": 2,
+    "tags": [
+      "lévomépromazine"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/qcm-023",
+    "type": "multiple",
+    "enonce": "Concernant la pipotiazine :",
+    "options": [
+      "Son nom déposé est Piportil",
+      "C'est une phénothiazine à chaîne pipéridinique",
+      "Elle porte un groupement sulfonamide en position 2",
+      "Sa pipéridine porte un hydroxyéthyle",
+      "C'est une phénothiazine à chaîne pipérazinique"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Pipotiazine (Piportil) : 10-[3-[4-(2-hydroxyéthyl)pipéridin-1-yl]propyl]-N,N-diméthylphénothiazine-2-sulfonamide, chaîne pipéridinique.",
+    "source": {
+      "page": 16,
+      "extrait": "DCI : Pipotiazine. ND : Piportil"
+    },
+    "difficulte": 2,
+    "tags": [
+      "pipotiazine"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/qcm-024",
+    "type": "multiple",
+    "enonce": "Concernant la fluphénazine :",
+    "options": [
+      "Son nom déposé est Moditen",
+      "C'est une phénothiazine à chaîne pipérazinique",
+      "Elle porte un groupement trifluorométhyle en position 2",
+      "Sa pipérazine porte un hydroxyéthyle",
+      "Elle porte un chlore en position 2"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Fluphénazine (Moditen) : 2-[4-[3-[2-(trifluorométhyl)-10H-phénothiazin-10-yl]propyl]pipérazin-1-yl]éthanol, chaîne pipérazinique.",
+    "source": {
+      "page": 17,
+      "extrait": "DCI : Fluphénazine. ND : Moditen"
+    },
+    "difficulte": 2,
+    "tags": [
+      "fluphénazine"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/qcm-025",
+    "type": "unique",
+    "enonce": "Le Nozinan® correspond à :",
+    "options": [
+      "La chlorpromazine",
+      "La lévomépromazine",
+      "La pipotiazine",
+      "La fluphénazine",
+      "Le flupentixol"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Nozinan = lévomépromazine.",
+    "source": {
+      "page": 15,
+      "extrait": "DCI : Lévomépromazine. ND : Nozinan"
+    },
+    "difficulte": 1,
+    "tags": [
+      "spécialités"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/qcm-026",
+    "type": "unique",
+    "enonce": "Le Piportil® correspond à :",
+    "options": [
+      "La pipotiazine",
+      "La fluphénazine",
+      "La chlorpromazine",
+      "Le zuclopenthixol",
+      "L'halopéridol"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Piportil = pipotiazine (phénothiazine à chaîne pipéridinique).",
+    "source": {
+      "page": 16,
+      "extrait": "DCI : Pipotiazine. ND : Piportil"
+    },
+    "difficulte": 1,
+    "tags": [
+      "spécialités"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/qcm-027",
+    "type": "multiple",
+    "enonce": "La synthèse des dérivés phénothiaziniques se fait en trois phases :",
+    "options": [
+      "Synthèse du noyau phénothiazine",
+      "Synthèse de la chaîne latérale",
+      "Fixation de la chaîne latérale sur le noyau",
+      "Oxydation finale du soufre",
+      "Nitration du noyau"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Trois phases : synthèse du noyau, synthèse de la chaîne latérale, fixation de la chaîne sur le noyau.",
+    "source": {
+      "page": 18,
+      "extrait": "1. Synthèse du noyau phénothiazine. 2. Synthèse de la chaine latérale. 3. Fixation de la chaine latérale"
+    },
+    "difficulte": 1,
+    "tags": [
+      "synthèse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/qcm-028",
+    "type": "multiple",
+    "enonce": "Obtention de la diphénylamine (synthèse du noyau phénothiazine) :",
+    "options": [
+      "Par action du chlorure d'anilinium sur l'aniline",
+      "Cette réaction libère de l'ammoniac puis de l'acide chlorhydrique",
+      "Par chauffage du bromobenzène et de l'aniline en présence de cuivre à 180 °C",
+      "Cette seconde voie libère de l'acide bromhydrique",
+      "Par action du chlorure de thionyle sur l'aniline"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Deux voies : chlorure d'anilinium + aniline (libération de NH3 puis HCl) ; bromobenzène + aniline, Cu, 180 °C (libération de HBr).",
+    "source": {
+      "page": 19,
+      "extrait": "Action du chlorure d'anilinium sur l'aniline"
+    },
+    "difficulte": 2,
+    "tags": [
+      "synthèse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/qcm-029",
+    "type": "multiple",
+    "enonce": "Thionation de la diphénylamine :",
+    "options": [
+      "Elle se fait par chauffage en présence de soufre à 170-180 °C",
+      "Elle libère du sulfure d'hydrogène (H2S)",
+      "Elle conduit à la phénothiazine (dibenzoparathiazine)",
+      "Elle nécessite du cuivre comme catalyseur à 180 °C",
+      "Elle libère de l'acide chlorhydrique"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "La thionation de la diphénylamine (soufre, chauffage 170-180 °C) donne la phénothiazine (dibenzoparathiazine) avec libération de H2S.",
+    "source": {
+      "page": 21,
+      "extrait": "Chauffage 170-180°C + H2S Dibenzoparathiazine Phénothiazine"
+    },
+    "difficulte": 2,
+    "tags": [
+      "synthèse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/qcm-030",
+    "type": "multiple",
+    "enonce": "Synthèse de la chaîne latérale non substituée :",
+    "options": [
+      "Elle part du prop-2-èn-1-ol",
+      "Elle utilise la N,N-diméthylamine",
+      "Elle conduit au 3-(diméthylamino)propan-1-ol",
+      "Elle libère HX",
+      "Elle part de l'aniline"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Chaîne non substituée : prop-2-èn-1-ol + N,N-diméthylamine → 3-(diméthylamino)propan-1-ol, avec libération de HX.",
+    "source": {
+      "page": 22,
+      "extrait": "Prop-2-èn-1-ol N,N-diméthylamine 3-(diméthylamino)propan-1-ol"
+    },
+    "difficulte": 2,
+    "tags": [
+      "synthèse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/qcm-031",
+    "type": "multiple",
+    "enonce": "Fixation de la chaîne latérale sur le noyau phénothiazine :",
+    "options": [
+      "Elle passe par une chloroamine",
+      "L'aminoalcool est transformé en chloroamine par le chlorure de thionyle",
+      "L'azote du noyau est préalablement déprotoné par l'amidure de sodium",
+      "La chaîne se fixe sur l'azote 10 du noyau",
+      "L'aminoalcool réagit directement sans activation"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "L'aminoalcool est chloré par SOCl2 (chloroamine) ; l'azote N10 est déprotoné par NaNH2 puis alkylé par la chloroamine.",
+    "source": {
+      "page": 23,
+      "extrait": "Passage par une chloroamine. Chlorure de thionyle Chloroamine NaNH2 Amidure de sodium"
+    },
+    "difficulte": 2,
+    "tags": [
+      "synthèse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/qcm-032",
+    "type": "multiple",
+    "enonce": "Concernant la synthèse de la chlorpromazine :",
+    "options": [
+      "Elle part de la 3-chlorodiphénylamine",
+      "La thionation se fait avec du soufre en présence d'iode (I2)",
+      "On utilise l'amidure de sodium (NaNH2)",
+      "L'agent alkylant est la 3-chloro-N,N-diméthylpropan-1-amine",
+      "L'agent alkylant est le bromure de bromoacétyle"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Synthèse de la chlorpromazine : 3-chlorodiphénylamine, thionation (S2/I2), puis alkylation par la 3-chloro-N,N-diméthylpropan-1-amine en présence de NaNH2.",
+    "source": {
+      "page": 25,
+      "extrait": "3-chlorodiphénylamine NaNH2 3-chloro-N,N-dimethylpropan-1-amine"
+    },
+    "difficulte": 2,
+    "tags": [
+      "synthèse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/qcm-033",
+    "type": "unique",
+    "enonce": "Dans la synthèse de la chlorpromazine, le rôle de l'amidure de sodium est :",
+    "options": [
+      "D'arracher le proton de l'azote du noyau phénothiazine",
+      "De chlorer l'aminoalcool",
+      "De catalyser la thionation",
+      "De réduire le carbonyle",
+      "De libérer H2S"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "L'amidure de sodium déprotone l'azote du noyau phénothiazine, permettant l'alkylation par la chloroamine.",
+    "source": {
+      "page": 24,
+      "extrait": "+ Na+ NH2- Amidure de sodium"
+    },
+    "difficulte": 2,
+    "tags": [
+      "synthèse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/qcm-034",
+    "type": "unique",
+    "enonce": "Dans la synthèse des phénothiazines, le chlorure de thionyle sert à :",
+    "options": [
+      "Transformer l'aminoalcool en chloroamine",
+      "Déprotoner l'azote du noyau",
+      "Réaliser la thionation",
+      "Préparer la diphénylamine",
+      "Oxyder le soufre"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "L'aminoalcool est transformé en chloroamine par le chlorure de thionyle.",
+    "source": {
+      "page": 23,
+      "extrait": "Chlorure de thionyle Chloroamine"
+    },
+    "difficulte": 2,
+    "tags": [
+      "synthèse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/qcm-035",
+    "type": "multiple",
+    "enonce": "RSA des phénothiazines – position 2 :",
+    "options": [
+      "Un groupement attracteur d'électrons y est nécessaire",
+      "Cl, COCH3, CF3 et SO2N(CH3)2 conviennent",
+      "Un substituant sur une autre position réduit l'activité",
+      "Un groupement OH réduit l'activité",
+      "Un groupement OH en 2 augmente l'activité"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "En position 2 : groupe électroattracteur (Cl, COCH3, CF3, SO2N(CH3)2) ; en autre position l'activité est réduite ; OH réduit l'activité.",
+    "source": {
+      "page": 26,
+      "extrait": "En position 2 Cl, COCH3, CF3, SO2N(CH3)2 En autre position réduit l'activité OH réduit l'activité"
+    },
+    "difficulte": 2,
+    "tags": [
+      "RSA"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/qcm-036",
+    "type": "multiple",
+    "enonce": "RSA des phénothiazines – chaîne latérale :",
+    "options": [
+      "Elle détermine l'activité antipsychotique",
+      "Elle doit comporter 3 atomes de carbone",
+      "L'amine terminale doit être tertiaire",
+      "Une chaîne à 2 carbones donne l'activité antihistaminique de la prométhazine",
+      "Elle doit comporter 4 atomes de carbone"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "La chaîne latérale détermine l'activité antipsychotique : 3 carbones et amine tertiaire. La prométhazine, à chaîne ramifiée plus courte, est antihistaminique.",
+    "source": {
+      "page": 26,
+      "extrait": "une chaîne alkyl amine comportant 3 atomes de carbone avec une amine tertiaire"
+    },
+    "difficulte": 2,
+    "tags": [
+      "RSA"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/qcm-037",
+    "type": "multiple",
+    "enonce": "Comparaison chlorpromazine / prométhazine :",
+    "options": [
+      "La chlorpromazine est un neuroleptique",
+      "La prométhazine est un antihistaminique",
+      "Elles diffèrent par la chaîne latérale et le substituant en 2",
+      "La prométhazine est un neuroleptique puissant",
+      "La chlorpromazine est dépourvue de chlore"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "La chlorpromazine (Cl en 2, chaîne propylamine) est neuroleptique ; la prométhazine (sans substituant en 2, chaîne ramifiée) est antihistaminique.",
+    "source": {
+      "page": 26,
+      "extrait": "Chlorpromazine Neuroleptique. Prométhazine Antihistaminique"
+    },
+    "difficulte": 2,
+    "tags": [
+      "RSA"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/qcm-038",
+    "type": "multiple",
+    "enonce": "RSA des phénothiazines – substituant R' sur la chaîne latérale :",
+    "options": [
+      "H donne une bonne activité",
+      "Un méthyle donne une activité variable et crée un centre chiral",
+      "Pour l'énantiomère, L est plus actif que D",
+      "Un groupement encombré diminue l'activité",
+      "Un groupement encombré augmente l'activité"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Sur la chaîne : H → bonne activité ; méthyle → activité variable et centre chiral (L > D) ; groupement encombré → diminution de l'activité.",
+    "source": {
+      "page": 27,
+      "extrait": "Méthyle: activité variable et la création d'un centre chiral (L>D)"
+    },
+    "difficulte": 3,
+    "tags": [
+      "RSA"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/qcm-039",
+    "type": "multiple",
+    "enonce": "RSA des phénothiazines – azote terminal :",
+    "options": [
+      "L'amine doit être tertiaire",
+      "Les substituants encombrés diminuent l'activité",
+      "Un noyau pipérazinique améliore l'activité",
+      "Un noyau pipéridinique améliore l'activité",
+      "Une amine primaire est préférable"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Sur l'azote : amine tertiaire, substituants encombrés délétères, noyau pipérazinique ou pipéridinique améliorant l'activité.",
+    "source": {
+      "page": 27,
+      "extrait": "Amine tertiaire Substituants encombrés diminuent l'activité un noyau pipérazinique ou pipéridiniquene améliore l'activité"
+    },
+    "difficulte": 2,
+    "tags": [
+      "RSA"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/qcm-040",
+    "type": "multiple",
+    "enonce": "Concernant les thioxanthènes :",
+    "options": [
+      "Ce sont des molécules tricycliques",
+      "Leur squelette de base est le 9H-thioxanthène",
+      "Ils sont considérés comme des analogues structuraux des phénothiazines",
+      "L'azote du noyau est remplacé par un carbone sp2",
+      "L'azote du noyau est remplacé par un oxygène"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Thioxanthènes : tricycliques (9H-thioxanthène), analogues des phénothiazines où l'azote est remplacé par un carbone sp2.",
+    "source": {
+      "page": 28,
+      "extrait": "9H-thioxanthène analogues structuraux des phénothiazines remplacement de l'atome d'azote par un carbone sp2"
+    },
+    "difficulte": 1,
+    "tags": [
+      "thioxanthènes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/qcm-041",
+    "type": "multiple",
+    "enonce": "Concernant le chlorprothixène :",
+    "options": [
+      "C'est l'analogue thioxanthénique de la chlorpromazine",
+      "Il n'est plus inscrit sur le Vidal",
+      "Il possède une double liaison exocyclique",
+      "C'est une phénothiazine",
+      "Il est dépourvu de chlore"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Le chlorprothixène, analogue de la chlorpromazine avec un carbone sp2 à la place de l'azote, n'est plus inscrit sur le Vidal.",
+    "source": {
+      "page": 29,
+      "extrait": "Le chlorprothixène n'est plus inscrit sur le Vidal"
+    },
+    "difficulte": 2,
+    "tags": [
+      "thioxanthènes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/qcm-042",
+    "type": "multiple",
+    "enonce": "Principales molécules thioxanthéniques :",
+    "options": [
+      "Zuclopenthixol (Clopixol)",
+      "Flupentixol (Fluanxol)",
+      "Le zuclopenthixol porte un chlore",
+      "Le flupentixol porte un groupement trifluorométhyle",
+      "Halopéridol (Haldol)"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Zuclopenthixol (Clopixol, Cl) et flupentixol (Fluanxol, CF3) sont des thioxanthènes à chaîne pipérazinique hydroxyéthylée ; l'halopéridol est une butyrophénone.",
+    "source": {
+      "page": 31,
+      "extrait": "DCI : Flupentixol ND : Fluanxol"
+    },
+    "difficulte": 2,
+    "tags": [
+      "thioxanthènes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/qcm-043",
+    "type": "unique",
+    "enonce": "Le Clopixol® correspond à :",
+    "options": [
+      "Le flupentixol",
+      "Le zuclopenthixol",
+      "Le chlorprothixène",
+      "L'halopéridol",
+      "Le pimozide"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Clopixol = zuclopenthixol.",
+    "source": {
+      "page": 30,
+      "extrait": "DCI : Zuclopenthixol. ND: Clopixol"
+    },
+    "difficulte": 1,
+    "tags": [
+      "spécialités"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/qcm-044",
+    "type": "multiple",
+    "enonce": "Concernant les butyrophénones :",
+    "options": [
+      "Ce sont des dérivés de l'amino-4-fluorobutyrophénone",
+      "L'azote aminé tertiaire est engagé dans un cycle pipéridiné ou pipéraziné",
+      "Ce sont des cétones α-aromatiques (phénones)",
+      "Leur chaîne latérale comporte 4 carbones",
+      "Leur chaîne latérale comporte 3 carbones"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Butyrophénones : dérivés de l'amino-4-fluorobutyrophénone, azote tertiaire inclus dans une pipéridine ou une pipérazine, cétones α-aromatiques à chaîne de 4 carbones.",
+    "source": {
+      "page": 32,
+      "extrait": "Ce sont des cétones α-aromatiques (phénones) dont la chaîne latérale comporte 4 carbones"
+    },
+    "difficulte": 1,
+    "tags": [
+      "butyrophénones"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/qcm-045",
+    "type": "multiple",
+    "enonce": "Classification des butyrophénones :",
+    "options": [
+      "Butyrophénones pipéridinées",
+      "Butyrophénones pipérazinées",
+      "Dérivés apparentés",
+      "Butyrophénones morpholinées",
+      "Benzamides"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Trois groupes : butyrophénones pipéridinées, pipérazinées et dérivés apparentés.",
+    "source": {
+      "page": 33,
+      "extrait": "On distinguera trois groupes : butyrophénones pipéridinées, butyrophénones pipérazinées et dérivés apparentés"
+    },
+    "difficulte": 1,
+    "tags": [
+      "butyrophénones"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/qcm-046",
+    "type": "multiple",
+    "enonce": "Concernant l'halopéridol :",
+    "options": [
+      "C'est le chef de file des butyrophénones",
+      "Son nom déposé est Haldol",
+      "C'est une butyrophénone pipéridinée",
+      "Il porte un fluor en para sur le noyau de la cétone",
+      "C'est une butyrophénone pipérazinée"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Halopéridol (Haldol) : chef de file des butyrophénones, pipéridinée, avec un fluor en para du noyau cétonique et une pipéridine portant un OH et un phényle chloré.",
+    "source": {
+      "page": 33,
+      "extrait": "Le chef de file des butyrophénones est l'halopéridol. DCI : Halopéridol. ND : Haldol"
+    },
+    "difficulte": 1,
+    "tags": [
+      "halopéridol"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/qcm-047",
+    "type": "unique",
+    "enonce": "La butyrophénone pipérazinée citée dans le cours est :",
+    "options": [
+      "L'halopéridol (Haldol)",
+      "La fluanisone (Sédalande)",
+      "Le pimozide (Orap)",
+      "Le sulpiride (Dogmatil)",
+      "Le flupentixol (Fluanxol)"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "La fluanisone (Sédalande) est la butyrophénone pipérazinée présentée, avec une pipérazine portant un phényle o-méthoxylé.",
+    "source": {
+      "page": 34,
+      "extrait": "DCI : Fluanisone. ND : SEDALANDE"
+    },
+    "difficulte": 2,
+    "tags": [
+      "butyrophénones"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/qcm-048",
+    "type": "multiple",
+    "enonce": "Concernant le pimozide (Orap) :",
+    "options": [
+      "C'est un dérivé apparenté aux butyrophénones",
+      "La fonction carbonyle y est remplacée par un noyau p-fluorophényle",
+      "Il comporte deux atomes de fluor",
+      "Il comporte un noyau benzimidazolone",
+      "Il possède une fonction cétone"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Pimozide (Orap) : dérivé apparenté où le carbonyle est remplacé par un second noyau p-fluorophényle ; il porte un cycle benzimidazolinone.",
+    "source": {
+      "page": 35,
+      "extrait": "Ce sont des analogues de structure où la fonction carbonyle est remplacée par un noyau p-fluorophényle. DCI : Pimozide. ND : ORAP"
+    },
+    "difficulte": 2,
+    "tags": [
+      "pimozide"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/qcm-049",
+    "type": "multiple",
+    "enonce": "RSA des butyrophénones :",
+    "options": [
+      "La partie pipéridine ou pipérazine est essentielle à l'activité neuroleptique",
+      "La longueur de la chaîne à 4 carbones est essentielle",
+      "La présence du carbonyle est essentielle",
+      "Le carbonyle peut être remplacé par un second noyau para-fluorophényle",
+      "Le fluor en para n'est pas nécessaire"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "RSA : pipéridine/pipérazine et chaîne à 4 carbones essentielles ; carbonyle essentiel mais remplaçable par un second p-fluorophényle ; toutes les butyrophénones doivent porter un fluor en para.",
+    "source": {
+      "page": 36,
+      "extrait": "La partie pipéridine ou pipérazine est essentielle à l'activité neuroleptique, ainsi que la longueur de la chaîne à 4 carbones"
+    },
+    "difficulte": 2,
+    "tags": [
+      "RSA"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/qcm-050",
+    "type": "multiple",
+    "enonce": "Toujours concernant la RSA des butyrophénones :",
+    "options": [
+      "Modifier le groupe carbonyle fait décroître l'activité",
+      "Les substituants X et R peuvent être très variés",
+      "Toutes les butyrophénones doivent avoir un atome de fluor en para",
+      "Les substituants X et R sont strictement imposés",
+      "Le fluor doit être en méta"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Modifier le carbonyle diminue l'activité ; X et R sont très variés ; le fluor en para est obligatoire.",
+    "source": {
+      "page": 36,
+      "extrait": "Toutes les butyrophénones doivent avoir un atome de fluor en para"
+    },
+    "difficulte": 2,
+    "tags": [
+      "RSA"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/qcm-051",
+    "type": "multiple",
+    "enonce": "Concernant la structure des benzamides (orthopramides, ortho-anisamides) :",
+    "options": [
+      "Un noyau benzénique relié en C1 par une liaison amide à une chaîne alkylamine tertiaire",
+      "La chaîne alkylamine est souvent incluse dans un cycle",
+      "Ils présentent généralement un carbone asymétrique",
+      "Les composés utilisés sont racémiques",
+      "Ils présentent en ortho un groupement méthoxy"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Benzamides : noyau benzénique relié en C1 par une liaison amide à une alkylamine tertiaire souvent cyclique, carbone asymétrique (composés racémiques), méthoxy en ortho.",
+    "source": {
+      "page": 37,
+      "extrait": "Ces composés présentent en ortho un groupement méthoxy"
+    },
+    "difficulte": 2,
+    "tags": [
+      "benzamides"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/qcm-052",
+    "type": "multiple",
+    "enonce": "Propriétés des benzamides :",
+    "options": [
+      "Ils sont peu sédatifs",
+      "Ils sont très lipophiles",
+      "Ils ont une action rapide",
+      "Ils ont peu d'effets secondaires",
+      "Ils sont très sédatifs"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Les benzamides sont peu sédatifs, très lipophiles (action rapide) et ont peu d'effets secondaires.",
+    "source": {
+      "page": 38,
+      "extrait": "Ces composés sont peu sédatifs. Etant très lipophiles, ils ont une action rapide. Ils ont peu d'effets secondaires"
+    },
+    "difficulte": 1,
+    "tags": [
+      "benzamides"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/qcm-053",
+    "type": "multiple",
+    "enonce": "Concernant l'activité antiémétique des benzamides :",
+    "options": [
+      "Tous sont antiémétiques à des degrés variables",
+      "Le métoclopramide (Primpéran®) n'est qu'antiémétique",
+      "Le métoclopramide est un neuroleptique majeur",
+      "Aucun n'est antiémétique",
+      "L'activité antiémétique est identique pour tous"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Tous les benzamides sont antiémétiques à des degrés variables ; le métoclopramide (Primpéran®) n'est qu'antiémétique.",
+    "source": {
+      "page": 38,
+      "extrait": "Ainsi le métoclopramide (PRIMPERAN®) n'est qu'antiémétique"
+    },
+    "difficulte": 2,
+    "tags": [
+      "benzamides"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/qcm-054",
+    "type": "multiple",
+    "enonce": "Les quatre benzamides utilisés comme neuroleptiques sont :",
+    "options": [
+      "Sulpiride",
+      "Amisulpride",
+      "Sultopride",
+      "Tiapride",
+      "Métoclopramide"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Quatre benzamides neuroleptiques : sulpiride, amisulpride, sultopride et tiapride. Le métoclopramide n'est qu'antiémétique.",
+    "source": {
+      "page": 39,
+      "extrait": "4 produits sont utilisés comme neuroleptiques : sulpiride, amisulpride, sultopride et tiapride"
+    },
+    "difficulte": 1,
+    "tags": [
+      "benzamides"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/qcm-055",
+    "type": "unique",
+    "enonce": "Le Dogmatil® / Synedil® correspond à :",
+    "options": [
+      "Le sulpiride",
+      "L'amisulpride",
+      "Le tiapride",
+      "Le sultopride",
+      "Le métoclopramide"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Sulpiride : Dogmatil® / Synedil®.",
+    "source": {
+      "page": 39,
+      "extrait": "Sulpiride DOGMATIL® SYNEDIL®"
+    },
+    "difficulte": 1,
+    "tags": [
+      "spécialités"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/qcm-056",
+    "type": "unique",
+    "enonce": "Le Solian® correspond à :",
+    "options": [
+      "Le sulpiride",
+      "L'amisulpride",
+      "Le tiapride",
+      "Le sultopride",
+      "Le pimozide"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Amisulpride : Solian®.",
+    "source": {
+      "page": 39,
+      "extrait": "Amisulpride SOLIAN®"
+    },
+    "difficulte": 1,
+    "tags": [
+      "spécialités"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/qcm-057",
+    "type": "unique",
+    "enonce": "Le mécanisme d'action des neuroleptiques typiques est :",
+    "options": [
+      "Le blocage des récepteurs D2 post-synaptiques",
+      "Le blocage des récepteurs 5-HT2A exclusivement",
+      "L'inhibition de la MAO",
+      "L'inhibition de la recapture de la dopamine",
+      "L'activation des récepteurs D2"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Les neuroleptiques typiques bloquent les récepteurs D2 post-synaptiques.",
+    "source": {
+      "page": 40,
+      "extrait": "Blocage des récepteurs D2 post-synaptiques"
+    },
+    "difficulte": 1,
+    "tags": [
+      "mécanisme"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/qcm-058",
+    "type": "multiple",
+    "enonce": "Concernant l'effet antipsychotique des neuroleptiques classiques :",
+    "options": [
+      "Il repose sur une action antagoniste non sélective des récepteurs D2 post-synaptiques",
+      "L'effet thérapeutique résulte principalement du blocage de la voie mésolimbique",
+      "Ce blocage prévient les symptômes positifs",
+      "Il s'accompagne du blocage simultané des autres voies dopaminergiques",
+      "Il est sélectif de la voie mésolimbique"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "L'action antagoniste D2 non sélective explique l'effet thérapeutique (voie mésolimbique, symptômes positifs) mais aussi le blocage des autres voies dopaminergiques.",
+    "source": {
+      "page": 41,
+      "extrait": "action antagoniste non sélective au niveau des récepteurs dopaminergiques postsynaptiques (D2) mésolimbique"
+    },
+    "difficulte": 2,
+    "tags": [
+      "mécanisme"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/qcm-059",
+    "type": "multiple",
+    "enonce": "Conséquences du blocage des autres voies dopaminergiques :",
+    "options": [
+      "Voie mésocorticale : accentuation des symptômes négatifs",
+      "Voie nigrostriée : symptomatologie extrapyramidale",
+      "Voie tubéro-infundibulaire : troubles neuro-endocriniens",
+      "Syndrome aménorrhée-galactorrhée par blocage tubéro-infundibulaire",
+      "Voie nigrostriée : syndrome aménorrhée-galactorrhée"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Mésocorticale : symptômes négatifs accentués ; nigrostriée (motricité involontaire) : syndrome extrapyramidal ; tubéro-infundibulaire : hyperprolactinémie et syndrome aménorrhée-galactorrhée.",
+    "source": {
+      "page": 42,
+      "extrait": "Tubéro-infundibulaire : s'exprime par des troubles neuro-endocriniens tels que le syndrome aménorrhée-galactorrhée"
+    },
+    "difficulte": 2,
+    "tags": [
+      "effets indésirables"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/qcm-060",
+    "type": "unique",
+    "enonce": "Le syndrome extrapyramidal sous neuroleptiques résulte du blocage de la voie :",
+    "options": [
+      "Mésolimbique",
+      "Mésocorticale",
+      "Nigrostriée",
+      "Tubéro-infundibulaire",
+      "Sérotoninergique"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "La voie nigrostriée contrôle la motricité involontaire : son blocage est responsable de la symptomatologie extrapyramidale.",
+    "source": {
+      "page": 42,
+      "extrait": "Nigrostriée : Le blocage est responsable de la symptomatologie extra-pyramidale"
+    },
+    "difficulte": 1,
+    "tags": [
+      "effets indésirables"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/qcm-061",
+    "type": "unique",
+    "enonce": "Le syndrome aménorrhée-galactorrhée sous neuroleptiques résulte du blocage de la voie :",
+    "options": [
+      "Mésolimbique",
+      "Mésocorticale",
+      "Nigrostriée",
+      "Tubéro-infundibulaire",
+      "Nigrostriée et mésolimbique"
+    ],
+    "correctes": [
+      3
+    ],
+    "explication": "La voie tubéro-infundibulaire inhibe normalement la production de prolactine : son blocage entraîne des troubles neuro-endocriniens.",
+    "source": {
+      "page": 42,
+      "extrait": "Tubéro-infundibulaire : Ce système a une action inhibitrice sur la production et la libération de la prolactine"
+    },
+    "difficulte": 1,
+    "tags": [
+      "effets indésirables"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/qcm-062",
+    "type": "multiple",
+    "enonce": "Problèmes non résolus par les antipsychotiques typiques :",
+    "options": [
+      "L'existence de résistances (inefficacité chez certains sujets)",
+      "La présence de syndromes extrapyramidaux",
+      "Le traitement difficile des signes négatifs",
+      "Ces observations ont orienté la recherche vers les antipsychotiques atypiques",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Résistances, syndromes extrapyramidaux et difficulté de traitement des signes négatifs ont orienté la recherche vers les antipsychotiques atypiques.",
+    "source": {
+      "page": 44,
+      "extrait": "l'existence de résistances, la présence de syndromes extrapyramidaux, le traitement des signes négatifs, qui reste difficile"
+    },
+    "difficulte": 1,
+    "tags": [
+      "atypiques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/qcm-063",
+    "type": "multiple",
+    "enonce": "Concernant les dibenzodiazépines :",
+    "options": [
+      "Ce sont des molécules tricycliques",
+      "Elles résultent de la fusion d'une diazépine substituée avec deux cycles benzéniques",
+      "La clozapine en fait partie",
+      "L'olanzapine en fait partie",
+      "Ce sont des neuroleptiques de première génération"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Dibenzodiazépines (seconde génération) : tricycliques issues de la fusion d'une diazépine substituée avec deux cycles benzéniques (clozapine, olanzapine, quétiapine).",
+    "source": {
+      "page": 45,
+      "extrait": "Ce sont des molécules tricycliques résultant de la fusion d'une diazépine substituée avec deux cycles benzèniques"
+    },
+    "difficulte": 1,
+    "tags": [
+      "atypiques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/qcm-064",
+    "type": "multiple",
+    "enonce": "Concernant la rispéridone :",
+    "options": [
+      "C'est un benzisoxazole",
+      "Son nom déposé est Risperdal",
+      "C'est un neuroleptique de seconde génération",
+      "Elle comporte un atome de fluor",
+      "C'est une dibenzodiazépine"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Rispéridone (Risperdal) : benzisoxazole fluoré, neuroleptique de seconde génération.",
+    "source": {
+      "page": 46,
+      "extrait": "DCI : Rispéridone ND : RISPERDAL"
+    },
+    "difficulte": 1,
+    "tags": [
+      "rispéridone"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/qcm-065",
+    "type": "multiple",
+    "enonce": "Mécanisme d'action des neuroleptiques atypiques :",
+    "options": [
+      "Ce sont des antagonistes mixtes sérotonine et dopamine",
+      "Ils bloquent les récepteurs 5-HT2A",
+      "Ils bloquent les récepteurs D2",
+      "Ils ne bloquent que les récepteurs D2",
+      "Ce sont des agonistes dopaminergiques"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Les atypiques sont des antagonistes mixtes 5-HT2A et D2.",
+    "source": {
+      "page": 47,
+      "extrait": "Antagonistes mixtes sérotonine (récepteurs 5HT2A) et dopamine (récepteur D2)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "atypiques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/qcm-066",
+    "type": "multiple",
+    "enonce": "Conséquences du double antagonisme 5-HT2A/D2 des atypiques :",
+    "options": [
+      "Dans la voie mésolimbique, l'effet 5-HT2A est faible et la résultante est le blocage D2",
+      "Ce blocage D2 mésolimbique est favorable au traitement des symptômes positifs",
+      "Dans les autres voies, l'effet 5-HT2A est puissant",
+      "La résultante dans les autres voies est une stimulation de la transmission dopaminergique, favorable aux symptômes négatifs",
+      "Dans la voie mésolimbique, l'effet 5-HT2A est puissant"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Mésolimbique : effet 5-HT2A faible → blocage D2 (symptômes positifs) ; autres voies : effet 5-HT2A puissant → stimulation dopaminergique (symptômes négatifs).",
+    "source": {
+      "page": 47,
+      "extrait": "Dans la voie mésolimbique l'effet 5HT2A est faible, la résultante est le blocage D2"
+    },
+    "difficulte": 3,
+    "tags": [
+      "atypiques",
+      "mécanisme"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/qcm-067",
+    "type": "multiple",
+    "enonce": "Indications psychiatriques des neuroleptiques :",
+    "options": [
+      "Psychoses aiguës",
+      "Psychoses chroniques",
+      "Épisode dépressif majeur avec symptomatologie délirante et risque suicidaire",
+      "Agitation et agressivité des sujets alcooliques",
+      "Anxiété en cas d'échec des thérapeutiques habituelles"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Toutes ces indications psychiatriques sont citées dans le cours.",
+    "source": {
+      "page": 48,
+      "extrait": "Psychoses aiguës, Psychoses chroniques; Episode dépressif majeur avec symptomatologie délirante"
+    },
+    "difficulte": 1,
+    "tags": [
+      "indications"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/qcm-068",
+    "type": "multiple",
+    "enonce": "Indications non neuropsychiatriques des neuroleptiques :",
+    "options": [
+      "Vomissements lors des traitements antimitotiques",
+      "Stimulation de la lactation",
+      "Psychoses chroniques",
+      "Agitation des sujets alcooliques",
+      "Anxiété résistante"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Indications non neuropsychiatriques : vomissements lors des traitements antimitotiques et stimulation de la lactation.",
+    "source": {
+      "page": 48,
+      "extrait": "Vomissements lors des traitements antimitotiques; Stimulation de la lactation"
+    },
+    "difficulte": 2,
+    "tags": [
+      "indications"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/qcm-069",
+    "type": "unique",
+    "enonce": "La stimulation de la lactation par certains neuroleptiques s'explique par :",
+    "options": [
+      "Le blocage dopaminergique tubéro-infundibulaire augmentant la prolactine",
+      "Le blocage nigrostrié",
+      "Le blocage 5-HT2A",
+      "L'inhibition de la MAO",
+      "L'effet anticholinergique"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "La voie tubéro-infundibulaire inhibe la production de prolactine : son blocage par les neuroleptiques augmente la prolactine, d'où la stimulation de la lactation.",
+    "source": {
+      "page": 42,
+      "extrait": "Ce système a une action inhibitrice sur la production et la libération de la prolactine"
+    },
+    "difficulte": 3,
+    "tags": [
+      "indications"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/qcm-070",
+    "type": "multiple",
+    "enonce": "Associez correctement neuroleptique et classe chimique :",
+    "options": [
+      "Chlorpromazine : phénothiazine",
+      "Flupentixol : thioxanthène",
+      "Halopéridol : butyrophénone",
+      "Tiapride : benzamide",
+      "Rispéridone : dibenzodiazépine"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "La rispéridone est un benzisoxazole ; les dibenzodiazépines sont la clozapine, l'olanzapine et la quétiapine.",
+    "source": {
+      "page": 10,
+      "extrait": "benzisoxazoles (rispéridone et sertindole)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "transversal"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/qcm-071",
+    "type": "multiple",
+    "enonce": "Quels neuroleptiques portent un atome de fluor dans leur structure ?",
+    "options": [
+      "Halopéridol",
+      "Pimozide",
+      "Fluphénazine",
+      "Flupentixol",
+      "Chlorpromazine"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Halopéridol et pimozide portent des fluors (en para) ; fluphénazine et flupentixol portent un CF3. La chlorpromazine porte un chlore.",
+    "source": {
+      "page": 36,
+      "extrait": "Toutes les butyrophénones doivent avoir un atome de fluor en para"
+    },
+    "difficulte": 2,
+    "tags": [
+      "transversal"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/qcm-072",
+    "type": "multiple",
+    "enonce": "Parmi ces molécules, lesquelles possèdent une chaîne pipérazinique ?",
+    "options": [
+      "Fluphénazine",
+      "Flupentixol",
+      "Fluanisone",
+      "Pipotiazine",
+      "Chlorpromazine"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Fluphénazine (phénothiazine), flupentixol (thioxanthène) et fluanisone (butyrophénone) sont pipéraziniques ; la pipotiazine est pipéridinique et la chlorpromazine aliphatique.",
+    "source": {
+      "page": 17,
+      "extrait": "Phénothiazines à chaine pipérazinique"
+    },
+    "difficulte": 3,
+    "tags": [
+      "transversal"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/qcm-073",
+    "type": "multiple",
+    "enonce": "Comparaison neuroleptiques typiques / atypiques :",
+    "options": [
+      "Les typiques bloquent principalement les récepteurs D2",
+      "Les atypiques sont des antagonistes mixtes 5-HT2A et D2",
+      "Les atypiques ont été développés en raison des résistances et des syndromes extrapyramidaux",
+      "Les atypiques visent aussi le traitement des signes négatifs",
+      "Les typiques traitent efficacement les signes négatifs"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Les atypiques (antagonistes mixtes 5-HT2A/D2) ont été développés face aux limites des typiques : résistances, syndromes extrapyramidaux, difficulté de traitement des signes négatifs.",
+    "source": {
+      "page": 44,
+      "extrait": "Ces observations ont orienté la recherche psychopharmacologique vers la découverte de produits nouveaux : les antipsychotiques atypiques"
+    },
+    "difficulte": 2,
+    "tags": [
+      "transversal"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/qcm-074",
+    "type": "multiple",
+    "enonce": "Cochez les propositions exactes concernant la chlorpromazine :",
+    "options": [
+      "C'est une phénothiazine aliphatique",
+      "Elle porte un chlore électroattracteur en position 2",
+      "Sa chaîne comporte 3 carbones et une amine tertiaire",
+      "Son nom déposé est Largactil",
+      "C'est le chef de file des butyrophénones"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "La chlorpromazine (Largactil) est la phénothiazine aliphatique de référence ; le chef de file des butyrophénones est l'halopéridol.",
+    "source": {
+      "page": 14,
+      "extrait": "DCI : Chlorpromazine. ND : Largactil"
+    },
+    "difficulte": 1,
+    "tags": [
+      "transversal"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/qcm-075",
+    "type": "multiple",
+    "enonce": "Quelles affirmations sont exactes à propos des benzamides ?",
+    "options": [
+      "Ils possèdent un méthoxy en ortho",
+      "Ils présentent généralement un carbone asymétrique",
+      "Ils sont utilisés sous forme racémique",
+      "Ils sont très sédatifs",
+      "Ils sont très lipophiles"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explication": "Les benzamides sont peu sédatifs, très lipophiles, avec un méthoxy en ortho et un carbone asymétrique (utilisés racémiques).",
+    "source": {
+      "page": 37,
+      "extrait": "présentant généralement un carbone asymétrique (les composés utilisés sont racémique)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "benzamides"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/06-neuroleptiques/qcm-076",
+    "type": "multiple",
+    "enonce": "Quelle(s) modification(s) structurale(s) diminue(nt) l'activité neuroleptique ?",
+    "options": [
+      "Un groupement OH en position 2 d'une phénothiazine",
+      "Un substituant électroattracteur en position autre que 2",
+      "Un substituant encombré sur l'azote terminal",
+      "Une modification du carbonyle des butyrophénones",
+      "Une chaîne latérale à 3 carbones avec amine tertiaire"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "OH en 2, substituant hors position 2, encombrement sur l'azote et modification du carbonyle des butyrophénones diminuent l'activité ; la chaîne à 3 carbones avec amine tertiaire est optimale pour les phénothiazines.",
+    "source": {
+      "page": 26,
+      "extrait": "OH réduit l'activité"
+    },
+    "difficulte": 3,
+    "tags": [
+      "RSA"
+    ],
+    "origine": "genere"
+  }
+]

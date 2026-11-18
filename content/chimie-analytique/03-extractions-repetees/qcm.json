@@ -1,0 +1,1132 @@
+[
+  {
+    "id": "chimie-analytique/03-extractions-repetees/qcm-001",
+    "type": "multiple",
+    "enonce": "L'extraction simple n'est vraiment satisfaisante que si :",
+    "options": [
+      "Le solvant d'extraction dissout beaucoup mieux le soluté que le solvant initial",
+      "On utilise un volume assez important de solvant d'extraction",
+      "Le solvant extractif est miscible au solvant initial",
+      "Le coefficient de partage est inférieur à 1",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Le cours : le rendement de l'extraction simple n'est satisfaisant que si le solvant dissout beaucoup mieux le soluté, ou si l'on utilise un volume assez important de solvant.",
+    "source": {
+      "page": 1,
+      "extrait": "si le solvant d'extraction dissout beaucoup mieux le soluté que le solvant initial"
+    },
+    "difficulte": 1,
+    "tags": [
+      "principe"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/03-extractions-repetees/qcm-002",
+    "type": "multiple",
+    "enonce": "Principe de l'extraction répétée :",
+    "options": [
+      "Le raffiné est extrait avec un nouveau volume de solvant extractif",
+      "L'opération est répétée jusqu'à obtention d'un rendement satisfaisant",
+      "Les différents extraits sont mélangés et concentrés pour isoler la substance",
+      "Chaque extraction correspond à un étage",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes les propositions décrivent le principe de l'extraction répétée (ou à n étages).",
+    "source": {
+      "page": 1,
+      "extrait": "Les différents extraits sont mélangés et concentrés pour isoler la substance"
+    },
+    "difficulte": 1,
+    "tags": [
+      "principe"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/03-extractions-repetees/qcm-003",
+    "type": "multiple",
+    "enonce": "L'extraction répétée est également appelée :",
+    "options": [
+      "Extraction multiple",
+      "Extraction à plusieurs étages",
+      "Extraction à n étages",
+      "Extraction à contre-courant",
+      "Relargage"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Extraction répétée = extractions multiples = extraction à plusieurs étages ou à n étages. Le contre-courant est une autre méthode.",
+    "source": {
+      "page": 1,
+      "extrait": "d'où le nom d'extraction à plusieurs étages ou extraction à n étages"
+    },
+    "difficulte": 1,
+    "tags": [
+      "définition"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/03-extractions-repetees/qcm-004",
+    "type": "multiple",
+    "enonce": "Dans l'étude quantitative de l'extraction répétée (distribution régulière), on considère que :",
+    "options": [
+      "Chaque étage est théorique",
+      "Il n'y a aucune perte de solvants",
+      "Les volumes VB de solvant pur peuvent être égaux ou non",
+      "Le solvant extractif contient déjà du soluté à chaque étage",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Hypothèses : étages théoriques, pas de perte de solvants, volumes VB égaux ou non. C'est en extraction à contre-courant que le solvant contient déjà du soluté.",
+    "source": {
+      "page": 1,
+      "extrait": "On considère que chaque étage est théorique et qu'il n'y a aucune perte de solvants"
+    },
+    "difficulte": 1,
+    "tags": [
+      "hypothèses"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/03-extractions-repetees/qcm-005",
+    "type": "multiple",
+    "enonce": "D'après le schéma de l'extraction répétée :",
+    "options": [
+      "Le raffiné d'un étage alimente l'étage suivant",
+      "C'est du solvant pur qui alimente chaque étage",
+      "Après chaque étage, l'extrait est mis de côté",
+      "L'ensemble des extraits réunis est noté ΣQB",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes les propositions sont celles du schéma des n étages.",
+    "source": {
+      "page": 1,
+      "extrait": "c'est du solvant pur qui aliment chaque étage (pour le solvant extractif)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "schéma"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/03-extractions-repetees/qcm-006",
+    "type": "unique",
+    "enonce": "La différence essentielle entre extraction répétée et extraction à contre-courant porte sur :",
+    "options": [
+      "Le nombre d'étages",
+      "La nature du solvant initial",
+      "Le solvant extractif, pur à chaque étage en extraction répétée",
+      "L'utilisation d'une ampoule à décanter",
+      "Le coefficient de partage"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "En extraction répétée le solvant extractif est pur à chaque étage, alors qu'en contre-courant il contient à chaque fois une quantité de soluté.",
+    "source": {
+      "page": 1,
+      "extrait": "c'est du solvant pur qui aliment chaque étage"
+    },
+    "difficulte": 2,
+    "tags": [
+      "comparaison"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/03-extractions-repetees/qcm-007",
+    "type": "multiple",
+    "enonce": "Les données nécessaires au calcul d'une extraction répétée sont :",
+    "options": [
+      "Volumes VA et VB",
+      "Concentration CA0 ou quantité QA0",
+      "Coefficient de partage λ",
+      "Nombre d'étages n",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Les données sont celles de l'extraction simple (VA, VB, CA0/QA0, λ) auxquelles on ajoute le nombre n d'étages.",
+    "source": {
+      "page": 2,
+      "extrait": "On y ajoute le nombre n d'étages"
+    },
+    "difficulte": 1,
+    "tags": [
+      "éléments de calcul"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/03-extractions-repetees/qcm-008",
+    "type": "multiple",
+    "enonce": "En extraction répétée, il faut calculer :",
+    "options": [
+      "QAn, quantité restant dans le dernier raffiné (non extraite)",
+      "ΣQB, quantité totale extraite (somme de tous les extraits)",
+      "Le rendement ρ = ΣQB/QA0",
+      "La hauteur équivalente à un étage théorique",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "On calcule QAn, ΣQB = QB1 + … + QBn et ρ = ΣQB/QA0. La HEET concerne l'extraction à contre-courant en colonne.",
+    "source": {
+      "page": 2,
+      "extrait": "QAn : Quantité de substance restant dans le dernier raffiné (et donc non extraite)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "éléments de calcul"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/03-extractions-repetees/qcm-009",
+    "type": "multiple",
+    "enonce": "Concernant les équations de l'extraction répétée :",
+    "options": [
+      "λ = CB1/CA1 = CB2/CA2 = … = CBn/CAn",
+      "αi = λ·VBi/VA pour chaque étage i",
+      "Pour l'étage n : QA(n−1) = QAn + QBn",
+      "En sommant : QA0 = ΣQB + QAn",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "λ, constant, est vérifié à chaque étage ; αi = QBi/QAi = λVBi/VA ; la conservation est écrite pour chaque étage et leur somme donne QA0 = ΣQB + QAn.",
+    "source": {
+      "page": 3,
+      "extrait": "QA0 = ΣQB + QAn"
+    },
+    "difficulte": 2,
+    "tags": [
+      "équations"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/03-extractions-repetees/qcm-010",
+    "type": "unique",
+    "enonce": "La conservation de la matière pour le deuxième étage d'une extraction répétée s'écrit :",
+    "options": [
+      "QA0 = QA1 + QB1",
+      "QA1 = QA2 + QB2",
+      "QA1 + QB3 = QA2 + QB2",
+      "QA2 = QA1 + QB2",
+      "QA0 = QA2 + QB2"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Le raffiné QA1 du premier étage est extrait par du solvant pur : QA1 = QA2 + QB2. La forme c (avec QB3) est celle du contre-courant.",
+    "source": {
+      "page": 3,
+      "extrait": "Pour le deuxième étage : QA1 = QA2 + QB2"
+    },
+    "difficulte": 2,
+    "tags": [
+      "équations"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/03-extractions-repetees/qcm-011",
+    "type": "unique",
+    "enonce": "Dans le cas général (volumes différents), la quantité restant après n étages est :",
+    "options": [
+      "QAn = QA0/(1 + α)",
+      "QAn = QA0/[(1 + α1)(1 + α2)…(1 + αn)]",
+      "QAn = QA0·(1 + α1)…(1 + αn)",
+      "QAn = QA0·(α − 1)/(αⁿ⁺¹ − 1)",
+      "QAn = QA0 − QB1"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Par récurrence : QA1 = QA0/(1+α1), QA2 = QA0/[(1+α1)(1+α2)], …, QAn = QA0/Π(1+αi). La forme d est celle du contre-courant.",
+    "source": {
+      "page": 5,
+      "extrait": "Un raisonnement par récurrence permet de conclure"
+    },
+    "difficulte": 2,
+    "tags": [
+      "formule générale"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/03-extractions-repetees/qcm-012",
+    "type": "multiple",
+    "enonce": "Dans le cas général d'une extraction répétée :",
+    "options": [
+      "ΣQB = QA0 − QAn",
+      "ρ = ΣQB/QA0",
+      "ρ = 1 − 1/[(1 + α1)(1 + α2)…(1 + αn)]",
+      "ρ = α/(1 + α)",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "ΣQB = QA0 − QAn et ρ = 1 − 1/Π(1+αi). α/(1+α) est le rendement d'une seule extraction.",
+    "source": {
+      "page": 5,
+      "extrait": "Le rendement est alors facile à déterminer puisqu'il correspond au quotient de ΣQB par QA0"
+    },
+    "difficulte": 2,
+    "tags": [
+      "rendement"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/03-extractions-repetees/qcm-013",
+    "type": "multiple",
+    "enonce": "Lorsque les volumes de solvant extractif sont égaux à chaque étage :",
+    "options": [
+      "C'est le cas le plus fréquent",
+      "α1 = α2 = … = αn = α = λ·VB/VA",
+      "ρ = 1 − 1/(1 + α)ⁿ",
+      "ρ = 1 − 1/(1 + λ·VB/VA)ⁿ",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Volumes égaux (cas le plus fréquent) : tous les α sont égaux et ρ = 1 − 1/(1+α)ⁿ = 1 − 1/(1 + λVB/VA)ⁿ.",
+    "source": {
+      "page": 5,
+      "extrait": "C'est le cas le plus fréquent, il permet de simplifier l'équation du rendement"
+    },
+    "difficulte": 1,
+    "tags": [
+      "volumes égaux"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/03-extractions-repetees/qcm-014",
+    "type": "unique",
+    "enonce": "Lorsque la substance existe sous plusieurs formes dans l'une ou l'autre phase, le rendement d'une extraction répétée à volumes égaux s'écrit :",
+    "options": [
+      "ρ = 1 − 1/(1 + λ·VB/VA)ⁿ",
+      "ρ = 1 − 1/(1 + D·VB/VA)ⁿ",
+      "ρ = D/(1 + D)",
+      "ρ = 1 − (1 + D)ⁿ",
+      "ρ = (1 + D·VA/VB)ⁿ"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "On remplace λ par le taux de distribution D lorsque la substance existe sous plusieurs formes.",
+    "source": {
+      "page": 5,
+      "extrait": "Lorsque la substance existe sous plusieurs formes dans l'une ou l'autre des deux phases"
+    },
+    "difficulte": 2,
+    "tags": [
+      "taux de distribution"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/03-extractions-repetees/qcm-015",
+    "type": "multiple",
+    "enonce": "Pourquoi le rendement croît-il avec le nombre n d'extractions ?",
+    "options": [
+      "Parce que 1 + λ·VB/VA est supérieur à 1",
+      "Son élévation à la puissance n donne un nombre d'autant plus grand que n est grand",
+      "Son inverse diminue quand n augmente",
+      "Parce que λ augmente à chaque étage",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "1 + λVB/VA > 1 ; (1 + λVB/VA)ⁿ croît avec n, son inverse diminue, donc ρ croît. λ reste constant.",
+    "source": {
+      "page": 6,
+      "extrait": "Son inverse tend à diminuer avec l'élévation de nombre n d'opérations ainsi le rendement croit avec ce nombre"
+    },
+    "difficulte": 2,
+    "tags": [
+      "influence de n"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/03-extractions-repetees/qcm-016",
+    "type": "multiple",
+    "enonce": "Exemple du cours : pénicilline, 3 extractions successives avec VB/VA = 1/5 à chaque fois (λ = 15) :",
+    "options": [
+      "α = 3",
+      "ρ = 1 − 1/4³",
+      "ρ = 98,40 %",
+      "Le volume total de solvant est le même que pour une extraction unique avec VB/VA = 3/5",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "α = 15/5 = 3 ; ρ = 1 − 1/(1+3)³ = 1 − 1/64 = 0,984 soit 98,40 %, pour la même dépense de solvant que l'extraction unique à VB/VA = 3/5 (90 %).",
+    "source": {
+      "page": 6,
+      "extrait": "on note donc une amélioration du rendement 98,40% pour une même dépense de solvant"
+    },
+    "difficulte": 2,
+    "tags": [
+      "pénicilline"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/03-extractions-repetees/qcm-017",
+    "type": "unique",
+    "enonce": "Pour une même dépense de solvant (VB total/VA = 3/5, λ = 15), le passage d'une extraction unique à trois extractions fait passer le rendement de :",
+    "options": [
+      "75 % à 90 %",
+      "90 % à 98,40 %",
+      "75 % à 98,40 %",
+      "90 % à 99,9 %",
+      "98,4 % à 99 %"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Une extraction à VB/VA = 3/5 : 90 % ; trois extractions à VB/VA = 1/5 : 98,40 %.",
+    "source": {
+      "page": 6,
+      "extrait": "Pour une seule extraction avec un rapport VB/VA = 3/5 le rendement était égale à 90%"
+    },
+    "difficulte": 2,
+    "tags": [
+      "pénicilline"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/03-extractions-repetees/qcm-018",
+    "type": "unique",
+    "enonce": "Une extraction répétée 2 fois avec α = 1 à chaque étage donne un rendement de :",
+    "options": [
+      "50 %",
+      "75 %",
+      "100 %",
+      "25 %",
+      "66,7 %"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "ρ = 1 − 1/(1+1)² = 1 − 1/4 = 75 %.",
+    "source": {
+      "page": 5,
+      "extrait": "ρ = 1 - 1/(1 + α)^n"
+    },
+    "difficulte": 1,
+    "tags": [
+      "calcul"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/03-extractions-repetees/qcm-019",
+    "type": "unique",
+    "enonce": "Une substance (λ = 4) dans 100 mL d'eau est extraite 3 fois par 25 mL de solvant. La fraction restant en phase aqueuse est :",
+    "options": [
+      "1/2",
+      "1/4",
+      "1/8",
+      "1/27",
+      "1/64"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "α = 4 × 25/100 = 1 ; fraction restante = 1/(1+1)³ = 1/8.",
+    "source": {
+      "page": 5,
+      "extrait": "QAn = QA0/(1+α1)(1+α2)...(1+αn)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "calcul",
+      "fraction restante"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/03-extractions-repetees/qcm-020",
+    "type": "unique",
+    "enonce": "On extrait 50 mL d'eau contenant 25 mg de X (λ = 9) par deux fois 20 mL de chloroforme. La quantité restant en phase aqueuse est d'environ :",
+    "options": [
+      "5,4 mg",
+      "1,18 mg",
+      "3,05 mg",
+      "0,41 mg",
+      "2,5 mg"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "α = 9 × 20/50 = 3,6 ; QA2 = 25/(4,6)² = 25/21,16 ≈ 1,18 mg.",
+    "source": {
+      "page": 5,
+      "extrait": "QAn = QA0/(1 + α)^n"
+    },
+    "difficulte": 2,
+    "tags": [
+      "calcul"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/03-extractions-repetees/qcm-021",
+    "type": "unique",
+    "enonce": "Dans les mêmes conditions (λ = 9, VA = 50 mL, QA0 = 25 mg), une extraction unique par 40 mL donne un rendement d'environ :",
+    "options": [
+      "72 %",
+      "87,8 %",
+      "95,3 %",
+      "98,4 %",
+      "90 %"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "α = 9 × 40/50 = 7,2 ; ρ = 7,2/8,2 ≈ 0,878.",
+    "source": {
+      "page": 5,
+      "extrait": "ρ = α/(1 + α)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "calcul"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/03-extractions-repetees/qcm-022",
+    "type": "unique",
+    "enonce": "Une extraction répétée à volumes égaux donne une fraction restante de 1/27 après 3 étages. Le rapport de quantité α vaut :",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "9",
+      "27"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "1/(1+α)³ = 1/27 → 1 + α = 3 → α = 2.",
+    "source": {
+      "page": 5,
+      "extrait": "ρ = 1 - 1/(1 + α)^n"
+    },
+    "difficulte": 3,
+    "tags": [
+      "calcul"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/03-extractions-repetees/qcm-023",
+    "type": "multiple",
+    "enonce": "L'inconvénient majeur de l'extraction répétée est :",
+    "options": [
+      "L'utilisation parfois de quantités importantes de solvant d'extraction",
+      "La nécessité d'évaporer ensuite ce solvant",
+      "Un rendement toujours inférieur à celui de l'extraction simple",
+      "L'impossibilité de réunir les extraits",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "L'inconvénient majeur est l'utilisation parfois de grandes quantités de solvant qu'il faut évaporer par la suite ; d'où l'emploi d'un volume limité.",
+    "source": {
+      "page": 6,
+      "extrait": "L'inconvénient majeur de l'extraction répétée, c'est l'utilisation parfois de quantité importante de solvant d'extraction"
+    },
+    "difficulte": 1,
+    "tags": [
+      "volume limité"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/03-extractions-repetees/qcm-024",
+    "type": "multiple",
+    "enonce": "Lorsque le volume total VB de solvant extractif est limité et fractionné en n volumes élémentaires égaux vB :",
+    "options": [
+      "VB = n·vB",
+      "α = λ·vB/VA = λ·VB/(n·VA)",
+      "ρ = 1 − 1/(1 + λ·VB/(n·VA))ⁿ",
+      "ρ = 1 − 1/(1 + λ·VB/VA)ⁿ",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Avec VB = n·vB, α = λvB/VA = λVB/(nVA) et ρ = 1 − 1/(1 + λVB/(nVA))ⁿ. La forme d correspond à un volume VB utilisé à chaque étage (volume non limité).",
+    "source": {
+      "page": 7,
+      "extrait": "L'étude du rendement est réalisée dans le cas le plus fréquent où le volume total est fractionné en n volumes élémentaires égaux"
+    },
+    "difficulte": 2,
+    "tags": [
+      "volume limité"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/03-extractions-repetees/qcm-025",
+    "type": "multiple",
+    "enonce": "Avec un volume total limité fractionné en n parts égales :",
+    "options": [
+      "Le rendement est d'autant meilleur que n est grand",
+      "L'augmentation du rendement avec n est plus faible que dans le cas où le volume n'est pas limité",
+      "Le temps perdu croît également avec n",
+      "Il y a lieu de rechercher l'optimisation des conditions",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le cours : le rendement croît avec n (moins vite qu'à volume non limité car λVB/VA est divisé par n), mais le temps perdu croît aussi, d'où l'optimisation.",
+    "source": {
+      "page": 7,
+      "extrait": "Le rendement est donc d'autant meilleur que le nombre d'étages est plus grand, mais le temps perdu croît également"
+    },
+    "difficulte": 2,
+    "tags": [
+      "volume limité",
+      "optimisation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/03-extractions-repetees/qcm-026",
+    "type": "unique",
+    "enonce": "Un volume total de 40 mL de solvant (λ = 9) sert à extraire 50 mL de solution en 4 fractions égales. Le rendement est d'environ :",
+    "options": [
+      "87,8 %",
+      "95,3 %",
+      "98,4 %",
+      "99,4 %",
+      "72 %"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "vB = 10 mL ; α = 9 × 10/50 = 1,8 ; ρ = 1 − 1/2,8⁴ = 1 − 1/61,47 ≈ 98,4 %.",
+    "source": {
+      "page": 7,
+      "extrait": "ρ = 1 - 1/(1 + λ VB/(n VA))^n"
+    },
+    "difficulte": 3,
+    "tags": [
+      "calcul",
+      "volume limité"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/03-extractions-repetees/qcm-027",
+    "type": "unique",
+    "enonce": "Dans les mêmes conditions (VB total = 40 mL, VA = 50 mL, λ = 9), un fractionnement en 8 parts de 5 mL donne un rendement d'environ :",
+    "options": [
+      "95,3 %",
+      "98,4 %",
+      "99,4 %",
+      "100 %",
+      "87,8 %"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "α = 9 × 5/50 = 0,9 ; 1,9⁸ ≈ 169,8 ; ρ = 1 − 1/169,8 ≈ 99,4 %.",
+    "source": {
+      "page": 7,
+      "extrait": "ρ = 1 - 1/(1 + λ VB/(n VA))^n"
+    },
+    "difficulte": 3,
+    "tags": [
+      "calcul",
+      "volume limité"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/03-extractions-repetees/qcm-028",
+    "type": "multiple",
+    "enonce": "Détermination des conditions optimales (volume divisé en n volumes partiels égaux) :",
+    "options": [
+      "On transforme la formule du rendement pour passer aux logarithmes",
+      "log(1 − ρ) = −n·log(1 + λ·VB/(n·VA))",
+      "(1 − ρ) dépend de deux variables : n et VB",
+      "λ et VA sont connus car fixés initialement",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes les propositions correspondent à la démarche d'optimisation du cours.",
+    "source": {
+      "page": 8,
+      "extrait": "la valeur de (1 – ρ) dont on peut aisément tirer le rendement dépend de deux variables"
+    },
+    "difficulte": 3,
+    "tags": [
+      "optimisation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/03-extractions-repetees/qcm-029",
+    "type": "multiple",
+    "enonce": "Pour déterminer graphiquement les conditions optimales, on trace :",
+    "options": [
+      "log(1 − ρ) = f(VB) à n constant",
+      "log(1 − ρ) = f(n) à VB constant",
+      "CB = f(CA)",
+      "ρ = f(λ) à n constant",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Deux familles de courbes : log(1−ρ) en fonction de VB (n fixe) et en fonction de n (VB fixe) ; leurs intersections donnent n et VB, et leurs ordonnées les rendements.",
+    "source": {
+      "page": 8,
+      "extrait": "log (1 – ρ) = ƒ(VB). En considérant n constant"
+    },
+    "difficulte": 2,
+    "tags": [
+      "optimisation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/03-extractions-repetees/qcm-030",
+    "type": "unique",
+    "enonce": "Dans l'optimisation graphique, les ordonnées des points d'intersection des courbes permettent de calculer :",
+    "options": [
+      "Le coefficient de partage",
+      "Les rendements",
+      "Le volume VA",
+      "La température",
+      "Le pH"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Les intersections donnent n et VB ; leurs ordonnées (log(1−ρ)) permettent de calculer les rendements.",
+    "source": {
+      "page": 8,
+      "extrait": "leurs ordonnées permettent de calculer les rendements"
+    },
+    "difficulte": 2,
+    "tags": [
+      "optimisation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/03-extractions-repetees/qcm-031",
+    "type": "multiple",
+    "enonce": "Étude quantitative de l'extraction répétée pour une distribution irrégulière :",
+    "options": [
+      "Elle est effectuée par méthode graphique",
+      "On trace la courbe d'équilibre puis la droite de conservation du premier étage",
+      "La droite du deuxième étage est parallèle à la précédente",
+      "La construction est répétée autant de fois qu'il y a d'étages",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes ces étapes sont celles décrites dans le cours pour la méthode graphique.",
+    "source": {
+      "page": 8,
+      "extrait": "C'est une parallèle à la droite précédente"
+    },
+    "difficulte": 2,
+    "tags": [
+      "distribution irrégulière"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/03-extractions-repetees/qcm-032",
+    "type": "unique",
+    "enonce": "Dans la méthode graphique de l'extraction répétée, la droite de conservation du deuxième étage a pour équation :",
+    "options": [
+      "CB = −(VA/VB)(CA − CA0)",
+      "CB = −(VA/VB)(CA − CA1)",
+      "CB = −(VB/VA)(CA − CA1)",
+      "CB = λ·CA",
+      "CB = (VA/VB)(CA + CA1)"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Au deuxième étage, la solution à extraire a pour concentration CA1 : CB = −(VA/VB)(CA − CA1), parallèle à la première (même pente −VA/VB).",
+    "source": {
+      "page": 8,
+      "extrait": "Csoit B = − V VBA ( CC A 1 − A )"
+    },
+    "difficulte": 3,
+    "tags": [
+      "méthode graphique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/03-extractions-repetees/qcm-033",
+    "type": "unique",
+    "enonce": "Les droites de conservation successives de la méthode graphique sont parallèles car :",
+    "options": [
+      "λ est constant",
+      "Les volumes VA et VB sont les mêmes à chaque étage, donc la pente −VA/VB est identique",
+      "La courbe d'équilibre est une droite",
+      "CA0 est constant",
+      "Le pH est tamponné"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "La pente vaut −VA/VB ; avec les mêmes volumes à chaque étage, les droites sont parallèles.",
+    "source": {
+      "page": 8,
+      "extrait": "C'est une parallèle à la droite précédente"
+    },
+    "difficulte": 3,
+    "tags": [
+      "méthode graphique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/03-extractions-repetees/qcm-034",
+    "type": "multiple",
+    "enonce": "À la fin de la construction graphique, connaissant CAn (coordonnée du dernier point Mn) :",
+    "options": [
+      "QAn = CAn·VA",
+      "ΣQB = QA0 − QAn",
+      "ρ = ΣQB/QA0",
+      "ρ = CAn/CA0",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "On en déduit QAn = CAn·VA, ΣQB = QA0 − QAn et ρ = ΣQB/QA0. CAn/CA0 est la fraction restante, pas le rendement.",
+    "source": {
+      "page": 8,
+      "extrait": "Connaissant CAN, on en déduit QAN, ΣQB et ρ"
+    },
+    "difficulte": 2,
+    "tags": [
+      "méthode graphique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/03-extractions-repetees/qcm-035",
+    "type": "multiple",
+    "enonce": "Mise en œuvre pratique de l'extraction répétée :",
+    "options": [
+      "Elle peut être réalisée à l'aide d'ampoules à décanter",
+      "Le cas le plus habituel est celui de l'extraction continue",
+      "En extraction continue, l'apport de solvant extractif neuf est continuel",
+      "Le solvant est distillé puis retombe dans la solution à extraire",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes ces propositions décrivent la mise en œuvre (ampoules ou extraction continue avec distillation du solvant qui retombe dans la solution).",
+    "source": {
+      "page": 9,
+      "extrait": "mais le cas le plus habituel est celui de l'extraction continue"
+    },
+    "difficulte": 1,
+    "tags": [
+      "extraction continue"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/03-extractions-repetees/qcm-036",
+    "type": "multiple",
+    "enonce": "Concernant les perforateurs de Jalade :",
+    "options": [
+      "Ce sont les appareils les plus classiques d'extraction continue",
+      "Il en existe deux types selon que le solvant extractif est plus lourd ou plus léger que la solution à extraire",
+      "Leur avantage est la réduction du volume de solvant extractif",
+      "Leur inconvénient est que l'extrait est chauffé, avec un risque d'altération des substances fragiles",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes les propositions sont dans le cours sur l'extraction continue et les perforateurs de Jalade.",
+    "source": {
+      "page": 9,
+      "extrait": "Les appareils les plus classiques dérivent des perforateurs de Jalade"
+    },
+    "difficulte": 1,
+    "tags": [
+      "Jalade"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/03-extractions-repetees/qcm-037",
+    "type": "unique",
+    "enonce": "L'inconvénient de l'extraction continue (perforateurs de Jalade) est :",
+    "options": [
+      "La consommation importante de solvant",
+      "Le chauffage de l'extrait avec risque d'altération des substances fragiles",
+      "L'impossibilité d'utiliser un solvant plus lourd que l'eau",
+      "La formation obligatoire d'émulsions",
+      "Un rendement inférieur à l'extraction simple"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "L'avantage est la réduction du solvant ; l'inconvénient, parfois gênant, est que l'extrait est chauffé.",
+    "source": {
+      "page": 9,
+      "extrait": "c'est que l'extrait est chauffé et qu'il y a donc un risque d'altération des substances fragiles"
+    },
+    "difficulte": 1,
+    "tags": [
+      "Jalade"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/03-extractions-repetees/qcm-038",
+    "type": "unique",
+    "enonce": "Les deux types de perforateurs de Jalade se distinguent par :",
+    "options": [
+      "La température de travail",
+      "La densité relative du solvant extractif par rapport à la solution à extraire",
+      "Le nombre d'étages",
+      "La nature du soluté",
+      "L'utilisation d'une centrifugeuse"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Ils sont de deux types différents selon que le solvant extractif est plus lourd ou plus léger que la solution à extraire.",
+    "source": {
+      "page": 9,
+      "extrait": "selon que le solvant extractif est plus lourd ou plus léger que la solution à extraire"
+    },
+    "difficulte": 1,
+    "tags": [
+      "Jalade"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/03-extractions-repetees/qcm-039",
+    "type": "multiple",
+    "enonce": "Comparaison extraction simple / extraction répétée (même volume total de solvant) :",
+    "options": [
+      "L'extraction répétée donne un meilleur rendement",
+      "L'extraction répétée prend plus de temps",
+      "L'extraction simple utilise mieux le pouvoir solvant",
+      "Le rendement de l'extraction répétée peut atteindre exactement 100 %",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "À dépense de solvant égale, plusieurs petites extractions sont plus efficaces (98,4 % vs 90 % dans l'exemple), mais le temps perdu croît. Le rendement n'atteint jamais exactement 100 % car 1/(1+α)ⁿ > 0.",
+    "source": {
+      "page": 7,
+      "extrait": "mais le temps perdu croît également, il y a donc lieu de rechercher l'optimisation des conditions"
+    },
+    "difficulte": 2,
+    "tags": [
+      "comparaison"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/03-extractions-repetees/qcm-040",
+    "type": "multiple",
+    "enonce": "Parmi les relations suivantes, lesquelles sont exactes pour une extraction répétée à n étages de volumes égaux ?",
+    "options": [
+      "QAn = QA0/(1 + α)ⁿ",
+      "ΣQB = QA0[1 − 1/(1 + α)ⁿ]",
+      "1 − ρ = 1/(1 + α)ⁿ",
+      "ρ = nα/(1 + nα)",
+      "QBn = α·QAn"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explication": "QAn = QA0/(1+α)ⁿ, ΣQB = QA0 − QAn, 1 − ρ = 1/(1+α)ⁿ et à chaque étage QBn = αQAn. nα/(1+nα) serait le rendement d'une extraction unique avec le volume total, ce qui est différent.",
+    "source": {
+      "page": 5,
+      "extrait": "αn = QBn/QAn = λ.VBn/VA"
+    },
+    "difficulte": 3,
+    "tags": [
+      "formules"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/03-extractions-repetees/qcm-041",
+    "type": "unique",
+    "enonce": "Si l'on augmente le nombre d'étages d'une extraction répétée en gardant le même volume VB à chaque étage, la fraction restante :",
+    "options": [
+      "Augmente",
+      "Diminue",
+      "Reste constante",
+      "Devient négative",
+      "Devient égale à α"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Fraction restante = 1/(1+α)ⁿ, qui diminue quand n augmente.",
+    "source": {
+      "page": 6,
+      "extrait": "Son inverse tend à diminuer avec l'élévation de nombre n d'opérations"
+    },
+    "difficulte": 1,
+    "tags": [
+      "influence de n"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/03-extractions-repetees/qcm-042",
+    "type": "multiple",
+    "enonce": "Dans l'extraction répétée, le terme ΣQB représente :",
+    "options": [
+      "La somme des quantités extraites à chaque étage",
+      "La quantité totale extraite",
+      "QB1 + QB2 + … + QBn",
+      "La quantité restant dans le dernier raffiné",
+      "QA0 − QAn"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explication": "ΣQB = QB1 + … + QBn = quantité totale extraite = QA0 − QAn. La quantité restant dans le dernier raffiné est QAn.",
+    "source": {
+      "page": 2,
+      "extrait": "ΣQB : Quantité totale de substance extraite (somme de tous les extraits puisque tous réunis)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "ΣQB"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/03-extractions-repetees/qcm-043",
+    "type": "unique",
+    "enonce": "Une extraction répétée utilise successivement α1 = 1 puis α2 = 3. Le rendement global est de :",
+    "options": [
+      "75 %",
+      "87,5 %",
+      "80 %",
+      "96 %",
+      "50 %"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "ρ = 1 − 1/[(1+1)(1+3)] = 1 − 1/8 = 87,5 %.",
+    "source": {
+      "page": 5,
+      "extrait": "ρ = 1 - 1/(1+α1)(1+α2)...(1+αn)"
+    },
+    "difficulte": 3,
+    "tags": [
+      "calcul",
+      "volumes différents"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/03-extractions-repetees/qcm-044",
+    "type": "unique",
+    "enonce": "Combien d'extractions successives (α = 3 à chaque fois) faut-il au minimum pour dépasser un rendement de 99 % ?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5",
+      "10"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "1 − ρ = 1/4ⁿ < 0,01 → 4ⁿ > 100 ; 4³ = 64 (98,4 %), 4⁴ = 256 (99,6 %) : il faut 4 extractions.",
+    "source": {
+      "page": 6,
+      "extrait": "ρ = 1 - 1/(1 + 3)^3 = 0.984"
+    },
+    "difficulte": 3,
+    "tags": [
+      "calcul",
+      "nombre d'étages"
+    ],
+    "origine": "genere"
+  }
+]

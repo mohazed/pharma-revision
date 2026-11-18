@@ -1,0 +1,290 @@
+[
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/structure-001",
+    "nom": "Phénobarbital (Gardénal®)",
+    "smiles": "CCC1(c2ccccc2)C(=O)NC(=O)NC1=O",
+    "classe": "Barbiturique",
+    "question": "Identifiez cette molécule :",
+    "options": [
+      "Phénobarbital",
+      "Primidone",
+      "Phénytoïne",
+      "Éthosuximide",
+      "Carbamazépine"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "5-éthyl-5-phényl-1,3-diazinane-2,4,6-trione : phénobarbital (Gardénal®) ; le phényle en 5 confère l'activité antiépileptique maximale."
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/structure-002",
+    "nom": "Primidone (Mysoline®)",
+    "smiles": "CCC1(c2ccccc2)C(=O)NCNC1=O",
+    "classe": "Désoxybarbiturique",
+    "question": "Quelle est la particularité de cette molécule ?",
+    "options": [
+      "C'est le 2-désoxyphénobarbital, prodrogue du phénobarbital",
+      "C'est une hydantoïne",
+      "C'est un succinimide",
+      "C'est un iminostilbène",
+      "C'est une benzodiazépine"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "La primidone (Mysoline®) ou 2-désoxyphénobarbital est une prodrogue du phénobarbital : le carbonyle en 2 est remplacé par un CH2."
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/structure-003",
+    "nom": "Phénytoïne (Di-hydan®)",
+    "smiles": "O=C1NC(=O)C(c2ccccc2)(c2ccccc2)N1",
+    "classe": "Hydantoïne",
+    "question": "Identifiez cette molécule :",
+    "options": [
+      "Phénytoïne",
+      "Phénobarbital",
+      "Éthosuximide",
+      "Triméthadione",
+      "Primidone"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "5,5-diphénylimidazolidine-2,4-dione : phénytoïne (Di-hydan®), hydantoïne bloquant les canaux sodiques."
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/structure-004",
+    "nom": "Éthosuximide (Zarontin®)",
+    "smiles": "CCC1(C)CC(=O)NC1=O",
+    "classe": "Succinimide",
+    "question": "Quelle est l'indication de premier choix de cette molécule ?",
+    "options": [
+      "Les crises généralisées de type absence",
+      "Les crises partielles complexes",
+      "Le grand mal exclusivement",
+      "Le status epilepticus",
+      "Les crises atoniques"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "3-éthyl-3-méthylpyrrolidine-2,5-dione : éthosuximide, premier choix dans les absences (inhibition du courant calcique T)."
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/structure-005",
+    "nom": "Triméthadione (Epidione®)",
+    "smiles": "CN1C(=O)OC(C)(C)C1=O",
+    "classe": "Oxazolidine-dione",
+    "question": "Pourquoi cette molécule a-t-elle été retirée du marché en Europe ?",
+    "options": [
+      "En raison de sa tératogénicité et de ses effets secondaires potentiels",
+      "En raison de son inefficacité",
+      "En raison de sa toxicité rénale exclusive",
+      "Parce qu'elle est sédative",
+      "Parce qu'elle est inactive sur les absences"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "La triméthadione (3,5,5-triméthyloxazolidine-2,4-dione) a été retirée en Europe du fait de sa tératogénicité et de ses effets secondaires potentiels."
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/structure-006",
+    "nom": "Carbamazépine (Tégrétol®)",
+    "smiles": "NC(=O)N1c2ccccc2C=Cc2ccccc21",
+    "classe": "Iminostilbène",
+    "question": "Identifiez cette molécule :",
+    "options": [
+      "Carbamazépine",
+      "Oxcarbazépine",
+      "Imipramine",
+      "Clomipramine",
+      "Lamotrigine"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "5H-dibenzo[b,f]azépine-5-carboxamide : carbamazépine (Tégrétol®) ; le carbamyl en 5 est essentiel à l'activité."
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/structure-007",
+    "nom": "Oxcarbazépine",
+    "smiles": "NC(=O)N1c2ccccc2CC(=O)c2ccccc21",
+    "classe": "Céto-analogue de la carbamazépine",
+    "question": "Quel est l'avantage principal de cette molécule sur la carbamazépine ?",
+    "options": [
+      "Moins d'interactions médicamenteuses (métabolite MHD actif)",
+      "Une activité sur les absences",
+      "Une absence totale d'effets indésirables",
+      "Un effet sédatif marqué",
+      "Une action sur les récepteurs NMDA"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "10,11-dihydro-10-oxo-5H-dibenzo[b,f]azépine-5-carboxamide : l'oxcarbazépine est rapidement métabolisée en dérivé monohydroxylé actif, d'où moins d'interactions."
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/structure-008",
+    "nom": "5H-dibenzo[b,f]azépine (iminostilbène)",
+    "smiles": "C1=Cc2ccccc2Nc2ccccc21",
+    "classe": "Noyau de départ de la carbamazépine",
+    "question": "À quoi sert ce composé dans la synthèse de la carbamazépine ?",
+    "options": [
+      "C'est le produit de départ traité par le phosgène",
+      "C'est le produit final",
+      "C'est le solvant",
+      "C'est un catalyseur",
+      "C'est un métabolite"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "La 5H-dibenzo[b,f]azépine réagit avec le phosgène puis l'ammoniac pour donner la carbamazépine."
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/structure-009",
+    "nom": "Acide valproïque (Dépakine®)",
+    "smiles": "CCCC(CCC)C(O)=O",
+    "classe": "Acide carboxylique ramifié",
+    "question": "Quel élément structural conditionne l'activité de cette molécule ?",
+    "options": [
+      "La ramification de la chaîne",
+      "La présence d'un noyau aromatique",
+      "Un hétérocycle azoté",
+      "Un atome de soufre",
+      "Un halogène"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Acide 2-propylpentanoïque : la ramification est responsable de l'activité, les chaînes non ramifiées étant quasi inactives."
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/structure-010",
+    "nom": "Lamotrigine (Lamictal®)",
+    "smiles": "Nc1nnc(-c2cccc(Cl)c2Cl)c(N)n1",
+    "classe": "Phényltriazine",
+    "question": "À quelle famille chimique appartient cette molécule ?",
+    "options": [
+      "Phényltriazine",
+      "Hydantoïne",
+      "Succinimide",
+      "Iminostilbène",
+      "Barbiturique"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "3,5-diamino-6-[2,3-dichlorophényl]-1,2,4-triazine : lamotrigine ; c'est la présence de l'hétérocycle qui semble responsable de l'activité."
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/structure-011",
+    "nom": "Gabapentine (Neurontin®)",
+    "smiles": "NCC1(CC(O)=O)CCCCC1",
+    "classe": "Analogue du GABA",
+    "question": "Quelle est la particularité structurale de cette molécule ?",
+    "options": [
+      "C'est un analogue du GABA",
+      "C'est un barbiturique",
+      "C'est une triazine",
+      "C'est un iminostilbène",
+      "C'est un succinimide"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "La gabapentine possède une analogie structurale avec le GABA et a été développée comme agoniste du GABA."
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/structure-012",
+    "nom": "Prégabaline (Lyrica®)",
+    "smiles": "CC(C)C[C@H](CN)CC(O)=O",
+    "classe": "Analogue du GABA (3e génération)",
+    "question": "Quels sont les mécanismes d'action de cette molécule ?",
+    "options": [
+      "Facilitation GABAergique et inhibition des courants Ca++ de type T",
+      "Blocage des récepteurs NMDA uniquement",
+      "Inhibition de la GABA-transaminase",
+      "Blocage des canaux potassiques",
+      "Inhibition de la recapture de la sérotonine"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "La prégabaline (Lyrica®) facilite la transmission GABAergique et inhibe les courants Ca++ de bas seuil de type T."
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/structure-013",
+    "nom": "Lévétiracétam (Keppra)",
+    "smiles": "CC[C@H](C(N)=O)N1CCCC1=O",
+    "classe": "Pyrrolidone (3e génération)",
+    "question": "Comment le cours décrit-il cette molécule ?",
+    "options": [
+      "Pyrrolidone, équivalent du GABA cyclisé",
+      "Analogue du glutamate",
+      "Dérivé barbiturique",
+      "Dérivé de l'hydantoïne",
+      "Triazine"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Le lévétiracétam est une pyrrolidone, équivalent du GABA cyclisé, introduit en 2001."
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/structure-014",
+    "nom": "Vigabatrine",
+    "smiles": "C=CC(N)CCC(O)=O",
+    "classe": "Inhibiteur de la GABA-transaminase",
+    "question": "Quel est le mécanisme d'action de cette molécule ?",
+    "options": [
+      "Inhibition irréversible de la GABA-transaminase",
+      "Inhibition de la recapture du GABA",
+      "Blocage des canaux sodiques",
+      "Antagonisme NMDA",
+      "Inhibition du courant T"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "La vigabatrine inhibe de façon irréversible la GABA-transaminase, augmentant le GABA disponible."
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/structure-015",
+    "nom": "Clonazépam (Rivotril)",
+    "smiles": "O=C1CN=C(c2ccccc2Cl)c2cc([N+](=O)[O-])ccc2N1",
+    "classe": "Benzodiazépine antiépileptique",
+    "question": "Quelle est la particularité de cette benzodiazépine ?",
+    "options": [
+      "Elle est spécifiquement commercialisée comme anticonvulsivant",
+      "C'est un hypnotique pur",
+      "C'est un antagoniste des BZD",
+      "C'est un myorelaxant exclusif",
+      "C'est un antidépresseur"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Le clonazépam (Rivotril), dérivé 7-nitré, est spécifiquement commercialisé comme anticonvulsivant."
+  },
+  {
+    "id": "chimie-therapeutique/07-antiepileptiques/structure-016",
+    "nom": "GABA",
+    "smiles": "NCCCC(O)=O",
+    "classe": "Neurotransmetteur inhibiteur",
+    "question": "Quel est le rôle de cette molécule dans l'épilepsie ?",
+    "options": [
+      "C'est le neurotransmetteur inhibiteur dont le déséquilibre avec le glutamate favorise l'hyperexcitabilité",
+      "C'est le neurotransmetteur excitateur principal",
+      "C'est un métabolite du glutamate sans rôle",
+      "C'est un bloqueur des canaux sodiques",
+      "C'est un antagoniste NMDA"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Le déséquilibre entre la neurotransmission inhibitrice (GABA) et excitatrice (glutamate) est l'hypothèse synaptique de l'épilepsie."
+  }
+]

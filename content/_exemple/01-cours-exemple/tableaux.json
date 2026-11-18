@@ -1,0 +1,9 @@
+[
+  { "id": "_exemple/01-cours-exemple/tableau-001", "titre": "Comparaison des voies d'administration", "colonnes": ["Voie", "Absorption", "Premier passage", "Biodisponibilité"], "lignes": [["Intraveineuse", "Aucune", "Non", "100 %"], ["Orale", "Digestive", "Oui", "Variable"], ["Sublinguale", "Muqueuse buccale", "Non", "Élevée"], ["Rectale", "Muqueuse rectale", "Partiel", "Variable"]] },
+  { "id": "_exemple/01-cours-exemple/carte-001", "type": "carte", "titre": "Carte mentale — Pharmacocinétique", "racine": { "label": "Pharmacocinétique", "enfants": [
+    { "label": "Absorption", "enfants": [{ "label": "Diffusion passive" }, { "label": "Transport actif" }] },
+    { "label": "Distribution", "enfants": [{ "label": "Volume de distribution" }, { "label": "Fixation protéique" }] },
+    { "label": "Métabolisme", "enfants": [{ "label": "Phase I" }, { "label": "Phase II" }] },
+    { "label": "Élimination", "enfants": [{ "label": "Rénale" }, { "label": "Biliaire" }] }
+  ] } }
+]

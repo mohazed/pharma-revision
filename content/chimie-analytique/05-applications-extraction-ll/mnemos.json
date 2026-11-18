@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/mnemo-001",
+    "titre": "pH d'extraction",
+    "moyen": "« Acide en Acide, Base en Base »",
+    "explication": "Un acide faible s'extrait en milieu acide (pH bas), une base faible en milieu basique (pH élevé)."
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/mnemo-002",
+    "titre": "Conditions d'un D élevé pour un chélate",
+    "moyen": "« Hydrophobe, Acide fort, Basique, Concentré, Stable »",
+    "explication": "λH faible, Ka élevé (pKa bas), pH ≥ pKa + 2, ligand concentré, Ks élevé."
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/mnemo-003",
+    "titre": "Constante diélectrique",
+    "moyen": "« 15–40 : entre-deux »",
+    "explication": "εr < 15 paires intactes, 15–40 dissociation partielle, > 40 dissociation totale."
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/mnemo-004",
+    "titre": "Facteurs des paires d'ions",
+    "moyen": "« Contre Tous, Solvant, Ion, Relargant, pH » = CTSIRP",
+    "explication": "Contre-ion, Température, Solvant, Ion commun, Relargant, pH."
+  },
+  {
+    "id": "chimie-analytique/05-applications-extraction-ll/mnemo-005",
+    "titre": "Effets structuraux sur λ",
+    "moyen": "« Ramifié, Insaturé, Phényle, Hydrophile : moins ; Chlore et CH₂ : plus »",
+    "explication": "Les quatre premiers diminuent λ, le chlore et l'allongement de chaîne l'augmentent."
+  }
+]

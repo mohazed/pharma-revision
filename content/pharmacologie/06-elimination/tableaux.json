@@ -1,0 +1,216 @@
+[
+  {
+    "id": "pharmacologie/06-elimination/tableau-01",
+    "titre": "Les trois processus de l'élimination rénale",
+    "colonnes": [
+      "Processus",
+      "Sens du passage",
+      "Site",
+      "Fraction / molécules",
+      "Mécanisme"
+    ],
+    "lignes": [
+      [
+        "Filtration glomérulaire",
+        "Sang → urine primitive",
+        "Glomérule",
+        "Fraction libre, PM < 68 000 Da",
+        "Passif"
+      ],
+      [
+        "Sécrétion tubulaire",
+        "Liquide péritubulaire → liquide tubulaire",
+        "TCP",
+        "Fraction hydrosoluble ionisée",
+        "Actif (transporteurs sélectifs, saturation, compétition) ; ex. probénécide/pénicilline G"
+      ],
+      [
+        "Réabsorption active",
+        "Lumière tubulaire → sang",
+        "TCP",
+        "Na, K, acide urique, glucose, AA ; α-méthyldopa",
+        "Actif (énergie)"
+      ],
+      [
+        "Réabsorption passive",
+        "Lumière tubulaire → sang",
+        "TCD et TC",
+        "Molécules liposolubles non ionisées",
+        "Passif ; dépend du pH urinaire et du pKa"
+      ]
+    ]
+  },
+  {
+    "id": "pharmacologie/06-elimination/tableau-02",
+    "titre": "Réabsorption passive selon le pKa",
+    "colonnes": [
+      "Type",
+      "pKa",
+      "État au pH urinaire",
+      "Réabsorption"
+    ],
+    "lignes": [
+      [
+        "Acides forts",
+        "< 2,5",
+        "Ionisés en totalité",
+        "Jamais réabsorbés"
+      ],
+      [
+        "Acides (zone d'influence)",
+        "2,5 – 7,5",
+        "Variable selon le pH",
+        "Fortement influencée par le pH"
+      ],
+      [
+        "Acides très faibles",
+        "> 7,5",
+        "Non ionisés",
+        "Intense et permanente"
+      ],
+      [
+        "Bases très faibles, non polaires",
+        "< 6",
+        "Non ionisées",
+        "Intense et permanente"
+      ],
+      [
+        "Bases (zone d'influence)",
+        "6 – 12",
+        "Variable selon le pH",
+        "Fortement influencée par le pH"
+      ],
+      [
+        "Bases fortes",
+        "> 12",
+        "Ionisées en totalité",
+        "Jamais réabsorbées"
+      ]
+    ]
+  },
+  {
+    "id": "pharmacologie/06-elimination/tableau-03",
+    "titre": "Voies d'élimination extrarénales et exemples",
+    "colonnes": [
+      "Voie",
+      "Importance / caractéristiques",
+      "Exemples"
+    ],
+    "lignes": [
+      [
+        "Salivaire",
+        "Peu importante ; diffusion passive ou transport actif",
+        "Morphine, sulfamide, pénicilline (passif) ; lithium, phénytoïne (actif)"
+      ],
+      [
+        "Gastro-intestinale",
+        "Bases faibles excrétées dans l'estomac ; sécrétions intestinales",
+        "Quinine ; digoxine"
+      ],
+      [
+        "Biliaire",
+        "PM > 300 D, grande polarité, fractions ionisables",
+        "Streptomycine (passif) ; érythromycine, spiramycine, ampicilline, rifampicine, chlorothiazide (actif)"
+      ],
+      [
+        "Cycle entéro-hépatique",
+        "↑ Vd, ↑ durée de séjour ; arrêté par la cholestyramine",
+        "Chloramphénicol, rifampicine, tétracycline"
+      ],
+      [
+        "Pulmonaire",
+        "Produits volatils, air expiré",
+        "Halotane (60 %), eucalyptol"
+      ],
+      [
+        "Lactée",
+        "Accessoire ; < 1 % en 24 h",
+        "I131 (5 %) ; AVK, psychotropes, AINS (danger nouveau-né)"
+      ],
+      [
+        "Sudorale",
+        "Accessoire ; traces",
+        "I, Br, éthanol, acide salicylique, sulfamides"
+      ],
+      [
+        "Lacrymale",
+        "Très accessoire ; très petites quantités",
+        "I, Br, atropine, rifampicine, sulfamides"
+      ],
+      [
+        "Autres",
+        "Dents, sécrétions bronchiques, cheveux",
+        "Tétracyclines, iodures, arsenic"
+      ]
+    ]
+  },
+  {
+    "id": "pharmacologie/06-elimination/carte-01",
+    "type": "carte",
+    "titre": "Élimination des médicaments",
+    "racine": {
+      "label": "Élimination des médicaments",
+      "enfants": [
+        {
+          "label": "Rénale (principale)",
+          "enfants": [
+            {
+              "label": "Filtration glomérulaire : passive, fraction libre, PM < 68 000 Da",
+              "enfants": []
+            },
+            {
+              "label": "Sécrétion tubulaire : active, TCP, ionisée",
+              "enfants": []
+            },
+            {
+              "label": "Réabsorption : active (TCP) / passive (TCD, TC, pH, pKa)",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Digestive",
+          "enfants": [
+            {
+              "label": "Salivaire",
+              "enfants": []
+            },
+            {
+              "label": "Gastro-intestinale",
+              "enfants": []
+            },
+            {
+              "label": "Biliaire + cycle entéro-hépatique",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Pulmonaire (volatils)",
+          "enfants": []
+        },
+        {
+          "label": "Lactée (accessoire, < 1 %)",
+          "enfants": []
+        },
+        {
+          "label": "Sudorale, lacrymale, autres",
+          "enfants": []
+        },
+        {
+          "label": "Paramètres",
+          "enfants": [
+            {
+              "label": "Demi-vie (unité de temps)",
+              "enfants": []
+            },
+            {
+              "label": "Clairance (volume / temps ; totale = ∑ partielles)",
+              "enfants": []
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "id": "chimie-analytique/05-applications-extraction-ll",
+  "module": "chimie-analytique",
+  "ordre": 5,
+  "titre": "Applications de l'extraction liquide-liquide",
+  "type": "cours",
+  "source": {
+    "driveId": "1P69cSkPzdHIY_dGzL-itOIpwGLUU2H0x",
+    "fichier": "5. Applications de l'Extraction Liquide-Liquide.pdf",
+    "modifiedTime": "2026-11-12T19:28:26.741Z"
+  },
+  "resume": "Extraction des molécules simples (structure, association, complexes chargés, influence du pH sur acides et bases), des chélates métalliques (oxine, dithizone, KEX, taux de distribution) et des paires d'ions (constante diélectrique, stabilité, dosages colorimétriques et volumétriques)."
+}

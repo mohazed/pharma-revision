@@ -1,0 +1,170 @@
+[
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/flashcard-001",
+    "recto": "Définition d'un hétérocycle",
+    "verso": "Composé organique cyclique contenant généralement du carbone et au moins un hétéroatome (O, N, S…).",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/flashcard-002",
+    "recto": "Nombre minimal d'hétéroatomes dans un hétérocycle",
+    "verso": "Un.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/flashcard-003",
+    "recto": "3 critères de classification des hétérocycles",
+    "verso": "Nature de l'hétéroatome, taille du cycle, degré d'insaturation.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/flashcard-004",
+    "recto": "Structure du nom : Préfixe – Racine – Suffixe",
+    "verso": "Préfixe = nature et nombre d'hétéroatomes ; racine = taille ; suffixe = degré d'insaturation.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/flashcard-005",
+    "recto": "Préfixes O, S, N, Se, P, As, Sb",
+    "verso": "oxa, thia, aza, selena, phospha, arsa, stiba.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/flashcard-006",
+    "recto": "Radicaux de taille 3 à 9",
+    "verso": "-ir- (3), -et- (4), -ol- (5), -in- (6), -ep- (7), -oc- (8), -on- (9).",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/flashcard-007",
+    "recto": "Suffixes 5 chaînons (Widman-Hantzsch)",
+    "verso": "Azoté : -ole / -olidine ; non azoté : -ole / -olane.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/flashcard-008",
+    "recto": "Suffixes 3 chaînons",
+    "verso": "Azoté : -irine / -iridine ; non azoté : -irène / -irane.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/flashcard-009",
+    "recto": "Suffixes 6 chaînons",
+    "verso": "Azoté : -ine / -inane ; non azoté : -ine / -ane.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/flashcard-010",
+    "recto": "Suffixes 4 chaînons",
+    "verso": "Azoté : -éte / -étidine ; non azoté : -ète / -étane.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/flashcard-011",
+    "recto": "Suffixes 7 et 8 chaînons",
+    "verso": "-épine / -épane ; -ocine / -ocane (identiques azotés ou non).",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/flashcard-012",
+    "recto": "Pyridazine, pyrimidine, pyrazine",
+    "verso": "1,2-diazine ; 1,3-diazine ; 1,4-diazine.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/flashcard-013",
+    "recto": "Pyrazole et imidazole",
+    "verso": "1,2-diazole et 1,3-diazole.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/flashcard-014",
+    "recto": "Ordre de nomination d'hétéroatomes différents (monocycle)",
+    "verso": "O > S > -N > =N- (oxa puis thia puis aza).",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/flashcard-015",
+    "recto": "Hétérocycle fondamental entre deux hétérocycles accolés d'hétéroatomes différents",
+    "verso": "Priorité N > O > S.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/flashcard-016",
+    "recto": "Deux hétérocycles accolés de même hétéroatome",
+    "verso": "Le plus grand cycle est prioritaire (ex. pyrrolopyridine).",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/flashcard-017",
+    "recto": "Hétérocycle fixé à un benzène",
+    "verso": "L'hétérocycle est fondamental ; le benzène = substituant, préfixe benzo-.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/flashcard-018",
+    "recto": "Jonction : repérage des côtés",
+    "verso": "Prioritaire → lettres (a, b, c…) ; substituant → deux chiffres.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/flashcard-019",
+    "recto": "Numérotation des carbones de jonction",
+    "verso": "Pas de numéro propre : n° précédent + a (ex. 3a, 7a).",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/flashcard-020",
+    "recto": "Règle 4 de numérotation des bicycles",
+    "verso": "Plus petit indice aux hétéroatomes prioritaires : O > S > -NH > -N=.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/flashcard-021",
+    "recto": "Nomenclature d'un hétérocycle partiellement saturé",
+    "verso": "Nom de l'insaturé au maximum + « hydro » (ex. 2,3-dihydro-1H-1,4-diazépine).",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/flashcard-022",
+    "recto": "Benzo(b)pyridine / benzo(c)pyridine",
+    "verso": "Quinoléine / isoquinoléine.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/flashcard-023",
+    "recto": "Aziridines : intérêt",
+    "verso": "Agents alkylants de l'ADN (ex. mitomycine C).",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/flashcard-024",
+    "recto": "Furadantine",
+    "verso": "Antibactérien des infections urinaires (cycle à cinq chaînons, furane).",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/flashcard-025",
+    "recto": "Benzodiazépines : propriétés",
+    "verso": "Anxiolytiques, hypnotiques, anticonvulsivants (cycles à sept chaînons).",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/flashcard-026",
+    "recto": "Oxirane, oxétane, oxolane",
+    "verso": "Cycles oxygénés saturés à 3, 4 et 5 chaînons.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/flashcard-027",
+    "recto": "Aziridine, azétidine, azolidine",
+    "verso": "Cycles azotés saturés à 3, 4 et 5 chaînons.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/01-serie-heterocyclique/flashcard-028",
+    "recto": "Furane, thiophène, pyrrole en Widman-Hantzsch",
+    "verso": "Oxole, thiole, azole.",
+    "tags": []
+  }
+]

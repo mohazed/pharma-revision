@@ -1,0 +1,13 @@
+{
+  "id": "semiologie/07-troubles-du-transit",
+  "module": "semiologie",
+  "ordre": 7,
+  "titre": "Troubles du transit : diarrhées et constipation",
+  "type": "cours",
+  "source": {
+    "driveId": "1dqs5z6HA3hk66bYW_zSyVfO5ID0otxOe",
+    "fichier": "7. Troubles Du Transit.pdf",
+    "modifiedTime": "2025-10-14T16:03:28Z"
+  },
+  "resume": "Transit normal, définition et mécanismes des diarrhées, diagnostics différentiels (syndrome dysentérique), diarrhées aiguës et chroniques (sémiologie, examens, étiologies), constipation (critères de Rome IV, mécanismes, signes d'alarme, étiologies)."
+}

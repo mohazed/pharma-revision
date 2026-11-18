@@ -1,0 +1,26 @@
+[
+  {
+    "id": "pharmacie-galenique/03-eaux-pharmaceutiques/mnemo-001",
+    "titre": "Méthodes de purification",
+    "moyen": "« ÉODU » : Échange, Osmose, Distillation, Ultrafiltration",
+    "explication": "Les quatre méthodes de purification de l'eau citées dans le cours."
+  },
+  {
+    "id": "pharmacie-galenique/03-eaux-pharmaceutiques/mnemo-002",
+    "titre": "Filtration croissante",
+    "moyen": "« Mi-Ul-Na » comme « Mille Unités Nano » : Micro < Ultra < Nano",
+    "explication": "Ordre croissant d'efficacité : microfiltration, ultrafiltration, nanofiltration."
+  },
+  {
+    "id": "pharmacie-galenique/03-eaux-pharmaceutiques/mnemo-003",
+    "titre": "Germes aérobies",
+    "moyen": "« 100 - 10 - 10 - 0 » (EP, EHP, EPPI vrac, EPPI stérilisée)",
+    "explication": "Limites de germes aérobies viables totaux : 100, 10, 10 UFC/ml, stérile."
+  },
+  {
+    "id": "pharmacie-galenique/03-eaux-pharmaceutiques/mnemo-004",
+    "titre": "Stockage de l'EPPI",
+    "moyen": "« Clos, Chaud, UV, Inox »",
+    "explication": "Système clos, température > 70 °C, lampes UV en surface, acier inoxydable."
+  }
+]
