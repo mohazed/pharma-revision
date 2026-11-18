@@ -111,6 +111,7 @@ Carte mentale (optional, in the same file as an object with `"type": "carte"`): 
   "faculte": "Faculté de Pharmacie – Université d'Alger 1",
   "questions": [ { ...Qcm, "origine": "annale", "cours": "pharmacologie/02-voies-d-administration" | null, "verifie": true|false } ] }
 ```
+Annale questions always use `"type": "multiple"`, even when only one answer is correct, because the real EMD says « Cochez la ou les proposition(s) correcte(s) » and students don't know how many answers are right.
 Annale questions live ONLY in the annales file. The app merges them into the matching course's QCM pool at build time using `cours`. Do NOT copy them into qcm.json. If no course covers a question, use `"cours": null`.
 
 Glossary files: one per agent, `glossaire/<module>.json` (or `<module>-a.json` / `-b.json` when a module is split between two agents). The app merges every file in the folder.

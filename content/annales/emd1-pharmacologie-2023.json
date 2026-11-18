@@ -7,7 +7,7 @@
   "questions": [
     {
       "id": "annales/emd1-pharmacologie-2023/q01",
-      "type": "unique",
+      "type": "multiple",
       "enonce": "Concernant l'administration des médicaments par voie rectale :",
       "options": [
         "Les médicaments administrés par cette voie ont une action locale uniquement",
@@ -65,7 +65,7 @@
     },
     {
       "id": "annales/emd1-pharmacologie-2023/q03",
-      "type": "unique",
+      "type": "multiple",
       "enonce": "Un médicament acide faible dans un milieu gastrique à jeun est :",
       "options": [
         "Absorbé rapidement par la muqueuse gastrique",
@@ -125,7 +125,7 @@
     },
     {
       "id": "annales/emd1-pharmacologie-2023/q05",
-      "type": "unique",
+      "type": "multiple",
       "enonce": "A propos des interactions médicamenteuses d'ordre pharmacodynamique :",
       "options": [
         "Elles peuvent s'accompagner d'une modification de la concentration sanguine de l'un des traitements associés",
@@ -414,7 +414,7 @@
     },
     {
       "id": "annales/emd1-pharmacologie-2023/q15",
-      "type": "unique",
+      "type": "multiple",
       "enonce": "Les agonistes adrénergiques :",
       "options": [
         "occupent les mêmes récepteurs",
@@ -465,7 +465,7 @@
     },
     {
       "id": "annales/emd1-pharmacologie-2023/q17",
-      "type": "unique",
+      "type": "multiple",
       "enonce": "L'acide éicosapentanéoïque :",
       "options": [
         "est un médicament à action spécifique",
@@ -543,7 +543,7 @@
     },
     {
       "id": "annales/emd1-pharmacologie-2023/q20",
-      "type": "unique",
+      "type": "multiple",
       "enonce": "Le Mitogen Activated Protein Kinase :",
       "options": [
         "est un second messager",
@@ -653,7 +653,7 @@
     },
     {
       "id": "annales/emd1-pharmacologie-2023/q24",
-      "type": "unique",
+      "type": "multiple",
       "enonce": "Les méthodes d'étude de l'absorption des médicaments utilisant la culture cellulaire présentent les avantages :",
       "options": [
         "La durée de viabilité des lignées cellulaires est grande",
@@ -703,7 +703,7 @@
     },
     {
       "id": "annales/emd1-pharmacologie-2023/q26",
-      "type": "unique",
+      "type": "multiple",
       "enonce": "La pharmacologie de sécurité étudie :",
       "options": [
         "Les effets pharmacodynamiques secondaires que peut avoir une substance médicamenteuse sur les fonctions physiologiques de l'animal",
@@ -758,7 +758,7 @@
     },
     {
       "id": "annales/emd1-pharmacologie-2023/q28",
-      "type": "unique",
+      "type": "multiple",
       "enonce": "Le temps de demi-vie d'élimination d'un médicament (T1/2) :",
       "options": [
         "N'est pas corrélé à la constante de vitesse d'élimination du médicament",
@@ -788,7 +788,7 @@
     },
     {
       "id": "annales/emd1-pharmacologie-2023/q29",
-      "type": "unique",
+      "type": "multiple",
       "enonce": "Parmi les propositions suivantes, quelle(s) affirmation(s) est (sont) juste(s) ?",
       "options": [
         "Pour être retenue, une interaction médicamenteuse ne doit pas avoir une traduction clinique significative",
