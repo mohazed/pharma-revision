@@ -280,5 +280,41 @@
     "recto": "Chardon-Marie : drogue",
     "verso": "Akènes mûrs séchés débarrassés de leur aigrette (Silybum marianum, Asteraceae).",
     "tags": []
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/flashcard-048",
+    "recto": "Précurseur principal de la biogenèse des coumarines",
+    "verso": "L'acide cinnamique (voie du shikimate → acides phénylpropanoïques).",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/flashcard-049",
+    "recto": "Étapes de la biogenèse de la coumarine",
+    "verso": "Acide cinnamique → acide ortho-hydroxycinnamique → lactonisation → coumarine.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/flashcard-050",
+    "recto": "Coumarines simples vs complexes",
+    "verso": "Simples : génines (non combinées à un sucre) et hétérosides (OH phénolique engagé dans une liaison osidique). Complexes : furocoumarines (furanne) et pyranocoumarines (pyranne) fusionnés au noyau benzo-α-pyrone.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/flashcard-051",
+    "recto": "Plantes à furocoumarines photosensibilisantes et leurs familles",
+    "verso": "Apiaceae : persil, angélique, céleri, ammi. Rutaceae : bergamotier. Moraceae : figuier.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/flashcard-052",
+    "recto": "Précurseurs des lignanes",
+    "verso": "Unités phénylpropaniques : acides cinnamiques (C6–C3) et alcools monolignols (p-coumarylique, coniférylique, sinapylique).",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/flashcard-053",
+    "recto": "Réaction clé de la formation des lignanes",
+    "verso": "Le couplage oxydatif (couplage radicalaire) des unités phénylpropaniques.",
+    "tags": []
   }
 ]
