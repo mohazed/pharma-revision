@@ -4,8 +4,9 @@
 // the answer key is [4] only. Usage: node scripts/normalize-catchall.mjs [--write] [subdir]
 import { readdirSync, readFileSync, writeFileSync, statSync } from "node:fs";
 import { join, relative } from "node:path";
+import { fileURLToPath } from "node:url";
 
-const ROOT = new URL("../content/", import.meta.url).pathname;
+const ROOT = fileURLToPath(new URL("../content/", import.meta.url));
 const write = process.argv.includes("--write");
 const sub = process.argv.slice(2).find((a) => !a.startsWith("--"));
 const ALL_TRUE = /^\s*(toutes|tous)\s+(les\s+)?(propositions|réponses|affirmations|items)\b.*\b(correct|just|vrai|exact)/i;

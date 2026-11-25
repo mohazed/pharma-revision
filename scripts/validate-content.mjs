@@ -2,8 +2,9 @@
 // Validates content/ against content/SCHEMA.md. Usage: node scripts/validate-content.mjs [subdir]
 import { readdirSync, readFileSync, statSync, existsSync } from "node:fs";
 import { join, relative } from "node:path";
+import { fileURLToPath } from "node:url";
 
-const ROOT = new URL("../content/", import.meta.url).pathname;
+const ROOT = fileURLToPath(new URL("../content/", import.meta.url));
 const target = process.argv[2] ? join(ROOT, process.argv[2]) : ROOT;
 const errors = [];
 const ids = new Set();
