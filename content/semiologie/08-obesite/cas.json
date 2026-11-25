@@ -1,0 +1,401 @@
+[
+  {
+    "id": "semiologie/08-obesite/cas-001",
+    "titre": "Chauffeur de taxi qui ronfle et demande un somnifère",
+    "enonce": "M. A., 52 ans, chauffeur de taxi. Poids 104 kg, taille 1,75 m, tour de taille 112 cm. Il ronfle ; sa femme dit qu'il « s'arrête de respirer » la nuit. Il somnole au volant. Il demande des gélules minceur vues sur Internet et un « somnifère léger ».",
+    "questions": [
+      {
+        "id": "semiologie/08-obesite/cas-001-q1",
+        "type": "unique",
+        "enonce": "Son IMC et sa classe sont :",
+        "options": [
+          "≈ 30 kg/m², surpoids",
+          "≈ 34 kg/m², obésité de classe I",
+          "≈ 34 kg/m², obésité de classe II",
+          "≈ 37 kg/m², obésité de classe II",
+          "≈ 41 kg/m², obésité de classe III"
+        ],
+        "correctes": [
+          1
+        ],
+        "explication": "104 ÷ (1,75 × 1,75) = 104 ÷ 3,06 ≈ 34 kg/m² : obésité de classe I.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/08-obesite/cas-001-q2",
+        "type": "multiple",
+        "enonce": "Son tour de taille de 112 cm traduit :",
+        "options": [
+          "Une obésité abdominale",
+          "Un risque très élevé",
+          "Un risque seulement augmenté",
+          "Une obésité gynoïde",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0,
+          1
+        ],
+        "explication": "112 cm ≥ 102 cm chez l'homme : obésité abdominale, risque très élevé.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/08-obesite/cas-001-q3",
+        "type": "unique",
+        "enonce": "La complication à suspecter en priorité est :",
+        "options": [
+          "Des apnées du sommeil",
+          "Une hypothyroïdie",
+          "Une stéatose hépatique",
+          "Une mycose des plis",
+          "Une goutte"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Ronflement, pauses respiratoires et somnolence au volant évoquent des apnées du sommeil.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/08-obesite/cas-001-q4",
+        "type": "multiple",
+        "enonce": "La réponse du pharmacien comprend :",
+        "options": [
+          "Pas de somnifère",
+          "Pas de gélules minceur achetées hors circuit",
+          "Mesurer la tension avec un grand brassard",
+          "Orienter vers le médecin (apnées, glycémie, lipides)",
+          "Toutes les propositions sont correctes"
+        ],
+        "correctes": [
+          4
+        ],
+        "explication": "Pas de somnifère (aggrave les apnées), pas de gélules hors circuit, tension au grand brassard, orientation médicale.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/08-obesite/cas-001-q5",
+        "type": "unique",
+        "enonce": "Le caractère urgent de l'orientation médicale tient à :",
+        "options": [
+          "La somnolence au volant, qui engage sa sécurité et celle des autres",
+          "Son âge de 52 ans",
+          "Sa demande de gélules minceur",
+          "Son tour de taille",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "La somnolence au volant engage la sécurité du patient et des autres : l'orientation médicale est urgente.",
+        "difficulte": 2,
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "semiologie/08-obesite/cas-002",
+    "titre": "Prise de poids rapide sous traitement",
+    "enonce": "Mme B., 67 ans, traitée pour hypertension par amlodipine, se présente à l'officine car elle a pris 2 kg en 3 jours. Elle se plaint de jambes gonflées et d'un essoufflement. Elle demande un produit « minceur » pour « perdre ces kilos ».",
+    "questions": [
+      {
+        "id": "semiologie/08-obesite/cas-002-q1",
+        "type": "unique",
+        "enonce": "Cette prise de poids correspond le plus probablement à :",
+        "options": [
+          "De la graisse",
+          "De l'eau (rétention, œdèmes)",
+          "Du muscle",
+          "Une obésité gynoïde",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          1
+        ],
+        "explication": "2 kg en 3 jours, ce n'est pas de la graisse, c'est de l'eau.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/08-obesite/cas-002-q2",
+        "type": "multiple",
+        "enonce": "Les arguments en faveur d'une rétention d'eau sont :",
+        "options": [
+          "Prise de poids rapide en quelques jours",
+          "Jambes gonflées",
+          "Essoufflement",
+          "Traitement par amlodipine",
+          "Toutes les propositions sont correctes"
+        ],
+        "correctes": [
+          4
+        ],
+        "explication": "Signes de rétention d'eau : prise de poids rapide, jambes gonflées, essoufflement ; l'amlodipine fait partie des médicaments en cause.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/08-obesite/cas-002-q3",
+        "type": "unique",
+        "enonce": "Cette prise de poids peut révéler :",
+        "options": [
+          "Une insuffisance cardiaque",
+          "Un syndrome des ovaires polykystiques",
+          "Une maladie cœliaque",
+          "Une obésité de classe III",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "2 kg en 3 jours peut révéler une insuffisance cardiaque.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/08-obesite/cas-002-q4",
+        "type": "multiple",
+        "enonce": "La conduite du pharmacien est de :",
+        "options": [
+          "Demander un avis médical rapide",
+          "Ne pas délivrer de produit « minceur »",
+          "Conseiller d'arrêter seule l'amlodipine",
+          "Rappeler que le patient ne doit jamais arrêter seul son traitement",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0,
+          1,
+          3
+        ],
+        "explication": "Rétention d'eau : avis médical rapide ; le patient ne doit jamais arrêter seul son traitement ; un produit minceur n'est pas indiqué.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/08-obesite/cas-002-q5",
+        "type": "multiple",
+        "enonce": "Les autres médicaments cités pouvant donner des œdèmes sont :",
+        "options": [
+          "Les AINS",
+          "Les corticoïdes",
+          "La metformine",
+          "Les inhibiteurs de SGLT2",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0,
+          1
+        ],
+        "explication": "Médicaments : amlodipine, AINS, corticoïdes.",
+        "difficulte": 2,
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "semiologie/08-obesite/cas-003",
+    "titre": "Femme en surpoids avec tour de taille élevé",
+    "enonce": "Mme C., 45 ans, 1,60 m, 70 kg, tour de taille 92 cm. Bilan récent : triglycérides 1,80 g/L, HDL-cholestérol 0,42 g/L, glycémie à jeun 1,05 g/L, pression artérielle 128/82 mmHg, sans traitement. On note une peau épaissie et brune au niveau du cou.",
+    "questions": [
+      {
+        "id": "semiologie/08-obesite/cas-003-q1",
+        "type": "unique",
+        "enonce": "Son IMC (70 ÷ 2,56) est d'environ 27,3 kg/m². Elle est :",
+        "options": [
+          "De corpulence normale",
+          "En surpoids",
+          "Obèse de classe I",
+          "Obèse de classe II",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          1
+        ],
+        "explication": "25 à 29,9 : surpoids.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/08-obesite/cas-003-q2",
+        "type": "multiple",
+        "enonce": "Son tour de taille de 92 cm :",
+        "options": [
+          "Dépasse le seuil de risque augmenté (80 cm)",
+          "Dépasse le seuil de risque très élevé (88 cm)",
+          "Est supérieur à la moitié de sa taille",
+          "Est normal pour une femme",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "Femme : risque augmenté ≥ 80 cm, très élevé ≥ 88 cm ; 92 cm > 80 cm (moitié de 160 cm).",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/08-obesite/cas-003-q3",
+        "type": "multiple",
+        "enonce": "Les critères de syndrome métabolique présents sont :",
+        "options": [
+          "Tour de taille",
+          "Triglycérides",
+          "HDL-cholestérol",
+          "Glycémie à jeun",
+          "Toutes les propositions sont correctes"
+        ],
+        "correctes": [
+          4
+        ],
+        "explication": "TT ≥ 80 cm, TG ≥ 1,50 g/L, HDL < 0,50 g/L chez la femme, glycémie ≥ 1,00 g/L : 4 critères. La PA (128/82) est sous 130/85.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/08-obesite/cas-003-q4",
+        "type": "unique",
+        "enonce": "Conclusion :",
+        "options": [
+          "Pas de syndrome métabolique car l'IMC est < 30",
+          "Syndrome métabolique (au moins 3 critères sur 5)",
+          "Syndrome métabolique impossible sans HTA",
+          "Il faudrait les 5 critères",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          1
+        ],
+        "explication": "Au moins 3 critères sur 5 suffisent, indépendamment de l'IMC.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/08-obesite/cas-003-q5",
+        "type": "multiple",
+        "enonce": "La lésion du cou évoque :",
+        "options": [
+          "Un acanthosis nigricans",
+          "Une résistance à l'insuline",
+          "La nécessité de proposer une glycémie",
+          "Une mycose des plis",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "Peau épaissie, brune, au cou : acanthosis nigricans, résistance à l'insuline, proposer une glycémie.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/08-obesite/cas-003-q6",
+        "type": "multiple",
+        "enonce": "Le syndrome métabolique annonce :",
+        "options": [
+          "Le diabète de type 2",
+          "Les maladies cardiovasculaires",
+          "L'hypothyroïdie",
+          "Le syndrome des ovaires polykystiques",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0,
+          1
+        ],
+        "explication": "Le syndrome métabolique annonce le diabète de type 2 et les maladies cardiovasculaires.",
+        "difficulte": 2,
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "semiologie/08-obesite/cas-004",
+    "titre": "Suivi après bypass et demande d'antalgique",
+    "enonce": "Mme D., 38 ans, a eu un bypass il y a un an pour une obésité sévère. Elle vient à l'officine pour des douleurs du genou et demande un anti-inflammatoire (AINS). Elle prend une contraception orale et ne prend plus ses vitamines.",
+    "questions": [
+      {
+        "id": "semiologie/08-obesite/cas-004-q1",
+        "type": "unique",
+        "enonce": "Le bypass consiste à :",
+        "options": [
+          "Retirer une grande partie de l'estomac",
+          "Court-circuiter une partie de l'intestin",
+          "Poser un ballon intragastrique",
+          "Retirer la vésicule",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          1
+        ],
+        "explication": "Bypass : on court-circuite une partie de l'intestin ; la sleeve retire une grande partie de l'estomac.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/08-obesite/cas-004-q2",
+        "type": "unique",
+        "enonce": "Concernant sa demande d'AINS :",
+        "options": [
+          "Les AINS sont à éviter (risque d'ulcère)",
+          "Les AINS sont conseillés à forte dose",
+          "Les AINS sont sans risque après bypass",
+          "Les AINS remplacent les vitamines",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Après chirurgie de l'obésité : éviter les AINS (risque d'ulcère).",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/08-obesite/cas-004-q3",
+        "type": "multiple",
+        "enonce": "Les supplémentations à reprendre à vie sont :",
+        "options": [
+          "Vitamine B12",
+          "Fer",
+          "Calcium",
+          "Vitamine D",
+          "Toutes les propositions sont correctes"
+        ],
+        "correctes": [
+          4
+        ],
+        "explication": "Vitamines et minéraux à vie : B12, fer, calcium, vitamine D.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "semiologie/08-obesite/cas-004-q4",
+        "type": "multiple",
+        "enonce": "Les autres conseils du pharmacien :",
+        "options": [
+          "La contraception orale est moins fiable après bypass",
+          "Les formes liquides ou à croquer sont parfois préférables",
+          "La patiente reste suivie à vie",
+          "Le suivi s'arrête un an après l'intervention",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "Contraception orale moins fiable après bypass ; formes liquides ou à croquer ; suivi à vie, le pharmacien est un relais essentiel.",
+        "difficulte": 2,
+        "origine": "genere"
+      }
+    ]
+  }
+]

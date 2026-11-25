@@ -1,0 +1,264 @@
+[
+  {
+    "id": "pharmacie-galenique/13-emulsions/cas-001",
+    "titre": "Cas pratique : instabilité d'une émulsion au stockage",
+    "enonce": "Un préparateur constate qu'une émulsion L/H stockée depuis quelques semaines présente une couche plus concentrée en globules à sa surface. Après agitation, l'aspect initial est retrouvé. Un autre lot, plus ancien, présente une séparation nette en deux phases qui ne disparaît pas à l'agitation.",
+    "questions": [
+      {
+        "id": "pharmacie-galenique/13-emulsions/cas-001-q1",
+        "type": "unique",
+        "enonce": "Le phénomène observé sur le premier lot est :",
+        "options": [
+          "Un crémage",
+          "Une sédimentation",
+          "Une coalescence",
+          "Une inversion de phase",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Déplacement des globules vers la surface, réversible par agitation : crémage.",
+        "difficulte": 1,
+        "tags": [],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacie-galenique/13-emulsions/cas-001-q2",
+        "type": "multiple",
+        "enonce": "Pour ralentir ce phénomène, on peut :",
+        "options": [
+          "Réduire la taille des globules",
+          "Diminuer la différence de densité entre les deux phases",
+          "Augmenter la viscosité de la phase dispersante",
+          "Augmenter la taille des globules",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "D'après la loi de Stokes, on réduit la taille des globules, la différence de densité, et on augmente la viscosité de la phase dispersante.",
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacie-galenique/13-emulsions/cas-001-q3",
+        "type": "multiple",
+        "enonce": "Concernant le second lot :",
+        "options": [
+          "La séparation de phase résulte d'une coalescence",
+          "La coalescence s'accompagne d'une rupture du film interfacial",
+          "La coalescence est irréversible",
+          "Il s'agit d'une simple floculation réversible",
+          "Toutes les propositions sont correctes"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "La coalescence, fusion de globules floculés avec rupture du film, est irréversible et conduit à la séparation de phase.",
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacie-galenique/13-emulsions/cas-001-q4",
+        "type": "unique",
+        "enonce": "Pour suivre la stabilité électrique de l'émulsion, on mesure :",
+        "options": [
+          "Le potentiel Zêta",
+          "Le potentiel Ψ0",
+          "Le potentiel Ψs",
+          "La tension interfaciale",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Le seul potentiel mesurable est le potentiel Zêta, au zêtamètre ; plus il est grand, plus les globules se repoussent.",
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/cas-002",
+    "titre": "Cas pratique : formulation d'une émulsion et choix des surfactifs",
+    "enonce": "Un laboratoire doit formuler une émulsion à partir d'une huile dont il ne connaît pas le HLB critique. Il dispose d'un surfactif lipophile (HLB 4) et d'un surfactif hydrophile (HLB 14).",
+    "questions": [
+      {
+        "id": "pharmacie-galenique/13-emulsions/cas-002-q1",
+        "type": "multiple",
+        "enonce": "Pour connaître le HLB critique de l'huile :",
+        "options": [
+          "Il faut procéder par voie expérimentale",
+          "On prépare une série d'émulsions avec des mélanges de surfactifs de HLB différents",
+          "On retient le HLB du mélange donnant l'émulsion la plus stable",
+          "On le calcule à partir du poids moléculaire de l'huile",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "Le HLB critique ne peut être déterminé que par voie expérimentale : le mélange donnant l'émulsion la plus stable fournit sa valeur.",
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacie-galenique/13-emulsions/cas-002-q2",
+        "type": "unique",
+        "enonce": "Un mélange de 30 % de surfactif lipophile (HLB 4) et 70 % de surfactif hydrophile (HLB 14) a un HLB de :",
+        "options": [
+          "11",
+          "10",
+          "9",
+          "7",
+          "12"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "HLBm = (30 × 4 + 70 × 14) / 100 = (120 + 980) / 100 = 11.",
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacie-galenique/13-emulsions/cas-002-q3",
+        "type": "multiple",
+        "enonce": "Pour avoir une vue d'ensemble des proportions eau/huile/surfactifs conduisant à une formule stable :",
+        "options": [
+          "On établit un diagramme ternaire",
+          "Les résultats sont portés sur un triangle équilatéral",
+          "On procède par tâtonnement",
+          "On utilise le Coulter Counter",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "Le diagramme ternaire Eau-Surfactif-Huile, établi expérimentalement sur un triangle équilatéral, permet d'aboutir par tâtonnement à une formule stable.",
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacie-galenique/13-emulsions/cas-002-q4",
+        "type": "multiple",
+        "enonce": "Lors de la fabrication :",
+        "options": [
+          "Les deux phases doivent être à la même température",
+          "Elles sont chauffées au bain-marie entre 50 et 80 °C",
+          "L'agitation est poursuivie jusqu'à refroidissement",
+          "Le mélange doit être effectué le plus rapidement possible",
+          "Toutes les propositions sont correctes"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "Phases à la même température (bain-marie 50–80 °C), mélange lent, agitation jusqu'à refroidissement.",
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/cas-003",
+    "titre": "Cas pratique : contrôle d'une émulsion de sens inconnu",
+    "enonce": "Au contrôle qualité, on reçoit une émulsion dont le sens (L/H ou H/L) n'est pas indiqué. On souhaite aussi caractériser la taille de ses globules et sa stabilité.",
+    "questions": [
+      {
+        "id": "pharmacie-galenique/13-emulsions/cas-003-q1",
+        "type": "multiple",
+        "enonce": "Pour déterminer le sens de l'émulsion, on peut :",
+        "options": [
+          "Utiliser la méthode par dilution",
+          "Ajouter du bleu de méthylène (hydrosoluble) ou du rouge Soudan (liposoluble)",
+          "Mesurer la conductivité électrique",
+          "Mesurer le pH",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "Les méthodes du sens sont la dilution, les colorants et la conductivité électrique.",
+        "difficulte": 1,
+        "tags": [],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacie-galenique/13-emulsions/cas-003-q2",
+        "type": "unique",
+        "enonce": "La conductivité mesurée est élevée. L'émulsion est vraisemblablement :",
+        "options": [
+          "De type L/H",
+          "De type H/L",
+          "Une émulsion multiple H/L/H",
+          "Impossible à déterminer par cette méthode",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Une émulsion L/H possède une conductivité élevée.",
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacie-galenique/13-emulsions/cas-003-q3",
+        "type": "multiple",
+        "enonce": "Pour la distribution granulométrique de cette émulsion :",
+        "options": [
+          "On peut utiliser la méthode microscopique avec une échelle micrométrique",
+          "Le Coulter Counter est utilisable car il s'agit d'une émulsion H/E",
+          "Le Coulter Counter n'est utilisable que pour les émulsions E/H",
+          "La méthode des colorants suffit",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0,
+          1
+        ],
+        "explication": "L/H = H/E : microscope et Coulter Counter (réservé aux émulsions H/E) sont utilisables.",
+        "difficulte": 3,
+        "tags": [],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacie-galenique/13-emulsions/cas-003-q4",
+        "type": "unique",
+        "enonce": "L'essai de stabilité à la centrifugation se fait :",
+        "options": [
+          "À 2500–3000 tr/min après coloration",
+          "À 250–300 tr/min sans coloration",
+          "À 25 000 tr/min après dilution",
+          "Au bain-marie à 80 °C",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Centrifugation à 2500–3000 tr/min après coloration, en observant sédimentation ou crémage.",
+        "difficulte": 1,
+        "tags": [],
+        "origine": "genere"
+      }
+    ]
+  }
+]

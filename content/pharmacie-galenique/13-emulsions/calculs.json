@@ -1,0 +1,98 @@
+[
+  {
+    "id": "pharmacie-galenique/13-emulsions/calcul-001",
+    "titre": "HLB d'un mélange de surfactifs",
+    "enonce": "On mélange {x} g d'un surfactif lipophile de HLB {hl} avec (100 − {x}) g d'un surfactif hydrophile de HLB {hh}. Calculez le HLB du mélange.",
+    "variables": {
+      "x": {
+        "min": 10,
+        "max": 90,
+        "pas": 5,
+        "unite": "g"
+      },
+      "hl": {
+        "min": 2,
+        "max": 6,
+        "pas": 0.5,
+        "unite": ""
+      },
+      "hh": {
+        "min": 12,
+        "max": 17,
+        "pas": 0.5,
+        "unite": ""
+      }
+    },
+    "formule": "(x * hl + (100 - x) * hh) / 100",
+    "unite": "",
+    "decimales": 1,
+    "etapes": [
+      "HLBm = (x HLBL + (100 − x) HLBH) / 100",
+      "HLBm = ({x} × {hl} + (100 − {x}) × {hh}) / 100",
+      "HLBm = {resultat}"
+    ],
+    "rappel": "Les valeurs HLB sont additives : HLBm = (x HLBL + (100 − x) HLBH) / 100, x = masse du surfactif lipophile."
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/calcul-002",
+    "titre": "Proportion de surfactif lipophile pour un HLB requis",
+    "enonce": "On dispose d'un surfactif lipophile de HLB {hl} et d'un surfactif hydrophile de HLB {hh}. Quelle masse x (pour 100 g de mélange) de surfactif lipophile faut-il pour obtenir un HLB de mélange égal au HLB critique {hc} de l'huile ?",
+    "variables": {
+      "hl": {
+        "min": 2,
+        "max": 6,
+        "pas": 0.5,
+        "unite": ""
+      },
+      "hh": {
+        "min": 13,
+        "max": 17,
+        "pas": 0.5,
+        "unite": ""
+      },
+      "hc": {
+        "min": 7,
+        "max": 12,
+        "pas": 0.5,
+        "unite": ""
+      }
+    },
+    "formule": "100 * (hh - hc) / (hh - hl)",
+    "unite": "g",
+    "decimales": 1,
+    "etapes": [
+      "On pose HLBm = HLBc : (x HLBL + (100 − x) HLBH) / 100 = HLBc",
+      "x = 100 × (HLBH − HLBc) / (HLBH − HLBL)",
+      "x = 100 × ({hh} − {hc}) / ({hh} − {hl}) = {resultat} g"
+    ],
+    "rappel": "HLBm = (x HLBL + (100 − x) HLBH) / 100 ; l'émulsion la plus stable est obtenue quand HLBm = HLB critique de l'huile."
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/calcul-003",
+    "titre": "Travail d'émulsification",
+    "enonce": "La tension interfaciale entre deux liquides non miscibles est γ = {g} mN/m. Calculez le travail nécessaire pour une augmentation de surface ΔS = {s} m².",
+    "variables": {
+      "g": {
+        "min": 5,
+        "max": 50,
+        "pas": 1,
+        "unite": "mN/m"
+      },
+      "s": {
+        "min": 1,
+        "max": 100,
+        "pas": 1,
+        "unite": "m²"
+      }
+    },
+    "formule": "g * s",
+    "unite": "mJ",
+    "decimales": 0,
+    "etapes": [
+      "W = γ ΔS",
+      "W = {g} × {s}",
+      "W = {resultat} mJ"
+    ],
+    "rappel": "W = γ ΔS (γ = tension interfaciale, ΔS = augmentation de surface) ; les tensioactifs diminuent γ donc le travail."
+  }
+]

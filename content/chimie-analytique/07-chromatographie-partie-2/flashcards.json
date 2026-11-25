@@ -1,0 +1,278 @@
+[
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/flash-001",
+    "recto": "Isotherme de distribution",
+    "verso": "Représentation graphique de CS = K CM à une température donnée ; peut être linéaire, concave ou convexe.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/flash-002",
+    "recto": "Paramètres d'asymétrie d'un pic",
+    "verso": "Facteur d'asymétrie Fa et facteur de traînée Ft, mesurés à 10 % de la hauteur du pic.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/flash-003",
+    "recto": "Isotherme linéaire",
+    "verso": "Situation idéale : Fa = 1 ; Ft = 1.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/flash-004",
+    "recto": "Isotherme convexe",
+    "verso": "Phase stationnaire saturée ; montée du pic plus rapide que la descente ; Fa > 1 ; Ft > 1.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/flash-005",
+    "recto": "Isotherme concave",
+    "verso": "Constituant trop retenu dans la phase stationnaire ; Fa < 1 ; Ft < 1.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/flash-006",
+    "recto": "Analyse qualitative en chromatographie",
+    "verso": "Identification des constituants par la position des pics sur l'axe du temps.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/flash-007",
+    "recto": "Analyse quantitative en chromatographie",
+    "verso": "Mesure de la quantité par l'aire sous les pics.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/flash-008",
+    "recto": "Aire du pic",
+    "verso": "Proportionnelle à la quantité de substance éluée ; triangulation (hauteur × largeur) ou intégrateur automatique relié au détecteur.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/flash-009",
+    "recto": "Temps de rétention TR",
+    "verso": "Temps entre l'introduction de la substance dans la colonne et sa sortie ; temps de rétention brut.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/flash-010",
+    "recto": "Temps mort tM",
+    "verso": "Temps nécessaire à une molécule de phase mobile (substance non retenue) pour traverser la colonne ; pic solvant.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/flash-011",
+    "recto": "Temps de rétention réduit (corrigé)",
+    "verso": "T'R = TR − TM.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/flash-012",
+    "recto": "Ligne de base",
+    "verso": "Correspond au passage de la phase mobile seule.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/flash-013",
+    "recto": "Volume de rétention VR",
+    "verso": "Volume de phase mobile nécessaire pour éluer un composé ; VR = TR · D (débit stationnaire).",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/flash-014",
+    "recto": "Volume mort VM (VO)",
+    "verso": "Volume de la phase mobile contenue dans la colonne.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/flash-015",
+    "recto": "Volume de rétention corrigé",
+    "verso": "V'R = VR − VM.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/flash-016",
+    "recto": "Facteur de rétention K'",
+    "verso": "K' = T'R/TM = (TR − TM)/TM ; K' = 0 si le soluté n'est pas retenu.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/flash-017",
+    "recto": "K' optimal en chromatographie liquide",
+    "verso": "5 ≤ K' ≤ 10.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/flash-018",
+    "recto": "Pourquoi « facteur de rétention » plutôt que « facteur de capacité » ?",
+    "verso": "Pour éviter la confusion avec la capacité de la colonne (quantité maximale de substance fixable).",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/flash-019",
+    "recto": "Efficacité d'une colonne",
+    "verso": "Aptitude à donner des pics fins ; mesurée par le nombre N de plateaux théoriques.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/flash-020",
+    "recto": "N à partir de la courbe de Gauss",
+    "verso": "N = TR²/σ² (σ écart type, σ² variance).",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/flash-021",
+    "recto": "N à partir de la largeur à la base",
+    "verso": "N = 16 TR²/w², avec w = 4σ.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/flash-022",
+    "recto": "N à partir de la largeur à mi-hauteur",
+    "verso": "N = 5,54 TR²/δ², avec δ = 2,354σ.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/flash-023",
+    "recto": "Pourquoi préférer δ à w ?",
+    "verso": "Le pic est souvent plus symétrique à mi-hauteur qu'à sa base.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/flash-024",
+    "recto": "Nombre de plateaux effectifs",
+    "verso": "Neff = 16 T'R²/W² (TR remplacé par T'R).",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/flash-025",
+    "recto": "HEPT",
+    "verso": "Hauteur équivalente à un plateau théorique : h = L/N, généralement en mm.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/flash-026",
+    "recto": "Relation N – h",
+    "verso": "Quand N augmente, h diminue : colonne efficace.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/flash-027",
+    "recto": "Résolution R",
+    "verso": "Mesure la séparation de deux pics voisins : R = 2 (TRB − TRA)/(WA + WB).",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/flash-028",
+    "recto": "Valeur optimale de la résolution",
+    "verso": "R = 1,5 (0,75 : mauvaise ; 1 : suffisante ; 1,5 : bonne séparation).",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/flash-029",
+    "recto": "Facteur de sélectivité α",
+    "verso": "Temps de rétention relatif : α = T'RB/T'RA = K'B/K'A ; doit être > 1.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/flash-030",
+    "recto": "α = 1",
+    "verso": "Pas de séparation.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/flash-031",
+    "recto": "Formule de Purnell",
+    "verso": "R = (√NB/4) · ((α − 1)/α) · (K'B/(1 + K'B)) : efficacité · sélectivité · rétention.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/flash-032",
+    "recto": "Hypothèse de la formule de Purnell",
+    "verso": "N identique pour A et B en raison de leur proximité.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/flash-033",
+    "recto": "Imperfections de la théorie des plateaux",
+    "verso": "Suite discontinue d'opérations, équilibres supposés complets, ignore diffusion, écoulement continu et élargissement selon le débit.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/flash-034",
+    "recto": "Théorie cinétique",
+    "verso": "Due à GIDDING : lie H à la vitesse d'écoulement de la phase mobile.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/flash-035",
+    "recto": "Équation de Van Deemter",
+    "verso": "H = A + B/u + C·u (proposée en 1956 pour les colonnes remplies en CPG).",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/flash-036",
+    "recto": "Terme A",
+    "verso": "Diffusion turbulente (anisotropie d'écoulement) : A = 2·dp·λ ; croît avec le diamètre des particules.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/flash-037",
+    "recto": "Terme B",
+    "verso": "Diffusion moléculaire longitudinale : B = 2·γ·DM ; importante aux faibles vitesses.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/flash-038",
+    "recto": "γ",
+    "verso": "Facteur de tortuosité ou d'obstruction : influence de la colonne (granulométrie, régularité du remplissage).",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/flash-039",
+    "recto": "Terme C",
+    "verso": "Résistance au transfert de masse : C = Cm + Cs.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/flash-040",
+    "recto": "Cm et Cs",
+    "verso": "Cm ∝ dp²/DM (phase mobile) ; Cs ∝ df²/DS (phase stationnaire).",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/flash-041",
+    "recto": "Réduire la résistance au transfert de masse",
+    "verso": "Réduire le diamètre des particules et l'épaisseur de phase stationnaire ; colonne régulièrement remplie et bien tassée.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/flash-042",
+    "recto": "Asymptote de la courbe de Van Deemter",
+    "verso": "H = A + C·u : ordonnée à l'origine A, pente C.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/flash-043",
+    "recto": "Vitesse optimale",
+    "verso": "u opt = √(B/C) (annulation de f'(u) = −B/u² + C).",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/flash-044",
+    "recto": "Hauteur minimale",
+    "verso": "H min = A + 2√(BC).",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/flash-045",
+    "recto": "Unités de A, B, C (u en cm/s, H en cm)",
+    "verso": "A en cm ; B en cm²/s ; C en s.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/flash-046",
+    "recto": "Conclusion de Van Deemter",
+    "verso": "u optimale → h minimale → N maximal → meilleure efficacité.",
+    "tags": []
+  }
+]

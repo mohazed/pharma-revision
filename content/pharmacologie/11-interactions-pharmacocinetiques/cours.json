@@ -1,0 +1,13 @@
+{
+  "id": "pharmacologie/11-interactions-pharmacocinetiques",
+  "module": "pharmacologie",
+  "ordre": 11,
+  "titre": "Interactions médicamenteuses en phase pharmacocinétique",
+  "type": "cours",
+  "source": {
+    "driveId": "1uDZqeCJd8m7hIGwGsEBLVDbdTBDukoX3",
+    "fichier": "10. Les interactions médicamenteuses en Phase pharmacocinétique.pptx",
+    "modifiedTime": "2026-11-20T13:16:00.027Z"
+  },
+  "resume": "Définitions (interaction médicamenteuse, incompatibilités physico-chimiques), conséquences et niveaux de gravité ANSM des IAM, mécanismes pharmacocinétiques et pharmacodynamiques, puis interactions au niveau de l'absorption (pH, barrière, adsorption, complexation, vidange, transit, compétition), de la distribution (déplacement protéique et tissulaire), du métabolisme (induction et inhibition enzymatiques, alcool, tabac) et de l'élimination (compétition tubulaire, pH urinaire, néphrotoxiques)."
+}

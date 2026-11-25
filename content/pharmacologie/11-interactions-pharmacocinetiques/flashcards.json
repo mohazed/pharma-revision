@@ -1,0 +1,468 @@
+[
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/flash-001",
+    "recto": "Définition d'une interaction médicamenteuse",
+    "verso": "Modification cliniquement significative, observée in vivo, des effets attendus d'un médicament lors de la coadministration d'un autre médicament, d'aliment, d'alcool ou de tabac.",
+    "tags": [
+      "définition"
+    ]
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/flash-002",
+    "recto": "Le terme « interaction » est réservé à quels événements ?",
+    "verso": "Aux événements se passant à l'intérieur de l'organisme (in vivo).",
+    "tags": [
+      "définition"
+    ]
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/flash-003",
+    "recto": "Facteurs favorisant les IAM (introduction)",
+    "verso": "Polymédication, vieillissement de la population, émergence de pathologies (maladies chroniques), automédication et mésusage.",
+    "tags": [
+      "introduction"
+    ]
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/flash-004",
+    "recto": "Définition d'une incompatibilité physico-chimique",
+    "verso": "Réaction physico-chimique entre deux médicaments mélangés dans une même seringue ou un même liquide de perfusion : précipité inactif ou toxique, ou changement des propriétés physico-chimiques.",
+    "tags": [
+      "incompatibilités"
+    ]
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/flash-005",
+    "recto": "Exemples d'incompatibilités physico-chimiques du cours",
+    "verso": "Gentamicine + ampicilline ; phénytoïne + glucosé.",
+    "tags": [
+      "incompatibilités"
+    ]
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/flash-006",
+    "recto": "Pourquoi la phénytoïne précipite-t-elle dans le glucosé ?",
+    "verso": "La phénytoïne est un médicament alcalin ; le sérum glucosé a un pH de 4–4,5 → précipité insoluble. Utiliser le sérum salé (pH 7–7,5).",
+    "tags": [
+      "incompatibilités",
+      "phénytoïne"
+    ]
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/flash-007",
+    "recto": "Les 4 objectifs d'une IAM utile",
+    "verso": "Augmenter le rapport bénéfice/risque, améliorer l'efficacité thérapeutique, antagoniser un effet toxique (antidote), diminuer un effet indésirable.",
+    "tags": [
+      "IAM utiles"
+    ]
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/flash-008",
+    "recto": "Que peuvent provoquer les IAM indésirables ?",
+    "verso": "Des EI, une diminution ou une augmentation de l'effet thérapeutique, un accident de surdosage, l'apparition de phénomènes toxiques.",
+    "tags": [
+      "IAM indésirables"
+    ]
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/flash-009",
+    "recto": "Les 4 niveaux de gravité de l'ANSM",
+    "verso": "Contre-indication, association déconseillée, précautions d'emploi, à prendre en compte.",
+    "tags": [
+      "niveaux de gravité"
+    ]
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/flash-010",
+    "recto": "Contre-indication : définition et exemple",
+    "verso": "Caractère absolu, ne doit pas être transgressée. Ex. : voriconazole + rifampicine.",
+    "tags": [
+      "niveaux de gravité"
+    ]
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/flash-011",
+    "recto": "Association déconseillée : définition et exemple",
+    "verso": "Le plus souvent évitée sauf après examen approfondi du rapport bénéfice/risque, surveillance étroite. Ex. : contraceptifs œstroprogestatifs + rifampicine.",
+    "tags": [
+      "niveaux de gravité"
+    ]
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/flash-012",
+    "recto": "Précaution d'emploi : définition et exemple",
+    "verso": "Cas le plus fréquent ; association possible si on respecte les recommandations (adaptation posologique, surveillance clinique, biologique). Ex. : fer + calcium.",
+    "tags": [
+      "niveaux de gravité"
+    ]
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/flash-013",
+    "recto": "« À prendre en compte » : définition et exemple",
+    "verso": "Risque d'IAM correspondant le plus souvent à une addition d'EI ; aucune recommandation pratique ; le médecin évalue l'opportunité. Ex. : ciclosporine + ramipril.",
+    "tags": [
+      "niveaux de gravité"
+    ]
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/flash-014",
+    "recto": "IAM pharmacocinétique vs pharmacodynamique",
+    "verso": "PK : un médicament modifie l'ADME de l'autre → changement de concentration (AUC, Cmax, demi-vie). PD : modification de la réponse de l'organe → effets additifs, synergiques ou antagonistes.",
+    "tags": [
+      "mécanismes"
+    ]
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/flash-015",
+    "recto": "Effet d'un alcalinisant digestif sur les acides faibles et les bases faibles",
+    "verso": "Il s'oppose à la résorption des acides faibles (anticoagulants oraux, AINS, barbituriques) et facilite celle des bases faibles.",
+    "tags": [
+      "absorption",
+      "pH"
+    ]
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/flash-016",
+    "recto": "Pourquoi un alcalinisant peut-il favoriser l'absorption des pénicillines ?",
+    "verso": "Car l'hydrolyse stomacale des pénicillines est diminuée lorsque le pH est augmenté.",
+    "tags": [
+      "absorption",
+      "pH"
+    ]
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/flash-017",
+    "recto": "Délai recommandé entre deux prises en cas d'IAM d'absorption",
+    "verso": "Au moins 2 heures.",
+    "tags": [
+      "absorption"
+    ]
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/flash-018",
+    "recto": "Exemple d'interaction par barrière physique",
+    "verso": "SMECTA® (diosmectite) + clindamycine : administrer à distance du SMECTA® (au moins 2 heures si possible).",
+    "tags": [
+      "absorption"
+    ]
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/flash-019",
+    "recto": "Vitamines liposolubles + huile de paraffine",
+    "verso": "Solubilisation d'un composé diffusible dans un liquide non résorbable → absorption diminuée.",
+    "tags": [
+      "absorption"
+    ]
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/flash-020",
+    "recto": "Agents adsorbants cités",
+    "verso": "Antiacides insolubles (kaolin, phosphate de Ca2+), charbon actif, résines échangeuses d'ions (cholestyramine).",
+    "tags": [
+      "absorption",
+      "adsorption"
+    ]
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/flash-021",
+    "recto": "Usage du charbon actif",
+    "verso": "Il capte les médicaments dans le tube digestif et empêche leur absorption → traitement des intoxications.",
+    "tags": [
+      "absorption",
+      "adsorption"
+    ]
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/flash-022",
+    "recto": "Exemples de complexation digestive",
+    "verso": "Fluoroquinolones + sels de calcium ; fer + Ca ; lévothyroxine + Ca ; tétracyclines + Ca, fer, Al ou Mg.",
+    "tags": [
+      "absorption",
+      "complexation"
+    ]
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/flash-023",
+    "recto": "Effet du métoclopramide sur la résorption",
+    "verso": "Facilite celle du paracétamol, du diazépam, du lithium ; abaisse celle de la digoxine en comprimé (la vidange accélérée s'oppose à la dissolution du PA).",
+    "tags": [
+      "absorption",
+      "vidange"
+    ]
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/flash-024",
+    "recto": "Effet des anticholinergiques (antidépresseurs tricycliques) sur la résorption",
+    "verso": "Ils dépriment le péristaltisme et augmentent la résorption du dicoumarol ou de la digoxine.",
+    "tags": [
+      "absorption",
+      "transit"
+    ]
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/flash-025",
+    "recto": "Exemple de compétition pour un transporteur intestinal",
+    "verso": "La phénylalanine alimentaire ralentit l'absorption de la L-DOPA (régime hyperprotidique).",
+    "tags": [
+      "absorption",
+      "compétition"
+    ]
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/flash-026",
+    "recto": "Condition pour une IAM de distribution",
+    "verso": "Les deux médicaments doivent avoir une forte affinité pour les protéines plasmatiques (liaison > 90 %) ou tissulaires.",
+    "tags": [
+      "distribution"
+    ]
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/flash-027",
+    "recto": "Quel médicament est déplacé lors d'une interaction protéique ?",
+    "verso": "Celui qui a la plus faible affinité ; sa fraction libre (active) augmente.",
+    "tags": [
+      "distribution"
+    ]
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/flash-028",
+    "recto": "Médicaments les plus sensibles au déplacement",
+    "verso": "Forte liaison protéique, caractère acide faible, nombre de sites de fixation faible, volume de distribution faible.",
+    "tags": [
+      "distribution"
+    ]
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/flash-029",
+    "recto": "Conséquences PK de l'augmentation de la fraction libre",
+    "verso": "Diffusion tissulaire accrue (↑ Vd), ↑ élimination par filtration glomérulaire et métabolisme hépatique (si coefficient d'extraction élevé).",
+    "tags": [
+      "distribution"
+    ]
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/flash-030",
+    "recto": "AVK + AINS",
+    "verso": "Déplacement de l'AVK → ↑ forme libre → ↑ effet → risque hémorragique → adaptation posologique.",
+    "tags": [
+      "distribution"
+    ]
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/flash-031",
+    "recto": "Médicaments déplaçant la digoxine tissulaire",
+    "verso": "Quinidine, vérapamil, nifédipine, amiodarone → ↑ digoxine plasmatique.",
+    "tags": [
+      "distribution",
+      "digoxine"
+    ]
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/flash-032",
+    "recto": "Médicaments à forte fixation protéique cités",
+    "verso": "AVK (acénocoumarol), AINS (phénylbutazone, indométacine, aspirine), méthotrexate, pénicillines, phénytoïne.",
+    "tags": [
+      "distribution"
+    ]
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/flash-033",
+    "recto": "Tolbutamide déplacé par le sulfaphénazole ou les salicylés",
+    "verso": "Collapsus hypoglycémique.",
+    "tags": [
+      "distribution"
+    ]
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/flash-034",
+    "recto": "Méthotrexate déplacé par sulfamides ou AINS",
+    "verso": "Insuffisance rénale.",
+    "tags": [
+      "distribution"
+    ]
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/flash-035",
+    "recto": "Phénytoïne déplaçant l'acide valproïque ou les antidépresseurs tricycliques",
+    "verso": "Neurotoxicité.",
+    "tags": [
+      "distribution"
+    ]
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/flash-036",
+    "recto": "Bilirubine chez le nouveau-né",
+    "verso": "Taux élevé de BRB ; déplacée par le chloramphénicol ou les sulfamides et non métabolisée (déficience) → neurotoxicité.",
+    "tags": [
+      "distribution",
+      "bilirubine"
+    ]
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/flash-037",
+    "recto": "Définition de l'induction enzymatique",
+    "verso": "Accélération du métabolisme par stimulation (↑ synthèse) des enzymes microsomales hépatiques (CYP) → baisse d'efficacité de l'autre médicament.",
+    "tags": [
+      "métabolisme",
+      "induction"
+    ]
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/flash-038",
+    "recto": "Cinétique de l'induction",
+    "verso": "Progressive, s'installe après quelques jours, subsiste plus ou moins longtemps après l'arrêt de l'inducteur.",
+    "tags": [
+      "métabolisme",
+      "induction"
+    ]
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/flash-039",
+    "recto": "Auto-inducteur",
+    "verso": "Médicament qui induit son propre métabolisme.",
+    "tags": [
+      "métabolisme",
+      "induction"
+    ]
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/flash-040",
+    "recto": "Inducteurs enzymatiques cités",
+    "verso": "Phénobarbital, primidone, phénytoïne, carbamazépine, rifampicine, griséofulvine ; aliment : millepertuis.",
+    "tags": [
+      "métabolisme",
+      "inducteurs"
+    ]
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/flash-041",
+    "recto": "Induction et métabolites inactifs / actifs / toxiques",
+    "verso": "Inactifs : inactivation précoce → ↑ posologie. Actifs : ↑ ET et EI → parfois ↓ posologie. Toxiques : ↑ EI et toxicité → ↓ posologie.",
+    "tags": [
+      "métabolisme",
+      "induction"
+    ]
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/flash-042",
+    "recto": "Ciclosporine + millepertuis ou rifampicine",
+    "verso": "Induction du CYP 3A4 → élimination accélérée de la ciclosporine → augmenter la dose pour éviter le rejet.",
+    "tags": [
+      "métabolisme",
+      "induction"
+    ]
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/flash-043",
+    "recto": "Phénobarbital, phénytoïne, carbamazépine + acénocoumarol ou pilule",
+    "verso": "CYP 2C9 : élimination accélérée de l'acénocoumarol (thrombose, adapter la dose) ; pilule inactive (grossesse, contraception supplémentaire).",
+    "tags": [
+      "métabolisme",
+      "induction"
+    ]
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/flash-044",
+    "recto": "Arrêt d'un inducteur chez un patient sous Sintrom®",
+    "verso": "Risque d'hémorragie : retour progressif à la posologie initiale en surveillant l'INR.",
+    "tags": [
+      "métabolisme",
+      "induction"
+    ]
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/flash-045",
+    "recto": "Définition de l'inhibition enzymatique",
+    "verso": "Ralentissement du métabolisme par inhibition des systèmes enzymatiques ; phénomène immédiat qui disparaît à l'arrêt du traitement.",
+    "tags": [
+      "métabolisme",
+      "inhibition"
+    ]
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/flash-046",
+    "recto": "Conséquences de l'inhibition enzymatique",
+    "verso": "↑ concentration et demi-vie ; métabolites inactifs : ↑ effet, toxicité ; métabolites actifs : ↓ effet thérapeutique.",
+    "tags": [
+      "métabolisme",
+      "inhibition"
+    ]
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/flash-047",
+    "recto": "Inhibiteurs enzymatiques cités",
+    "verso": "Macrolides, antifongiques azolés, cimétidine, isoniazide, IMAO, ISRS ; aliment : jus de pamplemousse.",
+    "tags": [
+      "métabolisme",
+      "inhibiteurs"
+    ]
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/flash-048",
+    "recto": "Statines et inhibiteurs du CYP 3A4",
+    "verso": "Kétoconazole, itraconazole, érythromycine, diltiazem, pamplemousse → ↑ taux de simvastatine/atorvastatine → rhabdomyolyse. Fluvastatine : CYP 2C9.",
+    "tags": [
+      "métabolisme",
+      "statines"
+    ]
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/flash-049",
+    "recto": "Alcool et métabolisme",
+    "verso": "Prise aiguë : effet inhibiteur ; prise chronique : effet inducteur.",
+    "tags": [
+      "métabolisme",
+      "alcool"
+    ]
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/flash-050",
+    "recto": "Tabac et métabolisme",
+    "verso": "Particulièrement inducteur du CYP 1A2.",
+    "tags": [
+      "métabolisme",
+      "tabac"
+    ]
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/flash-051",
+    "recto": "Compétition pour l'élimination tubulaire",
+    "verso": "Deux médicaments ayant le même transporteur : diminution d'élimination de celui qui a la plus faible affinité. Ex. : ampicilline + probénécide.",
+    "tags": [
+      "élimination"
+    ]
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/flash-052",
+    "recto": "Bicarbonate de sodium et aspirine",
+    "verso": "Le bicarbonate augmente le pH urinaire → excrétion de l'aspirine (acide) augmentée.",
+    "tags": [
+      "élimination",
+      "pH urinaire"
+    ]
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/flash-053",
+    "recto": "Médicaments néphrotoxiques cités",
+    "verso": "Aminosides, vancomycine, produits de contraste iodés (autres pourvoyeurs d'IR : AINS).",
+    "tags": [
+      "élimination"
+    ]
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/flash-054",
+    "recto": "Vancomycine + gentamicine",
+    "verso": "IAM PD : majoration de la néphro- et ototoxicité. CAT : surveillance de la fonction rénale et vestibulaire.",
+    "tags": [
+      "application"
+    ]
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/flash-055",
+    "recto": "Millepertuis + digoxine",
+    "verso": "IAM PK : diminution de la concentration de digoxine. CAT : STP de la digoxine.",
+    "tags": [
+      "application"
+    ]
+  }
+]

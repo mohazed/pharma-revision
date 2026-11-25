@@ -1,0 +1,72 @@
+[
+  {
+    "terme": "Antiacides",
+    "definition": "Classe de médicaments utilisés dans les troubles liés à l'hyperacidité gastrique (RGO, brûlures d'estomac, dyspepsie, ulcères gastro-duodénaux).",
+    "cours": "chimie-therapeutique/09-antiacides"
+  },
+  {
+    "terme": "Ulcère gastroduodénal",
+    "definition": "Lésion des muqueuses gastrique et duodénale caractérisée par une perte de matière tissulaire et une incapacité à cicatriser spontanément.",
+    "cours": "chimie-therapeutique/09-antiacides"
+  },
+  {
+    "terme": "Helicobacter pylori",
+    "definition": "Bactérie à laquelle la maladie ulcéreuse est principalement liée ; facteur agressif de la muqueuse.",
+    "cours": "chimie-therapeutique/09-antiacides"
+  },
+  {
+    "terme": "Pompe H+/K+ ATPase",
+    "definition": "Protéine transmembranaire du pôle apical de la cellule pariétale échangeant un proton contre un ion potassium grâce à l'ATP ; base de la sécrétion acide.",
+    "cours": "chimie-therapeutique/09-antiacides"
+  },
+  {
+    "terme": "Cellule pariétale",
+    "definition": "Cellule de la muqueuse gastrique portant la pompe à protons et sécrétant l'acide chlorhydrique.",
+    "cours": "chimie-therapeutique/09-antiacides"
+  },
+  {
+    "terme": "Anti-sécrétoires gastriques",
+    "definition": "Médicaments diminuant les sécrétions gastriques excessives : anti-H2, IPP, anticholinergiques, analogues de la somatostatine.",
+    "cours": "chimie-therapeutique/09-antiacides"
+  },
+  {
+    "terme": "Cytoprotecteurs",
+    "definition": "Groupe de médicaments antiacides représenté par les analogues de prostaglandines.",
+    "cours": "chimie-therapeutique/09-antiacides"
+  },
+  {
+    "terme": "Topiques gastriques",
+    "definition": "Protecteurs de la muqueuse : pansements gastriques et sucralfates.",
+    "cours": "chimie-therapeutique/09-antiacides"
+  },
+  {
+    "terme": "Antagoniste H2",
+    "definition": "Médicament bloquant de façon classique, sélective et compétitive les récepteurs H2 de l'histamine qui contrôlent la sécrétion gastrique.",
+    "cours": "chimie-therapeutique/09-antiacides"
+  },
+  {
+    "terme": "Syndrome de Mendelson",
+    "definition": "Complication dont la prévention avant une intervention constitue une indication des anti-H2 en anesthésiologie.",
+    "cours": "chimie-therapeutique/09-antiacides"
+  },
+  {
+    "terme": "NDMA",
+    "definition": "N-nitrosodiméthylamine, mentionnée à propos du retrait mondial de la ranitidine (2019-2020).",
+    "cours": "chimie-therapeutique/09-antiacides"
+  },
+  {
+    "terme": "Inhibiteur de la pompe à protons (IPP)",
+    "definition": "Dérivé du pyridinyl méthyl sulfinyl benzimidazole inhibant de façon irréversible la H+/K+ ATPase gastrique.",
+    "cours": "chimie-therapeutique/09-antiacides"
+  },
+  {
+    "terme": "Sulfénamide",
+    "definition": "Forme active des IPP, obtenue en milieu acide à partir du sulfoxyde ; son soufre réactif se lie de façon covalente au thiol de la pompe.",
+    "cours": "chimie-therapeutique/09-antiacides"
+  },
+  {
+    "terme": "Promédicament",
+    "definition": "Forme inactive d'un médicament activée dans l'organisme ; les IPP sont des promédicaments activés par le pH acide.",
+    "cours": "chimie-therapeutique/09-antiacides"
+  }
+]

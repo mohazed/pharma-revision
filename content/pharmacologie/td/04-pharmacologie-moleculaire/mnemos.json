@@ -1,0 +1,20 @@
+[
+  {
+    "id": "pharmacologie/td/04-pharmacologie-moleculaire/mnemo-001",
+    "titre": "pD2 vs pA2",
+    "moyen": "« D comme Drogue agoniste, A comme Antagoniste »",
+    "explication": "pD2 = − log CE50 de l'agoniste ; pA2 = − log [antagoniste] qui oblige à doubler (le « 2 ») la dose d'agoniste."
+  },
+  {
+    "id": "pharmacologie/td/04-pharmacologie-moleculaire/mnemo-002",
+    "titre": "Antagonisme compétitif",
+    "moyen": "« Compétitif : Courbe Coulisse à droite, Comble conservé »",
+    "explication": "La courbe se déplace parallèlement vers la droite, l'effet maximal (le comble, 60 mm) est conservé ; c'est surmontable."
+  },
+  {
+    "id": "pharmacologie/td/04-pharmacologie-moleculaire/mnemo-003",
+    "titre": "Poids moléculaires du TD",
+    "moyen": "« Ach petite (181,7), Scopo double (384,3) »",
+    "explication": "Le poids moléculaire de la scopolamine (384,3 g/mol) est environ le double de celui de l'acétylcholine (181,7 g/mol) : chacun sert à son propre calcul (pD2 pour l'Ach, pA2 pour la scopolamine)."
+  }
+]

@@ -1,0 +1,1717 @@
+[
+  {
+    "id": "chimie-therapeutique/09-antiacides/qcm-001",
+    "type": "multiple",
+    "enonce": "Concernant les antiacides (au sens large) :",
+    "options": [
+      "Ils sont utilisés dans les troubles liés à l'hyperacidité gastrique",
+      "Ils jouent un rôle clé dans le traitement symptomatique du reflux gastro-œsophagien (RGO)",
+      "Ils sont utilisés dans les brûlures d'estomac et la dyspepsie",
+      "Ils sont utilisés dans les ulcères gastro-duodénaux",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Le cours présente les antiacides comme une classe largement utilisée dans les troubles liés à l'hyperacidité gastrique : RGO, brûlures d'estomac, dyspepsie et ulcères gastro-duodénaux. Toutes les propositions sont donc justes.",
+    "source": {
+      "page": 1,
+      "extrait": "traitement symptomatique de pathologies fréquentes telles que le reflux gastro-œsophagien (RGO), les brûlures d'estomac, la dyspepsie"
+    },
+    "difficulte": 1,
+    "tags": [
+      "introduction"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/qcm-002",
+    "type": "multiple",
+    "enonce": "L'ulcère gastroduodénal :",
+    "options": [
+      "Est une lésion des muqueuses gastrique et duodénale",
+      "Est caractérisé par une perte de matière tissulaire",
+      "Est caractérisé par une incapacité à cicatriser spontanément",
+      "Peut être causé par une diminution des facteurs protecteurs de la muqueuse",
+      "Est caractérisé par une cicatrisation spontanée rapide"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "L'ulcère est une lésion des muqueuses gastrique et duodénale avec perte de matière tissulaire et incapacité à cicatriser spontanément ; il est causé par un excès d'acide ou une diminution des facteurs protecteurs. La cicatrisation n'est donc pas spontanée.",
+    "source": {
+      "page": 1,
+      "extrait": "une lésion des muqueuses gastrique et duodénale, caractérisée par une perte de matière tissulaire et une incapacité à se cicatriser spontanément"
+    },
+    "difficulte": 1,
+    "tags": [
+      "ulcère"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/qcm-003",
+    "type": "multiple",
+    "enonce": "Selon le cours, la maladie ulcéreuse est principalement liée à :",
+    "options": [
+      "La présence de la bactérie Helicobacter pylori",
+      "La prise de paracétamol",
+      "Un déficit en gastrine",
+      "Un excès de mucus",
+      "Un excès de bicarbonates"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "La maladie ulcéreuse est principalement liée à la présence de la bactérie Helicobacter pylori. Le mucus et les bicarbonates sont au contraire des facteurs protecteurs.",
+    "source": {
+      "page": 1,
+      "extrait": "La maladie ulcéreuse est principalement liée à la présence de la bactérie Helicobacter pylori"
+    },
+    "difficulte": 1,
+    "tags": [
+      "ulcère",
+      "Helicobacter pylori"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/qcm-004",
+    "type": "multiple",
+    "enonce": "Concernant la base de la sécrétion gastrique :",
+    "options": [
+      "Elle repose sur le fonctionnement de la pompe H+/K+ ATPase",
+      "La pompe est située dans la cellule pariétale",
+      "La sécrétion d'un ion H+ se fait contre un ion K+ venant de la lumière gastrique",
+      "L'énergie est fournie par l'ATP",
+      "La pompe est située dans la cellule principale"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "La base de la sécrétion gastrique est la pompe H+/K+ ATPase de la cellule pariétale : un H+ est sécrété contre un K+ venant de la lumière gastrique grâce à l'énergie de l'ATP. Il s'agit de la cellule pariétale, non de la cellule principale.",
+    "source": {
+      "page": 2,
+      "extrait": "La sécrétion des ions H+ se fait contre un ion K+ venant de la lumière gastrique, en utilisant l'énergie fournie par l'ATP"
+    },
+    "difficulte": 1,
+    "tags": [
+      "physiologie"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/qcm-005",
+    "type": "multiple",
+    "enonce": "Lors de la sécrétion acide par la cellule pariétale :",
+    "options": [
+      "L'échange d'un ion H+ s'accompagne de la libération d'un ion Cl-",
+      "L'acide chlorhydrique formé est déversé dans la lumière gastrique",
+      "Des ions HCO3- sont produits et rejetés dans le sang contre du Cl-",
+      "Le rejet de HCO3- permet le maintien du pH intracellulaire",
+      "Les ions HCO3- sont déversés dans la lumière gastrique contre du K+"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "L'échange d'un H+ s'accompagne de la libération d'un Cl- formant l'HCl déversé dans la lumière gastrique ; le HCO3- produit est rejeté dans le sang contre du Cl- pour maintenir le pH intracellulaire.",
+    "source": {
+      "page": 2,
+      "extrait": "On a aussi production de HCO3- qui est rejeté dans le sang contre du Cl- pour le maintient d'un PH intracellulaire"
+    },
+    "difficulte": 2,
+    "tags": [
+      "physiologie"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/qcm-006",
+    "type": "multiple",
+    "enonce": "Concernant les deux types de sécrétion gastrique :",
+    "options": [
+      "La sécrétion endocrine est représentée par la sécrétion de gastrine",
+      "La sécrétion exocrine est dominée par la sécrétion d'HCl",
+      "La sécrétion exocrine comprend le facteur intrinsèque",
+      "La sécrétion endocrine est dominée par la sécrétion d'HCl",
+      "La sécrétion exocrine est représentée par la sécrétion de gastrine"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Sécrétion endocrine : gastrine. Sécrétion exocrine : dominée par l'HCl et le facteur intrinsèque. Les propositions d et e inversent les deux types.",
+    "source": {
+      "page": 2,
+      "extrait": "Sécrétion exocrine Dominée par la sécrétion d'HCl et celle du facteur intrinsèque"
+    },
+    "difficulte": 1,
+    "tags": [
+      "physiologie"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/qcm-007",
+    "type": "multiple",
+    "enonce": "Parmi les facteurs suivants, lesquels sont des facteurs agressifs de la muqueuse gastroduodénale ?",
+    "options": [
+      "Acidité",
+      "Pepsine",
+      "AINS",
+      "Tabac et alcool",
+      "Prostaglandines"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Facteurs agressifs : acidité, pepsine, AINS, tabac et alcool, Helicobacter pylori. Les prostaglandines sont des facteurs protecteurs.",
+    "source": {
+      "page": 3,
+      "extrait": "Facteurs agressifs • Acidité • Pepsine • AINS (Anti-inflammatoires non stéroïdiens) • Tabac et alcool • Helicobacter Pylori"
+    },
+    "difficulte": 1,
+    "tags": [
+      "physiopathologie"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/qcm-008",
+    "type": "multiple",
+    "enonce": "Parmi les facteurs suivants, lesquels sont des facteurs protecteurs de la muqueuse gastrique ?",
+    "options": [
+      "Mucus",
+      "Bicarbonates",
+      "Prostaglandines",
+      "Pepsine",
+      "Helicobacter pylori"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Les facteurs protecteurs cités sont le mucus, les bicarbonates et les prostaglandines. La pepsine et Helicobacter pylori sont des facteurs agressifs.",
+    "source": {
+      "page": 3,
+      "extrait": "Facteurs protecteurs • Mucus • Bicarbonates • Prostaglandines"
+    },
+    "difficulte": 1,
+    "tags": [
+      "physiopathologie"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/qcm-009",
+    "type": "multiple",
+    "enonce": "Parmi les classes suivantes, lesquelles appartiennent aux anti-sécrétoires gastriques ?",
+    "options": [
+      "Antihistaminiques H2",
+      "Inhibiteurs de la pompe à protons",
+      "Anticholinergiques",
+      "Analogues de la somatostatine",
+      "Analogues de prostaglandines"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Les anti-sécrétoires comprennent les anti-H2, les IPP, les anticholinergiques et les analogues de la somatostatine. Les analogues de prostaglandines sont des cytoprotecteurs.",
+    "source": {
+      "page": 3,
+      "extrait": "Les anti-sécrétoires gastriques • Antihistaminiques H2 • Inhibiteurs de la pompe à protons • Anticholinergiques • Analogues de la somatostatine"
+    },
+    "difficulte": 1,
+    "tags": [
+      "classification"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/qcm-010",
+    "type": "multiple",
+    "enonce": "Dans la classification des médicaments antiacides, les analogues de prostaglandines sont classés parmi :",
+    "options": [
+      "Les cytoprotecteurs",
+      "Les anti-sécrétoires gastriques",
+      "Les antiacides à effet tampon",
+      "Les topiques",
+      "Les antiacides neutralisants"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Les analogues de prostaglandines constituent le groupe 3 : les cytoprotecteurs.",
+    "source": {
+      "page": 3,
+      "extrait": "Les cytoprotecteurs • Analogues de prostaglandines"
+    },
+    "difficulte": 1,
+    "tags": [
+      "classification"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/qcm-011",
+    "type": "multiple",
+    "enonce": "Concernant la classification des médicaments antiacides :",
+    "options": [
+      "Les antiacides proprement dits comprennent les antiacides neutralisants",
+      "Les antiacides proprement dits comprennent les antiacides à effet tampon",
+      "Les topiques comprennent les pansements gastriques",
+      "Les topiques comprennent les sucralfates",
+      "Les sucralfates sont des anti-sécrétoires gastriques"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Groupe 2 : antiacides neutralisants et à effet tampon. Groupe 4 : topiques (protecteurs de la muqueuse) = pansements gastriques et sucralfates. Les sucralfates ne sont pas des anti-sécrétoires.",
+    "source": {
+      "page": 3,
+      "extrait": "Les topiques (protecteurs de la muqueuse) • Les pansements gastriques • Les sucralfates"
+    },
+    "difficulte": 1,
+    "tags": [
+      "classification"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/qcm-012",
+    "type": "unique",
+    "enonce": "Combien de groupes de médicaments antiacides la classification du cours distingue-t-elle ?",
+    "options": [
+      "Quatre",
+      "Deux",
+      "Trois",
+      "Cinq",
+      "Six"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Quatre groupes : anti-sécrétoires gastriques, antiacides, cytoprotecteurs et topiques (protecteurs de la muqueuse).",
+    "source": {
+      "page": 3,
+      "extrait": "Les cytoprotecteurs • Analogues de prostaglandines 4 Les topiques (protecteurs de la muqueuse)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "classification"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/qcm-013",
+    "type": "multiple",
+    "enonce": "Les anti-sécrétoires gastriques :",
+    "options": [
+      "Agissent en diminuant les sécrétions gastriques excessives",
+      "Comprennent les anti-H2 et les IPP",
+      "Comprennent les analogues de la somatostatine",
+      "Agissent en neutralisant l'acide déjà sécrété",
+      "Agissent en formant un pansement sur la muqueuse"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Les anti-sécrétoires diminuent les sécrétions gastriques excessives (anti-H2, IPP, anticholinergiques, analogues de la somatostatine). Neutraliser l'acide ou former un pansement correspond à d'autres groupes (antiacides, topiques).",
+    "source": {
+      "page": 4,
+      "extrait": "Ils vont agir en diminuant les sécrétions gastriques excessives"
+    },
+    "difficulte": 1,
+    "tags": [
+      "anti-sécrétoires"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/qcm-014",
+    "type": "multiple",
+    "enonce": "Concernant l'histamine et ses récepteurs selon le cours :",
+    "options": [
+      "L'histamine exerce ses propriétés via différents récepteurs (H1 et H2)",
+      "Les récepteurs H2 contrôlent la sécrétion des glandes gastriques",
+      "Les médicaments anti-H2 sont utilisés pour inhiber la sécrétion gastrique",
+      "Les récepteurs H1 contrôlent la sécrétion des glandes gastriques",
+      "Les anti-H2 stimulent la sécrétion gastrique"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Ce sont les récepteurs H2 qui contrôlent la sécrétion des glandes gastriques ; les anti-H2 l'inhibent.",
+    "source": {
+      "page": 4,
+      "extrait": "Les récepteurs H2 contrôlent la sécrétion des glandes gastriques, et les médicaments \"anti-H2\" sont utilisés pour inhiber cette sécrétion"
+    },
+    "difficulte": 1,
+    "tags": [
+      "anti-H2",
+      "mécanisme"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/qcm-015",
+    "type": "multiple",
+    "enonce": "L'antagonisme exercé par les bloqueurs H2 vis-à-vis de l'histamine est :",
+    "options": [
+      "Classique",
+      "Sélectif (pas d'effet sur les récepteurs H1)",
+      "Compétitif",
+      "Non compétitif",
+      "Irréversible par liaison covalente"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Les bloqueurs H2 exercent un antagonisme classique, sélectif (pas d'effet H1) et compétitif. La liaison covalente irréversible caractérise les IPP.",
+    "source": {
+      "page": 4,
+      "extrait": "Les bloqueurs H2 exercent un antagonisme classique vis-à-vis de l'histamine : • Sélectif : pas d'effet sur les récepteurs H1 • Compétitif"
+    },
+    "difficulte": 2,
+    "tags": [
+      "anti-H2",
+      "mécanisme"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/qcm-016",
+    "type": "multiple",
+    "enonce": "Concernant la cimétidine :",
+    "options": [
+      "C'est le médicament chef de file des antagonistes H2",
+      "Elle a été mise sur le marché en 1976 au Royaume-Uni",
+      "Son nom commercial était TAGAMET",
+      "Elle comporte un cycle imidazole",
+      "Elle comporte un cycle furane"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "La cimétidine, chef de file, a été mise sur le marché en 1976 au Royaume-Uni sous le nom TAGAMET ; son nom IUPAC contient un 5-méthyl-1H-imidazol-4-yl. Le furane caractérise la ranitidine.",
+    "source": {
+      "page": 5,
+      "extrait": "Mise sur le marché en 1976 au Royaume-Uni sous l'appellation commerciale TAGAMET"
+    },
+    "difficulte": 1,
+    "tags": [
+      "cimétidine"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/qcm-017",
+    "type": "multiple",
+    "enonce": "La cimétidine est qualifiée de « révolution thérapeutique » car :",
+    "options": [
+      "C'est le premier médicament antiulcéreux réellement efficace",
+      "Elle a permis d'éviter la chirurgie",
+      "C'est le premier inhibiteur de la pompe à protons",
+      "Elle est dépourvue d'effets secondaires",
+      "Elle est 30 fois plus active que la famotidine"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Premier antiulcéreux réellement efficace, permettant d'éviter la chirurgie. Elle n'est pas un IPP, présente des effets secondaires (gynécomastie, hyperprolactinémie) et c'est la famotidine qui est 30 fois plus active qu'elle.",
+    "source": {
+      "page": 5,
+      "extrait": "Premier médicament antiulcéreux réellement efficace, permettant d'éviter la chirurgie"
+    },
+    "difficulte": 1,
+    "tags": [
+      "cimétidine"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/qcm-018",
+    "type": "multiple",
+    "enonce": "Le nom IUPAC « 2-Cyano-1-methyl-3-[2-[[(5-methyl-1H-imidazol-4-yl)-methyl]sulfanyl]ethyl]guanidine » correspond à :",
+    "options": [
+      "Cimétidine",
+      "Ranitidine",
+      "Famotidine",
+      "Oméprazole",
+      "Nizatidine"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "C'est le nom IUPAC de la cimétidine : noyau imidazole, chaîne thioéther et cyanoguanidine.",
+    "source": {
+      "page": 5,
+      "extrait": "2-Cyano-1-methyl-3-[2-[[(5-methyl-1H-imidazol-4-yl)-methyl]sulfanyl]ethyl]guanidine"
+    },
+    "difficulte": 2,
+    "tags": [
+      "cimétidine",
+      "nomenclature"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/qcm-019",
+    "type": "multiple",
+    "enonce": "Concernant la ranitidine par rapport à la cimétidine :",
+    "options": [
+      "Elle provoque moins d'effets secondaires",
+      "Elle agit de manière plus prolongée",
+      "Elle est 10 fois plus active",
+      "Elle est 30 fois plus active",
+      "Elle provoque davantage de gynécomastie"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "La ranitidine provoque moins d'effets secondaires que la cimétidine (gynécomastie, hyperprolactinémie), agit plus longtemps et est 10 fois plus active. Le facteur 30 concerne la famotidine.",
+    "source": {
+      "page": 5,
+      "extrait": "Elle agit de manière plus prolongée et est 10 fois plus active"
+    },
+    "difficulte": 2,
+    "tags": [
+      "ranitidine"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/qcm-020",
+    "type": "multiple",
+    "enonce": "Selon le cours, les effets secondaires de la cimétidine moins fréquents avec la ranitidine sont :",
+    "options": [
+      "Gynécomastie",
+      "Hyperprolactinémie",
+      "Hépatite fulminante",
+      "Agranulocytose",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Le cours cite la gynécomastie et l'hyperprolactinémie comme effets secondaires plus marqués avec la cimétidine.",
+    "source": {
+      "page": 5,
+      "extrait": "La ranitidine provoque moins d'effets secondaires que la cimétidine (gynécomastie et hyperprolactinémie)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "ranitidine",
+      "cimétidine"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/qcm-021",
+    "type": "multiple",
+    "enonce": "Les noms commerciaux de la ranitidine cités dans le cours sont :",
+    "options": [
+      "Ranitec®",
+      "Azantac®",
+      "Tagamet®",
+      "Mopral®",
+      "Pariet®"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Ranitidine : Ranitec®, Azantac®. Tagamet® = cimétidine ; Mopral® = oméprazole ; Pariet® = rabéprazole.",
+    "source": {
+      "page": 5,
+      "extrait": "Ranitidine (Ranitec®, Azantac®)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "ranitidine",
+      "noms commerciaux"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/qcm-022",
+    "type": "multiple",
+    "enonce": "Le développement de la ranitidine repose sur l'observation suivante :",
+    "options": [
+      "Le cycle imidazole de la cimétidine pouvait être remplacé par d'autres hétérocycles",
+      "Le cycle imidazole est indispensable à l'activité anti-H2",
+      "Le groupe sulfinyle est indispensable",
+      "La chaîne latérale doit être raccourcie à 2 atomes",
+      "L'azote terminal doit porter un groupement basique"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Des études sur des analogues de la cimétidine ont montré que le cycle imidazole pouvait être remplacé par d'autres hétérocycles. La RSA indique une chaîne de 4 atomes et un azote terminal portant un groupement polaire non basique.",
+    "source": {
+      "page": 5,
+      "extrait": "le cycle imidazole pouvait être remplacé par d'autres hétérocycles"
+    },
+    "difficulte": 2,
+    "tags": [
+      "ranitidine",
+      "RSA anti-H2"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/qcm-023",
+    "type": "multiple",
+    "enonce": "Concernant le retrait de la ranitidine mentionné dans le cours :",
+    "options": [
+      "Il a eu lieu à l'échelle mondiale en 2019-2020",
+      "Il est lié à la NDMA (N-nitrosodiméthylamine)",
+      "Il a eu lieu en 1976",
+      "Il est lié à une hépatotoxicité de l'imidazole",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Le cours mentionne un retrait mondial en 2019-2020 en lien avec la NDMA (N-nitrosodiméthylamine). 1976 est la date de mise sur le marché de la cimétidine.",
+    "source": {
+      "page": 5,
+      "extrait": "retrait mondial : 2019-2020 NDMA = N-Nitrosodiméthylamine"
+    },
+    "difficulte": 2,
+    "tags": [
+      "ranitidine"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/qcm-024",
+    "type": "multiple",
+    "enonce": "RSA des anti-H2, concernant le noyau hétérocyclique :",
+    "options": [
+      "Le cycle imidazole n'est pas obligatoire",
+      "On favorise un hétérocycle à 5 chaînons",
+      "On favorise un hétérocycle à 6 chaînons",
+      "Le cycle imidazole est obligatoire",
+      "Le noyau benzimidazole est indispensable"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Le cycle imidazole (cimétidine) n'est pas obligatoire ; on favorise plutôt un hétérocycle à 5 chaînons. Le benzimidazole caractérise les IPP.",
+    "source": {
+      "page": 6,
+      "extrait": "Le cycle imidazole n'est pas obligatoire(cimétidine), on favorise plutôt un hétérocycle à 5 chainon"
+    },
+    "difficulte": 2,
+    "tags": [
+      "RSA anti-H2"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/qcm-025",
+    "type": "multiple",
+    "enonce": "Association hétérocycle – anti-H2 :",
+    "options": [
+      "Diméthylaminofurane : ranitidine",
+      "Guanidino-thiazole : famotidine",
+      "Guanidino-thiazole : nizatidine",
+      "Pipéridinométhylphénoxy : roxatidine",
+      "Imidazole : famotidine"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Ranitidine = diméthylaminofurane ; famotidine et nizatidine = guanidino-thiazole ; roxatidine = pipéridinométhylphénoxy. L'imidazole est le noyau de la cimétidine.",
+    "source": {
+      "page": 6,
+      "extrait": "Diméthylaminofurane: ranitidine. Guanidino-thiazole : famotidine/ nizatidine. Pipéridinométhylphénoxy : roxatidine"
+    },
+    "difficulte": 2,
+    "tags": [
+      "RSA anti-H2"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/qcm-026",
+    "type": "unique",
+    "enonce": "La roxatidine possède un noyau de type :",
+    "options": [
+      "Pipéridinométhylphénoxy",
+      "Diméthylaminofurane",
+      "Guanidino-thiazole",
+      "Imidazole",
+      "Benzimidazole"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "La roxatidine est le dérivé pipéridinométhylphénoxy.",
+    "source": {
+      "page": 6,
+      "extrait": "Pipéridinométhylphénoxy : roxatidine"
+    },
+    "difficulte": 2,
+    "tags": [
+      "RSA anti-H2"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/qcm-027",
+    "type": "multiple",
+    "enonce": "Le remplacement de l'imidazole par d'autres hétérocycles a conduit à des molécules :",
+    "options": [
+      "Plus puissantes",
+      "Plus sélectives pour les récepteurs H2",
+      "Moins métabolisées",
+      "Plus métabolisées",
+      "Moins sélectives pour les récepteurs H2"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Le cours indique des molécules plus puissantes, plus sélectives pour les récepteurs H2 et moins métabolisées.",
+    "source": {
+      "page": 6,
+      "extrait": "Molécules plus puissantes et plus sélectives pour les récepteurs H2 et moins métabolisés"
+    },
+    "difficulte": 2,
+    "tags": [
+      "RSA anti-H2"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/qcm-028",
+    "type": "multiple",
+    "enonce": "RSA des anti-H2, concernant la chaîne latérale :",
+    "options": [
+      "Une chaîne latérale flexible de 4 atomes donne une activité antagoniste optimale",
+      "La chaîne est carbonée ou comporte un isostère sulfuré",
+      "Une chaîne latérale rigide de 2 atomes donne une activité optimale",
+      "Une chaîne latérale flexible de 6 atomes donne une activité optimale",
+      "La chaîne latérale doit comporter un groupe sulfinyle"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Une chaîne latérale flexible de 4 atomes (chaîne carbonée ou isostère sulfuré) donne une activité antagoniste optimale.",
+    "source": {
+      "page": 6,
+      "extrait": "Une chaine latérale flexible de 4 atomes donne une activité antagoniste optimale. (Chaine carboné- Isostère sulfuré)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "RSA anti-H2"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/qcm-029",
+    "type": "unique",
+    "enonce": "RSA des anti-H2 : pour une activité antagoniste maximale, l'azote terminal doit être substitué par un groupement :",
+    "options": [
+      "Polaire non basique",
+      "Polaire basique",
+      "Apolaire basique",
+      "Apolaire non basique",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "L'azote terminal doit être substitué par un groupement polaire non basique.",
+    "source": {
+      "page": 6,
+      "extrait": "L'azote terminal doit être substitué par un groupement polaire non basique pour une activité antagoniste maximale"
+    },
+    "difficulte": 3,
+    "tags": [
+      "RSA anti-H2"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/qcm-030",
+    "type": "multiple",
+    "enonce": "Concernant la famotidine :",
+    "options": [
+      "Elle est 30 fois plus active que la cimétidine in vitro",
+      "Sa chaîne latérale contient un groupe sulfonamide",
+      "Le noyau imidazole de la cimétidine y est remplacé par un thiazole (2-guanidinothiazole)",
+      "Elle est 10 fois plus active que la cimétidine in vitro",
+      "Elle possède un noyau furane"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Famotidine : 30 fois plus active que la cimétidine in vitro, groupe sulfonamide sur la chaîne latérale, noyau 2-guanidinothiazole. Le facteur 10 et le furane concernent la ranitidine.",
+    "source": {
+      "page": 6,
+      "extrait": "La famotidine est 30 fois plus active que la cimétidine in vitro"
+    },
+    "difficulte": 2,
+    "tags": [
+      "famotidine"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/qcm-031",
+    "type": "multiple",
+    "enonce": "Le nom IUPAC « 3-[({2-[(diaminomethylidene)amino]-1,3-thiazol-4-yl}methyl)sulfanyl]-N'-sulfamoylpropanimidamide » correspond à :",
+    "options": [
+      "Famotidine",
+      "Cimétidine",
+      "Ranitidine",
+      "Pantoprazole",
+      "Roxatidine"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Le noyau 1,3-thiazole porteur d'un groupe guanidine et le groupe sulfamoyle (sulfonamide) identifient la famotidine.",
+    "source": {
+      "page": 6,
+      "extrait": "3-[({2-[(diaminomethylidene)amino]-1,3-thiazol-4- yl}methyl)sulfanyl]-N'-sulfamoylpropanimidamide"
+    },
+    "difficulte": 3,
+    "tags": [
+      "famotidine",
+      "nomenclature"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/qcm-032",
+    "type": "unique",
+    "enonce": "Classez les anti-H2 par activité croissante selon les données du cours :",
+    "options": [
+      "Cimétidine < ranitidine < famotidine",
+      "Famotidine < ranitidine < cimétidine",
+      "Ranitidine < cimétidine < famotidine",
+      "Cimétidine < famotidine < ranitidine",
+      "Toutes ont la même activité"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "La ranitidine est 10 fois et la famotidine 30 fois (in vitro) plus active que la cimétidine.",
+    "source": {
+      "page": 6,
+      "extrait": "La famotidine est 30 fois plus active que la cimétidine in vitro"
+    },
+    "difficulte": 2,
+    "tags": [
+      "anti-H2"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/qcm-033",
+    "type": "multiple",
+    "enonce": "Indications des antagonistes des récepteurs H2 :",
+    "options": [
+      "Ulcère gastrique ou duodénal évolutif",
+      "Œsophagite par reflux",
+      "Prévention du syndrome de Mendelson avant une intervention",
+      "États d'hypersécrétion gastrique divers",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Le cours cite les quatre indications : ulcère gastrique ou duodénal évolutif, œsophagite par reflux, prévention du syndrome de Mendelson en anesthésiologie et états d'hypersécrétion gastrique divers.",
+    "source": {
+      "page": 7,
+      "extrait": "En anesthésiologie : prescription avant l'intervention pour la prévention du syndrome de Mendelson"
+    },
+    "difficulte": 1,
+    "tags": [
+      "anti-H2",
+      "indications"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/qcm-034",
+    "type": "unique",
+    "enonce": "En anesthésiologie, les anti-H2 sont prescrits avant l'intervention pour prévenir :",
+    "options": [
+      "Le syndrome de Mendelson",
+      "Le syndrome de Zollinger-Ellison",
+      "L'œsophagite par reflux",
+      "L'hyperprolactinémie",
+      "La gynécomastie"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "En anesthésiologie, prescription avant l'intervention pour la prévention du syndrome de Mendelson.",
+    "source": {
+      "page": 7,
+      "extrait": "prescription avant l'intervention pour la prévention du syndrome de Mendelson"
+    },
+    "difficulte": 1,
+    "tags": [
+      "anti-H2",
+      "indications"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/qcm-035",
+    "type": "multiple",
+    "enonce": "Structure des inhibiteurs de la pompe à protons (IPP) :",
+    "options": [
+      "Ce sont des dérivés du pyridinyl méthyl sulfinyl benzimidazole",
+      "Ils comportent un noyau pyridine",
+      "Ils comportent un noyau benzimidazole",
+      "Ils comportent un groupe méthylsulfinyle",
+      "Ils comportent un noyau thiazole"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Les IPP sont des pyridinyl méthyl sulfinyl benzimidazoles : pyridine + groupe méthylsulfinyle + benzimidazole. Le thiazole caractérise la famotidine et la nizatidine.",
+    "source": {
+      "page": 7,
+      "extrait": "Ce sont des dérivés du pyridinyl méthyl sulfinyl benzimidazole"
+    },
+    "difficulte": 1,
+    "tags": [
+      "IPP",
+      "structure"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/qcm-036",
+    "type": "unique",
+    "enonce": "Dans la structure des IPP, le groupe reliant la pyridine au benzimidazole est :",
+    "options": [
+      "Un groupe méthylsulfinyle",
+      "Un groupe sulfonamide",
+      "Un groupe cyanoguanidine",
+      "Une chaîne thioéther de 4 atomes",
+      "Un groupe carbonyle"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "La pyridine et le benzimidazole sont reliés par un groupe méthylsulfinyle (–CH2–S(O)–).",
+    "source": {
+      "page": 7,
+      "extrait": "pyridine benzimidazole Groupe méthylsulfinyle"
+    },
+    "difficulte": 2,
+    "tags": [
+      "IPP",
+      "structure"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/qcm-037",
+    "type": "multiple",
+    "enonce": "La pompe à protons H+/K+-ATPase gastrique :",
+    "options": [
+      "Est une protéine transmembranaire",
+      "Assure l'échange d'un proton contre un ion potassium",
+      "Est située au pôle apical des cellules pariétales",
+      "Est responsable de l'acidité du liquide gastrique (pH voisin de 1)",
+      "Est située au pôle basal des cellules pariétales"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Protéine transmembranaire échangeant un proton contre un K+, située au pôle apical des cellules pariétales, responsable de l'acidité gastrique (pH voisin de 1).",
+    "source": {
+      "page": 8,
+      "extrait": "La pompe à protons est située au pôle apical des cellules pariétales de la muqueuse gastrique"
+    },
+    "difficulte": 1,
+    "tags": [
+      "pompe à protons"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/qcm-038",
+    "type": "multiple",
+    "enonce": "Structure de la pompe à protons :",
+    "options": [
+      "Elle comprend deux sous-unités α et β",
+      "La sous-unité α est la partie active",
+      "La sous-unité β a un rôle structural",
+      "La sous-unité β est la partie active",
+      "Elle comprend trois sous-unités α, β et γ"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Deux sous-unités : α (partie active) et β (rôle structural).",
+    "source": {
+      "page": 8,
+      "extrait": "Sa structure comprend deux sous-unités α et β ➢sous-unités α: Partie active. ➢sous-unités β: rôle structural"
+    },
+    "difficulte": 1,
+    "tags": [
+      "pompe à protons"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/qcm-039",
+    "type": "multiple",
+    "enonce": "Le mécanisme d'action des IPP passe par trois étapes principales :",
+    "options": [
+      "Accumulation",
+      "Activation",
+      "Inhibition",
+      "Excrétion biliaire",
+      "Fixation compétitive sur le récepteur H2"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Trois étapes : accumulation, activation, inhibition.",
+    "source": {
+      "page": 8,
+      "extrait": "Leur mécanisme d'action passe par trois principales étapes"
+    },
+    "difficulte": 1,
+    "tags": [
+      "IPP",
+      "mécanisme"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/qcm-040",
+    "type": "multiple",
+    "enonce": "Étape d'accumulation des IPP :",
+    "options": [
+      "Ils sont absorbés au niveau intestinal",
+      "Ils passent dans le sang",
+      "Ils sont retrouvés sous forme inactive dans le cytoplasme de la cellule pariétale",
+      "Ce sont des promédicaments",
+      "Ils sont retrouvés sous forme active dans le sang"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Après absorption intestinale, les IPP passent dans le sang et sont retrouvés sous forme inactive (promédicaments) dans le cytoplasme de la cellule pariétale.",
+    "source": {
+      "page": 8,
+      "extrait": "sont retrouvés sous formes inactives dans le cytoplasme de la cellule pariétale (promédicaments)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "IPP",
+      "mécanisme"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/qcm-041",
+    "type": "multiple",
+    "enonce": "Étape d'activation des IPP :",
+    "options": [
+      "Elle se fait grâce au pH acide",
+      "Le groupement sulfoxyde est transformé en sulfénamide",
+      "Le sulfénamide est la forme active",
+      "Elle se fait grâce au pH alcalin",
+      "Le sulfénamide est transformé en sulfoxyde"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Grâce au pH acide, le groupement sulfoxyde est réduit (selon le cours) en sulfénamide, forme active. Le pH alcalin et le sens inverse sont faux.",
+    "source": {
+      "page": 8,
+      "extrait": "Grâce au pH acide, le groupement sulfoxyde est réduit en sulfénamide (forme active )"
+    },
+    "difficulte": 2,
+    "tags": [
+      "IPP",
+      "mécanisme"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/qcm-042",
+    "type": "multiple",
+    "enonce": "Le cycle sulfénamide (forme active des IPP) :",
+    "options": [
+      "Possède un soufre réactif",
+      "Forme une liaison covalente avec la pompe à protons",
+      "La liaison formée est irréversible",
+      "Se lie au groupe thiol de la pompe à protons",
+      "Forme une liaison ionique réversible avec la pompe"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Le soufre réactif du sulfénamide forme une liaison covalente irréversible avec le groupe thiol de la pompe à protons.",
+    "source": {
+      "page": 8,
+      "extrait": "Le cycle sulfénamide possède un soufre réactif qui forme une liaison covalente irréversible avec le groupe thiol de la Pompe à protons"
+    },
+    "difficulte": 2,
+    "tags": [
+      "IPP",
+      "mécanisme"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/qcm-043",
+    "type": "multiple",
+    "enonce": "L'inhibition de la pompe à protons par les IPP :",
+    "options": [
+      "Est totale",
+      "Dure environ 24 heures",
+      "Sa durée correspond au délai nécessaire à la synthèse d'une nouvelle pompe à protons",
+      "Est partielle et dure environ 2 heures",
+      "Cesse dès l'élimination plasmatique du médicament"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "L'inhibition est totale et dure environ 24 heures, délai nécessaire à la synthèse physiologique d'une nouvelle pompe (liaison irréversible).",
+    "source": {
+      "page": 8,
+      "extrait": "L'inhibition : est totale et dure environ 24 heures"
+    },
+    "difficulte": 2,
+    "tags": [
+      "IPP",
+      "mécanisme"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/qcm-044",
+    "type": "multiple",
+    "enonce": "La durée d'inhibition d'environ 24 heures par les IPP s'explique par :",
+    "options": [
+      "Le délai nécessaire à la synthèse physiologique d'une nouvelle pompe à protons",
+      "La demi-vie plasmatique de 24 heures des IPP",
+      "Une liaison compétitive réversible",
+      "Le délai de vidange gastrique",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "La liaison étant covalente et irréversible, l'effet dure le temps de synthétiser une nouvelle pompe, soit environ 24 heures.",
+    "source": {
+      "page": 8,
+      "extrait": "Cette dernière représente le délai nécessaire à la synthèse physiologique d'une nouvelle pompe à protons"
+    },
+    "difficulte": 2,
+    "tags": [
+      "IPP",
+      "mécanisme"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/qcm-045",
+    "type": "multiple",
+    "enonce": "Concernant l'oméprazole :",
+    "options": [
+      "Ses noms commerciaux sont Prilosec® et Mopral®",
+      "Son nom IUPAC est 5-methoxy-2-[(4-methoxy-3,5-dimethylpyridin-2-yl)methylsulfinyl]-1H-benzimidazole",
+      "Il porte un groupe méthoxy en position 5 du benzimidazole",
+      "Son nom commercial est Nexium®",
+      "Il porte un groupe difluorométhoxy en position 5"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Oméprazole : Prilosec®, Mopral® ; 5-méthoxy sur le benzimidazole, 4-méthoxy-3,5-diméthyl sur la pyridine. Nexium® = ésoméprazole ; le difluorométhoxy est celui du pantoprazole.",
+    "source": {
+      "page": 9,
+      "extrait": "5-methoxy-2-[(4-methoxy-3,5- dimethylpyridin-2- yl)methylsulfinyl]-1H- benzimidazole"
+    },
+    "difficulte": 2,
+    "tags": [
+      "IPP",
+      "oméprazole"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/qcm-046",
+    "type": "multiple",
+    "enonce": "L'ésoméprazole (Nexium®) :",
+    "options": [
+      "Est l'énantiomère (S) de l'oméprazole",
+      "Possède le même squelette pyridinyl méthyl sulfinyl benzimidazole",
+      "Est l'énantiomère (R) de l'oméprazole",
+      "Est un antagoniste H2",
+      "Possède un groupe trifluoroéthoxy"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Le nom IUPAC de l'ésoméprazole est le (S)-5-méthoxy-2-[[(4-méthoxy-3,5-diméthyl-2-pyridinyl)méthyl]sulfinyl]-1H-benzimidazole : forme (S) de l'oméprazole.",
+    "source": {
+      "page": 9,
+      "extrait": "(S)-5-Methoxy-2-[[(4-methoxy- 3,5-dimethyl-2- pyridinyl)methyl]sulfinyl]-1H- benzimidazole"
+    },
+    "difficulte": 2,
+    "tags": [
+      "IPP",
+      "ésoméprazole"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/qcm-047",
+    "type": "multiple",
+    "enonce": "Concernant le pantoprazole :",
+    "options": [
+      "Son nom commercial cité est Protonix®",
+      "Il porte un groupe difluorométhoxy en position 5 du benzimidazole",
+      "Sa pyridine est 3,4-diméthoxylée",
+      "Il porte un groupe trifluoroéthoxy en position 4 de la pyridine",
+      "Son nom commercial cité est Prevacid®"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Pantoprazole (Protonix®) : 5-(difluorométhoxy)-2-[(3,4-diméthoxypyridin-2-yl)méthylsulfinyl]-1H-benzimidazole. Le trifluoroéthoxy et Prevacid® concernent le lansoprazole.",
+    "source": {
+      "page": 9,
+      "extrait": "5-(difluoromethoxy)-2-[(3,4- dimethoxypyridin-2- yl)methylsulfinyl]-1H- benzimidazole"
+    },
+    "difficulte": 2,
+    "tags": [
+      "IPP",
+      "pantoprazole"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/qcm-048",
+    "type": "multiple",
+    "enonce": "Concernant le lansoprazole :",
+    "options": [
+      "Son nom commercial cité est Prevacid®",
+      "Sa pyridine porte un groupe 2,2,2-trifluoroéthoxy en position 4",
+      "Sa pyridine porte un méthyle en position 3",
+      "Son benzimidazole est non substitué",
+      "Son nom commercial cité est Pariet®"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Lansoprazole (Prevacid®) : 2-[[[3-méthyl-4-(2,2,2-trifluoroéthoxy)-2-pyridinyl]méthyl]sulfinyl]-1H-benzimidazole, sans substituant sur le benzimidazole. Pariet® = rabéprazole.",
+    "source": {
+      "page": 9,
+      "extrait": "2-[[[3-methyl-4-(2,2,2- trifluoroethoxy)-2- pyridinyl]methyl]sulfinyl]-1H- benzimidazole"
+    },
+    "difficulte": 3,
+    "tags": [
+      "IPP",
+      "lansoprazole"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/qcm-049",
+    "type": "multiple",
+    "enonce": "Concernant le rabéprazole :",
+    "options": [
+      "Son nom commercial cité est Pariet®",
+      "Sa pyridine porte un groupe 3-méthoxypropoxy en position 4",
+      "Sa pyridine porte un méthyle en position 3",
+      "Il porte un groupe méthoxy en position 5 du benzimidazole",
+      "Son nom commercial cité est Mopral®"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Rabéprazole (Pariet®) : 2-({[4-(3-méthoxypropoxy)-3-méthylpyridin-2-yl]méthyl}sulfinyl)-1H-benzimidazole ; le benzimidazole n'est pas substitué. Mopral® = oméprazole.",
+    "source": {
+      "page": 10,
+      "extrait": "2-({[4-(3-methoxypropoxy)-3- methylpyridin-2- yl]methyl}sulfinyl)-1H- benzimidazole"
+    },
+    "difficulte": 3,
+    "tags": [
+      "IPP",
+      "rabéprazole"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/qcm-050",
+    "type": "multiple",
+    "enonce": "Associez correctement IPP et nom commercial :",
+    "options": [
+      "Oméprazole – Mopral®",
+      "Ésoméprazole – Nexium®",
+      "Pantoprazole – Protonix®",
+      "Rabéprazole – Pariet®",
+      "Lansoprazole – Tagamet®"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Lansoprazole = Prevacid® ; Tagamet® est le nom commercial de la cimétidine.",
+    "source": {
+      "page": 9,
+      "extrait": "Esoméprazole NEXIUM®"
+    },
+    "difficulte": 1,
+    "tags": [
+      "IPP",
+      "noms commerciaux"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/qcm-051",
+    "type": "multiple",
+    "enonce": "Parmi les IPP suivants, lesquels possèdent un benzimidazole non substitué en position 5 ?",
+    "options": [
+      "Lansoprazole",
+      "Rabéprazole",
+      "Oméprazole",
+      "Pantoprazole",
+      "Ésoméprazole"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "D'après les noms IUPAC du cours, lansoprazole et rabéprazole sont des « 1H-benzimidazole » sans substituant en 5 ; oméprazole/ésoméprazole (5-méthoxy) et pantoprazole (5-difluorométhoxy) sont substitués.",
+    "source": {
+      "page": 10,
+      "extrait": "2-({[4-(3-methoxypropoxy)-3- methylpyridin-2- yl]methyl}sulfinyl)-1H- benzimidazole"
+    },
+    "difficulte": 3,
+    "tags": [
+      "IPP",
+      "structure"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/qcm-052",
+    "type": "unique",
+    "enonce": "Parmi les IPP suivants, lequel comporte des atomes de fluor ?",
+    "options": [
+      "Pantoprazole et lansoprazole",
+      "Oméprazole et ésoméprazole",
+      "Rabéprazole seul",
+      "Oméprazole seul",
+      "Aucun IPP ne contient de fluor"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Pantoprazole : difluorométhoxy ; lansoprazole : 2,2,2-trifluoroéthoxy.",
+    "source": {
+      "page": 9,
+      "extrait": "5-(difluoromethoxy)-2-[(3,4- dimethoxypyridin-2- yl)methylsulfinyl]-1H- benzimidazole"
+    },
+    "difficulte": 2,
+    "tags": [
+      "IPP",
+      "structure"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/qcm-053",
+    "type": "multiple",
+    "enonce": "RSA des IPP, concernant la position 4 de la pyridine :",
+    "options": [
+      "Le composé 4-méthylé est plusieurs fois moins actif que les analogues 4-méthoxy",
+      "Le composé 4-méthylé est plusieurs fois plus actif que les analogues 4-méthoxy",
+      "Les analogues 4-méthoxy sont plus actifs que le composé 4-méthylé",
+      "La nature du substituant en 4 n'a aucune importance",
+      "Le composé 4-méthylé est inactif par instabilité"
+    ],
+    "correctes": [
+      0,
+      2
+    ],
+    "explication": "Le composé 4-méthylé est plusieurs fois moins actif que les analogues 4-méthoxy (donc les 4-méthoxy sont plus actifs).",
+    "source": {
+      "page": 10,
+      "extrait": "le composé 4-méthylé est plusieurs fois moins actif que les analogues 4-méthoxy"
+    },
+    "difficulte": 3,
+    "tags": [
+      "RSA IPP"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/qcm-054",
+    "type": "multiple",
+    "enonce": "RSA des IPP :",
+    "options": [
+      "La substitution en position 6 de la pyridine provoque une perte de l'activité",
+      "L'extension de la chaîne en SO2–CH2–CH2 conduit à un dérivé plus stable mais inactif",
+      "L'introduction de substituants attracteurs d'électrons conduit à une diminution de l'inhibition enzymatique",
+      "La substitution en position 6 de la pyridine augmente l'activité",
+      "L'extension de la chaîne en SO2–CH2–CH2 conduit à un dérivé plus actif"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Substitution en 6 de la pyridine : perte d'activité ; chaîne SO2–CH2–CH2 : dérivé plus stable mais inactif ; substituants attracteurs d'électrons : diminution de l'inhibition enzymatique.",
+    "source": {
+      "page": 10,
+      "extrait": "L'extension de la chaine en SO2 – CH2 – CH2 conduit à un dérivé plus stable mais inactif"
+    },
+    "difficulte": 3,
+    "tags": [
+      "RSA IPP"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/qcm-055",
+    "type": "unique",
+    "enonce": "L'extension de la chaîne en SO2–CH2–CH2 dans la série des IPP conduit à un dérivé :",
+    "options": [
+      "Plus stable mais inactif",
+      "Plus stable et plus actif",
+      "Moins stable mais plus actif",
+      "Moins stable et inactif",
+      "Sans modification de l'activité"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Le cours précise : dérivé plus stable mais inactif.",
+    "source": {
+      "page": 10,
+      "extrait": "conduit à un dérivé plus stable mais inactif"
+    },
+    "difficulte": 2,
+    "tags": [
+      "RSA IPP"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/qcm-056",
+    "type": "multiple",
+    "enonce": "Indications des inhibiteurs de la pompe à protons citées dans le cours :",
+    "options": [
+      "Ulcère gastroduodénal (UGD)",
+      "Reflux gastro-œsophagien (RGO)",
+      "Syndrome de Mendelson",
+      "Gynécomastie",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Les IPP sont indiqués dans l'UGD et le RGO. Le syndrome de Mendelson figure dans les indications des anti-H2.",
+    "source": {
+      "page": 11,
+      "extrait": "Indication: – Ulcère gastroduodénal (UGD) – Reflux gastro-oesophagien (RGO)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "IPP",
+      "indications"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/qcm-057",
+    "type": "multiple",
+    "enonce": "Propriétés des IPP :",
+    "options": [
+      "Ils diminuent d'environ 95 % la sécrétion acide gastrique",
+      "Leur délai d'action est prolongé",
+      "Ils inhibent le CYP 2C19",
+      "Une attention est requise lors de l'association avec le clopidogrel",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "IPP : ↓ 95 % de la sécrétion acide, délai d'action prolongé, inhibition du CYP 2C19 (attention au clopidogrel).",
+    "source": {
+      "page": 11,
+      "extrait": "Inhibition du CYP 2C19: attention à l'association avec le Clopidogrel"
+    },
+    "difficulte": 2,
+    "tags": [
+      "IPP",
+      "propriétés"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/qcm-058",
+    "type": "unique",
+    "enonce": "L'inhibition du CYP 2C19 par les IPP impose une attention particulière lors de l'association avec :",
+    "options": [
+      "Le clopidogrel",
+      "La cimétidine",
+      "Le sucralfate",
+      "Les prostaglandines",
+      "La somatostatine"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Le cours signale l'inhibition du CYP 2C19 : attention à l'association avec le clopidogrel.",
+    "source": {
+      "page": 11,
+      "extrait": "Inhibition du CYP 2C19: attention à l'association avec le Clopidogrel"
+    },
+    "difficulte": 1,
+    "tags": [
+      "IPP",
+      "interactions"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/qcm-059",
+    "type": "unique",
+    "enonce": "Les IPP diminuent la sécrétion acide gastrique d'environ :",
+    "options": [
+      "95 %",
+      "50 %",
+      "30 %",
+      "10 %",
+      "100 %"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Les IPP diminuent la sécrétion acide gastrique d'environ 95 %.",
+    "source": {
+      "page": 11,
+      "extrait": "↓ ↓ ↓(95 %) la sécrétion acide gastrique"
+    },
+    "difficulte": 1,
+    "tags": [
+      "IPP",
+      "propriétés"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/qcm-060",
+    "type": "multiple",
+    "enonce": "Comparaison anti-H2 / IPP selon le cours :",
+    "options": [
+      "Les anti-H2 sont des antagonistes compétitifs",
+      "Les IPP forment une liaison covalente irréversible avec leur cible",
+      "Les IPP sont des promédicaments activés en milieu acide",
+      "Les anti-H2 se lient de façon covalente au récepteur H2",
+      "Les IPP agissent sur le récepteur H1"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Anti-H2 : antagonisme classique, sélectif et compétitif. IPP : promédicaments activés par le pH acide en sulfénamide, liaison covalente irréversible avec le thiol de la pompe.",
+    "source": {
+      "page": 8,
+      "extrait": "forme une liaison covalente irréversible avec le groupe thiol de la Pompe à protons"
+    },
+    "difficulte": 2,
+    "tags": [
+      "anti-H2",
+      "IPP",
+      "mécanisme"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/qcm-061",
+    "type": "multiple",
+    "enonce": "Parmi les molécules suivantes, lesquelles sont des antagonistes des récepteurs H2 ?",
+    "options": [
+      "Cimétidine",
+      "Ranitidine",
+      "Famotidine",
+      "Nizatidine",
+      "Rabéprazole"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Cimétidine, ranitidine, famotidine, nizatidine (et roxatidine) sont des anti-H2 ; le rabéprazole est un IPP.",
+    "source": {
+      "page": 6,
+      "extrait": "Guanidino-thiazole : famotidine/ nizatidine"
+    },
+    "difficulte": 1,
+    "tags": [
+      "anti-H2"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/qcm-062",
+    "type": "multiple",
+    "enonce": "Parmi les molécules suivantes, lesquelles sont des inhibiteurs de la pompe à protons ?",
+    "options": [
+      "Oméprazole",
+      "Lansoprazole",
+      "Pantoprazole",
+      "Rabéprazole",
+      "Roxatidine"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Oméprazole, ésoméprazole, pantoprazole, lansoprazole, rabéprazole sont des IPP ; la roxatidine est un anti-H2.",
+    "source": {
+      "page": 9,
+      "extrait": "Pantoprazole PROTONIX®"
+    },
+    "difficulte": 1,
+    "tags": [
+      "IPP"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/qcm-063",
+    "type": "multiple",
+    "enonce": "Concernant les noyaux hétérocycliques rencontrés dans ce cours :",
+    "options": [
+      "L'imidazole est présent dans la cimétidine",
+      "Le thiazole est présent dans la famotidine",
+      "Le furane est présent dans la ranitidine",
+      "Le benzimidazole est présent dans les IPP",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Cimétidine : imidazole ; famotidine : 2-guanidinothiazole ; ranitidine : diméthylaminofurane ; IPP : pyridine + benzimidazole.",
+    "source": {
+      "page": 6,
+      "extrait": "Le noyau imidazole de la cimétidine a été remplacé par un thiazole (2- guanidinothiazole)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "hétérocycles"
+    ],
+    "origine": "genere"
+  }
+]

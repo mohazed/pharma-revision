@@ -1,0 +1,1987 @@
+[
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/qcm-001",
+    "type": "multiple",
+    "enonce": "Concernant la définition des coumarines, Cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Ce sont des composés phénoliques dérivés de la benzo-α-pyrone",
+      "Elles comportent un noyau benzénique fusionné à un cycle lactonique",
+      "Ce sont des lactones de l'acide 2-hydroxycinnamique",
+      "Elles dérivent de la benzo-γ-pyrone",
+      "Ce sont des lactones de l'acide 4-hydroxycinnamique"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Les coumarines dérivent de la benzo-α-pyrone (noyau benzénique + cycle lactonique) et sont des lactones de l'acide 2-hydroxycinnamique (acide o-coumarique). Les γ-pyrones correspondent aux furanochromones du khella.",
+    "source": {
+      "page": 4,
+      "extrait": "Elles correspondent à des lactones de l'acide 2-hydroxycinnamique (acide o-coumarique)."
+    },
+    "difficulte": 1,
+    "tags": [
+      "définition"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/qcm-002",
+    "type": "unique",
+    "enonce": "L'acide o-coumarique, dont les coumarines sont les lactones, correspond à :",
+    "options": [
+      "L'acide 2-hydroxycinnamique",
+      "L'acide 3-hydroxycinnamique",
+      "L'acide 4-hydroxycinnamique",
+      "L'acide 2-hydroxybenzoïque",
+      "L'acide cinnamique non hydroxylé"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Le cours précise : lactones de l'acide 2-hydroxycinnamique (acide o-coumarique).",
+    "source": {
+      "page": 4,
+      "extrait": "lactones de l'acide 2-hydroxycinnamique (acide o-coumarique)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "définition"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/qcm-003",
+    "type": "multiple",
+    "enonce": "Concernant l'origine du nom « coumarine », Cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Il dérive de kumaru, nom amazonien d'un arbre",
+      "Cet arbre est Dipteryx odorata Willd. (Fabaceae)",
+      "Cet arbre est appelé gaïac de Cayenne",
+      "La coumarine a été isolée pour la première fois en 1820 par Vogel à partir de son écorce",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "La coumarine a été isolée en 1820 par Vogel à partir des fèves tonka (graines), et non de l'écorce.",
+    "source": {
+      "page": 5,
+      "extrait": "Cet arbre produit les fèves tonka, dont la coumarine a été isolée pour la première fois en 1820 par Vogel."
+    },
+    "difficulte": 2,
+    "tags": [
+      "historique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/qcm-004",
+    "type": "multiple",
+    "enonce": "Concernant la répartition botanique des coumarines, Cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Plus de 1 000 coumarines naturelles sont décrites",
+      "Elles sont présentes dans plus de 70 familles de Dicotylédones",
+      "Elles sont présentes dans 9 familles de Monocotylédones",
+      "Leur présence est rapportée chez les Poaceae",
+      "Plus de 3 000 coumarines naturelles sont décrites"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Plus de 1 000 coumarines naturelles ; plus de 3 000 correspond aux lignanes.",
+    "source": {
+      "page": 6,
+      "extrait": "+ 1 000 coumarines naturelles décrites"
+    },
+    "difficulte": 1,
+    "tags": [
+      "répartition"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/qcm-005",
+    "type": "multiple",
+    "enonce": "Parmi les familles botaniques citées dans le cours comme renfermant des coumarines, on trouve :",
+    "options": [
+      "Les Apiaceae",
+      "Les Rutaceae",
+      "Les Asteraceae",
+      "Les Solanaceae",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Le cours cite Apiaceae, Rutaceae, Fabaceae, Asteraceae et Solanaceae (et les Poaceae chez les Monocotylédones).",
+    "source": {
+      "page": 6,
+      "extrait": "APIACEAE RUTACEAE FABACEAE ASTERACEAE SOLANACEAE"
+    },
+    "difficulte": 1,
+    "tags": [
+      "répartition"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/qcm-006",
+    "type": "multiple",
+    "enonce": "Concernant la localisation et la production des coumarines dans la plante, Cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Elles peuvent être présentes dans les feuilles, les fleurs, les fruits, les racines et les écorces",
+      "Elles sont généralement synthétisées dans les tissus végétaux, notamment les feuilles",
+      "Elles peuvent s'accumuler en particulier dans les racines et les écorces",
+      "Leur production peut être stimulée par des agressions pathogènes",
+      "Leur production est diminuée par les blessures et lésions tissulaires"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Les blessures et lésions tissulaires, comme les agressions pathogènes, sont des facteurs de stress qui stimulent la production.",
+    "source": {
+      "page": 7,
+      "extrait": "La production peut être stimulée par des facteurs de stress : agressions pathogènes, blessures et lésions tissulaires"
+    },
+    "difficulte": 1,
+    "tags": [
+      "localisation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/qcm-007",
+    "type": "multiple",
+    "enonce": "Concernant la structure de base des coumarines, Cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Le squelette fondamental est de type C₆–C₃",
+      "Sa formule est C₉H₆O₂",
+      "Les positions C6, C7 et C8 peuvent porter des groupements hydroxyles",
+      "La substitution en C5 par un hydroxyle est la plus fréquente",
+      "Les hydroxyles phénoliques peuvent être libres, méthylés ou engagés dans une liaison hétérosidique"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explication": "C'est la substitution en C7 par un hydroxyle qui est fréquente.",
+    "source": {
+      "page": 9,
+      "extrait": "La substitution en C7 par un hydroxyle est fréquente."
+    },
+    "difficulte": 2,
+    "tags": [
+      "structure"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/qcm-008",
+    "type": "unique",
+    "enonce": "La formule du squelette fondamental des coumarines (noyau benzo-α-pyrone) est :",
+    "options": [
+      "C₉H₆O₂",
+      "C₉H₈O₃",
+      "C₁₈H₁₈O₂",
+      "C₆H₆O",
+      "C₁₅H₁₀O₂"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Squelette fondamental C₆–C₃ : C₉H₆O₂.",
+    "source": {
+      "page": 9,
+      "extrait": "Squelette fondamental (C₆–C₃): C₉H₆O₂, correspondant au noyau benzo-α-pyrone."
+    },
+    "difficulte": 1,
+    "tags": [
+      "structure"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/qcm-009",
+    "type": "multiple",
+    "enonce": "Concernant les génines coumariniques simples, Cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "L'ombelliférone porte un OH en C7",
+      "L'herniarine porte un OCH₃ en C7",
+      "L'esculétol porte deux OH en C6 et C7",
+      "Le scopolétol porte un OH en C6 et un OCH₃ en C7",
+      "Le fraxétol porte un OCH₃ en C6 et deux OH en C7 et C8"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explication": "Le scopolétol porte un OCH₃ en C6 et un OH en C7 (et non l'inverse).",
+    "source": {
+      "page": 11,
+      "extrait": "Esculétol OH OH H Scopolétol OCH₃ OH H"
+    },
+    "difficulte": 2,
+    "tags": [
+      "coumarines simples"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/qcm-010",
+    "type": "unique",
+    "enonce": "La coumarine simple portant un groupement méthoxyle (OCH₃) en C7 et aucun autre substituant est :",
+    "options": [
+      "L'herniarine",
+      "L'ombelliférone",
+      "Le scopolétol",
+      "L'esculétol",
+      "Le fraxétol"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Herniarine : R6 = H, R7 = OCH₃, R8 = H ; l'ombelliférone porte un OH en C7.",
+    "source": {
+      "page": 11,
+      "extrait": "Ombelliférone H OH H Herniarine H OCH₃ H"
+    },
+    "difficulte": 1,
+    "tags": [
+      "coumarines simples"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/qcm-011",
+    "type": "multiple",
+    "enonce": "Concernant le scopolétol et la scopanone, Cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Le scopolétol porte un OCH₃ en C6",
+      "Le scopolétol porte un OH en C7",
+      "La scopanone porte un OCH₃ en C6 et en C7",
+      "La scopanone porte un OH en C8",
+      "Le scopolétol porte un OH en C8"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Scopolétol : OCH₃ / OH / H ; scopanone : OCH₃ / OCH₃ / H. Seul le fraxétol porte un OH en C8.",
+    "source": {
+      "page": 11,
+      "extrait": "Scopolétol OCH₃ OH H Scopanone OCH₃ OCH₃ H"
+    },
+    "difficulte": 2,
+    "tags": [
+      "coumarines simples"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/qcm-012",
+    "type": "multiple",
+    "enonce": "Concernant les hétérosides coumariniques, Cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Ils résultent de la fixation d'un ou plusieurs oses sur un hydroxyle phénolique de la génine",
+      "La skimmine est le 7-O-glucosyl-ombelliférone",
+      "L'esculoside est le 6-O-glucosyl-esculétol",
+      "La liaison est généralement de type C-hétérosidique",
+      "La cichoriine est le 7-O-glucosyl-esculétol"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explication": "La liaison est généralement de type O-hétérosidique.",
+    "source": {
+      "page": 12,
+      "extrait": "La liaison est généralement de type O-hétérosidique."
+    },
+    "difficulte": 2,
+    "tags": [
+      "hétérosides"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/qcm-013",
+    "type": "unique",
+    "enonce": "Le 6-O-glucosyl-esculétol correspond à :",
+    "options": [
+      "L'esculoside",
+      "La skimmine",
+      "La cichoriine",
+      "La fraxine",
+      "La scopoline"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Esculoside = 6-O-glucosyl-esculétol ; skimmine = 7-O-glucosyl-ombelliférone ; cichoriine = 7-O-glucosyl-esculétol.",
+    "source": {
+      "page": 12,
+      "extrait": "Esculoside 6-O-glucosyl- esculétol"
+    },
+    "difficulte": 2,
+    "tags": [
+      "hétérosides"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/qcm-014",
+    "type": "multiple",
+    "enonce": "Concernant les furocoumarines, Cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Elles résultent de la fusion d'un cycle furannique à cinq chaînons avec le noyau coumarinique",
+      "Elles sont particulièrement rencontrées chez les Apiaceae, les Rutaceae et les Fabaceae",
+      "On en distingue deux formes selon le mode de fusion",
+      "Elles résultent de la fusion d'un cycle à six chaînons avec le noyau coumarinique",
+      "Elles sont propres aux Monocotylédones"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Le cycle à six chaînons (pyrannique) définit les pyranocoumarines.",
+    "source": {
+      "page": 13,
+      "extrait": "Elles résultent de la fusion d'un cycle furannique à cinq chaînons avec le noyau coumarinique."
+    },
+    "difficulte": 1,
+    "tags": [
+      "furocoumarines"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/qcm-015",
+    "type": "unique",
+    "enonce": "Les furocoumarines résultent de la fusion du noyau coumarinique avec :",
+    "options": [
+      "Un cycle furannique à cinq chaînons",
+      "Un cycle pyrannique à six chaînons",
+      "Un second cycle lactonique",
+      "Un noyau naphtalénique",
+      "Un cycle central à huit chaînons"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Furocoumarines = cycle furannique (5 chaînons) ; pyranocoumarines = cycle pyrannique (6 chaînons).",
+    "source": {
+      "page": 13,
+      "extrait": "fusion d'un cycle furannique à cinq chaînons avec le noyau coumarinique"
+    },
+    "difficulte": 1,
+    "tags": [
+      "furocoumarines"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/qcm-016",
+    "type": "multiple",
+    "enonce": "Concernant les formes des furocoumarines, Cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "La forme linéaire correspond aux 6,7-furocoumarines",
+      "Dans la forme linéaire, le cycle furannique est fusionné au niveau des positions C6–C7",
+      "La forme angulaire correspond aux 7,8-furocoumarines",
+      "Dans la forme angulaire, le cycle furannique est fusionné au niveau des positions C6–C7",
+      "La forme linéaire correspond aux 7,8-furocoumarines"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Linéaire = 6,7 (fusion C6–C7) ; angulaire = 7,8 (fusion C7–C8).",
+    "source": {
+      "page": 14,
+      "extrait": "Le cycle furannique est fusionné au niveau des positions C7–C8."
+    },
+    "difficulte": 2,
+    "tags": [
+      "furocoumarines"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/qcm-017",
+    "type": "multiple",
+    "enonce": "Concernant les pyranocoumarines, Cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Elles résultent de la fusion d'un cycle pyrannique à six chaînons avec le noyau coumarinique",
+      "Elles sont rencontrées principalement chez les Apiaceae",
+      "Deux dispositions sont possibles : angulaire et linéaire",
+      "Elles résultent de la fusion d'un cycle à cinq chaînons",
+      "Elles sont rencontrées principalement chez les Rutaceae"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Pyranocoumarines : cycle pyrannique à 6 chaînons, principalement chez les Apiaceae.",
+    "source": {
+      "page": 15,
+      "extrait": "Elles sont rencontrées principalement chez les Apiaceae."
+    },
+    "difficulte": 1,
+    "tags": [
+      "pyranocoumarines"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/qcm-018",
+    "type": "multiple",
+    "enonce": "Concernant les propriétés physiques des coumarines, Cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Ce sont des solides cristallisés blancs ou jaunâtres",
+      "Leur saveur est généralement amère",
+      "La coumarine possède une odeur rappelant le foin fraîchement coupé",
+      "Certaines coumarines sont sublimables et entraînables à la vapeur d'eau",
+      "Leur saveur est généralement sucrée"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "La saveur est généralement amère.",
+    "source": {
+      "page": 16,
+      "extrait": "Saveur généralement amère, la coumarine possède une odeur rappelant le foin fraîchement coupé."
+    },
+    "difficulte": 1,
+    "tags": [
+      "propriétés physico-chimiques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/qcm-019",
+    "type": "multiple",
+    "enonce": "Concernant la solubilité des coumarines, Cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Les génines sont solubles dans l'alcool et les solvants organiques",
+      "Les génines sont solubles dans l'éther et les solvants chlorés",
+      "Les hétérosides sont assez solubles dans l'eau",
+      "Les génines sont très solubles dans l'eau",
+      "Les hétérosides sont insolubles dans l'alcool"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Génines : alcool et solvants organiques (éther, solvants chlorés). Hétérosides : assez solubles dans l'eau et solubles dans l'alcool.",
+    "source": {
+      "page": 16,
+      "extrait": "Hétérosides Assez solubles dans l'eau et solubles dans l'alcool."
+    },
+    "difficulte": 2,
+    "tags": [
+      "propriétés physico-chimiques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/qcm-020",
+    "type": "multiple",
+    "enonce": "Concernant les propriétés optiques et chimiques des coumarines, Cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Les coumarines hydroxylées possèdent une intense fluorescence bleue en lumière UV",
+      "Leur spectre UV est caractéristique et sert à leur identification",
+      "Leurs propriétés chimiques sont principalement dues à la fonction lactone insaturée",
+      "L'anneau lactonique s'ouvre en milieu alcalin",
+      "Avec les sels de plomb, elles donnent des combinaisons solubles"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Avec les sels de plomb, on obtient des combinaisons insolubles.",
+    "source": {
+      "page": 17,
+      "extrait": "Avec les sels de plomb, on obtient des combinaisons insolubles"
+    },
+    "difficulte": 2,
+    "tags": [
+      "propriétés physico-chimiques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/qcm-021",
+    "type": "unique",
+    "enonce": "L'ouverture de l'anneau lactonique des coumarines se produit en milieu :",
+    "options": [
+      "Alcalin",
+      "Acide",
+      "Neutre",
+      "Anhydre",
+      "Oxydant"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Propriété principale de la fonction lactone insaturée : ouverture de l'anneau lactonique en milieu alcalin.",
+    "source": {
+      "page": 17,
+      "extrait": "notamment l'ouverture de l'anneau lactonique en milieu alcalin"
+    },
+    "difficulte": 1,
+    "tags": [
+      "propriétés physico-chimiques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/qcm-022",
+    "type": "multiple",
+    "enonce": "Concernant l'extraction des coumarines, Cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Les coumarines libres hydroxylées peuvent être extraites par l'eau sodique",
+      "Les coumarines libres hydroxylées peuvent être extraites par l'alcool et les solvants organiques",
+      "Les hétérosides ont une solubilité variable dans l'eau",
+      "Une extraction par entraînement à la vapeur d'eau est possible",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Les quatre premières propositions sont citées dans le cours.",
+    "source": {
+      "page": 18,
+      "extrait": "Coumarines libres hydroxylées : eau sodique, alcool et solvants organiques (éther, solvants chlorés)."
+    },
+    "difficulte": 1,
+    "tags": [
+      "extraction"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/qcm-023",
+    "type": "multiple",
+    "enonce": "Concernant la caractérisation et le dosage des coumarines, Cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Le spectre UV présente un maximum d'absorption à 274 nm dans le méthanol",
+      "En CCM, on observe des taches fluorescentes bleues, jaunes ou pourpres sous UV",
+      "Le maximum d'absorption UV se situe à 374 nm dans le méthanol",
+      "Le dosage peut se faire par fluorométrie après élution des taches de CCM",
+      "L'électrophorèse capillaire permet de séparer des coumarines de structures voisines"
+    ],
+    "correctes": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "explication": "Le maximum d'absorption est à 274 nm dans le méthanol.",
+    "source": {
+      "page": 18,
+      "extrait": "Spectre UV : maximum d'absorption à 274 nm dans le méthanol."
+    },
+    "difficulte": 2,
+    "tags": [
+      "caractérisation",
+      "dosage"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/qcm-024",
+    "type": "unique",
+    "enonce": "Le maximum d'absorption UV des coumarines dans le méthanol se situe à :",
+    "options": [
+      "274 nm",
+      "254 nm",
+      "284 nm",
+      "330 nm",
+      "365 nm"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Spectre UV : maximum à 274 nm dans le méthanol.",
+    "source": {
+      "page": 18,
+      "extrait": "maximum d'absorption à 274 nm dans le méthanol"
+    },
+    "difficulte": 2,
+    "tags": [
+      "caractérisation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/qcm-025",
+    "type": "unique",
+    "enonce": "Parmi les méthodes suivantes, laquelle n'est PAS citée dans le cours pour le dosage des coumarines ?",
+    "options": [
+      "La gravimétrie",
+      "La fluorométrie après élution des taches de CCM",
+      "L'HPLC",
+      "L'électrophorèse capillaire",
+      "Toutes ces méthodes sont citées"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Dosage : fluorométrie après élution des taches de CCM, HPLC, électrophorèse capillaire.",
+    "source": {
+      "page": 18,
+      "extrait": "Fluorométrie après élution des taches de CCM. HPLC. Électrophorèse capillaire"
+    },
+    "difficulte": 2,
+    "tags": [
+      "dosage"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/qcm-026",
+    "type": "multiple",
+    "enonce": "Concernant l'action vitaminique P des coumarines, Cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Elle est attribuée à l'esculine, l'esculétine et l'esculoside",
+      "Elle se traduit par une augmentation de la résistance des capillaires",
+      "Elle se traduit par une diminution de la perméabilité des capillaires",
+      "Elle se traduit par une augmentation de la perméabilité des capillaires",
+      "Elle est attribuée aux furocoumarines"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Action vitaminique P (esculine, esculétine, esculoside) : résistance capillaire augmentée, perméabilité diminuée.",
+    "source": {
+      "page": 19,
+      "extrait": "Augmentation de la résistance des capillaires et diminution de leur perméabilité."
+    },
+    "difficulte": 1,
+    "tags": [
+      "pharmacologie"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/qcm-027",
+    "type": "multiple",
+    "enonce": "Concernant les furocoumarines photosensibilisantes, Cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Certaines furocoumarines sont photosensibilisantes",
+      "Elles sont associées aux UVA dans la PUVA-thérapie",
+      "Elles sont utilisées dans le psoriasis et le vitiligo",
+      "Elles sont associées aux UVB dans la PUVA-thérapie",
+      "Elles sont utilisées dans l'acné"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "PUVA-thérapie = furocoumarines + UVA ; utilisation médicale : psoriasis et vitiligo.",
+    "source": {
+      "page": 19,
+      "extrait": "Association aux UVA dans la PUVA-thérapie. Utilisation médicale : psoriasis et vitiligo"
+    },
+    "difficulte": 1,
+    "tags": [
+      "pharmacologie",
+      "furocoumarines"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/qcm-028",
+    "type": "unique",
+    "enonce": "La PUVA-thérapie associe :",
+    "options": [
+      "Des furocoumarines photosensibilisantes et des UVA",
+      "Des pyranocoumarines et des UVA",
+      "Des furocoumarines et des UVB",
+      "De l'esculoside et des UVA",
+      "De la coumarine et des UVB"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Certaines furocoumarines photosensibilisantes sont associées aux UVA (PUVA).",
+    "source": {
+      "page": 19,
+      "extrait": "Association aux UVA dans la PUVA-thérapie"
+    },
+    "difficulte": 1,
+    "tags": [
+      "pharmacologie"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/qcm-029",
+    "type": "multiple",
+    "enonce": "Concernant les autres activités pharmacologiques des coumarines, Cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Certaines pyranocoumarines exercent une activité antispasmodique",
+      "La coumarine a une activité anti-œdémateuse",
+      "La coumarine a une activité immunostimulante",
+      "La coumarine a une activité cytotoxique",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Toutes ces activités sont rapportées dans le cours.",
+    "source": {
+      "page": 19,
+      "extrait": "Activités anti-œdémateuses, immunostimulantes et cytotoxiques de la coumarine."
+    },
+    "difficulte": 1,
+    "tags": [
+      "pharmacologie"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/qcm-030",
+    "type": "multiple",
+    "enonce": "Concernant la visnadine, Cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "C'est une pyranocoumarine",
+      "Elle est isolée du khella (Ammi visnaga)",
+      "Une vasodilatation coronarienne a été historiquement décrite",
+      "Elle constitue une indication thérapeutique actuelle dans le vieillissement cérébral",
+      "C'est une furocoumarine linéaire"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "La visnadine est une pyranocoumarine du khella ; ses effets historiques ne constituent pas une indication thérapeutique actuelle.",
+    "source": {
+      "page": 20,
+      "extrait": "Ces éléments ne constituent pas une indication thérapeutique actuelle"
+    },
+    "difficulte": 2,
+    "tags": [
+      "visnadine",
+      "khella"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/qcm-031",
+    "type": "unique",
+    "enonce": "Le contact avec une plante à furocoumarines photosensibilisantes suivi d'une exposition aux UVA expose au risque de :",
+    "options": [
+      "Dermites aiguës",
+      "Hépatite médicamenteuse",
+      "Syndrome hémorragique",
+      "Aflatoxicose",
+      "Blocage de la mitose"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Contact avec la plante + exposition aux UVA = risque de dermites aiguës.",
+    "source": {
+      "page": 21,
+      "extrait": "Contact avec la plante + exposition aux UVA = risque de dermites aiguës."
+    },
+    "difficulte": 1,
+    "tags": [
+      "toxicité"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/qcm-032",
+    "type": "multiple",
+    "enonce": "Concernant le métabolisme hépatique de la coumarine, Cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "La coumarine est métabolisée principalement au niveau hépatique",
+      "La voie majoritaire est la 7-hydroxylation",
+      "Chez l'humain, la 7-hydroxylation passe notamment par le CYP2A6",
+      "Une voie minoritaire peut former des métabolites réactifs",
+      "La voie majoritaire conduit à des métabolites très hépatotoxiques"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "La voie majoritaire (7-hydroxylation) conduit à un métabolite généralement peu toxique ; c'est la voie minoritaire qui forme des métabolites réactifs.",
+    "source": {
+      "page": 23,
+      "extrait": "La voie majoritaire (7-hydroxylation, notamment via CYP2A6 chez l'humain) conduit à un métabolite généralement peu toxique."
+    },
+    "difficulte": 2,
+    "tags": [
+      "toxicité",
+      "hépatotoxicité"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/qcm-033",
+    "type": "unique",
+    "enonce": "Chez l'humain, la 7-hydroxylation de la coumarine fait intervenir notamment :",
+    "options": [
+      "Le CYP2A6",
+      "Le CYP3A4",
+      "Le CYP2D6",
+      "Le CYP1A2",
+      "Le CYP2C9"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Voie majoritaire : 7-hydroxylation, notamment via CYP2A6 chez l'humain.",
+    "source": {
+      "page": 23,
+      "extrait": "7-hydroxylation, notamment via CYP2A6 chez l'humain"
+    },
+    "difficulte": 2,
+    "tags": [
+      "hépatotoxicité"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/qcm-034",
+    "type": "multiple",
+    "enonce": "Concernant l'hépatotoxicité de la coumarine, Cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Elle peut se manifester par une élévation des ALAT/ASAT",
+      "Plus rarement, elle peut se manifester par une hépatite médicamenteuse",
+      "Elle est commune à toutes les coumarines",
+      "Elle dépend de la molécule, de la dose et du métabolisme individuel",
+      "Elle peut survenir chez certains individus par formation de métabolites réactifs"
+    ],
+    "correctes": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "explication": "La toxicité hépatique n'est pas commune à toutes les coumarines.",
+    "source": {
+      "page": 23,
+      "extrait": "La toxicité hépatique n'est pas commune à toutes les coumarines : elle dépend de la molécule, de la dose et du métabolisme individuel."
+    },
+    "difficulte": 2,
+    "tags": [
+      "hépatotoxicité"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/qcm-035",
+    "type": "multiple",
+    "enonce": "Concernant les aflatoxines évoquées avec les coumarines, Cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Ce sont des mycotoxines",
+      "Elles sont génotoxiques",
+      "Elles sont cancérogènes",
+      "Elles imposent un contrôle des matières premières, des tourteaux et des denrées destinées à l'homme",
+      "Ce sont des furocoumarines photosensibilisantes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Aflatoxines : mycotoxines génotoxiques et cancérogènes nécessitant un contrôle des matières premières et aliments.",
+    "source": {
+      "page": 24,
+      "extrait": "Mycotoxines génotoxique et cancérogène."
+    },
+    "difficulte": 2,
+    "tags": [
+      "toxicité",
+      "aflatoxines"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/qcm-036",
+    "type": "multiple",
+    "enonce": "Concernant la classification des drogues à coumarines, Cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "La fève de Tonka est une drogue à coumarines simples",
+      "Le mélilot est une drogue à coumarines simples",
+      "Le khella est une drogue à coumarines complexes",
+      "Le bergamotier est une drogue à coumarines simples",
+      "Le marronnier d'Inde est une drogue à coumarines complexes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Coumarines simples : Tonka, marronnier d'Inde, mélilot. Coumarines complexes : bergamotier, khella.",
+    "source": {
+      "page": 25,
+      "extrait": "1.2.2. Drogues à coumarines complexes Bergamotier, Citrus bergamia Risso & Poit., Rutaceae Khella, Ammi visnaga L, Apiaceae"
+    },
+    "difficulte": 1,
+    "tags": [
+      "drogues"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/qcm-037",
+    "type": "multiple",
+    "enonce": "Concernant les origines botaniques des drogues à coumarines, Cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Fève de Tonka : Dipteryx odorata, Fabaceae",
+      "Marronnier d'Inde : Aesculus hippocastanum, Sapindaceae",
+      "Mélilot : Melilotus officinalis, Fabaceae",
+      "Bergamotier : Citrus bergamia, Apiaceae",
+      "Khella : Ammi visnaga, Rutaceae"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Le bergamotier est une Rutaceae et le khella une Apiaceae.",
+    "source": {
+      "page": 25,
+      "extrait": "Mélilot, Melilotus officinalis (L.) Lam, Fabaceae"
+    },
+    "difficulte": 1,
+    "tags": [
+      "drogues"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/qcm-038",
+    "type": "unique",
+    "enonce": "Ammi visnaga (khella) appartient à la famille des :",
+    "options": [
+      "Apiaceae",
+      "Rutaceae",
+      "Fabaceae",
+      "Asteraceae",
+      "Berberidaceae"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Khella, Ammi visnaga L., Apiaceae.",
+    "source": {
+      "page": 25,
+      "extrait": "Khella, Ammi visnaga L, Apiaceae"
+    },
+    "difficulte": 1,
+    "tags": [
+      "khella"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/qcm-039",
+    "type": "multiple",
+    "enonce": "Concernant la fève de Tonka (coumarou), Cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "C'est un arbre cultivé dans les régions tropicales d'Amérique du Sud",
+      "La drogue est constituée par les graines",
+      "Les graines sont allongées, ridées, brun foncé à noir",
+      "Leur odeur rappelle la vanille et l'amande",
+      "La drogue est constituée par l'écorce"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "La drogue est constituée par les graines (fèves de Tonka).",
+    "source": {
+      "page": 26,
+      "extrait": "Drogue : graines (fèves de Tonka). Graines allongées, ridées, brun foncé à noir."
+    },
+    "difficulte": 1,
+    "tags": [
+      "fève de Tonka"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/qcm-040",
+    "type": "multiple",
+    "enonce": "Concernant la composition et les utilisations de la fève de Tonka, Cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "La coumarine en est le constituant caractéristique",
+      "La teneur en coumarine est souvent de l'ordre de 1 à 3 % selon les lots",
+      "Elle est utilisée en parfumerie et pour l'aromatisation des aliments et du tabac",
+      "La coumarine peut être hépatotoxique en cas d'exposition excessive",
+      "La teneur en coumarine est souvent de l'ordre de 10 à 15 %"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Teneur variable, souvent de l'ordre de 1 à 3 %.",
+    "source": {
+      "page": 26,
+      "extrait": "teneur variable, souvent de l'ordre de 1 à 3 % selon les lots"
+    },
+    "difficulte": 2,
+    "tags": [
+      "fève de Tonka"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/qcm-041",
+    "type": "multiple",
+    "enonce": "Concernant le marronnier d'Inde (botanique), Cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Il est originaire des Balkans, notamment d'Albanie et de Grèce",
+      "Il est largement cultivé comme ornemental",
+      "La drogue décrite est l'écorce séchée des jeunes branches",
+      "Il appartient aux Sapindaceae (ex-Hippocastanaceae)",
+      "La drogue décrite est constituée par les fleurs"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Drogue : écorce séchée des jeunes branches.",
+    "source": {
+      "page": 27,
+      "extrait": "Drogue :écorce séchée des jeunes branches."
+    },
+    "difficulte": 1,
+    "tags": [
+      "marronnier d'Inde"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/qcm-042",
+    "type": "multiple",
+    "enonce": "Concernant la composition de l'écorce de marronnier d'Inde, Cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "L'esculine (esculoside) est un glucoside de l'esculétine",
+      "La fraxine est un glucoside de la fraxétine",
+      "La scopoline est présente en quantité plus faible",
+      "Elle contient des tanins et des flavonoïdes",
+      "L'escine en est le constituant majeur"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "L'escine caractérise les graines de marronnier, à distinguer de l'écorce.",
+    "source": {
+      "page": 27,
+      "extrait": "Esculine (esculoside) : hétéroside coumarinique, glucoside de l'esculétine."
+    },
+    "difficulte": 2,
+    "tags": [
+      "marronnier d'Inde"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/qcm-043",
+    "type": "unique",
+    "enonce": "Les préparations de graines de marronnier, utilisées traditionnellement dans l'insuffisance veineuse chronique, sont riches en :",
+    "options": [
+      "Escine",
+      "Esculine",
+      "Fraxine",
+      "Coumarine",
+      "Scopoline"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Le cours distingue l'écorce (coumarines antioxydantes) des graines riches en escine.",
+    "source": {
+      "page": 27,
+      "extrait": "À distinguer des préparations de graines de marronnier, riches en escine, utilisées traditionnellement dans l'insuffisance veineuse chronique."
+    },
+    "difficulte": 2,
+    "tags": [
+      "marronnier d'Inde"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/qcm-044",
+    "type": "multiple",
+    "enonce": "Concernant le mélilot (botanique), Cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Il est originaire d'Europe et d'Asie",
+      "La drogue est constituée des parties aériennes fleuries séchées",
+      "Les feuilles sont trifoliolées",
+      "Les petites fleurs jaunes sont disposées en grappes allongées",
+      "Les petites fleurs blanches sont disposées en ombelles"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Mélilot : petites fleurs jaunes en grappes allongées ; les ombelles de fleurs blanches décrivent le khella.",
+    "source": {
+      "page": 28,
+      "extrait": "tiges ramifiées, feuilles trifoliolées et petites fleurs jaunes disposées en grappes allongées"
+    },
+    "difficulte": 1,
+    "tags": [
+      "mélilot"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/qcm-045",
+    "type": "multiple",
+    "enonce": "Concernant la composition chimique du mélilot, Cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "La coumarine y est présente à 0,3 à 0,9 %",
+      "Le mélilotoside est un hétéroside précurseur de la coumarine",
+      "La mélilotine est une dihydrocoumarine",
+      "Il contient des flavonoïdes (robinine) et des saponosides",
+      "La coumarine y est présente à 3 à 9 %"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Coumarine : 0,3 à 0,9 %.",
+    "source": {
+      "page": 28,
+      "extrait": "Coumarine (0,3 à 0,9 %) : constituant aromatique caractéristique."
+    },
+    "difficulte": 2,
+    "tags": [
+      "mélilot"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/qcm-046",
+    "type": "unique",
+    "enonce": "Le mélilotoside est :",
+    "options": [
+      "Un hétéroside précurseur de la coumarine, dérivé de l'acide o-coumarique",
+      "Une dihydrocoumarine",
+      "Une furocoumarine linéaire",
+      "Un flavonoïde",
+      "Un saponoside"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Mélilotoside : hétéroside précurseur de la coumarine ; la mélilotine est la dihydrocoumarine.",
+    "source": {
+      "page": 28,
+      "extrait": "Mélilotoside : hétéroside précurseur de la coumarine, dérivé de l'acide o-coumarique."
+    },
+    "difficulte": 2,
+    "tags": [
+      "mélilot"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/qcm-047",
+    "type": "multiple",
+    "enonce": "Concernant les utilisations du mélilot, Cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Usage traditionnel pour soulager les symptômes mineurs de l'insuffisance veineuse",
+      "Usage traditionnel dans des préparations destinées aux affections cutanées mineures",
+      "Intérêt aromatique lié à sa richesse en coumarine",
+      "Utilisation dans le psoriasis en PUVA-thérapie",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "La PUVA-thérapie concerne les furocoumarines, pas le mélilot.",
+    "source": {
+      "page": 28,
+      "extrait": "Usage traditionnel pour soulager les symptômes mineurs de l'insuffisance veineuse (sensation de jambes lourdes)."
+    },
+    "difficulte": 1,
+    "tags": [
+      "mélilot"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/qcm-048",
+    "type": "multiple",
+    "enonce": "Concernant le mélilot moisi et les coumarines anticoagulantes, Cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Le mélilot moisi présente une toxicité hémorragique",
+      "Le dicoumarol possède une activité anticoagulante indirecte",
+      "L'acénocoumarol (Sintrom®) est cité en lien avec le mélilot",
+      "Le dicoumarol possède une activité anticoagulante directe",
+      "Le mélilot moisi est surtout photosensibilisant"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Toxicité hémorragique du mélilot moisi ; activité anticoagulante indirecte (dicoumarol).",
+    "source": {
+      "page": 29,
+      "extrait": "Toxicité hémorragique du mélilot moisi"
+    },
+    "difficulte": 2,
+    "tags": [
+      "mélilot",
+      "toxicité"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/qcm-049",
+    "type": "multiple",
+    "enonce": "Concernant le bergamotier (botanique), Cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "C'est un petit arbre fruitier à feuilles persistantes",
+      "Ses fruits sont sphériques, jaunes à maturité",
+      "Il est principalement cultivé en Italie",
+      "La drogue est le péricarpe (zeste) du fruit et son huile essentielle",
+      "Il appartient aux Apiaceae"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Citrus bergamia appartient aux Rutaceae.",
+    "source": {
+      "page": 30,
+      "extrait": "Drogue : péricarpe (zeste) du fruit + HE du péricarpe."
+    },
+    "difficulte": 1,
+    "tags": [
+      "bergamotier"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/qcm-050",
+    "type": "multiple",
+    "enonce": "Concernant la composition de l'huile essentielle de bergamote, Cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Le limonène, le linalol et l'acétate de linalyle appartiennent à la fraction volatile",
+      "Le bergaptène est une furocoumarine linéaire",
+      "La bergamottine est une furocoumarine linéaire",
+      "Le bergaptène appartient à la fraction volatile",
+      "La bergamottine est une furocoumarine angulaire"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Bergaptène et bergamottine sont des furocoumarines linéaires de la fraction non volatile.",
+    "source": {
+      "page": 30,
+      "extrait": "Bergaptène : furocoumarine linéaire."
+    },
+    "difficulte": 2,
+    "tags": [
+      "bergamotier"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/qcm-051",
+    "type": "multiple",
+    "enonce": "Concernant les utilisations de la bergamote, Cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Industrie de la parfumerie et industrie cosmétique",
+      "Aromatisation des boissons et confiseries",
+      "Aromathérapie",
+      "Elle possède un pouvoir photosensibilisant",
+      "Elle est utilisée comme anticoagulant"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Le pouvoir photosensibilisant est lié aux furocoumarines ; aucun usage anticoagulant n'est cité.",
+    "source": {
+      "page": 30,
+      "extrait": "Industrie alimentaire : aromatisation des boissons, confiseries"
+    },
+    "difficulte": 1,
+    "tags": [
+      "bergamotier"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/qcm-052",
+    "type": "multiple",
+    "enonce": "Concernant le khella (botanique), Cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "C'est une plante herbacée annuelle ou bisannuelle",
+      "Ses inflorescences sont des ombelles composées de petites fleurs blanches",
+      "Il est originaire de la région méditerranéenne et d'Afrique du Nord",
+      "La drogue est principalement constituée des fruits mûrs et séchés",
+      "Il appartient aux Rutaceae"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Ammi visnaga est une Apiaceae.",
+    "source": {
+      "page": 31,
+      "extrait": "Drogue : principalement les fruits mûrs et séchés."
+    },
+    "difficulte": 1,
+    "tags": [
+      "khella"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/qcm-053",
+    "type": "multiple",
+    "enonce": "Concernant la composition chimique du khella, Cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "La visnadine, la samidine et la dihydrosamidine sont des pyranocoumarines",
+      "Le bergaptène, la xanthotoxine et le psoralène sont des furocoumarines",
+      "La khelline et la visnagine sont des furanochromones",
+      "La khelline est une pyranocoumarine",
+      "La visnadine est une furocoumarine"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Khelline = furanochromone ; visnadine = pyranocoumarine.",
+    "source": {
+      "page": 31,
+      "extrait": "Furanochromones (γ-pyrones)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "khella"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/qcm-054",
+    "type": "unique",
+    "enonce": "Un synonyme de la xanthotoxine est :",
+    "options": [
+      "Ammoidine",
+      "Samidine",
+      "Visnagine",
+      "Bergamottine",
+      "Khelline"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Xanthotoxine (ammoidine), furocoumarine du khella.",
+    "source": {
+      "page": 31,
+      "extrait": "Xanthotoxine (ammoidine)."
+    },
+    "difficulte": 2,
+    "tags": [
+      "khella"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/qcm-055",
+    "type": "unique",
+    "enonce": "Les furanochromones du khella (khelline, visnagine) sont des :",
+    "options": [
+      "γ-pyrones",
+      "α-pyrones",
+      "Pyranocoumarines",
+      "Lignanes",
+      "Furocoumarines angulaires"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Le cours classe khelline et visnagine parmi les furanochromones (γ-pyrones).",
+    "source": {
+      "page": 31,
+      "extrait": "Furanochromones (γ-pyrones)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "khella"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/qcm-056",
+    "type": "multiple",
+    "enonce": "Concernant les propriétés pharmacologiques du khella, Cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Il possède des propriétés antispasmodiques par relaxation des muscles lisses, notamment des voies urinaires",
+      "Ses propriétés vasodilatatrices ont été historiquement étudiées dans l'angine de poitrine",
+      "La khelline, à doses élevées ou en usage prolongé, peut être associée à des effets indésirables hépatiques",
+      "La khelline peut être associée à des effets indésirables rénaux",
+      "Ses propriétés antispasmodiques concernent principalement les muscles striés"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Relaxation des muscles lisses ; effets indésirables hépatiques de la khelline.",
+    "source": {
+      "page": 31,
+      "extrait": "Propriétés antispasmodiques : relaxation des muscles lisses, notamment des voies urinaires."
+    },
+    "difficulte": 2,
+    "tags": [
+      "khella"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/qcm-057",
+    "type": "multiple",
+    "enonce": "Concernant la définition des lignanes, Cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Ce sont des composés phénoliques naturels",
+      "Ils résultent de la dimérisation de deux unités phénylpropaniques",
+      "Les unités constitutives sont de type C₆–C₃",
+      "Leur squelette de base est généralement à C18",
+      "Leur squelette de base est généralement à C15"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Deux unités C₆–C₃ → squelette généralement en C18.",
+    "source": {
+      "page": 33,
+      "extrait": "dimérisation de deux unités phénylpropaniques : C₆–C₃(donc ayant un squelette de base généralement à C18)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "lignanes",
+      "définition"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/qcm-058",
+    "type": "multiple",
+    "enonce": "Concernant la répartition des lignanes, Cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Plus de 3 000 molécules ont été isolées",
+      "Elles sont réparties dans environ 70 familles",
+      "Chez les Gymnospermes, elles sont présentes principalement dans le bois",
+      "Chez les Angiospermes, elles sont présentes dans différents tissus",
+      "Plus de 1 000 molécules réparties dans 9 familles"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Plus de 3 000 lignanes dans environ 70 familles.",
+    "source": {
+      "page": 34,
+      "extrait": "Gymnospermes : présence principalement dans le bois."
+    },
+    "difficulte": 1,
+    "tags": [
+      "lignanes",
+      "répartition"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/qcm-059",
+    "type": "multiple",
+    "enonce": "Concernant les lignanes et les néolignanes, Cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Dans les lignanes, les deux unités sont reliées par une liaison entre leurs carbones β",
+      "La liaison des lignanes est la liaison 8–8′",
+      "Les néolignanes sont issus d'un couplage oxydatif",
+      "Les néolignanes sont reliés par des liaisons autres que la liaison β–β′",
+      "Les néolignanes sont reliés par la liaison 8–8′"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Néolignanes : liaisons autres que β–β′ (8–8′), caractéristique des lignanes classiques.",
+    "source": {
+      "page": 35,
+      "extrait": "reliées par des liaisons autres que la liaison β–β′ (8–8′) caractéristique des lignanes classiques"
+    },
+    "difficulte": 2,
+    "tags": [
+      "lignanes",
+      "biogenèse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/qcm-060",
+    "type": "multiple",
+    "enonce": "Concernant les familles structurales de lignanes, Cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Les dibenzylbutanes comportent deux noyaux benzéniques reliés par une chaîne aliphatique C4",
+      "Les butyrolactones comportent une chaîne avec un cycle lactonique",
+      "Les arylnaphtalènes associent un noyau naphtalénique à un noyau aromatique",
+      "Les dibenzocyclooctanes comportent un cycle central à huit chaînons",
+      "Les furofuraniques comportent un seul cycle furannique"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Les furofuraniques comportent deux cycles furanniques ; les monofuraniques un seul.",
+    "source": {
+      "page": 37,
+      "extrait": "Furofuraniques Deux noyaux aromatiques associés à deux cycles furanniques."
+    },
+    "difficulte": 2,
+    "tags": [
+      "lignanes",
+      "classification"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/qcm-061",
+    "type": "multiple",
+    "enonce": "Concernant la classification des lignanes, Cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Les monofuraniques comportent un cycle furannique",
+      "Les furofuraniques comportent deux cycles furanniques",
+      "Les dibenzocyclooctanes comportent un cycle central à six chaînons",
+      "Les dibenzylbutanes ont un squelette ouvert",
+      "Les butyrolactones comportent un cycle pyrannique"
+    ],
+    "correctes": [
+      0,
+      1,
+      3
+    ],
+    "explication": "Dibenzocyclooctanes : cycle central à huit chaînons ; butyrolactones : cycle lactonique.",
+    "source": {
+      "page": 37,
+      "extrait": "Deux noyaux benzéniques reliés par une chaîne aliphatique C4 (squelette ouvert)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "lignanes",
+      "classification"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/qcm-062",
+    "type": "multiple",
+    "enonce": "Concernant la podophyllotoxine, Cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Elle inhibe la polymérisation de la tubuline",
+      "Elle entraîne un blocage de la division cellulaire",
+      "Elle est la molécule de départ de l'étoposide et du téniposide",
+      "Elle stabilise la polymérisation de la tubuline",
+      "L'étoposide en est un dérivé hémisynthétique"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explication": "La podophyllotoxine inhibe (et non stabilise) la polymérisation de la tubuline.",
+    "source": {
+      "page": 39,
+      "extrait": "La podophyllotoxine agit notamment par inhibition de la polymérisation de la tubuline, entraînant un blocage de la division cellulaire."
+    },
+    "difficulte": 2,
+    "tags": [
+      "podophyllotoxine"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/qcm-063",
+    "type": "multiple",
+    "enonce": "Concernant le Chardon-Marie et la silymarine, Cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "La silymarine est un complexe de flavonolignanes",
+      "La silybine, la silychristine et la silydianine en font partie",
+      "Ces composés présentent des propriétés antioxydantes et hépatoprotectrices",
+      "La silymarine est un lignane de type aryltétraline",
+      "Silybum marianum appartient aux Berberidaceae"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Silybum marianum est une Asteraceae ; l'aryltétraline caractérise la podophyllotoxine.",
+    "source": {
+      "page": 40,
+      "extrait": "Le Chardon-Marie contient un complexe de flavonolignanes (la silybine, la silychristine, la silydianine…) appelé silymarine."
+    },
+    "difficulte": 1,
+    "tags": [
+      "chardon-Marie"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/qcm-064",
+    "type": "multiple",
+    "enonce": "Concernant les autres propriétés pharmacologiques des lignanes, Cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Inhibition des phosphodiestérases (AMPc)",
+      "Inhibition de la 5-lipoxygénase",
+      "Activité antiagrégante plaquettaire",
+      "Activité phytoœstrogénique",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Toutes ces activités sont citées.",
+    "source": {
+      "page": 41,
+      "extrait": "Activité antiagrégante plaquettaire Activité antihypertensive Activité phytoœstrogénique"
+    },
+    "difficulte": 1,
+    "tags": [
+      "lignanes",
+      "pharmacologie"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/qcm-065",
+    "type": "multiple",
+    "enonce": "Parmi les activités rapportées pour les lignanes, on cite :",
+    "options": [
+      "Des activités antifongique, antiprotozoaire et antivirale",
+      "Une activité antihypertensive",
+      "Des activités antioxydantes",
+      "Une activité hypertensive",
+      "Une activation de la 5-lipoxygénase"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Activité antihypertensive et inhibition (non activation) de la 5-lipoxygénase.",
+    "source": {
+      "page": 41,
+      "extrait": "Activités antifongique, antiprotozoaire et antivirale"
+    },
+    "difficulte": 1,
+    "tags": [
+      "lignanes",
+      "pharmacologie"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/qcm-066",
+    "type": "unique",
+    "enonce": "Parmi les drogues suivantes, laquelle est une drogue à lignanes ?",
+    "options": [
+      "Chardon-Marie",
+      "Khella",
+      "Mélilot",
+      "Bergamotier",
+      "Marronnier d'Inde"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Drogues à lignanes : podophylle d'Amérique et chardon-Marie.",
+    "source": {
+      "page": 42,
+      "extrait": "Chardon-Marie : Silybum marianum L., Asteraceae"
+    },
+    "difficulte": 1,
+    "tags": [
+      "drogues"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/qcm-067",
+    "type": "multiple",
+    "enonce": "Concernant la podophylle d'Amérique (botanique), Cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Son nom latin est Podophyllum peltatum L.",
+      "Elle appartient aux Berberidaceae",
+      "C'est une plante herbacée vivace originaire d'Amérique du Nord",
+      "La drogue est le rhizome séché, parfois avec des fragments de racines",
+      "Elle est originaire du bassin méditerranéen"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Le bassin méditerranéen est l'origine du chardon-Marie.",
+    "source": {
+      "page": 43,
+      "extrait": "Drogue :Rhizome séché, parfois accompagné de fragments de racines."
+    },
+    "difficulte": 1,
+    "tags": [
+      "podophylle"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/qcm-068",
+    "type": "multiple",
+    "enonce": "Concernant la composition et les propriétés de la podophylle, Cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "La podophyllotoxine est un lignane de type aryltétraline",
+      "La podophyllotoxine est le constituant majeur",
+      "La podophyllotoxine bloque la mitose en métaphase",
+      "La podophyllotoxine bloque la mitose en anaphase",
+      "L'exposition systémique expose à une toxicité digestive, neurologique et hématologique"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explication": "Blocage de la mitose en métaphase.",
+    "source": {
+      "page": 43,
+      "extrait": "inhibition de la polymérisation de la tubuline et blocage de la mitose en métaphase"
+    },
+    "difficulte": 2,
+    "tags": [
+      "podophylle"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/qcm-069",
+    "type": "unique",
+    "enonce": "La résine extraite du rhizome de podophylle est appelée :",
+    "options": [
+      "Podophylline",
+      "Podophyllotoxine",
+      "Silymarine",
+      "Étoposide",
+      "Téniposide"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "La résine extraite du rhizome est appelée podophylline.",
+    "source": {
+      "page": 43,
+      "extrait": "La résine extraite du rhizome est appelée podophylline."
+    },
+    "difficulte": 2,
+    "tags": [
+      "podophylle"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/qcm-070",
+    "type": "multiple",
+    "enonce": "Concernant le chardon-Marie (botanique et composition), Cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "C'est une plante herbacée originaire du bassin méditerranéen",
+      "La drogue est constituée des fruits mûrs et séchés (akènes) débarrassés de leur aigrette",
+      "La silymarine représente environ 1,5 à 3 %",
+      "La silybine comprend les silibinines A et B",
+      "La drogue est le rhizome séché"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Drogue : akènes débarrassés de leur aigrette.",
+    "source": {
+      "page": 44,
+      "extrait": "Flavonolignanes : silymarine (1,5 à 3 % environ)."
+    },
+    "difficulte": 2,
+    "tags": [
+      "chardon-Marie"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/qcm-071",
+    "type": "multiple",
+    "enonce": "Concernant les constituants et emplois du chardon-Marie, Cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "L'isosilybine fait partie des principaux constituants de la silymarine",
+      "Il contient aussi des flavonoïdes, une huile grasse et des phytostérols",
+      "Il est utilisé traditionnellement pour soutenir la fonction hépatique",
+      "Il est indiqué comme antinéoplasique",
+      "Il soulage certains troubles digestifs (plénitude, dyspepsie)"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explication": "L'activité antinéoplasique concerne la podophyllotoxine et ses dérivés.",
+    "source": {
+      "page": 44,
+      "extrait": "Soulagement symptomatique de certains troubles digestifs (sensation de plénitude, dyspepsie)."
+    },
+    "difficulte": 2,
+    "tags": [
+      "chardon-Marie"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/qcm-072",
+    "type": "multiple",
+    "enonce": "Concernant la comparaison coumarines / lignanes, Cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Les coumarines proviennent de la lactonisation des acides 2-hydroxycinnamiques",
+      "Les lignanes proviennent du couplage oxydatif de deux unités phénylpropaniques C₆–C₃",
+      "Les deux classes sont issues de la voie des phénylpropanoïdes (voie du shikimate)",
+      "Les coumarines sont issues de la voie de l'acétate",
+      "Les lignanes possèdent une activité dite vitaminique P"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "L'activité vitaminique P est attribuée aux coumarines.",
+    "source": {
+      "page": 45,
+      "extrait": "Lactonisation des acides 2-hydroxycinnamiques. Couplage oxydatif de deux unités phénylpropaniques C₆–C₃."
+    },
+    "difficulte": 2,
+    "tags": [
+      "comparaison"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/qcm-073",
+    "type": "multiple",
+    "enonce": "Selon le tableau comparatif du cours, Cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Les coumarines ont une activité anticoagulante indirecte (dicoumarol)",
+      "Les furanocoumarines sont photosensibilisantes",
+      "Les lignanes ont une activité anticancéreuse (podophyllotoxine et dérivés hémisynthétiques)",
+      "Les lignanes ont des activités antimicrobiennes",
+      "La photosensibilisation est attribuée aux lignanes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "La photosensibilisation est le fait des furanocoumarines.",
+    "source": {
+      "page": 45,
+      "extrait": "activité anticoagulante indirecte (dicoumarol) ; photosensibilisation (furanocoumarines)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "comparaison"
+    ],
+    "origine": "genere"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/mnemo-001",
+    "titre": "Les six familles chimiques",
+    "moyen": "« Alain Et Eric Pêchent Pipes et Pipettes » : Alkylamines, Éthanolamines, Éthylènediamines, Phénothiazines, Pipérazines, Pipéridines",
+    "explication": "Les six familles chimiques des antihistaminiques H1."
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/mnemo-002",
+    "titre": "Familles ayant une 2e génération",
+    "moyen": "« A-P-P » : Alkylamines, Pipérazines, Pipéridines",
+    "explication": "Seules ces trois familles comportent des antiH1 de 2e génération (acrivastine ; cétirizine, lévocétirizine ; loratadine, fexofénadine…)."
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/mnemo-003",
+    "titre": "Métabolites actifs",
+    "moyen": "« Hydro-Céti, Terfé-Fexo, Lora-Deslo »",
+    "explication": "Hydroxyzine → cétirizine ; terfénadine → fexofénadine ; loratadine (et rupatadine) → desloratadine."
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/mnemo-004",
+    "titre": "Protéines G des récepteurs",
+    "moyen": "« 1 q, 2 s, 3-4 i » : H1-Gq/11, H2-Gs, H3 et H4-Gi/o",
+    "explication": "Couplage des quatre récepteurs histaminiques."
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/mnemo-005",
+    "titre": "Lévocétirizine",
+    "moyen": "« L-R, D-S » : Lévo = R, Dextro = S",
+    "explication": "La lévocétirizine est l'énantiomère (R), la dextrocétirizine l'énantiomère (S)."
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/mnemo-006",
+    "titre": "Pharmacophore antiH1",
+    "moyen": "« 3-2/3-2 » : amine tertiaire (3), chaîne de 2 ou 3 atomes, 2 groupes aromatiques",
+    "explication": "Relation structure-activité générale des antagonistes H1."
+  }
+]

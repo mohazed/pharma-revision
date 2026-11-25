@@ -1,0 +1,117 @@
+[
+  {
+    "terme": "Allergie",
+    "definition": "Réaction excessive du système immunitaire à des substances normalement inoffensives, appelées allergènes.",
+    "cours": "chimie-therapeutique/08-antihistaminiques-h1"
+  },
+  {
+    "terme": "Allergène",
+    "definition": "Antigène banal (pollen, poussière, médicament…) déclenchant une réponse immunitaire inappropriée.",
+    "cours": "chimie-therapeutique/08-antihistaminiques-h1"
+  },
+  {
+    "terme": "Sensibilisation",
+    "definition": "Première phase de l'allergie, au cours de laquelle le système immunitaire reconnaît l'allergène et les lymphocytes B synthétisent des IgE.",
+    "cours": "chimie-therapeutique/08-antihistaminiques-h1"
+  },
+  {
+    "terme": "Mastocyte",
+    "definition": "Cellule portant les récepteurs des IgE, dont la dégranulation libère l'histamine lors d'un nouveau contact avec l'allergène.",
+    "cours": "chimie-therapeutique/08-antihistaminiques-h1"
+  },
+  {
+    "terme": "Dégranulation",
+    "definition": "Cascade d'évènements déclenchée par l'activation des récepteurs des IgE par le complexe IgE-allergène, aboutissant à la libération d'histamine.",
+    "cours": "chimie-therapeutique/08-antihistaminiques-h1"
+  },
+  {
+    "terme": "Histamine",
+    "definition": "Médiateur chimique issu de la décarboxylation de l'histidine, impliqué dans les réponses immunitaires locales, la régulation intestinale et la neurotransmission.",
+    "cours": "chimie-therapeutique/08-antihistaminiques-h1"
+  },
+  {
+    "terme": "Histidine décarboxylase",
+    "definition": "Enzyme qui transforme l'histidine en histamine avec libération de CO2.",
+    "cours": "chimie-therapeutique/08-antihistaminiques-h1"
+  },
+  {
+    "terme": "Récepteur H1",
+    "definition": "Récepteur histaminique couplé à Gq/11, ubiquitaire (muscles lisses, endothélium, cerveau), cible des antihistaminiques H1.",
+    "cours": "chimie-therapeutique/08-antihistaminiques-h1"
+  },
+  {
+    "terme": "Récepteur H3",
+    "definition": "Autorécepteur présynaptique couplé à Gi/o dont la stimulation réduit la libération d'histamine.",
+    "cours": "chimie-therapeutique/08-antihistaminiques-h1"
+  },
+  {
+    "terme": "Récepteur H4",
+    "definition": "Récepteur histaminique couplé à Gi/o, localisé sur les cellules hématopoïétiques périphériques et la moelle osseuse.",
+    "cours": "chimie-therapeutique/08-antihistaminiques-h1"
+  },
+  {
+    "terme": "Antihistaminique H1",
+    "definition": "Médicament se fixant sur les récepteurs H1 et inhibant les effets de l'histamine (vasodilatation, perméabilité capillaire).",
+    "cours": "chimie-therapeutique/08-antihistaminiques-h1"
+  },
+  {
+    "terme": "Agoniste inverse",
+    "definition": "Ligand qui se combine à la forme inactive d'un récepteur, la stabilise et déplace l'équilibre vers cette forme ; mode d'action des antiH1.",
+    "cours": "chimie-therapeutique/08-antihistaminiques-h1"
+  },
+  {
+    "terme": "Antihistaminique de deuxième génération",
+    "definition": "AntiH1 sans effet anticholinergique, diffusant moins dans le SNC et entraînant moins de somnolence.",
+    "cours": "chimie-therapeutique/08-antihistaminiques-h1"
+  },
+  {
+    "terme": "Pipérazine",
+    "definition": "Hétérocycle à deux atomes d'azote ; famille d'antiH1 comprenant cyclizine, buclizine, hydroxyzine, cétirizine.",
+    "cours": "chimie-therapeutique/08-antihistaminiques-h1"
+  },
+  {
+    "terme": "Chlorocarbonate d'éthyle",
+    "definition": "Réactif utilisé pour bloquer une fonction amine de la pipérazine lors de la synthèse de dérivés dissymétriques.",
+    "cours": "chimie-therapeutique/08-antihistaminiques-h1"
+  },
+  {
+    "terme": "Éthanolamines",
+    "definition": "Famille d'antiH1 de 1re génération à enchaînement éther-aminoéthyle (diphenhydramine, doxylamine, diménhydrinate…).",
+    "cours": "chimie-therapeutique/08-antihistaminiques-h1"
+  },
+  {
+    "terme": "Alkylamines",
+    "definition": "Famille d'antiH1 regroupant les plus puissants antagonistes H1 (phéniramine, dexchlorphéniramine, bromphéniramine, acrivastine).",
+    "cours": "chimie-therapeutique/08-antihistaminiques-h1"
+  },
+  {
+    "terme": "Éthylènediamines",
+    "definition": "Famille d'antiH1 de 1re génération construite sur l'enchaînement N–CH2–CH2–N (antazoline, pyrilamine, tripelennamine).",
+    "cours": "chimie-therapeutique/08-antihistaminiques-h1"
+  },
+  {
+    "terme": "Phénothiazines antihistaminiques",
+    "definition": "AntiH1 tricycliques soufrés (prométhazine, alimémazine, oxomémazine, méquitazine) ; effet anti-H1 si chaîne courte ramifiée et cycle non substitué.",
+    "cours": "chimie-therapeutique/08-antihistaminiques-h1"
+  },
+  {
+    "terme": "Cétirizine",
+    "definition": "Métabolite carboxylé de l'hydroxyzine, ionisé au pH physiologique, franchissant peu la barrière hémato-encéphalique.",
+    "cours": "chimie-therapeutique/08-antihistaminiques-h1"
+  },
+  {
+    "terme": "Lévocétirizine",
+    "definition": "Énantiomère (R) de la cétirizine racémique.",
+    "cours": "chimie-therapeutique/08-antihistaminiques-h1"
+  },
+  {
+    "terme": "Fexofénadine",
+    "definition": "Métabolite actif de la terfénadine, dépourvu de ses inconvénients cardiaques.",
+    "cours": "chimie-therapeutique/08-antihistaminiques-h1"
+  },
+  {
+    "terme": "Desloratadine",
+    "definition": "Métabolite actif de la loratadine (et de la rupatadine), de très grande affinité H1, ne traversant pas la BHE.",
+    "cours": "chimie-therapeutique/08-antihistaminiques-h1"
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "id": "chimie-therapeutique/08-antihistaminiques-h1",
+  "module": "chimie-therapeutique",
+  "ordre": 8,
+  "titre": "Les antihistaminiques H1",
+  "type": "cours",
+  "source": {
+    "driveId": "1KoUNUsl15Kedjx1YiOX45LypwdghsLaN",
+    "fichier": "7. Les Antihistaminiques H1.pdf",
+    "modifiedTime": "2026-11-24T10:21:47.534Z"
+  },
+  "resume": "Allergie et histamine (biogenèse, distribution, récepteurs H1 à H4), classifications chimique, pharmacologique et chronologique des antiH1, étude des six familles (pipérazines et leur synthèse, éthanolamines, alkylamines, éthylènediamines, phénothiazines, pipéridines), antiH1 de 2e génération, RSA, mécanisme d'agoniste inverse, effets secondaires et perspectives."
+}

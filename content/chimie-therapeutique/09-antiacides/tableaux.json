@@ -1,0 +1,166 @@
+[
+  {
+    "id": "chimie-therapeutique/09-antiacides/tableau-001",
+    "titre": "Classification des médicaments antiacides",
+    "colonnes": [
+      "Groupe",
+      "Sous-classes"
+    ],
+    "lignes": [
+      [
+        "Anti-sécrétoires gastriques",
+        "Antihistaminiques H2, IPP, anticholinergiques, analogues de la somatostatine"
+      ],
+      [
+        "Antiacides",
+        "Neutralisants, à effet tampon"
+      ],
+      [
+        "Cytoprotecteurs",
+        "Analogues de prostaglandines"
+      ],
+      [
+        "Topiques (protecteurs de la muqueuse)",
+        "Pansements gastriques, sucralfates"
+      ]
+    ]
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/tableau-002",
+    "titre": "Antagonistes H2",
+    "colonnes": [
+      "Molécule",
+      "Hétérocycle",
+      "Particularités"
+    ],
+    "lignes": [
+      [
+        "Cimétidine (Tagamet®)",
+        "Imidazole",
+        "Chef de file, 1976 (Royaume-Uni) ; gynécomastie, hyperprolactinémie"
+      ],
+      [
+        "Ranitidine (Ranitec®, Azantac®)",
+        "Diméthylaminofurane",
+        "10× plus active, plus prolongée, mieux tolérée ; retrait 2019-2020 (NDMA)"
+      ],
+      [
+        "Famotidine",
+        "Guanidino-thiazole",
+        "30× plus active in vitro ; groupe sulfonamide"
+      ],
+      [
+        "Nizatidine",
+        "Guanidino-thiazole",
+        "—"
+      ],
+      [
+        "Roxatidine",
+        "Pipéridinométhylphénoxy",
+        "—"
+      ]
+    ]
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/tableau-003",
+    "titre": "Inhibiteurs de la pompe à protons",
+    "colonnes": [
+      "DCI",
+      "Nom commercial",
+      "Substituants (benzimidazole / pyridine)"
+    ],
+    "lignes": [
+      [
+        "Oméprazole",
+        "Prilosec®, Mopral®",
+        "5-méthoxy / 4-méthoxy-3,5-diméthyl"
+      ],
+      [
+        "Ésoméprazole",
+        "Nexium®",
+        "Énantiomère (S) de l'oméprazole"
+      ],
+      [
+        "Pantoprazole",
+        "Protonix®",
+        "5-difluorométhoxy / 3,4-diméthoxy"
+      ],
+      [
+        "Lansoprazole",
+        "Prevacid®",
+        "— / 3-méthyl-4-(2,2,2-trifluoroéthoxy)"
+      ],
+      [
+        "Rabéprazole",
+        "Pariet®",
+        "— / 4-(3-méthoxypropoxy)-3-méthyl"
+      ]
+    ]
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/carte-001",
+    "type": "carte",
+    "titre": "Carte mentale : les antiacides",
+    "racine": {
+      "label": "Médicaments antiacides",
+      "enfants": [
+        {
+          "label": "Anti-sécrétoires",
+          "enfants": [
+            {
+              "label": "Anti-H2 (cimétidine, ranitidine, famotidine)",
+              "enfants": []
+            },
+            {
+              "label": "IPP (oméprazole, pantoprazole, lansoprazole, rabéprazole)",
+              "enfants": []
+            },
+            {
+              "label": "Anticholinergiques",
+              "enfants": []
+            },
+            {
+              "label": "Analogues de la somatostatine",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Antiacides",
+          "enfants": [
+            {
+              "label": "Neutralisants",
+              "enfants": []
+            },
+            {
+              "label": "À effet tampon",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Cytoprotecteurs",
+          "enfants": [
+            {
+              "label": "Analogues de prostaglandines",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Topiques",
+          "enfants": [
+            {
+              "label": "Pansements gastriques",
+              "enfants": []
+            },
+            {
+              "label": "Sucralfates",
+              "enfants": []
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,2088 @@
+[
+  {
+    "id": "pharmacie-galenique/13-emulsions/qcm-001",
+    "type": "multiple",
+    "enonce": "Concernant la définition des émulsions :",
+    "options": [
+      "Ce sont des préparations généralement liquides",
+      "Ce sont des systèmes thermodynamiquement instables",
+      "Elles sont constituées de deux liquides non miscibles",
+      "Ce sont des systèmes thermodynamiquement stables",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Les émulsions sont des préparations généralement liquides, thermodynamiquement instables, formées d'un liquide dispersé en fines gouttelettes dans un autre liquide non miscible. Elles ne sont donc pas thermodynamiquement stables.",
+    "source": {
+      "page": 1,
+      "extrait": "ce sont des systèmes thermodynamiquement instables"
+    },
+    "difficulte": 1,
+    "tags": [
+      "définition"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/qcm-002",
+    "type": "unique",
+    "enonce": "Selon la définition du cours, la taille des fines gouttelettes de la phase dispersée est comprise entre :",
+    "options": [
+      "200 nm et 10 μm",
+      "2 nm et 100 nm",
+      "10 μm et 200 μm",
+      "1 mm et 10 mm",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "La définition précise que le premier liquide est dispersé sous forme de fines gouttelettes de 200 nm à 10 μm.",
+    "source": {
+      "page": 1,
+      "extrait": "dispersé sous forme de fines gouttelettes (200 nm à 10 μm)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "définition"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/qcm-003",
+    "type": "multiple",
+    "enonce": "La dispersion d'une émulsion est généralement assurée grâce à la présence :",
+    "options": [
+      "D'un ou de plusieurs émulsifiants",
+      "D'émulsionnants, appelés aussi surfactifs",
+      "D'un agent conservateur uniquement",
+      "D'un gaz propulseur",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "La dispersion est généralement assurée par un ou plusieurs émulsifiants (émulsionnants, surfactifs).",
+    "source": {
+      "page": 1,
+      "extrait": "grâce à la présence d'un ou de plusieurs émulsifiants (émulsionnants, surfactifs)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "définition",
+      "émulsifiant"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/qcm-004",
+    "type": "multiple",
+    "enonce": "Les gouttelettes du premier liquide d'une émulsion forment la phase :",
+    "options": [
+      "Dispersée",
+      "Interne",
+      "Discontinue",
+      "Continue",
+      "Externe"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Les gouttelettes forment la phase dispersée (ou interne ou discontinue) ; l'autre liquide est la phase dispersante (ou externe ou continue).",
+    "source": {
+      "page": 1,
+      "extrait": "forment la phase dispersée (ou interne ou discontinue)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "phases"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/qcm-005",
+    "type": "multiple",
+    "enonce": "Le liquide dans lequel les gouttelettes sont dispersées est appelé phase :",
+    "options": [
+      "Dispersante",
+      "Externe",
+      "Continue",
+      "Interne",
+      "Discontinue"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "L'autre liquide est appelé phase dispersante, ou externe, ou continue. Interne et discontinue désignent la phase dispersée.",
+    "source": {
+      "page": 1,
+      "extrait": "l'autre liquide est appelé la phase dispersante (ou externe ou continue)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "phases"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/qcm-006",
+    "type": "multiple",
+    "enonce": "Concernant le contenu des phases d'une émulsion :",
+    "options": [
+      "Chacune des deux phases peut renfermer un ou plusieurs principes actifs",
+      "Chacune des deux phases peut renfermer divers adjuvants",
+      "Seule la phase dispersée peut contenir un principe actif",
+      "Seule la phase dispersante peut contenir un principe actif",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Le cours précise que chacune des deux phases peut renfermer un ou plusieurs PA et divers adjuvants.",
+    "source": {
+      "page": 1,
+      "extrait": "Chacune des deux phases peut renfermer un ou plusieurs principes actifs et divers adjuvants"
+    },
+    "difficulte": 1,
+    "tags": [
+      "définition"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/qcm-007",
+    "type": "multiple",
+    "enonce": "Parmi les applications pharmaceutiques des émulsions, on cite :",
+    "options": [
+      "L'administration par voie orale, topique ou rectale des huiles ou PA liposolubles",
+      "Le masquage d'une odeur ou d'un goût désagréables",
+      "L'amélioration de la pénétration et de l'absorption des PA",
+      "L'alimentation parentérale par des émulsions stables stériles",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Toutes ces applications sont listées dans le cours : administration d'huiles/PA liposolubles, masquage d'odeur ou de goût, amélioration de la pénétration et de l'absorption, alimentation parentérale.",
+    "source": {
+      "page": 1,
+      "extrait": "Masquer une odeur ou un gouts désagréables"
+    },
+    "difficulte": 1,
+    "tags": [
+      "applications"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/qcm-008",
+    "type": "unique",
+    "enonce": "Selon le cours, une émulsion peut assurer une libération lente pour :",
+    "options": [
+      "Les PA hydrosolubles administrés par voie IM",
+      "Les PA liposolubles administrés par voie IV",
+      "Les PA hydrosolubles administrés par voie orale",
+      "Les PA liposolubles administrés par voie rectale",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Les émulsions permettent d'assurer une libération lente pour les PA hydrosolubles administrés par voie IM.",
+    "source": {
+      "page": 1,
+      "extrait": "Assurer une libération lente pour les PA hydrosolubles administrés par voie IM"
+    },
+    "difficulte": 2,
+    "tags": [
+      "applications"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/qcm-009",
+    "type": "multiple",
+    "enonce": "Les émulsions destinées à l'alimentation parentérale :",
+    "options": [
+      "Sont stables",
+      "Sont stériles",
+      "Peuvent contenir des lipides",
+      "Peuvent contenir des carbohydrates et/ou des vitamines",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Le cours cite des émulsions stables stériles contenant des lipides, des carbohydrates et/ou des vitamines pour l'alimentation parentérale.",
+    "source": {
+      "page": 1,
+      "extrait": "émulsions stables stériles contenant des lipides, des carbohydrates et/ou des vitamines pour l'alimentation parentérale"
+    },
+    "difficulte": 1,
+    "tags": [
+      "applications"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/qcm-010",
+    "type": "multiple",
+    "enonce": "Une émulsion dont la phase dispersée est lipophile et la phase dispersante hydrophile est :",
+    "options": [
+      "De type aqueux",
+      "Notée L/H",
+      "Anciennement notée H/E (huile dans l'eau)",
+      "De type huileux",
+      "Notée H/L"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Phase dispersée lipophile dans une phase dispersante hydrophile : émulsion de type aqueux, L/H, anciennement H/E (huile dans l'eau).",
+    "source": {
+      "page": 1,
+      "extrait": "sont dites de type aqueux (L/H, anciennement H/E : huile dans l'eau)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "classification"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/qcm-011",
+    "type": "multiple",
+    "enonce": "Une émulsion de type huileux :",
+    "options": [
+      "A une phase dispersée hydrophile",
+      "A une phase dispersante lipophile",
+      "Est notée H/L, anciennement E/H (eau dans huile)",
+      "Est notée L/H, anciennement H/E",
+      "A une phase continue hydrophile"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Le type huileux correspond à une phase dispersée hydrophile dans une phase dispersante lipophile : H/L, anciennement E/H.",
+    "source": {
+      "page": 1,
+      "extrait": "sont dites de type huileux (H/L, anciennement E/H : eau dans huile)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "classification"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/qcm-012",
+    "type": "unique",
+    "enonce": "L'émulsion multiple donnée en exemple dans le cours est :",
+    "options": [
+      "H/L/H (anciennement E/H/E)",
+      "L/H/L (anciennement H/E/H)",
+      "H/H/L",
+      "L/L/H",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Le cours cite comme exemple d'émulsion multiple H/L/H, anciennement E/H/E.",
+    "source": {
+      "page": 1,
+      "extrait": "Il existe aussi des émulsions multiples par exemple H/L/ H (anciennement E/H/E)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "classification",
+      "émulsion multiple"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/qcm-013",
+    "type": "multiple",
+    "enonce": "Concernant la taille des globules d'une émulsion, selon la partie Classification :",
+    "options": [
+      "Les globules sont d'une taille sensiblement identique",
+      "Leur taille varie en général de 0,5 à 50 µm selon l'émulsion",
+      "Leur taille varie en général de 0,5 à 50 mm selon l'émulsion",
+      "Les globules sont toujours de tailles très différentes",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Les globules sont d'une taille sensiblement identique, variant selon l'émulsion de 0,5 à 50 µm en général (micromètres et non millimètres).",
+    "source": {
+      "page": 1,
+      "extrait": "Les globules d'une émulsion sont d'une taille sensiblement identique… de 0,5 à 50 µm en général"
+    },
+    "difficulte": 2,
+    "tags": [
+      "classification",
+      "taille"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/qcm-014",
+    "type": "multiple",
+    "enonce": "Concernant le crémage et la sédimentation :",
+    "options": [
+      "Ils correspondent à un déplacement vertical des globules de la phase dispersée",
+      "Le déplacement dépend de la densité des deux phases",
+      "Le crémage correspond à un déplacement vers la surface du liquide",
+      "La sédimentation correspond à un déplacement vers le fond du liquide",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Crémage et sédimentation sont un déplacement vertical des globules suivant la densité des deux phases : vers la surface = crémage, vers le fond = sédimentation.",
+    "source": {
+      "page": 1,
+      "extrait": "Déplacement vertical des globules de la phase dispersée suivant la densité des deux phases"
+    },
+    "difficulte": 1,
+    "tags": [
+      "instabilité",
+      "crémage"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/qcm-015",
+    "type": "unique",
+    "enonce": "Le déplacement des globules de la phase dispersée vers la surface du liquide est appelé :",
+    "options": [
+      "Crémage",
+      "Sédimentation",
+      "Floculation",
+      "Coalescence",
+      "Inversion de phase"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Si le déplacement se fait vers la surface du liquide, il s'agit du crémage ; vers le fond, de la sédimentation.",
+    "source": {
+      "page": 1,
+      "extrait": "Si le déplacement est vers la surface du liquide Crémage"
+    },
+    "difficulte": 1,
+    "tags": [
+      "crémage"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/qcm-016",
+    "type": "multiple",
+    "enonce": "Le crémage et la sédimentation sont des formes d'instabilité :",
+    "options": [
+      "Réversibles",
+      "Dans lesquelles l'émulsion reprend son aspect initial par simple agitation",
+      "Irréversibles",
+      "Conduisant obligatoirement à la séparation de phase",
+      "Difficilement réversibles voire irréversibles"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Ce sont des formes d'instabilité réversibles : l'émulsion reprend l'aspect initial par simple agitation.",
+    "source": {
+      "page": 1,
+      "extrait": "Ce sont des formes d'instabilité réversible et l'émulsion reprend l'aspect initial par simple agitation"
+    },
+    "difficulte": 1,
+    "tags": [
+      "crémage",
+      "réversibilité"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/qcm-017",
+    "type": "unique",
+    "enonce": "La vitesse de déplacement des globules lors du crémage ou de la sédimentation est donnée par la loi de :",
+    "options": [
+      "Stokes",
+      "Smoluchowsky",
+      "Van der Tempel",
+      "Griffen",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "La vitesse de déplacement des globules de la phase dispersée est donnée par la loi de Stokes (écrite « stocks » dans le support).",
+    "source": {
+      "page": 1,
+      "extrait": "La vitesse de dépassement des globules de la phase dispersée est donnée par la loi de stocks"
+    },
+    "difficulte": 1,
+    "tags": [
+      "loi de Stokes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/qcm-018",
+    "type": "multiple",
+    "enonce": "Dans la loi de Stokes appliquée aux émulsions, interviennent :",
+    "options": [
+      "Le rayon de la particule (r)",
+      "L'accélération de la pesanteur (g)",
+      "Les densités de la phase dispersée (D1) et de la phase dispersante (D2)",
+      "La viscosité de la phase dispersante (η)",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Les variables de la loi de Stokes sont V, r, g, D1 (phase dispersée), D2 (phase dispersante) et η (viscosité de la phase dispersante).",
+    "source": {
+      "page": 1,
+      "extrait": "r : rayon de la particule g : accélération de la pesanteur D1 : densité de la phase dispersée"
+    },
+    "difficulte": 1,
+    "tags": [
+      "loi de Stokes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/qcm-019",
+    "type": "unique",
+    "enonce": "Dans la loi de Stokes, η représente la viscosité :",
+    "options": [
+      "De la phase dispersante",
+      "De la phase dispersée",
+      "De l'émulsifiant",
+      "Du film interfacial",
+      "De l'émulsion entière"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "η est la viscosité de la phase dispersante.",
+    "source": {
+      "page": 1,
+      "extrait": "η : viscosité de la phase dispersante"
+    },
+    "difficulte": 2,
+    "tags": [
+      "loi de Stokes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/qcm-020",
+    "type": "multiple",
+    "enonce": "Afin de diminuer la vitesse de sédimentation d'une émulsion, il faut :",
+    "options": [
+      "Réduire la taille des globules de la phase dispersée",
+      "Diminuer la différence entre les densités D1 et D2",
+      "Augmenter la viscosité de la phase dispersante",
+      "Augmenter la taille des globules de la phase dispersée",
+      "Diminuer la viscosité de la phase dispersante"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Pour diminuer la vitesse de sédimentation : réduire la taille des globules, diminuer la différence de densité entre D1 et D2 et augmenter la viscosité de la phase dispersante.",
+    "source": {
+      "page": 2,
+      "extrait": "Augmenter la viscosité de la phase dispersante"
+    },
+    "difficulte": 2,
+    "tags": [
+      "loi de Stokes",
+      "stabilisation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/qcm-021",
+    "type": "multiple",
+    "enonce": "Pour ralentir le crémage d'une émulsion, quelles mesures sont incorrectes ?",
+    "options": [
+      "Augmenter la différence entre les densités D1 et D2",
+      "Diminuer la viscosité de la phase dispersante",
+      "Augmenter la taille des globules",
+      "Réduire la taille des globules",
+      "Augmenter la viscosité de la phase dispersante"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Les mesures correctes sont : réduire la taille des globules, diminuer la différence de densité et augmenter la viscosité de la phase dispersante. Les trois premières propositions font l'inverse.",
+    "source": {
+      "page": 2,
+      "extrait": "Réduire la taille des globules de la phase dispersée. Diminuer la différence entre les densités D1 et D2"
+    },
+    "difficulte": 3,
+    "tags": [
+      "loi de Stokes",
+      "stabilisation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/qcm-022",
+    "type": "multiple",
+    "enonce": "Concernant la floculation :",
+    "options": [
+      "C'est une agglomération de plusieurs globules de la phase dispersée en agrégats ou flocons",
+      "Les globules sont liés les uns aux autres par des forces d'attraction",
+      "Les globules gardent leur individualité",
+      "Le film interfacial reste intact",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "La floculation est une agglomération de globules en agrégats ou flocons liés par des forces d'attraction ; les globules gardent leur individualité et le film interfacial reste intact.",
+    "source": {
+      "page": 2,
+      "extrait": "les globules sont liés les uns aux autres par des forces attraction mais gardent cependant leurs individualités"
+    },
+    "difficulte": 1,
+    "tags": [
+      "floculation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/qcm-023",
+    "type": "unique",
+    "enonce": "Selon le cours, la floculation est une forme d'instabilité :",
+    "options": [
+      "Difficilement réversible voire irréversible",
+      "Totalement réversible par simple agitation",
+      "Qui entraîne la rupture du film interfacial",
+      "Qui correspond à la fusion complète des globules",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "La floculation est difficilement réversible voire irréversible ; le film interfacial reste intact (pas de fusion des globules, qui caractérise la coalescence).",
+    "source": {
+      "page": 2,
+      "extrait": "C'est une forme d'instabilité difficilement réversible voir irréversible"
+    },
+    "difficulte": 2,
+    "tags": [
+      "floculation",
+      "réversibilité"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/qcm-024",
+    "type": "multiple",
+    "enonce": "Concernant la loi de Smoluchowsky appliquée à la floculation :",
+    "options": [
+      "Elle donne la vitesse de floculation",
+      "n0 représente le nombre de globules au temps 0",
+      "n représente le nombre de globules libres et d'agrégats",
+      "Le coefficient a dépend notamment de l'agitation thermique, des forces de répulsion et des dimensions des particules",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "La vitesse de floculation est donnée par la loi de Smoluchowsky ; n0 = nombre de globules au temps 0, n = globules libres et agrégats, a = coefficient dépendant notamment de l'agitation thermique, des forces de répulsion et des dimensions.",
+    "source": {
+      "page": 2,
+      "extrait": "La vitesse de floculation est donnée par la loi de SMOLUCHOWSKY"
+    },
+    "difficulte": 2,
+    "tags": [
+      "floculation",
+      "Smoluchowsky"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/qcm-025",
+    "type": "multiple",
+    "enonce": "Concernant la coalescence :",
+    "options": [
+      "Elle correspond à la fusion complète de plusieurs globules préalablement floculés",
+      "Il y a perte d'individualité des globules",
+      "Il y a rupture du film interfacial",
+      "C'est une forme d'instabilité irréversible qui conduit vers la séparation de phase",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "La coalescence est la fusion complète de globules préalablement floculés, avec perte d'individualité et rupture du film interfacial ; elle est irréversible et conduit à la séparation de phase.",
+    "source": {
+      "page": 2,
+      "extrait": "il y'a perte d'individualité et rupture du film interfacial"
+    },
+    "difficulte": 1,
+    "tags": [
+      "coalescence"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/qcm-026",
+    "type": "multiple",
+    "enonce": "Comparaison floculation / coalescence :",
+    "options": [
+      "Dans la floculation, le film interfacial reste intact",
+      "Dans la coalescence, le film interfacial est rompu",
+      "La coalescence concerne des globules préalablement floculés",
+      "Dans la floculation, les globules perdent leur individualité",
+      "La coalescence est réversible par simple agitation"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Floculation : film intact, individualité conservée. Coalescence : fusion de globules préalablement floculés, perte d'individualité, rupture du film, irréversible.",
+    "source": {
+      "page": 2,
+      "extrait": "fusion complète de plusieurs globules préalablement floculés"
+    },
+    "difficulte": 2,
+    "tags": [
+      "floculation",
+      "coalescence"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/qcm-027",
+    "type": "multiple",
+    "enonce": "La vitesse de coalescence :",
+    "options": [
+      "Dépend de la vitesse de floculation et du film interfacial",
+      "Suit la loi de Smoluchowsky lorsque la floculation est lente par rapport à la coalescence",
+      "Suit la loi de Van der Tempel lorsque la coalescence est lente par rapport à la floculation",
+      "Suit la loi de Van der Tempel lorsque la floculation est lente par rapport à la coalescence",
+      "Suit toujours la loi de Stokes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "La vitesse de coalescence dépend de la vitesse de floculation et du film interfacial ; elle suit Smoluchowsky si la floculation est l'étape lente, Van der Tempel si la coalescence est l'étape lente.",
+    "source": {
+      "page": 2,
+      "extrait": "elle suit la loi de VAN DER TEMPEL lorsque c'est la coalescence qui est lente par rapport à la floculation"
+    },
+    "difficulte": 3,
+    "tags": [
+      "coalescence",
+      "Van der Tempel"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/qcm-028",
+    "type": "unique",
+    "enonce": "Dans la loi de Van der Tempel, k représente :",
+    "options": [
+      "La probabilité de rupture du film par seconde",
+      "Le nombre de globules initial",
+      "Le nombre de globules libres et floculats",
+      "La viscosité de la phase dispersante",
+      "La tension interfaciale"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Dans la loi de Van der Tempel, n0 = nombre de globules initial, n = globules libres et floculats, k = probabilité de rupture du film par seconde.",
+    "source": {
+      "page": 2,
+      "extrait": "k : probabilité de rupture du film par seconde"
+    },
+    "difficulte": 2,
+    "tags": [
+      "Van der Tempel"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/qcm-029",
+    "type": "multiple",
+    "enonce": "Classez correctement selon le cours (réversibilité) :",
+    "options": [
+      "Crémage : réversible",
+      "Sédimentation : réversible",
+      "Floculation : difficilement réversible voire irréversible",
+      "Coalescence : irréversible",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Crémage et sédimentation sont réversibles par agitation, la floculation est difficilement réversible voire irréversible, la coalescence est irréversible.",
+    "source": {
+      "page": 2,
+      "extrait": "C'est une forme d'instabilité irréversible qui conduit vers la séparation de phase"
+    },
+    "difficulte": 2,
+    "tags": [
+      "instabilité",
+      "réversibilité"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/qcm-030",
+    "type": "multiple",
+    "enonce": "Selon le cours, les phénomènes de floculation et de coalescence dépendent :",
+    "options": [
+      "Du film interfacial",
+      "De la tension interfaciale",
+      "De la charge électrique",
+      "De la couleur de l'émulsion",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Les aspects physicochimiques dont dépendent floculation et coalescence sont le film interfacial, la tension interfaciale et la charge électrique.",
+    "source": {
+      "page": 2,
+      "extrait": "Les phénomènes de floculation et de coalescence dépendent de"
+    },
+    "difficulte": 1,
+    "tags": [
+      "aspects physicochimiques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/qcm-031",
+    "type": "multiple",
+    "enonce": "Concernant le rôle du film interfacial :",
+    "options": [
+      "Il favorise l'émulsification en diminuant le travail nécessaire à la dispersion d'une phase dans l'autre",
+      "Il assure une protection mécanique des globules et les empêche de fusionner",
+      "Il joue un rôle dans les phénomènes électriques",
+      "Il augmente le travail nécessaire à la dispersion d'une phase dans l'autre",
+      "Il n'est présent qu'en l'absence d'émulsionnant"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Le film interfacial, présent autour de chaque particule en présence d'émulsionnant, diminue le travail de dispersion, protège mécaniquement les globules et joue un rôle dans les phénomènes électriques.",
+    "source": {
+      "page": 2,
+      "extrait": "Assure une protection mécanique des globules et les empêche de fusionner"
+    },
+    "difficulte": 2,
+    "tags": [
+      "film interfacial"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/qcm-032",
+    "type": "unique",
+    "enonce": "Le film interfacial est présent autour de chaque particule dans une émulsion :",
+    "options": [
+      "Contenant un émulsionnant",
+      "Dépourvue d'émulsionnant",
+      "Uniquement de type H/L",
+      "Uniquement multiple",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Le film interfacial est présent autour de chaque particule dans une émulsion contenant un émulsionnant.",
+    "source": {
+      "page": 2,
+      "extrait": "Il est présent autour de chaque particule dans une émulsion contenant un émulsionnant"
+    },
+    "difficulte": 1,
+    "tags": [
+      "film interfacial"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/qcm-033",
+    "type": "multiple",
+    "enonce": "Concernant la tension interfaciale :",
+    "options": [
+      "C'est une force par unité de longueur existant entre 2 liquides non miscibles",
+      "Elle est liée à l'hétérogénéité des forces de liaison à l'intérieur des 2 liquides",
+      "Le travail W est égal à γ × ΔS",
+      "ΔS représente l'augmentation de surface",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "La tension interfaciale γ est une force par unité de longueur entre 2 liquides non miscibles, liée à l'hétérogénéité des forces de liaison ; W = γ ΔS, ΔS étant l'augmentation de surface.",
+    "source": {
+      "page": 2,
+      "extrait": "Force par unité de longueur existant entre 2 liquides non miscibles"
+    },
+    "difficulte": 2,
+    "tags": [
+      "tension interfaciale"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/qcm-034",
+    "type": "multiple",
+    "enonce": "Tout système tendant à diminuer son énergie, on observe ou recherche :",
+    "options": [
+      "Une minimisation de l'augmentation de surface par regroupement des gouttelettes",
+      "Une diminution de la tension interfaciale par ajout de tensioactifs",
+      "Une diminution du travail à fournir pour augmenter la stabilité",
+      "Une augmentation de la tension interfaciale par ajout de tensioactifs",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Le système minimise l'augmentation de surface (regroupement des gouttelettes) ; pour augmenter la stabilité on diminue le travail à fournir en diminuant la tension interfaciale par ajout de tensioactifs.",
+    "source": {
+      "page": 3,
+      "extrait": "diminution de la tension interfaciale par ajout de Tensioactifs"
+    },
+    "difficulte": 2,
+    "tags": [
+      "tension interfaciale",
+      "tensioactifs"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/qcm-035",
+    "type": "multiple",
+    "enonce": "La charge électrique des globules d'une émulsion peut provenir :",
+    "options": [
+      "D'une ionisation de l'émulsionnant",
+      "De l'adsorption de certains ions provenant de la phase dispersante",
+      "De l'adsorption d'ions provenant uniquement de la phase dispersée",
+      "De la rupture du film interfacial",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "La charge provient soit de l'ionisation de l'émulsionnant, soit de l'adsorption d'ions provenant de la phase dispersante.",
+    "source": {
+      "page": 3,
+      "extrait": "Soit de l'adsorption de certains ions provenant de la phase dispersante"
+    },
+    "difficulte": 2,
+    "tags": [
+      "charge électrique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/qcm-036",
+    "type": "multiple",
+    "enonce": "Concernant les potentiels à la surface d'un globule chargé :",
+    "options": [
+      "Le globule est entouré de plusieurs couches de contre-ions qui tendent à neutraliser sa charge",
+      "Ces couches créent plusieurs potentiels : Ψ0, Ψs, Ψz",
+      "Le seul potentiel mesurable expérimentalement est le potentiel Zêta (Ψz)",
+      "Le potentiel Zêta se mesure à l'aide de zêtamètres",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Les contre-ions forment plusieurs couches créant les potentiels Ψ0, Ψs et Ψz ; seul le potentiel Zêta (Ψz) est mesurable, à l'aide de zêtamètres.",
+    "source": {
+      "page": 3,
+      "extrait": "Le seul potentiel mesurable expérimentalement est le potentiel Zéta (Ψz), on utilise des Zétamètres"
+    },
+    "difficulte": 2,
+    "tags": [
+      "potentiel Zêta"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/qcm-037",
+    "type": "unique",
+    "enonce": "Plus le potentiel Zêta (Ψz) est grand :",
+    "options": [
+      "Plus les globules se repoussent",
+      "Plus les globules s'attirent",
+      "Plus la coalescence est rapide",
+      "Plus la floculation est favorisée",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Le cours indique que plus Ψz est grand, plus les globules se repoussent.",
+    "source": {
+      "page": 3,
+      "extrait": "Plus Ψz est grand plus les globules se repoussent"
+    },
+    "difficulte": 2,
+    "tags": [
+      "potentiel Zêta"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/qcm-038",
+    "type": "unique",
+    "enonce": "Parmi les potentiels Ψ0, Ψs et Ψz, celui qui est mesurable expérimentalement est :",
+    "options": [
+      "Ψz uniquement",
+      "Ψ0 uniquement",
+      "Ψs uniquement",
+      "Ψ0 et Ψs",
+      "Les trois"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Le seul potentiel mesurable expérimentalement est le potentiel Zêta (Ψz).",
+    "source": {
+      "page": 3,
+      "extrait": "Le seul potentiel mesurable expérimentalement est le potentiel Zéta (Ψz)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "potentiel Zêta"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/qcm-039",
+    "type": "multiple",
+    "enonce": "Concernant l'inversion de phase :",
+    "options": [
+      "C'est un brusque changement du sens de l'émulsion",
+      "Une émulsion H/L peut devenir L/H",
+      "Une émulsion L/H peut devenir H/L",
+      "C'est un changement progressif de la taille des globules sans changement de sens",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "L'inversion de phase est un brusque changement du sens de l'émulsion : H/L devient L/H et inversement.",
+    "source": {
+      "page": 3,
+      "extrait": "Il y a un brusque changement du sens de l'émulsion"
+    },
+    "difficulte": 1,
+    "tags": [
+      "inversion de phase"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/qcm-040",
+    "type": "multiple",
+    "enonce": "Mécanisme de l'inversion d'une émulsion H/E (exemple du cours) :",
+    "options": [
+      "Dans un premier temps, les globules d'huile floculent",
+      "Les globules d'huile floculés emprisonnent une certaine quantité d'eau à l'intérieur d'un film interfacial",
+      "Dans un second temps, les globules d'huile subissent la coalescence",
+      "L'huile devient finalement la phase continue",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Les globules d'huile floculent en emprisonnant de l'eau dans un film interfacial, puis coalescent et l'huile devient la phase continue.",
+    "source": {
+      "page": 3,
+      "extrait": "les globules d'huile subissent le phénomène de la coalescence et l'huile devient la phase continue"
+    },
+    "difficulte": 2,
+    "tags": [
+      "inversion de phase"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/qcm-041",
+    "type": "unique",
+    "enonce": "Lorsqu'on ajoute de l'huile à une émulsion L/H, à partir d'une certaine concentration d'huile, il se forme :",
+    "options": [
+      "Une émulsion H/L",
+      "Une émulsion L/H plus stable",
+      "Une émulsion multiple L/H/L",
+      "Une solution micellaire",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "L'ajout d'huile à une émulsion L/H provoque, à partir d'une certaine concentration, une inversion de phase avec formation d'une émulsion H/L.",
+    "source": {
+      "page": 3,
+      "extrait": "lorsque l'huile est ajoutée à une émulsion L/H, il se produit à partir d'une certaine concentration d'huile inversion de phase"
+    },
+    "difficulte": 2,
+    "tags": [
+      "inversion de phase"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/qcm-042",
+    "type": "unique",
+    "enonce": "Lorsqu'une émulsion H/L est soumise à une augmentation de température, à la « température d'inversion de phase » on obtient :",
+    "options": [
+      "Une émulsion L/H",
+      "Une émulsion H/L plus fine",
+      "Une émulsion multiple H/L/H",
+      "Une séparation de phase immédiate",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Une émulsion H/L chauffée atteint une température d'inversion de phase à laquelle se forme une émulsion L/H.",
+    "source": {
+      "page": 3,
+      "extrait": "il ya une certaine température appelée « température d'inversion de phase » formation d'une émulsion L/H"
+    },
+    "difficulte": 2,
+    "tags": [
+      "inversion de phase",
+      "température"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/qcm-043",
+    "type": "multiple",
+    "enonce": "Parmi les facteurs influant sur l'inversion de phase, le cours cite :",
+    "options": [
+      "La proportion des deux phases",
+      "La température",
+      "La nature, la concentration et le HLB des surfactifs utilisés",
+      "La nature de la phase huileuse",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Facteurs cités : proportion des deux phases, température, et autres facteurs (nature, concentration et HLB des surfactifs, nature de la phase huileuse).",
+    "source": {
+      "page": 3,
+      "extrait": "La nature, la concentration et le HLB des surfactifs utilisés, la nature de la phase huileuse"
+    },
+    "difficulte": 1,
+    "tags": [
+      "inversion de phase"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/qcm-044",
+    "type": "multiple",
+    "enonce": "Les constituants principaux d'une émulsion sont :",
+    "options": [
+      "Une phase lipophile",
+      "Une phase hydrophile",
+      "Un surfactif ou un mélange de surfactifs",
+      "Un gaz propulseur",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Les constituants principaux sont une phase lipophile, une phase hydrophile et un surfactif ou un mélange de surfactifs.",
+    "source": {
+      "page": 4,
+      "extrait": "une phase lipophile • une phase hydrophile • un surfactif ou un mélange de surfactifs"
+    },
+    "difficulte": 1,
+    "tags": [
+      "formulation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/qcm-045",
+    "type": "multiple",
+    "enonce": "Les surfactifs (agents tensioactifs) sont caractérisés par :",
+    "options": [
+      "Leur amphiphilie",
+      "Leur auto-association",
+      "Leur adsorption aux interfaces liquide/liquide",
+      "Leur caractère exclusivement hydrophile",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Les surfactifs sont caractérisés par leur amphiphilie, leur auto-association et leur adsorption aux interfaces liquide/liquide. Ils ne sont pas exclusivement hydrophiles (amphiphiles).",
+    "source": {
+      "page": 4,
+      "extrait": "sont caractérisés par leur amphiphilie, leur auto association, leur adsorption aux interfaces (liquide/liquide)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "surfactifs"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/qcm-046",
+    "type": "multiple",
+    "enonce": "Concernant la notion d'HLB :",
+    "options": [
+      "HLB signifie Balance Hydrophile Lipophile",
+      "Elle a été introduite par Griffen",
+      "C'est une caractéristique des surfactifs",
+      "Elle traduit l'équilibre entre les parties hydrophile et lipophile",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "La notion d'HLB (Balance Hydrophile Lipophile), introduite par Griffen, est une caractéristique des surfactifs traduisant l'équilibre entre parties hydrophile et lipophile.",
+    "source": {
+      "page": 4,
+      "extrait": "La notion d'HLB (Balance Hydrophile Lipophile) introduite par GRIFFEN est une caractéristique des surfactifs"
+    },
+    "difficulte": 1,
+    "tags": [
+      "HLB"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/qcm-047",
+    "type": "multiple",
+    "enonce": "Selon le cours, les surfactifs ont :",
+    "options": [
+      "Un poids moléculaire supérieur à 200",
+      "Un HLB compris entre 1 et 40",
+      "Un poids moléculaire inférieur à 200",
+      "Un HLB compris entre 0 et 10 uniquement",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Les surfactifs ont un PM > 200 et un HLB compris entre 1 et 40.",
+    "source": {
+      "page": 4,
+      "extrait": "Les surfactifs ont un P.M > 200 et un HLB compris entre 1 et 40"
+    },
+    "difficulte": 2,
+    "tags": [
+      "HLB"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/qcm-048",
+    "type": "multiple",
+    "enonce": "Concernant la valeur HLB :",
+    "options": [
+      "Elle est d'autant plus élevée que la molécule est hydrophile",
+      "Aux environs de 10, on considère qu'il y a équilibre entre groupements hydrophiles et lipophiles",
+      "Les valeurs HLB sont additives",
+      "Elle est d'autant plus élevée que la molécule est lipophile",
+      "Les valeurs HLB ne sont pas additives"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Le HLB augmente avec le caractère hydrophile ; vers 10, équilibre hydrophile/lipophile ; les valeurs HLB sont additives.",
+    "source": {
+      "page": 4,
+      "extrait": "La valeur de HLB est d'autant plus élevée que la molécule est hydrophile"
+    },
+    "difficulte": 2,
+    "tags": [
+      "HLB"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/qcm-049",
+    "type": "unique",
+    "enonce": "Dans la formule HLBm = (x HLBL + (100 − x) HLBH) / 100, x représente :",
+    "options": [
+      "La masse du surfactif lipophile dans le mélange",
+      "La masse du surfactif hydrophile dans le mélange",
+      "La masse de la phase huileuse",
+      "Le HLB critique de l'huile",
+      "La masse d'eau distillée"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "x est la masse du surfactif lipophile dans le mélange ; HLBL et HLBH sont les HLB des surfactifs lipophile et hydrophile.",
+    "source": {
+      "page": 4,
+      "extrait": "x : masse du surfactif lipophile dans le mélange"
+    },
+    "difficulte": 2,
+    "tags": [
+      "HLB",
+      "calcul"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/qcm-050",
+    "type": "unique",
+    "enonce": "Un mélange contient 40 % d'un surfactif lipophile de HLB 4 et 60 % d'un surfactif hydrophile de HLB 14. Le HLB du mélange est :",
+    "options": [
+      "10",
+      "9",
+      "8",
+      "12",
+      "6"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "HLBm = (40 × 4 + 60 × 14) / 100 = (160 + 840) / 100 = 10.",
+    "source": {
+      "page": 4,
+      "extrait": "HLBm = ( x HLBL + (100 - x) HLBH ) / 100"
+    },
+    "difficulte": 3,
+    "tags": [
+      "HLB",
+      "calcul"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/qcm-051",
+    "type": "multiple",
+    "enonce": "Détermination expérimentale du HLB d'un surfactif (exemple du perhydrosqualène, HLBc = 12) :",
+    "options": [
+      "On prépare une série d'émulsions en faisant varier la masse p du surfactif de HLB inconnu de 0 à 10 g",
+      "La masse totale de surfactifs est de 10 g",
+      "Pour l'émulsion la plus stable, HLBm = HLBc du perhydrosqualène",
+      "La formule contient 20 g de perhydrosqualène et de l'eau distillée qsp 100 g",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "La formule associe 20 g de perhydrosqualène (HLBc = 12), p g de surfactif inconnu, (10 − p) g de surfactif connu et de l'eau qsp 100 g ; on fait varier p de 0 à 10 g, et pour l'émulsion la plus stable HLBm = HLBc.",
+    "source": {
+      "page": 5,
+      "extrait": "Pour une certaine valeur de p, on obtient une émulsion plus stable que les autres où : HLB m = HLBc"
+    },
+    "difficulte": 3,
+    "tags": [
+      "HLB",
+      "détermination expérimentale"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/qcm-052",
+    "type": "multiple",
+    "enonce": "Concernant le HLB critique (optimal ou requis) :",
+    "options": [
+      "C'est une caractéristique des phases lipophiles",
+      "Il ne peut être déterminé que par voie expérimentale",
+      "Il correspond au HLB du surfactif ou du mélange donnant avec l'huile, en présence d'eau, l'émulsion la plus stable",
+      "Les HLB critiques sont additifs",
+      "C'est une caractéristique des surfactifs"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Contrairement au HLB (caractéristique des surfactifs), le HLB critique est une caractéristique des phases lipophiles, déterminé uniquement expérimentalement ; il est additif.",
+    "source": {
+      "page": 5,
+      "extrait": "Le HLB critique, contrairement au HLB, est une caractéristique des phases lipophiles"
+    },
+    "difficulte": 2,
+    "tags": [
+      "HLB critique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/qcm-053",
+    "type": "unique",
+    "enonce": "Le HLB critique est aussi appelé :",
+    "options": [
+      "HLB optimal ou requis",
+      "HLB du mélange",
+      "HLB de Griffen",
+      "Concentration micellaire critique",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Le cours parle de « HLB critique (optimal ou requis) ».",
+    "source": {
+      "page": 5,
+      "extrait": "Notion de HLB critique (optimal ou requis)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "HLB critique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/qcm-054",
+    "type": "multiple",
+    "enonce": "Pour déterminer le HLB critique d'une huile :",
+    "options": [
+      "On réalise une série d'émulsions contenant chacune un mélange de surfactifs de HLB différent",
+      "Le HLB du mélange fournissant l'émulsion la plus stable est le HLB critique de l'huile",
+      "On le calcule uniquement par une formule théorique",
+      "On mesure la conductivité de l'huile pure",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Le HLB critique se détermine expérimentalement par une série d'émulsions avec des mélanges de surfactifs de HLB différents ; celui donnant l'émulsion la plus stable est le HLB critique.",
+    "source": {
+      "page": 5,
+      "extrait": "le HLB du mélange de surfactifs fournissant l'émulsion la plus stable est considéré comme l'HLB critique"
+    },
+    "difficulte": 2,
+    "tags": [
+      "HLB critique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/qcm-055",
+    "type": "multiple",
+    "enonce": "Concernant le diagramme ternaire « Eau-Surfactif-Huile » :",
+    "options": [
+      "C'est un diagramme à 3 composants établi par voie expérimentale",
+      "Il donne une vue d'ensemble des résultats obtenus en mélangeant en différentes proportions eau, huile et surfactif(s)",
+      "Les résultats sont portés sur un triangle équilatéral",
+      "C'est par tâtonnement qu'on arrive à une formule stable et de consistance adaptée",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Le diagramme ternaire est établi expérimentalement, porté sur un triangle équilatéral, et permet par tâtonnement d'aboutir à une formule stable de consistance adaptée.",
+    "source": {
+      "page": 5,
+      "extrait": "Les résultats sont portés sur un triangle équilatéral et c'est par tâtonnement qu'on arrive à une formule stable"
+    },
+    "difficulte": 2,
+    "tags": [
+      "diagramme ternaire"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/qcm-056",
+    "type": "multiple",
+    "enonce": "HLB et HLB critique : quelles propositions sont exactes ?",
+    "options": [
+      "Le HLB est une caractéristique des surfactifs",
+      "Le HLB critique est une caractéristique des phases lipophiles",
+      "Les valeurs HLB et les HLB critiques sont additives",
+      "Le HLB critique peut être calculé sans expérimentation",
+      "Le HLB est une caractéristique des phases lipophiles"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "HLB : caractéristique des surfactifs, additif. HLB critique : caractéristique des phases lipophiles, additif, déterminé uniquement par voie expérimentale.",
+    "source": {
+      "page": 5,
+      "extrait": "Les HLB critiques sont additives"
+    },
+    "difficulte": 3,
+    "tags": [
+      "HLB",
+      "HLB critique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/qcm-057",
+    "type": "unique",
+    "enonce": "Le principe général de la fabrication d'une émulsion consiste à :",
+    "options": [
+      "Introduire le ou les surfactifs dans l'une ou l'autre des phases, puis disperser une phase dans l'autre",
+      "Mélanger les deux phases sans surfactif puis ajouter le surfactif après refroidissement",
+      "Dissoudre l'huile dans l'eau",
+      "Lyophiliser la phase aqueuse",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "On introduit le surfactif ou le mélange de surfactifs dans l'une ou l'autre des phases, puis on disperse une des phases dans l'autre.",
+    "source": {
+      "page": 6,
+      "extrait": "introduire le surfactif ou le mélange de surfactifs dans l'une ou l'autre des phases, ensuite disperser une des phase dans l'autre"
+    },
+    "difficulte": 1,
+    "tags": [
+      "préparation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/qcm-058",
+    "type": "multiple",
+    "enonce": "Modes d'introduction des surfactifs cités dans le cours :",
+    "options": [
+      "Dans la phase aqueuse",
+      "Dans la phase huileuse",
+      "Chacun des deux tensioactifs dans son solvant préférentiel",
+      "Préparation du surfactif in situ",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Le cours cite : dans la phase aqueuse, dans la phase huileuse, chacun dans son solvant préférentiel, ajout alterné des deux phases au mélange de surfactifs, préparation in situ.",
+    "source": {
+      "page": 6,
+      "extrait": "Chacun des deux tensioactifs dans son solvant préférentiel"
+    },
+    "difficulte": 1,
+    "tags": [
+      "préparation",
+      "surfactifs"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/qcm-059",
+    "type": "multiple",
+    "enonce": "Concernant les méthodes de mélange des phases :",
+    "options": [
+      "Par addition : introduire la phase dispersée dans la phase dispersante",
+      "Par inversion : introduire la phase dispersante dans la phase dispersée progressivement jusqu'à inversion de phase",
+      "Par alternance : les deux phases sont ajoutées alternativement au mélange de surfactifs",
+      "Par addition : introduire la phase dispersante dans la phase dispersée",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Trois méthodes : addition (phase dispersée dans la phase dispersante), inversion (phase dispersante dans la phase dispersée jusqu'à inversion), alternance (ajout alterné des deux phases au mélange de surfactifs).",
+    "source": {
+      "page": 6,
+      "extrait": "Par addition : Introduire la phase dispersée dans la phase dispersante"
+    },
+    "difficulte": 2,
+    "tags": [
+      "préparation",
+      "mélange des phases"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/qcm-060",
+    "type": "unique",
+    "enonce": "La méthode consistant à introduire progressivement la phase dispersante dans la phase dispersée jusqu'à inversion de phase est la méthode :",
+    "options": [
+      "Par inversion",
+      "Par addition",
+      "Par alternance",
+      "In situ",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "C'est la méthode par inversion.",
+    "source": {
+      "page": 6,
+      "extrait": "Par inversion : Introduire la phase dispersante dans la phase dispersée progressivement jusqu'à inversion de phase"
+    },
+    "difficulte": 2,
+    "tags": [
+      "mélange des phases"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/qcm-061",
+    "type": "multiple",
+    "enonce": "Concernant la température de fabrication d'une émulsion :",
+    "options": [
+      "Les deux phases doivent être à la même température au moment du mélange",
+      "Les deux phases sont chauffées au bain-marie entre 50 et 80 °C",
+      "Le mélange doit être effectué lentement",
+      "L'agitation doit être poursuivie jusqu'à refroidissement",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Les deux phases sont à la même température, chauffées au bain-marie (50–80 °C) ; le mélange est lent et l'agitation est poursuivie jusqu'à refroidissement.",
+    "source": {
+      "page": 6,
+      "extrait": "Les deux phases sont chauffées au bain marie (T° : 50 – 80°C)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "préparation",
+      "température"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/qcm-062",
+    "type": "unique",
+    "enonce": "Lors de la fabrication, les deux phases sont chauffées au bain-marie à une température de :",
+    "options": [
+      "50 à 80 °C",
+      "20 à 30 °C",
+      "100 à 120 °C",
+      "121 °C",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Le cours indique un chauffage au bain-marie entre 50 et 80 °C.",
+    "source": {
+      "page": 6,
+      "extrait": "chauffées au bain marie (T° : 50 – 80°C)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "température"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/qcm-063",
+    "type": "unique",
+    "enonce": "L'homogénéisation d'une émulsion a pour but :",
+    "options": [
+      "D'obtenir des gouttelettes de phase dispersée suffisamment fines et toutes de mêmes dimensions",
+      "D'augmenter la taille des gouttelettes",
+      "D'inverser le sens de l'émulsion",
+      "De stériliser l'émulsion",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "L'homogénéisation sert à rendre les gouttelettes de la phase dispersée suffisamment fines et de mêmes dimensions.",
+    "source": {
+      "page": 6,
+      "extrait": "Pour que les gouttelettes de la phase dispersée soient suffisamment fines et toutes de mêmes dimensions"
+    },
+    "difficulte": 1,
+    "tags": [
+      "homogénéisation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/qcm-064",
+    "type": "multiple",
+    "enonce": "Concernant le matériel de préparation des émulsions :",
+    "options": [
+      "Les agitateurs servent à préparer l'émulsion primaire",
+      "Les agitateurs peuvent être à hélice, à palettes, à turbine ou à ultrasons",
+      "Les homogénéisateurs comprennent les homogénéisateurs à filière, les broyeurs colloïdaux et les appareils à ultrasons",
+      "Les broyeurs colloïdaux servent à préparer l'émulsion primaire",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Agitateurs (hélice, palettes, turbine, ultrasons pour les émulsions fluides) : émulsion primaire. Homogénéisateurs : à filière, broyeurs colloïdaux, appareils à ultrasons.",
+    "source": {
+      "page": 6,
+      "extrait": "Les homogénéisateurs : Homogénéisateurs à filière, Broyeurs colloïdaux, Appareils à ultrasons"
+    },
+    "difficulte": 2,
+    "tags": [
+      "matériel"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/qcm-065",
+    "type": "unique",
+    "enonce": "Parmi les appareils suivants, lequel est classé parmi les homogénéisateurs ?",
+    "options": [
+      "Le broyeur colloïdal",
+      "L'agitateur à hélice",
+      "L'agitateur à palettes",
+      "L'agitateur à turbine",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Le broyeur colloïdal est un homogénéisateur ; les agitateurs à hélice, à palettes et à turbine servent à préparer l'émulsion primaire.",
+    "source": {
+      "page": 6,
+      "extrait": "Homogénéisateurs à filière, Broyeurs colloïdaux, Appareils à ultrasons"
+    },
+    "difficulte": 2,
+    "tags": [
+      "matériel"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/qcm-066",
+    "type": "multiple",
+    "enonce": "Les ultrasons sont utilisés, selon le cours :",
+    "options": [
+      "Dans des agitateurs pour les émulsions fluides",
+      "Dans des appareils d'homogénéisation",
+      "Pour déterminer le sens de l'émulsion",
+      "Pour mesurer le potentiel Zêta",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Les ultrasons figurent parmi les agitateurs (pour les émulsions fluides) et parmi les homogénéisateurs (appareils à ultrasons).",
+    "source": {
+      "page": 6,
+      "extrait": "à turbine ou à ultrasons (pour les émulsions fluides)"
+    },
+    "difficulte": 3,
+    "tags": [
+      "matériel"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/qcm-067",
+    "type": "multiple",
+    "enonce": "Méthodes de détermination du sens d'une émulsion citées dans le cours :",
+    "options": [
+      "La méthode par dilution",
+      "La méthode des colorants",
+      "La mesure de la conductivité électrique",
+      "L'examen au Coulter Counter",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Le sens se détermine par dilution, par les colorants ou par la mesure de la conductivité électrique. Le Coulter Counter sert à la distribution granulométrique.",
+    "source": {
+      "page": 7,
+      "extrait": "Détermination du sens de l'Emulsion"
+    },
+    "difficulte": 1,
+    "tags": [
+      "essais",
+      "sens"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/qcm-068",
+    "type": "unique",
+    "enonce": "La méthode par dilution consiste à :",
+    "options": [
+      "Introduire une certaine quantité d'émulsion dans l'eau ou dans l'huile et chercher dans quel cas elle se dilue le plus facilement",
+      "Ajouter un colorant et observer sa diffusion",
+      "Mesurer la conductivité électrique",
+      "Centrifuger l'émulsion à 3000 tr/min",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "La méthode par dilution consiste à introduire l'émulsion dans l'eau ou dans l'huile et à observer dans quel cas elle se dilue le plus facilement.",
+    "source": {
+      "page": 7,
+      "extrait": "introduire une certaine quantité d'émulsion dans l'eau ou dans l'huile et à chercher dans quel cas l'émulsion se dilue"
+    },
+    "difficulte": 1,
+    "tags": [
+      "sens",
+      "dilution"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/qcm-069",
+    "type": "multiple",
+    "enonce": "Concernant la méthode des colorants :",
+    "options": [
+      "On peut utiliser un colorant hydrosoluble tel que le bleu de méthylène",
+      "On peut utiliser un colorant liposoluble tel que le rouge Soudan",
+      "On observe la diffusion du colorant dans la préparation",
+      "Le bleu de méthylène est un colorant liposoluble",
+      "Le rouge Soudan est un colorant hydrosoluble"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Bleu de méthylène = hydrosoluble ; rouge Soudan = liposoluble ; on observe la diffusion du colorant dans la préparation.",
+    "source": {
+      "page": 7,
+      "extrait": "colorant hydrosoluble tel que le bleu de méthylène, soit un colorant liposoluble tel que le rouge soudan"
+    },
+    "difficulte": 2,
+    "tags": [
+      "sens",
+      "colorants"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/qcm-070",
+    "type": "multiple",
+    "enonce": "Concernant la mesure de la conductivité électrique :",
+    "options": [
+      "Une émulsion L/H possède une conductivité élevée",
+      "Cette méthode donne des résultats plus faciles à interpréter",
+      "Elle sert à déterminer le sens de l'émulsion",
+      "Une émulsion L/H possède une conductivité nulle",
+      "Elle sert à déterminer la distribution granulométrique"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "La conductivité permet de déterminer le sens : une émulsion L/H a une conductivité élevée ; la méthode donne des résultats plus faciles à interpréter.",
+    "source": {
+      "page": 7,
+      "extrait": "Une émulsion L/H possède une conductivité élevée. Cette méthode donne des résultats plus faciles à interpréter"
+    },
+    "difficulte": 2,
+    "tags": [
+      "sens",
+      "conductivité"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/qcm-071",
+    "type": "multiple",
+    "enonce": "Concernant la détermination de la distribution granulométrique :",
+    "options": [
+      "La méthode microscopique détermine le diamètre moyen des globules à l'aide d'une échelle micrométrique",
+      "L'examen au Coulter Counter est utilisé pour les émulsions H/E seulement",
+      "L'examen au Coulter Counter est utilisé pour les émulsions E/H seulement",
+      "La méthode des colorants détermine le diamètre moyen",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Granulométrie : méthode microscopique (échelle micrométrique) et Coulter Counter, utilisé pour les émulsions H/E seulement.",
+    "source": {
+      "page": 7,
+      "extrait": "Examen au Coulter Counter : Utilisé pour les émulsions H/E seulement"
+    },
+    "difficulte": 2,
+    "tags": [
+      "granulométrie"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/qcm-072",
+    "type": "unique",
+    "enonce": "L'examen au Coulter Counter est utilisé pour :",
+    "options": [
+      "Les émulsions H/E seulement",
+      "Les émulsions E/H seulement",
+      "Toutes les émulsions",
+      "Les émulsions multiples seulement",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Le Coulter Counter est utilisé pour les émulsions H/E seulement.",
+    "source": {
+      "page": 7,
+      "extrait": "Utilisé pour les émulsions H/E seulement"
+    },
+    "difficulte": 2,
+    "tags": [
+      "granulométrie",
+      "Coulter Counter"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/qcm-073",
+    "type": "multiple",
+    "enonce": "Parmi les essais des émulsions cités dans le cours, on trouve :",
+    "options": [
+      "La détermination de la viscosité",
+      "La détermination du pH",
+      "La détermination du potentiel Zêta",
+      "La stabilité à la centrifugation",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Les essais comprennent : sens, granulométrie, viscosité, pH, potentiel Zêta et stabilité à la centrifugation.",
+    "source": {
+      "page": 7,
+      "extrait": "Détermination de la viscosité … Détermination du pH … Détermination du potentiel Zeta"
+    },
+    "difficulte": 1,
+    "tags": [
+      "essais"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/qcm-074",
+    "type": "multiple",
+    "enonce": "Concernant l'essai de stabilité à la centrifugation :",
+    "options": [
+      "Il se réalise à 2500–3000 tours par minute",
+      "Il se fait après coloration",
+      "On observe la sédimentation ou le crémage",
+      "Il se réalise à 25 000–30 000 tours par minute",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "La stabilité à la centrifugation s'apprécie à 2500 à 3000 tr/min après coloration, en observant la sédimentation ou le crémage.",
+    "source": {
+      "page": 7,
+      "extrait": "2500 à 3000 tours par minute après coloration Observer la sédimentation ou le crémage"
+    },
+    "difficulte": 2,
+    "tags": [
+      "essais",
+      "centrifugation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/qcm-075",
+    "type": "multiple",
+    "enonce": "Associez correctement l'essai et son objet :",
+    "options": [
+      "Méthode des colorants → sens de l'émulsion",
+      "Méthode microscopique → distribution granulométrique",
+      "Centrifugation → stabilité (sédimentation ou crémage)",
+      "Coulter Counter → sens de l'émulsion",
+      "Conductivité → distribution granulométrique"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Colorants et conductivité servent au sens de l'émulsion ; microscope et Coulter Counter à la granulométrie ; centrifugation à la stabilité.",
+    "source": {
+      "page": 7,
+      "extrait": "Méthode microscopique : Détermination du diamètre moyen des globules à l'aide d'une échelle micrométrique"
+    },
+    "difficulte": 2,
+    "tags": [
+      "essais"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/qcm-076",
+    "type": "multiple",
+    "enonce": "Quelles affirmations sur les émulsions sont fausses ?",
+    "options": [
+      "Les émulsions sont thermodynamiquement stables",
+      "La floculation entraîne la rupture du film interfacial",
+      "Le HLB critique est une caractéristique des surfactifs",
+      "Le crémage est réversible par simple agitation",
+      "Le potentiel Zêta est le seul potentiel mesurable expérimentalement"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Les émulsions sont instables, la floculation laisse le film interfacial intact et le HLB critique caractérise les phases lipophiles. Les propositions d et e sont exactes.",
+    "source": {
+      "page": 1,
+      "extrait": "le film interfacial reste intacte"
+    },
+    "difficulte": 3,
+    "tags": [
+      "synthèse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/qcm-077",
+    "type": "unique",
+    "enonce": "La forme d'instabilité qui s'accompagne d'une perte d'individualité des globules est :",
+    "options": [
+      "La coalescence",
+      "La floculation",
+      "Le crémage",
+      "La sédimentation",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Seule la coalescence entraîne la perte d'individualité et la rupture du film interfacial.",
+    "source": {
+      "page": 1,
+      "extrait": "il y'a perte d'individualité et rupture du film interfacial"
+    },
+    "difficulte": 1,
+    "tags": [
+      "coalescence"
+    ],
+    "origine": "genere"
+  }
+]

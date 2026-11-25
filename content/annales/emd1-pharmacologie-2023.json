@@ -171,7 +171,7 @@
       ],
       "origine": "annale",
       "annale": "EMD1 Pharmacologie 2023",
-      "cours": null,
+      "cours": "pharmacologie/td/04-pharmacologie-moleculaire",
       "verifie": false
     },
     {
@@ -382,7 +382,7 @@
       ],
       "origine": "annale",
       "annale": "EMD1 Pharmacologie 2023",
-      "cours": null,
+      "cours": "pharmacologie/12-mecanisme-action",
       "verifie": false
     },
     {
@@ -409,7 +409,7 @@
       ],
       "origine": "annale",
       "annale": "EMD1 Pharmacologie 2023",
-      "cours": null,
+      "cours": "pharmacologie/12-mecanisme-action",
       "verifie": false
     },
     {
@@ -434,7 +434,7 @@
       ],
       "origine": "annale",
       "annale": "EMD1 Pharmacologie 2023",
-      "cours": null,
+      "cours": "pharmacologie/12-mecanisme-action",
       "verifie": false
     },
     {
@@ -485,7 +485,7 @@
       ],
       "origine": "annale",
       "annale": "EMD1 Pharmacologie 2023",
-      "cours": null,
+      "cours": "pharmacologie/12-mecanisme-action",
       "verifie": false
     },
     {
@@ -538,7 +538,7 @@
       ],
       "origine": "annale",
       "annale": "EMD1 Pharmacologie 2023",
-      "cours": null,
+      "cours": "pharmacologie/12-mecanisme-action",
       "verifie": false
     },
     {
@@ -590,7 +590,7 @@
       ],
       "origine": "annale",
       "annale": "EMD1 Pharmacologie 2023",
-      "cours": null,
+      "cours": "pharmacologie/12-mecanisme-action",
       "verifie": false
     },
     {
@@ -809,7 +809,7 @@
       ],
       "origine": "annale",
       "annale": "EMD1 Pharmacologie 2023",
-      "cours": null,
+      "cours": "pharmacologie/11-interactions-pharmacocinetiques",
       "verifie": false,
       "source": {
         "page": 30,

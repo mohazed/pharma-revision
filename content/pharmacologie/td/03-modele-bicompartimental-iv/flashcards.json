@@ -1,0 +1,164 @@
+[
+  {
+    "id": "pharmacologie/td/03-modele-bicompartimental-iv/flash-001",
+    "recto": "Données de l'exercice (TD 3)",
+    "verso": "Cimétidine 200 mg en injection IV, volontaire sain de 70 kg, Cp mesurées de 1 à 360 min (6 → 0,15 µg/ml).",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/td/03-modele-bicompartimental-iv/flash-002",
+    "recto": "Allure de la courbe en semi-log (cimétidine)",
+    "verso": "Décroissance biexponentielle : phase initiale rapide puis phase terminale linéaire → modèle bicompartimental IV.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/td/03-modele-bicompartimental-iv/flash-003",
+    "recto": "Équation du modèle bicompartimental IV",
+    "verso": "Cp = D·e^(−kd·t) + E·e^(−ke·t)",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/td/03-modele-bicompartimental-iv/flash-004",
+    "recto": "Phase initiale (bicompartimental IV)",
+    "verso": "Distribution + élimination.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/td/03-modele-bicompartimental-iv/flash-005",
+    "recto": "Phase terminale (bicompartimental IV)",
+    "verso": "Élimination seule.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/td/03-modele-bicompartimental-iv/flash-006",
+    "recto": "Papier semi-log vs millimétrique",
+    "verso": "Semi-log : on porte C directement ; millimétrique : on porte log C.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/td/03-modele-bicompartimental-iv/flash-007",
+    "recto": "Points de la phase terminale (cimétidine)",
+    "verso": "120 à 360 min (alignés en semi-log).",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/td/03-modele-bicompartimental-iv/flash-008",
+    "recto": "Demi-vie d'élimination de la cimétidine",
+    "verso": "≈ 120 min (2 h) : 0,6 µg/ml à 120 min → 0,3 à 240 min → 0,15 à 360 min.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/td/03-modele-bicompartimental-iv/flash-009",
+    "recto": "ke de la cimétidine",
+    "verso": "ke = 0,693/120 ≈ 0,0058 min⁻¹ (≈ 0,35 h⁻¹).",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/td/03-modele-bicompartimental-iv/flash-010",
+    "recto": "E (ordonnée à l'origine de la droite terminale)",
+    "verso": "≈ 1,2 µg/ml (0,6 µg/ml à 120 min × 2, une demi-vie plus tôt).",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/td/03-modele-bicompartimental-iv/flash-011",
+    "recto": "Méthode des résidus",
+    "verso": "Résidu D = |C' − Cexp| aux temps précoces ; droite des résidus en semi-log → kd et D.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/td/03-modele-bicompartimental-iv/flash-012",
+    "recto": "Résidus de la cimétidine",
+    "verso": "≈ 4,8 (1 min), 3,1 (10 min), 1,9 (15 min), 0,8 (30 min), 0,5 (45 min), 0,25 µg/ml (60 min).",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/td/03-modele-bicompartimental-iv/flash-013",
+    "recto": "kd de la cimétidine",
+    "verso": "≈ 0,05 min⁻¹ (pente de la droite des résidus, valeur approchée selon le tracé).",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/td/03-modele-bicompartimental-iv/flash-014",
+    "recto": "D de la cimétidine",
+    "verso": "≈ 4,5 µg/ml (ordonnée à l'origine de la droite des résidus).",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/td/03-modele-bicompartimental-iv/flash-015",
+    "recto": "Équation numérique (cimétidine)",
+    "verso": "Cp ≈ 4,5·e^(−0,05·t) + 1,2·e^(−0,0058·t) (t en min, Cp en µg/ml).",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/td/03-modele-bicompartimental-iv/flash-016",
+    "recto": "Calcul de kd à partir des résidus",
+    "verso": "kd = −2,303 (log D2 − log D1)/(t2 − t1).",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/td/03-modele-bicompartimental-iv/flash-017",
+    "recto": "Deux méthodes pour la demi-vie",
+    "verso": "Graphique (temps pour que C diminue de moitié sur la droite) et calcul t1/2 = ln2/k.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/td/03-modele-bicompartimental-iv/flash-018",
+    "recto": "Demi-vie de distribution de la cimétidine",
+    "verso": "≈ 0,693/0,05 ≈ 14 min.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/td/03-modele-bicompartimental-iv/flash-019",
+    "recto": "AUC en bicompartimental IV",
+    "verso": "AUC0→∞ = D/kd + E/ke (ou méthode des trapèzes).",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/td/03-modele-bicompartimental-iv/flash-020",
+    "recto": "AUC de la cimétidine",
+    "verso": "≈ 90 + 207 ≈ 300 µg·min/ml (≈ 5 µg·h/ml).",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/td/03-modele-bicompartimental-iv/flash-021",
+    "recto": "Trapèze entre deux points",
+    "verso": "(C1 + C2)/2 × (t2 − t1).",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/td/03-modele-bicompartimental-iv/flash-022",
+    "recto": "Clairance après IV",
+    "verso": "Cl = Q(dose IV)/AUC.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/td/03-modele-bicompartimental-iv/flash-023",
+    "recto": "Clairance de la cimétidine",
+    "verso": "200 000 µg / ≈ 300 µg·min/ml ≈ 670 ml/min (≈ 40 L/h).",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/td/03-modele-bicompartimental-iv/flash-024",
+    "recto": "Vd en bicompartimental IV",
+    "verso": "Vd = Cl/ke.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/td/03-modele-bicompartimental-iv/flash-025",
+    "recto": "Vd de la cimétidine",
+    "verso": "≈ 670/0,0058 ≈ 116 L, soit ≈ 1,7 L/kg pour 70 kg.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/td/03-modele-bicompartimental-iv/flash-026",
+    "recto": "Interprétation du Vd de la cimétidine",
+    "verso": "> 50 L → distribution élevée (classification du cours).",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/td/03-modele-bicompartimental-iv/flash-027",
+    "recto": "Piège d'unités pour Cl",
+    "verso": "Convertir 200 mg en 200 000 µg : µg ÷ (µg·min/ml) = ml/min.",
+    "tags": []
+  }
+]

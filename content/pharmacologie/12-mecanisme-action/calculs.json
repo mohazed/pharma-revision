@@ -1,0 +1,72 @@
+[
+  {
+    "id": "pharmacologie/12-mecanisme-action/calc-001",
+    "titre": "Calcul du pD2",
+    "enonce": "La CE50 d'un agoniste est de {c} nmol/L. Calculer son pD2.",
+    "variables": {
+      "c": {
+        "min": 1,
+        "max": 1000,
+        "pas": 1,
+        "unite": "nmol/L"
+      }
+    },
+    "formule": "-Math.log10(c * 1e-9)",
+    "unite": "",
+    "decimales": 2,
+    "etapes": [
+      "Convertir la CE50 en mol/L : {c} × 10⁻⁹ mol/L",
+      "pD2 = - log (CE50)"
+    ],
+    "rappel": "Affinité = pD2 = - log (CE50), CE50 en concentration molaire."
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/calc-002",
+    "titre": "Activité intrinsèque α",
+    "enonce": "Un ligand produit un effet maximal de {em} % alors que la substance de référence produit un effet maximal de {emax} %. Calculer α.",
+    "variables": {
+      "em": {
+        "min": 0,
+        "max": 80,
+        "pas": 5,
+        "unite": "%"
+      },
+      "emax": {
+        "min": 80,
+        "max": 100,
+        "pas": 5,
+        "unite": "%"
+      }
+    },
+    "formule": "em / emax",
+    "unite": "",
+    "decimales": 2,
+    "etapes": [
+      "α = EM / EMax",
+      "α = {em} / {emax}",
+      "Interpréter : 1 agoniste parfait, entre 0 et 1 agoniste partiel, 0 antagoniste"
+    ],
+    "rappel": "α = EM / EMax, valeur comprise entre 0 et 1."
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/calc-003",
+    "titre": "CE50 à partir du pD2",
+    "enonce": "Un médicament a un pD2 de {p}. Calculer sa CE50 en nmol/L.",
+    "variables": {
+      "p": {
+        "min": 5,
+        "max": 10,
+        "pas": 0.5,
+        "unite": ""
+      }
+    },
+    "formule": "Math.pow(10, -p) * 1e9",
+    "unite": "nmol/L",
+    "decimales": 2,
+    "etapes": [
+      "pD2 = - log (CE50) ⇒ CE50 = 10^(-pD2) mol/L",
+      "Convertir en nmol/L : × 10⁹"
+    ],
+    "rappel": "pD2 = - log (CE50)."
+  }
+]

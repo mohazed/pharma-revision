@@ -1,0 +1,199 @@
+[
+  {
+    "id": "pharmacologie/td/04-pharmacologie-moleculaire/tab-001",
+    "titre": "Données du TD : doses, log des doses et % de réponse maximale",
+    "colonnes": [
+      "Contraction (mm)",
+      "% réponse max",
+      "Dose Ach seule (µg/ml)",
+      "log dose (seule)",
+      "Dose Ach + scopolamine (µg/ml)",
+      "log dose (+ scopolamine)"
+    ],
+    "lignes": [
+      [
+        "5",
+        "8,3",
+        "10",
+        "1,00",
+        "20",
+        "1,30"
+      ],
+      [
+        "10",
+        "16,7",
+        "20",
+        "1,30",
+        "40",
+        "1,60"
+      ],
+      [
+        "15",
+        "25,0",
+        "30",
+        "1,48",
+        "60",
+        "1,78"
+      ],
+      [
+        "20",
+        "33,3",
+        "40",
+        "1,60",
+        "80",
+        "1,90"
+      ],
+      [
+        "25",
+        "41,7",
+        "50",
+        "1,70",
+        "100",
+        "2,00"
+      ],
+      [
+        "30",
+        "50,0",
+        "60",
+        "1,78",
+        "120",
+        "2,08"
+      ],
+      [
+        "40",
+        "66,7",
+        "70",
+        "1,85",
+        "140",
+        "2,15"
+      ],
+      [
+        "50",
+        "83,3",
+        "80",
+        "1,90",
+        "160",
+        "2,20"
+      ],
+      [
+        "60",
+        "100",
+        "90",
+        "1,95",
+        "180",
+        "2,26"
+      ],
+      [
+        "60",
+        "100",
+        "100",
+        "2,00",
+        "200",
+        "2,30"
+      ]
+    ]
+  },
+  {
+    "id": "pharmacologie/td/04-pharmacologie-moleculaire/tab-002",
+    "titre": "Résultats : acétylcholine seule vs en présence de scopolamine",
+    "colonnes": [
+      "Paramètre",
+      "Acétylcholine seule",
+      "Acétylcholine + scopolamine (5 µg/ml)"
+    ],
+    "lignes": [
+      [
+        "Effet maximal",
+        "60 mm (dès 90 µg/ml)",
+        "60 mm (dès 180 µg/ml)"
+      ],
+      [
+        "CE50 (µg/ml)",
+        "60",
+        "120"
+      ],
+      [
+        "CE50 (mol/L)",
+        "≈ 3,3 × 10⁻⁴",
+        "≈ 6,6 × 10⁻⁴"
+      ],
+      [
+        "pD2",
+        "≈ 3,48",
+        "≈ 3,18"
+      ],
+      [
+        "Rapport des doses x",
+        "—",
+        "2"
+      ],
+      [
+        "pAx = pA2 de la scopolamine",
+        "—",
+        "≈ 4,89"
+      ],
+      [
+        "Interprétation",
+        "Agoniste (parasympathomimétique direct)",
+        "Antagonisme compétitif → scopolamine parasympatholytique"
+      ]
+    ]
+  },
+  {
+    "id": "pharmacologie/td/04-pharmacologie-moleculaire/carte-001",
+    "type": "carte",
+    "titre": "TD 4 – Pharmacologie moléculaire",
+    "racine": {
+      "label": "Jéjunum isolé de lapin",
+      "enfants": [
+        {
+          "label": "Acétylcholine seule",
+          "enfants": [
+            {
+              "label": "Emax 60 mm",
+              "enfants": []
+            },
+            {
+              "label": "CE50 60 µg/ml",
+              "enfants": []
+            },
+            {
+              "label": "pD2 ≈ 3,48",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "+ Scopolamine 5 µg/ml",
+          "enfants": [
+            {
+              "label": "CE50 120 µg/ml",
+              "enfants": []
+            },
+            {
+              "label": "pD2 ≈ 3,18",
+              "enfants": []
+            },
+            {
+              "label": "x = 2 → pA2 ≈ 4,89",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Conclusion",
+          "enfants": [
+            {
+              "label": "Antagonisme compétitif",
+              "enfants": []
+            },
+            {
+              "label": "Scopolamine parasympatholytique",
+              "enfants": []
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

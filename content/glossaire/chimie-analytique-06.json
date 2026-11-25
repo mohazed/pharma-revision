@@ -1,0 +1,97 @@
+[
+  {
+    "terme": "Chromatographie",
+    "definition": "Méthode analytique instrumentale séparant les constituants d'un mélange par une suite continue d'équilibres entre une phase stationnaire et une phase mobile ; du grec chroma (couleur) et graphe (enregistrement).",
+    "cours": "chimie-analytique/06-chromatographie-partie-1"
+  },
+  {
+    "terme": "Phase stationnaire",
+    "definition": "Phase fixe, emprisonnée dans une colonne ou fixée sur une surface plane ; solide finement pulvérisé ou liquide immobilisé sur un support.",
+    "cours": "chimie-analytique/06-chromatographie-partie-1"
+  },
+  {
+    "terme": "Phase mobile",
+    "definition": "Fluide qui contient les constituants du mélange et parcourt la phase stationnaire avec une vitesse déterminée.",
+    "cours": "chimie-analytique/06-chromatographie-partie-1"
+  },
+  {
+    "terme": "Chromatographie d'adsorption",
+    "definition": "Chromatographie liquide-solide dont la phase stationnaire est un solide doué de propriétés adsorbantes.",
+    "cours": "chimie-analytique/06-chromatographie-partie-1"
+  },
+  {
+    "terme": "Chromatographie de partage",
+    "definition": "Chromatographie liquide-liquide dont la phase stationnaire est un liquide non miscible à la phase mobile.",
+    "cours": "chimie-analytique/06-chromatographie-partie-1"
+  },
+  {
+    "terme": "Chromatographie ionique",
+    "definition": "Chromatographie par échange d'ions : la phase stationnaire est une résine échangeuse d'ions.",
+    "cours": "chimie-analytique/06-chromatographie-partie-1"
+  },
+  {
+    "terme": "Chromatographie d'exclusion",
+    "definition": "Perméation sur gel : le gel se comporte comme un tamis à pores retenant les molécules selon leur taille.",
+    "cours": "chimie-analytique/06-chromatographie-partie-1"
+  },
+  {
+    "terme": "Chromatographie d'affinité",
+    "definition": "Procédé reposant sur l'affinité spécifique entre une molécule d'intérêt et un ligand spécifique, utilisé pour purifier les molécules biologiques.",
+    "cours": "chimie-analytique/06-chromatographie-partie-1"
+  },
+  {
+    "terme": "Chromatographie chirale",
+    "definition": "Chromatographie par adsorption ou partage sélectif d'énantiomères.",
+    "cours": "chimie-analytique/06-chromatographie-partie-1"
+  },
+  {
+    "terme": "Chromatographie par échange de ligands",
+    "definition": "Procédé chromatographique reposant sur l'échange de cations métalliques.",
+    "cours": "chimie-analytique/06-chromatographie-partie-1"
+  },
+  {
+    "terme": "Chromatographie par développement",
+    "definition": "Mode où la migration est limitée et les constituants restent sur la phase stationnaire pour y être localisés (papier, CCM).",
+    "cours": "chimie-analytique/06-chromatographie-partie-1"
+  },
+  {
+    "terme": "Chromatographie d'élution",
+    "definition": "Mode où la migration est poursuivie jusqu'à la sortie de tous les constituants, détectés en sortie de colonne ; identification sur l'éluat.",
+    "cours": "chimie-analytique/06-chromatographie-partie-1"
+  },
+  {
+    "terme": "Chromatogramme",
+    "definition": "Tracé représentant l'ensemble des pics des différentes substances séparées.",
+    "cours": "chimie-analytique/06-chromatographie-partie-1"
+  },
+  {
+    "terme": "Pic chromatographique",
+    "definition": "Courbe de Gauss mesurant la concentration d'un composé en fonction du temps à la sortie de la colonne ; un pic correspond à une molécule.",
+    "cours": "chimie-analytique/06-chromatographie-partie-1"
+  },
+  {
+    "terme": "Plateau théorique",
+    "definition": "Étage fictif de la colonne dans lequel l'équilibre de répartition de la substance entre les deux phases se réalise entièrement.",
+    "cours": "chimie-analytique/06-chromatographie-partie-1"
+  },
+  {
+    "terme": "Coefficient de partage (chromatographie)",
+    "definition": "Constante K de l'équilibre CS = K·CM ; coefficient d'adsorption en chromatographie d'adsorption, constante de diffusion sur gel.",
+    "cours": "chimie-analytique/06-chromatographie-partie-1"
+  },
+  {
+    "terme": "Largeur du pic",
+    "definition": "Base du triangle formé par les tangentes aux points d'inflexion de la courbe de Gauss : ω = 4σ = 1,7δ.",
+    "cours": "chimie-analytique/06-chromatographie-partie-1"
+  },
+  {
+    "terme": "Largeur à mi-hauteur",
+    "definition": "Largeur δ du pic à la moitié de sa hauteur : δ = 2,35σ.",
+    "cours": "chimie-analytique/06-chromatographie-partie-1"
+  },
+  {
+    "terme": "Éluat",
+    "definition": "Phase mobile sortant de la colonne, sur laquelle est réalisée l'identification en chromatographie d'élution.",
+    "cours": "chimie-analytique/06-chromatographie-partie-1"
+  }
+]

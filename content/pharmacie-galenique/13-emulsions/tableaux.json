@@ -1,0 +1,179 @@
+[
+  {
+    "id": "pharmacie-galenique/13-emulsions/tableau-001",
+    "titre": "Formes d'instabilité des émulsions",
+    "colonnes": [
+      "Forme",
+      "Phénomène",
+      "Film interfacial",
+      "Réversibilité",
+      "Loi"
+    ],
+    "lignes": [
+      [
+        "Crémage",
+        "Déplacement vertical des globules vers la surface",
+        "—",
+        "Réversible (agitation)",
+        "Stokes"
+      ],
+      [
+        "Sédimentation",
+        "Déplacement vertical des globules vers le fond",
+        "—",
+        "Réversible (agitation)",
+        "Stokes"
+      ],
+      [
+        "Floculation",
+        "Agglomération en agrégats/flocons, individualité conservée",
+        "Intact",
+        "Difficilement réversible voire irréversible",
+        "Smoluchowsky"
+      ],
+      [
+        "Coalescence",
+        "Fusion complète de globules floculés, perte d'individualité",
+        "Rompu",
+        "Irréversible → séparation de phase",
+        "Smoluchowsky ou Van der Tempel"
+      ],
+      [
+        "Inversion de phase",
+        "Brusque changement de sens (H/L ↔ L/H)",
+        "—",
+        "—",
+        "—"
+      ]
+    ]
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/tableau-002",
+    "titre": "Essais des émulsions",
+    "colonnes": [
+      "Objet de l'essai",
+      "Méthodes"
+    ],
+    "lignes": [
+      [
+        "Sens de l'émulsion",
+        "Dilution ; colorants (bleu de méthylène hydrosoluble, rouge Soudan liposoluble) ; conductivité électrique (élevée pour L/H)"
+      ],
+      [
+        "Distribution granulométrique",
+        "Méthode microscopique (échelle micrométrique) ; Coulter Counter (H/E seulement)"
+      ],
+      [
+        "Autres",
+        "Viscosité ; pH ; potentiel Zêta"
+      ],
+      [
+        "Stabilité",
+        "Centrifugation à 2500–3000 tr/min après coloration (sédimentation ou crémage)"
+      ]
+    ]
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/carte-001",
+    "type": "carte",
+    "titre": "Les émulsions",
+    "racine": {
+      "label": "Émulsions",
+      "enfants": [
+        {
+          "label": "Classification",
+          "enfants": [
+            {
+              "label": "L/H (type aqueux)",
+              "enfants": []
+            },
+            {
+              "label": "H/L (type huileux)",
+              "enfants": []
+            },
+            {
+              "label": "Multiples (H/L/H)",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Instabilité",
+          "enfants": [
+            {
+              "label": "Crémage / sédimentation",
+              "enfants": []
+            },
+            {
+              "label": "Floculation",
+              "enfants": []
+            },
+            {
+              "label": "Coalescence",
+              "enfants": []
+            },
+            {
+              "label": "Inversion de phase",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Formulation",
+          "enfants": [
+            {
+              "label": "HLB",
+              "enfants": []
+            },
+            {
+              "label": "HLB critique",
+              "enfants": []
+            },
+            {
+              "label": "Diagramme ternaire",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Préparation",
+          "enfants": [
+            {
+              "label": "Addition / inversion / alternance",
+              "enfants": []
+            },
+            {
+              "label": "50–80 °C",
+              "enfants": []
+            },
+            {
+              "label": "Agitateurs, homogénéisateurs",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Essais",
+          "enfants": [
+            {
+              "label": "Sens",
+              "enfants": []
+            },
+            {
+              "label": "Granulométrie",
+              "enfants": []
+            },
+            {
+              "label": "Viscosité, pH, Zêta",
+              "enfants": []
+            },
+            {
+              "label": "Centrifugation",
+              "enfants": []
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

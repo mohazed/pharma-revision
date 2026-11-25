@@ -1,0 +1,214 @@
+[
+  {
+    "id": "pharmacologie/td/03-modele-bicompartimental-iv/cas-001",
+    "titre": "Analyse de la courbe de la cimétidine",
+    "enonce": "Un volontaire sain de 70 kg reçoit 200 mg de cimétidine en injection IV. Les Cp décroissent de 6 µg/ml (1 min) à 0,15 µg/ml (360 min). En semi-log, les points de 120 à 360 min sont alignés ; les points précoces sont au-dessus du prolongement de cette droite.",
+    "questions": [
+      {
+        "id": "pharmacologie/td/03-modele-bicompartimental-iv/cas-001-q1",
+        "type": "unique",
+        "enonce": "Quel modèle décrit cette cinétique ?",
+        "options": [
+          "Monocompartimental IV",
+          "Bicompartimental IV",
+          "Monocompartimental oral",
+          "Bicompartimental oral",
+          "Perfusion continue"
+        ],
+        "correctes": [
+          1
+        ],
+        "explication": "Deux phases de décroissance après IV → bicompartimental IV.",
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacologie/td/03-modele-bicompartimental-iv/cas-001-q2",
+        "type": "unique",
+        "enonce": "La droite terminale prolongée coupe l'axe des ordonnées à :",
+        "options": [
+          "E ≈ 1,2 µg/ml",
+          "D ≈ 4,5 µg/ml",
+          "6 µg/ml",
+          "0,6 µg/ml",
+          "0,15 µg/ml"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "0,6 µg/ml à 120 min, une demi-vie (120 min) plus tôt : 1,2 µg/ml.",
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacologie/td/03-modele-bicompartimental-iv/cas-001-q3",
+        "type": "multiple",
+        "enonce": "Les résidus permettent de déterminer :",
+        "options": [
+          "kd",
+          "D",
+          "ke",
+          "ka",
+          "La dose Q"
+        ],
+        "correctes": [
+          0,
+          1
+        ],
+        "explication": "La droite des résidus donne kd (pente) et D (ordonnée à l'origine) ; ke vient de la phase terminale.",
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacologie/td/03-modele-bicompartimental-iv/cas-001-q4",
+        "type": "unique",
+        "enonce": "La demi-vie d'élimination vaut environ :",
+        "options": [
+          "14 min",
+          "60 min",
+          "120 min",
+          "240 min",
+          "360 min"
+        ],
+        "correctes": [
+          2
+        ],
+        "explication": "0,6 → 0,3 → 0,15 µg/ml toutes les 120 min.",
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "pharmacologie/td/03-modele-bicompartimental-iv/cas-002",
+    "titre": "Paramètres globaux de la cimétidine",
+    "enonce": "Pour la cimétidine (200 mg IV, 70 kg), l'analyse donne D ≈ 4,5 µg/ml, kd ≈ 0,05 min⁻¹, E ≈ 1,2 µg/ml et ke ≈ 0,0058 min⁻¹.",
+    "questions": [
+      {
+        "id": "pharmacologie/td/03-modele-bicompartimental-iv/cas-002-q1",
+        "type": "multiple",
+        "enonce": "L'AUC vaut environ :",
+        "options": [
+          "30 µg·min/ml",
+          "300 µg·min/ml",
+          "3 000 µg·min/ml",
+          "5 µg·h/ml",
+          "50 µg·h/ml"
+        ],
+        "correctes": [
+          1,
+          3
+        ],
+        "explication": "D/kd + E/ke ≈ 90 + 207 ≈ 300 µg·min/ml = 5 µg·h/ml.",
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacologie/td/03-modele-bicompartimental-iv/cas-002-q2",
+        "type": "multiple",
+        "enonce": "La clairance vaut environ :",
+        "options": [
+          "670 ml/min",
+          "6,7 ml/min",
+          "40 L/h",
+          "0,67 ml/min",
+          "400 L/h"
+        ],
+        "correctes": [
+          0,
+          2
+        ],
+        "explication": "Cl = 200 000/300 ≈ 670 ml/min ≈ 40 L/h.",
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacologie/td/03-modele-bicompartimental-iv/cas-002-q3",
+        "type": "multiple",
+        "enonce": "Le Vd vaut environ :",
+        "options": [
+          "11,6 L",
+          "116 L",
+          "1,7 L/kg",
+          "0,17 L/kg",
+          "1 160 L"
+        ],
+        "correctes": [
+          1,
+          2
+        ],
+        "explication": "Vd = Cl/ke ≈ 670/0,0058 ≈ 116 000 ml = 116 L ≈ 1,7 L/kg.",
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacologie/td/03-modele-bicompartimental-iv/cas-002-q4",
+        "type": "unique",
+        "enonce": "Ce Vd traduit :",
+        "options": [
+          "Un médicament limité au sang",
+          "Une distribution physiologique (10–50 L)",
+          "Une distribution élevée (> 50 L)",
+          "Un Vd inférieur à 10 L",
+          "Toutes les propositions sont fausses"
+        ],
+        "correctes": [
+          2
+        ],
+        "explication": "Classification du cours : > 50 L = distribution élevée.",
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "pharmacologie/td/03-modele-bicompartimental-iv/cas-003",
+    "titre": "AUC par la méthode des trapèzes",
+    "enonce": "On calcule l'AUC de la cimétidine par la méthode des trapèzes à partir des 13 prélèvements (1 à 360 min), puis on ajoute l'aire extrapolée au-delà du dernier point.",
+    "questions": [
+      {
+        "id": "pharmacologie/td/03-modele-bicompartimental-iv/cas-003-q1",
+        "type": "unique",
+        "enonce": "La formule d'un trapèze est :",
+        "options": [
+          "(C1 + C2)/2 × (t2 − t1)",
+          "(C1 × C2) × (t2 − t1)",
+          "(C1 − C2) × (t2 − t1)",
+          "(C1 + C2) × (t2 + t1)/2",
+          "C1/ke"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Aire d'un trapèze = demi-somme des concentrations × intervalle de temps.",
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacologie/td/03-modele-bicompartimental-iv/cas-003-q2",
+        "type": "unique",
+        "enonce": "L'aire entre 120 et 150 min (0,6 puis 0,5 µg/ml) vaut :",
+        "options": [
+          "16,5 µg·min/ml",
+          "33 µg·min/ml",
+          "3 µg·min/ml",
+          "1,1 µg·min/ml",
+          "9 µg·min/ml"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "(0,6 + 0,5)/2 × 30 = 0,55 × 30 = 16,5 µg·min/ml.",
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacologie/td/03-modele-bicompartimental-iv/cas-003-q3",
+        "type": "unique",
+        "enonce": "L'aire au-delà de 360 min s'estime par :",
+        "options": [
+          "C(360)/ke ≈ 26 µg·min/ml",
+          "C(360) × ke",
+          "Elle est nulle",
+          "C(360)/kd",
+          "D/kd"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Aire résiduelle = Cdernière/ke = 0,15/0,0058 ≈ 26 µg·min/ml.",
+        "origine": "genere"
+      }
+    ]
+  }
+]

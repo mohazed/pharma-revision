@@ -1,0 +1,38 @@
+[
+  {
+    "id": "semiologie/08-obesite/mnemo-001",
+    "titre": "Seuils du tour de taille",
+    "moyen": "« 94–80 : ça monte ; 102–88 : ça déborde »",
+    "explication": "Risque augmenté : ≥ 94 cm (homme), ≥ 80 cm (femme). Risque très élevé : ≥ 102 cm (homme), ≥ 88 cm (femme)."
+  },
+  {
+    "id": "semiologie/08-obesite/mnemo-002",
+    "titre": "Rôle du pharmacien",
+    "moyen": "« MRCO : Mesurer, Repérer, Conseiller, Orienter »",
+    "explication": "Mesurer (poids, taille, IMC, tour de taille, tension) ; Repérer (médicaments, apnées, diabète) ; Conseiller (sans jugement) ; Orienter (IMC ≥ 30, tour de taille élevé, complication)."
+  },
+  {
+    "id": "semiologie/08-obesite/mnemo-003",
+    "titre": "Les quatre piliers",
+    "moyen": "« ASSS : Assiette, Sport, Sommeil, Soutien »",
+    "explication": "Alimentation, activité physique (≥ 150 min/semaine), sommeil (7 à 8 h), soutien psychologique et familial."
+  },
+  {
+    "id": "semiologie/08-obesite/mnemo-004",
+    "titre": "Les trois caractères de l'obésité",
+    "moyen": "« CMR : Chronique, Multifactorielle, Récidivante »",
+    "explication": "Chronique (toute la vie), multifactorielle (alimentation, gènes, sommeil, stress, médicaments…), récidivante (le poids perdu revient souvent)."
+  },
+  {
+    "id": "semiologie/08-obesite/mnemo-005",
+    "titre": "Vitamines sous orlistat",
+    "moyen": "« ADEK : les vitamines qui partent avec le gras »",
+    "explication": "L'orlistat diminue l'absorption des graisses : penser aux vitamines A, D, E, K."
+  },
+  {
+    "id": "semiologie/08-obesite/mnemo-006",
+    "titre": "Après chirurgie de l'obésité",
+    "moyen": "« B-F-C-D à vie, pas d'AINS »",
+    "explication": "Vitamine B12, Fer, Calcium, vitamine D à vie ; éviter les AINS (risque d'ulcère)."
+  }
+]

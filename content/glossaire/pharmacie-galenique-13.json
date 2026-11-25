@@ -1,0 +1,97 @@
+[
+  {
+    "terme": "Émulsion",
+    "definition": "Préparation généralement liquide, thermodynamiquement instable, formée d'un liquide dispersé en fines gouttelettes dans un autre liquide non miscible, grâce à un ou plusieurs émulsifiants.",
+    "cours": "pharmacie-galenique/13-emulsions"
+  },
+  {
+    "terme": "Phase dispersée",
+    "definition": "Gouttelettes du premier liquide d'une émulsion ; appelée aussi phase interne ou discontinue.",
+    "cours": "pharmacie-galenique/13-emulsions"
+  },
+  {
+    "terme": "Phase dispersante",
+    "definition": "Liquide dans lequel les gouttelettes sont dispersées ; appelée aussi phase externe ou continue.",
+    "cours": "pharmacie-galenique/13-emulsions"
+  },
+  {
+    "terme": "Émulsion L/H",
+    "definition": "Émulsion de type aqueux : phase dispersée lipophile dans une phase dispersante hydrophile (anciennement H/E).",
+    "cours": "pharmacie-galenique/13-emulsions"
+  },
+  {
+    "terme": "Émulsion H/L",
+    "definition": "Émulsion de type huileux : phase dispersée hydrophile dans une phase dispersante lipophile (anciennement E/H).",
+    "cours": "pharmacie-galenique/13-emulsions"
+  },
+  {
+    "terme": "Émulsion multiple",
+    "definition": "Émulsion dont la phase dispersée contient elle-même une émulsion, par exemple H/L/H (anciennement E/H/E).",
+    "cours": "pharmacie-galenique/13-emulsions"
+  },
+  {
+    "terme": "Crémage",
+    "definition": "Déplacement vertical des globules de la phase dispersée vers la surface du liquide ; instabilité réversible par agitation.",
+    "cours": "pharmacie-galenique/13-emulsions"
+  },
+  {
+    "terme": "Floculation",
+    "definition": "Agglomération de globules en agrégats ou flocons liés par des forces d'attraction, sans perte d'individualité ni rupture du film interfacial.",
+    "cours": "pharmacie-galenique/13-emulsions"
+  },
+  {
+    "terme": "Coalescence",
+    "definition": "Fusion complète de globules préalablement floculés avec rupture du film interfacial ; instabilité irréversible conduisant à la séparation de phase.",
+    "cours": "pharmacie-galenique/13-emulsions"
+  },
+  {
+    "terme": "Inversion de phase",
+    "definition": "Brusque changement du sens d'une émulsion (H/L devenant L/H ou inversement).",
+    "cours": "pharmacie-galenique/13-emulsions"
+  },
+  {
+    "terme": "Température d'inversion de phase",
+    "definition": "Température à laquelle une émulsion H/L chauffée devient une émulsion L/H.",
+    "cours": "pharmacie-galenique/13-emulsions"
+  },
+  {
+    "terme": "Film interfacial",
+    "definition": "Film présent autour de chaque globule en présence d'émulsionnant ; favorise l'émulsification, protège mécaniquement les globules et intervient dans les phénomènes électriques.",
+    "cours": "pharmacie-galenique/13-emulsions"
+  },
+  {
+    "terme": "Tension interfaciale",
+    "definition": "Force par unité de longueur existant entre deux liquides non miscibles, liée à l'hétérogénéité de leurs forces de liaison (W = γ ΔS).",
+    "cours": "pharmacie-galenique/13-emulsions"
+  },
+  {
+    "terme": "Potentiel Zêta",
+    "definition": "Seul potentiel des globules mesurable expérimentalement (zêtamètre) ; plus il est grand, plus les globules se repoussent.",
+    "cours": "pharmacie-galenique/13-emulsions"
+  },
+  {
+    "terme": "HLB",
+    "definition": "Balance Hydrophile Lipophile introduite par Griffen : caractéristique des surfactifs traduisant l'équilibre entre parties hydrophile et lipophile ; d'autant plus élevée que la molécule est hydrophile.",
+    "cours": "pharmacie-galenique/13-emulsions"
+  },
+  {
+    "terme": "HLB critique",
+    "definition": "HLB optimal ou requis : caractéristique d'une phase lipophile, correspondant au HLB du surfactif ou mélange donnant avec elle l'émulsion la plus stable ; déterminé expérimentalement.",
+    "cours": "pharmacie-galenique/13-emulsions"
+  },
+  {
+    "terme": "Diagramme ternaire",
+    "definition": "Diagramme expérimental Eau-Surfactif-Huile porté sur un triangle équilatéral, permettant d'aboutir par tâtonnement à une formule d'émulsion stable.",
+    "cours": "pharmacie-galenique/13-emulsions"
+  },
+  {
+    "terme": "Loi de Van der Tempel",
+    "definition": "Loi suivie par la vitesse de coalescence lorsque la coalescence est lente par rapport à la floculation.",
+    "cours": "pharmacie-galenique/13-emulsions"
+  },
+  {
+    "terme": "Coulter Counter",
+    "definition": "Appareil de détermination de la distribution granulométrique, utilisé pour les émulsions H/E seulement.",
+    "cours": "pharmacie-galenique/13-emulsions"
+  }
+]

@@ -1,0 +1,222 @@
+[
+  {
+    "id": "pharmacologie/td/03-modele-bicompartimental-iv/tab-001",
+    "titre": "Données de la cimétidine et méthode des résidus",
+    "colonnes": [
+      "t (min)",
+      "Cexp (µg/ml)",
+      "C' extrapolée (µg/ml)",
+      "Résidu (µg/ml)"
+    ],
+    "lignes": [
+      [
+        "1",
+        "6",
+        "≈ 1,19",
+        "≈ 4,8"
+      ],
+      [
+        "10",
+        "4,2",
+        "≈ 1,13",
+        "≈ 3,07"
+      ],
+      [
+        "15",
+        "3",
+        "≈ 1,10",
+        "≈ 1,9"
+      ],
+      [
+        "30",
+        "1,8",
+        "≈ 1,01",
+        "≈ 0,79"
+      ],
+      [
+        "45",
+        "1,4",
+        "≈ 0,93",
+        "≈ 0,48"
+      ],
+      [
+        "60",
+        "1,1",
+        "≈ 0,85",
+        "≈ 0,25"
+      ],
+      [
+        "75",
+        "0,95",
+        "≈ 0,78",
+        "≈ 0,17"
+      ],
+      [
+        "120",
+        "0,6",
+        "≈ 0,6",
+        "≈ 0 (phase terminale)"
+      ],
+      [
+        "150",
+        "0,5",
+        "≈ 0,5",
+        "—"
+      ],
+      [
+        "180",
+        "0,42",
+        "≈ 0,42",
+        "—"
+      ],
+      [
+        "240",
+        "0,31",
+        "≈ 0,3",
+        "—"
+      ],
+      [
+        "300",
+        "0,21",
+        "≈ 0,21",
+        "—"
+      ],
+      [
+        "360",
+        "0,15",
+        "≈ 0,15",
+        "—"
+      ]
+    ]
+  },
+  {
+    "id": "pharmacologie/td/03-modele-bicompartimental-iv/tab-002",
+    "titre": "Paramètres pharmacocinétiques de la cimétidine",
+    "colonnes": [
+      "Paramètre",
+      "Formule (cours)",
+      "Valeur approchée"
+    ],
+    "lignes": [
+      [
+        "E",
+        "Ordonnée à l'origine de la droite terminale",
+        "≈ 1,2 µg/ml"
+      ],
+      [
+        "ke",
+        "−2,303 × pente terminale",
+        "≈ 0,0058 min⁻¹ (0,35 h⁻¹)"
+      ],
+      [
+        "t1/2 élimination",
+        "ln2/ke ou graphiquement",
+        "≈ 120 min (2 h)"
+      ],
+      [
+        "D",
+        "Ordonnée à l'origine de la droite des résidus",
+        "≈ 4,5 µg/ml"
+      ],
+      [
+        "kd",
+        "−2,303 (log D2 − log D1)/(t2 − t1)",
+        "≈ 0,05 min⁻¹"
+      ],
+      [
+        "t1/2 distribution",
+        "ln2/kd ou graphiquement",
+        "≈ 14 min"
+      ],
+      [
+        "AUC",
+        "D/kd + E/ke (ou trapèzes)",
+        "≈ 300 µg·min/ml (≈ 5 µg·h/ml)"
+      ],
+      [
+        "Cl",
+        "Q/AUC",
+        "≈ 670 ml/min (≈ 40 L/h)"
+      ],
+      [
+        "Vd",
+        "Cl/ke",
+        "≈ 116 L (≈ 1,7 L/kg) → distribution élevée"
+      ]
+    ]
+  },
+  {
+    "id": "pharmacologie/td/03-modele-bicompartimental-iv/carte-001",
+    "type": "carte",
+    "titre": "Démarche du TD 3",
+    "racine": {
+      "label": "Cimétidine 200 mg IV",
+      "enfants": [
+        {
+          "label": "Tracé semi-log",
+          "enfants": [
+            {
+              "label": "Biexponentielle",
+              "enfants": []
+            },
+            {
+              "label": "Bicompartimental IV",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Phase terminale",
+          "enfants": [
+            {
+              "label": "E ≈ 1,2 µg/ml",
+              "enfants": []
+            },
+            {
+              "label": "ke ≈ 0,0058 min⁻¹",
+              "enfants": []
+            },
+            {
+              "label": "t1/2 ≈ 120 min",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Méthode des résidus",
+          "enfants": [
+            {
+              "label": "D ≈ 4,5 µg/ml",
+              "enfants": []
+            },
+            {
+              "label": "kd ≈ 0,05 min⁻¹",
+              "enfants": []
+            },
+            {
+              "label": "t1/2 ≈ 14 min",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Paramètres globaux",
+          "enfants": [
+            {
+              "label": "AUC ≈ 300 µg·min/ml",
+              "enfants": []
+            },
+            {
+              "label": "Cl ≈ 670 ml/min",
+              "enfants": []
+            },
+            {
+              "label": "Vd ≈ 116 L",
+              "enfants": []
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

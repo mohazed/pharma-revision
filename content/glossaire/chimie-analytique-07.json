@@ -1,0 +1,132 @@
+[
+  {
+    "terme": "Isotherme de distribution",
+    "definition": "Représentation graphique de CS = K CM à une température donnée ; linéaire, concave ou convexe.",
+    "cours": "chimie-analytique/07-chromatographie-partie-2"
+  },
+  {
+    "terme": "Facteur d'asymétrie (Fa)",
+    "definition": "Paramètre traduisant l'asymétrie d'un pic, mesuré à 10 % de sa hauteur ; Fa = 1 pour un isotherme linéaire.",
+    "cours": "chimie-analytique/07-chromatographie-partie-2"
+  },
+  {
+    "terme": "Facteur de traînée (Ft)",
+    "definition": "Paramètre traduisant l'asymétrie d'un pic, mesuré à 10 % de sa hauteur ; Ft = 1 pour un isotherme linéaire.",
+    "cours": "chimie-analytique/07-chromatographie-partie-2"
+  },
+  {
+    "terme": "Chromatogramme",
+    "definition": "Succession de pics donnée par l'ensemble des molécules séparées ; un pic = une molécule.",
+    "cours": "chimie-analytique/07-chromatographie-partie-2"
+  },
+  {
+    "terme": "Ligne de base",
+    "definition": "Partie du chromatogramme correspondant au passage de la phase mobile seule.",
+    "cours": "chimie-analytique/07-chromatographie-partie-2"
+  },
+  {
+    "terme": "Temps de rétention",
+    "definition": "Temps compris entre l'introduction de la substance dans la colonne et sa sortie ; temps de rétention brut (TR).",
+    "cours": "chimie-analytique/07-chromatographie-partie-2"
+  },
+  {
+    "terme": "Temps mort",
+    "definition": "Temps nécessaire pour qu'une molécule de phase mobile (substance non retenue) traverse la colonne ; pic solvant (tM).",
+    "cours": "chimie-analytique/07-chromatographie-partie-2"
+  },
+  {
+    "terme": "Temps de rétention réduit",
+    "definition": "Temps de rétention corrigé : T'R = TR − TM.",
+    "cours": "chimie-analytique/07-chromatographie-partie-2"
+  },
+  {
+    "terme": "Volume de rétention",
+    "definition": "Volume de phase mobile nécessaire pour éluer un composé : VR = TR · D.",
+    "cours": "chimie-analytique/07-chromatographie-partie-2"
+  },
+  {
+    "terme": "Volume mort",
+    "definition": "Volume de la phase mobile contenue dans la colonne (VM ou VO).",
+    "cours": "chimie-analytique/07-chromatographie-partie-2"
+  },
+  {
+    "terme": "Facteur de rétention",
+    "definition": "K' = (TR − TM)/TM ; caractérise la rétention d'un composé ; anciennement facteur de capacité.",
+    "cours": "chimie-analytique/07-chromatographie-partie-2"
+  },
+  {
+    "terme": "Capacité de la colonne",
+    "definition": "Quantité maximale de substance susceptible d'être fixée dans une colonne.",
+    "cours": "chimie-analytique/07-chromatographie-partie-2"
+  },
+  {
+    "terme": "Efficacité d'une colonne",
+    "definition": "Aptitude d'une colonne à donner des pics fins, mesurée par le nombre N de plateaux théoriques.",
+    "cours": "chimie-analytique/07-chromatographie-partie-2"
+  },
+  {
+    "terme": "Nombre de plateaux théoriques",
+    "definition": "N = TR²/σ² = 16 TR²/w² = 5,54 TR²/δ² ; exprime l'efficacité.",
+    "cours": "chimie-analytique/07-chromatographie-partie-2"
+  },
+  {
+    "terme": "Nombre de plateaux effectifs",
+    "definition": "Neff = 16 T'R²/W², calculé avec le temps de rétention réduit.",
+    "cours": "chimie-analytique/07-chromatographie-partie-2"
+  },
+  {
+    "terme": "Hauteur équivalente à un plateau théorique (HEPT)",
+    "definition": "h = L/N, généralement en mm ; plus h est faible, plus la colonne est efficace.",
+    "cours": "chimie-analytique/07-chromatographie-partie-2"
+  },
+  {
+    "terme": "Résolution",
+    "definition": "Mesure de la séparation de deux pics voisins : R = 2 (TRB − TRA)/(WA + WB) ; valeur optimale 1,5.",
+    "cours": "chimie-analytique/07-chromatographie-partie-2"
+  },
+  {
+    "terme": "Facteur de sélectivité",
+    "definition": "Temps de rétention relatif α = T'RB/T'RA = K'B/K'A ; doit être supérieur à 1.",
+    "cours": "chimie-analytique/07-chromatographie-partie-2"
+  },
+  {
+    "terme": "Formule de Purnell",
+    "definition": "R = (√NB/4)·((α − 1)/α)·(K'B/(1 + K'B)), reliant résolution, efficacité, sélectivité et rétention.",
+    "cours": "chimie-analytique/07-chromatographie-partie-2"
+  },
+  {
+    "terme": "Théorie cinétique",
+    "definition": "Théorie due à GIDDING liant la HEPT à la vitesse d'écoulement de la phase mobile.",
+    "cours": "chimie-analytique/07-chromatographie-partie-2"
+  },
+  {
+    "terme": "Équation de Van Deemter",
+    "definition": "H = A + B/u + C·u, proposée en 1956 pour les colonnes remplies en CPG.",
+    "cours": "chimie-analytique/07-chromatographie-partie-2"
+  },
+  {
+    "terme": "Diffusion turbulente",
+    "definition": "Terme A de Van Deemter (anisotropie d'écoulement), lié à la multiplicité des chemins : A = 2·dp·λ.",
+    "cours": "chimie-analytique/07-chromatographie-partie-2"
+  },
+  {
+    "terme": "Diffusion moléculaire longitudinale",
+    "definition": "Terme B de Van Deemter, diffusion dans la direction de l'écoulement : B = 2·γ·DM.",
+    "cours": "chimie-analytique/07-chromatographie-partie-2"
+  },
+  {
+    "terme": "Facteur de tortuosité",
+    "definition": "γ, ou facteur d'obstruction : représente l'influence de la colonne (granulométrie, régularité du remplissage).",
+    "cours": "chimie-analytique/07-chromatographie-partie-2"
+  },
+  {
+    "terme": "Résistance au transfert de masse",
+    "definition": "Terme C de Van Deemter : inégalités de passage des molécules d'une phase à l'autre ; C = Cm + Cs.",
+    "cours": "chimie-analytique/07-chromatographie-partie-2"
+  },
+  {
+    "terme": "Vitesse optimale",
+    "definition": "Vitesse de la phase mobile donnant la HEPT minimale : u opt = √(B/C).",
+    "cours": "chimie-analytique/07-chromatographie-partie-2"
+  }
+]

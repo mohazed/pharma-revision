@@ -1,0 +1,86 @@
+{
+  "id": "chimie-therapeutique/08-antihistaminiques-h1/fiche",
+  "titre": "Les antihistaminiques H1 : l'essentiel",
+  "sections": [
+    {
+      "titre": "Allergie et histamine",
+      "points": [
+        "Allergie : réaction **excessive** du système immunitaire à des substances normalement inoffensives (allergènes : pollen, poussière, médicament…)",
+        "1re exposition : synthèse d'**IgE** par les **lymphocytes B**, fixation sur les récepteurs des **mastocytes** ; 2e exposition : complexe IgE-allergène → **dégranulation** → histamine",
+        "Biogenèse : **histidine → histamine** par l'histidine décarboxylase (– CO2)",
+        "Distribution : poumons, foie, peau ; cerveau (**hypothalamus**) ; cellules gastriques",
+        "Effets : vasodilatation, ↑ perméabilité capillaire, contraction des muscles lisses"
+      ]
+    },
+    {
+      "titre": "Récepteurs histaminiques",
+      "points": [
+        "**H1** (Gq/11) : ubiquitaire (muscles lisses, endothélium, cerveau) ; bronchoconstriction, vasodilatation, urticaire, maintien de l'état de veille",
+        "**H2** (Gs) : muqueuse gastrique surtout ; sécrétion acide",
+        "**H3** (Gi/o) : autorécepteurs présynaptiques ; stimulation → ↓ libération d'histamine ; blocage → ↑ histamine → vigilance",
+        "**H4** (Gi/o) : cellules hématopoïétiques périphériques, moelle osseuse ; chimiotaxie, IL-16"
+      ]
+    },
+    {
+      "titre": "Classifications",
+      "points": [
+        "Chimique : **alkylamines, éthanolamines, éthylènediamines, phénothiazines, pipérazines, pipéridines**",
+        "Pharmacologique : effets sur la vigilance (sédatifs / non sédatifs) et action anticholinergique",
+        "Chronologique : 1re et 2e génération ; la 2e génération n'existe que chez les alkylamines (acrivastine), pipérazines (cétirizine, lévocétirizine) et pipéridines"
+      ]
+    },
+    {
+      "titre": "AntiH1 de 1re génération",
+      "points": [
+        "**Pipérazines** : cyclizine (Marzine®, X = H, R = CH3), buclizine (Aphilan®), hydroxyzine (Atarax®), clocinizine (Dénoral®) ; synthèse : blocage par le **chlorocarbonate d'éthyle**, greffage par l'halogénure, **décarboxylation par la potasse**, greffage d'un nouveau radical",
+        "Usages : cyclizine et méclozine antiémétiques (mal de transport), buclizine antiallergique/antiémétique, hydroxyzine antiallergique/**anxiolytique**",
+        "**Éthanolamines** (–O–CH2–CH2–N(CH3)2) : diphenhydramine (transports, prurit), diménhydrinate (Mercalm®, Nausicalm®), doxylamine (**insomnies**), carbinoxamine, phényltoloxamine",
+        "**Alkylamines** : les **plus puissants** antiH1, stimulation du SNC plus fréquente ; phéniramine (Fervex®), dexchlorphéniramine (Polaramine®, Célestamine®, Histagan®), bromphéniramine (Dimegan®), triprolidine",
+        "**Éthylènediamines** : mépyramine (Atussine®, antitussif), pyrilamine, tripelennamine, antazoline",
+        "**Phénothiazines** : prométhazine (Phénergan® : allergies, prurit, mal de transport), alimémazine (Théralène® : antitussif, antiallergique, somnifère), oxomémazine (Toplexil®), méquitazine (peu sédative, anticholinergique)",
+        "**Pipéridines** de 1re génération : kétotifène (Zalerg®), cyproheptadine (Périmex®, Heptaford® : stimulant d'appétit), azatadine (retirée)"
+      ]
+    },
+    {
+      "titre": "AntiH1 de 2e génération",
+      "points": [
+        "Sans effets anticholinergiques, **moins de somnolence** (diffusent moins dans le SNC)",
+        "**Cétirizine** : métabolite carboxylé de l'hydroxyzine, ionisée et polaire → franchit peu la BHE ; rhinites allergiques, urticaires chroniques idiopathiques",
+        "**Lévocétirizine** = énantiomère (R) ; dextrocétirizine = (S)",
+        "**Fexofénadine** (Telfast®) : métabolite actif de la terfénadine (retirée), sans ses inconvénients cardiaques",
+        "**Loratadine** (Clarityne®) → **desloratadine** (Deslor®, métabolite actif, ne traverse pas la BHE) ; **rupatadine** (Rupafin®) métabolisée par le CYP3A4 en desloratadine",
+        "**Acrivastine** : dérivé de la triprolidine, rhinites allergiques"
+      ]
+    },
+    {
+      "titre": "RSA et mécanisme",
+      "points": [
+        "Amine **tertiaire** reliée par une chaîne de **2 ou 3 atomes** à **2 groupes aromatiques** ; moitié éthylamine substituée (analogie avec l'histamine)",
+        "Phénothiazines : effet anti-H1 si substitution courte sur l'N terminal, 2 ou 3 C entre les N dont le second ramifié, cycle non substitué",
+        "Les antiH1 sont des **agonistes inverses** : ils stabilisent la forme inactive du récepteur H1"
+      ]
+    },
+    {
+      "titre": "Effets secondaires et perspectives",
+      "points": [
+        "1re génération : somnolence, sécheresse buccale, effets anticholinergiques ; 2e génération mieux tolérée",
+        "Interactions : antidiabétiques oraux, médicaments torsadogènes",
+        "Avenir : ciblage spécifique, immunothérapie allergénique, thérapie génique, action plus rapide"
+      ]
+    }
+  ],
+  "aRetenir": [
+    "Six familles chimiques ; la 2e génération n'existe que chez les alkylamines, pipérazines et pipéridines",
+    "Cétirizine = métabolite de l'hydroxyzine ; fexofénadine = métabolite de la terfénadine ; desloratadine = métabolite de la loratadine (et de la rupatadine)",
+    "Les antiH1 sont des agonistes inverses (stabilisation de la forme inactive)",
+    "Pharmacophore : amine tertiaire – chaîne de 2 ou 3 atomes – 2 groupes aromatiques"
+  ],
+  "pieges": [
+    "C'est la **terfénadine** qui a été retirée du marché, pas la fexofénadine",
+    "Lévocétirizine = **(R)** ; dextrocétirizine = (S)",
+    "Les alkylamines sont les **plus** puissants antiH1",
+    "Atarax® = hydroxyzine (pas cétirizine) ; Fervex® = phéniramine",
+    "Les récepteurs H3 et H4 sont couplés à Gi/o ; H2 à Gs ; H1 à Gq/11",
+    "La décarboxylation de la synthèse des pipérazines se fait par la **potasse**, le blocage par le **chlorocarbonate d'éthyle**"
+  ]
+}

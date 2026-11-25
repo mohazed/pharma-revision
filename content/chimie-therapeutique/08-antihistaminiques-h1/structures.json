@@ -1,0 +1,434 @@
+[
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/structure-001",
+    "nom": "Histamine",
+    "smiles": "NCCc1c[nH]cn1",
+    "classe": "Médiateur (agoniste des récepteurs histaminiques)",
+    "question": "Comment cette molécule est-elle biosynthétisée ?",
+    "options": [
+      "Par décarboxylation de l'histidine",
+      "Par hydroxylation du tryptophane",
+      "Par méthylation de l'histamine",
+      "Par oxydation de l'hydroxyzine",
+      "Par décarboxylation de la tyrosine"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "L'histamine (noyau imidazole + chaîne éthylamine, amine primaire) provient de la décarboxylation de l'histidine par l'histidine décarboxylase."
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/structure-002",
+    "nom": "Cyclizine (Marzine®)",
+    "smiles": "CN1CCN(CC1)C(c1ccccc1)c1ccccc1",
+    "classe": "Pipérazine",
+    "question": "À quelle famille chimique appartient cette molécule ?",
+    "options": [
+      "Pipérazine",
+      "Éthanolamine",
+      "Alkylamine",
+      "Éthylènediamine",
+      "Phénothiazine"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Cyclizine : pipérazine de 1re génération, X = Y = H, R = CH3 ; antiémétique du mal de transport et antimigraineux."
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/structure-003",
+    "nom": "Hydroxyzine (Atarax®)",
+    "smiles": "OCCOCCN1CCN(CC1)C(c1ccccc1)c1ccc(Cl)cc1",
+    "classe": "Pipérazine",
+    "question": "À quelle famille chimique appartient cette molécule ?",
+    "options": [
+      "Pipérazine",
+      "Éthanolamine",
+      "Alkylamine",
+      "Éthylènediamine",
+      "Phénothiazine"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Hydroxyzine : pipérazine, X = Cl, R = -CH2-CH2-O-CH2-CH2OH ; antiallergique, anxiolytique ; oxydée in vivo en cétirizine."
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/structure-004",
+    "nom": "Buclizine (Aphilan®)",
+    "smiles": "CC(C)(C)c1ccc(CN2CCN(CC2)C(c2ccccc2)c2ccc(Cl)cc2)cc1",
+    "classe": "Pipérazine",
+    "question": "À quelle famille chimique appartient cette molécule ?",
+    "options": [
+      "Pipérazine",
+      "Éthanolamine",
+      "Alkylamine",
+      "Éthylènediamine",
+      "Phénothiazine"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Buclizine : pipérazine, X = Cl, R = 4-tert-butylbenzyle ; antiallergique et antiémétique."
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/structure-005",
+    "nom": "Cétirizine",
+    "smiles": "OC(=O)COCCN1CCN(CC1)C(c1ccccc1)c1ccc(Cl)cc1",
+    "classe": "Pipérazine",
+    "question": "Quelle est la particularité de cette molécule ?",
+    "options": [
+      "Métabolite carboxylé de l'hydroxyzine, peu sédatif",
+      "Métabolite actif de la terfénadine",
+      "Phénothiazine sédative",
+      "Éthanolamine indiquée dans l'insomnie",
+      "Alkylamine de 2e génération"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Cétirizine : métabolite carboxylé de l'hydroxyzine ; le COOH la rend ionisée et peu lipophile, elle franchit peu la BHE (peu sédative)."
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/structure-006",
+    "nom": "Diphenhydramine",
+    "smiles": "CN(C)CCOC(c1ccccc1)c1ccccc1",
+    "classe": "Éthanolamine",
+    "question": "À quelle famille chimique appartient cette molécule ?",
+    "options": [
+      "Éthanolamine",
+      "Pipérazine",
+      "Alkylamine",
+      "Éthylènediamine",
+      "Phénothiazine"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Diphenhydramine : éther de benzhydryle et de diméthylaminoéthanol (éthanolamine) ; maux des transports, prurit, piqûres d'insectes."
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/structure-007",
+    "nom": "Doxylamine",
+    "smiles": "CN(C)CCOC(C)(c1ccccc1)c1ccccn1",
+    "classe": "Éthanolamine",
+    "question": "À quelle famille chimique appartient cette molécule ?",
+    "options": [
+      "Éthanolamine",
+      "Pipérazine",
+      "Alkylamine",
+      "Éthylènediamine",
+      "Phénothiazine"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Doxylamine : éthanolamine portant un phényle, une pyridine et un méthyle sur le carbone de l'éther ; indiquée dans les insomnies."
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/structure-008",
+    "nom": "Carbinoxamine",
+    "smiles": "CN(C)CCOC(c1ccc(Cl)cc1)c1ccccn1",
+    "classe": "Éthanolamine",
+    "question": "À quelle famille chimique appartient cette molécule ?",
+    "options": [
+      "Éthanolamine",
+      "Pipérazine",
+      "Alkylamine",
+      "Éthylènediamine",
+      "Phénothiazine"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Carbinoxamine : éthanolamine (4-chlorophényle + pyridine) ; manifestations allergiques."
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/structure-009",
+    "nom": "Phényltoloxamine",
+    "smiles": "CN(C)CCOc1ccccc1Cc1ccccc1",
+    "classe": "Éthanolamine",
+    "question": "À quelle famille chimique appartient cette molécule ?",
+    "options": [
+      "Éthanolamine",
+      "Pipérazine",
+      "Alkylamine",
+      "Éthylènediamine",
+      "Phénothiazine"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Phényltoloxamine : éthanolamine (éther de 2-benzylphénol) ; associée au bromure de céthexonium dans les rhinites allergiques."
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/structure-010",
+    "nom": "Phéniramine",
+    "smiles": "CN(C)CCC(c1ccccc1)c1ccccn1",
+    "classe": "Alkylamine",
+    "question": "À quelle famille chimique appartient cette molécule ?",
+    "options": [
+      "Alkylamine",
+      "Pipérazine",
+      "Éthanolamine",
+      "Éthylènediamine",
+      "Phénothiazine"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Phéniramine : alkylamine (R = H) présente dans le Fervex® ; les alkylamines sont les plus puissants antiH1."
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/structure-011",
+    "nom": "Bromphéniramine",
+    "smiles": "CN(C)CCC(c1ccc(Br)cc1)c1ccccn1",
+    "classe": "Alkylamine",
+    "question": "À quelle famille chimique appartient cette molécule ?",
+    "options": [
+      "Alkylamine",
+      "Pipérazine",
+      "Éthanolamine",
+      "Éthylènediamine",
+      "Phénothiazine"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Bromphéniramine (maléate, Dimegan®) : alkylamine avec R = Br ; manifestations allergiques."
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/structure-012",
+    "nom": "Pyrilamine",
+    "smiles": "COc1ccc(CN(CCN(C)C)c2ccccn2)cc1",
+    "classe": "Éthylènediamine",
+    "question": "À quelle famille chimique appartient cette molécule ?",
+    "options": [
+      "Éthylènediamine",
+      "Pipérazine",
+      "Éthanolamine",
+      "Alkylamine",
+      "Phénothiazine"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Pyrilamine : éthylènediamine (N-pyridinyl, N-4-méthoxybenzyle, N',N'-diméthyl)."
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/structure-013",
+    "nom": "Tripelennamine",
+    "smiles": "CN(C)CCN(Cc1ccccc1)c1ccccn1",
+    "classe": "Éthylènediamine",
+    "question": "À quelle famille chimique appartient cette molécule ?",
+    "options": [
+      "Éthylènediamine",
+      "Pipérazine",
+      "Éthanolamine",
+      "Alkylamine",
+      "Phénothiazine"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Tripelennamine : éthylènediamine (N-benzyl, N-pyridin-2-yl)."
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/structure-014",
+    "nom": "Prométhazine (Phénergan®)",
+    "smiles": "CC(CN1c2ccccc2Sc2ccccc21)N(C)C",
+    "classe": "Phénothiazine",
+    "question": "À quelle famille chimique appartient cette molécule ?",
+    "options": [
+      "Phénothiazine",
+      "Pipérazine",
+      "Éthanolamine",
+      "Alkylamine",
+      "Éthylènediamine"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Prométhazine : phénothiazine à chaîne diméthylaminoéthyle ramifiée (2 C entre les N, le second ramifié), cycle non substitué ; allergies, prurit, mal de transport."
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/structure-015",
+    "nom": "Alimémazine (Théralène®)",
+    "smiles": "CC(CN1c2ccccc2Sc2ccccc21)CN(C)C",
+    "classe": "Phénothiazine",
+    "question": "À quelle famille chimique appartient cette molécule ?",
+    "options": [
+      "Phénothiazine",
+      "Pipérazine",
+      "Éthanolamine",
+      "Alkylamine",
+      "Éthylènediamine"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Alimémazine : phénothiazine à chaîne diméthylaminopropyle ramifiée ; antitussif, antiallergique, somnifère."
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/structure-016",
+    "nom": "Oxomémazine (Toplexil®)",
+    "smiles": "CC(CN1c2ccccc2S(=O)(=O)c2ccccc21)CN(C)C",
+    "classe": "Phénothiazine",
+    "question": "À quelle famille chimique appartient cette molécule ?",
+    "options": [
+      "Phénothiazine",
+      "Pipérazine",
+      "Éthanolamine",
+      "Alkylamine",
+      "Éthylènediamine"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Oxomémazine : phénothiazine dont le soufre est dioxydé (sulfone) ; antitussif, antiallergique."
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/structure-017",
+    "nom": "Méquitazine (Primalan®)",
+    "smiles": "C1CN2CCC1C(C2)CN1c2ccccc2Sc2ccccc21",
+    "classe": "Phénothiazine",
+    "question": "À quelle famille chimique appartient cette molécule ?",
+    "options": [
+      "Phénothiazine",
+      "Pipérazine",
+      "Éthanolamine",
+      "Alkylamine",
+      "Éthylènediamine"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Méquitazine : phénothiazine dont l'azote porte un méthyle lié à un bicycle azoté ; légèrement sédative, anticholinergique."
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/structure-018",
+    "nom": "Kétotifène (Zalerg®)",
+    "smiles": "CN1CCC(=C2c3ccccc3CC(=O)c3sccc32)CC1",
+    "classe": "Pipéridine",
+    "question": "À quelle famille chimique appartient cette molécule ?",
+    "options": [
+      "Pipéridine",
+      "Pipérazine",
+      "Éthanolamine",
+      "Alkylamine",
+      "Éthylènediamine"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Kétotifène : pipéridine de 1re génération (tricycle à thiophène et cétone) ; rhinoconjonctivites allergiques."
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/structure-019",
+    "nom": "Cyproheptadine (Périmex®)",
+    "smiles": "CN1CCC(=C2c3ccccc3C=Cc3ccccc32)CC1",
+    "classe": "Pipéridine",
+    "question": "À quelle famille chimique appartient cette molécule ?",
+    "options": [
+      "Pipéridine",
+      "Pipérazine",
+      "Éthanolamine",
+      "Alkylamine",
+      "Éthylènediamine"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Cyproheptadine : 4-(dibenzo[a,e][7]annulén-11-ylidène)-1-méthylpipéridine ; allergies, stimulant d'appétit."
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/structure-020",
+    "nom": "Loratadine (Clarityne®)",
+    "smiles": "CCOC(=O)N1CCC(=C2c3ccc(Cl)cc3CCc3cccnc32)CC1",
+    "classe": "Pipéridine",
+    "question": "À quelle famille chimique appartient cette molécule ?",
+    "options": [
+      "Pipéridine",
+      "Pipérazine",
+      "Éthanolamine",
+      "Alkylamine",
+      "Éthylènediamine"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Loratadine : pipéridine de 2e génération (azote porteur d'un éthoxycarbonyle), sans effet sédatif ni anticholinergique ; métabolisée en desloratadine."
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/structure-021",
+    "nom": "Desloratadine (Deslor®)",
+    "smiles": "C1CC(=C2c3ccc(Cl)cc3CCc3cccnc32)CCN1",
+    "classe": "Pipéridine",
+    "question": "Quelle est la particularité de cette molécule ?",
+    "options": [
+      "Métabolite actif de la loratadine, ne traverse pas la BHE",
+      "Métabolite actif de la terfénadine",
+      "Métabolite carboxylé de l'hydroxyzine",
+      "Énantiomère (R) de la cétirizine",
+      "Phénothiazine sédative"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Desloratadine : métabolite actif de la loratadine (NH pipéridinique libre) ; très grande affinité H1, ne traverse pas la BHE."
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/structure-022",
+    "nom": "Rupatadine (Rupafin®)",
+    "smiles": "Cc1cncc(CN2CCC(=C3c4ccc(Cl)cc4CCc4cccnc43)CC2)c1",
+    "classe": "Pipéridine",
+    "question": "À quelle famille chimique appartient cette molécule ?",
+    "options": [
+      "Pipéridine",
+      "Pipérazine",
+      "Éthanolamine",
+      "Alkylamine",
+      "Éthylènediamine"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Rupatadine : pipéridine de 2e génération, métabolisée par le CYP3A4 en produits actifs dont la desloratadine."
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/structure-023",
+    "nom": "Fexofénadine (Telfast®)",
+    "smiles": "CC(C)(C(=O)O)c1ccc(cc1)C(O)CCCN1CCC(CC1)C(O)(c1ccccc1)c1ccccc1",
+    "classe": "Pipéridine",
+    "question": "Quelle est la particularité de cette molécule ?",
+    "options": [
+      "Métabolite actif de la terfénadine, sans inconvénients cardiaques",
+      "Métabolite actif de la loratadine",
+      "Métabolite carboxylé de l'hydroxyzine",
+      "Retirée du marché pour toxicité cardiaque",
+      "Phénothiazine antitussive"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Fexofénadine : métabolite actif de la terfénadine (retirée du marché), sans ses inconvénients cardiaques."
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/structure-024",
+    "nom": "Acrivastine",
+    "smiles": "Cc1ccc(cc1)C(=CCN1CCCC1)c1cccc(C=CC(=O)O)n1",
+    "classe": "Alkylamine",
+    "question": "À quelle famille chimique appartient cette molécule ?",
+    "options": [
+      "Alkylamine",
+      "Pipérazine",
+      "Éthanolamine",
+      "Éthylènediamine",
+      "Phénothiazine"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Acrivastine : alkylamine de 2e génération dérivée de la triprolidine ; rhinites allergiques."
+  }
+]

@@ -1,0 +1,81 @@
+{
+  "id": "pharmacie-galenique/13-emulsions/fiche",
+  "titre": "Les émulsions",
+  "sections": [
+    {
+      "titre": "Définition et classification",
+      "points": [
+        "Préparations généralement liquides, **thermodynamiquement instables** : un liquide dispersé en gouttelettes (200 nm à 10 μm) dans un autre **non miscible**, grâce à un ou plusieurs **émulsifiants**.",
+        "Phase **dispersée** = interne = discontinue ; phase **dispersante** = externe = continue.",
+        "**L/H** (ex-H/E) = type aqueux ; **H/L** (ex-E/H) = type huileux ; multiple : H/L/H (ex-E/H/E).",
+        "Globules de taille sensiblement identique : 0,5 à 50 µm en général."
+      ]
+    },
+    {
+      "titre": "Applications",
+      "points": [
+        "Voie orale, topique ou rectale des huiles ou PA liposolubles ; masquer odeur/goût ; ↑ pénétration et absorption.",
+        "Libération lente des PA **hydrosolubles** en **IM** ; alimentation **parentérale** (émulsions stables stériles : lipides, carbohydrates, vitamines)."
+      ]
+    },
+    {
+      "titre": "Formes d'instabilité",
+      "points": [
+        "**Crémage** (vers la surface) / **sédimentation** (vers le fond) : réversibles par agitation ; loi de **Stokes**.",
+        "↓ vitesse : ↓ taille des globules, ↓ (D1 − D2), ↑ viscosité de la phase dispersante.",
+        "**Floculation** : agrégats/flocons, individualité conservée, film **intact** ; difficilement réversible voire irréversible ; loi de **Smoluchowsky**.",
+        "**Coalescence** : fusion de globules floculés, perte d'individualité, **rupture** du film ; irréversible → séparation de phase. Smoluchowsky (floculation lente) ou **Van der Tempel** (coalescence lente ; k = probabilité de rupture du film/s).",
+        "**Inversion de phase** : brusque changement de sens (floculation emprisonnant la phase externe puis coalescence). Facteurs : proportion des phases, température, surfactifs (nature, concentration, HLB), nature de l'huile."
+      ]
+    },
+    {
+      "titre": "Aspects physicochimiques",
+      "points": [
+        "Film interfacial : ↓ travail de dispersion, protection mécanique, rôle électrique.",
+        "Tension interfaciale γ : force par unité de longueur ; **W = γ ΔS** ; on la diminue par ajout de tensioactifs.",
+        "Charge : ionisation de l'émulsionnant ou adsorption d'ions de la phase dispersante ; potentiels Ψ0, Ψs, Ψz ; seul **Ψz (Zêta)** est mesurable (zêtamètre) ; ↑ Ψz = ↑ répulsion."
+      ]
+    },
+    {
+      "titre": "Formulation",
+      "points": [
+        "Phase lipophile + phase hydrophile + surfactif(s). Surfactifs : amphiphilie, auto-association, adsorption aux interfaces ; PM > 200, HLB 1–40.",
+        "**HLB** (Griffen) : caractéristique des **surfactifs** ; ↑ avec l'hydrophilie ; équilibre vers 10 ; additif : HLBm = (x HLBL + (100 − x) HLBH) / 100.",
+        "**HLB critique** (optimal, requis) : caractéristique des **phases lipophiles**, uniquement expérimental, additif.",
+        "Diagramme ternaire Eau-Surfactif-Huile : triangle équilatéral, tâtonnement."
+      ]
+    },
+    {
+      "titre": "Préparation",
+      "points": [
+        "Surfactif(s) dans une phase puis dispersion d'une phase dans l'autre ; introduction : phase aqueuse, huileuse, chacun dans son solvant, alternance, in situ.",
+        "Mélange : **addition** (dispersée → dispersante), **inversion** (dispersante → dispersée), **alternance**.",
+        "Phases à la même température, bain-marie 50–80 °C, mélange lent, agitation jusqu'à refroidissement.",
+        "Agitateurs (émulsion primaire) puis homogénéisateurs (filière, broyeurs colloïdaux, ultrasons)."
+      ]
+    },
+    {
+      "titre": "Essais",
+      "points": [
+        "Sens : dilution, colorants (bleu de méthylène hydrosoluble, rouge Soudan liposoluble), conductivité (élevée pour L/H).",
+        "Granulométrie : microscope (échelle micrométrique), Coulter Counter (H/E seulement).",
+        "Viscosité, pH, potentiel Zêta, centrifugation 2500–3000 tr/min après coloration."
+      ]
+    }
+  ],
+  "aRetenir": [
+    "Émulsion = système thermodynamiquement instable.",
+    "Réversibilité : crémage/sédimentation réversibles > floculation difficilement réversible > coalescence irréversible.",
+    "HLB = surfactifs ; HLB critique = phases lipophiles (expérimental).",
+    "Seul le potentiel Zêta est mesurable."
+  ],
+  "pieges": [
+    "Floculation : film interfacial INTACT ; coalescence : film ROMPU.",
+    "η de la loi de Stokes = viscosité de la phase DISPERSANTE.",
+    "HLB d'autant plus ÉLEVÉ que la molécule est HYDROPHILE.",
+    "x dans la formule du HLBm = masse du surfactif LIPOPHILE.",
+    "Méthode par addition : phase DISPERSÉE dans la phase DISPERSANTE (l'inverse = méthode par inversion).",
+    "Coulter Counter : émulsions H/E SEULEMENT.",
+    "H/L chauffée → L/H ; huile ajoutée à une L/H → H/L."
+  ]
+}

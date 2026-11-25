@@ -1,0 +1,82 @@
+[
+  {
+    "terme": "Interaction médicamenteuse",
+    "definition": "Modification cliniquement significative, observée in vivo, des effets attendus d'un médicament lors de la coadministration d'un autre médicament, d'aliment, d'alcool ou de tabac.",
+    "cours": "pharmacologie/11-interactions-pharmacocinetiques"
+  },
+  {
+    "terme": "Incompatibilité physico-chimique",
+    "definition": "Réaction physico-chimique entre deux médicaments mélangés dans une même seringue ou un même liquide de perfusion, pouvant former un précipité inactif ou toxique.",
+    "cours": "pharmacologie/11-interactions-pharmacocinetiques"
+  },
+  {
+    "terme": "Contre-indication (IAM)",
+    "definition": "Niveau de gravité ANSM de caractère absolu, qui ne doit pas être transgressé (ex. voriconazole + rifampicine).",
+    "cours": "pharmacologie/11-interactions-pharmacocinetiques"
+  },
+  {
+    "terme": "Association déconseillée",
+    "definition": "Niveau de gravité ANSM : association le plus souvent à éviter, sauf après examen approfondi du rapport bénéfice/risque, avec surveillance étroite.",
+    "cours": "pharmacologie/11-interactions-pharmacocinetiques"
+  },
+  {
+    "terme": "Précaution d'emploi",
+    "definition": "Niveau de gravité ANSM le plus fréquent : association possible en respectant des recommandations (adaptation posologique, surveillance).",
+    "cours": "pharmacologie/11-interactions-pharmacocinetiques"
+  },
+  {
+    "terme": "À prendre en compte",
+    "definition": "Niveau de gravité ANSM : risque d'IAM correspondant le plus souvent à une addition d'effets indésirables, sans recommandation pratique.",
+    "cours": "pharmacologie/11-interactions-pharmacocinetiques"
+  },
+  {
+    "terme": "Interaction pharmacocinétique",
+    "definition": "Interaction dans laquelle un médicament modifie l'absorption, la distribution, le métabolisme ou l'élimination d'un autre, changeant son exposition (AUC, Cmax, demi-vie).",
+    "cours": "pharmacologie/11-interactions-pharmacocinetiques"
+  },
+  {
+    "terme": "Interaction pharmacodynamique",
+    "definition": "Interaction dans laquelle les médicaments modifient la réponse au niveau de l'organe ou du système (effets additifs, synergiques ou antagonistes).",
+    "cours": "pharmacologie/11-interactions-pharmacocinetiques"
+  },
+  {
+    "terme": "Complexation",
+    "definition": "Fixation d'un médicament à un autre formant des complexes, ce qui diminue son absorption (ex. tétracyclines + calcium).",
+    "cours": "pharmacologie/11-interactions-pharmacocinetiques"
+  },
+  {
+    "terme": "Adsorption (interaction)",
+    "definition": "Fixation d'un médicament destiné à être résorbé sur un agent non résorbable (kaolin, charbon actif, cholestyramine).",
+    "cours": "pharmacologie/11-interactions-pharmacocinetiques"
+  },
+  {
+    "terme": "Déplacement protéique",
+    "definition": "Interaction où le médicament de plus faible affinité est chassé de ses liaisons aux protéines plasmatiques, d'où une augmentation de sa fraction libre.",
+    "cours": "pharmacologie/11-interactions-pharmacocinetiques"
+  },
+  {
+    "terme": "Induction enzymatique",
+    "definition": "Accélération du métabolisme des médicaments par augmentation de la synthèse des enzymes microsomales hépatiques (CYP) ; phénomène progressif et persistant.",
+    "cours": "pharmacologie/11-interactions-pharmacocinetiques"
+  },
+  {
+    "terme": "Auto-inducteur",
+    "definition": "Médicament qui induit son propre métabolisme.",
+    "cours": "pharmacologie/11-interactions-pharmacocinetiques"
+  },
+  {
+    "terme": "Inhibition enzymatique",
+    "definition": "Ralentissement du métabolisme des médicaments par inhibition des systèmes enzymatiques ; phénomène immédiat qui disparaît à l'arrêt du traitement.",
+    "cours": "pharmacologie/11-interactions-pharmacocinetiques"
+  },
+  {
+    "terme": "Compétition tubulaire",
+    "definition": "Interaction entre deux médicaments utilisant le même transporteur rénal : l'élimination de celui de plus faible affinité diminue (ex. ampicilline + probénécide).",
+    "cours": "pharmacologie/11-interactions-pharmacocinetiques"
+  },
+  {
+    "terme": "Médicament néphrotoxique",
+    "definition": "Médicament responsable de lésions organiques du rein (aminosides, vancomycine, produits de contraste iodés), pouvant diminuer l'élimination d'autres médicaments.",
+    "cours": "pharmacologie/11-interactions-pharmacocinetiques"
+  }
+]

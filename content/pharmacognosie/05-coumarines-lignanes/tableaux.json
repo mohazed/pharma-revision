@@ -1,0 +1,169 @@
+[
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/tableau-001",
+    "titre": "Drogues à coumarines",
+    "colonnes": [
+      "Drogue",
+      "Origine botanique",
+      "Partie utilisée",
+      "Constituants",
+      "Emplois / remarques"
+    ],
+    "lignes": [
+      [
+        "Fève de Tonka (coumarou)",
+        "Dipteryx odorata (Fabaceae)",
+        "Graines",
+        "Coumarine (souvent 1–3 %)",
+        "Parfumerie, arômes, tabac ; hépatotoxicité si exposition excessive"
+      ],
+      [
+        "Marronnier d'Inde",
+        "Aesculus hippocastanum (Sapindaceae, ex-Hippocastanaceae)",
+        "Écorce séchée des jeunes branches",
+        "Esculine, fraxine, scopoline, tanins, flavonoïdes",
+        "Antioxydant ; graines riches en escine (insuffisance veineuse)"
+      ],
+      [
+        "Mélilot",
+        "Melilotus officinalis (Fabaceae)",
+        "Parties aériennes fleuries",
+        "Coumarine 0,3–0,9 %, mélilotoside, mélilotine, scopolétine, ombelliférone, robinine, saponosides",
+        "Jambes lourdes, affections cutanées mineures ; moisi = hémorragique"
+      ],
+      [
+        "Bergamotier",
+        "Citrus bergamia (Rutaceae)",
+        "Péricarpe + HE",
+        "Limonène, linalol, acétate de linalyle ; bergaptène, bergamottine",
+        "Parfumerie, cosmétique, alimentaire, aromathérapie ; photosensibilisant"
+      ],
+      [
+        "Khella",
+        "Ammi visnaga (Apiaceae)",
+        "Fruits mûrs séchés",
+        "Visnadine, samidine, dihydrosamidine ; bergaptène, xanthotoxine, psoralène ; khelline, visnagine",
+        "Antispasmodique (voies urinaires), vasodilatateur (historique) ; khelline hépatotoxique"
+      ]
+    ]
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/tableau-002",
+    "titre": "Drogues à lignanes",
+    "colonnes": [
+      "Drogue",
+      "Origine botanique",
+      "Partie utilisée",
+      "Constituants",
+      "Emplois / toxicité"
+    ],
+    "lignes": [
+      [
+        "Podophylle d'Amérique",
+        "Podophyllum peltatum (Berberidaceae)",
+        "Rhizome séché",
+        "Podophyllotoxine (aryltétraline) ; résine = podophylline",
+        "Antimitotique → étoposide, téniposide ; plante toxique"
+      ],
+      [
+        "Chardon-Marie",
+        "Silybum marianum (Asteraceae)",
+        "Akènes sans aigrette",
+        "Silymarine 1,5–3 % (silybine, silychristine, silydianine, isosilybine), flavonoïdes, huile grasse, phytostérols",
+        "Hépatoprotecteur, dyspepsie"
+      ]
+    ]
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/tableau-003",
+    "titre": "Coumarines vs lignanes",
+    "colonnes": [
+      "Critère",
+      "Coumarines",
+      "Lignanes"
+    ],
+    "lignes": [
+      [
+        "Origine biosynthétique",
+        "Lactonisation des acides 2-hydroxycinnamiques",
+        "Couplage oxydatif de deux unités C₆–C₃"
+      ],
+      [
+        "Classification",
+        "Simples (aglycones, hétérosides) ; complexes (furano- et pyranocoumarines)",
+        "Lignanes et néolignanes, plusieurs familles chimiques"
+      ],
+      [
+        "Distribution",
+        "> 1 000 ; > 70 familles de dicot. et ~9 de monocot.",
+        "> 3 000 ; ~70 familles"
+      ],
+      [
+        "Propriétés",
+        "Vitamine P, anticoagulante indirecte (dicoumarol), photosensibilisation (furanocoumarines)",
+        "Antimicrobiennes, anticancéreuse (podophyllotoxine et dérivés)"
+      ]
+    ]
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/carte-001",
+    "type": "carte",
+    "titre": "Coumarines et lignanes",
+    "racine": {
+      "label": "Coumarines et lignanes",
+      "enfants": [
+        {
+          "label": "Coumarines simples",
+          "enfants": [
+            {
+              "label": "Génines : ombelliférone, herniarine, esculétol, scopolétol, fraxétol",
+              "enfants": []
+            },
+            {
+              "label": "Hétérosides : skimmine, esculoside, cichoriine",
+              "enfants": []
+            },
+            {
+              "label": "Drogues : Tonka, marronnier, mélilot",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Coumarines complexes",
+          "enfants": [
+            {
+              "label": "Furocoumarines (6,7 linéaires ; 7,8 angulaires)",
+              "enfants": []
+            },
+            {
+              "label": "Pyranocoumarines",
+              "enfants": []
+            },
+            {
+              "label": "Drogues : bergamotier, khella",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Lignanes",
+          "enfants": [
+            {
+              "label": "2 × C₆–C₃, liaison 8–8′",
+              "enfants": []
+            },
+            {
+              "label": "Podophylle : podophyllotoxine",
+              "enfants": []
+            },
+            {
+              "label": "Chardon-Marie : silymarine",
+              "enfants": []
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "id": "pharmacie-galenique/13-emulsions",
+  "module": "pharmacie-galenique",
+  "ordre": 13,
+  "titre": "Les émulsions",
+  "source": {
+    "driveId": "1HVXEWFM_q5mskXY_P1pCFtJvN2iXOIM6",
+    "fichier": "12. Les émulsions.pdf",
+    "modifiedTime": "2026-11-19T18:10:22.954Z"
+  },
+  "resume": "Définition, applications et classification des émulsions, formes d'instabilité (crémage, sédimentation, floculation, coalescence, inversion de phase) et aspects physicochimiques, formulation (surfactifs, HLB, HLB critique, diagramme ternaire), préparation et essais.",
+  "type": "cours"
+}

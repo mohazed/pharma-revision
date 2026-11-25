@@ -1,0 +1,38 @@
+[
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/mnemo-001",
+    "titre": "Drogues à coumarines simples",
+    "moyen": "« Tonton Marron Mélange »",
+    "explication": "Tonka, Marronnier d'Inde, Mélilot = coumarines simples."
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/mnemo-002",
+    "titre": "Drogues à coumarines complexes",
+    "moyen": "« Bergamote et Khella : les Complexes »",
+    "explication": "Bergamotier (Rutaceae) et Khella (Apiaceae) = coumarines complexes (furo- et pyranocoumarines)."
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/mnemo-003",
+    "titre": "Linéaire ou angulaire",
+    "moyen": "« Six-Sept en Ligne, Sept-Huit en Angle »",
+    "explication": "Furocoumarines linéaires = fusion C6–C7 ; angulaires = fusion C7–C8."
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/mnemo-004",
+    "titre": "Furo ou pyrano",
+    "moyen": "« FURAN : 5 lettres = 5 chaînons ; PYRANE : 6 lettres = 6 chaînons »",
+    "explication": "Cycle furannique à 5 chaînons (furocoumarines) ; cycle pyrannique à 6 chaînons (pyranocoumarines)."
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/mnemo-005",
+    "titre": "Composition du khella",
+    "moyen": "« Vis Sam en Pyrène, Berg Xan Pso en Furie, Khel Vis en Gamma »",
+    "explication": "Pyranocoumarines : visnadine, samidine ; furocoumarines : bergaptène, xanthotoxine, psoralène ; furanochromones (γ-pyrones) : khelline, visnagine."
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/mnemo-006",
+    "titre": "Podophyllotoxine",
+    "moyen": "« Podo bloque le Métro (Métaphase) : Étoile et Téni descendent »",
+    "explication": "Inhibition de la tubuline → blocage en métaphase ; dérivés hémisynthétiques : étoposide, téniposide."
+  }
+]

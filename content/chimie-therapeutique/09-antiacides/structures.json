@@ -1,0 +1,128 @@
+[
+  {
+    "id": "chimie-therapeutique/09-antiacides/structure-001",
+    "nom": "Cimétidine (Tagamet®)",
+    "smiles": "CN=C(NCCSCc1nc[nH]c1C)NC#N",
+    "classe": "Antagoniste H2 (imidazole)",
+    "question": "Identifiez cette molécule :",
+    "options": [
+      "Cimétidine",
+      "Ranitidine",
+      "Famotidine",
+      "Oméprazole",
+      "Roxatidine"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "2-cyano-1-méthyl-3-[2-[[(5-méthyl-1H-imidazol-4-yl)méthyl]sulfanyl]éthyl]guanidine : cimétidine, chef de file des anti-H2 (noyau imidazole)."
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/structure-002",
+    "nom": "Ranitidine (Ranitec®, Azantac®)",
+    "smiles": "CNC(=C[N+](=O)[O-])NCCSCc1ccc(CN(C)C)o1",
+    "classe": "Antagoniste H2 (diméthylaminofurane)",
+    "question": "Quel est l'hétérocycle de cette molécule ?",
+    "options": [
+      "Diméthylaminofurane",
+      "Imidazole",
+      "Guanidino-thiazole",
+      "Pipéridinométhylphénoxy",
+      "Benzimidazole"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "La ranitidine possède un noyau diméthylaminofurane remplaçant l'imidazole de la cimétidine ; elle est 10 fois plus active que celle-ci."
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/structure-003",
+    "nom": "Famotidine",
+    "smiles": "NC(N)=Nc1nc(CSCCC(N)=NS(N)(=O)=O)cs1",
+    "classe": "Antagoniste H2 (guanidino-thiazole)",
+    "question": "Identifiez cette molécule :",
+    "options": [
+      "Famotidine",
+      "Cimétidine",
+      "Ranitidine",
+      "Lansoprazole",
+      "Rabéprazole"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Noyau 2-guanidinothiazole et chaîne latérale portant un groupe sulfonamide (sulfamoyle) : famotidine, 30 fois plus active que la cimétidine in vitro."
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/structure-004",
+    "nom": "Oméprazole (Mopral®)",
+    "smiles": "COc1ccc2[nH]c(S(=O)Cc3ncc(C)c(OC)c3C)nc2c1",
+    "classe": "Inhibiteur de la pompe à protons",
+    "question": "Identifiez cette molécule :",
+    "options": [
+      "Oméprazole",
+      "Pantoprazole",
+      "Lansoprazole",
+      "Rabéprazole",
+      "Famotidine"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "5-méthoxy-2-[(4-méthoxy-3,5-diméthylpyridin-2-yl)méthylsulfinyl]-1H-benzimidazole : oméprazole."
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/structure-005",
+    "nom": "Pantoprazole (Protonix®)",
+    "smiles": "COc1ccnc(CS(=O)c2nc3cc(OC(F)F)ccc3[nH]2)c1OC",
+    "classe": "Inhibiteur de la pompe à protons",
+    "question": "Quel substituant distingue cette molécule ?",
+    "options": [
+      "Un groupe difluorométhoxy sur le benzimidazole",
+      "Un groupe trifluoroéthoxy sur la pyridine",
+      "Un groupe 3-méthoxypropoxy sur la pyridine",
+      "Un noyau thiazole",
+      "Un groupe sulfonamide"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Pantoprazole : 5-(difluorométhoxy) sur le benzimidazole et pyridine 3,4-diméthoxylée."
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/structure-006",
+    "nom": "Lansoprazole (Prevacid®)",
+    "smiles": "Cc1c(OCC(F)(F)F)ccnc1CS(=O)c1nc2ccccc2[nH]1",
+    "classe": "Inhibiteur de la pompe à protons",
+    "question": "Identifiez cette molécule :",
+    "options": [
+      "Lansoprazole",
+      "Pantoprazole",
+      "Oméprazole",
+      "Rabéprazole",
+      "Ranitidine"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "2-[[[3-méthyl-4-(2,2,2-trifluoroéthoxy)-2-pyridinyl]méthyl]sulfinyl]-1H-benzimidazole : lansoprazole."
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/structure-007",
+    "nom": "Rabéprazole (Pariet®)",
+    "smiles": "COCCCOc1ccnc(CS(=O)c2nc3ccccc3[nH]2)c1C",
+    "classe": "Inhibiteur de la pompe à protons",
+    "question": "Identifiez cette molécule :",
+    "options": [
+      "Rabéprazole",
+      "Lansoprazole",
+      "Oméprazole",
+      "Pantoprazole",
+      "Cimétidine"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "2-({[4-(3-méthoxypropoxy)-3-méthylpyridin-2-yl]méthyl}sulfinyl)-1H-benzimidazole : rabéprazole."
+  }
+]

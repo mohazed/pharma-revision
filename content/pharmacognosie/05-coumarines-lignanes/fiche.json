@@ -1,0 +1,81 @@
+{
+  "id": "pharmacognosie/05-coumarines-lignanes/fiche-001",
+  "titre": "Drogues à coumarines et drogues à lignanes",
+  "sections": [
+    {
+      "titre": "Coumarines : définition et répartition",
+      "points": [
+        "Composés phénoliques dérivés de la **benzo-α-pyrone** ; lactones de l'**acide 2-hydroxycinnamique** (acide o-coumarique).",
+        "Nom issu de *kumaru* (Dipteryx odorata, Fabaceae, gaïac de Cayenne) ; isolée en **1820 par Vogel** des fèves tonka.",
+        "**+ 1 000** coumarines, **+ 70 familles** de Dicotylédones et **9** de Monocotylédones (Poaceae) ; Apiaceae, Rutaceae, Fabaceae, Asteraceae, Solanaceae.",
+        "Synthèse surtout dans les feuilles, accumulation dans racines et écorces ; stimulée par le stress (pathogènes, blessures)."
+      ]
+    },
+    {
+      "titre": "Structure et classification",
+      "points": [
+        "Squelette C₆–C₃, **C₉H₆O₂** ; OH possibles en C6, C7, C8 ; **C7 fréquent** ; OH libres, méthylés ou hétérosidiques.",
+        "Génines simples : coumarine, ombelliférone (7-OH), herniarine (7-OCH₃), esculétol (6,7-diOH), scopolétol (6-OCH₃, 7-OH), scopanone (6,7-diOCH₃), fraxétol (6-OCH₃, 7,8-diOH).",
+        "Hétérosides (liaison **O**-hétérosidique) : skimmine, esculoside (6-O-glc-esculétol), cichoriine (7-O-glc-esculétol).",
+        "**Furocoumarines** (cycle furannique 5 chaînons) : linéaires 6,7 / angulaires 7,8 ; Apiaceae, Rutaceae, Fabaceae.",
+        "**Pyranocoumarines** (cycle pyrannique 6 chaînons) : linéaires / angulaires ; surtout Apiaceae."
+      ]
+    },
+    {
+      "titre": "Propriétés, extraction, analyse",
+      "points": [
+        "Solides cristallisés blancs/jaunâtres, saveur amère, odeur de **foin fraîchement coupé** ; certaines sublimables et entraînables à la vapeur.",
+        "Génines : alcool, éther, chlorés ; hétérosides : assez solubles dans l'eau, solubles dans l'alcool.",
+        "Coumarines hydroxylées : **fluorescence bleue** sous UV ; lactone ouverte en **milieu alcalin** ; sels de plomb → combinaisons insolubles.",
+        "Extraction : eau sodique, alcool, solvants organiques, entraînement à la vapeur. UV : **274 nm** (méthanol). CCM : taches bleues, jaunes, pourpres.",
+        "Dosage : fluorométrie après élution CCM, HPLC, électrophorèse capillaire."
+      ]
+    },
+    {
+      "titre": "Pharmacologie et toxicité",
+      "points": [
+        "**Vitamine P** (esculine, esculétine, esculoside) : ↑ résistance, ↓ perméabilité capillaires.",
+        "Furocoumarines photosensibilisantes + **UVA** = **PUVA** (psoriasis, vitiligo) ; contact + UVA = dermites aiguës.",
+        "Pyranocoumarines antispasmodiques ; coumarine anti-œdémateuse, immunostimulante, cytotoxique ; visnadine : vasodilatation coronarienne (historique).",
+        "Hépatotoxicité : 7-hydroxylation (**CYP2A6**) majoritaire peu toxique ; voie minoritaire → métabolites réactifs ; ↑ ALAT/ASAT. Non commune à toutes les coumarines.",
+        "Aflatoxines : mycotoxines génotoxiques et cancérogènes → contrôle des matières premières et tourteaux."
+      ]
+    },
+    {
+      "titre": "Drogues à coumarines",
+      "points": [
+        "**Fève de Tonka** (Dipteryx odorata, Fabaceae) : graines ; coumarine 1–3 % ; parfumerie, arômes, tabac.",
+        "**Marronnier d'Inde** (Aesculus hippocastanum, Sapindaceae) : écorce des jeunes branches ; esculine, fraxine, scopoline ; graines riches en **escine** (insuffisance veineuse).",
+        "**Mélilot** (Melilotus officinalis, Fabaceae) : sommités fleuries ; coumarine 0,3–0,9 %, mélilotoside, mélilotine ; jambes lourdes ; mélilot moisi hémorragique.",
+        "**Bergamotier** (Citrus bergamia, Rutaceae) : zeste + HE ; limonène, linalol, acétate de linalyle ; bergaptène, bergamottine → photosensibilisant.",
+        "**Khella** (Ammi visnaga, Apiaceae) : fruits ; visnadine, samidine ; bergaptène, xanthotoxine ; khelline, visnagine (γ-pyrones) ; antispasmodique urinaire."
+      ]
+    },
+    {
+      "titre": "Lignanes",
+      "points": [
+        "Dimères de deux C₆–C₃ (**C18**) liés en **8–8′** ; néolignanes : autres liaisons (couplage oxydatif).",
+        "**+ 3 000** molécules, ~70 familles ; Gymnospermes : bois ; Angiospermes : divers tissus.",
+        "Familles : dibenzylbutanes, butyrolactones, monofuraniques, arylnaphtalènes, dibenzocyclooctanes, furofuraniques.",
+        "Activités : antioxydantes, inhibition PDE et 5-lipoxygénase, antifongique, antivirale, antiagrégante, antihypertensive, phytoœstrogénique.",
+        "**Podophylle d'Amérique** (Podophyllum peltatum, Berberidaceae) : rhizome ; podophyllotoxine (aryltétraline) → inhibe la tubuline, bloque en métaphase ; étoposide, téniposide ; résine = podophylline ; plante toxique.",
+        "**Chardon-Marie** (Silybum marianum, Asteraceae) : akènes ; silymarine 1,5–3 % ; hépatoprotecteur, dyspepsie."
+      ]
+    }
+  ],
+  "aRetenir": [
+    "Coumarine = lactone de l'acide 2-hydroxycinnamique, C₉H₆O₂, odeur de foin coupé, fluorescence bleue.",
+    "Furocoumarines (5 chaînons) photosensibilisantes → PUVA ; pyranocoumarines (6 chaînons) antispasmodiques.",
+    "Simples : Tonka, marronnier, mélilot ; complexes : bergamotier, khella.",
+    "Lignanes : 2 × C₆–C₃, liaison 8–8′ ; podophyllotoxine → étoposide/téniposide ; silymarine hépatoprotectrice."
+  ],
+  "pieges": [
+    "Linéaire = 6,7 ; angulaire = 7,8 (et non l'inverse).",
+    "Scopolétol = 6-OCH₃/7-OH ; herniarine = 7-OCH₃ ; ombelliférone = 7-OH.",
+    "Écorce de marronnier = coumarines (esculine) ; graines = escine.",
+    "Khelline/visnagine = furanochromones (γ-pyrones), pas des coumarines ; visnadine = pyranocoumarine.",
+    "Bergamotier = Rutaceae ; khella = Apiaceae ; podophylle = Berberidaceae ; chardon-Marie = Asteraceae.",
+    "Coumarines > 1 000 (9 familles de monocot.) ; lignanes > 3 000 (~70 familles).",
+    "Podophyllotoxine : inhibe la polymérisation de la tubuline, blocage en métaphase."
+  ]
+}

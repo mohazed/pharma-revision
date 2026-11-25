@@ -1,0 +1,179 @@
+[
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/tableau-001",
+    "titre": "Classification selon le phénomène physique",
+    "colonnes": [
+      "Chromatographie",
+      "Phase stationnaire",
+      "Type / particularité"
+    ],
+    "lignes": [
+      [
+        "Adsorption",
+        "Solide doué de propriétés adsorbantes",
+        "Liquide-solide"
+      ],
+      [
+        "Partage",
+        "Liquide non miscible à la phase mobile",
+        "Liquide-liquide"
+      ],
+      [
+        "Échange d'ions (ionique)",
+        "Résine échangeuse d'ions",
+        "Échange d'ions avec ceux du mélange"
+      ],
+      [
+        "Exclusion (perméation sur gel)",
+        "Gel = tamis à pores",
+        "Séparation selon la taille"
+      ],
+      [
+        "Affinité",
+        "Ligand spécifique",
+        "Purification des molécules biologiques"
+      ],
+      [
+        "Échange de ligands",
+        "—",
+        "Échange de cations métalliques"
+      ],
+      [
+        "Chirale",
+        "—",
+        "Adsorption ou partage sélectif d'énantiomères"
+      ]
+    ]
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/tableau-002",
+    "titre": "Développement vs élution",
+    "colonnes": [
+      "Critère",
+      "Développement",
+      "Élution"
+    ],
+    "lignes": [
+      [
+        "Migration",
+        "Limitée",
+        "Poursuivie jusqu'à la sortie de tous les constituants"
+      ],
+      [
+        "Devenir des substances",
+        "Restent sur la phase stationnaire",
+        "Entraînées hors de la phase stationnaire"
+      ],
+      [
+        "Identification",
+        "Localisation sur la phase stationnaire",
+        "Sur l'éluat, détecteur en sortie de colonne"
+      ],
+      [
+        "Exemples",
+        "Papier, CCM",
+        "CPL, CPS, CPG"
+      ]
+    ]
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/tableau-003",
+    "titre": "Grandeurs du pic gaussien",
+    "colonnes": [
+      "Grandeur",
+      "Valeur"
+    ],
+    "lignes": [
+      [
+        "Ordonnée au maximum",
+        "1,000"
+      ],
+      [
+        "Ordonnée des points d'inflexion E et F",
+        "0,607"
+      ],
+      [
+        "Ordonnée du sommet du triangle AGH",
+        "1,214"
+      ],
+      [
+        "Largeur à la base ω",
+        "4σ = 1,7δ"
+      ],
+      [
+        "Largeur à mi-hauteur δ",
+        "2,35σ"
+      ]
+    ]
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/carte-004",
+    "type": "carte",
+    "titre": "Généralités sur la chromatographie (partie 1)",
+    "racine": {
+      "label": "Chromatographie",
+      "enfants": [
+        {
+          "label": "Principe",
+          "enfants": [
+            {
+              "label": "Équilibres continus entre 2 phases",
+              "enfants": []
+            },
+            {
+              "label": "Vitesses de migration différentes",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Classification",
+          "enfants": [
+            {
+              "label": "Nature des phases : CPL, CPS, CPG",
+              "enfants": []
+            },
+            {
+              "label": "Phénomène : adsorption, partage, ions, exclusion",
+              "enfants": []
+            },
+            {
+              "label": "Forme : colonne, papier, CCM",
+              "enfants": []
+            },
+            {
+              "label": "Migration : développement, élution",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Théorie des plateaux",
+          "enfants": [
+            {
+              "label": "CS = K·CM",
+              "enfants": []
+            },
+            {
+              "label": "Dépôt, développement, élution",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Pic gaussien",
+          "enfants": [
+            {
+              "label": "Inflexion 0,607 ; sommet 1,214",
+              "enfants": []
+            },
+            {
+              "label": "ω = 4σ = 1,7δ ; δ = 2,35σ",
+              "enfants": []
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

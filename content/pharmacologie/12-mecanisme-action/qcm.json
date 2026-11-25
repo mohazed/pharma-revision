@@ -1,0 +1,2036 @@
+[
+  {
+    "id": "pharmacologie/12-mecanisme-action/qcm-001",
+    "type": "multiple",
+    "enonce": "Concernant l'effet pharmacodynamique :",
+    "options": [
+      "C'est une modification mesurable et reproductible",
+      "Il peut être fonctionnel ou organique",
+      "Il est provoqué par la fixation du médicament sur sa cible moléculaire",
+      "Il correspond au devenir du médicament dans l'organisme",
+      "Il n'est jamais reproductible"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Le cours définit l'effet pharmacodynamique comme une modification mesurable et reproductible, fonctionnelle ou organique, provoquée par la fixation du médicament sur sa cible moléculaire. Il ne s'agit pas du devenir du médicament (pharmacocinétique).",
+    "source": {
+      "page": 3,
+      "extrait": "une modification mesurable et reproductible, fonctionnelle ou organique, provoquée par la fixation du médicament sur sa cible moléculaire"
+    },
+    "difficulte": 1,
+    "tags": [
+      "effet pharmacodynamique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/qcm-002",
+    "type": "unique",
+    "enonce": "L'effet pharmacodynamique résulte de :",
+    "options": [
+      "L'absorption du médicament",
+      "La fixation du médicament sur sa cible moléculaire",
+      "L'élimination rénale du médicament",
+      "La fixation du médicament sur l'albumine",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Selon la définition du cours, l'effet est provoqué par la fixation du médicament sur sa cible moléculaire.",
+    "source": {
+      "page": 3,
+      "extrait": "provoquée par la fixation du médicament sur sa cible moléculaire"
+    },
+    "difficulte": 1,
+    "tags": [
+      "effet pharmacodynamique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/qcm-003",
+    "type": "multiple",
+    "enonce": "Parmi les caractéristiques de la liaison médicament-cible présentées dans le cours :",
+    "options": [
+      "La liaison est réversible",
+      "La liaison est toujours irréversible",
+      "Elle aboutit à un état d'équilibre (saturation)",
+      "L'affinité correspond à la reconnaissance mutuelle des deux partenaires",
+      "La sélectivité, l'affinité et l'activité sont évoquées"
+    ],
+    "correctes": [
+      0,
+      2,
+      3,
+      4
+    ],
+    "explication": "Le cours décrit une liaison réversible conduisant à un état d'équilibre (saturation). Le schéma présente l'affinité (reconnaissance mutuelle des 2 partenaires), la sélectivité et l'activité (réponse biologique).",
+    "source": {
+      "page": 5,
+      "extrait": "Liaison reversible: État d’équilibre (Saturation)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "liaison médicament-cible"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/qcm-004",
+    "type": "multiple",
+    "enonce": "Selon le schéma de la liaison médicament-cible, après la fixation du médicament sur le récepteur :",
+    "options": [
+      "Il y a couplage avec des effecteurs",
+      "Il y a une transduction intracellulaire",
+      "La réponse biologique correspond à l'effet (activité)",
+      "La sélectivité correspond à l'aptitude à ne pas se lier à d'autres cibles",
+      "La transduction est extracellulaire"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Le schéma enchaîne : fixation (affinité) → couplage avec des effecteurs → transduction intracellulaire → réponse biologique ⇒ effet (activité). La sélectivité est représentée par les cibles auxquelles le médicament ne se fixe pas. La transduction est intracellulaire, non extracellulaire.",
+    "source": {
+      "page": 6,
+      "extrait": "Couplage avec des effecteurs ; Transduction intracellulaire ; Réponse biologique ⇒ effet ; Activité"
+    },
+    "difficulte": 2,
+    "tags": [
+      "liaison médicament-cible",
+      "sélectivité"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/qcm-005",
+    "type": "multiple",
+    "enonce": "L'affinité d'un médicament :",
+    "options": [
+      "Est le degré ou la capacité de liaison d'un médicament avec sa cible",
+      "Correspond à la puissance d'interaction",
+      "Est exprimée par le pD2",
+      "Est assimilée à l'efficacité du ligand",
+      "Est exprimée par le facteur α"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "L'affinité (pD2) est le degré ou la capacité de liaison d'un médicament avec sa cible, c'est la puissance d'interaction. L'efficacité et le facteur α correspondent à l'activité intrinsèque.",
+    "source": {
+      "page": 7,
+      "extrait": "C’est le degré ou la capacité de liaison d’un médicament avec sa cible (c’est la puissance d’interaction)."
+    },
+    "difficulte": 1,
+    "tags": [
+      "affinité"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/qcm-006",
+    "type": "multiple",
+    "enonce": "Concernant la CE50 :",
+    "options": [
+      "C'est la concentration molaire du médicament qui produit 50 % de la réponse maximale",
+      "C'est la concentration qui produit 100 % de la réponse",
+      "Elle permet de calculer le pD2",
+      "pD2 = - log (CE50)",
+      "pD2 = log (CE50)"
+    ],
+    "correctes": [
+      0,
+      2,
+      3
+    ],
+    "explication": "La CE50 est la concentration molaire produisant 50 % de la réponse maximale. L'affinité se calcule par pD2 = - log (CE50), et non log (CE50).",
+    "source": {
+      "page": 8,
+      "extrait": "[CE5O]: concentration molaire du médicament qui produit 50% de la réponse maximal."
+    },
+    "difficulte": 1,
+    "tags": [
+      "CE50",
+      "pD2"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/qcm-007",
+    "type": "multiple",
+    "enonce": "Le pD2 :",
+    "options": [
+      "Est déterminé par l'inverse du logarithme décimal de la CE50",
+      "Est déterminé par le logarithme népérien de la CE50",
+      "Exprime l'affinité",
+      "Est assimilé à la puissance du ligand",
+      "Est compris entre 0 et 1"
+    ],
+    "correctes": [
+      0,
+      2,
+      3
+    ],
+    "explication": "Le pD2 est déterminé par l'inverse du logarithme décimal (et non népérien) de la concentration molaire induisant 50 % de l'effet maximal ; il exprime l'affinité, assimilée à la puissance. C'est α qui est compris entre 0 et 1.",
+    "source": {
+      "page": 8,
+      "extrait": "Elle est déterminée par l’inverse du logarithme décimal de la concentration molaire DE50 du produit induisant 50% de la réponse"
+    },
+    "difficulte": 2,
+    "tags": [
+      "pD2"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/qcm-008",
+    "type": "unique",
+    "enonce": "L'affinité est assimilée à :",
+    "options": [
+      "L'efficacité du ligand",
+      "L'activité intrinsèque",
+      "La puissance du ligand",
+      "L'effet maximal",
+      "La sélectivité"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Le cours précise que l'affinité est assimilée à la puissance du ligand ; l'efficacité correspond à l'activité intrinsèque.",
+    "source": {
+      "page": 8,
+      "extrait": "L’affinité est assimilée à la puissance du ligand."
+    },
+    "difficulte": 1,
+    "tags": [
+      "affinité",
+      "puissance"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/qcm-009",
+    "type": "multiple",
+    "enonce": "Deux médicaments A et C donnent le même effet maximal (100 %) mais la CE50 de C est inférieure à celle de A :",
+    "options": [
+      "C est plus puissant que A",
+      "A est plus puissant que C",
+      "Le pD2 de C est supérieur à celui de A",
+      "C a une affinité plus grande que A",
+      "A et C ont nécessairement des activités intrinsèques différentes"
+    ],
+    "correctes": [
+      0,
+      2,
+      3
+    ],
+    "explication": "Une CE50 plus faible donne un pD2 (= - log CE50) plus élevé : affinité et puissance plus grandes (notion de puissance C > A). Les deux atteignent 100 % : rien n'indique une activité intrinsèque différente.",
+    "source": {
+      "page": 15,
+      "extrait": "EC50 < EC50 notion de puissance C > A"
+    },
+    "difficulte": 3,
+    "tags": [
+      "puissance",
+      "CE50"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/qcm-010",
+    "type": "multiple",
+    "enonce": "Deux agonistes A et B ont la même CE50, mais l'effet maximal de B n'atteint que 82 % de celui de A :",
+    "options": [
+      "A et B ont la même affinité",
+      "B a une activité intrinsèque inférieure à celle de A",
+      "B est plus puissant que A",
+      "Leur Emax est différent",
+      "A et B ont des pD2 différents"
+    ],
+    "correctes": [
+      0,
+      1,
+      3
+    ],
+    "explication": "Même CE50 donc même pD2 (même affinité) ; l'Emax de B est plus faible : son activité intrinsèque (efficacité) est inférieure. Les substances stimulant le même récepteur n'ont pas forcément le même Emax.",
+    "source": {
+      "page": 14,
+      "extrait": "EC50 = EC50"
+    },
+    "difficulte": 3,
+    "tags": [
+      "activité intrinsèque",
+      "Emax"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/qcm-011",
+    "type": "multiple",
+    "enonce": "L'activité intrinsèque :",
+    "options": [
+      "Est la capacité du ligand à produire un effet pharmacologique plus ou moins important en se liant au récepteur",
+      "Correspond à l'efficacité du ligand",
+      "Est représentée par le facteur α",
+      "Correspond à la puissance d'interaction",
+      "Est exprimée par le pD2"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "L'activité intrinsèque est l'efficacité du ligand, représentée par le facteur α. La puissance d'interaction et le pD2 caractérisent l'affinité.",
+    "source": {
+      "page": 9,
+      "extrait": "C’est la capacité du ligand à produire un effet pharmacologique plus ou moins important en se liant au récepteur = c’est l’efficacité du ligand"
+    },
+    "difficulte": 1,
+    "tags": [
+      "activité intrinsèque"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/qcm-012",
+    "type": "multiple",
+    "enonce": "À propos des substances stimulant le même récepteur du même organe :",
+    "options": [
+      "Elles ont toutes la même intensité de l'effet maximum",
+      "Elles n'ont pas la même intensité de l'effet maximum",
+      "Leur Emax peut être différent",
+      "La réponse de l'agoniste tient compte d'un facteur propre à chaque substance",
+      "Ce facteur propre est le pD2"
+    ],
+    "correctes": [
+      1,
+      2,
+      3
+    ],
+    "explication": "Le cours indique que ces substances n'ont pas le même Emax ; la réponse tient compte d'un facteur propre à chaque substance, le facteur α (pas le pD2).",
+    "source": {
+      "page": 9,
+      "extrait": "Les substances stimulant le même récepteur du même organe n’ont pas la même intensité de l’effet maximum (Emax différent )"
+    },
+    "difficulte": 2,
+    "tags": [
+      "activité intrinsèque",
+      "Emax"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/qcm-013",
+    "type": "unique",
+    "enonce": "L'activité intrinsèque α se calcule par :",
+    "options": [
+      "α = EM / EMax",
+      "α = EMax / EM",
+      "α = - log (CE50)",
+      "α = CE50 / EMax",
+      "α = log (EM)"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "α = EM / EMax : rapport de la réponse maximale de la substance étudiée à la réponse maximale de la substance de référence. - log (CE50) est le pD2.",
+    "source": {
+      "page": 10,
+      "extrait": "= EM / EMax"
+    },
+    "difficulte": 1,
+    "tags": [
+      "activité intrinsèque",
+      "formule"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/qcm-014",
+    "type": "multiple",
+    "enonce": "Concernant le facteur α :",
+    "options": [
+      "Sa valeur est comprise entre 0 et 1",
+      "Il est déterminé par le rapport entre la réponse maximale de la substance A et celle de la substance de référence",
+      "Il traduit la capacité du complexe médicament-récepteur à induire la réponse pharmacologique",
+      "Il peut dépasser 1 pour un agoniste parfait",
+      "Il mesure l'affinité"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "α est compris entre 0 et 1 (égal à 1 pour l'agoniste parfait, jamais supérieur). Il est déterminé par le rapport EAm / Em et traduit la capacité du complexe médicament-récepteur à induire la réponse ; il ne mesure pas l'affinité.",
+    "source": {
+      "page": 10,
+      "extrait": "L’activité intrinsèque est représentée par un facteur  dont la valeur est comprise entre 0 et 1"
+    },
+    "difficulte": 2,
+    "tags": [
+      "activité intrinsèque"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/qcm-015",
+    "type": "unique",
+    "enonce": "Un ligand dont l'activité intrinsèque α = 1 est :",
+    "options": [
+      "Un antagoniste",
+      "Un agoniste partiel",
+      "Un agoniste parfait",
+      "Un agoniste-antagoniste",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "α = 1 : agoniste parfait ; 0 < α < 1 : agoniste partiel ; α = 0 : antagoniste.",
+    "source": {
+      "page": 11,
+      "extrait": "= 1 : Agoniste parfait."
+    },
+    "difficulte": 1,
+    "tags": [
+      "agoniste parfait"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/qcm-016",
+    "type": "unique",
+    "enonce": "Un ligand dont l'activité intrinsèque est comprise entre 0 et 1 (exclus) est :",
+    "options": [
+      "Un agoniste parfait",
+      "Un agoniste partiel",
+      "Un antagoniste",
+      "Un médicament à action non spécifique",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "0 < α < 1 définit l'agoniste partiel.",
+    "source": {
+      "page": 11,
+      "extrait": "0    1: Agoniste partiel."
+    },
+    "difficulte": 1,
+    "tags": [
+      "agoniste partiel"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/qcm-017",
+    "type": "multiple",
+    "enonce": "Un antagoniste :",
+    "options": [
+      "A une activité intrinsèque α = 0",
+      "Est incapable de donner un effet lorsqu'il se fixe sur une cible",
+      "Possède une affinité (pD2)",
+      "A une activité intrinsèque α = 1",
+      "Ne se fixe pas sur sa cible"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "L'antagoniste se fixe sur la cible (il a une affinité, pD2) mais est incapable de donner un effet : α = 0.",
+    "source": {
+      "page": 13,
+      "extrait": "Toute substance qui lorsqu’elle se fixe sur une cible est incapable de donner un effet."
+    },
+    "difficulte": 1,
+    "tags": [
+      "antagoniste"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/qcm-018",
+    "type": "multiple",
+    "enonce": "Un agoniste :",
+    "options": [
+      "Se lie à une cible spécifique",
+      "Induit un effet pharmacologique similaire à une substance endogène",
+      "Est caractérisé par une activité intrinsèque (α)",
+      "Est caractérisé par une affinité (pD2)",
+      "Est incapable de donner un effet"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "L'agoniste se lie à une cible spécifique et induit un effet similaire à une substance endogène ; il est caractérisé par α et pD2. L'incapacité à donner un effet définit l'antagoniste.",
+    "source": {
+      "page": 13,
+      "extrait": "Toute Substance capable de se lier à une cible spécifique et qui va induire un effet pharmacologique similaire à une Substance endogène."
+    },
+    "difficulte": 1,
+    "tags": [
+      "agoniste"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/qcm-019",
+    "type": "multiple",
+    "enonce": "Quelles grandeurs caractérisent l'agoniste et l'antagoniste ?",
+    "options": [
+      "L'agoniste est caractérisé par l'affinité et l'activité intrinsèque",
+      "L'antagoniste est caractérisé par l'affinité seule",
+      "L'antagoniste est caractérisé par l'activité intrinsèque seule",
+      "L'agoniste est caractérisé par l'affinité seule",
+      "Les deux sont dépourvus d'affinité"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Le cours associe à l'agoniste l'activité intrinsèque (α) et l'affinité (pD2), et à l'antagoniste uniquement l'affinité (pD2).",
+    "source": {
+      "page": 13,
+      "extrait": "Antagoniste Toute substance qui lorsqu’elle se fixe sur une cible est incapable de donner un effet. Affinité (PD2)."
+    },
+    "difficulte": 2,
+    "tags": [
+      "agoniste",
+      "antagoniste"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/qcm-020",
+    "type": "multiple",
+    "enonce": "Parmi les morphiniques, sont présentés comme agonistes purs (morphinomimétiques) :",
+    "options": [
+      "La morphine",
+      "Le fentanyl",
+      "La buprénorphine",
+      "La naloxone",
+      "La codéine"
+    ],
+    "correctes": [
+      0,
+      1,
+      4
+    ],
+    "explication": "Agonistes purs : morphine, fentanyl, hydromorphone, oxycodone, codéine, tramadol. La buprénorphine est un agoniste partiel et la naloxone un antagoniste.",
+    "source": {
+      "page": 12,
+      "extrait": "Agonistes purs Morphinomimétiques Morphine Fentanyl Hydromorphone Oxycodone Codéine Tramadol"
+    },
+    "difficulte": 2,
+    "tags": [
+      "morphiniques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/qcm-021",
+    "type": "unique",
+    "enonce": "Selon le schéma des morphiniques, la buprénorphine est :",
+    "options": [
+      "Un agoniste pur",
+      "Un agoniste-antagoniste",
+      "Un agoniste partiel",
+      "Un antagoniste",
+      "Un médicament à action non spécifique"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Le schéma classe la buprénorphine parmi les agonistes partiels.",
+    "source": {
+      "page": 12,
+      "extrait": "Agonistes partiels Buprénorphine"
+    },
+    "difficulte": 2,
+    "tags": [
+      "morphiniques",
+      "agoniste partiel"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/qcm-022",
+    "type": "multiple",
+    "enonce": "Concernant les morphiniques présentés dans le cours :",
+    "options": [
+      "La naloxone est un antagoniste",
+      "La nalbuphine est un agoniste-antagoniste",
+      "La nalbuphine bloque le récepteur µ et active le récepteur κ",
+      "Le tramadol est un antagoniste",
+      "L'oxycodone est un agoniste partiel"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Naloxone : antagoniste ; nalbuphine : agoniste-antagoniste (µ barré, κ activé sur le schéma). Tramadol et oxycodone sont des agonistes purs.",
+    "source": {
+      "page": 12,
+      "extrait": "Agonistes antagonistes Nalbuphine ; Antagonistes Naloxone"
+    },
+    "difficulte": 3,
+    "tags": [
+      "morphiniques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/qcm-023",
+    "type": "multiple",
+    "enonce": "Les médicaments à action non spécifique :",
+    "options": [
+      "Agissent par leurs propriétés physico-chimiques",
+      "Agissent sur des cibles cellulaires",
+      "Comprennent les antiacides (sels d'aluminium et de magnésium)",
+      "Comprennent l'huile de paraffine",
+      "Comprennent le captopril"
+    ],
+    "correctes": [
+      0,
+      2,
+      3
+    ],
+    "explication": "Les médicaments à action non spécifique agissent par leurs propriétés physico-chimiques (antiacides : effet tampon ; huile de paraffine : pouvoir lubrifiant). Les médicaments à action spécifique agissent sur des cibles cellulaires, comme le captopril (enzyme de conversion).",
+    "source": {
+      "page": 16,
+      "extrait": "Médicaments à action non spécifique Propriétés physico-chimiques"
+    },
+    "difficulte": 1,
+    "tags": [
+      "action non spécifique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/qcm-024",
+    "type": "unique",
+    "enonce": "L'huile de paraffine agit par :",
+    "options": [
+      "Effet tampon",
+      "Pouvoir lubrifiant",
+      "Inhibition enzymatique",
+      "Fixation sur un récepteur couplé aux protéines G",
+      "Inhibition des canaux sodiques"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "L'huile de paraffine est un exemple de médicament à action non spécifique, par pouvoir lubrifiant. L'effet tampon concerne les antiacides.",
+    "source": {
+      "page": 16,
+      "extrait": "L'huile de paraffine (pouvoir lubrifiant)."
+    },
+    "difficulte": 1,
+    "tags": [
+      "action non spécifique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/qcm-025",
+    "type": "unique",
+    "enonce": "Les antiacides (sels d'aluminium et de magnésium) agissent par :",
+    "options": [
+      "Pouvoir lubrifiant",
+      "Effet tampon",
+      "Inhibition de la cyclooxygénase",
+      "Inhibition de la Na+/K+-ATPase",
+      "Activation de l'adénylcyclase"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Les antiacides agissent par effet tampon (action non spécifique, propriétés physico-chimiques).",
+    "source": {
+      "page": 16,
+      "extrait": "Les antiacides: sels d'aluminium et de magnésium (effet tampon);"
+    },
+    "difficulte": 1,
+    "tags": [
+      "action non spécifique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/qcm-026",
+    "type": "multiple",
+    "enonce": "Concernant les cibles moléculaires des médicaments :",
+    "options": [
+      "Ce sont essentiellement des protéines",
+      "Ce sont essentiellement des lipides",
+      "On les classe selon leur rôle dans la cellule",
+      "On distingue les protéines-récepteurs des médiateurs de l'organisme",
+      "On distingue les protéines à rôle enzymatique"
+    ],
+    "correctes": [
+      0,
+      2,
+      3,
+      4
+    ],
+    "explication": "Les cibles sont essentiellement des protéines, classées selon leur rôle : récepteurs des médiateurs, protéines du passage transmembranaire d'ions ou de métabolites, protéines à rôle enzymatique.",
+    "source": {
+      "page": 17,
+      "extrait": "Nature des cibles: essentiellement des protéines. Selon leur rôle dans la cellule on distingue"
+    },
+    "difficulte": 1,
+    "tags": [
+      "cibles"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/qcm-027",
+    "type": "multiple",
+    "enonce": "Les trois catégories de protéines cibles selon leur rôle sont :",
+    "options": [
+      "Les récepteurs des médiateurs de l'organisme",
+      "Les protéines assurant le passage transmembranaire d'un ion ou d'un métabolite",
+      "Les protéines à rôle enzymatique",
+      "Les protéines plasmatiques de transport",
+      "Les protéines de structure du cytosquelette"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Le cours distingue A (récepteurs des médiateurs), B (passage transmembranaire d'un ion ou d'un métabolite) et C (rôle enzymatique).",
+    "source": {
+      "page": 17,
+      "extrait": "A. Les protéines cibles jouant le rôle de récepteur des médiateurs de l'organisme"
+    },
+    "difficulte": 1,
+    "tags": [
+      "cibles"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/qcm-028",
+    "type": "multiple",
+    "enonce": "Le récepteur pharmacologique :",
+    "options": [
+      "Est une structure chimique fonctionnelle",
+      "Peut fixer spécifiquement un médiateur endogène (hormone, facteur de croissance, neuromédiateur)",
+      "Peut fixer un médiateur extérieur (médicament)",
+      "Sa stimulation est à l'origine de l'effet pharmacodynamique",
+      "Ne fixe jamais de médicament"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Le récepteur pharmacologique est une structure chimique fonctionnelle sur laquelle la fixation spécifique d'un médiateur endogène ou extérieur (médicament) provoque un stimulus à l'origine de l'effet pharmacodynamique.",
+    "source": {
+      "page": 18,
+      "extrait": "une structure chimique fonctionnelle sur laquelle la fixation spécifique d’un médiateur endogène"
+    },
+    "difficulte": 1,
+    "tags": [
+      "récepteur"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/qcm-029",
+    "type": "unique",
+    "enonce": "La molécule qui se lie au récepteur est appelée :",
+    "options": [
+      "Effecteur",
+      "Ligand",
+      "Second messager",
+      "Transducteur",
+      "Substrat"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "La molécule qui se lie au récepteur est appelée un ligand.",
+    "source": {
+      "page": 18,
+      "extrait": "La molécule qui se lie au récepteur est appelée un ligand"
+    },
+    "difficulte": 1,
+    "tags": [
+      "ligand"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/qcm-030",
+    "type": "multiple",
+    "enonce": "Parmi les récepteurs membranaires, on distingue :",
+    "options": [
+      "Les récepteurs couplés aux protéines G",
+      "Les récepteurs enzymes",
+      "Les récepteurs canaux",
+      "Les récepteurs nucléaires",
+      "Les récepteurs cytosoliques"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Récepteurs membranaires : couplés aux protéines G, enzymes, canaux. Les récepteurs cytosoliques et nucléaires sont intracellulaires.",
+    "source": {
+      "page": 19,
+      "extrait": "1. Les récepteurs membranaires Récepteurs couplés aux protéines G Récepteurs enzymes Récepteurs canaux"
+    },
+    "difficulte": 1,
+    "tags": [
+      "récepteurs membranaires"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/qcm-031",
+    "type": "multiple",
+    "enonce": "Les récepteurs intracellulaires comprennent :",
+    "options": [
+      "Les récepteurs cytosoliques",
+      "Les récepteurs nucléaires",
+      "Les récepteurs canaux",
+      "Les récepteurs couplés aux protéines G",
+      "Les récepteurs enzymes"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Les récepteurs intracellulaires sont cytosoliques ou nucléaires ; les trois autres types sont membranaires.",
+    "source": {
+      "page": 19,
+      "extrait": "2. Les récepteurs intracellulaires Récepteurs cytosoliques Récepteurs nucléaires"
+    },
+    "difficulte": 1,
+    "tags": [
+      "récepteurs intracellulaires"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/qcm-032",
+    "type": "multiple",
+    "enonce": "Dans un récepteur couplé à la protéine G, interviennent dans la transmission de l'information :",
+    "options": [
+      "Le récepteur",
+      "La protéine G",
+      "L'effecteur",
+      "L'ARN polymérase",
+      "La pompe Na+/K+-ATPase"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Trois composants interviennent : le récepteur, la protéine G et l'effecteur.",
+    "source": {
+      "page": 20,
+      "extrait": "Trois composants interviennent dans la transmission de l'information : Le récepteur, La protéine G et L’effecteur."
+    },
+    "difficulte": 1,
+    "tags": [
+      "RCPG"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/qcm-033",
+    "type": "multiple",
+    "enonce": "D'après le schéma de structure des récepteurs couplés aux protéines G :",
+    "options": [
+      "L'extrémité NH2 du récepteur est extracellulaire",
+      "L'extrémité COOH du récepteur est intracellulaire",
+      "La protéine G comporte des sous-unités α, β et γ",
+      "Au repos, la sous-unité α est liée au GDP",
+      "L'extrémité NH2 est intracellulaire"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Sur le schéma, NH2 est côté extracellulaire et COOH côté intracellulaire ; la protéine G est formée des sous-unités α (liée au GDP au repos), β et γ.",
+    "source": {
+      "page": 20,
+      "extrait": "Récepteurs couplés à la protéine G Structure:"
+    },
+    "difficulte": 3,
+    "tags": [
+      "RCPG",
+      "protéine G"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/qcm-034",
+    "type": "multiple",
+    "enonce": "D'après le schéma de structure des RCPG, l'effecteur peut être :",
+    "options": [
+      "Une enzyme",
+      "Un canal",
+      "Un transporteur",
+      "Un récepteur nucléaire",
+      "Un ARNm"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Le schéma liste comme effecteurs : enzyme, canal, transporteur ; ils produisent des messagers secondaires.",
+    "source": {
+      "page": 20,
+      "extrait": "Effecteur • enzyme • canal • transporteur"
+    },
+    "difficulte": 2,
+    "tags": [
+      "RCPG",
+      "effecteurs"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/qcm-035",
+    "type": "multiple",
+    "enonce": "Concernant le fonctionnement de la protéine G (schéma du cours) :",
+    "options": [
+      "Au repos, la sous-unité α est liée au GDP",
+      "L'occupation du récepteur permet la liaison du GTP à la sous-unité α",
+      "La sous-unité α liée au GTP active les protéines cibles",
+      "L'hydrolyse du GTP ramène la sous-unité α à l'état lié au GDP",
+      "Au repos, la sous-unité α est liée au GTP"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Cycle du schéma : repos (α-GDP) → récepteur occupé, échange GDP/GTP → α-GTP active les protéines cibles → hydrolyse du GTP (GDP + P) → retour au repos.",
+    "source": {
+      "page": 21,
+      "extrait": "Récepteurs couplés à la protéine G Fonctionnement:"
+    },
+    "difficulte": 3,
+    "tags": [
+      "protéine G"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/qcm-036",
+    "type": "multiple",
+    "enonce": "Les récepteurs couplés aux protéines G :",
+    "options": [
+      "Sont activés par des neuromédiateurs",
+      "Sont activés par des hormones peptidiques",
+      "Ont pour rôle la transduction du signal du premier messager, le ligand",
+      "Sont des récepteurs intracellulaires",
+      "Ont pour rôle de transporter des ions contre leur gradient grâce à l'ATP"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Les RCPG sont membranaires, activés par des neuromédiateurs, des hormones peptidiques… et assurent la transduction du signal du 1er messager (ligand).",
+    "source": {
+      "page": 22,
+      "extrait": "Activés par des neuromédiateurs, des hormones peptidiques…. Rôle : transduction du signal du 1er messager : ligand"
+    },
+    "difficulte": 1,
+    "tags": [
+      "RCPG"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/qcm-037",
+    "type": "multiple",
+    "enonce": "Parmi les effecteurs enzymes des récepteurs couplés aux protéines G :",
+    "options": [
+      "L'adénylcyclase",
+      "La phosphodiestérase GMPc",
+      "La phospholipase A2",
+      "La phospholipase C",
+      "La cyclooxygénase"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Effecteurs enzymes cités : adénylcyclase, phosphodiestérase GMPc, phospholipase A2, phospholipase C. La cyclooxygénase est citée comme enzyme cible de l'aspirine, pas comme effecteur des RCPG.",
+    "source": {
+      "page": 23,
+      "extrait": "Adénylcyclase Phosphodiesterase GMPC Phospholipase A2 Phospholipase C"
+    },
+    "difficulte": 2,
+    "tags": [
+      "effecteurs"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/qcm-038",
+    "type": "multiple",
+    "enonce": "Les effecteurs canaux ioniques des récepteurs couplés aux protéines G sont :",
+    "options": [
+      "Les canaux potassiques",
+      "Les canaux calciques",
+      "Les canaux sodiques",
+      "Les canaux chlorures",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Le tableau des effecteurs canaux ioniques des RCPG cite les canaux potassiques et calciques.",
+    "source": {
+      "page": 23,
+      "extrait": "Les effecteurs canaux ioniques Canaux potassiques Canaux calciques"
+    },
+    "difficulte": 2,
+    "tags": [
+      "effecteurs"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/qcm-039",
+    "type": "multiple",
+    "enonce": "Concernant les récepteurs à adénylate cyclase :",
+    "options": [
+      "L'adénylcyclase activée transforme l'ATP en AMPc",
+      "L'AMPc est un second messager",
+      "L'AMPc active la PKA",
+      "La phosphodiestérase (PDE) dégrade l'AMPc en AMP",
+      "La PDE augmente la concentration d'AMPc"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Ligand → récepteur → AC activée : ATP → AMPc (second messager) → PKA (+) → effets cellulaires. La PDE transforme l'AMPc en AMP (−), elle diminue donc l'AMPc.",
+    "source": {
+      "page": 24,
+      "extrait": "Fig : Les récepteurs à adénylate cyclase (Second messager)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "adénylate cyclase",
+      "AMPc"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/qcm-040",
+    "type": "unique",
+    "enonce": "Dans la voie de l'adénylate cyclase, le second messager est :",
+    "options": [
+      "L'ATP",
+      "L'AMPc",
+      "Le ligand",
+      "La PKA",
+      "L'AMP"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "L'AMPc, produit à partir de l'ATP par l'adénylcyclase, est le second messager ; le ligand est le premier messager.",
+    "source": {
+      "page": 24,
+      "extrait": "ATP AMPC + PKA Effets cellulaires (Second messager)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "AMPc",
+      "second messager"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/qcm-041",
+    "type": "multiple",
+    "enonce": "Sont des exemples de récepteurs couplés aux protéines G :",
+    "options": [
+      "Les récepteurs histaminiques H1 et H2",
+      "Les récepteurs muscariniques de l'acétylcholine",
+      "Les récepteurs α et β adrénergiques",
+      "Les récepteurs de la vitamine D",
+      "Les récepteurs des glucocorticoïdes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Exemples de RCPG : H1 et H2, muscariniques, α et β adrénergiques, dopamine, sérotonine 5HT, morphiniques, GABA-B. Les récepteurs de la vitamine D (nucléaires) et des glucocorticoïdes (cytosoliques) sont intracellulaires.",
+    "source": {
+      "page": 25,
+      "extrait": "Les récepteurs histaminiques H1 et H 2 Les récepteurs muscariniques de l’acétylcholine"
+    },
+    "difficulte": 2,
+    "tags": [
+      "RCPG",
+      "exemples"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/qcm-042",
+    "type": "multiple",
+    "enonce": "Sont cités comme récepteurs couplés aux protéines G :",
+    "options": [
+      "Les récepteurs de la dopamine",
+      "Les récepteurs de la sérotonine 5HT",
+      "Les récepteurs morphiniques",
+      "Les récepteurs B de l'acide γ-aminobutyrique (GABA)",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Tous ces récepteurs figurent dans la liste d'exemples de RCPG du cours.",
+    "source": {
+      "page": 25,
+      "extrait": "Les récepteurs de la dopamine Les récepteurs de la sérotonine 5HT Les récepteurs morphiniques"
+    },
+    "difficulte": 2,
+    "tags": [
+      "RCPG",
+      "exemples"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/qcm-043",
+    "type": "multiple",
+    "enonce": "Les récepteurs cytosoliques :",
+    "options": [
+      "Sont des glycoprotéines en interaction avec l'ADN cellulaire",
+      "Leur activation entraîne une modification de la synthèse protéique spécifique",
+      "Ont comme exemple les récepteurs des glucocorticoïdes",
+      "Ont comme exemple les récepteurs des hormones thyroïdiennes",
+      "Sont des récepteurs membranaires"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Récepteurs cytosoliques : glycoprotéines en interaction avec l'ADN, modification de la synthèse protéique spécifique ; exemple : récepteurs des glucocorticoïdes. Les hormones thyroïdiennes ont des récepteurs nucléaires.",
+    "source": {
+      "page": 27,
+      "extrait": "Glycoprotéines  interaction l'ADN cellulaire. L’activation de ces récepteurs  une modification de la synthèse protéique spécifique."
+    },
+    "difficulte": 2,
+    "tags": [
+      "récepteurs cytosoliques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/qcm-044",
+    "type": "multiple",
+    "enonce": "Les récepteurs nucléaires :",
+    "options": [
+      "Sont des protéines à localisation nucléaire",
+      "Se lient à la région promotrice des gènes",
+      "Peuvent augmenter ou réprimer la transcription des gènes en ARNm",
+      "Ont comme exemples les récepteurs de la vitamine D et des hormones thyroïdiennes",
+      "Ont comme exemple les récepteurs muscariniques"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Récepteurs nucléaires : protéines à localisation nucléaire se liant à la région promotrice des gènes pour augmenter ou réprimer leur transcription en ARNm ; exemples : vitamine D, hormones thyroïdiennes. Les muscariniques sont des RCPG.",
+    "source": {
+      "page": 27,
+      "extrait": "Protéine à localisation nucléaire se liant à la région promotrice des gènes pour augmenter ou réprimer leur transcription en ARNm."
+    },
+    "difficulte": 2,
+    "tags": [
+      "récepteurs nucléaires"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/qcm-045",
+    "type": "unique",
+    "enonce": "Les récepteurs des glucocorticoïdes sont, selon le cours :",
+    "options": [
+      "Des récepteurs couplés aux protéines G",
+      "Des récepteurs canaux",
+      "Des récepteurs cytosoliques",
+      "Des récepteurs nucléaires",
+      "Des récepteurs enzymes"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Le cours donne les récepteurs des glucocorticoïdes comme exemple de récepteurs cytosoliques.",
+    "source": {
+      "page": 27,
+      "extrait": "Exp: Récepteurs de glucocorticoïde."
+    },
+    "difficulte": 1,
+    "tags": [
+      "récepteurs cytosoliques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/qcm-046",
+    "type": "multiple",
+    "enonce": "Les protéines cibles assurant le passage transmembranaire d'un ion ou d'un métabolite :",
+    "options": [
+      "Sont dépourvues du rôle de récepteur",
+      "Comprennent les canaux ioniques",
+      "Comprennent les pompes ioniques",
+      "Comprennent les récepteurs nucléaires",
+      "Sont toutes des enzymes de la voie métabolique"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Ces protéines assurent le passage transmembranaire des ions ou des médiateurs, dépourvues du rôle de récepteur ; on distingue les canaux ioniques et les pompes ioniques.",
+    "source": {
+      "page": 29,
+      "extrait": "Protéines cibles assurant le passage t/m des ions ou des médiateurs dépourvus du rôle de récepteur"
+    },
+    "difficulte": 2,
+    "tags": [
+      "passage transmembranaire"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/qcm-047",
+    "type": "multiple",
+    "enonce": "Parmi les canaux ioniques cités dans le cours :",
+    "options": [
+      "Les canaux sodiques",
+      "Les canaux calciques",
+      "Les canaux potassiques",
+      "La Na+/K+-ATPase",
+      "L'échangeur Na+/Ca2+"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Les canaux ioniques cités sont sodiques, calciques et potassiques. La Na+/K+-ATPase est une pompe ionique.",
+    "source": {
+      "page": 29,
+      "extrait": "1. Les canaux ioniques Canaux sodiques Canaux calciques Canaux potassiques"
+    },
+    "difficulte": 1,
+    "tags": [
+      "canaux ioniques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/qcm-048",
+    "type": "multiple",
+    "enonce": "Les pompes ioniques comprennent :",
+    "options": [
+      "Des systèmes dépendant d'un mouvement d'ions",
+      "Des systèmes dépendant de l'hydrolyse de l'ATP",
+      "Les canaux sodiques",
+      "Les récepteurs canaux",
+      "Les canaux potassiques"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Les pompes ioniques se divisent en systèmes dépendant d'un mouvement d'ions et systèmes dépendant de l'hydrolyse de l'ATP. Les canaux sodiques et potassiques sont des canaux ioniques.",
+    "source": {
+      "page": 29,
+      "extrait": "Systèmes dépendant d’un mouvement d’ions. Systèmes dépendant de l’hydrolyse de l’ATP"
+    },
+    "difficulte": 1,
+    "tags": [
+      "pompes ioniques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/qcm-049",
+    "type": "unique",
+    "enonce": "Les canaux ioniques assurent le passage des ions Na+, K+, Ca++ :",
+    "options": [
+      "Du côté le moins concentré au côté le plus concentré",
+      "Du côté le plus concentré au côté le moins concentré",
+      "Contre leur gradient grâce à l'hydrolyse de l'ATP",
+      "Uniquement vers le milieu intracellulaire",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Les canaux ioniques assurent le passage des ions du côté le plus concentré au côté le moins concentré ; le transport contre le gradient avec hydrolyse de l'ATP caractérise les pompes.",
+    "source": {
+      "page": 30,
+      "extrait": "Ils assurent le passage des ions Na+, K+, Ca++ du côté le plus concentré au côté le moins concentré."
+    },
+    "difficulte": 1,
+    "tags": [
+      "canaux ioniques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/qcm-050",
+    "type": "multiple",
+    "enonce": "Concernant les canaux sodiques :",
+    "options": [
+      "Ce sont des complexes glycoprotéiques",
+      "Ils sont présents dans la membrane des neurones",
+      "Ils sont présents dans les cellules striées squelettiques et cardiaques",
+      "Leur activation (ouverture) par dépolarisation assure la conduction du PA",
+      "Leur activation se fait par hyperpolarisation"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Canaux sodiques : complexes glycoprotéiques des membranes des neurones et des cellules striées squelettiques et cardiaques ; leur ouverture par dépolarisation (et non hyperpolarisation) assure la conduction du potentiel d'action.",
+    "source": {
+      "page": 31,
+      "extrait": "Rôle physiologique: Activation (ouverture), par dépolarisation, assure la conduction du PA."
+    },
+    "difficulte": 2,
+    "tags": [
+      "canaux sodiques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/qcm-051",
+    "type": "multiple",
+    "enonce": "Médicaments agissant par inhibition des canaux sodiques :",
+    "options": [
+      "La procaïne, anesthésique local",
+      "La quinidine, antiarythmique",
+      "La lidocaïne, antiarythmique",
+      "La phénytoïne, antiarythmique",
+      "Le captopril, antihypertenseur"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Le tableau du cours cite la procaïne (anesthésique local) et la quinidine, la lidocaïne, la phénytoïne (antiarythmiques). Le captopril inhibe l'enzyme de conversion.",
+    "source": {
+      "page": 31,
+      "extrait": "Inhibition des canaux sodiques Procaïne Anesthésiques locaux"
+    },
+    "difficulte": 2,
+    "tags": [
+      "canaux sodiques",
+      "antiarythmiques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/qcm-052",
+    "type": "unique",
+    "enonce": "Dans le tableau des médicaments agissant sur les canaux sodiques, la procaïne est utilisée pour :",
+    "options": [
+      "L'arythmie cardiaque",
+      "L'anesthésie locale",
+      "L'insuffisance cardiaque",
+      "L'hypertension artérielle",
+      "L'inflammation"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "La procaïne (anesthésique local) inhibe les canaux sodiques et est utilisée en anesthésie locale.",
+    "source": {
+      "page": 31,
+      "extrait": "Anesthésie locale Inhibition des canaux sodiques Procaïne Anesthésiques locaux"
+    },
+    "difficulte": 1,
+    "tags": [
+      "canaux sodiques",
+      "anesthésiques locaux"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/qcm-053",
+    "type": "multiple",
+    "enonce": "Concernant les pompes ioniques :",
+    "options": [
+      "Ce sont des systèmes actifs",
+      "Elles transportent des ions de part et d'autre de la membrane cellulaire",
+      "Elles impliquent un couplage étroit avec une source d'énergie",
+      "L'énergie peut provenir directement de l'hydrolyse de l'ATP par le transporteur",
+      "Ce sont des systèmes passifs sans source d'énergie"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Les pompes ioniques sont des systèmes actifs, couplés à une source d'énergie : hydrolyse directe de l'ATP ou mouvement ionique (généralement de Na+).",
+    "source": {
+      "page": 32,
+      "extrait": "Les pompes ioniques sont des systèmes actifs capables de transporter des ions de part et d'autre de la membrane cellulaire."
+    },
+    "difficulte": 1,
+    "tags": [
+      "pompes ioniques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/qcm-054",
+    "type": "multiple",
+    "enonce": "L'énergie utilisée par les pompes ioniques peut provenir :",
+    "options": [
+      "De l'hydrolyse de l'ATP, pour un transport contre un gradient de concentration",
+      "D'un mouvement ionique, généralement de Na+",
+      "D'un mouvement ionique dans le sens du gradient électrochimique de l'ion",
+      "D'un mouvement ionique généralement de K+",
+      "De la fixation d'un ligand sur un RCPG"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Selon le cours, l'énergie provient soit directement de l'hydrolyse de l'ATP (transport contre un gradient), soit d'un mouvement ionique, généralement de Na+ (et non de K+), dans le sens du gradient électrochimique.",
+    "source": {
+      "page": 32,
+      "extrait": "soit d'un mouvement ionique, généralement de Na+, s'effectuant dans le sens du gradient électrochimique de l'ion."
+    },
+    "difficulte": 3,
+    "tags": [
+      "pompes ioniques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/qcm-055",
+    "type": "multiple",
+    "enonce": "Concernant la pompe Na+/K+-ATPase :",
+    "options": [
+      "Elle joue un rôle majeur dans le maintien des concentrations internes en Na+ et K+",
+      "Elle maintient le potentiel membranaire",
+      "Elle fait entrer 2 K+ et sortir 3 Na+",
+      "Elle fait entrer 3 K+ et sortir 2 Na+",
+      "C'est un système dépendant de l'hydrolyse de l'ATP"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explication": "La Na+/K+-ATPase (système dépendant de l'hydrolyse de l'ATP) maintient les concentrations internes en Na+ et K+ et le potentiel membranaire par un échange de 2 K+ entrants pour 3 Na+ sortants.",
+    "source": {
+      "page": 33,
+      "extrait": "échange - 2 K+ entrants pour 3 Na+ sortants"
+    },
+    "difficulte": 1,
+    "tags": [
+      "Na+/K+-ATPase"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/qcm-056",
+    "type": "unique",
+    "enonce": "La Na+/K+-ATPase membranaire est constituée de :",
+    "options": [
+      "Une seule chaîne polypeptidique",
+      "Deux hétérodimères comprenant chacun une chaîne lourde et une chaîne légère",
+      "Trois sous-unités α, β et γ comme la protéine G",
+      "Un homodimère de chaînes légères",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Le cours décrit la Na+/K+-ATPase comme un complexe protéique constitué par deux hétérodimères comprenant chacun une chaîne lourde et une chaîne légère.",
+    "source": {
+      "page": 33,
+      "extrait": "un complexe protéique constitué par deux hétérodimères comprenant chacun une chaîne lourde  et une chaîne légère"
+    },
+    "difficulte": 2,
+    "tags": [
+      "Na+/K+-ATPase"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/qcm-057",
+    "type": "multiple",
+    "enonce": "Concernant les glucosides cardiotoniques (digitaliques) :",
+    "options": [
+      "Ce sont des inhibiteurs de la Na+/K+-ATPase",
+      "Ils agissent sur la face extracellulaire de la pompe",
+      "Ils entraînent une accumulation de Na+ sous la membrane",
+      "Ils activent l'échangeur Na+/Ca2+",
+      "Ils diminuent le Ca++ intracellulaire"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Les digitaliques inhibent la Na+/K+-ATPase sur sa face extracellulaire : le Na+ s'accumule sous la membrane, ce qui active l'échangeur Na+/Ca2+ et augmente (et non diminue) le Ca++ intracellulaire.",
+    "source": {
+      "page": 34,
+      "extrait": "Inhibe la Na+K+ ATPase membranaire : sur la face extracellulaire"
+    },
+    "difficulte": 2,
+    "tags": [
+      "digitaliques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/qcm-058",
+    "type": "multiple",
+    "enonce": "L'augmentation du Ca++ intracellulaire induite par les digitaliques :",
+    "options": [
+      "Favorise la contraction du myocarde",
+      "Produit un effet inotrope positif",
+      "Justifie leur utilisation comme cardiotoniques dans l'insuffisance cardiaque",
+      "Produit un effet inotrope négatif",
+      "Résulte d'une activation de la Na+/K+-ATPase"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "L'augmentation du Ca++ intracellulaire favorise la contraction du myocarde (effet inotrope positif) ; les digitaliques sont ainsi des cardiotoniques de l'insuffisance cardiaque. Elle résulte de l'inhibition, et non de l'activation, de la pompe.",
+    "source": {
+      "page": 33,
+      "extrait": "Augmentation du Ca ++ intracellulaire favorisant la contraction du myocarde avec effet inotrope positif."
+    },
+    "difficulte": 2,
+    "tags": [
+      "digitaliques",
+      "inotrope positif"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/qcm-059",
+    "type": "unique",
+    "enonce": "Ordre correct des événements après administration d'un digitalique :",
+    "options": [
+      "Activation de l'échangeur Na+/Ca2+ → inhibition de la Na+/K+-ATPase → accumulation de Na+ → ↑ Ca++",
+      "Inhibition de la Na+/K+-ATPase → accumulation de Na+ sous la membrane → activation de l'échangeur Na+/Ca2+ → ↑ Ca++ intracellulaire",
+      "Inhibition de la Na+/K+-ATPase → ↓ Na+ interne → ↓ Ca++ intracellulaire",
+      "Accumulation de K+ → activation de la Na+/K+-ATPase → ↑ Ca++",
+      "Activation de l'adénylcyclase → ↑ AMPc → ↑ Ca++"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Séquence du cours : inhibition de la Na+/K+-ATPase (face extracellulaire) → Na+ s'accumule sous la membrane → activation de l'échangeur Na+/Ca2+ → augmentation du Ca++ intracellulaire.",
+    "source": {
+      "page": 34,
+      "extrait": "Na+ s’accumule sous la membrane Activation de l'échangeur Na+/Ca2+ Augmentation du Ca ++ intracellulaire"
+    },
+    "difficulte": 2,
+    "tags": [
+      "digitaliques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/qcm-060",
+    "type": "unique",
+    "enonce": "L'insuffisance cardiaque, indication des digitaliques, est caractérisée selon le cours par :",
+    "options": [
+      "Une augmentation du débit cardiaque",
+      "Une diminution du débit cardiaque",
+      "Une arythmie par ouverture des canaux sodiques",
+      "Une hypertension artérielle",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Le cours précise que l'insuffisance cardiaque est caractérisée par une diminution du débit cardiaque.",
+    "source": {
+      "page": 33,
+      "extrait": "dans l’insuffisance cardiaque (caractérisée par une diminution du débit cardiaque)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "digitaliques",
+      "insuffisance cardiaque"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/qcm-061",
+    "type": "multiple",
+    "enonce": "Lorsque la cible est une enzyme, le médicament peut être :",
+    "options": [
+      "Un substrat de l'enzyme destiné à combler un déficit en substrat endogène",
+      "Un inhibiteur de l'activité enzymatique",
+      "Un inhibiteur réversible",
+      "Un inhibiteur irréversible",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Le médicament peut être un substrat (combler un déficit en substrat endogène) ou un inhibiteur ; l'inhibition peut être réversible ou irréversible.",
+    "source": {
+      "page": 36,
+      "extrait": "le médicament peut être un substrat de l'enzyme (destiné à combler un déficit en substrat endogène) ou un inhibiteur"
+    },
+    "difficulte": 1,
+    "tags": [
+      "enzymes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/qcm-062",
+    "type": "multiple",
+    "enonce": "L'inhibition enzymatique par un médicament peut viser à :",
+    "options": [
+      "Arrêter un processus pathologique tel que l'inflammation",
+      "Éliminer un organisme parasite nocif tel qu'une bactérie",
+      "Combler un déficit en substrat endogène",
+      "Augmenter la synthèse du substrat endogène dans tous les cas",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "L'inhibition (réversible ou irréversible) vise à arrêter un processus pathologique (inflammation) ou à éliminer un organisme nocif (bactérie). Combler un déficit est le rôle du médicament substrat, pas de l'inhibiteur.",
+    "source": {
+      "page": 36,
+      "extrait": "visant à arrêter un processus pathologique tels que l’inflammation ou à éliminer un organisme parasite nocif tels qu’une bactérie"
+    },
+    "difficulte": 2,
+    "tags": [
+      "enzymes",
+      "inhibition"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/qcm-063",
+    "type": "multiple",
+    "enonce": "Concernant l'acide acétylsalicylique (tableau du cours) :",
+    "options": [
+      "Il est utilisé comme anti-inflammatoire",
+      "Il inhibe la cyclooxygénase",
+      "L'inhibition est irréversible ou lentement réversible",
+      "Il inhibe l'enzyme de conversion de l'angiotensine",
+      "L'inhibition est strictement réversible"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "L'acide acétylsalicylique, anti-inflammatoire, inhibe la cyclooxygénase de façon irréversible ou lentement réversible.",
+    "source": {
+      "page": 37,
+      "extrait": "Acide acétyle salicylique anti-inflammatoire Cyclooxygénase irréversible ou lentement réversible"
+    },
+    "difficulte": 1,
+    "tags": [
+      "enzymes",
+      "aspirine"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/qcm-064",
+    "type": "multiple",
+    "enonce": "Concernant le captopril (tableau du cours) :",
+    "options": [
+      "C'est un antihypertenseur",
+      "Il inhibe l'enzyme de conversion (angiotensine)",
+      "L'inhibition est réversible",
+      "L'inhibition est irréversible",
+      "Il inhibe l'ARN polymérase"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Le captopril, antihypertenseur, inhibe l'enzyme de conversion de l'angiotensine de façon réversible.",
+    "source": {
+      "page": 37,
+      "extrait": "Captopril antihypertenseur Enzyme de conversion (angiotensine) réversible"
+    },
+    "difficulte": 1,
+    "tags": [
+      "enzymes",
+      "captopril"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/qcm-065",
+    "type": "multiple",
+    "enonce": "Concernant la rifampicine (tableau du cours) :",
+    "options": [
+      "C'est un antibiotique",
+      "Elle inhibe l'ARN polymérase",
+      "L'inhibition est irréversible",
+      "L'inhibition est réversible",
+      "Elle inhibe la cyclooxygénase"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "La rifampicine, antibiotique, inhibe l'ARN polymérase de façon irréversible.",
+    "source": {
+      "page": 37,
+      "extrait": "Rifampicine antibiotique ARN polymérase irréversible"
+    },
+    "difficulte": 1,
+    "tags": [
+      "enzymes",
+      "rifampicine"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/qcm-066",
+    "type": "unique",
+    "enonce": "Parmi les inhibiteurs enzymatiques du tableau du cours, lequel est un inhibiteur réversible ?",
+    "options": [
+      "L'acide acétylsalicylique",
+      "La rifampicine",
+      "Le captopril",
+      "La procaïne",
+      "La digitaline"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Le captopril est l'inhibiteur réversible du tableau ; l'aspirine est irréversible ou lentement réversible, la rifampicine irréversible. La procaïne agit sur les canaux sodiques.",
+    "source": {
+      "page": 37,
+      "extrait": "Captopril antihypertenseur Enzyme de conversion (angiotensine) réversible"
+    },
+    "difficulte": 2,
+    "tags": [
+      "enzymes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/qcm-067",
+    "type": "multiple",
+    "enonce": "Associez correctement le médicament et sa cible selon le cours :",
+    "options": [
+      "Procaïne – canaux sodiques",
+      "Digitaliques – Na+/K+-ATPase",
+      "Captopril – enzyme de conversion",
+      "Rifampicine – cyclooxygénase",
+      "Acide acétylsalicylique – ARN polymérase"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Procaïne : canaux sodiques ; digitaliques : Na+/K+-ATPase ; captopril : enzyme de conversion. La rifampicine inhibe l'ARN polymérase et l'aspirine la cyclooxygénase.",
+    "source": {
+      "page": 37,
+      "extrait": "Rifampicine antibiotique ARN polymérase irréversible"
+    },
+    "difficulte": 2,
+    "tags": [
+      "cibles",
+      "synthèse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/qcm-068",
+    "type": "multiple",
+    "enonce": "Selon le récapitulatif de la classification des cibles, les médicaments à action spécifique agissent sur :",
+    "options": [
+      "Des récepteurs des médiateurs de l'organisme",
+      "Des protéines du passage transmembranaire d'un ion ou d'un métabolite",
+      "Des enzymes d'une voie métabolique",
+      "Leurs seules propriétés physico-chimiques",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Le récapitulatif répartit les cibles des médicaments à action spécifique en récepteurs des médiateurs, passage transmembranaire d'un ion ou d'un métabolite, enzyme d'une voie métabolique. Les propriétés physico-chimiques caractérisent l'action non spécifique.",
+    "source": {
+      "page": 38,
+      "extrait": "Récapitulatif de la classification des cibles des médicaments"
+    },
+    "difficulte": 2,
+    "tags": [
+      "cibles",
+      "synthèse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/qcm-069",
+    "type": "multiple",
+    "enonce": "Selon la conclusion du cours, comprendre le mécanisme d'action permet :",
+    "options": [
+      "D'ouvrir les voies au développement de nouveaux médicaments",
+      "De mieux prévenir les effets indésirables liés aux mécanismes pharmacologiques",
+      "De supprimer la nécessité des essais cliniques",
+      "De connaître la biodisponibilité absolue",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "La conclusion souligne que comprendre le mécanisme d'action ouvre les voies au développement de nouveaux médicaments et permet de mieux prévenir les effets indésirables liés aux mécanismes pharmacologiques.",
+    "source": {
+      "page": 39,
+      "extrait": "c'est ouvrir les voies au développement de nouveaux médicaments, c'est aussi mieux prévenir les effets indésirables"
+    },
+    "difficulte": 1,
+    "tags": [
+      "conclusion"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/qcm-070",
+    "type": "multiple",
+    "enonce": "Un médicament a une CE50 de 10⁻⁸ mol/L :",
+    "options": [
+      "Son pD2 vaut 8",
+      "Son pD2 vaut - 8",
+      "Un second médicament de CE50 10⁻⁶ mol/L est moins puissant",
+      "Un second médicament de CE50 10⁻⁶ mol/L a une affinité plus grande",
+      "Son activité intrinsèque vaut 0,8"
+    ],
+    "correctes": [
+      0,
+      2
+    ],
+    "explication": "pD2 = - log (10⁻⁸) = 8. Une CE50 de 10⁻⁶ mol/L donne un pD2 de 6 : affinité et puissance plus faibles. La CE50 ne renseigne pas sur α.",
+    "source": {
+      "page": 8,
+      "extrait": "Affinité = PD2 = - Log (CE50)"
+    },
+    "difficulte": 3,
+    "tags": [
+      "pD2",
+      "calcul"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/qcm-071",
+    "type": "multiple",
+    "enonce": "Un ligand produit un effet maximal égal à 60 % de celui de la substance de référence :",
+    "options": [
+      "Son α vaut 0,6",
+      "C'est un agoniste partiel",
+      "C'est un agoniste parfait",
+      "C'est un antagoniste",
+      "Son α vaut 1,67"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "α = EM / EMax = 60 / 100 = 0,6 ; 0 < α < 1 : agoniste partiel.",
+    "source": {
+      "page": 11,
+      "extrait": "0    1: Agoniste partiel."
+    },
+    "difficulte": 2,
+    "tags": [
+      "activité intrinsèque",
+      "calcul"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/qcm-072",
+    "type": "multiple",
+    "enonce": "Concernant le récepteur et sa liaison à l'agoniste et à l'agoniste partiel (schéma du cours) :",
+    "options": [
+      "L'agoniste établit des liaisons avec les sites ser, ser et asp du récepteur",
+      "L'agoniste partiel n'occupe pas tous les sites de liaison du récepteur",
+      "Le récepteur est couplé à une protéine Gs puis à la cyclase",
+      "L'agoniste partiel produit un signal de même intensité que l'agoniste",
+      "Le récepteur représenté est un récepteur nucléaire"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Sur le schéma, l'agoniste se lie aux trois sites (ser, ser, asp) et active pleinement Gs puis la cyclase ; l'agoniste partiel ne se lie pas au premier site ser et transmet un signal plus faible. Le récepteur couplé à Gs est membranaire.",
+    "source": {
+      "page": 12,
+      "extrait": "agoniste ser ser asp Gs cyclase"
+    },
+    "difficulte": 3,
+    "tags": [
+      "agoniste partiel",
+      "RCPG"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/qcm-073",
+    "type": "multiple",
+    "enonce": "Parmi les propositions suivantes concernant les récepteurs membranaires et intracellulaires, lesquelles sont correctes ?",
+    "options": [
+      "Les récepteurs morphiniques sont couplés aux protéines G",
+      "Les récepteurs des hormones thyroïdiennes sont nucléaires",
+      "Les récepteurs des glucocorticoïdes sont cytosoliques",
+      "Les récepteurs de la vitamine D sont couplés aux protéines G",
+      "Les récepteurs GABA-B sont nucléaires"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Morphiniques : RCPG ; hormones thyroïdiennes et vitamine D : récepteurs nucléaires ; glucocorticoïdes : récepteurs cytosoliques ; GABA-B : RCPG.",
+    "source": {
+      "page": 27,
+      "extrait": "Exp: Récpeteurs: Vit D, H thyroïdiennes."
+    },
+    "difficulte": 2,
+    "tags": [
+      "récepteurs",
+      "synthèse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/qcm-074",
+    "type": "multiple",
+    "enonce": "Parmi les affirmations suivantes sur affinité et activité intrinsèque :",
+    "options": [
+      "Deux agonistes peuvent avoir la même affinité et des activités intrinsèques différentes",
+      "Un antagoniste a une affinité mais une activité intrinsèque nulle",
+      "Plus la CE50 est faible, plus le pD2 est élevé",
+      "L'affinité et l'efficacité désignent la même propriété",
+      "Un agoniste parfait a une affinité nulle"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Affinité (pD2, puissance) et activité intrinsèque (α, efficacité) sont distinctes : même CE50 possible avec Emax différents. L'antagoniste a une affinité et α = 0. pD2 = - log CE50 augmente quand la CE50 diminue.",
+    "source": {
+      "page": 14,
+      "extrait": "EC50 = EC50"
+    },
+    "difficulte": 3,
+    "tags": [
+      "affinité",
+      "activité intrinsèque"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/qcm-075",
+    "type": "multiple",
+    "enonce": "Concernant les seconds messagers et la transduction (schéma du cours) :",
+    "options": [
+      "Le transducteur des RCPG est constitué de protéines G hétérotrimériques",
+      "L'effecteur (enzyme) transforme un précurseur en second messager",
+      "Le second messager agit sur un effecteur interne aboutissant à la réponse cellulaire",
+      "Le premier messager est le ligand",
+      "Le second messager est le ligand extracellulaire"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Le schéma montre : signal → récepteur → transducteur (protéines G hétérotrimériques) → effecteur (enzyme) : précurseur → second messager → effecteur interne → réponse cellulaire. Le ligand est le premier messager.",
+    "source": {
+      "page": 22,
+      "extrait": "Rôle : transduction du signal du 1er messager : ligand"
+    },
+    "difficulte": 2,
+    "tags": [
+      "second messager",
+      "RCPG"
+    ],
+    "origine": "genere"
+  }
+]

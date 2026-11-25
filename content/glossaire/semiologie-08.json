@@ -1,0 +1,97 @@
+[
+  {
+    "terme": "Obésité",
+    "definition": "Selon l'OMS, accumulation anormale ou excessive de graisse corporelle qui peut nuire à la santé ; maladie chronique, multifactorielle et récidivante.",
+    "cours": "semiologie/08-obesite"
+  },
+  {
+    "terme": "Indice de masse corporelle (IMC)",
+    "definition": "Poids (kg) divisé par la taille (m) au carré, en kg/m² ; outil de dépistage (surpoids ≥ 25, obésité ≥ 30 chez l'adulte).",
+    "cours": "semiologie/08-obesite"
+  },
+  {
+    "terme": "Surpoids",
+    "definition": "IMC compris entre 25 et 29,9 kg/m² chez l'adulte.",
+    "cours": "semiologie/08-obesite"
+  },
+  {
+    "terme": "Tour de taille",
+    "definition": "Mesure prise à mi-distance entre le bord inférieur des côtes et la crête iliaque ; risque augmenté à partir de 94 cm (homme) et 80 cm (femme).",
+    "cours": "semiologie/08-obesite"
+  },
+  {
+    "terme": "Obésité androïde",
+    "definition": "Obésité « en pomme » : graisse abdominale autour des organes, plus fréquente chez l'homme, à risque élevé.",
+    "cours": "semiologie/08-obesite"
+  },
+  {
+    "terme": "Obésité gynoïde",
+    "definition": "Obésité « en poire » : graisse des hanches, fesses et cuisses, plus fréquente chez la femme, à risque moindre.",
+    "cours": "semiologie/08-obesite"
+  },
+  {
+    "terme": "Déséquilibre énergétique",
+    "definition": "Situation où les apports dépassent durablement les dépenses ; mécanisme commun de l'obésité.",
+    "cours": "semiologie/08-obesite"
+  },
+  {
+    "terme": "Courbes de corpulence",
+    "definition": "Courbes sur lesquelles on reporte l'IMC de l'enfant et de l'adolescent selon l'âge et le sexe.",
+    "cours": "semiologie/08-obesite"
+  },
+  {
+    "terme": "Acanthosis nigricans",
+    "definition": "Peau épaissie, brune, d'aspect « sale », au cou et aux aisselles, témoin d'une résistance à l'insuline.",
+    "cours": "semiologie/08-obesite"
+  },
+  {
+    "terme": "Hypercorticisme",
+    "definition": "Excès de cortisol : visage arrondi, vergetures pourpres larges, faiblesse des cuisses.",
+    "cours": "semiologie/08-obesite"
+  },
+  {
+    "terme": "Syndrome métabolique",
+    "definition": "Présence d'au moins 3 critères sur 5 (tour de taille, triglycérides, HDL-cholestérol, pression artérielle, glycémie à jeun) ; annonce le diabète de type 2 et les maladies cardiovasculaires.",
+    "cours": "semiologie/08-obesite"
+  },
+  {
+    "terme": "Apnées du sommeil",
+    "definition": "Pauses respiratoires nocturnes avec ronflement fort et somnolence diurne ; aggravées par les somnifères et sédatifs.",
+    "cours": "semiologie/08-obesite"
+  },
+  {
+    "terme": "Stéatose hépatique",
+    "definition": "« Foie gras » : complication digestive de l'obésité.",
+    "cours": "semiologie/08-obesite"
+  },
+  {
+    "terme": "Orlistat",
+    "definition": "Médicament de l'obésité en gélules qui diminue l'absorption des graisses.",
+    "cours": "semiologie/08-obesite"
+  },
+  {
+    "terme": "Analogues du GLP-1",
+    "definition": "Médicaments injectables (liraglutide, sémaglutide) qui diminuent la faim.",
+    "cours": "semiologie/08-obesite"
+  },
+  {
+    "terme": "Tirzépatide",
+    "definition": "Médicament injectable de l'obésité de même principe que les analogues du GLP-1, à double action.",
+    "cours": "semiologie/08-obesite"
+  },
+  {
+    "terme": "Sleeve",
+    "definition": "Chirurgie de l'obésité qui retire une grande partie de l'estomac.",
+    "cours": "semiologie/08-obesite"
+  },
+  {
+    "terme": "Bypass",
+    "definition": "Chirurgie de l'obésité qui court-circuite une partie de l'intestin.",
+    "cours": "semiologie/08-obesite"
+  },
+  {
+    "terme": "Sibutramine",
+    "definition": "Coupe-faim interdit, retiré du marché, pouvant être caché dans des produits « minceur ».",
+    "cours": "semiologie/08-obesite"
+  }
+]

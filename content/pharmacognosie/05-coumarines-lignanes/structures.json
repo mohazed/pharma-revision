@@ -1,0 +1,200 @@
+[
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/structure-001",
+    "nom": "Coumarine",
+    "smiles": "O=c1ccc2ccccc2o1",
+    "classe": "Coumarine simple (benzo-α-pyrone)",
+    "question": "Cette molécule, C₉H₆O₂, à odeur de foin fraîchement coupé, est :",
+    "options": [
+      "La coumarine",
+      "L'ombelliférone",
+      "Le psoralène",
+      "La khelline",
+      "L'herniarine"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Coumarine : noyau benzo-α-pyrone non substitué (R6 = R7 = R8 = H)."
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/structure-002",
+    "nom": "Acide o-coumarique",
+    "smiles": "OC(=O)/C=C/c1ccccc1O",
+    "classe": "Acide 2-hydroxycinnamique",
+    "question": "Les coumarines sont des lactones de cet acide :",
+    "options": [
+      "Acide o-coumarique (2-hydroxycinnamique)",
+      "Acide salicylique",
+      "Acide caféique",
+      "Acide férulique",
+      "Acide gallique"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Les coumarines correspondent à des lactones de l'acide 2-hydroxycinnamique."
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/structure-003",
+    "nom": "Ombelliférone",
+    "smiles": "O=c1ccc2ccc(O)cc2o1",
+    "classe": "Coumarine simple",
+    "question": "Cette coumarine porte un seul OH en C7. Il s'agit de :",
+    "options": [
+      "L'ombelliférone",
+      "L'herniarine",
+      "L'esculétol",
+      "Le scopolétol",
+      "Le fraxétol"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Ombelliférone : R7 = OH."
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/structure-004",
+    "nom": "Herniarine",
+    "smiles": "COc1ccc2ccc(=O)oc2c1",
+    "classe": "Coumarine simple",
+    "question": "Cette coumarine porte un méthoxyle en C7. Il s'agit de :",
+    "options": [
+      "L'herniarine",
+      "L'ombelliférone",
+      "Le scopolétol",
+      "La scopanone",
+      "L'esculétol"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Herniarine : R7 = OCH₃."
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/structure-005",
+    "nom": "Esculétol",
+    "smiles": "O=c1ccc2cc(O)c(O)cc2o1",
+    "classe": "Coumarine simple",
+    "question": "Cette coumarine 6,7-dihydroxylée, génine de l'esculoside, est :",
+    "options": [
+      "L'esculétol",
+      "L'ombelliférone",
+      "Le scopolétol",
+      "Le fraxétol",
+      "L'herniarine"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Esculétol : R6 = R7 = OH ; l'esculoside est son 6-O-glucoside."
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/structure-006",
+    "nom": "Scopolétol",
+    "smiles": "COc1cc2ccc(=O)oc2cc1O",
+    "classe": "Coumarine simple",
+    "question": "Cette coumarine (6-OCH₃, 7-OH) est :",
+    "options": [
+      "Le scopolétol",
+      "La scopanone",
+      "L'herniarine",
+      "Le fraxétol",
+      "L'esculétol"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Scopolétol : R6 = OCH₃, R7 = OH."
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/structure-007",
+    "nom": "Fraxétol",
+    "smiles": "COc1cc2ccc(=O)oc2c(O)c1O",
+    "classe": "Coumarine simple",
+    "question": "Cette coumarine (6-OCH₃, 7-OH, 8-OH), génine de la fraxine, est :",
+    "options": [
+      "Le fraxétol",
+      "Le scopolétol",
+      "L'esculétol",
+      "La scopanone",
+      "L'ombelliférone"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Fraxétol : R6 = OCH₃, R7 = OH, R8 = OH."
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/structure-008",
+    "nom": "Psoralène",
+    "smiles": "O=c1ccc2cc3ccoc3cc2o1",
+    "classe": "Furocoumarine linéaire",
+    "question": "Le cycle furannique est ici fusionné en C6–C7. Cette molécule appartient aux :",
+    "options": [
+      "Furocoumarines linéaires",
+      "Furocoumarines angulaires",
+      "Pyranocoumarines",
+      "Coumarines simples",
+      "Lignanes"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Fusion du cycle furannique en C6–C7 = forme linéaire (6,7-furocoumarine)."
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/structure-009",
+    "nom": "Bergaptène",
+    "smiles": "COc1c2ccc(=O)oc2cc2occc12",
+    "classe": "Furocoumarine linéaire",
+    "question": "Cette furocoumarine linéaire de l'HE de bergamote et du khella est :",
+    "options": [
+      "Le bergaptène",
+      "La visnadine",
+      "La khelline",
+      "L'ombelliférone",
+      "La podophyllotoxine"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Le bergaptène est une furocoumarine linéaire présente dans la bergamote et le khella."
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/structure-010",
+    "nom": "Xanthotoxine",
+    "smiles": "COc1c2occc2cc2ccc(=O)oc12",
+    "classe": "Furocoumarine linéaire",
+    "question": "Cette furocoumarine du khella, appelée aussi ammoidine, est :",
+    "options": [
+      "La xanthotoxine",
+      "La samidine",
+      "La visnagine",
+      "La bergamottine",
+      "La silybine"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Xanthotoxine (ammoidine) : furocoumarine du khella."
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/structure-011",
+    "nom": "Khelline",
+    "smiles": "COc1c2ccoc2c(OC)c2oc(C)cc(=O)c12",
+    "classe": "Furanochromone (γ-pyrone)",
+    "question": "Cette molécule du khella, à noyau γ-pyrone, appartient aux :",
+    "options": [
+      "Furanochromones",
+      "Furocoumarines",
+      "Pyranocoumarines",
+      "Coumarines simples",
+      "Flavonolignanes"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "La khelline est une furanochromone (γ-pyrone) du khella, et non une coumarine."
+  }
+]

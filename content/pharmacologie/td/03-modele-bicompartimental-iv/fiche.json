@@ -1,0 +1,70 @@
+{
+  "id": "pharmacologie/td/03-modele-bicompartimental-iv/fiche-001",
+  "titre": "TD 3 – Modèle bicompartimental IV (cimétidine)",
+  "sections": [
+    {
+      "titre": "Énoncé",
+      "points": [
+        "Cimétidine **200 mg en IV**, volontaire sain de **70 kg**.",
+        "Cp (µg/ml) de 1 à 360 min : 6 ; 4,2 ; 3 ; 1,8 ; 1,4 ; 1,1 ; 0,95 ; 0,6 ; 0,5 ; 0,42 ; 0,31 ; 0,21 ; 0,15."
+      ]
+    },
+    {
+      "titre": "1–2. Tracé et commentaire",
+      "points": [
+        "Semi-log : porter C directement (deux cycles, 0,1–1 et 1–10) ; millimétrique : porter log C.",
+        "Courbe non linéaire en semi-log : **décroissance biexponentielle** → **modèle bicompartimental IV**.",
+        "Phase initiale = distribution + élimination ; phase terminale = élimination.",
+        "Équation : **Cp = D·e^(−kd·t) + E·e^(−ke·t)**."
+      ]
+    },
+    {
+      "titre": "3. Analyse mathématique (méthode des résidus)",
+      "points": [
+        "Droite terminale (120 → 360 min) prolongée jusqu'à t = 0 → **E ≈ 1,2 µg/ml**.",
+        "Concentrations extrapolées C' aux temps précoces ; résidus D = |C' − Cexp| : ≈ 4,8 ; 3,1 ; 1,9 ; 0,8 ; 0,5 ; 0,25 µg/ml (1 → 60 min).",
+        "Droite des résidus en semi-log → **D ≈ 4,5 µg/ml**.",
+        "Cp ≈ 4,5·e^(−0,05·t) + 1,2·e^(−0,0058·t) (t en min)."
+      ]
+    },
+    {
+      "titre": "4–5. Constantes et demi-vies",
+      "points": [
+        "ke = −2,303 × pente terminale ≈ **0,0058 min⁻¹** (≈ 0,35 h⁻¹).",
+        "kd = −2,303 (log D2 − log D1)/(t2 − t1) ≈ **0,05 min⁻¹** (approché selon le tracé).",
+        "t1/2 élimination ≈ **120 min** (lecture : 0,6 → 0,3 → 0,15 µg/ml tous les 120 min ; calcul : 0,693/ke).",
+        "t1/2 distribution ≈ 0,693/0,05 ≈ **14 min**."
+      ]
+    },
+    {
+      "titre": "6. AUC",
+      "points": [
+        "AUC = D/kd + E/ke ≈ 90 + 207 ≈ **300 µg·min/ml** (≈ 5 µg·h/ml).",
+        "Trapèzes : Σ (C1 + C2)/2 × (t2 − t1) de 1 à 360 min = 271,5 µg·min/ml ; + C(360)/ke ≈ 26 → ≈ 298 µg·min/ml."
+      ]
+    },
+    {
+      "titre": "7–8. Clairance et volume de distribution",
+      "points": [
+        "Cl = Q/AUC = 200 000 µg / ≈ 300 µg·min/ml ≈ **670 ml/min** (≈ 40 L/h).",
+        "Vd = Cl/ke ≈ 670/0,0058 ≈ **116 L** ≈ 1,7 L/kg.",
+        "Vd > 50 L → **distribution élevée** (< 10 L : limité au sang ; 10–50 L : physiologique)."
+      ]
+    }
+  ],
+  "aRetenir": [
+    "Bi IV : Cp = D·e^(−kd·t) + E·e^(−ke·t)",
+    "Méthode des résidus : D = |C' − Cexp| → kd",
+    "t1/2 = 0,693/k (ou graphiquement)",
+    "AUC = D/kd + E/ke ; Cl = Q/AUC ; Vd = Cl/ke",
+    "Cimétidine : t1/2 ≈ 2 h, Cl ≈ 670 ml/min, Vd ≈ 116 L"
+  ],
+  "pieges": [
+    "Après IV, il n'y a ni pic ni constante ka.",
+    "La phase initiale = distribution **et** élimination (pas la distribution seule).",
+    "D et E sont des concentrations (µg/ml), pas des doses ; la dose est notée Q.",
+    "Convertir 200 mg en 200 000 µg avant de diviser par une AUC en µg·min/ml.",
+    "La pente de log C = f(t) vaut −k/2,303 et non −k.",
+    "kd, D, Cl et Vd sont des valeurs approchées : elles dépendent des points retenus sur le graphique."
+  ]
+}

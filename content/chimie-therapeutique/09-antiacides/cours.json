@@ -1,0 +1,13 @@
+{
+  "id": "chimie-therapeutique/09-antiacides",
+  "module": "chimie-therapeutique",
+  "ordre": 9,
+  "titre": "Les antiacides",
+  "type": "cours",
+  "source": {
+    "driveId": "1IWV-Fbl2boqZWpb-AyzPI2jEeKPkuxko",
+    "fichier": "8. Les antiacides.pdf",
+    "modifiedTime": "2026-11-24T10:21:46.342Z"
+  },
+  "resume": "Physiologie de la sécrétion gastrique et physiopathologie de l'ulcère, classification des médicaments antiacides, puis étude chimique des antagonistes H2 (cimétidine, ranitidine, famotidine, RSA) et des inhibiteurs de la pompe à protons (structures, mécanisme, RSA, indications)."
+}

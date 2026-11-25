@@ -1,0 +1,13 @@
+{
+  "id": "chimie-analytique/07-chromatographie-partie-2",
+  "module": "chimie-analytique",
+  "ordre": 7,
+  "titre": "Généralités sur la chromatographie – Partie 2",
+  "type": "cours",
+  "source": {
+    "driveId": "15f5F4adpaCYukBhXDP8vOjk7f2H-M32S",
+    "fichier": "6.2 Généralités sur la chromatographie - Partie 2.pdf",
+    "modifiedTime": "2026-11-20T12:13:22.334Z"
+  },
+  "resume": "Isotherme de distribution, chromatogramme et grandeurs de rétention (TR, tM, VR, K'), efficacité (N, Neff, HEPT), résolution, sélectivité α, formule de Purnell et équation de Van Deemter."
+}

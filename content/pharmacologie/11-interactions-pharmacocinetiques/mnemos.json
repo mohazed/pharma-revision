@@ -1,0 +1,38 @@
+[
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/mnemo-001",
+    "titre": "Les 4 niveaux de gravité ANSM (du plus grave au moins grave)",
+    "moyen": "« CI-DPA » : Contre-Indication, Déconseillée, Précaution d'emploi, À prendre en compte",
+    "explication": "CI = contre-indication (absolue) ; D = association déconseillée ; P = précaution d'emploi (la plus fréquente) ; A = à prendre en compte (addition d'EI, aucune recommandation)."
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/mnemo-002",
+    "titre": "Inducteurs enzymatiques du cours",
+    "moyen": "« Phéno, Prim et Phény Carbonisent Rif-Gris au Millepertuis »",
+    "explication": "Phénobarbital, Primidone, Phénytoïne, Carbamazépine, Rifampicine, Griséofulvine, Millepertuis."
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/mnemo-003",
+    "titre": "Inhibiteurs enzymatiques du cours",
+    "moyen": "« MAC-ISI-P » : Macrolides, Azolés, Cimétidine, Isoniazide, ISRS, IMAO, Pamplemousse",
+    "explication": "Macrolides, antifongiques Azolés, Cimétidine (anti-H2), Isoniazide, ISRS, IMAO, jus de Pamplemousse."
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/mnemo-004",
+    "titre": "Complexation digestive",
+    "moyen": "« Les cations (Ca, Fe, Al, Mg) piègent TéFLo » : Tétracyclines, Fer, Lévothyroxine, fluOroquinolones",
+    "explication": "Tétracyclines + Ca/Fe/Al/Mg ; fer + Ca ; lévothyroxine + Ca ; fluoroquinolones + sels de calcium. Décaler les prises d'au moins 2 heures."
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/mnemo-005",
+    "titre": "Cinétique induction / inhibition",
+    "moyen": "« L'induction prend son temps et traîne ; l'inhibition est instantanée et s'en va »",
+    "explication": "Induction : progressive, quelques jours, persiste après l'arrêt. Inhibition : immédiate, disparaît à l'arrêt du traitement."
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/mnemo-006",
+    "titre": "Médicaments sensibles au déplacement protéique",
+    "moyen": "« Fort, Acide, Peu, Petit »",
+    "explication": "Forte liaison protéique, caractère Acide faible, Peu de sites de fixation, Petit (faible) volume de distribution."
+  }
+]

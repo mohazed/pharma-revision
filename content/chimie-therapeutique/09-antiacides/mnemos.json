@@ -1,0 +1,38 @@
+[
+  {
+    "id": "chimie-therapeutique/09-antiacides/mnemo-001",
+    "titre": "Facteurs agressifs de la muqueuse",
+    "moyen": "« A.P.A.T.H. » : Acidité, Pepsine, AINS, Tabac (et alcool), Helicobacter pylori",
+    "explication": "Les cinq facteurs agressifs cités dans le cours."
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/mnemo-002",
+    "titre": "Facteurs protecteurs",
+    "moyen": "« M.B.P. » : Mucus, Bicarbonates, Prostaglandines",
+    "explication": "Les trois facteurs protecteurs de la muqueuse."
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/mnemo-003",
+    "titre": "Les 4 groupes d'antiacides",
+    "moyen": "« S.A.C.T. » : anti-Sécrétoires, Antiacides, Cytoprotecteurs, Topiques",
+    "explication": "Ordre de la classification du cours (1 à 4)."
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/mnemo-004",
+    "titre": "Mécanisme des IPP en 3 temps",
+    "moyen": "« A.A.I. » : Accumulation, Activation, Inhibition",
+    "explication": "Promédicament accumulé dans la cellule pariétale, activé en sulfénamide par le pH acide, puis inhibition covalente irréversible (~24 h)."
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/mnemo-005",
+    "titre": "Puissance des anti-H2",
+    "moyen": "« Ranitidine = 10, Famotidine = 30 » (R avant F, 10 avant 30)",
+    "explication": "Ranitidine 10 fois et famotidine 30 fois (in vitro) plus actives que la cimétidine."
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/mnemo-006",
+    "titre": "Hétérocycles des anti-H2",
+    "moyen": "« Ci-Imi, Rani-Fura, Famo-Thia » : Cimétidine-Imidazole, Ranitidine-Furane, Famotidine-Thiazole",
+    "explication": "Le noyau imidazole de la cimétidine a été remplacé par un furane (ranitidine) ou un thiazole (famotidine, nizatidine)."
+  }
+]

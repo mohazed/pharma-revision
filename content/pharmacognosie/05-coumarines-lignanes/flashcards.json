@@ -1,0 +1,284 @@
+[
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/flashcard-001",
+    "recto": "Définition des coumarines",
+    "verso": "Composés phénoliques dérivés de la benzo-α-pyrone (noyau benzénique fusionné à un cycle lactonique) ; lactones de l'acide 2-hydroxycinnamique (acide o-coumarique).",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/flashcard-002",
+    "recto": "Origine du mot « coumarine »",
+    "verso": "Kumaru, nom amazonien de Dipteryx odorata (Fabaceae), le gaïac de Cayenne.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/flashcard-003",
+    "recto": "Première isolation de la coumarine",
+    "verso": "En 1820 par Vogel, à partir des fèves tonka.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/flashcard-004",
+    "recto": "Nombre de coumarines naturelles et répartition",
+    "verso": "Plus de 1 000 ; plus de 70 familles de Dicotylédones et 9 familles de Monocotylédones.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/flashcard-005",
+    "recto": "Familles riches en coumarines citées",
+    "verso": "Apiaceae, Rutaceae, Fabaceae, Asteraceae, Solanaceae (Poaceae chez les Monocotylédones).",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/flashcard-006",
+    "recto": "Facteurs stimulant la production de coumarines",
+    "verso": "Facteurs de stress : agressions pathogènes, blessures et lésions tissulaires.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/flashcard-007",
+    "recto": "Squelette fondamental des coumarines",
+    "verso": "C₆–C₃, C₉H₆O₂ (noyau benzo-α-pyrone).",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/flashcard-008",
+    "recto": "Position la plus fréquemment hydroxylée",
+    "verso": "C7.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/flashcard-009",
+    "recto": "Ombelliférone",
+    "verso": "7-hydroxycoumarine (R7 = OH).",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/flashcard-010",
+    "recto": "Herniarine",
+    "verso": "7-méthoxycoumarine (R7 = OCH₃).",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/flashcard-011",
+    "recto": "Esculétol",
+    "verso": "6,7-dihydroxycoumarine.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/flashcard-012",
+    "recto": "Scopolétol",
+    "verso": "R6 = OCH₃, R7 = OH.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/flashcard-013",
+    "recto": "Fraxétol",
+    "verso": "R6 = OCH₃, R7 = OH, R8 = OH.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/flashcard-014",
+    "recto": "Skimmine",
+    "verso": "7-O-glucosyl-ombelliférone.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/flashcard-015",
+    "recto": "Esculoside",
+    "verso": "6-O-glucosyl-esculétol.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/flashcard-016",
+    "recto": "Cichoriine",
+    "verso": "7-O-glucosyl-esculétol.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/flashcard-017",
+    "recto": "Furocoumarines",
+    "verso": "Fusion d'un cycle furannique (5 chaînons) au noyau coumarinique ; Apiaceae, Rutaceae, Fabaceae.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/flashcard-018",
+    "recto": "Furocoumarines linéaires vs angulaires",
+    "verso": "Linéaires = 6,7-furocoumarines (fusion C6–C7) ; angulaires = 7,8-furocoumarines (fusion C7–C8).",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/flashcard-019",
+    "recto": "Pyranocoumarines",
+    "verso": "Fusion d'un cycle pyrannique (6 chaînons) ; principalement Apiaceae ; formes angulaire et linéaire.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/flashcard-020",
+    "recto": "Odeur de la coumarine",
+    "verso": "Foin fraîchement coupé.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/flashcard-021",
+    "recto": "Solubilité génines / hétérosides",
+    "verso": "Génines : alcool et solvants organiques (éther, chlorés). Hétérosides : assez solubles dans l'eau, solubles dans l'alcool.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/flashcard-022",
+    "recto": "Fluorescence des coumarines",
+    "verso": "Coumarines hydroxylées : intense fluorescence bleue en lumière UV.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/flashcard-023",
+    "recto": "Réaction de la lactone en milieu alcalin",
+    "verso": "Ouverture de l'anneau lactonique.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/flashcard-024",
+    "recto": "Maximum UV des coumarines",
+    "verso": "274 nm dans le méthanol.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/flashcard-025",
+    "recto": "Méthodes de dosage des coumarines",
+    "verso": "Fluorométrie après élution des taches de CCM, HPLC, électrophorèse capillaire.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/flashcard-026",
+    "recto": "Action vitaminique P",
+    "verso": "Esculine, esculétine, esculoside : ↑ résistance des capillaires, ↓ perméabilité.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/flashcard-027",
+    "recto": "PUVA-thérapie",
+    "verso": "Furocoumarines photosensibilisantes + UVA : psoriasis et vitiligo.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/flashcard-028",
+    "recto": "Visnadine",
+    "verso": "Pyranocoumarine du khella ; vasodilatation coronarienne historiquement décrite (pas d'indication actuelle).",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/flashcard-029",
+    "recto": "Hépatotoxicité de la coumarine",
+    "verso": "Voie majoritaire 7-hydroxylation (CYP2A6) peu toxique ; voie minoritaire → métabolites réactifs ; ↑ ALAT/ASAT, rarement hépatite.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/flashcard-030",
+    "recto": "Aflatoxines",
+    "verso": "Mycotoxines génotoxiques et cancérogènes ; contrôle des matières premières, tourteaux et denrées.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/flashcard-031",
+    "recto": "Drogues à coumarines simples",
+    "verso": "Fève de Tonka, marronnier d'Inde, mélilot.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/flashcard-032",
+    "recto": "Drogues à coumarines complexes",
+    "verso": "Bergamotier (Rutaceae), khella (Apiaceae).",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/flashcard-033",
+    "recto": "Fève de Tonka : drogue et teneur",
+    "verso": "Graines de Dipteryx odorata ; coumarine souvent 1 à 3 %.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/flashcard-034",
+    "recto": "Marronnier d'Inde : drogue étudiée et constituants",
+    "verso": "Écorce des jeunes branches : esculine, fraxine, scopoline, tanins, flavonoïdes.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/flashcard-035",
+    "recto": "Mélilot : composition",
+    "verso": "Coumarine 0,3–0,9 %, mélilotoside, mélilotine, scopolétine, ombelliférone, robinine, saponosides.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/flashcard-036",
+    "recto": "Toxicité du mélilot moisi",
+    "verso": "Toxicité hémorragique (cf. anticoagulants coumariniques : acénocoumarol, Sintrom®).",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/flashcard-037",
+    "recto": "Furocoumarines de l'HE de bergamote",
+    "verso": "Bergaptène et bergamottine (furocoumarines linéaires) → pouvoir photosensibilisant.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/flashcard-038",
+    "recto": "Khella : composition",
+    "verso": "Pyranocoumarines (visnadine, samidine, dihydrosamidine), furocoumarines (bergaptène, xanthotoxine, psoralène), furanochromones (khelline, visnagine).",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/flashcard-039",
+    "recto": "Définition des lignanes",
+    "verso": "Dimères de deux unités phénylpropaniques C₆–C₃ (squelette en C18) liées par une liaison 8–8′ (β–β′).",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/flashcard-040",
+    "recto": "Néolignanes",
+    "verso": "Dimères C₆–C₃ issus d'un couplage oxydatif, reliés par des liaisons autres que 8–8′.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/flashcard-041",
+    "recto": "Nombre de lignanes et répartition",
+    "verso": "Plus de 3 000 molécules dans environ 70 familles.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/flashcard-042",
+    "recto": "Six familles structurales de lignanes",
+    "verso": "Dibenzylbutanes, butyrolactones, monofuraniques, arylnaphtalènes, dibenzocyclooctanes, furofuraniques.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/flashcard-043",
+    "recto": "Mécanisme de la podophyllotoxine",
+    "verso": "Inhibition de la polymérisation de la tubuline → blocage de la mitose en métaphase.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/flashcard-044",
+    "recto": "Dérivés hémisynthétiques de la podophyllotoxine",
+    "verso": "Étoposide et téniposide.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/flashcard-045",
+    "recto": "Podophylline",
+    "verso": "Résine extraite du rhizome de podophylle.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/flashcard-046",
+    "recto": "Silymarine",
+    "verso": "Complexe de flavonolignanes du chardon-Marie (silybine, silychristine, silydianine, isosilybine) ; 1,5 à 3 %.",
+    "tags": []
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/flashcard-047",
+    "recto": "Chardon-Marie : drogue",
+    "verso": "Akènes mûrs séchés débarrassés de leur aigrette (Silybum marianum, Asteraceae).",
+    "tags": []
+  }
+]

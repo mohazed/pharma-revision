@@ -1,0 +1,206 @@
+[
+  {
+    "id": "pharmacie-galenique/13-emulsions/flashcard-001",
+    "recto": "Émulsion (définition)",
+    "verso": "Préparation généralement liquide, thermodynamiquement instable : un liquide dispersé en fines gouttelettes (200 nm à 10 μm) dans un autre liquide non miscible, grâce à un ou plusieurs émulsifiants.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/flashcard-002",
+    "recto": "Synonymes de la phase dispersée",
+    "verso": "Phase interne ou discontinue.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/flashcard-003",
+    "recto": "Synonymes de la phase dispersante",
+    "verso": "Phase externe ou continue.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/flashcard-004",
+    "recto": "Applications pharmaceutiques des émulsions",
+    "verso": "Administrer huiles/PA liposolubles (orale, topique, rectale), masquer odeur ou goût, améliorer pénétration et absorption, libération lente des PA hydrosolubles en IM, alimentation parentérale.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/flashcard-005",
+    "recto": "Émulsion de type aqueux",
+    "verso": "Phase dispersée lipophile dans phase dispersante hydrophile : L/H (anciennement H/E, huile dans l'eau).",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/flashcard-006",
+    "recto": "Émulsion de type huileux",
+    "verso": "Phase dispersée hydrophile dans phase dispersante lipophile : H/L (anciennement E/H, eau dans huile).",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/flashcard-007",
+    "recto": "Exemple d'émulsion multiple",
+    "verso": "H/L/H (anciennement E/H/E).",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/flashcard-008",
+    "recto": "Taille des globules (classification)",
+    "verso": "Taille sensiblement identique, de 0,5 à 50 µm en général selon l'émulsion.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/flashcard-009",
+    "recto": "Crémage vs sédimentation",
+    "verso": "Déplacement vertical des globules selon la densité : vers la surface = crémage ; vers le fond = sédimentation. Réversibles par agitation.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/flashcard-010",
+    "recto": "Loi régissant la vitesse de crémage/sédimentation",
+    "verso": "Loi de Stokes (V, r, g, D1, D2, η de la phase dispersante).",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/flashcard-011",
+    "recto": "Comment diminuer la vitesse de sédimentation ?",
+    "verso": "Réduire la taille des globules, diminuer la différence de densité D1 − D2, augmenter la viscosité de la phase dispersante.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/flashcard-012",
+    "recto": "Floculation",
+    "verso": "Agglomération de globules en agrégats/flocons liés par des forces d'attraction ; individualité conservée, film interfacial intact ; difficilement réversible voire irréversible.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/flashcard-013",
+    "recto": "Loi de la vitesse de floculation",
+    "verso": "Loi de Smoluchowsky (n0, n, coefficient a).",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/flashcard-014",
+    "recto": "Coalescence",
+    "verso": "Fusion complète de globules préalablement floculés : perte d'individualité, rupture du film interfacial ; irréversible, conduit à la séparation de phase.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/flashcard-015",
+    "recto": "Loi suivie par la coalescence",
+    "verso": "Smoluchowsky si la floculation est lente par rapport à la coalescence ; Van der Tempel si la coalescence est lente par rapport à la floculation.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/flashcard-016",
+    "recto": "k dans la loi de Van der Tempel",
+    "verso": "Probabilité de rupture du film par seconde.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/flashcard-017",
+    "recto": "Rôles du film interfacial",
+    "verso": "Diminue le travail de dispersion (favorise l'émulsification), protège mécaniquement les globules, joue un rôle dans les phénomènes électriques.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/flashcard-018",
+    "recto": "Tension interfaciale",
+    "verso": "Force par unité de longueur entre 2 liquides non miscibles, liée à l'hétérogénéité des forces de liaison. W = γ ΔS.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/flashcard-019",
+    "recto": "Origine de la charge électrique des globules",
+    "verso": "Ionisation de l'émulsionnant ou adsorption d'ions provenant de la phase dispersante.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/flashcard-020",
+    "recto": "Potentiel Zêta",
+    "verso": "Seul potentiel mesurable expérimentalement (Ψz), par zêtamètre ; plus il est grand, plus les globules se repoussent.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/flashcard-021",
+    "recto": "Inversion de phase",
+    "verso": "Brusque changement du sens de l'émulsion (H/L ↔ L/H) : floculation des globules emprisonnant la phase externe, puis coalescence.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/flashcard-022",
+    "recto": "Facteurs de l'inversion de phase",
+    "verso": "Proportion des phases, température (température d'inversion de phase), nature/concentration/HLB des surfactifs, nature de la phase huileuse.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/flashcard-023",
+    "recto": "Constituants principaux d'une émulsion",
+    "verso": "Une phase lipophile, une phase hydrophile, un surfactif ou un mélange de surfactifs.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/flashcard-024",
+    "recto": "Caractéristiques des surfactifs",
+    "verso": "Amphiphilie, auto-association, adsorption aux interfaces liquide/liquide ; PM > 200 et HLB entre 1 et 40.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/flashcard-025",
+    "recto": "HLB",
+    "verso": "Balance Hydrophile Lipophile (Griffen) : caractéristique des surfactifs, d'autant plus élevée que la molécule est hydrophile ; équilibre vers 10 ; additive.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/flashcard-026",
+    "recto": "Formule du HLB d'un mélange",
+    "verso": "HLBm = (x HLBL + (100 − x) HLBH) / 100, x = masse du surfactif lipophile.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/flashcard-027",
+    "recto": "HLB critique (optimal, requis)",
+    "verso": "Caractéristique des phases lipophiles, déterminée uniquement expérimentalement : HLB du surfactif ou mélange donnant avec l'huile et l'eau l'émulsion la plus stable. Additif.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/flashcard-028",
+    "recto": "Diagramme ternaire",
+    "verso": "Diagramme expérimental Eau-Surfactif-Huile porté sur un triangle équilatéral ; on aboutit par tâtonnement à une formule stable et de consistance adaptée.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/flashcard-029",
+    "recto": "Trois méthodes de mélange des phases",
+    "verso": "Addition (dispersée dans dispersante), inversion (dispersante dans dispersée jusqu'à inversion), alternance (ajout alterné au mélange de surfactifs).",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/flashcard-030",
+    "recto": "Température de fabrication",
+    "verso": "Deux phases à la même température, bain-marie 50–80 °C ; mélange lent, agitation jusqu'à refroidissement.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/flashcard-031",
+    "recto": "Agitateurs vs homogénéisateurs",
+    "verso": "Agitateurs (hélice, palettes, turbine, ultrasons) → émulsion primaire ; homogénéisateurs (à filière, broyeurs colloïdaux, ultrasons) → gouttelettes fines et uniformes.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/flashcard-032",
+    "recto": "Méthodes de détermination du sens",
+    "verso": "Dilution, colorants (bleu de méthylène hydrosoluble, rouge Soudan liposoluble), conductivité électrique (élevée pour L/H).",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/flashcard-033",
+    "recto": "Coulter Counter",
+    "verso": "Détermination de la distribution granulométrique, pour les émulsions H/E seulement.",
+    "tags": []
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/flashcard-034",
+    "recto": "Stabilité à la centrifugation",
+    "verso": "2500 à 3000 tr/min après coloration ; on observe la sédimentation ou le crémage.",
+    "tags": []
+  }
+]

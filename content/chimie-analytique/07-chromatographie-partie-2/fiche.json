@@ -1,0 +1,85 @@
+{
+  "id": "chimie-analytique/07-chromatographie-partie-2/fiche-001",
+  "titre": "Généralités sur la chromatographie – Partie 2",
+  "sections": [
+    {
+      "titre": "Isotherme de distribution",
+      "points": [
+        "Représentation de **CS = K CM** à température donnée : linéaire, concave ou convexe.",
+        "Asymétrie : **Fa** et **Ft** mesurés à **10 % de la hauteur**.",
+        "Linéaire : idéal, Fa = Ft = 1. **Convexe** : PS saturée, montée plus rapide que la descente, Fa > 1, Ft > 1. **Concave** : constituant trop retenu, Fa < 1, Ft < 1."
+      ]
+    },
+    {
+      "titre": "Chromatogramme",
+      "points": [
+        "Détecteur à l'extrémité de la colonne, transmission continue ; pic d'allure gaussienne ; **un pic = une molécule**.",
+        "Position des pics → **qualitatif** ; aire → **quantitatif** (triangulation ou intégrateur).",
+        "Grandeurs mesurées : distance d, largeur (base du triangle), aire.",
+        "Ligne de base : passage de la phase mobile seule."
+      ]
+    },
+    {
+      "titre": "Grandeurs de rétention",
+      "points": [
+        "**TR** (brut) ; **tM** (temps mort, pic solvant, substance non retenue) ; **T'R = TR − TM**.",
+        "**VR = TR · D** ; VM (ou VO) = volume de phase mobile dans la colonne ; **V'R = VR − VM**.",
+        "**K' = (TR − TM)/TM** ; K' = 0 si non retenu ; en CL **5 ≤ K' ≤ 10**.",
+        "« Facteur de rétention » préféré à « facteur de capacité » (confusion avec la capacité de la colonne)."
+      ]
+    },
+    {
+      "titre": "Efficacité",
+      "points": [
+        "Aptitude à donner des **pics fins**, mesurée par N.",
+        "**N = TR²/σ² = 16 TR²/w² = 5,54 TR²/δ²** (w = 4σ ; δ = 2,354σ) ; TR remplaçable par VR ou dR.",
+        "**Neff = 16 T'R²/W²**.",
+        "**HEPT h = L/N** (mm) : N ↑ ⟹ h ↓ ⟹ colonne efficace."
+      ]
+    },
+    {
+      "titre": "Résolution et sélectivité",
+      "points": [
+        "**R = 2 (TRB − TRA)/(WA + WB)** ; optimale **R = 1,5** (0,75 mauvaise ; 1 suffisante).",
+        "**α = T'RB/T'RA = K'B/K'A** (temps de rétention relatif) ; α = 1 : pas de séparation ; α > 1.",
+        "**Purnell** : R = (√NB/4)·((α − 1)/α)·(K'B/(1 + K'B)) — efficacité · sélectivité · rétention ; NB et K'B du composé le plus retenu."
+      ]
+    },
+    {
+      "titre": "Théorie cinétique – Van Deemter",
+      "points": [
+        "Théorie des plateaux imparfaite (discontinue, équilibres complets, sans diffusion ni écoulement continu).",
+        "Théorie cinétique de **GIDDING** : H lié à la vitesse de la phase mobile.",
+        "**H = A + B/u + C·u** (1956, colonnes remplies en CPG, extensible à la CL).",
+        "**A = 2·dp·λ** : diffusion turbulente, croît avec dp.",
+        "**B = 2·γ·DM** : diffusion longitudinale, importante à faible vitesse.",
+        "**C = Cm + Cs** : transfert de masse ; Cm ∝ dp²/DM, Cs ∝ df²/DS ; réduire dp, df, colonne bien tassée."
+      ]
+    },
+    {
+      "titre": "Courbe de Van Deemter",
+      "points": [
+        "**Hyperbole** avec un minimum ; asymptote **H = A + C·u** (ordonnée A, pente C).",
+        "**u opt = √(B/C)** ; **H min = A + 2√(BC)**.",
+        "u en cm/s, H en cm ⟹ A en cm, B en cm²/s, C en s.",
+        "u opt → h min → N max → meilleure efficacité."
+      ]
+    }
+  ],
+  "aRetenir": [
+    "K' = (TR − TM)/TM ; 5 ≤ K' ≤ 10 en CL.",
+    "N = 16 TR²/w² = 5,54 TR²/δ² ; h = L/N.",
+    "R = 2 ΔTR/(WA + WB), optimale 1,5.",
+    "α = K'B/K'A > 1.",
+    "H = A + B/u + C·u ; u opt = √(B/C) ; H min = A + 2√(BC)."
+  ],
+  "pieges": [
+    "K' = (TR − TM)/TM et non TR/TM.",
+    "16 avec w (= 4σ), 5,54 avec δ (= 2,354σ).",
+    "Neff utilise T'R, pas TR.",
+    "Convexe = PS saturée (Fa > 1) ; concave = trop retenu (Fa < 1).",
+    "Fa et Ft se mesurent à 10 % de la hauteur, pas à mi-hauteur.",
+    "Dans Purnell, K'B/(1 + K'B) est le terme de rétention, (α − 1)/α celui de sélectivité.",
+    "u opt = √(B/C), pas √(C/B)."
+  ]
+}

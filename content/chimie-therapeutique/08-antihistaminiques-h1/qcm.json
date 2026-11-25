@@ -1,0 +1,2445 @@
+[
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/qcm-001",
+    "type": "multiple",
+    "enonce": "Concernant la définition de l'allergie :",
+    "options": [
+      "C'est une réaction excessive du système immunitaire",
+      "Elle est dirigée contre des substances normalement inoffensives",
+      "Les substances en cause sont appelées allergènes",
+      "C'est une réaction insuffisante du système immunitaire",
+      "Elle est dirigée uniquement contre des agents pathogènes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "L'allergie est une réaction excessive du système immunitaire à des substances normalement inoffensives, appelées allergènes. Elle n'est ni une réaction insuffisante ni limitée aux agents pathogènes.",
+    "source": {
+      "page": 1,
+      "extrait": "L'allergie est une réaction excessive du système immunitaire à des substances normalement inoffensives, appelées allergènes."
+    },
+    "difficulte": 1,
+    "tags": [
+      "allergie"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/qcm-002",
+    "type": "multiple",
+    "enonce": "Les phases de l'allergie :",
+    "options": [
+      "L'allergie se déroule en deux phases",
+      "Lors de la sensibilisation, le système immunitaire reconnaît l'allergène",
+      "Lors de la réaction allergique, l'allergène déclenche la libération d'histamine",
+      "L'histamine est libérée dès la phase de sensibilisation",
+      "L'allergie se déroule en trois phases"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Deux phases : la sensibilisation (reconnaissance de l'allergène) puis la réaction allergique (libération d'histamine déclenchée par l'allergène).",
+    "source": {
+      "page": 1,
+      "extrait": "la sensibilisation, où le système immunitaire reconnaît l'allergène, et la réaction allergique"
+    },
+    "difficulte": 1,
+    "tags": [
+      "allergie"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/qcm-003",
+    "type": "multiple",
+    "enonce": "Lors de la première exposition à l'allergène :",
+    "options": [
+      "Il y a synthèse d'IgE",
+      "Les IgE sont synthétisées par les lymphocytes B",
+      "Les IgE sont synthétisées par les mastocytes",
+      "Il y a immédiatement dégranulation des mastocytes",
+      "Les anticorps synthétisés sont des IgG"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "La 1re exposition provoque la synthèse d'IgE par les lymphocytes B. La dégranulation ne survient qu'à la 2e exposition.",
+    "source": {
+      "page": 2,
+      "extrait": "La 1ère exposition à l'allergène provoque la synthèse d’IgE par les lymphocytes B"
+    },
+    "difficulte": 1,
+    "tags": [
+      "allergie",
+      "IgE"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/qcm-004",
+    "type": "multiple",
+    "enonce": "Concernant la libération de l'histamine au cours de l'allergie :",
+    "options": [
+      "Elle commence par une réponse immunitaire inappropriée à un antigène banal",
+      "L'allergène peut être du pollen, de la poussière ou un médicament",
+      "La libération de l'histamine se fait en 2 étapes",
+      "La libération de l'histamine se fait en une seule étape",
+      "L'allergène est toujours un agent infectieux"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "L'allergie commence par une réponse immunitaire inappropriée à un antigène banal (pollen, poussière, médicament) ; la libération d'histamine se fait en 2 étapes.",
+    "source": {
+      "page": 2,
+      "extrait": "La libération de l'histamine se fait alors en 2 étapes"
+    },
+    "difficulte": 1,
+    "tags": [
+      "allergie"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/qcm-005",
+    "type": "multiple",
+    "enonce": "Biogenèse de l'histamine :",
+    "options": [
+      "L'histamine est obtenue à partir de l'histidine",
+      "La réaction est une décarboxylation",
+      "L'enzyme responsable est l'histidine décarboxylase",
+      "La réaction libère du CO2",
+      "La réaction est une hydroxylation de l'histidine"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "L'histidine est décarboxylée par l'histidine décarboxylase en histamine, avec libération de CO2.",
+    "source": {
+      "page": 2,
+      "extrait": "Histidine CO2 Histamine Histidine decarboxylase"
+    },
+    "difficulte": 1,
+    "tags": [
+      "biogenèse",
+      "histamine"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/qcm-006",
+    "type": "multiple",
+    "enonce": "Distribution de l'histamine dans l'organisme :",
+    "options": [
+      "Les poumons, le foie et la peau",
+      "Le cerveau, en particulier l'hypothalamus",
+      "Les cellules gastriques",
+      "Le cerveau, en particulier le cervelet",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "L'histamine est distribuée dans les poumons, le foie, la peau, le cerveau (en particulier l'hypothalamus) et les cellules gastriques. Le cervelet n'est pas cité.",
+    "source": {
+      "page": 2,
+      "extrait": "Le cerveau, en particulier l’hypothalamus"
+    },
+    "difficulte": 1,
+    "tags": [
+      "histamine",
+      "distribution"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/qcm-007",
+    "type": "multiple",
+    "enonce": "Rôle de l'histamine :",
+    "options": [
+      "Elle intervient dans les réponses immunitaires locales",
+      "Elle intervient dans la régulation des fonctions intestinales",
+      "Elle agit comme neurotransmetteur",
+      "C'est une hormone thyroïdienne",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "L'histamine est impliquée dans les réponses immunitaires locales, la régulation des fonctions intestinales et comme neurotransmetteur.",
+    "source": {
+      "page": 2,
+      "extrait": "impliquée dans les réponses immunitaires locales, la régulation des fonctions intestinales"
+    },
+    "difficulte": 1,
+    "tags": [
+      "histamine"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/qcm-008",
+    "type": "multiple",
+    "enonce": "L'histamine provoque :",
+    "options": [
+      "Une dilatation des vaisseaux sanguins",
+      "Une augmentation de la perméabilité capillaire",
+      "Une contraction des muscles lisses",
+      "Une vasoconstriction",
+      "Une diminution de la perméabilité capillaire"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "L'histamine provoque vasodilatation, augmentation de la perméabilité capillaire et contraction des muscles lisses, d'où les symptômes allergiques.",
+    "source": {
+      "page": 2,
+      "extrait": "la dilatation des vaisseaux sanguins, l'augmentation de la perméabilité capillaire et la contraction des muscles lisses"
+    },
+    "difficulte": 1,
+    "tags": [
+      "histamine",
+      "effets"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/qcm-009",
+    "type": "multiple",
+    "enonce": "Lors de la deuxième exposition à l'allergène :",
+    "options": [
+      "L'allergène se fixe sur les IgE spécifiques liées aux récepteurs (RC) des mastocytes",
+      "Le complexe IgE-allergène active les récepteurs",
+      "Il s'ensuit une cascade d'évènements appelée dégranulation",
+      "L'histamine est libérée",
+      "Les IgE se fixent pour la première fois sur les lymphocytes T"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Après la sensibilisation, les IgE sont fixées sur leurs récepteurs des mastocytes ; à la 2e exposition, l'allergène se fixe sur ces IgE, le complexe active les RC et entraîne la dégranulation avec libération d'histamine.",
+    "source": {
+      "page": 3,
+      "extrait": "Ce complexe IgE-allergène active alors les RC, entrainant une cascade d'évènements appelée dégranulation"
+    },
+    "difficulte": 2,
+    "tags": [
+      "allergie",
+      "mastocyte"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/qcm-010",
+    "type": "multiple",
+    "enonce": "Les récepteurs H1 de l'histamine :",
+    "options": [
+      "Ont une distribution ubiquitaire",
+      "Sont présents au niveau des muscles lisses",
+      "Sont présents au niveau de l'endothélium",
+      "Sont présents au niveau du cerveau",
+      "Sont localisés exclusivement au niveau de la muqueuse gastrique"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "La distribution des récepteurs H1 est ubiquitaire : muscles lisses, endothélium et cerveau.",
+    "source": {
+      "page": 3,
+      "extrait": "La distribution des récepteurs H1 est ubiquitaire : muscles lisses, endothélium et cerveau"
+    },
+    "difficulte": 1,
+    "tags": [
+      "récepteurs"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/qcm-011",
+    "type": "multiple",
+    "enonce": "Les récepteurs H2 de l'histamine sont situés :",
+    "options": [
+      "Principalement au niveau de la muqueuse gastrique",
+      "Dans le muscle cardiaque",
+      "Dans les mastocytes et le système nerveux central",
+      "Principalement au niveau des cellules hématopoïétiques périphériques",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Les H2 sont principalement situés au niveau de la muqueuse gastrique, mais aussi dans le muscle cardiaque, les mastocytes et le SNC. Les cellules hématopoïétiques concernent les H4.",
+    "source": {
+      "page": 3,
+      "extrait": "principalement situés au niveau de la muqueuse gastrique, mais aussi dans le muscle cardiaque, les mastocytes et le système nerveux central"
+    },
+    "difficulte": 2,
+    "tags": [
+      "récepteurs"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/qcm-012",
+    "type": "multiple",
+    "enonce": "Concernant les récepteurs H3 :",
+    "options": [
+      "Ce sont des autorécepteurs présynaptiques",
+      "Leur stimulation par l'histamine réduit la libération d'histamine",
+      "Leur blocage augmente la libération d'histamine",
+      "L'histamine ainsi libérée stimule la vigilance",
+      "Leur stimulation augmente la libération d'histamine"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "La stimulation des autorécepteurs présynaptiques H3 réduit la libération d'histamine (SNC et périphérie) ; leur blocage l'augmente, ce qui stimule la vigilance.",
+    "source": {
+      "page": 3,
+      "extrait": "le blocage de ces récepteurs augmente la libération d’histamine qui stimule la vigilance"
+    },
+    "difficulte": 2,
+    "tags": [
+      "récepteurs",
+      "H3"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/qcm-013",
+    "type": "multiple",
+    "enonce": "Les récepteurs H4 sont localisés essentiellement :",
+    "options": [
+      "Au niveau des cellules hématopoïétiques périphériques",
+      "Au niveau de la moelle osseuse",
+      "Au niveau de la muqueuse gastrique",
+      "Au niveau des muscles lisses bronchiques",
+      "Au niveau des terminaisons présynaptiques centrales"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Les récepteurs H4 sont localisés essentiellement au niveau des cellules hématopoïétiques périphériques et de la moelle osseuse.",
+    "source": {
+      "page": 3,
+      "extrait": "Les récepteurs H4 sont localisés essentiellement au niveau des cellules hématopoïétiques périphériques et de la moelle osseuse"
+    },
+    "difficulte": 1,
+    "tags": [
+      "récepteurs",
+      "H4"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/qcm-014",
+    "type": "multiple",
+    "enonce": "Couplage des récepteurs histaminiques aux protéines G :",
+    "options": [
+      "H1 est couplé à Gq/11",
+      "H2 est couplé à Gs",
+      "H3 est couplé à Gi/o",
+      "H4 est couplé à Gs",
+      "H1 est couplé à Gi/o"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Tableau du cours : H1 – Gq/11 ; H2 – Gs ; H3 – Gi/o ; H4 – Gi/o.",
+    "source": {
+      "page": 4,
+      "extrait": "Les quatre types de récepteurs histaminiques"
+    },
+    "difficulte": 2,
+    "tags": [
+      "récepteurs",
+      "protéine G"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/qcm-015",
+    "type": "multiple",
+    "enonce": "Fonctions liées à la stimulation des récepteurs H1 :",
+    "options": [
+      "Contraction des muscles lisses, bronchoconstriction",
+      "Vasodilatation et séparation des cellules endothéliales",
+      "Maintien de l'état de veille",
+      "Régulation de la sécrétion de l'acide de l'estomac",
+      "Chimiotaxie des éosinophiles et des mastocytes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "H1 : contraction des muscles lisses (bronchoconstriction), vasodilatation et séparation des cellules endothéliales (urticaire, douleurs des piqûres d'insectes), maintien de l'état de veille. La sécrétion acide relève de H2, la chimiotaxie de H4.",
+    "source": {
+      "page": 4,
+      "extrait": "vasodilatation, séparation des cellules endothéliales, responsable de l'urticaire et des douleurs dues aux piqûres d'insectes"
+    },
+    "difficulte": 2,
+    "tags": [
+      "récepteurs",
+      "H1"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/qcm-016",
+    "type": "multiple",
+    "enonce": "Selon le tableau des quatre types de récepteurs histaminiques :",
+    "options": [
+      "H3 inhibe la libération de l'histamine, de l'acétylcholine, de la noradrénaline et de la sérotonine",
+      "H2, situé dans la paroi de l'estomac, régule la sécrétion acide",
+      "H4 intervient dans la chimiotaxie des éosinophiles et des mastocytes",
+      "H4 intervient dans la libération d'IL-16 des lymphocytes T CD8",
+      "H3 est situé dans la paroi de l'estomac"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "H2 : paroi de l'estomac, sécrétion acide ; H3 : autorécepteurs présynaptiques centraux inhibant la libération de plusieurs neurotransmetteurs ; H4 : chimiotaxie et libération d'IL-16.",
+    "source": {
+      "page": 4,
+      "extrait": "libération d'IL-16 des lymphocytes T CD8"
+    },
+    "difficulte": 3,
+    "tags": [
+      "récepteurs"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/qcm-017",
+    "type": "multiple",
+    "enonce": "Les antihistaminiques H1 :",
+    "options": [
+      "Se fixent sur les récepteurs H1",
+      "Inhibent la vasodilatation induite par l'histamine",
+      "Inhibent l'augmentation de la perméabilité capillaire",
+      "Augmentent la perméabilité capillaire",
+      "Sont utilisés dans la rhinite allergique, la conjonctivite allergique et les réactions cutanées"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explication": "En se fixant sur les H1, ils inhibent la vasodilatation et l'augmentation de la perméabilité capillaire responsables des réactions œdémateuses ; indications : rhinite et conjonctivite allergiques, réactions cutanées.",
+    "source": {
+      "page": 4,
+      "extrait": "notamment la vasodilatation et l'augmentation de la perméabilité capillaire, responsables des réactions œdémateuses"
+    },
+    "difficulte": 1,
+    "tags": [
+      "mécanisme",
+      "indications"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/qcm-018",
+    "type": "multiple",
+    "enonce": "Les antihistaminiques H1 sont classés selon :",
+    "options": [
+      "Leur structure chimique",
+      "Leurs effets sur la vigilance (sédatifs ou non sédatifs)",
+      "Leur action anticholinergique",
+      "Leur ancienneté (première et deuxième génération)",
+      "Leur affinité pour les récepteurs H2"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Trois classifications : chimique (six familles), pharmacologique (vigilance et action anticholinergique) et chronologique (1re et 2e génération).",
+    "source": {
+      "page": 5,
+      "extrait": "leurs effets sur la vigilance (sédatifs ou non sédatifs) et de leur action anticholinergique"
+    },
+    "difficulte": 1,
+    "tags": [
+      "classification"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/qcm-019",
+    "type": "multiple",
+    "enonce": "Font partie des six familles chimiques d'antihistaminiques H1 :",
+    "options": [
+      "Les alkylamines",
+      "Les éthylènediamines",
+      "Les pipéridines",
+      "Les benzodiazépines",
+      "Les hydantoïnes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Six familles : alkylamines, éthanolamines, éthylènediamines, phénothiazines, pipérazines et pipéridines.",
+    "source": {
+      "page": 5,
+      "extrait": "alkylamines, éthanolamines, éthylènediamines, phénothiazines, pipérazines et pipéridines"
+    },
+    "difficulte": 1,
+    "tags": [
+      "classification"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/qcm-020",
+    "type": "multiple",
+    "enonce": "Font partie des familles chimiques d'antihistaminiques H1 :",
+    "options": [
+      "Les éthanolamines",
+      "Les pipérazines",
+      "Les phénothiazines",
+      "Les iminostilbènes",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Les iminostilbènes ne font pas partie des six familles d'antiH1 (alkylamines, éthanolamines, éthylènediamines, phénothiazines, pipérazines, pipéridines).",
+    "source": {
+      "page": 5,
+      "extrait": "Les antihistaminiques sont classés en six familles chimiques"
+    },
+    "difficulte": 1,
+    "tags": [
+      "classification"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/qcm-021",
+    "type": "multiple",
+    "enonce": "Selon le tableau de classification, ne comportent aucun antiH1 de deuxième génération :",
+    "options": [
+      "Les éthanolamines",
+      "Les éthylènediamines",
+      "Les phénothiazines",
+      "Les pipéridines",
+      "Les alkylamines"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Seules les alkylamines (acrivastine), les pipérazines (cétirizine, lévocétirizine) et les pipéridines comportent des molécules de 2e génération.",
+    "source": {
+      "page": 5,
+      "extrait": "Ethylenediamines Antazoline, pyrilamine, tripelennamine --"
+    },
+    "difficulte": 2,
+    "tags": [
+      "classification",
+      "générations"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/qcm-022",
+    "type": "multiple",
+    "enonce": "Classez correctement les antiH1 de deuxième génération :",
+    "options": [
+      "Acrivastine : alkylamine",
+      "Cétirizine : pipérazine",
+      "Lévocétirizine : pipérazine",
+      "Loratadine : alkylamine",
+      "Fexofénadine : éthanolamine"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Acrivastine (alkylamine), cétirizine et lévocétirizine (pipérazines) ; la loratadine et la fexofénadine sont des pipéridines.",
+    "source": {
+      "page": 5,
+      "extrait": "Pipérazines Buclizine, cyclizine, hydroxyzine, meclizine, oxatomide Cétirizine, lévocétirizine"
+    },
+    "difficulte": 2,
+    "tags": [
+      "classification",
+      "générations"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/qcm-023",
+    "type": "multiple",
+    "enonce": "Sont des pipéridines de première génération :",
+    "options": [
+      "Azatadine",
+      "Cyproheptadine",
+      "Kétotifène",
+      "Desloratadine",
+      "Fexofénadine"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Pipéridines de 1re génération : azatadine, cyproheptadine, diphénylpyraline, kétotifène. Desloratadine et fexofénadine sont de 2e génération.",
+    "source": {
+      "page": 5,
+      "extrait": "Pipéridines Azatadine, cyproheptadine, diphenylpyraline, kétotifen"
+    },
+    "difficulte": 2,
+    "tags": [
+      "classification",
+      "pipéridines"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/qcm-024",
+    "type": "multiple",
+    "enonce": "Sont des pipéridines de deuxième génération :",
+    "options": [
+      "Bilastine",
+      "Ébastine",
+      "Mizolastine",
+      "Terfénadine",
+      "Diphénylpyraline"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Pipéridines de 2e génération : astémizole, bilastine, desloratadine, ébastine, fexofénadine, lévocabastine, loratadine, mizolastine, olopatadine, rupatadine, terfénadine. La diphénylpyraline est de 1re génération.",
+    "source": {
+      "page": 5,
+      "extrait": "Astemizole, bilastine, desloratadine, ebastine, fexofenadine, levocabastine, loratadine"
+    },
+    "difficulte": 2,
+    "tags": [
+      "classification",
+      "pipéridines"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/qcm-025",
+    "type": "multiple",
+    "enonce": "Appartiennent à la série des éthanolamines :",
+    "options": [
+      "Clémastine",
+      "Diménhydrinate",
+      "Doxylamine",
+      "Antazoline",
+      "Méthdilazine"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Éthanolamines : carbinoxamine, clémastine, diménhydrinate, diphenhydramine, doxylamine, phényltoloxamine. L'antazoline est une éthylènediamine, la méthdilazine une phénothiazine.",
+    "source": {
+      "page": 5,
+      "extrait": "Ethanolamines Carbinoxamine, clemastine, dimenhydrinate, diphenhydramine, doxylamine, phenyltoloxamine"
+    },
+    "difficulte": 2,
+    "tags": [
+      "classification",
+      "éthanolamines"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/qcm-026",
+    "type": "multiple",
+    "enonce": "Appartiennent à la série des éthylènediamines :",
+    "options": [
+      "Antazoline",
+      "Pyrilamine",
+      "Tripelennamine",
+      "Prométhazine",
+      "Hydroxyzine"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Éthylènediamines : antazoline, pyrilamine, tripelennamine. La prométhazine est une phénothiazine, l'hydroxyzine une pipérazine.",
+    "source": {
+      "page": 5,
+      "extrait": "Ethylenediamines Antazoline, pyrilamine, tripelennamine"
+    },
+    "difficulte": 1,
+    "tags": [
+      "classification",
+      "éthylènediamines"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/qcm-027",
+    "type": "multiple",
+    "enonce": "Sont des pipérazines de première génération :",
+    "options": [
+      "Oxatomide",
+      "Méclizine",
+      "Hydroxyzine",
+      "Triprolidine",
+      "Cyproheptadine"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Pipérazines de 1re génération : buclizine, cyclizine, hydroxyzine, méclizine, oxatomide. La triprolidine est une alkylamine, la cyproheptadine une pipéridine.",
+    "source": {
+      "page": 5,
+      "extrait": "Pipérazines Buclizine, cyclizine, hydroxyzine, meclizine, oxatomide"
+    },
+    "difficulte": 2,
+    "tags": [
+      "classification",
+      "pipérazines"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/qcm-028",
+    "type": "multiple",
+    "enonce": "Sont des alkylamines de première génération :",
+    "options": [
+      "Dimétindène",
+      "Triprolidine",
+      "Phéniramine",
+      "Clémastine",
+      "Pyrilamine"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Alkylamines de 1re génération : bromphéniramine, chlorphéniramine, dimétindène, phéniramine, triprolidine. Clémastine : éthanolamine ; pyrilamine : éthylènediamine.",
+    "source": {
+      "page": 5,
+      "extrait": "Alkylamines Brompheniramine, chlorpheniramine"
+    },
+    "difficulte": 2,
+    "tags": [
+      "classification",
+      "alkylamines"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/qcm-029",
+    "type": "multiple",
+    "enonce": "Selon le tableau de classification, la série des phénothiazines comprend :",
+    "options": [
+      "Méthdilazine",
+      "Prométhazine",
+      "Antazoline",
+      "Cétirizine",
+      "Clémastine"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Phénothiazines (1re génération) du tableau : méthdilazine et prométhazine.",
+    "source": {
+      "page": 5,
+      "extrait": "Phenothiazines Methdilazine, promethazine"
+    },
+    "difficulte": 1,
+    "tags": [
+      "classification",
+      "phénothiazines"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/qcm-030",
+    "type": "multiple",
+    "enonce": "Série des pipérazines (tableau X, Y, R) :",
+    "options": [
+      "Cyclizine : X = H, Y = H, R = CH3",
+      "Hydroxyzine : X = Cl, R = -CH2-CH2-O-CH2-CH2OH",
+      "Buclizine : X = Cl, R = -CH2-C6H5-C(CH3)3",
+      "Clocinizine : X = Cl, R = -CH2-CH=CH-C6H5",
+      "Cyclizine : X = Cl, R = CH3"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Seule la cyclizine n'a pas de chlore (X = H) ; Y = H pour toutes ; R = CH3 (cyclizine), chaîne hydroxyéthoxyéthyle (hydroxyzine), tert-butylbenzyle (buclizine), cinnamyle (clocinizine).",
+    "source": {
+      "page": 6,
+      "extrait": "Cyclizine (Marzine*) H H CH3"
+    },
+    "difficulte": 2,
+    "tags": [
+      "pipérazines",
+      "structure"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/qcm-031",
+    "type": "multiple",
+    "enonce": "Noms commerciaux des pipérazines :",
+    "options": [
+      "Hydroxyzine : Atarax®",
+      "Cyclizine : Marzine®",
+      "Buclizine : Aphilan®",
+      "Clocinizine : Atarax®",
+      "Buclizine : Marzine®"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Cyclizine (Marzine®), buclizine (Aphilan®), hydroxyzine (Atarax®), clocinizine (Dénoral®).",
+    "source": {
+      "page": 6,
+      "extrait": "Hydroxyzine (Atarax*) Cl H -CH2-CH2-O-CH2-CH2OH"
+    },
+    "difficulte": 1,
+    "tags": [
+      "pipérazines",
+      "noms commerciaux"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/qcm-032",
+    "type": "multiple",
+    "enonce": "Concernant la structure générale de la série des pipérazines :",
+    "options": [
+      "Le cycle pipérazine est substitué sur ses deux atomes d'azote",
+      "Un azote porte un carbone lié à deux noyaux phényles (substitués par X et Y)",
+      "Y = H pour les quatre molécules du tableau",
+      "La cyclizine porte un chlore en X",
+      "La cyclizine porte un méthyle sur l'azote (R = CH3)"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explication": "Structure générale : pipérazine N,N'-disubstituée, avec un groupement diphénylméthyle (X, Y) et un radical R. Y = H dans tout le tableau ; la cyclizine a X = H et R = CH3.",
+    "source": {
+      "page": 6,
+      "extrait": "Cyclizine (Marzine*) H H CH3"
+    },
+    "difficulte": 2,
+    "tags": [
+      "pipérazines",
+      "structure"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/qcm-033",
+    "type": "multiple",
+    "enonce": "Synthèse des dérivés pipéraziniques :",
+    "options": [
+      "L'obtention de dérivés dissymétriques soulève des difficultés",
+      "La pipérazine peut réagir au niveau de ses deux atomes d'azote",
+      "On bloque une fonction amine par le chlorocarbonate d'éthyle",
+      "On bloque une fonction amine par l'anhydride acétique",
+      "Le déblocage se fait par décarboxylation par l'acide sulfurique"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "La pipérazine pouvant réagir par ses deux azotes, on bloque une amine par le chlorocarbonate d'éthyle ; le déblocage se fait par décarboxylation par la potasse.",
+    "source": {
+      "page": 7,
+      "extrait": "on fait un blocage d’une fonction amine de la pipérazine par le chlorocarbonate d’éthyle"
+    },
+    "difficulte": 2,
+    "tags": [
+      "pipérazines",
+      "synthèse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/qcm-034",
+    "type": "unique",
+    "enonce": "Quel est l'ordre correct des étapes de la synthèse des dérivés pipéraziniques ?",
+    "options": [
+      "Blocage par le chlorocarbonate d'éthyle → greffage par l'halogénure → décarboxylation par la potasse → greffage d'un nouveau radical",
+      "Greffage par l'halogénure → blocage par le chlorocarbonate d'éthyle → décarboxylation → greffage d'un nouveau radical",
+      "Décarboxylation par la potasse → blocage par le chlorocarbonate d'éthyle → greffage par l'halogénure → greffage d'un nouveau radical",
+      "Blocage par le chlorocarbonate d'éthyle → décarboxylation par la potasse → greffage par l'halogénure → greffage d'un nouveau radical",
+      "Greffage d'un nouveau radical → blocage → greffage par l'halogénure → décarboxylation"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "On bloque d'abord un azote (chlorocarbonate d'éthyle), on greffe le radical voulu sur l'azote libre (halogénure), on décarboxyle par la potasse, puis on greffe un nouveau radical.",
+    "source": {
+      "page": 7,
+      "extrait": "par action de l’halogénure correspondant, après décarboxylation par la potasse, on greffe un nouveau radical"
+    },
+    "difficulte": 2,
+    "tags": [
+      "pipérazines",
+      "synthèse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/qcm-035",
+    "type": "multiple",
+    "enonce": "Concernant les étapes de la synthèse des pipérazines :",
+    "options": [
+      "Le blocage conduit à l'éthyl pipérazine-1-carboxylate",
+      "Le greffage utilise le 1-chloro-4-[chloro(phényl)méthyl]benzène et libère HCl",
+      "La décarboxylation par KOH/HCl libère C2H5OH et CO2",
+      "Le nouveau radical est greffé par R-Cl / NaNH2",
+      "La décarboxylation est réalisée par NaNH2"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Pipérazine + chlorocarbonate d'éthyle → éthyl pipérazine-1-carboxylate ; greffage du 1-chloro-4-[chloro(phényl)méthyl]benzène (+ HCl) ; décarboxylation KOH/HCl (+ C2H5OH + CO2) ; R-Cl/NaNH2 pour le dernier radical.",
+    "source": {
+      "page": 7,
+      "extrait": "KOH / HCl décarboxylation"
+    },
+    "difficulte": 3,
+    "tags": [
+      "pipérazines",
+      "synthèse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/qcm-036",
+    "type": "multiple",
+    "enonce": "Propriétés et usages thérapeutiques des pipérazines :",
+    "options": [
+      "Cyclizine : antiémétique dans le mal de transport et antimigraineux",
+      "Buclizine : antiallergique et antiémétique",
+      "Méclozine : antiémétique dans le mal de transport",
+      "Hydroxyzine : antiallergique et anxiolytique",
+      "Cyclizine : anxiolytique"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "L'anxiolytique de la série est l'hydroxyzine ; la cyclizine est antiémétique (mal de transport) et antimigraineux.",
+    "source": {
+      "page": 7,
+      "extrait": "Cyclizine: anti-H1, utilisé comme antiémétique dans le mal de transport et comme antimigraineux"
+    },
+    "difficulte": 1,
+    "tags": [
+      "pipérazines",
+      "indications"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/qcm-037",
+    "type": "multiple",
+    "enonce": "Indications des éthanolamines :",
+    "options": [
+      "Diphenhydramine par voie orale : maux des transports",
+      "Diphenhydramine par voie locale : piqûres d'insectes, prurits, urticaires",
+      "Diménhydrinate : mal des transports, nausées et vomissements",
+      "Doxylamine : insomnies",
+      "Carbinoxamine : insomnies"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "La carbinoxamine est indiquée dans les manifestations allergiques (conjonctivites, rhinites, urticaires), pas dans l'insomnie (doxylamine).",
+    "source": {
+      "page": 8,
+      "extrait": "Voie orale : maux des transports"
+    },
+    "difficulte": 2,
+    "tags": [
+      "éthanolamines",
+      "indications"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/qcm-038",
+    "type": "multiple",
+    "enonce": "Associations médicamenteuses des éthanolamines :",
+    "options": [
+      "Diphenhydramine + paracétamol + pseudoéphédrine : rhinopharyngites aiguës",
+      "Doxylamine + paracétamol + pseudoéphédrine : rhinopharyngites aiguës",
+      "Phényltoloxamine + céthexonium bromure : rhinites allergiques",
+      "Phényltoloxamine + codéine : toux sèches",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "La phényltoloxamine est associée au bromure de céthexonium (rhinites allergiques). L'association à la codéine concerne la dexchlorphéniramine (alkylamine).",
+    "source": {
+      "page": 8,
+      "extrait": "+céthexonium bromure : rhinites allergiques"
+    },
+    "difficulte": 2,
+    "tags": [
+      "éthanolamines",
+      "associations"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/qcm-039",
+    "type": "multiple",
+    "enonce": "Le diménhydrinate :",
+    "options": [
+      "Appartient à la série des éthanolamines",
+      "Est commercialisé sous les noms Mercalm® et Nausicalm®",
+      "Est indiqué dans le mal des transports",
+      "Est indiqué dans les nausées et vomissements",
+      "Est une phénothiazine"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Diménhydrinate (Mercalm®, Nausicalm®) : éthanolamine indiquée dans le mal des transports, les nausées et vomissements.",
+    "source": {
+      "page": 8,
+      "extrait": "Diménhydrinate MERCALM, NAUSICALM Mal des transports. Nausées et vomissements"
+    },
+    "difficulte": 1,
+    "tags": [
+      "éthanolamines"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/qcm-040",
+    "type": "multiple",
+    "enonce": "D'après les structures des éthanolamines présentées dans le cours :",
+    "options": [
+      "Elles possèdent un enchaînement éther –O–CH2–CH2–N(CH3)2",
+      "La doxylamine possède un cycle pyridine",
+      "La carbinoxamine possède un atome de chlore",
+      "La diphenhydramine possède un cycle pyridine",
+      "La phényltoloxamine possède un atome de chlore"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Diphenhydramine : éther de benzhydryle sans hétérocycle ; doxylamine et carbinoxamine portent une pyridine, la carbinoxamine un 4-chlorophényle ; la phényltoloxamine n'a pas de chlore.",
+    "source": {
+      "page": 8,
+      "extrait": "Diphenhydramine Doxylamine"
+    },
+    "difficulte": 3,
+    "tags": [
+      "éthanolamines",
+      "structure"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/qcm-041",
+    "type": "multiple",
+    "enonce": "Concernant la série des alkylamines :",
+    "options": [
+      "Ce sont les plus puissants des antagonistes H1",
+      "Les effets impliquant une stimulation du SNC sont plus fréquents qu'avec les autres groupes",
+      "La phéniramine est présente dans le Fervex®",
+      "La dexchlorphéniramine est présente dans la Polaramine® et la Célestamine®",
+      "Ce sont les moins puissants des antagonistes H1"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Les alkylamines sont les plus puissants antagonistes H1, avec plus fréquemment des effets de stimulation du SNC.",
+    "source": {
+      "page": 9,
+      "extrait": "Ce sont les plus puissants des antagonistes H1"
+    },
+    "difficulte": 2,
+    "tags": [
+      "alkylamines"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/qcm-042",
+    "type": "multiple",
+    "enonce": "Indications des alkylamines :",
+    "options": [
+      "Phéniramine + paracétamol + acide ascorbique : états grippaux, rhinites, rhinopharyngites, rhumes",
+      "Dexchlorphéniramine + codéine : toux sèches",
+      "Dexchlorphéniramine + bétaméthasone : rhinites allergiques, urticaires aiguës",
+      "Triprolidine + paracétamol + pseudoéphédrine : rhinopharyngites aiguës",
+      "Bromphéniramine + codéine : toux sèches"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "La bromphéniramine est utilisée seule dans les manifestations allergiques (conjonctivites, rhinites, urticaires) ; c'est la dexchlorphéniramine qui est associée à la codéine.",
+    "source": {
+      "page": 9,
+      "extrait": "En association à la codéine, la dexchlorphéniramine est utilisée dans la prise en charge de toux sèches"
+    },
+    "difficulte": 2,
+    "tags": [
+      "alkylamines",
+      "indications"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/qcm-043",
+    "type": "multiple",
+    "enonce": "Structure générale des alkylamines (aryle et pyridine portés par le même carbone, chaîne –CH2–CH2–N(CH3)2, R en para du phényle) :",
+    "options": [
+      "Elles possèdent un cycle pyridine",
+      "R = Cl correspond à la (dex)chlorphéniramine",
+      "R = Br correspond à la bromphéniramine",
+      "R = H correspond à la phéniramine",
+      "Elles possèdent une fonction éther dans la chaîne"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "R = H (phéniramine), Cl (dexchlorphéniramine), Br (bromphéniramine). Il n'y a pas de fonction éther (caractéristique des éthanolamines).",
+    "source": {
+      "page": 9,
+      "extrait": "dexchlorphéniramine POLARAMINE* CELESTAMINE*"
+    },
+    "difficulte": 2,
+    "tags": [
+      "alkylamines",
+      "structure"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/qcm-044",
+    "type": "multiple",
+    "enonce": "Associez les spécialités aux alkylamines :",
+    "options": [
+      "Fervex® : phéniramine",
+      "Dimegan® : bromphéniramine (maléate)",
+      "Histagan® : dexchlorphéniramine",
+      "Polaramine® : phéniramine",
+      "Fervex® : triprolidine"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Fervex® (phéniramine), Polaramine®, Célestamine® et Histagan® (dexchlorphéniramine), Dimegan® (bromphéniramine).",
+    "source": {
+      "page": 9,
+      "extrait": "Dexchlorphéniramine HISTAGAN"
+    },
+    "difficulte": 2,
+    "tags": [
+      "alkylamines",
+      "noms commerciaux"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/qcm-045",
+    "type": "multiple",
+    "enonce": "La bromphéniramine :",
+    "options": [
+      "Est une alkylamine",
+      "Est utilisée dans les manifestations allergiques (conjonctivites, rhinites, urticaires)",
+      "Porte un atome de brome sur le noyau phényle",
+      "Est une éthanolamine",
+      "Est utilisée comme somnifère"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Bromphéniramine (maléate, Dimegan®) : alkylamine (R = Br), utilisée dans les manifestations allergiques.",
+    "source": {
+      "page": 9,
+      "extrait": "est utilisée dans la prise en charge de manifestations allergiques (conjonctivites, rhinites, urticaires)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "alkylamines"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/qcm-046",
+    "type": "multiple",
+    "enonce": "Série des éthylènediamines :",
+    "options": [
+      "La structure générale comporte un enchaînement N–CH2–CH2–N",
+      "L'un des atomes d'azote porte un groupement aryle (Ar)",
+      "La pyrilamine porte un groupement méthoxy (OCH3)",
+      "La chloropyramine porte un atome de chlore",
+      "La tripelennamine porte un atome de soufre"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Structure générale R(Ar)N–CH2–CH2–NR2 ; pyrilamine (4-méthoxybenzyle), tripelennamine (benzyle), chloropyramine (4-chlorobenzyle), toutes avec une 2-pyridinylamine. Pas de soufre.",
+    "source": {
+      "page": 10,
+      "extrait": "série de l' Ethylènediamine"
+    },
+    "difficulte": 2,
+    "tags": [
+      "éthylènediamines",
+      "structure"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/qcm-047",
+    "type": "multiple",
+    "enonce": "Concernant la mépyramine :",
+    "options": [
+      "Elle appartient à la série des éthylènediamines",
+      "Elle est associée au dextrométhorphane dans l'Atussine®",
+      "L'Atussine® est un sirop antitussif",
+      "L'Atussine® est indiquée dans la toux sèche et la toux d'irritation",
+      "Elle appartient à la série des phénothiazines"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "La mépyramine (éthylènediamine) est présente sous forme de maléate avec le bromhydrate de dextrométhorphane dans l'Atussine®, sirop antitussif (toux sèche, toux d'irritation).",
+    "source": {
+      "page": 10,
+      "extrait": "Bromhydrate de dextrométhorphane Maléate de mépyramine"
+    },
+    "difficulte": 2,
+    "tags": [
+      "éthylènediamines"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/qcm-048",
+    "type": "multiple",
+    "enonce": "Série des phénothiazines antiH1 :",
+    "options": [
+      "Prométhazine : Phénergan®",
+      "Alimémazine : Théralène®",
+      "Oxomémazine : Toplexil®",
+      "Prométhazine : allergies, prurit, mal de transport",
+      "Oxomémazine : somnifère"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "L'oxomémazine est antitussive et antiallergique ; c'est l'alimémazine qui est aussi utilisée comme somnifère.",
+    "source": {
+      "page": 10,
+      "extrait": "Emploi: allergies, prurit, mal de transport"
+    },
+    "difficulte": 1,
+    "tags": [
+      "phénothiazines",
+      "indications"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/qcm-049",
+    "type": "multiple",
+    "enonce": "L'alimémazine (Théralène®) est employée comme :",
+    "options": [
+      "Antitussif",
+      "Antiallergique",
+      "Somnifère",
+      "Antiémétique du mal de transport",
+      "Anxiolytique"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Alimémazine : antitussif, antiallergique, somnifère.",
+    "source": {
+      "page": 10,
+      "extrait": "Emploi: antitussif, antiallergiques, somnifère"
+    },
+    "difficulte": 1,
+    "tags": [
+      "phénothiazines"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/qcm-050",
+    "type": "multiple",
+    "enonce": "Structures des phénothiazines antiH1 :",
+    "options": [
+      "La prométhazine possède une chaîne diméthylaminoéthyle ramifiée (2 carbones entre les deux azotes)",
+      "L'alimémazine possède une chaîne diméthylaminopropyle (3 carbones entre les deux azotes)",
+      "L'oxomémazine possède un soufre oxydé en sulfone (SO2)",
+      "L'alimémazine possède un soufre oxydé en sulfone (SO2)",
+      "La prométhazine possède un chlore sur le cycle phénothiazinique"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Prométhazine : N–CH2–CH(CH3)–N(CH3)2 ; alimémazine : N–CH2–CH(CH3)–CH2–N(CH3)2 ; l'oxomémazine porte en plus un soufre dioxydé. Aucune n'a de chlore sur le cycle.",
+    "source": {
+      "page": 10,
+      "extrait": "Phénothiazines à chaine diméthylaminopropyle"
+    },
+    "difficulte": 3,
+    "tags": [
+      "phénothiazines",
+      "structure"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/qcm-051",
+    "type": "multiple",
+    "enonce": "La méquitazine :",
+    "options": [
+      "Est légèrement sédative",
+      "Possède des effets anticholinergiques",
+      "Est utilisée dans les manifestations allergiques (rhinite, urticaire, conjonctivites)",
+      "Est un antiH1 de première génération peu sédatif",
+      "Est dépourvue d'effets anticholinergiques"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "La méquitazine (phénothiazine) est légèrement sédative et anticholinergique ; antiH1 de 1re génération peu sédatif, utilisé dans les manifestations allergiques.",
+    "source": {
+      "page": 11,
+      "extrait": "légèrement sédatif, et possède des effets anticholinergiques"
+    },
+    "difficulte": 2,
+    "tags": [
+      "phénothiazines",
+      "méquitazine"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/qcm-052",
+    "type": "multiple",
+    "enonce": "Pipéridines de première génération :",
+    "options": [
+      "Kétotifène : prise en charge des rhinoconjonctivites allergiques",
+      "Cyproheptadine : manifestations allergiques et stimulant d'appétit",
+      "Azatadine : retirée",
+      "Kétotifène : Zalerg®",
+      "Kétotifène : stimulant d'appétit"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Kétotifène (Zalerg®) : rhinoconjonctivites allergiques ; cyproheptadine (Périmex®, Heptaford®) : manifestations allergiques et stimulant d'appétit ; azatadine : retirée.",
+    "source": {
+      "page": 11,
+      "extrait": "la prise en charge de rhinoconjonctivites allergiques"
+    },
+    "difficulte": 2,
+    "tags": [
+      "pipéridines",
+      "indications"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/qcm-053",
+    "type": "multiple",
+    "enonce": "D'après les structures présentées pour les pipéridines de première génération :",
+    "options": [
+      "Le kétotifène comporte un noyau thiophène",
+      "Le kétotifène comporte une fonction cétone",
+      "La cyproheptadine comporte une 1-méthylpipéridine liée par une double liaison au tricycle",
+      "La cyproheptadine comporte un atome de soufre",
+      "Le kétotifène est dépourvu d'azote"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Kétotifène : tricycle benzo-cyclohepta-thiophène cétonique + 1-méthylpipéridin-4-ylidène. Cyproheptadine : 4-(dibenzo[a,e][7]annulén-11-ylidène)-1-méthylpipéridine, sans soufre.",
+    "source": {
+      "page": 11,
+      "extrait": "4-(dibenzo[1,2-a:1',2'-e][7]annulen-11-ylidene)-1-methylpiperidine"
+    },
+    "difficulte": 3,
+    "tags": [
+      "pipéridines",
+      "structure"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/qcm-054",
+    "type": "multiple",
+    "enonce": "Noms commerciaux de la cyproheptadine :",
+    "options": [
+      "Périmex®",
+      "Heptaford®",
+      "Zalerg®",
+      "Clarityne®",
+      "Telfast®"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Cyproheptadine : Périmex®, Heptaford® ; Zalerg® = kétotifène ; Clarityne® = loratadine ; Telfast® = fexofénadine.",
+    "source": {
+      "page": 11,
+      "extrait": "PERIMEX, HEPTAFORD"
+    },
+    "difficulte": 2,
+    "tags": [
+      "pipéridines",
+      "noms commerciaux"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/qcm-055",
+    "type": "multiple",
+    "enonce": "Les antihistaminiques H1 de deuxième génération :",
+    "options": [
+      "Sont dépourvus d'effets anticholinergiques",
+      "Sont de plus en plus employés au détriment des précédents",
+      "Ont une efficacité qui ne s'accompagne pas d'effets secondaires aussi importants",
+      "Entraînent moins de somnolence car ils diffusent moins dans le SNC",
+      "Diffusent davantage dans le SNC que ceux de première génération"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Les antiH1 de 2e génération, sans effets anticholinergiques, diffusent moins dans le SNC et entraînent donc moins de somnolence.",
+    "source": {
+      "page": 12,
+      "extrait": "Ces produits entraînent également moins de somnolence car ils diffusent moins dans le système nerveux central"
+    },
+    "difficulte": 1,
+    "tags": [
+      "deuxième génération"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/qcm-056",
+    "type": "multiple",
+    "enonce": "Indications de la cétirizine :",
+    "options": [
+      "Rhinites allergiques (symptômes nasaux et oculaires)",
+      "Urticaires chroniques idiopathiques",
+      "Insomnies",
+      "Mal des transports",
+      "Toux sèches"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "La cétirizine (et la lévocétirizine) est indiquée dans les rhinites allergiques (symptômes nasaux et oculaires) et les urticaires chroniques idiopathiques.",
+    "source": {
+      "page": 12,
+      "extrait": "Urticaires chroniques idiopathiques"
+    },
+    "difficulte": 1,
+    "tags": [
+      "cétirizine",
+      "indications"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/qcm-057",
+    "type": "multiple",
+    "enonce": "Concernant la cétirizine :",
+    "options": [
+      "Elle appartient à la famille des pipérazines",
+      "C'est un métabolite carboxylé de l'hydroxyzine",
+      "Elle est ionisée au pH physiologique",
+      "Elle est très polaire, donc peu lipophile",
+      "Elle franchit largement la barrière hémato-encéphalique"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Le groupement carboxylique rend la cétirizine ionisée au pH physiologique, très polaire et peu lipophile : elle ne franchit que très peu la BHE et n'a donc que peu d'effet sédatif.",
+    "source": {
+      "page": 12,
+      "extrait": "un dérivé ionisé au pH physiologique, à caractère très polaire donc peu lipophile"
+    },
+    "difficulte": 2,
+    "tags": [
+      "cétirizine",
+      "RSA"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/qcm-058",
+    "type": "multiple",
+    "enonce": "Passage de l'hydroxyzine à la cétirizine :",
+    "options": [
+      "Il se fait in vivo",
+      "Il s'agit d'une oxydation",
+      "La fonction alcool primaire terminale est transformée en acide carboxylique",
+      "Il s'agit d'une réduction",
+      "La cétirizine perd l'atome de chlore de l'hydroxyzine"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "L'hydroxyzine est oxydée in vivo : son –CH2OH terminal devient –CO2H (cétirizine). Le 4-chlorophényle est conservé.",
+    "source": {
+      "page": 12,
+      "extrait": "in vivo oxidation"
+    },
+    "difficulte": 2,
+    "tags": [
+      "cétirizine",
+      "hydroxyzine",
+      "métabolisme"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/qcm-059",
+    "type": "unique",
+    "enonce": "Pourquoi la cétirizine n'a-t-elle que peu d'effet sédatif ?",
+    "options": [
+      "Elle ne franchit que très peu la barrière hémato-encéphalique",
+      "Elle est fortement lipophile",
+      "Elle ne se fixe pas sur les récepteurs H1",
+      "Elle est un agoniste des récepteurs H3",
+      "Elle est dépourvue de fonction acide"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Ionisée et très polaire grâce au groupement carboxylique, elle ne franchit que très peu la BHE, d'où le faible effet sédatif.",
+    "source": {
+      "page": 12,
+      "extrait": "ne franchissant que très peu la barrière hémato-encéphalique et n'ayant donc que peu d'effet sédatif"
+    },
+    "difficulte": 2,
+    "tags": [
+      "cétirizine"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/qcm-060",
+    "type": "multiple",
+    "enonce": "La fexofénadine :",
+    "options": [
+      "Est commercialisée sous le nom de Telfast®",
+      "Est le métabolite actif de la terfénadine",
+      "N'a pas les inconvénients cardiaques de la terfénadine",
+      "Appartient à la série des pipéridines",
+      "A été retirée du marché pour toxicité cardiaque"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "C'est la terfénadine qui a été retirée du marché ; la fexofénadine, son métabolite actif (pipéridine, Telfast®), n'en a pas les inconvénients cardiaques.",
+    "source": {
+      "page": 13,
+      "extrait": "La Fexofénadine est le métabolite actif de la terfénadine (retirée du marché)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "fexofénadine"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/qcm-061",
+    "type": "multiple",
+    "enonce": "D'après la structure de la fexofénadine présentée dans le cours :",
+    "options": [
+      "Elle comporte un cycle pipéridine",
+      "Elle comporte un groupement hydroxydiphénylméthyle",
+      "Elle comporte une fonction acide carboxylique",
+      "Elle est présentée sous forme de chlorhydrate",
+      "Elle est présentée comme un énantiomère pur"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Acide 2-[4-[(1RS)-1-hydroxy-4-[4-(hydroxydiphénylméthyl)pipéridin-1-yl]butyl]phényl]-2-méthylpropanoïque, chlorhydrate ; « (1RS) et énantiomère » : ce n'est pas un énantiomère pur.",
+    "source": {
+      "page": 13,
+      "extrait": "acide 2-[4-[(1RS)-1-hydroxy-4-[4-(hydroxydiphénylméthyl)pipéridin-1-yl] butyl]phényl]-2-méthylpropanoïque"
+    },
+    "difficulte": 3,
+    "tags": [
+      "fexofénadine",
+      "structure"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/qcm-062",
+    "type": "multiple",
+    "enonce": "Concernant la lévocétirizine :",
+    "options": [
+      "La cétirizine est un racémique possédant deux énantiomères",
+      "La lévocétirizine est l'énantiomère (R)",
+      "La dextrocétirizine est l'énantiomère (S)",
+      "La lévocétirizine fait partie de la famille des pipérazines",
+      "La lévocétirizine est l'énantiomère (S)"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "La cétirizine est racémique : lévocétirizine = (R)-énantiomère, dextrocétirizine = (S)-énantiomère. La lévocétirizine reste une pipérazine.",
+    "source": {
+      "page": 13,
+      "extrait": "La lévocétirizine ((R)-énantiomère) et la dextrocétirizine ((S)-énantiomère)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "lévocétirizine",
+      "stéréochimie"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/qcm-063",
+    "type": "multiple",
+    "enonce": "La loratadine :",
+    "options": [
+      "Est commercialisée sous le nom de Clarityne®",
+      "Est dépourvue d'effet sédatif et anticholinergique",
+      "Soulage les symptômes des allergies saisonnières",
+      "Est indiquée pour soulager l'urticaire chronique",
+      "Possède un effet anticholinergique marqué"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Loratadine (Clarityne®) : antiH1 dépourvu d'effet sédatif et anticholinergique, indiqué dans les allergies saisonnières et l'urticaire chronique.",
+    "source": {
+      "page": 14,
+      "extrait": "Un antihistaminique H1 dépourvue d'effet sédatif et anticholinergique"
+    },
+    "difficulte": 1,
+    "tags": [
+      "loratadine"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/qcm-064",
+    "type": "multiple",
+    "enonce": "Symptômes des allergies saisonnières soulagés par la loratadine selon le cours :",
+    "options": [
+      "Éternuements",
+      "Démangeaison nasale et écoulement nasal",
+      "Larmoiement et rougeur des yeux",
+      "Insomnie",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Allergies saisonnières : éternuements, démangeaison nasale, écoulement nasal, larmoiement et rougeur des yeux.",
+    "source": {
+      "page": 14,
+      "extrait": "les éternuements, la démangeaison nasale, l'écoulement nasal, ainsi que le larmoiement et la rougeur des yeux"
+    },
+    "difficulte": 1,
+    "tags": [
+      "loratadine",
+      "indications"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/qcm-065",
+    "type": "multiple",
+    "enonce": "La desloratadine :",
+    "options": [
+      "Est commercialisée sous le nom de Deslor®",
+      "Est le métabolite actif de la loratadine",
+      "A une très grande affinité pour les récepteurs H1",
+      "Exerce un effet prolongé",
+      "Traverse la BHE et provoque une sédation"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Desloratadine (Deslor®) : métabolite actif de la loratadine, très grande affinité H1, effet prolongé ; ne traverse pas la BHE (pas de sédation).",
+    "source": {
+      "page": 14,
+      "extrait": "connu pour sa très grande affinité aux récepteurs H1 , il exerce un effet prolongé"
+    },
+    "difficulte": 1,
+    "tags": [
+      "desloratadine"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/qcm-066",
+    "type": "multiple",
+    "enonce": "La rupatadine :",
+    "options": [
+      "Est commercialisée sous le nom de Rupafin®",
+      "Est indiquée dans le traitement symptomatique de la rhinite allergique et de l'urticaire",
+      "Est métabolisée par le cytochrome P450 3A4",
+      "Donne différents produits actifs dont la desloratadine",
+      "Est métabolisée par le cytochrome P450 2D6"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Rupatadine (Rupafin®) : rhinite allergique et urticaire ; métabolisée par le CYP3A4 en différents produits actifs dont la desloratadine.",
+    "source": {
+      "page": 14,
+      "extrait": "La rupatadine est métabolisée par le cytochrome P450 3A4 en différents produits actifs dont la desloratadine"
+    },
+    "difficulte": 2,
+    "tags": [
+      "rupatadine",
+      "métabolisme"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/qcm-067",
+    "type": "multiple",
+    "enonce": "D'après les structures de la loratadine, de la desloratadine et de la rupatadine :",
+    "options": [
+      "Elles possèdent un tricycle comportant un noyau pyridine et un atome de chlore",
+      "La loratadine porte un groupement éthoxycarbonyle (–COOC2H5) sur l'azote pipéridinique",
+      "La desloratadine possède un azote pipéridinique libre (NH)",
+      "La rupatadine porte un groupement (5-méthylpyridin-3-yl)méthyle sur l'azote pipéridinique",
+      "La desloratadine porte un groupement éthoxycarbonyle sur l'azote pipéridinique"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Même tricycle chloré à pyridine ; l'azote pipéridinique porte –COOEt (loratadine), H (desloratadine, son métabolite actif) ou un méthylpyridinylméthyle (rupatadine).",
+    "source": {
+      "page": 14,
+      "extrait": "La Desloratadine est le MA de la loratadine"
+    },
+    "difficulte": 3,
+    "tags": [
+      "pipéridines",
+      "structure"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/qcm-068",
+    "type": "multiple",
+    "enonce": "L'acrivastine :",
+    "options": [
+      "Est un dérivé de la triprolidine",
+      "N'a aucun effet anticholinergique particulier",
+      "N'a qu'un effet limité sur le système nerveux central",
+      "Est utilisée dans la prise en charge des rhinites allergiques",
+      "Est un dérivé de la terfénadine"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Acrivastine : alkylamine de 2e génération dérivée de la triprolidine, sans effet anticholinergique particulier, effet limité sur le SNC ; rhinites allergiques.",
+    "source": {
+      "page": 15,
+      "extrait": "L'acrivastine est un dérivé de la triprolidine"
+    },
+    "difficulte": 1,
+    "tags": [
+      "acrivastine"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/qcm-069",
+    "type": "multiple",
+    "enonce": "Relation structure-activité des antagonistes H1 :",
+    "options": [
+      "Comme l'histamine, beaucoup d'antagonistes H1 contiennent une moitié éthylamine substituée",
+      "L'histamine possède un groupe amine primaire et un seul cycle aromatique",
+      "La plupart des antagonistes H1 ont un groupe amine tertiaire",
+      "L'amine est liée par une chaîne de 2 ou 3 atomes à 2 groupes aromatiques",
+      "La plupart des antagonistes H1 ont, comme l'histamine, une amine primaire"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Pharmacophore antiH1 : amine tertiaire reliée par une chaîne de 2 ou 3 atomes à deux groupes aromatiques, avec une moitié éthylamine substituée analogue à l'histamine (qui, elle, a une amine primaire et un seul cycle).",
+    "source": {
+      "page": 15,
+      "extrait": "la plupart des antagonistes H1 ont un groupe amine tertiaire liée par une chaine de 2 ou 3 atomes"
+    },
+    "difficulte": 2,
+    "tags": [
+      "RSA"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/qcm-070",
+    "type": "multiple",
+    "enonce": "Le blocage des récepteurs H1 par les antagonistes :",
+    "options": [
+      "S'explique par une analogie de structure avec l'histamine",
+      "Est illustré par la prométhazine et la cyclizine",
+      "Repose sur la présence d'une moitié éthylamine substituée",
+      "S'explique par une analogie avec l'acétylcholine",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "L'analogie de structure (moitié éthylamine substituée) avec l'histamine explique le blocage, illustré dans le cours par la prométhazine et la cyclizine.",
+    "source": {
+      "page": 15,
+      "extrait": "L’analogie de structure pour certains antihistaminiques permet d’expliquer ce blocage"
+    },
+    "difficulte": 2,
+    "tags": [
+      "RSA",
+      "mécanisme"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/qcm-071",
+    "type": "multiple",
+    "enonce": "Mécanisme d'action des antihistaminiques H1 :",
+    "options": [
+      "Ils ont longtemps été considérés comme des « bloqueurs » ou « antagonistes » des récepteurs",
+      "Ils sont plus récemment classés comme des « agonistes inverses »",
+      "Ils se combinent à la forme inactive du récepteur et la stabilisent",
+      "Ils déplacent l'équilibre entre les deux formes du récepteur vers la forme inactive",
+      "Ils se combinent préférentiellement à la forme active du récepteur"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Agonistes inverses : ils se lient à la forme inactive du récepteur H1, la stabilisent et déplacent l'équilibre vers cette forme.",
+    "source": {
+      "page": 16,
+      "extrait": "ils se combinent à la forme inactive du récepteur et la stabilisent"
+    },
+    "difficulte": 2,
+    "tags": [
+      "mécanisme",
+      "agoniste inverse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/qcm-072",
+    "type": "multiple",
+    "enonce": "Dans la série des phénothiazines, l'effet anti-H1 prédomine si :",
+    "options": [
+      "La substitution sur l'azote terminal est courte",
+      "Il y a entre les deux N, 2 ou 3 C dont le second est ramifié",
+      "Le cycle n'est pas substitué",
+      "La substitution sur l'azote terminal est longue",
+      "Le cycle est substitué"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "RSA des phénothiazines antiH1 : substitution courte sur l'azote terminal, 2 ou 3 carbones entre les deux N dont le second est ramifié, cycle non substitué.",
+    "source": {
+      "page": 16,
+      "extrait": "La substitution sur l’azote terminal est courte"
+    },
+    "difficulte": 2,
+    "tags": [
+      "RSA",
+      "phénothiazines"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/qcm-073",
+    "type": "multiple",
+    "enonce": "La prométhazine répond aux critères structuraux de l'effet anti-H1 des phénothiazines car :",
+    "options": [
+      "Son azote terminal porte deux méthyles (substitution courte)",
+      "Elle possède 2 carbones entre les deux azotes, dont le second est ramifié",
+      "Son cycle phénothiazinique n'est pas substitué",
+      "Son cycle porte un atome de chlore",
+      "Elle possède 4 carbones entre les deux azotes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Prométhazine : N10–CH2–CH(CH3)–N(CH3)2, cycle non substitué : elle remplit les trois critères.",
+    "source": {
+      "page": 16,
+      "extrait": "Il y a entre les deux N, 2 ou 3 C dont le second est ramifié"
+    },
+    "difficulte": 3,
+    "tags": [
+      "RSA",
+      "phénothiazines"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/qcm-074",
+    "type": "multiple",
+    "enonce": "Selon les schémas des états du récepteur H1 :",
+    "options": [
+      "Il existe un équilibre entre l'état actif et l'état inactif du récepteur",
+      "Le récepteur est couplé à Gq/11",
+      "Un agoniste se lie préférentiellement à l'état actif et déplace l'équilibre vers l'état actif",
+      "Un agoniste inverse se lie préférentiellement à l'état inactif et déplace l'équilibre vers l'état inactif",
+      "Les anti-H1 sont des agonistes partiels de l'état actif"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Le récepteur H1 (Gq/11) oscille entre états inactif et actif ; l'histamine stabilise l'état actif, les anti-H1 (agonistes inverses) l'état inactif.",
+    "source": {
+      "page": 17,
+      "extrait": "Les anti-H1 sont des agonistes inverses"
+    },
+    "difficulte": 2,
+    "tags": [
+      "mécanisme",
+      "agoniste inverse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/qcm-075",
+    "type": "multiple",
+    "enonce": "Effets secondaires et interactions des antihistaminiques H1 :",
+    "options": [
+      "Ceux de première génération peuvent causer somnolence et sécheresse buccale",
+      "Ceux de première génération peuvent causer des effets anticholinergiques",
+      "Ceux de deuxième génération sont généralement mieux tolérés",
+      "Des interactions sont possibles avec les antidiabétiques oraux et les médicaments torsadogènes",
+      "Ceux de deuxième génération ont plus d'effets secondaires"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "1re génération : somnolence, sécheresse buccale, effets anticholinergiques ; 2e génération mieux tolérée. Interactions : antidiabétiques oraux, médicaments torsadogènes.",
+    "source": {
+      "page": 18,
+      "extrait": "notamment les antidiabétiques oraux et les médicaments torsadogènes"
+    },
+    "difficulte": 1,
+    "tags": [
+      "effets secondaires",
+      "interactions"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/qcm-076",
+    "type": "multiple",
+    "enonce": "L'avenir des antihistaminiques selon le cours :",
+    "options": [
+      "Ciblage spécifique des récepteurs de l'histamine avec moins d'effets secondaires",
+      "Immunothérapie allergénique",
+      "Thérapie génique",
+      "Recherche de médicaments à action plus rapide et efficace",
+      "Retour exclusif aux molécules de première génération"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Perspectives : ciblage spécifique, approches innovantes (immunothérapie allergénique, thérapie génique), action plus rapide.",
+    "source": {
+      "page": 18,
+      "extrait": "telles que l'immunothérapie allergénique et la thérapie génique"
+    },
+    "difficulte": 1,
+    "tags": [
+      "avenir"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/qcm-077",
+    "type": "multiple",
+    "enonce": "Sont utilisés comme antiémétiques dans le mal des transports selon le cours :",
+    "options": [
+      "Cyclizine",
+      "Méclozine",
+      "Diménhydrinate",
+      "Prométhazine",
+      "Cétirizine"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Cyclizine et méclozine (antiémétiques du mal de transport), diménhydrinate (mal des transports, nausées), prométhazine (mal de transport). La cétirizine est indiquée dans les rhinites et urticaires.",
+    "source": {
+      "page": 7,
+      "extrait": "Méclozine: anti-H1, utilisé comme antiémétique dans le mal de transport"
+    },
+    "difficulte": 2,
+    "tags": [
+      "indications",
+      "transversal"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/qcm-078",
+    "type": "multiple",
+    "enonce": "Sont utilisés comme antitussifs selon le cours :",
+    "options": [
+      "Alimémazine",
+      "Oxomémazine",
+      "Fexofénadine",
+      "Loratadine",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Alimémazine et oxomémazine sont employées comme antitussifs (ainsi que la dexchlorphéniramine associée à la codéine). Fexofénadine et loratadine : allergies.",
+    "source": {
+      "page": 10,
+      "extrait": "Emploi: antitussif, antiallergiques"
+    },
+    "difficulte": 2,
+    "tags": [
+      "indications",
+      "transversal"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/qcm-079",
+    "type": "multiple",
+    "enonce": "Métabolites actifs cités dans le cours :",
+    "options": [
+      "Fexofénadine, métabolite actif de la terfénadine",
+      "Desloratadine, métabolite actif de la loratadine",
+      "Desloratadine, produit actif du métabolisme de la rupatadine",
+      "Cétirizine, métabolite carboxylé de l'hydroxyzine",
+      "Loratadine, métabolite actif de la desloratadine"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Terfénadine → fexofénadine ; loratadine → desloratadine ; rupatadine (CYP3A4) → desloratadine ; hydroxyzine → cétirizine. La proposition e inverse la relation.",
+    "source": {
+      "page": 14,
+      "extrait": "La Desloratadine est le MA de la loratadine"
+    },
+    "difficulte": 2,
+    "tags": [
+      "métabolisme",
+      "transversal"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/qcm-080",
+    "type": "multiple",
+    "enonce": "Associez les antiH1 de deuxième génération à leur spécialité :",
+    "options": [
+      "Loratadine : Clarityne®",
+      "Desloratadine : Deslor®",
+      "Rupatadine : Rupafin®",
+      "Fexofénadine : Telfast®",
+      "Cétirizine : Atarax®"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Atarax® est l'hydroxyzine (pipérazine de 1re génération), dont la cétirizine est le métabolite.",
+    "source": {
+      "page": 14,
+      "extrait": "Loratadine: Clarityne®"
+    },
+    "difficulte": 1,
+    "tags": [
+      "noms commerciaux",
+      "transversal"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/qcm-081",
+    "type": "multiple",
+    "enonce": "Associez les antiH1 de première génération à leur spécialité :",
+    "options": [
+      "Prométhazine : Phénergan®",
+      "Alimémazine : Théralène®",
+      "Oxomémazine : Toplexil®",
+      "Dexchlorphéniramine : Polaramine®",
+      "Buclizine : Fervex®"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Fervex® contient de la phéniramine ; la buclizine est l'Aphilan®.",
+    "source": {
+      "page": 10,
+      "extrait": "Oxomémazine TOPLEXIL®"
+    },
+    "difficulte": 2,
+    "tags": [
+      "noms commerciaux",
+      "transversal"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/qcm-082",
+    "type": "multiple",
+    "enonce": "Molécules décrites comme peu ou pas sédatives dans le cours :",
+    "options": [
+      "Loratadine",
+      "Desloratadine",
+      "Cétirizine",
+      "Méquitazine",
+      "Alimémazine"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Loratadine (dépourvue d'effet sédatif), desloratadine (pas de sédation), cétirizine (peu d'effet sédatif), méquitazine (1re génération peu sédative). L'alimémazine est employée comme somnifère.",
+    "source": {
+      "page": 14,
+      "extrait": "Ne traverse pas la BHE ( pas de sédation)"
+    },
+    "difficulte": 3,
+    "tags": [
+      "sédation",
+      "transversal"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/qcm-083",
+    "type": "multiple",
+    "enonce": "Présentent des effets anticholinergiques selon le cours :",
+    "options": [
+      "La méquitazine",
+      "Les antiH1 de première génération",
+      "La loratadine",
+      "Les antihistaminiques H1 de deuxième génération",
+      "L'acrivastine"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "La méquitazine et les antiH1 de 1re génération ont des effets anticholinergiques ; la loratadine, l'acrivastine et la 2e génération en sont dépourvues.",
+    "source": {
+      "page": 18,
+      "extrait": "peuvent causer de la somnolence, de la sécheresse buccale et des effets anticholinergiques"
+    },
+    "difficulte": 2,
+    "tags": [
+      "anticholinergique",
+      "transversal"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/qcm-084",
+    "type": "unique",
+    "enonce": "Quelle famille chimique comporte un tricycle soufré dont l'azote central porte la chaîne aminée ?",
+    "options": [
+      "Phénothiazines",
+      "Éthanolamines",
+      "Éthylènediamines",
+      "Alkylamines",
+      "Pipérazines"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Prométhazine, alimémazine, oxomémazine et méquitazine dérivent du noyau phénothiazine, dont l'azote porte la chaîne aminée.",
+    "source": {
+      "page": 10,
+      "extrait": "Série des Phénothiazines"
+    },
+    "difficulte": 1,
+    "tags": [
+      "phénothiazines",
+      "structure"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/qcm-085",
+    "type": "unique",
+    "enonce": "Quelle famille chimique présente une fonction éther dans la chaîne reliant les noyaux aromatiques à l'amine tertiaire ?",
+    "options": [
+      "Éthanolamines",
+      "Alkylamines",
+      "Phénothiazines",
+      "Éthylènediamines",
+      "Pipéridines"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Les éthanolamines (diphenhydramine, doxylamine, carbinoxamine, phényltoloxamine) présentent l'enchaînement –O–CH2–CH2–N(CH3)2.",
+    "source": {
+      "page": 8,
+      "extrait": "Série des éthanolamines"
+    },
+    "difficulte": 2,
+    "tags": [
+      "éthanolamines",
+      "structure"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/qcm-086",
+    "type": "multiple",
+    "enonce": "La terfénadine :",
+    "options": [
+      "Est une pipéridine de deuxième génération",
+      "A été retirée du marché",
+      "A pour métabolite actif la fexofénadine",
+      "Présentait des inconvénients cardiaques",
+      "Est une alkylamine"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Terfénadine : pipéridine de 2e génération retirée du marché ; son métabolite actif, la fexofénadine, n'a pas ses inconvénients cardiaques.",
+    "source": {
+      "page": 13,
+      "extrait": "n'a pas les inconvénients cardiaques de cette dernière"
+    },
+    "difficulte": 2,
+    "tags": [
+      "fexofénadine",
+      "terfénadine"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/qcm-087",
+    "type": "multiple",
+    "enonce": "Concernant l'hydroxyzine :",
+    "options": [
+      "C'est une pipérazine de première génération",
+      "Elle est commercialisée sous le nom d'Atarax®",
+      "Elle est antiallergique et anxiolytique",
+      "Elle est oxydée in vivo en cétirizine",
+      "Elle ne possède pas d'atome de chlore"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Hydroxyzine (Atarax®) : pipérazine de 1re génération, X = Cl, antiallergique et anxiolytique, oxydée in vivo en cétirizine.",
+    "source": {
+      "page": 7,
+      "extrait": "Hydroxizine: anti-H1, antiallergique, anxiolytique"
+    },
+    "difficulte": 1,
+    "tags": [
+      "hydroxyzine",
+      "pipérazines"
+    ],
+    "origine": "genere"
+  }
+]

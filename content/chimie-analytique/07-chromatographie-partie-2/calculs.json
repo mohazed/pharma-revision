@@ -1,0 +1,372 @@
+[
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/calcul-001",
+    "titre": "Facteur de rétention",
+    "enonce": "Un composé a un temps de rétention de {tr} min ; le temps mort est de {tm} min. Calculer K'.",
+    "variables": {
+      "tr": {
+        "min": 5,
+        "max": 20,
+        "pas": 0.5,
+        "unite": "min"
+      },
+      "tm": {
+        "min": 0.5,
+        "max": 2.5,
+        "pas": 0.1,
+        "unite": "min"
+      }
+    },
+    "formule": "(tr-tm)/tm",
+    "unite": "",
+    "decimales": 2,
+    "etapes": [
+      "Étape 1 : T'R = TR − TM",
+      "Étape 2 : K' = T'R/TM"
+    ],
+    "rappel": "K' = (TR − TM)/TM."
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/calcul-002",
+    "titre": "Volume de rétention",
+    "enonce": "Le débit de la phase mobile est de {d} mL/min et le temps de rétention de {tr} min. Calculer VR.",
+    "variables": {
+      "d": {
+        "min": 0.5,
+        "max": 2,
+        "pas": 0.1,
+        "unite": "mL/min"
+      },
+      "tr": {
+        "min": 2,
+        "max": 20,
+        "pas": 0.5,
+        "unite": "min"
+      }
+    },
+    "formule": "tr*d",
+    "unite": "mL",
+    "decimales": 2,
+    "etapes": [
+      "Étape 1 : VR = TR · D"
+    ],
+    "rappel": "VR = TR · D (débit stationnaire)."
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/calcul-003",
+    "titre": "Nombre de plateaux théoriques (largeur à la base)",
+    "enonce": "Un pic a un temps de rétention de {tr} min et une largeur à la base de {w} min. Calculer N.",
+    "variables": {
+      "tr": {
+        "min": 4,
+        "max": 20,
+        "pas": 0.5,
+        "unite": "min"
+      },
+      "w": {
+        "min": 0.2,
+        "max": 1.5,
+        "pas": 0.1,
+        "unite": "min"
+      }
+    },
+    "formule": "16*tr*tr/(w*w)",
+    "unite": "plateaux",
+    "decimales": 0,
+    "etapes": [
+      "Étape 1 : N = 16 TR²/w²"
+    ],
+    "rappel": "N = 16 TR²/w², avec w = 4σ."
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/calcul-004",
+    "titre": "Nombre de plateaux théoriques (largeur à mi-hauteur)",
+    "enonce": "Un pic a un temps de rétention de {tr} min et une largeur à mi-hauteur de {delta} min. Calculer N.",
+    "variables": {
+      "tr": {
+        "min": 4,
+        "max": 20,
+        "pas": 0.5,
+        "unite": "min"
+      },
+      "delta": {
+        "min": 0.1,
+        "max": 1,
+        "pas": 0.05,
+        "unite": "min"
+      }
+    },
+    "formule": "5.54*tr*tr/(delta*delta)",
+    "unite": "plateaux",
+    "decimales": 0,
+    "etapes": [
+      "Étape 1 : N = 5,54 TR²/δ²"
+    ],
+    "rappel": "N = 5,54 TR²/δ², avec δ = 2,354σ."
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/calcul-005",
+    "titre": "Nombre de plateaux effectifs",
+    "enonce": "TR = {tr} min, tM = {tm} min, largeur à la base w = {w} min. Calculer Neff.",
+    "variables": {
+      "tr": {
+        "min": 5,
+        "max": 20,
+        "pas": 0.5,
+        "unite": "min"
+      },
+      "tm": {
+        "min": 0.5,
+        "max": 2.5,
+        "pas": 0.1,
+        "unite": "min"
+      },
+      "w": {
+        "min": 0.2,
+        "max": 1.5,
+        "pas": 0.1,
+        "unite": "min"
+      }
+    },
+    "formule": "16*(tr-tm)*(tr-tm)/(w*w)",
+    "unite": "plateaux",
+    "decimales": 0,
+    "etapes": [
+      "Étape 1 : T'R = TR − TM",
+      "Étape 2 : Neff = 16 T'R²/w²"
+    ],
+    "rappel": "Neff = 16 T'R²/W²."
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/calcul-006",
+    "titre": "Hauteur équivalente à un plateau théorique",
+    "enonce": "Une colonne de {L} mm possède {N} plateaux théoriques. Calculer la HEPT.",
+    "variables": {
+      "L": {
+        "min": 50,
+        "max": 300,
+        "pas": 10,
+        "unite": "mm"
+      },
+      "N": {
+        "min": 1000,
+        "max": 20000,
+        "pas": 500,
+        "unite": "plateaux"
+      }
+    },
+    "formule": "L/N",
+    "unite": "mm",
+    "decimales": 4,
+    "etapes": [
+      "Étape 1 : h = L/N"
+    ],
+    "rappel": "h = L/N."
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/calcul-007",
+    "titre": "Résolution de deux pics",
+    "enonce": "TRA = {tra} min, TRB = TRA + {dt} min, WA = {wa} min, WB = {wb} min. Calculer R.",
+    "variables": {
+      "tra": {
+        "min": 3,
+        "max": 15,
+        "pas": 0.5,
+        "unite": "min"
+      },
+      "dt": {
+        "min": 0.2,
+        "max": 3,
+        "pas": 0.1,
+        "unite": "min"
+      },
+      "wa": {
+        "min": 0.2,
+        "max": 1.5,
+        "pas": 0.1,
+        "unite": "min"
+      },
+      "wb": {
+        "min": 0.2,
+        "max": 1.5,
+        "pas": 0.1,
+        "unite": "min"
+      }
+    },
+    "formule": "2*dt/(wa+wb)",
+    "unite": "",
+    "decimales": 2,
+    "etapes": [
+      "Étape 1 : TRB − TRA = Δt",
+      "Étape 2 : R = 2 (TRB − TRA)/(WA + WB)",
+      "Étape 3 : comparer à 1,5 (valeur optimale)"
+    ],
+    "rappel": "R = 2 (TRB − TRA)/(WA + WB) ; optimale 1,5."
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/calcul-008",
+    "titre": "Facteur de sélectivité",
+    "enonce": "tM = {tm} min ; TRA = {tra} min ; TRB = TRA + {dt} min. Calculer α.",
+    "variables": {
+      "tm": {
+        "min": 0.5,
+        "max": 2,
+        "pas": 0.1,
+        "unite": "min"
+      },
+      "tra": {
+        "min": 3,
+        "max": 12,
+        "pas": 0.5,
+        "unite": "min"
+      },
+      "dt": {
+        "min": 0.2,
+        "max": 4,
+        "pas": 0.2,
+        "unite": "min"
+      }
+    },
+    "formule": "(tra+dt-tm)/(tra-tm)",
+    "unite": "",
+    "decimales": 3,
+    "etapes": [
+      "Étape 1 : T'RA = TRA − TM ; T'RB = TRB − TM",
+      "Étape 2 : α = T'RB/T'RA (= K'B/K'A)"
+    ],
+    "rappel": "α = T'RB/T'RA = K'B/K'A ; α > 1."
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/calcul-009",
+    "titre": "Résolution par la formule de Purnell",
+    "enonce": "NB = {n} plateaux, α = {a}, K'B = {kb}. Calculer R par la formule de Purnell.",
+    "variables": {
+      "n": {
+        "min": 1000,
+        "max": 20000,
+        "pas": 500,
+        "unite": "plateaux"
+      },
+      "a": {
+        "min": 1.05,
+        "max": 1.5,
+        "pas": 0.05,
+        "unite": ""
+      },
+      "kb": {
+        "min": 1,
+        "max": 10,
+        "pas": 0.5,
+        "unite": ""
+      }
+    },
+    "formule": "(Math.sqrt(n)/4)*((a-1)/a)*(kb/(1+kb))",
+    "unite": "",
+    "decimales": 2,
+    "etapes": [
+      "Étape 1 : terme d'efficacité √NB/4",
+      "Étape 2 : terme de sélectivité (α − 1)/α",
+      "Étape 3 : terme de rétention K'B/(1 + K'B)",
+      "Étape 4 : R = produit des trois termes"
+    ],
+    "rappel": "R = (√NB/4)·((α − 1)/α)·(K'B/(1 + K'B))."
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/calcul-010",
+    "titre": "Vitesse optimale de la phase mobile",
+    "enonce": "Les coefficients de Van Deemter sont B = {b} cm²/s et C = {c} s. Calculer u optimale.",
+    "variables": {
+      "b": {
+        "min": 0.05,
+        "max": 1,
+        "pas": 0.05,
+        "unite": "cm²/s"
+      },
+      "c": {
+        "min": 0.002,
+        "max": 0.05,
+        "pas": 0.002,
+        "unite": "s"
+      }
+    },
+    "formule": "Math.sqrt(b/c)",
+    "unite": "cm/s",
+    "decimales": 2,
+    "etapes": [
+      "Étape 1 : f'(u) = −B/u² + C = 0",
+      "Étape 2 : u opt = √(B/C)"
+    ],
+    "rappel": "u opt = √(B/C)."
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/calcul-011",
+    "titre": "Hauteur minimale (Van Deemter)",
+    "enonce": "A = {a} cm, B = {b} cm²/s, C = {c} s. Calculer H min.",
+    "variables": {
+      "a": {
+        "min": 0.002,
+        "max": 0.05,
+        "pas": 0.002,
+        "unite": "cm"
+      },
+      "b": {
+        "min": 0.05,
+        "max": 1,
+        "pas": 0.05,
+        "unite": "cm²/s"
+      },
+      "c": {
+        "min": 0.002,
+        "max": 0.05,
+        "pas": 0.002,
+        "unite": "s"
+      }
+    },
+    "formule": "a+2*Math.sqrt(b*c)",
+    "unite": "cm",
+    "decimales": 4,
+    "etapes": [
+      "Étape 1 : u opt = √(B/C)",
+      "Étape 2 : H min = A + 2√(BC)"
+    ],
+    "rappel": "H min = A + 2√(BC)."
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/calcul-012",
+    "titre": "HEPT à une vitesse donnée (Van Deemter)",
+    "enonce": "A = {a} cm, B = {b} cm²/s, C = {c} s et u = {u} cm/s. Calculer H.",
+    "variables": {
+      "a": {
+        "min": 0.002,
+        "max": 0.05,
+        "pas": 0.002,
+        "unite": "cm"
+      },
+      "b": {
+        "min": 0.05,
+        "max": 1,
+        "pas": 0.05,
+        "unite": "cm²/s"
+      },
+      "c": {
+        "min": 0.002,
+        "max": 0.05,
+        "pas": 0.002,
+        "unite": "s"
+      },
+      "u": {
+        "min": 1,
+        "max": 20,
+        "pas": 0.5,
+        "unite": "cm/s"
+      }
+    },
+    "formule": "a+b/u+c*u",
+    "unite": "cm",
+    "decimales": 4,
+    "etapes": [
+      "Étape 1 : H = A + B/u + C·u"
+    ],
+    "rappel": "H = A + B/u + C·u."
+  }
+]

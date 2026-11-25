@@ -1,0 +1,77 @@
+{
+  "id": "semiologie/08-obesite/fiche",
+  "titre": "L'obésité",
+  "sections": [
+    {
+      "titre": "Définition et chiffres",
+      "points": [
+        "OMS : accumulation anormale ou excessive de graisse corporelle pouvant nuire à la santé ; **maladie chronique**, multifactorielle, récidivante.",
+        "Monde (2022) : 1 personne sur 8 ; obésité de l'adulte plus que doublée depuis 1990.",
+        "Algérie (STEPS 2016–2017) : obésité 21,8 %, surpoids ou obésité 55,6 % ; femmes 30,1 %, hommes 14,1 %.",
+        "Mécanisme : **déséquilibre énergétique** (apports > dépenses) favorisé par alimentation, sédentarité, sommeil/stress, hérédité, médicaments, étapes de la vie."
+      ]
+    },
+    {
+      "titre": "IMC",
+      "points": [
+        "**IMC = Poids (kg) ÷ Taille (m)²** (kg/m²) ; mesurer réellement poids et taille.",
+        "< 18,5 maigreur ; 18,5–24,9 normal ; 25–29,9 surpoids ; 30–34,9 obésité I (modérée) ; 35–39,9 obésité II (sévère) ; ≥ 40 obésité III (massive).",
+        "Enfant/adolescent : courbes de corpulence selon l'âge et le sexe.",
+        "Limites : muscle vs graisse, sujet âgé, œdèmes/ascite, localisation de la graisse ; outil de **dépistage** à compléter par le tour de taille."
+      ]
+    },
+    {
+      "titre": "Tour de taille et répartition",
+      "points": [
+        "Debout, fin d'expiration, à mi-distance côtes–crête iliaque, sur la peau, sans serrer.",
+        "Risque augmenté **≥ 94 cm (H) / ≥ 80 cm (F)** ; très élevé **≥ 102 cm (H) / ≥ 88 cm (F)**.",
+        "Règle : tour de taille < moitié de la taille.",
+        "Androïde (« pomme ») : ventre, homme, risque élevé ; gynoïde (« poire ») : hanches/cuisses, femme, risque moindre."
+      ]
+    },
+    {
+      "titre": "Interrogatoire et examen",
+      "points": [
+        "Histoire du poids, alimentation, activité, sommeil, médicaments et produits « minceur », retentissement ; sans jugement.",
+        "Médicaments qui font grossir : corticoïdes, insuline, sulfamides, pioglitazone, antipsychotiques, mirtazapine/amitriptyline/paroxétine, valproate/carbamazépine/prégabaline/gabapentine, lithium, progestatif injectable, cyproheptadine, certains bêtabloquants.",
+        "Prise de poids rapide (2 kg en 3 jours) = eau (œdèmes : cœur, rein, foie ; amlodipine, AINS, corticoïdes) ; maladie hormonale rare (hypothyroïdie, hypercorticisme).",
+        "Peau : acanthosis nigricans (insulinorésistance), vergetures pourpres larges (cortisol), mycoses des plis, hirsutisme + règles irrégulières (SOPK).",
+        "Tension : brassard adapté (poche ≈ 80 % du tour du bras), assis, 5 min de repos."
+      ]
+    },
+    {
+      "titre": "Complications",
+      "points": [
+        "Métaboliques, cardiovasculaires, respiratoires, digestives, articulaires, cancers, infertilité, dépression.",
+        "**Syndrome métabolique** : ≥ 3 critères sur 5 (TT ≥ 94/80 cm ; TG ≥ 1,50 g/L ; HDL < 0,40/0,50 g/L ; PA ≥ 130/85 ; glycémie ≥ 1,00 g/L).",
+        "Apnées du sommeil : ronflement, pauses, somnolence diurne ; somnifères et sédatifs les aggravent.",
+        "Retentissement psychologique : parler sans juger, « personne vivant avec une obésité », demander la permission."
+      ]
+    },
+    {
+      "titre": "Prise en charge et rôle du pharmacien",
+      "points": [
+        "Objectif : perdre **5 à 10 %** du poids ; maintenir.",
+        "Quatre piliers : alimentation, activité physique (≥ 150 min/sem), sommeil (7–8 h), soutien.",
+        "Orlistat (graisses, vitamines A, D, E, K, lévothyroxine à distance) ; analogues du GLP-1 et tirzépatide (injection, nausées, pas hors circuit).",
+        "Chirurgie (sleeve, bypass) : B12, fer, calcium, vitamine D à vie ; éviter AINS.",
+        "Produits « minceur » : substances cachées (sibutramine, laxatifs, diurétiques, hormones thyroïdiennes).",
+        "Pharmacien : **mesurer, repérer, conseiller, orienter** (IMC ≥ 30, tour de taille élevé, complication)."
+      ]
+    }
+  ],
+  "aRetenir": [
+    "Obésité = maladie chronique, ni un choix ni un manque de volonté.",
+    "Obésité = IMC ≥ 30 ; tour de taille à risque ≥ 94 cm (H), ≥ 80 cm (F).",
+    "Prise de poids rapide : penser aux médicaments et aux œdèmes.",
+    "Perdre 5 à 10 % du poids améliore déjà la santé."
+  ],
+  "pieges": [
+    "Classe II = sévère (35–39,9) ; classe III = massive (≥ 40).",
+    "Seuils 94/80 cm = risque augmenté ; 102/88 cm = risque très élevé.",
+    "HDL : seuil < 0,40 g/L chez l'homme mais < 0,50 g/L chez la femme.",
+    "Metformine, analogues du GLP-1 et inhibiteurs de SGLT2 ne font pas grossir ; insuline et sulfamides, si.",
+    "Maux de tête du matin = signe de jour des apnées du sommeil.",
+    "Brassard trop petit → tension faussement élevée."
+  ]
+}

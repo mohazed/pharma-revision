@@ -1,0 +1,63 @@
+{
+  "id": "pharmacologie/td/04-pharmacologie-moleculaire/fiche-001",
+  "titre": "TD 4 – Pharmacologie moléculaire",
+  "sections": [
+    {
+      "titre": "Protocole (jéjunum isolé de lapin)",
+      "points": [
+        "Bain à organe : doses croissantes d'**acétylcholine** (10 → 100 µg/ml), contraction en mm (tableau I).",
+        "Lavage, repos 2 min, **scopolamine 5 µg/ml**, 3 min d'action, puis doses croissantes d'acétylcholine (20 → 200 µg/ml) jusqu'aux mêmes effets (tableau II).",
+        "Poids moléculaires : acétylcholine **181,7 g/mol**, scopolamine **384,3 g/mol**."
+      ]
+    },
+    {
+      "titre": "Q1 – Courbe dose-réponse",
+      "points": [
+        "Ordonnée : % de la réponse maximale (contraction / 60 mm × 100) ; abscisse : **log décimal** de la dose.",
+        "Effet maximal 60 mm : dès 90 µg/ml (seule) et dès 180 µg/ml (avec scopolamine).",
+        "50 % (30 mm) : 60 µg/ml (seule) ; 120 µg/ml (avec scopolamine)."
+      ]
+    },
+    {
+      "titre": "Q2 – pD2",
+      "points": [
+        "pD2 = − log CE50 (en mol/L).",
+        "Seule : 0,06 g/L / 181,7 ≈ 3,3 × 10⁻⁴ M → **pD2 ≈ 3,48**.",
+        "Avec scopolamine : 0,12 g/L / 181,7 ≈ 6,6 × 10⁻⁴ M → **pD2 ≈ 3,18** (baisse de log 2 ≈ 0,30)."
+      ]
+    },
+    {
+      "titre": "Q3 – Comparaison des courbes",
+      "points": [
+        "Déplacement **parallèle vers la droite**, effet maximal **inchangé**.",
+        "→ **Antagonisme compétitif** (surmontable) : affinité apparente de l'agoniste ↓, activité intrinsèque conservée."
+      ]
+    },
+    {
+      "titre": "Q4 – pAx et pA2",
+      "points": [
+        "x = rapport des doses équiactives = 120/60 = **2**.",
+        "pAx = − log [antagoniste] (mol/L) ; ici x = 2 donc **pAx = pA2**.",
+        "[Scopolamine] = 5 × 10⁻³ g/L / 384,3 ≈ 1,3 × 10⁻⁵ M → **pA2 ≈ 4,89**."
+      ]
+    },
+    {
+      "titre": "Q5 – Catégorie",
+      "points": [
+        "Acétylcholine = parasympathomimétique direct ; la scopolamine s'y oppose → **parasympatholytique**."
+      ]
+    }
+  ],
+  "aRetenir": [
+    "pD2 = − log CE50 molaire de l'agoniste ; pA2 = − log [antagoniste] qui double la dose d'agoniste.",
+    "Antagonisme compétitif : courbes parallèles décalées à droite, même effet maximal.",
+    "Toujours convertir µg/ml → g/L → mol/L avec le bon poids moléculaire."
+  ],
+  "pieges": [
+    "Ne pas confondre 30 mm (contraction à 50 %) et la CE50 (60 µg/ml).",
+    "Utiliser le poids moléculaire de la scopolamine (384,3) pour le pA2, celui de l'acétylcholine (181,7) pour le pD2.",
+    "À 70 µg/ml la contraction est de 40 mm (66,7 %) : la réponse n'est pas linéaire.",
+    "pAx = pA2 uniquement parce qu'ici x = 2.",
+    "Un antagonisme non compétitif diminuerait l'effet maximal : ce n'est pas le cas ici."
+  ]
+}

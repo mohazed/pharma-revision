@@ -1,0 +1,1013 @@
+[
+  {
+    "id": "pharmacologie/td/03-modele-bicompartimental-iv/qcm-001",
+    "type": "unique",
+    "enonce": "Dans l'exercice du TD 3, la cimétidine est administrée :",
+    "options": [
+      "Par voie orale à la dose de 200 mg",
+      "Par injection intraveineuse à la dose de 200 mg",
+      "Par perfusion continue",
+      "En doses réitérées",
+      "Par voie intramusculaire"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "L'énoncé précise une injection IV unique (bolus) de 200 mg : il n'y a donc pas de phase d'absorption.",
+    "source": {
+      "page": 1,
+      "extrait": "injection intraveineuse (IV) de 200 mg de la cimétidine"
+    },
+    "difficulte": 1,
+    "tags": [
+      "données"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/03-modele-bicompartimental-iv/qcm-002",
+    "type": "multiple",
+    "enonce": "Concernant les données de l'exercice (cimétidine) :",
+    "options": [
+      "Le volontaire sain pèse 70 kg",
+      "La première concentration est mesurée à 1 min",
+      "La dernière concentration est mesurée à 360 min",
+      "La concentration à 1 min est de 6 µg/ml",
+      "La concentration à 360 min est de 1,5 µg/ml"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Le sujet pèse 70 kg ; les prélèvements vont de 1 à 360 min ; C(1 min) = 6 µg/ml et C(360 min) = 0,15 µg/ml (et non 1,5).",
+    "source": {
+      "page": 1,
+      "extrait": "Tps (min) 1 10 15 30 45 60 75 120 150 180 240 300 360"
+    },
+    "difficulte": 1,
+    "tags": [
+      "données"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/03-modele-bicompartimental-iv/qcm-003",
+    "type": "multiple",
+    "enonce": "Les concentrations plasmatiques de la cimétidine :",
+    "options": [
+      "Sont exprimées en µg/ml",
+      "Augmentent puis diminuent",
+      "Diminuent de façon continue de 1 à 360 min",
+      "Valent 0,6 µg/ml à 120 min",
+      "Valent 0,3 µg/ml à 150 min"
+    ],
+    "correctes": [
+      0,
+      2,
+      3
+    ],
+    "explication": "Après bolus IV, il n'y a pas de phase croissante : les Cp décroissent de 6 à 0,15 µg/ml. À 120 min Cp = 0,6 µg/ml ; à 150 min Cp = 0,5 µg/ml (et non 0,3).",
+    "source": {
+      "page": 1,
+      "extrait": "6 4.2 3 1.8 1.4 1.1 0.95 0.6 0.5 0.42 0.31 0.21 0.15"
+    },
+    "difficulte": 1,
+    "tags": [
+      "données"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/03-modele-bicompartimental-iv/qcm-004",
+    "type": "multiple",
+    "enonce": "Pour tracer la courbe de la cinétique plasmatique de la cimétidine :",
+    "options": [
+      "Sur papier millimétrique, on porte log C en fonction du temps",
+      "Sur papier semi-logarithmique, on porte directement C en fonction du temps",
+      "Sur papier semi-logarithmique, on porte log C en fonction du temps",
+      "Les concentrations de 0,15 à 6 µg/ml nécessitent deux cycles (0,1–1 et 1–10)",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      0,
+      1,
+      3
+    ],
+    "explication": "Papier millimétrique : on porte log C ; papier semi-log : on porte C directement (l'échelle est déjà logarithmique). Les Cp vont de 0,15 à 6 µg/ml, soit deux cycles.",
+    "source": {
+      "page": 1,
+      "extrait": "Tracez la courbe de la cinétique plasmatique de la cimétidine en fonction du temps."
+    },
+    "difficulte": 2,
+    "tags": [
+      "tracé"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/03-modele-bicompartimental-iv/qcm-005",
+    "type": "multiple",
+    "enonce": "En coordonnées semi-logarithmiques, la courbe de la cimétidine :",
+    "options": [
+      "Est une droite unique de 1 à 360 min",
+      "N'est pas linéaire sur toute sa durée",
+      "Présente une phase initiale à pente forte",
+      "Présente une phase terminale linéaire",
+      "Présente un pic (Cmax) à 75 min"
+    ],
+    "correctes": [
+      1,
+      2,
+      3
+    ],
+    "explication": "La courbe en semi-log n'est pas une droite unique : une phase initiale rapide est suivie d'une phase terminale linéaire. Après une IV, il n'y a pas de pic d'absorption.",
+    "source": {
+      "page": 1,
+      "extrait": "Tracez la courbe de la cinétique plasmatique de la cimétidine en fonction du temps."
+    },
+    "difficulte": 2,
+    "tags": [
+      "tracé",
+      "allure"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/03-modele-bicompartimental-iv/qcm-006",
+    "type": "multiple",
+    "enonce": "Le commentaire de la courbe permet de conclure que :",
+    "options": [
+      "La décroissance est monoexponentielle",
+      "La décroissance est biexponentielle",
+      "La cimétidine suit un modèle bicompartimental",
+      "La cimétidine suit un modèle monocompartimental",
+      "Il existe une phase d'absorption"
+    ],
+    "correctes": [
+      1,
+      2
+    ],
+    "explication": "Deux phases de décroissance en semi-log → somme de deux exponentielles → modèle bicompartimental IV. Pas d'absorption après une injection IV.",
+    "source": {
+      "page": 1,
+      "extrait": "Commentez la courbe et donnez son équation."
+    },
+    "difficulte": 2,
+    "tags": [
+      "modèle bicompartimental"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/03-modele-bicompartimental-iv/qcm-007",
+    "type": "multiple",
+    "enonce": "Dans le modèle bicompartimental IV appliqué à la cimétidine :",
+    "options": [
+      "La phase initiale correspond à la distribution et à l'élimination",
+      "La phase initiale correspond à l'absorption",
+      "La phase terminale correspond à l'élimination",
+      "La phase terminale correspond à la distribution seule",
+      "L'élimination se fait à partir du compartiment central"
+    ],
+    "correctes": [
+      0,
+      2,
+      4
+    ],
+    "explication": "Phase initiale = distribution + élimination ; phase terminale = élimination. L'élimination (ke) se fait à partir du compartiment central.",
+    "source": {
+      "page": 1,
+      "extrait": "Commentez la courbe et donnez son équation."
+    },
+    "difficulte": 2,
+    "tags": [
+      "phases"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/03-modele-bicompartimental-iv/qcm-008",
+    "type": "unique",
+    "enonce": "L'équation de la courbe de la cimétidine s'écrit :",
+    "options": [
+      "Cp = C0·e^(−ke·t)",
+      "Cp = D·e^(−kd·t) + E·e^(−ke·t)",
+      "Cp = E·e^(−ke·t) − A·e^(−ka·t)",
+      "Cp = D·e^(−kd·t) − E·e^(−ke·t)",
+      "Cp = E·e^(−ke·t) + D·e^(−kd·t) − A·e^(−ka·t)"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Modèle bicompartimental IV : Cp = D·e^(−kd·t) + E·e^(−ke·t). Les autres formes correspondent au monocompartimental IV, au monocompartimental oral et au bicompartimental oral.",
+    "source": {
+      "page": 1,
+      "extrait": "Commentez la courbe et donnez son équation."
+    },
+    "difficulte": 2,
+    "tags": [
+      "équation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/03-modele-bicompartimental-iv/qcm-009",
+    "type": "multiple",
+    "enonce": "Dans l'équation Cp = D·e^(−kd·t) + E·e^(−ke·t) :",
+    "options": [
+      "kd est la constante de vitesse de distribution",
+      "ke est la constante de vitesse d'élimination",
+      "E est l'ordonnée à l'origine de la droite d'élimination extrapolée",
+      "D est l'ordonnée à l'origine de la droite des résidus",
+      "D est la dose administrée (200 mg)"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "D et E sont des ordonnées à l'origine (en µg/ml), obtenues respectivement sur la droite des résidus et sur la droite terminale extrapolée ; la dose est notée Q dans le cours.",
+    "source": {
+      "page": 1,
+      "extrait": "Commentez la courbe et donnez son équation."
+    },
+    "difficulte": 2,
+    "tags": [
+      "équation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/03-modele-bicompartimental-iv/qcm-010",
+    "type": "multiple",
+    "enonce": "Pour l'analyse mathématique de la courbe, la phase terminale (élimination) :",
+    "options": [
+      "Est représentée par les points de 120 à 360 min",
+      "Est représentée par les points de 1 à 30 min",
+      "Est prolongée jusqu'à l'axe des ordonnées pour obtenir E",
+      "Donne directement kd",
+      "Permet de calculer des concentrations extrapolées C'"
+    ],
+    "correctes": [
+      0,
+      2,
+      4
+    ],
+    "explication": "Les points de 120 à 360 min sont alignés en semi-log ; on prolonge cette droite jusqu'à t = 0 (ordonnée E) et on lit les concentrations extrapolées C' aux temps précoces. Elle donne ke, pas kd.",
+    "source": {
+      "page": 1,
+      "extrait": "Procédez à l’analyse mathématique de la courbe."
+    },
+    "difficulte": 2,
+    "tags": [
+      "méthode des résidus",
+      "phase terminale"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/03-modele-bicompartimental-iv/qcm-011",
+    "type": "multiple",
+    "enonce": "Sur la droite terminale de la cimétidine, la concentration passe de 0,6 µg/ml (120 min) à 0,15 µg/ml (360 min). On en déduit :",
+    "options": [
+      "La concentration est divisée par 4 en 240 min",
+      "Deux demi-vies d'élimination se sont écoulées",
+      "La demi-vie d'élimination est d'environ 120 min",
+      "La demi-vie d'élimination est d'environ 60 min",
+      "La demi-vie d'élimination est d'environ 240 min"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "0,6 → 0,3 → 0,15 : deux divisions par 2 en 240 min, soit t1/2 ≈ 120 min (2 h). On le vérifie : C(240) = 0,31 µg/ml ≈ 0,3.",
+    "source": {
+      "page": 1,
+      "extrait": "6 4.2 3 1.8 1.4 1.1 0.95 0.6 0.5 0.42 0.31 0.21 0.15"
+    },
+    "difficulte": 2,
+    "tags": [
+      "demi-vie",
+      "élimination"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/03-modele-bicompartimental-iv/qcm-012",
+    "type": "multiple",
+    "enonce": "La constante de vitesse d'élimination ke de la cimétidine vaut environ :",
+    "options": [
+      "0,0058 min⁻¹",
+      "0,058 min⁻¹",
+      "0,35 h⁻¹",
+      "0,693 min⁻¹",
+      "120 min⁻¹"
+    ],
+    "correctes": [
+      0,
+      2
+    ],
+    "explication": "ke = ln2/t1/2 = 0,693/120 ≈ 0,0058 min⁻¹, soit ≈ 0,35 h⁻¹ (0,0058 × 60).",
+    "source": {
+      "page": 1,
+      "extrait": "Déterminez graphiquement les constantes de vitesse de différents phénomènes."
+    },
+    "difficulte": 2,
+    "tags": [
+      "ke"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/03-modele-bicompartimental-iv/qcm-013",
+    "type": "multiple",
+    "enonce": "La pente de la droite terminale tracée en log C = f(t) :",
+    "options": [
+      "Vaut −ke/2,303",
+      "Vaut −ke",
+      "Permet de calculer ke = −2,303 × pente",
+      "Vaut environ −0,0025 min⁻¹ pour la cimétidine",
+      "Est positive"
+    ],
+    "correctes": [
+      0,
+      2,
+      3
+    ],
+    "explication": "En log décimal, pente = −ke/2,303 ; ke = −2,303 × pente. Ici pente ≈ −0,0058/2,303 ≈ −0,0025 min⁻¹.",
+    "source": {
+      "page": 1,
+      "extrait": "Déterminez graphiquement les constantes de vitesse de différents phénomènes."
+    },
+    "difficulte": 3,
+    "tags": [
+      "pente",
+      "ke"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/03-modele-bicompartimental-iv/qcm-014",
+    "type": "unique",
+    "enonce": "L'ordonnée à l'origine E de la droite d'élimination extrapolée vaut environ :",
+    "options": [
+      "0,6 µg/ml",
+      "1,2 µg/ml",
+      "6 µg/ml",
+      "4,5 µg/ml",
+      "0,15 µg/ml"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "En remontant de 120 min à 0 (une demi-vie de 120 min), la concentration double : E ≈ 0,6 × 2 = 1,2 µg/ml.",
+    "source": {
+      "page": 1,
+      "extrait": "Procédez à l’analyse mathématique de la courbe."
+    },
+    "difficulte": 2,
+    "tags": [
+      "E",
+      "extrapolation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/03-modele-bicompartimental-iv/qcm-015",
+    "type": "multiple",
+    "enonce": "La méthode des résidus appliquée à la cimétidine consiste à :",
+    "options": [
+      "Calculer pour les temps précoces D = |C' − Cexp|",
+      "Porter les résidus en semi-log en fonction du temps",
+      "Obtenir une droite des résidus dont la pente donne kd",
+      "Obtenir une droite des résidus dont la pente donne ka",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Résidus = différence entre concentrations extrapolées C' et expérimentales ; leur droite (semi-log) donne kd et l'ordonnée D. Il n'y a pas de ka après IV.",
+    "source": {
+      "page": 1,
+      "extrait": "Procédez à l’analyse mathématique de la courbe."
+    },
+    "difficulte": 2,
+    "tags": [
+      "méthode des résidus"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/03-modele-bicompartimental-iv/qcm-016",
+    "type": "multiple",
+    "enonce": "Les résidus de la cimétidine sont calculés sur les points :",
+    "options": [
+      "De la phase initiale (1 à 60 min environ)",
+      "De la phase terminale (120 à 360 min)",
+      "Où les concentrations expérimentales sont supérieures aux concentrations extrapolées",
+      "Où les résidus deviennent nuls",
+      "Tous les points de la courbe"
+    ],
+    "correctes": [
+      0,
+      2
+    ],
+    "explication": "Les résidus ne concernent que la phase initiale, où Cexp > C' (la distribution s'ajoute à l'élimination). Sur la phase terminale, Cexp ≈ C'.",
+    "source": {
+      "page": 1,
+      "extrait": "Procédez à l’analyse mathématique de la courbe."
+    },
+    "difficulte": 3,
+    "tags": [
+      "méthode des résidus"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/03-modele-bicompartimental-iv/qcm-017",
+    "type": "unique",
+    "enonce": "À t = 1 min, avec E ≈ 1,2 µg/ml et ke ≈ 0,0058 min⁻¹, le résidu de la cimétidine vaut environ :",
+    "options": [
+      "1,2 µg/ml",
+      "4,8 µg/ml",
+      "6 µg/ml",
+      "7,2 µg/ml",
+      "0,6 µg/ml"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "C'(1) = 1,2·e^(−0,0058) ≈ 1,19 µg/ml ; résidu = 6 − 1,19 ≈ 4,8 µg/ml.",
+    "source": {
+      "page": 1,
+      "extrait": "6 4.2 3 1.8 1.4 1.1 0.95 0.6 0.5 0.42 0.31 0.21 0.15"
+    },
+    "difficulte": 3,
+    "tags": [
+      "résidus"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/03-modele-bicompartimental-iv/qcm-018",
+    "type": "multiple",
+    "enonce": "À t = 15 min, le résidu de la cimétidine (Cexp = 3 µg/ml, C' ≈ 1,1 µg/ml) :",
+    "options": [
+      "Vaut environ 1,9 µg/ml",
+      "Vaut environ 4,1 µg/ml",
+      "Est plus faible que le résidu à 10 min",
+      "Est plus élevé que le résidu à 1 min",
+      "Est nul"
+    ],
+    "correctes": [
+      0,
+      2
+    ],
+    "explication": "Résidu = 3 − 1,1 ≈ 1,9 µg/ml ; les résidus décroissent avec le temps (≈ 4,8 à 1 min, ≈ 3,1 à 10 min, ≈ 1,9 à 15 min).",
+    "source": {
+      "page": 1,
+      "extrait": "6 4.2 3 1.8 1.4 1.1 0.95 0.6 0.5 0.42 0.31 0.21 0.15"
+    },
+    "difficulte": 2,
+    "tags": [
+      "résidus"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/03-modele-bicompartimental-iv/qcm-019",
+    "type": "multiple",
+    "enonce": "La constante de vitesse de distribution kd de la cimétidine :",
+    "options": [
+      "Se calcule par kd = −2,303 (log D2 − log D1)/(t2 − t1)",
+      "Vaut environ 0,05 min⁻¹",
+      "Est supérieure à ke",
+      "Est inférieure à ke",
+      "Se lit sur la phase terminale"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "kd est la pente (× −2,303) de la droite des résidus : ≈ 0,05 min⁻¹ (valeur approchée selon le tracé), nettement supérieure à ke ≈ 0,0058 min⁻¹ : la distribution est plus rapide que l'élimination.",
+    "source": {
+      "page": 1,
+      "extrait": "Déterminez graphiquement les constantes de vitesse de différents phénomènes."
+    },
+    "difficulte": 3,
+    "tags": [
+      "kd"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/03-modele-bicompartimental-iv/qcm-020",
+    "type": "unique",
+    "enonce": "L'ordonnée à l'origine D de la droite des résidus de la cimétidine vaut environ :",
+    "options": [
+      "1,2 µg/ml",
+      "4,5 µg/ml",
+      "0,15 µg/ml",
+      "200 µg/ml",
+      "0,05 µg/ml"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Le prolongement de la droite des résidus jusqu'à t = 0 donne D ≈ 4,5 µg/ml (valeur approchée dépendant du tracé ; résidus 4,8 à 1 min et 3,1 à 10 min).",
+    "source": {
+      "page": 1,
+      "extrait": "Procédez à l’analyse mathématique de la courbe."
+    },
+    "difficulte": 3,
+    "tags": [
+      "D"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/03-modele-bicompartimental-iv/qcm-021",
+    "type": "unique",
+    "enonce": "L'équation numérique approchée de la courbe de la cimétidine (t en min, Cp en µg/ml) est :",
+    "options": [
+      "Cp = 4,5·e^(−0,05·t) + 1,2·e^(−0,0058·t)",
+      "Cp = 1,2·e^(−0,05·t) + 4,5·e^(−0,0058·t)",
+      "Cp = 4,5·e^(−0,0058·t) + 1,2·e^(−0,05·t)",
+      "Cp = 6·e^(−0,0058·t)",
+      "Cp = 4,5·e^(−0,05·t) − 1,2·e^(−0,0058·t)"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "D ≈ 4,5 µg/ml est associé à kd ≈ 0,05 min⁻¹ (phase rapide) et E ≈ 1,2 µg/ml à ke ≈ 0,0058 min⁻¹ (phase lente) ; les deux termes s'additionnent.",
+    "source": {
+      "page": 1,
+      "extrait": "Commentez la courbe et donnez son équation."
+    },
+    "difficulte": 3,
+    "tags": [
+      "équation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/03-modele-bicompartimental-iv/qcm-022",
+    "type": "multiple",
+    "enonce": "À t = 0, la concentration théorique de la cimétidine selon le modèle :",
+    "options": [
+      "Vaut D + E",
+      "Vaut environ 5,7 µg/ml",
+      "Vaut E seulement",
+      "Vaut D × E",
+      "Vaut environ 1,2 µg/ml"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "À t = 0, les deux exponentielles valent 1 : C0 = D + E ≈ 4,5 + 1,2 ≈ 5,7 µg/ml.",
+    "source": {
+      "page": 1,
+      "extrait": "Commentez la courbe et donnez son équation."
+    },
+    "difficulte": 3,
+    "tags": [
+      "équation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/03-modele-bicompartimental-iv/qcm-023",
+    "type": "multiple",
+    "enonce": "Les deux méthodes de détermination des demi-vies demandées dans le TD sont :",
+    "options": [
+      "La lecture graphique du temps nécessaire pour que la concentration de la droite diminue de moitié",
+      "Le calcul t1/2 = ln2/k",
+      "Le calcul t1/2 = k/0,693",
+      "Le calcul t1/2 = Vd/Cl",
+      "La méthode des trapèzes"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Le cours propose t1/2 = ln2/kd ou ln2/ke, ou graphiquement. La méthode des trapèzes sert au calcul de l'AUC.",
+    "source": {
+      "page": 1,
+      "extrait": "Déterminez le temps de demi-vie de différents phénomènes par deux méthodes."
+    },
+    "difficulte": 1,
+    "tags": [
+      "demi-vie"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/03-modele-bicompartimental-iv/qcm-024",
+    "type": "multiple",
+    "enonce": "Concernant les demi-vies de la cimétidine :",
+    "options": [
+      "La demi-vie d'élimination est d'environ 2 h",
+      "La demi-vie de distribution est d'environ 14 min",
+      "La demi-vie de distribution est plus longue que la demi-vie d'élimination",
+      "t1/2 de distribution = 0,693/kd",
+      "t1/2 d'élimination = 0,693/ke"
+    ],
+    "correctes": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "explication": "t1/2 élimination = 0,693/0,0058 ≈ 120 min (2 h) ; t1/2 distribution = 0,693/0,05 ≈ 14 min (approché) : la distribution est plus rapide, sa demi-vie est donc plus courte.",
+    "source": {
+      "page": 1,
+      "extrait": "Déterminez le temps de demi-vie de différents phénomènes par deux méthodes."
+    },
+    "difficulte": 2,
+    "tags": [
+      "demi-vie"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/03-modele-bicompartimental-iv/qcm-025",
+    "type": "multiple",
+    "enonce": "L'AUC de la cimétidine peut être calculée par :",
+    "options": [
+      "AUC = D/kd + E/ke",
+      "La méthode des trapèzes",
+      "AUC = D/kd − E/ke",
+      "AUC = Q × Cl",
+      "AUC = E/ke − A/ka"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "En bicompartimental IV : AUC0→∞ = D/kd + E/ke, ou méthode des trapèzes. E/ke − A/ka est la formule du monocompartimental oral.",
+    "source": {
+      "page": 1,
+      "extrait": "Calculez l’AUC."
+    },
+    "difficulte": 1,
+    "tags": [
+      "AUC"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/03-modele-bicompartimental-iv/qcm-026",
+    "type": "multiple",
+    "enonce": "Avec D ≈ 4,5 µg/ml, kd ≈ 0,05 min⁻¹, E ≈ 1,2 µg/ml et ke ≈ 0,0058 min⁻¹, l'AUC de la cimétidine :",
+    "options": [
+      "Vaut environ 300 µg·min/ml",
+      "Vaut environ 5 µg·h/ml",
+      "Vaut environ 30 µg·min/ml",
+      "Provient surtout du terme E/ke (≈ 207 µg·min/ml)",
+      "Provient surtout du terme D/kd"
+    ],
+    "correctes": [
+      0,
+      1,
+      3
+    ],
+    "explication": "D/kd ≈ 90 et E/ke ≈ 207 µg·min/ml ; AUC ≈ 297 ≈ 300 µg·min/ml, soit ≈ 5 µg·h/ml (÷ 60). La phase d'élimination contribue le plus.",
+    "source": {
+      "page": 1,
+      "extrait": "Calculez l’AUC."
+    },
+    "difficulte": 3,
+    "tags": [
+      "AUC"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/03-modele-bicompartimental-iv/qcm-027",
+    "type": "unique",
+    "enonce": "Méthode des trapèzes : l'aire entre 1 et 10 min (C = 6 puis 4,2 µg/ml) vaut :",
+    "options": [
+      "45,9 µg·min/ml",
+      "91,8 µg·min/ml",
+      "10,2 µg·min/ml",
+      "54 µg·min/ml",
+      "16,2 µg·min/ml"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Trapèze : (C1 + C2)/2 × (t2 − t1) = (6 + 4,2)/2 × 9 = 5,1 × 9 = 45,9 µg·min/ml.",
+    "source": {
+      "page": 1,
+      "extrait": "6 4.2 3 1.8 1.4 1.1 0.95 0.6 0.5 0.42 0.31 0.21 0.15"
+    },
+    "difficulte": 2,
+    "tags": [
+      "trapèzes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/03-modele-bicompartimental-iv/qcm-028",
+    "type": "multiple",
+    "enonce": "Concernant la méthode des trapèzes appliquée aux données de la cimétidine :",
+    "options": [
+      "La somme des trapèzes de 1 à 360 min vaut environ 271,5 µg·min/ml",
+      "L'aire au-delà de 360 min s'estime par C(360)/ke ≈ 26 µg·min/ml",
+      "L'AUC totale estimée est d'environ 298 µg·min/ml",
+      "L'aire au-delà du dernier prélèvement est toujours nulle",
+      "Chaque trapèze vaut (C1 × C2) × (t2 − t1)"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Somme des trapèzes 1→360 min = 271,5 µg·min/ml ; extrapolation 0,15/0,0058 ≈ 26 ; total ≈ 298 µg·min/ml, cohérent avec D/kd + E/ke. Chaque trapèze = (C1 + C2)/2 × (t2 − t1).",
+    "source": {
+      "page": 1,
+      "extrait": "Calculez l’AUC."
+    },
+    "difficulte": 3,
+    "tags": [
+      "trapèzes",
+      "AUC"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/03-modele-bicompartimental-iv/qcm-029",
+    "type": "multiple",
+    "enonce": "La clairance totale de la cimétidine se calcule par :",
+    "options": [
+      "Cl = Q(dose IV)/AUC",
+      "Cl = AUC/Q",
+      "Cl = ke × Vd",
+      "Cl = Vd/ke",
+      "Cl = Q × F/AUC avec F = 1 en IV"
+    ],
+    "correctes": [
+      0,
+      2,
+      4
+    ],
+    "explication": "Cl = Q/AUC en IV (F = 1, la formule orale Q × F/AUC s'y ramène) ; on a aussi Cl = ke × Vd. Vd/ke n'a pas la dimension d'une clairance.",
+    "source": {
+      "page": 1,
+      "extrait": "Calculez la Cl et le Vd."
+    },
+    "difficulte": 2,
+    "tags": [
+      "clairance"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/03-modele-bicompartimental-iv/qcm-030",
+    "type": "multiple",
+    "enonce": "Avec Q = 200 mg et AUC ≈ 300 µg·min/ml, la clairance de la cimétidine vaut environ :",
+    "options": [
+      "670 ml/min",
+      "0,67 ml/min",
+      "40 L/h",
+      "1,5 ml/min",
+      "6,7 L/min"
+    ],
+    "correctes": [
+      0,
+      2
+    ],
+    "explication": "Q = 200 mg = 200 000 µg ; Cl = 200 000/≈ 298 ≈ 670 ml/min, soit ≈ 0,67 L/min ≈ 40 L/h.",
+    "source": {
+      "page": 1,
+      "extrait": "Calculez la Cl et le Vd."
+    },
+    "difficulte": 3,
+    "tags": [
+      "clairance"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/03-modele-bicompartimental-iv/qcm-031",
+    "type": "multiple",
+    "enonce": "Pour calculer Cl à partir de Q = 200 mg et d'une AUC en µg·min/ml :",
+    "options": [
+      "Il faut convertir la dose en µg (200 000 µg)",
+      "Le résultat est obtenu en ml/min",
+      "Le résultat est obtenu en µg/ml",
+      "Il faut multiplier la dose par l'AUC",
+      "Il faut diviser l'AUC par la dose"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "µg ÷ (µg·min/ml) = ml/min. Il faut donc exprimer la dose en µg avant de diviser par l'AUC.",
+    "source": {
+      "page": 1,
+      "extrait": "Calculez la Cl et le Vd."
+    },
+    "difficulte": 2,
+    "tags": [
+      "unités"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/03-modele-bicompartimental-iv/qcm-032",
+    "type": "multiple",
+    "enonce": "Le volume de distribution de la cimétidine :",
+    "options": [
+      "Se calcule par Vd = Cl/ke",
+      "Vaut environ 115 à 120 L",
+      "Vaut environ 1,7 L/kg",
+      "Vaut environ 1,7 L",
+      "Se calcule par Vd = Cl × ke"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Vd = Cl/ke ≈ 670/0,0058 ≈ 116 000 ml ≈ 116 L ; rapporté aux 70 kg : ≈ 1,7 L/kg.",
+    "source": {
+      "page": 1,
+      "extrait": "Calculez la Cl et le Vd."
+    },
+    "difficulte": 3,
+    "tags": [
+      "Vd"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/03-modele-bicompartimental-iv/qcm-033",
+    "type": "multiple",
+    "enonce": "L'interprétation du Vd de la cimétidine (≈ 116 L) selon le cours :",
+    "options": [
+      "Vd > 50 L : distribution élevée",
+      "Vd limité au sang (< 10 L)",
+      "Vd physiologique (10 à 50 L)",
+      "Le Vd de la cimétidine est inférieur à 50 L",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Classification du cours : < 10 L limité au sang ; 10–50 L physiologique ; > 50 L distribution élevée. Avec ≈ 116 L, la cimétidine a une distribution élevée.",
+    "source": {
+      "page": 1,
+      "extrait": "Interprétez le volume de distribution."
+    },
+    "difficulte": 2,
+    "tags": [
+      "Vd",
+      "interprétation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/03-modele-bicompartimental-iv/qcm-034",
+    "type": "multiple",
+    "enonce": "Classez les paramètres de la cimétidine : quelles relations sont exactes ?",
+    "options": [
+      "kd > ke",
+      "t1/2 distribution < t1/2 élimination",
+      "D > E",
+      "AUC ≈ 300 µg·min/ml",
+      "E > D"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "kd ≈ 0,05 > ke ≈ 0,0058 min⁻¹ ; t1/2 distribution ≈ 14 min < 120 min ; D ≈ 4,5 > E ≈ 1,2 µg/ml ; AUC ≈ 300 µg·min/ml.",
+    "source": {
+      "page": 1,
+      "extrait": "Déterminez graphiquement les constantes de vitesse de différents phénomènes."
+    },
+    "difficulte": 2,
+    "tags": [
+      "synthèse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/03-modele-bicompartimental-iv/qcm-035",
+    "type": "multiple",
+    "enonce": "Si la clairance de la cimétidine diminuait (Vd inchangé) :",
+    "options": [
+      "ke diminuerait",
+      "La demi-vie d'élimination augmenterait",
+      "L'AUC augmenterait pour la même dose",
+      "L'AUC diminuerait",
+      "La demi-vie d'élimination diminuerait"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Cl = ke × Vd : à Vd constant, ↓ Cl → ↓ ke → ↑ t1/2 (ln2/ke). AUC = Q/Cl : ↓ Cl → ↑ AUC.",
+    "source": {
+      "page": 1,
+      "extrait": "Calculez la Cl et le Vd."
+    },
+    "difficulte": 3,
+    "tags": [
+      "raisonnement"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/03-modele-bicompartimental-iv/qcm-036",
+    "type": "multiple",
+    "enonce": "Si la dose de cimétidine était doublée (400 mg IV), Cl, Vd et ke restant inchangés :",
+    "options": [
+      "L'AUC doublerait",
+      "La clairance doublerait",
+      "La demi-vie resterait inchangée",
+      "Les concentrations seraient doublées à chaque temps",
+      "Le Vd doublerait"
+    ],
+    "correctes": [
+      0,
+      2,
+      3
+    ],
+    "explication": "ke inchangé → t1/2 = ln2/ke inchangée ; AUC = Q/Cl double avec la dose, de même que D, E et chaque concentration.",
+    "source": {
+      "page": 1,
+      "extrait": "Calculez la Cl et le Vd."
+    },
+    "difficulte": 3,
+    "tags": [
+      "raisonnement"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/03-modele-bicompartimental-iv/qcm-037",
+    "type": "multiple",
+    "enonce": "La phase de distribution de la cimétidine est pratiquement terminée :",
+    "options": [
+      "Vers 120 min, quand les points rejoignent la droite terminale",
+      "Dès 1 min",
+      "Après 360 min seulement",
+      "Quand les résidus deviennent négligeables",
+      "Quand Cexp devient très supérieur à C'"
+    ],
+    "correctes": [
+      0,
+      3
+    ],
+    "explication": "La phase terminale débute quand les résidus deviennent négligeables (Cexp ≈ C'), soit vers 120 min pour la cimétidine (à 75 min le résidu vaut encore ≈ 0,17 µg/ml).",
+    "source": {
+      "page": 1,
+      "extrait": "Procédez à l’analyse mathématique de la courbe."
+    },
+    "difficulte": 3,
+    "tags": [
+      "phases"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/03-modele-bicompartimental-iv/qcm-038",
+    "type": "multiple",
+    "enonce": "Le modèle bicompartimental IV comporte :",
+    "options": [
+      "Un compartiment central",
+      "Un ou des compartiments périphériques",
+      "Des échanges réversibles central ↔ périphérique (kd)",
+      "Une constante d'absorption ka",
+      "Une élimination à partir du compartiment périphérique uniquement"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Compartiment central ↔ périphériques (kd), élimination (ke) à partir du central. Pas de ka après IV.",
+    "source": {
+      "page": 1,
+      "extrait": "Commentez la courbe et donnez son équation."
+    },
+    "difficulte": 1,
+    "tags": [
+      "modèle bicompartimental"
+    ],
+    "origine": "genere"
+  }
+]

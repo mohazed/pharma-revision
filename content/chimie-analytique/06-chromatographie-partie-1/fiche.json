@@ -1,0 +1,67 @@
+{
+  "id": "chimie-analytique/06-chromatographie-partie-1/fiche-001",
+  "titre": "Généralités sur la chromatographie – Partie 1",
+  "sections": [
+    {
+      "titre": "Introduction et principe",
+      "points": [
+        "Buts : **séparer**, **identifier**, **doser** les constituants d'un mélange.",
+        "Suite **continue** d'équilibres entre **deux phases** : phase stationnaire **fixe** (colonne ou surface plane) et phase mobile qui contient les constituants.",
+        "Séparation si les **vitesses de migration** sont suffisamment différentes.",
+        "Usage préparatif, mais surtout **analytique** (qualitatif ou quantitatif)."
+      ]
+    },
+    {
+      "titre": "Historique",
+      "points": [
+        "**Tswett** (botaniste russe) : pigments de la chlorophylle, colonne en verre, éther de pétrole (phase mobile), carbonate pulvérisé (phase stationnaire). Chroma = couleur, graphe = enregistrement.",
+        "~1930 Kuhn et Lederer ; 1938 CCM (Ismailov et Shraiber) ; 1941 colonne liquide (Martin et James, Nobel 1962) ; 1952 CPG (Martin et James).",
+        "1962 CPS (Klesper) ; 1968 HPLC (Giddings et Kirkland) ; 2004 UPLC.",
+        "Actuel : colonnes capillaires en CPG, couplage à la spectrométrie de masse, chromatographie chirale, logiciels."
+      ]
+    },
+    {
+      "titre": "Classification",
+      "points": [
+        "**Nature des phases** : phase stationnaire solide pulvérisé ou liquide immobilisé → L-L, L-S, G-L, G-S ; désignation selon la phase mobile : CPL, CPS (supercritique), CPG.",
+        "**Phénomène physique** (dépend de la phase stationnaire) : adsorption (solide adsorbant, L-S), partage (liquide non miscible, L-L), échange d'ions (résine), exclusion (gel-tamis, taille).",
+        "Procédés spécifiques : **affinité** (ligand spécifique, purification), **échange de ligands** (cations métalliques), **chirale** (énantiomères).",
+        "**Forme** : colonne (verre ou métal), papier (cellulose imbibée), CCM (planaire, couche de 0,2 à 2,5 mm).",
+        "**Migration** : développement (substances restent sur la phase stationnaire : papier, CCM) ; élution (sortie de colonne, détecteur : CPL, CPS, CPG)."
+      ]
+    },
+    {
+      "titre": "Théorie des plateaux",
+      "points": [
+        "Équilibre **CS = K·CM** ; K = λ en extraction L-L, coefficient d'adsorption en adsorption, constante de diffusion sur gel.",
+        "Plateaux théoriques = **étages fictifs** ; élution **discontinue** par fractions égales dv.",
+        "N plateaux de même hauteur, numérotés **de haut en bas** de 1 à N ; phase stationnaire pure à chaque nouvel étage.",
+        "Trois moments : **dépôt**, **développement**, **élution** ; étalement progressif de la zone.",
+        "Plusieurs solutés : chacun migre indépendamment, à sa propre vitesse."
+      ]
+    },
+    {
+      "titre": "Pic chromatographique",
+      "points": [
+        "Détecteur au plus près de la sortie, signal **continu** proportionnel à la concentration.",
+        "**Position** du pic → identification ; **aire** → quantité.",
+        "Courbe de **Gauss** symétrique ; points d'inflexion E, F à **0,607** ; triangle AGH isocèle, sommet à **1,214**.",
+        "**ω = 4σ = 1,7δ** (largeur à la base) ; **δ = 2,35σ** (largeur à mi-hauteur)."
+      ]
+    }
+  ],
+  "aRetenir": [
+    "Un pic = une molécule ; l'ensemble des pics = chromatogramme.",
+    "Phénomène physique ↔ nature de la phase stationnaire ; désignation courante ↔ nature de la phase mobile.",
+    "CS = K·CM.",
+    "ω = 4σ = 1,7δ ; δ = 2,35σ."
+  ],
+  "pieges": [
+    "CPS = phase **supercritique**, pas « solide ».",
+    "HPLC : Giddings et Kirkland (1968) ; Klesper : CPS (1962).",
+    "Martin et James : travaux en 1941, prix Nobel en **1962**.",
+    "Plateaux numérotés de **haut en bas**.",
+    "Échange de cations métalliques = échange de **ligands**, pas affinité.",
+    "Sur gel, K est une **constante de diffusion**."
+  ]
+}

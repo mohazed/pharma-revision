@@ -1,0 +1,205 @@
+[
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/tableau-001",
+    "titre": "Les trois types d'isothermes de distribution",
+    "colonnes": [
+      "Isotherme",
+      "Situation",
+      "Fa",
+      "Ft"
+    ],
+    "lignes": [
+      [
+        "Linéaire",
+        "Situation idéale",
+        "= 1",
+        "= 1"
+      ],
+      [
+        "Convexe",
+        "Phase stationnaire saturée ; montée du pic plus rapide que la descente",
+        "> 1",
+        "> 1"
+      ],
+      [
+        "Concave",
+        "Constituant trop retenu dans la phase stationnaire",
+        "< 1",
+        "< 1"
+      ]
+    ]
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/tableau-002",
+    "titre": "Grandeurs et formules chromatographiques",
+    "colonnes": [
+      "Grandeur",
+      "Formule",
+      "Remarque"
+    ],
+    "lignes": [
+      [
+        "Temps réduit",
+        "T'R = TR − TM",
+        "Temps de rétention corrigé"
+      ],
+      [
+        "Volume de rétention",
+        "VR = TR · D",
+        "Débit stationnaire"
+      ],
+      [
+        "Volume corrigé",
+        "V'R = VR − VM",
+        "VM = volume mort (VO)"
+      ],
+      [
+        "Facteur de rétention",
+        "K' = (TR − TM)/TM",
+        "5 ≤ K' ≤ 10 en CL ; 0 si non retenu"
+      ],
+      [
+        "Nombre de plateaux",
+        "N = TR²/σ² = 16 TR²/w² = 5,54 TR²/δ²",
+        "w = 4σ ; δ = 2,354σ"
+      ],
+      [
+        "Plateaux effectifs",
+        "Neff = 16 T'R²/W²",
+        "TR remplacé par T'R"
+      ],
+      [
+        "HEPT",
+        "h = L/N",
+        "En mm ; N ↑ ⟹ h ↓"
+      ],
+      [
+        "Résolution",
+        "R = 2 (TRB − TRA)/(WA + WB)",
+        "Optimale : 1,5"
+      ],
+      [
+        "Sélectivité",
+        "α = T'RB/T'RA = K'B/K'A",
+        "α > 1 ; α = 1 : pas de séparation"
+      ],
+      [
+        "Purnell",
+        "R = (√NB/4)·((α − 1)/α)·(K'B/(1 + K'B))",
+        "Efficacité · sélectivité · rétention"
+      ]
+    ]
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/tableau-003",
+    "titre": "Les termes de l'équation de Van Deemter",
+    "colonnes": [
+      "Terme",
+      "Phénomène",
+      "Expression",
+      "Facteurs"
+    ],
+    "lignes": [
+      [
+        "A",
+        "Diffusion turbulente (anisotropie d'écoulement)",
+        "A = 2·dp·λ",
+        "Diamètre des particules, irrégularités du remplissage"
+      ],
+      [
+        "B/u",
+        "Diffusion moléculaire longitudinale",
+        "B = 2·γ·DM",
+        "Importante à faible vitesse ; γ = tortuosité"
+      ],
+      [
+        "C·u",
+        "Résistance au transfert de masse",
+        "C = Cm + Cs ; Cm ∝ dp²/DM ; Cs ∝ df²/DS",
+        "Accentuée à débit rapide"
+      ]
+    ]
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/carte-004",
+    "type": "carte",
+    "titre": "Chromatographie – Partie 2",
+    "racine": {
+      "label": "Chromatographie (partie 2)",
+      "enfants": [
+        {
+          "label": "Isotherme",
+          "enfants": [
+            {
+              "label": "Linéaire : Fa = Ft = 1",
+              "enfants": []
+            },
+            {
+              "label": "Convexe : PS saturée",
+              "enfants": []
+            },
+            {
+              "label": "Concave : trop retenu",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Rétention",
+          "enfants": [
+            {
+              "label": "TR, tM, T'R",
+              "enfants": []
+            },
+            {
+              "label": "VR, VM, V'R",
+              "enfants": []
+            },
+            {
+              "label": "K' = (TR − TM)/TM",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Séparation",
+          "enfants": [
+            {
+              "label": "Efficacité : N, Neff, h = L/N",
+              "enfants": []
+            },
+            {
+              "label": "Résolution R (1,5)",
+              "enfants": []
+            },
+            {
+              "label": "Sélectivité α > 1",
+              "enfants": []
+            },
+            {
+              "label": "Purnell",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Van Deemter",
+          "enfants": [
+            {
+              "label": "H = A + B/u + C·u",
+              "enfants": []
+            },
+            {
+              "label": "u opt = √(B/C)",
+              "enfants": []
+            },
+            {
+              "label": "H min = A + 2√(BC)",
+              "enfants": []
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

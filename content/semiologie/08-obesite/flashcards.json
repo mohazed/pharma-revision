@@ -1,0 +1,266 @@
+[
+  {
+    "id": "semiologie/08-obesite/flashcard-001",
+    "recto": "Définition de l'obésité (OMS)",
+    "verso": "Accumulation anormale ou excessive de graisse corporelle qui peut nuire à la santé ; maladie chronique.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/08-obesite/flashcard-002",
+    "recto": "Trois caractères de l'obésité",
+    "verso": "Chronique, multifactorielle, récidivante.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/08-obesite/flashcard-003",
+    "recto": "Obésité dans le monde (OMS, 2022)",
+    "verso": "1 personne sur 8 ; obésité de l'adulte plus que doublée depuis 1990.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/08-obesite/flashcard-004",
+    "recto": "Obésité en Algérie (STEPS 2016–2017)",
+    "verso": "Obésité 21,8 % ; surpoids ou obésité 55,6 % ; femmes 30,1 %, hommes 14,1 %.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/08-obesite/flashcard-005",
+    "recto": "Mécanisme commun de l'obésité",
+    "verso": "Déséquilibre énergétique : apports > dépenses de façon durable.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/08-obesite/flashcard-006",
+    "recto": "Facteurs favorisant l'obésité",
+    "verso": "Alimentation, sédentarité, sommeil et stress, hérédité, médicaments, étapes de la vie (grossesses, ménopause, arrêt du tabac).",
+    "tags": []
+  },
+  {
+    "id": "semiologie/08-obesite/flashcard-007",
+    "recto": "Formule de l'IMC",
+    "verso": "IMC = Poids (kg) ÷ Taille (m)², en kg/m².",
+    "tags": []
+  },
+  {
+    "id": "semiologie/08-obesite/flashcard-008",
+    "recto": "Classification OMS de l'IMC",
+    "verso": "< 18,5 maigreur ; 18,5–24,9 normal ; 25–29,9 surpoids ; 30–34,9 obésité I ; 35–39,9 obésité II ; ≥ 40 obésité III.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/08-obesite/flashcard-009",
+    "recto": "Seuils à retenir (adulte)",
+    "verso": "Surpoids : IMC ≥ 25 ; obésité : IMC ≥ 30.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/08-obesite/flashcard-010",
+    "recto": "IMC chez l'enfant",
+    "verso": "Seuils adultes non applicables : courbes de corpulence selon l'âge et le sexe.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/08-obesite/flashcard-011",
+    "recto": "Limites de l'IMC",
+    "verso": "Ne distingue pas graisse/muscle ; trompeur chez le sujet âgé ; faussé par œdèmes et ascite ; ne localise pas la graisse.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/08-obesite/flashcard-012",
+    "recto": "Mesure du tour de taille",
+    "verso": "Debout, fin d'expiration ; ruban horizontal à mi-distance entre bord inférieur des côtes et crête iliaque, sur la peau, sans serrer.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/08-obesite/flashcard-013",
+    "recto": "Seuils du tour de taille",
+    "verso": "Risque augmenté : ≥ 94 cm (H), ≥ 80 cm (F) ; très élevé : ≥ 102 cm (H), ≥ 88 cm (F).",
+    "tags": []
+  },
+  {
+    "id": "semiologie/08-obesite/flashcard-014",
+    "recto": "Règle simple du tour de taille",
+    "verso": "Tour de taille < moitié de la taille (1,70 m → < 85 cm).",
+    "tags": []
+  },
+  {
+    "id": "semiologie/08-obesite/flashcard-015",
+    "recto": "Obésité androïde",
+    "verso": "« Pomme » : graisse abdominale, plutôt chez l'homme, risque élevé (diabète, HTA, cœur).",
+    "tags": []
+  },
+  {
+    "id": "semiologie/08-obesite/flashcard-016",
+    "recto": "Obésité gynoïde",
+    "verso": "« Poire » : hanches, fesses, cuisses, plutôt chez la femme, risque moindre.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/08-obesite/flashcard-017",
+    "recto": "Antidiabétiques qui font grossir",
+    "verso": "Insuline, sulfamides (gliclazide, glimépiride), pioglitazone.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/08-obesite/flashcard-018",
+    "recto": "Antidiabétiques qui ne font pas grossir",
+    "verso": "Metformine, analogues du GLP-1, inhibiteurs de SGLT2.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/08-obesite/flashcard-019",
+    "recto": "Antipsychotiques qui font grossir",
+    "verso": "Olanzapine, clozapine, rispéridone, quétiapine.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/08-obesite/flashcard-020",
+    "recto": "Antidépresseurs qui font grossir",
+    "verso": "Mirtazapine, amitriptyline, paroxétine.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/08-obesite/flashcard-021",
+    "recto": "Antiépileptiques / thymorégulateurs qui font grossir",
+    "verso": "Valproate, carbamazépine, prégabaline, gabapentine ; lithium.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/08-obesite/flashcard-022",
+    "recto": "Autres médicaments qui font grossir",
+    "verso": "Corticoïdes au long cours, progestatif injectable, cyproheptadine, certains bêtabloquants.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/08-obesite/flashcard-023",
+    "recto": "2 kg en 3 jours",
+    "verso": "Ce n'est pas de la graisse mais de l'eau : peut révéler une insuffisance cardiaque.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/08-obesite/flashcard-024",
+    "recto": "Médicaments donnant des œdèmes",
+    "verso": "Amlodipine, AINS, corticoïdes.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/08-obesite/flashcard-025",
+    "recto": "Hypercorticisme (signes)",
+    "verso": "Visage arrondi, vergetures pourpres larges, faiblesse des cuisses.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/08-obesite/flashcard-026",
+    "recto": "Acanthosis nigricans",
+    "verso": "Peau épaissie, brune, « sale », au cou et aux aisselles : résistance à l'insuline → proposer une glycémie.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/08-obesite/flashcard-027",
+    "recto": "Pilosité excessive + règles irrégulières",
+    "verso": "Syndrome des ovaires polykystiques.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/08-obesite/flashcard-028",
+    "recto": "Brassard trop petit",
+    "verso": "Tension faussement élevée ; poche ≈ 80 % du tour du bras ; grand brassard à l'officine.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/08-obesite/flashcard-029",
+    "recto": "Syndrome métabolique (définition)",
+    "verso": "Au moins 3 critères sur 5 : tour de taille, TG, HDL, PA, glycémie à jeun.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/08-obesite/flashcard-030",
+    "recto": "Seuils du syndrome métabolique",
+    "verso": "TT ≥ 94/80 cm ; TG ≥ 1,50 g/L ; HDL < 0,40 (H)/0,50 g/L (F) ; PA ≥ 130/85 mmHg ; glycémie ≥ 1,00 g/L.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/08-obesite/flashcard-031",
+    "recto": "Apnées du sommeil : signes de nuit",
+    "verso": "Ronflement fort, pauses vues par le conjoint, réveils, envies d'uriner la nuit.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/08-obesite/flashcard-032",
+    "recto": "Apnées du sommeil : signes de jour",
+    "verso": "Somnolence, endormissement au volant, céphalées matinales, fatigue, troubles de la concentration.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/08-obesite/flashcard-033",
+    "recto": "Médicaments aggravant les apnées",
+    "verso": "Somnifères et sédatifs : benzodiazépines, antihistaminiques sédatifs.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/08-obesite/flashcard-034",
+    "recto": "Phrase pour ouvrir la discussion",
+    "verso": "« Accepteriez-vous que l'on parle un peu de votre poids ? »",
+    "tags": []
+  },
+  {
+    "id": "semiologie/08-obesite/flashcard-035",
+    "recto": "Objectif réaliste de perte de poids",
+    "verso": "5 à 10 % du poids ; le maintien est aussi important que la perte.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/08-obesite/flashcard-036",
+    "recto": "Quatre piliers",
+    "verso": "Alimentation, activité physique (≥ 150 min/sem), sommeil (7–8 h), soutien.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/08-obesite/flashcard-037",
+    "recto": "Orlistat",
+    "verso": "Gélules ; diminue l'absorption des graisses ; selles grasses ; vitamines A, D, E, K ; à distance de la lévothyroxine.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/08-obesite/flashcard-038",
+    "recto": "Analogues du GLP-1",
+    "verso": "Liraglutide, sémaglutide : diminuent la faim, injection ; nausées au début ; pas d'achat hors circuit.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/08-obesite/flashcard-039",
+    "recto": "Tirzépatide",
+    "verso": "Même principe que les analogues du GLP-1, double action ; injection ; sur prescription et suivi médical.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/08-obesite/flashcard-040",
+    "recto": "Sleeve / bypass",
+    "verso": "Sleeve : retrait d'une grande partie de l'estomac ; bypass : court-circuit d'une partie de l'intestin.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/08-obesite/flashcard-041",
+    "recto": "Après chirurgie de l'obésité",
+    "verso": "B12, fer, calcium, vitamine D à vie ; éviter AINS ; formes liquides/à croquer ; contraception orale moins fiable après bypass.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/08-obesite/flashcard-042",
+    "recto": "Substances cachées des produits « minceur »",
+    "verso": "Coupe-faim interdits (sibutramine), laxatifs, diurétiques, hormones thyroïdiennes.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/08-obesite/flashcard-043",
+    "recto": "Quatre gestes du pharmacien",
+    "verso": "Mesurer, repérer, conseiller, orienter.",
+    "tags": []
+  },
+  {
+    "id": "semiologie/08-obesite/flashcard-044",
+    "recto": "Quand orienter vers le médecin ?",
+    "verso": "IMC ≥ 30, tour de taille élevé, complication suspectée.",
+    "tags": []
+  }
+]

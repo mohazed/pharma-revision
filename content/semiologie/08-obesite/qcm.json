@@ -1,0 +1,2945 @@
+[
+  {
+    "id": "semiologie/08-obesite/qcm-001",
+    "type": "multiple",
+    "enonce": "Selon l'OMS, concernant la définition de l'obésité, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "C'est une accumulation anormale ou excessive de graisse corporelle",
+      "Cette accumulation peut nuire à la santé",
+      "C'est une maladie chronique",
+      "C'est avant tout un problème d'esthétique",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "L'OMS définit l'obésité comme une accumulation anormale ou excessive de graisse corporelle pouvant nuire à la santé. C'est une maladie chronique, et non un simple problème d'esthétique ou un manque de volonté.",
+    "source": {
+      "page": 1,
+      "extrait": "une accumulation anormale ou excessive de graisse corporelle qui peut nuire à la santé"
+    },
+    "difficulte": 1,
+    "tags": [
+      "définition"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-002",
+    "type": "multiple",
+    "enonce": "Les caractères de l'obésité décrits dans le cours sont :",
+    "options": [
+      "Chronique",
+      "Multifactorielle",
+      "Récidivante",
+      "Aiguë",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "L'obésité est chronique, multifactorielle et récidivante ; elle n'est pas aiguë.",
+    "source": {
+      "page": 1,
+      "extrait": "Chronique … Multifactorielle … Récidivante"
+    },
+    "difficulte": 1,
+    "tags": [
+      "définition"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-003",
+    "type": "unique",
+    "enonce": "Le caractère « récidivant » de l'obésité signifie que :",
+    "options": [
+      "Le poids perdu revient souvent, d'où la nécessité d'un suivi au long cours",
+      "L'obésité dure toute la vie",
+      "Plusieurs facteurs sont en cause",
+      "L'obésité guérit après un régime",
+      "La maladie touche plusieurs membres d'une même famille"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Récidivante : le poids perdu revient souvent, un suivi au long cours est nécessaire. « Dure toute la vie » définit le caractère chronique ; « plusieurs facteurs » le caractère multifactoriel.",
+    "source": {
+      "page": 1,
+      "extrait": "Le poids perdu revient souvent : un suivi au long cours est nécessaire"
+    },
+    "difficulte": 1,
+    "tags": [
+      "définition"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-004",
+    "type": "multiple",
+    "enonce": "Le caractère multifactoriel de l'obésité fait intervenir :",
+    "options": [
+      "L'alimentation",
+      "Les gènes",
+      "Le sommeil",
+      "Le stress",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Multifactorielle : alimentation, activité physique, gènes, sommeil, stress, médicaments.",
+    "source": {
+      "page": 1,
+      "extrait": "Alimentation, activité physique, gènes, sommeil, stress, médicaments"
+    },
+    "difficulte": 1,
+    "tags": [
+      "définition"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-005",
+    "type": "multiple",
+    "enonce": "Concernant le caractère chronique de l'obésité :",
+    "options": [
+      "Elle dure toute la vie",
+      "Elle se traite comme le diabète",
+      "Elle se traite comme l'hypertension artérielle",
+      "Elle guérit spontanément",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Chronique : elle dure toute la vie et se traite comme le diabète ou l'hypertension artérielle.",
+    "source": {
+      "page": 1,
+      "extrait": "Elle dure toute la vie et se traite comme le diabète ou l'hypertension artérielle"
+    },
+    "difficulte": 1,
+    "tags": [
+      "définition"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-006",
+    "type": "unique",
+    "enonce": "Selon l'OMS, en 2022, dans le monde, la proportion de personnes vivant avec une obésité est de :",
+    "options": [
+      "1 personne sur 2",
+      "1 personne sur 4",
+      "1 personne sur 8",
+      "1 personne sur 10",
+      "1 personne sur 20"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Monde (2022) : 1 personne sur 8 vit avec une obésité (OMS).",
+    "source": {
+      "page": 2,
+      "extrait": "1 personne sur 8 vit avec une obésité"
+    },
+    "difficulte": 1,
+    "tags": [
+      "épidémiologie"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-007",
+    "type": "unique",
+    "enonce": "Selon l'OMS, depuis 1990, l'obésité de l'adulte dans le monde a :",
+    "options": [
+      "Diminué de moitié",
+      "Plus que doublé",
+      "Été multipliée par dix",
+      "Stagné",
+      "Légèrement diminué"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "L'obésité de l'adulte a plus que doublé depuis 1990.",
+    "source": {
+      "page": 2,
+      "extrait": "l'obésité de l'adulte a plus que doublé depuis 1990"
+    },
+    "difficulte": 1,
+    "tags": [
+      "épidémiologie"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-008",
+    "type": "multiple",
+    "enonce": "Selon l'enquête STEPS 2016–2017 en Algérie (adultes de 18 à 69 ans) :",
+    "options": [
+      "L'obésité concerne 21,8 % des adultes",
+      "Le surpoids ou l'obésité concernent 55,6 % des adultes",
+      "L'obésité concerne 30,1 % des femmes",
+      "L'obésité concerne 14,1 % des hommes",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Obésité 21,8 % ; surpoids ou obésité 55,6 % ; obésité 30,1 % chez la femme et 14,1 % chez l'homme.",
+    "source": {
+      "page": 2,
+      "extrait": "Obésité : 21,8 % ; surpoids ou obésité : 55,6 %"
+    },
+    "difficulte": 2,
+    "tags": [
+      "épidémiologie"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-009",
+    "type": "multiple",
+    "enonce": "Concernant l'obésité en Algérie, cochez la ou les proposition(s) correcte(s) :",
+    "options": [
+      "Plus d'un adulte sur deux est en surpoids ou obèse",
+      "Il existe une nette prédominance féminine",
+      "Il existe une nette prédominance masculine",
+      "Les données proviennent de l'enquête STEPS 2016–2017",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      3
+    ],
+    "explication": "En Algérie, plus d'un adulte sur deux est en surpoids ou obèse, avec une nette prédominance féminine (30,1 % contre 14,1 %), selon l'enquête STEPS 2016–2017.",
+    "source": {
+      "page": 2,
+      "extrait": "plus d'un adulte sur deux est en surpoids ou obèse, avec une nette prédominance féminine"
+    },
+    "difficulte": 1,
+    "tags": [
+      "épidémiologie"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-010",
+    "type": "unique",
+    "enonce": "En Algérie, selon l'enquête STEPS 2016–2017, l'obésité chez la femme concerne :",
+    "options": [
+      "14,1 %",
+      "21,8 %",
+      "30,1 %",
+      "55,6 %",
+      "12,5 %"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Obésité : 30,1 % chez la femme, 14,1 % chez l'homme ; 21,8 % pour l'ensemble des adultes ; 55,6 % pour surpoids ou obésité.",
+    "source": {
+      "page": 2,
+      "extrait": "Obésité : 30,1 % chez la femme, 14,1 % chez l'homme"
+    },
+    "difficulte": 2,
+    "tags": [
+      "épidémiologie"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-011",
+    "type": "multiple",
+    "enonce": "Concernant le mécanisme de l'obésité :",
+    "options": [
+      "Le mécanisme commun est un déséquilibre énergétique",
+      "Les apports dépassent durablement les dépenses",
+      "Les dépenses dépassent durablement les apports",
+      "Ce déséquilibre est favorisé par de nombreux facteurs",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      3
+    ],
+    "explication": "Le mécanisme commun est un déséquilibre énergétique : les apports dépassent durablement les dépenses, favorisé par de nombreux facteurs.",
+    "source": {
+      "page": 2,
+      "extrait": "les apports (ce que l'on mange) dépassent durablement les dépenses (ce que l'on brûle)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "causes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-012",
+    "type": "multiple",
+    "enonce": "Parmi les facteurs favorisant l'obésité, on cite :",
+    "options": [
+      "La sédentarité (voiture, écrans)",
+      "Le manque de sommeil",
+      "L'hérédité (obésité dans la famille)",
+      "Le grignotage et les boissons sucrées",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Alimentation (sucres, boissons sucrées, grignotage, grandes portions), sédentarité, sommeil et stress, hérédité, médicaments, étapes de la vie.",
+    "source": {
+      "page": 2,
+      "extrait": "Sédentarité Voiture, écrans, peu d'activité physique"
+    },
+    "difficulte": 1,
+    "tags": [
+      "causes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-013",
+    "type": "multiple",
+    "enonce": "Les étapes de la vie favorisant la prise de poids citées dans le cours sont :",
+    "options": [
+      "Les grossesses",
+      "La ménopause",
+      "L'arrêt du tabac",
+      "Le début d'une activité sportive",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Étapes de la vie : grossesses, ménopause, arrêt du tabac.",
+    "source": {
+      "page": 2,
+      "extrait": "Étapes de la vie Grossesses, ménopause, arrêt du tabac"
+    },
+    "difficulte": 1,
+    "tags": [
+      "causes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-014",
+    "type": "multiple",
+    "enonce": "Concernant l'attitude face aux causes de l'obésité :",
+    "options": [
+      "Certains facteurs ne dépendent pas de la volonté du patient",
+      "Il ne faut ni juger ni culpabiliser",
+      "L'obésité est un simple manque de volonté",
+      "L'obésité est un choix",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Certains facteurs ne dépendent pas de la volonté du patient : il ne faut ni juger ni culpabiliser. L'obésité n'est ni un choix, ni un manque de volonté.",
+    "source": {
+      "page": 2,
+      "extrait": "Certains de ces facteurs ne dépendent pas de la volonté du patient : il ne faut donc ni juger ni culpabiliser"
+    },
+    "difficulte": 1,
+    "tags": [
+      "causes",
+      "attitude"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-015",
+    "type": "multiple",
+    "enonce": "Les facteurs « sommeil et stress » favorisant l'obésité comprennent :",
+    "options": [
+      "Le manque de sommeil",
+      "L'anxiété",
+      "La dépression",
+      "Les grandes portions",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Sommeil et stress : manque de sommeil, anxiété, dépression. Les grandes portions relèvent de l'alimentation.",
+    "source": {
+      "page": 2,
+      "extrait": "Sommeil et stress Manque de sommeil, anxiété, dépression"
+    },
+    "difficulte": 2,
+    "tags": [
+      "causes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-016",
+    "type": "unique",
+    "enonce": "La formule de l'indice de masse corporelle (IMC) est :",
+    "options": [
+      "Poids (kg) ÷ Taille (m)²",
+      "Poids (kg) × Taille (m)²",
+      "Taille (m)² ÷ Poids (kg)",
+      "Poids (kg) ÷ Taille (cm)",
+      "Poids (kg) ÷ Taille (m)"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "IMC = Poids (kg) ÷ Taille (m)², exprimé en kg/m².",
+    "source": {
+      "page": 3,
+      "extrait": "IMC = Poids (kg) ÷ Taille (m)² (unité : kg/m²)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "IMC"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-017",
+    "type": "multiple",
+    "enonce": "Concernant le calcul de l'IMC :",
+    "options": [
+      "L'unité est le kg/m²",
+      "La taille est exprimée en mètres",
+      "La taille est exprimée en centimètres",
+      "Il faut mesurer réellement le poids et la taille",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      3
+    ],
+    "explication": "IMC = Poids (kg) ÷ Taille (m)² en kg/m². Il faut mesurer réellement poids (balance) et taille plutôt que se fier aux valeurs déclarées, souvent fausses.",
+    "source": {
+      "page": 3,
+      "extrait": "Il faut mesurer réellement le poids (balance) et la taille plutôt que de se fier aux valeurs déclarées"
+    },
+    "difficulte": 1,
+    "tags": [
+      "IMC"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-018",
+    "type": "multiple",
+    "enonce": "Un patient pèse 95 kg et mesure 1,70 m :",
+    "options": [
+      "Sa taille au carré est de 2,89 m²",
+      "Son IMC est de 32,9 kg/m²",
+      "Il présente une obésité de classe I",
+      "Il présente une obésité de classe II",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Taille² = 1,70 × 1,70 = 2,89 ; IMC = 95 ÷ 2,89 = 32,9 kg/m², soit une obésité de classe I (30 à 34,9).",
+    "source": {
+      "page": 3,
+      "extrait": "IMC = 95 ÷ 2,89 = 32,9 kg/m², soit une obésité de classe I"
+    },
+    "difficulte": 2,
+    "tags": [
+      "IMC",
+      "calcul"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-019",
+    "type": "unique",
+    "enonce": "Selon la classification de l'OMS, un IMC compris entre 18,5 et 24,9 kg/m² correspond à :",
+    "options": [
+      "Une maigreur",
+      "Une corpulence normale",
+      "Un surpoids",
+      "Une obésité de classe I",
+      "Une obésité de classe II"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "18,5 à 24,9 : corpulence normale.",
+    "source": {
+      "page": 3,
+      "extrait": "18,5 à 24,9 Corpulence normale"
+    },
+    "difficulte": 1,
+    "tags": [
+      "IMC",
+      "classification"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-020",
+    "type": "unique",
+    "enonce": "Un IMC inférieur à 18,5 kg/m² correspond à :",
+    "options": [
+      "Une corpulence normale",
+      "Un surpoids",
+      "Une maigreur",
+      "Une obésité de classe I",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "< 18,5 : maigreur.",
+    "source": {
+      "page": 3,
+      "extrait": "< 18,5 Maigreur"
+    },
+    "difficulte": 1,
+    "tags": [
+      "IMC",
+      "classification"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-021",
+    "type": "unique",
+    "enonce": "Un adulte a un IMC de 27 kg/m². Il est :",
+    "options": [
+      "De corpulence normale",
+      "En surpoids",
+      "Obèse de classe I",
+      "Obèse de classe II",
+      "Obèse de classe III"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "25 à 29,9 : surpoids.",
+    "source": {
+      "page": 3,
+      "extrait": "25 à 29,9 Surpoids"
+    },
+    "difficulte": 1,
+    "tags": [
+      "IMC",
+      "classification"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-022",
+    "type": "multiple",
+    "enonce": "Concernant les classes d'obésité selon l'OMS :",
+    "options": [
+      "Classe I (modérée) : IMC de 30 à 34,9 kg/m²",
+      "Classe II (sévère) : IMC de 35 à 39,9 kg/m²",
+      "Classe III (massive) : IMC ≥ 40 kg/m²",
+      "Classe II : obésité massive",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Classe I modérée 30–34,9 ; classe II sévère 35–39,9 ; classe III massive ≥ 40. La classe II est dite sévère, non massive.",
+    "source": {
+      "page": 3,
+      "extrait": "35 à 39,9 Obésité de classe II (sévère) ≥ 40 Obésité de classe III (massive)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "IMC",
+      "classification"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-023",
+    "type": "unique",
+    "enonce": "Un adulte a un IMC de 31 kg/m². Il est :",
+    "options": [
+      "En surpoids",
+      "Obèse (classe I)",
+      "Obèse (classe II)",
+      "Obèse (classe III)",
+      "De corpulence normale"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Obésité : IMC ≥ 30 ; la classe I va de 30 à 34,9.",
+    "source": {
+      "page": 12,
+      "extrait": "Un adulte a un IMC de 31 kg/m². Il est : A. en surpoids — B. obèse (classe I)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "IMC",
+      "classification"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-024",
+    "type": "unique",
+    "enonce": "Un adulte a un IMC de 42 kg/m². Il présente :",
+    "options": [
+      "Un surpoids",
+      "Une obésité de classe I (modérée)",
+      "Une obésité de classe II (sévère)",
+      "Une obésité de classe III (massive)",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      3
+    ],
+    "explication": "IMC ≥ 40 : obésité de classe III (massive).",
+    "source": {
+      "page": 3,
+      "extrait": "≥ 40 Obésité de classe III (massive)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "IMC",
+      "classification"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-025",
+    "type": "unique",
+    "enonce": "Un adulte a un IMC de 37 kg/m². Il présente :",
+    "options": [
+      "Un surpoids",
+      "Une obésité de classe I (modérée)",
+      "Une obésité de classe II (sévère)",
+      "Une obésité de classe III (massive)",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "35 à 39,9 : obésité de classe II (sévère).",
+    "source": {
+      "page": 3,
+      "extrait": "35 à 39,9 Obésité de classe II (sévère)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "IMC",
+      "classification"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-026",
+    "type": "multiple",
+    "enonce": "Chez l'adulte, à retenir :",
+    "options": [
+      "Surpoids = IMC ≥ 25 kg/m²",
+      "Obésité = IMC ≥ 30 kg/m²",
+      "Obésité = IMC ≥ 25 kg/m²",
+      "Surpoids = IMC ≥ 30 kg/m²",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "À retenir : surpoids = IMC ≥ 25 ; obésité = IMC ≥ 30.",
+    "source": {
+      "page": 3,
+      "extrait": "À retenir : surpoids = IMC ≥ 25 ; obésité = IMC ≥ 30"
+    },
+    "difficulte": 1,
+    "tags": [
+      "IMC"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-027",
+    "type": "multiple",
+    "enonce": "Chez l'enfant et l'adolescent, concernant l'IMC :",
+    "options": [
+      "Les seuils de l'adulte ne s'appliquent pas",
+      "L'IMC est reporté sur des courbes de corpulence",
+      "Les courbes tiennent compte de l'âge",
+      "Les courbes tiennent compte du sexe",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Chez l'enfant et l'adolescent, les seuils ne s'appliquent pas : l'IMC est reporté sur des courbes de corpulence selon l'âge et le sexe.",
+    "source": {
+      "page": 3,
+      "extrait": "l'IMC est reporté sur des courbes de corpulence selon l'âge et le sexe"
+    },
+    "difficulte": 2,
+    "tags": [
+      "IMC",
+      "enfant"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-028",
+    "type": "multiple",
+    "enonce": "Les limites de l'IMC sont :",
+    "options": [
+      "Il ne distingue pas la graisse du muscle",
+      "Un sportif musclé peut avoir un IMC élevé",
+      "Chez le sujet âgé, un IMC « normal » peut être trompeur",
+      "Les œdèmes et l'ascite augmentent le poids sans augmenter la graisse",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes ces limites sont citées : graisse/muscle, sportif musclé, sujet âgé qui perd du muscle, œdèmes et ascite.",
+    "source": {
+      "page": 3,
+      "extrait": "Les œdèmes et l'ascite augmentent le poids sans augmenter la graisse"
+    },
+    "difficulte": 2,
+    "tags": [
+      "IMC",
+      "limites"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-029",
+    "type": "multiple",
+    "enonce": "Concernant la place de l'IMC :",
+    "options": [
+      "Il ne dit pas où se trouve la graisse",
+      "La graisse du ventre est la plus dangereuse",
+      "C'est un outil de dépistage",
+      "L'IMC seul suffit au diagnostic d'obésité",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "L'IMC ne dit pas où se trouve la graisse (celle du ventre est la plus dangereuse). C'est un outil de dépistage ; la Commission du Lancet (2025) souligne que l'IMC seul ne suffit pas au diagnostic.",
+    "source": {
+      "page": 3,
+      "extrait": "La Commission du Lancet sur l'obésité clinique (2025) souligne que l'IMC seul ne suffit pas au diagnostic"
+    },
+    "difficulte": 2,
+    "tags": [
+      "IMC",
+      "limites"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-030",
+    "type": "unique",
+    "enonce": "L'IMC, outil de dépistage, doit toujours être complété par :",
+    "options": [
+      "Le tour de taille",
+      "Le tour de hanches",
+      "Le tour de bras",
+      "La glycémie à jeun",
+      "Le bilan lipidique"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "L'IMC est un outil de dépistage : on le complète toujours par le tour de taille.",
+    "source": {
+      "page": 3,
+      "extrait": "L'IMC est un outil de dépistage : on le complète toujours par le tour de taille"
+    },
+    "difficulte": 1,
+    "tags": [
+      "IMC",
+      "tour de taille"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-031",
+    "type": "unique",
+    "enonce": "Chez le sujet âgé, un IMC « normal » peut être trompeur car :",
+    "options": [
+      "Il perd du muscle",
+      "Il retient de l'eau",
+      "Il grandit",
+      "Sa graisse est toujours gynoïde",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Chez le sujet âgé, qui perd du muscle, un IMC « normal » peut être trompeur.",
+    "source": {
+      "page": 3,
+      "extrait": "Chez le sujet âgé, qui perd du muscle, un IMC « normal » peut être trompeur"
+    },
+    "difficulte": 2,
+    "tags": [
+      "IMC",
+      "limites"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-032",
+    "type": "multiple",
+    "enonce": "La technique de mesure du tour de taille comprend :",
+    "options": [
+      "Patient debout, abdomen détendu",
+      "Mesure en fin d'expiration normale",
+      "Mètre ruban placé à mi-distance entre le bord inférieur des côtes et la crête iliaque",
+      "Mètre ruban horizontal, sur la peau, sans serrer",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Patient debout, abdomen détendu, fin d'expiration normale ; ruban horizontal à mi-distance entre le bord inférieur des côtes et la crête iliaque, sur la peau, sans serrer.",
+    "source": {
+      "page": 4,
+      "extrait": "Placer le mètre ruban horizontalement, à mi-distance de ces deux repères, sur la peau, sans serrer"
+    },
+    "difficulte": 1,
+    "tags": [
+      "tour de taille"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-033",
+    "type": "multiple",
+    "enonce": "Les repères anatomiques utilisés pour mesurer le tour de taille sont :",
+    "options": [
+      "Le bord inférieur des côtes",
+      "Le haut de l'os du bassin (crête iliaque)",
+      "Le nombril",
+      "L'appendice xiphoïde",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "On repère le bord inférieur des côtes et la crête iliaque, et on mesure à mi-distance. Mesurer au nombril chez une personne au ventre tombant est une erreur.",
+    "source": {
+      "page": 4,
+      "extrait": "Repérer le bord inférieur des côtes et le haut de l'os du bassin (crête iliaque)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "tour de taille"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-034",
+    "type": "multiple",
+    "enonce": "Les erreurs fréquentes lors de la mesure du tour de taille sont :",
+    "options": [
+      "Mesurer par-dessus les vêtements",
+      "Serrer le ruban",
+      "Mesurer au niveau du nombril chez une personne au ventre tombant",
+      "Mesurer en fin d'expiration normale",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Erreurs fréquentes : par-dessus les vêtements, ruban serré, mesure au nombril chez une personne au ventre tombant. La fin d'expiration normale est la bonne technique.",
+    "source": {
+      "page": 4,
+      "extrait": "Erreurs fréquentes : mesurer par-dessus les vêtements, serrer le ruban, mesurer au niveau du nombril"
+    },
+    "difficulte": 2,
+    "tags": [
+      "tour de taille"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-035",
+    "type": "multiple",
+    "enonce": "Le tour de taille définit un risque augmenté à partir de :",
+    "options": [
+      "94 cm chez l'homme",
+      "80 cm chez la femme",
+      "102 cm chez l'homme",
+      "88 cm chez la femme",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Risque augmenté : ≥ 94 cm (homme), ≥ 80 cm (femme). Les seuils 102 et 88 cm définissent le risque très élevé.",
+    "source": {
+      "page": 4,
+      "extrait": "Risque augmenté ≥ 94 cm ≥ 80 cm Risque très élevé ≥ 102 cm ≥ 88 cm"
+    },
+    "difficulte": 2,
+    "tags": [
+      "tour de taille"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-036",
+    "type": "unique",
+    "enonce": "Chez la femme, le tour de taille définit un risque très élevé à partir de :",
+    "options": [
+      "80 cm",
+      "85 cm",
+      "88 cm",
+      "94 cm",
+      "102 cm"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Risque très élevé : ≥ 102 cm chez l'homme, ≥ 88 cm chez la femme.",
+    "source": {
+      "page": 4,
+      "extrait": "Risque très élevé ≥ 102 cm ≥ 88 cm"
+    },
+    "difficulte": 2,
+    "tags": [
+      "tour de taille"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-037",
+    "type": "unique",
+    "enonce": "Chez la femme, le tour de taille augmente le risque à partir de :",
+    "options": [
+      "80 cm",
+      "88 cm",
+      "94 cm",
+      "102 cm",
+      "75 cm"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Femme ≥ 80 cm, homme ≥ 94 cm.",
+    "source": {
+      "page": 12,
+      "extrait": "Chez la femme, le tour de taille augmente le risque à partir de : A. 80 cm"
+    },
+    "difficulte": 1,
+    "tags": [
+      "tour de taille"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-038",
+    "type": "unique",
+    "enonce": "Un homme a un tour de taille de 98 cm. Son risque est :",
+    "options": [
+      "Normal",
+      "Augmenté",
+      "Très élevé",
+      "Impossible à interpréter sans l'IMC",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Chez l'homme : risque augmenté ≥ 94 cm, très élevé ≥ 102 cm ; 98 cm correspond donc à un risque augmenté.",
+    "source": {
+      "page": 4,
+      "extrait": "Risque augmenté ≥ 94 cm ≥ 80 cm"
+    },
+    "difficulte": 2,
+    "tags": [
+      "tour de taille"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-039",
+    "type": "multiple",
+    "enonce": "La règle simple à expliquer au patient concernant le tour de taille :",
+    "options": [
+      "Le tour de taille doit rester inférieur à la moitié de la taille",
+      "Pour 1,70 m, le tour de taille doit être inférieur à 85 cm",
+      "Le tour de taille doit rester inférieur au tiers de la taille",
+      "Pour 1,70 m, le tour de taille doit être inférieur à 102 cm",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "« Votre tour de taille doit rester inférieur à la moitié de votre taille » : pour 1,70 m, moins de 85 cm.",
+    "source": {
+      "page": 4,
+      "extrait": "votre tour de taille doit rester inférieur à la moitié de votre taille"
+    },
+    "difficulte": 1,
+    "tags": [
+      "tour de taille"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-040",
+    "type": "multiple",
+    "enonce": "Concernant l'origine des seuils de tour de taille :",
+    "options": [
+      "Ce sont des seuils de l'OMS et de la Fédération internationale du diabète (IDF)",
+      "L'IDF retient les seuils européens pour les populations du Moyen-Orient et du Maghreb",
+      "Les seuils européens retenus sont 94 cm et 80 cm",
+      "Ces seuils s'appliquent aux populations du Maghreb",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Seuils de l'OMS et de l'IDF, qui retient les seuils européens (94 et 80 cm) pour les populations du Moyen-Orient et du Maghreb.",
+    "source": {
+      "page": 4,
+      "extrait": "qui retient les seuils européens (94 et 80 cm) pour les populations du Moyen-Orient et du Maghreb"
+    },
+    "difficulte": 2,
+    "tags": [
+      "tour de taille"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-041",
+    "type": "multiple",
+    "enonce": "Concernant l'obésité androïde (« en pomme ») :",
+    "options": [
+      "La graisse siège au niveau du ventre, autour des organes",
+      "Elle est plus fréquente chez l'homme",
+      "Elle expose à un risque élevé de diabète, d'HTA et de maladies du cœur",
+      "La graisse siège au niveau des hanches, des fesses et des cuisses",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Androïde : graisse abdominale autour des organes, plus fréquente chez l'homme, risque élevé (diabète, HTA, cœur). Hanches, fesses, cuisses : obésité gynoïde.",
+    "source": {
+      "page": 5,
+      "extrait": "Ventre (graisse abdominale, autour des organes)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "répartition"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-042",
+    "type": "multiple",
+    "enonce": "Concernant l'obésité gynoïde (« en poire ») :",
+    "options": [
+      "La graisse siège au niveau des hanches, des fesses et des cuisses",
+      "Elle est plus fréquente chez la femme",
+      "Son risque est moindre que celui de l'obésité androïde",
+      "Elle est aussi appelée obésité « en pomme »",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Gynoïde (« poire ») : hanches, fesses, cuisses ; plus fréquente chez la femme ; risque moindre.",
+    "source": {
+      "page": 5,
+      "extrait": "Obésité gynoïde (« poire ») … Hanches, fesses, cuisses"
+    },
+    "difficulte": 1,
+    "tags": [
+      "répartition"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-043",
+    "type": "multiple",
+    "enonce": "Concernant la répartition de la graisse :",
+    "options": [
+      "À IMC égal, l'obésité abdominale expose davantage aux complications",
+      "L'obésité abdominale expose aux complications même avec un IMC normal",
+      "L'obésité gynoïde est la plus dangereuse",
+      "Le tour de taille renseigne sur la graisse abdominale",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      3
+    ],
+    "explication": "À IMC égal, l'obésité abdominale expose davantage aux complications, même avec un IMC normal ; c'est elle que le tour de taille repère. L'obésité gynoïde a un risque moindre.",
+    "source": {
+      "page": 5,
+      "extrait": "À IMC égal, l'obésité abdominale expose davantage aux complications, même avec un IMC normal"
+    },
+    "difficulte": 2,
+    "tags": [
+      "répartition"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-044",
+    "type": "multiple",
+    "enonce": "Les thèmes de l'interrogatoire d'un patient obèse comprennent :",
+    "options": [
+      "L'histoire du poids (depuis quand, poids maximal, prise de poids rapide)",
+      "L'alimentation (repas, grignotage, boissons sucrées)",
+      "Le sommeil (ronflement, fatigue, somnolence dans la journée)",
+      "Les médicaments, compléments et produits « minceur »",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Thèmes : histoire du poids, alimentation, activité physique, sommeil, médicaments, retentissement.",
+    "source": {
+      "page": 6,
+      "extrait": "Médicaments Traitements en cours, compléments, produits « minceur »"
+    },
+    "difficulte": 1,
+    "tags": [
+      "interrogatoire"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-045",
+    "type": "multiple",
+    "enonce": "Concernant l'interrogatoire du patient obèse :",
+    "options": [
+      "Les questions sont posées sans jugement",
+      "La question des médicaments et des produits « minceur » est celle que le pharmacien maîtrise le mieux",
+      "Le retentissement explore l'essoufflement, les douleurs, le moral et la vie sociale",
+      "L'activité physique inclut le temps passé assis et les écrans",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Questions posées sans jugement ; le pharmacien maîtrise le mieux la question des médicaments et produits minceur ; retentissement : essoufflement, douleurs, moral, vie sociale ; activité physique : marche, sport, temps assis, écrans.",
+    "source": {
+      "page": 6,
+      "extrait": "La question des médicaments et des produits « minceur » est celle que le pharmacien maîtrise le mieux"
+    },
+    "difficulte": 2,
+    "tags": [
+      "interrogatoire"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-046",
+    "type": "multiple",
+    "enonce": "Parmi les antidiabétiques, ceux qui font grossir sont :",
+    "options": [
+      "L'insuline",
+      "Le gliclazide",
+      "Le glimépiride",
+      "La pioglitazone",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Antidiabétiques qui font grossir : insuline, sulfamides (gliclazide, glimépiride), pioglitazone.",
+    "source": {
+      "page": 6,
+      "extrait": "Antidiabétiques Insuline, sulfamides (gliclazide, glimépiride), pioglitazone"
+    },
+    "difficulte": 2,
+    "tags": [
+      "médicaments qui font grossir"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-047",
+    "type": "multiple",
+    "enonce": "Dans le diabète, les traitements qui ne font pas grossir sont :",
+    "options": [
+      "La metformine",
+      "Les analogues du GLP-1",
+      "Les inhibiteurs de SGLT2",
+      "L'insuline",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Dans le diabète, la metformine, les analogues du GLP-1 et les inhibiteurs de SGLT2 ne font pas grossir ; l'insuline fait grossir.",
+    "source": {
+      "page": 6,
+      "extrait": "la metformine, les analogues du GLP-1 et les inhibiteurs de SGLT2 ne font pas grossir"
+    },
+    "difficulte": 2,
+    "tags": [
+      "médicaments qui font grossir"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-048",
+    "type": "multiple",
+    "enonce": "Les antipsychotiques qui font grossir cités dans le cours sont :",
+    "options": [
+      "L'olanzapine",
+      "La clozapine",
+      "La rispéridone",
+      "La quétiapine",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Antipsychotiques : olanzapine, clozapine, rispéridone, quétiapine.",
+    "source": {
+      "page": 6,
+      "extrait": "Antipsychotiques Olanzapine, clozapine, rispéridone, quétiapine"
+    },
+    "difficulte": 2,
+    "tags": [
+      "médicaments qui font grossir"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-049",
+    "type": "multiple",
+    "enonce": "Les antidépresseurs qui font grossir cités dans le cours sont :",
+    "options": [
+      "La mirtazapine",
+      "L'amitriptyline",
+      "La paroxétine",
+      "La metformine",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Antidépresseurs : mirtazapine, amitriptyline, paroxétine. La metformine est un antidiabétique qui ne fait pas grossir.",
+    "source": {
+      "page": 6,
+      "extrait": "Antidépresseurs Mirtazapine, amitriptyline, paroxétine"
+    },
+    "difficulte": 2,
+    "tags": [
+      "médicaments qui font grossir"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-050",
+    "type": "multiple",
+    "enonce": "Parmi les antiépileptiques et thymorégulateurs, font grossir :",
+    "options": [
+      "Le valproate",
+      "La carbamazépine",
+      "La prégabaline",
+      "La gabapentine",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Antiépileptiques, lithium : valproate, carbamazépine, prégabaline, gabapentine ; lithium.",
+    "source": {
+      "page": 6,
+      "extrait": "Valproate, carbamazépine, prégabaline, gabapentine ; lithium"
+    },
+    "difficulte": 2,
+    "tags": [
+      "médicaments qui font grossir"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-051",
+    "type": "multiple",
+    "enonce": "Concernant les corticoïdes et les « autres » médicaments qui font grossir :",
+    "options": [
+      "La prednisone au long cours fait grossir",
+      "La prednisolone au long cours fait grossir",
+      "Le progestatif injectable fait grossir",
+      "La cyproheptadine fait grossir",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Corticoïdes : prednisone, prednisolone (au long cours). Autres : progestatif injectable, cyproheptadine, certains bêtabloquants.",
+    "source": {
+      "page": 6,
+      "extrait": "Autres Progestatif injectable, cyproheptadine, certains bêtabloquants"
+    },
+    "difficulte": 2,
+    "tags": [
+      "médicaments qui font grossir"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-052",
+    "type": "unique",
+    "enonce": "Quel médicament fait souvent grossir ?",
+    "options": [
+      "Metformine",
+      "Olanzapine",
+      "Paracétamol",
+      "Inhibiteur de SGLT2",
+      "Analogue du GLP-1"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Les antipsychotiques comme l'olanzapine font grossir ; la metformine, les inhibiteurs de SGLT2 et les analogues du GLP-1, non.",
+    "source": {
+      "page": 13,
+      "extrait": "Les antipsychotiques comme l'olanzapine font grossir ; la metformine, non"
+    },
+    "difficulte": 1,
+    "tags": [
+      "médicaments qui font grossir"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-053",
+    "type": "multiple",
+    "enonce": "Devant un patient qui prend un médicament qui fait grossir :",
+    "options": [
+      "Il ne doit jamais arrêter seul son traitement",
+      "Il en parle à son médecin",
+      "Le médecin peut parfois choisir une alternative",
+      "Le pharmacien lui conseille d'arrêter le traitement",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Le patient ne doit jamais arrêter seul son traitement : il en parle à son médecin, qui peut parfois choisir une alternative.",
+    "source": {
+      "page": 6,
+      "extrait": "Le patient ne doit jamais arrêter seul son traitement : il en parle à son médecin"
+    },
+    "difficulte": 1,
+    "tags": [
+      "médicaments qui font grossir"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-054",
+    "type": "multiple",
+    "enonce": "Le lithium :",
+    "options": [
+      "Fait partie des médicaments qui font grossir",
+      "Est cité avec les antiépileptiques",
+      "Ne fait pas grossir",
+      "Doit être arrêté par le patient en cas de prise de poids",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Le lithium est cité avec les antiépileptiques parmi les médicaments qui font grossir. Le patient ne doit jamais arrêter seul son traitement.",
+    "source": {
+      "page": 6,
+      "extrait": "Antiépileptiques, lithium Valproate, carbamazépine, prégabaline, gabapentine ; lithium"
+    },
+    "difficulte": 2,
+    "tags": [
+      "médicaments qui font grossir"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-055",
+    "type": "multiple",
+    "enonce": "Une prise de poids par rétention d'eau (œdèmes) se caractérise par :",
+    "options": [
+      "Une prise de poids rapide, en quelques jours",
+      "Des jambes gonflées",
+      "Un essoufflement",
+      "La nécessité d'un avis médical rapide",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Rétention d'eau : prise de poids rapide en quelques jours, jambes gonflées, essoufflement ; conduite : avis médical rapide.",
+    "source": {
+      "page": 7,
+      "extrait": "Prise de poids rapide, en quelques jours ; jambes gonflées ; essoufflement"
+    },
+    "difficulte": 2,
+    "tags": [
+      "prise de poids",
+      "œdèmes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-056",
+    "type": "multiple",
+    "enonce": "Les médicaments pouvant causer une rétention d'eau cités dans le cours sont :",
+    "options": [
+      "L'amlodipine",
+      "Les AINS",
+      "Les corticoïdes",
+      "La metformine",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Causes de rétention d'eau : cœur, rein, foie ; médicaments (amlodipine, AINS, corticoïdes).",
+    "source": {
+      "page": 7,
+      "extrait": "Cœur, rein, foie ; médicaments (amlodipine, AINS, corticoïdes)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "prise de poids",
+      "œdèmes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-057",
+    "type": "unique",
+    "enonce": "Une prise de 2 kg en 3 jours :",
+    "options": [
+      "Correspond à de la graisse",
+      "Correspond à de l'eau et peut révéler une insuffisance cardiaque",
+      "Est toujours due à une hypothyroïdie",
+      "Est banale et ne nécessite aucune démarche",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "2 kg en 3 jours, ce n'est pas de la graisse, c'est de l'eau, et cela peut révéler une insuffisance cardiaque.",
+    "source": {
+      "page": 7,
+      "extrait": "2 kg en 3 jours, ce n'est pas de la graisse, c'est de l'eau"
+    },
+    "difficulte": 1,
+    "tags": [
+      "prise de poids",
+      "œdèmes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-058",
+    "type": "multiple",
+    "enonce": "Les signes d'hypothyroïdie cités devant une prise de poids sont :",
+    "options": [
+      "La fatigue",
+      "La frilosité",
+      "La constipation",
+      "La diarrhée",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Hypothyroïdie : fatigue, frilosité, constipation.",
+    "source": {
+      "page": 7,
+      "extrait": "Hypothyroïdie : fatigue, frilosité, constipation"
+    },
+    "difficulte": 1,
+    "tags": [
+      "prise de poids",
+      "maladie hormonale"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-059",
+    "type": "multiple",
+    "enonce": "Les signes d'hypercorticisme cités devant une prise de poids sont :",
+    "options": [
+      "Un visage arrondi",
+      "Des vergetures pourpres larges",
+      "Une faiblesse des cuisses",
+      "Des vergetures fines et blanches",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Hypercorticisme : visage arrondi, vergetures pourpres larges, faiblesse des cuisses. Les vergetures fines et blanches sont banales.",
+    "source": {
+      "page": 7,
+      "extrait": "Hypercorticisme : visage arrondi, vergetures pourpres larges, faiblesse des cuisses"
+    },
+    "difficulte": 2,
+    "tags": [
+      "prise de poids",
+      "maladie hormonale"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-060",
+    "type": "multiple",
+    "enonce": "Concernant la prise de poids d'origine hormonale :",
+    "options": [
+      "Elle est rare",
+      "Elle implique la thyroïde ou les glandes surrénales",
+      "Elle justifie une consultation médicale",
+      "Elle est la cause la plus fréquente d'obésité",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Maladie hormonale (rare) : thyroïde, glandes surrénales ; conduite : consultation médicale.",
+    "source": {
+      "page": 7,
+      "extrait": "Maladie hormonale (rare)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "prise de poids",
+      "maladie hormonale"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-061",
+    "type": "multiple",
+    "enonce": "Concernant l'acanthosis nigricans :",
+    "options": [
+      "C'est une peau épaissie, brune, d'aspect « sale »",
+      "Il siège au cou et aux aisselles",
+      "Il traduit une résistance à l'insuline",
+      "Il doit faire proposer une glycémie",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Acanthosis nigricans : peau épaissie, brune, d'aspect « sale », au cou et aux aisselles ; résistance à l'insuline : proposer une glycémie.",
+    "source": {
+      "page": 7,
+      "extrait": "Peau épaissie, brune, d'aspect « sale », au cou et aux aisselles"
+    },
+    "difficulte": 2,
+    "tags": [
+      "examen",
+      "signes cutanés"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-062",
+    "type": "multiple",
+    "enonce": "Concernant les vergetures chez le patient obèse :",
+    "options": [
+      "Fines et blanches, elles sont banales",
+      "Larges et pourpres, elles sont suspectes",
+      "Larges et pourpres, elles font évoquer un excès de cortisol",
+      "Fines et blanches, elles font évoquer un excès de cortisol",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Vergetures fines et blanches : banales ; larges et pourpres : suspectes, excès de cortisol à évoquer.",
+    "source": {
+      "page": 7,
+      "extrait": "Fines et blanches : banales ; larges et pourpres : suspectes"
+    },
+    "difficulte": 2,
+    "tags": [
+      "examen",
+      "signes cutanés"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-063",
+    "type": "unique",
+    "enonce": "Une pilosité excessive chez une femme obèse avec des règles irrégulières évoque :",
+    "options": [
+      "Une hypothyroïdie",
+      "Un syndrome des ovaires polykystiques",
+      "Une résistance à l'insuline isolée",
+      "Une mycose des plis",
+      "Une insuffisance cardiaque"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Pilosité excessive chez la femme, avec des règles irrégulières : syndrome des ovaires polykystiques.",
+    "source": {
+      "page": 7,
+      "extrait": "Pilosité excessive Chez la femme, avec des règles irrégulières … Syndrome des ovaires polykystiques"
+    },
+    "difficulte": 2,
+    "tags": [
+      "examen",
+      "signes cutanés"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-064",
+    "type": "multiple",
+    "enonce": "Concernant les mycoses des plis :",
+    "options": [
+      "Elles se manifestent par une rougeur et une macération",
+      "Elles siègent sous les seins et aux aines",
+      "Elles relèvent d'un conseil d'hygiène",
+      "Elles relèvent d'un antifongique local",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Mycoses des plis : rougeur, macération sous les seins, aux aines ; conseil d'hygiène, antifongique local.",
+    "source": {
+      "page": 7,
+      "extrait": "Rougeur, macération sous les seins, aux aines … Conseil d'hygiène, antifongique local"
+    },
+    "difficulte": 1,
+    "tags": [
+      "examen",
+      "signes cutanés"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-065",
+    "type": "unique",
+    "enonce": "Un brassard trop petit donne une tension :",
+    "options": [
+      "Faussement élevée",
+      "Faussement basse",
+      "Exacte",
+      "Variable selon le bras",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Un brassard trop petit surestime la tension.",
+    "source": {
+      "page": 7,
+      "extrait": "Un brassard trop petit donne une tension faussement élevée"
+    },
+    "difficulte": 1,
+    "tags": [
+      "tension artérielle"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-066",
+    "type": "multiple",
+    "enonce": "Concernant l'utilisation d'un brassard trop petit chez la personne obèse :",
+    "options": [
+      "La tension mesurée est faussement élevée",
+      "Il existe un risque de traitement inutile",
+      "Cette erreur est fréquente chez la personne obèse",
+      "La tension mesurée est faussement basse",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Un brassard trop petit donne une tension faussement élevée, avec un risque de traitement inutile ; c'est fréquent chez la personne obèse.",
+    "source": {
+      "page": 7,
+      "extrait": "avec un risque de traitement inutile ; c'est fréquent chez la personne obèse"
+    },
+    "difficulte": 2,
+    "tags": [
+      "tension artérielle"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-067",
+    "type": "multiple",
+    "enonce": "Les bonnes conditions de mesure de la tension chez le patient obèse sont :",
+    "options": [
+      "La poche gonflable doit couvrir environ 80 % du tour du bras",
+      "Patient assis, au repos depuis 5 minutes",
+      "Bras soutenu",
+      "L'officine doit disposer d'un grand brassard",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Brassard choisi selon le tour de bras (poche ≈ 80 % du tour du bras), patient assis au repos depuis 5 minutes, bras soutenu ; l'officine doit disposer d'un grand brassard.",
+    "source": {
+      "page": 7,
+      "extrait": "la poche gonflable doit couvrir environ 80 % du tour du bras"
+    },
+    "difficulte": 2,
+    "tags": [
+      "tension artérielle"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-068",
+    "type": "unique",
+    "enonce": "La poche gonflable du brassard doit couvrir environ :",
+    "options": [
+      "50 % du tour du bras",
+      "60 % du tour du bras",
+      "80 % du tour du bras",
+      "100 % du tour du bras",
+      "40 % du tour du bras"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Choisir le brassard selon le tour de bras : la poche gonflable doit couvrir environ 80 % du tour du bras.",
+    "source": {
+      "page": 7,
+      "extrait": "la poche gonflable doit couvrir environ 80 % du tour du bras"
+    },
+    "difficulte": 2,
+    "tags": [
+      "tension artérielle"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-069",
+    "type": "multiple",
+    "enonce": "Les complications métaboliques de l'obésité sont :",
+    "options": [
+      "Le diabète de type 2",
+      "L'excès de cholestérol",
+      "L'excès de triglycérides",
+      "La goutte",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Métabolique : diabète de type 2, excès de cholestérol et de triglycérides, goutte.",
+    "source": {
+      "page": 8,
+      "extrait": "Diabète de type 2, excès de cholestérol et de triglycérides, goutte"
+    },
+    "difficulte": 1,
+    "tags": [
+      "complications"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-070",
+    "type": "multiple",
+    "enonce": "Les complications cardiovasculaires de l'obésité citées dans le cours sont :",
+    "options": [
+      "L'hypertension artérielle",
+      "L'infarctus et l'insuffisance cardiaque",
+      "L'AVC",
+      "Les varices et la phlébite",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Cœur et vaisseaux : HTA, infarctus, insuffisance cardiaque, AVC, varices, phlébite.",
+    "source": {
+      "page": 8,
+      "extrait": "Hypertension artérielle, infarctus, insuffisance cardiaque, AVC, varices, phlébite"
+    },
+    "difficulte": 1,
+    "tags": [
+      "complications"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-071",
+    "type": "multiple",
+    "enonce": "Les complications digestives de l'obésité citées dans le cours sont :",
+    "options": [
+      "La stéatose hépatique (« foie gras »)",
+      "Les calculs de la vésicule",
+      "Le reflux",
+      "Les apnées du sommeil",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Digestive : stéatose hépatique, calculs de la vésicule, reflux. Les apnées du sommeil sont une complication respiratoire.",
+    "source": {
+      "page": 8,
+      "extrait": "Stéatose hépatique (« foie gras »), calculs de la vésicule, reflux"
+    },
+    "difficulte": 2,
+    "tags": [
+      "complications"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-072",
+    "type": "multiple",
+    "enonce": "Les complications respiratoires de l'obésité sont :",
+    "options": [
+      "Les apnées du sommeil",
+      "L'essoufflement",
+      "L'asthme",
+      "Le reflux",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Respiratoire : apnées du sommeil, essoufflement, asthme. Le reflux est une complication digestive.",
+    "source": {
+      "page": 8,
+      "extrait": "Respiratoire Apnées du sommeil, essoufflement, asthme"
+    },
+    "difficulte": 2,
+    "tags": [
+      "complications"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-073",
+    "type": "multiple",
+    "enonce": "Parmi les complications articulaires et « autres » de l'obésité, on cite :",
+    "options": [
+      "L'arthrose des genoux et des hanches",
+      "Les douleurs du dos",
+      "Certains cancers",
+      "L'infertilité et la dépression",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Articulaire : arthrose des genoux et des hanches, douleurs du dos. Autres : certains cancers, infertilité, dépression, mycoses des plis.",
+    "source": {
+      "page": 8,
+      "extrait": "Arthrose des genoux et des hanches, douleurs du dos"
+    },
+    "difficulte": 1,
+    "tags": [
+      "complications"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-074",
+    "type": "unique",
+    "enonce": "Le « foie gras » correspond à :",
+    "options": [
+      "La stéatose hépatique",
+      "Les calculs de la vésicule",
+      "L'ascite",
+      "L'hépatite",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Stéatose hépatique (« foie gras »).",
+    "source": {
+      "page": 8,
+      "extrait": "Stéatose hépatique (« foie gras »)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "complications"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-075",
+    "type": "unique",
+    "enonce": "Le syndrome métabolique est défini par la présence d'au moins :",
+    "options": [
+      "2 critères sur 5",
+      "3 critères sur 5",
+      "4 critères sur 5",
+      "3 critères sur 4",
+      "5 critères sur 5"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Le syndrome métabolique est défini par la présence d'au moins 3 critères sur 5.",
+    "source": {
+      "page": 9,
+      "extrait": "Il est défini par la présence d'au moins 3 critères sur 5"
+    },
+    "difficulte": 1,
+    "tags": [
+      "syndrome métabolique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-076",
+    "type": "multiple",
+    "enonce": "Les critères du syndrome métabolique et leurs seuils sont :",
+    "options": [
+      "Triglycérides ≥ 1,50 g/L ou traitement",
+      "Pression artérielle ≥ 130/85 mmHg ou traitement",
+      "Glycémie à jeun ≥ 1,00 g/L ou traitement",
+      "Tour de taille ≥ 94 cm (homme), ≥ 80 cm (femme)",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Tour de taille ≥ 94/80 cm ; TG ≥ 1,50 g/L ou traitement ; HDL < 0,40 (H) / < 0,50 g/L (F) ; PA ≥ 130/85 mmHg ou traitement ; glycémie à jeun ≥ 1,00 g/L ou traitement.",
+    "source": {
+      "page": 9,
+      "extrait": "Pression artérielle ≥ 130/85 mmHg ou traitement Glycémie à jeun ≥ 1,00 g/L ou traitement"
+    },
+    "difficulte": 2,
+    "tags": [
+      "syndrome métabolique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-077",
+    "type": "multiple",
+    "enonce": "Concernant le critère HDL-cholestérol du syndrome métabolique :",
+    "options": [
+      "HDL < 0,40 g/L chez l'homme",
+      "HDL < 0,50 g/L chez la femme",
+      "HDL < 0,50 g/L chez l'homme",
+      "HDL < 0,40 g/L chez la femme",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "HDL-cholestérol (« bon cholestérol ») < 0,40 g/L chez l'homme, < 0,50 g/L chez la femme.",
+    "source": {
+      "page": 9,
+      "extrait": "< 0,40 g/L (homme), < 0,50 g/L (femme)"
+    },
+    "difficulte": 3,
+    "tags": [
+      "syndrome métabolique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-078",
+    "type": "multiple",
+    "enonce": "Concernant la signification du syndrome métabolique :",
+    "options": [
+      "Il annonce le diabète de type 2",
+      "Il annonce les maladies cardiovasculaires",
+      "C'est un exemple de syndrome : un regroupement de signes qui vont ensemble",
+      "Il nécessite la présence des 5 critères",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Le syndrome métabolique annonce le diabète de type 2 et les maladies cardiovasculaires ; c'est un regroupement de signes qui vont ensemble. Il faut au moins 3 critères sur 5.",
+    "source": {
+      "page": 9,
+      "extrait": "Le syndrome métabolique annonce le diabète de type 2 et les maladies cardiovasculaires"
+    },
+    "difficulte": 2,
+    "tags": [
+      "syndrome métabolique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-079",
+    "type": "multiple",
+    "enonce": "Une femme a un tour de taille de 85 cm, des triglycérides à 1,70 g/L, un HDL-cholestérol à 0,45 g/L, une pression artérielle à 125/80 mmHg et une glycémie à jeun à 0,95 g/L, sans traitement :",
+    "options": [
+      "Le critère tour de taille est rempli",
+      "Le critère HDL-cholestérol est rempli",
+      "Le critère pression artérielle est rempli",
+      "Elle présente un syndrome métabolique",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      3
+    ],
+    "explication": "Tour de taille ≥ 80 cm (oui), TG ≥ 1,50 g/L (oui), HDL < 0,50 g/L chez la femme (oui) : 3 critères, donc syndrome métabolique. PA < 130/85 et glycémie < 1,00 g/L : critères non remplis.",
+    "source": {
+      "page": 9,
+      "extrait": "Il est défini par la présence d'au moins 3 critères sur 5"
+    },
+    "difficulte": 3,
+    "tags": [
+      "syndrome métabolique",
+      "calcul"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-080",
+    "type": "multiple",
+    "enonce": "Les signes nocturnes (« la nuit ») des apnées du sommeil sont :",
+    "options": [
+      "Un ronflement fort",
+      "Des pauses respiratoires vues par le conjoint",
+      "Des réveils et des envies d'uriner la nuit",
+      "Des maux de tête le matin",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "La nuit : ronflement fort, pauses respiratoires vues par le conjoint, réveils, envies d'uriner la nuit. Les maux de tête du matin sont classés parmi les signes du jour.",
+    "source": {
+      "page": 9,
+      "extrait": "Pauses respiratoires vues par le conjoint"
+    },
+    "difficulte": 2,
+    "tags": [
+      "apnées du sommeil"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-081",
+    "type": "multiple",
+    "enonce": "Les signes diurnes (« le jour ») des apnées du sommeil sont :",
+    "options": [
+      "La somnolence",
+      "L'endormissement au volant",
+      "Les maux de tête le matin",
+      "La fatigue et les troubles de la concentration",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le jour : somnolence, endormissement au volant, maux de tête le matin, fatigue, troubles de la concentration.",
+    "source": {
+      "page": 9,
+      "extrait": "Somnolence, endormissement au volant"
+    },
+    "difficulte": 1,
+    "tags": [
+      "apnées du sommeil"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-082",
+    "type": "multiple",
+    "enonce": "Concernant les apnées du sommeil à l'officine :",
+    "options": [
+      "Les somnifères et sédatifs aggravent les apnées",
+      "Les benzodiazépines sont à éviter",
+      "Les antihistaminiques sédatifs sont à éviter",
+      "Devant une demande de « quelque chose pour dormir » chez un patient obèse qui ronfle, le pharmacien oriente vers un médecin",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Prudence : somnifères et sédatifs (benzodiazépines, antihistaminiques sédatifs) aggravent les apnées ; le pharmacien oriente vers un médecin.",
+    "source": {
+      "page": 9,
+      "extrait": "les somnifères et sédatifs (benzodiazépines, antihistaminiques sédatifs) aggravent les apnées"
+    },
+    "difficulte": 2,
+    "tags": [
+      "apnées du sommeil"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-083",
+    "type": "multiple",
+    "enonce": "Le retentissement psychologique de l'obésité pour le patient comprend :",
+    "options": [
+      "Une mauvaise image de soi",
+      "L'anxiété et la dépression",
+      "L'isolement et la discrimination",
+      "Les échecs répétés des régimes",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Pour le patient : mauvaise image de soi, anxiété, dépression, isolement, discrimination, échecs répétés des régimes.",
+    "source": {
+      "page": 9,
+      "extrait": "Mauvaise image de soi … Isolement, discrimination … Échecs répétés des régimes"
+    },
+    "difficulte": 1,
+    "tags": [
+      "retentissement psychologique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-084",
+    "type": "multiple",
+    "enonce": "Face au retentissement psychologique, le pharmacien doit :",
+    "options": [
+      "Parler sans juger ni culpabiliser",
+      "Dire « personne vivant avec une obésité »",
+      "Demander la permission d'aborder le poids",
+      "Dire « il suffit de manger moins »",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Parler sans juger ni culpabiliser, dire « personne vivant avec une obésité », demander la permission d'aborder le poids ; éviter « il suffit de manger moins ».",
+    "source": {
+      "page": 9,
+      "extrait": "Demander la permission d'aborder le poids • Éviter « il suffit de manger moins »"
+    },
+    "difficulte": 1,
+    "tags": [
+      "retentissement psychologique",
+      "attitude"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-085",
+    "type": "multiple",
+    "enonce": "Concernant l'objectif de perte de poids :",
+    "options": [
+      "Perdre 5 à 10 % de son poids améliore déjà nettement la santé",
+      "Cela correspond à 5 à 10 kg pour 100 kg",
+      "Il est nécessaire d'atteindre un IMC « normal »",
+      "Le maintien du poids perdu est aussi important que la perte",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      3
+    ],
+    "explication": "Perdre 5 à 10 % du poids (5 à 10 kg pour 100 kg) améliore nettement la santé ; il n'est pas nécessaire d'atteindre un IMC normal ; le maintien compte autant que la perte.",
+    "source": {
+      "page": 10,
+      "extrait": "Il n'est pas nécessaire d'atteindre un IMC « normal »"
+    },
+    "difficulte": 2,
+    "tags": [
+      "prise en charge"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-086",
+    "type": "multiple",
+    "enonce": "Une perte de 5 à 10 % du poids entraîne :",
+    "options": [
+      "Moins de diabète",
+      "Une baisse de la tension",
+      "Moins d'apnées du sommeil",
+      "Moins de douleurs du genou",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Moins de diabète, baisse de la tension, moins d'apnées du sommeil et de douleurs du genou.",
+    "source": {
+      "page": 10,
+      "extrait": "moins de diabète, baisse de la tension, moins d'apnées du sommeil et de douleurs du genou"
+    },
+    "difficulte": 1,
+    "tags": [
+      "prise en charge"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-087",
+    "type": "multiple",
+    "enonce": "Les quatre piliers de la prise en charge de l'obésité sont :",
+    "options": [
+      "L'alimentation",
+      "L'activité physique",
+      "Le sommeil",
+      "Le soutien",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Les quatre piliers : alimentation, activité physique, sommeil, soutien (psychologique et familial, suivi régulier).",
+    "source": {
+      "page": 10,
+      "extrait": "Ces piliers sont la base de toute prise en charge"
+    },
+    "difficulte": 1,
+    "tags": [
+      "prise en charge",
+      "quatre piliers"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-088",
+    "type": "unique",
+    "enonce": "L'activité physique recommandée dans la prise en charge de l'obésité est d'au moins :",
+    "options": [
+      "75 minutes par semaine",
+      "100 minutes par semaine",
+      "150 minutes par semaine",
+      "300 minutes par semaine",
+      "30 minutes par semaine"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Au moins 150 minutes par semaine (par exemple 30 minutes de marche, 5 jours sur 7).",
+    "source": {
+      "page": 10,
+      "extrait": "Au moins 150 minutes par semaine (par exemple 30 minutes de marche, 5 jours sur 7)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "prise en charge",
+      "quatre piliers"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-089",
+    "type": "unique",
+    "enonce": "La durée de sommeil conseillée dans le pilier « sommeil » est de :",
+    "options": [
+      "5 à 6 heures par nuit",
+      "6 à 7 heures par nuit",
+      "7 à 8 heures par nuit",
+      "9 à 10 heures par nuit",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Sommeil : 7 à 8 heures par nuit ; traiter les apnées.",
+    "source": {
+      "page": 10,
+      "extrait": "Sommeil 7 à 8 heures par nuit ; traiter les apnées"
+    },
+    "difficulte": 1,
+    "tags": [
+      "prise en charge",
+      "quatre piliers"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-090",
+    "type": "multiple",
+    "enonce": "Les conseils alimentaires de la prise en charge comprennent :",
+    "options": [
+      "Moins de sucres et de boissons sucrées",
+      "Plus de légumes",
+      "Des repas réguliers",
+      "Un régime extrême pour une perte rapide",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Alimentation : moins de sucres et de boissons sucrées, plus de légumes, repas réguliers, pas de régime extrême.",
+    "source": {
+      "page": 10,
+      "extrait": "Moins de sucres et de boissons sucrées, plus de légumes, repas réguliers, pas de régime extrême"
+    },
+    "difficulte": 1,
+    "tags": [
+      "prise en charge",
+      "quatre piliers"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-091",
+    "type": "multiple",
+    "enonce": "Concernant les quatre piliers et les traitements de l'obésité :",
+    "options": [
+      "Les piliers sont la base de toute prise en charge",
+      "Ils restent nécessaires même quand un médicament est proposé",
+      "Ils restent nécessaires même quand une chirurgie est proposée",
+      "Les médicaments de l'obésité remplacent les piliers",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Ces piliers sont la base de toute prise en charge, même avec médicament ou chirurgie ; les médicaments s'ajoutent aux piliers, ils ne les remplacent pas.",
+    "source": {
+      "page": 10,
+      "extrait": "Ces médicaments s'ajoutent aux quatre piliers, ils ne les remplacent pas"
+    },
+    "difficulte": 2,
+    "tags": [
+      "prise en charge",
+      "quatre piliers"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-092",
+    "type": "multiple",
+    "enonce": "Concernant l'orlistat :",
+    "options": [
+      "Il se présente en gélules",
+      "Il diminue l'absorption des graisses",
+      "Il donne des selles grasses si le repas est gras",
+      "Il doit être pris à distance de la lévothyroxine",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Orlistat (gélules) : diminue l'absorption des graisses ; selles grasses si repas gras ; vitamines A, D, E, K ; à distance de la lévothyroxine.",
+    "source": {
+      "page": 10,
+      "extrait": "Selles grasses si le repas est gras ; vitamines A, D, E, K ; à distance de la lévothyroxine"
+    },
+    "difficulte": 2,
+    "tags": [
+      "médicaments de l'obésité"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-093",
+    "type": "unique",
+    "enonce": "Les vitamines concernées par le conseil du pharmacien sous orlistat sont :",
+    "options": [
+      "A, D, E, K",
+      "B1, B6, B12",
+      "C et B9",
+      "B12 et D uniquement",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Orlistat : vitamines A, D, E, K.",
+    "source": {
+      "page": 10,
+      "extrait": "vitamines A, D, E, K"
+    },
+    "difficulte": 2,
+    "tags": [
+      "médicaments de l'obésité"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-094",
+    "type": "multiple",
+    "enonce": "Concernant les analogues du GLP-1 (liraglutide, sémaglutide) :",
+    "options": [
+      "Ils diminuent la faim",
+      "Ils s'administrent par injection",
+      "Ils donnent des nausées au début",
+      "Il ne faut pas les acheter hors circuit (contrefaçons)",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Analogues du GLP-1 : diminuent la faim ; injection ; nausées au début ; bien boire ; ne pas acheter hors circuit (contrefaçons).",
+    "source": {
+      "page": 10,
+      "extrait": "Nausées au début ; bien boire ; ne pas acheter hors circuit (contrefaçons)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "médicaments de l'obésité"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-095",
+    "type": "multiple",
+    "enonce": "Concernant le tirzépatide :",
+    "options": [
+      "Il a le même principe que les analogues du GLP-1, avec une double action",
+      "Il s'administre par injection",
+      "Il se présente en gélules",
+      "Il est délivré sur prescription avec suivi médical",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      3
+    ],
+    "explication": "Tirzépatide : même principe, double action ; injection ; mêmes conseils ; sur prescription et suivi médical.",
+    "source": {
+      "page": 10,
+      "extrait": "Tirzépatide Même principe, double action ; injection"
+    },
+    "difficulte": 2,
+    "tags": [
+      "médicaments de l'obésité"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-096",
+    "type": "unique",
+    "enonce": "L'OMS a alerté sur des stylos falsifiés vendus hors du circuit pharmaceutique contenant :",
+    "options": [
+      "De l'orlistat",
+      "Du sémaglutide",
+      "De la sibutramine",
+      "De l'insuline",
+      "De la metformine"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "L'OMS a alerté sur des stylos de sémaglutide falsifiés vendus hors du circuit pharmaceutique.",
+    "source": {
+      "page": 10,
+      "extrait": "L'OMS a alerté sur des stylos de sémaglutide falsifiés vendus hors du circuit pharmaceutique"
+    },
+    "difficulte": 2,
+    "tags": [
+      "médicaments de l'obésité"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-097",
+    "type": "multiple",
+    "enonce": "Le médicament de l'obésité qui agit en diminuant l'absorption des graisses est :",
+    "options": [
+      "L'orlistat",
+      "Le liraglutide",
+      "Le sémaglutide",
+      "Le tirzépatide",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "L'orlistat diminue l'absorption des graisses ; les analogues du GLP-1 et le tirzépatide diminuent la faim.",
+    "source": {
+      "page": 10,
+      "extrait": "Orlistat (gélules) Diminue l'absorption des graisses"
+    },
+    "difficulte": 1,
+    "tags": [
+      "médicaments de l'obésité"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-098",
+    "type": "multiple",
+    "enonce": "Concernant la chirurgie de l'obésité :",
+    "options": [
+      "La sleeve retire une grande partie de l'estomac",
+      "Le bypass court-circuite une partie de l'intestin",
+      "Ces interventions sont réservées aux obésités sévères, après bilan",
+      "La sleeve court-circuite une partie de l'intestin",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Sleeve : on retire une grande partie de l'estomac ; bypass : on court-circuite une partie de l'intestin ; réservées aux obésités sévères, après bilan.",
+    "source": {
+      "page": 11,
+      "extrait": "Sleeve : on retire une grande partie de l'estomac"
+    },
+    "difficulte": 1,
+    "tags": [
+      "chirurgie"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-099",
+    "type": "multiple",
+    "enonce": "Après une chirurgie de l'obésité, les supplémentations à vie comprennent :",
+    "options": [
+      "La vitamine B12",
+      "Le fer",
+      "Le calcium",
+      "La vitamine D",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Vitamines et minéraux à vie : B12, fer, calcium, vitamine D.",
+    "source": {
+      "page": 11,
+      "extrait": "Vitamines et minéraux à vie (B12, fer, calcium, vitamine D)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "chirurgie"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-100",
+    "type": "multiple",
+    "enonce": "Le rôle du pharmacien après une chirurgie de l'obésité comprend :",
+    "options": [
+      "Éviter les AINS (risque d'ulcère)",
+      "Préférer parfois les formes liquides ou à croquer",
+      "Savoir que la contraception orale est moins fiable après bypass",
+      "Assurer le relais du suivi à vie",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Éviter les AINS (ulcère), formes liquides ou à croquer, contraception orale moins fiable après bypass ; le patient opéré reste suivi à vie, le pharmacien est un relais essentiel.",
+    "source": {
+      "page": 11,
+      "extrait": "Contraception orale moins fiable après bypass"
+    },
+    "difficulte": 2,
+    "tags": [
+      "chirurgie"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-101",
+    "type": "unique",
+    "enonce": "Après un bypass, il faut à vie :",
+    "options": [
+      "Des AINS",
+      "Des vitamines et minéraux",
+      "Un régime sans sel",
+      "Un antifongique local",
+      "Des corticoïdes"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Vitamine B12, fer, calcium, vitamine D… à vie.",
+    "source": {
+      "page": 13,
+      "extrait": "Vitamine B12, fer, calcium, vitamine D… à vie"
+    },
+    "difficulte": 1,
+    "tags": [
+      "chirurgie"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-102",
+    "type": "multiple",
+    "enonce": "Les produits « minceur » vendus sur Internet ou hors du circuit pharmaceutique peuvent contenir :",
+    "options": [
+      "Des coupe-faim interdits",
+      "Des laxatifs",
+      "Des diurétiques",
+      "Des hormones thyroïdiennes",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Substances cachées : coupe-faim interdits (comme la sibutramine), laxatifs, diurétiques, hormones thyroïdiennes.",
+    "source": {
+      "page": 11,
+      "extrait": "coupe-faim interdits (comme la sibutramine, retirée du marché), laxatifs, diurétiques, hormones thyroïdiennes"
+    },
+    "difficulte": 2,
+    "tags": [
+      "produits minceur"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-103",
+    "type": "multiple",
+    "enonce": "Les signes d'alerte sous produit « minceur » sont :",
+    "options": [
+      "Des palpitations",
+      "Une insomnie",
+      "Une hausse de la tension",
+      "Une diarrhée et une déshydratation",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Signes d'alerte : palpitations, insomnie, hausse de la tension, diarrhée, déshydratation → arrêter et consulter.",
+    "source": {
+      "page": 11,
+      "extrait": "palpitations, insomnie, hausse de la tension, diarrhée, déshydratation → arrêter et consulter"
+    },
+    "difficulte": 1,
+    "tags": [
+      "produits minceur"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-104",
+    "type": "unique",
+    "enonce": "La sibutramine est citée comme :",
+    "options": [
+      "Un analogue du GLP-1",
+      "Un coupe-faim interdit, retiré du marché",
+      "Un inhibiteur de l'absorption des graisses",
+      "Un diurétique",
+      "Une hormone thyroïdienne"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Coupe-faim interdits (comme la sibutramine, retirée du marché).",
+    "source": {
+      "page": 11,
+      "extrait": "coupe-faim interdits (comme la sibutramine, retirée du marché)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "produits minceur"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-105",
+    "type": "multiple",
+    "enonce": "Concernant le conseil du pharmacien sur les produits « minceur » :",
+    "options": [
+      "Il conseille uniquement des produits du circuit pharmaceutique",
+      "Il conseille avec un avis médical",
+      "Les produits vendus sur Internet sont sans risque",
+      "Devant des signes d'alerte, il faut arrêter et consulter",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      3
+    ],
+    "explication": "Le pharmacien conseille uniquement des produits du circuit pharmaceutique, avec un avis médical ; devant des signes d'alerte : arrêter et consulter.",
+    "source": {
+      "page": 11,
+      "extrait": "Le pharmacien conseille uniquement des produits du circuit pharmaceutique, avec un avis médical"
+    },
+    "difficulte": 1,
+    "tags": [
+      "produits minceur"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-106",
+    "type": "multiple",
+    "enonce": "Les quatre gestes du pharmacien face à l'obésité sont :",
+    "options": [
+      "Mesurer",
+      "Repérer",
+      "Conseiller",
+      "Orienter",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le pharmacien en quatre gestes : mesurer, repérer, conseiller, orienter.",
+    "source": {
+      "page": 11,
+      "extrait": "Mesurer … Repérer … Conseiller … Orienter"
+    },
+    "difficulte": 1,
+    "tags": [
+      "rôle du pharmacien"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-107",
+    "type": "multiple",
+    "enonce": "Le geste « mesurer » du pharmacien comprend :",
+    "options": [
+      "Le poids et la taille",
+      "L'IMC",
+      "Le tour de taille",
+      "La tension (avec le bon brassard)",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Mesurer : poids, taille, IMC, tour de taille, tension (avec le bon brassard).",
+    "source": {
+      "page": 11,
+      "extrait": "Mesurer Poids, taille, IMC, tour de taille, tension (avec le bon brassard)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "rôle du pharmacien"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-108",
+    "type": "multiple",
+    "enonce": "Le pharmacien oriente vers le médecin en cas de :",
+    "options": [
+      "IMC ≥ 30 kg/m²",
+      "Tour de taille élevé",
+      "Complication suspectée",
+      "IMC entre 18,5 et 24,9 kg/m²",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Orienter vers le médecin : IMC ≥ 30, tour de taille élevé, complication suspectée.",
+    "source": {
+      "page": 11,
+      "extrait": "Orienter Vers le médecin : IMC ≥ 30, tour de taille élevé, complication"
+    },
+    "difficulte": 1,
+    "tags": [
+      "rôle du pharmacien"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-109",
+    "type": "multiple",
+    "enonce": "Le geste « repérer » du pharmacien porte sur :",
+    "options": [
+      "Les médicaments qui font grossir",
+      "Les apnées du sommeil",
+      "Les signes de diabète",
+      "Les antécédents de chirurgie esthétique",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Repérer : médicaments qui font grossir, apnées du sommeil, signes de diabète.",
+    "source": {
+      "page": 11,
+      "extrait": "Repérer Médicaments qui font grossir, apnées du sommeil, signes de diabète"
+    },
+    "difficulte": 1,
+    "tags": [
+      "rôle du pharmacien"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-110",
+    "type": "unique",
+    "enonce": "Un homme pèse 104 kg et mesure 1,75 m. Son IMC est d'environ :",
+    "options": [
+      "30 kg/m², obésité de classe I",
+      "34 kg/m², obésité de classe I",
+      "34 kg/m², obésité de classe II",
+      "38 kg/m², obésité de classe II",
+      "59 kg/m², obésité de classe III"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "104 ÷ (1,75 × 1,75) = 104 ÷ 3,06 ≈ 34 kg/m² : obésité de classe I (30 à 34,9).",
+    "source": {
+      "page": 12,
+      "extrait": "104 ÷ (1,75 × 1,75) = 104 ÷ 3,06 ≈ 34 kg/m² : obésité de classe I"
+    },
+    "difficulte": 2,
+    "tags": [
+      "IMC",
+      "calcul",
+      "cas pratique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-111",
+    "type": "multiple",
+    "enonce": "Un chauffeur de taxi obèse ronfle, fait des pauses respiratoires nocturnes et somnole au volant. Il demande un « somnifère léger » :",
+    "options": [
+      "Il faut suspecter des apnées du sommeil",
+      "Il ne faut pas lui délivrer de somnifère",
+      "L'orientation médicale est urgente",
+      "La somnolence au volant engage sa sécurité et celle des autres",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Apnées du sommeil (ronflement, pauses, somnolence au volant) ; pas de somnifère ; la somnolence au volant engage la sécurité du patient et des autres : orientation médicale urgente.",
+    "source": {
+      "page": 12,
+      "extrait": "La somnolence au volant engage la sécurité du patient et des autres : l'orientation médicale est urgente"
+    },
+    "difficulte": 2,
+    "tags": [
+      "apnées du sommeil",
+      "cas pratique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-112",
+    "type": "multiple",
+    "enonce": "À retenir sur l'obésité :",
+    "options": [
+      "C'est une maladie chronique, ni un choix ni un manque de volonté",
+      "Devant une prise de poids rapide, penser aux médicaments qui font grossir et aux œdèmes",
+      "Perdre 5 à 10 % du poids améliore déjà la santé",
+      "Le pharmacien mesure, repère, conseille sans juger et oriente",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Ce sont des points de la rubrique « À retenir » du cours.",
+    "source": {
+      "page": 12,
+      "extrait": "Penser aux médicaments qui font grossir et aux œdèmes devant une prise de poids rapide"
+    },
+    "difficulte": 1,
+    "tags": [
+      "synthèse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "semiologie/08-obesite/qcm-113",
+    "type": "unique",
+    "enonce": "Un homme de 1,80 m, selon la règle simple de la moitié de la taille, doit garder un tour de taille inférieur à :",
+    "options": [
+      "80 cm",
+      "85 cm",
+      "90 cm",
+      "94 cm",
+      "102 cm"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Le tour de taille doit rester inférieur à la moitié de la taille : 180 ÷ 2 = 90 cm.",
+    "source": {
+      "page": 4,
+      "extrait": "votre tour de taille doit rester inférieur à la moitié de votre taille"
+    },
+    "difficulte": 2,
+    "tags": [
+      "tour de taille",
+      "calcul"
+    ],
+    "origine": "genere"
+  }
+]

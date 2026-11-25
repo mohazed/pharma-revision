@@ -1,0 +1,104 @@
+[
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/calcul-001",
+    "titre": "Largeur à la base à partir de l'écart type",
+    "enonce": "Un pic gaussien a un écart type σ = {s} s. Calculer sa largeur à la base ω.",
+    "variables": {
+      "s": {
+        "min": 1,
+        "max": 20,
+        "pas": 0.5,
+        "unite": "s"
+      }
+    },
+    "formule": "4*s",
+    "unite": "s",
+    "decimales": 2,
+    "etapes": [
+      "Étape 1 : ω = 4σ"
+    ],
+    "rappel": "ω = 4σ = 1,7δ (largeur à la base du pic)."
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/calcul-002",
+    "titre": "Largeur à mi-hauteur à partir de l'écart type",
+    "enonce": "Un pic gaussien a un écart type σ = {s} s. Calculer sa largeur à mi-hauteur δ.",
+    "variables": {
+      "s": {
+        "min": 1,
+        "max": 20,
+        "pas": 0.5,
+        "unite": "s"
+      }
+    },
+    "formule": "2.35*s",
+    "unite": "s",
+    "decimales": 2,
+    "etapes": [
+      "Étape 1 : δ = 2,35σ"
+    ],
+    "rappel": "δ = 2,35σ (largeur à mi-hauteur)."
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/calcul-003",
+    "titre": "Largeur à la base à partir de la largeur à mi-hauteur",
+    "enonce": "Un pic a une largeur à mi-hauteur δ = {d} s. Calculer sa largeur à la base ω.",
+    "variables": {
+      "d": {
+        "min": 2,
+        "max": 40,
+        "pas": 1,
+        "unite": "s"
+      }
+    },
+    "formule": "1.7*d",
+    "unite": "s",
+    "decimales": 2,
+    "etapes": [
+      "Étape 1 : ω = 1,7δ"
+    ],
+    "rappel": "ω = 4σ = 1,7δ."
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/calcul-004",
+    "titre": "Écart type à partir de la largeur à la base",
+    "enonce": "Un pic a une largeur à la base ω = {o} s. Calculer son écart type σ.",
+    "variables": {
+      "o": {
+        "min": 4,
+        "max": 80,
+        "pas": 2,
+        "unite": "s"
+      }
+    },
+    "formule": "o/4",
+    "unite": "s",
+    "decimales": 2,
+    "etapes": [
+      "Étape 1 : ω = 4σ",
+      "Étape 2 : σ = ω/4"
+    ],
+    "rappel": "La base du triangle vaut 2EF soit 4σ."
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/calcul-005",
+    "titre": "Ordonnée des points d'inflexion",
+    "enonce": "Le maximum d'un pic gaussien a une hauteur de {h} mV. Calculer l'ordonnée de ses points d'inflexion.",
+    "variables": {
+      "h": {
+        "min": 10,
+        "max": 500,
+        "pas": 10,
+        "unite": "mV"
+      }
+    },
+    "formule": "0.607*h",
+    "unite": "mV",
+    "decimales": 1,
+    "etapes": [
+      "Étape 1 : les points d'inflexion ont pour ordonnée 0,607 si le maximum vaut 1,000",
+      "Étape 2 : y = 0,607 × hauteur"
+    ],
+    "rappel": "Points d'inflexion E et F à 0,607 ; sommet du triangle AGH à 1,214 (maximum = 1,000)."
+  }
+]

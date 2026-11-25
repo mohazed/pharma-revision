@@ -1,0 +1,450 @@
+[
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/cas-001",
+    "titre": "Patient transplanté et automédication par millepertuis",
+    "enonce": "Un patient greffé rénal, traité au long cours par ciclosporine, prend de lui-même du millepertuis depuis plusieurs semaines. Le bilan montre une baisse des concentrations de ciclosporine.",
+    "questions": [
+      {
+        "id": "pharmacologie/11-interactions-pharmacocinetiques/cas-001-q1",
+        "type": "multiple",
+        "enonce": "Quel mécanisme explique la baisse de la ciclosporine ?",
+        "options": [
+          "Induction enzymatique du CYP 3A4 par le millepertuis",
+          "Inhibition enzymatique du CYP 3A4",
+          "Accélération de l'élimination de la ciclosporine",
+          "Complexation digestive",
+          "Déplacement protéique"
+        ],
+        "correctes": [
+          0,
+          2
+        ],
+        "explication": "Le millepertuis (comme la rifampicine) induit le CYP 3A4 → élimination accélérée de la ciclosporine.",
+        "source": {
+          "extrait": "Elimination de cyclosporine accélérée"
+        },
+        "difficulte": 1,
+        "tags": [
+          "induction",
+          "ciclosporine"
+        ],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacologie/11-interactions-pharmacocinetiques/cas-001-q2",
+        "type": "multiple",
+        "enonce": "Quel est le risque et la conduite à tenir si l'association est maintenue ?",
+        "options": [
+          "Risque de rejet",
+          "Augmenter la dose de ciclosporine",
+          "Diminuer la dose de ciclosporine",
+          "Risque de rhabdomyolyse",
+          "Aucun risque"
+        ],
+        "correctes": [
+          0,
+          1
+        ],
+        "explication": "Le cours indique d'augmenter la dose de ciclosporine pour éviter le rejet.",
+        "source": {
+          "extrait": "Augmenter la dose pour éviter rejet"
+        },
+        "difficulte": 2,
+        "tags": [
+          "induction"
+        ],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacologie/11-interactions-pharmacocinetiques/cas-001-q3",
+        "type": "multiple",
+        "enonce": "Concernant la cinétique de cette interaction :",
+        "options": [
+          "Elle est progressive",
+          "Elle s'installe après quelques jours",
+          "Elle peut persister après l'arrêt du millepertuis",
+          "Elle est immédiate",
+          "Elle disparaît dès l'arrêt"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "L'induction est progressive, s'installe après quelques jours et subsiste plus ou moins longtemps après l'arrêt de l'inducteur.",
+        "source": {
+          "extrait": "Le phénomène est progressif, s'installe après quelques jours et subsiste plus ou moins longtemps"
+        },
+        "difficulte": 2,
+        "tags": [
+          "induction"
+        ],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacologie/11-interactions-pharmacocinetiques/cas-001-q4",
+        "type": "unique",
+        "enonce": "Le millepertuis associé à la digoxine nécessiterait :",
+        "options": [
+          "Un STP de la digoxine",
+          "Une surveillance vestibulaire",
+          "Un décalage de prise de 2 heures seulement",
+          "Une alcalinisation urinaire",
+          "Aucune mesure"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Millepertuis + digoxine : diminution de la concentration de digoxine ; CAT : STP de la digoxine.",
+        "source": {
+          "extrait": "CAT: STP de la digoxine"
+        },
+        "difficulte": 1,
+        "tags": [
+          "millepertuis",
+          "digoxine"
+        ],
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/cas-002",
+    "titre": "Patiente épileptique sous contraception orale et AVK",
+    "enonce": "Une patiente de 30 ans traitée par carbamazépine pour une épilepsie prend une pilule à base d'éthinylestradiol. Elle reçoit en plus de l'acénocoumarol (Sintrom®) pour une thrombose.",
+    "questions": [
+      {
+        "id": "pharmacologie/11-interactions-pharmacocinetiques/cas-002-q1",
+        "type": "multiple",
+        "enonce": "Quelles conséquences sont attendues ?",
+        "options": [
+          "Pilule inactive avec risque de grossesse indésirée",
+          "Élimination accélérée de l'acénocoumarol",
+          "Risque de thrombose",
+          "Risque hémorragique immédiat par inhibition",
+          "L'interaction passe par le CYP 2C9 dans le schéma du cours"
+        ],
+        "correctes": [
+          0,
+          1,
+          2,
+          4
+        ],
+        "explication": "La carbamazépine (inducteur, CYP 2C9 dans le schéma du cours) accélère l'élimination de l'acénocoumarol (thrombose) et rend la pilule inactive. d) Fausse : il ne s'agit pas d'une inhibition.",
+        "source": {
+          "extrait": "Pilule inactive (risque de grossesse indésirée)"
+        },
+        "difficulte": 2,
+        "tags": [
+          "induction",
+          "acénocoumarol",
+          "contraception"
+        ],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacologie/11-interactions-pharmacocinetiques/cas-002-q2",
+        "type": "multiple",
+        "enonce": "Quelle conduite à tenir ?",
+        "options": [
+          "Adapter (augmenter) la dose d'acénocoumarol",
+          "Prendre des précautions supplémentaires de contraception",
+          "Surveiller l'INR",
+          "Arrêter brutalement la carbamazépine sans adapter l'AVK",
+          "Diminuer la dose d'acénocoumarol d'emblée"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "Il faut adapter la dose d'acénocoumarol et prévoir une contraception supplémentaire ; la surveillance de l'INR guide l'adaptation.",
+        "source": {
+          "extrait": "adapter la dose de l'Acénocoumarol"
+        },
+        "difficulte": 2,
+        "tags": [
+          "induction"
+        ],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacologie/11-interactions-pharmacocinetiques/cas-002-q3",
+        "type": "unique",
+        "enonce": "Si la carbamazépine est arrêtée, quel risque apparaît ?",
+        "options": [
+          "Hémorragie",
+          "Thrombose",
+          "Rhabdomyolyse",
+          "Neurotoxicité",
+          "Rejet de greffe"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "À l'arrêt de l'inducteur : risque d'hémorragie, donc retour progressif à la posologie initiale en surveillant l'INR.",
+        "source": {
+          "extrait": "à l'arret de l'inducteur enzymatique risque d'hémorragie"
+        },
+        "difficulte": 3,
+        "tags": [
+          "induction",
+          "INR"
+        ],
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/cas-003",
+    "titre": "Statine et antifongique azolé",
+    "enonce": "Un patient traité par simvastatine reçoit de l'itraconazole pour une mycose. Quelques jours plus tard, il se plaint de douleurs musculaires intenses. Il boit aussi quotidiennement du jus de pamplemousse.",
+    "questions": [
+      {
+        "id": "pharmacologie/11-interactions-pharmacocinetiques/cas-003-q1",
+        "type": "multiple",
+        "enonce": "Quel mécanisme est en cause ?",
+        "options": [
+          "Inhibition du CYP 3A4",
+          "Augmentation du taux plasmatique de simvastatine",
+          "Induction du CYP 1A2",
+          "Compétition tubulaire",
+          "Le jus de pamplemousse aggrave l'inhibition"
+        ],
+        "correctes": [
+          0,
+          1,
+          4
+        ],
+        "explication": "Itraconazole et pamplemousse inhibent le CYP 3A4 → ↑ taux plasmatique de statine.",
+        "source": {
+          "extrait": "Simvastatine (Statine) Ketoconazole Itraconazole Erythromycine Diltiazem Pamplemousse CYP 3A4"
+        },
+        "difficulte": 2,
+        "tags": [
+          "inhibition",
+          "statines"
+        ],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacologie/11-interactions-pharmacocinetiques/cas-003-q2",
+        "type": "unique",
+        "enonce": "Quel effet indésirable grave est évoqué ?",
+        "options": [
+          "Rhabdomyolyse",
+          "Hémorragie",
+          "Collapsus hypoglycémique",
+          "Insuffisance surrénalienne",
+          "Ototoxicité"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Le cours associe l'augmentation du taux de statines à la rhabdomyolyse.",
+        "source": {
+          "extrait": "Taux plasmatique de statines Rhabdomyolyse"
+        },
+        "difficulte": 1,
+        "tags": [
+          "statines"
+        ],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacologie/11-interactions-pharmacocinetiques/cas-003-q3",
+        "type": "multiple",
+        "enonce": "Concernant le délai et l'alternative :",
+        "options": [
+          "L'inhibition est un phénomène immédiat",
+          "Elle disparaît à l'arrêt du traitement",
+          "La fluvastatine, métabolisée par le CYP 2C9, n'emprunte pas la voie du CYP 3A4",
+          "L'atorvastatine serait une alternative sans interaction avec le CYP 3A4",
+          "L'inhibition persiste des semaines après l'arrêt"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "a, b, c) Justes. d) Fausse : l'atorvastatine emprunte aussi le CYP 3A4. e) Fausse.",
+        "source": {
+          "extrait": "ce qui n'est pas le cas pour la Fluvastatine métabolisée par le CYP P450 2C9"
+        },
+        "difficulte": 3,
+        "tags": [
+          "inhibition",
+          "statines"
+        ],
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/cas-004",
+    "titre": "Patient sous AVK traité par AINS",
+    "enonce": "Un patient bien équilibré sous AVK reçoit un AINS pour une douleur articulaire. Une semaine plus tard, il présente des ecchymoses et un saignement gingival.",
+    "questions": [
+      {
+        "id": "pharmacologie/11-interactions-pharmacocinetiques/cas-004-q1",
+        "type": "multiple",
+        "enonce": "Quel mécanisme explique cet accident ?",
+        "options": [
+          "Déplacement de l'AVK de ses liaisons aux protéines plasmatiques",
+          "Augmentation de la forme libre de l'AVK",
+          "Augmentation de l'effet thérapeutique de l'AVK",
+          "Induction enzymatique de l'AVK",
+          "Complexation digestive de l'AVK"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "Interaction au niveau plasmatique : l'AINS déplace l'AVK → forme libre ↑ → effet ↑ → risque hémorragique.",
+        "source": {
+          "extrait": "Accidents hémorragiques chez des sujets équilibrés/une dose correcte d'un AVK à qui on administre des AINS."
+        },
+        "difficulte": 1,
+        "tags": [
+          "distribution",
+          "AVK"
+        ],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacologie/11-interactions-pharmacocinetiques/cas-004-q2",
+        "type": "multiple",
+        "enonce": "Pourquoi l'AVK est-il sensible à ce déplacement ?",
+        "options": [
+          "Il est fortement lié aux protéines plasmatiques",
+          "Les AINS sont aussi fortement liés",
+          "La liaison des deux médicaments dépasse 90 %",
+          "L'AVK a un volume de distribution élevé",
+          "L'AVK est une base forte"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "Le déplacement ne se manifeste que si les deux médicaments ont une liaison > 90 % ; les médicaments sensibles ont un Vd faible et un caractère acide faible.",
+        "source": {
+          "extrait": "L'interaction ne se manifeste que si les deux médicaments ont une forte affinité pour les protéines plasmatiques (liaison > 90%)"
+        },
+        "difficulte": 2,
+        "tags": [
+          "distribution"
+        ],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacologie/11-interactions-pharmacocinetiques/cas-004-q3",
+        "type": "unique",
+        "enonce": "La conduite à tenir proposée par le cours est :",
+        "options": [
+          "Une adaptation posologique",
+          "L'administration de charbon actif",
+          "L'alcalinisation des urines",
+          "Le décalage des prises de 2 heures",
+          "L'augmentation de la dose d'AVK"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Le cours mentionne une adaptation posologique.",
+        "source": {
+          "extrait": "Risque hémorragique adaptation posologique"
+        },
+        "difficulte": 1,
+        "tags": [
+          "distribution",
+          "AVK"
+        ],
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/cas-005",
+    "titre": "Patiente âgée polymédiquée : prises digestives",
+    "enonce": "Une patiente âgée prend de la lévothyroxine, du calcium, un antiacide à base de sels d'aluminium et de magnésium, et reçoit une fluoroquinolone pour une infection urinaire.",
+    "questions": [
+      {
+        "id": "pharmacologie/11-interactions-pharmacocinetiques/cas-005-q1",
+        "type": "multiple",
+        "enonce": "Quelles interactions d'absorption sont possibles ?",
+        "options": [
+          "Complexation fluoroquinolone + calcium",
+          "Complexation lévothyroxine + calcium",
+          "Élévation du pH digestif par les sels d'Al et de Mg",
+          "Induction enzymatique de la lévothyroxine par le calcium",
+          "Compétition tubulaire"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "a, b) Exemples de complexation du cours. c) Les sels de Mg et d'Al élèvent le pH digestif. d, e) Fausses.",
+        "source": {
+          "extrait": "Fluoriquinolones et sels de calcium Fer + Ca Levothyroxine + Ca"
+        },
+        "difficulte": 2,
+        "tags": [
+          "absorption",
+          "complexation"
+        ],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacologie/11-interactions-pharmacocinetiques/cas-005-q2",
+        "type": "unique",
+        "enonce": "Quelle mesure pratique est recommandée ?",
+        "options": [
+          "Décaler les prises d'au moins 2 heures",
+          "Prendre tous les médicaments en même temps",
+          "Doubler la dose de fluoroquinolone",
+          "Remplacer l'antiacide par de l'huile de paraffine",
+          "Administrer du probénécide"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Le cours recommande de décaler les prises médicamenteuses d'au moins 2 heures si possible.",
+        "source": {
+          "extrait": "il est nécessaire de décaler les prises médicamenteuses ( d'au moins 2 heures si possible)"
+        },
+        "difficulte": 1,
+        "tags": [
+          "absorption"
+        ],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacologie/11-interactions-pharmacocinetiques/cas-005-q3",
+        "type": "multiple",
+        "enonce": "Facteurs de risque d'IAM présents chez cette patiente selon l'introduction :",
+        "options": [
+          "Polymédication",
+          "Vieillissement",
+          "Maladies chroniques",
+          "Automédication possible",
+          "Toutes les propositions sont correctes"
+        ],
+        "correctes": [
+          4
+        ],
+        "explication": "Le cours cite la polymédication, le vieillissement, les maladies chroniques et l'automédication comme facteurs favorisant les IAM.",
+        "source": {
+          "extrait": "Polymédication … Vieillissement de la population"
+        },
+        "difficulte": 1,
+        "tags": [
+          "introduction"
+        ],
+        "origine": "genere"
+      }
+    ]
+  }
+]

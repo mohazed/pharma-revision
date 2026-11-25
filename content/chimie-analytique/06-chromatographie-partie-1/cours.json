@@ -1,0 +1,13 @@
+{
+  "id": "chimie-analytique/06-chromatographie-partie-1",
+  "module": "chimie-analytique",
+  "ordre": 6,
+  "titre": "Généralités sur la chromatographie – Partie 1",
+  "type": "cours",
+  "source": {
+    "driveId": "1K7J-ZtjdykdaIGEpj6PTPiUnggjrmQ_-",
+    "fichier": "6.1 Généralités sur la chromatographie - Partie 1.pdf",
+    "modifiedTime": "2026-11-20T12:13:14.755Z"
+  },
+  "resume": "Principe, historique et classification des méthodes chromatographiques (phases, phénomènes, forme de la phase stationnaire, migration), théorie des plateaux (CS = K·CM) et pic chromatographique gaussien (ω = 4σ = 1,7δ ; δ = 2,35σ)."
+}

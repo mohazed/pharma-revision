@@ -1,0 +1,264 @@
+[
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/tableau-001",
+    "titre": "Classification des antihistaminiques H1",
+    "colonnes": [
+      "Classe chimique",
+      "Première génération",
+      "Deuxième génération"
+    ],
+    "lignes": [
+      [
+        "Alkylamines",
+        "Bromphéniramine, chlorphéniramine, dimétindène, phéniramine, triprolidine",
+        "Acrivastine"
+      ],
+      [
+        "Pipérazines",
+        "Buclizine, cyclizine, hydroxyzine, méclizine, oxatomide",
+        "Cétirizine, lévocétirizine"
+      ],
+      [
+        "Pipéridines",
+        "Azatadine, cyproheptadine, diphénylpyraline, kétotifène",
+        "Astémizole, bilastine, desloratadine, ébastine, fexofénadine, lévocabastine, loratadine, mizolastine, olopatadine, rupatadine, terfénadine"
+      ],
+      [
+        "Éthanolamines",
+        "Carbinoxamine, clémastine, diménhydrinate, diphenhydramine, doxylamine, phényltoloxamine",
+        "—"
+      ],
+      [
+        "Éthylènediamines",
+        "Antazoline, pyrilamine, tripelennamine",
+        "—"
+      ],
+      [
+        "Phénothiazines",
+        "Méthdilazine, prométhazine",
+        "—"
+      ]
+    ]
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/tableau-002",
+    "titre": "Les quatre types de récepteurs histaminiques",
+    "colonnes": [
+      "Type",
+      "Protéine G",
+      "Localisation",
+      "Fonction"
+    ],
+    "lignes": [
+      [
+        "H1",
+        "Gq/11",
+        "Muscles lisses, endothélium, SNC (ubiquitaire)",
+        "Contraction des muscles lisses, bronchoconstriction ; vasodilatation, urticaire ; maintien de l'état de veille"
+      ],
+      [
+        "H2",
+        "Gs",
+        "Paroi de l'estomac (aussi cœur, mastocytes, SNC)",
+        "Régulation de la sécrétion acide gastrique"
+      ],
+      [
+        "H3",
+        "Gi/o",
+        "Autorécepteurs présynaptiques des neurones centraux",
+        "Inhibe la libération de l'histamine, de l'acétylcholine, de la noradrénaline, de la sérotonine"
+      ],
+      [
+        "H4",
+        "Gi/o",
+        "Cellules hématopoïétiques périphériques, moelle osseuse",
+        "Chimiotaxie des éosinophiles et mastocytes ; libération d'IL-16 des lymphocytes T CD8"
+      ]
+    ]
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/tableau-003",
+    "titre": "Principales molécules : spécialités et indications",
+    "colonnes": [
+      "Molécule",
+      "Famille",
+      "Spécialité",
+      "Indication / particularité"
+    ],
+    "lignes": [
+      [
+        "Hydroxyzine",
+        "Pipérazine",
+        "Atarax®",
+        "Antiallergique, anxiolytique"
+      ],
+      [
+        "Cyclizine",
+        "Pipérazine",
+        "Marzine®",
+        "Antiémétique (mal de transport), antimigraineux"
+      ],
+      [
+        "Diménhydrinate",
+        "Éthanolamine",
+        "Mercalm®, Nausicalm®",
+        "Mal des transports, nausées et vomissements"
+      ],
+      [
+        "Doxylamine",
+        "Éthanolamine",
+        "—",
+        "Insomnies"
+      ],
+      [
+        "Phéniramine",
+        "Alkylamine",
+        "Fervex®",
+        "États grippaux, rhinites, rhumes (avec paracétamol + vitamine C)"
+      ],
+      [
+        "Dexchlorphéniramine",
+        "Alkylamine",
+        "Polaramine®, Célestamine®, Histagan®",
+        "Manifestations allergiques ; + codéine : toux sèches"
+      ],
+      [
+        "Mépyramine",
+        "Éthylènediamine",
+        "Atussine®",
+        "Sirop antitussif (avec dextrométhorphane)"
+      ],
+      [
+        "Prométhazine",
+        "Phénothiazine",
+        "Phénergan®",
+        "Allergies, prurit, mal de transport"
+      ],
+      [
+        "Alimémazine",
+        "Phénothiazine",
+        "Théralène®",
+        "Antitussif, antiallergique, somnifère"
+      ],
+      [
+        "Oxomémazine",
+        "Phénothiazine",
+        "Toplexil®",
+        "Antitussif, antiallergique"
+      ],
+      [
+        "Cyproheptadine",
+        "Pipéridine",
+        "Périmex®, Heptaford®",
+        "Allergies, stimulant d'appétit"
+      ],
+      [
+        "Kétotifène",
+        "Pipéridine",
+        "Zalerg®",
+        "Rhinoconjonctivites allergiques"
+      ],
+      [
+        "Fexofénadine",
+        "Pipéridine (2e gén.)",
+        "Telfast®",
+        "Métabolite actif de la terfénadine"
+      ],
+      [
+        "Loratadine",
+        "Pipéridine (2e gén.)",
+        "Clarityne®",
+        "Allergies saisonnières, urticaire chronique"
+      ],
+      [
+        "Desloratadine",
+        "Pipéridine (2e gén.)",
+        "Deslor®",
+        "Métabolite actif de la loratadine, pas de sédation"
+      ],
+      [
+        "Rupatadine",
+        "Pipéridine (2e gén.)",
+        "Rupafin®",
+        "Rhinite allergique, urticaire ; CYP3A4 → desloratadine"
+      ]
+    ]
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/carte-001",
+    "type": "carte",
+    "titre": "Antihistaminiques H1",
+    "racine": {
+      "label": "Antihistaminiques H1",
+      "enfants": [
+        {
+          "label": "Histamine",
+          "enfants": [
+            {
+              "label": "Histidine → histamine (décarboxylase)",
+              "enfants": []
+            },
+            {
+              "label": "Récepteurs H1 (Gq/11), H2 (Gs), H3 et H4 (Gi/o)",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "1re génération",
+          "enfants": [
+            {
+              "label": "Pipérazines : cyclizine, buclizine, hydroxyzine",
+              "enfants": []
+            },
+            {
+              "label": "Éthanolamines : diphenhydramine, doxylamine, diménhydrinate",
+              "enfants": []
+            },
+            {
+              "label": "Alkylamines : phéniramine, dexchlorphéniramine",
+              "enfants": []
+            },
+            {
+              "label": "Éthylènediamines : mépyramine, tripelennamine",
+              "enfants": []
+            },
+            {
+              "label": "Phénothiazines : prométhazine, alimémazine, oxomémazine, méquitazine",
+              "enfants": []
+            },
+            {
+              "label": "Pipéridines : kétotifène, cyproheptadine",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "2e génération",
+          "enfants": [
+            {
+              "label": "Cétirizine, lévocétirizine (pipérazines)",
+              "enfants": []
+            },
+            {
+              "label": "Fexofénadine, loratadine, desloratadine, rupatadine (pipéridines)",
+              "enfants": []
+            },
+            {
+              "label": "Acrivastine (alkylamine)",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Mécanisme : agonistes inverses",
+          "enfants": []
+        },
+        {
+          "label": "RSA : amine tertiaire, chaîne de 2-3 atomes, 2 aryles",
+          "enfants": []
+        }
+      ]
+    }
+  }
+]

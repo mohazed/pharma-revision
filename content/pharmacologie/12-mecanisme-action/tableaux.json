@@ -1,0 +1,173 @@
+[
+  {
+    "id": "pharmacologie/12-mecanisme-action/tab-001",
+    "titre": "Affinité et activité intrinsèque",
+    "colonnes": [
+      "Paramètre",
+      "Définition",
+      "Expression",
+      "Interprétation"
+    ],
+    "lignes": [
+      [
+        "Affinité",
+        "Capacité de liaison du médicament à sa cible (puissance d'interaction)",
+        "pD2 = - log (CE50)",
+        "CE50 faible → pD2 élevé → plus puissant"
+      ],
+      [
+        "Activité intrinsèque",
+        "Capacité du ligand à produire un effet (efficacité)",
+        "α = EM / EMax (0 à 1)",
+        "1 : agoniste parfait ; 0–1 : partiel ; 0 : antagoniste"
+      ]
+    ]
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/tab-002",
+    "titre": "Exemples de médicaments selon la cible",
+    "colonnes": [
+      "Cible",
+      "Médicament",
+      "Usage",
+      "Action"
+    ],
+    "lignes": [
+      [
+        "Canaux sodiques",
+        "Procaïne",
+        "Anesthésie locale",
+        "Inhibition"
+      ],
+      [
+        "Canaux sodiques",
+        "Quinidine, lidocaïne, phénytoïne",
+        "Arythmie cardiaque",
+        "Inhibition"
+      ],
+      [
+        "Na+/K+-ATPase",
+        "Digitaliques (glucosides cardiotoniques)",
+        "Insuffisance cardiaque",
+        "Inhibition → effet inotrope positif"
+      ],
+      [
+        "Cyclooxygénase",
+        "Acide acétylsalicylique",
+        "Anti-inflammatoire",
+        "Inhibition irréversible ou lentement réversible"
+      ],
+      [
+        "Enzyme de conversion (angiotensine)",
+        "Captopril",
+        "Antihypertenseur",
+        "Inhibition réversible"
+      ],
+      [
+        "ARN polymérase",
+        "Rifampicine",
+        "Antibiotique",
+        "Inhibition irréversible"
+      ],
+      [
+        "Propriétés physico-chimiques",
+        "Antiacides ; huile de paraffine",
+        "—",
+        "Effet tampon ; pouvoir lubrifiant"
+      ]
+    ]
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/carte-001",
+    "type": "carte",
+    "titre": "Classification des cibles des médicaments",
+    "racine": {
+      "label": "Médicaments",
+      "enfants": [
+        {
+          "label": "Action non spécifique",
+          "enfants": []
+        },
+        {
+          "label": "Action spécifique",
+          "enfants": [
+            {
+              "label": "Récepteurs des médiateurs",
+              "enfants": [
+                {
+                  "label": "Membranaires",
+                  "enfants": [
+                    {
+                      "label": "Couplés aux protéines G",
+                      "enfants": []
+                    },
+                    {
+                      "label": "Récepteurs enzymes",
+                      "enfants": []
+                    },
+                    {
+                      "label": "Récepteurs canaux",
+                      "enfants": []
+                    }
+                  ]
+                },
+                {
+                  "label": "Intracellulaires",
+                  "enfants": [
+                    {
+                      "label": "Cytosoliques",
+                      "enfants": []
+                    },
+                    {
+                      "label": "Nucléaires",
+                      "enfants": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "Passage transmembranaire",
+              "enfants": [
+                {
+                  "label": "Canaux ioniques",
+                  "enfants": [
+                    {
+                      "label": "Sodiques",
+                      "enfants": []
+                    },
+                    {
+                      "label": "Potassiques",
+                      "enfants": []
+                    },
+                    {
+                      "label": "Calciques",
+                      "enfants": []
+                    }
+                  ]
+                },
+                {
+                  "label": "Pompes ioniques",
+                  "enfants": [
+                    {
+                      "label": "Dépendant de l'hydrolyse de l'ATP",
+                      "enfants": []
+                    },
+                    {
+                      "label": "Dépendant d'un mouvement d'ions",
+                      "enfants": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "Enzymes d'une voie métabolique",
+              "enfants": []
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

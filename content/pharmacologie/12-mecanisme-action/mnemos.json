@@ -1,0 +1,32 @@
+[
+  {
+    "id": "pharmacologie/12-mecanisme-action/mnemo-001",
+    "titre": "Valeurs de α",
+    "moyen": "« Un Parfait, Zéro Antagoniste, entre les deux c'est Partiel »",
+    "explication": "α = 1 : agoniste parfait ; α = 0 : antagoniste ; 0 < α < 1 : agoniste partiel."
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/mnemo-002",
+    "titre": "Pompe Na+/K+-ATPase",
+    "moyen": "« 3 sodas sortent, 2 cafés entrent »",
+    "explication": "3 Na+ (sodium) sortent, 2 K+ (potassium) entrent à chaque cycle."
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/mnemo-003",
+    "titre": "Les trois familles de cibles",
+    "moyen": "« REC : Récepteurs, Échanges, Catalyse »",
+    "explication": "Récepteurs des médiateurs ; Échanges transmembranaires (canaux et pompes) ; Catalyse (enzymes)."
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/mnemo-004",
+    "titre": "Cascade des digitaliques",
+    "moyen": "« Pompe bloquée, Sodium gonflé, Calcium monté, Cœur musclé »",
+    "explication": "Inhibition de la Na+/K+-ATPase → accumulation de Na+ → activation de l'échangeur Na+/Ca2+ → ↑ Ca++ → effet inotrope positif."
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/mnemo-005",
+    "titre": "Récepteurs intracellulaires",
+    "moyen": "« Le Cortisol reste au Cytosol, la Thyroïde et la vitamine D vont au Noyau »",
+    "explication": "Glucocorticoïdes : récepteurs cytosoliques ; hormones thyroïdiennes et vitamine D : récepteurs nucléaires."
+  }
+]

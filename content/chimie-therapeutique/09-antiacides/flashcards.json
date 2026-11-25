@@ -1,0 +1,284 @@
+[
+  {
+    "id": "chimie-therapeutique/09-antiacides/flashcard-001",
+    "recto": "Indications des antiacides (au sens large)",
+    "verso": "Troubles liés à l'hyperacidité gastrique : RGO, brûlures d'estomac, dyspepsie, ulcères gastro-duodénaux.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/flashcard-002",
+    "recto": "Définition de l'ulcère gastroduodénal",
+    "verso": "Lésion des muqueuses gastrique et duodénale avec perte de matière tissulaire et incapacité à cicatriser spontanément.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/flashcard-003",
+    "recto": "Causes de l'ulcère selon le cours",
+    "verso": "Excès de sécrétion d'acide gastrique ou diminution des facteurs protecteurs ; maladie principalement liée à Helicobacter pylori.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/flashcard-004",
+    "recto": "Base de la sécrétion gastrique",
+    "verso": "Fonctionnement de la pompe H+/K+ ATPase de la cellule pariétale (H+ sécrété contre K+, énergie de l'ATP).",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/flashcard-005",
+    "recto": "Devenir du HCO3- produit par la cellule pariétale",
+    "verso": "Rejeté dans le sang contre du Cl- pour maintenir le pH intracellulaire.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/flashcard-006",
+    "recto": "Sécrétion gastrique endocrine / exocrine",
+    "verso": "Endocrine : gastrine. Exocrine : HCl et facteur intrinsèque.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/flashcard-007",
+    "recto": "Facteurs agressifs de la muqueuse",
+    "verso": "Acidité, pepsine, AINS, tabac et alcool, Helicobacter pylori.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/flashcard-008",
+    "recto": "Facteurs protecteurs de la muqueuse",
+    "verso": "Mucus, bicarbonates, prostaglandines.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/flashcard-009",
+    "recto": "Les 4 groupes de médicaments antiacides",
+    "verso": "1. Anti-sécrétoires ; 2. Antiacides (neutralisants, à effet tampon) ; 3. Cytoprotecteurs (analogues de prostaglandines) ; 4. Topiques (pansements gastriques, sucralfates).",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/flashcard-010",
+    "recto": "Classes d'anti-sécrétoires gastriques",
+    "verso": "Anti-H2, IPP, anticholinergiques, analogues de la somatostatine.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/flashcard-011",
+    "recto": "Type d'antagonisme des anti-H2",
+    "verso": "Classique, sélectif (pas d'effet H1) et compétitif.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/flashcard-012",
+    "recto": "Chef de file des anti-H2",
+    "verso": "Cimétidine (Tagamet®), mise sur le marché en 1976 au Royaume-Uni.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/flashcard-013",
+    "recto": "Pourquoi la cimétidine est une « révolution thérapeutique »",
+    "verso": "Premier antiulcéreux réellement efficace, permettant d'éviter la chirurgie.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/flashcard-014",
+    "recto": "Noyau hétérocyclique de la cimétidine",
+    "verso": "Imidazole (5-méthyl-1H-imidazol-4-yl).",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/flashcard-015",
+    "recto": "Ranitidine : avantages sur la cimétidine",
+    "verso": "Moins d'effets secondaires (gynécomastie, hyperprolactinémie), action plus prolongée, 10 fois plus active.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/flashcard-016",
+    "recto": "Noms commerciaux de la ranitidine",
+    "verso": "Ranitec®, Azantac®.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/flashcard-017",
+    "recto": "Ranitidine : retrait",
+    "verso": "Retrait mondial en 2019-2020 (NDMA = N-nitrosodiméthylamine).",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/flashcard-018",
+    "recto": "RSA anti-H2 : noyau",
+    "verso": "L'imidazole n'est pas obligatoire ; on favorise un hétérocycle à 5 chaînons.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/flashcard-019",
+    "recto": "Hétérocycle de la ranitidine",
+    "verso": "Diméthylaminofurane.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/flashcard-020",
+    "recto": "Hétérocycle de la famotidine et de la nizatidine",
+    "verso": "Guanidino-thiazole.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/flashcard-021",
+    "recto": "Noyau de la roxatidine",
+    "verso": "Pipéridinométhylphénoxy.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/flashcard-022",
+    "recto": "RSA anti-H2 : chaîne latérale",
+    "verso": "Chaîne flexible de 4 atomes (carbonée ou isostère sulfuré) → activité antagoniste optimale.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/flashcard-023",
+    "recto": "RSA anti-H2 : azote terminal",
+    "verso": "Substitué par un groupement polaire non basique pour une activité maximale.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/flashcard-024",
+    "recto": "Famotidine : puissance",
+    "verso": "30 fois plus active que la cimétidine in vitro.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/flashcard-025",
+    "recto": "Famotidine : particularité de la chaîne latérale",
+    "verso": "Contient un groupe sulfonamide.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/flashcard-026",
+    "recto": "Indications des anti-H2",
+    "verso": "Ulcère gastrique ou duodénal évolutif, œsophagite par reflux, prévention du syndrome de Mendelson (anesthésiologie), états d'hypersécrétion gastrique.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/flashcard-027",
+    "recto": "Structure générale des IPP",
+    "verso": "Dérivés du pyridinyl méthyl sulfinyl benzimidazole (pyridine – groupe méthylsulfinyle – benzimidazole).",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/flashcard-028",
+    "recto": "Pompe à protons : définition",
+    "verso": "Protéine transmembranaire échangeant un proton contre un ion potassium.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/flashcard-029",
+    "recto": "Localisation de la pompe à protons",
+    "verso": "Pôle apical des cellules pariétales de la muqueuse gastrique (pH gastrique voisin de 1).",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/flashcard-030",
+    "recto": "Sous-unités de la pompe à protons",
+    "verso": "α : partie active ; β : rôle structural.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/flashcard-031",
+    "recto": "3 étapes du mécanisme des IPP",
+    "verso": "Accumulation, activation, inhibition.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/flashcard-032",
+    "recto": "IPP : étape d'accumulation",
+    "verso": "Absorption intestinale, passage sanguin, forme inactive (promédicament) dans le cytoplasme de la cellule pariétale.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/flashcard-033",
+    "recto": "IPP : étape d'activation",
+    "verso": "Grâce au pH acide, le sulfoxyde est transformé en sulfénamide (forme active).",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/flashcard-034",
+    "recto": "Cible du sulfénamide",
+    "verso": "Groupe thiol de la pompe à protons : liaison covalente irréversible.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/flashcard-035",
+    "recto": "Durée de l'inhibition par les IPP",
+    "verso": "Totale, environ 24 heures = délai de synthèse d'une nouvelle pompe.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/flashcard-036",
+    "recto": "Oméprazole : noms commerciaux",
+    "verso": "Prilosec®, Mopral®.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/flashcard-037",
+    "recto": "Ésoméprazole",
+    "verso": "Énantiomère (S) de l'oméprazole, Nexium®.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/flashcard-038",
+    "recto": "Pantoprazole : substituants",
+    "verso": "5-difluorométhoxy (benzimidazole), 3,4-diméthoxy (pyridine) ; Protonix®.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/flashcard-039",
+    "recto": "Lansoprazole : substituants",
+    "verso": "3-méthyl-4-(2,2,2-trifluoroéthoxy) sur la pyridine ; Prevacid®.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/flashcard-040",
+    "recto": "Rabéprazole : substituants",
+    "verso": "4-(3-méthoxypropoxy)-3-méthyl sur la pyridine ; Pariet®.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/flashcard-041",
+    "recto": "RSA IPP : position 4 de la pyridine",
+    "verso": "Le composé 4-méthylé est plusieurs fois moins actif que les analogues 4-méthoxy.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/flashcard-042",
+    "recto": "RSA IPP : position 6 de la pyridine",
+    "verso": "Sa substitution provoque une perte de l'activité.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/flashcard-043",
+    "recto": "RSA IPP : chaîne SO2–CH2–CH2",
+    "verso": "Dérivé plus stable mais inactif.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/flashcard-044",
+    "recto": "RSA IPP : substituants attracteurs d'électrons",
+    "verso": "Diminution de l'inhibition enzymatique.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/flashcard-045",
+    "recto": "Indications des IPP",
+    "verso": "Ulcère gastroduodénal (UGD), reflux gastro-œsophagien (RGO).",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/flashcard-046",
+    "recto": "Propriétés des IPP",
+    "verso": "↓ 95 % de la sécrétion acide, délai d'action prolongé, inhibition du CYP 2C19.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/flashcard-047",
+    "recto": "Interaction à surveiller avec les IPP",
+    "verso": "Clopidogrel (inhibition du CYP 2C19).",
+    "tags": []
+  }
+]

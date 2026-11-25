@@ -1,0 +1,423 @@
+[
+  {
+    "id": "pharmacologie/td/03-modele-bicompartimental-iv/calc-001",
+    "titre": "Constante d'élimination à partir de deux points terminaux",
+    "enonce": "Après injection IV, deux points de la phase terminale sont : C1 = {c1} µg/ml à t1 et C2 = {c2} µg/ml, {dt} min plus tard. Calculer ke (min⁻¹).",
+    "variables": {
+      "c1": {
+        "min": 0.5,
+        "max": 1,
+        "pas": 0.05,
+        "unite": "µg/ml"
+      },
+      "c2": {
+        "min": 0.1,
+        "max": 0.4,
+        "pas": 0.01,
+        "unite": "µg/ml"
+      },
+      "dt": {
+        "min": 60,
+        "max": 300,
+        "pas": 30,
+        "unite": "min"
+      }
+    },
+    "formule": "Math.log(c1 / c2) / dt",
+    "unite": "min⁻¹",
+    "decimales": 4,
+    "etapes": [
+      "ke = ln(C1/C2) / (t2 − t1)",
+      "ke = ln({c1}/{c2}) / {dt}"
+    ],
+    "rappel": "ke = −2,303 × pente de log C = f(t)"
+  },
+  {
+    "id": "pharmacologie/td/03-modele-bicompartimental-iv/calc-002",
+    "titre": "Constante de vitesse à partir de la pente en log",
+    "enonce": "La droite log C = f(t) a une pente de {p} min⁻¹. Calculer la constante de vitesse correspondante (min⁻¹).",
+    "variables": {
+      "p": {
+        "min": -0.03,
+        "max": -0.001,
+        "pas": 0.0005,
+        "unite": "min⁻¹"
+      }
+    },
+    "formule": "-2.303 * p",
+    "unite": "min⁻¹",
+    "decimales": 4,
+    "etapes": [
+      "k = −2,303 × pente",
+      "k = −2,303 × ({p})"
+    ],
+    "rappel": "pente = −k/2,303"
+  },
+  {
+    "id": "pharmacologie/td/03-modele-bicompartimental-iv/calc-003",
+    "titre": "Demi-vie à partir d'une constante de vitesse",
+    "enonce": "La constante de vitesse d'une phase (distribution ou élimination) vaut {k} min⁻¹. Calculer la demi-vie correspondante (min).",
+    "variables": {
+      "k": {
+        "min": 0.002,
+        "max": 0.08,
+        "pas": 0.001,
+        "unite": "min⁻¹"
+      }
+    },
+    "formule": "Math.LN2 / k",
+    "unite": "min",
+    "decimales": 1,
+    "etapes": [
+      "t1/2 = ln2 / k",
+      "t1/2 = 0,693 / {k}"
+    ],
+    "rappel": "t1/2 = ln2/kd ou ln2/ke"
+  },
+  {
+    "id": "pharmacologie/td/03-modele-bicompartimental-iv/calc-004",
+    "titre": "Ordonnée à l'origine E de la droite terminale",
+    "enonce": "Sur la phase terminale, la concentration est de {c} µg/ml à {t} min ; la demi-vie d'élimination est de {th} min. Calculer l'ordonnée à l'origine E de la droite extrapolée.",
+    "variables": {
+      "c": {
+        "min": 0.2,
+        "max": 1,
+        "pas": 0.05,
+        "unite": "µg/ml"
+      },
+      "t": {
+        "min": 60,
+        "max": 240,
+        "pas": 30,
+        "unite": "min"
+      },
+      "th": {
+        "min": 60,
+        "max": 240,
+        "pas": 10,
+        "unite": "min"
+      }
+    },
+    "formule": "c * Math.exp(Math.LN2 / th * t)",
+    "unite": "µg/ml",
+    "decimales": 2,
+    "etapes": [
+      "ke = 0,693 / {th}",
+      "E = C × e^(ke·t) = {c} × e^(ke × {t})"
+    ],
+    "rappel": "Droite terminale : C' = E·e^(−ke·t)"
+  },
+  {
+    "id": "pharmacologie/td/03-modele-bicompartimental-iv/calc-005",
+    "titre": "Résidu (méthode des résidus)",
+    "enonce": "À t = {t} min, la concentration expérimentale est de {cexp} µg/ml. La droite terminale a pour équation C' = {e}·e^(−{ke}·t). Calculer le résidu D = |C' − Cexp|.",
+    "variables": {
+      "t": {
+        "min": 1,
+        "max": 15,
+        "pas": 1,
+        "unite": "min"
+      },
+      "cexp": {
+        "min": 2,
+        "max": 8,
+        "pas": 0.1,
+        "unite": "µg/ml"
+      },
+      "e": {
+        "min": 0.5,
+        "max": 1.5,
+        "pas": 0.1,
+        "unite": "µg/ml"
+      },
+      "ke": {
+        "min": 0.002,
+        "max": 0.01,
+        "pas": 0.0005,
+        "unite": "min⁻¹"
+      }
+    },
+    "formule": "Math.abs(e * Math.exp(-ke * t) - cexp)",
+    "unite": "µg/ml",
+    "decimales": 2,
+    "etapes": [
+      "C' = {e} × e^(−{ke} × {t})",
+      "D = |C' − {cexp}|"
+    ],
+    "rappel": "Méthode des résidus : D = |C' − Cexp|"
+  },
+  {
+    "id": "pharmacologie/td/03-modele-bicompartimental-iv/calc-006",
+    "titre": "Constante de distribution à partir de deux résidus",
+    "enonce": "Deux résidus valent D1 = {d1} µg/ml et D2 = {d2} µg/ml à {dt} min d'intervalle. Calculer kd (min⁻¹).",
+    "variables": {
+      "d1": {
+        "min": 3,
+        "max": 6,
+        "pas": 0.1,
+        "unite": "µg/ml"
+      },
+      "d2": {
+        "min": 0.5,
+        "max": 2.5,
+        "pas": 0.1,
+        "unite": "µg/ml"
+      },
+      "dt": {
+        "min": 10,
+        "max": 40,
+        "pas": 5,
+        "unite": "min"
+      }
+    },
+    "formule": "-2.303 * (Math.log10(d2) - Math.log10(d1)) / dt",
+    "unite": "min⁻¹",
+    "decimales": 4,
+    "etapes": [
+      "kd = −2,303 × (log D2 − log D1) / (t2 − t1)",
+      "kd = −2,303 × (log {d2} − log {d1}) / {dt}"
+    ],
+    "rappel": "kd = −2,303 (log D2 − log D1)/(t2 − t1)"
+  },
+  {
+    "id": "pharmacologie/td/03-modele-bicompartimental-iv/calc-007",
+    "titre": "Concentration prédite par le modèle bicompartimental IV",
+    "enonce": "Cp = {d}·e^(−{kd}·t) + {e}·e^(−{ke}·t) (t en min). Calculer Cp à t = {t} min.",
+    "variables": {
+      "d": {
+        "min": 2,
+        "max": 6,
+        "pas": 0.5,
+        "unite": "µg/ml"
+      },
+      "kd": {
+        "min": 0.03,
+        "max": 0.08,
+        "pas": 0.005,
+        "unite": "min⁻¹"
+      },
+      "e": {
+        "min": 0.5,
+        "max": 2,
+        "pas": 0.1,
+        "unite": "µg/ml"
+      },
+      "ke": {
+        "min": 0.003,
+        "max": 0.01,
+        "pas": 0.0005,
+        "unite": "min⁻¹"
+      },
+      "t": {
+        "min": 5,
+        "max": 120,
+        "pas": 5,
+        "unite": "min"
+      }
+    },
+    "formule": "d * Math.exp(-kd * t) + e * Math.exp(-ke * t)",
+    "unite": "µg/ml",
+    "decimales": 3,
+    "etapes": [
+      "Terme de distribution : {d} × e^(−{kd} × {t})",
+      "Terme d'élimination : {e} × e^(−{ke} × {t})",
+      "Cp = somme des deux termes"
+    ],
+    "rappel": "Cp = D·e^(−kd·t) + E·e^(−ke·t)"
+  },
+  {
+    "id": "pharmacologie/td/03-modele-bicompartimental-iv/calc-008",
+    "titre": "AUC du modèle bicompartimental IV",
+    "enonce": "D = {d} µg/ml, kd = {kd} min⁻¹, E = {e} µg/ml, ke = {ke} min⁻¹. Calculer l'AUC0→∞ (µg·min/ml).",
+    "variables": {
+      "d": {
+        "min": 2,
+        "max": 6,
+        "pas": 0.5,
+        "unite": "µg/ml"
+      },
+      "kd": {
+        "min": 0.03,
+        "max": 0.08,
+        "pas": 0.005,
+        "unite": "min⁻¹"
+      },
+      "e": {
+        "min": 0.5,
+        "max": 2,
+        "pas": 0.1,
+        "unite": "µg/ml"
+      },
+      "ke": {
+        "min": 0.003,
+        "max": 0.01,
+        "pas": 0.0005,
+        "unite": "min⁻¹"
+      }
+    },
+    "formule": "d / kd + e / ke",
+    "unite": "µg·min/ml",
+    "decimales": 1,
+    "etapes": [
+      "D/kd = {d} / {kd}",
+      "E/ke = {e} / {ke}",
+      "AUC = D/kd + E/ke"
+    ],
+    "rappel": "AUC0→∞ = D/kd + E/ke"
+  },
+  {
+    "id": "pharmacologie/td/03-modele-bicompartimental-iv/calc-009",
+    "titre": "Aire d'un trapèze",
+    "enonce": "Deux prélèvements donnent C1 = {c1} µg/ml et C2 = {c2} µg/ml, séparés de {dt} min. Calculer l'aire du trapèze (µg·min/ml).",
+    "variables": {
+      "c1": {
+        "min": 1,
+        "max": 6,
+        "pas": 0.1,
+        "unite": "µg/ml"
+      },
+      "c2": {
+        "min": 0.1,
+        "max": 1,
+        "pas": 0.05,
+        "unite": "µg/ml"
+      },
+      "dt": {
+        "min": 5,
+        "max": 60,
+        "pas": 5,
+        "unite": "min"
+      }
+    },
+    "formule": "(c1 + c2) / 2 * dt",
+    "unite": "µg·min/ml",
+    "decimales": 2,
+    "etapes": [
+      "Aire = (C1 + C2)/2 × (t2 − t1)",
+      "Aire = ({c1} + {c2})/2 × {dt}"
+    ],
+    "rappel": "Méthode des trapèzes"
+  },
+  {
+    "id": "pharmacologie/td/03-modele-bicompartimental-iv/calc-010",
+    "titre": "Aire extrapolée au-delà du dernier prélèvement",
+    "enonce": "La dernière concentration mesurée est de {c} µg/ml ; ke = {ke} min⁻¹. Calculer l'aire extrapolée jusqu'à l'infini (µg·min/ml).",
+    "variables": {
+      "c": {
+        "min": 0.05,
+        "max": 0.5,
+        "pas": 0.01,
+        "unite": "µg/ml"
+      },
+      "ke": {
+        "min": 0.003,
+        "max": 0.01,
+        "pas": 0.0005,
+        "unite": "min⁻¹"
+      }
+    },
+    "formule": "c / ke",
+    "unite": "µg·min/ml",
+    "decimales": 1,
+    "etapes": [
+      "Aire résiduelle = Cdernière / ke",
+      "= {c} / {ke}"
+    ],
+    "rappel": "AUC(tdernier→∞) = Cdernière/ke"
+  },
+  {
+    "id": "pharmacologie/td/03-modele-bicompartimental-iv/calc-011",
+    "titre": "Clairance totale après injection IV",
+    "enonce": "On injecte {q} mg en IV ; l'AUC vaut {auc} µg·min/ml. Calculer la clairance (ml/min).",
+    "variables": {
+      "q": {
+        "min": 100,
+        "max": 500,
+        "pas": 50,
+        "unite": "mg"
+      },
+      "auc": {
+        "min": 100,
+        "max": 600,
+        "pas": 10,
+        "unite": "µg·min/ml"
+      }
+    },
+    "formule": "q * 1000 / auc",
+    "unite": "ml/min",
+    "decimales": 0,
+    "etapes": [
+      "Convertir la dose : Q = {q} mg = {q} × 1000 µg",
+      "Cl = Q / AUC = ({q} × 1000) / {auc}"
+    ],
+    "rappel": "Cl = Q(dose IV)/AUC"
+  },
+  {
+    "id": "pharmacologie/td/03-modele-bicompartimental-iv/calc-012",
+    "titre": "Volume de distribution (Vd = Cl/ke)",
+    "enonce": "La clairance vaut {cl} ml/min et ke = {ke} min⁻¹. Calculer le Vd en litres.",
+    "variables": {
+      "cl": {
+        "min": 200,
+        "max": 1000,
+        "pas": 10,
+        "unite": "ml/min"
+      },
+      "ke": {
+        "min": 0.003,
+        "max": 0.01,
+        "pas": 0.0005,
+        "unite": "min⁻¹"
+      }
+    },
+    "formule": "cl / ke / 1000",
+    "unite": "L",
+    "decimales": 1,
+    "etapes": [
+      "Vd = Cl / ke = {cl} / {ke} (en ml)",
+      "Diviser par 1000 → L"
+    ],
+    "rappel": "Vd = Cl/ke"
+  },
+  {
+    "id": "pharmacologie/td/03-modele-bicompartimental-iv/calc-013",
+    "titre": "Vd rapporté au poids (chaîne complète)",
+    "enonce": "Un sujet de {poids} kg reçoit {q} mg en IV. AUC = {auc} µg·min/ml ; demi-vie d'élimination = {th} min. Calculer le Vd en L/kg.",
+    "variables": {
+      "poids": {
+        "min": 50,
+        "max": 90,
+        "pas": 5,
+        "unite": "kg"
+      },
+      "q": {
+        "min": 100,
+        "max": 400,
+        "pas": 50,
+        "unite": "mg"
+      },
+      "auc": {
+        "min": 150,
+        "max": 500,
+        "pas": 10,
+        "unite": "µg·min/ml"
+      },
+      "th": {
+        "min": 60,
+        "max": 240,
+        "pas": 10,
+        "unite": "min"
+      }
+    },
+    "formule": "(q * 1000 / auc) / (Math.LN2 / th) / 1000 / poids",
+    "unite": "L/kg",
+    "decimales": 2,
+    "etapes": [
+      "Cl = ({q} × 1000) / {auc} (ml/min)",
+      "ke = 0,693 / {th}",
+      "Vd = Cl / ke, converti en L",
+      "Vd/kg = Vd / {poids}"
+    ],
+    "rappel": "Cl = Q/AUC ; Vd = Cl/ke"
+  }
+]

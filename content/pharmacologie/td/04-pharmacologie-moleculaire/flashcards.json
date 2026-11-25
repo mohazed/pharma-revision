@@ -1,0 +1,134 @@
+[
+  {
+    "id": "pharmacologie/td/04-pharmacologie-moleculaire/flash-001",
+    "recto": "Objectif du TD 4",
+    "verso": "Étudier sur jéjunum isolé de lapin l'effet de l'acétylcholine, puis l'influence de la scopolamine sur cet effet.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/td/04-pharmacologie-moleculaire/flash-002",
+    "recto": "Protocole avec scopolamine",
+    "verso": "Lavage, repos 2 min, 5 µg/ml de scopolamine, 3 min d'action, puis doses croissantes d'acétylcholine jusqu'à retrouver les mêmes effets.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/td/04-pharmacologie-moleculaire/flash-003",
+    "recto": "Effet maximal de l'acétylcholine (tableau I)",
+    "verso": "60 mm de contraction, atteint dès 90 µg/ml.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/td/04-pharmacologie-moleculaire/flash-004",
+    "recto": "Axes de la courbe dose-réponse demandée",
+    "verso": "Ordonnée : % de la réponse maximale ; abscisse : log décimal de la dose.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/td/04-pharmacologie-moleculaire/flash-005",
+    "recto": "% de réponse maximale",
+    "verso": "% = contraction (mm) / 60 mm × 100.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/td/04-pharmacologie-moleculaire/flash-006",
+    "recto": "CE50 de l'acétylcholine seule",
+    "verso": "60 µg/ml (30 mm = 50 %) ≈ 3,3 × 10⁻⁴ mol/L.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/td/04-pharmacologie-moleculaire/flash-007",
+    "recto": "CE50 de l'acétylcholine + scopolamine",
+    "verso": "120 µg/ml ≈ 6,6 × 10⁻⁴ mol/L.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/td/04-pharmacologie-moleculaire/flash-008",
+    "recto": "Définition du pD2",
+    "verso": "pD2 = − log CE50 (concentration molaire de l'agoniste donnant 50 % de l'effet maximal).",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/td/04-pharmacologie-moleculaire/flash-009",
+    "recto": "pD2 de l'acétylcholine seule",
+    "verso": "≈ 3,48.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/td/04-pharmacologie-moleculaire/flash-010",
+    "recto": "pD2 de l'acétylcholine en présence de scopolamine",
+    "verso": "≈ 3,18 (diminution de log 2 ≈ 0,30).",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/td/04-pharmacologie-moleculaire/flash-011",
+    "recto": "Rapport des doses équiactives (x)",
+    "verso": "x = CE50 avec antagoniste / CE50 sans antagoniste = 120/60 = 2.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/td/04-pharmacologie-moleculaire/flash-012",
+    "recto": "Allure des deux courbes",
+    "verso": "Déplacement parallèle vers la droite, effet maximal conservé (60 mm).",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/td/04-pharmacologie-moleculaire/flash-013",
+    "recto": "Phénomène observé",
+    "verso": "Antagonisme compétitif, surmontable par augmentation de la dose d'acétylcholine.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/td/04-pharmacologie-moleculaire/flash-014",
+    "recto": "Antagonisme compétitif : affinité et activité intrinsèque de l'agoniste",
+    "verso": "Affinité apparente diminuée ; activité intrinsèque (effet maximal) conservée.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/td/04-pharmacologie-moleculaire/flash-015",
+    "recto": "Définition du pAx",
+    "verso": "− log de la concentration molaire d'antagoniste qui oblige à multiplier par x la dose d'agoniste pour obtenir le même effet.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/td/04-pharmacologie-moleculaire/flash-016",
+    "recto": "Définition du pA2",
+    "verso": "pAx pour x = 2 : − log de la concentration molaire d'antagoniste qui double la dose d'agoniste nécessaire.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/td/04-pharmacologie-moleculaire/flash-017",
+    "recto": "Concentration molaire de scopolamine",
+    "verso": "5 µg/ml = 5 × 10⁻³ g/L / 384,3 ≈ 1,3 × 10⁻⁵ mol/L.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/td/04-pharmacologie-moleculaire/flash-018",
+    "recto": "pA2 de la scopolamine",
+    "verso": "≈ 4,89 (ici pAx = pA2 car x = 2).",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/td/04-pharmacologie-moleculaire/flash-019",
+    "recto": "Catégorie de la scopolamine",
+    "verso": "Parasympatholytique (antagoniste compétitif de l'acétylcholine, parasympathomimétique direct).",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/td/04-pharmacologie-moleculaire/flash-020",
+    "recto": "Poids moléculaires fournis",
+    "verso": "Acétylcholine 181,7 g/mol ; scopolamine 384,3 g/mol.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/td/04-pharmacologie-moleculaire/flash-021",
+    "recto": "ΔpD2 et x",
+    "verso": "pD2 (seul) − pD2 (avec antagoniste) = log x.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/td/04-pharmacologie-moleculaire/flash-022",
+    "recto": "pD2 vs pA2",
+    "verso": "pD2 caractérise l'agoniste ; pA2 caractérise l'antagoniste (son affinité pour le récepteur).",
+    "tags": []
+  }
+]

@@ -1,0 +1,254 @@
+[
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/flash-001",
+    "recto": "Buts des méthodes chromatographiques",
+    "verso": "Séparer les constituants d'un mélange, identifier chaque constituant, déterminer quantitativement sa concentration.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/flash-002",
+    "recto": "Principe général de la chromatographie",
+    "verso": "Suite continue d'équilibres entre une phase stationnaire fixe et une phase mobile qui contient les constituants et la parcourt à vitesse déterminée.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/flash-003",
+    "recto": "Condition de la séparation",
+    "verso": "Vitesses de migration des constituants suffisamment différentes.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/flash-004",
+    "recto": "Où se trouve la phase stationnaire ?",
+    "verso": "Emprisonnée dans une colonne ou fixée sur une surface plane.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/flash-005",
+    "recto": "Expérience de Tswett",
+    "verso": "Botaniste russe ; colonne en verre, éther de pétrole (phase mobile) et carbonate finement pulvérisé (phase stationnaire) pour séparer les pigments colorés de la chlorophylle.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/flash-006",
+    "recto": "Étymologie de « chromatographie »",
+    "verso": "Chroma = couleur, graphe = enregistrement : enregistrement graphique des couleurs (terme créé par Tswett).",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/flash-007",
+    "recto": "Kuhn et Lederer",
+    "verso": "Vers 1930 : reprise et développement de la chromatographie après 25 ans de sommeil.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/flash-008",
+    "recto": "Ismailov et Shraiber",
+    "verso": "1938 : mise au point de la CCM.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/flash-009",
+    "recto": "Martin et James",
+    "verso": "1941 : chromatographie liquide sur colonne ; 1952 : CPG ; prix Nobel 1962.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/flash-010",
+    "recto": "Klesper",
+    "verso": "1962 : chromatographie en phase supercritique.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/flash-011",
+    "recto": "Giddings et Kirkland",
+    "verso": "1968 : chromatographie liquide haute performance (HPLC).",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/flash-012",
+    "recto": "UPLC",
+    "verso": "Chromatographie ultra performance, développée en 2004.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/flash-013",
+    "recto": "Évolutions actuelles de la chromatographie",
+    "verso": "Colonnes capillaires en CPG, couplage à la spectrométrie de masse, chromatographie chirale, UPLC, pilotage par logiciels.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/flash-014",
+    "recto": "Usages de la chromatographie",
+    "verso": "Préparatif (quantités notables) et surtout analytique (petite quantité), qualitatif ou quantitatif.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/flash-015",
+    "recto": "4 critères de classification",
+    "verso": "Nature physique des phases, phénomène physique, forme de la phase stationnaire, modalités de migration.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/flash-016",
+    "recto": "Nature de la phase stationnaire",
+    "verso": "Solide finement pulvérisé ou liquide immobilisé sur un support.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/flash-017",
+    "recto": "CPL, CPS, CPG",
+    "verso": "Chromatographie en phase liquide, supercritique, gazeuse (désignation selon la phase mobile).",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/flash-018",
+    "recto": "De quoi dépend le phénomène physique ?",
+    "verso": "De la nature de la phase stationnaire.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/flash-019",
+    "recto": "Chromatographie d'adsorption",
+    "verso": "Phase stationnaire solide adsorbante ; chromatographie liquide-solide.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/flash-020",
+    "recto": "Chromatographie de partage",
+    "verso": "Phase stationnaire liquide non miscible à la phase mobile ; partage des constituants ; liquide-liquide.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/flash-021",
+    "recto": "Chromatographie par échange d'ions",
+    "verso": "Chromatographie ionique : résine échangeuse d'ions échangeant certains de ses ions avec ceux du mélange.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/flash-022",
+    "recto": "Chromatographie d'exclusion",
+    "verso": "Perméation sur gel : gel-tamis à pores retenant les molécules selon leur taille (molécules d'intérêt biologique).",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/flash-023",
+    "recto": "Chromatographie d'affinité",
+    "verso": "Molécule d'intérêt + ligand spécifique ; purification des molécules biologiques.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/flash-024",
+    "recto": "Chromatographie par échange de ligands",
+    "verso": "Repose sur l'échange de cations métalliques.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/flash-025",
+    "recto": "Chromatographie chirale",
+    "verso": "Adsorption ou partage sélectif d'énantiomères ; obtenir un seul isomère (l'autre inutile ou toxique).",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/flash-026",
+    "recto": "Chromatographie sur papier",
+    "verso": "Surface plane de cellulose qui maintient par imbibition une phase stationnaire liquide.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/flash-027",
+    "recto": "CCM : support et couche",
+    "verso": "Verre ou feuille d'aluminium ; couche de 0,2 à 2,5 mm de gel de silice, cellulose, alumine ou résines échangeuses d'ions.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/flash-028",
+    "recto": "Chromatographie par développement",
+    "verso": "Migration limitée : les constituants restent sur la phase stationnaire où ils sont localisés (papier, CCM).",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/flash-029",
+    "recto": "Chromatographie d'élution",
+    "verso": "Migration poursuivie jusqu'à la sortie des constituants, détectés en sortie de colonne ; identification sur l'éluat (CPL, CPS, CPG).",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/flash-030",
+    "recto": "Chromatogramme",
+    "verso": "Tracé représentant l'ensemble des pics des substances séparées ; un pic = une molécule.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/flash-031",
+    "recto": "Deux théories de la migration",
+    "verso": "Théorie des plateaux et théorie cinétique.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/flash-032",
+    "recto": "Équilibre de la théorie des plateaux",
+    "verso": "CS = K·CM (CS : phase stationnaire, CM : phase mobile, K : coefficient de partage).",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/flash-033",
+    "recto": "Signification de K selon la méthode",
+    "verso": "Extraction L-L : K = λ ; gaz-liquide : coefficient de partage ; adsorption : coefficient d'adsorption ; gel : constante de diffusion.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/flash-034",
+    "recto": "Plateau théorique",
+    "verso": "Étage fictif où l'équilibre se réalise entièrement ; théorie appliquée à une élution discontinue (fractions égales dv).",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/flash-035",
+    "recto": "Numérotation des plateaux",
+    "verso": "N plateaux de même hauteur, numérotés de haut en bas de 1 à N.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/flash-036",
+    "recto": "Trois moments de la théorie des plateaux",
+    "verso": "Dépôt de la solution, développement du chromatogramme, élution.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/flash-037",
+    "recto": "Plusieurs solutés dans la colonne",
+    "verso": "Chacun migre indépendamment à sa propre vitesse, selon son comportement vis-à-vis des deux phases.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/flash-038",
+    "recto": "Analyse qualitative / quantitative sur le chromatogramme",
+    "verso": "Qualitative : position des pics sur l'axe du temps ; quantitative : aires sous les pics.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/flash-039",
+    "recto": "Points d'inflexion de la courbe de Gauss",
+    "verso": "E et F, d'ordonnée 0,607 pour un maximum de 1,000.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/flash-040",
+    "recto": "Triangle AGH",
+    "verso": "Formé par les tangentes aux points d'inflexion et l'axe des abscisses ; isocèle, sommet à 1,214, base = 4σ.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/flash-041",
+    "recto": "Largeur à la base ω",
+    "verso": "ω = 4σ = 1,7δ.",
+    "tags": []
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/flash-042",
+    "recto": "Largeur à mi-hauteur δ",
+    "verso": "δ = 2,35σ.",
+    "tags": []
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": "pharmacologie/td/03-modele-bicompartimental-iv/mnemo-001",
+    "titre": "Ordre de la démarche",
+    "moyen": "« Trace, Termine, Résidue, Calcule »",
+    "explication": "Tracer en semi-log → exploiter la phase Terminale (E, ke) → méthode des Résidus (D, kd) → Calculer AUC, Cl puis Vd."
+  },
+  {
+    "id": "pharmacologie/td/03-modele-bicompartimental-iv/mnemo-002",
+    "titre": "Qui va avec qui dans l'équation",
+    "moyen": "« D comme Distribution, E comme Élimination »",
+    "explication": "Cp = D·e^(−kd·t) + E·e^(−ke·t) : D est associé à kd (phase rapide de distribution), E à ke (phase lente d'élimination)."
+  },
+  {
+    "id": "pharmacologie/td/03-modele-bicompartimental-iv/mnemo-003",
+    "titre": "Enchaînement des paramètres globaux",
+    "moyen": "« Q sur AUC donne Cl, Cl sur ke donne Vd »",
+    "explication": "Cl = Q/AUC puis Vd = Cl/ke (dose convertie en µg si l'AUC est en µg·min/ml)."
+  }
+]

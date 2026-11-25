@@ -1,0 +1,146 @@
+[
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/cas-001",
+    "titre": "Exploitation d'un chromatogramme",
+    "enonce": "Un étudiant analyse un mélange par chromatographie sur colonne avec un détecteur placé à la sortie. Le chromatogramme obtenu présente trois pics gaussiens bien séparés. Pour le deuxième pic, l'écart type est σ = 4 s.",
+    "questions": [
+      {
+        "type": "multiple",
+        "enonce": "Ce chromatogramme permet :",
+        "options": [
+          "D'identifier les constituants par la position des pics sur l'axe du temps",
+          "De mesurer la quantité des constituants par l'aire sous chaque pic",
+          "De dire que le mélange contient trois substances séparées",
+          "D'identifier les constituants par l'aire sous les pics",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "Position → identification ; aire → quantité ; un pic = une molécule.",
+        "difficulte": 1,
+        "origine": "genere",
+        "id": "chimie-analytique/06-chromatographie-partie-1/cas-001-q1"
+      },
+      {
+        "type": "unique",
+        "enonce": "La largeur à la base ω du deuxième pic vaut :",
+        "options": [
+          "16 s",
+          "9,4 s",
+          "6,8 s",
+          "8 s",
+          "4 s"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "ω = 4σ = 4 × 4 = 16 s.",
+        "difficulte": 2,
+        "origine": "genere",
+        "id": "chimie-analytique/06-chromatographie-partie-1/cas-001-q2"
+      },
+      {
+        "type": "unique",
+        "enonce": "Sa largeur à mi-hauteur δ vaut :",
+        "options": [
+          "9,4 s",
+          "16 s",
+          "6,8 s",
+          "4,8 s",
+          "2,4 s"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "δ = 2,35σ = 2,35 × 4 = 9,4 s.",
+        "difficulte": 2,
+        "origine": "genere",
+        "id": "chimie-analytique/06-chromatographie-partie-1/cas-001-q3"
+      },
+      {
+        "type": "unique",
+        "enonce": "Ce mode opératoire correspond à une chromatographie :",
+        "options": [
+          "D'élution",
+          "Par développement",
+          "Planaire",
+          "Sur papier",
+          "Sur couche mince"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Les constituants sortent de la colonne et sont détectés en sortie : chromatographie d'élution.",
+        "difficulte": 1,
+        "origine": "genere",
+        "id": "chimie-analytique/06-chromatographie-partie-1/cas-001-q4"
+      }
+    ]
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/cas-002",
+    "titre": "Choix d'une technique chromatographique",
+    "enonce": "Un laboratoire pharmaceutique doit : (1) purifier une molécule biologique grâce à un ligand spécifique, (2) séparer deux énantiomères d'un principe actif, (3) séparer des molécules d'intérêt biologique selon leur taille.",
+    "questions": [
+      {
+        "type": "unique",
+        "enonce": "Pour l'objectif (1), on choisit la chromatographie :",
+        "options": [
+          "D'affinité",
+          "Chirale",
+          "D'exclusion",
+          "D'adsorption",
+          "Par échange de ligands"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Molécule d'intérêt + ligand spécifique : chromatographie d'affinité, utilisée pour purifier les molécules biologiques.",
+        "difficulte": 1,
+        "origine": "genere",
+        "id": "chimie-analytique/06-chromatographie-partie-1/cas-002-q1"
+      },
+      {
+        "type": "multiple",
+        "enonce": "Pour l'objectif (2) :",
+        "options": [
+          "On utilise la chromatographie chirale",
+          "Elle repose sur l'adsorption ou le partage sélectif d'énantiomères",
+          "Elle permet d'obtenir un seul isomère",
+          "L'autre isomère peut être inutile ou toxique",
+          "Toutes les propositions sont correctes"
+        ],
+        "correctes": [
+          4
+        ],
+        "explication": "La chromatographie chirale sépare les énantiomères pour n'obtenir qu'un isomère, l'autre pouvant être inutile ou toxique.",
+        "difficulte": 2,
+        "origine": "genere",
+        "id": "chimie-analytique/06-chromatographie-partie-1/cas-002-q2"
+      },
+      {
+        "type": "multiple",
+        "enonce": "Pour l'objectif (3) :",
+        "options": [
+          "On utilise la chromatographie d'exclusion (perméation sur gel)",
+          "La phase stationnaire est un gel qui se comporte comme un tamis",
+          "Le coefficient K y est une constante de diffusion",
+          "La phase stationnaire est une résine échangeuse d'ions",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "Exclusion : gel-tamis à pores ; sur gel, K est une constante de diffusion. La résine échangeuse d'ions relève de l'échange d'ions.",
+        "difficulte": 2,
+        "origine": "genere",
+        "id": "chimie-analytique/06-chromatographie-partie-1/cas-002-q3"
+      }
+    ]
+  }
+]

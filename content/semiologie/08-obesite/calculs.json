@@ -1,0 +1,112 @@
+[
+  {
+    "id": "semiologie/08-obesite/calcul-001",
+    "titre": "Calcul de l'IMC",
+    "enonce": "Un adulte pèse {poids} kg et mesure {taille} m. Calculez son indice de masse corporelle.",
+    "variables": {
+      "poids": {
+        "min": 50,
+        "max": 140,
+        "pas": 1,
+        "unite": "kg"
+      },
+      "taille": {
+        "min": 1.5,
+        "max": 1.95,
+        "pas": 0.01,
+        "unite": "m"
+      }
+    },
+    "formule": "poids / (taille * taille)",
+    "unite": "kg/m²",
+    "decimales": 1,
+    "etapes": [
+      "Taille² = taille × taille",
+      "IMC = Poids (kg) ÷ Taille (m)²",
+      "Interpréter : < 18,5 maigreur ; 18,5–24,9 normal ; 25–29,9 surpoids ; 30–34,9 obésité I ; 35–39,9 obésité II ; ≥ 40 obésité III"
+    ],
+    "rappel": "IMC = Poids (kg) ÷ Taille (m)² (unité : kg/m²). Exemple du cours : 95 kg, 1,70 m → 32,9 kg/m², obésité de classe I."
+  },
+  {
+    "id": "semiologie/08-obesite/calcul-002",
+    "titre": "Tour de taille maximal (règle de la moitié de la taille)",
+    "enonce": "Un patient mesure {taille} cm. Selon la règle simple du cours, quel tour de taille ne doit-il pas dépasser ?",
+    "variables": {
+      "taille": {
+        "min": 150,
+        "max": 195,
+        "pas": 1,
+        "unite": "cm"
+      }
+    },
+    "formule": "taille / 2",
+    "unite": "cm",
+    "decimales": 1,
+    "etapes": [
+      "Tour de taille maximal = taille ÷ 2"
+    ],
+    "rappel": "« Votre tour de taille doit rester inférieur à la moitié de votre taille » : pour 1,70 m, moins de 85 cm."
+  },
+  {
+    "id": "semiologie/08-obesite/calcul-003",
+    "titre": "Objectif minimal de perte de poids (5 %)",
+    "enonce": "Un patient obèse pèse {poids} kg. Quelle perte de poids correspond à 5 % de son poids ?",
+    "variables": {
+      "poids": {
+        "min": 80,
+        "max": 160,
+        "pas": 1,
+        "unite": "kg"
+      }
+    },
+    "formule": "poids * 5 / 100",
+    "unite": "kg",
+    "decimales": 1,
+    "etapes": [
+      "Perte = poids × 5 ÷ 100"
+    ],
+    "rappel": "Perdre 5 à 10 % de son poids (soit 5 à 10 kg pour 100 kg) améliore déjà nettement la santé."
+  },
+  {
+    "id": "semiologie/08-obesite/calcul-004",
+    "titre": "Objectif haut de perte de poids (10 %)",
+    "enonce": "Un patient obèse pèse {poids} kg. Quel poids atteindrait-il après une perte de 10 % ?",
+    "variables": {
+      "poids": {
+        "min": 80,
+        "max": 160,
+        "pas": 1,
+        "unite": "kg"
+      }
+    },
+    "formule": "poids * 0.9",
+    "unite": "kg",
+    "decimales": 1,
+    "etapes": [
+      "Perte = poids × 10 ÷ 100",
+      "Poids final = poids − perte = poids × 0,9"
+    ],
+    "rappel": "Perdre 5 à 10 % de son poids améliore déjà nettement la santé ; il n'est pas nécessaire d'atteindre un IMC « normal »."
+  },
+  {
+    "id": "semiologie/08-obesite/calcul-005",
+    "titre": "Poids correspondant au seuil de l'obésité",
+    "enonce": "Un adulte mesure {taille} m. À partir de quel poids son IMC atteint-il le seuil de l'obésité (30 kg/m²) ?",
+    "variables": {
+      "taille": {
+        "min": 1.5,
+        "max": 1.95,
+        "pas": 0.01,
+        "unite": "m"
+      }
+    },
+    "formule": "30 * taille * taille",
+    "unite": "kg",
+    "decimales": 1,
+    "etapes": [
+      "IMC = Poids ÷ Taille² donc Poids = IMC × Taille²",
+      "Poids seuil = 30 × taille²"
+    ],
+    "rappel": "Obésité = IMC ≥ 30 kg/m² ; IMC = Poids (kg) ÷ Taille (m)²."
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "terme": "Bain à organe",
+    "definition": "Dispositif où un organe isolé (ici un jéjunum de lapin) est maintenu pour mesurer sa réponse (contraction) à des doses croissantes de substances.",
+    "cours": "pharmacologie/td/04-pharmacologie-moleculaire"
+  },
+  {
+    "terme": "Courbe dose-réponse",
+    "definition": "Représentation de la réponse en pourcentage de la réponse maximale en fonction du logarithme décimal de la dose.",
+    "cours": "pharmacologie/td/04-pharmacologie-moleculaire"
+  },
+  {
+    "terme": "Réponse maximale (Emax)",
+    "definition": "Effet le plus élevé obtenu avec l'agoniste ; dans le TD 4, 60 mm de contraction du jéjunum.",
+    "cours": "pharmacologie/td/04-pharmacologie-moleculaire"
+  },
+  {
+    "terme": "CE50",
+    "definition": "Concentration d'agoniste produisant 50 % de la réponse maximale ; 60 µg/ml pour l'acétylcholine seule dans le TD 4.",
+    "cours": "pharmacologie/td/04-pharmacologie-moleculaire"
+  },
+  {
+    "terme": "pD2",
+    "definition": "Moins le logarithme de la CE50 molaire d'un agoniste ; ≈ 3,48 pour l'acétylcholine seule et ≈ 3,18 en présence de scopolamine (TD 4).",
+    "cours": "pharmacologie/td/04-pharmacologie-moleculaire"
+  },
+  {
+    "terme": "pAx",
+    "definition": "Moins le logarithme de la concentration molaire d'antagoniste qui oblige à multiplier par x la dose d'agoniste pour obtenir le même effet.",
+    "cours": "pharmacologie/td/04-pharmacologie-moleculaire"
+  },
+  {
+    "terme": "pA2",
+    "definition": "pAx pour x = 2 : moins le logarithme de la concentration molaire d'antagoniste qui double la dose d'agoniste ; ≈ 4,89 pour la scopolamine (TD 4).",
+    "cours": "pharmacologie/td/04-pharmacologie-moleculaire"
+  },
+  {
+    "terme": "Rapport des doses équiactives",
+    "definition": "Rapport entre la dose d'agoniste nécessaire en présence et en absence d'antagoniste pour le même effet ; x = 2 dans le TD 4.",
+    "cours": "pharmacologie/td/04-pharmacologie-moleculaire"
+  },
+  {
+    "terme": "Antagonisme compétitif",
+    "definition": "Antagonisme surmontable : déplacement parallèle vers la droite de la courbe dose-réponse de l'agoniste, sans diminution de l'effet maximal.",
+    "cours": "pharmacologie/td/04-pharmacologie-moleculaire"
+  },
+  {
+    "terme": "Parasympathomimétique direct",
+    "definition": "Substance qui reproduit les effets du système parasympathique ; l'acétylcholine dans le TD 4.",
+    "cours": "pharmacologie/td/04-pharmacologie-moleculaire"
+  },
+  {
+    "terme": "Parasympatholytique",
+    "definition": "Substance qui s'oppose aux effets parasympathiques ; la scopolamine, antagoniste compétitif de l'acétylcholine (TD 4).",
+    "cours": "pharmacologie/td/04-pharmacologie-moleculaire"
+  },
+  {
+    "terme": "Scopolamine",
+    "definition": "Antagoniste compétitif de l'acétylcholine, parasympatholytique ; poids moléculaire 384,3 g/mol (TD 4).",
+    "cours": "pharmacologie/td/04-pharmacologie-moleculaire"
+  }
+]

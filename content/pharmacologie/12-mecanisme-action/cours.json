@@ -1,0 +1,13 @@
+{
+  "id": "pharmacologie/12-mecanisme-action",
+  "module": "pharmacologie",
+  "ordre": 12,
+  "titre": "Pharmacodynamie : mécanisme d'action des médicaments",
+  "type": "cours",
+  "source": {
+    "driveId": "1B21nQ2PvXuxElT50_eEPopUu6DxULexk",
+    "fichier": "11. Mécanisme d'action des médicaments.pptx",
+    "modifiedTime": "2026-11-23T07:40:21.841Z"
+  },
+  "resume": "Effet pharmacodynamique, caractéristiques de la liaison médicament-cible (affinité pD2, CE50, activité intrinsèque α, agonistes et antagonistes), action spécifique ou non spécifique, et cibles moléculaires : récepteurs (RCPG, enzymes, canaux, intracellulaires), canaux et pompes ioniques, enzymes."
+}

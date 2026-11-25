@@ -1,0 +1,171 @@
+[
+  {
+    "id": "chimie-therapeutique/09-antiacides/cas-001",
+    "titre": "Patient ulcéreux sous clopidogrel",
+    "enonce": "Un homme de 62 ans, traité par clopidogrel, présente un ulcère gastroduodénal. Le médecin envisage un inhibiteur de la pompe à protons.",
+    "questions": [
+      {
+        "id": "chimie-therapeutique/09-antiacides/cas-001-q1",
+        "type": "multiple",
+        "enonce": "Quelle propriété des IPP impose la prudence dans ce contexte ?",
+        "options": [
+          "Inhibition du CYP 2C19",
+          "Antagonisme compétitif H2",
+          "Effet tampon",
+          "Inhibition du CYP 3A4",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Le cours signale l'inhibition du CYP 2C19 par les IPP : attention à l'association avec le clopidogrel.",
+        "origine": "genere"
+      },
+      {
+        "id": "chimie-therapeutique/09-antiacides/cas-001-q2",
+        "type": "multiple",
+        "enonce": "Concernant l'action des IPP chez ce patient :",
+        "options": [
+          "Ils diminuent d'environ 95 % la sécrétion acide",
+          "Leur délai d'action est prolongé",
+          "L'inhibition dure environ 24 heures",
+          "Ils neutralisent directement l'HCl déjà sécrété",
+          "Ils agissent sur le récepteur H1"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "IPP : ↓ 95 % de la sécrétion acide, délai d'action prolongé, inhibition totale d'environ 24 h. Ils ne neutralisent pas l'acide et n'agissent pas sur H1.",
+        "origine": "genere"
+      },
+      {
+        "id": "chimie-therapeutique/09-antiacides/cas-001-q3",
+        "type": "multiple",
+        "enonce": "Parmi ces facteurs, lesquels sont agressifs pour sa muqueuse ?",
+        "options": [
+          "Tabac",
+          "AINS",
+          "Helicobacter pylori",
+          "Prostaglandines",
+          "Bicarbonates"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "Tabac, AINS et H. pylori sont des facteurs agressifs ; prostaglandines et bicarbonates sont protecteurs.",
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/cas-002",
+    "titre": "Prémédication anesthésique",
+    "enonce": "Une femme de 35 ans doit subir une intervention chirurgicale programmée. L'anesthésiste prescrit un anti-H2 la veille de l'intervention.",
+    "questions": [
+      {
+        "id": "chimie-therapeutique/09-antiacides/cas-002-q1",
+        "type": "multiple",
+        "enonce": "Quel est l'objectif de cette prescription selon le cours ?",
+        "options": [
+          "Prévenir le syndrome de Mendelson",
+          "Traiter un ulcère évolutif",
+          "Inhiber le CYP 2C19",
+          "Protéger la muqueuse par un pansement",
+          "Stimuler la sécrétion de gastrine"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "En anesthésiologie, les anti-H2 sont prescrits avant l'intervention pour prévenir le syndrome de Mendelson.",
+        "origine": "genere"
+      },
+      {
+        "id": "chimie-therapeutique/09-antiacides/cas-002-q2",
+        "type": "multiple",
+        "enonce": "L'anesthésiste hésite entre cimétidine et ranitidine. Selon le cours :",
+        "options": [
+          "La ranitidine est 10 fois plus active",
+          "La ranitidine agit de manière plus prolongée",
+          "La cimétidine provoque plus de gynécomastie et d'hyperprolactinémie",
+          "La cimétidine est 30 fois plus active",
+          "La ranitidine possède un noyau imidazole"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "La ranitidine est 10 fois plus active, plus prolongée et mieux tolérée ; elle possède un noyau furane, non imidazole.",
+        "origine": "genere"
+      },
+      {
+        "id": "chimie-therapeutique/09-antiacides/cas-002-q3",
+        "type": "multiple",
+        "enonce": "Le mécanisme des anti-H2 est un antagonisme :",
+        "options": [
+          "Compétitif",
+          "Sélectif vis-à-vis de H2",
+          "Covalent irréversible",
+          "Non sélectif H1/H2",
+          "Allostérique"
+        ],
+        "correctes": [
+          0,
+          1
+        ],
+        "explication": "Antagonisme classique, sélectif (pas d'effet H1) et compétitif.",
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "chimie-therapeutique/09-antiacides/cas-003",
+    "titre": "Reflux gastro-œsophagien chez un patient jeune",
+    "enonce": "Un étudiant de 24 ans se plaint de brûlures d'estomac et de remontées acides. Un diagnostic de RGO est posé et un traitement par oméprazole (Mopral®) est débuté.",
+    "questions": [
+      {
+        "id": "chimie-therapeutique/09-antiacides/cas-003-q1",
+        "type": "multiple",
+        "enonce": "Concernant l'oméprazole :",
+        "options": [
+          "C'est un dérivé pyridinyl méthyl sulfinyl benzimidazole",
+          "C'est un promédicament",
+          "Il est activé par le pH acide en sulfénamide",
+          "C'est un antagoniste H2",
+          "Son énantiomère (S) est commercialisé sous le nom Nexium®"
+        ],
+        "correctes": [
+          0,
+          1,
+          2,
+          4
+        ],
+        "explication": "L'oméprazole est un IPP (promédicament activé en sulfénamide en milieu acide) ; l'ésoméprazole (S) est le Nexium®.",
+        "origine": "genere"
+      },
+      {
+        "id": "chimie-therapeutique/09-antiacides/cas-003-q2",
+        "type": "multiple",
+        "enonce": "Le sulfénamide formé :",
+        "options": [
+          "Possède un soufre réactif",
+          "Se lie au groupe thiol de la pompe",
+          "Forme une liaison covalente irréversible",
+          "Se lie à la sous-unité β, partie active",
+          "Est éliminé avant d'agir"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "Le soufre réactif forme une liaison covalente irréversible avec le thiol de la pompe ; la partie active est la sous-unité α.",
+        "origine": "genere"
+      }
+    ]
+  }
+]

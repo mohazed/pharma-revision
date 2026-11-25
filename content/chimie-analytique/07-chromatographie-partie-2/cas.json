@@ -1,0 +1,229 @@
+[
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/cas-001",
+    "titre": "Interprétation d'un chromatogramme au contrôle qualité",
+    "enonce": "Au laboratoire de contrôle d'un médicament, l'analyse par chromatographie liquide d'un mélange de deux principes actifs A et B donne : tM = 1 min ; TRA = 5 min ; TRB = 6 min ; largeurs à la base WA = 0,5 min et WB = 0,5 min. Le débit de la phase mobile est de 1 mL/min.",
+    "questions": [
+      {
+        "id": "chimie-analytique/07-chromatographie-partie-2/cas-001-q1",
+        "type": "unique",
+        "enonce": "Le facteur de rétention de A vaut :",
+        "options": [
+          "5",
+          "4",
+          "6",
+          "0,25",
+          "1"
+        ],
+        "correctes": [
+          1
+        ],
+        "explication": "K'A = (5 − 1)/1 = 4.",
+        "difficulte": 1,
+        "origine": "genere"
+      },
+      {
+        "id": "chimie-analytique/07-chromatographie-partie-2/cas-001-q2",
+        "type": "unique",
+        "enonce": "Le facteur de sélectivité α vaut :",
+        "options": [
+          "1,2",
+          "1,25",
+          "0,8",
+          "1",
+          "5"
+        ],
+        "correctes": [
+          1
+        ],
+        "explication": "K'B = (6 − 1)/1 = 5 ; α = K'B/K'A = 5/4 = 1,25 (ou T'RB/T'RA = 5/4).",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "chimie-analytique/07-chromatographie-partie-2/cas-001-q3",
+        "type": "unique",
+        "enonce": "La résolution entre A et B vaut :",
+        "options": [
+          "1",
+          "1,5",
+          "2",
+          "4",
+          "0,5"
+        ],
+        "correctes": [
+          2
+        ],
+        "explication": "R = 2 (6 − 5)/(0,5 + 0,5) = 2.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "chimie-analytique/07-chromatographie-partie-2/cas-001-q4",
+        "type": "multiple",
+        "enonce": "Concernant cette séparation :",
+        "options": [
+          "La résolution est supérieure à la valeur optimale 1,5",
+          "Le nombre de plateaux théoriques calculé pour B est de 2304",
+          "Le volume de rétention de B est de 6 mL",
+          "K'A est dans l'intervalle recommandé en chromatographie liquide (5 à 10)",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "R = 2 > 1,5. NB = 16 × 36/0,25 = 2304. VRB = TR · D = 6 mL. K'A = 4 est inférieur à 5, donc hors de l'intervalle 5–10.",
+        "difficulte": 3,
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/cas-002",
+    "titre": "Optimisation d'une colonne par la courbe de Van Deemter",
+    "enonce": "Un analyste mesure l'efficacité d'une colonne de 150 mm à plusieurs débits pour un même composé. Il obtient les coefficients de Van Deemter : A = 0,01 cm, B = 0,09 cm²/s et C = 0,01 s.",
+    "questions": [
+      {
+        "id": "chimie-analytique/07-chromatographie-partie-2/cas-002-q1",
+        "type": "unique",
+        "enonce": "La vitesse optimale de la phase mobile vaut :",
+        "options": [
+          "0,33 cm/s",
+          "3 cm/s",
+          "9 cm/s",
+          "0,9 cm/s",
+          "30 cm/s"
+        ],
+        "correctes": [
+          1
+        ],
+        "explication": "u opt = √(B/C) = √(0,09/0,01) = √9 = 3 cm/s.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "chimie-analytique/07-chromatographie-partie-2/cas-002-q2",
+        "type": "unique",
+        "enonce": "La hauteur équivalente à un plateau théorique minimale vaut :",
+        "options": [
+          "0,01 cm",
+          "0,03 cm",
+          "0,07 cm",
+          "0,04 cm",
+          "0,10 cm"
+        ],
+        "correctes": [
+          2
+        ],
+        "explication": "H min = A + 2√(BC) = 0,01 + 2√(0,0009) = 0,01 + 0,06 = 0,07 cm.",
+        "difficulte": 3,
+        "origine": "genere"
+      },
+      {
+        "id": "chimie-analytique/07-chromatographie-partie-2/cas-002-q3",
+        "type": "multiple",
+        "enonce": "À la vitesse optimale :",
+        "options": [
+          "La HEPT est minimale",
+          "Le nombre de plateaux est maximal",
+          "L'efficacité est la meilleure",
+          "Le nombre de plateaux de la colonne de 15 cm vaut environ 214",
+          "Toutes les propositions sont correctes"
+        ],
+        "correctes": [
+          4
+        ],
+        "explication": "u opt → h min → N max → meilleure efficacité. N = L/h = 15/0,07 ≈ 214.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "chimie-analytique/07-chromatographie-partie-2/cas-002-q4",
+        "type": "multiple",
+        "enonce": "Pour diminuer encore la contribution du terme C, l'analyste peut :",
+        "options": [
+          "Utiliser des particules de plus petit diamètre",
+          "Réduire l'épaisseur de la phase stationnaire",
+          "Utiliser une colonne régulièrement remplie et bien tassée",
+          "Augmenter fortement le débit de la phase mobile",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "Les retards d'équilibre (terme C) sont accentués par un débit rapide ; on les atténue en réduisant dp, l'épaisseur de phase stationnaire et avec une colonne bien tassée.",
+        "difficulte": 2,
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/cas-003",
+    "titre": "Pic asymétrique lors d'un dosage",
+    "enonce": "Lors d'un dosage chromatographique, un analyste observe un pic dont la montée est nettement plus rapide que la descente. Il mesure le facteur d'asymétrie et le facteur de traînée.",
+    "questions": [
+      {
+        "id": "chimie-analytique/07-chromatographie-partie-2/cas-003-q1",
+        "type": "multiple",
+        "enonce": "Ce pic correspond à :",
+        "options": [
+          "Un isotherme convexe",
+          "Une phase stationnaire saturée",
+          "Fa > 1 et Ft > 1",
+          "Un isotherme concave",
+          "Une situation idéale"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "Montée plus rapide que la descente : isotherme convexe, phase stationnaire saturée, Fa > 1 et Ft > 1.",
+        "difficulte": 2,
+        "origine": "genere"
+      },
+      {
+        "id": "chimie-analytique/07-chromatographie-partie-2/cas-003-q2",
+        "type": "unique",
+        "enonce": "Fa et Ft doivent être mesurés :",
+        "options": [
+          "À 10 % de la hauteur du pic",
+          "À mi-hauteur",
+          "À la base du pic",
+          "Au sommet du pic",
+          "À 60 % de la hauteur"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Le cours précise que Fa et Ft sont mesurés à 10 % de la hauteur du pic.",
+        "difficulte": 1,
+        "origine": "genere"
+      },
+      {
+        "id": "chimie-analytique/07-chromatographie-partie-2/cas-003-q3",
+        "type": "multiple",
+        "enonce": "Pour calculer N sur ce pic, l'analyste :",
+        "options": [
+          "Préfère souvent la largeur à mi-hauteur δ",
+          "Utilise N = 5,54 TR²/δ²",
+          "Sait que le pic est souvent plus symétrique à mi-hauteur qu'à sa base",
+          "Utilise N = 16 TR²/δ²",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "La mesure de δ est souvent préférable car le pic est plus symétrique à mi-hauteur ; avec δ, N = 5,54 TR²/δ² (le coefficient 16 s'applique avec w).",
+        "difficulte": 2,
+        "origine": "genere"
+      }
+    ]
+  }
+]

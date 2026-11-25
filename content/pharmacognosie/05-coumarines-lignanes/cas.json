@@ -1,0 +1,301 @@
+[
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/cas-001",
+    "titre": "Psoriasis et photosensibilisation",
+    "enonce": "Un homme de 40 ans atteint de psoriasis est orienté vers une PUVA-thérapie. Il demande au pharmacien d'où viennent les molécules utilisées et s'il peut utiliser un parfum à la bergamote avant de s'exposer au soleil.",
+    "questions": [
+      {
+        "id": "pharmacognosie/05-coumarines-lignanes/cas-001-q1",
+        "type": "unique",
+        "enonce": "La PUVA-thérapie repose sur l'association :",
+        "options": [
+          "Furocoumarines photosensibilisantes + UVA",
+          "Pyranocoumarines + UVA",
+          "Furocoumarines + UVB",
+          "Esculoside + UVA",
+          "Podophyllotoxine + UVA"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Certaines furocoumarines photosensibilisantes sont associées aux UVA (PUVA) dans le psoriasis et le vitiligo.",
+        "source": {
+          "page": 19,
+          "extrait": "Association aux UVA dans la PUVA-thérapie"
+        },
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacognosie/05-coumarines-lignanes/cas-001-q2",
+        "type": "multiple",
+        "enonce": "Concernant l'huile essentielle de bergamote :",
+        "options": [
+          "Elle contient du bergaptène",
+          "Elle contient de la bergamottine",
+          "Ces furocoumarines sont linéaires",
+          "Elle possède un pouvoir photosensibilisant",
+          "Ces furocoumarines appartiennent à la fraction volatile"
+        ],
+        "correctes": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explication": "Bergaptène et bergamottine sont des furocoumarines linéaires de la fraction non volatile, responsables du pouvoir photosensibilisant.",
+        "source": {
+          "page": 30,
+          "extrait": "Bergamottine : furocoumarine linéaire."
+        },
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacognosie/05-coumarines-lignanes/cas-001-q3",
+        "type": "unique",
+        "enonce": "Le risque en cas de contact cutané avec une plante à furocoumarines suivi d'une exposition aux UVA est :",
+        "options": [
+          "Une dermite aiguë",
+          "Une hépatite",
+          "Une hémorragie",
+          "Un blocage de la mitose",
+          "Une hypotension"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Contact avec la plante + exposition aux UVA = risque de dermites aiguës.",
+        "source": {
+          "page": 21,
+          "extrait": "Contact avec la plante + exposition aux UVA = risque de dermites aiguës."
+        },
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/cas-002",
+    "titre": "Jambes lourdes",
+    "enonce": "Une femme de 50 ans se plaint d'une sensation de jambes lourdes. Elle hésite entre le mélilot et le marronnier d'Inde et a entendu parler de foin de mélilot moisi dangereux pour le bétail.",
+    "questions": [
+      {
+        "id": "pharmacognosie/05-coumarines-lignanes/cas-002-q1",
+        "type": "multiple",
+        "enonce": "Concernant le mélilot :",
+        "options": [
+          "Usage traditionnel dans les symptômes mineurs de l'insuffisance veineuse",
+          "Drogue : parties aériennes fleuries séchées",
+          "Contient 0,3 à 0,9 % de coumarine",
+          "Le mélilotoside est un précurseur de la coumarine",
+          "C'est une drogue à coumarines complexes"
+        ],
+        "correctes": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explication": "Le mélilot est une drogue à coumarines simples.",
+        "source": {
+          "page": 28,
+          "extrait": "Coumarine (0,3 à 0,9 %) : constituant aromatique caractéristique."
+        },
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacognosie/05-coumarines-lignanes/cas-002-q2",
+        "type": "unique",
+        "enonce": "Le mélilot moisi est associé à une toxicité :",
+        "options": [
+          "Hémorragique",
+          "Photosensibilisante",
+          "Neurologique",
+          "Rénale",
+          "Cancérogène par aflatoxines uniquement"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Le cours mentionne la toxicité hémorragique du mélilot moisi (lien avec l'acénocoumarol, Sintrom®).",
+        "source": {
+          "page": 29,
+          "extrait": "Toxicité hémorragique du mélilot moisi"
+        },
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacognosie/05-coumarines-lignanes/cas-002-q3",
+        "type": "unique",
+        "enonce": "Les préparations de marronnier d'Inde utilisées traditionnellement dans l'insuffisance veineuse chronique proviennent :",
+        "options": [
+          "Des graines, riches en escine",
+          "De l'écorce, riche en escine",
+          "Des feuilles, riches en esculine",
+          "Des fleurs, riches en fraxine",
+          "De l'écorce, riche en coumarine libre"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Il faut distinguer l'écorce (esculine, fraxine) des préparations de graines riches en escine.",
+        "source": {
+          "page": 27,
+          "extrait": "À distinguer des préparations de graines de marronnier, riches en escine"
+        },
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/cas-003",
+    "titre": "Soutien hépatique et dyspepsie",
+    "enonce": "Un patient de 55 ans se plaint d'une sensation de plénitude après les repas et demande une plante « pour le foie ».",
+    "questions": [
+      {
+        "id": "pharmacognosie/05-coumarines-lignanes/cas-003-q1",
+        "type": "unique",
+        "enonce": "La drogue à lignanes traditionnellement utilisée pour soutenir la fonction hépatique est :",
+        "options": [
+          "Le chardon-Marie",
+          "La podophylle",
+          "Le khella",
+          "Le mélilot",
+          "La fève de Tonka"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Chardon-Marie : utilisation traditionnelle pour soutenir la fonction hépatique.",
+        "source": {
+          "page": 44,
+          "extrait": "Utilisation traditionnelle pour soutenir la fonction hépatique."
+        },
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacognosie/05-coumarines-lignanes/cas-003-q2",
+        "type": "multiple",
+        "enonce": "Concernant le chardon-Marie :",
+        "options": [
+          "Silybum marianum, Asteraceae",
+          "Drogue : akènes débarrassés de leur aigrette",
+          "Contient la silymarine, complexe de flavonolignanes",
+          "Soulage la dyspepsie et la sensation de plénitude",
+          "Drogue : rhizome séché"
+        ],
+        "correctes": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explication": "La drogue est constituée des fruits (akènes), pas du rhizome.",
+        "source": {
+          "page": 44,
+          "extrait": "Drogue : Fruits mûrs et séchés (akènes), débarrassés de leur aigrette"
+        },
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacognosie/05-coumarines-lignanes/cas-003-q3",
+        "type": "multiple",
+        "enonce": "Les propriétés attribuées à la silymarine sont :",
+        "options": [
+          "Hépatoprotectrices",
+          "Antioxydantes",
+          "Anti-inflammatoires",
+          "Antifibrosantes (expérimentalement)",
+          "Antimitotiques par inhibition de la tubuline"
+        ],
+        "correctes": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explication": "L'activité antimitotique est celle de la podophyllotoxine.",
+        "source": {
+          "page": 44,
+          "extrait": "Hépatoprotectrices, antioxydantes, anti-inflammatoires et activités antifibrosantes rapportées expérimentalement."
+        },
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "pharmacognosie/05-coumarines-lignanes/cas-004",
+    "titre": "Exposition à la podophylle",
+    "enonce": "Un étudiant cueille un rhizome de podophylle d'Amérique pensant préparer une tisane. Le pharmacien l'en dissuade.",
+    "questions": [
+      {
+        "id": "pharmacognosie/05-coumarines-lignanes/cas-004-q1",
+        "type": "multiple",
+        "enonce": "Concernant la podophylle :",
+        "options": [
+          "Podophyllum peltatum, Berberidaceae",
+          "Plante toxique en raison de ses lignanes cytotoxiques",
+          "Exposition systémique : toxicité digestive, neurologique et hématologique",
+          "Constituant majeur : podophyllotoxine",
+          "Plante originaire du bassin méditerranéen"
+        ],
+        "correctes": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explication": "La podophylle est originaire d'Amérique du Nord.",
+        "source": {
+          "page": 43,
+          "extrait": "Risque de toxicité digestive, neurologique et hématologique en cas d'exposition systémique."
+        },
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacognosie/05-coumarines-lignanes/cas-004-q2",
+        "type": "multiple",
+        "enonce": "Concernant la podophyllotoxine :",
+        "options": [
+          "Inhibe la polymérisation de la tubuline",
+          "Bloque la mitose en métaphase",
+          "Sert à l'hémisynthèse de l'étoposide et du téniposide",
+          "Est un lignane de type aryltétraline",
+          "Est un flavonolignane"
+        ],
+        "correctes": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explication": "Les flavonolignanes sont ceux du chardon-Marie.",
+        "source": {
+          "page": 43,
+          "extrait": "Molécule de départ pour l'obtention de dérivés hémisynthétiques antinéoplasiques : étoposide et téniposide."
+        },
+        "difficulte": 2,
+        "tags": [],
+        "origine": "genere"
+      }
+    ]
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "id": "pharmacologie/td/04-pharmacologie-moleculaire",
+  "module": "pharmacologie",
+  "ordre": 4,
+  "titre": "TD 4 – Pharmacologie moléculaire",
+  "type": "td",
+  "source": {
+    "driveId": "1I_xU7QpzoJjoMswwUhk9re6CMlin4ql4",
+    "fichier": "4. Fiche de TD 4 (Pharmacologie moleculaire).pdf",
+    "modifiedTime": "2026-11-25T11:19:52.725Z"
+  },
+  "resume": "Exercice sur jéjunum isolé de lapin : courbe dose-réponse de l'acétylcholine, pD2, antagonisme compétitif par la scopolamine, pAx et pA2."
+}

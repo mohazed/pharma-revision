@@ -1,0 +1,32 @@
+[
+  {
+    "id": "pharmacie-galenique/13-emulsions/mnemo-001",
+    "titre": "Ordre de gravité des instabilités",
+    "moyen": "« Crème, Flocons, Coulée »",
+    "explication": "Crémage/sédimentation (réversible) → Floculation (difficilement réversible, film intact) → Coalescence (irréversible, film rompu, séparation de phase)."
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/mnemo-002",
+    "titre": "Ralentir la sédimentation (Stokes)",
+    "moyen": "« Petits, Pareils, Pâteux »",
+    "explication": "Petits globules (↓ taille), Pareilles densités (↓ D1 − D2), phase dispersante Pâteuse (↑ viscosité)."
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/mnemo-003",
+    "titre": "HLB élevé = hydrophile",
+    "moyen": "« HLB Haut = H₂O »",
+    "explication": "Plus le HLB est élevé, plus le surfactif est hydrophile ; vers 10, équilibre hydrophile/lipophile."
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/mnemo-004",
+    "titre": "Méthodes de détermination du sens",
+    "moyen": "« DiCoCo »",
+    "explication": "Dilution, Colorants, COnductivité électrique."
+  },
+  {
+    "id": "pharmacie-galenique/13-emulsions/mnemo-005",
+    "titre": "Colorants du sens",
+    "moyen": "« Bleu dans l'eau, Rouge dans l'huile »",
+    "explication": "Bleu de méthylène = hydrosoluble ; rouge Soudan = liposoluble."
+  }
+]

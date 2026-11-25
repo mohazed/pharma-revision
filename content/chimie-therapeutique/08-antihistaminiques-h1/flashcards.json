@@ -1,0 +1,302 @@
+[
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/flashcard-001",
+    "recto": "Définition de l'allergie",
+    "verso": "Réaction excessive du système immunitaire à des substances normalement inoffensives, appelées allergènes.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/flashcard-002",
+    "recto": "Deux phases de l'allergie",
+    "verso": "Sensibilisation (reconnaissance de l'allergène) puis réaction allergique (l'allergène déclenche la libération d'histamine).",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/flashcard-003",
+    "recto": "Que se passe-t-il à la 1re exposition à l'allergène ?",
+    "verso": "Synthèse d'IgE par les lymphocytes B ; les IgE se fixent sur leurs récepteurs (RC) des mastocytes.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/flashcard-004",
+    "recto": "Que se passe-t-il à la 2e exposition à l'allergène ?",
+    "verso": "L'allergène se fixe sur les IgE liées aux RC ; le complexe IgE-allergène active les RC → dégranulation → libération d'histamine.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/flashcard-005",
+    "recto": "Biogenèse de l'histamine",
+    "verso": "Décarboxylation de l'histidine par l'histidine décarboxylase (libération de CO2).",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/flashcard-006",
+    "recto": "Distribution de l'histamine",
+    "verso": "Poumons, foie, peau ; cerveau (en particulier l'hypothalamus) ; cellules gastriques.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/flashcard-007",
+    "recto": "Effets de l'histamine",
+    "verso": "Vasodilatation, augmentation de la perméabilité capillaire, contraction des muscles lisses.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/flashcard-008",
+    "recto": "Récepteur H1 : protéine G et localisation",
+    "verso": "Gq/11 ; distribution ubiquitaire : muscles lisses, endothélium, cerveau.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/flashcard-009",
+    "recto": "Récepteur H2 : protéine G et localisation",
+    "verso": "Gs ; principalement muqueuse gastrique, aussi muscle cardiaque, mastocytes, SNC. Régule la sécrétion acide.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/flashcard-010",
+    "recto": "Récepteur H3",
+    "verso": "Gi/o ; autorécepteur présynaptique : sa stimulation réduit la libération d'histamine, son blocage l'augmente (stimule la vigilance).",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/flashcard-011",
+    "recto": "Récepteur H4",
+    "verso": "Gi/o ; cellules hématopoïétiques périphériques et moelle osseuse ; chimiotaxie des éosinophiles et mastocytes, libération d'IL-16.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/flashcard-012",
+    "recto": "Action des antiH1",
+    "verso": "Fixation sur les H1 : inhibent la vasodilatation et l'augmentation de la perméabilité capillaire (réactions œdémateuses).",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/flashcard-013",
+    "recto": "Six familles chimiques d'antiH1",
+    "verso": "Alkylamines, éthanolamines, éthylènediamines, phénothiazines, pipérazines, pipéridines.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/flashcard-014",
+    "recto": "Trois façons de classer les antiH1",
+    "verso": "Structure chimique ; propriétés pharmacologiques (vigilance, action anticholinergique) ; chronologie (1re et 2e génération).",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/flashcard-015",
+    "recto": "Familles possédant des antiH1 de 2e génération",
+    "verso": "Alkylamines (acrivastine), pipérazines (cétirizine, lévocétirizine), pipéridines (loratadine, desloratadine, fexofénadine, rupatadine…).",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/flashcard-016",
+    "recto": "Pipérazines : noms commerciaux",
+    "verso": "Cyclizine (Marzine®), buclizine (Aphilan®), hydroxyzine (Atarax®), clocinizine (Dénoral®).",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/flashcard-017",
+    "recto": "Seule pipérazine du tableau sans chlore (X = H)",
+    "verso": "La cyclizine (R = CH3).",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/flashcard-018",
+    "recto": "Synthèse des pipérazines : agent de blocage",
+    "verso": "Chlorocarbonate d'éthyle (bloque une fonction amine, car la pipérazine peut réagir par ses deux N).",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/flashcard-019",
+    "recto": "Synthèse des pipérazines : étapes",
+    "verso": "Blocage (chlorocarbonate d'éthyle) → greffage sur N libre par l'halogénure → décarboxylation par la potasse → greffage d'un nouveau radical (R-Cl/NaNH2).",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/flashcard-020",
+    "recto": "Usages des pipérazines",
+    "verso": "Cyclizine : antiémétique (mal de transport), antimigraineux ; buclizine : antiallergique, antiémétique ; méclozine : antiémétique ; hydroxyzine : antiallergique, anxiolytique.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/flashcard-021",
+    "recto": "Éthanolamine indiquée dans les insomnies",
+    "verso": "La doxylamine.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/flashcard-022",
+    "recto": "Diménhydrinate",
+    "verso": "Éthanolamine (Mercalm®, Nausicalm®) : mal des transports, nausées et vomissements.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/flashcard-023",
+    "recto": "Diphenhydramine : indications",
+    "verso": "Voie orale : maux des transports ; + paracétamol et pseudoéphédrine : rhinopharyngites aiguës ; voie locale : piqûres d'insectes, prurits, urticaires.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/flashcard-024",
+    "recto": "Particularité des alkylamines",
+    "verso": "Les plus puissants des antagonistes H1 ; effets de stimulation du SNC plus fréquents.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/flashcard-025",
+    "recto": "Fervex®",
+    "verso": "Phéniramine + paracétamol + acide ascorbique : états grippaux, rhinites, rhinopharyngites, rhumes.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/flashcard-026",
+    "recto": "Dexchlorphéniramine : spécialités",
+    "verso": "Polaramine®, Célestamine®, Histagan®.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/flashcard-027",
+    "recto": "Dexchlorphéniramine : associations",
+    "verso": "+ codéine : toux sèches ; + bétaméthasone : rhinites allergiques, urticaires aiguës.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/flashcard-028",
+    "recto": "Atussine®",
+    "verso": "Sirop antitussif : maléate de mépyramine (éthylènediamine) + bromhydrate de dextrométhorphane ; toux sèche, toux d'irritation.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/flashcard-029",
+    "recto": "Phénothiazines antiH1 : spécialités",
+    "verso": "Prométhazine (Phénergan®), alimémazine (Théralène®), oxomémazine (Toplexil®).",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/flashcard-030",
+    "recto": "Emplois de l'alimémazine",
+    "verso": "Antitussif, antiallergique, somnifère.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/flashcard-031",
+    "recto": "Méquitazine",
+    "verso": "Phénothiazine légèrement sédative, anticholinergique ; antiH1 de 1re génération peu sédatif ; rhinite, urticaire, conjonctivites.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/flashcard-032",
+    "recto": "Cyproheptadine",
+    "verso": "Pipéridine de 1re génération (Périmex®, Heptaford®) : manifestations allergiques, stimulant d'appétit.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/flashcard-033",
+    "recto": "Kétotifène",
+    "verso": "Pipéridine de 1re génération (Zalerg®) : rhinoconjonctivites allergiques.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/flashcard-034",
+    "recto": "Caractères des antiH1 de 2e génération",
+    "verso": "Sans effets anticholinergiques, moins de somnolence (diffusent moins dans le SNC), effets secondaires moins importants.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/flashcard-035",
+    "recto": "Cétirizine : origine",
+    "verso": "Métabolite carboxylé de l'hydroxyzine (oxydation in vivo du CH2OH en CO2H).",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/flashcard-036",
+    "recto": "Pourquoi la cétirizine est-elle peu sédative ?",
+    "verso": "Le COOH la rend ionisée au pH physiologique, très polaire, peu lipophile : elle franchit très peu la BHE.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/flashcard-037",
+    "recto": "Indications de la cétirizine et de la lévocétirizine",
+    "verso": "Rhinites allergiques (symptômes nasaux et oculaires), urticaires chroniques idiopathiques.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/flashcard-038",
+    "recto": "Lévocétirizine",
+    "verso": "Énantiomère (R) de la cétirizine racémique (la dextrocétirizine est l'énantiomère S) ; pipérazine.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/flashcard-039",
+    "recto": "Fexofénadine",
+    "verso": "Telfast® ; métabolite actif de la terfénadine (retirée du marché), sans ses inconvénients cardiaques.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/flashcard-040",
+    "recto": "Loratadine",
+    "verso": "Clarityne® ; dépourvue d'effet sédatif et anticholinergique ; allergies saisonnières, urticaire chronique.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/flashcard-041",
+    "recto": "Desloratadine",
+    "verso": "Deslor® ; métabolite actif de la loratadine ; très grande affinité H1, effet prolongé ; ne traverse pas la BHE.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/flashcard-042",
+    "recto": "Rupatadine",
+    "verso": "Rupafin® ; rhinite allergique, urticaire ; métabolisée par le CYP3A4 en produits actifs dont la desloratadine.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/flashcard-043",
+    "recto": "Acrivastine",
+    "verso": "Alkylamine de 2e génération dérivée de la triprolidine ; pas d'effet anticholinergique, effet limité sur le SNC ; rhinites allergiques.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/flashcard-044",
+    "recto": "RSA générale des antiH1",
+    "verso": "Amine tertiaire reliée par une chaîne de 2 ou 3 atomes à 2 groupes aromatiques ; moitié éthylamine substituée comme l'histamine.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/flashcard-045",
+    "recto": "Histamine vs antiH1 (structure)",
+    "verso": "Histamine : amine primaire et un seul cycle aromatique ; antiH1 : amine tertiaire et deux groupes aromatiques.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/flashcard-046",
+    "recto": "RSA des phénothiazines antiH1",
+    "verso": "Substitution courte sur l'azote terminal ; 2 ou 3 C entre les deux N, dont le second est ramifié ; cycle non substitué.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/flashcard-047",
+    "recto": "Agoniste inverse",
+    "verso": "Molécule qui se combine à la forme inactive du récepteur, la stabilise et déplace l'équilibre vers la forme inactive : c'est le cas des antiH1.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/flashcard-048",
+    "recto": "Effets secondaires des antiH1 de 1re génération",
+    "verso": "Somnolence, sécheresse buccale, effets anticholinergiques.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/flashcard-049",
+    "recto": "Interactions des antiH1 à surveiller",
+    "verso": "Antidiabétiques oraux et médicaments torsadogènes.",
+    "tags": []
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/flashcard-050",
+    "recto": "Perspectives des antihistaminiques",
+    "verso": "Ciblage spécifique, approches innovantes (immunothérapie allergénique, thérapie génique), action plus rapide.",
+    "tags": []
+  }
+]

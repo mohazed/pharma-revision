@@ -1,0 +1,102 @@
+[
+  {
+    "terme": "Coumarine",
+    "definition": "Composé phénolique dérivé de la benzo-α-pyrone ; lactone de l'acide 2-hydroxycinnamique, d'odeur de foin fraîchement coupé.",
+    "cours": "pharmacognosie/05-coumarines-lignanes"
+  },
+  {
+    "terme": "Benzo-α-pyrone",
+    "definition": "Noyau fondamental des coumarines (C₉H₆O₂) : noyau benzénique fusionné à un cycle lactonique.",
+    "cours": "pharmacognosie/05-coumarines-lignanes"
+  },
+  {
+    "terme": "Acide o-coumarique",
+    "definition": "Acide 2-hydroxycinnamique dont les coumarines sont les lactones.",
+    "cours": "pharmacognosie/05-coumarines-lignanes"
+  },
+  {
+    "terme": "Ombelliférone",
+    "definition": "Coumarine simple hydroxylée en C7.",
+    "cours": "pharmacognosie/05-coumarines-lignanes"
+  },
+  {
+    "terme": "Esculoside",
+    "definition": "Hétéroside coumarinique : 6-O-glucosyl-esculétol (esculine) ; présent dans l'écorce de marronnier d'Inde.",
+    "cours": "pharmacognosie/05-coumarines-lignanes"
+  },
+  {
+    "terme": "Furocoumarine",
+    "definition": "Coumarine complexe issue de la fusion d'un cycle furannique à cinq chaînons avec le noyau coumarinique ; linéaire (6,7) ou angulaire (7,8).",
+    "cours": "pharmacognosie/05-coumarines-lignanes"
+  },
+  {
+    "terme": "Pyranocoumarine",
+    "definition": "Coumarine complexe issue de la fusion d'un cycle pyrannique à six chaînons ; surtout chez les Apiaceae (ex. visnadine).",
+    "cours": "pharmacognosie/05-coumarines-lignanes"
+  },
+  {
+    "terme": "PUVA-thérapie",
+    "definition": "Association de furocoumarines photosensibilisantes et d'UVA, utilisée dans le psoriasis et le vitiligo.",
+    "cours": "pharmacognosie/05-coumarines-lignanes"
+  },
+  {
+    "terme": "Action vitaminique P",
+    "definition": "Augmentation de la résistance des capillaires et diminution de leur perméabilité (esculine, esculétine, esculoside).",
+    "cours": "pharmacognosie/05-coumarines-lignanes"
+  },
+  {
+    "terme": "Visnadine",
+    "definition": "Pyranocoumarine du khella, historiquement étudiée pour une vasodilatation coronarienne.",
+    "cours": "pharmacognosie/05-coumarines-lignanes"
+  },
+  {
+    "terme": "Khelline",
+    "definition": "Furanochromone (γ-pyrone) du khella ; à doses élevées ou prolongées, effets indésirables hépatiques possibles.",
+    "cours": "pharmacognosie/05-coumarines-lignanes"
+  },
+  {
+    "terme": "Mélilotoside",
+    "definition": "Hétéroside du mélilot, précurseur de la coumarine, dérivé de l'acide o-coumarique.",
+    "cours": "pharmacognosie/05-coumarines-lignanes"
+  },
+  {
+    "terme": "Bergaptène",
+    "definition": "Furocoumarine linéaire présente dans l'huile essentielle de bergamote et dans le khella.",
+    "cours": "pharmacognosie/05-coumarines-lignanes"
+  },
+  {
+    "terme": "Aflatoxines",
+    "definition": "Mycotoxines génotoxiques et cancérogènes imposant le contrôle des matières premières et des tourteaux.",
+    "cours": "pharmacognosie/05-coumarines-lignanes"
+  },
+  {
+    "terme": "Lignanes",
+    "definition": "Composés phénoliques issus de la dimérisation de deux unités C₆–C₃ (squelette en C18) liées en 8–8′.",
+    "cours": "pharmacognosie/05-coumarines-lignanes"
+  },
+  {
+    "terme": "Néolignanes",
+    "definition": "Dimères de deux unités C₆–C₃ issus d'un couplage oxydatif, reliés par des liaisons autres que 8–8′.",
+    "cours": "pharmacognosie/05-coumarines-lignanes"
+  },
+  {
+    "terme": "Podophyllotoxine",
+    "definition": "Lignane aryltétraline de la podophylle ; inhibe la polymérisation de la tubuline ; précurseur de l'étoposide et du téniposide.",
+    "cours": "pharmacognosie/05-coumarines-lignanes"
+  },
+  {
+    "terme": "Podophylline",
+    "definition": "Résine extraite du rhizome de podophylle d'Amérique.",
+    "cours": "pharmacognosie/05-coumarines-lignanes"
+  },
+  {
+    "terme": "Silymarine",
+    "definition": "Complexe de flavonolignanes du chardon-Marie (silybine, silychristine, silydianine) aux propriétés hépatoprotectrices.",
+    "cours": "pharmacognosie/05-coumarines-lignanes"
+  },
+  {
+    "terme": "Flavonolignane",
+    "definition": "Classe de composés du chardon-Marie (silybine, silychristine, silydianine…) dont le complexe forme la silymarine.",
+    "cours": "pharmacognosie/05-coumarines-lignanes"
+  }
+]

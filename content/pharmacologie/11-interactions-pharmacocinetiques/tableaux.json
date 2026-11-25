@@ -1,0 +1,235 @@
+[
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/tab-001",
+    "titre": "Mécanismes d'interaction au niveau de l'absorption",
+    "colonnes": [
+      "Mécanisme",
+      "Principe",
+      "Exemple du cours",
+      "Conduite"
+    ],
+    "lignes": [
+      [
+        "Variation de pH",
+        "Alcalinisant : ↓ résorption des acides faibles, ↑ bases faibles",
+        "Antiacides + médicaments acides ; pénicillines favorisées",
+        "Décaler d'au moins 2 h"
+      ],
+      [
+        "Barrière physique",
+        "Film empêchant le contact avec la muqueuse",
+        "SMECTA® + clindamycine",
+        "À distance (≥ 2 h)"
+      ],
+      [
+        "Solubilisation dans un liquide non résorbable",
+        "Le PA reste dans le liquide",
+        "Vitamines A, D, E, K + huile de paraffine",
+        "—"
+      ],
+      [
+        "Adsorption",
+        "Fixation sur un agent non résorbable",
+        "Kaolin + digoxine ; charbon actif ; cholestyramine",
+        "Décaler de 2 h"
+      ],
+      [
+        "Complexation",
+        "Formation de complexes → ↓ absorption",
+        "Tétracyclines + Ca/Fe/Al/Mg ; fluoroquinolones + Ca ; lévothyroxine + Ca ; fer + Ca",
+        "Décaler d'au moins 2 h"
+      ],
+      [
+        "Vidange gastrique",
+        "Accélération → ↑ absorption ; ralentissement → résorption différée",
+        "Métoclopramide ↑ paracétamol, diazépam, lithium ; ↓ digoxine cp",
+        "—"
+      ],
+      [
+        "Transit intestinal",
+        "Temps de contact modifié",
+        "Laxatifs ↓ ; anticholinergiques ↑ dicoumarol, digoxine",
+        "—"
+      ],
+      [
+        "Compétition pour un transporteur",
+        "Ralentissement réciproque",
+        "Phénylalanine + L-DOPA",
+        "—"
+      ]
+    ]
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/tab-002",
+    "titre": "Induction versus inhibition enzymatique",
+    "colonnes": [
+      "Critère",
+      "Induction",
+      "Inhibition"
+    ],
+    "lignes": [
+      [
+        "Définition",
+        "Accélération du métabolisme (↑ synthèse des CYP)",
+        "Ralentissement du métabolisme"
+      ],
+      [
+        "Installation",
+        "Progressive, après quelques jours",
+        "Immédiate"
+      ],
+      [
+        "À l'arrêt",
+        "Subsiste plus ou moins longtemps",
+        "Disparaît"
+      ],
+      [
+        "Médicaments",
+        "Phénobarbital, primidone, phénytoïne, carbamazépine, rifampicine, griséofulvine",
+        "Macrolides, antifongiques azolés, cimétidine, isoniazide, IMAO, ISRS"
+      ],
+      [
+        "Aliments / autres",
+        "Millepertuis ; alcool chronique ; tabac (CYP 1A2)",
+        "Jus de pamplemousse ; alcool aigu"
+      ],
+      [
+        "Exemple",
+        "Ciclosporine (CYP 3A4) ; acénocoumarol et pilule (CYP 2C9)",
+        "Simvastatine (CYP 3A4) → rhabdomyolyse"
+      ]
+    ]
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/tab-003",
+    "titre": "Conséquences du déplacement protéique",
+    "colonnes": [
+      "Molécule déplacée",
+      "Molécule(s) déplaçante(s)",
+      "Effet"
+    ],
+    "lignes": [
+      [
+        "Warfarine",
+        "Clofibrate, acide méfénamique, acide nalidixique, phénylbutazone",
+        "Hémorragie"
+      ],
+      [
+        "Acénocoumarine",
+        "Clofibrate",
+        "Hémorragie"
+      ],
+      [
+        "Tolbutamide",
+        "Sulfaphénazole, salicylés",
+        "Collapsus hypoglycémique"
+      ],
+      [
+        "Méthotrexate",
+        "Sulfamides, AINS",
+        "Insuffisance rénale"
+      ],
+      [
+        "Antidépresseurs tricycliques",
+        "Phénytoïne",
+        "Neurotoxicité"
+      ],
+      [
+        "Acide valproïque",
+        "Phénytoïne",
+        "Neurotoxicité"
+      ],
+      [
+        "Bilirubine (nouveau-né)",
+        "Chloramphénicol, sulfamides",
+        "Neurotoxicité"
+      ]
+    ]
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/carte-001",
+    "type": "carte",
+    "titre": "IAM en phase pharmacocinétique",
+    "racine": {
+      "label": "IAM pharmacocinétiques",
+      "enfants": [
+        {
+          "label": "Absorption",
+          "enfants": [
+            {
+              "label": "pH",
+              "enfants": []
+            },
+            {
+              "label": "Barrière / adsorption",
+              "enfants": []
+            },
+            {
+              "label": "Complexation",
+              "enfants": []
+            },
+            {
+              "label": "Vidange / transit",
+              "enfants": []
+            },
+            {
+              "label": "Compétition transporteur",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Distribution",
+          "enfants": [
+            {
+              "label": "Déplacement protéique (> 90 %)",
+              "enfants": []
+            },
+            {
+              "label": "Déplacement tissulaire (digoxine)",
+              "enfants": []
+            },
+            {
+              "label": "Bilirubine du nouveau-né",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Métabolisme",
+          "enfants": [
+            {
+              "label": "Induction (progressive)",
+              "enfants": []
+            },
+            {
+              "label": "Inhibition (immédiate)",
+              "enfants": []
+            },
+            {
+              "label": "Alcool / tabac",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Élimination",
+          "enfants": [
+            {
+              "label": "Compétition tubulaire",
+              "enfants": []
+            },
+            {
+              "label": "pH urinaire",
+              "enfants": []
+            },
+            {
+              "label": "Néphrotoxiques",
+              "enfants": []
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

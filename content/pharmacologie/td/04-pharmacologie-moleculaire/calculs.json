@@ -1,0 +1,158 @@
+[
+  {
+    "id": "pharmacologie/td/04-pharmacologie-moleculaire/calc-001",
+    "titre": "Pourcentage de la réponse maximale",
+    "enonce": "Une dose d'acétylcholine produit une contraction de {c} mm ; la contraction maximale est de {emax} mm. Calculer la réponse en % de la réponse maximale.",
+    "variables": {
+      "c": {
+        "min": 5,
+        "max": 60,
+        "pas": 5,
+        "unite": "mm"
+      },
+      "emax": {
+        "min": 60,
+        "max": 60,
+        "pas": 1,
+        "unite": "mm"
+      }
+    },
+    "formule": "c / emax * 100",
+    "unite": "%",
+    "decimales": 1,
+    "etapes": [
+      "% = contraction / Emax × 100",
+      "% = {c} / {emax} × 100"
+    ],
+    "rappel": "Réponse en pourcentage de la réponse maximale (ordonnée de la courbe dose-réponse)"
+  },
+  {
+    "id": "pharmacologie/td/04-pharmacologie-moleculaire/calc-002",
+    "titre": "Concentration molaire à partir de µg/ml",
+    "enonce": "Convertir une concentration de {c} µg/ml d'acétylcholine (PM = {pm} g/mol) en mol/L.",
+    "variables": {
+      "c": {
+        "min": 10,
+        "max": 200,
+        "pas": 10,
+        "unite": "µg/ml"
+      },
+      "pm": {
+        "min": 181.7,
+        "max": 181.7,
+        "pas": 0.1,
+        "unite": "g/mol"
+      }
+    },
+    "formule": "c * 1e-3 / pm",
+    "unite": "mol/L",
+    "decimales": 6,
+    "etapes": [
+      "{c} µg/ml = {c} mg/L = {c} × 10⁻³ g/L",
+      "C (mol/L) = C (g/L) / PM = {c} × 10⁻³ / {pm}"
+    ],
+    "rappel": "1 µg/ml = 1 mg/L = 10⁻³ g/L ; C molaire = C massique / PM"
+  },
+  {
+    "id": "pharmacologie/td/04-pharmacologie-moleculaire/calc-003",
+    "titre": "pD2 d'un agoniste (question 2)",
+    "enonce": "La CE50 de l'acétylcholine (PM = {pm} g/mol) est de {ce50} µg/ml. Calculer son pD2.",
+    "variables": {
+      "ce50": {
+        "min": 30,
+        "max": 200,
+        "pas": 10,
+        "unite": "µg/ml"
+      },
+      "pm": {
+        "min": 181.7,
+        "max": 181.7,
+        "pas": 0.1,
+        "unite": "g/mol"
+      }
+    },
+    "formule": "-Math.log10(ce50 * 1e-3 / pm)",
+    "unite": "",
+    "decimales": 2,
+    "etapes": [
+      "CE50 (mol/L) = {ce50} × 10⁻³ / {pm}",
+      "pD2 = − log CE50 (mol/L)"
+    ],
+    "rappel": "pD2 = − log CE50 ; TD : 60 µg/ml → 3,48 ; 120 µg/ml → 3,18"
+  },
+  {
+    "id": "pharmacologie/td/04-pharmacologie-moleculaire/calc-004",
+    "titre": "Rapport des doses équiactives (x)",
+    "enonce": "La CE50 de l'agoniste est de {a} µg/ml seul et de {b} µg/ml en présence d'antagoniste. Calculer x.",
+    "variables": {
+      "a": {
+        "min": 10,
+        "max": 100,
+        "pas": 10,
+        "unite": "µg/ml"
+      },
+      "b": {
+        "min": 120,
+        "max": 400,
+        "pas": 20,
+        "unite": "µg/ml"
+      }
+    },
+    "formule": "b / a",
+    "unite": "",
+    "decimales": 2,
+    "etapes": [
+      "x = CE50 avec antagoniste / CE50 sans antagoniste",
+      "x = {b} / {a}"
+    ],
+    "rappel": "TD : x = 120 / 60 = 2 ; ΔpD2 = log x"
+  },
+  {
+    "id": "pharmacologie/td/04-pharmacologie-moleculaire/calc-005",
+    "titre": "pA2 de l'antagoniste (question 4)",
+    "enonce": "En présence de {c} µg/ml de scopolamine (PM = {pm} g/mol), la dose d'acétylcholine doit être doublée pour obtenir le même effet. Calculer le pA2.",
+    "variables": {
+      "c": {
+        "min": 1,
+        "max": 20,
+        "pas": 1,
+        "unite": "µg/ml"
+      },
+      "pm": {
+        "min": 384.3,
+        "max": 384.3,
+        "pas": 0.1,
+        "unite": "g/mol"
+      }
+    },
+    "formule": "-Math.log10(c * 1e-3 / pm)",
+    "unite": "",
+    "decimales": 2,
+    "etapes": [
+      "[B] (mol/L) = {c} × 10⁻³ / {pm}",
+      "x = 2 donc pAx = pA2 = − log [B]"
+    ],
+    "rappel": "pAx = − log [antagoniste] qui multiplie par x la dose d'agoniste ; pA2 pour x = 2 (TD : 5 µg/ml → 4,89)"
+  },
+  {
+    "id": "pharmacologie/td/04-pharmacologie-moleculaire/calc-006",
+    "titre": "Variation du pD2 en présence d'un antagoniste compétitif",
+    "enonce": "Un antagoniste compétitif oblige à multiplier par {x} la dose d'agoniste. De combien diminue le pD2 de l'agoniste ?",
+    "variables": {
+      "x": {
+        "min": 2,
+        "max": 20,
+        "pas": 1,
+        "unite": ""
+      }
+    },
+    "formule": "Math.log10(x)",
+    "unite": "",
+    "decimales": 2,
+    "etapes": [
+      "pD2 = − log CE50 ; CE50' = x × CE50",
+      "ΔpD2 = log CE50' − log CE50 = log {x}"
+    ],
+    "rappel": "ΔpD2 = log x (TD : log 2 ≈ 0,30)"
+  }
+]

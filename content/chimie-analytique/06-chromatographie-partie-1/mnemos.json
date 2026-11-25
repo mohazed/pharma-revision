@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/mnemo-001",
+    "titre": "Critères de classification",
+    "moyen": "« Ne Pas Faire de Mélange »",
+    "explication": "Nature physique des phases, Phénomène physique, Forme de la phase stationnaire, Modalités de migration."
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/mnemo-002",
+    "titre": "Les quatre phénomènes physiques",
+    "moyen": "« À Paris, on Échange et on Exclut »",
+    "explication": "Adsorption, Partage, Échange d'ions, Exclusion (perméation sur gel)."
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/mnemo-003",
+    "titre": "Trois moments de la théorie des plateaux",
+    "moyen": "« Déposer, Développer, Éluer »",
+    "explication": "Dépôt de la solution, développement du chromatogramme, élution."
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/mnemo-004",
+    "titre": "Chiffres du pic gaussien",
+    "moyen": "« 0,607 doublé donne 1,214 ; 4 sigma pour la base, 2,35 sigma pour la moitié »",
+    "explication": "Points d'inflexion à 0,607, sommet du triangle à 1,214 ; ω = 4σ ; δ = 2,35σ (et ω = 1,7δ)."
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/mnemo-005",
+    "titre": "Position ou aire ?",
+    "moyen": "« La place dit qui, l'aire dit combien »",
+    "explication": "Position du pic sur l'axe du temps → identification ; aire sous le pic → quantité."
+  }
+]

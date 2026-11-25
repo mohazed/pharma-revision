@@ -1,0 +1,98 @@
+{
+  "id": "pharmacologie/11-interactions-pharmacocinetiques/fiche-001",
+  "titre": "Interactions médicamenteuses en phase pharmacocinétique — fiche de synthèse",
+  "sections": [
+    {
+      "titre": "Introduction et définitions",
+      "points": [
+        "Facteurs favorisants : **polymédication**, **vieillissement** de la population, émergence de **maladies chroniques**, **automédication** et mésusage.",
+        "**Interaction médicamenteuse** : modification **cliniquement significative**, observée **in vivo**, des effets attendus d'un médicament lors de la coadministration d'un autre médicament, d'aliment, d'alcool ou de tabac.",
+        "**Incompatibilité physico-chimique** : réaction entre deux médicaments mélangés dans une même **seringue** ou un même **liquide de perfusion** → précipité inactif ou toxique. Ex. : gentamicine + ampicilline ; **phénytoïne** (alcaline) + **glucosé** (pH 4–4,5) → précipité : utiliser le **salé** (pH 7–7,5).",
+        "Toujours vérifier la compatibilité des injectables ou rincer la perfusion avant un second produit."
+      ]
+    },
+    {
+      "titre": "Conséquences et niveaux de gravité",
+      "points": [
+        "**IAM utiles** : ↑ rapport bénéfice/risque (ATD), ↑ efficacité (aminoside – bêtalactamine, antituberculeux, anti-HTA), antidote, ↓ EI.",
+        "**IAM indésirables** : EI, ↓ ou ↑ effet thérapeutique, surdosage, phénomènes toxiques.",
+        "**ANSM, 4 niveaux** : **contre-indication** (absolue ; voriconazole + rifampicine) ; **déconseillée** (sauf examen bénéfice/risque, surveillance étroite ; œstroprogestatifs + rifampicine) ; **précaution d'emploi** (cas le **plus fréquent** ; fer + calcium) ; **à prendre en compte** (addition d'EI, aucune recommandation ; ciclosporine + ramipril)."
+      ]
+    },
+    {
+      "titre": "Mécanismes",
+      "points": [
+        "**Pharmacocinétique** : un médicament modifie l'**ADME** de l'autre → changement d'exposition (**AUC, Cmax, demi-vie**).",
+        "**Pharmacodynamique** : effets **additifs, synergiques ou antagonistes** (deux dépresseurs du SNC → sédation accrue).",
+        "Étapes PK : absorption (orale), distribution (protéines plasmatiques), métabolisme (hépatique), excrétion urinaire."
+      ]
+    },
+    {
+      "titre": "Absorption",
+      "points": [
+        "**pH** : un alcalinisant (sels de Mg et d'Al, antisécrétoires) **diminue** l'absorption des **acides faibles** (AVK, AINS, barbituriques) et facilite celle des **bases faibles** ; ne concerne que la **diffusion passive**. Il peut **favoriser** l'absorption des **pénicillines** (moins d'hydrolyse) et accélérer la résorption de l'aspirine (meilleure dissolution).",
+        "**Barrière physique** : SMECTA® + clindamycine. **Solubilisation** dans un liquide non résorbable : vitamines A, D, E, K + huile de paraffine.",
+        "**Adsorption** : kaolin, phosphate de Ca, **charbon actif** (intoxications), **cholestyramine** ; kaolin + digoxine.",
+        "**Complexation** : fluoroquinolones + Ca, fer + Ca, lévothyroxine + Ca, **tétracyclines** + Ca, fer, Al, Mg.",
+        "Décaler les prises d'**au moins 2 heures**.",
+        "**Vidange** : accélération → ↑ absorption (métoclopramide ↑ paracétamol, diazépam, lithium) mais ↓ **digoxine en comprimé** (dissolution).",
+        "**Transit** : laxatifs ↓ résorption ; anticholinergiques (tricycliques) ↑ résorption du dicoumarol, de la digoxine.",
+        "**Compétition** pour un transporteur : phénylalanine alimentaire ↓ absorption de la **L-DOPA**."
+      ]
+    },
+    {
+      "titre": "Distribution",
+      "points": [
+        "Déplacement des **protéines plasmatiques** ou libération des **sites tissulaires** ; seulement si liaison **> 90 %**.",
+        "Le médicament de **plus faible affinité** est déplacé → ↑ **fraction libre** (active) → ↑ diffusion tissulaire (↑ Vd), ↑ filtration glomérulaire et métabolisme hépatique.",
+        "Médicaments sensibles : forte liaison, **acide faible**, peu de sites, **Vd faible**.",
+        "Exemples : **AVK + AINS** → hémorragie ; digoxine tissulaire déplacée par **quinidine, vérapamil, nifédipine, amiodarone** ; tolbutamide (salicylés) → collapsus hypoglycémique ; MTX (sulfamides, AINS) → insuffisance rénale ; phénytoïne → neurotoxicité.",
+        "**Nouveau-né** : bilirubine déplacée (chloramphénicol, sulfamides) et non métabolisée → **neurotoxicité**."
+      ]
+    },
+    {
+      "titre": "Métabolisme",
+      "points": [
+        "**Induction** : ↑ synthèse des CYP → ↑ métabolisme → ↓ efficacité ; **progressive**, quelques jours, persiste après l'arrêt. Inducteurs : **phénobarbital, primidone, phénytoïne, carbamazépine, rifampicine, griséofulvine, millepertuis**.",
+        "Induction et métabolites : inactifs → ↑ posologie ; actifs → ↑ ET et EI ; toxiques → ↓ posologie.",
+        "Exemples : ciclosporine + millepertuis/rifampicine (**CYP 3A4**, rejet) ; acénocoumarol et pilule + phénobarbital/phénytoïne/carbamazépine (**CYP 2C9**, thrombose, grossesse). Arrêt de l'inducteur sous Sintrom® → risque hémorragique, retour progressif, INR.",
+        "**Inhibition** : ↓ métabolisme ; **immédiate**, disparaît à l'arrêt ; ↑ concentration et demi-vie. Inhibiteurs : **macrolides, azolés, cimétidine, isoniazide, IMAO, ISRS, jus de pamplemousse**.",
+        "Statines (simvastatine, atorvastatine : **CYP 3A4**) + kétoconazole, itraconazole, érythromycine, diltiazem, pamplemousse → **rhabdomyolyse** ; la fluvastatine passe par le CYP 2C9.",
+        "**Alcool** : aigu = inhibiteur, chronique = inducteur. **Tabac** : inducteur du **CYP 1A2**."
+      ]
+    },
+    {
+      "titre": "Élimination",
+      "points": [
+        "**Compétition tubulaire** : même transporteur → ↓ élimination du produit de **plus faible affinité** (ampicilline + **probénécide**).",
+        "**pH urinaire** : bicarbonate de sodium ↑ pH → ↑ excrétion de l'**aspirine** (acide).",
+        "Pourvoyeurs d'insuffisance rénale (aminosides, vancomycine, produits de contraste iodés ; AINS) → ↓ élimination des autres médicaments."
+      ]
+    },
+    {
+      "titre": "Application et conclusion",
+      "points": [
+        "Vancomycine + gentamicine : IAM **PD**, néphro- et ototoxicité → surveiller fonctions rénale et vestibulaire.",
+        "Millepertuis + digoxine : IAM **PK**, ↓ digoxine → **STP** de la digoxine.",
+        "Questions à se poser : pH gastrique/motilité, fixation à l'albumine, inducteur/inhibiteur, pH urinaire et sécrétion tubulaire. Si tout est négatif : risque prévisible faible, mais interactions **imprévisibles** possibles."
+      ]
+    }
+  ],
+  "aRetenir": [
+    "Interaction = in vivo ; incompatibilité = in vitro (seringue, perfusion).",
+    "ANSM : contre-indication > déconseillée > précaution d'emploi (la plus fréquente) > à prendre en compte.",
+    "IAM d'absorption : décaler les prises d'au moins 2 heures.",
+    "Distribution : interaction seulement si liaison protéique > 90 %.",
+    "Induction progressive et persistante ; inhibition immédiate et réversible à l'arrêt.",
+    "Tabac = inducteur du CYP 1A2 ; alcool aigu inhibiteur, chronique inducteur."
+  ],
+  "pieges": [
+    "Un alcalinisant diminue la résorption des acides faibles mais peut favoriser celle des pénicillines et accélérer celle de l'aspirine (dissolution).",
+    "Le métoclopramide accélère la résorption de la plupart des médicaments, mais abaisse celle de la digoxine en comprimé.",
+    "C'est le médicament de plus FAIBLE affinité qui est déplacé (protéines) ou dont l'élimination tubulaire diminue.",
+    "La griséofulvine est un antifongique inducteur, alors que les antifongiques azolés sont inhibiteurs.",
+    "Inhibition d'un médicament à métabolites actifs : l'effet thérapeutique diminue.",
+    "Fluvastatine : CYP 2C9, contrairement à la simvastatine et l'atorvastatine (CYP 3A4).",
+    "Les AINS sont classés « autres » pourvoyeurs d'insuffisance rénale, pas parmi les néphrotoxiques cités."
+  ]
+}

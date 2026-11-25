@@ -1,0 +1,52 @@
+[
+  {
+    "terme": "Cimétidine",
+    "definition": "Médicament étudié dans le TD 3 : 200 mg injectés en IV chez un volontaire sain de 70 kg ; sa cinétique suit un modèle bicompartimental.",
+    "cours": "pharmacologie/td/03-modele-bicompartimental-iv"
+  },
+  {
+    "terme": "Modèle bicompartimental IV",
+    "definition": "Modèle à un compartiment central et des compartiments périphériques ; après IV, Cp = D·e^(−kd·t) + E·e^(−ke·t).",
+    "cours": "pharmacologie/td/03-modele-bicompartimental-iv"
+  },
+  {
+    "terme": "Décroissance biexponentielle",
+    "definition": "Décroissance des concentrations décrite par la somme de deux exponentielles : phase initiale rapide puis phase terminale lente.",
+    "cours": "pharmacologie/td/03-modele-bicompartimental-iv"
+  },
+  {
+    "terme": "Phase terminale",
+    "definition": "Dernière portion linéaire (en semi-log) de la courbe après IV en bicompartimental, correspondant à l'élimination.",
+    "cours": "pharmacologie/td/03-modele-bicompartimental-iv"
+  },
+  {
+    "terme": "Méthode des résidus",
+    "definition": "Méthode de lissage : on calcule D = |C' − Cexp| entre concentrations extrapolées et expérimentales pour obtenir une droite donnant kd.",
+    "cours": "pharmacologie/td/03-modele-bicompartimental-iv"
+  },
+  {
+    "terme": "Résidu",
+    "definition": "Différence, aux temps précoces, entre la concentration extrapolée de la droite terminale et la concentration expérimentale.",
+    "cours": "pharmacologie/td/03-modele-bicompartimental-iv"
+  },
+  {
+    "terme": "Concentration extrapolée",
+    "definition": "Concentration C' lue sur le prolongement de la droite terminale vers les temps précoces.",
+    "cours": "pharmacologie/td/03-modele-bicompartimental-iv"
+  },
+  {
+    "terme": "Constante de vitesse de distribution (kd)",
+    "definition": "Constante de transfert entre compartiment central et périphériques ; pente de la droite des résidus (× −2,303 en log décimal).",
+    "cours": "pharmacologie/td/03-modele-bicompartimental-iv"
+  },
+  {
+    "terme": "Papier semi-logarithmique",
+    "definition": "Papier où l'on porte directement les concentrations sur une échelle logarithmique en fonction du temps.",
+    "cours": "pharmacologie/td/03-modele-bicompartimental-iv"
+  },
+  {
+    "terme": "Méthode des trapèzes",
+    "definition": "Calcul de l'AUC par la somme des aires (C1 + C2)/2 × (t2 − t1) entre prélèvements successifs.",
+    "cours": "pharmacologie/td/03-modele-bicompartimental-iv"
+  }
+]

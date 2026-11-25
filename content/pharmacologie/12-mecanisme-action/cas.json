@@ -1,0 +1,208 @@
+[
+  {
+    "id": "pharmacologie/12-mecanisme-action/cas-001",
+    "titre": "Insuffisance cardiaque traitée par un digitalique",
+    "enonce": "Un patient de 72 ans présente une insuffisance cardiaque avec diminution du débit cardiaque. Son médecin prescrit un glucoside cardiotonique (digitalique).",
+    "questions": [
+      {
+        "id": "pharmacologie/12-mecanisme-action/cas-001-q1",
+        "type": "unique",
+        "enonce": "La cible moléculaire du digitalique est :",
+        "options": [
+          "Un récepteur couplé aux protéines G",
+          "La Na+/K+-ATPase",
+          "Les canaux sodiques",
+          "La cyclooxygénase",
+          "Un récepteur nucléaire"
+        ],
+        "correctes": [
+          1
+        ],
+        "explication": "Les glucosides cardiotoniques sont des inhibiteurs de la Na+/K+-ATPase.",
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacologie/12-mecanisme-action/cas-001-q2",
+        "type": "multiple",
+        "enonce": "Conséquences cellulaires attendues :",
+        "options": [
+          "Accumulation de Na+ sous la membrane",
+          "Activation de l'échangeur Na+/Ca2+",
+          "Augmentation du Ca++ intracellulaire",
+          "Diminution du Ca++ intracellulaire",
+          "Activation de la Na+/K+-ATPase"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "Inhibition de la pompe → Na+ s'accumule → échangeur Na+/Ca2+ activé → Ca++ intracellulaire augmenté.",
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacologie/12-mecanisme-action/cas-001-q3",
+        "type": "multiple",
+        "enonce": "Effet recherché :",
+        "options": [
+          "Effet inotrope positif",
+          "Favoriser la contraction du myocarde",
+          "Effet inotrope négatif",
+          "Diminuer encore le débit cardiaque",
+          "Anesthésie locale"
+        ],
+        "correctes": [
+          0,
+          1
+        ],
+        "explication": "L'augmentation du Ca++ favorise la contraction du myocarde : effet inotrope positif, utile dans l'insuffisance cardiaque.",
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacologie/12-mecanisme-action/cas-001-q4",
+        "type": "multiple",
+        "enonce": "Concernant la pompe ciblée :",
+        "options": [
+          "Elle échange 2 K+ entrants pour 3 Na+ sortants",
+          "C'est un système dépendant de l'hydrolyse de l'ATP",
+          "Le digitalique agit sur sa face extracellulaire",
+          "C'est un canal ionique passif",
+          "Elle échange 3 K+ entrants pour 2 Na+ sortants"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "La Na+/K+-ATPase est une pompe active dépendant de l'ATP (2 K+ entrants / 3 Na+ sortants) ; les digitaliques l'inhibent sur sa face extracellulaire.",
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/cas-002",
+    "titre": "Comparaison de deux agonistes",
+    "enonce": "Au laboratoire, on étudie trois ligands d'un même récepteur. A (référence) : CE50 = 10⁻⁷ mol/L, Emax = 100 %. B : CE50 = 10⁻⁷ mol/L, Emax = 50 %. C : CE50 = 10⁻⁹ mol/L, Emax = 100 %. Un quatrième ligand D se fixe au récepteur sans produire d'effet.",
+    "questions": [
+      {
+        "id": "pharmacologie/12-mecanisme-action/cas-002-q1",
+        "type": "multiple",
+        "enonce": "Concernant A et B :",
+        "options": [
+          "Ils ont le même pD2, égal à 7",
+          "B a une activité intrinsèque α = 0,5",
+          "B est un agoniste partiel",
+          "B est plus puissant que A",
+          "A est un antagoniste"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "Même CE50 → même pD2 = 7 ; α(B) = 50/100 = 0,5 → agoniste partiel. A (α = 1) est l'agoniste de référence.",
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacologie/12-mecanisme-action/cas-002-q2",
+        "type": "multiple",
+        "enonce": "Concernant C :",
+        "options": [
+          "Son pD2 vaut 9",
+          "Il est plus puissant que A",
+          "Son α vaut 1",
+          "C'est un agoniste parfait",
+          "Il a une affinité plus faible que A"
+        ],
+        "correctes": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explication": "pD2 = - log (10⁻⁹) = 9 > 7 : C est plus affin et plus puissant ; Emax 100 % → α = 1, agoniste parfait.",
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacologie/12-mecanisme-action/cas-002-q3",
+        "type": "multiple",
+        "enonce": "Concernant D :",
+        "options": [
+          "Son activité intrinsèque est nulle",
+          "C'est un antagoniste",
+          "Il possède une affinité pour le récepteur",
+          "C'est un agoniste parfait",
+          "Il ne se fixe pas au récepteur"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "D se fixe (affinité, pD2) sans effet : α = 0, antagoniste.",
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/cas-003",
+    "titre": "Anesthésie et arythmie",
+    "enonce": "Avant une petite intervention, un patient reçoit de la procaïne. Un autre patient, souffrant d'une arythmie cardiaque, est traité par la lidocaïne.",
+    "questions": [
+      {
+        "id": "pharmacologie/12-mecanisme-action/cas-003-q1",
+        "type": "unique",
+        "enonce": "Le mécanisme commun à ces deux médicaments est :",
+        "options": [
+          "Inhibition de la Na+/K+-ATPase",
+          "Inhibition des canaux sodiques",
+          "Activation de l'adénylcyclase",
+          "Inhibition de la cyclooxygénase",
+          "Liaison à un récepteur nucléaire"
+        ],
+        "correctes": [
+          1
+        ],
+        "explication": "Procaïne (anesthésique local) et lidocaïne (antiarythmique) inhibent les canaux sodiques.",
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacologie/12-mecanisme-action/cas-003-q2",
+        "type": "multiple",
+        "enonce": "Concernant la cible :",
+        "options": [
+          "C'est un complexe glycoprotéique",
+          "Elle est présente dans les neurones et les cellules cardiaques",
+          "Son ouverture par dépolarisation assure la conduction du PA",
+          "Elle transporte les ions contre leur gradient grâce à l'ATP",
+          "C'est une pompe ionique"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "Les canaux sodiques sont des complexes glycoprotéiques des neurones et des cellules striées squelettiques et cardiaques ; leur ouverture par dépolarisation assure la conduction du PA. Ce sont des canaux, non des pompes.",
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacologie/12-mecanisme-action/cas-003-q3",
+        "type": "multiple",
+        "enonce": "Autres antiarythmiques inhibiteurs des canaux sodiques cités :",
+        "options": [
+          "Quinidine",
+          "Phénytoïne",
+          "Captopril",
+          "Rifampicine",
+          "Naloxone"
+        ],
+        "correctes": [
+          0,
+          1
+        ],
+        "explication": "Le tableau cite quinidine, lidocaïne et phénytoïne comme antiarythmiques inhibiteurs des canaux sodiques.",
+        "origine": "genere"
+      }
+    ]
+  }
+]

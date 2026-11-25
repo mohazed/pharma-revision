@@ -1,0 +1,251 @@
+[
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/cas-001",
+    "titre": "Étudiant atteint de rhinite allergique saisonnière",
+    "enonce": "Un étudiant de 22 ans présente chaque printemps des éternuements, un écoulement nasal, un larmoiement et une rougeur des yeux. Il prépare ses examens et ne veut pas être somnolent.",
+    "questions": [
+      {
+        "id": "chimie-therapeutique/08-antihistaminiques-h1/cas-001-q1",
+        "type": "multiple",
+        "enonce": "Quelles molécules du cours conviennent le mieux à son souhait de ne pas être somnolent ?",
+        "options": [
+          "Loratadine (Clarityne®)",
+          "Desloratadine (Deslor®)",
+          "Alimémazine (Théralène®)",
+          "Doxylamine",
+          "Prométhazine (Phénergan®)"
+        ],
+        "correctes": [
+          0,
+          1
+        ],
+        "explication": "La loratadine est dépourvue d'effet sédatif et la desloratadine ne traverse pas la BHE. L'alimémazine est employée comme somnifère et la doxylamine dans les insomnies.",
+        "origine": "genere"
+      },
+      {
+        "id": "chimie-therapeutique/08-antihistaminiques-h1/cas-001-q2",
+        "type": "multiple",
+        "enonce": "Pourquoi les antiH1 de 2e génération entraînent-ils moins de somnolence ?",
+        "options": [
+          "Ils diffusent moins dans le système nerveux central",
+          "Ils sont dépourvus d'effets anticholinergiques",
+          "Ils bloquent les récepteurs H3",
+          "Ils sont plus lipophiles",
+          "Ils sont des agonistes des récepteurs H1"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "Les antiH1 de 2e génération diffusent moins dans le SNC, d'où moins de somnolence. L'absence d'effet anticholinergique est vraie mais n'explique pas la somnolence.",
+        "origine": "genere"
+      },
+      {
+        "id": "chimie-therapeutique/08-antihistaminiques-h1/cas-001-q3",
+        "type": "multiple",
+        "enonce": "Concernant la desloratadine :",
+        "options": [
+          "C'est le métabolite actif de la loratadine",
+          "Elle a une très grande affinité pour les récepteurs H1",
+          "Elle exerce un effet prolongé",
+          "Elle est aussi produite par le métabolisme de la rupatadine (CYP3A4)",
+          "Elle a été retirée du marché"
+        ],
+        "correctes": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explication": "Desloratadine : métabolite actif de la loratadine, également produit actif du métabolisme de la rupatadine par le CYP3A4 ; grande affinité H1, effet prolongé.",
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/cas-002",
+    "titre": "Voyageuse sujette au mal des transports",
+    "enonce": "Une femme de 35 ans doit faire une longue traversée en bateau. Elle souffre habituellement de nausées et de vomissements lors des voyages et demande conseil au pharmacien.",
+    "questions": [
+      {
+        "id": "chimie-therapeutique/08-antihistaminiques-h1/cas-002-q1",
+        "type": "multiple",
+        "enonce": "Quels antiH1 du cours sont utilisés dans le mal des transports ?",
+        "options": [
+          "Diménhydrinate (Mercalm®, Nausicalm®)",
+          "Cyclizine (Marzine®)",
+          "Méclozine",
+          "Cétirizine",
+          "Fexofénadine (Telfast®)"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "Diménhydrinate, cyclizine et méclozine sont utilisés dans le mal des transports ; cétirizine et fexofénadine sont indiquées dans les allergies.",
+        "origine": "genere"
+      },
+      {
+        "id": "chimie-therapeutique/08-antihistaminiques-h1/cas-002-q2",
+        "type": "multiple",
+        "enonce": "À quelles familles chimiques appartiennent le diménhydrinate et la cyclizine ?",
+        "options": [
+          "Diménhydrinate : éthanolamine",
+          "Cyclizine : pipérazine",
+          "Diménhydrinate : phénothiazine",
+          "Cyclizine : alkylamine",
+          "Cyclizine : éthylènediamine"
+        ],
+        "correctes": [
+          0,
+          1
+        ],
+        "explication": "Le diménhydrinate est une éthanolamine, la cyclizine une pipérazine (X = H, R = CH3).",
+        "origine": "genere"
+      },
+      {
+        "id": "chimie-therapeutique/08-antihistaminiques-h1/cas-002-q3",
+        "type": "multiple",
+        "enonce": "Quels effets indésirables doit-on lui signaler avec ces antiH1 de 1re génération ?",
+        "options": [
+          "Somnolence",
+          "Sécheresse buccale",
+          "Effets anticholinergiques",
+          "Aucun effet indésirable",
+          "Hypersécrétion salivaire"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "Les antiH1 de 1re génération peuvent causer somnolence, sécheresse buccale et effets anticholinergiques.",
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/cas-003",
+    "titre": "Toux sèche et rhume",
+    "enonce": "Un homme de 45 ans présente un rhume avec rhinite et une toux sèche d'irritation. Il demande quels médicaments contenant un antiH1 pourraient le soulager.",
+    "questions": [
+      {
+        "id": "chimie-therapeutique/08-antihistaminiques-h1/cas-003-q1",
+        "type": "multiple",
+        "enonce": "Quelles spécialités ou associations du cours sont utilisées dans la toux sèche ?",
+        "options": [
+          "Atussine® (mépyramine + dextrométhorphane)",
+          "Dexchlorphéniramine + codéine",
+          "Oxomémazine (Toplexil®)",
+          "Fexofénadine (Telfast®)",
+          "Kétotifène (Zalerg®)"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "Atussine® (sirop antitussif), dexchlorphéniramine + codéine (toux sèches) et oxomémazine (antitussif). Fexofénadine et kétotifène sont indiqués dans les allergies.",
+        "origine": "genere"
+      },
+      {
+        "id": "chimie-therapeutique/08-antihistaminiques-h1/cas-003-q2",
+        "type": "multiple",
+        "enonce": "Le Fervex® contient :",
+        "options": [
+          "De la phéniramine",
+          "Du paracétamol",
+          "De l'acide ascorbique",
+          "De la codéine",
+          "De la cétirizine"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "Fervex® : phéniramine + paracétamol + acide ascorbique, pour les états grippaux, rhinites, rhinopharyngites et rhumes.",
+        "origine": "genere"
+      },
+      {
+        "id": "chimie-therapeutique/08-antihistaminiques-h1/cas-003-q3",
+        "type": "multiple",
+        "enonce": "La phéniramine appartient à une famille caractérisée par :",
+        "options": [
+          "Le fait d'être les plus puissants des antagonistes H1",
+          "Des effets de stimulation du SNC plus fréquents",
+          "La présence d'un noyau phénothiazine",
+          "L'absence totale d'effet sur le SNC",
+          "La présence d'une fonction éther"
+        ],
+        "correctes": [
+          0,
+          1
+        ],
+        "explication": "La phéniramine est une alkylamine : famille des plus puissants antiH1, avec plus fréquemment des effets de stimulation du SNC.",
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "chimie-therapeutique/08-antihistaminiques-h1/cas-004",
+    "titre": "Patient sous traitement à risque d'interactions",
+    "enonce": "Un patient diabétique de 60 ans, traité par antidiabétiques oraux et par un médicament torsadogène, présente une urticaire chronique et souhaite un antihistaminique.",
+    "questions": [
+      {
+        "id": "chimie-therapeutique/08-antihistaminiques-h1/cas-004-q1",
+        "type": "multiple",
+        "enonce": "Selon le cours, quelles interactions faut-il particulièrement surveiller avec les antiH1 ?",
+        "options": [
+          "Antidiabétiques oraux",
+          "Médicaments torsadogènes",
+          "Antibiotiques bêta-lactamines",
+          "Vitamine C",
+          "Toutes les propositions sont fausses"
+        ],
+        "correctes": [
+          0,
+          1
+        ],
+        "explication": "Le cours cite les interactions possibles avec les antidiabétiques oraux et les médicaments torsadogènes.",
+        "origine": "genere"
+      },
+      {
+        "id": "chimie-therapeutique/08-antihistaminiques-h1/cas-004-q2",
+        "type": "multiple",
+        "enonce": "Quel antiH1 a été retiré du marché et remplacé par son métabolite actif dépourvu d'inconvénients cardiaques ?",
+        "options": [
+          "Terfénadine",
+          "Fexofénadine",
+          "Loratadine",
+          "Cétirizine",
+          "Rupatadine"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "La terfénadine a été retirée du marché ; la fexofénadine, son métabolite actif, n'a pas ses inconvénients cardiaques.",
+        "origine": "genere"
+      },
+      {
+        "id": "chimie-therapeutique/08-antihistaminiques-h1/cas-004-q3",
+        "type": "multiple",
+        "enonce": "Quels antiH1 du cours sont indiqués dans l'urticaire chronique ?",
+        "options": [
+          "Cétirizine (urticaires chroniques idiopathiques)",
+          "Lévocétirizine",
+          "Loratadine",
+          "Doxylamine",
+          "Diménhydrinate"
+        ],
+        "correctes": [
+          0,
+          1,
+          2
+        ],
+        "explication": "Cétirizine et lévocétirizine (urticaires chroniques idiopathiques) et loratadine (urticaire chronique). Doxylamine : insomnies ; diménhydrinate : mal des transports.",
+        "origine": "genere"
+      }
+    ]
+  }
+]

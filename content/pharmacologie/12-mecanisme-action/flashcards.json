@@ -1,0 +1,254 @@
+[
+  {
+    "id": "pharmacologie/12-mecanisme-action/flash-001",
+    "recto": "Effet pharmacodynamique",
+    "verso": "Modification mesurable et reproductible, fonctionnelle ou organique, provoquée par la fixation du médicament sur sa cible moléculaire.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/flash-002",
+    "recto": "Caractéristiques de la liaison médicament-cible",
+    "verso": "Liaison réversible ; état d'équilibre (saturation).",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/flash-003",
+    "recto": "Affinité",
+    "verso": "Degré ou capacité de liaison d'un médicament avec sa cible (puissance d'interaction) ; exprimée par le pD2.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/flash-004",
+    "recto": "CE50",
+    "verso": "Concentration molaire du médicament qui produit 50 % de la réponse maximale.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/flash-005",
+    "recto": "Formule du pD2",
+    "verso": "pD2 = - log (CE50) : inverse du logarithme décimal de la CE50.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/flash-006",
+    "recto": "À quoi est assimilée l'affinité ?",
+    "verso": "À la puissance du ligand.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/flash-007",
+    "recto": "CE50 plus faible",
+    "verso": "pD2 plus élevé → affinité et puissance plus grandes (notion de puissance).",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/flash-008",
+    "recto": "Activité intrinsèque",
+    "verso": "Capacité du ligand à produire un effet plus ou moins important en se liant au récepteur = efficacité ; représentée par le facteur α.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/flash-009",
+    "recto": "Formule de l'activité intrinsèque",
+    "verso": "α = EM / EMax (réponse maximale de la substance / réponse maximale de la substance de référence).",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/flash-010",
+    "recto": "Valeurs de α",
+    "verso": "Comprises entre 0 et 1.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/flash-011",
+    "recto": "α = 1",
+    "verso": "Agoniste parfait.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/flash-012",
+    "recto": "0 < α < 1",
+    "verso": "Agoniste partiel.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/flash-013",
+    "recto": "α = 0",
+    "verso": "Antagoniste.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/flash-014",
+    "recto": "Agoniste",
+    "verso": "Substance qui se lie à une cible spécifique et induit un effet similaire à une substance endogène ; caractérisé par α et pD2.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/flash-015",
+    "recto": "Antagoniste",
+    "verso": "Substance qui se fixe sur une cible mais est incapable de donner un effet ; caractérisé par le pD2 seul.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/flash-016",
+    "recto": "Morphiniques agonistes purs",
+    "verso": "Morphine, fentanyl, hydromorphone, oxycodone ; codéine, tramadol.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/flash-017",
+    "recto": "Nalbuphine / buprénorphine / naloxone",
+    "verso": "Agoniste-antagoniste / agoniste partiel / antagoniste.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/flash-018",
+    "recto": "Médicaments à action non spécifique",
+    "verso": "Agissent par leurs propriétés physico-chimiques : antiacides (effet tampon), huile de paraffine (pouvoir lubrifiant).",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/flash-019",
+    "recto": "Médicaments à action spécifique",
+    "verso": "Agissent sur des cibles cellulaires.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/flash-020",
+    "recto": "Nature des cibles moléculaires",
+    "verso": "Essentiellement des protéines : récepteurs des médiateurs, protéines du passage transmembranaire, enzymes.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/flash-021",
+    "recto": "Récepteur pharmacologique",
+    "verso": "Structure chimique fonctionnelle dont la fixation spécifique d'un médiateur endogène ou d'un médicament provoque un stimulus à l'origine de l'effet.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/flash-022",
+    "recto": "Ligand",
+    "verso": "Molécule qui se lie au récepteur.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/flash-023",
+    "recto": "Types de récepteurs membranaires",
+    "verso": "Couplés aux protéines G, récepteurs enzymes, récepteurs canaux.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/flash-024",
+    "recto": "Types de récepteurs intracellulaires",
+    "verso": "Cytosoliques et nucléaires.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/flash-025",
+    "recto": "Trois composants des RCPG",
+    "verso": "Le récepteur, la protéine G et l'effecteur.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/flash-026",
+    "recto": "Activation et rôle des RCPG",
+    "verso": "Activés par des neuromédiateurs, des hormones peptidiques… ; transduction du signal du 1er messager (ligand).",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/flash-027",
+    "recto": "Effecteurs enzymes des RCPG",
+    "verso": "Adénylcyclase, phosphodiestérase GMPc, phospholipase A2, phospholipase C.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/flash-028",
+    "recto": "Effecteurs canaux des RCPG",
+    "verso": "Canaux potassiques et canaux calciques.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/flash-029",
+    "recto": "Voie de l'adénylate cyclase",
+    "verso": "AC activée : ATP → AMPc (second messager) → PKA → effets cellulaires ; la PDE dégrade l'AMPc en AMP.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/flash-030",
+    "recto": "Exemples de RCPG",
+    "verso": "H1/H2, muscariniques, α et β adrénergiques, dopamine, 5HT, morphiniques, GABA-B.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/flash-031",
+    "recto": "Récepteurs cytosoliques",
+    "verso": "Glycoprotéines en interaction avec l'ADN ; modification de la synthèse protéique spécifique ; ex. glucocorticoïdes.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/flash-032",
+    "recto": "Récepteurs nucléaires",
+    "verso": "Se lient à la région promotrice des gènes pour augmenter ou réprimer leur transcription en ARNm ; ex. vitamine D, hormones thyroïdiennes.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/flash-033",
+    "recto": "Canaux ioniques",
+    "verso": "Passage de Na+, K+, Ca++ du côté le plus concentré vers le moins concentré (canaux sodiques, calciques, potassiques).",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/flash-034",
+    "recto": "Canaux sodiques : rôle physiologique",
+    "verso": "Ouverture par dépolarisation, conduction du potentiel d'action (neurones, cellules striées squelettiques et cardiaques).",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/flash-035",
+    "recto": "Inhibiteurs des canaux sodiques",
+    "verso": "Procaïne (anesthésique local) ; quinidine, lidocaïne, phénytoïne (antiarythmiques).",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/flash-036",
+    "recto": "Pompes ioniques",
+    "verso": "Systèmes actifs couplés à une source d'énergie : hydrolyse de l'ATP ou mouvement ionique (généralement Na+).",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/flash-037",
+    "recto": "Na+/K+-ATPase",
+    "verso": "Maintien des concentrations internes en Na+ et K+ et du potentiel membranaire : 2 K+ entrants pour 3 Na+ sortants.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/flash-038",
+    "recto": "Mécanisme des digitaliques",
+    "verso": "Inhibition de la Na+/K+-ATPase (face extracellulaire) → accumulation de Na+ → activation de l'échangeur Na+/Ca2+ → ↑ Ca++ → effet inotrope positif.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/flash-039",
+    "recto": "Médicament et cible enzymatique",
+    "verso": "Substrat (combler un déficit) ou inhibiteur réversible ou irréversible.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/flash-040",
+    "recto": "Acide acétylsalicylique",
+    "verso": "Anti-inflammatoire ; inhibe la cyclooxygénase de façon irréversible ou lentement réversible.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/flash-041",
+    "recto": "Captopril",
+    "verso": "Antihypertenseur ; inhibe l'enzyme de conversion (angiotensine) de façon réversible.",
+    "tags": []
+  },
+  {
+    "id": "pharmacologie/12-mecanisme-action/flash-042",
+    "recto": "Rifampicine",
+    "verso": "Antibiotique ; inhibe l'ARN polymérase de façon irréversible.",
+    "tags": []
+  }
+]

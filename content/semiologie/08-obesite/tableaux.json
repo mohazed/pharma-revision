@@ -1,0 +1,216 @@
+[
+  {
+    "id": "semiologie/08-obesite/tableau-001",
+    "titre": "Classification de l'IMC chez l'adulte (OMS)",
+    "colonnes": [
+      "IMC (kg/m²)",
+      "Classification"
+    ],
+    "lignes": [
+      [
+        "< 18,5",
+        "Maigreur"
+      ],
+      [
+        "18,5 à 24,9",
+        "Corpulence normale"
+      ],
+      [
+        "25 à 29,9",
+        "Surpoids"
+      ],
+      [
+        "30 à 34,9",
+        "Obésité de classe I (modérée)"
+      ],
+      [
+        "35 à 39,9",
+        "Obésité de classe II (sévère)"
+      ],
+      [
+        "≥ 40",
+        "Obésité de classe III (massive)"
+      ]
+    ]
+  },
+  {
+    "id": "semiologie/08-obesite/tableau-002",
+    "titre": "Médicaments qui font grossir",
+    "colonnes": [
+      "Classe",
+      "Exemples"
+    ],
+    "lignes": [
+      [
+        "Corticoïdes",
+        "Prednisone, prednisolone (au long cours)"
+      ],
+      [
+        "Antidiabétiques",
+        "Insuline, sulfamides (gliclazide, glimépiride), pioglitazone"
+      ],
+      [
+        "Antipsychotiques",
+        "Olanzapine, clozapine, rispéridone, quétiapine"
+      ],
+      [
+        "Antidépresseurs",
+        "Mirtazapine, amitriptyline, paroxétine"
+      ],
+      [
+        "Antiépileptiques, lithium",
+        "Valproate, carbamazépine, prégabaline, gabapentine ; lithium"
+      ],
+      [
+        "Autres",
+        "Progestatif injectable, cyproheptadine, certains bêtabloquants"
+      ]
+    ]
+  },
+  {
+    "id": "semiologie/08-obesite/tableau-003",
+    "titre": "Syndrome métabolique (au moins 3 critères sur 5)",
+    "colonnes": [
+      "Critère",
+      "Seuil"
+    ],
+    "lignes": [
+      [
+        "Tour de taille",
+        "≥ 94 cm (homme), ≥ 80 cm (femme)"
+      ],
+      [
+        "Triglycérides",
+        "≥ 1,50 g/L ou traitement"
+      ],
+      [
+        "HDL-cholestérol",
+        "< 0,40 g/L (homme), < 0,50 g/L (femme)"
+      ],
+      [
+        "Pression artérielle",
+        "≥ 130/85 mmHg ou traitement"
+      ],
+      [
+        "Glycémie à jeun",
+        "≥ 1,00 g/L ou traitement"
+      ]
+    ]
+  },
+  {
+    "id": "semiologie/08-obesite/carte",
+    "type": "carte",
+    "titre": "L'obésité",
+    "racine": {
+      "label": "Obésité",
+      "enfants": [
+        {
+          "label": "Définition",
+          "enfants": [
+            {
+              "label": "Maladie chronique",
+              "enfants": []
+            },
+            {
+              "label": "Multifactorielle",
+              "enfants": []
+            },
+            {
+              "label": "Récidivante",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Mesures",
+          "enfants": [
+            {
+              "label": "IMC ≥ 30",
+              "enfants": []
+            },
+            {
+              "label": "Tour de taille ≥ 94 / 80 cm",
+              "enfants": []
+            },
+            {
+              "label": "Pomme / poire",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Interrogatoire et examen",
+          "enfants": [
+            {
+              "label": "Médicaments qui font grossir",
+              "enfants": []
+            },
+            {
+              "label": "Œdèmes, maladie hormonale",
+              "enfants": []
+            },
+            {
+              "label": "Signes cutanés, bon brassard",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Complications",
+          "enfants": [
+            {
+              "label": "Syndrome métabolique",
+              "enfants": []
+            },
+            {
+              "label": "Apnées du sommeil",
+              "enfants": []
+            },
+            {
+              "label": "Retentissement psychologique",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Prise en charge",
+          "enfants": [
+            {
+              "label": "Perdre 5 à 10 %",
+              "enfants": []
+            },
+            {
+              "label": "Quatre piliers",
+              "enfants": []
+            },
+            {
+              "label": "Médicaments, chirurgie",
+              "enfants": []
+            }
+          ]
+        },
+        {
+          "label": "Pharmacien",
+          "enfants": [
+            {
+              "label": "Mesurer",
+              "enfants": []
+            },
+            {
+              "label": "Repérer",
+              "enfants": []
+            },
+            {
+              "label": "Conseiller",
+              "enfants": []
+            },
+            {
+              "label": "Orienter",
+              "enfants": []
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

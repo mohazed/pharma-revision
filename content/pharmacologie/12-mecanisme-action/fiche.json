@@ -1,0 +1,78 @@
+{
+  "id": "pharmacologie/12-mecanisme-action/fiche-001",
+  "titre": "Pharmacodynamie : mécanisme d'action des médicaments",
+  "sections": [
+    {
+      "titre": "Introduction",
+      "points": [
+        "**Effet pharmacodynamique** : modification *mesurable et reproductible*, fonctionnelle ou organique, provoquée par la fixation du médicament sur sa cible moléculaire.",
+        "Médicament → cible → effet pharmacologique."
+      ]
+    },
+    {
+      "titre": "Liaison médicament-cible",
+      "points": [
+        "Liaison **réversible** ; état d'équilibre (**saturation**).",
+        "Affinité (reconnaissance mutuelle) → couplage avec des effecteurs → transduction intracellulaire → réponse biologique (activité) ; sélectivité.",
+        "**Affinité (pD2)** : capacité de liaison à la cible = puissance d'interaction ; **pD2 = - log (CE50)**.",
+        "**CE50** : concentration molaire produisant 50 % de la réponse maximale. CE50 plus faible ⇒ ligand plus puissant.",
+        "**Activité intrinsèque (α)** : efficacité du ligand ; **α = EM / EMax**, entre 0 et 1.",
+        "α = 1 agoniste parfait ; 0 < α < 1 agoniste partiel ; α = 0 antagoniste.",
+        "Agoniste : α + pD2 ; antagoniste : pD2 seul (se fixe sans effet).",
+        "Morphiniques : agonistes purs (morphine, fentanyl, hydromorphone, oxycodone, codéine, tramadol), agoniste-antagoniste (nalbuphine), agoniste partiel (buprénorphine), antagoniste (naloxone)."
+      ]
+    },
+    {
+      "titre": "Mécanisme d'action",
+      "points": [
+        "**Action non spécifique** : propriétés physico-chimiques — antiacides (sels d'Al et de Mg, effet tampon), huile de paraffine (pouvoir lubrifiant).",
+        "**Action spécifique** : cibles cellulaires, essentiellement des protéines."
+      ]
+    },
+    {
+      "titre": "A. Récepteurs des médiateurs",
+      "points": [
+        "Récepteur pharmacologique : structure chimique fonctionnelle ; la molécule qui s'y lie = **ligand**.",
+        "Membranaires : **RCPG**, récepteurs enzymes, récepteurs canaux. Intracellulaires : cytosoliques, nucléaires.",
+        "RCPG : récepteur + protéine G (α-GDP, β, γ) + effecteur ; activés par neuromédiateurs, hormones peptidiques ; transduction du 1er messager.",
+        "Effecteurs enzymes : adénylcyclase, PDE GMPc, phospholipase A2, phospholipase C ; effecteurs canaux : K+, Ca++.",
+        "AC : ATP → **AMPc** (second messager) → PKA → effets ; PDE : AMPc → AMP.",
+        "Exemples de RCPG : H1/H2, muscariniques, α/β adrénergiques, dopamine, 5HT, morphiniques, GABA-B.",
+        "Cytosoliques : glycoprotéines liées à l'ADN, modification de la synthèse protéique (glucocorticoïdes).",
+        "Nucléaires : région promotrice des gènes, ↑ ou ↓ transcription en ARNm (vitamine D, hormones thyroïdiennes)."
+      ]
+    },
+    {
+      "titre": "B. Passage transmembranaire",
+      "points": [
+        "**Canaux ioniques** (Na+, Ca++, K+) : du côté le plus concentré vers le moins concentré.",
+        "Canaux sodiques : complexes glycoprotéiques (neurones, cellules striées squelettiques et cardiaques) ; ouverture par dépolarisation → conduction du PA.",
+        "Inhibiteurs des canaux Na+ : procaïne (anesthésie locale) ; quinidine, lidocaïne, phénytoïne (arythmie).",
+        "**Pompes ioniques** : systèmes actifs (hydrolyse de l'ATP ou mouvement d'ions, généralement Na+).",
+        "**Na+/K+-ATPase** : 2 K+ entrants / 3 Na+ sortants ; deux hétérodimères (chaîne lourde + chaîne légère).",
+        "**Digitaliques** : inhibition de la pompe (face extracellulaire) → Na+ ↑ → échangeur Na+/Ca2+ → Ca++ ↑ → inotrope positif ; insuffisance cardiaque."
+      ]
+    },
+    {
+      "titre": "C. Enzymes",
+      "points": [
+        "Médicament = substrat (combler un déficit) ou inhibiteur réversible / irréversible (inflammation, bactérie).",
+        "Aspirine : cyclooxygénase, irréversible ou lentement réversible ; captopril : enzyme de conversion, réversible ; rifampicine : ARN polymérase, irréversible."
+      ]
+    }
+  ],
+  "aRetenir": [
+    "pD2 = - log (CE50) mesure l'affinité (puissance) ; α = EM / EMax mesure l'efficacité.",
+    "α : 1 = agoniste parfait, entre 0 et 1 = partiel, 0 = antagoniste.",
+    "Cibles = protéines : récepteurs, canaux/pompes, enzymes.",
+    "Digitaliques : inhibent la Na+/K+-ATPase → ↑ Ca++ intracellulaire → effet inotrope positif."
+  ],
+  "pieges": [
+    "Affinité ≠ efficacité : deux agonistes peuvent avoir la même CE50 et des Emax différents.",
+    "pD2 = - log décimal (pas log népérien, pas + log).",
+    "Na+/K+-ATPase : 3 Na+ **sortent**, 2 K+ **entrent** (pas l'inverse).",
+    "Glucocorticoïdes = récepteurs **cytosoliques** ; vitamine D et hormones thyroïdiennes = récepteurs **nucléaires**.",
+    "Canaux ioniques : du plus concentré vers le moins concentré ; les pompes peuvent transporter contre le gradient.",
+    "Captopril = inhibition **réversible** ; rifampicine = **irréversible** ; aspirine = irréversible ou lentement réversible."
+  ]
+}

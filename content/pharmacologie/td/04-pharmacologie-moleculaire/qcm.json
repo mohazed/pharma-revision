@@ -1,0 +1,892 @@
+[
+  {
+    "id": "pharmacologie/td/04-pharmacologie-moleculaire/qcm-001",
+    "type": "multiple",
+    "enonce": "Protocole – Concernant la préparation étudiée dans ce TD :",
+    "options": [
+      "Il s'agit d'un jéjunum isolé de lapin monté en bain à organe",
+      "Elle sert à étudier l'influence de l'acétylcholine sur ce tissu",
+      "Elle sert à étudier l'influence de la scopolamine vis-à-vis de l'action de l'acétylcholine",
+      "L'expérience est réalisée in vivo chez le lapin entier",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "La préparation est un organe isolé (jéjunum de lapin) placé dans un bain à organe : a, b et c reprennent les deux objectifs de l'énoncé. d est faux : il s'agit d'un organe isolé, pas d'un animal entier. e est donc faux.",
+    "source": {
+      "page": 1,
+      "extrait": "Une préparation à base de jéjunum isolé de l'estomac de lapin est montée dans le but d'étudier"
+    },
+    "difficulte": 1,
+    "tags": [
+      "protocole",
+      "organe isolé"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/04-pharmacologie-moleculaire/qcm-002",
+    "type": "multiple",
+    "enonce": "Protocole – Concernant la seconde série d'expériences (en présence de scopolamine) :",
+    "options": [
+      "L'organe est lavé puis laissé au repos 2 min",
+      "L'organe est laissé au repos 3 min après le lavage",
+      "On ajoute 5 µg/ml de scopolamine dans le bain",
+      "La scopolamine agit 3 min avant l'ajout d'acétylcholine",
+      "La scopolamine est ajoutée après les doses d'acétylcholine"
+    ],
+    "correctes": [
+      0,
+      2,
+      3
+    ],
+    "explication": "On lave, on laisse reposer 2 min (a juste, b faux), on ajoute 5 µg/ml de scopolamine (c) qu'on laisse agir 3 min (d) puis on ajoute les doses croissantes d'acétylcholine : la scopolamine précède l'agoniste (e faux).",
+    "source": {
+      "page": 1,
+      "extrait": "On lave et on laisse l'organe se reposer pendant 2 min, on ajoute dans le bain 5 g/ml de scopolamine"
+    },
+    "difficulte": 2,
+    "tags": [
+      "protocole",
+      "scopolamine"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/04-pharmacologie-moleculaire/qcm-003",
+    "type": "multiple",
+    "enonce": "Protocole – En présence de scopolamine, les doses d'acétylcholine :",
+    "options": [
+      "Sont ajoutées jusqu'à obtenir des effets de même intensité qu'avec l'acétylcholine seule",
+      "Sont ajoutées en doses décroissantes",
+      "Vont de 20 à 200 µg/ml",
+      "Vont de 10 à 100 µg/ml",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      2
+    ],
+    "explication": "Les doses d'acétylcholine sont croissantes (b faux) jusqu'à reproduire les effets obtenus avec l'acétylcholine seule (a). Le tableau II va de 20 à 200 µg/ml (c) ; 10 à 100 µg/ml correspond au tableau I (d faux).",
+    "source": {
+      "page": 1,
+      "extrait": "jusqu'à l'obtention des effets ayant la même intensité que l'acétylcholine seule."
+    },
+    "difficulte": 1,
+    "tags": [
+      "protocole"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/04-pharmacologie-moleculaire/qcm-004",
+    "type": "multiple",
+    "enonce": "Tableau I – Concernant la réponse maximale à l'acétylcholine seule :",
+    "options": [
+      "Elle vaut 60 mm de contraction",
+      "Elle est atteinte dès 90 µg/ml",
+      "Elle vaut 100 mm de contraction",
+      "Elle n'est atteinte qu'à 100 µg/ml",
+      "Elle vaut 50 mm de contraction"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "La contraction plafonne à 60 mm pour 90 et 100 µg/ml : l'effet maximal (60 mm) est atteint dès 90 µg/ml. 100 mm n'est jamais observé ; 50 mm correspond à 80 µg/ml.",
+    "source": {
+      "page": 1,
+      "extrait": "Contraction du Jéjunum (mm) 5 10 15 20 25 30 40 50 60 60"
+    },
+    "difficulte": 1,
+    "tags": [
+      "effet maximal",
+      "tableau I"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/04-pharmacologie-moleculaire/qcm-005",
+    "type": "multiple",
+    "enonce": "Tableau I – En exprimant la réponse en pourcentage de la réponse maximale (60 mm) :",
+    "options": [
+      "30 µg/ml d'acétylcholine donnent 25 % de la réponse maximale",
+      "60 µg/ml donnent 50 % de la réponse maximale",
+      "80 µg/ml donnent environ 83,3 % de la réponse maximale",
+      "70 µg/ml donnent environ 58,3 % de la réponse maximale",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "% = contraction / 60 × 100 : 15/60 = 25 % (a), 30/60 = 50 % (b), 50/60 ≈ 83,3 % (c). À 70 µg/ml la contraction est de 40 mm, soit ≈ 66,7 % et non 58,3 % (d faux), donc e faux.",
+    "source": {
+      "page": 2,
+      "extrait": "réponse en pourcentage de réponse maximale en fonction du logarithme décimale de la dose"
+    },
+    "difficulte": 2,
+    "tags": [
+      "pourcentage de réponse",
+      "courbe dose-réponse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/04-pharmacologie-moleculaire/qcm-006",
+    "type": "multiple",
+    "enonce": "Courbe dose-réponse – Logarithmes décimaux des doses utilisées :",
+    "options": [
+      "log 10 = 1",
+      "log 100 = 2",
+      "log 60 ≈ 1,78",
+      "log 120 ≈ 2,08",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explication": "Les quatre valeurs sont exactes ; l'abscisse de la courbe demandée est le logarithme décimal de la dose. La proposition e est donc juste.",
+    "source": {
+      "page": 2,
+      "extrait": "réponse en pourcentage de réponse maximale en fonction du logarithme décimale de la dose"
+    },
+    "difficulte": 1,
+    "tags": [
+      "logarithme",
+      "courbe dose-réponse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/04-pharmacologie-moleculaire/qcm-007",
+    "type": "multiple",
+    "enonce": "Courbe dose-réponse – La courbe demandée à la question 1 se trace avec :",
+    "options": [
+      "En ordonnée, la réponse en pourcentage de la réponse maximale",
+      "En abscisse, le logarithme décimal de la dose",
+      "En abscisse, la dose en échelle linéaire",
+      "En ordonnée, la contraction brute en mm",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "L'énoncé demande la réponse en pourcentage de la réponse maximale en fonction du logarithme décimal de la dose : a et b justes, c et d faux.",
+    "source": {
+      "page": 2,
+      "extrait": "réponse en pourcentage de réponse maximale en fonction du logarithme décimale de la dose"
+    },
+    "difficulte": 1,
+    "tags": [
+      "courbe dose-réponse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/04-pharmacologie-moleculaire/qcm-008",
+    "type": "multiple",
+    "enonce": "Acétylcholine seule – La dose donnant 50 % de la réponse maximale (CE50) :",
+    "options": [
+      "Vaut 60 µg/ml",
+      "Vaut 30 µg/ml",
+      "Correspond à une contraction de 30 mm",
+      "Vaut 50 µg/ml",
+      "Vaut 120 µg/ml"
+    ],
+    "correctes": [
+      0,
+      2
+    ],
+    "explication": "50 % de 60 mm = 30 mm, obtenus avec 60 µg/ml d'acétylcholine seule (a, c). 30 est la contraction en mm, pas la dose (b faux) ; 50 µg/ml donnent 25 mm (d faux) ; 120 µg/ml est la CE50 en présence de scopolamine (e faux).",
+    "source": {
+      "page": 1,
+      "extrait": "Contraction du Jéjunum (mm) 5 10 15 20 25 30 40 50 60 60"
+    },
+    "difficulte": 2,
+    "tags": [
+      "CE50"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/04-pharmacologie-moleculaire/qcm-009",
+    "type": "multiple",
+    "enonce": "Acétylcholine + scopolamine – Concernant la dose d'acétylcholine donnant 50 % de la réponse maximale :",
+    "options": [
+      "Elle vaut 120 µg/ml",
+      "Elle vaut 60 µg/ml",
+      "Elle est doublée par rapport à l'acétylcholine seule",
+      "Le rapport des doses équiactives (x) vaut 2",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      0,
+      2,
+      3
+    ],
+    "explication": "En présence de scopolamine, 30 mm (50 %) sont obtenus avec 120 µg/ml (a), soit le double de 60 µg/ml (c) : x = 120/60 = 2 (d). b est la valeur sans antagoniste, donc e faux.",
+    "source": {
+      "page": 1,
+      "extrait": "Dose d'acétylcholine en présence de scopolamine (g)/ml 20 40 60 80 100 120 140 160 180 200"
+    },
+    "difficulte": 2,
+    "tags": [
+      "CE50",
+      "rapport des doses"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/04-pharmacologie-moleculaire/qcm-010",
+    "type": "multiple",
+    "enonce": "Conversion – Pour la CE50 de l'acétylcholine seule (60 µg/ml) :",
+    "options": [
+      "60 µg/ml = 0,06 g/L",
+      "La concentration molaire vaut environ 3,3 × 10⁻⁴ mol/L",
+      "La concentration molaire vaut environ 3,3 × 10⁻⁷ mol/L",
+      "On utilise le poids moléculaire de l'acétylcholine, 181,7 g/mol",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      3
+    ],
+    "explication": "60 µg/ml = 60 mg/L = 0,06 g/L ; 0,06 / 181,7 ≈ 3,3 × 10⁻⁴ mol/L (b juste, c faux d'un facteur 1000). Le poids moléculaire utilisé est celui de l'acétylcholine (d).",
+    "source": {
+      "page": 2,
+      "extrait": "Poids moléculaire Acétylcholine = 181,7gr/mol"
+    },
+    "difficulte": 2,
+    "tags": [
+      "conversion molaire"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/04-pharmacologie-moleculaire/qcm-011",
+    "type": "multiple",
+    "enonce": "pD2 – Concernant le pD2 de l'acétylcholine seule :",
+    "options": [
+      "pD2 = − log de la CE50 exprimée en mol/L",
+      "pD2 ≈ 3,48",
+      "pD2 ≈ 3,18",
+      "pD2 ≈ 4,89",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "pD2 = − log CE50 (molaire) = − log (3,3 × 10⁻⁴) ≈ 3,48. 3,18 est le pD2 en présence de scopolamine et 4,89 le pA2 de la scopolamine.",
+    "source": {
+      "page": 2,
+      "extrait": "Calculer les PD2 de l'Acétylcholine seule et l'Acétylcholine en présence scopolamine."
+    },
+    "difficulte": 2,
+    "tags": [
+      "pD2"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/04-pharmacologie-moleculaire/qcm-012",
+    "type": "multiple",
+    "enonce": "pD2 – En présence de scopolamine, le pD2 de l'acétylcholine :",
+    "options": [
+      "Vaut environ 3,18",
+      "Diminue par rapport à l'acétylcholine seule",
+      "Augmente par rapport à l'acétylcholine seule",
+      "Diminue d'environ 0,30 unité (log 2)",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      0,
+      1,
+      3
+    ],
+    "explication": "CE50 = 120 µg/ml = 6,6 × 10⁻⁴ mol/L ; pD2 = − log (6,6 × 10⁻⁴) ≈ 3,18. Il diminue (c faux) de 3,48 − 3,18 ≈ 0,30 = log 2, car la CE50 est doublée.",
+    "source": {
+      "page": 2,
+      "extrait": "Calculer les PD2 de l'Acétylcholine seule et l'Acétylcholine en présence scopolamine."
+    },
+    "difficulte": 2,
+    "tags": [
+      "pD2"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/04-pharmacologie-moleculaire/qcm-013",
+    "type": "multiple",
+    "enonce": "pD2 – La diminution du pD2 de l'acétylcholine en présence de scopolamine traduit :",
+    "options": [
+      "Une diminution de l'affinité apparente de l'acétylcholine",
+      "Un déplacement de la courbe vers la droite",
+      "Une diminution de l'effet maximal de l'acétylcholine",
+      "Un déplacement de la courbe vers la gauche",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Il faut une dose double d'acétylcholine pour le même effet : la courbe se déplace vers la droite (b, d faux) et l'affinité apparente de l'agoniste diminue (a). L'effet maximal (60 mm) est conservé (c faux).",
+    "source": {
+      "page": 2,
+      "extrait": "Comparer les deux courbes et déduire de quel phénomène il s'agit ?"
+    },
+    "difficulte": 2,
+    "tags": [
+      "pD2",
+      "affinité"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/04-pharmacologie-moleculaire/qcm-014",
+    "type": "multiple",
+    "enonce": "Comparaison des deux courbes – On observe :",
+    "options": [
+      "Un déplacement parallèle de la courbe vers la droite",
+      "Un effet maximal inchangé (60 mm, 100 %)",
+      "Un effet maximal diminué",
+      "Un déplacement de la courbe vers la gauche",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Toutes les doses sont doublées pour la même réponse : décalage constant de log 2 ≈ 0,30 en abscisse, donc parallèle et vers la droite. L'effet maximal reste 60 mm.",
+    "source": {
+      "page": 2,
+      "extrait": "Comparer les deux courbes et déduire de quel phénomène il s'agit ?"
+    },
+    "difficulte": 2,
+    "tags": [
+      "comparaison des courbes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/04-pharmacologie-moleculaire/qcm-015",
+    "type": "multiple",
+    "enonce": "Phénomène observé – Il s'agit :",
+    "options": [
+      "D'un antagonisme",
+      "D'un antagonisme de type compétitif",
+      "D'un antagonisme surmontable par augmentation de la dose d'agoniste",
+      "D'un antagonisme non compétitif",
+      "D'une synergie"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Déplacement parallèle vers la droite sans baisse de l'effet maximal : antagonisme compétitif, surmontable puisqu'en augmentant les doses d'acétylcholine on retrouve le même effet. Un antagonisme non compétitif diminuerait l'effet maximal ; il n'y a pas de synergie.",
+    "source": {
+      "page": 2,
+      "extrait": "Comparer les deux courbes et déduire de quel phénomène il s'agit ?"
+    },
+    "difficulte": 2,
+    "tags": [
+      "antagonisme compétitif"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/04-pharmacologie-moleculaire/qcm-016",
+    "type": "multiple",
+    "enonce": "Antagonisme compétitif – Dans cet exercice, il se caractérise par :",
+    "options": [
+      "Une action de l'acétylcholine et de la scopolamine sur le même récepteur",
+      "Un effet surmontable par augmentation de la quantité d'agoniste",
+      "Une diminution de l'activité intrinsèque (effet maximal) de l'acétylcholine",
+      "Une diminution de l'affinité apparente de l'acétylcholine",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      0,
+      1,
+      3
+    ],
+    "explication": "Dans l'antagonisme compétitif, agoniste et antagoniste se disputent le même récepteur ; l'effet est surmontable et l'affinité apparente de l'agoniste diminue. L'effet maximal (activité intrinsèque) est conservé : c faux, donc e faux.",
+    "source": {
+      "page": 1,
+      "extrait": "jusqu'à l'obtention des effets ayant la même intensité que l'acétylcholine seule."
+    },
+    "difficulte": 3,
+    "tags": [
+      "antagonisme compétitif"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/04-pharmacologie-moleculaire/qcm-017",
+    "type": "multiple",
+    "enonce": "Conversion – Concernant la concentration de scopolamine dans le bain (5 µg/ml) :",
+    "options": [
+      "5 µg/ml = 5 × 10⁻³ g/L",
+      "La concentration molaire vaut environ 1,3 × 10⁻⁵ mol/L",
+      "On utilise le poids moléculaire de la scopolamine, 384,3 g/mol",
+      "La concentration molaire vaut environ 1,3 × 10⁻² mol/L",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "5 µg/ml = 5 mg/L = 5 × 10⁻³ g/L ; 5 × 10⁻³ / 384,3 ≈ 1,3 × 10⁻⁵ mol/L. d est faux d'un facteur 1000.",
+    "source": {
+      "page": 2,
+      "extrait": "Poids moléculaire Scopolamine = 384,3 gr/mol"
+    },
+    "difficulte": 2,
+    "tags": [
+      "conversion molaire"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/04-pharmacologie-moleculaire/qcm-018",
+    "type": "multiple",
+    "enonce": "pAx – Concernant le pAx de la scopolamine vis-à-vis de l'acétylcholine :",
+    "options": [
+      "pAx = − log de la concentration molaire d'antagoniste qui oblige à multiplier par x la dose d'agoniste pour garder le même effet",
+      "Ici x = 2",
+      "Ici x = 5",
+      "Ici pAx = pA2",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      3
+    ],
+    "explication": "La dose d'acétylcholine est multipliée par 2 en présence de 5 µg/ml de scopolamine : x = 2 (c faux, 5 est la concentration de scopolamine en µg/ml). Le pAx est donc ici un pA2.",
+    "source": {
+      "page": 2,
+      "extrait": "Calculer le PAx et le PA2 de la scopolamine vis-à-vis de l'acétylcholine."
+    },
+    "difficulte": 3,
+    "tags": [
+      "pAx",
+      "pA2"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/04-pharmacologie-moleculaire/qcm-019",
+    "type": "multiple",
+    "enonce": "pA2 – Concernant le pA2 de la scopolamine :",
+    "options": [
+      "pA2 ≈ 4,89",
+      "pA2 ≈ 5,30",
+      "pA2 ≈ 3,48",
+      "Il se calcule avec le poids moléculaire de la scopolamine",
+      "Il se calcule avec le poids moléculaire de l'acétylcholine"
+    ],
+    "correctes": [
+      0,
+      3
+    ],
+    "explication": "pA2 = − log [scopolamine] = − log (5 × 10⁻³ / 384,3) = − log (1,3 × 10⁻⁵) ≈ 4,89. La concentration est celle de l'antagoniste, donc son propre poids moléculaire (384,3 g/mol). 3,48 est le pD2 de l'acétylcholine.",
+    "source": {
+      "page": 2,
+      "extrait": "Poids moléculaire Scopolamine = 384,3 gr/mol"
+    },
+    "difficulte": 3,
+    "tags": [
+      "pA2"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/04-pharmacologie-moleculaire/qcm-020",
+    "type": "multiple",
+    "enonce": "pA2 – Le pA2 :",
+    "options": [
+      "Est une grandeur propre à l'antagoniste (ici la scopolamine)",
+      "Exprime l'affinité de l'antagoniste pour le récepteur",
+      "Est d'autant plus élevé que la concentration d'antagoniste nécessaire pour doubler la dose d'agoniste est faible",
+      "Est une grandeur propre à l'agoniste",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Le pA2 caractérise l'antagoniste : plus il faut peu d'antagoniste pour doubler la dose d'agoniste, plus − log [B] est grand et plus l'affinité de l'antagoniste est forte. Le pD2 est la grandeur de l'agoniste (d faux).",
+    "source": {
+      "page": 2,
+      "extrait": "Calculer le PAx et le PA2 de la scopolamine vis-à-vis de l'acétylcholine."
+    },
+    "difficulte": 3,
+    "tags": [
+      "pA2"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/04-pharmacologie-moleculaire/qcm-021",
+    "type": "multiple",
+    "enonce": "Classification – La scopolamine est :",
+    "options": [
+      "Un parasympatholytique",
+      "Un antagoniste de l'acétylcholine",
+      "Un parasympathomimétique direct",
+      "Un parasympathomimétique indirect",
+      "Un agoniste de l'acétylcholine"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "La scopolamine s'oppose de façon compétitive à l'acétylcholine, parasympathomimétique direct : c'est donc un antagoniste de l'acétylcholine, un parasympatholytique.",
+    "source": {
+      "page": 2,
+      "extrait": "A quelle catégorie appartient la scopolamine sachant que l'acétylcholine est un parasympathomimétique direct ?"
+    },
+    "difficulte": 1,
+    "tags": [
+      "parasympatholytique",
+      "scopolamine"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/04-pharmacologie-moleculaire/qcm-022",
+    "type": "multiple",
+    "enonce": "Acétylcholine – D'après l'énoncé :",
+    "options": [
+      "C'est un parasympathomimétique direct",
+      "Elle provoque une contraction du jéjunum dose-dépendante",
+      "Son poids moléculaire est de 181,7 g/mol",
+      "C'est un antagoniste",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "L'énoncé précise que l'acétylcholine est un parasympathomimétique direct et donne son poids moléculaire (181,7 g/mol). Le tableau I montre une contraction croissante avec la dose. Elle est agoniste, non antagoniste (d faux).",
+    "source": {
+      "page": 2,
+      "extrait": "A quelle catégorie appartient la scopolamine sachant que l'acétylcholine est un parasympathomimétique direct ?"
+    },
+    "difficulte": 1,
+    "tags": [
+      "acétylcholine"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/04-pharmacologie-moleculaire/qcm-023",
+    "type": "multiple",
+    "enonce": "Tableau II – En présence de scopolamine :",
+    "options": [
+      "40 µg/ml d'acétylcholine donnent 10 mm",
+      "120 µg/ml donnent 30 mm",
+      "200 µg/ml donnent 60 mm",
+      "100 µg/ml donnent 50 mm",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "D'après le tableau II : 40 → 10 mm, 120 → 30 mm, 200 → 60 mm. 100 µg/ml donnent 25 mm (et non 50 mm), donc d et e faux.",
+    "source": {
+      "page": 1,
+      "extrait": "Dose d'acétylcholine en présence de scopolamine (g)/ml 20 40 60 80 100 120 140 160 180 200"
+    },
+    "difficulte": 1,
+    "tags": [
+      "tableau II"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/04-pharmacologie-moleculaire/qcm-024",
+    "type": "multiple",
+    "enonce": "Tableau II – Concernant l'effet maximal en présence de scopolamine :",
+    "options": [
+      "Il est atteint dès 180 µg/ml d'acétylcholine",
+      "Il vaut 60 mm",
+      "Il plafonne à 30 mm",
+      "Il n'est jamais atteint",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "La contraction atteint 60 mm à 180 µg/ml et reste à 60 mm à 200 µg/ml : l'effet maximal est le même qu'avec l'acétylcholine seule.",
+    "source": {
+      "page": 1,
+      "extrait": "Dose d'acétylcholine en présence de scopolamine (g)/ml 20 40 60 80 100 120 140 160 180 200"
+    },
+    "difficulte": 1,
+    "tags": [
+      "effet maximal",
+      "tableau II"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/04-pharmacologie-moleculaire/qcm-025",
+    "type": "multiple",
+    "enonce": "Tableau II – En pourcentage de la réponse maximale, en présence de scopolamine :",
+    "options": [
+      "60 µg/ml d'acétylcholine donnent 25 %",
+      "140 µg/ml donnent environ 66,7 %",
+      "160 µg/ml donnent environ 83,3 %",
+      "20 µg/ml donnent environ 16,7 %",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "60 → 15 mm = 25 % ; 140 → 40 mm ≈ 66,7 % ; 160 → 50 mm ≈ 83,3 %. 20 µg/ml donnent 5 mm, soit ≈ 8,3 % (d faux).",
+    "source": {
+      "page": 1,
+      "extrait": "Dose d'acétylcholine en présence de scopolamine (g)/ml 20 40 60 80 100 120 140 160 180 200"
+    },
+    "difficulte": 2,
+    "tags": [
+      "pourcentage de réponse",
+      "tableau II"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/04-pharmacologie-moleculaire/qcm-026",
+    "type": "multiple",
+    "enonce": "Doses équiactives – En comparant les tableaux I et II :",
+    "options": [
+      "Pour chaque intensité de contraction, la dose d'acétylcholine en présence de scopolamine est le double de la dose seule",
+      "Le rapport des doses équiactives est constant",
+      "Le rapport des doses équiactives varie selon le niveau de réponse",
+      "Le rapport des doses équiactives vaut 5",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Chaque contraction (5, 10 … 60 mm) est obtenue avec une dose deux fois plus forte en présence de scopolamine : rapport constant égal à 2.",
+    "source": {
+      "page": 1,
+      "extrait": "Dose d'acétylcholine en présence de scopolamine (g)/ml 20 40 60 80 100 120 140 160 180 200"
+    },
+    "difficulte": 2,
+    "tags": [
+      "rapport des doses"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/04-pharmacologie-moleculaire/qcm-027",
+    "type": "unique",
+    "enonce": "Calcul – Valeur arrondie du pD2 de l'acétylcholine seule :",
+    "options": [
+      "3,18",
+      "3,48",
+      "4,89",
+      "1,78",
+      "6,48"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "CE50 = 60 µg/ml = 0,06 / 181,7 ≈ 3,3 × 10⁻⁴ mol/L ; pD2 = − log (3,3 × 10⁻⁴) ≈ 3,48. 1,78 = log 60 (dose en µg/ml, non molaire).",
+    "source": {
+      "page": 2,
+      "extrait": "Calculer les PD2 de l'Acétylcholine seule et l'Acétylcholine en présence scopolamine."
+    },
+    "difficulte": 2,
+    "tags": [
+      "pD2",
+      "calcul"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/04-pharmacologie-moleculaire/qcm-028",
+    "type": "unique",
+    "enonce": "Calcul – Valeur arrondie du pA2 de la scopolamine vis-à-vis de l'acétylcholine :",
+    "options": [
+      "4,89",
+      "5,30",
+      "3,18",
+      "2,08",
+      "4,59"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "[Scopolamine] = 5 × 10⁻³ / 384,3 ≈ 1,3 × 10⁻⁵ mol/L ; x = 2 donc pA2 = − log (1,3 × 10⁻⁵) ≈ 4,89.",
+    "source": {
+      "page": 2,
+      "extrait": "Calculer le PAx et le PA2 de la scopolamine vis-à-vis de l'acétylcholine."
+    },
+    "difficulte": 2,
+    "tags": [
+      "pA2",
+      "calcul"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/04-pharmacologie-moleculaire/qcm-029",
+    "type": "unique",
+    "enonce": "Calcul – CE50 molaire de l'acétylcholine seule :",
+    "options": [
+      "≈ 3,3 × 10⁻⁴ mol/L",
+      "≈ 6,6 × 10⁻⁴ mol/L",
+      "≈ 1,3 × 10⁻⁵ mol/L",
+      "≈ 3,3 × 10⁻⁷ mol/L",
+      "≈ 0,33 mol/L"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "60 µg/ml = 0,06 g/L ; 0,06 / 181,7 ≈ 3,3 × 10⁻⁴ mol/L. 6,6 × 10⁻⁴ correspond à la CE50 en présence de scopolamine ; 1,3 × 10⁻⁵ à la concentration de scopolamine.",
+    "source": {
+      "page": 2,
+      "extrait": "Poids moléculaire Acétylcholine = 181,7gr/mol"
+    },
+    "difficulte": 2,
+    "tags": [
+      "conversion molaire",
+      "calcul"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/04-pharmacologie-moleculaire/qcm-030",
+    "type": "unique",
+    "enonce": "Calcul – CE50 molaire de l'acétylcholine en présence de scopolamine :",
+    "options": [
+      "≈ 3,3 × 10⁻⁴ mol/L",
+      "≈ 6,6 × 10⁻⁴ mol/L",
+      "≈ 1,3 × 10⁻⁵ mol/L",
+      "≈ 6,6 × 10⁻⁷ mol/L",
+      "≈ 1,2 × 10⁻¹ mol/L"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "120 µg/ml = 0,12 g/L ; 0,12 / 181,7 ≈ 6,6 × 10⁻⁴ mol/L, d'où pD2 ≈ 3,18.",
+    "source": {
+      "page": 2,
+      "extrait": "Poids moléculaire Acétylcholine = 181,7gr/mol"
+    },
+    "difficulte": 2,
+    "tags": [
+      "conversion molaire",
+      "calcul"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/04-pharmacologie-moleculaire/qcm-031",
+    "type": "multiple",
+    "enonce": "pD2 et rapport des doses – La différence entre le pD2 de l'acétylcholine seule et celui en présence de scopolamine :",
+    "options": [
+      "Est égale à log x (x = rapport des doses équiactives)",
+      "Vaut environ 0,30",
+      "Est égale au pA2",
+      "Vaut 2",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "ΔpD2 = − log CE50 + log CE50' = log (CE50'/CE50) = log x = log 2 ≈ 0,30. Elle n'est pas égale au pA2 (≈ 4,89) ; 2 est la valeur de x lui-même.",
+    "source": {
+      "page": 2,
+      "extrait": "Calculer les PD2 de l'Acétylcholine seule et l'Acétylcholine en présence scopolamine."
+    },
+    "difficulte": 3,
+    "tags": [
+      "pD2",
+      "rapport des doses"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/04-pharmacologie-moleculaire/qcm-032",
+    "type": "multiple",
+    "enonce": "Tableau I – Concernant l'allure de la réponse à l'acétylcholine seule :",
+    "options": [
+      "Un plateau est atteint à 90 et 100 µg/ml",
+      "Entre 10 et 60 µg/ml, la contraction augmente de 5 mm par palier de 10 µg/ml",
+      "Entre 60 et 90 µg/ml, la contraction augmente de 10 mm par palier de 10 µg/ml",
+      "La contraction est proportionnelle à la dose sur toute la gamme",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "De 10 à 60 µg/ml : +5 mm par palier (5 → 30 mm) ; de 60 à 90 : +10 mm par palier (30 → 60 mm) ; puis plateau à 60 mm. La réponse n'est donc pas proportionnelle sur toute la gamme (d et e faux).",
+    "source": {
+      "page": 1,
+      "extrait": "Contraction du Jéjunum (mm) 5 10 15 20 25 30 40 50 60 60"
+    },
+    "difficulte": 2,
+    "tags": [
+      "tableau I",
+      "effet maximal"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/td/04-pharmacologie-moleculaire/qcm-033",
+    "type": "multiple",
+    "enonce": "Données de l'énoncé – Les poids moléculaires fournis :",
+    "options": [
+      "Acétylcholine : 181,7 g/mol",
+      "Scopolamine : 384,3 g/mol",
+      "Servent à exprimer les concentrations en mol/L pour calculer pD2, pAx et pA2",
+      "Acétylcholine : 384,3 g/mol",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "L'énoncé donne 181,7 g/mol pour l'acétylcholine et 384,3 g/mol pour la scopolamine (d inverse les valeurs). Ils permettent de convertir les µg/ml en mol/L, indispensables au calcul des p (− log de concentrations molaires).",
+    "source": {
+      "page": 2,
+      "extrait": "Poids moléculaire Scopolamine = 384,3 gr/mol"
+    },
+    "difficulte": 1,
+    "tags": [
+      "poids moléculaire"
+    ],
+    "origine": "genere"
+  }
+]

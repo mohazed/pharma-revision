@@ -1,0 +1,1798 @@
+[
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/qcm-001",
+    "type": "multiple",
+    "enonce": "Les méthodes chromatographiques :",
+    "options": [
+      "Ont pour but de séparer les constituants d'un mélange plus ou moins complexe",
+      "Peuvent permettre d'identifier chaque constituant",
+      "Peuvent déterminer quantitativement la concentration de chaque constituant dans le mélange",
+      "Constituent une méthode analytique instrumentale à très grand domaine d'application",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le cours attribue aux méthodes chromatographiques trois buts (séparer, identifier, doser) et les définit comme une méthode analytique instrumentale à très grand domaine d'application.",
+    "source": {
+      "page": 1,
+      "extrait": "Elles ont pour but de séparer les constituants d'un mélange plus ou moins complexe"
+    },
+    "difficulte": 1,
+    "tags": [
+      "introduction"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/qcm-002",
+    "type": "multiple",
+    "enonce": "Le principe général de la chromatographie repose sur :",
+    "options": [
+      "Une suite continue d'équilibres entre deux phases",
+      "Une phase stationnaire fixe",
+      "Une phase mobile qui contient les constituants du mélange",
+      "Une suite discontinue d'équilibres entre trois phases",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "La séparation est fondée sur une suite continue d'équilibres entre deux phases : une phase stationnaire fixe et une phase mobile contenant les constituants du mélange.",
+    "source": {
+      "page": 1,
+      "extrait": "cette séparation est fondée sur la réalisation d'une suite continue d'équilibres entre deux phases"
+    },
+    "difficulte": 1,
+    "tags": [
+      "principe"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/qcm-003",
+    "type": "multiple",
+    "enonce": "La séparation chromatographique est réalisée dans la mesure où :",
+    "options": [
+      "Les vitesses de migration des constituants sont suffisamment différentes",
+      "Les vitesses de migration des constituants sont identiques",
+      "La phase stationnaire se déplace avec la phase mobile",
+      "La phase mobile reste fixe dans la colonne",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Seule la différence suffisante des vitesses de migration permet la séparation ; la phase stationnaire est fixe et la phase mobile la parcourt.",
+    "source": {
+      "page": 1,
+      "extrait": "La séparation est réalisée dans la mesure où les vitesses de migration des constituants sont suffisamment différentes."
+    },
+    "difficulte": 1,
+    "tags": [
+      "principe"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/qcm-004",
+    "type": "multiple",
+    "enonce": "La phase stationnaire :",
+    "options": [
+      "Peut être emprisonnée dans une colonne",
+      "Peut être fixée sur une surface plane",
+      "Contient les constituants du mélange et parcourt l'autre phase avec une vitesse déterminée",
+      "Est fixe",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      3
+    ],
+    "explication": "La phase stationnaire est fixe, emprisonnée dans une colonne ou fixée sur une surface plane. C'est la phase mobile qui contient les constituants et parcourt la phase stationnaire.",
+    "source": {
+      "page": 1,
+      "extrait": "Une phase stationnaire fixe emprisonnée dans une colonne ou fixée sur une surface plane."
+    },
+    "difficulte": 1,
+    "tags": [
+      "principe",
+      "phase stationnaire"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/qcm-005",
+    "type": "multiple",
+    "enonce": "La phase mobile :",
+    "options": [
+      "Contient les constituants du mélange",
+      "Parcourt la phase stationnaire avec une vitesse déterminée",
+      "Est emprisonnée dans une colonne",
+      "Est immobile",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "La phase mobile contient les constituants du mélange et parcourt la phase stationnaire avec une vitesse déterminée ; c'est la phase stationnaire qui est fixe.",
+    "source": {
+      "page": 1,
+      "extrait": "une phase mobile qui contient les constituants du mélange, et qui parcourt cette phase stationnaire avec une vitesse déterminée"
+    },
+    "difficulte": 1,
+    "tags": [
+      "principe",
+      "phase mobile"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/qcm-006",
+    "type": "multiple",
+    "enonce": "Concernant les travaux de Mikhaïl Tswett :",
+    "options": [
+      "C'était un botaniste russe",
+      "Il a séparé des pigments végétaux colorés",
+      "Il a utilisé l'éther de pétrole comme phase mobile",
+      "Il a utilisé le carbonate de calcium comme phase mobile",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Tswett, botaniste russe, a séparé les pigments végétaux colorés avec l'éther de pétrole comme phase mobile ; le carbonate finement pulvérisé était la phase stationnaire.",
+    "source": {
+      "page": 1,
+      "extrait": "un botaniste Russe Mickael Tswett, pour séparer et isoler les pigments végétaux colorés en utilisant l'éther de pétrole comme phase mobile"
+    },
+    "difficulte": 1,
+    "tags": [
+      "historique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/qcm-007",
+    "type": "multiple",
+    "enonce": "Dans l'historique de la chromatographie :",
+    "options": [
+      "Vers 1930, après une période de sommeil de 25 ans, Kuhn et Lederer reprennent et développent la chromatographie",
+      "En 1938, la CCM est mise au point par Ismailov et Shraiber",
+      "En 1952, Martin et James mettent au point la chromatographie en phase gazeuse",
+      "En 1968, l'HPLC est développée par Klesper",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "L'HPLC (1968) est due à Giddings et Kirkland ; Klesper est associé à la chromatographie en phase supercritique (1962).",
+    "source": {
+      "page": 1,
+      "extrait": "en 1968 - chromatographie liquide haute performance H.P.L.C (Giddings et Kirkland)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "historique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/qcm-008",
+    "type": "multiple",
+    "enonce": "Concernant les dates de l'historique de la chromatographie :",
+    "options": [
+      "Chromatographie en phase supercritique : 1962 (Klesper)",
+      "Chromatographie liquide haute performance : 1968",
+      "Chromatographie ultra performance (UPLC) : 2004",
+      "Prix Nobel de Martin et James : 1941",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Martin et James ont développé la chromatographie liquide sur colonne en 1941 mais ont reçu le prix Nobel en 1962.",
+    "source": {
+      "page": 1,
+      "extrait": "en 1941 : Martin et James (prix Nobel 1962), ont développé la chromatographie liquide sur colonne"
+    },
+    "difficulte": 2,
+    "tags": [
+      "historique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/qcm-009",
+    "type": "multiple",
+    "enonce": "Martin et James :",
+    "options": [
+      "Ont reçu le prix Nobel en 1962",
+      "Ont développé la chromatographie liquide sur colonne en 1941",
+      "Ont mis au point la chromatographie en phase gazeuse en 1952",
+      "Ont mis au point la CCM en 1938",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "La CCM (1938) est due à Ismailov et Shraiber. Martin et James : chromatographie liquide sur colonne (1941), CPG (1952), prix Nobel 1962.",
+    "source": {
+      "page": 1,
+      "extrait": "en 1952 : mise au point par Martin et James de la chromatographie en phase gazeuse C.P.G"
+    },
+    "difficulte": 2,
+    "tags": [
+      "historique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/qcm-010",
+    "type": "unique",
+    "enonce": "Parmi les techniques suivantes, la plus récente selon le cours est :",
+    "options": [
+      "La chromatographie ultra performance (UPLC)",
+      "La chromatographie liquide haute performance (HPLC)",
+      "La chromatographie en phase gazeuse (CPG)",
+      "La chromatographie sur couche mince (CCM)",
+      "La chromatographie en phase supercritique"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "UPLC : 2004 ; HPLC : 1968 ; CPS : 1962 ; CPG : 1952 ; CCM : 1938.",
+    "source": {
+      "page": 2,
+      "extrait": "le développement en 2004 de la chromatographie ultra performance U.P.L.C."
+    },
+    "difficulte": 1,
+    "tags": [
+      "historique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/qcm-011",
+    "type": "unique",
+    "enonce": "Parmi les techniques suivantes, la plus ancienne selon le cours est :",
+    "options": [
+      "La chromatographie sur couche mince (CCM)",
+      "La chromatographie liquide sur colonne de Martin et James",
+      "La chromatographie en phase gazeuse (CPG)",
+      "La chromatographie en phase supercritique",
+      "La chromatographie liquide haute performance (HPLC)"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "CCM : 1938 ; chromatographie liquide sur colonne : 1941 ; CPG : 1952 ; CPS : 1962 ; HPLC : 1968.",
+    "source": {
+      "page": 1,
+      "extrait": "en 1938 mise au point de la C.C.M par Ismailov et Shraiber"
+    },
+    "difficulte": 2,
+    "tags": [
+      "historique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/qcm-012",
+    "type": "multiple",
+    "enonce": "L'évolution actuelle de la chromatographie est marquée par :",
+    "options": [
+      "L'arrivée des colonnes capillaires en CPG",
+      "Le couplage avec d'autres méthodes comme la spectrométrie de masse",
+      "Le développement de la chromatographie chirale pour la séparation des énantiomères",
+      "Des chromatographes pilotés par des logiciels informatiques",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes ces évolutions sont citées : colonnes capillaires en CPG, couplage à la spectrométrie de masse, chromatographie chirale, UPLC, pilotage informatique.",
+    "source": {
+      "page": 1,
+      "extrait": "surtout avec l'arrivée des colonnes capillaires en C.P.G et le couplage avec d'autres méthodes tel que la spectrométrie de masse"
+    },
+    "difficulte": 1,
+    "tags": [
+      "historique",
+      "évolution"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/qcm-013",
+    "type": "multiple",
+    "enonce": "La chromatographie est employée :",
+    "options": [
+      "À des fins préparatives pour séparer des quantités notables de substances",
+      "Surtout dans un but analytique, sur de petites quantités",
+      "En analyse qualitative ou quantitative",
+      "Grâce à la très grande sensibilité des moyens de détection et aux substances étalons",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Usage préparatif mais aussi et surtout analytique (qualitatif ou quantitatif), grâce à la sensibilité des détecteurs et aux étalons.",
+    "source": {
+      "page": 2,
+      "extrait": "Elle est employée à des fins préparatives pour séparer des quantités notables de substances, mais aussi et surtout dans un but analytique"
+    },
+    "difficulte": 1,
+    "tags": [
+      "applications"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/qcm-014",
+    "type": "multiple",
+    "enonce": "Concernant le terme « chromatographie » :",
+    "options": [
+      "Il a été créé par Tswett",
+      "« Chroma » signifie couleur",
+      "« Graphe » signifie enregistrement",
+      "Il ne s'applique aujourd'hui qu'aux dérivés colorés",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Le terme, créé par Tswett, signifie enregistrement graphique des couleurs ; il a été improprement conservé alors que la chromatographie ne s'applique plus aux seuls dérivés colorés.",
+    "source": {
+      "page": 2,
+      "extrait": "Le terme de chromatographie a été créé par Tswett et signifie enregistrement graphique des couleurs"
+    },
+    "difficulte": 1,
+    "tags": [
+      "historique",
+      "étymologie"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/qcm-015",
+    "type": "multiple",
+    "enonce": "Pour son expérience, Tswett a utilisé :",
+    "options": [
+      "Une colonne en verre",
+      "L'éther de pétrole comme phase mobile",
+      "Une colonne en métal",
+      "Un mélange de pigments colorés de la chlorophylle",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      3
+    ],
+    "explication": "Tswett a utilisé une colonne en verre et l'éther de pétrole comme phase mobile pour séparer les pigments colorés de la chlorophylle.",
+    "source": {
+      "page": 2,
+      "extrait": "Mikhaïl TSWETT à utilisé une colonne en verre remplie de carbonate de calcium (phase stationnaire) et l'éther de pétrole comme phase mobile"
+    },
+    "difficulte": 1,
+    "tags": [
+      "historique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/qcm-016",
+    "type": "multiple",
+    "enonce": "Selon le cours, la multiplicité des procédés chromatographiques :",
+    "options": [
+      "Confère à la chromatographie une très grande souplesse",
+      "Limite son domaine d'application",
+      "Rend la chromatographie incontournable pour tout laboratoire analysant des composés moléculaires",
+      "Empêche son utilisation quantitative",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      2
+    ],
+    "explication": "La multiplicité des procédés confère une très grande souplesse ; aucun laboratoire analysant des composés moléculaires ne peut ignorer la chromatographie.",
+    "source": {
+      "page": 2,
+      "extrait": "La multiplicité des procédés utilisés confère à la chromatographie une très grande souplesse."
+    },
+    "difficulte": 2,
+    "tags": [
+      "introduction"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/qcm-017",
+    "type": "multiple",
+    "enonce": "Les méthodes chromatographiques sont classées selon :",
+    "options": [
+      "La nature physique des phases mobile et stationnaire",
+      "Les phénomènes physiques",
+      "La forme de la phase stationnaire",
+      "La température de la colonne",
+      "Les modalités de migration"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explication": "Quatre critères : nature physique des phases, phénomènes physiques, forme de la phase stationnaire, modalités de migration. La température n'en fait pas partie.",
+    "source": {
+      "page": 3,
+      "extrait": "La nature physique des phases (mobile et stationnaire). - Les phénomènes physiques. - La forme de la phase stationnaire. - Les modalités de migration."
+    },
+    "difficulte": 1,
+    "tags": [
+      "classification"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/qcm-018",
+    "type": "multiple",
+    "enonce": "Selon la nature physique des phases :",
+    "options": [
+      "La phase stationnaire peut être un solide finement pulvérisé",
+      "La phase stationnaire peut être un liquide immobilisé sur un support",
+      "On distingue les chromatographies liquide-liquide, liquide-solide, gaz-liquide et gaz-solide",
+      "La phase stationnaire est toujours un gaz",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "La phase stationnaire est un solide finement pulvérisé ou un liquide immobilisé sur un support ; les combinaisons donnent les quatre types liquide-liquide, liquide-solide, gaz-liquide, gaz-solide.",
+    "source": {
+      "page": 3,
+      "extrait": "la phase stationnaire peut être un solide finement pulvérisé ou un liquide immobilisé sur un support"
+    },
+    "difficulte": 1,
+    "tags": [
+      "classification",
+      "nature des phases"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/qcm-019",
+    "type": "multiple",
+    "enonce": "On désigne couramment les différents types de chromatographie :",
+    "options": [
+      "Selon la nature de la phase mobile",
+      "CPL : chromatographie en phase liquide",
+      "CPG : chromatographie en phase gazeuse",
+      "Selon la nature de la phase stationnaire",
+      "CPS : chromatographie en phase solide"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "La désignation courante se fait selon la nature de la phase mobile : CPL (liquide), CPS (supercritique), CPG (gazeuse). CPS ne signifie pas « phase solide ».",
+    "source": {
+      "page": 3,
+      "extrait": "On désigne couramment les différents types de chromatographie selon la nature de la phase mobile"
+    },
+    "difficulte": 2,
+    "tags": [
+      "classification",
+      "nature des phases"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/qcm-020",
+    "type": "unique",
+    "enonce": "Le sigle CPS désigne la chromatographie :",
+    "options": [
+      "En phase supercritique",
+      "En phase solide",
+      "En phase stationnaire",
+      "Sur papier sélectif",
+      "En phase semi-liquide"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "CPS = chromatographie en phase supercritique, désignée d'après la nature de la phase mobile.",
+    "source": {
+      "page": 3,
+      "extrait": "chromatographie en phase supercritique (C.P.S)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "classification",
+      "sigles"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/qcm-021",
+    "type": "unique",
+    "enonce": "La classification selon le phénomène physique dépend de :",
+    "options": [
+      "La nature de la phase stationnaire",
+      "La nature de la phase mobile",
+      "La longueur de la colonne",
+      "Le type de détecteur",
+      "La température d'analyse"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Le phénomène physique (adsorption, partage, échange d'ions, exclusion) dépend de la nature de la phase stationnaire.",
+    "source": {
+      "page": 3,
+      "extrait": "selon le phénomène physique : Il dépend de la nature de la phase stationnaire"
+    },
+    "difficulte": 2,
+    "tags": [
+      "classification",
+      "phénomène physique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/qcm-022",
+    "type": "multiple",
+    "enonce": "La chromatographie d'adsorption :",
+    "options": [
+      "Utilise une phase stationnaire solide douée de propriétés adsorbantes",
+      "Est une chromatographie liquide-solide",
+      "Utilise une phase stationnaire liquide non miscible à la phase mobile",
+      "Est une chromatographie liquide-liquide",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Adsorption : phase stationnaire solide adsorbante, chromatographie liquide-solide. Le liquide non miscible caractérise la chromatographie de partage (liquide-liquide).",
+    "source": {
+      "page": 3,
+      "extrait": "la phase stationnaire est un solide doué de propriétés adsorbantes : il s'agit d'une chromatographie liquide-solide"
+    },
+    "difficulte": 1,
+    "tags": [
+      "adsorption"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/qcm-023",
+    "type": "multiple",
+    "enonce": "La chromatographie de partage :",
+    "options": [
+      "Utilise une phase stationnaire liquide non miscible à la phase mobile",
+      "Est basée sur le partage des constituants entre les deux phases",
+      "Est une chromatographie liquide-liquide",
+      "Est une chromatographie liquide-solide",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Partage : phase stationnaire liquide non miscible à la phase mobile, partage des constituants entre les deux phases, chromatographie liquide-liquide.",
+    "source": {
+      "page": 3,
+      "extrait": "la phase stationnaire est un liquide non miscible à la phase mobile, elle est basée sur le partage des constituants entre les deux phases"
+    },
+    "difficulte": 1,
+    "tags": [
+      "partage"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/qcm-024",
+    "type": "multiple",
+    "enonce": "La chromatographie par échange d'ions :",
+    "options": [
+      "Est aussi appelée chromatographie ionique",
+      "Utilise une résine échangeuse d'ions comme phase stationnaire",
+      "La phase stationnaire échange certains de ses ions avec des ions du mélange à analyser",
+      "Utilise un gel se comportant comme un tamis",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Échange d'ions (chromatographie ionique) : résine échangeuse d'ions. Le gel-tamis correspond à la chromatographie d'exclusion.",
+    "source": {
+      "page": 3,
+      "extrait": "la phase stationnaire est une résine échangeuse d'ions ayant la propriété d'échanger certains de ces ions avec des ions du mélange"
+    },
+    "difficulte": 1,
+    "tags": [
+      "échange d'ions"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/qcm-025",
+    "type": "multiple",
+    "enonce": "La chromatographie d'exclusion :",
+    "options": [
+      "Est aussi appelée perméation sur gel",
+      "Utilise un gel qui se comporte comme un véritable tamis",
+      "Retient les molécules en fonction de leur taille grâce à des pores",
+      "A pour objectif de séparer des molécules d'intérêt biologique",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Exclusion ou perméation sur gel : gel-tamis à pores retenant les molécules selon leur taille, pour séparer des molécules d'intérêt biologique.",
+    "source": {
+      "page": 3,
+      "extrait": "un gel qui se comporte comme un véritable tamis présentant des pores destinés à retenir les molécules en fonction de leurs tailles"
+    },
+    "difficulte": 1,
+    "tags": [
+      "exclusion"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/qcm-026",
+    "type": "unique",
+    "enonce": "La séparation des molécules en fonction de leur taille correspond à la chromatographie :",
+    "options": [
+      "D'exclusion",
+      "D'adsorption",
+      "De partage",
+      "Par échange d'ions",
+      "Chirale"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "La chromatographie d'exclusion (perméation sur gel) retient les molécules en fonction de leur taille.",
+    "source": {
+      "page": 3,
+      "extrait": "retenir les molécules en fonction de leurs tailles"
+    },
+    "difficulte": 1,
+    "tags": [
+      "exclusion"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/qcm-027",
+    "type": "unique",
+    "enonce": "Une chromatographie liquide-solide basée sur un solide doué de propriétés adsorbantes est une chromatographie :",
+    "options": [
+      "D'adsorption",
+      "De partage",
+      "D'exclusion",
+      "D'affinité",
+      "Par échange de ligands"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Solide adsorbant + phase mobile liquide = chromatographie d'adsorption (liquide-solide).",
+    "source": {
+      "page": 3,
+      "extrait": "la chromatographie d'adsorption : la phase stationnaire est un solide doué de propriétés adsorbantes"
+    },
+    "difficulte": 1,
+    "tags": [
+      "adsorption"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/qcm-028",
+    "type": "multiple",
+    "enonce": "Parmi les procédés chromatographiques plus spécifiques reposant sur des interactions très sélectives :",
+    "options": [
+      "Chromatographie d'affinité : molécule d'intérêt + ligand spécifique",
+      "Chromatographie par échange de ligands : échange de cations métalliques",
+      "Chromatographie chirale : adsorption ou partage sélectif d'énantiomères",
+      "Chromatographie d'affinité : échange de cations métalliques",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "L'échange de cations métalliques caractérise la chromatographie par échange de ligands, pas la chromatographie d'affinité.",
+    "source": {
+      "page": 5,
+      "extrait": "échange de cations métalliques (chromatographie par échange de ligands)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "procédés spécifiques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/qcm-029",
+    "type": "multiple",
+    "enonce": "La chromatographie d'affinité :",
+    "options": [
+      "Repose sur des affinités spécifiques entre molécules biologiques",
+      "Associe une molécule d'intérêt et un ligand spécifique",
+      "Est utilisée pour la purification des molécules biologiques",
+      "Est utilisée pour la séparation des énantiomères",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Affinité : molécule d'intérêt + ligand spécifique, pour purifier les molécules biologiques. La séparation des énantiomères relève de la chromatographie chirale.",
+    "source": {
+      "page": 5,
+      "extrait": "chromatographie d'affinité = utilisée pour la purification des molécules biologiques"
+    },
+    "difficulte": 2,
+    "tags": [
+      "affinité"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/qcm-030",
+    "type": "multiple",
+    "enonce": "Concernant la séparation des énantiomères :",
+    "options": [
+      "Elle est nécessaire en industrie pharmaceutique pour obtenir un seul isomère",
+      "Un isomère possède l'effet souhaité",
+      "L'autre isomère peut être inutile ou toxique",
+      "Elle fait appel à la chromatographie chirale",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "On sépare les énantiomères (chromatographie chirale) pour obtenir un seul isomère : l'un a l'effet souhaité, l'autre est inutile ou toxique.",
+    "source": {
+      "page": 5,
+      "extrait": "Il est nécessaire de séparer des énantiomères en industrie pharmaceutique pour obtenir un seul isomère"
+    },
+    "difficulte": 1,
+    "tags": [
+      "chromatographie chirale"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/qcm-031",
+    "type": "multiple",
+    "enonce": "Selon la forme de la phase stationnaire :",
+    "options": [
+      "En chromatographie sur colonne, la phase stationnaire est contenue dans une colonne en verre ou en métal",
+      "En chromatographie sur papier, une surface plane de cellulose maintient par imbibition une phase stationnaire liquide",
+      "En CCM, la phase stationnaire est étalée sur une surface plane",
+      "En chromatographie sur papier, la phase stationnaire est une résine échangeuse d'ions contenue dans une colonne",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Colonne (verre ou métal), papier (cellulose imbibée d'une phase stationnaire liquide), CCM (phase étalée sur une surface plane).",
+    "source": {
+      "page": 5,
+      "extrait": "la chromatographie sur papier = surface plane de cellulose qui maintient par imbibition une phase stationnaire liquide"
+    },
+    "difficulte": 2,
+    "tags": [
+      "classification",
+      "forme de la phase stationnaire"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/qcm-032",
+    "type": "multiple",
+    "enonce": "Concernant la chromatographie sur couche mince (CCM) :",
+    "options": [
+      "C'est une chromatographie planaire",
+      "Le support peut être en verre ou en feuille d'aluminium",
+      "La couche peut être de gel de silice, de cellulose ou d'alumine",
+      "La couche a une épaisseur de 2 à 25 mm",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "CCM : chromatographie planaire, sur verre ou aluminium, couche mince d'épaisseur uniforme de 0,2 à 2,5 mm (gel de silice, cellulose, alumine, parfois résines échangeuses d'ions).",
+    "source": {
+      "page": 5,
+      "extrait": "une couche mince d'épaisseur uniforme de l'ordre de (0,2 à 2,5mm) de gel de silice, de cellulose, d'alumine"
+    },
+    "difficulte": 2,
+    "tags": [
+      "CCM"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/qcm-033",
+    "type": "unique",
+    "enonce": "L'épaisseur de la couche mince en CCM est de l'ordre de :",
+    "options": [
+      "0,2 à 2,5 mm",
+      "2 à 25 mm",
+      "0,02 à 0,25 mm",
+      "0,2 à 2,5 cm",
+      "5 à 10 mm"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Le cours indique une couche mince d'épaisseur uniforme de l'ordre de 0,2 à 2,5 mm.",
+    "source": {
+      "page": 5,
+      "extrait": "épaisseur uniforme de l'ordre de (0,2 à 2,5mm)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "CCM"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/qcm-034",
+    "type": "multiple",
+    "enonce": "La chromatographie par développement :",
+    "options": [
+      "La migration est limitée de telle sorte que tous les constituants restent sur la phase stationnaire",
+      "Elle est utilisée surtout en chromatographie sur papier et en CCM",
+      "Les substances séparées sont ensuite localisées sur la phase stationnaire",
+      "Les constituants sont détectés par un détecteur placé à la sortie de la colonne",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "En développement, les substances restent sur la phase stationnaire où elles sont localisées (papier, CCM). Le détecteur en sortie de colonne caractérise l'élution.",
+    "source": {
+      "page": 5,
+      "extrait": "la migration est limitée de telle sorte que tous les constituants restent sur la phase stationnaire pour être identifier par la suite"
+    },
+    "difficulte": 2,
+    "tags": [
+      "modalités de migration",
+      "développement"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/qcm-035",
+    "type": "multiple",
+    "enonce": "La chromatographie d'élution :",
+    "options": [
+      "La migration est poursuivie jusqu'à ce que tous les constituants sortent successivement de la colonne",
+      "Les constituants sont détectés par un détecteur placé à la sortie de la colonne",
+      "Elle est utilisée en chromatographie en phase liquide, supercritique et gazeuse",
+      "L'identification est réalisée sur l'éluat",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "En élution, les substances sont entraînées hors de la phase stationnaire, détectées en sortie de colonne et identifiées sur l'éluat (CPL, CPS, CPG).",
+    "source": {
+      "page": 5,
+      "extrait": "la migration est poursuivie jusqu'à ce que tous les constituants sortent successivement de la colonne"
+    },
+    "difficulte": 2,
+    "tags": [
+      "modalités de migration",
+      "élution"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/qcm-036",
+    "type": "unique",
+    "enonce": "Selon le cours, la chromatographie en phase gazeuse est une chromatographie :",
+    "options": [
+      "D'élution",
+      "Par développement",
+      "Planaire",
+      "Sur papier",
+      "Sur couche mince"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "L'élution est utilisée en chromatographie en phase liquide, supercritique et gazeuse ; le développement surtout sur papier et en CCM.",
+    "source": {
+      "page": 5,
+      "extrait": "Utilisée dans le cas de la chromatographie en phase liquide, supercritique et en chromatographie en phase gazeuse."
+    },
+    "difficulte": 2,
+    "tags": [
+      "élution"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/qcm-037",
+    "type": "multiple",
+    "enonce": "Concernant la localisation et l'identification des substances :",
+    "options": [
+      "En chromatographie d'élution, la substance est entraînée hors de la phase stationnaire",
+      "En chromatographie d'élution, l'identification est réalisée sur l'éluat",
+      "En chromatographie par développement, les substances demeurent sur la phase stationnaire",
+      "En chromatographie par développement, l'identification est réalisée sur l'éluat",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Élution : substance entraînée hors de la phase stationnaire, identification sur l'éluat. Développement : substances localisées sur la phase stationnaire.",
+    "source": {
+      "page": 7,
+      "extrait": "Substance entrainée hors de la phase stationnaire. L'identification réalisée sur l'éluat."
+    },
+    "difficulte": 2,
+    "tags": [
+      "modalités de migration"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/qcm-038",
+    "type": "multiple",
+    "enonce": "Dans l'étude théorique de la migration :",
+    "options": [
+      "Elle est effectuée dans le cas d'une chromatographie sur colonne",
+      "La phase mobile est un liquide ou un gaz",
+      "Le mélange est introduit dans le flux de phase mobile en tête de colonne",
+      "Un ensemble détecteur-enregistreur analyse en continu la phase mobile dès sa sortie de la colonne",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le cours décrit la chromatographie sur colonne : phase mobile liquide ou gaz, injection en tête de colonne, détecteur-enregistreur en continu à la sortie.",
+    "source": {
+      "page": 6,
+      "extrait": "Le mélange à analyser est introduit dans le flux de la phase mobile en tête de la colonne."
+    },
+    "difficulte": 1,
+    "tags": [
+      "étude théorique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/qcm-039",
+    "type": "multiple",
+    "enonce": "Concernant le pic chromatographique :",
+    "options": [
+      "Il mesure la concentration du composé en fonction du temps à la sortie de la colonne",
+      "Il a la forme d'une hyperbole",
+      "Un pic correspond à une molécule",
+      "Le tracé représentant l'ensemble des pics est appelé chromatogramme",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      2,
+      3
+    ],
+    "explication": "Le pic (concentration en fonction du temps) a la forme d'une courbe de Gauss, pas d'une hyperbole. Un pic = une molécule ; l'ensemble des pics forme le chromatogramme.",
+    "source": {
+      "page": 6,
+      "extrait": "Le pic mesurant la concentration du composé en fonction du temps à la sortie de colonne à la forme d'une courbe de Gauss."
+    },
+    "difficulte": 1,
+    "tags": [
+      "pic chromatographique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/qcm-040",
+    "type": "multiple",
+    "enonce": "Pour étudier la migration des substances à l'intérieur de la colonne, on envisage :",
+    "options": [
+      "La théorie des plateaux",
+      "La théorie cinétique",
+      "Deux théories",
+      "Uniquement la théorie des plateaux",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Deux théories sont envisagées : la théorie des plateaux et la théorie cinétique.",
+    "source": {
+      "page": 6,
+      "extrait": "Deux théories sont à envisager pour étudier la migration des substances à l'intérieur de la colonne"
+    },
+    "difficulte": 1,
+    "tags": [
+      "étude théorique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/qcm-041",
+    "type": "multiple",
+    "enonce": "La théorie des plateaux suppose que la répartition de la substance satisfait à l'équilibre :",
+    "options": [
+      "CS = K·CM",
+      "CM = K·CS",
+      "Où CS est la concentration de la substance dans la phase stationnaire",
+      "Où K est le coefficient de partage de la substance entre les deux phases",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      2,
+      3
+    ],
+    "explication": "CS = K·CM, avec CS et CM les concentrations dans la phase stationnaire et dans la phase mobile, K le coefficient de partage entre les deux phases.",
+    "source": {
+      "page": 7,
+      "extrait": "Ou CS et CM sont les concentrations respectives de la substance dans les deux phases stationnaire et mobile"
+    },
+    "difficulte": 2,
+    "tags": [
+      "théorie des plateaux",
+      "coefficient de partage"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/qcm-042",
+    "type": "multiple",
+    "enonce": "Concernant le coefficient K de la théorie des plateaux :",
+    "options": [
+      "K = λ dans l'extraction liquide-liquide",
+      "En chromatographie d'adsorption, K devient un coefficient d'adsorption",
+      "En chromatographie sur gel, K est une constante de diffusion",
+      "En chromatographie gaz-liquide, K est un coefficient d'adsorption",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "En chromatographie gaz-liquide, K est un coefficient de partage ; il devient coefficient d'adsorption en adsorption et constante de diffusion sur gel.",
+    "source": {
+      "page": 7,
+      "extrait": "dans la chromatographie d'adsorption il devient un coefficient d'adsorption et dans la chromatographie sur gel, une constante de diffusion"
+    },
+    "difficulte": 3,
+    "tags": [
+      "coefficient de partage"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/qcm-043",
+    "type": "unique",
+    "enonce": "En chromatographie sur gel, le coefficient K représente :",
+    "options": [
+      "Une constante de diffusion",
+      "Un coefficient de partage",
+      "Un coefficient d'adsorption",
+      "Le coefficient λ de l'extraction",
+      "Une constante d'échange ionique"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Sur gel, K est une constante de diffusion.",
+    "source": {
+      "page": 7,
+      "extrait": "dans la chromatographie sur gel, une constante de diffusion"
+    },
+    "difficulte": 2,
+    "tags": [
+      "coefficient de partage"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/qcm-044",
+    "type": "multiple",
+    "enonce": "Comparé au coefficient λ utilisé dans les extractions, le coefficient K :",
+    "options": [
+      "A une signification beaucoup plus générale",
+      "Est toujours égal à λ quelle que soit la méthode",
+      "Est égal à λ dans l'extraction liquide-liquide",
+      "Est différent de λ dans les autres types de méthodes",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      2,
+      3
+    ],
+    "explication": "K a une signification plus générale que λ : K = λ en extraction liquide-liquide mais il en diffère dans les autres types de méthodes.",
+    "source": {
+      "page": 7,
+      "extrait": "Ce coefficient a une signification beaucoup plus général que le coefficient λ utilisé dans les extractions."
+    },
+    "difficulte": 2,
+    "tags": [
+      "coefficient de partage"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/qcm-045",
+    "type": "multiple",
+    "enonce": "Concernant le plateau théorique :",
+    "options": [
+      "Les plateaux théoriques sont des étages fictifs",
+      "La progression des substances est considérée comme une succession d'équilibres se réalisant entièrement dans ces étages",
+      "La théorie des plateaux s'applique à une élution discontinue",
+      "La phase mobile est introduite par fractions successives de volumes croissants",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "La phase mobile éluante est introduite par fractions successives d'égal et de très petits volumes dv, et non de volumes croissants.",
+    "source": {
+      "page": 7,
+      "extrait": "en introduisant la phase mobile éluante par fractions successives d'égal et de très petits volumes noté dv"
+    },
+    "difficulte": 2,
+    "tags": [
+      "théorie des plateaux"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/qcm-046",
+    "type": "multiple",
+    "enonce": "Dans le cas d'une seule substance (théorie des plateaux) :",
+    "options": [
+      "Un petit volume dv0 de solution est déposé au sommet d'une colonne remplie de phase stationnaire",
+      "La colonne est assimilée à un nombre N de plateaux théoriques de même hauteur",
+      "Les plateaux sont numérotés de haut en bas de 1 à N",
+      "Les plateaux sont numérotés de bas en haut de 1 à N",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "La colonne est assimilée à N plateaux théoriques de même hauteur, numérotés de haut en bas de 1 à N.",
+    "source": {
+      "page": 7,
+      "extrait": "On assimile la colonne à un nombre N de plateaux théoriques de même hauteur que l'on peut numéroter de haut en bas"
+    },
+    "difficulte": 2,
+    "tags": [
+      "théorie des plateaux"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/qcm-047",
+    "type": "multiple",
+    "enonce": "À l'étage (1) de la colonne :",
+    "options": [
+      "La solution rencontre une phase stationnaire pure",
+      "La phase stationnaire a été choisie en fonction de sa grande affinité pour la ou les substances à séparer",
+      "Un équilibre s'établit",
+      "La substance se partage entre les deux phases dans des proportions dépendant de la constante de partage",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Au premier plateau, la solution rencontre une phase stationnaire pure, de grande affinité pour les substances ; un équilibre de partage s'établit selon la constante de partage.",
+    "source": {
+      "page": 7,
+      "extrait": "à l'étage (1), la solution rencontre une phase stationnaire pure"
+    },
+    "difficulte": 2,
+    "tags": [
+      "théorie des plateaux"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/qcm-048",
+    "type": "unique",
+    "enonce": "La phase stationnaire est choisie en fonction de :",
+    "options": [
+      "Sa grande affinité pour la ou les substances à séparer",
+      "Sa faible affinité pour les substances à séparer",
+      "Sa couleur",
+      "Sa miscibilité totale avec la phase mobile",
+      "Sa volatilité"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Le cours précise que la phase stationnaire est choisie en fonction de sa grande affinité pour la ou les substances à séparer.",
+    "source": {
+      "page": 7,
+      "extrait": "cette phase à été choisi en fonction de sa grande affinité pour la ou les substances à séparer"
+    },
+    "difficulte": 1,
+    "tags": [
+      "théorie des plateaux",
+      "phase stationnaire"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/qcm-049",
+    "type": "multiple",
+    "enonce": "L'introduction d'un nouveau volume dv1 de phase mobile :",
+    "options": [
+      "Provoque le déplacement du volume dv0 du 1er plateau vers le 2e plateau",
+      "Entraîne avec dv0 la quantité de substance qu'il contient",
+      "Met la solution en contact d'une phase stationnaire pure où de nouveaux partages se réalisent",
+      "Laisse le volume dv0 au 1er plateau",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "dv1 pousse dv0 (et sa substance) vers le 2e plateau, au contact d'une phase stationnaire pure : de nouveaux partages s'établissent. En répétant l'opération, on réalise l'élution.",
+    "source": {
+      "page": 7,
+      "extrait": "l'introduction d'un nouveau volume dv1 de phase mobile provoque le déplacement du volume dvo du 1er plateau vers le 2ème plateau"
+    },
+    "difficulte": 2,
+    "tags": [
+      "théorie des plateaux"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/qcm-050",
+    "type": "multiple",
+    "enonce": "Dans la théorie des plateaux, les trois moments envisagés sont :",
+    "options": [
+      "Le dépôt de la solution",
+      "Le développement du chromatogramme",
+      "L'élution",
+      "La dérivation de l'échantillon",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Trois moments : dépôt de la solution, développement du chromatogramme, élution.",
+    "source": {
+      "page": 8,
+      "extrait": "Dépôt de la solution. ➢ Développement du chromatogramme. ➢Élution."
+    },
+    "difficulte": 1,
+    "tags": [
+      "théorie des plateaux"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/qcm-051",
+    "type": "multiple",
+    "enonce": "Au cours du développement et de l'élution d'une substance :",
+    "options": [
+      "Il y a rupture des équilibres précédents",
+      "De nouveaux équilibres s'établissent",
+      "La zone contenant la substance s'étale progressivement",
+      "Les concentrations sont réparties de part et d'autre d'une valeur maximale",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le cours décrit la rupture des équilibres, l'établissement de nouveaux équilibres, l'étalement progressif de la zone et la répartition des concentrations autour d'un maximum.",
+    "source": {
+      "page": 8,
+      "extrait": "Etalement progressif de la zone contenant la substance."
+    },
+    "difficulte": 2,
+    "tags": [
+      "théorie des plateaux"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/qcm-052",
+    "type": "multiple",
+    "enonce": "Lorsque la solution contient plusieurs solutés :",
+    "options": [
+      "Chaque soluté se déplace indépendamment d'étage en étage",
+      "Chaque soluté a une vitesse qui lui est propre",
+      "La vitesse dépend du comportement du soluté vis-à-vis des deux phases",
+      "Tous les solutés migrent à la même vitesse",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Chaque soluté migre indépendamment, à sa propre vitesse, qui dépend de son comportement vis-à-vis des deux phases.",
+    "source": {
+      "page": 8,
+      "extrait": "chacun des solutés se déplace indépendamment d'étage en étage selon une vitesse qui lui est propre"
+    },
+    "difficulte": 2,
+    "tags": [
+      "théorie des plateaux"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/qcm-053",
+    "type": "multiple",
+    "enonce": "Le système de détection :",
+    "options": [
+      "Est placé aussi près que possible de l'extrémité de la colonne",
+      "Transmet de manière continue un signal à l'enregistreur",
+      "Transmet un signal proportionnel aux variations de concentration des substances qui le traversent",
+      "Transmet le signal de manière discontinue, par fractions",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Le détecteur, placé au plus près de la sortie, transmet en continu un signal proportionnel aux variations de concentration.",
+    "source": {
+      "page": 9,
+      "extrait": "transmet de manière continue à l'enregistreur un signal proportionnel aux variations de concentrations"
+    },
+    "difficulte": 2,
+    "tags": [
+      "détection"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/qcm-054",
+    "type": "multiple",
+    "enonce": "Le chromatogramme :",
+    "options": [
+      "Est utilisé à la fois en analyse qualitative et quantitative",
+      "Permet l'identification des constituants par la position des pics sur l'axe du temps",
+      "Permet de mesurer la quantité des constituants par les aires sous les pics",
+      "Permet d'identifier les constituants par les aires sous les pics",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Qualitatif : position des pics sur l'axe du temps. Quantitatif : aires sous les pics.",
+    "source": {
+      "page": 9,
+      "extrait": "les positions des pics sur l'axe du temps du chromatogramme permettent d'identifier les constituants de l'échantillon"
+    },
+    "difficulte": 2,
+    "tags": [
+      "chromatogramme"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/qcm-055",
+    "type": "unique",
+    "enonce": "En analyse quantitative, la quantité d'un constituant est mesurée par :",
+    "options": [
+      "L'aire sous le pic",
+      "La position du pic sur l'axe du temps",
+      "Le nombre de pics du chromatogramme",
+      "La largeur à mi-hauteur",
+      "L'ordonnée des points d'inflexion"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "En analyse quantitative, les aires sous les pics mesurent la quantité ; la position sert à l'identification.",
+    "source": {
+      "page": 9,
+      "extrait": "En analyse quantitative = les aires sous les pics mesurent leur quantité."
+    },
+    "difficulte": 1,
+    "tags": [
+      "chromatogramme",
+      "analyse quantitative"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/qcm-056",
+    "type": "multiple",
+    "enonce": "Le profil de concentration de la substance dans la phase mobile :",
+    "options": [
+      "Peut être assimilé à une courbe de Gauss",
+      "Correspond à une substance localisée, à un moment donné, sur une faible tranche de la colonne",
+      "Se distribue symétriquement autour d'une valeur maximale",
+      "Est réparti uniformément sur toute la longueur de la colonne",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "À un moment donné, la substance est localisée sur une faible tranche de la colonne et se distribue symétriquement autour d'un maximum : profil gaussien.",
+    "source": {
+      "page": 9,
+      "extrait": "la substance est localisée sur une faible tranche de la colonne et se distribue symétriquement autour d'une valeur maximale"
+    },
+    "difficulte": 2,
+    "tags": [
+      "courbe de Gauss"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/qcm-057",
+    "type": "multiple",
+    "enonce": "Concernant la courbe de Gauss du pic chromatographique :",
+    "options": [
+      "Elle est symétrique par rapport à la verticale passant par le maximum (B)",
+      "Elle présente deux points d'inflexion E et F",
+      "Les points d'inflexion ont pour ordonnée 0,607 si l'ordonnée au maximum est 1,000",
+      "Le triangle AGH formé par les tangentes aux points d'inflexion est isocèle",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes ces propriétés sont citées : symétrie, points d'inflexion E et F à 0,607, triangle AGH isocèle.",
+    "source": {
+      "page": 10,
+      "extrait": "Présentant deux points d'inflexion E et F dont les ordonnées sont 0,607 si on prend 1,000 comme ordonnée au maximum"
+    },
+    "difficulte": 2,
+    "tags": [
+      "courbe de Gauss"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/qcm-058",
+    "type": "unique",
+    "enonce": "Si l'ordonnée au maximum de la courbe de Gauss vaut 1,000, l'ordonnée des points d'inflexion vaut :",
+    "options": [
+      "0,607",
+      "0,500",
+      "1,214",
+      "0,882",
+      "0,368"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Les points d'inflexion E et F ont pour ordonnée 0,607 (maximum = 1,000).",
+    "source": {
+      "page": 10,
+      "extrait": "dont les ordonnées sont 0,607 si on prend 1,000 comme ordonnée au maximum"
+    },
+    "difficulte": 2,
+    "tags": [
+      "courbe de Gauss"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/qcm-059",
+    "type": "unique",
+    "enonce": "Le sommet du triangle AGH (maximum = 1,000) a pour ordonnée :",
+    "options": [
+      "1,214",
+      "0,607",
+      "1,000",
+      "2,35",
+      "1,7"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Le triangle isocèle AGH, formé par les tangentes aux points d'inflexion, a son sommet à l'ordonnée 1,214.",
+    "source": {
+      "page": 10,
+      "extrait": "Son sommet à pour ordonnée 1,214"
+    },
+    "difficulte": 2,
+    "tags": [
+      "courbe de Gauss"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/qcm-060",
+    "type": "multiple",
+    "enonce": "Concernant le triangle AGH associé au pic chromatographique :",
+    "options": [
+      "Il est constitué par les tangentes passant par les points d'inflexion et la portion d'axe des abscisses interceptée",
+      "Sa base est égale à 4σ",
+      "On assimile le pic chromatographique à ce triangle",
+      "C'est un triangle rectangle",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Le triangle AGH est isocèle (non rectangle) ; sa base vaut 2EF soit 4σ ; le pic est assimilé à ce triangle dont la base est la largeur du pic.",
+    "source": {
+      "page": 10,
+      "extrait": "La base du triangle est égale à 2E.F soit 4σ (σ étant l'écart type de la courbe)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "courbe de Gauss",
+      "largeur du pic"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/qcm-061",
+    "type": "unique",
+    "enonce": "Selon le cours, la « largeur du pic » correspond à :",
+    "options": [
+      "La base du triangle formé par les tangentes aux points d'inflexion et l'axe des abscisses",
+      "La largeur à mi-hauteur",
+      "La hauteur du maximum",
+      "La distance entre deux pics successifs",
+      "L'ordonnée du sommet du triangle"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "On assimile le pic au triangle AGH dont la base est appelée largeur du pic (ω = 4σ).",
+    "source": {
+      "page": 10,
+      "extrait": "On assimile le pic chromatographique à ce triangle dont la base est appelée largeur du pic."
+    },
+    "difficulte": 2,
+    "tags": [
+      "largeur du pic"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/qcm-062",
+    "type": "multiple",
+    "enonce": "Relations caractérisant le pic chromatographique (σ : écart type) :",
+    "options": [
+      "ω = 4σ",
+      "δ = 2,35σ",
+      "ω = 1,7δ",
+      "ω = 2,35σ",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Largeur à la base ω = 4σ = 1,7δ ; largeur à mi-hauteur δ = 2,35σ.",
+    "source": {
+      "page": 10,
+      "extrait": "ω = 4σ =1,7 δ → largeur a la base du pic"
+    },
+    "difficulte": 2,
+    "tags": [
+      "largeur du pic",
+      "formules"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/qcm-063",
+    "type": "unique",
+    "enonce": "La largeur à mi-hauteur δ d'un pic gaussien vaut :",
+    "options": [
+      "2,35σ",
+      "4σ",
+      "1,7σ",
+      "1,214σ",
+      "0,607σ"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "δ = 2,35σ ; ω = 4σ est la largeur à la base.",
+    "source": {
+      "page": 10,
+      "extrait": "δ = 2,35 σ → largeur à mi-hauteur"
+    },
+    "difficulte": 2,
+    "tags": [
+      "largeur à mi-hauteur",
+      "formules"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/qcm-064",
+    "type": "unique",
+    "enonce": "Un pic gaussien a un écart type σ = 5 s. Sa largeur à la base ω vaut :",
+    "options": [
+      "20 s",
+      "11,75 s",
+      "8,5 s",
+      "10 s",
+      "5 s"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "ω = 4σ = 4 × 5 = 20 s.",
+    "source": {
+      "page": 10,
+      "extrait": "ω = 4σ =1,7 δ → largeur a la base du pic"
+    },
+    "difficulte": 2,
+    "tags": [
+      "calcul",
+      "largeur du pic"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/qcm-065",
+    "type": "unique",
+    "enonce": "Un pic gaussien a un écart type σ = 2 s. Sa largeur à mi-hauteur δ vaut :",
+    "options": [
+      "4,7 s",
+      "8 s",
+      "3,4 s",
+      "2,35 s",
+      "1,2 s"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "δ = 2,35σ = 2,35 × 2 = 4,7 s.",
+    "source": {
+      "page": 10,
+      "extrait": "δ = 2,35 σ → largeur à mi-hauteur"
+    },
+    "difficulte": 2,
+    "tags": [
+      "calcul",
+      "largeur à mi-hauteur"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/qcm-066",
+    "type": "unique",
+    "enonce": "Un pic a une largeur à mi-hauteur δ = 10 s. Sa largeur à la base ω vaut environ :",
+    "options": [
+      "17 s",
+      "23,5 s",
+      "40 s",
+      "10 s",
+      "5,9 s"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "ω = 1,7δ = 1,7 × 10 = 17 s.",
+    "source": {
+      "page": 10,
+      "extrait": "ω = 4σ =1,7 δ → largeur a la base du pic"
+    },
+    "difficulte": 3,
+    "tags": [
+      "calcul",
+      "largeur du pic"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/qcm-067",
+    "type": "unique",
+    "enonce": "Un pic a une largeur à la base ω = 12 s. Son écart type σ vaut :",
+    "options": [
+      "3 s",
+      "48 s",
+      "5,1 s",
+      "7,1 s",
+      "6 s"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "ω = 4σ donc σ = ω/4 = 12/4 = 3 s.",
+    "source": {
+      "page": 10,
+      "extrait": "La base du triangle est égale à 2E.F soit 4σ"
+    },
+    "difficulte": 3,
+    "tags": [
+      "calcul",
+      "écart type"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/06-chromatographie-partie-1/qcm-068",
+    "type": "multiple",
+    "enonce": "Associations correctes entre type de chromatographie et nature des phases :",
+    "options": [
+      "Chromatographie d'adsorption : liquide-solide",
+      "Chromatographie de partage : liquide-liquide",
+      "Chromatographie par échange d'ions : phase stationnaire = résine échangeuse d'ions",
+      "Chromatographie d'exclusion : phase stationnaire = liquide non miscible",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "La chromatographie d'exclusion utilise un gel-tamis, pas un liquide non miscible (propre au partage).",
+    "source": {
+      "page": 3,
+      "extrait": "il s'agit d'une chromatographie liquide-liquide"
+    },
+    "difficulte": 2,
+    "tags": [
+      "classification",
+      "phénomène physique"
+    ],
+    "origine": "genere"
+  }
+]

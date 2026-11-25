@@ -1,0 +1,2657 @@
+[
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/qcm-001",
+    "type": "multiple",
+    "enonce": "Parmi les facteurs favorisant les interactions médicamenteuses cités en introduction :",
+    "options": [
+      "La polymédication",
+      "Le vieillissement de la population",
+      "L'émergence de pathologies (maladies chroniques…)",
+      "L'automédication et le mésusage des médicaments",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le cours cite quatre facteurs : polymédication, vieillissement de la population, émergence de pathologies (maladies chroniques) et automédication/mésusage. Toutes les propositions sont donc correctes.",
+    "source": {
+      "page": 3,
+      "extrait": "Polymédication … Vieillissement de la population … Émergence de pathologies(maladies chroniques…) … Automédication et mésusage des médicaments"
+    },
+    "difficulte": 1,
+    "tags": [
+      "introduction"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/qcm-002",
+    "type": "multiple",
+    "enonce": "Selon la définition du cours, une interaction médicamenteuse est une modification :",
+    "options": [
+      "Cliniquement significative",
+      "Observée in vivo",
+      "Des effets attendus d'un médicament",
+      "Observée uniquement in vitro",
+      "Pouvant survenir lors de la coadministration d'un aliment, d'alcool ou de tabac"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explication": "a, b, c, e) Justes : « modification cliniquement significative, observée in vivo, des effets attendus d'un médicament lors de la coadministration d'un autre médicament, d'aliment, d'alcool, ou de tabac ». d) Fausse : le terme interaction est réservé aux événements in vivo.",
+    "source": {
+      "page": 5,
+      "extrait": "Modification cliniquement significative, observée in vivo, des effets attendus d'un médicament lors de la coadministration d'un autre médicament"
+    },
+    "difficulte": 1,
+    "tags": [
+      "définition"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/qcm-003",
+    "type": "unique",
+    "enonce": "Le terme « interaction » est réservé pour décrire des événements se passant :",
+    "options": [
+      "Dans une seringue",
+      "Dans un liquide de perfusion",
+      "À l'intérieur de l'organisme (in vivo)",
+      "Entre un principe actif et ses excipients dans le flacon",
+      "Au cours de la fabrication du médicament"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Le cours précise que le terme « interaction » est réservé aux événements in vivo. Les réactions dans une seringue ou une perfusion relèvent des incompatibilités physico-chimiques.",
+    "source": {
+      "page": 5,
+      "extrait": "Le terme « interaction » est réservé pour décrire des événements se passant à l'intérieur de l'organisme (in vivo)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "définition",
+      "in vivo"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/qcm-004",
+    "type": "multiple",
+    "enonce": "Concernant les incompatibilités physico-chimiques :",
+    "options": [
+      "Ce sont des réactions entre deux médicaments mélangés dans une même seringue ou un même liquide de perfusion",
+      "Elles peuvent entraîner la formation d'un précipité inactif ou toxique",
+      "Elles peuvent changer les propriétés physico-chimiques des produits associés",
+      "Elles peuvent concerner un PA et des excipients",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes les propositions figurent dans la définition et le commentaire de la diapositive : réaction entre deux médicaments mélangés (seringue, perfusion), précipité inactif ou toxique, changement des propriétés physico-chimiques, interactions entre PA ou entre PA et excipients.",
+    "source": {
+      "page": 6,
+      "extrait": "ce qui peut entrainer la formation d'un précipité inactif ou toxique ou le changement de propriétés physico-chimiques"
+    },
+    "difficulte": 1,
+    "tags": [
+      "incompatibilités physico-chimiques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/qcm-005",
+    "type": "multiple",
+    "enonce": "Concernant la prévention des incompatibilités physico-chimiques des injectables :",
+    "options": [
+      "Il faut toujours vérifier la compatibilité des médicaments injectables",
+      "Il faut rincer la perfusion avant l'injection d'un second produit",
+      "L'association gentamicine + ampicilline est citée comme exemple d'incompatibilité",
+      "L'association phénytoïne + glucosé est citée comme exemple d'incompatibilité",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "a, b) Justes : « Toujours vérifier la compatibilité des médicaments injectables ou rincer la perfusion avant l'injection d'un second produit ». c, d) Justes : ce sont les deux exemples du cours. e) Fausse.",
+    "source": {
+      "page": 7,
+      "extrait": "Toujours vérifier la compatibilité des médicaments injectables ou rincer la perfusion avant l'injection d'un second produit."
+    },
+    "difficulte": 1,
+    "tags": [
+      "incompatibilités physico-chimiques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/qcm-006",
+    "type": "multiple",
+    "enonce": "Concernant l'incompatibilité phénytoïne + sérum glucosé :",
+    "options": [
+      "Le sérum glucosé a un pH de 4 à 4,5",
+      "Le sérum salé a un pH de 7 à 7,5",
+      "La phénytoïne est un médicament alcalin",
+      "Elle forme un précipité insoluble dans le glucosé",
+      "Il faut diluer la phénytoïne dans le sérum glucosé plutôt que dans le sérum salé"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "a, b) Justes : glucosé pH = 4–4,5, salé pH = 7–7,5. c, d) Justes : la phénytoïne, alcaline, précipite dans le glucosé (précipité insoluble). e) Fausse : c'est l'inverse, il faut utiliser le sérum salé.",
+    "source": {
+      "page": 7,
+      "extrait": "Phénytoine est un mdt alcalin donc précipité dans le glucosé utiliser salé"
+    },
+    "difficulte": 2,
+    "tags": [
+      "incompatibilités physico-chimiques",
+      "phénytoïne"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/qcm-007",
+    "type": "unique",
+    "enonce": "Le pH du sérum glucosé indiqué dans le cours est de :",
+    "options": [
+      "1 à 2",
+      "4 à 4,5",
+      "7 à 7,5",
+      "8 à 9",
+      "10 à 11"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Le cours indique : sérum glucosé pH = 4–4,5 ; sérum salé pH = 7–7,5.",
+    "source": {
+      "page": 7,
+      "extrait": "Sérum glucosé: PH=4-4.5"
+    },
+    "difficulte": 1,
+    "tags": [
+      "incompatibilités physico-chimiques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/qcm-008",
+    "type": "multiple",
+    "enonce": "Concernant les conséquences des interactions médicamenteuses (IAM) :",
+    "options": [
+      "Les effets modifiés peuvent être thérapeutiques",
+      "Les effets modifiés peuvent être indésirables",
+      "Une interaction est toujours délétère",
+      "Une interaction peut être recherchée à des fins thérapeutiques",
+      "Les IAM sont classées en IAM utiles et IAM indésirables"
+    ],
+    "correctes": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "explication": "a, b, e) Justes : les effets modifiés peuvent être thérapeutiques ou indésirables, d'où IAM utiles et IAM indésirables. c) Fausse : « une interaction n'est pas toujours délétère ». d) Juste.",
+    "source": {
+      "page": 9,
+      "extrait": "Une interaction n'est pas toujours délétère, elle peut être recherchée à des fins thérapeutiques"
+    },
+    "difficulte": 1,
+    "tags": [
+      "conséquences",
+      "IAM utiles"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/qcm-009",
+    "type": "multiple",
+    "enonce": "Une IAM utile peut être recherchée pour :",
+    "options": [
+      "Augmenter le rapport bénéfice/risque",
+      "Améliorer l'efficacité thérapeutique",
+      "Antagoniser un effet toxique (antidote)",
+      "Diminuer un effet indésirable",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le cours cite les quatre objectifs : augmenter le rapport bénéfice/risque, améliorer l'efficacité thérapeutique, antagoniser un effet toxique (antidote), diminuer un effet indésirable.",
+    "source": {
+      "page": 9,
+      "extrait": "Augmenter le rapport bénéfice/risque … Améliorer l'efficacité thérapeutique … Antagoniser un effet toxique: antidote … Diminuer un effet indésirable"
+    },
+    "difficulte": 1,
+    "tags": [
+      "IAM utiles"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/qcm-010",
+    "type": "multiple",
+    "enonce": "Parmi les exemples cités pour l'amélioration de l'efficacité thérapeutique par association :",
+    "options": [
+      "Aminoside – bétalactamine",
+      "Antituberculeux",
+      "Anti-HTA",
+      "Voriconazole + rifampicine",
+      "Ciclosporine + ramipril"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "a, b, c) Justes : « Améliorer l'efficacité thérapeutique (Aminoside – bétalactamine, antituberculeux, anti-HTA) ». d) Fausse : exemple de contre-indication. e) Fausse : exemple de « à prendre en compte ».",
+    "source": {
+      "page": 9,
+      "extrait": "Améliorer l'efficacité thérapeutique (Aminoside – bétalactamine , antituberculeux, anti-HTA)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "IAM utiles"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/qcm-011",
+    "type": "multiple",
+    "enonce": "Concernant l'augmentation du rapport bénéfice/risque par une association (exemple des ATD) :",
+    "options": [
+      "Elle repose sur une même efficacité",
+      "Elle repose sur des effets indésirables différents",
+      "Elle repose sur des effets indésirables identiques",
+      "Elle est un exemple d'IAM utile",
+      "Elle est un exemple d'IAM indésirable"
+    ],
+    "correctes": [
+      0,
+      1,
+      3
+    ],
+    "explication": "Le cours précise : « Augmenter le rapport bénéfice/risque (même efficacité, Effets indésirables différents: ATD) », ce qui constitue une IAM utile. c) et e) Fausses.",
+    "source": {
+      "page": 9,
+      "extrait": "Augmenter le rapport bénéfice/risque (même efficacité, Effets indésirables différents: ATD)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "IAM utiles"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/qcm-012",
+    "type": "multiple",
+    "enonce": "Les IAM indésirables peuvent :",
+    "options": [
+      "Causer des effets indésirables",
+      "Diminuer l'effet thérapeutique",
+      "Augmenter l'effet thérapeutique",
+      "Provoquer un accident de surdosage",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "« Les IAM peuvent : causer des EI, diminuer ou augmenter l'effet thérapeutique ou provoquer un accident de surdosage. » Elles peuvent aussi faire apparaître des phénomènes toxiques.",
+    "source": {
+      "page": 10,
+      "extrait": "Les IAM peuvent: causer des EI, diminuer ou augmenter l'effet thérapeutique ou provoquer un accident de surdosage."
+    },
+    "difficulte": 1,
+    "tags": [
+      "IAM indésirables"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/qcm-013",
+    "type": "unique",
+    "enonce": "L'ANSM propose une classification des IAM en :",
+    "options": [
+      "2 niveaux de gravité",
+      "3 niveaux de gravité",
+      "4 niveaux de gravité",
+      "5 niveaux de gravité",
+      "6 niveaux de gravité"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "L'ANSM classe les IAM en 04 niveaux : contre-indication, association déconseillée, précautions d'emploi, à prendre en compte.",
+    "source": {
+      "page": 11,
+      "extrait": "L'ANSM propose une classification des IAM en 04 niveaux de gravité"
+    },
+    "difficulte": 1,
+    "tags": [
+      "niveaux de gravité",
+      "ANSM"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/qcm-014",
+    "type": "multiple",
+    "enonce": "Concernant la contre-indication (classification ANSM) :",
+    "options": [
+      "Elle revêt un caractère absolu",
+      "Elle ne doit pas être transgressée",
+      "Elle peut être levée après examen du rapport bénéfice/risque",
+      "L'association voriconazole + rifampicine en est un exemple",
+      "C'est le cas le plus fréquent"
+    ],
+    "correctes": [
+      0,
+      1,
+      3
+    ],
+    "explication": "a, b, d) Justes : la contre-indication « revêt un caractère absolu et ne doit pas être transgressée », exemple voriconazole + rifampicine. c) Fausse : cela décrit l'association déconseillée. e) Fausse : le cas le plus fréquent est la précaution d'emploi.",
+    "source": {
+      "page": 11,
+      "extrait": "Elle revêt un caractère absolu et ne doit pas être transgressée. Exp: Voriconazole + Rifampicine"
+    },
+    "difficulte": 1,
+    "tags": [
+      "niveaux de gravité",
+      "contre-indication"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/qcm-015",
+    "type": "multiple",
+    "enonce": "L'association déconseillée (classification ANSM) :",
+    "options": [
+      "Doit être le plus souvent évitée",
+      "Peut être utilisée après examen approfondi du rapport bénéfice/risque",
+      "Impose une surveillance étroite du patient",
+      "A pour exemple contraceptifs œstroprogestatifs + rifampicine",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes les propositions sont dans le cours : l'association déconseillée doit être le plus souvent évitée, sauf après examen approfondi du rapport bénéfice/risque, et impose une surveillance étroite ; exemple : contraceptifs œstroprogestatifs + rifampicine.",
+    "source": {
+      "page": 11,
+      "extrait": "Elle doit être le plus souvent évitée, sauf après examen approfondi du rapport bénéfice/risque, et impose une surveillance étroite du patient."
+    },
+    "difficulte": 2,
+    "tags": [
+      "niveaux de gravité",
+      "association déconseillée"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/qcm-016",
+    "type": "multiple",
+    "enonce": "Concernant la précaution d'emploi (classification ANSM) :",
+    "options": [
+      "C'est le cas le plus fréquent",
+      "L'association est possible si les recommandations permettant d'éviter l'IAM sont respectées",
+      "Les recommandations peuvent être une adaptation posologique ou une surveillance clinique ou biologique",
+      "L'association fer + calcium en est un exemple",
+      "Aucune recommandation pratique ne peut être proposée"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "a–d) Justes : c'est le cas le plus fréquent ; l'association est possible en respectant les recommandations (adaptation posologique, surveillance clinique, biologique) ; exemple fer + calcium. e) Fausse : cela caractérise le niveau « à prendre en compte ».",
+    "source": {
+      "page": 11,
+      "extrait": "C'est le cas le plus fréquent. L'association est possible dès lors que sont respectées, les recommandations permettant d'éviter l'IAM"
+    },
+    "difficulte": 2,
+    "tags": [
+      "niveaux de gravité",
+      "précaution d'emploi"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/qcm-017",
+    "type": "multiple",
+    "enonce": "Le niveau « à prendre en compte » (classification ANSM) :",
+    "options": [
+      "Correspond le plus souvent à une addition d'effets indésirables",
+      "Ne permet de proposer aucune recommandation pratique",
+      "Laisse au médecin le soin d'évaluer l'opportunité de l'association",
+      "A pour exemple ciclosporine + ramipril",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le cours indique : le risque d'IAM existe, correspond le plus souvent à une addition d'EI, aucune recommandation pratique ne peut être proposée, il revient au médecin d'évaluer l'opportunité de l'association ; exemple ciclosporine + ramipril.",
+    "source": {
+      "page": 11,
+      "extrait": "Le risque d'IAM existe, et correspond le plus souvent à une addition d'EI; aucune recommandation pratique ne peut être proposée."
+    },
+    "difficulte": 2,
+    "tags": [
+      "niveaux de gravité",
+      "à prendre en compte"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/qcm-018",
+    "type": "multiple",
+    "enonce": "Associez correctement l'exemple au niveau de gravité ANSM :",
+    "options": [
+      "Voriconazole + rifampicine : contre-indication",
+      "Contraceptifs œstroprogestatifs + rifampicine : association déconseillée",
+      "Fer + calcium : précaution d'emploi",
+      "Ciclosporine + ramipril : à prendre en compte",
+      "Fer + calcium : contre-indication"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "Les quatre premières correspondances sont celles du cours. e) Fausse : fer + calcium illustre la précaution d'emploi.",
+    "source": {
+      "page": 11,
+      "extrait": "Exp: Fer + Calcium"
+    },
+    "difficulte": 2,
+    "tags": [
+      "niveaux de gravité"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/qcm-019",
+    "type": "unique",
+    "enonce": "Le niveau de gravité ANSM qui correspond au cas le plus fréquent est :",
+    "options": [
+      "La contre-indication",
+      "L'association déconseillée",
+      "La précaution d'emploi",
+      "Le niveau « à prendre en compte »",
+      "L'incompatibilité physico-chimique"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Le cours précise pour la précaution d'emploi : « C'est le cas le plus fréquent ».",
+    "source": {
+      "page": 11,
+      "extrait": "C'est le cas le plus fréquent."
+    },
+    "difficulte": 1,
+    "tags": [
+      "niveaux de gravité"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/qcm-020",
+    "type": "multiple",
+    "enonce": "Concernant les mécanismes des IAM :",
+    "options": [
+      "Elles peuvent survenir en phase pharmacocinétique",
+      "Elles peuvent survenir en phase pharmacodynamique",
+      "Les deux phases conduisent à des niveaux de gravité différents",
+      "En phase pharmacocinétique, un médicament modifie le devenir de l'autre (ADME)",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le cours indique que les IAM peuvent survenir dans les deux phases principales (pharmacocinétique et pharmacodynamique), qu'elles conduisent à des niveaux de gravité différents, et qu'en phase PK un médicament modifie le devenir de l'autre : ADME.",
+    "source": {
+      "page": 12,
+      "extrait": "la phase pharmacocinétique et la phase pharmacodynamique, et conduisent à des niveaux de gravité différents"
+    },
+    "difficulte": 1,
+    "tags": [
+      "mécanismes"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/qcm-021",
+    "type": "multiple",
+    "enonce": "Une interaction en phase pharmacocinétique se traduit par :",
+    "options": [
+      "Un changement de concentration ou d'exposition",
+      "Une modification possible de l'AUC",
+      "Une modification possible de la Cmax",
+      "Une modification possible de la demi-vie",
+      "Des effets additifs, synergiques ou antagonistes au niveau de l'organe"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "a–d) Justes : conséquence d'une IAM PK : changement de concentration ou d'exposition (AUC, Cmax, demi-vie). e) Fausse : les effets additifs, synergiques ou antagonistes caractérisent la phase pharmacodynamique.",
+    "source": {
+      "page": 12,
+      "extrait": "Conséquence : changement de concentration ou d'exposition (AUC, Cmax, demi-vie)."
+    },
+    "difficulte": 2,
+    "tags": [
+      "mécanismes",
+      "pharmacocinétique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/qcm-022",
+    "type": "multiple",
+    "enonce": "Concernant les interactions en phase pharmacodynamique :",
+    "options": [
+      "Les médicaments modifient la réponse au niveau de l'organe ou du système",
+      "Les effets peuvent être additifs, synergiques ou antagonistes",
+      "L'association de deux dépresseurs du SNC entraîne une sédation accrue",
+      "L'inhibition enzymatique avec exposition accrue en est l'exemple du cours",
+      "Un médicament modifie l'ADME de l'autre"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "a, b, c) Justes. d) Fausse : l'inhibition enzymatique → exposition accrue est l'exemple de la phase pharmacocinétique. e) Fausse : la modification de l'ADME définit la phase pharmacocinétique.",
+    "source": {
+      "page": 12,
+      "extrait": "Effets additifs, synergiques ou antagonistes. Ex. deux dépresseurs du SNC → sédation accrue."
+    },
+    "difficulte": 2,
+    "tags": [
+      "mécanismes",
+      "pharmacodynamique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/qcm-023",
+    "type": "multiple",
+    "enonce": "Les IAM en phase pharmacocinétique peuvent avoir lieu au niveau :",
+    "options": [
+      "De l'absorption après prise orale d'un médicament",
+      "De la distribution, surtout au niveau des protéines plasmatiques",
+      "Du métabolisme, plus précisément au niveau hépatique",
+      "De l'excrétion urinaire",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le cours énumère ces quatre étapes : absorption (prise orale), distribution (surtout protéines plasmatiques), métabolisme (surtout hépatique) et excrétion urinaire.",
+    "source": {
+      "page": 13,
+      "extrait": "Distribution, surtout au niveau des protéines plasmatiques, Métabolisme, plus précisément au niveau hépatique, Excrétion urinaire."
+    },
+    "difficulte": 1,
+    "tags": [
+      "pharmacocinétique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/qcm-024",
+    "type": "multiple",
+    "enonce": "Les interactions en phase d'absorption concernent :",
+    "options": [
+      "Tous les mécanismes mis en jeu avant que le médicament n'atteigne la circulation sanguine",
+      "Uniquement les mécanismes hépatiques",
+      "Uniquement la fixation aux protéines plasmatiques",
+      "Uniquement la sécrétion tubulaire",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "a) Juste : c'est la définition du cours. b, c, d) Fausses : elles relèvent du métabolisme, de la distribution et de l'élimination.",
+    "source": {
+      "page": 14,
+      "extrait": "Les interactions en phase d'absorption concernent tous les mécanismes mis en jeu avant que le médicament n'atteigne la circulation sanguine."
+    },
+    "difficulte": 1,
+    "tags": [
+      "absorption"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/qcm-025",
+    "type": "multiple",
+    "enonce": "Parmi les produits (B) pouvant modifier l'absorption d'un médicament (A), le cours cite :",
+    "options": [
+      "Les anti-acides",
+      "Les produits formant un complexe",
+      "Les produits adsorbants",
+      "Les produits modifiant la vidange gastrique ou le transit intestinal",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le schéma de la diapositive cite : anti-acide, produit formant un complexe, produit adsorbant, produit modifiant la vidange gastrique, produit modifiant le transit intestinal, produit entrant en compétition.",
+    "source": {
+      "page": 14,
+      "extrait": "Anti-acide Produit formant un complexe Produit adsorbant Produit modifiant la vidange gastrique Produit modifiant le transit intestinal"
+    },
+    "difficulte": 1,
+    "tags": [
+      "absorption"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/qcm-026",
+    "type": "multiple",
+    "enonce": "Concernant les interactions par variation du pH digestif :",
+    "options": [
+      "Elles surviennent lorsque la biodisponibilité d'une molécule est pH dépendante",
+      "Les antiacides et pansements gastriques peuvent modifier la biodisponibilité d'un autre médicament",
+      "Une molécule qui augmente le pH diminue l'absorption des acides faibles",
+      "Il faut décaler les prises médicamenteuses d'au moins 2 heures",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes les propositions sont dans le cours : source d'IAM si la biodisponibilité est pH dépendante, rôle des antiacides et pansements gastriques, augmentation du pH → diminution de l'absorption des acides faibles, décalage des prises d'au moins 2 heures.",
+    "source": {
+      "page": 15,
+      "extrait": "Une molécule qui augmente le PH l'absorption des acides faibles diminue"
+    },
+    "difficulte": 1,
+    "tags": [
+      "absorption",
+      "pH"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/qcm-027",
+    "type": "multiple",
+    "enonce": "Une molécule qui augmente le pH gastrique :",
+    "options": [
+      "Diminue l'absorption des acides faibles",
+      "Augmente l'absorption des acides faibles par diffusion passive",
+      "Facilite la résorption des bases faibles",
+      "Peut favoriser l'absorption des pénicillines",
+      "S'oppose à la résorption des anticoagulants oraux"
+    ],
+    "correctes": [
+      0,
+      2,
+      3,
+      4
+    ],
+    "explication": "a, c, e) Justes : les alcalinisants s'opposent à la résorption des acides faibles (anticoagulants oraux, AINS, barbituriques) et facilitent celle des bases faibles. d) Juste : l'hydrolyse des pénicillines est diminuée quand le pH augmente. b) Fausse.",
+    "source": {
+      "page": 15,
+      "extrait": "les alcalinisants (protecteurs gastriques) s'opposent à la résorption des médicaments acides faibles (anticoagulants oraux, AINS, barbituriques…) et facilitent celle des bases faibles"
+    },
+    "difficulte": 2,
+    "tags": [
+      "absorption",
+      "pH"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/qcm-028",
+    "type": "unique",
+    "enonce": "Le pH du milieu digestif influence l'absorption des médicaments qui subissent :",
+    "options": [
+      "La diffusion passive",
+      "Le transport actif",
+      "La diffusion facilitée",
+      "La pinocytose",
+      "La filtration"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Le cours précise que le pH du milieu digestif influence uniquement l'absorption des médicaments qui subissent le phénomène de diffusion passive.",
+    "source": {
+      "page": 15,
+      "extrait": "Le pH du milieu digestif influence uniquement l'absorption des médicaments qui subissent le phénomène de diffusion passive."
+    },
+    "difficulte": 2,
+    "tags": [
+      "absorption",
+      "pH"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/qcm-029",
+    "type": "multiple",
+    "enonce": "Entraînent une élévation du pH digestif après leur administration :",
+    "options": [
+      "Les sels de magnésium",
+      "Les sels d'aluminium",
+      "Les antisécrétoires acides",
+      "Les acides faibles comme l'aspirine",
+      "Le kaolin uniquement"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "a, b, c) Justes : « Les sels de magnésium et d'aluminium ainsi que les antisécrétoires acides […] entraînent une élévation du pH digestif ». d, e) Fausses : non cités dans ce sens.",
+    "source": {
+      "page": 15,
+      "extrait": "Les sels de magnésium et d'aluminium ainsi que les antisécrétoires acides , après leur administration, entraînent une élévation du pH digestif."
+    },
+    "difficulte": 2,
+    "tags": [
+      "absorption",
+      "pH"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/qcm-030",
+    "type": "multiple",
+    "enonce": "Concernant l'effet des alcalinisants sur l'absorption des pénicillines :",
+    "options": [
+      "Les pénicillines sont sensibles à l'hydrolyse stomacale",
+      "L'hydrolyse est diminuée lorsque le pH est augmenté",
+      "Les molécules qui augmentent le pH stomacal peuvent favoriser leur absorption",
+      "Les molécules qui augmentent le pH stomacal diminuent toujours leur absorption",
+      "L'hydrolyse est augmentée lorsque le pH est augmenté"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "a, b, c) Justes : les substances hydrolysées au niveau stomacal sont sensibles au pH ; l'augmentation du pH diminue l'hydrolyse et peut favoriser l'absorption des pénicillines. d, e) Fausses.",
+    "source": {
+      "page": 15,
+      "extrait": "les molécules qui augmente le pH stomacal peuvent favoriser l'absorption des pénicillines car l'hydrolyse est diminuée lorsque le pH est augmenté"
+    },
+    "difficulte": 2,
+    "tags": [
+      "absorption",
+      "pH",
+      "pénicillines"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/qcm-031",
+    "type": "multiple",
+    "enonce": "Concernant l'acide acétylsalicylique associé à un alcalinisant :",
+    "options": [
+      "Le pH influence la dissolution des formes solides",
+      "Les alcalinisants facilitent la mise en solution des acides faibles",
+      "Les alcalinisants peuvent accélérer la résorption de l'acide acétylsalicylique",
+      "Les alcalinisants favorisent l'ionisation des acides faibles",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le cours indique que le pH influence la dissolution des formes solides : les alcalinisants facilitent la mise en solution des acides faibles (acide acétylsalicylique), de sorte qu'ils accélèrent la résorption bien qu'ils favorisent leur ionisation.",
+    "source": {
+      "page": 15,
+      "extrait": "les alcalinisants facilitent la mise en solution des acides faibles (acide acétyl salycilique) de sorte qu'ils accélèrent la résorption bien qu'ils favorisent leur ionisation"
+    },
+    "difficulte": 3,
+    "tags": [
+      "absorption",
+      "pH",
+      "dissolution"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/qcm-032",
+    "type": "multiple",
+    "enonce": "Concernant l'interaction SMECTA® (diosmectite) + clindamycine :",
+    "options": [
+      "Il s'agit d'une interaction par création d'une barrière physique",
+      "Il faut administrer la clindamycine à distance du SMECTA®",
+      "L'intervalle recommandé est d'au moins 2 heures si possible",
+      "Il s'agit d'une interaction au niveau de l'élimination",
+      "Il s'agit d'une induction enzymatique"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "a, b, c) Justes : création d'une barrière physique, administration à distance du SMECTA® d'au moins 2 heures si possible. d, e) Fausses : interaction d'absorption.",
+    "source": {
+      "page": 16,
+      "extrait": "SMECTA® (Diosmectite) et Clindamycine administration à distance du SMECTA® ( d'au moins 2 heures si possible)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "absorption",
+      "barrière physique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/qcm-033",
+    "type": "unique",
+    "enonce": "L'association d'une vitamine liposoluble (A, D, E, K) et d'huile de paraffine illustre :",
+    "options": [
+      "La solubilisation d'un composé diffusible dans un liquide non résorbable",
+      "Une complexation",
+      "Une compétition au niveau du même transporteur",
+      "Une modification du pH urinaire",
+      "Une induction enzymatique"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Le cours cite cet exemple pour la solubilisation d'un composé diffusible dans un liquide non résorbable : médicament liposoluble + huile minérale laxative (huile de paraffine).",
+    "source": {
+      "page": 16,
+      "extrait": "Solubilisation d'un composé diffusible dans un liquide non résorbable"
+    },
+    "difficulte": 2,
+    "tags": [
+      "absorption",
+      "huile de paraffine"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/qcm-034",
+    "type": "multiple",
+    "enonce": "Concernant les interactions par adsorption :",
+    "options": [
+      "Un médicament destiné à être résorbé est adsorbé par un autre non résorbable",
+      "Le kaolin et le phosphate de calcium sont des antiacides insolubles adsorbants",
+      "Le charbon actif est un agent adsorbant",
+      "La cholestyramine est une résine échangeuse d'ions",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le cours cite comme agents insolubles adsorbants : antiacides insolubles (kaolin, phosphate de Ca2+), charbon actif et résines échangeuses d'ions (cholestyramine).",
+    "source": {
+      "page": 17,
+      "extrait": "Les agents insolubles sont : des antiacides insolubles (Kaolin, Phosphate de Ca2+…), le charbon actif et les résines échangeuses d'ions (cholestyramine)."
+    },
+    "difficulte": 1,
+    "tags": [
+      "absorption",
+      "adsorption"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/qcm-035",
+    "type": "multiple",
+    "enonce": "Concernant le charbon actif :",
+    "options": [
+      "Il capte les médicaments au niveau du tube digestif",
+      "Il empêche leur absorption",
+      "Il est utilisé dans le traitement des intoxications",
+      "Il agit par complexation avec le calcium",
+      "Il est un inducteur enzymatique"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "a, b, c) Justes : le charbon actif capte les médicaments dans le tube digestif et empêche leur absorption, d'où son utilisation dans les intoxications. d, e) Fausses : il agit par adsorption.",
+    "source": {
+      "page": 17,
+      "extrait": "Le charbon actif capte les médicaments au niveau du tube digestif et empêche leur absorption"
+    },
+    "difficulte": 1,
+    "tags": [
+      "absorption",
+      "adsorption",
+      "charbon actif"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/qcm-036",
+    "type": "multiple",
+    "enonce": "Concernant l'association kaolin + digoxine :",
+    "options": [
+      "Elle diminue l'absorption de la digoxine",
+      "Elle augmente l'absorption de la digoxine",
+      "Il faut décaler les prises de 2 heures",
+      "Il s'agit d'une interaction par adsorption",
+      "Il s'agit d'un déplacement de la digoxine tissulaire"
+    ],
+    "correctes": [
+      0,
+      2,
+      3
+    ],
+    "explication": "a, c, d) Justes : « KAOLIN + DIGOXINE : diminution de l'absorption de la digoxine → décaler la prise de 2 h », exemple d'adsorption. b) Fausse. e) Fausse : le déplacement tissulaire concerne la quinidine, le vérapamil, la nifédipine, l'amiodarone.",
+    "source": {
+      "page": 17,
+      "extrait": "KAOLIN + DIGOXINE: diminution de l'absorption de la digoxine décaler la prises de 2hr."
+    },
+    "difficulte": 1,
+    "tags": [
+      "absorption",
+      "adsorption",
+      "digoxine"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/qcm-037",
+    "type": "multiple",
+    "enonce": "Constituent des exemples d'interaction par complexation au niveau digestif :",
+    "options": [
+      "Fluoroquinolones + sels de calcium",
+      "Fer + calcium",
+      "Lévothyroxine + calcium",
+      "Tétracyclines + calcium, fer, aluminium ou magnésium",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Les quatre exemples de complexation du cours : fluoroquinolones et sels de calcium, fer + Ca, lévothyroxine + Ca, tétracyclines + Ca, fer, Al ou Mg.",
+    "source": {
+      "page": 18,
+      "extrait": "Fluoriquinolones et sels de calcium Fer + Ca Levothyroxine + Ca Tétracyclines + Ca, Fer, AL ou Mg"
+    },
+    "difficulte": 1,
+    "tags": [
+      "absorption",
+      "complexation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/qcm-038",
+    "type": "multiple",
+    "enonce": "Concernant la complexation au niveau de l'absorption :",
+    "options": [
+      "Elle correspond à la fixation à un autre médicament formant des complexes",
+      "Elle entraîne une absorption diminuée",
+      "Elle entraîne une absorption augmentée",
+      "Il est nécessaire de décaler les prises d'au moins 2 heures si possible",
+      "Elle est sans conséquence pratique"
+    ],
+    "correctes": [
+      0,
+      1,
+      3
+    ],
+    "explication": "a, b, d) Justes : fixation à un autre médicament → complexes → absorption diminuée ; décaler les prises d'au moins 2 heures si possible. c, e) Fausses.",
+    "source": {
+      "page": 18,
+      "extrait": "Fixation à un autre médicament complexes absorption diminuée"
+    },
+    "difficulte": 1,
+    "tags": [
+      "absorption",
+      "complexation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/qcm-039",
+    "type": "multiple",
+    "enonce": "Concernant la modification de la vidange gastrique :",
+    "options": [
+      "Toute modification de la vidange gastrique influe sur l'absorption",
+      "D'une façon générale, l'augmentation de la vidange gastrique favorise l'absorption",
+      "Sa diminution rend le processus d'absorption difficile",
+      "Un médicament retardant la vidange gastrique diffère la résorption d'un autre médicament associé",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes les propositions sont dans le cours : toute modification de la vidange influe sur l'absorption ; son augmentation favorise l'absorption, sa diminution la rend difficile ; un ralentisseur de vidange diffère la résorption.",
+    "source": {
+      "page": 19,
+      "extrait": "l'augmentation de la vidange gastrique favorise l'absorption, sa diminution rend le processus difficile"
+    },
+    "difficulte": 1,
+    "tags": [
+      "absorption",
+      "vidange gastrique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/qcm-040",
+    "type": "multiple",
+    "enonce": "Le métoclopramide (accélérateur de la vidange gastrique) facilite la résorption :",
+    "options": [
+      "Du paracétamol",
+      "Du diazépam",
+      "Du lithium",
+      "De la digoxine en comprimé",
+      "De la L-DOPA"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "a, b, c) Justes : le métoclopramide facilite la résorption du paracétamol, du diazépam et du lithium. d) Fausse : la résorption de la digoxine en comprimé est abaissée. e) Fausse : non cité.",
+    "source": {
+      "page": 19,
+      "extrait": "le MÉTOCLOPRAMIDE facilite la résorption du PARACÉTAMOL, du DIAZÉPAM, du LITHIUM"
+    },
+    "difficulte": 2,
+    "tags": [
+      "absorption",
+      "vidange gastrique",
+      "métoclopramide"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/qcm-041",
+    "type": "unique",
+    "enonce": "La résorption de la digoxine en comprimé est abaissée par le métoclopramide car :",
+    "options": [
+      "L'accélération de la vidange gastrique s'oppose à la dissolution du PA",
+      "Le métoclopramide forme un complexe avec la digoxine",
+      "Le métoclopramide est un inducteur enzymatique",
+      "Le métoclopramide adsorbe la digoxine",
+      "Le métoclopramide déplace la digoxine de l'albumine"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Le cours explique que la baisse de résorption de la digoxine en comprimé est liée au fait que l'accélération de la vidange gastrique s'oppose à la dissolution du PA.",
+    "source": {
+      "page": 19,
+      "extrait": "l'accélération de la vidange gastrique s'oppose à la dissolution du PA"
+    },
+    "difficulte": 3,
+    "tags": [
+      "absorption",
+      "vidange gastrique",
+      "digoxine"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/qcm-042",
+    "type": "multiple",
+    "enonce": "Concernant la modification du transit intestinal :",
+    "options": [
+      "Elle modifie le temps de contact entre le médicament et son site de résorption",
+      "Les substances qui dépriment le péristaltisme facilitent la résorption des médicaments associés",
+      "Les laxatifs diminuent la résorption d'un PA associé",
+      "Les anticholinergiques (antidépresseurs tricycliques) augmentent la résorption du dicoumarol ou de la digoxine",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes les propositions sont dans le cours : modification du temps de contact ; les dépresseurs du péristaltisme prolongent le séjour et facilitent la résorption ; les laxatifs diminuent la résorption ; les anticholinergiques augmentent la résorption du dicoumarol ou de la digoxine.",
+    "source": {
+      "page": 19,
+      "extrait": "les anticholinergiques (antidépresseurs tricycliques) augmentent la résorption du dicoumarol ou de la digoxine"
+    },
+    "difficulte": 2,
+    "tags": [
+      "absorption",
+      "transit intestinal"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/qcm-043",
+    "type": "multiple",
+    "enonce": "Les laxatifs, associés à un autre médicament administré per os :",
+    "options": [
+      "Accélèrent le transit",
+      "Diminuent la résorption du PA associé",
+      "Augmentent la résorption du PA associé",
+      "Prolongent le temps de séjour du PA associé",
+      "Altèrent la biodisponibilité des médicaments coadministrés per os"
+    ],
+    "correctes": [
+      0,
+      1,
+      4
+    ],
+    "explication": "a, b, e) Justes : les agents accélérant le transit (laxatifs) diminuent la résorption d'un PA associé et altèrent la biodisponibilité des médicaments coadministrés per os. c, d) Fausses : ce sont les effets des dépresseurs du péristaltisme.",
+    "source": {
+      "page": 19,
+      "extrait": "les laxatifs altèrent la biodisponibilité des médicaments coadministrés peros"
+    },
+    "difficulte": 1,
+    "tags": [
+      "absorption",
+      "transit intestinal",
+      "laxatifs"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/qcm-044",
+    "type": "multiple",
+    "enonce": "Concernant la compétition au niveau du même site de transport intestinal :",
+    "options": [
+      "Certains médicaments traversent la barrière intestinale grâce à des systèmes de transport épithéliaux",
+      "Les analogues des purines, pyrimidines, sucres et acides aminés utilisent ces transporteurs",
+      "Deux substances absorbées par le même système entrent en compétition",
+      "Il en résulte un ralentissement réciproque de leur absorption",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes les propositions sont dans le cours : transporteurs épithéliaux (analogues des purines, pyrimidines, sucres, AA) ; deux substances utilisant le même système entrent en compétition, d'où un ralentissement réciproque de leur absorption.",
+    "source": {
+      "page": 20,
+      "extrait": "Si on associe 2 substances absorbées par le même système, ils entrent en compétition, d'où le ralentissement réciproque de leur absorption."
+    },
+    "difficulte": 2,
+    "tags": [
+      "absorption",
+      "compétition"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/qcm-045",
+    "type": "multiple",
+    "enonce": "La phénylalanine alimentaire ralentit l'absorption de la L-DOPA :",
+    "options": [
+      "Par compétition au niveau du même site de transport",
+      "Chez les patients soumis à un régime hyperprotidique",
+      "Par complexation",
+      "Par adsorption",
+      "Par élévation du pH gastrique"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "a, b) Justes : exemple de compétition au niveau du même transporteur, chez les patients soumis à un régime hyperprotidique. c, d, e) Fausses.",
+    "source": {
+      "page": 20,
+      "extrait": "PHENYLALANINE alimentaire ralentit l'absorption de la L-DOPA chez les patients soumis à un régime hyperprotidique."
+    },
+    "difficulte": 1,
+    "tags": [
+      "absorption",
+      "compétition",
+      "L-DOPA"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/qcm-046",
+    "type": "multiple",
+    "enonce": "Associez le mécanisme d'interaction d'absorption à son exemple :",
+    "options": [
+      "Barrière physique : SMECTA® + clindamycine",
+      "Adsorption : kaolin + digoxine",
+      "Complexation : tétracyclines + fer",
+      "Compétition pour un transporteur : phénylalanine + L-DOPA",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes ces correspondances sont celles du cours.",
+    "source": {
+      "page": 18,
+      "extrait": "Tétracyclines + Ca, Fer, AL ou Mg"
+    },
+    "difficulte": 2,
+    "tags": [
+      "absorption",
+      "synthèse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/qcm-047",
+    "type": "unique",
+    "enonce": "Le délai recommandé entre les prises dans les interactions d'absorption (pH, barrière, complexation, adsorption) est :",
+    "options": [
+      "30 minutes",
+      "1 heure",
+      "Au moins 2 heures",
+      "12 heures",
+      "24 heures"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Le cours recommande de décaler les prises d'au moins 2 heures (antiacides, SMECTA®, complexation, kaolin).",
+    "source": {
+      "page": 15,
+      "extrait": "Il est nécessaire de décaler les prises médicamenteuses au moins de 2 heures."
+    },
+    "difficulte": 1,
+    "tags": [
+      "absorption",
+      "conduite à tenir"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/qcm-048",
+    "type": "multiple",
+    "enonce": "Les interactions par modification de la distribution mettent en jeu :",
+    "options": [
+      "Un déplacement du médicament de ses liaisons aux protéines plasmatiques",
+      "Une libération du médicament de ses sites de stockage tissulaires",
+      "Une complexation dans la lumière intestinale",
+      "Une compétition pour la sécrétion tubulaire",
+      "Une induction des CYP"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "a, b) Justes : déplacement des protéines plasmatiques ou libération des sites de stockage tissulaires. c, d, e) Fausses : relèvent de l'absorption, de l'élimination et du métabolisme.",
+    "source": {
+      "page": 21,
+      "extrait": "soit un déplacement du médicament de ses liaisons aux protéines plasmatiques, soit sa libération de ses sites de stockage tissulaires"
+    },
+    "difficulte": 1,
+    "tags": [
+      "distribution"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/qcm-049",
+    "type": "unique",
+    "enonce": "Une interaction au niveau de la distribution ne se manifeste que si les deux médicaments ont une liaison aux protéines plasmatiques :",
+    "options": [
+      "Supérieure à 50 %",
+      "Supérieure à 70 %",
+      "Supérieure à 80 %",
+      "Supérieure à 90 %",
+      "Inférieure à 10 %"
+    ],
+    "correctes": [
+      3
+    ],
+    "explication": "Le cours précise : forte affinité pour les protéines plasmatiques (liaison > 90 %) ou tissulaires.",
+    "source": {
+      "page": 21,
+      "extrait": "L'interaction ne se manifeste que si les deux médicaments ont une forte affinité pour les protéines plasmatiques (liaison > 90%)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "distribution",
+      "liaison protéique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/qcm-050",
+    "type": "multiple",
+    "enonce": "Lors d'une interaction par déplacement de la fixation protéique plasmatique :",
+    "options": [
+      "Le médicament présentant la plus faible affinité est déplacé",
+      "Le médicament présentant la plus forte affinité est déplacé",
+      "La fraction libre du médicament déplacé augmente",
+      "La forme libre est la forme active",
+      "La forme liée est la forme active"
+    ],
+    "correctes": [
+      0,
+      2,
+      3
+    ],
+    "explication": "a, c) Justes : le déplacement touche celui qui a la plus faible affinité, dont la fraction libre augmente. d) Juste : sur le schéma, forme libre active, forme liée inactive. b, e) Fausses.",
+    "source": {
+      "page": 22,
+      "extrait": "se traduit par le déplacement de l'un des deux (celui présentant la plus faible affinité) et augmentation de sa fraction libre"
+    },
+    "difficulte": 2,
+    "tags": [
+      "distribution",
+      "fraction libre"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/qcm-051",
+    "type": "multiple",
+    "enonce": "Les médicaments les plus sensibles au phénomène de déplacement présentent :",
+    "options": [
+      "Une forte liaison aux protéines plasmatiques",
+      "Un caractère acide faible",
+      "Un nombre de sites de fixation faible",
+      "Un volume de distribution faible",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le cours cite ces quatre caractéristiques : forte liaison aux protéines plasmatiques, caractère acide faible, nombre de sites de fixation faible, volume de distribution faible.",
+    "source": {
+      "page": 22,
+      "extrait": "une forte liaison aux protéines plasmatiques, un caractère acide faible, un nombre de site de fixation faible, un volume de distribution faible"
+    },
+    "difficulte": 2,
+    "tags": [
+      "distribution",
+      "déplacement"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/qcm-052",
+    "type": "multiple",
+    "enonce": "Les médicaments les plus sensibles au déplacement protéique ont :",
+    "options": [
+      "Un caractère base faible",
+      "Un volume de distribution élevé",
+      "Un nombre de sites de fixation élevé",
+      "Une faible liaison aux protéines plasmatiques",
+      "Toutes les propositions sont fausses"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Chaque proposition inverse un critère du cours : il faut un caractère acide faible, un volume de distribution faible, un nombre de sites de fixation faible et une forte liaison protéique. Toutes les propositions a–d sont donc fausses.",
+    "source": {
+      "page": 22,
+      "extrait": "un caractère acide faible, un nombre de site de fixation faible, un volume de distribution faible"
+    },
+    "difficulte": 3,
+    "tags": [
+      "distribution",
+      "déplacement"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/qcm-053",
+    "type": "multiple",
+    "enonce": "Sur le plan pharmacocinétique, l'augmentation de la fraction libre entraîne :",
+    "options": [
+      "Une diffusion tissulaire accrue",
+      "Une augmentation du volume de distribution",
+      "Une augmentation de l'élimination par filtration glomérulaire",
+      "Une augmentation du métabolisme hépatique lorsque le coefficient d'extraction hépatique est élevé",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le cours indique : diffusion tissulaire accrue avec augmentation du volume de distribution, augmentation de l'élimination par filtration glomérulaire et métabolisme hépatique (si coefficient d'extraction hépatique élevé).",
+    "source": {
+      "page": 22,
+      "extrait": "une diffusion tissulaire accrue avec augmentation du volume de distribution"
+    },
+    "difficulte": 2,
+    "tags": [
+      "distribution",
+      "fraction libre"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/qcm-054",
+    "type": "multiple",
+    "enonce": "Concernant l'association AVK + AINS chez un sujet équilibré :",
+    "options": [
+      "Elle peut provoquer des accidents hémorragiques",
+      "Elle augmente la forme libre de l'AVK",
+      "Elle augmente l'effet thérapeutique de l'AVK",
+      "Elle impose une adaptation posologique",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Exemple d'interaction au niveau plasmatique : l'AINS déplace l'AVK → forme libre augmentée → effet thérapeutique augmenté → risque hémorragique → adaptation posologique.",
+    "source": {
+      "page": 23,
+      "extrait": "Accidents hémorragiques chez des sujets équilibrés/une dose correcte d'un AVK à qui on administre des AINS."
+    },
+    "difficulte": 1,
+    "tags": [
+      "distribution",
+      "AVK",
+      "AINS"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/qcm-055",
+    "type": "multiple",
+    "enonce": "La digoxine tissulaire peut être déplacée par :",
+    "options": [
+      "La quinidine",
+      "Le vérapamil",
+      "La nifédipine",
+      "L'amiodarone",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le cours cite la quinidine, le vérapamil, la nifédipine et l'amiodarone, qui déplacent la digoxine tissulaire et augmentent sa concentration plasmatique.",
+    "source": {
+      "page": 23,
+      "extrait": "Déplacement de la DIGOXINE tissulaire par la quinidine, le Verapamil, la Nifédipine, l'Amiodarone"
+    },
+    "difficulte": 1,
+    "tags": [
+      "distribution",
+      "digoxine"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/qcm-056",
+    "type": "unique",
+    "enonce": "Le déplacement de la digoxine tissulaire par l'amiodarone entraîne :",
+    "options": [
+      "Une augmentation de la concentration plasmatique de la digoxine",
+      "Une diminution de la concentration plasmatique de la digoxine",
+      "Une diminution de l'absorption de la digoxine",
+      "Une induction du métabolisme de la digoxine",
+      "Une augmentation de l'excrétion urinaire de la digoxine"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Le déplacement tissulaire de la digoxine → augmentation de sa concentration plasmatique.",
+    "source": {
+      "page": 23,
+      "extrait": "augmentation de la concentration de la digoxine plasmatique"
+    },
+    "difficulte": 1,
+    "tags": [
+      "distribution",
+      "digoxine"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/qcm-057",
+    "type": "multiple",
+    "enonce": "Sont cités comme médicaments à forte fixation protéique :",
+    "options": [
+      "Les anticoagulants coumariniques (AVK) comme l'acénocoumarol",
+      "Les AINS (phénylbutazone, indométacine, aspirine)",
+      "Le méthotrexate",
+      "Les pénicillines et la phénytoïne",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le cours cite : AVK (acénocoumarol), AINS (phénylbutazone, indométacine, aspirine), méthotrexate, pénicillines, phénytoïne.",
+    "source": {
+      "page": 24,
+      "extrait": "Anticoagulants coumariniques ou AVK (oraux) Ex: Acénocoumarol"
+    },
+    "difficulte": 1,
+    "tags": [
+      "distribution",
+      "forte fixation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/qcm-058",
+    "type": "multiple",
+    "enonce": "D'après le tableau des conséquences du déplacement, quelles associations (molécule déplacée / déplaçante / effet) sont exactes ?",
+    "options": [
+      "Warfarine / clofibrate / hémorragie",
+      "Tolbutamide / sulfaphénazole / collapsus hypoglycémique",
+      "Méthotrexate / AINS / insuffisance rénale",
+      "Acide valproïque / phénytoïne / neurotoxicité",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes ces lignes figurent dans le tableau du cours : warfarine déplacée par clofibrate, acide méfénamique, acide nalidixique, phénylbutazone (hémorragie) ; tolbutamide par sulfaphénazole, salicylés (collapsus hypoglycémique) ; MTX par sulfamides, AINS (insuffisance rénale) ; acide valproïque et antidépresseurs tricycliques par phénytoïne (neurotoxicité).",
+    "source": {
+      "page": 25,
+      "extrait": "tolbutamide sulfaphénazole salicylés collapsus hypoglycémique"
+    },
+    "difficulte": 2,
+    "tags": [
+      "distribution",
+      "déplacement",
+      "tableau"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/qcm-059",
+    "type": "unique",
+    "enonce": "Le tolbutamide déplacé par les salicylés expose à :",
+    "options": [
+      "Une hémorragie",
+      "Un collapsus hypoglycémique",
+      "Une insuffisance rénale",
+      "Une neurotoxicité",
+      "Une rhabdomyolyse"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Selon le tableau du cours, tolbutamide déplacé par le sulfaphénazole ou les salicylés → collapsus hypoglycémique.",
+    "source": {
+      "page": 25,
+      "extrait": "tolbutamide sulfaphénazole salicylés collapsus hypoglycémique"
+    },
+    "difficulte": 2,
+    "tags": [
+      "distribution",
+      "tolbutamide"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/qcm-060",
+    "type": "unique",
+    "enonce": "Le méthotrexate (MTX) déplacé de ses liaisons protéiques par les sulfamides ou les AINS expose à :",
+    "options": [
+      "Une hémorragie",
+      "Un collapsus hypoglycémique",
+      "Une insuffisance rénale",
+      "Une neurotoxicité",
+      "Une thrombose"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "Le tableau du cours indique : MTX déplacé par sulfamides, AINS → insuffisance rénale.",
+    "source": {
+      "page": 25,
+      "extrait": "MTX sulfamides AINS insuffisance rénale"
+    },
+    "difficulte": 2,
+    "tags": [
+      "distribution",
+      "méthotrexate"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/qcm-061",
+    "type": "multiple",
+    "enonce": "Chez le nouveau-né, concernant l'interaction avec la bilirubine :",
+    "options": [
+      "Le nouveau-né présente un taux élevé de bilirubine et d'acides gras",
+      "La bilirubine et les acides gras sont des composés endogènes liant les protéines",
+      "Le chloramphénicol et les sulfamides peuvent déplacer la bilirubine",
+      "La bilirubine déplacée et non métabolisée peut induire une neurotoxicité",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes les propositions sont dans le cours : taux élevé de BRB et d'acides gras (composés endogènes liant les protéines), déplacement par le chloramphénicol et les sulfamides, déficience du métabolisme de la BRB → neurotoxicité.",
+    "source": {
+      "page": 26,
+      "extrait": "Certains médicaments fortement liés peuvent déplacer la BRB (chloramphénicol, sulfamides)."
+    },
+    "difficulte": 2,
+    "tags": [
+      "distribution",
+      "bilirubine",
+      "nouveau-né"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/qcm-062",
+    "type": "unique",
+    "enonce": "La neurotoxicité de la bilirubine déplacée chez le nouveau-né s'explique par :",
+    "options": [
+      "Une déficience du métabolisme de la bilirubine",
+      "Un taux faible de bilirubine",
+      "Une induction enzymatique néonatale",
+      "Une absence de liaison de la bilirubine aux protéines",
+      "Une élimination urinaire accrue de la bilirubine"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Le nouveau-né présente une déficience du métabolisme de la BRB : déplacée et non métabolisée, elle peut induire une neurotoxicité.",
+    "source": {
+      "page": 26,
+      "extrait": "le nouveau-né présente une déficience de métabolisme de BRB, ainsi celle-ci déplacée et non métabolisée peut induire une neurotoxicité"
+    },
+    "difficulte": 2,
+    "tags": [
+      "distribution",
+      "bilirubine"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/qcm-063",
+    "type": "multiple",
+    "enonce": "Le foie peut transformer le médicament en métabolites (A') :",
+    "options": [
+      "Moins actifs le plus souvent",
+      "Plus actifs rarement",
+      "Plus actifs le plus souvent",
+      "Toujours inactifs",
+      "Toujours toxiques"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "a, b) Justes : métabolites moins actifs le plus souvent, plus actifs rarement. c, d, e) Fausses.",
+    "source": {
+      "page": 27,
+      "extrait": "Moins Actifs le plus souvent Plus actifs rarement"
+    },
+    "difficulte": 1,
+    "tags": [
+      "métabolisme"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/qcm-064",
+    "type": "multiple",
+    "enonce": "Concernant l'induction enzymatique :",
+    "options": [
+      "C'est une accélération du métabolisme des médicaments",
+      "Elle résulte de la stimulation des systèmes enzymatiques par un médicament inducteur",
+      "Elle correspond à une augmentation de la synthèse des enzymes microsomales hépatiques (CYP)",
+      "Elle conduit le plus souvent à une baisse d'efficacité de l'autre médicament",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le cours définit l'induction comme une accélération du métabolisme par stimulation des systèmes enzymatiques ; augmentation de la synthèse des CYP, augmentation du métabolisme de l'autre médicament et donc baisse de son efficacité.",
+    "source": {
+      "page": 28,
+      "extrait": "Augmentation de la synthèse des enzymes microsomales hépatiques (CYP) par un médicament, conduisant à l'augmentation du métabolisme de l'autre médicament"
+    },
+    "difficulte": 1,
+    "tags": [
+      "métabolisme",
+      "induction"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/qcm-065",
+    "type": "multiple",
+    "enonce": "Concernant la cinétique de l'induction enzymatique :",
+    "options": [
+      "Le phénomène est progressif",
+      "Il s'installe après quelques jours",
+      "Il subsiste plus ou moins longtemps après l'arrêt de l'inducteur",
+      "Il est immédiat",
+      "Il disparaît dès l'arrêt de l'inducteur"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "a, b, c) Justes : progressif, s'installe après quelques jours, subsiste après l'arrêt. d, e) Fausses : ces caractéristiques sont celles de l'inhibition enzymatique.",
+    "source": {
+      "page": 28,
+      "extrait": "Le phénomène est progressif, s'installe après quelques jours et subsiste plus ou moins longtemps après arrêt de l'inducteur."
+    },
+    "difficulte": 2,
+    "tags": [
+      "métabolisme",
+      "induction"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/qcm-066",
+    "type": "unique",
+    "enonce": "Un médicament qui induit son propre métabolisme est appelé :",
+    "options": [
+      "Auto-inducteur",
+      "Inducteur enzymatique d'un autre médicament",
+      "Inhibiteur enzymatique",
+      "Substrat",
+      "Prodrogue"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Le cours distingue : le médicament induit son métabolisme → auto-inducteur ; il induit le métabolisme d'un autre → inducteur enzymatique.",
+    "source": {
+      "page": 28,
+      "extrait": "Le médicament induit son métabolisme Auto inducteur"
+    },
+    "difficulte": 1,
+    "tags": [
+      "métabolisme",
+      "induction"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/qcm-067",
+    "type": "multiple",
+    "enonce": "Lors d'une induction enzymatique, si le médicament est transformé en métabolites inactifs :",
+    "options": [
+      "La formation de métabolites inactifs augmente",
+      "Il y a une inactivation précoce du médicament",
+      "Il faut augmenter la posologie du médicament",
+      "Il faut diminuer la posologie",
+      "L'effet thérapeutique augmente"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "a, b, c) Justes : augmentation des métabolites inactifs → inactivation précoce → augmentation de la posologie. d, e) Fausses.",
+    "source": {
+      "page": 29,
+      "extrait": "Inactivation précoce du médicament"
+    },
+    "difficulte": 2,
+    "tags": [
+      "métabolisme",
+      "induction"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/qcm-068",
+    "type": "multiple",
+    "enonce": "Lors d'une induction enzymatique, si le médicament est transformé en métabolites toxiques :",
+    "options": [
+      "Les effets indésirables et le risque de toxicité augmentent",
+      "Il faut diminuer la posologie",
+      "Il faut augmenter la posologie",
+      "Le risque de toxicité diminue",
+      "Aucune adaptation n'est nécessaire"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "a, b) Justes : augmentation des métabolites toxiques → augmentation des EI et du risque de toxicité → diminuer la posologie. c, d, e) Fausses.",
+    "source": {
+      "page": 29,
+      "extrait": "EI et risque de toxicité Diminuer la posologie"
+    },
+    "difficulte": 2,
+    "tags": [
+      "métabolisme",
+      "induction"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/qcm-069",
+    "type": "multiple",
+    "enonce": "Lors d'une induction enzymatique produisant des métabolites actifs :",
+    "options": [
+      "L'activité pharmacologique augmente",
+      "Les effets thérapeutiques et indésirables augmentent",
+      "Il faut parfois diminuer la posologie si les EI sont importants",
+      "Il faut toujours augmenter la posologie",
+      "Il y a une inactivation précoce du médicament"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "a, b, c) Justes : augmentation des métabolites actifs → augmentation de l'activité pharmacologique (ET et EI) → parfois diminuer la posologie si les EI sont importants. d, e) Fausses.",
+    "source": {
+      "page": 29,
+      "extrait": "Parfois diminuer la posologie si les EI sont importants"
+    },
+    "difficulte": 2,
+    "tags": [
+      "métabolisme",
+      "induction"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/qcm-070",
+    "type": "multiple",
+    "enonce": "Sont cités comme inducteurs enzymatiques :",
+    "options": [
+      "Le phénobarbital et la primidone",
+      "La phénytoïne et la carbamazépine",
+      "La rifampicine",
+      "La griséofulvine et le millepertuis",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le cours cite : anticonvulsivants (barbituriques : phénobarbital, primidone ; phénytoïne ; carbamazépine), rifampicine, griséofulvine et, parmi les aliments, le millepertuis.",
+    "source": {
+      "page": 30,
+      "extrait": "Anticonvulsivants : Barbituriques (Phénobarbital, Primidone), Phénytoine, Carbamazépine"
+    },
+    "difficulte": 1,
+    "tags": [
+      "métabolisme",
+      "inducteurs"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/qcm-071",
+    "type": "multiple",
+    "enonce": "Parmi les molécules suivantes, lesquelles sont des inducteurs enzymatiques selon le cours ?",
+    "options": [
+      "Rifampicine",
+      "Érythromycine",
+      "Millepertuis",
+      "Cimétidine",
+      "Jus de pamplemousse"
+    ],
+    "correctes": [
+      0,
+      2
+    ],
+    "explication": "a, c) Justes : rifampicine et millepertuis sont inducteurs. b, d, e) Fausses : érythromycine (macrolide), cimétidine et jus de pamplemousse sont des inhibiteurs enzymatiques.",
+    "source": {
+      "page": 30,
+      "extrait": "Antibiotiques : Rifampicine … Aliments : Millepertuis"
+    },
+    "difficulte": 2,
+    "tags": [
+      "métabolisme",
+      "inducteurs",
+      "inhibiteurs"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/qcm-072",
+    "type": "unique",
+    "enonce": "La griséofulvine est citée dans le cours comme :",
+    "options": [
+      "Un antifongique inducteur enzymatique",
+      "Un antifongique azolé inhibiteur enzymatique",
+      "Un anticonvulsivant inducteur",
+      "Un antibiotique inhibiteur",
+      "Un aliment inducteur"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Le cours classe la griséofulvine parmi les antifongiques inducteurs enzymatiques ; les antifongiques azolés sont, eux, des inhibiteurs.",
+    "source": {
+      "page": 30,
+      "extrait": "Antifongiques: Griséofulvine"
+    },
+    "difficulte": 2,
+    "tags": [
+      "métabolisme",
+      "inducteurs"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/qcm-073",
+    "type": "multiple",
+    "enonce": "Concernant l'interaction ciclosporine + millepertuis ou rifampicine :",
+    "options": [
+      "Elle passe par le CYP 3A4",
+      "L'élimination de la ciclosporine est accélérée",
+      "Il faut augmenter la dose de ciclosporine pour éviter le rejet",
+      "Le millepertuis et la rifampicine sont des inducteurs",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le schéma du cours : millepertuis et rifampicine (inducteurs) → CYP 3A4 → élimination de la ciclosporine accélérée → augmenter la dose pour éviter le rejet.",
+    "source": {
+      "page": 31,
+      "extrait": "Elimination de cyclosporine accélérée Augmenter la dose pour éviter rejet"
+    },
+    "difficulte": 2,
+    "tags": [
+      "métabolisme",
+      "induction",
+      "ciclosporine"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/qcm-074",
+    "type": "multiple",
+    "enonce": "Le phénobarbital, la phénytoïne et la carbamazépine, via le CYP 2C9, entraînent :",
+    "options": [
+      "Une élimination accélérée de l'acénocoumarol",
+      "Un risque de thrombose sous acénocoumarol",
+      "Une pilule (éthinylestradiol) inactive avec risque de grossesse indésirée",
+      "La nécessité de précautions supplémentaires de contraception",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le schéma du cours : ces inducteurs accélèrent l'élimination de l'acénocoumarol (risque de thrombose, adapter la dose) et rendent la pilule inactive (risque de grossesse, précautions supplémentaires de contraception).",
+    "source": {
+      "page": 32,
+      "extrait": "Elimination de Acénocoumarol accélérée (risque de Thrombose)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "métabolisme",
+      "induction",
+      "acénocoumarol"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/qcm-075",
+    "type": "multiple",
+    "enonce": "Chez un patient sous Sintrom® (acénocoumarol) et inducteur enzymatique, à l'arrêt de l'inducteur :",
+    "options": [
+      "Il existe un risque d'hémorragie",
+      "Il faut revenir progressivement à la posologie initiale",
+      "Il faut surveiller l'INR",
+      "Il existe un risque de thrombose immédiat par baisse de l'effet",
+      "Il faut augmenter encore la dose d'acénocoumarol"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "a, b, c) Justes : à l'arrêt de l'inducteur, risque d'hémorragie, donc retour progressif à la posologie initiale en surveillant l'INR. d, e) Fausses.",
+    "source": {
+      "page": 32,
+      "extrait": "à l'arret de l'inducteur enzymatique risque d'hémorragie donc retour progressif à la posologie initiale en surveillant l'INR"
+    },
+    "difficulte": 3,
+    "tags": [
+      "métabolisme",
+      "induction",
+      "acénocoumarol"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/qcm-076",
+    "type": "multiple",
+    "enonce": "Concernant l'inhibition enzymatique :",
+    "options": [
+      "C'est un ralentissement du métabolisme des médicaments",
+      "Elle résulte de l'inhibition des systèmes enzymatiques par un médicament inhibiteur",
+      "C'est un phénomène immédiat",
+      "Elle disparaît à l'arrêt du traitement",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le cours définit l'inhibition comme un ralentissement du métabolisme suite à l'inhibition des systèmes enzymatiques ; phénomène immédiat qui disparaît à l'arrêt du traitement.",
+    "source": {
+      "page": 33,
+      "extrait": "L'inhibition est un phénomène immédiat et qui disparait à l'arrêt du traitement"
+    },
+    "difficulte": 1,
+    "tags": [
+      "métabolisme",
+      "inhibition"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/qcm-077",
+    "type": "multiple",
+    "enonce": "Comparez l'induction et l'inhibition enzymatiques :",
+    "options": [
+      "L'induction est progressive et s'installe après quelques jours",
+      "L'inhibition est un phénomène immédiat",
+      "L'inhibition disparaît à l'arrêt du traitement",
+      "L'induction subsiste plus ou moins longtemps après l'arrêt de l'inducteur",
+      "L'induction est immédiate et l'inhibition progressive"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "a–d) Justes, d'après les définitions du cours. e) Fausse : c'est l'inverse.",
+    "source": {
+      "page": 33,
+      "extrait": "L'inhibition est un phénomène immédiat et qui disparait à l'arrêt du traitement"
+    },
+    "difficulte": 2,
+    "tags": [
+      "métabolisme",
+      "induction",
+      "inhibition"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/qcm-078",
+    "type": "multiple",
+    "enonce": "Lors d'une inhibition enzymatique :",
+    "options": [
+      "La concentration plasmatique du médicament augmente",
+      "La demi-vie plasmatique augmente",
+      "La formation de métabolites est ralentie",
+      "Si les métabolites sont inactifs, la concentration du PA et l'effet thérapeutique sont accrus",
+      "Si les métabolites sont actifs, l'effet thérapeutique augmente"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "a–c) Justes : augmentation de la concentration et de la demi-vie, ralentissement de la formation des métabolites. d) Juste : pour des métabolites inactifs (+++), concentration du PA et effet thérapeutique accrus, voire toxicité. e) Fausse : pour des métabolites actifs, l'effet thérapeutique diminue.",
+    "source": {
+      "page": 34,
+      "extrait": "Augmenter: concentration + demi-vie plasmatique"
+    },
+    "difficulte": 3,
+    "tags": [
+      "métabolisme",
+      "inhibition"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/qcm-079",
+    "type": "unique",
+    "enonce": "Lors d'une inhibition enzymatique d'un médicament dont les métabolites sont actifs, on observe :",
+    "options": [
+      "Une diminution de l'effet thérapeutique",
+      "Une augmentation de l'effet thérapeutique",
+      "Une accélération de la formation des métabolites",
+      "Une diminution de la demi-vie",
+      "Une augmentation de l'élimination"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Selon le schéma du cours, si les métabolites sont actifs, le ralentissement de leur formation conduit à une diminution de l'effet thérapeutique.",
+    "source": {
+      "page": 34,
+      "extrait": "Métabolites actifs … Diminution de l'effet thérapeutique"
+    },
+    "difficulte": 3,
+    "tags": [
+      "métabolisme",
+      "inhibition"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/qcm-080",
+    "type": "multiple",
+    "enonce": "Sont cités comme inhibiteurs enzymatiques :",
+    "options": [
+      "Les macrolides",
+      "Les antifongiques azolés",
+      "La cimétidine (anti-H2)",
+      "L'isoniazide (INH), les IMAO et les ISRS",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le cours cite comme médicaments inhibiteurs : macrolides, antifongiques azolés, cimétidine, isoniazide, IMAO, ISRS ; et comme aliment le jus de pamplemousse.",
+    "source": {
+      "page": 36,
+      "extrait": "Macrolides, Antifongiques azolés, Cimétidine (antiH2), Isoniazide(INH), IMAO, ISRS"
+    },
+    "difficulte": 1,
+    "tags": [
+      "métabolisme",
+      "inhibiteurs"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/qcm-081",
+    "type": "unique",
+    "enonce": "L'aliment cité comme inhibiteur enzymatique est :",
+    "options": [
+      "Le jus de pamplemousse",
+      "Le millepertuis",
+      "Le tabac",
+      "L'alcool en prise chronique",
+      "Les protéines alimentaires"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Le jus de pamplemousse est l'aliment inhibiteur cité ; le millepertuis est inducteur, le tabac inducteur du CYP 1A2, l'alcool chronique inducteur.",
+    "source": {
+      "page": 36,
+      "extrait": "Aliments : Jus de pamplemousse"
+    },
+    "difficulte": 1,
+    "tags": [
+      "métabolisme",
+      "inhibiteurs"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/qcm-082",
+    "type": "multiple",
+    "enonce": "Concernant l'interaction des statines avec les inhibiteurs du CYP 3A4 :",
+    "options": [
+      "Le kétoconazole, l'itraconazole, l'érythromycine, le diltiazem et le pamplemousse sont cités",
+      "Elle augmente le taux plasmatique de la simvastatine",
+      "Elle expose à un risque de rhabdomyolyse",
+      "La fluvastatine, métabolisée par le CYP 2C9, n'emprunte pas cette voie",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes les propositions sont dans le cours : ces inhibiteurs du CYP 3A4 augmentent le taux plasmatique des statines (rhabdomyolyse) ; l'atorvastatine et la simvastatine empruntent le CYP 3A4, contrairement à la fluvastatine (CYP 2C9).",
+    "source": {
+      "page": 37,
+      "extrait": "ce qui n'est pas le cas pour la Fluvastatine métabolisée par le CYP P450 2C9"
+    },
+    "difficulte": 2,
+    "tags": [
+      "métabolisme",
+      "inhibition",
+      "statines"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/qcm-083",
+    "type": "multiple",
+    "enonce": "Empruntent la voie métabolique du CYP P450 3A4 selon le cours :",
+    "options": [
+      "L'atorvastatine",
+      "La simvastatine",
+      "La fluvastatine",
+      "L'acénocoumarol",
+      "La ciclosporine"
+    ],
+    "correctes": [
+      0,
+      1,
+      4
+    ],
+    "explication": "a, b) Justes : atorvastatine et simvastatine. e) Juste : l'interaction ciclosporine-inducteurs passe par le CYP 3A4. c) Fausse : fluvastatine → CYP 2C9. d) Fausse : acénocoumarol → CYP 2C9 dans le schéma du cours.",
+    "source": {
+      "page": 37,
+      "extrait": "L'Atorvastatine ou la Simvastatine (empruntent la voie métabolique du CYP P450 3A4"
+    },
+    "difficulte": 3,
+    "tags": [
+      "métabolisme",
+      "CYP 3A4"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/qcm-084",
+    "type": "multiple",
+    "enonce": "Concernant l'alcool et le tabac :",
+    "options": [
+      "L'alcool en prise aiguë a un effet inhibiteur",
+      "L'alcool en prise chronique a un effet inducteur",
+      "Le tabac est particulièrement inducteur du CYP 1A2",
+      "L'alcool en prise aiguë a un effet inducteur",
+      "Le tabac est particulièrement inhibiteur du CYP 3A4"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "a, b, c) Justes : alcool aigu = inhibiteur, chronique = inducteur ; tabac particulièrement inducteur du CYP 1A2. d, e) Fausses.",
+    "source": {
+      "page": 39,
+      "extrait": "Prise aigue : effet inhibiteur Prise chronique: effet inducteur"
+    },
+    "difficulte": 2,
+    "tags": [
+      "métabolisme",
+      "alcool",
+      "tabac"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/qcm-085",
+    "type": "unique",
+    "enonce": "Le tabac est particulièrement inducteur de l'isoenzyme :",
+    "options": [
+      "CYP 1A2",
+      "CYP 2C9",
+      "CYP 2D6",
+      "CYP 3A4",
+      "CYP 2C19"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Le cours précise que le tabac a pour particularité d'être particulièrement inducteur du CYP 1A2.",
+    "source": {
+      "page": 39,
+      "extrait": "particulièrement inducteur de l'iso­enzyme CYP 1A2 du cytochrome P450"
+    },
+    "difficulte": 1,
+    "tags": [
+      "métabolisme",
+      "tabac"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/qcm-086",
+    "type": "multiple",
+    "enonce": "Concernant les interactions par compétition pour l'élimination tubulaire :",
+    "options": [
+      "Certains médicaments sont éliminés activement par le rein grâce à des transporteurs membranaires",
+      "Deux médicaments ayant le même transporteur entrent en compétition",
+      "L'élimination du produit ayant la plus faible affinité pour le transporteur diminue",
+      "L'élimination du produit ayant la plus forte affinité diminue",
+      "L'exemple du cours est ampicilline + probénécide"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explication": "a, b, c, e) Justes : élimination active par transporteurs ; compétition ; diminution d'élimination du produit de plus faible affinité ; exemple ampicilline (A) + probénécide (B). d) Fausse.",
+    "source": {
+      "page": 41,
+      "extrait": "Il y a donc une diminution d'élimination du produit ayant la plus faible affinité pour le transporteur."
+    },
+    "difficulte": 2,
+    "tags": [
+      "élimination",
+      "compétition tubulaire"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/qcm-087",
+    "type": "multiple",
+    "enonce": "Dans l'association ampicilline (A) + probénécide (B) :",
+    "options": [
+      "Le probénécide sort prioritairement",
+      "L'élimination de l'ampicilline est diminuée",
+      "Le probénécide est un uricosurique",
+      "Il s'agit d'une compétition pour la sécrétion tubulaire",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le schéma du cours montre que B (probénécide, « uricosurique ») sort prioritairement, ce qui diminue l'élimination de A (ampicilline) : compétition pour l'élimination tubulaire.",
+    "source": {
+      "page": 42,
+      "extrait": "Ampicilline (A) + Probénicide (B) « uricosurique »"
+    },
+    "difficulte": 2,
+    "tags": [
+      "élimination",
+      "probénécide"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/qcm-088",
+    "type": "multiple",
+    "enonce": "Concernant les interactions par modification du pH urinaire :",
+    "options": [
+      "Le bicarbonate de sodium augmente le pH urinaire",
+      "L'excrétion de l'aspirine augmente quand le pH urinaire augmente",
+      "L'excrétion de l'aspirine diminue quand le pH urinaire augmente",
+      "Le bicarbonate de sodium diminue le pH urinaire",
+      "L'aspirine est citée comme médicament acide"
+    ],
+    "correctes": [
+      0,
+      1,
+      4
+    ],
+    "explication": "a, b, e) Justes : le bicarbonate de sodium augmente le pH urinaire ; les médicaments acides comme l'aspirine voient leur excrétion augmentée. c, d) Fausses.",
+    "source": {
+      "page": 43,
+      "extrait": "Certains médicaments acides comme l'aspirine voient leur excrétion augmentée lors de l'augmentation du PH urinaire."
+    },
+    "difficulte": 1,
+    "tags": [
+      "élimination",
+      "pH urinaire"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/qcm-089",
+    "type": "multiple",
+    "enonce": "Les médicaments pourvoyeurs d'insuffisance rénale :",
+    "options": [
+      "Peuvent diminuer l'élimination d'autres médicaments",
+      "Peuvent augmenter la concentration sanguine d'autres médicaments",
+      "Peuvent augmenter l'activité d'autres médicaments",
+      "Comprennent les aminosides, la vancomycine et les produits de contraste iodés",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le cours indique que les médicaments néphrotoxiques (aminosides, vancomycine, produits de contraste iodés) et autres (AINS) peuvent diminuer l'élimination d'autres médicaments, augmenter leur concentration sanguine et donc leur activité.",
+    "source": {
+      "page": 44,
+      "extrait": "peuvent diminuer l'élimination d'autres médicaments, ainsi augmenter leur concentration sanguine et donc leur activité"
+    },
+    "difficulte": 1,
+    "tags": [
+      "élimination",
+      "néphrotoxiques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/qcm-090",
+    "type": "multiple",
+    "enonce": "Parmi les médicaments suivants, lesquels sont cités comme néphrotoxiques (responsables de lésions organiques du rein) ?",
+    "options": [
+      "Les aminosides",
+      "La vancomycine",
+      "Les produits de contraste iodés",
+      "Les AINS",
+      "Le bicarbonate de sodium"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "a, b, c) Justes : cités comme néphrotoxiques. d) Fausse : les AINS sont classés dans « Autres » pourvoyeurs d'insuffisance rénale, pas parmi les néphrotoxiques. e) Fausse.",
+    "source": {
+      "page": 44,
+      "extrait": "Médicaments néphrotoxiques (responsables de lésions organiques du rein) : Aminosides, vancomycine, Produits de contraste iodés"
+    },
+    "difficulte": 3,
+    "tags": [
+      "élimination",
+      "néphrotoxiques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/qcm-091",
+    "type": "multiple",
+    "enonce": "Concernant l'application sur l'analyse des IAM :",
+    "options": [
+      "Vancomycine + gentamicine est une IAM pharmacodynamique",
+      "Digoxine + millepertuis est une IAM pharmacocinétique",
+      "Vancomycine + gentamicine majore la néphrotoxicité et l'ototoxicité",
+      "Digoxine + millepertuis diminue la concentration de la digoxine",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le cours classe vancomycine + gentamicine en IAM PD (majoration de la néphro- et ototoxicité) et digoxine + millepertuis en IAM PK (diminution de la concentration de digoxine).",
+    "source": {
+      "page": 46,
+      "extrait": "Majoration de la nephro et oto toxcité"
+    },
+    "difficulte": 2,
+    "tags": [
+      "application",
+      "vancomycine",
+      "digoxine"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/qcm-092",
+    "type": "unique",
+    "enonce": "La conduite à tenir pour l'interaction vancomycine + gentamicine est :",
+    "options": [
+      "Surveillance de la fonction rénale et vestibulaire",
+      "Suivi thérapeutique pharmacologique (STP) de la digoxine",
+      "Décaler les prises de 2 heures",
+      "Augmenter la dose de gentamicine",
+      "Alcaliniser les urines"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "CAT du cours : surveillance de la fonction rénale et vestibulaire.",
+    "source": {
+      "page": 47,
+      "extrait": "CAT: surveillance de la fonction rénale et vestibulaire"
+    },
+    "difficulte": 1,
+    "tags": [
+      "application",
+      "vancomycine"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/qcm-093",
+    "type": "unique",
+    "enonce": "La conduite à tenir pour l'interaction millepertuis + digoxine est :",
+    "options": [
+      "Le suivi thérapeutique pharmacologique (STP) de la digoxine",
+      "La surveillance de la fonction vestibulaire",
+      "La surveillance de l'INR",
+      "L'arrêt de toute contraception orale",
+      "L'administration de charbon actif"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "CAT du cours : STP de la digoxine, car le millepertuis diminue la concentration de la digoxine.",
+    "source": {
+      "page": 48,
+      "extrait": "Diminution de la concentration de la digoxine CAT: STP de la digoxine"
+    },
+    "difficulte": 1,
+    "tags": [
+      "application",
+      "digoxine",
+      "millepertuis"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/qcm-094",
+    "type": "multiple",
+    "enonce": "Pour limiter les risques d'IAM pharmacocinétiques, le cours recommande de :",
+    "options": [
+      "Administrer à l'écart des autres un médicament modifiant le pH gastrique ou la motilité gastro-intestinale",
+      "Vérifier, si le médicament se fixe à l'albumine, si le patient prend un autre médicament susceptible de s'y fixer",
+      "Rechercher si le médicament est inducteur ou inhibiteur enzymatique et si un autre médicament est métabolisé par le foie",
+      "Rechercher des modifications du pH urinaire et une sécrétion tubulaire sous forme active",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Ce sont les quatre questions proposées en conclusion pour limiter les IAM pharmacocinétiques.",
+    "source": {
+      "page": 49,
+      "extrait": "Si le médicament modifie le PH gastrique ou la motilité gastro-intestinale: l'administrer à l'écart des autres médicaments."
+    },
+    "difficulte": 1,
+    "tags": [
+      "conclusion"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/qcm-095",
+    "type": "multiple",
+    "enonce": "Si les réponses sont négatives à toutes les questions de prévention proposées en conclusion :",
+    "options": [
+      "Le risque d'interaction prévisible en phase pharmacocinétique est faible",
+      "Il n'existe plus aucun risque d'interaction",
+      "Il existe néanmoins des interactions imprévisibles",
+      "Le risque d'interaction pharmacocinétique est élevé",
+      "L'association est contre-indiquée"
+    ],
+    "correctes": [
+      0,
+      2
+    ],
+    "explication": "a, c) Justes : le risque prévisible est faible, mais il existe des interactions imprévisibles. b, d, e) Fausses.",
+    "source": {
+      "page": 49,
+      "extrait": "le risque d'interaction prévisible en phase pharmacocinétique est faible (mais il existe des interactions imprévisibles)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "conclusion"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/qcm-096",
+    "type": "multiple",
+    "enonce": "Associez l'interaction à l'étape pharmacocinétique concernée :",
+    "options": [
+      "Tétracyclines + fer : absorption",
+      "AVK + AINS : distribution",
+      "Simvastatine + jus de pamplemousse : métabolisme",
+      "Ampicilline + probénécide : élimination",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Complexation (absorption), déplacement protéique (distribution), inhibition du CYP 3A4 (métabolisme), compétition tubulaire (élimination) : toutes les correspondances sont exactes.",
+    "source": {
+      "page": 37,
+      "extrait": "Simvastatine (Statine) … Pamplemousse CYP 3A4"
+    },
+    "difficulte": 2,
+    "tags": [
+      "synthèse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/qcm-097",
+    "type": "multiple",
+    "enonce": "La rifampicine intervient dans le cours :",
+    "options": [
+      "Comme inducteur enzymatique",
+      "Dans une contre-indication avec le voriconazole",
+      "Dans une association déconseillée avec les contraceptifs œstroprogestatifs",
+      "Dans l'accélération de l'élimination de la ciclosporine",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "La rifampicine est un inducteur (antibiotique) ; elle est citée dans la contre-indication voriconazole + rifampicine, l'association déconseillée contraceptifs œstroprogestatifs + rifampicine et l'induction du CYP 3A4 accélérant l'élimination de la ciclosporine.",
+    "source": {
+      "page": 30,
+      "extrait": "Antibiotiques : Rifampicine"
+    },
+    "difficulte": 2,
+    "tags": [
+      "synthèse",
+      "rifampicine"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/qcm-098",
+    "type": "multiple",
+    "enonce": "La digoxine est citée dans le cours dans les interactions suivantes :",
+    "options": [
+      "Kaolin + digoxine (diminution de l'absorption)",
+      "Métoclopramide + digoxine en comprimé (résorption abaissée)",
+      "Anticholinergiques + digoxine (résorption augmentée)",
+      "Déplacement tissulaire par la quinidine (concentration plasmatique augmentée)",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes ces interactions concernant la digoxine figurent dans le cours (ainsi que millepertuis + digoxine : baisse de concentration).",
+    "source": {
+      "page": 23,
+      "extrait": "Déplacement de la DIGOXINE tissulaire par la quinidine"
+    },
+    "difficulte": 3,
+    "tags": [
+      "synthèse",
+      "digoxine"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "pharmacologie/11-interactions-pharmacocinetiques/qcm-099",
+    "type": "multiple",
+    "enonce": "Concernant les effets d'un médicament sur le pH (digestif ou urinaire) :",
+    "options": [
+      "Un alcalinisant digestif diminue la résorption des acides faibles",
+      "Un alcalinisant digestif facilite la résorption des bases faibles",
+      "L'augmentation du pH urinaire augmente l'excrétion de l'aspirine",
+      "Le bicarbonate de sodium augmente le pH urinaire",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Toutes les propositions sont dans le cours (diapositives sur l'absorption et sur l'élimination).",
+    "source": {
+      "page": 43,
+      "extrait": "Certains médicaments comme le bicarbonate de sodium augmentent le PH urinaire."
+    },
+    "difficulte": 2,
+    "tags": [
+      "synthèse",
+      "pH"
+    ],
+    "origine": "genere"
+  }
+]

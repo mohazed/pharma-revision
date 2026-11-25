@@ -1,0 +1,169 @@
+[
+  {
+    "id": "pharmacologie/td/04-pharmacologie-moleculaire/cas-001",
+    "titre": "Courbe dose-réponse de l'acétylcholine",
+    "enonce": "Sur un jéjunum isolé de lapin en bain à organe, on ajoute des doses croissantes d'acétylcholine (10 à 100 µg/ml). Les contractions obtenues sont : 5, 10, 15, 20, 25, 30, 40, 50, 60 et 60 mm. Poids moléculaire de l'acétylcholine : 181,7 g/mol.",
+    "questions": [
+      {
+        "id": "pharmacologie/td/04-pharmacologie-moleculaire/cas-001-q1",
+        "type": "multiple",
+        "enonce": "La réponse maximale :",
+        "options": [
+          "Vaut 60 mm",
+          "Est atteinte à 90 µg/ml",
+          "Vaut 30 mm",
+          "Est atteinte à 60 µg/ml",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0,
+          1
+        ],
+        "explication": "Plateau à 60 mm dès 90 µg/ml ; 30 mm correspond à 50 % de la réponse, obtenus à 60 µg/ml.",
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacologie/td/04-pharmacologie-moleculaire/cas-001-q2",
+        "type": "multiple",
+        "enonce": "La CE50 de l'acétylcholine :",
+        "options": [
+          "60 µg/ml",
+          "≈ 3,3 × 10⁻⁴ mol/L",
+          "30 µg/ml",
+          "≈ 3,3 × 10⁻⁷ mol/L",
+          "Toutes les propositions sont correctes"
+        ],
+        "correctes": [
+          0,
+          1
+        ],
+        "explication": "30 mm = 50 % → 60 µg/ml = 0,06 g/L / 181,7 ≈ 3,3 × 10⁻⁴ mol/L.",
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacologie/td/04-pharmacologie-moleculaire/cas-001-q3",
+        "type": "unique",
+        "enonce": "Le pD2 de l'acétylcholine vaut environ :",
+        "options": [
+          "3,48",
+          "3,18",
+          "1,78",
+          "4,89",
+          "6,52"
+        ],
+        "correctes": [
+          0
+        ],
+        "explication": "pD2 = − log (3,3 × 10⁻⁴) ≈ 3,48.",
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "pharmacologie/td/04-pharmacologie-moleculaire/cas-002",
+    "titre": "Antagonisme de l'acétylcholine par la scopolamine",
+    "enonce": "Après lavage et 2 min de repos, on ajoute 5 µg/ml de scopolamine (PM 384,3 g/mol) pendant 3 min, puis des doses croissantes d'acétylcholine. Les mêmes contractions (5 à 60 mm) sont obtenues avec des doses de 20 à 200 µg/ml, soit le double des doses sans scopolamine.",
+    "questions": [
+      {
+        "id": "pharmacologie/td/04-pharmacologie-moleculaire/cas-002-q1",
+        "type": "multiple",
+        "enonce": "L'aspect des courbes log dose-réponse :",
+        "options": [
+          "Déplacement parallèle vers la droite",
+          "Effet maximal conservé",
+          "Effet maximal diminué",
+          "Déplacement vers la gauche",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0,
+          1
+        ],
+        "explication": "Toutes les doses sont doublées pour le même effet et le maximum (60 mm) est conservé.",
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacologie/td/04-pharmacologie-moleculaire/cas-002-q2",
+        "type": "multiple",
+        "enonce": "Le phénomène observé :",
+        "options": [
+          "Antagonisme compétitif",
+          "Antagonisme surmontable",
+          "Antagonisme non compétitif",
+          "Synergie additive",
+          "Potentialisation"
+        ],
+        "correctes": [
+          0,
+          1
+        ],
+        "explication": "Courbes parallèles décalées vers la droite avec même effet maximal : antagonisme compétitif surmontable.",
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacologie/td/04-pharmacologie-moleculaire/cas-002-q3",
+        "type": "multiple",
+        "enonce": "pD2 et pA2 :",
+        "options": [
+          "pD2 de l'acétylcholine en présence de scopolamine ≈ 3,18",
+          "x = 2",
+          "pA2 de la scopolamine ≈ 4,89",
+          "pAx = pA2 ici",
+          "Toutes les propositions sont correctes"
+        ],
+        "correctes": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "explication": "CE50' = 120 µg/ml ≈ 6,6 × 10⁻⁴ M → pD2 ≈ 3,18 ; x = 120/60 = 2 ; [scopolamine] ≈ 1,3 × 10⁻⁵ M → pA2 ≈ 4,89 = pAx puisque x = 2.",
+        "origine": "genere"
+      }
+    ]
+  },
+  {
+    "id": "pharmacologie/td/04-pharmacologie-moleculaire/cas-003",
+    "titre": "Classer la scopolamine",
+    "enonce": "L'acétylcholine est un parasympathomimétique direct. La scopolamine déplace sa courbe dose-réponse parallèlement vers la droite sans modifier l'effet maximal.",
+    "questions": [
+      {
+        "id": "pharmacologie/td/04-pharmacologie-moleculaire/cas-003-q1",
+        "type": "multiple",
+        "enonce": "La scopolamine est :",
+        "options": [
+          "Un parasympatholytique",
+          "Un antagoniste compétitif de l'acétylcholine",
+          "Un parasympathomimétique direct",
+          "Un parasympathomimétique indirect",
+          "Un agoniste partiel"
+        ],
+        "correctes": [
+          0,
+          1
+        ],
+        "explication": "Elle s'oppose de façon compétitive à un parasympathomimétique direct : c'est un parasympatholytique.",
+        "origine": "genere"
+      },
+      {
+        "id": "pharmacologie/td/04-pharmacologie-moleculaire/cas-003-q2",
+        "type": "multiple",
+        "enonce": "Pour lever l'effet de la scopolamine dans ce modèle, on peut :",
+        "options": [
+          "Augmenter la dose d'acétylcholine",
+          "Doubler la dose d'acétylcholine (x = 2) pour retrouver le même effet",
+          "Diminuer la dose d'acétylcholine",
+          "Rien : l'effet maximal est définitivement abaissé",
+          "Aucune réponse n'est juste"
+        ],
+        "correctes": [
+          0,
+          1
+        ],
+        "explication": "L'antagonisme compétitif est surmontable : avec 5 µg/ml de scopolamine, il faut doubler les doses d'acétylcholine.",
+        "origine": "genere"
+      }
+    ]
+  }
+]

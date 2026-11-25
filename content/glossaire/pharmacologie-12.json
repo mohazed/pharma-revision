@@ -1,0 +1,97 @@
+[
+  {
+    "terme": "Effet pharmacodynamique",
+    "definition": "Modification mesurable et reproductible, fonctionnelle ou organique, provoquée par la fixation du médicament sur sa cible moléculaire.",
+    "cours": "pharmacologie/12-mecanisme-action"
+  },
+  {
+    "terme": "Affinité (pD2)",
+    "definition": "Degré ou capacité de liaison d'un médicament avec sa cible (puissance d'interaction) ; pD2 = - log (CE50).",
+    "cours": "pharmacologie/12-mecanisme-action"
+  },
+  {
+    "terme": "CE50",
+    "definition": "Concentration molaire du médicament qui produit 50 % de la réponse maximale.",
+    "cours": "pharmacologie/12-mecanisme-action"
+  },
+  {
+    "terme": "Activité intrinsèque",
+    "definition": "Capacité du ligand à produire un effet après liaison au récepteur (efficacité) ; facteur α = EM / EMax, entre 0 et 1.",
+    "cours": "pharmacologie/12-mecanisme-action"
+  },
+  {
+    "terme": "Agoniste",
+    "definition": "Substance qui se lie à une cible spécifique et induit un effet similaire à une substance endogène.",
+    "cours": "pharmacologie/12-mecanisme-action"
+  },
+  {
+    "terme": "Agoniste parfait",
+    "definition": "Agoniste d'activité intrinsèque α = 1.",
+    "cours": "pharmacologie/12-mecanisme-action"
+  },
+  {
+    "terme": "Agoniste partiel",
+    "definition": "Agoniste d'activité intrinsèque comprise entre 0 et 1.",
+    "cours": "pharmacologie/12-mecanisme-action"
+  },
+  {
+    "terme": "Antagoniste",
+    "definition": "Substance qui se fixe sur une cible sans pouvoir donner d'effet (α = 0).",
+    "cours": "pharmacologie/12-mecanisme-action"
+  },
+  {
+    "terme": "Récepteur pharmacologique",
+    "definition": "Structure chimique fonctionnelle dont la fixation spécifique d'un médiateur endogène ou d'un médicament provoque un stimulus à l'origine de l'effet pharmacodynamique.",
+    "cours": "pharmacologie/12-mecanisme-action"
+  },
+  {
+    "terme": "Ligand",
+    "definition": "Molécule qui se lie au récepteur.",
+    "cours": "pharmacologie/12-mecanisme-action"
+  },
+  {
+    "terme": "Récepteur couplé aux protéines G (RCPG)",
+    "definition": "Récepteur membranaire transmettant l'information via une protéine G et un effecteur (enzyme, canal, transporteur).",
+    "cours": "pharmacologie/12-mecanisme-action"
+  },
+  {
+    "terme": "Second messager",
+    "definition": "Molécule intracellulaire produite par l'effecteur (ex. AMPc formé par l'adénylcyclase) qui relaie le signal du ligand.",
+    "cours": "pharmacologie/12-mecanisme-action"
+  },
+  {
+    "terme": "Récepteur nucléaire",
+    "definition": "Protéine à localisation nucléaire se liant à la région promotrice des gènes pour augmenter ou réprimer leur transcription en ARNm.",
+    "cours": "pharmacologie/12-mecanisme-action"
+  },
+  {
+    "terme": "Récepteur cytosolique",
+    "definition": "Glycoprotéine en interaction avec l'ADN cellulaire dont l'activation modifie la synthèse protéique spécifique (ex. glucocorticoïdes).",
+    "cours": "pharmacologie/12-mecanisme-action"
+  },
+  {
+    "terme": "Canal ionique",
+    "definition": "Protéine assurant le passage des ions Na+, K+, Ca++ du côté le plus concentré vers le moins concentré.",
+    "cours": "pharmacologie/12-mecanisme-action"
+  },
+  {
+    "terme": "Pompe ionique",
+    "definition": "Système actif transportant des ions à travers la membrane grâce à une source d'énergie (ATP ou mouvement ionique).",
+    "cours": "pharmacologie/12-mecanisme-action"
+  },
+  {
+    "terme": "Na+/K+-ATPase",
+    "definition": "Pompe dépendant de l'ATP échangeant 2 K+ entrants pour 3 Na+ sortants ; cible des digitaliques.",
+    "cours": "pharmacologie/12-mecanisme-action"
+  },
+  {
+    "terme": "Effet inotrope positif",
+    "definition": "Augmentation de la contraction du myocarde, obtenue par les digitaliques via l'augmentation du Ca++ intracellulaire.",
+    "cours": "pharmacologie/12-mecanisme-action"
+  },
+  {
+    "terme": "Médicament à action non spécifique",
+    "definition": "Médicament agissant par ses propriétés physico-chimiques (ex. antiacides, huile de paraffine).",
+    "cours": "pharmacologie/12-mecanisme-action"
+  }
+]

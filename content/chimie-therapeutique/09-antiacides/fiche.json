@@ -1,0 +1,67 @@
+{
+  "id": "chimie-therapeutique/09-antiacides/fiche",
+  "titre": "Les antiacides : l'essentiel",
+  "sections": [
+    {
+      "titre": "Introduction et physiopathologie",
+      "points": [
+        "Antiacides : traitement des troubles liés à l'**hyperacidité gastrique** (RGO, brûlures d'estomac, dyspepsie, ulcères gastro-duodénaux)",
+        "Ulcère : lésion des muqueuses gastrique et duodénale, perte de matière tissulaire, **pas de cicatrisation spontanée** ; maladie principalement liée à *Helicobacter pylori*",
+        "Facteurs **agressifs** : acidité, pepsine, AINS, tabac et alcool, H. pylori ; facteurs **protecteurs** : mucus, bicarbonates, prostaglandines"
+      ]
+    },
+    {
+      "titre": "Physiologie de la sécrétion gastrique",
+      "points": [
+        "Pompe **H+/K+ ATPase** de la cellule pariétale : H+ sécrété contre K+ de la lumière, énergie de l'ATP ; Cl- libéré → HCl",
+        "HCO3- rejeté dans le sang contre Cl- (maintien du pH intracellulaire)",
+        "Sécrétion endocrine : **gastrine** ; exocrine : **HCl** et **facteur intrinsèque**"
+      ]
+    },
+    {
+      "titre": "Classification",
+      "points": [
+        "1. **Anti-sécrétoires** : anti-H2, IPP, anticholinergiques, analogues de la somatostatine",
+        "2. **Antiacides** : neutralisants, à effet tampon",
+        "3. **Cytoprotecteurs** : analogues de prostaglandines",
+        "4. **Topiques** (protecteurs de la muqueuse) : pansements gastriques, sucralfates"
+      ]
+    },
+    {
+      "titre": "Antagonistes H2",
+      "points": [
+        "Antagonisme **classique, sélectif** (pas d'effet H1) et **compétitif**",
+        "**Cimétidine** (Tagamet®, 1976, Royaume-Uni) : chef de file, noyau **imidazole**, premier antiulcéreux réellement efficace",
+        "**Ranitidine** (Ranitec®, Azantac®) : furane, moins d'effets secondaires (gynécomastie, hyperprolactinémie), plus prolongée, **10×** plus active ; retrait mondial 2019-2020 (NDMA)",
+        "**Famotidine** : 2-guanidinothiazole, groupe sulfonamide, **30×** plus active in vitro",
+        "RSA : imidazole non obligatoire (hétérocycle à **5 chaînons**) ; chaîne flexible de **4 atomes** ; azote terminal à groupement **polaire non basique**",
+        "Indications : ulcère évolutif, œsophagite par reflux, prévention du **syndrome de Mendelson**, hypersécrétion"
+      ]
+    },
+    {
+      "titre": "Inhibiteurs de la pompe à protons",
+      "points": [
+        "Dérivés du **pyridinyl méthyl sulfinyl benzimidazole**",
+        "Pompe : protéine transmembranaire, pôle **apical** des cellules pariétales, sous-unités α (active) et β (structurale)",
+        "Mécanisme : **accumulation** (promédicament) → **activation** en milieu acide (sulfoxyde → **sulfénamide**) → **inhibition** covalente irréversible du **thiol**, totale, ~**24 h**",
+        "Oméprazole (Mopral®), ésoméprazole (S, Nexium®), pantoprazole (Protonix®), lansoprazole (Prevacid®), rabéprazole (Pariet®)",
+        "RSA : 4-méthyl < 4-méthoxy ; substitution en **6** de la pyridine → perte d'activité ; SO2–CH2–CH2 → stable mais inactif ; attracteurs d'électrons → ↓ inhibition",
+        "Indications : UGD, RGO ; ↓ **95 %** de la sécrétion acide ; inhibition du **CYP 2C19** (attention au clopidogrel)"
+      ]
+    }
+  ],
+  "aRetenir": [
+    "Anti-H2 = antagonisme compétitif ; IPP = liaison covalente irréversible",
+    "Puissance anti-H2 : cimétidine < ranitidine (10×) < famotidine (30× in vitro)",
+    "IPP = promédicaments activés par le pH acide en sulfénamide",
+    "Durée d'action des IPP ≈ 24 h = temps de synthèse d'une nouvelle pompe"
+  ],
+  "pieges": [
+    "Les analogues de prostaglandines sont des **cytoprotecteurs**, pas des anti-sécrétoires",
+    "Les sucralfates sont des **topiques**",
+    "10× = ranitidine ; 30× = famotidine",
+    "Pompe au pôle **apical**, non basal ; sous-unité **α** active, β structurale",
+    "Syndrome de Mendelson : indication des **anti-H2** dans le cours",
+    "Le composé 4-**méthylé** est **moins** actif que le 4-méthoxy"
+  ]
+}

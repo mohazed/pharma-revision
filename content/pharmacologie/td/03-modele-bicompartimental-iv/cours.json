@@ -1,0 +1,13 @@
+{
+  "id": "pharmacologie/td/03-modele-bicompartimental-iv",
+  "module": "pharmacologie",
+  "ordre": 3,
+  "titre": "TD 3 – Modèle bicompartimental IV (cimétidine)",
+  "type": "td",
+  "source": {
+    "driveId": "1eba0CrFcGmUNMfApTBUAEIG5A4uGHtH3",
+    "fichier": "3. Fiche de TD 3.pdf",
+    "modifiedTime": "2026-11-19T18:10:08.866Z"
+  },
+  "resume": "Exercice : cinétique plasmatique de la cimétidine après injection IV de 200 mg — tracé semi-log, méthode des résidus, constantes kd et ke, demi-vies, AUC, clairance et volume de distribution."
+}

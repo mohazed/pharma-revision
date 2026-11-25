@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/mnemo-001",
+    "titre": "Isotherme convexe ou concave",
+    "moyen": "« Convexe = Comble (PS saturée, F > 1) ; Concave = Collé (trop retenu, F < 1) »",
+    "explication": "Convexe : phase stationnaire saturée, Fa et Ft > 1. Concave : constituant trop retenu, Fa et Ft < 1."
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/mnemo-002",
+    "titre": "Coefficients de N",
+    "moyen": "« Seize pour la base, cinq-cinquante-quatre pour la moitié »",
+    "explication": "N = 16 TR²/w² (largeur à la base, w = 4σ) ; N = 5,54 TR²/δ² (largeur à mi-hauteur, δ = 2,354σ)."
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/mnemo-003",
+    "titre": "Termes de Van Deemter",
+    "moyen": "« A comme Anarchie des chemins, B comme Balade longitudinale, C comme Course entre les phases »",
+    "explication": "A : diffusion turbulente (multiplicité des chemins) ; B : diffusion moléculaire longitudinale ; C : résistance au transfert de masse entre phases."
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/mnemo-004",
+    "titre": "Formule de Purnell",
+    "moyen": "« E-S-R : Efficacité, Sélectivité, Rétention »",
+    "explication": "R = (√NB/4) [efficacité] × ((α − 1)/α) [sélectivité] × (K'B/(1 + K'B)) [rétention]."
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/mnemo-005",
+    "titre": "Vitesse optimale",
+    "moyen": "« B sur C sous la racine, deux racines de BC pour le minimum »",
+    "explication": "u opt = √(B/C) ; H min = A + 2√(BC)."
+  }
+]

@@ -1,0 +1,2154 @@
+[
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/qcm-001",
+    "type": "multiple",
+    "enonce": "L'isotherme de distribution :",
+    "options": [
+      "Est la représentation graphique de l'équation CS = K CM à une température donnée",
+      "Peut être linéaire",
+      "Peut être concave",
+      "Peut être convexe",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "La représentation graphique de CS = K CM à une température donnée est l'isotherme de distribution ; il peut être linéaire, concave ou convexe. Toutes les propositions sont donc correctes.",
+    "source": {
+      "page": 11,
+      "extrait": "Cet isotherme peut être linéaire, concave ou convexe"
+    },
+    "difficulte": 1,
+    "tags": [
+      "isotherme"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/qcm-002",
+    "type": "multiple",
+    "enonce": "Concernant l'asymétrie d'un pic chromatographique :",
+    "options": [
+      "Les chromatogrammes réels présentent toujours des pics d'aspect gaussien",
+      "Elle est traduite par le facteur d'asymétrie (Fa) et le facteur de traînée (Ft)",
+      "Fa et Ft sont mesurés à 10 % de la hauteur du pic",
+      "Fa et Ft sont mesurés à mi-hauteur du pic",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      1,
+      2
+    ],
+    "explication": "Les chromatogrammes réels sont quelquefois loin de présenter des pics gaussiens. L'asymétrie est traduite par Fa et Ft, mesurés à 10 % de la hauteur (et non à mi-hauteur).",
+    "source": {
+      "page": 11,
+      "extrait": "facteur d'asymétrie (Fa) et facteur de traînée (Ft), mesurés à 10 % de sa hauteur"
+    },
+    "difficulte": 1,
+    "tags": [
+      "isotherme",
+      "asymétrie"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/qcm-003",
+    "type": "multiple",
+    "enonce": "Isotherme linéaire :",
+    "options": [
+      "Correspond à la situation idéale",
+      "Fa = 1",
+      "Ft = 1",
+      "La phase stationnaire est saturée",
+      "Le constituant est trop retenu dans la phase stationnaire"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "L'isotherme linéaire est la situation idéale avec Fa = 1 et Ft = 1. La saturation de la phase stationnaire caractérise l'isotherme convexe, la rétention excessive l'isotherme concave.",
+    "source": {
+      "page": 11,
+      "extrait": "Isotherme linéaire : situation idéale, les facteurs d'asymétrie et de traînée (Fa = 1; Ft = 1)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "isotherme"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/qcm-004",
+    "type": "multiple",
+    "enonce": "Isotherme convexe :",
+    "options": [
+      "La phase stationnaire est saturée",
+      "La montée du pic est plus rapide que la descente",
+      "Fa > 1",
+      "Ft < 1",
+      "Le constituant est trop retenu dans la phase stationnaire"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Isotherme convexe : phase stationnaire saturée, montée du pic plus rapide que la descente, Fa > 1 et Ft > 1 (et non Ft < 1). La rétention excessive correspond à l'isotherme concave.",
+    "source": {
+      "page": 11,
+      "extrait": "Isotherme convexe : phase stationnaire saturée, la montée du pic est plus rapide que la descente"
+    },
+    "difficulte": 2,
+    "tags": [
+      "isotherme"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/qcm-005",
+    "type": "multiple",
+    "enonce": "Isotherme concave :",
+    "options": [
+      "Le constituant est trop retenu dans la phase stationnaire",
+      "Fa < 1",
+      "Ft < 1",
+      "La phase stationnaire est saturée",
+      "Fa > 1"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Isotherme concave : le constituant est trop retenu dans la phase stationnaire, Fa < 1 et Ft < 1. La saturation de la phase stationnaire et Fa > 1 caractérisent l'isotherme convexe.",
+    "source": {
+      "page": 11,
+      "extrait": "Isotherme concave : le constituant est trop retenu dans la phase stationnaire (Fa <1; Ft<1)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "isotherme"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/qcm-006",
+    "type": "unique",
+    "enonce": "Un pic dont le facteur d'asymétrie et le facteur de traînée sont tous deux supérieurs à 1 correspond à un isotherme :",
+    "options": [
+      "Linéaire",
+      "Convexe",
+      "Concave",
+      "Idéal",
+      "Gaussien"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Fa > 1 et Ft > 1 : isotherme convexe (phase stationnaire saturée). Linéaire (idéal) : Fa = Ft = 1 ; concave : Fa < 1 et Ft < 1.",
+    "source": {
+      "page": 11,
+      "extrait": "Isotherme convexe : phase stationnaire saturée, la montée du pic est plus rapide que la descente, les facteurs (Fa >1; Ft >1)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "isotherme"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/qcm-007",
+    "type": "multiple",
+    "enonce": "Le pic chromatographique :",
+    "options": [
+      "A une allure analogue à une courbe gaussienne",
+      "Est utilisé en analyse qualitative",
+      "Est utilisé en analyse quantitative",
+      "Correspond à une molécule",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le tracé obtenu est analogue à une courbe gaussienne ; il est utilisé à la fois en analyse qualitative et quantitative, et un pic = une molécule.",
+    "source": {
+      "page": 12,
+      "extrait": "Il est utilisé à la fois en analyse qualitative et quantitative"
+    },
+    "difficulte": 1,
+    "tags": [
+      "chromatogramme"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/qcm-008",
+    "type": "multiple",
+    "enonce": "Sur un chromatogramme :",
+    "options": [
+      "Les positions des pics sur l'axe du temps permettent d'identifier les constituants",
+      "Les aires sous les pics mesurent leur quantité",
+      "L'identification des constituants correspond à l'analyse quantitative",
+      "La mesure des aires correspond à l'analyse qualitative",
+      "L'ensemble des molécules séparées donne une succession de pics"
+    ],
+    "correctes": [
+      0,
+      1,
+      4
+    ],
+    "explication": "Positions des pics → identification (analyse qualitative) ; aires → quantité (analyse quantitative). Les propositions c et d inversent les deux. La succession de pics constitue le chromatogramme.",
+    "source": {
+      "page": 12,
+      "extrait": "Les aires sous les pics mesurent leur quantité : c'est l'analyse quantitative"
+    },
+    "difficulte": 1,
+    "tags": [
+      "chromatogramme",
+      "analyse qualitative",
+      "analyse quantitative"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/qcm-009",
+    "type": "multiple",
+    "enonce": "Grandeurs mesurées sur le tracé chromatographique :",
+    "options": [
+      "La distance d est la distance entre le début de la chromatographie et le maximum du pic",
+      "La largeur du pic est la base du triangle dans le cas de la courbe de Gauss",
+      "L'aire du pic est proportionnelle à la quantité de substance éluée",
+      "La distance d est mesurée entre le début du pic et la fin du pic",
+      "L'aire du pic est inversement proportionnelle à la quantité de substance éluée"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "d : du début de la chromatographie au maximum du pic ; largeur : base du triangle (courbe de Gauss) ; aire : proportionnelle (et non inversement) à la quantité éluée.",
+    "source": {
+      "page": 12,
+      "extrait": "la distance d = est la distance entre le début de la chromatographie et le maximum du pic"
+    },
+    "difficulte": 1,
+    "tags": [
+      "chromatogramme",
+      "grandeurs mesurées"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/qcm-010",
+    "type": "multiple",
+    "enonce": "Détermination de l'aire du pic :",
+    "options": [
+      "Elle peut être effectuée par la méthode de triangulation",
+      "La triangulation utilise la hauteur et la largeur du pic",
+      "Dans les appareils actuels, elle se fait de manière automatique",
+      "Elle est réalisée par un intégrateur relié au détecteur",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "L'aire est déterminée par triangulation (hauteur et largeur), mais dans les appareils actuels de manière automatique par un intégrateur relié au détecteur.",
+    "source": {
+      "page": 12,
+      "extrait": "la détermination se fait de manière automatique par un intégrateur relié au détecteur"
+    },
+    "difficulte": 1,
+    "tags": [
+      "aire du pic"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/qcm-011",
+    "type": "multiple",
+    "enonce": "Concernant l'étude de l'élution et la détection :",
+    "options": [
+      "Étudier l'élution revient à envisager la concentration de la substance à la sortie de la colonne en fonction de la phase mobile écoulée",
+      "Le système de détection est placé à l'extrémité de la colonne",
+      "Le détecteur transmet de manière continue à l'enregistreur la variation de concentration",
+      "Le détecteur est placé à l'entrée de la colonne",
+      "Le détecteur transmet la variation de concentration de manière discontinue"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Le détecteur est placé à l'extrémité (sortie) de la colonne et transmet de manière continue la variation de concentration à l'enregistreur.",
+    "source": {
+      "page": 12,
+      "extrait": "un système de détection placé à l'extrémité de la colonne transmet de manière continue à l'enregistreur"
+    },
+    "difficulte": 1,
+    "tags": [
+      "détection"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/qcm-012",
+    "type": "multiple",
+    "enonce": "Le temps de rétention TR :",
+    "options": [
+      "Est le temps compris entre l'introduction de la substance dans la colonne et le moment où elle quitte cette colonne",
+      "Est aussi appelé temps de rétention brut",
+      "Concerne un composé retenu par la phase stationnaire",
+      "Est aussi appelé temps de rétention corrigé",
+      "Est le temps nécessaire à une molécule de phase mobile pour traverser la colonne"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "TR : de l'introduction à la sortie de la colonne d'un composé retenu par la phase stationnaire ; c'est le temps de rétention brut. Le temps corrigé est T'R ; le temps de traversée de la phase mobile est le temps mort.",
+    "source": {
+      "page": 12,
+      "extrait": "on l'appelle aussi temps de rétention brut"
+    },
+    "difficulte": 1,
+    "tags": [
+      "grandeurs de rétention",
+      "temps de rétention"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/qcm-013",
+    "type": "multiple",
+    "enonce": "Le temps mort tM :",
+    "options": [
+      "Est le temps nécessaire pour qu'une molécule de la phase mobile traverse la colonne",
+      "Correspond à une substance non retenue",
+      "Correspond au pic solvant",
+      "Est souvent considéré en pratique comme le point de départ pour mesurer le temps de rétention corrigé",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le temps mort est le temps de traversée de la colonne par une molécule de phase mobile (substance non retenue, pic solvant) ; il sert de point de départ pour le temps de rétention corrigé.",
+    "source": {
+      "page": 13,
+      "extrait": "temps mort tM = est le temps nécessaire pourqu'une molécule de la phase mobile traverse la colonne (substance non retenue)"
+    },
+    "difficulte": 1,
+    "tags": [
+      "temps mort"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/qcm-014",
+    "type": "multiple",
+    "enonce": "Le temps de rétention réduit T'R :",
+    "options": [
+      "Est aussi appelé temps de rétention corrigé",
+      "T'R = TR − TM",
+      "T'R = TR + TM",
+      "T'R = TR / TM",
+      "Est aussi appelé temps de rétention brut"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Temps de rétention réduit ou corrigé : T'R = TR − TM. Le temps brut est TR ; TR/TM n'est pas T'R.",
+    "source": {
+      "page": 13,
+      "extrait": "temps de rétention réduit ou corrigé T'R = TR - TM"
+    },
+    "difficulte": 1,
+    "tags": [
+      "temps réduit"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/qcm-015",
+    "type": "unique",
+    "enonce": "Sur un chromatogramme, la ligne de base correspond :",
+    "options": [
+      "Au passage de la phase mobile seule",
+      "Au pic solvant",
+      "Au passage du soluté le plus retenu",
+      "Au maximum du pic",
+      "À la largeur du pic à sa base"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "La ligne de base correspond au passage de la phase mobile seule.",
+    "source": {
+      "page": 13,
+      "extrait": "Ligne de base : correspond au passage de la phase mobile seule"
+    },
+    "difficulte": 1,
+    "tags": [
+      "chromatogramme",
+      "ligne de base"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/qcm-016",
+    "type": "multiple",
+    "enonce": "Le volume de rétention VR :",
+    "options": [
+      "Est le volume de phase mobile nécessaire pour éluer un composé",
+      "VR = TR · D si le débit D de la phase mobile est stationnaire",
+      "VR = TR / D si le débit D est stationnaire",
+      "Est le volume de phase mobile contenue dans la colonne",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "VR est le volume de phase mobile nécessaire pour éluer un composé ; à débit stationnaire, VR = TR · D. Le volume de phase mobile contenue dans la colonne est le volume mort VM.",
+    "source": {
+      "page": 13,
+      "extrait": "volume de rétention VR = c'est le volume de phase mobile nécessaire pour éluer un composé"
+    },
+    "difficulte": 1,
+    "tags": [
+      "volume de rétention"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/qcm-017",
+    "type": "multiple",
+    "enonce": "Volume mort et volume de rétention corrigé :",
+    "options": [
+      "Le volume mort est noté VM ou VO",
+      "Le volume mort est le volume de la phase mobile contenue dans la colonne",
+      "V'R = VR − VM",
+      "V'R = VR + VM",
+      "Le volume mort est le volume de phase stationnaire contenue dans la colonne"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "VM (ou VO) est le volume de phase mobile (et non stationnaire) contenue dans la colonne ; le volume de rétention corrigé V'R = VR − VM.",
+    "source": {
+      "page": 13,
+      "extrait": "volume mort VM ou VO volume de la phase mobile contenue dans la colonne ou volume mort de la colonne"
+    },
+    "difficulte": 1,
+    "tags": [
+      "volume mort"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/qcm-018",
+    "type": "multiple",
+    "enonce": "Le facteur de rétention K' :",
+    "options": [
+      "Est un paramètre expérimental important",
+      "Caractérise la rétention d'un composé",
+      "Est le rapport du temps réduit de la substance à celui d'un composé non retenu",
+      "K' = (TR − TM) / TM",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "K' caractérise la rétention : K' = T'R/TM = (TR − TM)/TM, rapport du temps réduit de la substance au temps d'un composé non retenu. Toutes les propositions sont correctes.",
+    "source": {
+      "page": 13,
+      "extrait": "c'est le rapport du temps réduit de la substance à celui d'un composé non retenu"
+    },
+    "difficulte": 1,
+    "tags": [
+      "facteur de rétention"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/qcm-019",
+    "type": "multiple",
+    "enonce": "Lorsque le soluté n'est pas retenu :",
+    "options": [
+      "TR = TM",
+      "K' = 0",
+      "K' = 1",
+      "T'R = TM",
+      "T'R = 0"
+    ],
+    "correctes": [
+      0,
+      1,
+      4
+    ],
+    "explication": "Soluté non retenu : TR = TM, donc T'R = TR − TM = 0 et K' = 0 (et non 1).",
+    "source": {
+      "page": 13,
+      "extrait": "Lorsque le soluté n'est pas retenu, TR = TM c'est-à-dire K'= 0"
+    },
+    "difficulte": 2,
+    "tags": [
+      "facteur de rétention"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/qcm-020",
+    "type": "unique",
+    "enonce": "Un composé a un temps de rétention de 12 min ; le temps mort est de 2 min. Son facteur de rétention K' vaut :",
+    "options": [
+      "6",
+      "5",
+      "10",
+      "0,17",
+      "14"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "K' = (TR − TM)/TM = (12 − 2)/2 = 5. La valeur 6 correspond à TR/TM, erreur classique.",
+    "source": {
+      "page": 13,
+      "extrait": "K' = T'R/TM = (TR - TM)/TM"
+    },
+    "difficulte": 2,
+    "tags": [
+      "facteur de rétention",
+      "calcul"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/qcm-021",
+    "type": "unique",
+    "enonce": "En chromatographie liquide, pour une bonne séparation et un temps d'analyse pas trop élevé, le facteur de rétention doit être compris entre :",
+    "options": [
+      "0 et 1",
+      "1 et 5",
+      "5 et 10",
+      "10 et 20",
+      "1,5 et 2"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "En chromatographie liquide, 5 ≤ K' ≤ 10.",
+    "source": {
+      "page": 14,
+      "extrait": "le facteur de rétention doit être compris entre 5≤ K'≤ 10"
+    },
+    "difficulte": 1,
+    "tags": [
+      "facteur de rétention"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/qcm-022",
+    "type": "multiple",
+    "enonce": "Facteur de rétention et facteur de capacité :",
+    "options": [
+      "Le terme facteur de rétention est actuellement préféré à celui de facteur de capacité",
+      "Ce choix évite la confusion avec la capacité de la colonne",
+      "La capacité de la colonne est la quantité maximale de substance susceptible d'être fixée dans une colonne",
+      "Le terme facteur de capacité est actuellement préféré à celui de facteur de rétention",
+      "La capacité de la colonne est le volume de phase mobile contenue dans la colonne"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Le terme facteur de rétention est préféré pour éviter la confusion avec la capacité de la colonne (quantité maximale de substance fixable). Le volume de phase mobile de la colonne est le volume mort.",
+    "source": {
+      "page": 14,
+      "extrait": "le terme facteur de rétention est actuellement préféré à celui de facteur de capacité"
+    },
+    "difficulte": 2,
+    "tags": [
+      "facteur de rétention"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/qcm-023",
+    "type": "multiple",
+    "enonce": "L'efficacité d'une colonne :",
+    "options": [
+      "Est l'aptitude d'une colonne à donner des pics fins",
+      "Est mesurée pour un composé donné par le nombre N de plateaux théoriques",
+      "Est l'aptitude d'une colonne à donner des pics larges",
+      "Est mesurée par le facteur de sélectivité α",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "L'efficacité est l'aptitude à donner des pics fins, mesurée pour un composé donné par N (nombre de plateaux théoriques). α mesure la sélectivité.",
+    "source": {
+      "page": 14,
+      "extrait": "efficacité d'une colonne = c'est l'aptitude d'une colonne à donner des pics fins"
+    },
+    "difficulte": 1,
+    "tags": [
+      "efficacité"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/qcm-024",
+    "type": "multiple",
+    "enonce": "À partir de la courbe de Gauss, le nombre de plateaux théoriques :",
+    "options": [
+      "N = TR² / σ²",
+      "σ est l'écart type de la courbe",
+      "σ² est la variance",
+      "N = σ² / TR²",
+      "σ est la variance de la courbe"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "N = TR²/σ² où σ est l'écart type et σ² la variance.",
+    "source": {
+      "page": 14,
+      "extrait": "σ : l'écart type de la courbe ; σ2 : sa variance"
+    },
+    "difficulte": 1,
+    "tags": [
+      "efficacité",
+      "plateaux théoriques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/qcm-025",
+    "type": "multiple",
+    "enonce": "En pratique, à partir de la largeur du pic w mesurée sur le tracé :",
+    "options": [
+      "N = 16 TR² / w²",
+      "w = 4σ",
+      "w = 2,354σ",
+      "N = 5,54 TR² / w²",
+      "N = 4 TR² / w²"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Avec la largeur à la base w = 4σ : N = 16 TR²/w². Le coefficient 5,54 s'applique avec la largeur à mi-hauteur δ = 2,354σ.",
+    "source": {
+      "page": 14,
+      "extrait": "N = 16 sachant que w = 4σ"
+    },
+    "difficulte": 2,
+    "tags": [
+      "plateaux théoriques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/qcm-026",
+    "type": "multiple",
+    "enonce": "Le nombre de plateaux théoriques N peut être calculé :",
+    "options": [
+      "Avec le temps de rétention : N = 16 TR²/W²",
+      "Avec le volume de rétention : N = 16 VR²/W²",
+      "Avec la distance de rétention : N = 16 dR²/W²",
+      "Avec la largeur à mi-hauteur : N = 5,54 TR²/δ²",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "N peut être calculé en remplaçant le temps de rétention par le volume ou la distance de rétention, ou en utilisant la largeur à mi-hauteur δ avec le coefficient 5,54.",
+    "source": {
+      "page": 14,
+      "extrait": "N peut être calculé aussi en remplaçant le temps de rétention par le volume ou la distance de rétention"
+    },
+    "difficulte": 2,
+    "tags": [
+      "plateaux théoriques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/qcm-027",
+    "type": "multiple",
+    "enonce": "La largeur du pic à mi-hauteur δ :",
+    "options": [
+      "δ = 2,354σ",
+      "Sa mesure est souvent préférable à celle de w",
+      "Le pic chromatographique est souvent plus symétrique à mi-hauteur qu'à sa base",
+      "δ = 4σ",
+      "Le pic est souvent plus symétrique à sa base qu'à mi-hauteur"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "δ = 2,354σ ; sa mesure est souvent préférable à celle de w car le pic est souvent plus symétrique à mi-hauteur qu'à sa base. w = 4σ est la largeur à la base.",
+    "source": {
+      "page": 14,
+      "extrait": "le pic chromatographique est souvent plus symétrique à mi-hauteur qu'à sa base"
+    },
+    "difficulte": 2,
+    "tags": [
+      "largeur à mi-hauteur"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/qcm-028",
+    "type": "unique",
+    "enonce": "Le nombre de plateaux théoriques calculé à partir de la largeur à mi-hauteur δ s'écrit :",
+    "options": [
+      "N = 16 TR²/δ²",
+      "N = 5,54 TR²/δ²",
+      "N = 2,354 TR²/δ²",
+      "N = 4 TR²/δ²",
+      "N = 5,54 δ²/TR²"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "Avec la largeur à mi-hauteur : N = 5,54 TR²/δ².",
+    "source": {
+      "page": 15,
+      "extrait": "TR2 N = 5,54 δ2"
+    },
+    "difficulte": 1,
+    "tags": [
+      "plateaux théoriques"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/qcm-029",
+    "type": "multiple",
+    "enonce": "Le nombre de plateaux théoriques effectifs Neff :",
+    "options": [
+      "Est calculé en remplaçant TR par T'R",
+      "Neff = 16 T'R² / W²",
+      "Neff = 16 TR² / W²",
+      "Est calculé en remplaçant TR par TM",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Neff est calculé en remplaçant TR par le temps réduit T'R : Neff = 16 T'R²/W².",
+    "source": {
+      "page": 15,
+      "extrait": "Nombre de plateaux théoriques effectifs : il est calculé en remplaçant TR par T'R"
+    },
+    "difficulte": 1,
+    "tags": [
+      "plateaux effectifs"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/qcm-030",
+    "type": "multiple",
+    "enonce": "La hauteur équivalente à un plateau théorique (HEPT) :",
+    "options": [
+      "Résulte de l'assimilation d'une colonne de longueur L à une succession de N plateaux théoriques identiques",
+      "h = L / N",
+      "S'exprime généralement en mm",
+      "h = N / L",
+      "S'exprime généralement en secondes"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Une colonne de longueur L assimilée à N plateaux identiques : chaque plateau a une dimension h = L/N, exprimée généralement en mm.",
+    "source": {
+      "page": 15,
+      "extrait": "chaque plateau a une dimension h appelée hauteur équivalente à un plateau théorique. Elle s'exprime généralement en mm"
+    },
+    "difficulte": 1,
+    "tags": [
+      "HEPT"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/qcm-031",
+    "type": "multiple",
+    "enonce": "Efficacité d'une colonne, N et h :",
+    "options": [
+      "N et h expriment l'efficacité de la colonne",
+      "Quand N augmente, h diminue",
+      "Une colonne efficace a un N élevé et un h faible",
+      "Quand N augmente, h augmente",
+      "Une colonne efficace a un h élevé"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "N et h expriment l'efficacité ; quand N augmente, h diminue : la colonne est efficace.",
+    "source": {
+      "page": 15,
+      "extrait": "Quand N augmente h diminue colonne efficace"
+    },
+    "difficulte": 1,
+    "tags": [
+      "HEPT",
+      "efficacité"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/qcm-032",
+    "type": "unique",
+    "enonce": "Une colonne de 300 mm possède 1500 plateaux théoriques. Sa HEPT vaut :",
+    "options": [
+      "5 mm",
+      "0,2 mm",
+      "2 mm",
+      "0,02 mm",
+      "4,5 mm"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "h = L/N = 300/1500 = 0,2 mm.",
+    "source": {
+      "page": 15,
+      "extrait": "L longueur de la colonne h = N nombre total de plateaux"
+    },
+    "difficulte": 1,
+    "tags": [
+      "HEPT",
+      "calcul"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/qcm-033",
+    "type": "unique",
+    "enonce": "Un pic a un temps de rétention de 10 min et une largeur à la base de 1 min. Le nombre de plateaux théoriques est :",
+    "options": [
+      "100",
+      "160",
+      "554",
+      "1600",
+      "16000"
+    ],
+    "correctes": [
+      3
+    ],
+    "explication": "N = 16 TR²/w² = 16 × 100/1 = 1600.",
+    "source": {
+      "page": 14,
+      "extrait": "TR2 N = 16 sachant que w = 4σ"
+    },
+    "difficulte": 2,
+    "tags": [
+      "plateaux théoriques",
+      "calcul"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/qcm-034",
+    "type": "multiple",
+    "enonce": "La résolution R :",
+    "options": [
+      "Mesure la séparation de deux pics voisins",
+      "Dépend du temps de rétention des deux pics",
+      "Dépend de la largeur moyenne des pics (WA + WB)/2",
+      "Mesure l'aptitude d'une colonne à donner des pics fins pour un seul composé",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "La résolution mesure la séparation de deux pics voisins et dépend des temps de rétention des deux pics et de leur largeur moyenne. L'aptitude à donner des pics fins est l'efficacité.",
+    "source": {
+      "page": 15,
+      "extrait": "La Résolution R = elle mesure la séparation de deux pics voisins"
+    },
+    "difficulte": 1,
+    "tags": [
+      "résolution"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/qcm-035",
+    "type": "unique",
+    "enonce": "La résolution entre deux pics A et B s'écrit :",
+    "options": [
+      "R = 2 (TRB − TRA) / (WA + WB)",
+      "R = (TRB − TRA) / 2 (WA + WB)",
+      "R = 2 (WA + WB) / (TRB − TRA)",
+      "R = (TRB + TRA) / (WA + WB)",
+      "R = T'RB / T'RA"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "R(A,B) = 2 (TRB − TRA)/(WA + WB). T'RB/T'RA est le facteur de sélectivité α.",
+    "source": {
+      "page": 16,
+      "extrait": "(TRB - TRA) R(A.B) = 2 plus la valeur de R est élevée"
+    },
+    "difficulte": 2,
+    "tags": [
+      "résolution"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/qcm-036",
+    "type": "multiple",
+    "enonce": "Concernant la valeur de la résolution :",
+    "options": [
+      "Plus R est élevée, plus la séparation est bonne",
+      "La valeur optimale est R = 1,5",
+      "Plus R est élevée, moins la séparation est bonne",
+      "La valeur optimale est R = 0,75",
+      "La valeur optimale est R = 1"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Plus R est élevée, plus la séparation est bonne ; la valeur optimale est R = 1,5.",
+    "source": {
+      "page": 16,
+      "extrait": "plus la valeur de R est élevée, plus la séparation est bonne. Valeur optimale R = 1,5"
+    },
+    "difficulte": 1,
+    "tags": [
+      "résolution"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/qcm-037",
+    "type": "multiple",
+    "enonce": "D'après les illustrations du cours sur la résolution :",
+    "options": [
+      "R = 0,75 correspond à une mauvaise séparation",
+      "R = 1 correspond à une séparation suffisante",
+      "R = 1,5 correspond à une bonne séparation",
+      "R = 1 correspond à une bonne séparation",
+      "R = 1,5 correspond à une mauvaise séparation"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Le cours illustre : R = 0,75 mauvaise séparation ; R = 1 séparation suffisante ; R = 1,5 bonne séparation.",
+    "source": {
+      "page": 16,
+      "extrait": "Mauvaise séparation Séparation suffisante Bonne séparation"
+    },
+    "difficulte": 2,
+    "tags": [
+      "résolution"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/qcm-038",
+    "type": "unique",
+    "enonce": "Deux pics ont des temps de rétention de 8 min (A) et 10 min (B), et des largeurs à la base de 1 min chacun. La résolution vaut :",
+    "options": [
+      "1",
+      "1,5",
+      "2",
+      "4",
+      "0,5"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "R = 2 (10 − 8)/(1 + 1) = 4/2 = 2 : séparation supérieure à la valeur optimale 1,5.",
+    "source": {
+      "page": 16,
+      "extrait": "plus la valeur de R est élevée, plus la séparation est bonne"
+    },
+    "difficulte": 2,
+    "tags": [
+      "résolution",
+      "calcul"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/qcm-039",
+    "type": "multiple",
+    "enonce": "Le facteur de sélectivité α :",
+    "options": [
+      "Est aussi appelé temps de rétention relatif",
+      "Décrit la position l'un par rapport à l'autre de deux pics adjacents",
+      "Dépend de l'interaction des composés avec la phase stationnaire",
+      "Dépend du temps que les composés séjournent dans la phase stationnaire",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "α (temps de rétention relatif) décrit la position relative de deux pics adjacents ; il dépend de l'interaction des composés avec la phase stationnaire et donc de leur temps de séjour dans cette phase.",
+    "source": {
+      "page": 16,
+      "extrait": "il dépend de l'interaction des composés avec la phase stationnaire et donc du temps que les composés séjournent dans cette phase"
+    },
+    "difficulte": 1,
+    "tags": [
+      "sélectivité"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/qcm-040",
+    "type": "multiple",
+    "enonce": "Expressions du facteur de sélectivité α :",
+    "options": [
+      "α = T'RB / T'RA",
+      "α = d'RB / d'RA",
+      "α = V'RB / V'RA",
+      "α = K'B / K'A",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "α est le rapport des temps, distances ou volumes de rétention réduits ; il peut aussi s'exprimer en fonction des facteurs de rétention : α = K'B/K'A.",
+    "source": {
+      "page": 17,
+      "extrait": "on peut exprimer aussi α en fonction des facteurs de rétention"
+    },
+    "difficulte": 2,
+    "tags": [
+      "sélectivité"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/qcm-041",
+    "type": "multiple",
+    "enonce": "Concernant la valeur de α :",
+    "options": [
+      "Si α = 1, il n'y a pas de séparation",
+      "α doit être supérieur à 1",
+      "α doit être inférieur à 1",
+      "Si α = 1, la séparation est optimale",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Si α = 1, pas de séparation ; α doit être supérieur à 1.",
+    "source": {
+      "page": 17,
+      "extrait": "α doit être supérieur à 1"
+    },
+    "difficulte": 1,
+    "tags": [
+      "sélectivité"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/qcm-042",
+    "type": "unique",
+    "enonce": "Deux composés A et B ont des facteurs de rétention K'A = 4 et K'B = 5. Le facteur de sélectivité α vaut :",
+    "options": [
+      "0,8",
+      "1",
+      "1,25",
+      "9",
+      "20"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "α = K'B/K'A = 5/4 = 1,25 (supérieur à 1, séparation possible).",
+    "source": {
+      "page": 17,
+      "extrait": "on peut exprimer aussi α en fonction des facteurs de rétention K'B α = K'A"
+    },
+    "difficulte": 2,
+    "tags": [
+      "sélectivité",
+      "calcul"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/qcm-043",
+    "type": "unique",
+    "enonce": "Dans l'exemple de chromatogramme du cours, k1 = 3,08 et k2 = 4. Le facteur de sélectivité vaut :",
+    "options": [
+      "0,77",
+      "1,3",
+      "7,08",
+      "12,3",
+      "0,92"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "α = t'R2/t'R1 = k2/k1 = 4/3,08 ≈ 1,3, valeur indiquée dans le cours.",
+    "source": {
+      "page": 13,
+      "extrait": "k1= 3,08 k2 = 4 α = 1,3"
+    },
+    "difficulte": 2,
+    "tags": [
+      "sélectivité",
+      "calcul"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/qcm-044",
+    "type": "multiple",
+    "enonce": "La formule de Purnell :",
+    "options": [
+      "Est une autre formule de la résolution",
+      "Postule que le nombre de plateaux N est identique pour les composés A et B en raison de leur proximité",
+      "Exprime w en fonction de N et des temps de rétention",
+      "Tient compte de la formule de α",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "La formule de Purnell est une autre expression de R obtenue en postulant N identique pour A et B (proximité), en exprimant w en fonction de N et des temps de rétention et en tenant compte de α.",
+    "source": {
+      "page": 17,
+      "extrait": "En postulant que le nombre de plateaux N est identique pour les composés A et B en raison de leur proximité"
+    },
+    "difficulte": 2,
+    "tags": [
+      "Purnell",
+      "résolution"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/qcm-045",
+    "type": "unique",
+    "enonce": "La formule de Purnell s'écrit :",
+    "options": [
+      "R = (√NB / 4) · ((α − 1)/α) · (K'B/(1 + K'B))",
+      "R = (√NB / 4) · (α/(α − 1)) · (K'B/(1 + K'B))",
+      "R = (NB / 4) · ((α − 1)/α) · ((1 + K'B)/K'B)",
+      "R = (√NB / 16) · ((α − 1)/α) · (K'B/(1 + K'B))",
+      "R = 4 √NB · (α − 1) · K'B"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "R(AB) = (√NB/4) × ((α − 1)/α) × (K'B/(1 + K'B)) : terme d'efficacité, de sélectivité et de rétention.",
+    "source": {
+      "page": 17,
+      "extrait": "√NB α – 1 K'B R(AB) = 4 α 1 + K'B"
+    },
+    "difficulte": 3,
+    "tags": [
+      "Purnell"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/qcm-046",
+    "type": "multiple",
+    "enonce": "Dans la formule de Purnell :",
+    "options": [
+      "NB est le nombre de plateaux théoriques relatif au composé le plus retenu",
+      "K'B est le facteur de rétention de la colonne vis-à-vis du composé B",
+      "Le terme √NB/4 traduit l'efficacité",
+      "Le terme (α − 1)/α traduit la sélectivité",
+      "Le terme K'B/(1 + K'B) traduit la sélectivité"
+    ],
+    "correctes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explication": "√NB/4 : efficacité ; (α − 1)/α : sélectivité ; K'B/(1 + K'B) : rétention (et non sélectivité). NB et K'B se rapportent au composé B, le plus retenu.",
+    "source": {
+      "page": 17,
+      "extrait": "NB : le nombre de plateaux théorique relatif au composé le plus retenu (composé B)"
+    },
+    "difficulte": 3,
+    "tags": [
+      "Purnell"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/qcm-047",
+    "type": "multiple",
+    "enonce": "Intérêt de la formule de Purnell :",
+    "options": [
+      "Mise en évidence des facteurs qui interviennent sur la résolution",
+      "Ces facteurs sont l'efficacité N, le facteur de rétention K' et la sélectivité α",
+      "Permet une action possible pour l'optimisation de la séparation",
+      "Permet de calculer le temps mort",
+      "Ces facteurs sont la température, la pression et le débit"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "La formule de Purnell met en évidence les facteurs de la résolution (N, K', α) et permet d'agir pour optimiser la séparation.",
+    "source": {
+      "page": 18,
+      "extrait": "Mise en évidence des facteurs qui interviennent sur la résolution"
+    },
+    "difficulte": 2,
+    "tags": [
+      "Purnell"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/qcm-048",
+    "type": "multiple",
+    "enonce": "Imperfections de la théorie des plateaux :",
+    "options": [
+      "Elle assimile la chromatographie à une suite discontinue d'opérations",
+      "Elle suppose que chaque équilibre se réalise entièrement",
+      "Elle ne tient pas compte des phénomènes de diffusion",
+      "Elle ne tient pas compte de l'écoulement continu de la phase mobile",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "La théorie des plateaux assimile la chromatographie à une suite discontinue d'opérations, suppose des équilibres complets et ignore diffusion et écoulement continu ; elle ne rend pas compte de l'élargissement des pics selon le débit.",
+    "source": {
+      "page": 18,
+      "extrait": "elle assimile la chromatographie à une suite discontinue d'opérations et suppose que chaque équilibre se réalise entièrement"
+    },
+    "difficulte": 2,
+    "tags": [
+      "théorie des plateaux"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/qcm-049",
+    "type": "multiple",
+    "enonce": "La théorie cinétique :",
+    "options": [
+      "Est due à GIDDING",
+      "Lie H à la vitesse d'écoulement de la phase mobile",
+      "Prend en considération l'aspect dynamique de la phase mobile",
+      "Prend en compte l'influence de la température et de la pression",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "La théorie cinétique (GIDDING) lie H à la vitesse d'écoulement de la phase mobile et prend en compte l'aspect dynamique de la phase mobile ainsi que la température et la pression.",
+    "source": {
+      "page": 18,
+      "extrait": "La théorie cinétique due à GIDDING lie H( hauteur équivalente à un plateau théorique)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "théorie cinétique"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/qcm-050",
+    "type": "multiple",
+    "enonce": "L'équation de Van Deemter :",
+    "options": [
+      "A été initialement appliquée à la chromatographie en phase gazeuse",
+      "Peut être appliquée par extension à la chromatographie liquide",
+      "A été proposée en 1956 pour les colonnes remplies en CPG",
+      "Ne s'applique qu'à la chromatographie liquide",
+      "A été proposée pour les colonnes capillaires en chromatographie liquide"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Proposée en 1956 pour les colonnes remplies en CPG, l'équation de Van Deemter peut être appliquée par extension à la chromatographie liquide.",
+    "source": {
+      "page": 18,
+      "extrait": "bien qu'initialement appliquée à la chromatographie en phase gazeuse (CG) peut être également, par extension, appliquée à la chromatographie liquide"
+    },
+    "difficulte": 1,
+    "tags": [
+      "Van Deemter"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/qcm-051",
+    "type": "unique",
+    "enonce": "L'équation de Van Deemter s'écrit :",
+    "options": [
+      "H = A + B/u + C·u",
+      "H = A + B·u + C/u",
+      "H = A·u + B/u + C",
+      "H = A − B/u + C·u",
+      "H = L/N + C·u"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "H = A + (B/u) + (C·u), u étant la vitesse linéaire moyenne de la phase mobile.",
+    "source": {
+      "page": 19,
+      "extrait": "H = A + ( B/u ) + ( C.u )"
+    },
+    "difficulte": 1,
+    "tags": [
+      "Van Deemter"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/qcm-052",
+    "type": "multiple",
+    "enonce": "Dans l'équation de Van Deemter :",
+    "options": [
+      "H est la HEPT",
+      "u est la vitesse linéaire moyenne de la phase mobile",
+      "A, B et C représentent différents phénomènes aléatoires responsables de l'élargissement des pics",
+      "Le terme C traduit la résistance au transfert de masse",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "H = HEPT ; u = vitesse linéaire moyenne de la phase mobile ; A, B, C : phénomènes aléatoires responsables de l'élargissement des pics, C correspondant à la résistance au transfert de masse.",
+    "source": {
+      "page": 19,
+      "extrait": "C'est une équation mathématique qui relie"
+    },
+    "difficulte": 2,
+    "tags": [
+      "Van Deemter"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/qcm-053",
+    "type": "multiple",
+    "enonce": "Le terme A de l'équation de Van Deemter :",
+    "options": [
+      "Est appelé diffusion turbulente",
+      "Est appelé anisotropie d'écoulement",
+      "Est dû à l'écoulement irrégulier de la phase mobile à travers la phase stationnaire",
+      "Est lié à la multiplicité des chemins",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Terme A : diffusion turbulente ou anisotropie d'écoulement, due à l'écoulement irrégulier de la phase mobile lié à la multiplicité des chemins.",
+    "source": {
+      "page": 19,
+      "extrait": "Terme A : “diffusion turbulente” ou “anisotropie d’écoulement”"
+    },
+    "difficulte": 1,
+    "tags": [
+      "Van Deemter",
+      "terme A"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/qcm-054",
+    "type": "multiple",
+    "enonce": "Concernant le terme A (diffusion turbulente) :",
+    "options": [
+      "Il croît avec le diamètre des particules",
+      "Il dépend des caractéristiques des particules",
+      "Les vitesses d'écoulement sont d'autant plus proches de la théorie que la colonne est plus régulièrement remplie",
+      "Il décroît avec le diamètre des particules",
+      "Il ne dépend que du débit de la phase mobile"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Le terme A ne dépend pas seulement du débit mais aussi des caractéristiques des particules et croît avec leur diamètre ; une colonne régulièrement remplie avec des particules homogènes rapproche les vitesses de la théorie.",
+    "source": {
+      "page": 19,
+      "extrait": "Le terme A ne dépend pas seulement du débit de la phase mobile, mais également des caractéristiques des particules et croit avec leur diamètre"
+    },
+    "difficulte": 2,
+    "tags": [
+      "terme A"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/qcm-055",
+    "type": "multiple",
+    "enonce": "D'après la figure 7 du cours (trajet de deux molécules pendant l'élution) :",
+    "options": [
+      "La distance parcourue par la molécule 2 est supérieure à celle de la molécule 1",
+      "La molécule 2 arrivera en B après la molécule 1",
+      "Les trajets suivis par la phase mobile à travers la colonne sont nombreux et de longueurs différentes",
+      "Des volumes morts de solvant contribuent à l'augmentation de H",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "La figure 7 illustre la diffusion turbulente : trajets nombreux et de longueurs différentes, la molécule 2 (trajet plus long) arrive après la molécule 1 ; les volumes morts augmentent H.",
+    "source": {
+      "page": 19,
+      "extrait": "Des volumes morts de solvant contribuent à l'augmentation de H."
+    },
+    "difficulte": 2,
+    "tags": [
+      "terme A"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/qcm-056",
+    "type": "multiple",
+    "enonce": "Expression du terme A :",
+    "options": [
+      "A = 2 · dp · λ",
+      "dp est le diamètre des particules constituant la phase stationnaire",
+      "λ est un paramètre qui tient compte des irrégularités du remplissage de la colonne",
+      "A = 2 · γ · DM",
+      "λ est le coefficient de diffusion moléculaire du soluté"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "A = 2·dp·λ, avec dp le diamètre des particules de la phase stationnaire et λ un paramètre d'irrégularité du remplissage. 2·γ·DM est l'expression de B.",
+    "source": {
+      "page": 20,
+      "extrait": "λ : paramètre qui tient compte des irrégularités du remplissage de la colonne"
+    },
+    "difficulte": 2,
+    "tags": [
+      "terme A"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/qcm-057",
+    "type": "multiple",
+    "enonce": "Le terme B de l'équation de Van Deemter :",
+    "options": [
+      "Exprime la diffusion moléculaire longitudinale",
+      "Rend compte de la diffusion des molécules dans la direction de l'écoulement de la phase mobile",
+      "Est d'autant plus important que la vitesse de passage du fluide est plus faible",
+      "Est d'autant plus important que la vitesse de passage du fluide est plus élevée",
+      "Exprime la résistance au transfert de masse"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "B : diffusion moléculaire longitudinale dans la direction de l'écoulement ; d'autant plus importante que la vitesse est faible (terme B/u). La résistance au transfert de masse est le terme C.",
+    "source": {
+      "page": 20,
+      "extrait": "il est d'autant plus important que la vitesse de passage du fluide est plus faible"
+    },
+    "difficulte": 2,
+    "tags": [
+      "terme B"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/qcm-058",
+    "type": "multiple",
+    "enonce": "Expression du terme B :",
+    "options": [
+      "B = 2 · γ · DM",
+      "DM est le coefficient de diffusion moléculaire du soluté dans la phase mobile",
+      "γ est le facteur de tortuosité ou d'obstruction",
+      "γ représente l'influence de la colonne (granulométrie des particules, régularité du remplissage)",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "B = 2·γ·DM ; DM coefficient de diffusion moléculaire du soluté dans la phase mobile ; γ facteur de tortuosité (ou d'obstruction) traduisant l'influence de la colonne.",
+    "source": {
+      "page": 21,
+      "extrait": "γ : « facteur de tortuosité » ou « d'obstruction représente l'influence de la colonne"
+    },
+    "difficulte": 2,
+    "tags": [
+      "terme B"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/qcm-059",
+    "type": "unique",
+    "enonce": "Le terme de l'équation de Van Deemter qui devient prépondérant lorsque la vitesse de la phase mobile est faible est :",
+    "options": [
+      "A",
+      "B/u",
+      "C·u",
+      "Cs·u",
+      "Aucun, H est indépendant de u"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "La diffusion longitudinale est d'autant plus importante que la vitesse est faible, comme le montre le terme B/u.",
+    "source": {
+      "page": 20,
+      "extrait": "comme le montre le terme B/U (équation de Van Deemter)"
+    },
+    "difficulte": 2,
+    "tags": [
+      "terme B"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/qcm-060",
+    "type": "multiple",
+    "enonce": "Le terme C (résistance au transfert de masse) :",
+    "options": [
+      "Représente les inégalités de passage des molécules d'une phase à l'autre",
+      "Ses phénomènes s'exercent à tout moment au cours de la chromatographie",
+      "Intervient lors de la fixation et de l'élution",
+      "Représente la diffusion des molécules dans la direction de l'écoulement",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "La résistance au transfert de masse représente les inégalités de passage d'une phase à l'autre, à tout moment (fixation ou élution). La diffusion dans la direction de l'écoulement est le terme B.",
+    "source": {
+      "page": 21,
+      "extrait": "La résistance au transfert de masse représente les inégalités de passage des molécules d'une phase à l'autre"
+    },
+    "difficulte": 2,
+    "tags": [
+      "terme C"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/qcm-061",
+    "type": "multiple",
+    "enonce": "Origines de la résistance au transfert de masse :",
+    "options": [
+      "Dans la phase mobile, les molécules du milieu du flux progressent plus vite que celles se trouvant à l'extérieur",
+      "Le contact phase mobile–phase stationnaire ne s'effectue pas partout de manière identique",
+      "Dans une phase stationnaire liquide, les molécules fixées sont situées à des distances différentes de la phase mobile",
+      "Le temps de séjour dans la phase stationnaire est fonction du chemin à parcourir",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le cours cite : vitesses différentes dans le flux de phase mobile, contact non uniforme (anfractuosités du support), distances différentes dans la phase stationnaire liquide, d'où un temps de séjour fonction du chemin à parcourir.",
+    "source": {
+      "page": 21,
+      "extrait": "Le temps de séjour dans la phase stationnaire est donc fonction du chemin à parcourir"
+    },
+    "difficulte": 2,
+    "tags": [
+      "terme C"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/qcm-062",
+    "type": "multiple",
+    "enonce": "Le terme de transfert de masse dans la phase mobile Cm :",
+    "options": [
+      "Est proportionnel à dp²/DM",
+      "dp est le diamètre des particules de remplissage",
+      "DM est le coefficient de diffusion du soluté dans la phase mobile",
+      "Est proportionnel à df²/DS",
+      "Est proportionnel à DM/dp²"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Cm ∝ dp²/DM (dp diamètre des particules, DM coefficient de diffusion dans la phase mobile). df²/DS concerne Cs.",
+    "source": {
+      "page": 21,
+      "extrait": "Cm, terme de transfert de masse dans la phase mobile; il est proportionnel a dp2/DM"
+    },
+    "difficulte": 2,
+    "tags": [
+      "terme C"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/qcm-063",
+    "type": "multiple",
+    "enonce": "Le terme de transfert de masse dans la phase stationnaire Cs :",
+    "options": [
+      "Est proportionnel à df²/DS",
+      "df est l'épaisseur moyenne de la couche de phase stationnaire déposée sur les particules du support",
+      "DS est le coefficient de diffusion du soluté dans la phase stationnaire",
+      "Est proportionnel à dp²/DM",
+      "df est le diamètre des particules de remplissage"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Cs ∝ df²/DS, df épaisseur moyenne de la phase stationnaire, DS coefficient de diffusion dans la phase stationnaire. dp²/DM concerne Cm.",
+    "source": {
+      "page": 21,
+      "extrait": "CS : terme de transfert de masse dans la phase stationnaire; il est proportionnel a df2/ DS"
+    },
+    "difficulte": 2,
+    "tags": [
+      "terme C"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/qcm-064",
+    "type": "multiple",
+    "enonce": "Le terme C se décompose ainsi :",
+    "options": [
+      "C = Cm + Cs",
+      "Cm : transfert de masse en phase mobile",
+      "Cs : transfert de masse en phase stationnaire",
+      "H = A + B/u + (Cs + CM)·u",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "C = Cm (phase mobile) + Cs (phase stationnaire), d'où H = A + B/u + (Cs + CM)·u.",
+    "source": {
+      "page": 21,
+      "extrait": "Cm, terme de transfert de masse dans la phase mobile"
+    },
+    "difficulte": 2,
+    "tags": [
+      "terme C"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/qcm-065",
+    "type": "multiple",
+    "enonce": "Pour atténuer les résistances au transfert de masse, il faut :",
+    "options": [
+      "Réduire le diamètre des particules",
+      "Réduire l'épaisseur de la phase stationnaire",
+      "Utiliser une colonne régulièrement remplie et bien tassée",
+      "Augmenter le diamètre des particules",
+      "Augmenter l'épaisseur de la phase stationnaire"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Il faut diminuer les distances à parcourir dans chaque phase : réduire le diamètre des particules et l'épaisseur de la phase stationnaire, utiliser une colonne régulièrement remplie et bien tassée.",
+    "source": {
+      "page": 22,
+      "extrait": "en réduisant le diamètre des particules, l'épaisseur de la phase stationnaire"
+    },
+    "difficulte": 2,
+    "tags": [
+      "terme C",
+      "optimisation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/qcm-066",
+    "type": "multiple",
+    "enonce": "Les retards aux établissements d'équilibre (terme C) :",
+    "options": [
+      "Sont d'autant plus accentués que le débit de la phase mobile est plus rapide",
+      "Sont d'autant plus accentués que le débit de la phase mobile est plus lent",
+      "Sont indépendants du débit",
+      "Sont supprimés par l'augmentation du diamètre des particules",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0
+    ],
+    "explication": "Ces phénomènes entraînent des retards d'autant plus accentués que le débit de la phase mobile est plus rapide (terme C·u).",
+    "source": {
+      "page": 22,
+      "extrait": "Tous ces phénomènes entraînent des retards aux établissements d'équilibre d'autant plus accentués que le débit de la phase mobile est plus rapide"
+    },
+    "difficulte": 2,
+    "tags": [
+      "terme C"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/qcm-067",
+    "type": "multiple",
+    "enonce": "Les coefficients A, B et C :",
+    "options": [
+      "Sont reliés à divers paramètres physico-chimiques",
+      "Sont reliés à la colonne",
+      "Sont reliés aux conditions opératoires",
+      "Sont obtenus en pratique par plusieurs mesures d'efficacité d'un même composé à des débits différents",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "A, B et C sont reliés aux paramètres physico-chimiques, à la colonne et aux conditions opératoires ; on les obtient par plusieurs mesures d'efficacité à des débits différents.",
+    "source": {
+      "page": 22,
+      "extrait": "en faisant plusieurs mesures d'efficacité pour un même composé chromatographié à des débits différents"
+    },
+    "difficulte": 2,
+    "tags": [
+      "Van Deemter"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/qcm-068",
+    "type": "multiple",
+    "enonce": "La courbe de Van Deemter H = f(u) :",
+    "options": [
+      "Est une hyperbole",
+      "Passe par une valeur minimale de H",
+      "Le minimum correspond à l'annulation de la dérivée première",
+      "Est une droite",
+      "Passe par une valeur maximale de H"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "La courbe de Van Deemter est une hyperbole qui passe par un minimum, obtenu en annulant la dérivée première.",
+    "source": {
+      "page": 23,
+      "extrait": "La courbe représentant l'équation de Van Deemter est une hyperbole"
+    },
+    "difficulte": 1,
+    "tags": [
+      "Van Deemter",
+      "courbe"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/qcm-069",
+    "type": "multiple",
+    "enonce": "L'asymptote de la courbe de Van Deemter :",
+    "options": [
+      "A pour équation H = A + C·u",
+      "A pour ordonnée à l'origine A",
+      "A pour pente C",
+      "A pour pente B",
+      "A pour équation H = A + B/u"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "L'asymptote a pour équation H = A + C·u : ordonnée à l'origine A, pente C.",
+    "source": {
+      "page": 23,
+      "extrait": "L'asymptote de la courbe a pour équation H = A + CU, pour ordonnée à l'origine A et pour pente C"
+    },
+    "difficulte": 2,
+    "tags": [
+      "Van Deemter",
+      "courbe"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/qcm-070",
+    "type": "multiple",
+    "enonce": "Vitesse optimale et hauteur minimale :",
+    "options": [
+      "u optimale = √(B/C)",
+      "H min = A + 2√(BC)",
+      "u optimale = √(C/B)",
+      "H min = A + √(B/C)",
+      "La dérivée première vaut f'(u) = −B/u² + C"
+    ],
+    "correctes": [
+      0,
+      1,
+      4
+    ],
+    "explication": "f'(u) = −B/u² + C s'annule pour u opt = √(B/C) ; en remplaçant dans l'équation, H min = A + 2√(BC).",
+    "source": {
+      "page": 23,
+      "extrait": "En remplaçant U optimale dans l'équation de Van Deemter on obtient Hmin"
+    },
+    "difficulte": 3,
+    "tags": [
+      "Van Deemter",
+      "vitesse optimale"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/qcm-071",
+    "type": "multiple",
+    "enonce": "Si u est exprimée en cm/s et H en cm :",
+    "options": [
+      "A s'exprime en cm",
+      "B s'exprime en cm²/s",
+      "C s'exprime en s",
+      "C s'exprime en cm/s",
+      "B s'exprime en cm"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Avec u en cm/s et H en cm : A en cm, B en cm²/s, C en s.",
+    "source": {
+      "page": 23,
+      "extrait": "Si on exprime U en cm/sec et H en cm donc on exprime : A en cm, B en cm2/sec et C en sec"
+    },
+    "difficulte": 2,
+    "tags": [
+      "Van Deemter",
+      "unités"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/qcm-072",
+    "type": "unique",
+    "enonce": "Avec B = 0,4 cm²/s et C = 0,01 s, la vitesse optimale de la phase mobile vaut environ :",
+    "options": [
+      "0,16 cm/s",
+      "6,32 cm/s",
+      "40 cm/s",
+      "0,063 cm/s",
+      "0,004 cm/s"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "u opt = √(B/C) = √(0,4/0,01) = √40 ≈ 6,32 cm/s.",
+    "source": {
+      "page": 23,
+      "extrait": "u = uoptimale = → hmin = A +"
+    },
+    "difficulte": 3,
+    "tags": [
+      "vitesse optimale",
+      "calcul"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/qcm-073",
+    "type": "multiple",
+    "enonce": "Conclusion sur la courbe de Van Deemter :",
+    "options": [
+      "La HEPT dépend de la vitesse linéaire",
+      "À u optimale correspond h minimale",
+      "À h minimale correspond N maximal",
+      "u optimale donne une meilleure efficacité",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "La HEPT dépend de la vitesse linéaire ; u optimale → h minimale → N maximal → meilleure efficacité.",
+    "source": {
+      "page": 24,
+      "extrait": "Pour u optimale correspond h minimale Donc N maximale et une meilleure efficacité"
+    },
+    "difficulte": 1,
+    "tags": [
+      "Van Deemter",
+      "efficacité"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/qcm-074",
+    "type": "multiple",
+    "enonce": "Parmi les paramètres suivants, lesquels sont classés dans le cours parmi les « paramètres caractérisant la séparation » ?",
+    "options": [
+      "L'efficacité (N)",
+      "La résolution R",
+      "Le facteur de sélectivité α",
+      "Le temps mort tM",
+      "Le volume de rétention VR"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "Les paramètres caractérisant la séparation sont l'efficacité (N, Neff, HEPT), la résolution et la sélectivité α. tM et VR sont des grandeurs de rétention.",
+    "source": {
+      "page": 14,
+      "extrait": "c) paramètres caractérisant la séparation"
+    },
+    "difficulte": 2,
+    "tags": [
+      "paramètres de séparation"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/qcm-075",
+    "type": "multiple",
+    "enonce": "Grandeurs de rétention :",
+    "options": [
+      "Le temps de rétention TR",
+      "Le temps mort tM",
+      "Le volume de rétention VR",
+      "Le facteur de rétention K'",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Le cours range parmi les grandeurs de rétention TR, tM, T'R, VR, VM, V'R et K'.",
+    "source": {
+      "page": 12,
+      "extrait": "b) grandeurs de rétention"
+    },
+    "difficulte": 1,
+    "tags": [
+      "grandeurs de rétention"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/qcm-076",
+    "type": "unique",
+    "enonce": "Une colonne a une HEPT de 0,05 mm pour une longueur de 250 mm. Son nombre de plateaux théoriques est :",
+    "options": [
+      "500",
+      "5000",
+      "12,5",
+      "1250",
+      "50000"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "h = L/N donc N = L/h = 250/0,05 = 5000.",
+    "source": {
+      "page": 15,
+      "extrait": "Le nombre de plateaux théoriques N et la hauteur h expriment l'efficacité de la colonne"
+    },
+    "difficulte": 2,
+    "tags": [
+      "HEPT",
+      "calcul"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/qcm-077",
+    "type": "unique",
+    "enonce": "Avec NB = 1600, α = 1,25 et K'B = 4, la formule de Purnell donne une résolution de :",
+    "options": [
+      "0,8",
+      "1,6",
+      "2",
+      "3,2",
+      "6,4"
+    ],
+    "correctes": [
+      1
+    ],
+    "explication": "R = (√1600/4) × (0,25/1,25) × (4/5) = 10 × 0,2 × 0,8 = 1,6.",
+    "source": {
+      "page": 17,
+      "extrait": "√NB α – 1 K'B R(AB) = 4 α 1 + K'B"
+    },
+    "difficulte": 3,
+    "tags": [
+      "Purnell",
+      "calcul"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/qcm-078",
+    "type": "multiple",
+    "enonce": "Comparaison des termes de l'équation de Van Deemter :",
+    "options": [
+      "Le terme A fait intervenir le diamètre des particules dp",
+      "Le terme B fait intervenir le coefficient de diffusion DM",
+      "Le terme Cm fait intervenir dp² et DM",
+      "Le terme Cs fait intervenir df² et DS",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "A = 2·dp·λ ; B = 2·γ·DM ; Cm ∝ dp²/DM ; Cs ∝ df²/DS.",
+    "source": {
+      "page": 21,
+      "extrait": "il est proportionnel a df2/ DS df = épaisseur moyen de la couche de Phase Stationnaire"
+    },
+    "difficulte": 3,
+    "tags": [
+      "Van Deemter"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/qcm-079",
+    "type": "multiple",
+    "enonce": "Le temps mort se manifeste par un signal ou un pic :",
+    "options": [
+      "Qui est souvent considéré en pratique comme le point de départ de la mesure du temps de rétention corrigé",
+      "Appelé pic solvant",
+      "Correspondant à une substance fortement retenue",
+      "Toujours absent du chromatogramme",
+      "Aucune réponse n'est juste"
+    ],
+    "correctes": [
+      0,
+      1
+    ],
+    "explication": "Le temps mort se manifeste par un pic (pic solvant) qui sert souvent de point de départ pour mesurer le temps de rétention corrigé ; il correspond à une substance non retenue.",
+    "source": {
+      "page": 13,
+      "extrait": "c'est le pic solvant"
+    },
+    "difficulte": 1,
+    "tags": [
+      "temps mort"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/qcm-080",
+    "type": "unique",
+    "enonce": "Le débit de la phase mobile est de 1,5 mL/min et le temps de rétention d'un composé de 8 min. Son volume de rétention vaut :",
+    "options": [
+      "5,33 mL",
+      "9,5 mL",
+      "12 mL",
+      "0,19 mL",
+      "6,5 mL"
+    ],
+    "correctes": [
+      2
+    ],
+    "explication": "VR = TR · D = 8 × 1,5 = 12 mL.",
+    "source": {
+      "page": 13,
+      "extrait": "Si le débit D de la phase mobile est stationnaire VR = TR . D"
+    },
+    "difficulte": 1,
+    "tags": [
+      "volume de rétention",
+      "calcul"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/qcm-081",
+    "type": "multiple",
+    "enonce": "Une colonne est d'autant plus efficace que :",
+    "options": [
+      "Le nombre de plateaux théoriques N est élevé",
+      "La HEPT est faible",
+      "Les pics sont fins",
+      "La vitesse de la phase mobile est proche de la vitesse optimale",
+      "Toutes les propositions sont correctes"
+    ],
+    "correctes": [
+      4
+    ],
+    "explication": "Efficacité = pics fins = N élevé et h faible ; à u optimale correspond h minimale donc N maximal et meilleure efficacité.",
+    "source": {
+      "page": 24,
+      "extrait": "La H.E.P.T dépend de la vitesse linéaire"
+    },
+    "difficulte": 2,
+    "tags": [
+      "efficacité",
+      "synthèse"
+    ],
+    "origine": "genere"
+  },
+  {
+    "id": "chimie-analytique/07-chromatographie-partie-2/qcm-082",
+    "type": "multiple",
+    "enonce": "Facteurs de la formule de Purnell sur lesquels on peut agir pour améliorer la résolution :",
+    "options": [
+      "Augmenter le nombre de plateaux N",
+      "Augmenter la sélectivité α",
+      "Agir sur le facteur de rétention K'",
+      "Rendre α égal à 1",
+      "Diminuer le nombre de plateaux N"
+    ],
+    "correctes": [
+      0,
+      1,
+      2
+    ],
+    "explication": "R croît avec √N, avec (α − 1)/α et avec K'/(1 + K') : on agit sur l'efficacité, la sélectivité et la rétention. Avec α = 1, (α − 1) = 0 : pas de séparation.",
+    "source": {
+      "page": 18,
+      "extrait": "Action possible ↔ optimisation de la séparation"
+    },
+    "difficulte": 3,
+    "tags": [
+      "Purnell",
+      "optimisation"
+    ],
+    "origine": "genere"
+  }
+]
